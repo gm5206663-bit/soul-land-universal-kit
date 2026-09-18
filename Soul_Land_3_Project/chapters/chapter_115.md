@@ -120,8 +120,8 @@ By the time she reached the courtyards the four smiths were coming down the four
 - **Feng Wuyu (canon Saint Blacksmith president):** meets the two prodigies; co-strikes the seam; opens his anvil to Lin Hao purely on fifth-rank craft that hits sixth-rank work — NO soul note; he is a craft patron, not a witness to a secret tier.
 - **He Qiao:** engineers the four-flight meeting; his "wants a sixth-rank hand" want is answered by Feng's hand on the Saint parts.
 - **Ye Xinglan:** dawn spar as a Consciousness peer a few years' depth behind; steals distance, lands her first touch, sets herself a forty-day goal — NO Soul-rung teaching.
-- **Gu Yue:** rank **31 (AU)** · Spirit Pagoda report (canon 304); the six-element file and the offer-probe she shuts down ("he stays with his own") — her tile reads her OWN six elements, not a foreign cold; receiver law intact (no confession; no sword-soul weather).
-- **Tang Wulin:** present at the Saint meeting; spirit-refining at 13 known; the anvil shared.
+- **Gu Yue (rank & rings — the ensemble block below):** Spirit Pagoda report (canon 304); the six-element file and the offer-probe she shuts down ("he stays with his own") — her tile reads her OWN six elements, not a foreign cold; receiver law intact (no confession; no sword-soul weather).
+- **Tang Wulin (station in the ensemble block below):** present at the Saint meeting; spirit-refining at 13 known; the anvil shared.
 - **Xie Xie / Xu Xiaoyan:** referenced (mecha maker / designers per canon 304).
 
 ### D-row derivation SHOWN (Layer 7): **C1 rule-respect / C7 kill-question** — the forge beat now runs on the believable: a Saint can tell in two strokes whether to cover a weaker smith; Lin Hao, a genuine fifth-rank with abnormally deep wrists/eye, doesn't need covering on the foundation seam, so Feng recognizes a prodigy. No miracle frequency. **C2 scale** — the reward is craft-world (a Saint's open anvil, a begun two-word suit), exactly a smith's stature, not a mystery-tier unmasking. **C4 pay-off** — the Feng meeting (staged ch111), Mu Chen's relocation (canon 303), Xinglan's spar (overdue), and the plates (ch110/113 salvage) ALL fire at their promised sizes: a patron, a teacher, a rival, and a commission. The ridge-plates now trace to the re-anchored ch113 cull (the ten-thousand boar), so the salvage → armour line is one honest chain.
@@ -140,3 +140,16 @@ By the time she reached the courtyards the four smiths were coming down the four
 - **B4 (the Pagoda file grows on its own terms):** Gu Yue's report advances the six-element/recruitment thread (D29) honestly — the Pagoda watches HER elements and probes the orbit; she reaffirms "he stays with his own." No false cold weather; the file is about who she is.
 
 ### Ranks at chapter end: Lin Hao **45** (four rings — 3 purple + 1 black; **Sword Consciousness held**) · SP **2,824** · hawk **3,199** · ledger **168** · smith **5** · Wulin **28** · Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — **the Eastsea master put his hand on his shoulder; the Saint put an anvil at his elbow; his rival set herself forty days; and a dead beast's plates had begun, by honest work of the hands, to become a suit of armour.** — **NOT triggered:** any Sword Soul/realm note or crossing · any supernatural recognition (hammer stopping, blade ringing) · any rank/ring/SP/hawk change · the armour worn or completed (made, not worn) · the election (canon 305) · Wulin rank 30 · C1/C4/C5.
+
+### Ensemble — canon-verified state
+
+_Single source of truth: `CHARACTER_STATS.md` §0/§1 (canon citations) and §3 (schedule)._
+_Every number below traces to a canon line or is labelled AU._
+
+- **Tang Wulin:** rank **28** · three rings (AU — canon's two not imported, on-page by ch97) + the claw bone · at Shrek, working student (canon c288)
+- **Xie Xie:** rank **33** · three rings (two yellow + one purple) · first-rank mecha craftsman · at Shrek (canon c288)
+- **Gu Yue:** rank **31 (AU — canon gives no rank at 13)** · three rings · spiritual power **700+, Spirit Sea (canon c231)** · Spirit Pagoda · at Shrek (canon c288)
+- **Xu Xiaoyan:** rank **30** · two rings (canon: two until the third at 30 — the crossing is the summer's own story) · spiritual power **400+ (canon c231)** · **"Captain"** · at Shrek (canon c288)
+- **Zhang Yangzi:** rank **31 (AU)** · the Eastsea dock — staying
+- **Wang Jinxi:** **LEFT in ch43** (canon ch 153) · last known rank 25 · the letters still cross — **NOT going**
+- **Wei Xiaofeng:** rank **30 (AU)** · still at Eastsea — *"Eastsea will keep"*

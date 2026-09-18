@@ -74,7 +74,7 @@ The reason was standing frozen behind him — four statues of his class, and the
 
 The statues had a last ten seconds of being people first. Xiaoyan found his sleeve, found it was already rimed with a film of frost like window-glass in winter, and did not let go of it anyway — her hand the one part of her the fear-lock still let move, and she used it on that. Gu Yue's glance went to the red eye and came back to him, and the arithmetic she did with it she kept to herself, which was its own kind of promise; if he were wrong about the next thirty seconds she had four elements loaded and no order to wait for. Xie Xie, who had three clones out and nowhere to spend them, laughed once, shaky, short — the laugh of a boy whose own funeral music had just turned into someone else's.
 
-And Wulin, the space-hardening on him like a coat someone else wore, did the only thing the rules still permitted: he stood to. He couldn't reach the fight, so he reached the geometry of it — shifting his weight one half-step nearer to the girls, the captain's body arranging itself between the class and whatever came through the wall, even when the wall was Lin Hao. His eyes said the rest, because the freeze owned the rest of him: *Go on. We are here. You are not the only one in this forest.* Two of them, shoulder to shoulder, since they were nine years old and the water had been just as cold.
+And Wulin, the space-hardening on him like a coat someone else wore, did the only thing the rules still permitted: he stood to. He couldn't reach the fight, so he reached the geometry of it — shifting his weight one half-step nearer to the girls, the captain's body arranging itself between the class and whatever came through the wall, even when the wall was Lin Hao. His eyes said the rest, because the freeze owned the rest of him: *Go on. We are here. You are not the only one in this forest.* Two of them, shoulder to shoulder, since they were three years old and the water had been just as cold.
 
 Lin Hao held out his right hand, and *summoned his sword.*
 
@@ -150,12 +150,25 @@ The night had three keepers now, and none of them were done.
 
 ### Character States:
 - **Lin Hao:** rank **45** · spiritual power **2,824** (−100: the stroke, a month of deep water in a breath) · hawk **3,199** · ledger **168 HELD** · rings 3 purple + 1 black (the black ring's sword and domain, finally shown) · **Sword Intent: one stroke's worth SPENT** · **Frost Abyss Domain: unfolded → refolded** · trials **60 — PASSED; ninth LIVE, "End it" spoken** · LH voice: 4 turns (the calm)
-- **Tang Wulin:** rank **28** · the overruled claw; the visitor's law; the captain who took nothing
-- **Gu Yue:** rank **31 (AU)** · "I'd rather be a thing that happens" — the strength-not-luck law spoken
-- **Xie Xie:** rank **33** · put the price on the record, then declined it; the question born in him
-- **Xu Xiaoyan:** rank **30 (AU)** · the hammer set down like a cup; "never once been lighter"
+- **Tang Wulin (rank & rings — the ensemble block below):** the overruled claw; the visitor's law; the captain who took nothing
+- **Gu Yue (rank & rings — the ensemble block below):** "I'd rather be a thing that happens" — the strength-not-luck law spoken
+- **Xie Xie (rank & rings — the ensemble block below):** put the price on the record, then declined it; the question born in him
+- **Xu Xiaoyan (rank & rings — the ensemble block below):** the hammer set down like a cup; "never once been lighter"
 - **The cub:** alive, sleeping, crown-scabbed, spared — the best ring on the continent left on a child's brow
 - **The adult:** at the sealed door, red eye open, reading script — unblinking
 - **The elders:** standing; writing it down; **"End it"**
 
-### Ranks at chapter end: Lin Hao **45** · SP **2,824** · hawk **3,199** · ledger **168** · Wulin **28** · Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — **the ninth LIVE → the academy moving ("End it"); the adult at the held door = ch95 (canon 278, ID 10716123, FETCH FIRST — as ore)** — **NOT triggered:** the adult's answer · the trial's end mechanics · the extraction/exit · XX's deduction · the CCC-D answer · Cai's page VERDICT (the page grows; verdict pending) · the ledger's correction-or-payment · placation errand · smiths' summons · the letter · the shape's failure · Ye Xinglan · the seal NAME (never) · duel conditional · Zhuo Shi's verdict · sword to Shen Yi · Na'er · Gu Yue's nature (the drawer) · WZK origin · armor worn · fusion door · blade forger · what answered · the ape · Mu Chen's first · the giver · "Divine Stormbringer" · the tin · Union opening
+### Ranks at chapter end: Lin Hao **45** · SP **2,824** · hawk **3,199** · ledger **168** · Wulin **28** · Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — **the ninth LIVE → the academy moving ("End it"); the adult at the held door = ch95 (canon 278, ID 10716123, FETCH FIRST — as ore)** — **NOT triggered:** the adult's answer · the trial's end mechanics · the extraction/exit · XX's deduction · the CCC-D answer · Cai's page VERDICT (the page grows; verdict pending) · the ledger's correction-or-payment · placation errand · smiths' summons · the letter · the shape's failure · Ye Xinglan · the seal NAME (never) · duel conditional · Zhuo Shi's verdict · sword to Shen Yi · Na'er · Gu Yue's nature (the drawer) · WZK origin · armor worn · fusion door · blade forger · what answered · the ape · Mu Chen's first · the giver · the cancelled divine-tier evolution · the tin · Union opening
+
+### Ensemble — canon-verified state
+
+_Single source of truth: `CHARACTER_STATS.md` §0/§1 (canon citations) and §3 (schedule)._
+_Every number below traces to a canon line or is labelled AU._
+
+- **Tang Wulin:** rank **28** · two rings + the claw bone (canon c232 / c240–241) · at Shrek, working student (canon c288)
+- **Xie Xie:** rank **33** · three rings (two yellow + one purple) · first-rank mecha craftsman · at Shrek (canon c288)
+- **Gu Yue:** rank **31 (AU — canon gives no rank at 13)** · three rings · spiritual power **700+, Spirit Sea (canon c231)** · Spirit Pagoda · at Shrek (canon c288)
+- **Xu Xiaoyan:** rank **30** · two rings (canon: two until the third at 30 — the crossing is the summer's own story) · spiritual power **400+ (canon c231)** · **"Captain"** · at Shrek (canon c288)
+- **Zhang Yangzi:** rank **31 (AU)** · the Eastsea dock — staying
+- **Wang Jinxi:** **LEFT in ch43** (canon ch 153) · last known rank 25 · the letters still cross — **NOT going**
+- **Wei Xiaofeng:** rank **30 (AU)** · still at Eastsea — *"Eastsea will keep"*

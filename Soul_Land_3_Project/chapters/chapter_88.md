@@ -120,11 +120,24 @@ Not the slender mountain's two-yellow-one-purple; not anything the evening had c
 
 ### Character States:
 - **Lin Hao:** rank **45** · spiritual power **2,894** · hawk **3,199** · ledger **168 held** · rings **3 purple + 1 black (none shown)** · trials **60 — PASSED, two in hand** · the first surprise of the evening (an inner-sect art in academy wrists) · the question asked and left unpaid · the wire LIVE
-- **Xie Xie:** rank **33** · **51 points (48 + 3) MINUS a pending end-of-term deduction** (amount unstated in canon) · beaten in five minutes, not disgraced; already scheduling the rematch
-- **Tang Wulin:** rank **28** · **60 — PASSED** · the captain's ledger-lecture; the unfathomed depths; recovering again for the girls' turns
-- **Gu Yue:** rank **31 (AU)** · **38 + trial 8 LIVE vs three purple rings** · "winning was her only option" · the purse's read (she picked the forgettable one)
-- **Xu Xiaoyan:** rank **30** · **40 — her turn last, into true night** · the Starwheel waiting for stars
+- **Xie Xie (rank & rings — the ensemble block below):** **51 points (48 + 3) MINUS a pending end-of-term deduction** (amount unstated in canon) · beaten in five minutes, not disgraced; already scheduling the rematch
+- **Tang Wulin (rank & rings — the ensemble block below):** **60 — PASSED** · the captain's ledger-lecture; the unfathomed depths; recovering again for the girls' turns
+- **Gu Yue (rank & rings — the ensemble block below):** **38 + trial 8 LIVE vs three purple rings** · "winning was her only option" · the purse's read (she picked the forgettable one)
+- **Xu Xiaoyan (rank & rings — the ensemble block below):** **40 — her turn last, into true night** · the Starwheel waiting for stars
 - **Student number two:** the strongest of ten, the mountain with an inner-sect art and academy wrists; the scowl; the question he declined to pay
 - **Shen Yi:** the green light; the file's fastest-growing section is questions
 
-### Ranks at chapter end: Lin Hao **45** · SP **2,894** · hawk **3,199** · ledger **168** · Wulin **28** · Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — **standings: LH 60 (PASSED) · Wulin 60 (PASSED) · XX 51 minus pending deduction · XXY 40 · GY 38 + LIVE (vs #4's three purple)** — **NOT triggered:** GY's battle (ch89 = canon 271 "Bizarre Battle" — FETCH FIRST), XXY's fight (canon 272 "Nice Acting!"), the ninth/tenth trials, the CCC-D answer, the duel, the seal's NAME (never), Zhuo Shi's face, the Teacher's verdict, Hawk-Soul Union, Na'er, Gu Yue's nature, WZK origin, armor worn, fusion door, blade forger, what answered, the ape, Mu Chen's first, the giver, "Divine Stormbringer", the tin
+### Ranks at chapter end: Lin Hao **45** · SP **2,894** · hawk **3,199** · ledger **168** · Wulin **28** · Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — **standings: LH 60 (PASSED) · Wulin 60 (PASSED) · XX 51 minus pending deduction · XXY 40 · GY 38 + LIVE (vs #4's three purple)** — **NOT triggered:** GY's battle (ch89 = canon 271 "Bizarre Battle" — FETCH FIRST), XXY's fight (canon 272 "Nice Acting!"), the ninth/tenth trials, the CCC-D answer, the duel, the seal's NAME (never), Zhuo Shi's face, the Teacher's verdict, Hawk-Soul Union, Na'er, Gu Yue's nature, WZK origin, armor worn, fusion door, blade forger, what answered, the ape, Mu Chen's first, the giver, the cancelled divine-tier evolution, the tin
+
+### Ensemble — canon-verified state
+
+_Single source of truth: `CHARACTER_STATS.md` §0/§1 (canon citations) and §3 (schedule)._
+_Every number below traces to a canon line or is labelled AU._
+
+- **Tang Wulin:** rank **28** · two rings + the claw bone (canon c232 / c240–241) · at Shrek, working student (canon c288)
+- **Xie Xie:** rank **33** · three rings (two yellow + one purple) · first-rank mecha craftsman · at Shrek (canon c288)
+- **Gu Yue:** rank **31 (AU — canon gives no rank at 13)** · three rings · spiritual power **700+, Spirit Sea (canon c231)** · Spirit Pagoda · at Shrek (canon c288)
+- **Xu Xiaoyan:** rank **30** · two rings (canon: two until the third at 30 — the crossing is the summer's own story) · spiritual power **400+ (canon c231)** · **"Captain"** · at Shrek (canon c288)
+- **Zhang Yangzi:** rank **31 (AU)** · the Eastsea dock — staying
+- **Wang Jinxi:** **LEFT in ch43** (canon ch 153) · last known rank 25 · the letters still cross — **NOT going**
+- **Wei Xiaofeng:** rank **30 (AU)** · still at Eastsea — *"Eastsea will keep"*

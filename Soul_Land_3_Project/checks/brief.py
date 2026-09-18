@@ -12,7 +12,7 @@ def P(s=''):
     out.append(s); W(s)
 
 st = json.load(io.open('checks/state.json', encoding='utf-8'))
-cur = max(int(k) for k in st)
+cur = max(int(k) for k in st if str(k).isdigit())
 e = st[str(cur)]
 lastf = f'chapters/chapter_{cur:02d}.md'
 t = io.open(lastf, encoding='utf-8').read()

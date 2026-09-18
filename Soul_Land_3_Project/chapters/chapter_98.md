@@ -120,11 +120,24 @@ The whole room — elders, classmates, the winter man at the door, the fifth wit
 
 ### Character States:
 - **Lin Hao:** rank **45** · spiritual power **2,824 (recovering; the testimony paid the ordinary price of a night's craft — no new number)** · hawk **3,199** · ledger **168 HELD** · **smith 5th rank — CONFIRMED BY THE PROFESSION'S ELDER ("Fifth.")** · trials **70 → full marks armed; THE REQUEST STILL HELD (D23)** · LH voice: 4 turns (the testimony is mostly hands) · the wire DORMANT
-- **Tang Wulin:** rank **28** · peak-fourth, ATTEMPTING SPIRIT REFINEMENT on three rings — the grass burned to ash-wrapped silver; the forty-ninth tap falling; the backlash law hanging over him
-- **Gu Yue:** rank **31 (AU)** · 59 + the held point — the whole forging is for her
-- **Xie Xie:** rank **33** · 67 · "We *know* him. How do we know him?"
-- **Xu Xiaoyan:** rank **30** · 67 · watching her winnings compound
+- **Tang Wulin (rank & rings — the ensemble block below):** peak-fourth, ATTEMPTING SPIRIT REFINEMENT on three rings — the grass burned to ash-wrapped silver; the forty-ninth tap falling; the backlash law hanging over him
+- **Gu Yue (rank & rings — the ensemble block below):** 59 + the held point — the whole forging is for her
+- **Xie Xie (rank & rings — the ensemble block below):** 67 · "We *know* him. How do we know him?"
+- **Xu Xiaoyan (rank & rings — the ensemble block below):** 67 · watching her winnings compound
 - **The elders:** Elder Li's fear then awe; Zhuo Shi grey around the mouth; **Cai's page BANKED** — "the letter said find. The letter was right."
 - **Wu Zhangkong:** at the door; unmoved through the danger; his words HELD
 
-### Ranks at chapter end: Lin Hao **45** · SP **2,824** · hawk **3,199** · ledger **168** · Wulin **28** · Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — **the testimony concluded ("Fifth."); the leap at its forty-ninth tap, the room leaning in = ch99 = canon 282 "One Step to the Heavens! Ten Thousand Refinements of Life!" (novelfull mirror; ID 10716127, FETCH FIRST as ore) — the forging's result · the request spending · GY's standing** — **NOT triggered:** Wulin's success/failure · the request spending · GY's final standing · WZK's words · Feng Wuyu's identity · Mu Chen's letter's content · Cai's page verdict (banked) · the CCC-D answer · the placation errand · the letter · the tin · Old Tang · the seal NAME (never) · duel conditional · sword to Shen Yi · Na'er · Gu Yue's nature (the drawer) · WZK origin · armor worn · fusion door · blade forger · what answered · the ape · Mu Chen's first · the giver · "Divine Stormbringer" · the Union opening
+### Ranks at chapter end: Lin Hao **45** · SP **2,824** · hawk **3,199** · ledger **168** · Wulin **28** · Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — **the testimony concluded ("Fifth."); the leap at its forty-ninth tap, the room leaning in = ch99 = canon 282 "One Step to the Heavens! Ten Thousand Refinements of Life!" (novelfull mirror; ID 10716127, FETCH FIRST as ore) — the forging's result · the request spending · GY's standing** — **NOT triggered:** Wulin's success/failure · the request spending · GY's final standing · WZK's words · Feng Wuyu's identity · Mu Chen's letter's content · Cai's page verdict (banked) · the CCC-D answer · the placation errand · the letter · the tin · Old Tang · the seal NAME (never) · duel conditional · sword to Shen Yi · Na'er · Gu Yue's nature (the drawer) · WZK origin · armor worn · fusion door · blade forger · what answered · the ape · Mu Chen's first · the giver · the cancelled divine-tier evolution · the Union opening
+
+### Ensemble — canon-verified state
+
+_Single source of truth: `CHARACTER_STATS.md` §0/§1 (canon citations) and §3 (schedule)._
+_Every number below traces to a canon line or is labelled AU._
+
+- **Tang Wulin:** rank **28** · three rings (AU — canon's two not imported, on-page by ch97) + the claw bone · at Shrek, working student (canon c288)
+- **Xie Xie:** rank **33** · three rings (two yellow + one purple) · first-rank mecha craftsman · at Shrek (canon c288)
+- **Gu Yue:** rank **31 (AU — canon gives no rank at 13)** · three rings · spiritual power **700+, Spirit Sea (canon c231)** · Spirit Pagoda · at Shrek (canon c288)
+- **Xu Xiaoyan:** rank **30** · two rings (canon: two until the third at 30 — the crossing is the summer's own story) · spiritual power **400+ (canon c231)** · **"Captain"** · at Shrek (canon c288)
+- **Zhang Yangzi:** rank **31 (AU)** · the Eastsea dock — staying
+- **Wang Jinxi:** **LEFT in ch43** (canon ch 153) · last known rank 25 · the letters still cross — **NOT going**
+- **Wei Xiaofeng:** rank **30 (AU)** · still at Eastsea — *"Eastsea will keep"*

@@ -27,12 +27,12 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 state = json.load(open(os.path.join(ROOT, "checks", "state.json"), encoding="utf-8"))
 fails = []
 
-cur = max(state, key=int)
+cur = max((k for k in state if str(k).isdigit()), key=int)
 
 
 def last(field):
     v = None
-    for n in sorted(state, key=int):
+    for n in sorted((k for k in state if str(k).isdigit()), key=int):
         if state[n].get(field) is not None:
             v = state[n][field]
     return v
@@ -43,7 +43,7 @@ hawk_s = f"{hawk:,}"
 
 # the last chapter that actually records an ensemble
 ens = {}
-for n in sorted(state, key=int):
+for n in sorted((k for k in state if str(k).isdigit()), key=int):
     if state[n].get("ensemble"):
         ens = state[n]["ensemble"]
 

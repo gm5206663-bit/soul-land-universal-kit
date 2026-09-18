@@ -1472,3 +1472,5 @@ makes, never wears). The five-ring crossing (rank 51 Soul King) is a FUTURE lega
 Ascension Platform — earned over time, NOT a sudden battle miracle. Sword SOUL stays far (a much older gate).
 Hard locks unchanged: Spirit Abyss far · sword tier-4 never · red ring not spent early · armour made-not-worn ·
 Gu Yue unconfessed · Syllable non-speaking · rings/rank ring-gated.
+
+| 2026-09-18 full-spectrum repair pass — 12 defects chased to root (stale indices/anchors, schedule coverage ch72–116, footer blocks ch73–79, chained consumer crashes, broken audit regex, forbidden CODEX mirror on disk). Every standing verifier green. See → [REPAIR_AUDIT_2026_09_18.md](REPAIR_AUDIT_2026_09_18.md) | resolved 2026-09-18 |

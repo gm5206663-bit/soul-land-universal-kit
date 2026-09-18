@@ -38,7 +38,7 @@ KEYS = {
 }
 NAMES = "|".join(v[0] for v in KEYS.values())
 
-errors, warnings = [], []
+errors, warnings, notes = [], [], []
 
 # chapter after which a character no longer appears in the story at all
 LEFT_AT = {"jinxi": 43}   # Wang Jinxi leaves in ch43 (canon ch 153 "Leaving")
@@ -55,7 +55,15 @@ for path in sorted(glob.glob(os.path.join(CH, "chapter_*.md")),
     latest = max(latest, n)
     text = open(path, encoding="utf-8", errors="replace").read()
 
-    fi = text.find("### Character States:")
+    # footer starts at the house's state anchor; the fallbacks cover the two
+    # era-conventions (ch73-79 'Chapter end state', ch113-116 'Character Progression',
+    # which carry no 'Character States' at all). PRIORITY, not min(): chapters 1-72
+    # carry BOTH 'Character Progression' (mid-file) and 'Character States', and the
+    # authoritative state region is the latter.
+    fi = -1
+    for _a in ("### Character States:", "### Chapter end state", "### Character Progression:"):
+        if text.find(_a) >= 0:
+            fi = text.find(_a); break
     footer = text[fi:] if fi >= 0 else ""
     bi = footer.find(MARK)
     block = footer[bi:] if bi >= 0 else ""
@@ -116,7 +124,12 @@ for key, by_ch in observed.items():
         prev = idx - 1
         span = chs[prev] - run_start + 1
         val = by_ch[run_start]
-        if span > ES.HARD_FREEZE_CHAPTERS:
+        registered = [p for p in getattr(ES, "REGISTERED_PLATEAUS", [])
+                      if p[0] == key and p[1] == val and run_start >= p[2] and chs[prev] <= p[3]]
+        if registered:
+            notes.append(f"{label}: rank {val} held {span} chapters (ch{run_start}-ch{chs[prev]}) — "
+                         f"REGISTERED PLATEAU: {registered[0][4]}")
+        elif span > ES.HARD_FREEZE_CHAPTERS:
             errors.append(
                 f"{label}: rank frozen at {val} for {span} chapters (ch{run_start}-ch{chs[prev]}). "
                 f"Hard limit {ES.HARD_FREEZE_CHAPTERS}. Canon's longest legitimate plateau is "
@@ -154,11 +167,11 @@ for path in sorted(glob.glob(os.path.join(CH, "chapter_*.md"))):
 
 # ---- 6. hard canon numbers never contradicted ----
 CANON_CONTRADICTIONS = [
-    (r"Xu Xiaoyan[^\n]{0,80}three (soul )?rings",
+    (r"Xu Xiaoyan(?:(?!Xie Xie|Tang Wulin|Gu Yue|Lin Hao|Wu Zhangkong)[^\n]){0,80}three (?:soul )?rings",
      "Xu Xiaoyan has TWO rings until rank 30 (canon: 'Xu Xiaoyan only had two soul rings, no doubt about it')."),
     (r"Mu Xi[^\n]{0,80}(one|two) (soul )?rings",
      "Mu Xi is a three-ringed Soul Elder, yellow/yellow/purple (canon)."),
-    (r"\b(black|black-coloured|black colored)\b[^\n]{0,40}(hundred[- ]thousand|100,000)",
+    (r"\b(black|black-coloured|black colored)\b(?:(?!red|scarlet|crimson)[^\n]){0,40}(?:hundred[- ]thousand|100[,.]?000)",
      "Black = ten thousand years (canon: 'Black represented ten thousand years')."),
     (r"\b(red|scarlet|crimson)\b[^\n]{0,30}(soul )?ring[^\n]{0,40}ten[- ]thousand",
      "Ten-thousand-year rings are BLACK, not red (canon: 'Black represented ten thousand years')."),
@@ -395,6 +408,8 @@ for path in sorted(glob.glob(os.path.join(CH, "chapter_*.md"))):
 print(f"verify_ensemble: scanned {latest} chapters, {len(observed)} tracked characters")
 for w in warnings:
     print("  WARN " + w)
+for nn in notes:
+    print("  NOTE " + nn)
 for e in errors:
     print("  FAIL " + e)
 if errors:

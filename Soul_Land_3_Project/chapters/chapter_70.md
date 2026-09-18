@@ -211,7 +211,7 @@ The tower light went out at midnight, punctual as their teacher, and in a plain 
 - **NEW:** Gu Yue's dawn reclaimed at 5:40 in a foreign city — the custom crosses the continent.
 
 ### NOT triggered (all remaining locks held):
-**Hawk-Soul Union — still reserved (71 chapters of patience)** · **Wulin's second seal — the set complete, wrapped; the break at FOURTEEN, days away (canon 247–248 held: Old Tang, the brew, the bath, WZK guarding)** · **Old Tang — held for ch71 (silent since the overload save)** · Na'er not found (the searching instinct awake in the biggest city; the thread held) · Gu Yue's true nature (the tower looked at once, one breath, and put away — 242's cult scene still held untouched) · Wu Zhangkong's origin (**the taxi that never once asked directions** — pressure held, never prose; the ch 204 reveal stands) · who Long Bing is · battle armor worn by Lin Hao · the fusion door · the card's contents · what answered · the ape · Mu Chen's first · the giver · **line 109 unfinished, coat on, one button undone, in the bag** · "Divine Stormbringer" (cancelled, forever)
+**Hawk-Soul Union — still reserved (71 chapters of patience)** · **Wulin's second seal — the set complete, wrapped; the break at FOURTEEN, days away (canon 247–248 held: Old Tang, the brew, the bath, WZK guarding)** · **Old Tang — held for ch71 (silent since the overload save)** · Na'er not found (the searching instinct awake in the biggest city; the thread held) · Gu Yue's true nature (the tower looked at once, one breath, and put away — 242's cult scene still held untouched) · Wu Zhangkong's origin (**the taxi that never once asked directions** — pressure held, never prose; the ch 204 reveal stands) · who Long Bing is · battle armor worn by Lin Hao · the fusion door · the card's contents · what answered · the ape · Mu Chen's first · the giver · **line 109 unfinished, coat on, one button undone, in the bag** · the cancelled divine-tier evolution (cancelled, forever)
 
 ### Character Progression:
 - **Lin Hao:** rank **45 → 45** · spiritual power **2,740 → 2,750** · **hawk 3,095 → 3,102** (a travel week at the floor) · four rings · 5th rank · **ledger 165 held (no bout; event-gated)** · **the estate lot won — Heavy Silver and Sky Dragon Iron by weight, a bench's worth of introduce-yourself** · the smelter's yard read (pour temperature named, correct)
@@ -233,7 +233,7 @@ The tower light went out at midnight, punctual as their teacher, and in a plain 
   Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — **NOT triggered:** Union, the seal (fourteen,
   days away), Old Tang, Na'er, Gu Yue's nature, WZK's origin, Long Bing, armor worn, the fusion door,
   the card, the blade's forger (the iron's origin — scheduled reveal), what answered, the ape, Mu
-  Chen's first, the giver, line 109, "Divine Stormbringer"
+  Chen's first, the giver, line 109, the cancelled divine-tier evolution
 - **Canon coverage:** 244's tail + 245 + 246 **mined full** (every beat above on-page); **held ahead:
   canon 247 (Ready — the birthday, Old Tang, the brew, WZK guarding, the Clear Sky lore) · 248+
   (the break itself) · 242's cult scene (locked)** · the exam canon beyond 248 requires fetching

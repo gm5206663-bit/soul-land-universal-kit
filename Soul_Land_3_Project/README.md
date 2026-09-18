@@ -4,7 +4,7 @@ A canon-verified *Legend of the Dragon King* (Soul Land 3) fan serial with an or
 **Lin Hao (林浩)**, running beside canon's protagonist Tang Wulin — plus the thirteen-layer
 verification suite that keeps it honest.
 
-**71 chapters · 230,424 prose words · 13 automated check layers · exit 0.**
+**116 chapters · 354,685 story words (suite-counted) · 13 automated check layers · exit 0.**
 
 ---
 
@@ -23,7 +23,7 @@ is standing in it** — see `THE_CODEX.md` §THE BUTTERFLY LAW.
 ## RUNNING THE SUITE
 
 ```bash
-cd soul_land_3_adaptive_prodigy
+cd Soul_Land_3_Project
 
 # SL3_WORKSPACE points at the directory holding CODEX/ (the repo root, one level up)
 SL3_WORKSPACE=.. sh checks/run_all.sh          # must exit 0
@@ -34,16 +34,18 @@ Thirteen layers: regenerate → rules → semantics → cross-chapter audit → 
 consequences → canon quotes → power scale → monster law → butterfly → footer facts → **the voice** →
 **the clock**.
 
-🔴 **Layer 7 (canon quotes) SKIPS on a fresh clone** and says so loudly — *"This is NOT a pass."* The
-canon corpus is copyrighted novel text and is not distributed with this repo. See
-[`CANON_SOURCE.md`](CANON_SOURCE.md). The other twelve layers run for real.
+🔴 **Layer 7 (canon quotes) runs in PARTIAL mode in this repo** — 79 canon chapters are on disk in
+`canon_extract/chapters/` (run `SL3_CANON=canon_extract/chapters python3 checks/verify_canon_quotes.py`):
+**21/80 quotes verified against them; the rest are loudly UNVERIFIED, never assumed** (the corpus lacks,
+among others, canon 028's neighbors and everything after canon 308). Without `SL3_CANON` it SKIPS and says
+*"This is NOT a pass."* See [`CANON_SOURCE.md`](CANON_SOURCE.md). The other twelve layers run for real.
 
 Verified in both layouts before this was committed:
 
 | Layout | Result |
 |---|---|
 | Authoring workspace, corpus present | **exit 0 · 85/85 canon quotes verified against 407 chapters** |
-| This repo, corpus absent | **exit 0 · Layer 7 loudly SKIPPED**, twelve layers green |
+| This repo, 79 canon chapters on disk | **exit 0 · Layer 7 partial: 21/80 verified, remainder honestly UNVERIFIED** |
 
 ---
 

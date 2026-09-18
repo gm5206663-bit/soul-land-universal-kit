@@ -108,9 +108,9 @@ Somewhere to the east, a man was packing two hammers and booking two train ticke
 
 ### Character Progression:
 - **Lin Hao:** LH voice: 5 turns · rank **45 HELD** · SP **2,824 HELD** · hawk **3,199 HELD** · ledger **168 HELD** · smith **5** · four rings HELD · Sword **Consciousness** held · warm, present, central: reads Wulin's news, affirms Mu Chen's rank-30 warning, watches the dinner, walks with Gu Yue (the weather-hush is ordinary feeling only — NO sword note).
-- **Tang Wulin:** rank **28** · makes the canon-303 call to Mu Chen (spirit-refining at 13; the rank-30 gate; Mu Chen "coming for a visit" = relocating); commissions-haggles Yue Zhengyu; keeps the red-haired-girl seam unspoken.
+- **Tang Wulin (rank & rings — the ensemble block below):** makes the canon-303 call to Mu Chen (spirit-refining at 13; the rank-30 gate; Mu Chen "coming for a visit" = relocating); commissions-haggles Yue Zhengyu; keeps the red-haired-girl seam unspoken.
 - **Mu Chen (canon 303):** off-page resigns Eastsea, books TWO tickets to Shrek — arrives ch115; the relocation established.
-- **Gu Yue:** rank **31 (AU)** · the dinner frost toward Yue; the perimeter walk; one plain question answered; receiver law intact (the wind-hush is her un-named feeling, NO false note; no confession).
+- **Gu Yue (rank & rings — the ensemble block below):** the dinner frost toward Yue; the perimeter walk; one plain question answered; receiver law intact (the wind-hush is her un-named feeling, NO false note; no confession).
 - **Yue Zhengyu (canon 303):** uninvited at the table; the Holy Angel "eradicate evil" mission; tries to treat them, refused.
 - **Yuanen Yehui:** the lone old-batch working student (canon 303 count); the red-haired waitress / badge seam kept as Wulin's unspoken observation (our female-AU Yuanen held).
 - **Xie Xie / Xu Xiaoyan:** on-page at the dinner (the five working students).
@@ -129,3 +129,16 @@ Somewhere to the east, a man was packing two hammers and booking two train ticke
 - **B3 (no false trail):** because no realm was crossed on the cull, the academy has nothing to investigate — Lin Hao stays hidden in plain sight as an unusually good first-year, which is the *correct* pressure for this canon register.
 
 ### Ranks at chapter end: Lin Hao **45** (four rings — 3 purple + 1 black; **Sword Consciousness held**) · SP **2,824** · hawk **3,199** · ledger **168** · Wulin **28** · Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — **two train tickets were being bought to the east, and five working students were loud and fed and together at their table, and the master who had taught one of them his trade was already on his way.** — **NOT triggered:** any Sword Soul/realm note or crossing (none exists) · any institutional hunt for one · any rank/ring/SP/hawk change · Mu Chen's on-screen arrival (ch115) · Feng Wuyu · the election (canon 305) · any realm/ring/abyssal gate.
+
+### Ensemble — canon-verified state
+
+_Single source of truth: `CHARACTER_STATS.md` §0/§1 (canon citations) and §3 (schedule)._
+_Every number below traces to a canon line or is labelled AU._
+
+- **Tang Wulin:** rank **28** · three rings (AU — canon's two not imported, on-page by ch97) + the claw bone · at Shrek, working student (canon c288)
+- **Xie Xie:** rank **33** · three rings (two yellow + one purple) · first-rank mecha craftsman · at Shrek (canon c288)
+- **Gu Yue:** rank **31 (AU — canon gives no rank at 13)** · three rings · spiritual power **700+, Spirit Sea (canon c231)** · Spirit Pagoda · at Shrek (canon c288)
+- **Xu Xiaoyan:** rank **30** · two rings (canon: two until the third at 30 — the crossing is the summer's own story) · spiritual power **400+ (canon c231)** · **"Captain"** · at Shrek (canon c288)
+- **Zhang Yangzi:** rank **31 (AU)** · the Eastsea dock — staying
+- **Wang Jinxi:** **LEFT in ch43** (canon ch 153) · last known rank 25 · the letters still cross — **NOT going**
+- **Wei Xiaofeng:** rank **30 (AU)** · still at Eastsea — *"Eastsea will keep"*

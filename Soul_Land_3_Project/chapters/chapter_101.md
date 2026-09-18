@@ -122,11 +122,24 @@ The night was long enough. Morning was already coming, and morning was loud.
 
 ### Character States:
 - **Lin Hao:** rank **45** · spiritual power **2,824 (recovering)** · hawk **3,199** · ledger **168 HELD** · **SWORD CONSCIOUSNESS: first test PASSED against a live master; the last correction taken ("keep the first body fluent"); promoted — WZK now CONFERS** · trials **70 — the request HELD ("after the elders, before the continent")** · LH voice: 7 turns · the wire DORMANT
-- **Tang Wulin:** rank **28** · Master Craftsman; the dream set: **TWO-WORD armor, piece by piece**; the apology to Cai arranged for the morning
-- **Gu Yue:** rank **31 (AU)** · 60 — IN; the apology bowed; **the disciple door named** (Cai's offer — ch102's answer); one heartbeat toward the lake path
-- **Xie Xie:** rank **33** · 67 · "you're SO biased" — and a question fed its answer in his sleep
-- **Xu Xiaoyan:** rank **30** · 67 · the surveyor's serenity
+- **Tang Wulin (rank & rings — the ensemble block below):** Master Craftsman; the dream set: **TWO-WORD armor, piece by piece**; the apology to Cai arranged for the morning
+- **Gu Yue (rank & rings — the ensemble block below):** 60 — IN; the apology bowed; **the disciple door named** (Cai's offer — ch102's answer); one heartbeat toward the lake path
+- **Xie Xie (rank & rings — the ensemble block below):** 67 · "you're SO biased" — and a question fed its answer in his sleep
+- **Xu Xiaoyan (rank & rings — the ensemble block below):** 67 · the surveyor's serenity
 - **Wu Zhangkong:** the promotion given; the tea found good
 - **The elders:** Cai's verdict "like a held breath" — the morning's first business; Zhuo Shi drinking tea
 
-### Ranks at chapter end: Lin Hao **45** · SP **2,824** · hawk **3,199** · ledger **168** · Wulin **28** · Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — **the night before registration: the lake lesson done ("we confer"); the ledger spoken; the two-word dream set — morning = ch102 = canon 287 "Black Steamed Buns" (novelhall ID 10716132; novelfull slug chapter-287-*.html; FETCH FIRST as ore): the registration, the working students' first day, the apology to Cai (her verdict + the disciple question)** — **NOT triggered:** the registration · the apology · Cai's page VERDICT · the disciple answer · the dorms/work duties · the CCC-D answer · the summons' reply · the letter · the tin · Old Tang · the seal NAME (never) · duel conditional · sword to Shen Yi · Na'er · Gu Yue's nature (the drawer) · WZK origin · armor worn · fusion door · blade forger · what answered · the ape · Mu Chen's first · the giver · "Divine Stormbringer" · the Union opening
+### Ranks at chapter end: Lin Hao **45** · SP **2,824** · hawk **3,199** · ledger **168** · Wulin **28** · Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — **the night before registration: the lake lesson done ("we confer"); the ledger spoken; the two-word dream set — morning = ch102 = canon 287 "Black Steamed Buns" (novelhall ID 10716132; novelfull slug chapter-287-*.html; FETCH FIRST as ore): the registration, the working students' first day, the apology to Cai (her verdict + the disciple question)** — **NOT triggered:** the registration · the apology · Cai's page VERDICT · the disciple answer · the dorms/work duties · the CCC-D answer · the summons' reply · the letter · the tin · Old Tang · the seal NAME (never) · duel conditional · sword to Shen Yi · Na'er · Gu Yue's nature (the drawer) · WZK origin · armor worn · fusion door · blade forger · what answered · the ape · Mu Chen's first · the giver · the cancelled divine-tier evolution · the Union opening
+
+### Ensemble — canon-verified state
+
+_Single source of truth: `CHARACTER_STATS.md` §0/§1 (canon citations) and §3 (schedule)._
+_Every number below traces to a canon line or is labelled AU._
+
+- **Tang Wulin:** rank **28** · three rings (AU — canon's two not imported, on-page by ch97) + the claw bone · at Shrek, working student (canon c288)
+- **Xie Xie:** rank **33** · three rings (two yellow + one purple) · first-rank mecha craftsman · at Shrek (canon c288)
+- **Gu Yue:** rank **31 (AU — canon gives no rank at 13)** · three rings · spiritual power **700+, Spirit Sea (canon c231)** · Spirit Pagoda · at Shrek (canon c288)
+- **Xu Xiaoyan:** rank **30** · two rings (canon: two until the third at 30 — the crossing is the summer's own story) · spiritual power **400+ (canon c231)** · **"Captain"** · at Shrek (canon c288)
+- **Zhang Yangzi:** rank **31 (AU)** · the Eastsea dock — staying
+- **Wang Jinxi:** **LEFT in ch43** (canon ch 153) · last known rank 25 · the letters still cross — **NOT going**
+- **Wei Xiaofeng:** rank **30 (AU)** · still at Eastsea — *"Eastsea will keep"*

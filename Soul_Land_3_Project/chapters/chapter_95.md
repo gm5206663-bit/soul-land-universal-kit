@@ -134,11 +134,24 @@ Elder Cai looked back at them with the eyes of a woman about to enjoy her job.
 
 ### Character States:
 - **Lin Hao:** rank **45** · spiritual power **2,824 (spent true, stays spent — recovering on days, not switches)** · hawk **3,199** · ledger **168 HELD** · trials **70/70 — the tie official; NINE PASSED, one left** · the academy now knows the stroke by name · LH voice: 6 turns · the wire DORMANT
-- **Tang Wulin:** rank **28** · **70 — passed outright** · "I'd do every part again"
-- **Gu Yue:** rank **31 (AU)** · **58 — TWO SHORT; "I want the two points earned"** · the easiest choice, twice
-- **Xie Xie:** rank **33** · **61 (the deduction stands)** · the question fed ("it doesn't feel like just data")
-- **Xu Xiaoyan:** rank **30** · **60 — passed** · "She's happy. That was the whole prize."
+- **Tang Wulin (rank & rings — the ensemble block below):** **70 — passed outright** · "I'd do every part again"
+- **Gu Yue (rank & rings — the ensemble block below):** **58 — TWO SHORT; "I want the two points earned"** · the easiest choice, twice
+- **Xie Xie (rank & rings — the ensemble block below):** **61 (the deduction stands)** · the question fed ("it doesn't feel like just data")
+- **Xu Xiaoyan (rank & rings — the ensemble block below):** **60 — passed** · "She's happy. That was the whole prize."
 - **The elders:** Cai's page read aloud; Zhuo Shi's laugh; the grey-haired man's stillness — three on the roof, one trial left
 - **The mother and the cub:** data that did not feel like data — healing, held, watched
 
-### Ranks at chapter end: Lin Hao **45** · SP **2,824** · hawk **3,199** · ledger **168** · Wulin **28** · Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — **nine trials PASSED (70/70/61/60/58); GY two short; the roof of three = ch96 = canon 279 (ID 10716124, FETCH FIRST as ore)** — **NOT triggered:** the last trial's nature · Cai's role in it · the grey-haired man's name · the extraction's aftermath beyond the room · XX's deduction's cause (kept) · the CCC-D answer · Cai's page VERDICT (growing, unresolved) · the ledger's correction-or-payment · placation errand · smiths' summons · the letter · the shape's failure · Ye Xinglan · the seal NAME (never) · duel conditional · Zhuo Shi's verdict · sword to Shen Yi · Na'er · Gu Yue's nature (the drawer) · WZK origin · armor worn · fusion door · blade forger · what answered · the ape · Mu Chen's first · the giver · "Divine Stormbringer" · the tin · Union opening
+### Ranks at chapter end: Lin Hao **45** · SP **2,824** · hawk **3,199** · ledger **168** · Wulin **28** · Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — **nine trials PASSED (70/70/61/60/58); GY two short; the roof of three = ch96 = canon 279 (ID 10716124, FETCH FIRST as ore)** — **NOT triggered:** the last trial's nature · Cai's role in it · the grey-haired man's name · the extraction's aftermath beyond the room · XX's deduction's cause (kept) · the CCC-D answer · Cai's page VERDICT (growing, unresolved) · the ledger's correction-or-payment · placation errand · smiths' summons · the letter · the shape's failure · Ye Xinglan · the seal NAME (never) · duel conditional · Zhuo Shi's verdict · sword to Shen Yi · Na'er · Gu Yue's nature (the drawer) · WZK origin · armor worn · fusion door · blade forger · what answered · the ape · Mu Chen's first · the giver · the cancelled divine-tier evolution · the tin · Union opening
+
+### Ensemble — canon-verified state
+
+_Single source of truth: `CHARACTER_STATS.md` §0/§1 (canon citations) and §3 (schedule)._
+_Every number below traces to a canon line or is labelled AU._
+
+- **Tang Wulin:** rank **28** · two rings + the claw bone (canon c232 / c240–241) · at Shrek, working student (canon c288)
+- **Xie Xie:** rank **33** · three rings (two yellow + one purple) · first-rank mecha craftsman · at Shrek (canon c288)
+- **Gu Yue:** rank **31 (AU — canon gives no rank at 13)** · three rings · spiritual power **700+, Spirit Sea (canon c231)** · Spirit Pagoda · at Shrek (canon c288)
+- **Xu Xiaoyan:** rank **30** · two rings (canon: two until the third at 30 — the crossing is the summer's own story) · spiritual power **400+ (canon c231)** · **"Captain"** · at Shrek (canon c288)
+- **Zhang Yangzi:** rank **31 (AU)** · the Eastsea dock — staying
+- **Wang Jinxi:** **LEFT in ch43** (canon ch 153) · last known rank 25 · the letters still cross — **NOT going**
+- **Wei Xiaofeng:** rank **30 (AU)** · still at Eastsea — *"Eastsea will keep"*

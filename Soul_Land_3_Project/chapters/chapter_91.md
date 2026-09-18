@@ -118,11 +118,24 @@ At the rim, flat as five commas in the valley's great sentence, class zero held 
 
 ### Character States:
 - **Lin Hao:** rank **45** · spiritual power **2,912** · hawk **3,199** · ledger **168 held** · rings **3 purple + 1 black** · trials **60 — PASSED; ninth LIVE** · the sword restless→still (Intent HELD); the two-kings read; his brother's shoulder · the wire DORMANT
-- **Tang Wulin:** rank **28** · **60; ninth LIVE** · the scent-blanket; the Purple Demon Eyes; "We're surviving near them — our points are in the difference"
-- **Gu Yue:** rank **31 (AU)** · **48; ninth LIVE** · restrained on purpose; "The exam has a way through. It always has one"; her birds scattered by a gust
-- **Xie Xie:** rank **33** · **51−pending; ninth LIVE** · the most knowledgeable; "Give me a moment to think" — the identification loading
-- **Xu Xiaoyan:** rank **30** · **50; ninth LIVE** · flat at the rim; the Starwheel saved for true night
+- **Tang Wulin (rank & rings — the ensemble block below):** **60; ninth LIVE** · the scent-blanket; the Purple Demon Eyes; "We're surviving near them — our points are in the difference"
+- **Gu Yue (rank & rings — the ensemble block below):** **48; ninth LIVE** · restrained on purpose; "The exam has a way through. It always has one"; her birds scattered by a gust
+- **Xie Xie (rank & rings — the ensemble block below):** **51−pending; ninth LIVE** · the most knowledgeable; "Give me a moment to think" — the identification loading
+- **Xu Xiaoyan (rank & rings — the ensemble block below):** **50; ninth LIVE** · flat at the rim; the Starwheel saved for true night
 - **Frost Abyss:** restless by distance, utterly still at the rim — "the total attention of a drawn thing not yet drawn"
 - **The valley:** the Duskgold Dreadclaw Bear (10 m+, beyond taxonomy) vs the crystal three-eyed golden beast (the red third eye) — two kings, one boundary
 
-### Ranks at chapter end: Lin Hao **45** · SP **2,912** · hawk **3,199** · ledger **168** · Wulin **28** · Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — **the ninth LIVE: five flat at the rim of two kings; XX's identification pending — ch92 = canon 275 "Auspicious Emperor" (FETCH FIRST; the index first-line: "These two soul beasts are too powerful")** — **NOT triggered:** the beasts' names/actions (ch92), the trial's way through, XX's deduction amount (canon silent), the CCC-D answer, Cai's page verdict, the duel, the seal's NAME (never), Zhuo Shi's verdict, the Teacher's verdict, Hawk-Soul Union, Na'er, Gu Yue's nature (the drawer), WZK origin, armor worn, fusion door, blade forger, what answered, the ape (named as memory only), Mu Chen's first, the giver, "Divine Stormbringer", the tin
+### Ranks at chapter end: Lin Hao **45** · SP **2,912** · hawk **3,199** · ledger **168** · Wulin **28** · Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — **the ninth LIVE: five flat at the rim of two kings; XX's identification pending — ch92 = canon 275 "Auspicious Emperor" (FETCH FIRST; the index first-line: "These two soul beasts are too powerful")** — **NOT triggered:** the beasts' names/actions (ch92), the trial's way through, XX's deduction amount (canon silent), the CCC-D answer, Cai's page verdict, the duel, the seal's NAME (never), Zhuo Shi's verdict, the Teacher's verdict, Hawk-Soul Union, Na'er, Gu Yue's nature (the drawer), WZK origin, armor worn, fusion door, blade forger, what answered, the ape (named as memory only), Mu Chen's first, the giver, the cancelled divine-tier evolution, the tin
+
+### Ensemble — canon-verified state
+
+_Single source of truth: `CHARACTER_STATS.md` §0/§1 (canon citations) and §3 (schedule)._
+_Every number below traces to a canon line or is labelled AU._
+
+- **Tang Wulin:** rank **28** · two rings + the claw bone (canon c232 / c240–241) · at Shrek, working student (canon c288)
+- **Xie Xie:** rank **33** · three rings (two yellow + one purple) · first-rank mecha craftsman · at Shrek (canon c288)
+- **Gu Yue:** rank **31 (AU — canon gives no rank at 13)** · three rings · spiritual power **700+, Spirit Sea (canon c231)** · Spirit Pagoda · at Shrek (canon c288)
+- **Xu Xiaoyan:** rank **30** · two rings (canon: two until the third at 30 — the crossing is the summer's own story) · spiritual power **400+ (canon c231)** · **"Captain"** · at Shrek (canon c288)
+- **Zhang Yangzi:** rank **31 (AU)** · the Eastsea dock — staying
+- **Wang Jinxi:** **LEFT in ch43** (canon ch 153) · last known rank 25 · the letters still cross — **NOT going**
+- **Wei Xiaofeng:** rank **30 (AU)** · still at Eastsea — *"Eastsea will keep"*

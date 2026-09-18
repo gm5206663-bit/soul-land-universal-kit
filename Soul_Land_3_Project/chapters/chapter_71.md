@@ -141,7 +141,7 @@ He slept with his hands open, and the room, if anyone had measured it, was one d
 - **CAUSE: the confession (this chapter).** → The Lin Hao thread is now open and honest in our AU — and her **silence** keeps every other wire intact: nothing was demanded, nothing was given, nothing changed hands; *as before* is the treaty. Canon's eventual Wulin×Gu Yue stays dormant and untouched. 🔴 **Element audit (user correction, session u): Gu Yue's canon six are fire, water, earth, wind, light, space — METAL WAS NEVER HERS** (the ch71 draft's metal thread was an invention and is removed; never invent elements for her).
 
 ### NOT triggered (all remaining locks held):
-**Hawk-Soul Union — the PERFECT joining, still reserved (its door is its own; the book says so)** · **the dragon's joining — developing, ON-PAGE, unreserved and imperfect (90 seconds; the cold learning his breathing)** · **Wulin's second seal — TOMORROW (canon 247–248 held for ch72: Old Tang, the brew, the bath, WZK guarding)** · Old Tang (held) · Na'er not found · **Gu Yue's true nature — HELD (the reading named to her, never named to the reader; the privacy line is the lock's new shape)** · Wu Zhangkong's origin · Long Bing · battle armor worn · the fusion door (the species-level fusion is not the joining) · the card's contents · the blade's forger (the iron's origin — scheduled reveal) · what answered · the ape · Mu Chen's first · the giver · **line 109 — SPENT (finished and dated; the next line begun)** · "Divine Stormbringer" (cancelled, forever)
+**Hawk-Soul Union — the PERFECT joining, still reserved (its door is its own; the book says so)** · **the dragon's joining — developing, ON-PAGE, unreserved and imperfect (90 seconds; the cold learning his breathing)** · **Wulin's second seal — TOMORROW (canon 247–248 held for ch72: Old Tang, the brew, the bath, WZK guarding)** · Old Tang (held) · Na'er not found · **Gu Yue's true nature — HELD (the reading named to her, never named to the reader; the privacy line is the lock's new shape)** · Wu Zhangkong's origin · Long Bing · battle armor worn · the fusion door (the species-level fusion is not the joining) · the card's contents · the blade's forger (the iron's origin — scheduled reveal) · what answered · the ape · Mu Chen's first · the giver · **line 109 — SPENT (finished and dated; the next line begun)** · the cancelled divine-tier evolution (cancelled, forever)
 
 ### Character Progression:
 - **Lin Hao:** rank **45 → 45** · spiritual power **2,750 → 2,762** · **hawk 3,102 → 3,108** · 🔴 **the dragon's line, first record: joining 40 → 90 s · hem + a hand · Domineer 1 → 2 breaths · body: regeneration 80 s (timed); MHM breath one count deeper** · four rings · 5th rank · **ledger 165 held** · **the style's second half begun (the first stroke asks twice; Still Water was a preview)** · Sword Intent with temperature · **LINE 109 FINISHED — the confession spoken, the sentence completed, dated**
@@ -157,12 +157,12 @@ He slept with his hands open, and the room, if anyone had measured it, was one d
   **the fusion soul (the iron under everything)** · the deep-water body (regenerating 80 s · cold-immune) ·
   **Frost Abyss Sword · the folded domain (hem + a hand) · Domineer (two breaths)** · baseline effective
   **Soul Emperor** · all-out ceiling: **Soul Sage (reserved arithmetic)** · ledger **165 · line 109 FINISHED**
-- **Gu Yue:** rank **31 (AU)** · three rings · 700+, Spirit Sea · **her answer: silence — accepted as no-things, like before**
+- **Gu Yue, the treaty (rank & rings live in the ensemble block below):** her answer: silence — accepted as no-things, like before
 - **Ranks at chapter end:** Lin Hao **45** · SP **2,762** · hawk **3,108** · ledger **165** · Wulin **28** ·
   Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — **NOT triggered:** the Union (reserved), the seal
   (tomorrow), Old Tang, Na'er, Gu Yue's nature (privacy holds), WZK's origin, Long Bing, armor worn, the
   fusion door, the card, the blade's forger, what answered, the ape, Mu Chen's first, the giver,
-  "Divine Stormbringer"
+  the cancelled divine-tier evolution
 - **Canon coverage:** none spent (interstitial, labelled); **held ahead: canon 247 (Ready — ch72's spine) ·
   248+ (the break) · 🔴 FETCH 249+ BEFORE WRITING PAST 248**
 

@@ -179,7 +179,7 @@ Behind the door, at every hour anybody checked, the water was still moving.
 - **NEW, small and load-bearing:** *"first times are load-bearing, like first notes."*
 
 ### NOT triggered (all remaining locks held):
-**Wulin's second seal — IN PROGRESS: the brew taken, the golden mark appeared, the water STILL MOVING at every check (canon 249: three days of bathing); THE COMPLETION IS CH73'S** · the seal's NAME (never said; the mark stays unlabeled — canon's own discipline) · Hawk-Soul Union — reserved · the dragon's joining — developing (held at 95 s) · Na'er not found · Gu Yue's true nature (untouched; her "Happy birthday, Captain" is exactly as before — no invention around her, per the session-u rule) · Wu Zhangkong's origin · Long Bing · battle armor worn · the fusion door · the card's contents · the blade's forger (the iron's origin — scheduled reveal) · what answered · the ape · Mu Chen's first · the giver · "Divine Stormbringer" (cancelled, forever)
+**Wulin's second seal — IN PROGRESS: the brew taken, the golden mark appeared, the water STILL MOVING at every check (canon 249: three days of bathing); THE COMPLETION IS CH73'S** · the seal's NAME (never said; the mark stays unlabeled — canon's own discipline) · Hawk-Soul Union — reserved · the dragon's joining — developing (held at 95 s) · Na'er not found · Gu Yue's true nature (untouched; her "Happy birthday, Captain" is exactly as before — no invention around her, per the session-u rule) · Wu Zhangkong's origin · Long Bing · battle armor worn · the fusion door · the card's contents · the blade's forger (the iron's origin — scheduled reveal) · what answered · the ape · Mu Chen's first · the giver · the cancelled divine-tier evolution (cancelled, forever)
 
 ### Character Progression:
 - **Lin Hao:** rank **45 → 45** · spiritual power **2,762 → 2,768** · **hawk 3,108 → 3,111** · the dragon's joining held at **95 seconds in the evening cold** · four rings · 5th rank · **ledger 165 held** · **the first hurt: carried, not shown, not asked, not hate** — the bench, the corridor, *"carry it level"*
@@ -195,13 +195,13 @@ Behind the door, at every hour anybody checked, the water was still moving.
   **four rings (💜💜💜⚫)** · 🔨 5th rank · six strokes + second halves · **the fusion soul** · the
   deep-water body · **Frost Abyss · the folded domain · Domineer ×2** · baseline **Soul Emperor**
   (all-out: Soul Sage, reserved) · ledger **165** · **line 109 spent; the first hurt carried quiet**
-- **Tang Wulin:** rank **28** · two rings + the claw bone · **the second seal mid-break — the golden
+- **Tang Wulin (rank & rings — the ensemble block below):** two rings + the claw bone · **the second seal mid-break — the golden
   mark visible, the water still moving — three days of meditation (canon 249); completion pending (ch73)**
 - **Ranks at chapter end:** Lin Hao **45** · SP **2,768** · hawk **3,111** · ledger **165** · Wulin **28** ·
   Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — **NOT triggered:** the seal's completion
   (FETCH 249+), the seal's name, Union, Na'er, Gu Yue's nature, WZK's origin, Long Bing, armor worn,
   the fusion door, the card, the blade's forger, what answered, the ape, Mu Chen's first, the giver,
-  "Divine Stormbringer"
+  the cancelled divine-tier evolution
 - **Canon coverage:** 247 + 248 **mined full** (Old Tang, the method, the brew's every stage, the
   mark); **held ahead: 🔴 canon 249+ — FETCH BEFORE CH73 (the break's completion, the exam's approach)**
 

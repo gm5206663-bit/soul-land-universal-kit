@@ -110,11 +110,24 @@ The night kept all of it. Morning would be loud.
 
 ### Character States:
 - **Lin Hao:** rank **45** · spiritual power **2,824 (recovering)** · hawk **3,199** · ledger **168 HELD** · **smith 5th rank — proven; the Yaluo bar packed and sleeping** · trials **70 → full marks armed; the request HELD (D23); the spending = ch100** · the tool-wrap rolled by his teacher's hands · LH voice: 5 turns · the wire DORMANT
-- **Tang Wulin:** rank **28** · **SMITH 5th RANK — SPIRIT REFINED, BORN** (the hammers are his hands now); snow-white; asleep in the scarlet light; the dragon drinking
-- **Gu Yue:** rank **31 (AU)** · 59 → **"passed" — the dropped key on the floor** (formal in ch100); the twenty-year sentence received standing
-- **Xie Xie:** rank **33** · 67 · the catch; sitting where the miracle was
-- **Xu Xiaoyan:** rank **30** · 67 · under Elder Li's hairbreadth glance
+- **Tang Wulin (rank & rings — the ensemble block below):** **SMITH 5th RANK — SPIRIT REFINED, BORN** (the hammers are his hands now); snow-white; asleep in the scarlet light; the dragon drinking
+- **Gu Yue (rank & rings — the ensemble block below):** 59 → **"passed" — the dropped key on the floor** (formal in ch100); the twenty-year sentence received standing
+- **Xie Xie (rank & rings — the ensemble block below):** 67 · the catch; sitting where the miracle was
+- **Xu Xiaoyan (rank & rings — the ensemble block below):** 67 · under Elder Li's hairbreadth glance
 - **The elders:** Zhuo Shi pouring tribute he cannot stop; Cai's unscored page; Li's smiling exit
 - **Wu Zhangkong:** the words landed; the wrap folded; "that is also the profession"
 
-### Ranks at chapter end: Lin Hao **45** · SP **2,824** · hawk **3,199** · ledger **168** · Wulin **28** · Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — **the miracle born; the captain asleep; the dragon drinking tribute — morning = ch100 = canon 284 "Master Craftsman" (novelfull mirror; novelhall ID 10716129, FETCH FIRST as ore): the formal close, the POINTS, and THE REQUESTS (Wulin's armed for GY's point; the fifth's HELD — D23's morning)** — **NOT triggered:** the requests' spending · the formal scores/acceptance · the fifth's request's content · GY's formal standing · Wulin's smith rank's formal recognition · Feng Wuyu's identity · Mu Chen's letter's content · Cai's page verdict · the CCC-D answer · the placation errand · the letter · the tin · Old Tang · the seal NAME (never) · duel conditional · sword to Shen Yi · Na'er · Gu Yue's nature (the drawer) · WZK origin · armor worn · fusion door · blade forger · what answered · the ape · Mu Chen's first · the giver · "Divine Stormbringer" · the Union opening
+### Ranks at chapter end: Lin Hao **45** · SP **2,824** · hawk **3,199** · ledger **168** · Wulin **28** · Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — **the miracle born; the captain asleep; the dragon drinking tribute — morning = ch100 = canon 284 "Master Craftsman" (novelfull mirror; novelhall ID 10716129, FETCH FIRST as ore): the formal close, the POINTS, and THE REQUESTS (Wulin's armed for GY's point; the fifth's HELD — D23's morning)** — **NOT triggered:** the requests' spending · the formal scores/acceptance · the fifth's request's content · GY's formal standing · Wulin's smith rank's formal recognition · Feng Wuyu's identity · Mu Chen's letter's content · Cai's page verdict · the CCC-D answer · the placation errand · the letter · the tin · Old Tang · the seal NAME (never) · duel conditional · sword to Shen Yi · Na'er · Gu Yue's nature (the drawer) · WZK origin · armor worn · fusion door · blade forger · what answered · the ape · Mu Chen's first · the giver · the cancelled divine-tier evolution · the Union opening
+
+### Ensemble — canon-verified state
+
+_Single source of truth: `CHARACTER_STATS.md` §0/§1 (canon citations) and §3 (schedule)._
+_Every number below traces to a canon line or is labelled AU._
+
+- **Tang Wulin:** rank **28** · three rings (AU — canon's two not imported, on-page by ch97) + the claw bone · at Shrek, working student (canon c288)
+- **Xie Xie:** rank **33** · three rings (two yellow + one purple) · first-rank mecha craftsman · at Shrek (canon c288)
+- **Gu Yue:** rank **31 (AU — canon gives no rank at 13)** · three rings · spiritual power **700+, Spirit Sea (canon c231)** · Spirit Pagoda · at Shrek (canon c288)
+- **Xu Xiaoyan:** rank **30** · two rings (canon: two until the third at 30 — the crossing is the summer's own story) · spiritual power **400+ (canon c231)** · **"Captain"** · at Shrek (canon c288)
+- **Zhang Yangzi:** rank **31 (AU)** · the Eastsea dock — staying
+- **Wang Jinxi:** **LEFT in ch43** (canon ch 153) · last known rank 25 · the letters still cross — **NOT going**
+- **Wei Xiaofeng:** rank **30 (AU)** · still at Eastsea — *"Eastsea will keep"*

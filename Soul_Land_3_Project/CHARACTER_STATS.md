@@ -258,6 +258,15 @@ Canon's own longest plateau is Tang Wulin at **rank 11 from c45 to ~c98** (~53 c
 plateau is never automatically a bug. The bug that was fixed here was a **49-chapter** hold that
 *contradicted* canon.
 
+> 🔴 **2026-09-18 REGISTRATIONS — single source: `checks/ensemble_schedule.py::REGISTERED_PLATEAUS`
+> (the machine twin; `verify_ensemble.py`'s freeze detector reads THAT file, not this table):**
+> Gu Yue **21** ch41–66 (E5: adapted to the prose, AU-ahead of canon c224) · Tang Wulin **28** ch67–116
+> (canon's own trough — 28 from ~c230 until 29 at c335, §1.5; our story runs ~c230–c305 inside it) ·
+> Xie Xie **33** ch67–116 (c184 'highest' trajectory at the c281–c305 registration band) ·
+> Gu Yue **31 (AU)** ch67–116 (canon gives no rank at 13; Spirit Sea 700+ c231 standing) ·
+> Xu Xiaoyan **30 (AU-ahead)** ch68–116 (summer crossing ahead of the c273 bottleneck window) ·
+> Zhang Yangzi **31 (AU station)** and Wei Xiaofeng **30 (AU station)** ch67–116 (off-story numbers, registered not chased).
+
 ## 3.2 THE DEPARTURE ORDER (story facts, verified against the prose)
 
 1. **Wei Xiaofeng** leaves class zero first — canon: *"Wei Xiaofeng was the first to leave."*

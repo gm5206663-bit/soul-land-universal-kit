@@ -164,7 +164,7 @@ Lin Hao did not move. He did that on purpose, afterwards, he was proud of that: 
 
 "It spoke."
 
-Wulin set the hinge down. He came over and looked at the scale, which lay in Lin Hao's palms looking exactly like a piece of metal, and then at Lin Hao's face, and he had known him for nine years and did not ask.
+Wulin set the hinge down. He came over and looked at the scale, which lay in Lin Hao's palms looking exactly like a piece of metal, and then at Lin Hao's face, and he had known him for seven years and did not ask.
 
 "Can it be answered?" Wulin said finally.
 
