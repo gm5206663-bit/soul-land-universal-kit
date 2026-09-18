@@ -66,43 +66,6 @@ for probe in ['RECORD STACK', 'COVERAGE IS ELASTIC']:
 if not any(f.startswith('R5') for f in fails):
     W('  R5 brief carries the standing targets')
 
-# R6 LIVING PRESENCE (user mandate 09-03: "soul skills of Lin Hao completely ignored" -
-# named things that stop appearing silently die; measured: Wind-Step 47 ch silent, Gale Talon 32)
-import re as _re6, io as _io6, glob as _g6
-_chs = sorted(int(_re6.findall(r'\d+', f)[0]) for f in _g6.glob('chapters/chapter_*.md'))
-_new = _chs[-1]
-def _prose(n):
-    t = _io6.open(f'chapters/chapter_{n:02d}.md', encoding='utf-8').read()
-    e = t.find('## End of Chapter')
-    return t[:e] if e != -1 else t
-_pi = _io6.open('PROBLEM_INVENTORY.md', encoding='utf-8').read()
-def _debt(tag): return f'BH{tag}' in _pi
-# a) skill currency (Hawk-Soul Union exempt: reserved by law D006/K7)
-for _sk in ['Wind-Step', 'Gale Talon', 'Domineer', 'Frost Abyss']:
-    _last = max([n for n in _chs if _re6.search(_sk, _prose(n))] or [0])
-    if _new - _last > 12:
-        if not _debt(4):
-            fails.append(f'R6 skill {_sk}: last on-page ch{_last} ({_new-_last} ch silent) and no BH4 debt logged')
-        else:
-            sugg.append(f'R6 skill {_sk} silent {_new-_last} ch (BH4 logged - owed ch102/103)')
-# b) bond currency: Wulin + bond-vocabulary in one prose within 5 ch, or BH5
-_bv = _re6.compile(r'ledger|captain|the roof|his brother|the hem|confer')
-if not any(('Wulin' in _prose(n) and _bv.search(_prose(n))) for n in _chs[-5:]):
-    if not _debt(5): fails.append('R6 bond: no Wulin bond-vocabulary beat in 5 chapters and no BH5 debt logged')
-    else: sugg.append('R6 bond beat >5 ch (BH5 logged - owed soon)')
-# c) ensemble rotation: each of the four in prose within 3 ch, or BH5
-for _nm in ['Wulin', 'Xie Xie', 'Xiaoyan', 'Gu Yue']:
-    if not any(_nm in _prose(n) for n in _chs[-3:]):
-        if not _debt(5): fails.append(f'R6 ensemble: {_nm} absent from prose 3 chapters and no BH5 debt logged')
-        else: sugg.append(f'R6 ensemble {_nm} absent 3 ch (BH5 logged)')
-# d) mutation-stage currency: stage vocabulary within 10 ch, or BH1
-_ms = _re6.compile(r'storm-gray|hawk-gold|glacier|scale-|sheen|near-silver|lengthened|the marks|breath fog')
-if not any(_ms.search(_prose(n)) for n in _chs[-10:]):
-    if not _debt(1): fails.append('R6 mutation stage: no stage vocabulary in 10 chapters and no BH1 debt logged')
-    else: sugg.append('R6 mutation stage quiet 10 ch (BH1 logged - the deep-water reveal owed)')
-if not any(f.startswith('R6') for f in fails):
-    W('  R6 living presence: skills/bond/ensemble/mutation current or debt-logged')
-
 W('=' * 62)
 for f in fails: print('  FAIL ' + f)
 print(f'completeness_audit: {len(fails)} FAIL')

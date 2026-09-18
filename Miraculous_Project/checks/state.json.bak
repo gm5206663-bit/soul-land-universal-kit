@@ -1,0 +1,16 @@
+{
+  "chapter": 0,
+  "position": "before chapter 1 (story not started)",
+  "canon_slot": 1,
+  "canon_title": "Stormy Weather",
+  "resonance": 20,
+  "cuff": "not arrived",
+  "kwami": "not arrived",
+  "evolution": "not yet used",
+  "camouflage": "latent (innate talent visible as instinct only — no powers yet)",
+  "oc": { "name": "TBD", "age": "TBD", "class": "TBD" },
+  "akumatized_total": 0,
+  "butterflies_total": 0,
+  "hawks_knows": [],
+  "layout_note": "top-level fields = CURRENT values (mirror the newest chapter's footer); per-chapter history lives in top-level string keys \"1\", \"2\", ... — each {resonance, cuff, evolution, kame, akuma, butterflies, oc_turns, d_rows, anchors, canon_slot}"
+}

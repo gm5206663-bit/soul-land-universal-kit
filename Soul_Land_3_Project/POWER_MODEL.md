@@ -210,21 +210,7 @@ Every rebuilt chapter must satisfy:
 
 **🔴 SPIRIT REFINEMENT (the profession's divider — both boys' milestones):** thousand refinements open what a metal has; SPIRIT REFINEMENT changes what it IS — soul power + life force + metal harmonized, the martial soul as bridge; *"to spirit refine is to create life"* (Mu Chen). Normally four rings; the danger: premature disconnection — the metal's spirit devours the smith; backlash can end a career (Mang Tian's hidden injury). **Wulin (ch99): the blood-essence bridge — 'the older door'; the hammers drank the silver and became his hands (spirit-refined metal dissolves into the forger; armor-as-skin explained); MASTER CRAFTSMAN AT 13 — youngest in history.** Lin Hao: 5th rank by testimony (ch98's grammar-forge; 'Fifth.'). Two-word+ battle armor requires spirit-refined metal; Spirit can evolve into SOUL refinement; Thousand cannot evolve into Spirit.
 
-**🔴 THE ## THE STORM BODY — THE NAMED FRAME (organ, LOCKED 09-03; user mandate: "you should also name or something to his body because it's not normal")
-
-The body is the FOURTH COLUMN of his existence (martial soul + hawk + jiao + THE FRAME) — "one existence, one ladder, however many sides" (the session-t law). Its name in these docs: **the Storm Body**. ON-PAGE naming is a staged beat, not yet spent — do not fiat it into prose; when someone names it (WZK-shaped), it must be earned.
-
-**STATIONS (audited like rank):** level-5 foundation (birth) → iron-dense bones (hawk era) → **fist 5,000+ kg HELD** (the pell era) → the marks raised (ch62) → **LENGTHENED** (the jiao month, ch68 — see THE_CODEX §The Deep-Water Stage) → deep-water regeneration (ch68+) → CURRENT: looks ~16, Emperor-baseline effective, ceiling unrevealed.
-**LAW:** the frame is a tracked line — from ch102 the footer's state line names its station; the body trains with everything ("the body with it," ch71); never suddenly.
-
-## THE SECOND SPIRIT LINE — NUMBERS (the jiao counted; session-t law made numeric, 09-03; user mandate: "his second soul exact age that we can count it's growth")
-
-- **THE JIAO'S AGE: 12,000 years at the bond (ch68) — AU, ours to pin (canon 240's guardian was Wulin's Duskgold soul bone; ours diverged). Current, ch101: 12,210.** The +210, documented and derivable: Black Dragon Hall turn-over +40 · the trials' deep-water spends +90 · the domain folds +50 · the lake's confer +30. **From ch102 the footer's state line carries it beside the hawk: "hawk 3,199 · jiao 12,210."**
-- **GROWTH LAW (session t, already locked, now numbered):** the jiao grows with every absorption, fusion, and cultivation, exactly as the hawk does — but it is OLD; it grows by DEPTH (domain folds, deep water, the joining's duration) more than the hawk's AT-fed sprint. Rate honesty: slow, big-leap-when-it-comes.
-- **THE HAWK'S DRAGONWARD TENDENCY (design locked; SEPARATE from the held "what answered the hawk" — no spend of that thread):** living beside a dragon-jiao, the hawk's next ladder leans long and cold — shoulder pinfeathers with an opalescent sheen in ice-light (first visible sign, may land ch102–104); a cry carrying a note that is not a bird's; a stillness that hunts patient, like deep water. The canon Gale Eagle → Gale Demonic Eagle ladder is NOT his path; the AT curates toward the storm-and-deep-water whole.
-- **THE JIAO'S NAME:** unnamed on-page. Naming it is a staged beat (the Goldsong mirror — his captain named his; when Lin Hao names his second, it must cost something). Not fiated here.
-
-RECORD STACK (user directive, 09-03 — read aloud whenever 3+ qualified eyes share a page; never unwritten again):**
+**🔴 THE RECORD STACK (user directive, 09-03 — read aloud whenever 3+ qualified eyes share a page; never unwritten again):**
 - **Rank 45 at 13 — the youngest in the academy's ten-thousand-year records.**
 - **Spirit: REGISTERS at Soul Emperor tier (61–70) — a BASELINE, not a summit. Ceiling UNREVEALED: never used full power (never needed to); instruments max out first. Elder Li's frame: 'Not since Huo Yuhao has spiritual power like that worn a body this young.'**
 - **Rings: three purple + the BLACK ten-thousand-year FOURTH — an age top powerhouses wear once, lucky.**

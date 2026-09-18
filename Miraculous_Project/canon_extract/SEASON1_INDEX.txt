@@ -1,0 +1,78 @@
+# CANON SPINE — Miraculous Ladybug SEASON 1 (26 episodes)
+# Generated: 2026-09-04 (IST)
+# ORE STATUS: VERIFIED
+#
+# source_url (production-order table, VERIFIED 2026-09-04):
+#   https://miraculousladybug.fandom.com/wiki/Season_1  (chunk 2, table:
+#   "Episode List by Production Order")
+#   Table note on page: "This table reflects the order in which the episodes
+#   were written and produced. According to Thomas Astruc, this order is the
+#   closest to reflecting the show's continuity."
+#   => In production order, slot N == N° Overall (100 + N). Simple.
+#
+# OTHER ORDERINGS (do NOT confuse with the spine above):
+#   - US Nickelodeon broadcast order (2015-09-01 → 2016-05-24): different
+#     sequence. Verified anchors: US first airdated episode = "The Bubbler"
+#     (2015-09-01); US season finale airdated 2016-05-24
+#     (source: https://next-episode.net/miraculous-ladybug/season-1).
+#     Per-episode US airdates NOT tracked here — if a canon source cites a US
+#     "episode N", resolve it on that episode's own wiki page.
+#   - A list circulating on some episode-news sites (Stormy Weather #1,
+#     The Bubbler #2, Copycat #3, Timebreaker #4...) is a broadcast/streaming
+#     ordering, NOT production order. Do not use it for chapter planning.
+#
+# Per-episode recipe for ore extraction:
+#   1. fetch https://miraculousladybug.fandom.com/wiki/<Episode_Title>
+#   2. verify page title + "Season 1, episode NN" first line
+#   3. distill Synopsis/Plot/Characters into
+#      canon_extract/episodes/s1eNN_<slug>.txt with the VERIFIED header
+#   4. fetch /wiki/<Episode_Title>/Transcript only when exact dialogue is needed
+#
+# Format: slot (chapter slot) | N° Overall | Title (EN) | Title (FR) | ORE status
+# ============================================================
+#  01 | 101 | Stormy Weather                 | Climatika        | ORE DONE
+#  02 | 102 | The Evillustrator              | Le Dessinateur   | ORE DONE (episodes/s1e02_the_evillustrator.txt)
+#  03 | 103 | Lady Wifi                      | Lady Wifi        | ORE DONE (episodes/s1e03_lady_wifi.txt)
+#  04 | 104 | Princess Fragrance             | Princesse Fragrance | ORE DONE (episodes/s1e04_princess_fragrance.txt)
+#  05 | 105 | Dark Cupid                     | Le Dislocœur     | pending
+#  06 | 106 | Mr. Pigeon                     | M. Pigeon        | pending
+#  07 | 107 | Pixelator                      | Numéric          | pending
+#  08 | 108 | Copycat                        | L'Imposteur      | pending
+#  09 | 109 | The Bubbler                    | Le Bulleur       | pending
+#  10 | 110 | Simon Says                     | Jackady          | pending
+#  11 | 111 | Rogercop                       | Rogercop         | pending
+#  12 | 112 | Gamer                          | Le Gamer         | pending
+#  13 | 113 | Animan                         | Animan           | pending
+#  14 | 114 | Darkblade                      | Le Chevalier Noir| pending
+#  15 | 115 | The Pharaoh                    | Le Pharaon       | pending
+#  16 | 116 | Timebreaker                    | Chronogirl       | pending
+#  17 | 117 | Horrificator                   | Horrificator     | pending
+#  18 | 118 | The Puppeteer                  | La Marionnettiste| pending
+#  19 | 119 | The Mime                       | Le Mime          | pending
+#  20 | 120 | Guitar Villain                 | Guitar Vilain    | pending
+#  21 | 121 | Reflekta                       | Reflekta         | pending
+#  22 | 122 | Ladybug & Cat Noir (Origins 1) | Ladybug et Chat Noir (Origines 1) | pending
+#  23 | 123 | Stoneheart (Origins 2)         | Cœur de Pierre (Origines 2) | pending
+#  24 | 124 | Antibug                        | Antibug          | pending
+#  25 | 125 | Kung Food                      | Kung Food        | pending
+#  26 | 126 | Volpina                        | Volpina          | pending
+# ============================================================
+#
+# STATUS PER EPISODE (ore extraction):
+#   01 Stormy Weather  — ORE DONE: episodes/s1e01_stormy_weather.txt
+#   02–26              — PENDING (fetch on demand, recipe above)
+#
+# ARC NOTES (for the butterfly ledger):
+# - S1 = the "Agreste family arc": Gabriel's hunt for the Ladybug and Cat Noir
+#   Miraculouses is the throughline; the two "Origins" episodes (slots 22–23)
+#   are recap/backstory beats.
+# - One akumatization per episode (26 total in S1).
+# - Recurring S1 setups the AU may touch early: the "Alya is Ladybug"
+#   misdirection; Marinette's crush on Adrien; Plagg's cheese; KIDZ+/TVi
+#   world; Nadja & Manon.
+#
+# AU RULE (user-confirmed "tight_au"):
+#   The OC enters this world before or at episode 01 and their presence
+#   warps canon from chapter 1. Every divergence is logged in
+#   DIVERGENCE_LEDGER.md with a D-row ID; every chapter footer must cite
+#   the D-rows it advances or preserves.

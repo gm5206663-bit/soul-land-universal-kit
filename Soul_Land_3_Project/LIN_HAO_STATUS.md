@@ -19,7 +19,7 @@
 | **Effective combat power** | 🔴 **SOUL EMPEROR (61–70)**, ceiling Emperor peak (ruled ch68) — **16–25 ranks above his own number** |
 | **Rings** | **4 — three purple + ONE BLACK (ten-thousand-year ice-water dragon jiao, the intermediate guardian)** |
 | **Spiritual power** | **2,872** |
-| **Spirit souls** | **Gale Hawk 3,199 years · + the dragon jiao 12,210 (12,000 at the ch68 bond, AU — counted; POWER MODEL §Second Spirit Line)** |
+| **Spirit soul (Gale Hawk)** | **3,187 years** · **+ the SECOND spirit soul: the dragon jiao (fourth ring, black)** |
 | **Ledger (opponents adapted)** | **168 — line 168: *He woke. We're good enough. The academy came himself.* (the user's seed, spent). WZK stays off the book (ch69 ruling: he is the margin — 61 seconds / 9 armored / 13 years). Line 109 SPENT (ch71); the first hurt carried quiet (ch72)** |
 | **Smithing** | **5th rank — Master Craftsman (ch67, winter two — second-youngest in Branch records)** (canon c40: 1–2 Master · 3–4 Grandmaster · 5–6 Master Craftsman · 7–8 Saint Craftsman · 9 Divine Craftsman) |
 | **Swordsmanship** | **⚔️ Sword Intent** — absurd at ten; adults spend lifetimes below Intent |

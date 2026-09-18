@@ -2345,20 +2345,6 @@ Crossing 100→1,000 years is not growth — it is **biological evolution throug
 
 **Mutation escalation at the crossing (LOCKED):** mutations visibly jump — **his HAIR is the most noticeable change** (wind-touched: dark brown lightening toward storm-gray at the tips, carrying a faint permanent breeze — the first mutation people can SEE); feather-marks become permanent faint patterns, no longer combat-only; eyes begin perceiving spiritual-energy tracks; bones densify further. End-state direction unchanged: the storm body — slowly, never suddenly.
 
-#### ╧ THE DEEP-WATER STAGE — THE POST-JIAO APPEARANCE CANON (LOCKED 09-03; user mandate: "after absorbing the second soul and one month of it completely changed so you need to create")
-
-**The third great mutation era** — storm-light (ch8–13) → the crossing (ch40) → **the deep water (ch68+, the jiao month)**. The absorption month rewrote the frame; the change is LENGTH, not age, and it is cumulative like everything in this body:
-
-1. **THE FRAME LENGTHENED.** The jiao is a long thing, and the body took the gift: a head and more of height, the reach longer, the school sleeves short now. The "looks ~16" is the LENGTH — the face stayed thirteen. (This is why strangers mis-age him; the registration desk will not be the first.)
-2. **THE COLD LINE.** Breath fogs faintly in cold rooms. Cold water stopped registering — the lake in winter would feel like nothing. Skin runs cool after skill-spend; frost does not stick — it beads and slides.
-3. **THE EYES.** A thin glacier-green ring joined the gold-flecking — visible only in ice-light and water-light. Amber, gold, and now that.
-4. **THE MARKS.** The raised forearm marks (ch62) carry a faint overlap-sheen when the domain breathes — scale-TRACE, never scales. The AT curates hydrodynamics, not armor.
-5. **THE HAIR.** The storm-gray spread from the temple-lock into streak-work; ONE strand at the front gone near-silver (the jiao's cold rising); the breeze permanent; the hawk-gold now two currencies — gold, and one cold pale strand.
-6. **REGENERATION.** Deep-water regeneration: whole-limb class IN water ("the deep water sees to its own"); 80 s with the dragon's line on land.
-7. **THE v2.56 OWED STAGES, DELIVERED HERE:** the wind-patterns now permanent faint traces (no longer combat-only); energy-track vision complete (air-currents AND water-currents); bone density a third time.
-
-**ON-PAGE OWED: ch102 (registration morning) — the full reveal through NEW eyes** (the appearance law's r3: at least one character reacts ALOUD). **Forward ladder (never sudden):** at the jiao's next +500 — the oxygen-efficiency debate (AT would curate efficiency, not gills), the domain's hem carrying cold visibly, the silver spreading; at hawk 3,500 — the pinfeather sheen (see POWER_MODEL §The Second Spirit Line).
-
 #### Mutations (spirit-soul & growth driven — LOCKED SYSTEM):
 
 **The law:** mutations flow from the **spirit soul and cultivation growth** into the host's body — and a modest starting base mutates EASILY. A level-5 foundation offered little resistance to change; the AT resists nothing beneficial and *curates* everything. So his mutations began small and simple the day the Gale Hawk entered him — and compound as the hawk grows (700 yrs now; each threshold deepens them). Small → slow → big. Nothing is sudden; everything is cumulative.
