@@ -99,7 +99,7 @@ K3 | Three Thunders in One Voice — the synchronisation of all three soul skill
 K4 | The battle-armor-smithing thread is OPENED and advancing. Xie Xie decided out loud in ch62; ch63 named the whole road on-page (fifth rank / Master Craftsman / spirit refinement, the 380 g failed scale lent for one week, Mu Chen gating the examination). The canon ch 218 foundation line is MU CHEN'S (said to Duan Xuan, about Wulin) — the docs had it right; a ch63 first draft mis-corrected it to Shen Yi and was repaired after full-text comparison. Open until the metal is made. | Advanced (ch63)
 K5 | Shen Yi is Wu Zhangkong's TEACHER, now on the page, but their history is unexplored and Shrek is still not named as his origin (canon ch204 reveal). | Open, scheduled
 K6 | Canon gaps — ch 28 missing, ch 1-22 not held, nothing past ch 600 (and 600 is not the ending), canon 337-600 skimmed not read. | Open
-K7 | HAWK-SOUL UNION has never been used on-page, 62 chapters in. Deliberate (D006), but it upgraded to thousand-year tier at ch40 and that half has never been shown. The debt is not the upgrade; it is that the trump card has no shape in the reader's mind. | Open by decision, 22 chapters old
+K7 | HAWK-SOUL UNION had never been used on-page at ch62 (deliberate, D006). **PAID at ch116:** on-page prose — "He opened the Union for ten seconds and folded it; opened it for fifteen and folded it" — drilled to on-call; footer: "the Hawk-Soul Union opens on command (was emergency-only)". | **Resolved ch116 (2026-09-18 audit)**
 K8 | Butterfly density measures presence, not quality. A chapter can score 1.3 per thousand words and still be thin. | Method
 OPEN-PROBLEMS-END -->
 
