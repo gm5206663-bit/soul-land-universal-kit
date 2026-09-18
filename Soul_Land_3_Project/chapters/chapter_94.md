@@ -72,6 +72,10 @@ He had lit nothing all exam. Nine trials of edges, of herding, of being the plac
 
 The reason was standing frozen behind him — four statues of his class, and the fifth the only thing still moving.
 
+The statues had a last ten seconds of being people first. Xiaoyan found his sleeve, found it was already rimed with a film of frost like window-glass in winter, and did not let go of it anyway — her hand the one part of her the fear-lock still let move, and she used it on that. Gu Yue's glance went to the red eye and came back to him, and the arithmetic she did with it she kept to herself, which was its own kind of promise; if he were wrong about the next thirty seconds she had four elements loaded and no order to wait for. Xie Xie, who had three clones out and nowhere to spend them, laughed once, shaky, short — the laugh of a boy whose own funeral music had just turned into someone else's.
+
+And Wulin, the space-hardening on him like a coat someone else wore, did the only thing the rules still permitted: he stood to. He couldn't reach the fight, so he reached the geometry of it — shifting his weight one half-step nearer to the girls, the captain's body arranging itself between the class and whatever came through the wall, even when the wall was Lin Hao. His eyes said the rest, because the freeze owned the rest of him: *Go on. We are here. You are not the only one in this forest.* Two of them, shoulder to shoulder, since they were nine years old and the water had been just as cold.
+
 Lin Hao held out his right hand, and *summoned his sword.*
 
 The Frost Abyss Sword came out of him the way winter comes out of a clear night sky — no warning, total arrival. Black iron, cold past color, a blade with a library in it: four elements asleep down its length, and the iron not a fifth element but the *house they lived in*. The cave went quiet the way his family's shop went quiet on the last cold morning of a year. Even the red pressure paused to look at it.

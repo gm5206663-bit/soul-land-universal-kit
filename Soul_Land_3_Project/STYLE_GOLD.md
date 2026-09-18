@@ -74,7 +74,13 @@ A three-word law repeated until breaking it IS the development: "The margin goes
 
 ## The Cliff Bank (study sheet — final lines, c69–92, verbatim)
 
-**Cliff bank c93–100 (the ore era):** c93 *"The claw came down."* · c94 *"The night had three keepers now, and none of them were done."* · c95 *"Elder Cai looked back at them with the eyes of a woman about to enjoy her job."* · c96 *"A granddaughter driven off this roof under my own watch… CAI YUE'ER! What is this?"* · c97 *"The metal glowed. The night was long. Nobody left."* · c98 *"Wulin's forty-ninth tap fell."* (the held landing) · c99 *"The night kept all of it. Morning would be loud."* (long-lyrical close) · c100 *"'Show me,' his teacher said, and drew."* (short-stark). Era note: the ore era favored HELD landings — cut at the moment before resolution, the room leaning in.
+**Cliff bank c93–100 (the ore era):** c93 *"The claw came down."* · c94 *"The night had three keepers now, and none of them were done."* · c95 *"Elder Cai looked back at them with the eyes of a woman about to enjoy her job."* · c96 *"A granddaughter driven off this roof under my own watch… CAI YUE'ER! What is this?"* · c97 *"The metal glowed. The night was long. Nobody left."* · c98 *"Wulin's forty-ninth tap fell."* (the held landing) · c99 *"The night kept all of it. Morning would be loud."* (long-lyrical close) · c100 *"'Show me,' his teacher said, and drew."* (short-stark) · c101 *"Morning was already coming, and morning was loud."* (long-lyrical, rotated — the five asleep, two weapons still conferring). Rotation check after c100's short-stark honored, not repeated. Era note: the ore era favored HELD landings — cut at the moment before resolution, the room leaning in; c101 is the exception that completes an arc, not a cliff-hang.
+
+**Cliff bank c102–108 (the Shrek era):** c102 *"Outside… the September branch held its frost through the first night, and the forge breathed slow against the warm wall."* (long-lyrical, institution-breathes) · c103 *"Nothing's impossible to get wrong,"* Tie Jin said. *"That's the wall. But the —"* (held-mid-sentence, teacher cut at threshold) · c104 *"…the discipline committee of Shrek Academy settled in, smiling the smile of a man who had not yet read the last column of the ledger."* (long, menace set not paid — the bet) · c105 *"I, Ye Xinglan, who decides things, have not decided it."* (POV-flip close — her interiority, not his; the chapter handed to another character's last line) · c106 *"The pitcher had said it."* (short-stark, object-speak — the frost as the chapter's real speaker; rotated: c100/c103 already used stark, so this one lands on a thing, not an action) · c107 *"The teacher shows the door. The question is which side of it she's standing on."* (thematic question-close, his notebook italic — returns to pattern #1's *what* after a run of event-landings) · c108 *"Open."* (single-word close — the receipt unresolved, a standing column left deliberately un-ticked). Rotation check: the Shrek era alternates object/thing-closes (c106 pitcher, c103 wall), POV-flip (c105 Xinglan), notebook-italic theme (c107), and the one-word (c108) — no two adjacent chapters share a closer type; c108's single-word "Open." is the shortest landing of the fic and is not to be repeated next (c109 should close long or on another voice).
+
+**c109 addendum — the movement close:** c109 ends on the protagonist already *walking toward* the next thing ("He started walking toward the foundry to tell Wulin… and to borrow a better hammer for the road") — a **kinetic/into-the-next-chapter** landing after c108's static one-word. Rotation honored (static→kinetic; unresolved column→already-moving). Note: c109 deliberately closes at THRESHOLD (ticket taken, fight not run) — the assignment/execute seam law; the cull FIGHT is ch110, so the landing promises motion rather than delivering the crossing. Rule: when a chapter books a crossing it does not execute, close on the body already moving toward it (anticipation), never on the stats.
+
+**c110 addendum — the ORIGINAL solo fight chapter (no canon scene):** c110 "The Seam" is a Lin Hao-original set piece (the cull) with only canon *economy* rules cited (canon ch 296/297 job board). Devices it proved: **(a) the fight as a smithing problem** — the kill is found by *reading seams* in living armour (the failure-wall wrist-guard lesson pays off a year later), so the protagonist's second profession IS the weapon; **(b) the honest ceiling beat** — he spends his whole ordinary reach and the sealed trumps never stir; the point is that the workout DIDN'T open the lower rooms (a crossing chapter crosses; a non-crossing chapter says so and earns the anticlimax — do not inflate a kill into a breakthrough); **(c) the first kill weighted** — no relish, a hand on the crown, no speech, use-the-whole-animal, downplayed to authority; the reader supplies the weight. Closer type: **the carried-forward question** ("where is the thing that makes me reach?") — a thematic/forward close, distinct from c107's notebook-italic and c109's kinetic. Rotation c108 word → c109 kinetic → c110 question-forward: honored. Zero-tolerance note: an original-set-piece chapter STILL needs a `canon ch 2xx` literal citation (the world rules' source) and must not name a `canon_NNN` file that isn't on disk.
 **Shape c93–100 (measured 09-03):** 8 chapters · 1,433–2,221 words (avg ~1,800 — the ore era ran leaner than the 3,078 lifetime avg) · dialogue 12.3–47.7% — the reveal/defiance chapters (36–48%) vs the forging hush (12–25%). The dial holds.
 
 - c69 "Line one hundred and nine stayed unfinished, coat on, one button undone, riding in his bag like everything else that mattered."
@@ -98,5 +104,63 @@ A three-word law repeated until breaking it IS the development: "The margin goes
 - c90 "…two old monsters and one teacher leaned in."
 - c91 "…flat as five commas in the valley's great sentence."
 - c92 "Somewhere north, muffled by a mountain's worth of stone, the two lights were still arguing."
+
+**c111–c113 addendum — the smith arc and the BIG CROSSING (the restraint era ends):**
+- **c111 "Two Smiths, One Roof" (canon 299+300):** two canon smith threads fused as one continuous *workshop* scene; devices: **(a) craft-as-revelation through a third party** — He Qiao values the salvaged plates and *names the Saint hand Lin Hao lacks*, so the power economy is told by a master's pricing, not a lecture; **(b) the held-back TASTED through craft** — "within earshot when you stop holding back" is the first time an adult senses the margin via the *work*, keeping the Spectator Test (no human sees the combat crossing) while the pressure of the secret starts to leak down a permitted channel (craft, not battle).
+- **c112 "The Freaks" (canon 301+302):** economics + a long-held SECRET PAYOFF (D28 working-student = freak) in one span; **silent confirmation** (his ch107 deduction proven on-page, he says nothing) — the protagonist's restraint IS the beat; the chapter's kinetic close ("Tomorrow I take the expensive one") BOOKS the crossing it does not run.
+- **c113 "The King's Ground" (ORIGINAL set piece; THE LARGEST CROSSING IN THE BOOK):** after a run of threshold chapters, the held crossing is PAID in full. Devices: **(a) escalation by MIS-MARKED TICKET** — the reader and protagonist expect an apex ten-thousand-year and find a RED-ring (hundred-thousand-year) king, so the over-tier pressure is a discovery, not an asspull; **(b) the DOORS OPEN IN ORDER** — each held trump (Union, Storm Reading, Three Thunders, Domain-at-war, dragon fusion) spends and is shown to be INSUFFICIENT in turn, so the final gate (Sword Soul) is *earned by exhaustion of every lesser answer*, not granted; **(c) the crossing is QUALITATIVE with numbers HELD** — rank/SP/hawk/ledger/rings all stay (SP spends to empty and refills; the sea changes FREQUENCY not size), the change is the sword-realm, so the biggest power moment moves the story's ceiling without breaking the number ladder; **(d) he does NOT win** — even all-out + Sword Soul only makes the king's own iron RESONATE one heartbeat; a hundred-thousand-year king ANSWERS and SPARES him (the spared-bear law scaled to a sovereign), which keeps it earned and reframes victory upward; **(e) no human witness, distant SENSING only** — WZK feels a realm above his own and can't place it; Gu Yue's wind goes still (receiver law, weather not words); the Spectator Test survives the biggest event in the book. Closer type: **long-lyrical road-ahead** ("the long climb to make a man-shaped body into something that can one day carry the sword he already is") — a thematic/forward close that names the NEW ENGINE (mortal sword-saint in a rank-45 body) rather than hanging a question; rotated cleanly after c112's kinetic decision-forward. Lesson: a crossing chapter must still obey traceable numbers and the spectator law — the *scale* changes (a realm, a spent reserve, a radar-ping), not the arithmetic.
+
+**c114 addendum — the WORLD-REACTION chapter after a crossing (Story-Method §42/§26 in practice):** c114
+deliberately does NOT fight after c113's boss+breakthrough. Devices: **(a) the leak is structural, not a
+slip** — a crossed realm can't be whispered back, so the Sword Soul "goes out" through the note itself (a
+master FEELS a register above him), yet the report carries *direction + tier, not a name* — no instrument
+brackets a sword soul at rank 45, and Wuzhangkong REASONABLY RULES OUT a first-year; the Spectator Test
+survives and the crossing converts into a MYSTERY with a clock (the investigation). **(b) canon-ore folded as
+institutional pressure, not spectacle** — Mu Chen resigning Eastsea and booking for Shrek lands a NEW MASTER on
+the board (relationship + plot) with zero combat; Lin Hao reads it "a relocation strike" (the smith's voice
+analysing a master's decision). **(c) conflict rotates to the social/secret-keeping table** — the dinner (canon
+303 count; Yue's uninvited siege; Wulin independently reaching the edge of the Yuanen truth and HOLDING it —
+"brothers keep the same silence") and the Gu Yue receiver beat (two-day watch, one plain question, wrong wind,
+the new note felt-but-unnameable; no confession). **(d) a HOLD chapter holds numbers AND the new tier** — Sword
+Soul is carried, never re-spent or demonstrated; rank/SP/hawk/ledger all still. Rule: after any crossing, the
+NEXT chapter pays the world-reaction (who notices, what it changes for the institution, what's now
+possible/impossible) before any new escalation; and the safest immediate follow-up to a fight chapter is a
+non-fight chapter. Closer type: the converging-trains close (two masters move toward Shrek while he takes his
+ordinary seat) — parallel-motion, not a one-line hook.
+
+**c115 addendum — the HARVEST chapter (method §46 "use everything"; the cure for planted-guns-that-never-fire):**
+when the ledger is heavy with *staged/arriving/due* threads, run a CONVERGENCE chapter that spends several at
+once instead of opening new ones. Devices: **(a) one cause, many payments** — let a single event (a master
+comes to the ground) gather the staged threads (the Saint meeting, the Eastsea reunion, the plates) so firing
+four guns reads as one morning, not four episodes; **(b) the secret leaks through the RIGHT channel** — the
+Sword Soul is felt by a sword-peer (Xinglan) as a rung to climb and by craft-allies (Feng/Mu/He Qiao) through
+METAL, never named, so a power is shared/used without a public reveal (Spectator Test survives because the
+witnesses are chosen allies in their own domain, not rivals or crowds); **(c) teach-by-fraction** — a
+mastered-but-unlit ability pays off by RINGING the learner's own weapon for ten breaths and then folding back;
+the gift is direction, not power; **(d) the promise gets a body** — "wants a sixth-rank hand I don't have"
+becomes the Saint's actual hammer on the seam, so a held object (the plates) becomes an open project; **(e) warm
+register after tension** — after a boss-fight (c113) and an institutional-mystery (c114), pay the reader with
+allies, welcome, and a door that loses its name; relief is a conflict-type too. Rule: before every new chapter
+sweep the "staged/due/arriving" register and spend at least as much as you promise; never close a scene with
+nothing fired. Closer type: the morning-as-ordinary, everything-moving close ("three of the strongest smiths on
+the continent on the same ground… everything he'd been hoarding came out of the cupboard and went to work") —
+a state-of-the-board landing rather than a hook.
+
+**c116 addendum — the GRIND chapter (the other half of "use everything": use and GROW the power kit, not only
+the plot threads):** harvesting staged plot-guns (c115) does not answer the mandate if the POWER LEDGER still
+freezes. After a big crossing, the crossing is not actually KEPT until it is drilled — a realm won under duress
+and never practiced is a trump the character doesn't own. Devices: **(a) work-the-new-metal as the spine** —
+treat a crossed realm like a raw bar of ore: it must be folded/annealed/struck or it stays stone; run the
+familiar cultivation METHOD through the new thing to give the wild current a cut channel (accidental leak →
+carried fluency). **(b) the whole bench back on the anvil** — every established skill reappears and is refined
+AGAINST the new tier, so old powers level up from contact with the new one (the frost domain goes "at war" → "at
+peace"; the imperfect fusion's burn is calmed by the note) — this is how "mutations never stop" and "skills back
+in rotation" get honored without inventing new powers. **(c) move the numbers by EARNED increments that never
+touch a sealed gate** — SP climbs inside its current realm (check STATS §1.2 ladder so the gain is real but far
+from the next threshold), hawk up through drilled fusion, ledger up through on-page paid work; state.py must
+pick every number up, so gains are written as the exact tracked fields. **(d) make grind a chapter TYPE**
+(§42 training/cultivation; §43 escalation = mastery/control, not enemy power), and give it a deadline so the
+sharpening pays off (the coming battle). Rule: no two chapters in a row may freeze the whole power ledger;
+between crossings, continuous on-page grind moves SP/hawk/ledger/mastery and keeps every tool in practice.
 
 **Law (oo-2): the gold is consulted, not decorated with** — one or two patterns breathing per chapter beats a checklist stamped whole.

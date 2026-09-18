@@ -48,6 +48,11 @@ for f in chapters:
     # 6. WORD FLOOR (summary-as-chapter guard; prose section only)
     if len(prose.split()) < 900:
         warns.append(f'ch{n}: prose only {len(prose.split())} words (<900)')
+    # 6b. RAW UNICODE ESCAPES (the heredoc escape-form sharp edge — em-dashes/middots
+    #     landing as literal \u2014 / \u00b7; caught ch98/99/101 footers in audit BG, 09-03).
+    #     Scan the WHOLE chapter incl. footer — footers are delivered text too.
+    for m in re.finditer(r'\\u[0-9a-fA-F]{4}', t):
+        fails.append(f'ch{n}: raw unicode escape in text: {t[max(0,m.start()-25):m.end()+15].strip()[:70]}')
 
 # 7. INDEXED CROSS-CHECK: newest chapter cites the newest canon or states its canon range
 newest = chapters[-1]

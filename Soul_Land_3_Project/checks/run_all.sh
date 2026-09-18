@@ -30,3 +30,7 @@ echo '--- Layer 7: divergence ---'
 python3 checks/divergence_engine.py || exit 1
 echo '--- Layer 9: completeness ---'
 python3 checks/completeness_audit.py || exit 1
+echo '--- Layer 9.5: momentum (THE MOMENTUM LAW — gates fire, no 3-step freeze) ---'
+python3 checks/momentum_audit.py || exit 1
+echo
+echo "run_all: ALL GREEN (state · footer · locks · sync · zero-tolerance · presence · workspace · divergence · completeness · momentum)"

@@ -1,6 +1,6 @@
 # Chapter 80: Testing Specialties
 
-## Canon Reference: canon ch 259 — "Testing Specialties" (fetched live 2026-09-07, title-verified; `canon_extract/chapters/canon_259.txt`, 1,519 w). The fourth trial: ONE specialty each · the gold-line corridor · Elder Cai and the two men · Xie Xie's three tangible clones. 🔴 RECEIVER LAW v2 APPLIED AT INGEST: every pairing beat in this canon chapter is Wulin-received in canon — in this story each is derived from OUR causes (the ride was Lin Hao's, ch79; the brother knows; her warmth is not explained, because the purse does not open in the street). Canon's stated cause (the bathtub image) is REFUSED — it belongs to a pairing that does not exist here and to a scene our story never had.
+## Canon Reference: canon ch 259 — "Testing Specialties" (fetched live 2026-09-01, title-verified; `canon_extract/chapters/canon_259.txt`, 1,519 w). The fourth trial: ONE specialty each · the gold-line corridor · Elder Cai and the two men · Xie Xie's three tangible clones. 🔴 RECEIVER LAW v2 APPLIED AT INGEST: every pairing beat in this canon chapter is Wulin-received in canon — in this story each is derived from OUR causes (the ride was Lin Hao's, ch79; the brother knows; her warmth is not explained, because the purse does not open in the street). Canon's stated cause (the bathtub image) is REFUSED — it belongs to a pairing that does not exist here and to a scene our story never had.
 
 ---
 

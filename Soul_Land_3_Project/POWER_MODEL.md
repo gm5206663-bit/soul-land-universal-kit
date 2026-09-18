@@ -206,7 +206,7 @@ Every rebuilt chapter must satisfy:
 
 **CH68 — THE FOURTH RING (executed per the locked law v2.98):** rank 40 → **45** (direct) · SP 1,553 → **2,705** (+1,152: a ten-thousand-year soul's month is a ten-thousand-year-sized month — a seal-break-class step) · hawk 2,597 → **3,055** (burned to embers in the fight, then regrown for thirty-one days in deep-water company: net +458) · ledger 164 → **165** (the guardian, different ink) · rings 3 → **4 (BLACK)** · **FROST ABYSS SWORD (top-level) · Frost Abyss Domain (folded) · Domineer** · looks ~16 · 🔴 **EFFECTIVE COMBAT POWER RULED UP: Soul King (51–60) → SOUL EMPEROR (61–70), Emperor as the MEASURED BASELINE — ceiling UNREVEALED (amended 09-03, user directive: he has never used full power; never needed to; every instrument maxes out first — the fist machine ran out; the exam’s scales never held him).** · 🔴 **FIST RE-MEASURED (day 31, on-page): 5,000+ — the machine RAN OUT at its ceiling** (canon c114's 5,000; Wulin's dragon claw read 3,998 at nine; Lin Hao passes it barehanded). The 2,612 kg figure is now the pre-emergence floor, historical. The 41–50 rank title exists in no held canon text and is deliberately not invented.
 
-**🔴 WEAPON INTENT (born ch100 — the user's seed; D24):** the graduation from Sword Intent/sword consciousness. The intent lives in the PURPOSE, not the steel — *"every weapon is one idea wearing different bodies"*; the six strokes transpose whole into any wielded thing (the branch that sang; the oar that swept; the fist; the stone). Derivation chain: ch98's forge-translation → ch99's audit → ch100's oar-disagreement. **Why he alone crosses: the adaptation talent (「全能」) — a talent that adapts to everything finds the intent that lives in everything wielded.** Law: QUIET — no numbers, nothing spent, no ripple; qualitative like all his ceilings. First test: the lake lesson ('Show me' — ch101).
+**🔴 SWORD CONSCIOUSNESS (剑心; tier 2 of the four sword realms — the lake crossing ch100→ch101; D24).** 🔴 CORRECTED 2026-09-03 (user): the earlier "WEAPON INTENT, graduated past sword consciousness" label was WRONG — a canon translation-muddle (SL3 uses "intent" loosely for all wielders; Ji Juechen's skills are named Sword Intent while his true realm is the fusion). The ladder: **Sword Intent 剑意 (thought → cutting force, no spirit skills — held since the academy era) → Sword Consciousness 剑心 = "Man and Sword as One," the sword moves by SUBCONSCIOUS reflex (HERE — the lake lesson: a dead branch vs Skyfrost; spear/fence/shield/oar transposition; WZK, himself Consciousness-tier, said "we confer" as PEER recognition, not promotion above him) → Sword Soul 剑魂 (merge the MENTAL SEA / soul fluctuations into the weapon's frequency — Ji Juechen's mortal meteorite-iron Tremor Sword blocking battle armor/divine gear; the practical limit for mortal monsters; for Lin Hao it runs through the Inner Country's iron vein — FAR, sealed) → Sword Spirit 剑神/剑灵 (the blade itself lives / aligns to planetary law — legendary).** Within Consciousness, the purpose wears every weapon ("every weapon is one idea in different bodies" — the branch, oar, broom; that is BREADTH in tier 2, not a realm); the adaptation talent is why he transposes; WZK's last correction: "keep the first body fluent" — the sword stays the grammar's base. Law: QUIET — qualitative like all his ceilings; the Soul-Sword crossing, when it comes, is a full gate event (sea + vein + blade at once), never drip-written.
 
 **🔴 SPIRIT REFINEMENT (the profession's divider — both boys' milestones):** thousand refinements open what a metal has; SPIRIT REFINEMENT changes what it IS — soul power + life force + metal harmonized, the martial soul as bridge; *"to spirit refine is to create life"* (Mu Chen). Normally four rings; the danger: premature disconnection — the metal's spirit devours the smith; backlash can end a career (Mang Tian's hidden injury). **Wulin (ch99): the blood-essence bridge — 'the older door'; the hammers drank the silver and became his hands (spirit-refined metal dissolves into the forger; armor-as-skin explained); MASTER CRAFTSMAN AT 13 — youngest in history.** Lin Hao: 5th rank by testimony (ch98's grammar-forge; 'Fifth.'). Two-word+ battle armor requires spirit-refined metal; Spirit can evolve into SOUL refinement; Thousand cannot evolve into Spirit.
 
@@ -214,7 +214,7 @@ Every rebuilt chapter must satisfy:
 - **Rank 45 at 13 — the youngest in the academy's ten-thousand-year records.**
 - **Spirit: REGISTERS at Soul Emperor tier (61–70) — a BASELINE, not a summit. Ceiling UNREVEALED: never used full power (never needed to); instruments max out first. Elder Li's frame: 'Not since Huo Yuhao has spiritual power like that worn a body this young.'**
 - **Rings: three purple + the BLACK ten-thousand-year FOURTH — an age top powerhouses wear once, lucky.**
-- **A self-made sword style at thirteen (sword consciousness; six strokes no teacher ever wrote).**
+- **Sword Consciousness (剑心; Man-and-Sword-as-One) at thirteen — the second of the four sword realms (Intent → Consciousness → Soul → Spirit); six strokes no teacher ever wrote; crossed at the lake, recognized by a Consciousness-tier master as a peer.**
 - **Smith: 5th rank — proven to the profession's elder in one word.**
 - **All on ONE martial soul — the variant hawk 'the Awakening halls filed under ordinary.'**
 - **Growth: the rate itself the record — the ceiling is a question, not a number.**
@@ -428,3 +428,92 @@ replenished). **The run: 70/100 through six; outer alive with margin; inner thro
 
 ### THE ADAPTATION TALENT CANON (library-governed)
 The talent never creates from nothing; never exceeds the user; never speaks. Full system: `library/adaptation_talent_framework.md` (Level 0-10 primary; Master Foundation supplementary).
+
+---
+
+## 🔴 SESSION BG (09-03) — STATIONS ch86–101 (the append that never happened; bg2 mandate)
+
+**🔴 GROWTH NATURE (bh correction of bg2 — the drip-count model is REFUNDED): spirit souls grow by
+CROSSINGS, not trickles (the hawk proves it: the 900 lightning gate, the 1,000 purple gate — whole-tier
+leaps like canon's Goldsong). The JIAO is born at the TEN-THOUSAND tier (black ring, ch68): that
+threshold IS its age, like a rank. It MATURES in place — the bond climbs rung by rung (the joining
+40 → 90 s and counting; the domain hem; Domineer's breath) — but its year-figure does not tick
++50/arc; its next crossing is the hundred-thousand gate, far and sealed. No drip numbers anywhere
+(bg2's 10,040→10,270 retracted). When the whole existence moves, it moves ALL AT ONCE (the month:
+martial soul, body, appearance, rings, name changed in one crossing).**
+
+**THE BODY = THE CONVERGENCE (no single name; bg2's "Frost-Body" refunded — it named one contributor
+and hid four):** five lines build the one body — (1) the ANVIL: seven years forge work, grain-reading
+shoulders, smith's wrists, 5,000+ kg; (2) the HAWK: storm-light reflexes, the far eyes, wind in the
+nerves; (3) the JIAO's deep water: regeneration, cold as furniture, the frost sign; (4) sword/WEAPON
+INTENT: intent-first movement; (5) ADAPTATION underneath all five, reshaping them daily. In-world
+medics cannot classify it — five signatures on one body, no academy bracket. **PAID ch102: intake medic Su Wen read all five plus the ten-thousand-tier array result (read twice) and filed the anomaly with no label — bottom drawer 'Unclassifiable,' annual review; her body of evidence is the anomaly file (D25), counterpart to his ledger.** "Your winter" survives as Wulin's nickname for the FROST SIGN alone.
+
+**🔴 THE SPIRITUAL SEA — SHOWN ON-PAGE (bh mandate; first seen whole ch71 joining):** SP 2,824 = Spirit
+Sea tier. The inner country: a vast dark still-water SEA (the jiao's; the coil turning at its bottom
+like a continent in sleep); above the surface a permanent STORM-SKY (the hawk's; clouds moving in the
+wrong direction, lightning fishing far up, never striking into the water that isn't its territory); the
+adaptation moving between both. Recur at every major growth — the sea deepens at crossings, the sky
+weathers at the hawk's crossings, the fusion sword's iron lives in the water like a vein.
+
+**THE HAWK'S DRAGON-BLOODLINE MUTATION is a walked line (bg2):** black-edged Talon (ch68 fight) →
+winter-tipped blue-black feathers + colder hawk-gold (emergence) → frost-rime on the claw (ch71) →
+frost spread from its claws + the second cry-note, low like a setting lake (ch101 lake stage) —
+direction: flies like weather, lands like winter.
+
+**CH86 — SHE CROSSED (canon 265):** rank 45 held · SP 2,832 → 2,840 · hawk 3,187 → 3,191. GY's
+recall crossing: his frost-road used in the forest cold later.
+**CH87 — THE SMILE / PLAYFULNESS PAID (canon 266):** the "Again" — sleeve-tugging; he keeps score
+out of old habit and finds there's nothing left to pay it on. hawk 3,191 → 3,199 (the crossing plateau
+reached; holds 3,199 from here).
+**CH88–89 — trials 8/9 setup (canon 267–272):** the gate grammar; the hall at full attention;
+numbers held.
+**CH90 — SURVIVE (canon 273):** the forest frost-road — **the deep-water sign of the convergence laid
+down as a road for the class (bg2 retrofit): a half-step of frost he controls in a forest he refuses
+to spend the Domain in**; brotherhood grip (Wulin: "keep it on the outside"); Xie Xie: "completely in favor."
+The evac quiet: GY's wind-birds, Wulin's watch, the fifth reads the grain.
+**CH91 — THE NINTH LIVE (canon 274):** the sword alive at the rim (yellow paid); brothers at the edge
+(yellow); evacuation read confirmed.
+**CH92 — AUSPICIOUS EMPEROR (canon 275):** the two thirty-meter lights.
+**CH93 — the forest's read (canon 276):** the long afternoon; numbers held.
+**CH94 — THE FROST ANSWERS A KING (canon 277) — THE KIT'S BIGGEST EXAM SPEND:** rank 45 held ·
+SP 2,924 → **2,824 (−100, numbered and felt — "a month of deep water poured out through one seam")**
+· hawk 3,199 · the black ring's sword and Domain **FINALLY SHOWN**: Frost Abyss Sword summoned
+(first light of the exam) → **Domain UNFOLDED** (folded since the bear) → Sword Intent (sword
+consciousness: "the intent that knows the cut before the cut") → spiritual power fused down the
+iron → **FOUR ELEMENTS IN ONE STROKE** (water the seam · ice the wall · wind the wedge · lightning
+inscribes) — **kings answered, not killed**; the ice HOLDS against the Demonic Edge; Cai: "Four in
+one stroke. Write it down." The class frozen (canon) — **the four statues' last ten seconds as people
++ Wulin's half-step of geometry (bg2 retrofit).**
+**CH95 — END IT (canon 278):** Cai's verdict spoken; trial's end the academy's act (D02's teeth).
+**CH96 — THE FIFTH'S ANSWER (canon 279):** the Three Hall Review; GY 59 rejected by one point;
+Wulin's renunciation on the table; the fifth's offer refused ("name the price of the point"); the
+number — LH 60, flat with Wulin.
+**CH97 — FIFTH RANK FOR A FULL SCORE (canon 280):** Zhuo Shi flips mid-roar; the makeup = the
+forging floor; "Fifth."
+**CH98 — THE HEART IS THE HAMMER (canon 281) — CRAFT BODY, NOT COMBAT:** the forty-ninth tap; the
+testimony — **the convergence body on its own ground (bg2 retrofit): frost on the handle in a hall of
+furnace heat; the smith across the room who stripped down vs. the boy who never opened his collar;
+Wulin's weather-through-a-window nod**; sword consciousness AS grammar at the anvil — reading the
+metal aloud; the four elements fan the spark in order (lightning → wind → water → ice).
+**CH99 — TEN THOUSAND REFINEMENTS (canon 282–283, span):** Wulin's miracle — spirit refinement; blood
+the older door; **the golden lines drink a Title Douluo's treatment — LH's audit: "paying tribute"
+(D17 biggest payment; W22 parallel: the dragon drinks tribute, the hawk walks — restraint as answer)**;
+W01 PAID BIG — the held words land ("talent is a debt… you paid interest"), the wrap folded like a wing.
+**CH100 — EVERY WEAPON IS ONE IDEA (canon 284–285, span; THE USER'S SEED CHAPTER):** the formal close;
+points; the requests (Wulin's armed for GY's point; **the fifth's HELD — D23's morning: "I'll take it
+when I know what it's for"**); the reconciliation (the kneeling man; "these granddisciples I'll
+recognize"; "I was wrong"; the six-year sentence); 🔴 **SWORD CONSCIOUSNESS crossing began** (tier 2; the 'weapon intent' label later retracted 09-03) — the branch that sang,
+the six strokes transposed, "every weapon is one idea wearing different bodies," the adaptation-talent
+as the reason he alone crosses; quiet, no numbers, no ripple. Cliff short-stark: "'Show me,' his
+teacher said, and drew."
+**CH101 — WHAT THE SWORD WAS (canon 286) — THE LAKE LESSON (D24 PAID FIRST):** Sword Consciousness's first
+live test vs a live master — the branch vs Skyfrost, the transposition LIVE (spear/fence/shield/oar),
+WZK's confession ("twenty years I have taught the sword as a thing"), last correction ("keep the first
+body fluent"), **THE PROMOTION: "From tonight, we do not train, you and I. We confer."** The love
+ledger spoken once ("a man doesn't bid against his captain's gift"); D22's biggest meal (the Pagoda
+history = "the door, and who built it, and what came through it wearing armor"); the two-word dream.
+**The hawk lands like winter (bg2 lake-stage retrofit): frost spreading from its claws on the rail, the
+second cry-note under the storm; the jiao's threshold held (ten-thousand tier, maturing in place, no
+drip count); the convergence body keeping its slow arithmetic at the window — and tomorrow the
+academy's instruments DID get five signatures for one boy, no bracket fitting = PAID ch102 (canon 287 'Black Steamed Buns' mined); next instrument returns annually (the anomaly file, D25).**

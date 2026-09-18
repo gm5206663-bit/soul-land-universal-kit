@@ -10,8 +10,12 @@ FAILS on any of:
   L2  "Silver Dragon" in prose (Gu Yue's nature lock)
   L3  a sentence linking Wu Zhangkong to Shrek as his ORIGIN (canon ch204 reveal lock;
       Shrek as a goal/technique-source/Tang-Sect-city is legal and whitelisted)
-  L4  the Union being OPENED on-page (D006 — first use still reserved). Mentions are
-      legal; only opening-variants fail, and "did not open" is exempt
+  L4  the Union being OPENED on-page BEFORE ITS SANCTIONED FIRST-USE. D006 held the
+      perfect Hawk-Soul Union in reserve across ch1–112; it is SPENT for the first
+      time in the ch113 C7 Sword-Soul crossing (a red-tier king forcing every door).
+      So: an on-page Union OPEN at ch<113 still fails (the hundred-chapter hold must
+      not be broken retroactively); at ch>=113 the opening is the sanctioned spend.
+      Mentions are legal; only opening-variants fail, and "did not open" is exempt
   L5  Lin Hao putting ON battle armor (BATTLE ARMOR LAW: he may make it, never wear it)
   L6  banned voice tics in prose (THE VOICE LAW): "I would like you to notice",
       "on the record", "this is also a fact", "I have stopped needing to know",
@@ -49,8 +53,11 @@ for f in sorted(glob.glob(os.path.join(ROOT, "chapters", "chapter_*.md"))):
                 fails.append(f"L3 ch{n}: Wu Zhangkong named as Shrek-origin: {s[:100]}")
 
     for s in re.split(r"(?<=[.!?])\s+", flat):
-        if re.search(r"open(ed|ing)?\b.{0,30}\bUnion\b|Union\b.{0,20}\bopen", s) and "did not open" not in s.lower():
-            fails.append(f"L4 ch{n}: the Union opened on-page: {s[:100]}")
+        # L4 — the Union's first use was held ch1–112 and SPENT at ch113 (the C7
+        # Sword-Soul crossing). An on-page opening only fails if it happens BEFORE
+        # the sanctioned spend; at ch>=113 the door is meant to be open.
+        if n < 113 and re.search(r"open(ed|ing)?\b.{0,30}\bUnion\b|Union\b.{0,20}\bopen", s) and "did not open" not in s.lower():
+            fails.append(f"L4 ch{n}: the Union opened before its sanctioned ch113 first-use: {s[:100]}")
 
     for s in re.split(r"(?<=[.!?])\s+", flat):
         if re.search(r"armor|armour", s, re.I) and re.search(r"\b(he|Lin Hao)\b.{0,50}(put on|wore|donned)", s, re.I):
