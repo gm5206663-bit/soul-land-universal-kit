@@ -335,7 +335,7 @@ _Every number below traces to a canon line or is labelled AU._
 
 - **Tang Wulin:** rank **16** (canon c183) · **one purple ring** (canon c184: *"Despite Tang Wulin only having one ring right now, it was a purple ring!"*)
 - **Xie Xie:** rank **22** (canon c134) · two rings
-- **Gu Yue:** rank **20** (canon c133: one step past peak 19) · **TWO rings** (canon c224) · spiritual power **153** at nine (canon c114)
+- **Gu Yue:** rank **21** — second ring taken in ch41 (AU timing; canon has two rings by c224) · **TWO rings** · spiritual power **153** at nine (canon c114)
 - **Xu Xiaoyan:** not yet introduced
 - **Zhang Yangzi:** rank **24** · spiritual power ~27 (Little Black dead)
 - **Wang Jinxi:** rank **25** (canon c134) · spiritual power **18**, lowest in class zero (canon c113)

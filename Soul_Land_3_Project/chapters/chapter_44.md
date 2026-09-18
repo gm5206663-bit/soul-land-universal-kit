@@ -331,7 +331,7 @@ _Every number below traces to a canon line or is labelled AU._
 
 - **Tang Wulin:** rank **16** (canon c183) · one purple ring
 - **Xie Xie:** rank **22** (canon c134) · two rings
-- **Gu Yue:** rank **20** · **TWO rings** (canon c224) · spiritual power **153** at nine (canon c114)
+- **Gu Yue:** rank **21** · **TWO rings** (canon c224) · spiritual power **153** at nine (canon c114)
 - **Xu Xiaoyan:** not yet introduced
 - **Zhang Yangzi:** rank **25** · spiritual power ~27 · **leaves class zero this chapter** — he embraces Wang Jinxi on the steps and stays at Eastsea (AU: canon has him transfer out too)
 - **Wang Jinxi:** **LEFT in ch43** (canon ch 153 "Leaving") · last known rank 25 · spiritual power 18 (canon c113) · transferred to another academy · **NOT going to Shrek**

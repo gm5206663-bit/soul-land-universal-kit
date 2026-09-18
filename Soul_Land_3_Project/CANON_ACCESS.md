@@ -1,4 +1,41 @@
-# CANON ACCESS — verified state, 27 Aug 2026
+# CANON ACCESS — verified state, 31 Aug 2026
+
+## 🔴 THE WORKING SOURCE (2026-08-31): readnovelfull.com
+
+- Novel slug: **`the-legend-of-the-dragon-king`** (novelId **15**) — the completed Wuxiaworld (Ruze) translation.
+- **Full 1,917-chapter slug map saved at `canon_extract/readnovelfull_map.txt`.**
+- Fetch pattern: `https://readnovelfull.com/the-legend-of-the-dragon-king/chapter-<N>-<slug>.html` (plain curl + UA; prose sits in `id="chapter-content"`).
+- **Held in full on disk:** `canon_028.txt` (old) · `canon_218_excerpt.txt` (full-context excerpt) · `canon_229.txt` (complete) · **`canon_230.txt` – `canon_248.txt` (230–236, 237–241, 242–248 — all fetched 2026-08-31; some pages need the `<p><span>` fallback, readnovelffull serves two page templates)**. **Mining status (session w, 2026-08-31): 242/243/244 MINED FULL in ch69; 244's tail + 245 + 246 in ch70; 247 + 248 MINED FULL in ch72** (Old Tang's return + the method + "That's such a waste of money!"; the brew's every stage; the golden mark — never named; the Clear Sky Clan lore) (the announcement, the tower, the inn, the certainty scene, the taxi, Ruo Ling and the Yaluo, the 7.3M storm watched, the instant-purchase rule, the VIP floor) **— still held: 242's cult scene (locked) · 247 (Ready — the birthday, Old Tang's return, the brew: eat the fruit, crush the other three, the bath; WZK guarding; "That's such a waste of money!"; the CLEAR SKY CLAN lore behind the Disorder Splitting Wind Hammer; Wulin's wish-list: Ghost Shadow Perplexing Track — which OUR Lin Hao already has — and the Soft Bone Eight Stage Drop) · 248+ (Breaking the Second Seal — ours staged at FOURTEEN, days away) · 🔴 FETCH 249+ BEFORE WRITING PAST 248.** **Session x: 249 FETCHED AND SAVED** (`canon_249.txt` — fetched live via freewebnovel). **Session z (09-01): 249 MINED FULL in ch73** (the three days; Shen Yi in person; the four quotas; the renunciation; the dignity trade) **· 250 + 251 MINED FULL in ch74** (the gate, the token, the inner city, the kneel, "just let him kneel there", Bing'er, the last hour) **· 252 + 253 MINED FULL in ch75 · 254 + 255 MINED FULL in ch76 · 256 MINED FULL in ch77 · 257 MINED FULL in ch78 · 258 MINED FULL in ch79 · **259–263 MINED FULL (ch80–84) · 264 MINED FULL in ch85** (`canon_264.txt` 1,325 w — disk range 229–286) **— Cai's unseen smile (the tempering reveal); the eating trial; the Rice Tub (153 buns, four 10s); the report scene · 🔴 FETCH canon 265 (their chapter-268, title-verify) BEFORE WRITING CH86** (trials 7–10). ⚠️ Translation variance on the aggregator: 249 says Yu Zhen/Skysea Alliance (4 outer quotas), 250 says Long Huantian/Skysea Academy (5 inner) — different translators; our fic holds 249's.** **🔴 LIVE-ACCESS RECIPE v2 (tested 2026-08-31): readnovelfull temporarily failing from this environment; wuxiaworld.com = teaser + login; WORKING FULL-TEXT MIRROR = freewebnovel.com — `https://freewebnovel.com/novel/the-legend-of-the-dragon-king/chapter-N` where N = OUR chapter number + 3 (verify by TITLE, e.g. our 249 = their chapter-252); whole novel online through chapter 1983 (END). Map rebuilt healthy at `canon_extract/readnovelfull_map.txt (was map_rebuilt.txt — deleted 09-02 as an identical duplicate)` (the old map file's inode corrupted; 1,917 entries).**
+- 🔴 novelhall.com — the previous method — **DIED 2026-08-31** (site restructure; catalog and id-URLs 404). Wuxiaworld proper serves only ~150-word teasers (login wall) — **never build on teasers** (the F5 lesson).
+### 🔴 UPDATED 2026-08-30 — live re-test of every source (novel AND manhua)
+
+| Source | What | Status today |
+|---|---|---|
+| **novelhall.com** | Novel, full chapter **text**, catalog Prologue → ch **1888** | ❌ **DEAD 2026-08-31** (restructure; catalog and id-URLs 404). Historical note: ch 28 fetched complete (2 chunks). **Saved to `canon_extract/chapters/canon_028.txt` — the oldest K6 gap is closed.** ⚠️ CORRECTED 2026-08-30 (I misread this on first pass): the URL **ids are non-linear** — the catalog contains extra entries, so id arithmetic lands on the wrong chapter (id 10715578 is ch 35, not ch 45). The **chapter NUMBERING aligns with Wuxiaworld** — verified by title + content at ch 28, 35, 45, 96, 133, 184, 227. **Build the id→chapter map from the catalog page first; navigate by TITLE (rule F3).** ⚠️ Their translation is not Ruze's; light MTL typos — cross-check verbatim quotes. |
+| **Wuxiaworld (official, Ruze)** | Novel, ch 1–614+ | ⚠️ **Confirmed teaser-only**: ch 229 page loads, real text, but **~163 words** then login wall. |
+| **mgeko.cc** | **MANHUA — 578 English chapters**, chapter pages are direct CDN jpegs (`imgsrv5.com`) | ✅ Pages + images download cleanly. 🔴 **BUT: I cannot read images in this session** (`read_file` on a downloaded page returns no vision) — I can bank manhua chapters into the workspace for the **user** to view, but I cannot extract facts from panels. And the manhua is an adaptation (condensed/reordered); the novel stays canon. |
+| freewebnovel.com | Novel | ❌ 403 (curl) / 404 (UA+path) — bot-blocked now. Was the 27 Aug primary. |
+| novelfire.net | Novel | ❌ redirects to novelphoenix.com, 404 on chapter slug. |
+| lightnovelpub.me / manhwaclan.com | Novel / manhua | ❌ fetch failed. |
+
+**What this changes for K6:** all three gaps are now addressable — ch 28 (**done, saved**), 337–600 re-readable line by line (by title), and **content past 600 exists up to novelhall's ch 1888** (the project held nothing past 600; 600 is not the ending). Bash has live network access; `fetch_page` handles novelhall best.
+
+### ✅ CANON CITATIONS VERIFIED AGAINST LIVE SOURCE (2026-08-30, the "check everything" audit)
+
+Every load-bearing anchor in `CHARACTER_STATS.md` §1 was tested against novelhall's text (titles
+matched Wuxiaworld numbering in every case). **7/7 chapters verified by title; every tested number found.**
+
+| Canon ch | Title on source | Anchor tested | Verdict |
+|---|---|---|---|
+| c45 | "The Worst Class" | *"Tang Wulin, martial soul is Bluesilver grass, soul power is rank 11."* | ✅ verbatim |
+| c46 | "Icily Arrogant Prince Charming" | Xie Xie *"Light Dragon Dagger; soul power at rank 18"* · *"Yun Xiao's rank 12… majority… rank 11"* · Zhou Zhangxi | ✅ all |
+| c69 | "Spirit Connection" | *"Xie Xie's spiritual power was 29"* · *"Gu Yue's spiritual power was 119, far above the Spirit Origin rank"* · Wulin's 38→44 passage | ✅ all |
+| c114 | "Monstrous Numbers" | the FULL punch table: 61/69 · 115/143 · 153/164 · 423/468 · 1156/1348 · 2,700 · Gu Yue **153** | ✅ all (only the "5,000" ceiling phrasing not located) |
+| c133 | "Before the Final Exam" | *"peak of rank 15 and wasn't too far off from rank 16"* · *"peak of rank 19… a step away from rank 20"* | ✅ both verbatim — the §3.1 plateau anchors hold |
+| c184 | "Tang Wulin's Thousand-Year Soul Ring" | *"a brilliant purple soul ring arose from beneath Tang Wulin's feet"* · *"Xie Xie's soul power is the highest after all"* (the D1 line) | ✅ both (purple-ring wording differs from our quote, substance identical) |
+| c227 | "Sky Ice Battle Armor" | the entire ranking law: *"twenty soul ranks stronger"* · *"customary to add the name… to one's own"* · *"Two-word… spirit refined… six rings minimum"* · *"could match a soul master with eight rings"* · Sky Ice named | ✅ all verbatim — ch62's foundation is canon-solid |
+
+---
 
 ## What I have VERIFIED WORKING (actually fetched, content returned)
 
@@ -782,7 +819,7 @@ correction** — it does not retroactively break anything already written. Its v
 
 # ✅ THE SIX RECOVERED CHAPTERS (47, 102, 108, 115, 190, 281) — user-supplied 27 Aug 2026
 
-**313 canon chapters held at that time (27 Aug 2026), ch 23–336, 457,782 words. Only ch 28 missing.** _(Since superseded: corpus later reached 577 ch 23–600, then adapted 23–228 were reclaimed 2026-08-29 — see top of file.)_
+**313 canon chapters now held, ch 23–336, 457,782 words. Only ch 28 remains missing.**
 
 ## ch 190 — 🔴 THE FEDERATION GEOGRAPHY (this closes problem G4)
 Canon, verbatim in substance:
@@ -867,7 +904,7 @@ Two more PDFs supplied by the user: **`337 to 485 soul land 3 novel.pdf`** (149 
 **`486 to 600 .pdf`** (115 chapters). Both archived to
 `CODEX/98_CANON_SOURCE_PDFS_337-600_2026-08-28.tar.gz`.
 
-**Corpus: 372 chapter files on disk, range 229–600, 4.0 MB** (future source for ch 63+). 🔴 Adapted chapters 23–228 reclaimed 2026-08-29; the 35 quote-sources frozen verbatim in `CODEX/CANON_QUOTE_SOURCES_FROZEN.txt`; full source archived in `CODEX/98_CANON_SOURCE_PDFS_*.tar.gz`, re-extractable via `ingest.py`. (Was 577 files, range 23–600, before reclamation.)
+**Corpus: 577 chapter files, range 23–600, 5.0 MB of text, zero empty, zero under 300 bytes.**
 **Only gap: ch 28**, still absent from every PDF supplied.
 
 ### ⚠️ THE INGEST BUG THIS EXPOSED — and the rule that comes from it
@@ -882,7 +919,7 @@ reads exactly like a hole in the source when the hole is in the parser.
 1. **The dash is now optional.**
 2. **The SPLIT POINT is the first header of a number; the BODY START is the last.** Conflating them
    caused a second bug: taking the first for both left ~100 characters of site navigation furniture on
-   the top of every one of the then-577 chapters.
+   the top of every one of the 577 chapters.
 
 > 🔴 **THE RULE: never believe a "MISSING from this PDF" report until the raw marker count has been
 > compared against it.** `re.finditer(r"Chapter\s+(\d{3})", full)` on the raw text is three lines and
@@ -936,3 +973,5 @@ ending, and no chapter may assume we do.
 
 **5. 264 chapters (337–600) are still only skimmed, not read.** Nothing from them may enter the story
 until the relevant range has actually been read.
+
+**NUMBERING MAP (corrected 2026-09-01 after the canon-index audit — the earlier 'novelhall = canon+1' inference was WRONG):** our canon-N = **novelhall-11723 chapter-N** (SAME numbering; verified 266/267/268/269 by direct fetch; IDs sequential: 266=10716111, 267=10716112, 268=10716113, 269=10716114, NEXT: canon 287 = 10716132 (verify every ID by title on fetch)) = readnovelfull chapter-(N+3) (verified: Points = our 265 = their 268; To Battle = our 266 = their 269). webnovel = canon+2 (ep 270 = canon 268 'Battle of Patience'). novelfull listing = canon+0. **`canon_extract/CANON_INDEX_23_600.txt` (chapters 23–600, titles + opening lines) is the MASTER for title-verification — the prewrite board prints the expected title automatically.** Title-verify every fetch; index lines may glue title+first-line (fuzzy prefix).

@@ -1,496 +1,259 @@
-# Chapter 70: The Month He Was Not There
+# Chapter 70: The Greatest City
 
-## Canon Reference: canon ch 302 (genius working students), canon ch 295 (Shen Yi's rules), canon ch 305
-## (the class representatives), canon ch 240 (what the spirit ascension platform actually is), canon ch 306
-## (Gu Yue lets nobody touch her).
-## Canon anchors held: **working students** — *"That's because working students are freaks"* ·
-## *"working students are unpredictable and absolutely must not be offended"* · *"The Academy purchases
-## first-grade thousand refined metal for a minimum of two thousand contribution points"* · **the platform** —
-## *"the spirit ascension platform isn't a true illusory world. It's actually a mix of illusions and reality"*
-## (canon 240) · **attendance** — *"Anyone who is absent three times will face expulsion"* (canon 295) ·
-## **the seven representatives** — *"One class president, two vice-presidents, and a council made up of the
-## four secondary professions"* · *"the members of the profession council will each receive five hundred
-## points"* (canon 305) · **Shen Yi runs the class** — *"Shen Yi took charge of the lectures while Wu Zhangkong
-## stood to the side in silence"* (canon 305).
-## AU: **Lin Hao is in the pool for the whole month and does not come out. The chapter is not about him. It is
-## about the four people who notice he is not there, the teacher who lies for him, and the girl who goes and
-## finds him and cannot get him out.** The canon Shrek arc runs without him — the working-student economy, the
-## class representatives, the council seat — and it bends around the hole he leaves.
-## Timeline: Age 11 — the absorption month, first to twenty-ninth day
-## GROWTH: rank **40 → 40 (Soul Elder — the gate; the jiao has not finished)** · spiritual power
-## **338 → 402** (🔴 **+64, measured by Wu Zhangkong through the ice — the cost of holding ten thousand years**) · hawk **1,490 → 1,504** · three purple rings (the
-## fourth forming) · 4th rank (Grandmaster) · **ledger 124 → 124** · Sword Intent. 🔴 **THE LEDGER DOES NOT
-## MOVE FOR TWENTY-NINE DAYS — the first time in the book that it does not move.**
-
----
-
-## Part 1: The Empty Seat
-
-The seat was empty on the second morning.
-
-Tang Wulin noticed it the way he noticed most things, which was late and then all at once. He had sat down, and Xie Xie had sat down beside him, and Gu Yue had sat down on his other side, and Xu Xiaoyan had put her bag on the end of the row the way she did every morning because the end of the row was the seat nobody wanted and she had decided she wanted it.
-
-The fifth seat was empty.
-
-"He's not here," Xu Xiaoyan said.
-
-"He was in the platform," Xie Xie said.
-
-"He went in on Tuesday," Gu Yue said.
-
-They all looked at her.
-
-"I was there," Gu Yue said. "He said he was going to earn points. He said a first-grade thousand refining pays eleven hundred through the working-student job and two thousand through the Academy, and that the difference was a thing he intended to have opinions about."
-
-"That's very him," Xie Xie said.
-
-"That's very him," Tang Wulin agreed, "and he has been in there for two days."
-
-Nobody said anything, because nobody knew what the number was. None of them had ever stayed in the spirit ascension platform for two days. The final exam at Eastsea had been twenty-four hours and twenty-four hours had been a long time, and Xie Xie had said afterward that he would like it on record that he had never been cold in his life until then, and Wu Zhangkong had not laughed, which was how they knew he had thought it was funny.
-
-"I'll ask," Tang Wulin said.
+## Canon Reference: THE ARRIVAL — canon 244's held tail (the announcement, the Pagoda tower, the
+## station) + canon 245 (The Legendary Shrek City) + canon 246 (The Surprising Auction) — all fetched
+## in full 2026-08-31, held in `canon_extract/chapters/`, and MINED FULL here under THE NATURAL-EFFECTS
+## CLAUSE: every canon beat diffed against our world and the deltas carried on-page. Canon anchors
+## spent: **244:** *"Dear guests and travellers, we have arrived at the greatest city on the Douluo
+## Continent, Shrek City… the legendary Shrek Academy was founded here, as well as the Spirit Pagoda
+## headquarters… take a look out the left window"* · the eight-sided silver tower, tallest on the
+## continent by Federation law · the station five times Heaven Dou's, the dome, the sculptures ·
+## Xie Xie's *"Teacher Wu, where are we going first? Straight to Shrek Academy?"* **245:** WZK's
+## conflicted eyes, *"Let's find an inn first"* · the inn where luxury did not exist (stone and wood,
+## mottled, one bed per room, washroom for two) · Xie Xie's stingy-teacher rant (*"He's got to be rich
+## since he made his battle armor!"*) and Wulin's defense (*"Teacher Wu just doesn't care about such
+## mundane things"*) · *"So comfortable"* · the certainty scene (*"Are you sure…?"* / *"I'm certain"*)
+## · the dinner where Wulin ate half as much as usual and still more than everyone combined ·
+## *"always carry your soul communicators"* · Xiaoyan's **"Captain"** (canon: she rarely calls him
+## anything else now) · the soul taxi, forty minutes across a city too gigantic · the Yaluo Auction:
+## the invitation, the Esteemed Guests, the white-wood hall, scarlet and gold and crystal, **Ruo
+## Ling** and her golden-bracelet catalog, *"Spirit items."* / *"Thousand-year Azure-veined Vine"* ·
+## the instant-purchase rule (+20% over estimate). **246:** the vine auction in three days ·
+## **item eleven — the high-grade thousand-year vine, opening at three million, the storm to seven
+## million three hundred thousand** · the VIP floor (*"those with money and those with strength"* —
+## their teacher belonged to the latter) · the estimated price = the house's break-even; popular lots
+## soar past it · WZK's canon lesson, near-verbatim (*"Popular items usually exceed the estimated
+## sales price. Do you understand now?"*). 🔴 HELD FOR CH71 (canon 247, on disk): the taxi dilemma
+## (*"hone your bloodline now and risk missing the test, or take the exam without the refinement"*),
+## **Old Tang's return**, the brew's method (eat the fruit; crush the other three; the bath), WZK
+## guarding on a stool, *"That's such a waste of money!"* — and the lore that the Disorder Splitting
+## Wind Hammer is the **Clear Sky Clan's** sole legacy, the clan of the Tang Sect's founder. LOCKS
+## HELD: 242's cult scene untouched · the seal breaks at FOURTEEN (the set complete since Eastsea,
+## ch68 — the birthday counted in days now; not spent) · WZK's origin (his knowing the city's streets
+## is pressure, never prose) · Union reserved · the seal's name never said.
+## Timeline: Age 13 — arrival evening, the inn, the Yaluo, three days, the auction; at chapter's end the
+## birthday is two days out and the exam six (the brew on the birthday night; three days of meditation;
+## then the exam — canon 249's arithmetic). Shrek City.
+## GROWTH: rank **45 → 45** · spiritual power **2,740 → 2,750** · hawk **3,095 → 3,102** (a travel
+## week at the floor; no absorption, no bout) · four rings · 5th rank · **ledger 165 held** (no bout
+## fought; event-gated) · 🔴 **THE FUSION SOUL on-page: the iron under everything — the Yaluo's lots
+## read like grain, and the bench-to-be gets its stock.**
 
 ---
 
-## Part 2: The Rule
+## Part 1: The Announcement
 
-He asked after the lecture, because Shen Yi was the one who ran the class, and Wu Zhangkong stood to the side in silence the way he always stood to the side in silence.
+The train slowed when it neared the end, and a voice came down the carriage that had been rehearsed until it was smooth as track.
 
-"Teacher," Tang Wulin said. "Lin Hao hasn't been to class."
+*"Dear guests and travellers, we have arrived at the greatest city on the Douluo Continent, Shrek City. Shrek City's roots extend tens of thousands of years and is a cultural hub. The legendary Shrek Academy was founded here, as well as the Spirit Pagoda headquarters. As the number one city in the Federation, Shrek City boasts immense economic and political influence. Everyone, please take a look out the left window. The tower in the distance is the headquarters of the Spirit Pagoda."*
 
-Shen Yi did not look up from the register. "I know."
+Five students and one teacher turned as one body to the left.
 
-"He went into the spirit ascension platform on Tuesday."
+The tower was not there, and then it was — eight sides of silver splendor, the upper-middle portion visible and the peak simply not, tapering into cloud like a suggestion the sky had accepted. It was the tallest building on the continent. Everyone knew this; the Federation had rules forbidding any taller, the way cities have rules about standing on furniture. Xie Xie's face did several things against the glass. Xu Xiaoyan wrote one word in the notebook and underlined it, and the word was *tower*, and the underline meant she intended to measure something about it later.
 
-"I know."
+Gu Yue looked at the tower the way she had once looked at a roster blank with no square for her. One breath. Then she was Gu Yue again, and the tower was a building.
 
-Tang Wulin waited, because there was clearly more, and because he had learned that Shen Yi's silences were load-bearing.
+Inside the city the train ran another hour just to land. The station, when it finally had them, was five times the size of Heaven Dou's and Eastsea's together — a dome like weather held still, sculptures standing along the halls as if the city had been in the middle of saying something and decided to leave it in stone. Wulin had never seen a larger room in his life. He walked with his neck at an angle, and did not fix it.
 
-"The rule," Shen Yi said, "is that anyone who is absent three times will face expulsion."
+"Teacher Wu," Xie Xie said, vibrating, "where are we going first? Straight to Shrek Academy?"
 
-"Yes, teacher."
+Wu Zhangkong stood in the middle of the greatest station on the continent with his bag over one shoulder, and though he wore his usual mask of iciness, his eyes were doing something else — something with conflicted weather in it, there and gone, off the tower and back.
 
-"He has been absent twice."
+"Let's find an inn first," he said.
 
-The register closed. Shen Yi looked at him for the first time, and there was something in the look that Tang Wulin could not place and would not have been able to describe to anybody afterward except to say that it was not unkind.
+## Part 2: Where Luxury Did Not Exist
 
-"Working students are required to accept a few missions every month," Shen Yi said. "He has accepted one. He is on it. He will be marked present."
+The word *luxury* did not exist in the dictionary of the inn that Wu Zhangkong chose. It was near the station, antique, stone and wood gone mottled with decades of sea-less weather; inside it was neat and plain, and each room had one bed, two bedside cabinets, a wardrobe, a desk, a chair, a window with a view of the trains, and a washroom only two people could fit into at one time, and that was all.
 
-"Teacher —"
+There were five of them, and the inn only had two-person rooms, so the arithmetic came out to four rooms and an apology nobody made. Wu Zhangkong took one. The girls took one. The boys took two, which meant one of the boys was a guest in his own, and Lin Hao, who had slept in a workshop's back room more than once in his life, took the floor roll without comment and heard Xie Xie claim the victory of the second bed in tones of a man who had won a tournament.
 
-"That is not a discussion," Shen Yi said. "It is a fact about where he is."
+"So comfortable." Xie Xie pounced flat on the mattress the moment they entered, limbs spread, soul departing his body. "The train was so cramped I couldn't even stretch my legs. I never want to be seated again. Bury me standing."
 
-Behind her, Wu Zhangkong did not move, and did not speak, and Tang Wulin had the distinct and uncomfortable feeling that the fact had been arranged between the two of them before the lecture started.
+"Wulin," Lin Hao said, "why is your bag already in the wardrobe?"
 
----
+"Because we live here now," Wulin said, from the window, where he was taking in the new environment street by street with the particular hunger of a boy whose list of things to find in this city had names on it.
 
-## Part 3: What Yuanen Knew
+Xie Xie, face-down, delivered the speech he had been saving since the platform: "Wulin. Why do you think Teacher Wu is so stingy with the rooms? He should have a good salary from the academy, and he's a battle armor master! You should have seen how awesome it was! He's got to be rich since he made his battle armor!"
 
-The dining hall was loud, and Yuanen Yehui was sitting alone at a table for four, which was how Yuanen Yehui sat at every meal.
+"Teacher Wu just doesn't care about such mundane things." Wulin laughed. "Now you. You should be a bit more modest. We're not here to have fun."
 
-Tang Wulin sat down.
+"Fine, fine. I'm going to nap first then." And Xie Xie's breathing steadied within a minute, honestly, completely, the way nothing else in his life was ever honest or complete.
 
-"You weren't invited," Yuanen said.
+Wulin took a bath, put on clean clothes, and went and pressed the doorbell of his teacher's room. The door opened on Wu Zhangkong in shirtsleeves; he let him in silently.
 
-"I'm buying."
+"Teacher Wu. Can we go now?"
 
-"Then you were." Yuanen did not smile. "What do you want?"
+"Don't be anxious." A glance at the sky, which was going orange over the greatest city on the continent. "Auctions are held in the evening. We have time. You need to be patient."
 
-"There's a boy in the spirit ascension platform," Tang Wulin said. "Eleven years old. Three purple rings. He went in on Tuesday."
+"Okay." Wulin breathed in, and steadied, and did not quite settle. His nerves were jittery in a way he could name now: this was Shrek. His martial soul was Bluesilver Grass, trashy by reputation; his two rings were thousand-year, and merely his; the claw was power without stamina. There were things he could not tell even this teacher — had never been able to, and both of them had learned to live politely around the shape of the unsaid — and one of those things was certain in him the way a floor is certain. He said the part he could say.
 
-Yuanen picked up his chopsticks and did not use them. "How many points did he spend?"
+"Teacher Wu. The set from Eastsea. It's complete. It's been complete since the twelfth day of that month."
 
-"Intermediate tier."
+"I know," Wu Zhangkong said. "Let me ask you again anyway. Are you sure your strength will increase once you use all four items? If you are not absolutely certain, I recommend you not act hastily. The slightest mistake could affect your future."
 
-"Then he's in the thousand-year forest, and there is nothing in the thousand-year forest that keeps a boy for four days." Yuanen put the chopsticks down. "How old did you say?"
+"I'm certain." No hesitation at all. "And it won't be hasty. It breaks at fourteen. That was decided in Eastsea, on purpose. Fourteen is coming — I'm counting it in days now."
 
-"Eleven."
+"I won't say anything else then," Wu Zhangkong said, and looked out the window at the trains for a while, at the city that knew him and did not know it.
 
-"Rings?"
+## Part 3: Forty Minutes
 
-"Three. Purple."
+They ate dinner at the inn, all six at a table built for four. The place was small, but it was an inn in Shrek City, and the food was unexpectedly good — good enough that Xie Xie forgave the mattress in advance. Wulin's mind was plainly elsewhere; he ate half as much as usual, and it was still more than everyone else at the table combined, and the innkeeper, watching plates go, revised something about her rates.
 
-"That's a lie or it's a freak," Yuanen said, "and the Academy only accepts freaks." He said it without any particular feeling, the way a person reads a number off a wall. "Working students are unpredictable and absolutely must not be offended. That's not a rule they wrote down, it's a rule that happened. Elder Feng came in as a working student and came out thirty-four years old as a Saint Blacksmith, the youngest on the continent, and then he went from six rings to nine in twenty years and he's a Title Douluo now, and every ordinary student in this building knows it. So when one of us doesn't come to class, nobody asks twice."
+"Rest and meditate," Wu Zhangkong told Xie Xie, Gu Yue, and Xu Xiaoyan. "If you go out, stay within the area, and always carry your soul communicators on you."
 
-"Teacher Shen Yi marked him present."
+"Teacher Wu, where are you and Captain going then?" Xu Xiaoyan asked. She had grown accustomed to calling Wulin *Captain* — she rarely called him anything else now — and she asked it looking between the three of them, because Lin Hao was already standing, and the question had grown a second person in it without anyone announcing the change.
 
-"Then he's on a mission," Yuanen said, "and if he's on a mission it's none of your business, and if he's not on a mission it's still none of your business, because what do you intend to do about it?"
+"There are some matters to take care of. We'll be back later."
 
-Tang Wulin thought about that.
+He had never once, in four years, explained his plans to anyone, and the city got the same courtesy. Outside, he hailed a taxi — a soul taxi, comfortable, dear — and Wulin stared, because he had watched this man walk across whole cities rather than spend on a cab. The reason arrived at the window as scenery: Shrek City was simply too gigantic. The taxi was faster than any bus, and it still took forty minutes.
 
-"Nothing," he said.
+Forty minutes, and their teacher did not look up directions once. He did not hesitate at a single turn. He said nothing, and the two boys said nothing, and both of them filed it in the same quiet place — the place where the things about Teacher Wu that did not add up lived, unadded. Lin Hao watched the streets the way he watched grain, and the streets had a repetitive toughness to them, old alloy under new plate, and he caught himself missing the sea smell of home and did not say that either.
 
-"Good." Yuanen started eating. "Sit down properly and eat. Working students pay for their own meals and you are wasting mine."
+The pointed building they stopped at had staff at the door, and the staff had a speech.
 
----
+"Excuse me, may I ask if you two— three, are participating in the auction? Could you please take out your invitation letter?"
 
-## Part 4: The Girl Who Went
+Wu Zhangkong retrieved something from his pocket and flashed it. The staffer's spine reorganized itself. "So it was our Esteemed Guests that have arrived. Please come this way."
 
-Gu Yue went on the ninth day.
+## Part 4: The Yaluo
 
-She did not tell anybody, which was not the same as keeping a secret, because Gu Yue did not consider the movements of her own body to be anybody's information. She went after the morning lecture, and she walked past Spirit Ice Plaza, and she went to the platform, and she paid her points at the desk.
+Past the door, Wulin understood what true luxury was. A hall of white wood ran ahead of them, golden patterns swirling across it like elegant flowers; the floor was a scarlet rug with gold embroidery running down its whole length; crystal lamps lined the walls, throwing light that flattered everything it touched, including the three of them. An unseen pressure settled on Wulin's shoulders as he walked it, and he glanced sideways at his teacher — and got the calm face, no different from the yard, and felt absurd, and kept the absurd feeling, because it was warmer than the pressure.
 
-The woman behind the desk looked at her.
+They were brought to an opulent room. Drinks arrived without being ordered. Then a middle-aged woman came in, bowing slightly.
 
-"Intermediate?"
+"Honored guests, welcome. I am Ruo Ling, an auctioneer for the Yaluo Auction. May I ask if there is anything I can do for you?"
 
-"Yes."
+"Bring me your catalog," Wu Zhangkong said.
 
-"Alone?"
+She smiled, crouched beside him, and with a flash of her golden bracelet a small soul screen stood up out of her palm. Her eyes did the rounds as she worked — the stern one, worth a fortune by the look of him; the big one, sixteen in the face and built like a smith's door; the younger one, all elbows and intentions — and she filed all three under *unusual*, and turned the wattage up, because a woman in her line valued looks and status both and was seldom handed three of anything at once.
 
-"Yes."
+"Spirit items," Wu Zhangkong said.
 
-The woman looked at her for a moment longer than the transaction required, and stamped the form.
+"Yes." Tap, tap. "Do you have a specific item in mind? I can help you search."
 
-The thousand-year forest was a forest, and Gu Yue had been in it before, and she was not interested in the forest. She walked through it the way a person walks through a room they have already been in, and the beasts came and looked at her and went away, and after four hours she found the part of the forest where nothing came.
+"Thousand-year Azure-veined Vine."
 
-The pool was frozen.
+The listings changed: high-grade, mid-grade, low-grade, each with its starting price and its estimate in neat columns. Ruo Ling glanced up — "When will it be put on auction?" was the next question in the script, and she was already answering it in her head — and Wulin looked at the columns for a long, quiet moment, the way a man looks at a bridge he no longer has to cross.
 
-She stood at the edge of it for a long time.
+"No," he said, politely. "Thank you. The set is complete. It's been complete since Eastsea."
 
-She knew what the platform was. She had told Tang Wulin, once, in the dark, when he had asked what it was and she had known and he had not: *it isn't a true illusory world, it's a mix of illusions and reality, and that's why you can absorb spirit energy in it.* She had known that since she was small. She knew the tiers, and the guardians, and what a guardian cost to make.
+Ruo Ling's smile held its exact shape while her interest recalculated. "Then perhaps something in refined metals? The evening sale often carries lots a smith would travel for." This was aimed with soft precision at the third one, the one with the forearms, and Lin Hao felt the floor of the continent shift under him slightly, because a stranger in the biggest city on it had read his hands in under a minute.
 
-She did not know what this was.
+"If I want to buy a metal lot immediately rather than wait," Wu Zhangkong said, "how would I do so?"
 
-The ice was not white. It was the colour of deep water, and there was a shape in it, and the shape was long, and there was a boy sitting in the middle of the shape with his eyes closed and his hands open on his knees.
+"According to our rules, we're not allowed to sell items directly." A hesitation, words bitten back and organized. "But I can make an exception for someone as honorable as you. An instant purchase costs twenty percent more than the estimated price. We can offer an accurate quote once you've considered it."
 
-Gu Yue knelt down and put her palm flat on the ice.
+Wu Zhangkong did not look at the screen. He looked at his students, both of them, the way he looked at a yard before terms.
 
-She had ice. She had had it for a long time and she had stopped being surprised by it. Her ice was cold the way a knife is cold, which is to say it was cold because it was sharp, and it went into things and it did not argue.
+"It's your money," he said, to each of them, separately, in the same breath. "Your decisions. I'll say nothing."
 
-This ice did not let her in.
+"Then we wait for the evening sale," Wulin said. "Three days is nothing. I have a birthday in the middle of it."
 
-It was not resisting her. That was the part she did not have a word for at the time and would have for a long time afterward. It was not resisting her. It simply did not notice her, the way the sea does not notice a hand in it, and her cold went down into it and was somewhere else, and she was kneeling on the edge of a pool with her palm flat on ten thousand years.
+"Tickets," Wu Zhangkong said to Ruo Ling. "Three."
 
-She took her hand back.
+## Part 5: Three Days
 
-The boy did not move.
+The inn held them the way a cupped hand holds water.
 
-"He's alive," she said out loud, to check that it was true, and it was true, because she could feel it through the ice the way you feel a person breathing in a small room. He was alive and he was very cold and he was somewhere underneath, and there was a great deal of him, more than there had been, and it was going in.
+Wulin and Xie Xie cultivated — the spear got sharpened late, and both of them knew it, and Xie Xie did it anyway, because his friend's diligence rubbed off on him in exactly one direction and always had. Gu Yue found the dawn. It took her two mornings to locate a platform that would rent to a girl with no local file and a foreign card; on the third morning the attendant simply left the row to her, and Shrek City learned what Eastsea's attendants had known for years, which was that 5:40 belonged to somebody. Xu Xiaoyan walked the station with the notebook for one day and the streets behind it for two, building the city's map in the small neat hand, block by block, as if the exam would be given on the geography. It would not be. She did not care. A measurement you did not write down had not happened, and this applied, in her cosmology, to cities.
 
-She stayed until the tier ran out.
+Lin Hao spent the three days the way he had spent every market-day of his life: reading metal. Shrek City had forges the way other cities had drains — everywhere, under everything, the smell of hot iron riding the streets in shifts. Their metal does not know you, Mu Chen had said. Introduce yourself. He walked the forge districts with his hands behind his back and his reading on, and the city's metal was good — tougher stock than Eastsea kept, deeper seams, older grain — and on the second day, in a smelter's yard, he put his hand flat on a cooling ingot and told the smelter the temperature it had been poured at, and the number was right, and the man looked at him for a long moment and then looked at the forge, as if the forge had been talking about him behind his back.
 
----
+On the second night, Wulin's fourteenth birthday was close enough that Xie Xie began organizing it. There would be cake. There would be cake *from the good place near the station*, whatever it cost, and he would pay, and there would be no discussion. The whole table watched Wulin laugh, and the whole table was counting too, for their own reasons — because fourteen was a door, and behind the door was a thing their friend had been carrying since they had known him, and after it opened he would be something more than the boy who ate half as much as usual.
 
-## Part 5: What She Did Not Say
+The tower light came on at dusk and went off at midnight, punctual as Wu Zhangkong.
 
-She did not tell Tang Wulin.
+## Part 6: Item Eleven
 
-She thought about it for two days, which for Gu Yue was a long time to think about anything, and she decided against it, and the deciding was not complicated. Tang Wulin would go to a teacher. A teacher would come to the pool. Somebody in a white coat would stand over a frozen eleven-year-old and decide something about him, and whatever they decided would be decided by people who did not know that he had been getting ready for something since he was six.
+The Yaluo at night was the hall from three days ago with the wattage doubled. They were led to the VIP floor immediately — where there were only two kinds of people, those with money and those with strength, and their teacher had never needed to be the first kind. The seats were deep. The auction beat Eastsea's the way the station beat Eastsea's: every lot a rarity, the room humming it before the gavel ever moved.
 
-She went back on the fourteenth day. The ice had not changed.
+Wulin sat with the number plate in his lap, and the plate stayed in his lap.
 
-She went back on the nineteenth. It had not changed.
+"The eleventh item to be auctioned is a high-grade thousand-year Azure-veined Vine. The starting price is three million. The minimum bid increase is one hundred thousand. Let the bidding begin."
 
-On the twenty-second day Xu Xiaoyan asked her, at breakfast, whether she was all right, and Gu Yue said yes, and Xu Xiaoyan said that she had asked because Gu Yue had put her spoon in her mouth and left it there, and Gu Yue took the spoon out.
+A smelter's yard of a room went quiet, and then it did not. Three million. Three million one hundred thousand. A vine that strengthened the constitution without side effects, a necessity for the great clans' nurseries — the demand for it was old and bottomless, and the price said so: three and a half, three-eight, then over five in a single stride, a man near the front on the verge of tears at five-four, still climbing at five-seven. Beside Wulin, Wu Zhangkong watched the storm with his arms folded, and Wulin watched it too, plate in his lap, his set complete since Eastsea, a wrapped birthday two days from spending itself, and the storm had nothing to do with him, and he felt the size of that nothing all the way down. Six-two. Six-eight. Seven million three hundred thousand — going once, twice, three times, sold — and a stranger somewhere in the dark went limp with relief and ruin at the same time, half a fortune for a leaf.
 
-"You're allowed to be worried," Xu Xiaoyan said.
+"Popular items usually exceed the estimated sales price," Wu Zhangkong said to him, quietly, without looking. "The estimate is where the house breaks even. Do you understand now?"
 
-"I'm not worried."
+"I understand," Wulin said. "I'm glad it isn't my money."
 
-"You've been to the platform six times."
+"It was, once. In Eastsea." A pause, dry as the yard. "You put the paddle up once. It was correct."
 
-Gu Yue looked at her.
+Lin Hao's lot came eleventh-from-last, and it came as words on a screen: a sealed estate lot, sight-unseen, *mixed refined stock, Heavy Silver and Sky Dragon Iron, sold by weight*. The room's interest died on the word *mixed* — no certainty, no glamour; the bids crawled. He had spent three days reading this city's metal, and he could hear the lot's weight in the two porters' footsteps and read its grain in the shape of the crate's shadow, and when the crawling stopped he raised the plate once, a single clean bid nobody wanted enough to answer, and it was his. A third of his traveling money. A bench's worth of *introduce yourself.*
 
-"I asked at the desk," Xu Xiaoyan said. "I'm not stupid. I'm the least stupid person at this table and I've known since the ninth day." She went back to her porridge. "I haven't told anyone."
+On the taxi back, the black box on his knees, Wulin looked at it and then at his friend.
 
-"Why not?"
+"Worth it?"
 
-"Because you haven't." Xu Xiaoyan shrugged. "And because if he's in there then he's in there, and if he's in trouble then you'd have got him out, and you haven't got him out, so either he isn't in trouble or he can't be got out, and in both cases the useful thing is to be here eating porridge."
+"The crate says mixed," Lin Hao said, with the serenity of a man who had already read through the wood. "It isn't."
 
-"That's a very strange thing to say."
-
-"I'm a strange girl." Xu Xiaoyan smiled at her, which she did rarely and never at anyone twice in a week. "Sit down. Your porridge's cold."
-
----
-
-## Part 6: The Seat He Was Not In
-
-On the twenty-fifth day Shen Yi stood at the front of the class and said that they would be electing the class representatives.
-
-"Here at Shrek, strength reigns supreme," she said. "We have already tested your characters, so we don't care who becomes a class representative. There are seven representatives in total. One class president, two vice-presidents, and a council made up of the four secondary professions." She looked at the class the way she looked at everything, which was completely. "Each month the class president will receive one thousand contribution points, the vice-president six hundred, and the members of the profession council will each receive five hundred points."
-
-A hand went up at the back.
-
-"Speak."
-
-"Why is the blacksmith seat not being fought for?"
-
-"Because Tang Wulin is a fifth-rank blacksmith," Shen Yi said, "and none of you are. Stand up, Tang Wulin."
-
-Tang Wulin stood up. He did not like it. He stood up anyway and turned around and the class looked at him, and the girls brightened, and the boys did not, and he sat down again as quickly as was permitted.
-
-"There is a second blacksmith in this class," Xie Xie said.
-
-He had not raised his hand. Shen Yi looked at him.
-
-"Speak properly."
-
-"Lin Hao," Xie Xie said. "Fourth rank. Grandmaster. Badge registered at this Academy on his eleventh birthday, and I was standing there, and the woman behind the counter said *you're a fourth-rank blacksmith and you're eleven* and then she said it a second time to herself, which is how I know it was true and not a form. He's not here. He's on a mission. He's been on it for twenty-five days and Teacher Shen Yi has marked him present every one of them, so as far as this Academy is concerned he is a student in good standing who is currently working." He put his hands flat on the desk. "Give him the seat. He'll be back."
-
-The class had gone quiet in the particular way classes go quiet.
-
-"Five hundred points a month," Shen Yi said.
-
-"He'd buy metal with it."
-
-"That is not a reason."
-
-"It's the only reason he'd want it," Xie Xie said, "and you know it, because you gave him the badge, and you don't give badges."
-
-Wu Zhangkong, standing to the side in silence, did not move.
-
-Shen Yi was quiet for long enough that two people in the third row exchanged a look.
-
-"The second profession council seat for blacksmithing," she said, "is declared filled by Lin Hao, in absentia, on the recommendation of Xie Xie, who will be answering for it until he returns." She turned the page. "Xie Xie. Five hundred points a month, of which you will personally spend none, because you will be buying his metal."
-
-"Yes, teacher," Xie Xie said, and sat down, and did not look pleased about it, which everybody noticed.
-
----
-
-## Part 7: What Was Happening in the Pool
-
-The jiao was going into him, and it was not going quickly, and Lin Hao had stopped counting days somewhere around the eleventh.
-
-He was not unconscious. That was the thing he would have got wrong if anybody had asked him before. He had assumed that absorbing a spirit soul meant going away and coming back, the way the hawk had been — a settling, a sleep, a morning. This was not a sleep. He was there for all of it, in the cold, with his eyes shut, and the jiao was going into him the way water goes into a dry field, slowly, and there was a great deal of water.
-
-It hurt. He had been hurt before and this was not worse than the wolves, but it was longer than the wolves, and longer was its own kind of bad.
-
-What he had not expected was that it would be a person.
-
-The jiao had a will. He had known that in the abstract — ten thousand years, old enough to have one, the codex said so, Wu Zhangkong had said so — but knowing a thing and having it in the room with you were different, and it was in the room with him. It was tired. That was the whole of it. It was ten thousand years old and it had been dying for a very long time and it had looked at an eleven-year-old boy in a frozen pool and decided that this was the shape it wanted to end in, and it was not going to fight him, and it was not going to help him either, and it was going to take as long as it took.
-
-He talked to it. Out loud. With his eyes shut, sitting in a pool of ice that had frozen around him, he talked to it the way he talked to metal when the forge was loud.
-
-"You don't have to be a sword," he said, on what might have been the twentieth day. "I'd like it if you were. But you don't have to be."
-
-The jiao did not answer.
-
-"I've been making things since I was six," he said. "Most of them were horseshoes. That's not a complaint, it's just the fact — they were horseshoes, and they were good, and a good horseshoe is a good thing. And then I made a strap. And I made a bearing assembly for a boy who has a hawk, and he didn't know I made it better than the bottom, and that was the first thing I ever made that knew something I didn't." He was quiet for a while. "You're not a horseshoe."
-
-The cold went on.
-
-On the twenty-ninth day he stopped being able to feel his hands, and he thought, with the last clear part of him, that he had written one hundred and twenty-four lines and that the book was going to have a gap in it, and that he had never in his life left a gap in it, and that this was going to be the first one.
-
----
-
-## Part 8: The Man Who Stood to the Side
-
-Wu Zhangkong went on the twenty-seventh day, and he did not pay at the desk, because nobody at the desk asked him to.
-
-He walked into the thousand-year forest and the beasts got out of his way, and he found the pool in under an hour, which was not a thing a man could do by looking. He stood at the edge of it with his hands behind his back and he looked at the ice for a long time, and then he put two fingers on it.
-
-Gu Yue was there. She had gone on the twenty-fifth, and she had not left, and she was sitting with her back against a tree thirty feet away, and she had not intended to be found.
-
-"You should be in class," Wu Zhangkong said, without turning around.
-
-"I'm not the one who's absent."
-
-"No." He took his fingers off the ice. "You're the one who's here."
-
-Gu Yue did not answer that.
-
-"It's a jiao," Wu Zhangkong said. "Ice and water. Ten thousand years, and I would put it somewhat over." He said it the way a man reads a weather. "It surrendered. That's the only reason he's alive — a ten-thousand-year soul that fought him would have taken his body apart from the inside in about four seconds, and there would be a hole in this pool and a very short conversation afterward."
-
-"How long?"
-
-"It will finish when it finishes."
-
-"That's not an answer."
-
-"It's the only answer there is." Wu Zhangkong turned around, and looked at her, and his face did the thing it did when he was about to say something he had already decided. "You have ice."
-
-"Yes."
-
-"You have been putting your hand on that for twenty-five days."
-
-"Yes."
-
-"And?"
-
-Gu Yue looked at the pool.
-
-"It doesn't answer me," she said.
-
-Wu Zhangkong was quiet for a moment.
-
-"Neither does mine," he said.
-
-He went back to the ice. He put his whole palm flat on it this time, and he closed his eyes, and he stayed like that for long enough that Gu Yue stood up and came over, because she had never in her life seen Wu Zhangkong wait for anything.
-
-When he took his hand off he looked at his own palm for a second, as though checking it was still his.
-
-"His spiritual power is four hundred and two," he said.
-
-Gu Yue stared at him.
-
-"He was three hundred and thirty-eight when he went in." Wu Zhangkong said it very evenly, the way he said everything, and it took her a moment to understand that the evenness was the tell. "Twenty-nine days in a pool. No cultivation, no food, no sleep worth the name, holding a ten-thousand-year soul that did not have to cooperate with him." He put his hands behind his back again. "Sixty-four. That is not a number a body makes. That is a number a body is *given*, and the giving has a cost, and the cost is going to be paid later, and I do not yet know in what currency."
-
-"You can measure him through that?"
-
-"I can measure the shape of what's in there." Wu Zhangkong looked at the boy in the ice. "And the shape is not the shape that went in. I can't tell you what it is. I can tell you it isn't finished, and that whatever it is, he is the one holding it and it is not holding him."
-
-"Is that good?"
-
-"It isn't good or bad." He turned to leave, and stopped. "He has missed twenty-seven days of my class. When he comes out, tell him I said he is behind."
-
-"I'm not his messenger."
-
-"No," Wu Zhangkong said. "You're worse. You're the one who came."
-
----
-
-## Part 9: The Twenty-Ninth Day
-
-Gu Yue went on the twenty-ninth day because she went every fifth day and it was the fifth day.
-
-The ice was different.
-
-She knew it before she got to the edge of the pool, and she could not have said how — it was the same colour, the same shape, the same long dark line of the jiao underneath — but it was different the way a held breath is different from a released one.
-
-She knelt and put her palm on it.
-
-It let her in.
-
-Not far. A hand's depth. But it let her in, and her cold went down into it and came back with something on it, and what came back was so cold that she sat down hard on the frozen ground and stayed there for a moment with her hand in the air.
-
-She had ice. She had had ice since she was small enough that it had frightened people.
-
-She had never in her life touched anything colder than herself.
-
-"He's almost done," she said, and then, because there was nobody to say it to and because she had discovered that she was the sort of person who said things out loud when she was alone, which was a thing she had only ever noticed about him: "Whatever he is, he's almost that."
-
-She sat by the pool until the tier ran out, with her hand still cold, and she did not tell anybody, and she went back to the dormitory, and she lay on her bunk looking at the ceiling.
-
-Twenty-nine days.
-
-She had a whetstone in her pocket. She had given him one for his birthday and he had put it in his bag, and she had watched him put it in his bag, and the bag was in his room, and the whetstone was still in it, because she had taken the other one back out.
-
-She did not finish people's sentences. She had told him that. She had told him she wanted the version where he said it.
-
-She closed her eyes.
-
-The ice let go.
+The tower light went out at midnight, punctual as their teacher, and in a plain room where luxury did not exist, a boy counted the last days before his door, and the greatest city on the continent settled noisily around him, and did not know yet what it was about to host.
 
 ---
 
 ## End of Chapter 70
 
 ### Chapter Summary:
-**THE ABSORPTION MONTH, CARRIED BY THE ENSEMBLE.** Lin Hao is in the pool for twenty-nine days and does not
-come out, and the chapter is not about him — it is about the hole. **Tang Wulin** notices the empty seat on the
-second morning and asks Shen Yi, who has already marked him present: *"Working students are required to accept
-a few missions every month… He is on a mission. He will be marked present"* — against her own stated rule that
-*"anyone who is absent three times will face expulsion."* **Yuanen Yehui** supplies the working-student truth
-(*"working students are unpredictable and absolutely must not be offended"*; Elder Feng, working student →
-youngest Saint Blacksmith on the continent → six rings to nine in twenty years → Title Douluo). 🔴 **GU YUE
-GOES.** She walks four hours into the thousand-year forest to the part where nothing comes, finds the frozen
-pool, kneels, puts her palm on the ice — and **the ice does not let her in.** It does not resist her; it does
-not notice her. **Xu Xiaoyan has known since the ninth day and tells nobody** (*"if he's in trouble then you'd
-have got him out, and you haven't got him out, so either he isn't in trouble or he can't be got out"*).
-🔴 **WU ZHANGKONG GOES ON THE TWENTY-SEVENTH DAY** — and finds Gu Yue there, and does not turn around to say
-*"You should be in class."* He measures the pool with his palm: **"His spiritual power is four hundred and
-two."** He was three hundred and thirty-eight when he went in. **"Sixty-four. That is not a number a body
-makes. That is a number a body is *given*, and the giving has a cost, and the cost is going to be paid later,
-and I do not yet know in what currency."** He tells her the shape in the ice is not the shape that went in,
-and that he cannot say what it is — and then: **"Neither does mine,"** about his own sword, and leaves it
-there. **Xie Xie stands up in front of the whole class and demands the second profession council seat for Lin
-Hao, in absentia** — and gets it, at five hundred points a month, *"of which you will personally spend none, because
-you will be buying his metal."* **On the twenty-ninth day the ice lets Gu Yue in** — a hand's depth — and she,
-who has had ice since she was small enough to frighten people, **touches something colder than herself for the
-first time in her life.** *"He's almost done. Whatever he is, he's almost that."*
+**The arrival, canon 244's held tail spent:** the announcement near-verbatim (*"the greatest city on the Douluo Continent… take a look out the left window"*), the eight-sided Pagoda tower into cloud, the station five times Heaven Dou's, the dome and the sculptures, Xie Xie vibrating (*"Straight to Shrek Academy?"*) — and WZK's conflicted eyes, answered flat: *"Let's find an inn first."* **The inn where luxury did not exist (canon 245):** stone and wood, one bed per room, washroom for two — and five students, so the arithmetic came out to four rooms and an apology nobody made; Xie Xie's stingy-teacher rant (*"He's got to be rich since he made his battle armor!"*) answered by Wulin (*"Teacher Wu just doesn't care about such mundane things"*); *"So comfortable."* **The certainty scene, ours now:** *"The set is complete. It's been complete since Eastsea… it breaks at fourteen. Fourteen is coming — I'm counting it in days now."* / *"I won't say anything else then."* **Forty minutes (canon 245):** the soul taxi dearer than any bus, the city too gigantic — and the teacher who never once looked up directions (the lock's pressure, unadded arithmetic in both boys); dinner with the innkeeper revising her rates (Wulin ate half as much as usual; still more than everyone combined); *"always carry your soul communicators"*; **Xiaoyan's "Captain"** — canon's own habit, hers now too. **The Yaluo (canon 245):** Esteemed Guests, the white-wood hall, Ruo Ling and her golden-bracelet catalog; *"Spirit items."* / *"Thousand-year Azure-veined Vine"* — the grades listed — and the butterfly spoken politely: *"No, thank you. The set is complete since Eastsea."* The instant-purchase rule (+20%) refused; WZK's terms: *"It's your money. Your decisions. I'll say nothing."* — **three tickets.** **Three days:** Wulin and Xie Xie sharpening the spear late; **Gu Yue's dawn reclaimed by 5:40 — Shrek City learns what Eastsea's attendants knew**; Xiaoyan mapping the city block by block (*a measurement you did not write down had not happened — this applied to cities*); Lin Hao in the forge districts (*their metal does not know you. Introduce yourself*) — **the smelter's yard: a hand flat on a cooling ingot, the pour temperature named, the number right**; Xie Xie organizing the birthday — *"there would be cake, and no discussion."* **Item Eleven (canon 246):** the high-grade vine, opening at three million, the storm to **seven million three hundred thousand** — watched from the VIP floor by a boy whose plate never left his lap, his set complete, his birthday two days out; a stranger went limp with relief and ruin; WZK's lesson, near-verbatim: *"Popular items usually exceed the estimated sales price… Do you understand now?"* / *"I understand. I'm glad it isn't my money."* / *"It was, once. In Eastsea. You put the paddle up once. It was correct."* **Lin Hao's lot:** a sealed estate lot, *mixed refined stock, Heavy Silver and Sky Dragon Iron, sold by weight* — the room's interest dead on the word *mixed*; one clean bid, never answered; a third of his traveling money. *"The crate says mixed. It isn't."* The tower light out at midnight, punctual as their teacher; the last days before the door.
 
-### Canon Anchors (all verified):
-- **Working students** — *"That's because working students are freaks"* · *"working students are unpredictable
-  and absolutely must not be offended"* — canon ch 302.
-- **The Elder Feng precedent** — *"the youngest Saint Blacksmith on the continent"* · working student → inner
-  court → *"He rose from six to nine rings in twenty years"* → Title Douluo — canon ch 302.
-- **The economy** — *"The Academy purchases first-grade thousand refined metal for a minimum of two thousand
-  contribution points"* against the one thousand a working-student job pays — canon ch 302.
-- **What the platform is** — *"the spirit ascension platform isn't a true illusory world. It's actually a mix
-  of illusions and reality"* — canon ch 240 (Gu Yue is the one who knows this, in canon and here).
-- **Attendance** — *"Anyone who is absent three times will face expulsion"* · *"working students will have to
-  pay for their own meals"* — canon ch 295.
-- **The seven representatives** — *"One class president, two vice-presidents, and a council made up of the
-  four secondary professions"* · *"the members of the profession council will each receive five hundred
-  points"* — canon ch 305.
-- **Shen Yi runs the class, Wu Zhangkong does not** — *"Shen Yi took charge of the lectures while Wu Zhangkong
-  stood to the side in silence"* — canon ch 305.
+### Canon Anchors (all verified against held text, fetched 2026-08-31):
+- **canon 244 tail** — the arrival announcement (near-verbatim); the tower eight-sided, silver, *tallest on the continent*, the Federation's height law; the station five times Heaven Dou's/Eastsea's, the dome, the sculptures; Xie Xie's eagerness. Held from ch69, spent here as planned.
+- **canon 245** — WZK's conflicted eyes; *"Let's find an inn first"*; the inn's whole inventory (one bed, two cabinets, wardrobe, desk, chair, window at the trains, washroom for two); the two-person-room rule (canon's four became our **five** — the fourth room, the floor roll); Xie Xie's rant + Wulin's defense, near-verbatim; the bath-then-doorbell beat; *"Auctions are held in the evening… You need to be patient"*; the certainty exchange (*"Are you sure your strength will increase once you have all four spirit items?… The slightest mistake could negatively affect your future"* / *"I'm certain"*) — carried with our butterfly (the Eastsea set, the fourteenth); the dinner arithmetic; the communicators warning; Xiaoyan's **"Captain"** (canon: *she had become accustomed to calling Tang Wulin 'Captain' now, rarely calling him by name*); the soul taxi / forty minutes / the city too gigantic; the invitation flash and the Esteemed Guests; the white-wood hall, scarlet rug, crystal lamps; **Ruo Ling, the golden-bracelet catalog**, *"Spirit items."* / *"Thousand-year Azure-veined Vine."*
+- **canon 246** — the three-days schedule; the instant-purchase exception at **+20% over estimate**; the VIP floor (*"those with money and those with strength"* — WZK the latter); **item eleven, the high-grade thousand-year vine: three million start, one-hundred-thousand raises, the storm through 3.1 / 3.5 / 3.8 / 5.4 / 5.7 / 6.2 / 6.3 / 6.5 / 6.8 to 7,300,000 sold**; the vine's economics (no side effects, strength and constitution — a clan-nursery necessity, demand bottomless); **the estimated price = the house's break-even; popular lots soar past it**; WZK's lesson and its cold geometry, near-verbatim. 🔴 **Butterfly, on-page:** canon's agon was Wulin's — ours bought the vine in Eastsea (ch68), so **the storm is watched, not fought**; the plate never lifts; the stranger's ruin carries canon's numbers; *"It was, once. In Eastsea."* Wulin's ~14M savings (canon 246) never bleed.
+- **canon 246 (held seed, ours to keep):** Wulin's three years of orders ≈ fourteen million federal coins — half of it survives canon's vine; **ours keeps it all** (the tin and the savings both whole, aimed at fourteen).
+- 🔴 **HELD FOR CH71 (canon 247, on disk, read):** the taxi dilemma (*hone your bloodline now and risk missing the test, or take the exam without the refinement* — in our world the dilemma is the BIRTHDAY's timing, already chosen: *"it breaks at fourteen"*); **Old Tang's return** (silent since the spirit-energy overload save); the brew's method (eat the Dragonscale Fruit; crush the other three to juice; the hot-water bath; body at peak); WZK on the stool, guarding; *"You're absorbing it by soaking?… That's such a waste of money!"*; the lore held with it — **the Disorder Splitting Wind Hammer is the Clear Sky Clan's sole legacy, the clan of the Tang Sect's revered founder**; Wulin's wish-list (Ghost Shadow Perplexing Track — *which our Lin Hao already has* — and the Soft Bone Eight Stage Drop, unaffordable).
 
-### AU / Butterfly:
-- 🔴 **THE ABSENCE IS THE CHAPTER.** Canon's Shrek arc runs without Lin Hao and bends around him: Shen Yi
-  bends her own expulsion rule, Xie Xie takes a council seat for a boy who is not there, and the working
-  students' reputation (*"freaks… must not be offended"*) is now being earned by an eleven-year-old nobody
-  can find.
-- 🔴 **GU YUE TOUCHES SOMETHING COLDER THAN HERSELF.** She has ice. She has had it long enough that it
-  frightened people. In twenty-nine days at the edge of that pool she finds the first thing in her life that
-  does not answer her element — and on the twenty-ninth day it does. This is the romance thread advancing
-  without either of them in the room together.
-- 🔴 **XU XIAOYAN IS NOT A FLOWER.** Canon gives her a delicate appearance and a team that wants her. Here she
-  works out where Lin Hao is in nine days, tells nobody, and gives Gu Yue the only useful thing anybody says
-  to her all month.
-- 🔴 **XIE XIE SPENDS HIS OWN SEAT ON HIM.** Five hundred points a month he will not touch, converted into
-  metal for a boy who has not been seen in a month. This is the ch62 battle-armor thread moving while its
-  owner is unconscious.
-- 🔴 **THE LEDGER DOES NOT MOVE.** 124 lines for twenty-nine days. He has never left a gap in it. This is the
-  first gap, and he notices it going in.
+### AU / Butterfly (cause → effect):
+- **CAUSE: the vine bought in Eastsea (ch68).** → Canon 246's centerpiece inverts: no bidding war, no half-a-fortune gone, no remorse — the storm becomes a spectacle with canon's exact numbers, fought by a stranger; Wulin watches with the plate in his lap. **The exam-stakes survive another way:** he takes it two-ringed, with the bone and the unopened door (the break at fourteen — ch68's ruling, kept on-page here: *"it breaks at fourteen… I'm counting it in days now"*).
+- **CAUSE: five students, not four (canon's room math).** → Four rooms and an apology nobody made; the floor roll; Xiaoyan's question grown a second person (*"where are you and Captain going then?"* — asked of three).
+- **CAUSE: Lin Hao exists (smith, 5th rank, fusion soul).** → The Yaluo's metal lot read through the crate (*"The crate says mixed. It isn't"*); the smelter's yard named a pour temperature; **Ruo Ling read his hands in under a minute** — the city that reads everyone, read by him. The bench-to-be gets its stock: **Mu Chen's *"Introduce yourself"* answered in metal.**
+- **CAUSE: the win at ten; the duel (ch69).** → The fame travels lightly: nobody in Shrek knows them yet — *the city did not know yet what it was about to host* — the exam will introduce them.
+- **NEW:** Gu Yue's dawn reclaimed at 5:40 in a foreign city — the custom crosses the continent.
 
 ### NOT triggered (all remaining locks held):
-second seal break · Hawk-Soul Union · Wu Zhangkong's origin named (Shrek) · who Long Bing is · Na'er found ·
-Gu Yue's true nature (Silver Dragon King) · battle armor worn · the fusion door opened · the card's contents
-revealed · who forged the blade · what answered the hawk · who Mu Chen's first was · who has been giving him
-things · **the fourth-ring arc COMPLETE (twenty-nine days in, rank still 40, the martial soul has not evolved,
-the Domain has not appeared, the name stays CANCELLED)** · the romance named
+**Hawk-Soul Union — still reserved (71 chapters of patience)** · **Wulin's second seal — the set complete, wrapped; the break at FOURTEEN, days away (canon 247–248 held: Old Tang, the brew, the bath, WZK guarding)** · **Old Tang — held for ch71 (silent since the overload save)** · Na'er not found (the searching instinct awake in the biggest city; the thread held) · Gu Yue's true nature (the tower looked at once, one breath, and put away — 242's cult scene still held untouched) · Wu Zhangkong's origin (**the taxi that never once asked directions** — pressure held, never prose; the ch 204 reveal stands) · who Long Bing is · battle armor worn by Lin Hao · the fusion door · the card's contents · what answered · the ape · Mu Chen's first · the giver · **line 109 unfinished, coat on, one button undone, in the bag** · "Divine Stormbringer" (cancelled, forever)
 
 ### Character Progression:
-- **Lin Hao:** rank **40 → 40 (Soul Elder — the gate; the jiao has not finished)** · spiritual power
-  **338 → 402** (🔴 **+64 — the cost of holding ten thousand years; the largest single jump in the book, and he
-  is asleep for all of it**) · **hawk 1,490 → 1,504** · three purple rings (the fourth forming) · 4th rank
-  (Grandmaster) · **ledger 124 → 124 — TWENTY-NINE DAYS WITHOUT A LINE, the first gap in the book** · Sword
-  Intent · **elected to the second profession council seat for blacksmithing in absentia**
-- **Gu Yue:** went to the platform six times in twenty-nine days and told nobody · touched ten-thousand-year
-  ice that did not answer her · on the twenty-ninth day it did
-- **Xie Xie:** demanded the council seat for Lin Hao in front of the class · holds it, and his stipend, in
-  trust
-- **Xu Xiaoyan:** knew from the ninth day · said nothing · was the only person to give Gu Yue anything useful
-- **Wu Zhangkong:** went on the twenty-seventh day · measured the pool · **named the number out loud (402)** ·
-  told Gu Yue the shape in the ice is not the shape that went in · admitted his own sword does not answer him
-  either
-- **Shen Yi:** broke her own rule, out loud, in front of Tang Wulin, and called it a fact
-- **Tang Wulin:** blacksmith representative, unchallenged (canon 305) · asked the question and was told not to
-  discuss it
+- **Lin Hao:** rank **45 → 45** · spiritual power **2,740 → 2,750** · **hawk 3,095 → 3,102** (a travel week at the floor) · four rings · 5th rank · **ledger 165 held (no bout; event-gated)** · **the estate lot won — Heavy Silver and Sky Dragon Iron by weight, a bench's worth of introduce-yourself** · the smelter's yard read (pour temperature named, correct)
+- **Tang Wulin:** rank **28** · the set complete; **fourteen counted in days** · the certainty held under WZK's re-asking · the 7.3M storm watched, not fought — the savings whole · cake organized on his behalf (no discussion)
+- **Gu Yue:** rank **31 (AU)** · the dawn reclaimed — 5:40 in Shrek City, the row left to her by day three
+- **Xie Xie:** rank **33** · the spear sharpened late; the rant; the birthday committee of one
+- **Xu Xiaoyan:** rank **30** · the city mapped block by block; **"Captain," canon's habit, hers**
+- **Wu Zhangkong:** the conflicted eyes; the taxi that knows the way; *"It's your money. Your decisions. I'll say nothing."* — the mute-on-money teaching, canon's own
+- **Ruo Ling (canon 245–246, new on our page):** the Yaluo's auctioneer — valued looks and status both, was handed three of something unusual, and adjusted
 
 ### Character States:
-- **Lin Hao:** **rank 40 (Soul Elder — the gate)** · spiritual power **402** · **hawk 1,504** · **three purple
-  rings (the fourth forming — twenty-nine days into a one-month absorption)** · fist 2,612 kg (floor) ·
-  **🔨 4th rank (Grandmaster), the Halo, badge registered at Shrek** · **🔴 second profession council seat for
-  blacksmithing, in absentia** · Sword Intent · **Ghost Shadow Perplexing Track** · **in the pool, holding the
-  jiao**
-- **Wu Zhangkong:** **Skyfrost Sword, six rings (y/y/p/p/b/b, two ten-thousand-year)** · **Sky Ice two-word
-  battle armor master** · Soul Sage · 🔴 **stood at the side of the ice and measured an eleven-year-old holding
-  a ten-thousand-year jiao, and did not intervene** · said *"tell him I said he is behind"*
-- **Ranks at chapter end:** Lin Hao **40 (Soul Elder — the gate)** · spiritual power **402** · **🌪 hawk
-  1,504** · **ledger 124 (twenty-nine days, no new line)** · **💜 three purple rings (the fourth forming)** ·
-  **⚡ fist 2,612 kg (floor)** · 🔨 **4th rank (Grandmaster)** · ⚔️ Sword Intent · **Ghost Shadow Perplexing
-  Track** — **NOT triggered:** second seal, Union, Wu Zhangkong's origin, Long Bing, Na'er, Gu Yue's nature,
-  battle armor worn, fusion door, the card's contents, who forged the blade, what answered, the ape, Mu Chen's
-  first, who has been giving him things, **the fourth-ring arc COMPLETE (day 29 of ~30)**, the romance named
-- **Canon coverage:** canon ch 302 + 295 + 305 + 240 + 306 adapted · **the absorption month runs**
+- **Lin Hao:** **rank 45** · spiritual power **2,750** · **hawk 3,102** · **four rings (💜💜💜⚫)** · 🔨 5th rank ·
+  Sword Intent · six strokes · **the fusion soul (the iron under everything)** · the deep-water body ·
+  **Frost Abyss Sword · the folded domain · Domineer** · effective **Soul Emperor (61–70)** · ledger
+  **165** · **the estate lot aboard (Heavy Silver + Sky Dragon Iron, sight-read through the crate)**
+- **Wu Zhangkong:** **SKY ICE — two-word battle armor master, Soul Sage** · home in a city that does
+  not know he is home · guarding starts in days
+- **Ranks at chapter end:** Lin Hao **45** · SP **2,750** · hawk **3,102** · ledger **165** · Wulin **28** ·
+  Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — **NOT triggered:** Union, the seal (fourteen,
+  days away), Old Tang, Na'er, Gu Yue's nature, WZK's origin, Long Bing, armor worn, the fusion door,
+  the card, the blade's forger (the iron's origin — scheduled reveal), what answered, the ape, Mu
+  Chen's first, the giver, line 109, "Divine Stormbringer"
+- **Canon coverage:** 244's tail + 245 + 246 **mined full** (every beat above on-page); **held ahead:
+  canon 247 (Ready — the birthday, Old Tang, the brew, WZK guarding, the Clear Sky lore) · 248+
+  (the break itself) · 242's cult scene (locked)** · the exam canon beyond 248 requires fetching
+  before writing past it
 
 ### Ensemble — canon-verified state
 
-_Single source of truth: `CHARACTER_STATS.md` §1 (canon citations) and §3 (schedule)._
+_Single source of truth: `CHARACTER_STATS.md` §0/§1 (canon citations) and §3 (schedule)._
 _Every number below traces to a canon line or is labelled AU._
 
-- **Tang Wulin:** rank **18** · **blacksmith representative at Shrek, unchallenged** (canon c305) · one purple ring
-- **Xie Xie:** rank **23** · **holds the second profession council seat for blacksmithing in trust for Lin Hao** (AU, ch70) · **eleven ingots under his bed** (AU, ch71) · two rings
-- **Gu Yue:** rank **21** · **TWO rings** (canon c224) — **Soul Grandmaster** · **at Shrek** (canon c288) · spiritual power **153** at nine (canon c114)
-- **Xu Xiaoyan:** rank **19** · two yellow rings · spiritual power **61** (canon c183) · **at Shrek** (canon c288)
-- **Zhang Yangzi:** rank **27** · spiritual power ~27 after Little Black · **still at Eastsea Academy**; out of class zero since ch43 · **NOT going to Shrek**
-- **Wang Jinxi:** **LEFT in ch43** (canon ch 153 "Leaving") · last known rank 25 · spiritual power 18 (canon c113) · transferred to another academy · **NOT going to Shrek**
-- **Wei Xiaofeng:** rank **26** · **left class zero first** (canon: *"Wei Xiaofeng was the first to leave"*) · still at Eastsea Academy · **NOT going to Shrek**
+- **Tang Wulin:** rank **28** · two rings, ~4,000 years of spirit energy (canon c232) · + the external right-claw soul bone (canon c240–241) · the seal set complete — **the break at fourteen, days away** · ~14M in savings intact (canon 246's figure — the vine never bled it here) · **going to Shrek** (canon c288)
+- **Xie Xie:** rank **33** · three rings (canon) · first-rank mecha craftsman candidate · Tang Sect associate · **going to Shrek** (canon c288)
+- **Gu Yue:** rank **31 (AU — canon gives no rank at 13)** · three rings (canon c232) · spiritual power **700+, Spirit Sea (canon c231)** · Spirit Pagoda · the 5:40 custom exported to Shrek City · **going to Shrek** (canon c288)
+- **Xu Xiaoyan:** rank **30** · two rings, the second-spirit-soul question open · spiritual power **400+ (canon c231)** · class-three associate · **"Captain" (canon 245's own habit)** · **going to Shrek** (canon c288)
+- **Zhang Yangzi:** rank **31 (AU)** · the Eastsea dock — staying (the manifest was for the platform)
+- **Wang Jinxi:** **LEFT in ch43** (canon ch 153) · last known rank 25 · away; the letters still cross · **NOT going to Shrek**
+- **Wei Xiaofeng:** rank **30 (AU)** · still at Eastsea — *"Eastsea will keep"*
 
-Canon position anchors for this point in the story: everyone in class zero is **10 years old** through the tournament arc (canon c221: *"They're so young though, only ten years old!"*); the Shrek working-student dorm holds **four** — Tang Wulin, Xie Xie, Gu Yue, Xu Xiaoyan (canon c288; + Lin Hao, AU = five invitees). Departure order: **Wei Xiaofeng left class zero first** (canon), then **Wang Jinxi transferred to another academy** (canon ch 153, staged in our ch43). **AU divergence:** in canon Zhang Yangzi transfers out with him; in this story Zhang Yangzi embraces Wang Jinxi on the steps and **stays at Eastsea Academy**, out of class zero.
+Canon position anchors: the story now stands in **canon 246's evening, three days before the exam — Shrek City, the Yaluo**. **Held ahead:** 247 (Ready) · 248+ (Breaking the Second Seal — ours at fourteen) · the exam chapters beyond 248 (fetch first). **AU divergences standing:** Zhang Yangzi stayed; Gu Yue's estrangement-cause void; the guardian defeated; the duel spent; **the vine bought in Eastsea — canon's auction agon inverted into spectacle**; five invitees.
 
-🔴 **REALM GAP LAW (v2.90):** every ten ranks is a wall, not a step. Lin Hao is a **Soul Elder with three purple rings**; everyone else here is rank 17–23 with two. None of them can defeat him — they can outlast him, survive him, cost him. Gu Yue does exactly that, because she is the one he cannot read.
-
+🔴 **REALM GAP LAW (v2.90):** every ten ranks is a wall, not a step. No combat this chapter — the
+law spends nothing cheaply, and the next spend is already booked: a door at fourteen, and an
+examination that does not test winning.

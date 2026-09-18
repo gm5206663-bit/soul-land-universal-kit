@@ -231,7 +231,7 @@ true nature · battle armor worn · the fusion door opened · the card's content
 what answered · what the ape was · who Mu Chen's first was
 
 ### Character Progression:
-- **Lin Hao:** rank **270 → 270 (Soul Elder)** · spiritual power **233 → 233** · **hawk 1,344 → 1,351** · three purple
+- **Lin Hao:** rank **34 → 34 (Soul Elder)** · spiritual power **233 → 233** · **hawk 1,344 → 1,351** · three purple
   rings · 4th rank (Grandmaster) · **the Track, learned properly in nine days** · Sword Intent
 - **Xu Xiaoyan:** **the one the whole shape depends on** · five seconds · night only
 - **Xie Xie:** rank **23** · Twin Dragon Storm · *"We're a very slow team."*

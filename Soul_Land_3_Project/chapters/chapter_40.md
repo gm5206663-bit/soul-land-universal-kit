@@ -330,7 +330,7 @@ armor worn · the fusion door opened · the card's contents revealed · the thir
 **empty**)
 
 ### Character Progression:
-- **Lin Hao:** rank **30 → 31 (Soul Elder) — the wall opens** · **three purple rings, the third filled from the blade** · spiritual power **205** (not re-measured; no
+- **Lin Hao:** rank **30 → 31 (Soul Elder) — the wall opens** · **two purple rings + a third bestowed, empty** · spiritual power **205** (not re-measured; no
   number invented) · **hawk 964 → 1,164** · **rings: two yellow → two PURPLE + a third bestowed, empty** ·
   fist 2,612 kg (floor, not re-measured) · **the Stormbringer has stopped being a tool** · the quiet strategy is
   dead and he knows it

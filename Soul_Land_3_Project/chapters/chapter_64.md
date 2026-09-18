@@ -1,261 +1,311 @@
-# Chapter 64: The First Rank
+# Chapter 64: One Week
 
-## Canon Reference: canon ch 218 ("Guide Rather Than Oppose" — Mu Chen's first-rank-foundation line),
-## ch 230 ("Spirit Item Exchange"), with ch 229 carried forward.
-## Canon anchors held: **Mu Chen's foundation line** — *"the foundation of a battle armor master stems from
-## being a first-rank blacksmith"* · **the Tang Sect contribution-point structure** — a blacksmith earns
-## points by forging, and the points buy spirit items (canon ch 230: Wulin exchanges points for
-## thousand-year Land Dragon Tendon and Sea Dragon Marrow to prepare his second seal) · **a battle armor is
-## grown, not forged.**
-## AU: **Mu Chen's line is canon about Wulin; here it is turned on Lin Hao, and it lands differently, because
-## a boy who is eleven years early has skipped every step on the way up and has never once stood at the
-## bottom.** The chapter is about a prodigy going back to the first rank, and finding out that the bottom is
-## the only place you can grow a thing instead of forging it.
-## Timeline: Age 10 — the three weeks after the tournament
-## GROWTH: rank **37 → 38 (Soul Elder)** · spiritual power **296 → 303** · hawk **1,418 → 1,430** · three
-## purple rings · 4th rank (Grandmaster) · **ledger 112 → 114** · Sword Intent.
-
----
-
-## Part 1: The First-Rank Forge
-
-Mu Chen took him to a first-rank forge.
-
-Not the Association's forge, where the thousand-refinement halls were and the competition stage was and the men who had been fourth-rank for thirty years worked. Mu Chen took him three streets down, past the spirit-item exchange where the Tang Sect kept its cobalt building, to a forge with one fire and one anvil and a man in a leather apron who looked at Lin Hao the way you look at a person who has come to the wrong door.
-
-"This is Old Zhou," Mu Chen said. "He is a first-rank blacksmith. He has been a first-rank blacksmith for forty-one years."
-
-Lin Hao looked at Old Zhou. Old Zhou looked at the floor, because Old Zhou had been a first-rank blacksmith for forty-one years and had learned that looking at fourth-rank Grandmasters who were eleven was a thing that did a person no good.
-
-"You're going to work here," Mu Chen said.
-
-Lin Hao had been expecting a lot of things. He had been expecting a wall, because Mu Chen had told him on the seawall that the foundation of a battle-armor master was a first-rank blacksmith, and he had assumed the wall was going to be a rank of metal he had never touched, a spirit-refined something he could not name. He had been ready for a wall.
-
-He had not been ready for Old Zhou.
-
-"I'm a fourth-rank Grandmaster," Lin Hao said.
-
-"I know," Mu Chen said. "That's the problem."
+## Canon Reference: interstitial — week one of canon ch 229's refused three-year cut (the F6 ruling).
+## Canon anchors held: the smith ladder, canon c40 (1–2 Master · 3–4 Grandmaster · 5–6 Master Craftsman ·
+## 7–8 Saint Craftsman · 9 Divine Craftsman — locked in the BLACKSMITH SYSTEM, Upgrade Log 2.37) ·
+## one-word battle armor is thousand refined, two-word is spirit refined (held ch63, canon) · Mu Chen's gate
+## ("when the metal tells me you will, and not one week sooner" — ch63; his steering method is canon ch 218's) ·
+## Wu Zhangkong's adjustments (canon ch 229: "Perhaps some adjustments are in order") staged in the yard and
+## the classroom for the first time · "Hello Uncle Cao" destination anchors (canon ch 229, second half) unchanged.
+## AU: the acoustics of failed spirit-refined metal (the total silence, the held-breath reading, the one-tone
+## event) are AU inventions for the K4 arc — canon says nothing about what failed spirit refinement sounds like.
+## The Sunday standing place is an AU apprenticeship arrangement. No canon text exists for the skipped years;
+## that absence is exactly why the cut was refused.
+## Timeline: Age 10 — the first week of the new term; Eastsea City. The walked skip begins.
+## GROWTH: rank **36 → 36 (Soul Elder)** · spiritual power **295 → 301** · hawk **1,412 → 1,418** · three
+## purple rings · 4th rank (Grandmaster) · **ledger 110 → 110 — no new line; a week at the bench** ·
+## Sword Intent.
 
 ---
 
-## Part 2: What Old Zhou Taught
+## Part 1: Terms
 
-The work was first-rank work.
+The adjustment arrived on Monday, at six in the morning, in the yard, and none of them knew what to do with it.
 
-It was heating iron to the temperature where it would move and not the temperature where it would burn, and it was hitting it, and it was folding it, and it was doing that until the iron was a thing that could be a nail or a hinge or a strap, and it was not thousand-refinement and it was not competition work and it was not anything Lin Hao had not done ten thousand times before he was eight.
+They had lined up the way they always lined up. Wu Zhangkong had looked at them for a moment, and then he had asked them how they were.
 
-He did it in an afternoon.
+Five answers. Wulin said, "Good, teacher," and kept jogging on the spot, because nobody had told him to stop and being told things was how his whole life worked. Xie Xie said, "Is this a test?" Xu Xiaoyan said, "Fine," and then heard herself, and said, "Am I allowed to be fine?" Gu Yue said, "Yes," which was a whole sentence when she wanted it to be.
 
-Old Zhou looked at the strap. Old Zhou had been a first-rank blacksmith for forty-one years, and he had watched a boy who was eleven make in one afternoon what took him a week, and his face did the thing that faces did, which was nothing.
+Lin Hao had been warned. That was the problem. Gu Yue had told him on the breakwater, and so when the question came he had prepared an answer the way he prepared everything, which was efficiently, and the answer came out as, "Well, thank you," and the word *well* lay down in the yard and did nothing, and he stood there hating it, exactly as predicted.
 
-"It's good," Old Zhou said.
+Wu Zhangkong nodded once and took the morning as usual, and then ended it twenty minutes early.
 
-"Thank you."
+The five of them stood in the loose circle they broke in, and nobody broke it. Twenty minutes is not a long time. It was longer than anything they had been given in a year.
 
-"It's good the way a thing is good when a person who is very good at the top makes it," Old Zhou said. "It's not good the way a thing is good when a person who is at the bottom makes it and has nowhere else to be."
+"We can do another set," Xie Xie said.
 
-Lin Hao set the hammer down.
+"I know," Wu Zhangkong said.
 
-"Say that again."
+"Then—"
 
-Old Zhou had been a first-rank blacksmith for forty-one years and had not said a thing that long to anybody in a decade, and he looked at the floor again.
+"Go home, Xie Xie."
 
-"You're at the top," Old Zhou said. "When you make a strap, you're making a strap and you're also a fourth-rank Grandmaster making a strap, and the strap knows the difference. When I make a strap, I'm making a strap, and that's the whole of me that day, and the strap is the only thing I've got, so I understand it from the bottom, because the bottom is all I've ever had." He looked at Lin Hao then, for the first time. "You skipped the bottom. You were good so fast you went straight up, and you never stood at the bottom long enough to understand a thing from below it."
+They went home slowly, the way people leave a table before the meal is finished. Xie Xie looked back twice. Xu Xiaoyan walked as though the pavement might be assessed. Wulin jogged, because it was in him to jog, and then stopped jogging, visibly embarrassed about nothing.
 
-Lin Hao did not say anything, because Old Zhou had just said in four sentences what Mu Chen had been trying to say for three weeks, and because he had been eleven years early his whole life and had never once understood that early meant skipping.
+That evening the scale sat on his bench at home, wrapped in its cloth, and Lin Hao set his terms the way Mu Chen had set his.
 
----
+Mu Chen had said: one week, and tell me something I don't know. So Lin Hao wrote the question first. He had never written a question in the book before. Numbers went first because numbers never asked anything of him, and a question was the opposite of a number, and it sat on the page looking wrong, the way a left shoe looks wrong on a right foot.
 
-## Part 3: What Mu Chen Said
+*Why is it quiet.*
 
-Mu Chen had watched from the door, the way Mu Chen watched, which was like a man who had already decided and was waiting to see if the boy would arrive on his own.
+Under it, in smaller writing, the way he wrote the things he did not want to find out he had known:
 
-"A battle armor is not forged," Mu Chen said, when Old Zhou had gone back to his fire. "A sword is forged. A knife is forged. A battle armor is *grown* — it is spirit-refined metal that becomes a part of a person, and you cannot grow a thing you do not understand from the bottom, because a grown thing is a thing that was understood at every step from the first."
-
-"And I skipped the steps."
-
-"You were good so fast you never had to stand at any of them." Mu Chen took up the strap Lin Hao had made and turned it over. "This is a good strap. It is also a strap made from above, by a person who was already a Grandmaster and was making a strap. A battle-armor smith has to be able to make it from below. From the place where the strap is the only thing there is." He set it down. "That is the foundation. That is what I meant when I said the foundation of a battle-armor master is a first-rank blacksmith. Not the rank. The *bottom.*"
-
-Lin Hao looked at the forge, which had one fire and one anvil and forty-one years of a man who had never gone up.
-
-"How long."
-
-"I don't know," Mu Chen said. "That's the part you have never been good at. It isn't a number of strikes. It isn't a rank. It's standing at the bottom until the bottom is the only place you're standing, and you have never done a thing in your life that wasn't going to be done faster by tomorrow."
-
-Lin Hao picked up the hammer.
-
-"Then I'd better start," he said.
+*Failed metal shouts. This piece doesn't. Find out which of those two facts is lying.*
 
 ---
 
-## Part 4: What Wulin Was Doing
+## Part 2: The Ear
 
-Wulin was at the spirit-item exchange that afternoon, because Wulin was doing the thing Wulin did, which was preparing.
+He worked at it the way he worked at everything, which was on a schedule, with instruments, in the evenings.
 
-He was buying spirit items with contribution points he had earned by forging, because the Tang Sect paid in points and the points bought the things that prepared a body for its second seal, and Wulin had been saving for a long time. Lin Hao found him at the cobalt counter with two small boxes in his hands, and Wulin did not hide them, because Wulin did not hide anything.
+He hung the scale from a thread off the lamp bracket and tapped it with the handle end of a file, and made a grid on paper, and filled the grid in. Every point on the surface, tapped, noted, tapped twice. A thousand-refined piece rings true when it is good. He knew that the way he knew bread. Under the same bracket he hung one of his own finished bars and got the note he expected, and the note held, and the paper got a column it could trust.
 
-"Land Dragon Tendon," Wulin said. "And Sea Dragon Marrow. They refine the body for the second seal. They cost almost everything I had."
+Then the failures. He had kept his failures since he was six. They were in a crate under the bench, wrapped in paper, dated in his own hand, because even at six he had known the failures were the ones worth naming. He took the top six out and hung each of them in turn.
 
-"When's the second seal."
+All six shouted.
 
-"When I'm ready," Wulin said. "Old Tang says when I'm ready. I've got the items now so when I'm ready I'm ready." He looked at Lin Hao. "What were you doing."
+A bad fold in a bad refining makes a sound like a cracked plate, and the sound goes everywhere, and the piece cannot hide it. That was the oldest thing he knew about metal: you cannot lie to a thread and a hammer. He hung the scale again and tapped it down every square of the grid, and the paper filled up with a word he wrote only once and then, after the fourth row, wrote as a dash because it was faster.
 
-"Old Zhou's forge."
+Nothing. Nothing. Nothing.
 
-"The first-rank one?"
+The fold had not taken the voice out of one place. It had taken the voice out of the piece. A flaw is local; it shouts, and the shouting is how you find it. This was not local. Whatever had gone wrong at the twelfth refining had gone wrong everywhere at once, which meant the twelfth refining had not been work done to part of the metal. It had been something done to all of it, and the all of it was still holding whatever it had been given.
 
-"The first-rank one."
+Mu Xi stopped at the bench on Wednesday, on her way past with a crate of her own, and watched him tap for a while.
 
-Wulin looked at him for a moment, the way Wulin looked when he was working something out and was not going to say it until he had it right.
+"You're going to sit with that all week," she said.
 
-"You went back to the bottom," Wulin said.
+"He gave me a week. It would be rude to use only some of it."
 
-"Yes."
+She set the crate down on the end of the bench. "What is it?"
 
-"Because you're going to make the metal." Wulin said it the way he said everything, which was like a fact he had just confirmed. "Xie Xie said you'd make the metal, and you're going back to the bottom to do it, and I've got my items and you've got your forge and we're both getting ready for a thing that hasn't come yet." He put the boxes away. "We've been getting ready for a thing that hasn't come yet since we were six."
+"An armor scale. Spirit refined. It failed, and it's quiet, and quiet isn't what failing does."
 
-"Yes."
+"Who refined it?"
 
-"That's the whole thing, isn't it," Wulin said. "Getting ready."
+"Nobody says."
 
-"Yes."
+"Then it isn't only metal you're listening to." She picked the crate back up. "It's whoever stopped."
 
-Wulin smiled, because that was what Wulin did when a thing was settled, and they walked back through the spirit-item exchange together, two boys who were eleven and were getting ready for a thing that hadn't come, and neither of them said what the thing was, because neither of them had a word for it yet.
+She went on, and he wrote *total* in the margin beside the grid and underlined it, and then sat looking at the word, because it had a second edge and she had just handed it to him.
 
----
+Broken metal shouts, because breaking is an opinion and opinions carry. This piece did not shout, and did not ring, and did not do anything at all.
 
-## Part 5: What Gu Yue Did
-
-Gu Yue was at the first-rank forge the next morning.
-
-She was not working. She was standing in the doorway, the way she stood in doorways, watching Lin Hao make a hinge that was the only thing there was, because he had been at Old Zhou's forge for a day and a half and had started, a little, to stand at the bottom.
-
-"You're making a hinge," she said.
-
-"I'm making a hinge."
-
-"Yesterday you made a strap in an afternoon."
-
-"Yes."
-
-"And today you've been making a hinge for three hours."
-
-"Yes."
-
-Gu Yue was quiet. She had a way of being quiet that was not empty, the way a held note was not silence.
-
-"Mu Chen sent you to the bottom," she said.
-
-"Yes."
-
-"Because you're going to make the metal."
-
-"Yes."
-
-Gu Yue looked at the hinge, which was not finished, and at Lin Hao, who was not finished either.
-
-"You've never been at the bottom of anything," she said. "You've been at the top of everything since you were six, and you've been early at all of it, and you've never once had to be bad at a thing long enough to understand it." She turned, in the doorway, the way she turned, which was a few degrees. "I've been at the bottom. I've been the only one who couldn't be read, who had nothing to show, who was a blank page in her own ledger. So I understand a thing from below it." She paused. "That's why I could teach you the fusion. Not because I'm better. Because I've been at the bottom of a thing and you hadn't."
-
-Lin Hao set the hammer down.
-
-"Is that why you taught me."
-
-"Yes."
-
-"You never said."
-
-"No." She left, because that was the thing they did, the leaving. "I'm saying it now."
+*It isn't silent because it's dead,* he wrote. *Dead metal is just quiet metal. This is silent like a breath being held.*
 
 ---
 
-## Part 6: What Lin Hao Wrote
+## Part 3: Gentled
 
-He wrote it that night, at Old Zhou's forge, because Old Zhou let him stay and because the forge was the place he was standing now.
+On Thursday, theory hour, Wu Zhangkong did something none of them had a defence prepared for, because it looked like nothing. He asked them what they wanted next.
 
-*Three hundred and three. One thousand four hundred and thirty. Thirty-eight.*
+One at a time. In the register he used for attendance.
 
-*Mu Chen sent me to the bottom. Old Zhou has been a first-rank blacksmith for forty-one years and has never gone up, and he makes a strap from below it because the bottom is all he has ever had, and I made a strap in an afternoon from above it because I was already a Grandmaster and the strap knew the difference.*
+Xu Xiaoyan went first, because she sat nearest the door. "A match that starts in the morning," she said. "One. I want to walk into one in daylight with nobody arranging it for me."
 
-*A battle armor is grown, not forged. You cannot grow a thing you do not understand from the bottom. I skipped the bottom. I was good so fast I went straight up. I have been eleven years early my whole life and I never understood that early meant skipping.*
+He wrote it down. That was all. She had expected weight to arrive with the writing, and it did not, and she sat back as though the bench had moved.
 
-*Gu Yue taught me the fusion because she has been at the bottom of a thing and I hadn't. She said it today. She had not said it before. She leaves instead of finishing, and today she finished.*
+Xie Xie said, "Machines." And then, because it was Xie Xie: "Design, machining, and the licence the army can take back. I want to be difficult about all three somewhere with a roof."
 
-He set the pen down, because there was one more thing.
+Written down, unweighed.
 
-*I have two ceilings. The first was ice. The second is the bottom. Neither is a wall I can hit. The ice I cannot reach and the bottom I cannot skip, and I have spent eleven years being early and I understand now that early is a person who has never stood still long enough to be at the bottom of a thing. I am standing at the bottom now. It is slow. I do not like it. I am going to stay.*
+Wulin looked at the floor. "Make," he said. "I stood under it once, in the yard in Skysea. I want to make what it was made of."
 
-He closed the book.
+Written down. Wulin exhaled like a man setting down a crate he had carried for a month.
 
-The lock at his temple lay gold across his cheekbone, and the marks on his forearms were raised, and the hawk turned over in him — *one thousand four hundred and thirty* — and did not pull toward anything, and Old Zhou's fire was the only fire in the forge, and Lin Hao sat at the bottom of it, and it was the first time in his life he had been at the bottom of anything, and he did not yet know that the bottom was the only place a thing could be grown.
+"Gu Yue."
+
+"Ask me where instead."
+
+"Where."
+
+"Shrek," she said, and nobody in the room could tell whether she had deflected or answered, and she looked at nobody while they failed to tell.
+
+"Lin Hao."
+
+"Fifth rank," he said.
+
+And Wu Zhangkong wrote it the way a man writes a dentist appointment. No pause of the pen, no look over the page, nothing held back and nothing given. It was the kindest thing Lin Hao had ever watched him do with a pen, and it landed in Lin Hao's chest at an angle he had no shelf for, and he understood, from inside it, everything Gu Yue had said on the breakwater. He tried to be efficient about the feeling. He filed it under *adjustments* and the folder would not close, and he carried it around open for the rest of the day.
+
+The twenty minutes kept coming back at them, too. Every morning the session ended early, and every morning somebody tried to return the time, until Friday, when Xie Xie said, "Sir, if this keeps happening I'm going to have to report the minutes as income," and Wu Zhangkong said, "Report them to your parents. It's their hour," and that was the end of the returning, because none of them had an answer for where the hour had actually come from.
+
+Lin Hao took his share of the given time to the bench, because he took everything to the bench. He aimed the twenty minutes at the scale the way he had aimed every evening at it.
+
+Nothing came of them. He logged the nothing. It was the first entry in the book that measured zero, and he looked at it for a long time before he let it stand.
+
+---
+
+## Part 4: The Warm Hour
+
+Friday evening the members' forge was Wulin's. He had a commission in, a hinge run for a boat chandler, forty of them, and the tin was heavier than it had been in the autumn, and it was not heavy enough, and it was not going to be heavy enough, and he put another week in anyway, because that was the whole method of him.
+
+So Lin Hao was not working. That was the whole of it, and it needs saying plainly because it had never once been true before: he sat on the stool by the door with the scale in his two hands, and he was not measuring anything.
+
+They talked about the year they were six. Mang Tian's lane.
+
+"He made us forge the day the quench-water froze," Wulin said, to the hinges.
+
+"He said cold metal forgives nothing."
+
+"He said we'd thank him."
+
+"Have you?"
+
+"Every winter." Forty.
+
+Wulin said the hinge count under his breath the way other people say prayers, and Lin Hao held the failed scale in both hands, and his hands were warm from doing nothing, and the lamp was low, and the forge ticked.
+
+It did not ring. Rings are struck. This came up through his palms the way a bowl comes up under a wet fingertip, one low note, somewhere near the bottom of a man's speaking voice, and it held for a second, perhaps two, and then it was gone, and the metal was as quiet as it had been for eleven years.
+
+Lin Hao did not move. He did that on purpose, afterwards, he was proud of that: he did not move, and he did not reach for the file, and he did not say anything until the not-sound had finished being in his hands.
+
+"Wulin."
+
+"Hm." Forty-one.
+
+"It spoke."
+
+Wulin set the hinge down. He came over and looked at the scale, which lay in Lin Hao's palms looking exactly like a piece of metal, and then at Lin Hao's face, and he had known him for nine years and did not ask.
+
+"Can it be answered?" Wulin said finally.
+
+"Not by me. Not yet."
+
+For one second, somewhere in that minute, Lin Hao had thought of feeding it. A thread of soul power, the smallest one he had, the way you touch a sleeper's shoulder. Spirit refinement was exactly that — the asking of metal with what a man is — and the piece was sitting there with a question sealed inside it, and he had an answer in him that wanted out.
+
+He closed his hands around it instead, and did not.
+
+The examination was the gated thing. The gate had a man on it, and the man had said not one week sooner, and terms are terms, and a boy who keeps a ledger knows what a kept term is worth.
+
+That night he wrote the entry, and the entry was the strangest one in the book.
+
+*Nine fifty-one. One second, perhaps two. Cause: nothing. I was doing nothing. Wulin was counting hinges.*
+
+Every hour he had aimed at the piece had bought silence at full price. The one hour he had spent beside it, without meaning to, had bought the only sound it had made in eleven years.
+
+Gu Yue had said it to him on the breakwater, flat as a scale reading. He had understood it on a bench, with warm hands, on a Friday.
+
+The point of it was the part you couldn't spend.
+
+---
+
+## Part 5: What He Told Mu Chen
+
+Saturday, nine in the morning, the back room, tea already in. Mu Chen had the counter scale out, which meant he expected the piece back weighed, and Lin Hao had weighed it at home, so they weighed it together and said the number at the same time, and it was three hundred and eighty grams, and the week had cost the metal nothing but one second of its silence.
+
+"Tell me," Mu Chen said.
+
+Lin Hao told him in the order he had found it, because the order was part of it.
+
+"The fold isn't local. I hung it and tapped a grid over every square inch of it. A flaw shouts where it is; this piece is quiet everywhere, which means the twelfth refining didn't damage a spot, it stilled the whole. Whatever went in at refining twelve is still in there. It never came back out." He put the grid paper on the table. "Second. The fold is two circles crossing. Spirit refining runs in rounds; the smith asked the second question before the first was finished being answered, and the metal kept both questions, and closed on them. It isn't failed." He heard his own voice do it, drop half a register, the way it did for measurements. "It's unanswered."
+
+Mu Chen had stopped turning his cup.
+
+"Third," Lin Hao said. "Yesterday at nine fifty-one in the evening, in both my hands, it gave one note. One. Not struck — it came up through my palms, low, one second, perhaps two, and then quiet again. Eleven years of quiet and I got one second of it, and I got it doing nothing. Every evening I worked at it with instruments, it gave me nothing. I wrote the nothing down." He put the book on the table, open to the strangest entry.
+
+The room held still. Somewhere in the Association a power hammer went, four floors down, slow, like a heart with a job to do.
+
+"Show me," Mu Chen said.
+
+"I can't. It isn't a strike. It's an hour."
+
+Mu Chen looked at him for a moment. Then he picked the scale up off the pan and held it in both hands, and Lin Hao stood there and watched the president of the Eastsea Blacksmith's Association stand in his own back room holding a failed piece of armor with his eyes half shut, and the tea went from hot to warm in front of them, and no note came, and Mu Chen set the piece down as carefully as a sleeping thing.
+
+"Why do you keep it?" Lin Hao asked.
+
+Mu Chen turned his cup a quarter turn.
+
+"Because it's quiet," he said.
+
+He did not explain, and Lin Hao did not push, because there were locked drawers in that man the way there were locked drawers in governments, and it was not a week for picking them.
+
+"The metal hasn't told me you're ready," Mu Chen said. "That stands. But it has talked to you, and in eleven years it has never talked to me, and I am not so old that I'll stand here and pretend that's nothing." He drank the warm tea anyway, without a face. "The fifth-rank bench runs Sunday mornings. Nine o'clock. There is a place on the floor where an apprentice stands. You will stand there. You will carry what I tell you to carry and you will touch nothing."
+
+"For how long?"
+
+"Until the metal tells me."
+
+Lin Hao looked at the scale, three hundred and eighty grams of held breath, going back into its cloth, and asked the last thing at the door, because it was the only thing left.
+
+"What do I watch for?"
+
+"Watch what the metal is asked," Mu Chen said. "Any man can watch what a hammer does."
+
+---
+
+That night, in the room that smelled of the sea, he wrote the number first, because it never asked anything of him, and because after a week of questions he had needed that, and he noticed himself needing it, and wrote that down too.
+
+*Three hundred and one.*
+
+*One thousand four hundred and eighteen.*
+
+The hawk turned over in him, one thousand four hundred and eighteen years of it, and did not pull toward anything.
+
+No line for the ledger. Nothing had been adapted this week. Line one hundred and ten stayed the last line, and line one hundred and nine stayed on the far side of the page turn, unfinished, with its coat on, in no hurry, and he was in no hurry about it either, and that was Friday's other discovery, though it belonged to a different bench.
+
+He wrote the week instead, at the bottom, in the small hand.
+
+*One week. One second. A standing place on Sunday mornings at a bench I am not allowed to touch, and it is the best trade I have ever made.*
+
+He closed the book. His hands still held the shape of the note, the way hands keep a weight after the weight is set down. In the morning it would be Sunday, and nine o'clock, and a place on the floor.
+
+He slept with his hands open.
 
 ---
 
 ## End of Chapter 64
 
 ### Chapter Summary:
-Mu Chen takes Lin Hao — a fourth-rank Grandmaster, eleven years early — to **Old Zhou's first-rank forge**.
-The boy who skipped every step on the way up has to stand at the bottom. Old Zhou, a first-rank blacksmith
-for forty-one years who never went up, makes a strap *from below* because the bottom is all he has ever
-had; Lin Hao made one in an afternoon *from above*, and *"the strap knows the difference."* **A battle armor
-is grown, not forged** — *"you cannot grow a thing you do not understand from the bottom."* Mu Chen's canon
-line (*"the foundation of a battle armor master stems from being a first-rank blacksmith"*) is turned on
-Lin Hao and lands differently than canon intends, because early means skipping. **Wulin** is buying spirit
-items for his second seal in parallel (*"we've been getting ready for a thing that hasn't come yet since we
-were six"*). **And Gu Yue finishes a sentence:** she taught him the fusion not because she's better but
-because *"I've been at the bottom of a thing and you hadn't."*
+**The adjustment arrives on Monday — "How are you?" in the yard at six a.m., and the session ends twenty minutes early, and class zero tries to give the time back.** ("We can do another set." / "I know." / "Go home, Xie Xie.") The resistance promised in ch63, staged: **they have been trained to be spent, and being spared reads as being assessed** — until Xie Xie reports the minutes as income and Wu Zhangkong answers *"Report them to your parents. It's their hour."* **Theory hour becomes the asking:** Xu Xiaoyan — *"a match that starts in the morning"*; Xie Xie — *"machines… somewhere with a roof"* (the mecha road, first said aloud in class); Wulin — *"Make. I stood under it once… I want to make what it was made of"*; Gu Yue — *"Ask me where." / "Where." / "Shrek."*; Lin Hao — *"Fifth rank,"* which Wu Zhangkong writes **the way a man writes a dentist appointment — "the kindest thing Lin Hao had ever watched him do with a pen."** Meanwhile the week with the scale: **a tapped grid over every square inch proves the silence is TOTAL** — the fold stilled the whole piece, so the twelfth refining's power never came back out — and the fold is **two circles crossing, the second question asked before the first was answered: "It isn't failed. It's unanswered."** He is tempted once to feed it soul power and **closes his hands instead — terms are terms.** Friday, nine fifty-one, not working, Wulin counting hinges beside him: **the scale gives one low note through his palms — one second, perhaps two — the only sound it has made in eleven years**, bought by the hour he didn't spend. Saturday he tells Mu Chen all three findings; Mu Chen holds the piece until the tea goes warm and **no note comes;** asked why he keeps it: *"Because it's quiet."* The gate holds — **"the metal hasn't told me you're ready"** — but the door opens a crack: **Sunday mornings, nine o'clock, the fifth-rank bench, a standing place on the floor, carry and touch nothing, "until the metal tells me."** What to watch for: *"Watch what the metal is asked. Any man can watch what a hammer does."* Ledger holds at 110 — nothing adapted this week. He sleeps with his hands open.
 
 ### Canon Anchors (all verified):
-- **Mu Chen's first-rank-foundation line** — *"the foundation of a battle armor master stems from being a
-  first-rank blacksmith"* — canon ch 218 (verified verbatim in the frozen quote-sources).
-- **The Tang Sect contribution-point structure** — a blacksmith earns points by forging; points buy spirit
-  items (canon ch 230: Wulin exchanges points for thousand-year Land Dragon Tendon and Sea Dragon Marrow to
-  prepare his second seal).
-- **A battle armor is grown, not forged** — canon mechanic (battle armor is spirit-refined metal that
-  becomes part of the person).
+- **The smith ladder** — canon c40: 1–2 Master · 3–4 Grandmaster · 5–6 Master Craftsman · 7–8 Saint Craftsman · 9 Divine Craftsman — locked into the BLACKSMITH SYSTEM at Upgrade Log 2.37 (verified 2026-08-27); fifth rank = Master Craftsman = the spirit-refinement examination, as named in ch63.
+- **One-word armor = thousand refined · two-word = spirit refined** — canon, held as in ch63's back-room scene.
+- **Wu Zhangkong's adjustments** — canon ch 229's interiority (*"Perhaps some adjustments are in order"*) staged on-page for the first time: the morning question, the twenty minutes, the asking hour.
+- **Mu Chen's gate** — "not one week sooner" (ch63); his steering-by-conviction is canon ch 218's method, verified against the live text 2026-08-30.
+- **The refused cut (F6)** — canon ch 229 ends the era in a paragraph; this chapter is **week one of walking it**. No canon text exists for these years; the ch 229 second-half destination anchors (Wulin rank 28 / peak 4th-rank smith / Tang Sect associate; Xie Xie rank 33 / three rings / rookie mecha craftsman) are unchanged and on schedule.
 
 ### AU / Butterfly:
-- 🔴 **Mu Chen's line is canon about Wulin; here it is turned on Lin Hao, and it lands differently.** Canon
-  means *start from the first rank.* Here it means *a prodigy who was early skipped the bottom and has to
-  go back.* *"Early is a person who has never stood still long enough to be at the bottom of a thing."*
-- 🔴 **THE BOTTOM IS THE ONLY PLACE A THING CAN BE GROWN.** A battle armor is grown, not forged; Lin Hao
-  has forged everything from above and has to learn to grow from below. Pays the K4 thread (battle-armor
-  smithing) Xie Xie opened in ch62 and ch63 grounded.
-- 🔴 **GU YUE FINISHES A SENTENCE.** She taught him the fusion because she has been at the bottom (a blank
-  page in her own ledger) and he hadn't. The silence handed back in ch63 moves a little further.
-- **WULIN IN PARALLEL** — buying spirit items for his second seal (canon 230), *"getting ready for a thing
-  that hasn't come yet since we were six."* The two boys getting ready, neither with a word for the thing.
+- 🔴 **The acoustics of failed spirit refinement are AU** — canon never describes what failed spirit-refined metal sounds like. The total silence, the held-breath reading, and the one-tone event are invented for the K4 arc, extending ch63's AU object (the 380 g scale). The physics stays honest to the fic's own rules: **no soul power is fed to the piece** (that would be spirit refinement itself — the gated examination), only warmth and an unspent hour.
+- **The Sunday standing place** — AU apprenticeship arrangement; canon has no such post for anyone. It advances K4 without touching the locked examination.
+- **Xie Xie's "machines… with a roof"** — his ch62 decision, now said in class; canon ch 229's far anchor (first-rank mecha craftsman) is his road.
+- **Wulin's "make"** — the ch63 bench decision carried into the asking hour; his ch 229 anchor (peak fourth-rank smith, contribution points all from forging) continues to build. The tin: "heavier than it had been in the autumn, and not heavy enough" — no numbers; Na'er's thread stays alive without a scene.
+- **Mu Xi's one beat** (fic continuity from ch10) — no numbers restated.
+- **Gu Yue's "Shrek."** — canon-anchored destination (c288: the working-student dorm), said as deflection-and-answer both; nobody names anything else.
 
 ### NOT triggered (all remaining locks held):
-second seal break · Hawk-Soul Union · Wu Zhangkong's origin named (Shrek) · who Long Bing is · Na'er found ·
-Gu Yue's true nature (Silver Dragon King) · battle armor worn · the fusion door opened · the card's contents
-revealed · who forged the blade · what answered the hawk · who Mu Chen's first was · who has been giving him
-things · **the fourth-ring arc (locked until rank 40 — he is at 38)** · the romance named
+second seal break · Hawk-Soul Union · Wu Zhangkong's origin named · who Long Bing is · Na'er found · Gu Yue's
+true nature · battle armor worn · the fusion door opened · the card's contents revealed · who forged the blade ·
+what answered · what the ape was · who Mu Chen's first was (asked why he keeps the piece; the drawer stayed
+locked) · who has been giving him things · **the fourth ring (K2 — locked, waiting; rank 36 of a 40 ceiling)** ·
+**line 109 stays unfinished, with its coat on** · **nobody names the thing** · **the fifth-rank examination NOT
+taken — the gate holds: "until the metal tells me"**
 
 ### Character Progression:
-- **Lin Hao:** rank **37 → 38 (Soul Elder)** · spiritual power **296 → 303** · **hawk 1,418 → 1,430** ·
-  three purple rings · 4th rank (Grandmaster) · **ledger 112 → 114** · Sword Intent · **at the bottom for
-  the first time**
-- **Mu Chen:** **sends Lin Hao to the bottom** · *"a battle armor is grown, not forged"*
-- **Old Zhou (NEW):** first-rank blacksmith, forty-one years, never went up · makes a strap from below
-- **Gu Yue:** **finishes a sentence** · taught him the fusion from the bottom · *"I've been at the bottom of
-  a thing and you hadn't"*
-- **Wulin:** buying spirit items for his second seal · **Xie Xie:** the metal, the mecha (off-page)
+- **Lin Hao:** rank **36 → 36 (Soul Elder)** · spiritual power **295 → 301** · **hawk 1,412 → 1,418** · three purple rings · 4th rank (Grandmaster) · **ledger 110 → 110 — no new line; a week at the bench** · Sword Intent · **the scale: solved enough to tell Mu Chen three things he didn't know — total silence, two crossed circles, one second of sound** · **Sundays: a standing place at the fifth-rank bench, hands behind his back**
+- **Wu Zhangkong:** the adjustments staged — the morning question, the twenty minutes, the asking hour · **gentleness met and resisted, and the resistance honoured as much as the gentleness** · wrote "fifth rank" without weight, and that was the point
+- **Mu Chen:** the gate holds ("the metal hasn't told me you're ready") · held the piece in both hands while the tea went warm; no note came · **why he keeps it: "Because it's quiet" — nothing further opened** · grants the Sunday standing place
+- **Tang Wulin:** rank **18** · hinge commissions in; the tin heavier than autumn, still not heavy enough · says "Make" in the asking hour · present for the one second, and does not ask
+- **Gu Yue:** rank **21**, two rings · "Ask me where." / "Shrek." — the answer that cannot be told from a deflection
+- **Xie Xie:** rank **23** · "Machines… somewhere with a roof" — the mecha road said in class · reports the returned minutes as income, is told whose hour it is
+- **Xu Xiaoyan:** rank **19** · "A match that starts in the morning"
 
 ### Character States:
-- **Lin Hao:** **rank 38 (Soul Elder)** · spiritual power **303** · **hawk 1,430 — eight years to the fourth
-  ring** · **three purple rings** · fist 2,612 kg (floor) · **🔨 4th rank (Grandmaster), the Halo** · Sword
-  Intent · **Ghost Shadow Perplexing Track** · **at the bottom, learning to grow not forge**
-  nobody knows
-- **Old Zhou:** first-rank blacksmith, forty-one years · the bottom
-- **Mu Chen:** 8th-rank Saint Craftsman · *"a battle armor is grown, not forged"*
-- **Ranks at chapter end:** Lin Hao **38 (Soul Elder)** · spiritual power **303** · **🌪 hawk 1,430** ·
-  **ledger 114** · **💜 three purple rings** · **⚡ fist 2,612 kg (floor)** · 🔨 **4th rank (Grandmaster)** ·
-  ⚔️ Sword Intent · **Ghost Shadow Perplexing Track** — **NOT triggered:** second seal, Union, Wu
-  Zhangkong's origin, Long Bing, Na'er, Gu Yue's nature, battle armor worn, fusion door, the card's
-  contents, who forged the blade, what answered, the ape, Mu Chen's first, who has been giving him things,
-  **the fourth-ring arc (rank 40 gate)**, the romance named
-- **Canon coverage:** canon ch 218 + ch 230 adapted · **ch 231 onward not yet used**
+- **Lin Hao:** **rank 36 (Soul Elder)** · spiritual power **301** · **hawk 1,418** · **three purple rings** ·
+  fist 2,612 kg (floor) · **🔨 4th rank (Grandmaster), the Halo** · Sword Intent · **Ghost Shadow Perplexing
+  Track** · **the scale returned — three hundred and eighty grams, one second of its silence spent** · **the
+  Sunday standing place held** · line 110 last; line 109 unfinished by choice
+- **Wu Zhangkong:** **SKY ICE — two-word battle armor master** · the gentling begun and resisted in the same
+  week — "It's their hour"
+- **Ranks at chapter end:** Lin Hao **36 (Soul Elder)** · spiritual power **301** · **🌪 hawk 1,418** ·
+  **ledger 110 (held — nothing adapted this week)** · **💜 three purple rings** · **⚡ fist 2,612 kg (floor)** ·
+  🔨 **4th rank (Grandmaster)** · ⚔️ Sword Intent · **Ghost Shadow Perplexing Track** — **NOT triggered:** second
+  seal, Union, Wu Zhangkong's origin, Long Bing, Na'er, Gu Yue's nature, **battle armor worn (the scale is back
+  in Mu Chen's drawer; he has never had so much as a gauntlet on)**, fusion door, the card's contents, who
+  forged the blade, what answered, what the ape was, who Mu Chen's first was, who has been giving him things,
+  **the fourth ring — ceiling 40, he is 36, the arc is locked** , **the examination not taken — the gate holds**
+- **Canon coverage:** week one of the refused three-year cut (F6) walked; no canon chapter adapted — none exists
+  for these years, which is why the cut was refused; canon ch 229's first half was adapted in ch63 and the
+  second-half destination anchors stand unchanged (recorded in `canon_extract/chapters/canon_229.txt`)
 
 ### Ensemble — canon-verified state
 
@@ -273,4 +323,3 @@ _Every number below traces to a canon line or is labelled AU._
 Canon position anchors for this point in the story: everyone in class zero is **10 years old** through the tournament arc (canon c221: *"They're so young though, only ten years old!"*); the Shrek working-student dorm holds **four** — Tang Wulin, Xie Xie, Gu Yue, Xu Xiaoyan (canon c288; + Lin Hao, AU = five invitees). Departure order: **Wei Xiaofeng left class zero first** (canon), then **Wang Jinxi transferred to another academy** (canon ch 153, staged in our ch43). **AU divergence:** in canon Zhang Yangzi transfers out with him; in this story Zhang Yangzi embraces Wang Jinxi on the steps and **stays at Eastsea Academy**, out of class zero.
 
 🔴 **REALM GAP LAW (v2.90):** every ten ranks is a wall, not a step. Lin Hao is a **Soul Elder with three purple rings**; everyone else here is rank 17–23 with two. None of them can defeat him — they can outlast him, survive him, cost him. Gu Yue does exactly that, because she is the one he cannot read.
-

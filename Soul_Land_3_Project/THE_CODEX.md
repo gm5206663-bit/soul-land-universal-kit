@@ -416,7 +416,7 @@ See **`/home/user/THE_CODEX.md → Part B (Spirit Soul Growth)`** — the growth
 ladder, and **the LIGHTNING CROSSING at 900 years**: the hawk gains a lightning attribute as it evolves,
 matching the Stormbringer's wind + lightning, because the sword's essence has been feeding it since
 absorption. **The lightning is NOT a third ring** — the third ring still requires the 1,000-year purple
-crossing. 🔴 **CURRENT AGE 1,399 (ch61). BOTH CROSSINGS HAVE HAPPENED: lightning at 900 (ch30), purple at 1,000 (ch40 — hawk 1,164 at the crossing, both rings re-formed purple, third ring bestowed).** The ch 29 seed was "he could smell rain in it that was not there." The figure 885 in the previous version of this line was 514 years stale.
+crossing. 🔴 **CURRENT AGE 3,151 (ch79). BOTH CROSSINGS HAVE HAPPENED: lightning at 900 (ch30), purple at 1,000 (ch40 — hawk 1,164 at the crossing, both rings re-formed purple, third ring bestowed).** The ch 29 seed was "he could smell rain in it that was not there." The figure 885 in the previous version of this line was 514 years stale.
 
 ## ⚠️ ADAPTATION TALENT — CANONICAL SPEC MOVED (v2.43)
 The authoritative spec for the Adaptation Talent is now **`/home/user/THE_CODEX.md → Part A (Adaptation Talent Spec)`**
@@ -500,6 +500,9 @@ which is worse, because a forgotten trait silently ceases to exist.
 4. **Mutations escalate with the hawk's age**, on the ladder already in the codex, and each stage must
    appear on-page before the next one is assumed.
 5. **`audit.py` §11 enforces all of this mechanically.**
+6. **Eye-color descriptor, origin-scoped (audit note, session y): ch1's "amber-brown eyes" at SIX is the
+   pre-awakening origin — hawk-gold from the awakening on. It is mutation-line continuity, not a
+   violation; Wu Zhangkong's smoky-green eyes are canon's own and always exempt.
 
 ## ⚠️ THE THIRD RING IS AN EVENT (LOCKED v2.56 — user correction: "His 3 ring should very big massive thing but you makeing joke")
 
@@ -575,8 +578,8 @@ canon ch 133-135 when it can be fetched, and corrected or rewritten.
 17. **Update LIN_HAO_STATUS.md** — rank, skills, standing, growth curve, soul state, any changes.
 18. **Update CONTINUATION_PROMPT.md** — current state (end of chapter X), next chapter, any new locked do-NOT-trigger items.
 19. **Update the chapter file** — chapter summary, canon preserved/not triggered, butterfly effects, character states.
-20. **Check for second copies** — there must be exactly ONE copy of `THE_CODEX.md`, `CHARACTER_STATS.md`, `RELATIONSHIPS.md` and each dossier. 🔴 A mirror used to live at `CODEX/05_PROJECT_SOUL_LAND_3.md`; it was **deleted 2026-08-29** under §THE TWO-COPIES LAW, and Layer 5 now **fails if it comes back**. Never recreate it; write a one-line pointer instead.
-21. **Verify consistency across ALL files** — grep for stale values (old rank, old chapter number, old hawk-year), check that status/codex/continuation/chapter all agree.
+20. **Sync the mirror** — `cp THE_CODEX.md /home/user/CODEX/05_PROJECT_SOUL_LAND_3.md`.
+21. **Verify consistency across ALL files** — diff codex vs mirror, grep for stale values (old rank, old chapter number, old hawk-year), check that status/codex/continuation/chapter all agree.
 22. **Run FINAL VERIFICATION** — all tests pass (Spectator Test, Calibration Law, Swordsman Test, Logic Consistency, no contradictions). If any test fails, FIX IT before delivery.
 
 ### 🔴 MANDATORY: RUN THE VERIFICATION SUITE BEFORE DELIVERY (LOCKED v2.38, expanded v2.39)
@@ -642,7 +645,7 @@ same bug as the ledger freezing at 84 — it was simply invisible because no che
 7. **LOCKS** — the do-not-trigger list
 8. **CANON FACT GUARD** — canon numbers present where canon requires them
 9. **PRIME / PERSONALITY LAW** — active verbs dominate; Lin Hao speaks 3+ times
-10. **CROSS-DOC SYNC** — no second copy of any tracked document exists; current values in all three tracking docs; no stale current-values
+10. **CROSS-DOC SYNC** — mirror identical; current values in all three tracking docs; no stale current-values
 11. **CANON NAMES** — recurring names must be recorded in the codex
 12. **TIMELINE** — no impossible ages
 13. **CODEX-vs-CHAPTER DRIFT** — every codex record must agree with its chapter footer, and every chapter must have a record
@@ -654,7 +657,7 @@ Several of the worst bugs in this project (the 15-chapter rank freeze, the stale
 - Did I research EVERY canon fact? (web_search, not memory)
 - Did I run EVERY applicable law/test? (Spectator, Calibration, Swordsman, Logic, Time Skip, Core Mechanic, PRE-CHAPTER)
 - Did I cross-reference EVERY claim? (codex + status + canon)
-- Did I update EVERY file? (codex, status, continuation, chapter) — and is there still only ONE copy of each?
+- Did I update EVERY file? (codex, status, continuation, chapter, mirror)
 - Did I verify EVERYTHING is consistent? (diff, grep, all files agree)
 
 **If the answer to ANY of these is "no" or "not sure," the work is NOT DONE. Go back and use everything.**
@@ -663,11 +666,36 @@ Several of the worst bugs in this project (the 15-chapter rank freeze, the stale
 
 ---
 
+## 🔴 THE SYNC LAW (LOCKED v1.00 — user directive 2026-08-31: *"Hey you don't update things with every chapter — you should update with every chapter everything that needed"*)
+
+**The failure:** chapters 64–67 landed while CHARACTER_STATS (the declared single source of truth the
+footers cite), POWER_MODEL, RELATIONSHIPS and CANON_ACCESS did not move at all, and LIN_HAO_PANELS got
+two lines after a three-year compression. The two-copies disease, one level up: the footers were
+verified while the docs around them rotted.
+
+**THE RITUAL — every chapter, before the turn ends:**
+1. `python3 checks/state.py` → `sh checks/run_all.sh` — exit 0, including Layer 3 (sync_audit).
+2. **LIN_HAO_STATUS.md** — position line, every table value, era, locked-block currency.
+3. **LIN_HAO_PANELS.md** — every tracked line that moved (a frozen panel across a skip is a sick chapter).
+4. **CONTINUATION_PROMPT.md** — position, current state, owed statuses, locks, canon runway.
+5. **THE_CODEX.md** — §QUICK REFERENCE current-state block, the Current Ranks table (including The
+   adults), and every law whose STATUS changed (K2/K4/F6…), plus the ledger line.
+6. **CHARACTER_STATS.md §0 CURRENT STATIONS** — every number the chapter established, with citation or
+   AU label. It is the single source of truth; a chapter whose numbers are not in it is unverifiable.
+7. **POWER_MODEL.md** — append the chapter's stations (rank / SP / hawk / ledger / smith + cause).
+8. **RELATIONSHIPS.md** — every relationship event the chapter staged (a confession, a letter, a decision).
+9. **CANON_ACCESS.md** — any change of method or held-file inventory.
+10. **PROBLEM_INVENTORY.md** — the session block.
+
+**Enforcement:** `checks/sync_audit.py` (Layer 3) fails the suite if the docs do not carry the
+end-of-chapter state — position, rank/SP/hawk/ledger, ensemble stations, live canon method.
+**A doc that lags the chapter is a build failure, not bookkeeping.**
+
 ## ⚡ QUICK REFERENCE (Fast Lookup)
 
-> **CURRENT STATE (end of ch 71 — the authoritative live copy is `LIN_HAO_STATUS.md`, which is GENERATED):** Lin Hao **rank 40 (Soul Elder — THE GATE)** — 🔴 **THE FOURTH-RING ARC HAS BEGUN: the Frost Abyss Jiao (ten-thousand-year ice+water flood-dragon) found, surrendered willingly, the absorption is under way (ONE MONTH)** · spiritual power **517 (SPIRIT SEA)** · **hawk 1,520** · 🔴 **FOUR rings — three purple rings and one black ring** · fist **4,180 kg** · 🔨 **4th rank (Grandmaster), badge registered at Shrek** — NOT Master Craftsman, that is rank 5 (canon c40) · ⚔️ Sword Intent · 🔴 **effective combat power SOUL KING (51–60), ceiling Soul King peak** · ledger **125** · 🔴 **ch71: THE FOURTH-RING ARC COMPLETES — he comes out at rank 45 with a BLACK fourth ring, spiritual power 517 (SPIRIT SEA, the wall at 500 crossed), and a body that does not look like the one that went in. The martial soul is peak-high → TOP-LEVEL and has a NEW NAME: 「霜溟剑」 FROST ABYSS SWORD, named by him in a pool. 🔴 「霜溟领域」 FROST ABYSS DOMAIN — the martial soul's INNATE ability, not a ring skill; he opens his hand and the water comes up out of the flagstones; NOBODY NAMES IT (nobody in this era has one); Wu Zhangkong asks *"what is that"* and is frightened. He is eleven and looks sixteen; Tang Wulin does not recognise him in a doorway; his clothes do not fit; HE IS QUIETER. Fist 2,612 → 4,180 kg. Ledger 124 → 125 — *"Here is the line after the gap."* Effective combat power moves to SOUL EMPEROR (61–70), +16–25 ranks above his paper — he is sixteen above with nothing on, against canon's +20 for a battle armor master, and he has still not used the full thing.** · 🔴 **ch70: THE ABSENCE MONTH — he is in the pool for twenty-nine days and does not come out; the ensemble carries it. Shen Yi bends her own expulsion rule and calls it a fact; Gu Yue goes six times, puts her palm on ten-thousand-year ice that does not answer her element, and on the twenty-ninth day it does; Wu Zhangkong measures **402** through the ice (*"that is a number a body is *given*, and the giving has a cost"*); Xu Xiaoyan has known since the ninth day and tells nobody; Xie Xie wins him the second profession council seat in absentia, at five hundred points a month, *"of which you will personally spend none, because you will be buying his metal"*; **THE LEDGER DOES NOT MOVE — 124 lines for twenty-nine days, the first gap in the book.** Rank still 40; the martial soul has NOT yet evolved; the Domain has NOT yet appeared; "Divine Stormbringer" still CANCELLED.** · 🔴 **ch69: THE FOURTH-RING ARC BEGINS — the jiao chose him; rank still 40 (the absorption has not yet moved it); the martial soul has NOT yet evolved, the Domain has NOT yet appeared, "Divine Stormbringer" still CANCELLED** · 🔴 **ch65: first GROWN thing made — a strap that doesn't know; two kinds of bottom (forge you stand at / auction house you wait at); one rank from the fourth-ring gate** · 🔴 **ch64: at the BOTTOM for the first time — Mu Chen sent him to a first-rank forge; a battle armor is GROWN not forged; Gu Yue finished a sentence** · 🔴 **ch63: two ceilings shown, not two fights — ice (Sky Ice) and time (the first-rank foundation of battle-armor smithing); Gu Yue handed the silence back** · 🔴 **RETRACTED 2026-08-29: the line that used to sit here said "F1 OWED — no chapter shows the thousand-year upgrade." THAT WAS FALSE. Gale Talon's upgrade is on-page in ch40 (*"a thirty-metre deadfall comes apart instead of opening"*; Gu Yue: *"It got **older**… It's a **permission**"*), and `verify_ensemble.py` detects the evidence in prose. What is genuinely unwritten is **HAWK-SOUL UNION's** upgrade — and that is because its first use is still reserved (D006). See PROBLEM_INVENTORY K1/K7.** 🔴 **NEW AT ch62: Wu Zhangkong is a TWO-WORD BATTLE ARMOR MASTER (Sky Ice) — six rings, twenty ranks above his paper, effectively Soul Douluo. The battle armor system is now engaged with; see §THE BATTLE ARMOR LAW.**
+> **CURRENT STATE (end of ch 101 — live copy `LIN_HAO_STATUS.md`, from `checks/state.json` + footers):** rank **45** · SP **2,824** · hawk **3,199** · ledger **168 HELD** · weapon intent: first test PASSED ('we confer') · trials **70 — the request HELD** · ch102 = canon 287 'Black Steamed Buns' (novelhall ID 10716132; novelfull slug chapter-287-*.html; FETCH FIRST as ore) — the registration, the apology to Cai (her verdict + the disciple question) · position: end-canon-286 (ch101 = canon 286 AS ORE; trajectory ours)
 
-### Current Ranks — END OF CHAPTER 71 (Age 11 · 🔴 OUT OF THE POOL — rank 45, Soul Ancestor, looks sixteen)
+### Current Ranks — END OF CHAPTER 101 (Age 13 · Sea God’s Island, the night before registration — ALL FIVE IN; the lake lesson done: ‘we confer’)
 
 > 🔴 **THIS BLOCK WAS 38 CHAPTERS STALE.** Found 2026-08-29: it still said *"End of Chapter 24"*, listed
 > Lin Hao at *"Soul Grandmaster rank 24, two yellow rings"*, Wulin at 15, Xie Xie at 21, Wang Jinxi in
@@ -680,49 +708,47 @@ Several of the worst bugs in this project (the 15-chapter rank freeze, the stale
 
 | Character | Soul rank | Rings | Spiritual power | Martial soul / notes |
 |---|---|---|---|---|
-| 🔴 **Lin Hao (OC)** | **36 — SOUL ELDER** (ceiling 40) | **three PURPLE**, perfectly compatible | **289** | **Stormbringer Sword** + Gale Hawk **1,406 yrs** (wind + lightning) · 🔨 4th-rank Grandmaster · ⚔️ Sword Intent · **effective SOUL KING (51–60)** · **ledger 109, last line unfinished** · 「全能」 **Comprehensive — the seventh System, on a form nobody read** |
-| **Tang Wulin** | **18** (AU — canon c45 intake is 11; ch9 prose: *"rank thirteen since before enrollment"*) | **one PURPLE** (canon c184) | canon-track | Bluesilver Grass + **Golden Dragon King bloodline** · 🔨 4th-rank · **going to Shrek** (c288) · 🔒 **does not know he is adopted** |
-| **Xie Xie** | **23** | **two** | **highest in class zero EXCEPT LIN HAO** (canon c184, scoped by the BUTTERFLY LAW) | Light Dragon Dagger + Shadow Dagger (twin) · **going to Shrek** · 🔴 **ch62: decided out loud that Lin Hao will make the metal and he will make the mecha** |
-| **Gu Yue** | **21 — SOUL GRANDMASTER** | **TWO** (canon c224) | **153** at nine (canon c114) | **Elementalist** — six elements, written into the same blank line he later used · **going to Shrek** · 🔴 **ch62: he told her the whole of it and she said nothing** · 🔒 **Silver Dragon King, nobody knows** |
-| **Xu Xiaoyan** | **19** | **two yellow** | **61** (canon c183) | Starwheel Ice Staff · night-only · **going to Shrek** |
+| 🔴 **Lin Hao (OC)** | **45 — fourth ring TAKEN (title never said on-page)** | **3 PURPLE + 1 BLACK (10,000-yr dragon jiao)** | **2,824** | **FROST ABYSS SWORD (top-level) + Gale Hawk 3,151 yrs + the dragon jiao** · 🔨 5th-rank Master Craftsman · ⚔️ Sword Intent (one stroke spent ch77; held) · **Frost Abyss Domain (folded) · Domineer** · **effective SOUL EMPEROR (61–70); all-out SOUL SAGE — reserved** · **ledger 168 — line 109 FINISHED (ch71); last line: 'He woke. We're good enough. The academy came himself.'** · **trials 10·10·10 · the Track spent (six gates of seams) · the maintenance report filed (the smiths invoked)** · 「全能」 **Comprehensive — the seventh System, on a form nobody read** |
+| **Tang Wulin** | **28** | two rings, ~4,000 yrs (canon c232) **+ the external right-claw soul bone (canon c240–241)** | **499 — the bottleneck (canon c231); 🔴 the SECOND SEAL BROKEN (ch78 — GOLDEN DRAGON BODY, the hunger law); the third-seal clock running** | **trials 10·10·10 — THE CATCH (the first examinee in the trial's history to grab a blade; fourteen seconds)** | Bluesilver Grass + **Golden Dragon King bloodline** · 🔨 4th-rank · **going to Shrek** (c288) · 🔒 **does not know he is adopted** |
+| **Xie Xie** | **33 — Soul Elder, three rings (canon)** | **three** | mid-200s (canon c231) · rookie **first-rank mecha craftsman** (canon c229 2nd half) | Light Dragon Dagger + Shadow Dagger (twin) · **at Shrek — trials 10·10·10 · the rumor-flash · 'you cannot bench breakfast'** · 🔴 **ch62: decided out loud that Lin Hao will make the metal and he will make the mecha** |
+| **Gu Yue** | **31 (AU — canon gives no rank at 13)** | **THREE (canon c232)** | **700+, Spirit Sea (canon c231)** · Spirit Pagoda, not Tang Sect (**butterflied**: canon's estrangement-cause void — no injury happened) | **Elementalist** — six elements, written into the same blank line he later used · **at Shrek — trials 8·10 (canon's recall; the capped run); ch79's back-ride RE-RECEIVERED to Lin Hao (the Receiver Law)** · 🔴 **ch62: he told her the whole of it and she said nothing · ch71: THE CONFESSION — her silence kept — TAKEN AS NO by the terms he set; if it is ever yes, she must SAY it; ONE direction, by the Receiver Law (sessions oo/pp)** · 🔒 **Silver Dragon King, nobody knows** |
+| **Xu Xiaoyan** | **30 (crossed ch68, day 9)** | two; the second-spirit-soul question open (canon c230) | **400+ (canon c231)** · class-three associate | Starwheel Ice Staff · night-only · **at Shrek — trials 10·10·10 on a one-third tank (conserving)** |
+
+> **ch80–100 delta (BD1 refresh):** the exam complete — Wulin **full marks + Master Craftsman at 13** (spirit refined; the hammers are his hands; his soul restrains the Scarlet Jade Dragon; weekly inspections) · LH **70 + the fifth-rank proof + 🔴 WEAPON INTENT (ch100)**; the request HELD/narrowed · GY **60 — IN, the point bought aloud** · XX **67** (the deduction kept) · XXY **67** (the mercy hers) · WZK **staying** (tea-duty; the lake lesson) · the six-year sentence: one-word battle armor = five rings by twenty. Live numbers: `checks/state.json`.
 
 #### Not going
 
 | Character | Where they are |
 |---|---|
-| **Zhang Yangzi** | rank **27**, spiritual power ~27 after Little Black · **still at Eastsea, out of class zero since ch43** · 🔴 **AU divergence: canon has him transfer out with Wang Jinxi** |
+| **Zhang Yangzi** | rank **31 (AU)**, the dock, third winter running · **still at Eastsea, out of class zero since ch43** · 🔴 **AU divergence: canon has him transfer out with Wang Jinxi** |
 | **Wang Jinxi** | **LEFT in ch43** (canon ch 153) · last known rank 25 · embraced by Zhang Yangzi on the steps |
-| **Wei Xiaofeng** | rank **26** · **left class zero first** (canon) · still at Eastsea |
+| **Wei Xiaofeng** | rank **30 (AU)** · **left class zero first** (canon) · still at Eastsea |
 
 #### The adults
 
-| Who | State at ch62 |
+| Who | State at ch79 (audit nn — was ch69) |
 |---|---|
-| **Wu Zhangkong** | 🔴 **SKY ICE — two-word battle armor master, six rings (y/y/p/p/b/b), twenty ranks above his paper = effectively SOUL DOULOU.** Advanced to **Soul Sage** midair (canon c228). **Has stopped opposing and started guiding** (ch61) and the first act of it was: *he did not say the ceiling exists, he stood in it.* Expelled from *"that place"* — **Shrek, never named on-page** (canon ch204 reveal). Cleans **Long Bing's** grave. |
-| **Shen Yi** | 🔴 **HIS TEACHER.** *"Now this is the real him. Sky Ice Wu Zhangkong, is back."* · *"Congratulations, Zhangkong"* — to a man wearing an expression devoid of joy. Green vine-and-leaf armor, moss-toned whip. Assessed Lin Hao at ch61: *"If he has three rings by the time he's fifteen, his body will likely transform again."* |
-| **Mu Chen** | 8th-rank Saint Craftsman, President of the Eastsea Branch · **gave Lin Hao the battle-armor ranking in ch62 and stopped in the middle of one word** — *"Ask somebody else about the Ice."* |
+| **Wu Zhangkong** | 🔴 **SKY ICE — two-word battle armor master, six rings (y/y/p/p/b/b), twenty ranks above his paper = effectively SOUL DOULOU.** Advanced to **Soul Sage** midair (canon c228). **Has stopped opposing and started guiding** (ch61) and the first act of it was: *he did not say the ceiling exists, he stood in it.* Expelled from *"that place"* — **Shrek, never named on-page** (canon ch204 reveal). Cleans **Long Bing's** grave. **ch77: heard the wager at the trial door — 'Win. The five of you pass everything. That was already the assignment. The duel is what happens if you fail.'** |
+| **Shen Yi** | 🔴 **HIS TEACHER.** *"Now this is the real him. Sky Ice Wu Zhangkong, is back."* · *"Congratulations, Zhangkong"* — to a man wearing an expression devoid of joy. Green vine-and-leaf armor, moss-toned whip. Assessed Lin Hao at ch61: *"If he has three rings by the time he's fifteen, his body will likely transform again."* **ch73–79: proctor of the make-up exam — the card returned and paid ('He's in the water. Three days now…'); 'Ask the cards'; the sword promised after the exam; the wager witnessed; the file's three pages (the sword-line, the golden ring, the spring report); the smiths to be summoned.** |
+| **Mu Chen** | 8th-rank Saint Craftsman, President of the Eastsea Branch · **gave Lin Hao the battle-armor ranking in ch62 and stopped in the middle of one word** — *"Ask somebody else about the Ice."* **The call owed from Shrek City (ch80s) — his student famous in the halls' iron without him; converges with the smiths' summons (ch79).** |
 | **Long Hengxu** | Director, Eastsea Academy · has bet his standing on class zero |
 | **Duan Xuan** | Mu Chen's disciple, 7th rank · said *"a two-word battle armor master"* three times to nobody |
 | **Mu Xi** | 4th-rank Grandmaster, ~14, three rings · resented Lin Hao from effort; **now tells him things** |
 
-### Current Timeline — end of ch71
+### Current Timeline — end of ch79 (audit nn — this block had said ch62: age 10, Skysea, 'next milestone: the fourth-ring arc' — an arc that concluded at ch68)
 
-- **Time elapsed:** 4 years since Awakening Day · the tournament is **over**; the week after it is running
-- **Age:** everyone in class zero is **10** (canon c221: *"They're so young though, only ten years old!"*)
-- **Location:** **Skysea City** — the tournament host; the Shrek invitation has been accepted
+- **Time elapsed:** 7 years since Awakening Day · three years since the tournament (canon 229's cut walked as scenes, ch63-69)
+- **Age:** everyone in class zero is **13**
+- **Location:** **Shrek City** — the make-up exam: three trials done in fourteen seconds, five-for-five; more trials called; the wager alive behind the numbers
 - **Setting:** 10,000 years after Soul Land 2
-- 🔴 **Next milestone: THE FOURTH-RING ARC** (🔴 *this line previously said "F1 — the purple-ring skill
-  evolution," which was FALSE — F1 closed in ch40 and the evidence is in the prose; I propagated a stale
-  line without reading the chapter*). **THE FOURTH-RING ARC:** at rank 40 → 45: black ring,
-  ten-thousand-year ice+water dragon jiao, **Frost Abyss Domain**, a month-long absorption, he ends up
-  looking ~16. 🔴 **"Divine Stormbringer" is CANCELLED — never name or foreshadow it.**
-- **Canon position:** canon ch 227–228 adapted at our ch62. **Canon ch 229 onward not yet used.**
+- 🔴 **Next milestones: THE FOURTH TRIAL (canon 259 - FETCH FIRST) · THE OWED SCENES O1/O2 (the evolution, per the ledger's five requirements; the fourth ring's skill - see BUTTERFLY_REGISTRY par A) · the duel CONDITIONAL (failure-only; WZK: 'Win.') · the smiths' summons.** 🔴 **"Divine Stormbringer" is CANCELLED - never name or foreshadow it.**
+- **Canon position:** canon 229-258 MINED (disk range 229-258); **canon 259 = their chapter-262, fetch and title-verify BEFORE ch80.**
 
 ### ⚠️ RANK RULE (Bottleneck — never violate):
 Soul Scholar ends at rank 10. A cultivator CANNOT exceed rank 10 without absorbing a spirit soul/ring. Ranks 11-20 = Soul Master (1st ring), 21-30 = Soul Grandmaster (2nd ring — which an evolved 100+yr soul spirit can bestow by itself, canon rule), etc. "Soul Scholar rank 13" is impossible and must never appear.
 
 ### Cultivation Order (LOW → HIGH):
-Soul Scholar (1-10) → Soul Master (11-20) → Soul Grandmaster (21-30) → Soul Elder (31-40) → Soul Ancestor (41-50) → Soul King (51-60) → Soul Emperor (61-70) → Soul Sage (71-80) → Soul Douluo (81-90) → Titled Douluo (91-94) → Hyper Douluo (95-98) → Limit Douluo (99) → God (100+)
+Soul Scholar (1-10) → Soul Master (11-20) → Soul Grandmaster (21-30) → Soul Elder (31-40) → ⚠️ Soul Ancestor (41-50 — label UNVERIFIED in our canon extract; the story never says his title aloud) → Soul King (51-60) → Soul Emperor (61-70) → Soul Sage (71-80) → Soul Douluo (81-90) → Titled Douluo (91-94) → Hyper Douluo (95-98) → Limit Douluo (99) → God (100+)
 
 ## 🔴 THE REALM GAP LAW (v2.91 — CORRECTED. v2.90 stated it as an absolute and that was wrong)
 
@@ -778,13 +804,13 @@ as *self*. This is not a soul skill in the ordinary sense; it is a **second body
 word "rank" stops describing him.
 
 **And it is not the only one.** Canon: *"A thousand-year spirit soul provides THREE soul skills."*
-His hawk is at 1,399 years. Every one of these stacks on the same foundation:
+His hawk is at 3,151 years (ch79). Every one of these stacks on the same foundation:
 
-1. **The realm itself** — Soul Elder, not Soul Grandmaster.
-2. **Three rings vs two** — an extra skill and a third more soul power to spend.
-3. **Three PURPLE rings** — thousand-year souls. Canon calls a *pair* of thousand-year rings the mark
+1. **The realm itself** — rank 45, four rings, past Soul Elder entirely.
+2. **Four rings vs two** — two extra skills and double the soul power to spend.
+3. **Three PURPLE rings + one BLACK** — thousand-year souls and one ten-thousand-year. Canon calls a *pair* of thousand-year rings the mark
    of an **unnatural existence** requiring forbidden methods. He has three, with no heavenly treasure.
-4. **A 1,399-year spirit soul** raising strength, speed, soul power, reaction and tenacity at once (c131).
+4. **A spirit soul now past three thousand years (3,151 at ch79; 1,399 at c131)** raising strength, speed, soul power, reaction and tenacity at once.
 5. **Hawk-Soul Union** — the trump card above.
 6. **The Adaptation Talent scales with him.** It optimises whatever it is given, so the gap **widens
    every chapter** rather than closing.
@@ -854,11 +880,12 @@ filename.** The fix is not more diligence — it is to stop typing the numbers t
 | `LIN_HAO_STATUS.md` | **`checks/build_status.py` generates it** (state + benchmark + ensemble + owed list) |
 | `LIN_HAO_PANELS.md` | hand-maintained **reference** material (physical / techniques / cultivation speed / specialty), **appended** to the status file on every regeneration |
 | `CONTINUATION_PROMPT.md` | **`checks/build_continuation.py` generates it** |
+| `CODEX/05_PROJECT_SOUL_LAND_3.md` | `run_all.sh` syncs it from `THE_CODEX.md` |
 | `CHARACTER_STATS.md` | hand-maintained, because canon citations are not derivable |
 
 **`checks/verify_stale.py` (LAYER 5) fails the suite if any of them is out of date.** It checks: the
-generated blocks match, `CONTINUATION_PROMPT.md` names the current chapter, **no second copy of any
-tracked document exists**, the ensemble schedule covers every chapter that exists, `state.json` is at the latest chapter, and no
+generated blocks match, `CONTINUATION_PROMPT.md` names the current chapter, the CODEX mirror matches,
+the ensemble schedule covers every chapter that exists, `state.json` is at the latest chapter, and no
 file still presents a superseded ceiling as current.
 
 **`run_all.sh` now runs regeneration as STAGE 0 before the five layers**, so a stale file is
@@ -1023,7 +1050,7 @@ Canon's rule is that a stronger body *"is able to contain more powerful soul rin
 | 2 | **Three PURPLE rings** | a normal 3rd ring is 2 yellow + 1 purple |
 | 3 | **Perfectly compatible rings** | 100% integration ⇒ they express *more* than normal purple |
 | 4 | **Purple-tier soul skills** | thousand-year skills, upgraded when the rings turned (canon rule) |
-| 5 | **1,399-year spirit soul** | far above its age band; raises strength, speed, soul power, reaction, tenacity at once (c131) |
+| 5 | **the hawk — 3,151 years now (was 1,399 at c131; frozen-row failure fixed session mm)** | far above its age band; raises strength, speed, soul power, reaction, tenacity at once |
 | 6 | **🃏 Hawk-Soul Union** | a trump card only a perfectly bonded soul can give — a second body, not a technique |
 | 7 | **Adaptation Talent** | monstrous talent; scales with him, so the gap **widens** every chapter |
 | 8 | **Natural growth, years of it** | daily combat since age 9; every fight is cultivation he keeps |
@@ -1097,6 +1124,47 @@ not been applied — the story is canon with an extra character standing in it.
 
 **The test:** for every canon beat, ask *what does this scene look like differently because he is
 standing in it?* If the answer is "the same," the beat has not been adapted.
+
+### 🔴 THE PERSPECTIVE PANEL DOCTRINE (LOCKED v3.20 — user directive 2026-08-31)
+
+> *"I think you don't showing others characters there own things because of this there is no natural
+> butterfly effects becoming, you should also others accordingly like canon chapter with butterfly
+> effects, you know, multiple perspectives and panels and many things, that's feel more real,
+> you should use everything"*
+
+**The measured failure:** the butterfly test above was only ever applied to scenes LIN HAO stands in.
+The other characters' own canon beats were either absorbed into his orbit or lived in the footers — so
+the butterflies had no causes on-page. An effect without its cause shown is not a butterfly; it is a
+claim.
+
+**🔴 CORRECTED 2026-08-31 (user directive, three times):** *"I [am] not saying you [should] create
+completely original scenes for others characters from information — I [am] saying [to write] SCENES OF
+CANON CHAPTERS — you should check [canon] and write THEM, not create completely new for others
+characters by yourself, as you did in chapter 65."* Chapter 65's dock, letters, bay master and dawn
+slots were inventions wearing panel titles. That is the same disease as transcription, mirrored:
+**invention instead of sourcing.**
+
+**THE RULES:**
+1. **Every chapter stages at least one panel that belongs to someone who is not Lin Hao** — and the
+   panel's scene must be **CHECKED OUT OF CANON ITSELF**: fetch the canon chapter, verify the scene
+   against the live text, adapt it from that character's perspective with the butterfly effects
+   applied. The same standard as *"check canon and compare with it what you created."* An ensemble
+   panel with no canon chapter behind it is an AU invention and must be labelled as one in the
+   header — and a chapter built mostly of such inventions is the wrong chapter.
+   (Ch57 is the model: its panels carry canon ch 204's beats — Xiaoyan's awareness, Xie Xie's
+   *"two-faced little schemer"* — verified, then butterflied.)
+2. **The butterfly test extends to every character:** for each of their canon beats, ask *what does
+   this scene look like differently because Lin Hao exists / because our named divergences happened?*
+   The cause → effect chain is written in the chapter's AU/BUTTERFLY footer, panel by panel.
+3. **Divergences are an economy.** Class zero WON the tournament (canon: out at the top sixteen, two
+   hurt). Nobody was hurt. Zhang Yangzi STAYED (canon: he leaves with Wang Jinji). The Sealand file
+   was swept. The Comprehensive word went on a form. The scale was lent. Every panel may spend from
+   this ledger — and new divergences get recorded in it.
+4. **Use everything:** canon fetches (held files; refetch when access returns), the ensemble schedule,
+   the locks, minor POVs (a desk attendant, a bay master, a letter-writer), panels, letters, machines.
+   The world is full of people who do not know Lin Hao exists. Show them.
+5. **Locks still govern:** another character's panel may approach a locked door (Gu Yue's reason, Mu
+   Chen's first, Na'er's whereabouts, Wu Zhangkong's origin) but never open it.
 
 ## 🔴 THE MONSTER LAW (LOCKED v3.05 — user correction 2026-08-28, the biggest one)
 
@@ -1244,7 +1312,7 @@ reason he *grows* fast; it is not a reason a ranked-36 body hits like a ranked-5
 - **Compression is why the gap exists.** Same rank, denser soul power, harder hit. Two men at rank 36
   are not the same man; the one who has compressed is the one who wins.
 - **He compresses without trying**, the way canon's Wulin does through blood essence — except Lin Hao's
-  mechanism is the **Adaptation Talent plus a 1,399-year spirit soul**, both of which refine him
+  mechanism is the **Adaptation Talent plus a spirit soul now past three thousand years**, both of which refine him
   continuously. **He has been compressing since the day he awakened and did not know it had a name.**
 - **It is also his bottleneck**, exactly as canon says: the difficulty of compressing further is why the
   rank line stalls even while everything else climbs. **This retroactively explains the ch22–39 wall far
@@ -1373,6 +1441,132 @@ in-world instrument — a plate, a dial, a clerk standing up — the way ch24 di
 tolerance. **FAILS** on any chapter from ch62 onward. **DEBT-warns** on ch1–61, which is real, tracked
 as `PROBLEM_INVENTORY K9`, and is not excused by being old.
 
+
+### 🔴 THE RATE FLOOR (LOCKED — user directive 2026-08-31: *"hawk growth Nerfed lot's and also spritual power… there is adaption telent"*)
+
+**The nerf, measured:** across the three winters I wrote SP +156/yr and hawk +93/yr — a ~60% CUT from
+his own age-10 pace (SP ≈ +370/yr; hawk +248/yr) during his hardest years — and a ten-thousand-year
+absorption bought the hawk +39. The ratio audit caught what the eye missed: he was 1.93× Gu Yue at ten;
+the first draft made him 1.12× at thirteen.
+
+**THE RULE:** his own last demonstrated run-rate is the **floor** for any time skip, never the ceiling.
+Across a skip, every tracked line's average rate must be ≥ its last demonstrated peacetime rate, and
+must RISE where pressure rose — adaptation compounds; a skip may never quietly cut the rate.
+Absorption events are step-changes sized to what was absorbed. Rank is exempt ONLY where ring-gated
+(the user's own ruling: waiting for the right soul is lawful).
+
+### 🔴 THE BODY PRIMACY RULING + THE KIT LAW (LOCKED — user directive 2026-08-31: *"his biggest thing should be body… he doesn't even learn others techniques of Tang Sect let also creating and upgrading his own… there is many things growth like relationships"*)
+
+**THE BODY IS THE HEADLINE.** The mechanisms stack: adaptation (the Talent's first target — rain to
+ground), seven years of hammer and anvil, the hawk's vitality banked yearly, the Mysterious Heaven
+Method's refinement, and — from ch68 — a ten-thousand-year dragon carried at FOUR rings, which canon
+reserves for fifty (*"no one with less than five rings should be able to kill that guardian"* — canon 240;
+*"soul masters don't get a ten-thousand-year soul ring until rank 50"*). Measured: fist floors
+2,940/3,215/3,436 across the winters, then **5,000+ — the machine ran out** (ch68); regeneration (the
+arm finished new); cold-immune. The body is the proof of the monster law.
+
+**THE KIT LAW:** a time skip audits EVERY tracked line — numbers, **techniques learned (canon-first:
+the Sect's arts through the teacher), techniques created/upgraded (his own style grows), the body,
+relationships, and the docs.** The kit may never freeze across a skip; ch64–67's frozen kit was the
+third named disease (the numbers disease, the doc disease, and now the kit disease).
+**🔴 THE FUSION SOUL (user law, sessions q+r — stated twice): his martial soul is the FUSION of his
+father's iron sword, evolving all the time.** Its components, counted whole: **the IRON (the
+father's blade — the sword's own body, the metal everything else lives in) + FOUR elements —
+lightning, wind, water, ice** (the storm from the beginning; the deep water from the jiao). **Count
+the metal and there are five. The metal is not a voice beside the others — it is the body they all
+sing through.** Nothing is ever deleted by an evolution (see THE STORM NEVER LEFT): the iron takes
+each element the way iron takes a quench, and it has been evolving since he was small — that is what
+a fusion soul IS. **On-page discipline: the father's-iron origin is a SCHEDULED REVEAL — never
+denied, never spent early** (the "who forged the blade" lock; the docs may state it, the prose waits
+for its door).
+
+### 🔴 THE SOUL SPIRIT LAW (LOCKED — user teaching 2026-08-31: *"soul spirit grow — feedback is one of part, the main reason is always adaption telent. Adaption telent effect entire existence every single part of user, so soul spirits are part of him, so that's why. Second, there is no rule that soul spirit can't grow. This is why the difference: if this is Soul Land 1 and soul ring, then soul ring is not grow because this is not how things work — but soul spirits, there is laws"*)
+
+1. **Adaptation acts on the ENTIRE existence — every single part of the user:** body, blood, bones,
+meridians, soul power, spiritual power, **and the bonded SPIRIT SOUL.** Nothing joined to him is
+exempt. The spirit is part of him — *that is why it grows.*
+2. **Feedback is ONE part.** Soul power feeds the spirit, the hawk's vitality banks into him, an
+absorption month is spent in its company — all of that contributes. But the main reason is ALWAYS
+the adaptation, because adaptation does not distinguish between what is him and what is joined to him.
+3. **RINGS ≠ SPIRITS — the Soul Land 1 distinction, settled:** a soul ring is a finished record; it
+is taken at an age and it is that age forever — **rings do not grow, because that is not how rings
+work.** A spirit soul is alive and bonded, and **there is no rule anywhere that a spirit cannot
+grow.** Its growth is lawful, continuous, and tracks the host's whole-existence growth.
+4. **🔴 ALL SPIRIT SOULS GROW — NO EXCEPTIONS (user amendment, session t: "give me a single reason
+that his second soul not become stronger or breakthrough when he absorbs or fuses — why is the
+second spirit not growing like the hawk"): there is no such reason. The law applies to EVERY spirit
+soul joined to him.** The dragon jiao is alive, bonded, and part of his entire existence — it grows
+with every absorption, every fusion, every cultivation, exactly as the hawk does. **The second
+spirit's development is a TRACKED LINE** (born ten-thousand-year; the bond is young — the joining
+is DEVELOPING toward perfect): on-page metrics — the joining's duration, the domain's hem, the
+skill's breath, the body deepening with it (the spirit grows, the body grows — one existence, one
+ladder, however many sides). A spirit that was treated as equipment was the disease; that is over.
+
+5. **WRITING CONSEQUENCE (this is the law's visible half):** every body step — absorption, ring,
+anvil year, emergence — must show the HAWK stepping WITH him: age, feathers, pressure, mind,
+**on-page, never footer-only.** The host's mutations and the spirit's mutations are ONE ladder seen
+from two sides (this is the engine behind APPEARANCE & MUTATION LAW v2.56, clause 4). On-page to
+date: **ch67** — Xiaoyan's question at the fence, and the honest in-world answer ("Nobody has written
+the book on him") — the law itself living in what the yard can SEE (storm-slate deepening, pressure
+arriving earlier each winter, the forearm marks climbing the same ladder); **ch68** — the empty rail
+(the hawk in the deep water with him; *where he goes, it goes; what feeds him, feeds it*), the
+feathers returning winter-tipped, blue-black; **ch69** — the settled winter pressure, a season
+deeper; the yard adjusts and says nothing. The RATE FLOOR governs the numbers; this law governs the
+MECHANISM and its visibility.
+
+### 🔴 THE CHARACTER LAW (LOCKED — user correction 2026-08-31: *"I don't explain to characters, I explain you. You are not that characters — they are what they are, not you. It can look small mistake but this is extremely big and important mistake"*)
+
+**THE MISTAKE:** the user's meta-teaching (how the world works) was pasted verbatim into Wu
+Zhangkong's mouth as a yard lecture — a character reciting the author's instruction sheet. A
+character is what THEY are: their knowledge, their voice, their limits. Wu Zhangkong has never seen
+a spirit soul age like this; NOBODY in-world has. His having a finished theory was a lie about the
+character, and it spent the mystery to buy an explanation the reader already had.
+
+**THE RULE:**
+1. **User teachings instruct the WRITER, not the cast.** They govern mechanics, growth rates,
+physics, and what the world SHOWS. They surface as events, numbers, consequences, and what people
+can observe — never as a character's doctrine.
+2. **Characters know only what their experience would give them.** When the phenomenon is
+unprecedented, the honest in-world register is NOT KNOWING — "nobody has written the book on him" —
+which is also better drama: the mystery stays alive and the observation carries the law.
+3. **The narration may carry mechanics** (the fic's narrator is essayistic); the dialogue may not
+lecture. If a paragraph of speech could be lifted out and pasted into this codex, it is wrong.
+4. **MECHANICAL TRIPWIRE:** `verify_locks.py` L10 bans the lecture fingerprints from prose
+("no law anywhere," "whole existence," "the main engine") — those phrases live in the docs, never in
+a mouth.
+
+### 🔴 THE PROSE LAW / ANTI-SUMMARY LAW (LOCKED — user correction 2026-08-31: *"Simple and clear: you skip things too badly, you just write summary, things don't feel natural, you don't use everything… you completely nothing describe how his appearance changed and nothing others, all things — you so badly summarizing them"*)
+
+1. **A timeskip is WALKED AS SCENES, never summarized as a station list in the chapter body.**
+"Stations only" locks protect a sleeper from invented story time — they do NOT license summary
+voice. If the ensemble carries a month, the month is still *lived*: weather, hands, errands,
+dialogue (ch68 Part 4 is the corrected form).
+2. **EVERYTHING TRACKED GETS ITS BEAT.** Every progression line inside the timespan — rank, soul
+power, spiritual power, hawk, body, appearance, kit learned/created/upgraded, smith, ledger,
+relationships — appears ON-PAGE in that chapter. **The footer records; it does not replace.** The
+test: if the reader would lose everything real by deleting the footer, the chapter is a summary with
+footnotes, and it is sick.
+3. **APPEARANCE ON-PAGE at every growth station** (APPEARANCE & MUTATION LAW v2.56, now enforced at
+source): what changed, seen by someone. Vehicles: measurement days, mirrors, doorframes, pegs,
+clerks, conductors. ch67's three winters carried ZERO appearance lines — the exact failure the law
+was written against, repeated; repaired 2026-08-31 (the midwinter measurement days).
+4. **Canon panels are used FULL.** When a chapter's fetched canon arrives, its scene is adapted with
+its objects, gestures, names, and speech. One beat per panel is a summary, not an adaptation.
+5. **Numbers arrive through scenes that measure them** (§61.2). **🔴 LENGTH IS NATURAL, NEVER FIXED
+(user ruling, session r: *"if you need 1 lakh words for a chapter then take it; if it only needs 10
+words then take it — everything is natural, not fixed"*)**: a chapter takes exactly as many words as
+it needs — ten or a hundred thousand. Nothing about the story is a quota; quotas made
+summary-shaped chapters and restricted growth. **What this law demands is COMPLETENESS (clauses
+1–4), never length.** (`prose_floor.py` reports word counts as information only; the appearance
+window still fails the build — APPEARANCE & MUTATION LAW v2.56 is the user's own.) The skips between the fic's own chapters are subject to this law too (ch69 Part 1, "The Longer
+Reach," is the corrected form — the month between emergence and duel was a hole, and is now a Part).
+
+**MECHANICAL ENFORCEMENT (2026-08-31):** `checks/prose_floor.py` (Layer 1b — the 2,800-word floor,
+the vignette exemption, and the appearance-vocabulary window) and `sync_audit.py` §S7 (the laws and
+the appearance needles across the docs). The references to `audit.py` §9/§11 in the v2.55/v2.56
+sections above are RETIRED — that file was not among the uploaded checks; enforcement lives in the
+layers of `checks/run_all.sh` (state · footer facts · prose floor · locks · sync).
+
 ## 🔴 THE BATTLE ARMOR LAW (NEW v3.00 — established on-page in ch62; the largest power system in the setting, previously never engaged with)
 
 > **Canon ch 227 is the source. Every number below is canon's, quoted.** Until ch62 this story had
@@ -1447,14 +1641,19 @@ you're not."* — **the ch46 rule holds under pressure, and his own word has no 
    master, and I have decided that just now, standing under him."* That is the **battle-armor-smithing
    thread opened**, and it is Xie Xie's, not Lin Hao's.
 3. **The metal ladder is the blacksmith's ladder.** Thousand refined → spirit refined → soul refined →
-   divine refined. **Every level of battle armor is a blacksmith rank.** Mu Chen said it in canon ch 218
-   and this story never connected it: *"the foundation of a battle armor master stems from being a
+   divine refined. **Every level of battle armor is a blacksmith rank.** 🔴 **Attribution verified
+   2026-08-30 against the full canon text (second pass): the line below is MU CHEN'S — said to Duan
+   Xuan, about Wulin, in canon ch 218** (the docs had it right; a ch63 first draft briefly "corrected"
+   it to Shen Yi from a contextless excerpt — caught by the canon comparison, repaired, kept as
+   evidence): *"the foundation of a battle armor master stems from being a
    first-rank blacksmith."* **Lin Hao is a 4th-rank Grandmaster at ten. That is the road, and ch62 is
    the first time he has seen the end of it.**
 4. **Never let a mecha beat a battle armor master.** Canon: mechas lowered their cannons *without being
    told.* Rank order stays: battle armor master > black mecha > everything else.
 
 ## 🔴 THE FOURTH RING LAW (LOCKED v2.98 — EXPANDED, user directive 2026-08-28)
+
+> **STATUS: ✅ EXECUTED 2026-08-31, ch68 — exactly as locked. Rank 40→45 directly; the black ten-thousand-year ice-water dragon jiao (the instantiated intermediate guardian); one month, stations only; the martial soul evolved TOP-LEVEL and renamed FROST ABYSS SWORD; the Frost Abyss Domain (folded) and DOMINEER; looks ~16; a little of his personality. 'Divine Stormbringer' never named. The 41–50 title: no canon source — deliberately unnamed.**
 
 The user's specification, verbatim:
 
@@ -1508,7 +1707,7 @@ domain is open, ice and water in any form — rain, river, frost, sweat, blood, 
 **obey him instead of physics.** Canon's own definition applies verbatim: *"within the domain, the
 ability user had absolute control."*
 
-### ⚠️ SOURCING HONESTY — verified 2026-08-28 against all 577 canon chapters held at that time (adapted 23–228 since reclaimed; full source archived)
+### ⚠️ SOURCING HONESTY — verified 2026-08-28 against all 577 canon chapters we hold
 
 - ✅ **The domain concept IS canon.** *"within the domain, the ability user had absolute control"* is a
   real line in our corpus (an ice-and-darkness soul beast that has one).
@@ -1759,7 +1958,8 @@ worked through against canon.**
 - **Gold:** Divine beast bloodline (Golden Dragon King)
 - **Green Gold:** Nature/Life energy
 
-### Next Chapter: **Chapter 25 — Spirit Ascension Platform trials continue** (canon ch 123-129 era; Zhang Yangzi's Bad Luck, Xie Xie's Adventures, the Spirit Ascension Platform Trials; the fusion door waters but stays gated)
+### Next Chapter: **Chapter 63** — 🔴 the authoritative live pointer is `CONTINUATION_PROMPT.md` (generated).
+### (This line had said "Chapter 25" — a 37-chapter-stale fossil, found and fixed by the 2026-08-30 full audit.)
 
 
 ---
@@ -1863,6 +2063,14 @@ LOAD → VERIFY → MAP → FORECAST → BLUEPRINT → DRAFT → AUDIT → REPAI
 
 ❌ WRONG: "I need to show 3-4 butterfly effects in this chapter"
 ✅ RIGHT: "The OC is here, so what would naturally happen? What would they do? How would that affect things?"
+
+**🔴 THE NATURAL-EFFECTS CLAUSE (LOCKED 2026-08-31, session q — user: "natural butterfly effects is true"):**
+"Organic" is not a license to SKIP the deltas. **Every canon scene adapted must be diffed against our world-state, and the deltas carried ON-PAGE** — not only the power lines (ranks, SP), but the social and city texture: fame, relationships, who else exists, what else happened. The question is never only "what does canon say?" but "what does this scene look like in a world where class zero WON at ten and Lin Hao exists?"
+- **Class zero is famous, not faded.** Canon 243: *"class zero had long since faded into the backdrop, with sightings of its students as rare as that of seeing a unicorn."* In our Eastsea that sentence is impossible (the tournament win; a boy who cut Wu Zhangkong) — the inversion must be written, not silently omitted.
+- **Every canon farewell has our side too.** Canon 242 gives Mu Chen's farewell to his smithing student; in our world he is losing a SECOND one — eleven years, the sixth chair, the standing place. That farewell must exist (ch69: *"The metal was right. That is the whole speech."*).
+- **The family signature.** Mu Chen and Mu Xi both give metal, unannounced, found later in the bag — two wraps in one bag. Canon gave us her heartbreak; our world adds the family's love language (see the peg/bench ruling, session o).
+- **Cross-references are doors.** Canon 243's *"she had heard from Xu Xiaoyu"* — in our fic Xu Xiaoyu is Xiaoyan's older brother (ch55): the weave is free and true. Always grep the cast before adapting.
+- **Kit butterflies too:** the fusion soul means the Sky Ice's plates get read by a smith's eye and a confiscated blade RINGS its own note — the butterfly is in the physics, not just the plot.
 
 ### The Test
 Ask yourself: "Am I writing the canon story with the OC in it, or am I writing an OC story that ignores canon?"
@@ -2000,8 +2208,8 @@ The OC may witness, influence, assist, complicate, prevent, delay, or transform 
 - **Chapter 7:** quiet rank 23 breakthrough (tidal, no spectacle)
 - **Chapter 10:** quiet rank 24 breakthrough ("a stair, not a breakthrough"); hawk ~760 yrs
 - **⚠️ THE FULL RANK CHAIN (locked v2.38 — the ch 11-21 freeze at 24 was the single biggest error in the project):** 24 (ch10-12) → **25 (ch13)** → **26 (ch15)** → **27 (ch17)** → **28 (ch19)** → **29 (ch21, during the gauntlet)** → **30 (ch22) — HARD WALL**
-- **🔴 CURRENT (end of ch71) — 🔴 SOUL ANCESTOR RANK 45 — THE FOURTH RING HAS LANDED — THE GATE. THE WALL OPENED AT ch40. THE FOURTH-RING ARC HAS BEGUN.** The hawk crossed 1,000 years, both rings re-formed purple, a third ring was bestowed, and the rank line moved again (31 → 40). **The Frost Abyss Jiao (ten-thousand-year ice+water flood-dragon) was found and surrendered willingly; the absorption is under way (ONE MONTH). Rank still 40 — the absorption has not yet moved it. The martial soul has NOT yet evolved to Frost Abyss Sword, the Domain has NOT yet appeared, "Divine Stormbringer" still CANCELLED.** **This line has been stale twice — it once said "rank 30, AT THE HARD WALL, hawk ~770 yrs", 21 chapters behind.** Current: spiritual power **517 (SPIRIT SEA)** · hawk **1,520 yrs** · **three purple rings (the fourth forming)** · fist **2,612 kg** (≈ a four-ring Soul Ancestor) · ledger **124** · smith **4th rank (Grandmaster)** · ⚔️ Sword Intent · effective combat **SOUL KING (51–60)**. Next gate: **rank 40 → the fourth ring.** 🔴 **ch63: two ceilings shown, not two fights — ice (Wu Zhangkong's SKY ICE, twenty ranks above his paper) and time (Mu Chen: the foundation of a battle-armor master is a first-rank blacksmith; Lin Hao is "early and ready, and those are the same fact"). Gu Yue handed the silence back: *"I do not finish people's sentences."***
-- **Next gates:** rank 30 bottleneck → **3rd ring from the HAWK** (LOCKED DECISION — see "1,000-Year Qualitative Change"; no purchased soul) → purple crossing bestows command-adaptive 3rd skill → Soul Elder (projected mid-academy)
+- **🔴 CURRENT (end of ch79) — RANK 45, HELD SINCE ch68 (the black ring's jump). THE WALL OPENED AT ch40.** The hawk crossed 1,000 years, both rings re-formed purple, a third ring was bestowed, and the rank line moved again (31 → 36). **This line has been stale twice — it once said "rank 30, AT THE HARD WALL, hawk ~770 yrs", 21 chapters behind.** Current (ch79): spiritual power **2,824** · hawk **3,151 yrs** · **three purple + one black ring** · fist **2,612 kg at ten, past the 5,000 ceiling at ch68** · ledger **168, line 109 FINISHED** · smith **5th rank (Master Craftsman)** · ⚔️ Sword Intent · effective combat **SOUL EMPEROR (61–70); all-out SOUL SAGE — reserved**. Next gate: **the fifth-ring era (cap 50) — and the exam's duel, conditional.** 🔴 **ch62: Wu Zhangkong revealed SKY ICE — a two-word battle armor master is twenty ranks above his paper, which makes him the same SHAPE as Lin Hao, forty years further along.**
+- **Next gates:** the fifth-ring era (four rings cap at 50 per the (rings+1)×10 rule — five ranks of headroom) · the exam's duel (conditional) · the smiths' summons (ch79 wire)
 
 #### Techniques & Skills:
 1. **Stormbringer Sword** (Martial Soul)
@@ -2137,6 +2345,20 @@ Crossing 100→1,000 years is not growth — it is **biological evolution throug
 
 **Mutation escalation at the crossing (LOCKED):** mutations visibly jump — **his HAIR is the most noticeable change** (wind-touched: dark brown lightening toward storm-gray at the tips, carrying a faint permanent breeze — the first mutation people can SEE); feather-marks become permanent faint patterns, no longer combat-only; eyes begin perceiving spiritual-energy tracks; bones densify further. End-state direction unchanged: the storm body — slowly, never suddenly.
 
+#### ╧ THE DEEP-WATER STAGE — THE POST-JIAO APPEARANCE CANON (LOCKED 09-03; user mandate: "after absorbing the second soul and one month of it completely changed so you need to create")
+
+**The third great mutation era** — storm-light (ch8–13) → the crossing (ch40) → **the deep water (ch68+, the jiao month)**. The absorption month rewrote the frame; the change is LENGTH, not age, and it is cumulative like everything in this body:
+
+1. **THE FRAME LENGTHENED.** The jiao is a long thing, and the body took the gift: a head and more of height, the reach longer, the school sleeves short now. The "looks ~16" is the LENGTH — the face stayed thirteen. (This is why strangers mis-age him; the registration desk will not be the first.)
+2. **THE COLD LINE.** Breath fogs faintly in cold rooms. Cold water stopped registering — the lake in winter would feel like nothing. Skin runs cool after skill-spend; frost does not stick — it beads and slides.
+3. **THE EYES.** A thin glacier-green ring joined the gold-flecking — visible only in ice-light and water-light. Amber, gold, and now that.
+4. **THE MARKS.** The raised forearm marks (ch62) carry a faint overlap-sheen when the domain breathes — scale-TRACE, never scales. The AT curates hydrodynamics, not armor.
+5. **THE HAIR.** The storm-gray spread from the temple-lock into streak-work; ONE strand at the front gone near-silver (the jiao's cold rising); the breeze permanent; the hawk-gold now two currencies — gold, and one cold pale strand.
+6. **REGENERATION.** Deep-water regeneration: whole-limb class IN water ("the deep water sees to its own"); 80 s with the dragon's line on land.
+7. **THE v2.56 OWED STAGES, DELIVERED HERE:** the wind-patterns now permanent faint traces (no longer combat-only); energy-track vision complete (air-currents AND water-currents); bone density a third time.
+
+**ON-PAGE OWED: ch102 (registration morning) — the full reveal through NEW eyes** (the appearance law's r3: at least one character reacts ALOUD). **Forward ladder (never sudden):** at the jiao's next +500 — the oxygen-efficiency debate (AT would curate efficiency, not gills), the domain's hem carrying cold visibly, the silver spreading; at hawk 3,500 — the pinfeather sheen (see POWER_MODEL §The Second Spirit Line).
+
 #### Mutations (spirit-soul & growth driven — LOCKED SYSTEM):
 
 **The law:** mutations flow from the **spirit soul and cultivation growth** into the host's body — and a modest starting base mutates EASILY. A level-5 foundation offered little resistance to change; the AT resists nothing beneficial and *curates* everything. So his mutations began small and simple the day the Gale Hawk entered him — and compound as the hawk grows (700 yrs now; each threshold deepens them). Small → slow → big. Nothing is sudden; everything is cumulative.
@@ -2229,22 +2451,30 @@ and **(6) the PHYSICAL PANEL** (`LIN_HAO_STATUS.md → "The Complete-Holder Pane
 `checks/state.json`; `LIN_HAO_STATUS.md` is GENERATED from that. Do not type a number here that the
 generator can produce — that is how this table came to say "end ch 25" while the story was at ch 61.**
 
-| Line | Current (end ch 71) | Moves when |
+| Line | Current (end ch 62) | Moves when |
 |---|---|---|
 | 1. **SOUL RANK** | **36 — Soul Elder** · ceiling **40** | a real pressure event — never from sitting and breathing. The wall **opened in ch40** when the third ring was bestowed |
-| 2. **SPIRITUAL POWER** | **289** | every fight; pressure compounds (GROWTH LAW) · 🔴 ch62: **+8 from WATCHING, not fighting** — the rule was incomplete |
+| 2. **SPIRITUAL POWER** | **2,824 (ch79)** | every fight; pressure compounds (GROWTH LAW) · 🔴 ch62: **+8 from WATCHING, not fighting** — the rule was incomplete |
 | 3. **SWORDSMANSHIP REALM** | **⚔️ Sword Intent (Realm 4 of 5)** | comprehension, not combat — taught by Wu Zhangkong |
-| 4. **BLACKSMITH RANK** | **🔨 4th rank (Grandmaster)** — Master Craftsman is rank **5** (canon c40) | Association exams + refinement milestones |
-| 5. **SPIRIT SOUL** | **🌪 hawk 1,399 years** — lightning crossing (900) and purple crossing (1,000) both **done** | kills in the platform age it; the crossing thresholds are canon events |
-| 6. **LEDGER / EXPERIENCE** | **107 opponents adapted** | every fight he survives |
-| 7. **PHYSICAL PANEL** | **fist 2,612 kg (measured ch32, hard floor)**; nine other lines established but unmeasured | a scene measures them — then each becomes a hard floor |
-| 🔴 **EFFECTIVE COMBAT POWER** | **SOUL KING (51–60), ceiling Soul King peak** | locked — see §THE ADVANTAGE LEDGER |
+| 4. **BLACKSMITH RANK** | **🔨 5th rank — Master Craftsman (ch67; second-youngest in Branch records)** | Association exams + refinement milestones |
+| 5. **SPIRIT SOUL** | **🌪 hawk 3,151 years (ch79)** — lightning crossing (900) and purple crossing (1,000) both **done** | kills in the platform age it; the crossing thresholds are canon events |
+| 6. **LEDGER / EXPERIENCE** | **168 lines (line 109 FINISHED, ch71)** | every fight he survives |
+| 7. **PHYSICAL PANEL** | **fist 2,612 kg at ten (ch32 floor) — the ch68 rebase passed the machine's 5,000 kg ceiling**; the other lines deepen with the spirits | a scene measures them — then each becomes a hard floor |
+| 🔴 **EFFECTIVE COMBAT POWER** | **SOUL EMPEROR (61–70) baseline; all-out SOUL SAGE (71–80) — reserved** | locked — §THE ADVANTAGE LEDGER + the HYH calibration (2026-09-01) |
 
-**⚠️ THE RANK MOVEMENT RULE:** Lin Hao's soul rank moves **+1 roughly every two chapters**, and each move must be CAUSED by a named event (a hard fight, a correction, a survival). It is never mentioned-only. Historical pace for reference: rank 11 at 8½ (ch 3) → 22 by first winter (ch 4) → 30 (ch 22, the old wall) → **31 at ch40 when the third ring was bestowed** → **36 at ch61**. The ch 11–25 freeze was the error, not the pace. **Ring note (RANK RULE):** the ceiling is `(rings+1)×10`, so **three purple rings cap at 40** — four ranks of headroom remain, and the fourth ring is what opens the next band.
+**⚠️ THE RANK MOVEMENT RULE:** Lin Hao's soul rank moves **+1 roughly every two chapters**, and each move must be CAUSED by a named event (a hard fight, a correction, a survival). It is never mentioned-only. Historical pace for reference: rank 11 at 8½ (ch 3) → 22 by first winter (ch 4) → 30 (ch 22, the old wall) → **31 at ch40 when the third ring was bestowed** → 36 at ch61 → **45 at ch68 (the black ring) — held through the exam (ch79); the cap is now 50.** The ch 11–25 freeze was the error, not the pace. **Ring note (RANK RULE):** the ceiling is `(rings+1)×10`, so **three purple rings cap at 40** — four ranks of headroom remain, and the fourth ring is what opens the next band.
 
 ---
 
-### ⚔️ THE SWORDSMANSHIP SYSTEM (LOCKED v2.37 — five realms, canon-grounded). Swordsmanship is NOT "swinging a sword." It is a cultivation path with realms, and **Wu Zhangkong is Lin Hao's sword teacher — not merely his combat coach.** Canon basis: Soul Land's **Weapon Intent** (cultivated by Tang Wulin, Yuanen Yehui, Ye Xinglan, Sima Jinchi) and the sword-dao division **Sword Intent → Sword Domain → Man and Sword as One**.
+### ⚔️ THE SWORDSMANSHIP SYSTEM (LOCKED v2.37 — five realms, canon-grounded).
+
+**UPDATE (ch67):** the style has **SIX strokes** — Grain Cut · The Question · Answering Stroke · One
+Sentence · the Unwritten Stroke · **STILL WATER** (created winter three at the bench: *"a stroke with no
+wind before it"* — the five ask questions; Still Water waits until the opponent has answered one nobody
+asked). Tang Sect arts now studied alongside, through inner-sect Wu Zhangkong: the **Mysterious Heaven
+Method** (canon c239, held), the **Purple Demon Eyes** (his **third stage** — AU pace; canon gives Wulin
+stage two at thirteen, c231/c233 held), the **Disorder Splitting Wind Hammer** (series-level canon,
+labelled). The Unwritten Stroke changed register at ch68: it now *does not exist in the cold* as well. Swordsmanship is NOT "swinging a sword." It is a cultivation path with realms, and **Wu Zhangkong is Lin Hao's sword teacher — not merely his combat coach.** Canon basis: Soul Land's **Weapon Intent** (cultivated by Tang Wulin, Yuanen Yehui, Ye Xinglan, Sima Jinchi) and the sword-dao division **Sword Intent → Sword Domain → Man and Sword as One**.
 
 | Realm | Name | What it IS | Test | Lin Hao |
 |---|---|---|---|---|
@@ -3027,99 +3257,6 @@ Innate soul power (level 1-10 at awakening) is a composite of: **meridian width 
 - **The Dot That Did Not Stop:** the other six accounted for (Xie Xie: "I have *never* been so frightened and so disappointed at the same time"; **Gu Yue pressed her button at the exact moment she came within sight of Wulin — Wu Zhangkong notes it and does not examine it**); **board six still red at fifty-one minutes** (elementary runs to thirty), the bite on telemetry, off the edge of the mapped grid; **"Should we bring him out?" / "I know." / "He's had the button for fifty-one minutes and he hasn't—" / "I know."**; the staff cannot identify Wu Zhangkong's expression and later calls it "the expression of a man watching something he had been waiting a long time to see"; **"Just watch for now"** — his canon line about Gu Yue's bear, now turned on Lin Hao; **the dot keeps going**
 - **Ranks at chapter end:** Lin Hao 30 (**spiritual power 267** · still inside · left thigh bitten and bound · **the ledger turned from asset to vulnerability**) · Wulin 15 · Xie Xie 21 (killed a hundred-year Longtail Mouse) · Gu Yue sealed (153; outran a thousand-year Crystal Bear) · Wang Jinxi ~23 (sedated, willpower praised) · Zhang Yangzi 41 (4:11, wants an hour) · Wei Xiaofeng 22 — no breakthroughs, no seal breaks, Union folded, crossing gated, question OPEN, fusion door GATED and unnamed
 
-**Chapter 71: Sixteen (WRITTEN v3.09 — 🔴 THE FOURTH-RING ARC COMPLETES; adapts canon ch 260 ring colours + ch 227 the twenty ranks + ch 168 the body contains more + ch 240 the platform + ch 596 the soul chooses)**
-- 🔴 **EVERY LOCKED ELEMENT OF §THE FOURTH RING LAW LANDED, AND EACH ONE IS MEASURED HERE, NOT ASSERTED.** rank **40 → 45 directly** (five ranks in one event, the largest jump in the book) · fourth ring **BLACK** (ten-thousand-year ⇒ black, canon c260) · martial soul peak high-level → **TOP-LEVEL** · **THE NAME CHANGES** · ice + water added to wind + lightning · spiritual power **crosses into SPIRIT SEA** (402 → 517; the wall is 500) · **the body is the biggest single change** · **a small personality change shown through other people noticing** · the foundation far more solid.
-- 🔴 **THE SWORD IS NAMED ON-PAGE: 「霜溟剑」 FROST ABYSS SWORD.** He calls it up out of habit and it is not the same sword — longer, heavier in a way that has nothing to do with weight, steel the colour of deep water, frost along the edge that does not melt, a guard curved like a spine. Wind and lightning on top, ice and water underneath *"the way a river is under a road,"* and **all four going the same direction** — which is the thing Gu Yue taught him in a courtyard in four hours with two elements and a stick. He says the name out loud to see whether it fits. It fits. Then, to the sword it used to be: **"Stormbringer. Thank you."** 🔴 *He had never named a thing in his life that he had not made — and he understands he did not make this one either. He was holding it while it was made.*
-- 🔴 **THE DOMAIN APPEARS AND NOBODY NAMES IT — 「霜溟领域」 FROST ABYSS DOMAIN.** The yard is wet from night rain. He opens his hand. **The water comes up out of the seams of the flagstones** — not a splash: *"it came up out of the stone the way a person stands up out of a chair, and it stood there."* The inch of rain in the bucket stops being in the bucket; the moisture in the air stops being in the air. **He had not asked it to.** *"It's been there since the pool. It isn't something I do. It's somewhere I* am."* 🔴 **Ring skill = a thing he does. Domain = a place he is. The two are never blurred.**
-- 🔴 **WU ZHANGKONG IS FRIGHTENED, AND LIN HAO WRITES IT DOWN.** A two-word battle armor master — a man who is twenty ranks above his own paper and has stood under Title Douluo — asks **"what is that,"** and then: *"Don't do that where anybody can see it."* Lin Hao's ledger: *"he was frightened, and I have never seen him frightened, and I want to write down that I saw it because I am afraid that I will decide later that I imagined it."* 🔴 **The Domain is contested, not a win button — it decides who owns the room, not who wins the fight.**
-- 🔴 **THE BODY — THE APPEARANCE LAW'S BIGGEST SINGLE EVENT, WRITTEN AS ONE.** *"The boy who had walked into the platform thirty days ago had come up to her shoulder… The person sitting in the pool was not small."* Thin, not wasted — *"he looked like something that had been made rather than grown, all of it in the right place, none of it extra."* **He is eleven and he looks sixteen.**
-  - 🔴 **WULIN IS THE TEST AND HE FAILS IT — which is why the reader believes it.** Tang Wulin has known him since they were three. He looks at the stranger coming up the path and thinks *who is that*, then thinks it again slower, because something in the **walk** is familiar in a way he cannot put next to the **face.** What gives him away is **the way he eats a bun** (*"nobody in the world ate like that except one person"*). Tang Wulin sits down on the step. *"You're sixteen." / "I'm eleven." / "You're not eleven."*
-  - 🔴 **XIE XIE SAYS IT OUT LOUD, AT LENGTH, BADLY, AND IS NOT WRONG.** *"Your* face. *Your face has — there's a — you had a face and now you have a* face."* He walks around him like a man considering a house. He ends exactly where he began: **"you're going to make the metal"** — and makes Lin Hao say it back. 🔴 **He has bought eleven ingots with the council stipend and kept them under his bed and did not tell him.**
-  - 🔴 **GU YUE SAYS NOTHING AND DOES NOT LOOK AWAY.** She has looked at him — not at the stranger, not at the sixteen-year-old in the child's sleeves, but at him — *"in the particular way she had of looking at a thing until she had finished reading it."* Her whole verdict is: **"Your sword has a name now… Say it."** And then, about the whetstone: **"I told you I wanted the version where you say it."**
-  - **HIS CLOTHES DO NOT FIT.** *"They were yours* yesterday." / "They were mine on Tuesday… and I would like everybody to stop talking about my sleeves."*
-- 🔴 **THE PERSONALITY CHANGE IS SHOWN THROUGH OTHERS, NEVER REPORTED.** He is **quieter** — not cold, not distant. He no longer needs to fill a room. Wulin notices first (the walk), Xie Xie says it out loud, Gu Yue says nothing and does not leave his side, and **Wu Zhangkong is the one who is unsettled by it.**
-- 🔴 **THE MEASUREMENT.** *"Rank forty-five." / "Soul Ancestor." / "At eleven."* Then the ruler: **canon c227 — a battle armor master is twenty soul ranks stronger than the same man without it.** *"You are sixteen ranks above your paper with nothing on."* **"You have not used the full thing, either. Have you." / "No."** 🔴 **He stays short of the benchmark on purpose. That is what keeps him frightening.**
-- 🔴 **THE LEDGER'S FIRST GAP IS CLOSED WITH ONE LINE. 124 → 125.** He does not know how to start, and the not-knowing is not about words. He writes the numbers first because numbers are easy, then: *"Thirty days. I have never left a gap. I left a gap."* · ***"Here is the line after the gap."***
-- 🔴 **THE MONTH HAPPENED WITHOUT HIM — AND HE GETS NO CREDIT FOR ANY OF IT.** Xu Xiaoyan tells him at breakfast, *"because the person who should tell him was the person with the least to gain by it."* The class battle ran without him. Shen Yi gave Tang Wulin the blacksmith seat unchallenged. 🔴 **AND: Yue Zhengyu — canon's *second grade, class one* (c291) — got his working-student application approved to get into this dormitory. Canon's target is a RED-HAIRED FALLEN ANGEL GIRL who is NOT Gu Yue; AU, he has decided the girl he means is Gu Yue.** *"He's rich and he's stupid and he has time, which is the combination that costs you the most."* **Gu Yue has said nothing about it. She has also not eaten anything since he sat down.**
-- 🔴 **FIST 2,612 → 4,180 kg.** The old floor is left behind *"like a childhood measurement"* — the child's plate's ceiling, not his.
-- **LOCKS HELD (all):** second seal · 🔴 **Hawk-Soul Union still never used on-page (D006) — and it now has to be re-thought, because the hawk shares him with something older** · Wu Zhangkong's origin (Shrek) · Long Bing · Na'er · Gu Yue's true nature · battle armor worn · fusion door · the card's contents · who forged the blade · what answered the hawk · Mu Chen's first · who has been giving him things · the romance named · 🔴 **the Frost Abyss Domain NAMED by anybody** · 🔴 **「镇」 DOMINEER, the fourth ring's stroke, used on-page** · 🔴 **the Comprehensive System recognised by anyone, including him.**
-- 🔴 **FRAMEWORK CHANGES MADE IN THE SAME EDIT (§4.13 rule 3 — when a belief changes, the check enforcing it must change):** (1) the **effective realm stopped being hardcoded** — `Soul King` lived in **five** files; it is now computed in `state.py` from rank + ring count and every consumer reads `state.json`. (2) **the ring-colour law is scoped to ch1–70**, because THE FOURTH RING LAW deliberately breaks "a ring's colour is fixed at absorption." (3) **the CJK check has a four-item allowlist** for the locked soul names. (4) `state.py`'s ring parse was **rewritten twice** — my first rewrite was worse than the original and matched nothing at all, because I fixed it without running it against the string it had to parse. (5) `verify_power_scale.py` allows the new fist floor.
-
-**Chapter 70: The Month He Was Not There (WRITTEN v3.08 — adapts canon ch 302 genius working students + ch 295 Shen Yi's rules + ch 305 the seven representatives + ch 240 what the platform is + ch 306 Gu Yue lets nobody touch her)**
-- 🔴 **THE ABSENCE IS THE CHAPTER.** Lin Hao is in the pool for twenty-nine days and does not come out. The chapter is not about him; it is about the hole, and about the four people who notice it, the teacher who lies for him, and the girl who goes and finds him and cannot get him out. **This is the first chapter in the book that runs almost entirely without its protagonist on his feet.**
-- **TANG WULIN — the empty seat (Part 1, Part 2).** He notices on the second morning, late and then all at once. He asks Shen Yi after the lecture. She has already marked him present. *"Working students are required to accept a few missions every month… He is on a mission. He will be marked present"* — against her own stated rule that **"anyone who is absent three times will face expulsion"** (canon c295). *"That is not a discussion. It is a fact about where he is."* Tang Wulin has the distinct and uncomfortable feeling the fact was arranged between Shen Yi and Wu Zhangkong before the lecture started.
-- **YUANEN YEHUI — the working-student truth (Part 3, NEW canon character on-page).** Sits alone at a table for four. *"That's because working students are freaks"* · *"working students are unpredictable and absolutely must not be offended. That's not a rule they wrote down, it's a rule that happened"* (canon c302). **The Elder Feng precedent:** working student → graduated the outer court at thirty-four → **"the youngest Saint Blacksmith on the continent"** → **"He rose from six to nine rings in twenty years"** → **Title Douluo** and eighth-rank Saint Blacksmith, the greatest blacksmith of Shrek Academy. *"So when one of us doesn't come to class, nobody asks twice."* And the economy: the Academy buys first-grade thousand refined metal for **a minimum of two thousand contribution points** while the working-student job pays one thousand (canon c302). *"Sit down properly and eat. Working students pay for their own meals and you are wasting mine."*
-- 🔴 **GU YUE GOES (Part 4, Part 5) — the emotional centre.** Ninth day. She does not tell anybody, *"which was not the same as keeping a secret, because Gu Yue did not consider the movements of her own body to be anybody's information."* Four hours into the thousand-year forest, to the part where nothing comes. **The pool is frozen and the ice is not white — it is the colour of deep water.** She knows what the platform is and she is the one who told Tang Wulin (canon c240: *"the spirit ascension platform isn't a true illusory world. It's actually a mix of illusions and reality"*). She kneels and puts her palm on the ice. **THE ICE DOES NOT LET HER IN.** *"It was not resisting her. It simply did not notice her, the way the sea does not notice a hand in it."* She has ice; she has had it since she was small enough that it frightened people; her cold is cold the way a knife is cold. **She has never in her life touched anything colder than herself.**
-- 🔴 **XU XIAOYAN IS NOT A FLOWER (Part 5).** *"I've been to the platform six times." / "I asked at the desk. I'm not stupid. I'm the least stupid person at this table and I've known since the ninth day."* She tells nobody, and she gives Gu Yue the only useful thing anybody says to her all month: *"if he's in trouble then you'd have got him out, and you haven't got him out, so either he isn't in trouble or he can't be got out, and in both cases the useful thing is to be here eating porridge."*
-- 🔴 **WU ZHANGKONG GOES (Part 8, twenty-seventh day) — AND HE SAYS THE NUMBER.** He finds Gu Yue there and does not turn around. *"You should be in class." / "I'm not the one who's absent." / "No. You're the one who's here."* He puts two fingers on the ice, then his whole palm. **"His spiritual power is four hundred and two."** He was three hundred and thirty-eight when he went in. **"Sixty-four. That is not a number a body makes. That is a number a body is *given*, and the giving has a cost, and the cost is going to be paid later, and I do not yet know in what currency."** He will not say what the shape in the ice is becoming — only that it is not the shape that went in, that it isn't finished, and **"he is the one holding it and it is not holding him."** Then, asked whether her element fails her: **"Neither does mine."** He leaves it there. *"He has missed twenty-seven days of my class. When he comes out, tell him I said he is behind." / "I'm not his messenger." / "No. You're worse. You're the one who came."* 🔴 **He does not intervene.** He stands at the side of a ten-thousand-year absorption and lets it run, because *"it will finish when it finishes"* is the only answer there is.
-- 🔴 **XIE XIE SPENDS HIS OWN SEAT ON HIM (Part 7).** Canon 305 supplies the seven representatives: *"One class president, two vice-presidents, and a council made up of the four secondary professions"*; **president 1,000 points a month, vice-president 600, profession council 500** (canon c305). Shen Yi declares Tang Wulin the blacksmith representative unchallenged (*"because Tang Wulin is a fifth-rank blacksmith… and none of you are"*). Xie Xie does not raise his hand. *"There is a second blacksmith in this class."* Fourth rank, Grandmaster, badge registered on his eleventh birthday, *"and the woman behind the counter said* you're a fourth-rank blacksmith and you're eleven *and then she said it a second time to herself, which is how I know it was true and not a form."* **Shen Yi grants the seat in absentia — five hundred points a month, "of which you will personally spend none, because you will be buying his metal."** Xie Xie sits down and does not look pleased about it, which everybody notices. 🔴 **This is the ch62 battle-armor thread moving while its owner is unconscious.**
-- **INSIDE THE POOL (Part 6).** He is not unconscious — that is the thing he would have got wrong. *"He was there for all of it, in the cold, with his eyes shut, and the jiao was going into him the way water goes into a dry field, slowly, and there was a great deal of water."* **What he had not expected was that it would be a person.** It is tired; that is the whole of it. He talks to it out loud, the way he talks to metal when the forge is loud: *"You don't have to be a sword… I've been making things since I was six. Most of them were horseshoes. That's not a complaint, it's just the fact… And then I made a strap. And I made a bearing assembly for a boy who has a hawk, and he didn't know I made it better than the bottom, and that was the first thing I ever made that knew something I didn't… You're not a horseshoe."*
-- 🔴 **THE LEDGER DOES NOT MOVE. 124 lines for twenty-nine days.** He has never in his life left a gap in it. On the twenty-ninth day, when he can no longer feel his hands, he thinks that the book is going to have a gap in it and that this will be the first one. **The absence of writing is the chapter's loudest fact.**
-- **THE TWENTY-NINTH DAY (Part 9).** Gu Yue goes because she goes every fifth day and it is the fifth day. The ice is different — *"the same colour, the same shape, the same long dark line of the jiao underneath — but it was different the way a held breath is different from a released one."* **It lets her in. A hand's depth.** Her cold goes down and comes back with something on it and she sits down hard on the frozen ground with her hand in the air. *"He's almost done. Whatever he is, he's almost that."* She goes back to the dormitory and lies on her bunk looking at the ceiling. 🔴 **She has a whetstone in her pocket** — she gave him one for his birthday (ch68), watched him put it in his bag, and took the other one back out. **"She did not finish people's sentences. She had told him that. She had told him she wanted the version where he said it."**
-- **GROWTH:** rank **40 → 40** (Soul Elder — the gate; the jiao has not finished) · spiritual power **338 → 402** (🔴 **+64 — the largest single jump in the book, measured by Wu Zhangkong through the ice, and he is asleep for all of it**) · hawk **1,490 → 1,504** · **ledger 124 → 124** · three purple rings, the fourth forming · 4th rank (Grandmaster) · Sword Intent · 🔴 **elected to the second profession council seat for blacksmithing in absentia.**
-- **LOCKS HELD (all):** second seal · Hawk-Soul Union · Wu Zhangkong's origin (Shrek) · Long Bing · Na'er · Gu Yue's true nature · battle armor worn · fusion door · the card's contents · who forged the blade · what answered the hawk · Mu Chen's first · who has been giving him things · **the fourth-ring arc COMPLETE (day 29 of ~30; the martial soul has NOT evolved, the Domain has NOT appeared, the name stays CANCELLED)** · the romance named.
-- **NEW CANON CHARACTERS RECORDED:** **Yuanen** (working student, **male**, sells information, sits alone — canon c302; 🔴 in c302–304 he is only ever *"Yuanen"* — **his full name Yuanen Yehui first appears in c327**, so citing "Yuanen Yehui … canon c302" in ch70's footer was a mis-attribution, corrected) · **Yue Zhengyu** (🔴 **second grade, class one — canon c291**, NOT a first-year; gets his working-student application approved to reach the dormitory) · **Elder Feng** (the working-student precedent — canon c302) · **Shen Yi runs the lectures while Wu Zhangkong stands to the side in silence** (canon c305).
-- 🔴 **CORRECTED 2026-08-30, AFTER ACTUALLY RE-READING CANON 288–306 (user: *"just go and read canon chapter's and comper with what you write"*).** This record originally said Yue Zhengyu was hunting a girl *"and that girl is Gu Yue."* **That was false and I invented it.** Canon's target is **a red-haired working-student girl with a Fallen Angel martial soul** — *"They never expected that this Fallen Angel girl with two rings would be a working student like them"* · *"the image of that red-haired Fallen Angel girl popped into his head"* (c303–304) — and **Gu Yue wields six elements plus variant ice** (*"fire, water, wind, earth, light, space, and the variant ice attribute"*, c289). **Canon never says the Fallen Angel is Gu Yue.** The enforcer's canon line — *"The Academy has already verified my identity and determined that I am not an evil soul master"* — is the **Fallen Angel girl's**, not Gu Yue's. **AU, now labelled in ch71: Yue Zhengyu has decided the girl he means is Gu Yue.**
-
-**Chapter 69: The Flood-Dragon (WRITTEN v3.07 — adapts canon ch 596 willing surrender + ch 260 ring colors)**
-- 🔴 **THE FOURTH-RING ARC BEGINS.** Lin Hao goes into the spirit ascension platform to earn contribution points, fights four soul beasts, and is about to go out. **And then the hawk goes still.** He goes toward it. It is a **jiao** — a flood-dragon, ice and water, ten thousand years old, dying. It opens its eye and **surrenders itself to him willingly** (canon ch 596: *"spirit soul surrendered itself willingly to him and chose to be his own"*). It chose him, because it was tired and old and ready, and he was ready, and he had been ready since he was six.
-- 🔴 **THE ABSORPTION BEGINS — ONE MONTH.** It is not like the hawk (which took a day). *"It is going to take a month."* The hawk goes still. The jiao goes in. The pool freezes around him. He had written, before he went in, the last thing he would write for a month.
-- 🔴 **THE JIAO IS A JIAO, NOT A TRUE DRAGON.** A jiao is a dragon on the way to being something else, which is exactly what this month is. Ice + water, ten-thousand-year, old enough to have a will of its own. The fourth ring will be BLACK (ten-thousand-year ⇒ black, canon ch 260).
-- 🔴 **IT CHOSE HIM.** Not a surrender to a stronger thing — a choosing of a thing that was ready.
-- **GROWTH:** rank **40 → 40 (the gate; the absorption has not yet moved it)** · spiritual power **331 → 338** · **hawk 1,478 → 1,490** · three purple rings (the fourth forming) · 4th rank (Grandmaster) · **ledger 122 → 124** · Sword Intent.
-- **NOT triggered:** second seal · Union · Wu Zhangkong's origin (Shrek) · Long Bing · Na'er · Gu Yue's nature · battle armor worn · fusion door · the card's contents · who forged the blade · what answered · the ape · Mu Chen's first · who has been giving him things · **the fourth-ring arc COMPLETE (absorption just beginning; rank still 40; the martial soul has NOT yet evolved to Frost Abyss Sword; the Domain has NOT yet appeared; "Divine Stormbringer" still CANCELLED)** · the romance named.
-
-**Chapter 68: The Badge (WRITTEN v3.06 — adapts canon ch 297 "Working Student Yuanen" + ch 301 "Titan Giant Ape Martial Soul")**
-- 🔴 **THE ELEVENTH BIRTHDAY — SMALL, AS OWED.** Lin Hao turns eleven on a Tuesday, alone, nobody knows. *"I am eleven and I am not the boy who had the cake."* The sixth birthday had a cake, his father home, Wulin there, a knife with eleven marks. Now there is no cake, no mark, and the not-telling is not a sadness, just a thing that is true. The codex said the birthday should land in the run-up and be small, because the boy who has it is not the boy who had the sixth one. It lands, and it is small.
-- 🔴 **THE BADGE IS LIN HAO'S, NOT WULIN'S.** Canon ch 301 has Wulin register a fourth-rank badge at thirteen. Here it is Lin Hao, **a fourth-rank Grandmaster at eleven, the youngest the Shrek Blacksmith's Association has ever registered.** *"Do you have a blacksmith's badge? I'll begin your registration"* · *"The greater the blacksmith, the greater their authority."* The clerk registers the orange four-yellow-star badge, the machine says *"Age eleven."* *"You're a fourth-rank blacksmith and you're eleven."*
-- **The working-student forging job** (canon ch 297): *"I'll give you 1100 points for a first-grade thousand refining"* · *"All contribution point transactions between students are subject to a one percent fee."* Xie Xie does the arithmetic.
-- 🔴 **THE BADGE SAYS HE IS ON THE ROAD.** He has been carrying the badge since ten and had not looked at it; the clerk looked at it and saw what it said. The K4 thread continues — the badge says he is on the road to making the metal for a battle armor.
-- **GROWTH:** rank **40 → 40 (the gate)** · spiritual power **324 → 331** · **hawk 1,466 → 1,478** · three purple rings · 4th rank (Grandmaster) · **ledger 120 → 122** · Sword Intent.
-- **NOT triggered:** second seal · Union · Wu Zhangkong's origin (Shrek) · Long Bing · Na'er · Gu Yue's nature · battle armor worn · fusion door · the card's contents · who forged the blade · what answered · the ape · Mu Chen's first · who has been giving him things · **the fourth-ring arc (at the gate, needs the second spirit soul)** · the romance named.
-
-**Chapter 67: The Most Appropriate Profession (WRITTEN v3.05 — adapts canon ch 295 "The Pressure of Shrek" + ch 296 "Time Waits for No One")**
-- 🔴 **THE K4 THREAD ARRIVES AT ITS DESTINATION.** Shen Yi's two lectures (canon ch 295, 296). The first: contribution points — *"Working students, in particular, need them to buy food"* · *"you cannot purchase contribution points with money"* · jobs include *"metal forging."* The second: battle armor — *"Blacksmithing is both demanding and strenuous, and forging armor is much more difficult. However, it is the most appropriate profession for creating powerful battle armors."* Lin Hao has been a blacksmith since six; the road is named.
-- 🔴 **XIE XIE PUTS IT ON RECORD.** *"You'll make the metal, I'll make the mecha"* (ch62) is now a road a woman in a hall has named. *"I said it first. I want that on record."*
-- 🔴 **THE REQUIREMENT — THE GATE IS REAL.** One-word battle armor needs *"five soul rings and the third rank in your second profession."* He has the profession (fourth-rank Grandmaster) but only three rings — the fourth needs a second spirit soul, *"a thing you don't find at a forge."* Sets up the fourth-ring arc.
-- **The rank does not move** (40, the gate) — the foundation deepens instead (sp, hawk, ledger).
-- **GROWTH:** rank **40 → 40 (the gate)** · spiritual power **317 → 324** · **hawk 1,454 → 1,466** · three purple rings · 4th rank (Grandmaster) · **ledger 118 → 120** · Sword Intent.
-- **NOT triggered:** second seal · Union · Wu Zhangkong's origin (Shrek) · Long Bing · Na'er · Gu Yue's nature · battle armor worn · fusion door · the card's contents · who forged the blade · what answered · the ape · Mu Chen's first · who has been giving him things · **the fourth-ring arc (at the gate, needs the second spirit soul)** · the romance named.
-
-**Chapter 66: The Working Students (WRITTEN v3.04 — adapts canon ch 288 "The Status of a Working Student" + ch 289 "Tang Wulin the Wicked")**
-- 🔴 **ARRIVAL AT SHREK.** The five arrive at the greatest academy in the world and are sent to the **west gate** — the working students. *"This is the dormitory for working students"* (canon ch 288): a run-down one-floor building in a forest, one room, no walls, two bunk beds, dust, broken windows.
-- 🔴 **FIVE WORKING STUDENTS, NOT FOUR.** Canon has four (Wulin, Xie Xie, Gu Yue, Xu Xiaoyan). **Lin Hao is the fifth**, there are four beds, and **he takes the floor.** *"Somebody has to."*
-- 🔴 **THE FORGE — THE K4 THREAD ARRIVES AT ITS DESTINATION.** Shrek is the one place on the continent where battle-armor masters are made. Lin Hao finds the forge on his first day, and a man making a **two-word spirit-refined battle armor** tells him *"You can't make that. You're a kid." / "I'm a fourth-rank Grandmaster. At ten."* He has come to the bottom of the greatest academy in the world and the first thing he found was the forge.
-- **GU YUE** cleans a third of Spirit Ice Plaza with a water-and-wind whirlwind (canon ch 289), then has to sit down — *"six elements still run on soul power."* Xie Xie treats them to dinner (the black steamed buns, canon ch 289).
-- 🔴 **THE GATE — RANK 40.** He hits the ceiling. The fourth ring is next, and it needs a second spirit soul — *"a thing you don't find at a forge."* **Sets up the fourth-ring arc** (the Frost Abyss Jiao, not yet found; the arc is locked until after Shrek arrival at age 11).
-- **GROWTH:** rank **39 → 40 (Soul Elder — THE GATE)** · spiritual power **310 → 317** · **hawk 1,442 → 1,454** · three purple rings · 4th rank (Grandmaster) · **ledger 116 → 118** · Sword Intent.
-- **NOT triggered:** second seal · Union · Wu Zhangkong's origin (Shrek) · Long Bing · Na'er · Gu Yue's nature · battle armor worn · fusion door · the card's contents · who forged the blade · what answered · the ape · Mu Chen's first · who has been giving him things · **the fourth-ring arc (at the gate, needs the second spirit soul)** · the romance named.
-
-**Chapter 65: The Strap That Did Not Know (WRITTEN v3.03 — adapts canon ch 230 "Spirit Item Exchange")**
-- 🔴 **THE K4 THREAD PAYS ITS FIRST INSTALLMENT.** After three weeks at Old Zhou's forge, Lin Hao makes his **first grown thing** — a strap that does not know he is better than the bottom. *"This is one of mine,"* Old Zhou says. *"Not one of yours. One of mine."* A battle armor is grown, not forged; this is the first thing Lin Hao has grown rather than forged from above.
-- 🔴 **TWO KINDS OF BOTTOM.** Mu Chen names them: a **forge** you can stand at until you understand it (Lin Hao), and an **auction house** you can only wait at (Wulin). Neither can be skipped. *"We've been getting ready for a thing that hasn't come since we were six."*
-- 🔴 **WULIN'S PARALLEL** (canon ch 230, verified verbatim in the frozen quote-sources): the **Azure-veined Vine** is rare — *"the necessary items were far too rare! He had already searched Eastsea City's auction houses and even the Eastsea Museum's auction… but had come out empty-handed"* — and *"you can't forge a soul beast, you find it or you don't."* Wulin has been waiting since he was six.
-- 🔴 **GU YUE: TWO KINDS OF BOTTOM, TWO KINDS OF KNOWING.** *"I was at the bottom for years and didn't know I was there. You knew. That's the difference. One kind you go to on purpose. The other you're just at."*
-- **GROWTH:** rank **38 → 39 (Soul Elder)** · spiritual power **303 → 310** · **hawk 1,430 → 1,442** · three purple rings · 4th rank (Grandmaster) · **ledger 114 → 116** · Sword Intent.
-- **NOT triggered:** second seal · Union · Wu Zhangkong's origin (Shrek) · Long Bing · Na'er · Gu Yue's nature · battle armor worn · fusion door · the card's contents · who forged the blade · what answered · the ape · Mu Chen's first · who has been giving him things · **the fourth-ring arc (rank 40 gate — he is at 39, one rank away)** · the romance named.
-
-**Chapter 64: The First Rank (WRITTEN v3.02 — adapts canon ch 218 first-rank-foundation line + ch 230 "Spirit Item Exchange")**
-- 🔴 **MU CHEN SENDS LIN HAO TO THE BOTTOM.** Mu Chen's canon line — *"the foundation of a battle armor master stems from being a first-rank blacksmith"* (canon ch 218, verified verbatim in the frozen quote-sources) — is canon about **Wulin**; here it is turned on **Lin Hao**, and it lands differently, because a boy who is eleven years early **skipped every step on the way up and has never once stood at the bottom.** Mu Chen takes him to **Old Zhou's first-rank forge** (NEW character: a first-rank blacksmith for forty-one years who never went up).
-- 🔴 **A BATTLE ARMOR IS GROWN, NOT FORGED.** *"You cannot grow a thing you do not understand from the bottom."* Old Zhou makes a strap *from below* because the bottom is all he has ever had; Lin Hao made one in an afternoon *from above*, and *"the strap knows the difference."* **Pays the K4 thread** (battle-armor smithing) that Xie Xie opened in ch62 and ch63 grounded. *"Early is a person who has never stood still long enough to be at the bottom of a thing."*
-- 🔴 **GU YUE FINISHES A SENTENCE.** She taught him the fusion (ch57) not because she's better but because *"I've been at the bottom of a thing and you hadn't"* — she was a blank page in her own ledger. The silence handed back in ch63 moves a little further; she *finishes* instead of leaving it.
-- **WULIN IN PARALLEL** (canon ch 230 "Spirit Item Exchange"): buying thousand-year Land Dragon Tendon and Sea Dragon Marrow with contribution points to prepare his second seal. *"We've been getting ready for a thing that hasn't come yet since we were six."* Two boys getting ready, neither with a word for the thing.
-- **GROWTH:** rank **37 → 38 (Soul Elder)** · spiritual power **296 → 303** · **hawk 1,418 → 1,430** · three purple rings · 4th rank (Grandmaster) · **ledger 112 → 114** · Sword Intent.
-- **NOT triggered:** second seal · Union · Wu Zhangkong's origin (Shrek) · Long Bing · Na'er · Gu Yue's nature · battle armor worn · fusion door · the card's contents · who forged the blade · what answered · the ape · Mu Chen's first · who has been giving him things · **the fourth-ring arc (rank 40 gate — he is at 38)** · the romance named.
-
-**Chapter 63: The Quiet After (WRITTEN v3.01 — adapts canon ch 229 "Time Flies" + ch 230 "Spirit Item Exchange")**
-- 🔴 **THE NEWS DIES IN NINE DAYS** (canon ch 229: *"a blossom from a night-blooming cactus, the petals withering away before dawn"*). Eastsea seals the records (canon: *"sealed off all relevant information, leaving the two clueless"*); class zero stops competing and goes quiet, into work. Xie Xie: *"There's nothing left to prove in here… I'm bored, and bored is the worst thing a person can be."*
-- 🔴 **WU ZHANGKONG'S REFLECTION HAS TWO OBJECTS, NOT ONE.** Canon ch 229 reflects only on Wulin (*"I've been too demanding of him. He has been too hard on himself as well… They are still children after all"* — kept verbatim in substance). **The butterfly: Lin Hao is also rising before dawn, for the opposite reason.** Wulin runs because he fears he is not enough and needs *easing*; Lin Hao is at the forge because he fears he is too much and needs a *wall*. *"Guiding… was going to mean doing two opposite things at once and not letting either boy see that the other was getting something different."* He is not sure he can do it; he does it anyway, *"because that was the part of guiding nobody told you about, which was that you did not wait until you could."*
-- 🔴 **THE SECOND CEILING — battle-armor smithing grounded in canon (pays the K4 thread Xie Xie opened in ch62).** Mu Chen's canon line — *the foundation of a battle-armor master is a first-rank blacksmith* — is connected to Lin Hao for the first time. *"The Sky Ice is metal… Xie Xie is not wrong, and Xie Xie is also about eleven years early."* / *"You are early… and you are ready, and you have been trying to make those two things into a contradiction because a contradiction is a thing you can work on, and a fact that is simply true is a thing you have to wait for, and you have never been good at waiting."* The ceiling is **time, not skill.**
-- 🔴 **THE SILENCE CHANGES HANDS BACK.** In ch62 he told Gu Yue the whole of it and vanished before the last word. In ch63 she hands it back: *"You said the whole of it and you left, and the leaving was the part that was true… I do not finish people's sentences… I want the version where you say it."* **The romance stays unnamed (lock held) but the distance moves — and it is heavier than it was.**
-- 🔴 **GROWTH IS A CEILING, NOT A FIGHT.** Two ceilings in nine days (ice, then time). *"Wanting a ceiling to be a wall is the last thing a person does before they grow, and… it is almost over."* Sets up the run-up to rank 40 and the fourth-ring arc.
-- 🔴 **THE AU DOES NOT DO CANON'S THREE-YEAR SKIP HERE.** Canon ch 229 jumps three years (Wulin/Xie Xie 13, in the Tang Sect). Our fourth ring is at age 11, so ch63 adapts canon 229's *themes* (the quiet after, the reflection, the news dying) at age 10, two weeks after the tournament. The Tang Sect contribution-point structure is carried, not opened.
-- **GROWTH:** rank **36 → 37 (Soul Elder)** · spiritual power **289 → 296** · **hawk 1,406 → 1,418** · three purple rings · 4th rank (Grandmaster) · **ledger 109 → 112** · Sword Intent.
-- **NOT triggered:** second seal · Union · Wu Zhangkong's origin (Shrek) · Long Bing · Na'er · Gu Yue's nature · battle armor worn · fusion door · the card's contents · who forged the blade · what answered · the ape · Mu Chen's first · who has been giving him things · **the fourth-ring arc (rank 40 gate — he is at 37)** · the romance named.
-
 **Chapter 62: Two Words (WRITTEN v3.00 — adapts canon ch 227 "Sky Ice Battle Armor" + ch 228 "Advancing to Soul Sage")**
 - 🔴 **THE PROVOCATION IS ABOUT LIN HAO.** A man from Sealand arrives with a **thin folder**: *"There is an irregularity. The boy's classification. Comprehensive. It isn't one of the six."* / *"It's on the form."* / *"In eleven days nobody at the Association has been able to tell me what it means, and I have asked four people, and one of them was a seventh rank, and the seventh rank laughed."* / *"He wrote a word in a blank line. The blank line has been there for forty years. A girl wrote Elementalist in it before him and nobody has questioned that either."* / *"Elementalist is a martial soul."* / *"Comprehensive is a System."* / *"It is not one of the six."* / *"No. It is the seventh."* Then the ask: **the file transferred.** In canon ch 227 the Sky Ice comes out because the Zhou sisters nearly killed Wulin and Gu Yue. **Here nobody is hurt. The Sky Ice happens because Lin Hao exists.**
 - 🔴 **"SKY." / "ICE."** The Skyfrost Sword goes **INTO** him — *"the sword had never been a thing the man carried. The sword had been a thing the man kept outside himself so that he could stand in a classroom."* Ten points of light, silver thread that is **load-bearing, not decoration**, a sky-blue crystal, five snowflake points, six rings absorbed, and a metre-and-a-half blade that is the same sword and is not.
@@ -3386,7 +3523,7 @@ Innate soul power (level 1-10 at awakening) is a composite of: **meridian width 
 - **GROWTH:** rank 30 (coiled) · spiritual power 145 (not re-measured, no number invented) · **hawk 957 → 964, 36 years to the crossing** · fist 2,612 kg (floor) · **Zhang Yangzi 41 → ~27.**
 
 **Chapter 38: The Formation (WRITTEN v2.65 — adapts canon ch 134 + ch 137; A4 satisfied, canon verified through ch 336)**
-- ✅ **First chapter written with canon fully verified for its era** — the standing rule A4 became satisfiable because 313 canon chapters (ch 23–336) were held at the time.
+- ✅ **First chapter written with canon fully verified for its era** — the standing rule A4 is now satisfiable because 313 canon chapters (ch 23–336) are held.
 - **The formation** is the chapter's growth: **Wulin the middle, Gu Yue the weather, Xie Xie the answer, Zhang Yangzi and Wang Jinxi the door, Lin Hao the scout.** Built from **Yun Xiao's numbers** — survival by team size (two survive 11 minutes, five 38, seven 51; larger teams lose more members because *"in a team of seven, six people will let one be the bait"*).
 - **Canon ch 137's private ranking kept in substance:** Gu Yue first (**no record of her martial soul in the Pagoda's or the Academy's history**), Xie Xie second (**twin souls artificial rather than natural**), Bone Dragon King / Shadow Phantasm Eagle *"not peak level"* but compatible with the fusion still rudimentary, Wulin captain **for character**.
 - **The 20,000-year-old motto** appears only in Wu Zhangkong's thoughts — ⚠️ **the place stays unnamed**, per the lock, because our chapters predate canon ch 204.
@@ -3519,7 +3656,7 @@ Xie Xie has **TWIN MARTIAL SOULS — the Light Dragon Dagger AND the Shadow Drag
 - **TOURNAMENT FORMAT (canon ch 73 primary text): INSTANT PROMOTION** — the ch 73 closing line: "Oh. No—they were now the first grade's class four." Each win moves the class up immediately (beating class three's team = "You will be in class three now," canon ch 82). **Our ch 11-12 had invented "class five remains class five until the tournament's end" — REMOVED (v2.18); chapters corrected to instant promotion; colloquial "class five" identity persists because canon itself keeps calling them class five ("First grade's class five wins!" — canon ch 82).**
 - **RING DISPLAY (canon ch 73 primary text): "White, Yellow, Yellow!"** — the trio's rings: one WHITE (Xie Xie's — his dagger soul is under 100 years; consistent with his rank-20 one-ring bottleneck), two yellow (Wulin's Goldsong 100+; Gu Yue's 100+). **Our chapters had Xie Xie yellow — CORRECTED to white in ch 11-12 (v2.18).**
 - **MO SI: rank 13 — canon-verified primary text (ch 73: "his soul power was only at rank 13")** ✓ our usage correct.
-- **⚠️ XIE XIE RING STATUS (corrected v2.24):** martial soul: **Light Dragon Dagger — TOOL soul** (ch 4 self-intro fixed from the erroneous "Beast martial soul"). Rings: **YELLOW first ring** (his family's hundred-year purchase — canon ch 73's "White, Yellow, Yellow" = Wulin's white + Xie Xie's yellow + Gu Yue's yellow; the earlier v2.18 attribution was REVERSED and is corrected) + **second ring at rank 21** (our ch 17, on-page: the rank-wall break; the first ring stays yellow — RING-COLOR LAW; the dagger grew denser per canon ch 101). **🔴 CURRENT (end of ch71): rank 23, TWO rings, highest soul power in class zero EXCEPT LIN HAO (canon c184 scoped by the BUTTERFLY LAW — canon says it about a class that does not contain him), going to Shrek. 🔴 ch62: he stood UNDER the Sky Ice while it was still forming and came out having decided out loud that Lin Hao will make the metal and he will make the mecha.** This line previously said "rank 21, both forearms fractured (ch 18)" and was 43 chapters stale.**
+- **⚠️ XIE XIE RING STATUS (corrected v2.24):** martial soul: **Light Dragon Dagger — TOOL soul** (ch 4 self-intro fixed from the erroneous "Beast martial soul"). Rings: **YELLOW first ring** (his family's hundred-year purchase — canon ch 73's "White, Yellow, Yellow" = Wulin's white + Xie Xie's yellow + Gu Yue's yellow; the earlier v2.18 attribution was REVERSED and is corrected) + **second ring at rank 21** (our ch 17, on-page: the rank-wall break; the first ring stays yellow — RING-COLOR LAW; the dagger grew denser per canon ch 101). **🔴 CURRENT (end of ch79, audit nn — this line had said 'rank 23, TWO rings' from ch62): rank 33, THREE rings (Soul Elder band), AT Shrek — trials 10·10·10 · the rumor-flash. Highest soul power in class zero EXCEPT LIN HAO (canon c184 scoped by the BUTTERFLY LAW — canon says it about a class that does not contain him). 🔴 ch62: he stood UNDER the Sky Ice while it was still forming and came out having decided out loud that Lin Hao will make the metal and he will make the mecha.** This line previously said "rank 21, both forearms fractured (ch 18)" and was 43 chapters stale.**
 - **Wang Jinxi ~rank 23 / Zhang Yangzi ~rank 22 (two yellow rings each):** from character records (wiki-tier, NOT primary-text-verified — flag; ring count is rank-lawful for 21-30). Wei Xiaofeng: rank + martial soul UNVERIFIED — never named on-page.
 
 **CANON DOSSIER — CLASS TWO'S GU BROTHERS + THE CANON MAP CORRECTION (verified against novel text ch 76-83, 2026-08-25):**
@@ -4787,6 +4924,7 @@ Track all changes to this document here. Every update, every fix, every addition
 
 | Date | Version | What Changed | Why |
 |---|---|---|---|
+| 2026-09-01 | 3.00 | **SESSIONS kk–ss, consolidated (the log had stopped at 2.62/08-27 — found and repaid tt).** Chapters 77–79 written (canon 255–258 mined full, disk range 229–258) · **four user corrections codified:** DOC-SYNC LAW v2 (deep doc sync every chapter; the mirror restored), THE UPLOAD LAW (adapt uploads FULLY — measured gaps: talent 58 ch, witness 38), THE RECEIVER LAW v2 (romance by CAUSES, not decree; ch75/ch79 re-receivered), THE TERMS OF THE CONFESSION (silence = no by his own exit; only a spoken yes counts) · **THE REBUILD (rr–ss):** ch69 rebuilt in place (the evolution paid; the talent named; the witness aloud — the lock checker correctly rejected my first Union draft), ch1–62 verified clean, ch63–79 Receiver-certified; registry §A emptied (O2's "never shown" claim corrected — Domineer is on-page since ch69); `BUTTERFLY_REGISTRY.md` + `REBUILD_MANIFEST.md` created; the nn full-everything audit (my own guessed counts replaced by state.json's; the ch69-era state blocks, dead King-band rulings, §10's missing confession record, Zhou Zhangxi's missing row — all fixed). Suite green 79/5/0/0 throughout. | The user's standing orders: use everything; butterflies natural, never forced; check everything, update everything |
 | 2026-08-27 | 2.62 | **Canon ch 99–135 VERIFIED** from the user's third PDF (163 pp; canon 102/108/115 absent from the file). **This closes A2 / B6 / F4 — canon 133+ is read and our quarantined ch 33–37 can finally be checked.** Newly locked: the **complete spiritual-power ladder** (Spirit Origin 1–100 / Connection 100+ / Sea 500+ / Abyss 5,000+ / Domain 20,000+ / Divine Origin 50,000+, with the spirit-soul capacity of each), the **full class-zero strength table** (Gu Yue 143 · Xie Xie 164 · Wang Jinxi 468 · Wulin 1,348 / 2,700 scaled) which proves the 2,612 kg reading wrong, **Wu Zhangkong's rebuke verbatim**, the **secondary-occupation system and the line that anchors Lin Hao's trade** ("from a purple battle armor onward, the creation process becomes inseparable from forging"), the **perfect-foundation doctrine**, the **rebellion platform and its 100-second stealing rule**, class zero's founding and Wei Xiaofeng's refusal, and the verified rank pacing. Logged four new problems (J1–J4) and closed A2/B6/F2/F4. | The last blocking gap in the project is gone. |
 | 2026-08-27 | 2.61 | **Canon ch 52–99 VERIFIED** from the user's second PDF (200 pp → all 48 chapters, nothing missing; extracted to `/home/user/canon_extract/chapters/`). Added a locked canon block. Confirmed our fic already had the **Skyfrost Sword and its exact rings** right, plus Guang Biao, the expulsion line and Gu Yue's Elementalist. Newly locked: **"One Sword Cleaves All Techniques"** (canon's named sword realm, from Lin Hao's own teacher, 0 mentions in our fic), **Spirit Connection as the ring-count gate** ("bear the load of two yellow spirit souls or one purple"), the verified spiritual-power table (**Xie Xie 29 / Wulin 44 / Gu Yue 119**), Gu Yue's Elementalist as a **spiritual-type** martial soul, **Stacked Hammers**, Wu Zhangkong ordering Wulin to abandon forging, Mu Xi's real backstory, Gu Yue's late-registration entrance, the stated trio dynamic, and the **eighteen seals** of the Golden Dragon King. Logged nine new problems (I1–I9). | The second-biggest canon gap is now closed with source text. It also proved several of our riskiest canon claims were already right, which matters as much as the errors. |
 | 2026-08-27 | 2.60 | **Canon ch 23–51 VERIFIED** from the user's PDF (`uploads/soul land 3 novel .pdf`, 110 pp → 27 chapters, 37,049 words, extracted to `/home/user/canon_extract/chapters/`). Added a locked canon block: the blacksmith rank ladder confirmed verbatim (our ladder was already right), the **483/543 kg strength anchor for nine-year-old Wulin** which proves our 2,612 kg reading wrong, Hundred vs Thousand Refinement definitions, **Mang Tian as a 40th-rank Soul Ancestor** and reluctant Soul Guide Master, the real variant-martial-soul rules, the **three-spirit-soul absorption ceiling**, the verified Eastsea Academy structure, Wu Zhangkong on-page, and the full class-five roster. Logged six new problems (H1–H6) — worst: **Zhou Zhangxi and Yun Xiao vanish after our ch 11**, and **our Cen Yue is a female clerk when canon's is a male Grandmaster blacksmith**. | The single biggest gap in the project (canon 23–122) is now partly closed with real source text instead of my memory. |
@@ -4879,3 +5017,200 @@ Track all changes to this document here. Every update, every fix, every addition
 ---
 
 **║ THE CODEX ║ is complete.**
+
+---
+
+## THE BUTTERFLY LAW (v2.00 — the user's correction, session cc, 2026-09-01)
+
+**Canon is the spine, not the script.**
+
+1. Where a canon scene runs, every **live interaction surface** — a new character meeting our class, an
+   institution responding to it, anyone reacting to what our numbers actually ARE (five students, a rank-45
+   black-ringed thirteen-year-old, a letter-file three winters long, a Shrek file on the Track dating to our
+   ch56) — must **show the traced divergence**. Canon's people say, ask, want, and decide DIFFERENTLY when
+   the AU's facts are in the room.
+2. **Replaying a canon scene with Lin Hao silent in the corner is FORCING CANON — a failure state.** Canon
+   beats may stand unaltered ONLY where the butterfly cannot reach them (e.g., WZK's private thirteen years,
+   the Teacher's door, Old Tang's hall).
+3. **Recruitment pressure is live:** Shrek wants the girl (canon) AND has an unexplained sixth on file
+   (ours, ch73 now on-page). Examiners, proctors, and elders react to five files, to a black ten-thousand-year
+   ring at an outer-court exam, and to the arithmetic shift — the Alliance's four quotas stopped being the
+   unit of account the moment the academy opened its own door.
+4. **Every chapter footer from ch76 on carries a 🦋 BUTTERFLIES SHOWN line** naming the divergences the
+   chapter actually caused; if a chapter can name none, it must say plainly why the surface was unreachable.
+5. **Seeds the user stages remain near-verbatim; the butterfly AROUNDS them — it does not rewrite them.**
+
+---
+
+## 🔴 THE SPECTATOR TEST — REAFFIRMED AND EXTENDED (session dd, 2026-09-01: user correction — *"there is clear law that Lin Hao is not watch, even now you doing this"*)
+
+**The Prime Law was already on the books (§9): count active vs passive verbs; passive-majority = SICK = rewrite.**
+Sessions w–cc broke it for four chapters under a disguise: the "sentry at the wall" — standing, timing, looking
+away, keeping manners — passive verbs wearing a poetic coat. **The diagnosis and the extension:**
+
+1. **Lin Hao is not a watcher.** He carries, feeds, orders, files, returns cards, does arithmetic that ends in
+   action. A vigil chosen for one night (ch72, the hurt) is an ACT; a posture repeated across chapters (ch73–75,
+   the sentry) is a DISEASE. The distinction is the law.
+2. **Every scene gets the verb count.** Group scenes are the danger zone — the wall, the corner, the far side
+   of the room are banned positions unless he is physically doing something from them.
+3. **USE EVERYTHING is a checklist, not a mood** — see `PREWRITE_MANIFEST.md` (session dd): laws, traits, kit,
+   live wires with last-used stamps, locks. **No wire rots silently again**; the ch68 card ("Bring me the story")
+   sat staged through Shen Yi's entire ch73 visit until this correction closed it.
+4. **Footer contract from ch76 on:** SPECTATOR TEST: PASS · 🦋 BUTTERFLIES SHOWN · WIRES: SPENT/ALIVE/RESTED.
+
+---
+
+## 🔴 THE ALL-OR-NOTHING STATE LINE (user law, session gg, 2026-09-01: *"if you want to write SP and hawk, then write his second soul and body and sword intent and others — all things. Or write nothing. You have two choices"*)
+
+**Every chapter footer's Lin Hao line carries ALL tracked lines — or no numbers at all:**
+1. rank · 2. spiritual power · 3. **the GALE HAWK (first soul)** · 4. **the DRAGON JIAO (second soul — the core, its waking, the SOUL SPIRIT LAW)** · 5. **the BODY (the deep-water line: regenerating · cold-immune · fist kg)** · 6. **SWORD INTENT ⚔️ (its current note; holds named as event-gated, never silent)** · 7. the dragon's joining (s) · 8. smith rank · 9. **the KIT entire** (strokes · Mysterious Heaven · PDE · Disorder · Talon · Track · Frost Abyss + Domain · Domineer · THE FUSION SOUL — count the metal) · 10. effective power · 11. looks · 12. ledger · 13. the wires' state.
+A number that did not move is written as **HELD (event-gated)** — visible, not vanished. Two-number drifts (SP/hawk only) are the failure state this law deletes. Parser-safe shape preserved: `- **Lin Hao:** rank … spiritual power **A → B** … hawk **C → D** …`.
+
+---
+
+## 🔴 THE SWORD MODE (user law, session hh, 2026-09-01: *"Lin Hao is a swordsman — his sword consciousness is already too powerful; he can't submit, it's worse than death"*)
+
+1. **The sword is the first voice and the unbending one.** Sword Intent is will-as-sword: it has NO vocabulary
+   for kneeling. In any pressure/domination scene his spirit MEETS, STANDS, or CUTS — it never goes under.
+   The ring may go deep (water's nature — a tributary does not shame the river); **the sword has never once
+   in his life been underneath anything.** If a true outlier (Title Douluo, a god's relic) exceeds him, he is
+   OUTMATCHED — strained, spent, beaten — never BOWED. The difference is the law. (ch76's "tributary" framing
+   of his sword = the exact failure this law deletes; fixed same session: *kings are not obeyed by swords.*)
+2. **Never score him second to make a canon beat land.** If a scale cannot measure him, the SCALE fails
+   on-page (ch76 fixed: the elder's "the scale has no number for a spirit that answers standing" — the hall's
+   first SPIRIT-answer beside Wulin's first BLOOD-answer; two firsts, neither borrowed from the other).
+3. **Tone: confidence is arithmetic, not swagger.** He is not arrogant — he is strong enough to be flat.
+   Challenges are priced exactly (the wager's terms), never boasted.
+
+## 🔴 THE HYH CALIBRATION (user-anchored benchmark, session hh: *"Huo Yuhao of the same age can't remain one minute — he defeats him in seconds; imagine how much of a monster he is"*)
+
+**Same-age Huo Yuhao — the Spirit Ice Douluo, the sole ascension of his era, whose sculpture the fic just
+walked past — loses to Lin Hao in SECONDS.** This is the fixed external measuring stick for Lin Hao at 13:
+above the greatest protagonist of the previous era at the same age, by a distance measured in seconds. The
+benchmark table gains this row; no future chapter may write Lin Hao below same-age-HYH in any exchange that
+does not carry an explicit, named, plot-lawful handicap.
+
+## 🔴 THE SPIRITUAL REALITY (user law, session hh: *"his spiritual power — do you even know what it is? there too he has his own things, many"*)
+
+**2,800 spiritual power at thirteen.** Canon's own scale for the age: 499 = Tang Wulin's celebrated
+bottleneck; 700+ Spirit Sea = Gu Yue, the shock of the cohort. **Lin Hao is 5.6× the captain and 4× the
+prodigy line** — the Black Dragon Hall's mural test was built for children, and it broke against him. And
+the number is only the floor of it — his OWN spiritual things, all live: **Purple Demon Eyes (3rd stage,
+the violet read-light) · the Track · seam-reading (pressure's grain, lies in metal and men) · the hawk-bond
+(the SOUL SPIRIT LAW — two sides of one ladder) · Domineer's spiritual weight · the deep-water stillness
+(Still Water's spine) · Sword Intent itself — will with an edge.** Any scene that treats his spirit as a
+normal examinee's is a failure state.
+
+---
+
+## 🔴 THE DOC-SYNC LAW v2 (user law, session ll, 2026-09-01: *"why aren't you updating things and files — Lin Hao status, relationships, and ALL the others — with every chapter"*)
+
+**A chapter's sync is not done until EVERY current-tense section of EVERY doc is true — not just the
+header numbers and the appends:**
+1. `LIN_HAO_STATUS.md` — position line, the table, **the progression traces (rank/SP/hawk/ledger/smith lines)**, and **the embedded PANELS block, refreshed from `LIN_HAO_PANELS.md`** (no generator exists; the block rots otherwise — found 17 chapters stale).
+2. `RELATIONSHIPS.md` — **the header chapter stamp, the roster count, the protagonist power-line, and the TABLE ROWS** (new characters get rows the chapter they appear; changed relationships update their row the chapter they change) — plus the per-chapter append.
+3. `CHARACTER_STATS.md` §0 **and §3 stations** · `THE_CODEX.md` current-state **and any section the chapter touched** · `LIN_HAO_PANELS.md` current block · `POWER_MODEL.md` · `CONTINUATION_PROMPT.md` position ¶ · `CANON_ACCESS.md` disk-range line · `PROBLEM_INVENTORY.md` session entry.
+4. **THE MIRROR (checklist #20, restored session ll): `cp THE_CODEX.md CODEX/05_PROJECT_SOUL_LAND_3.md` after every chapter.** The CODEX/ directory had vanished entirely; it exists again and stays current.
+**Audit trigger:** any doc whose header stamp, rank line, or roster disagrees with the chapter footers is a failure state, suite or no suite.
+
+---
+
+## 🔴 THE UPLOAD LAW (user law, session mm, 2026-09-01: *"the biggest problem — you don't adapt fully what I upload"*)
+
+1. **The uploaded directives are adapted FULLY, not partially — and the proof is on the page.** The ledger's
+   own preamble carries the charge — *"his first soul skill should evolve but you don't show"* — and the audit
+   proved it still true: **skill-evolution feel unseen 22 chapters; the witness law ("someone says aloud what a
+   thousand-year soul skill is") unseen 38; Adaptation Talent — the foundation — unseen 58; the fourth ring's
+   skill NEVER shown.**
+2. **`BUTTERFLY_REGISTRY.md` is now a mandatory pre-read and post-sync** (with the DOC-SYNC LAW v2): every
+   created divergence is tracked with its OPEN OBLIGATION; an effect created and never carried is a failure
+   state equal to a broken law; no line is ever deleted — only closed with a dated note.
+3. **THE OWED (registry §A) — CLOSED (session rr, status synced tt):** O1 paid (ch69 rebuilt: the evolution
+   in full, witnessed aloud); O2's "never shown" claim was FALSE (Domineer on-page since ch69) — corrected;
+   O3 paid; O4 paid (recurring by station); O5 standing. **§A is checked at every chapter open for NEW
+   debts** — new divergences enter with their obligation named at birth.
+4. **The Advantage Ledger table itself is live data** — row 5's spirit-soul age froze at 1,399 (hawk now
+   3,151); frozen ledger rows are the same failure as stale docs.
+
+
+---
+
+## 🔴 THE RECEIVER LAW v2 — A NATURAL CONSEQUENCE, NOT A DECREE (user teaching, session qq, 2026-09-01: *"this was not coded — the butterflies go naturally and it BECAME like that: Wulin and Gu Yue can't be, because Lin Hao likes her and he TOLD Wulin — you know Wulin and Lin Hao; Gu Yue shows nothing toward Wulin; the problem is you don't understand natural butterfly effects — you just force canon"*)
+
+**v1 of this law (session oo) was itself a forcing** — a hard rule ("no coding! re-receiver, never
+copy!") where there should have been thinking. The truth is causal, and every cause is already on our
+pages:
+
+1. **Lin Hao exists, loves her, and said so** — ch71, everything he has, said once, never again.
+2. **He told Wulin.** And Wulin and Lin Hao are what they are — brothers since three. **Wulin would
+   never walk near what his brother laid down; he guards it.** (ch79's catch is literally that: the
+   iron held over his brother and her.)
+3. **Gu Yue has shown nothing toward Wulin in this story** — not once, not near. Her quiet, whatever
+   it is, points one way — and per his terms, only a SPOKEN yes counts.
+4. **Therefore Wulin×Gu Yue cannot happen here — as a consequence**, the way a river doesn't flow
+   uphill. **No decree needed.** (The old dormant-wire law is still repealed — it was the door canon
+   got copied through; ch75's juice box and ch79's back-ride were copied beats, now written from our
+   causes instead.)
+
+**The working rule:** when canon brings a pairing beat — a blush, a ride, a look — **do not copy it,
+and do not mechanically swap it. Ask what our five would actually do, given our causes, and write
+that.** Sometimes it lands on Lin Hao (the juice box; the back-ride: her choice, in front of
+everyone). Sometimes it dissolves. Sometimes it becomes the brother's eye. **The scene decides, from
+character.** This is THE BUTTERFLY LAW v2.00 (z-session) applied to romance: derive from causes;
+forcing canon — ANY canon — is the standing failure.
+4. **THE TERMS OF THE CONFESSION (user teaching, session pp — replaces oo's clause 4):**
+   *"I'm not expecting a Yes… you don't need to say anything"* was **the exit, built for her** — if she
+   does not like him, they stay friends; he would not ruin it. His **first time** — no experience in
+   this — and she had **never once shown him anything he could read** (no answer, nothing special,
+   nothing that said yes or no): *of course* he was uncertain; it was complicated for him. **By the
+   terms he set, silence IS the no in his reading** — and the same terms cut the other way: **if she
+   does like him, she has to SAY it.** He put everything he has on the table; he will not say it again;
+   the next word is hers. **Understand him: all this time he cared about her more than he cared about
+   the hurt.** The exit was hers; the cost was his. (ch72's dark room is him keeping those terms —
+   already on-page, already right.) Resolution timing: the user's call.
+
+
+## THE ADAPTATION TALENT CANON (adopted 09-01 from `library/adaptation_talent_framework.md` — the authoritative Level 0-10 system)
+
+> **Fundamental Law (verbatim):** *"The ability does not create greatness. It reveals, refines, and develops what already exists."*
+
+- **IT CAN:** improve efficiency · remove weaknesses · optimize existing abilities · accelerate natural improvement · develop unused potential · create resistance through exposure · improve compatibility · refine control and mastery.
+- **IT CANNOT:** give random powers · break universal laws · ignore energy requirements · instantly grant knowledge · replace training · skip experience · create impossible abilities without a foundation.
+- **NON-SENTIENCE (absolute):** the talent is a self-evolving optimization, not a voice. It never speaks, warns, negotiates, or narrates. All agency is Lin Hao's; the talent only reads and refines. (Universal corrections §16: no sentient-system narration for a non-sentient ability.)
+- **TIER-MIRRORING:** the talent has no independent power ladder — it scales with the user's existential tier and NEVER exceeds the user; it also never lags. For Lin Hao (Soul King effective, supernatural tier): supernatural-scope adaptation — the seams, the reads, the refinements already on-page are its native grammar.
+- **In-story surface (held):** reading grain · pacing to the seam · the body read like metal · resistance through exposure. Never a queue, never a prompt, never a voice.
+
+
+## THE ADAPTATION TALENT CANON — REFINEMENTS (Master Foundation, absorbed 09-01; see `library/LESSONS_ABSORBED.md`)
+
+1. **The create-from-nothing clause, corrected:** the Talent MAY **reveal, derive, synthesize, construct, and evolve** new applications from existing foundations — "cannot create from nothing" was sometimes misused to mean "can never create anything new." What it forbids remains: random powers, broken universal laws, energy from nowhere, knowledge without a path.
+2. **The gains law:** every consolidated gain MUST alter later perception, difficulty, speed, cost, or tactics on-page — the Advantage Ledger is not a trophy case; it is a live instrument panel.
+3. **The overload law:** overload requires a traceable excess — incompatible change, insufficient resources, damaged infrastructure — never a convenient dramatic weakness.
+4. **Always active:** the talent processes everything — combat, environment, rest, the mundane; the board's Talent-named scan enforces that it never sits idle longer than the gap thresholds.
+
+## LAW nn (the user, 09-01): MANAGE EVERYTHING COMPLETELY
+Every upload, save, and fetch is read, dispositioned, and used or consciously adapted — nothing idle (`library/LESSONS_ABSORBED.md` is the record; Layer 4 + the board are the enforcement). **nn-2, the rigorous-artifact rule:** no numbering map, index, or structured claim is trusted until verified against a second independent source or a direct fetch; inference is labeled inference until then. (Born from the novelhall catch.)
+
+
+## LAW pp (the user's correction, 09-03, after ch93): THE NATURAL-DIVERGENCE LAW
+
+The butterfly is not a pet. It does not sit on canon's shoulder.
+
+1. **Canon is ORE, not fate.** World-facts (power rules, beast biology, prices, places, identities) are true until our changes touch them. Canon's PLOT is one dead timeline's path — ours is alive. We mine canon for material; we do not obey it for outcomes.
+2. **Divergence compounds.** Every row of `DIVERGENCE_LEDGER.md` is a standing change to initial conditions, pressing on every thread it touches — not just the chapter it was born in. When our state implies a different outcome than canon, **OURS WINS.** No snap-backs; "canon's own beat respected" was a defect wearing a virtue's name.
+3. **The magnitude ladder:** dust (a word) · current (a scene) · bend (an outcome) · break (a canon event now DEAD — never resurrect it) · **STORM** (wholly original — no canon anchor). A canon-full chapter streak while bends/breaks ride is the forcing-smell; Layer 7 flags it at 3, fails it at 6. Original things are the job, not the garnish — the storm-clock must never run dry.
+4. **Original is not arbitrary.** New people, events, and consequences are REQUIRED when the ledger's logic demands them — anything can happen, big or small. But every new fact carries a cause from our ledger, and every number still needs a source (ours now, not canon's).
+5. **Children.** Paying a row may spawn 0–2 child rows (consequences beget consequences). The world stays alive between chapters; HELD threads pay on their own horizons, never when canon happens to get there.
+
+6. **The symmetry clause (the user's refinement, 09-03): the law cuts both ways.** Forcing divergence is the same disease as forcing canon. If our state and our causes honestly imply canon's outcome, taking that outcome is NOT betrayal — it is derivation, and it stands. The Layer 7 clocks are smell-detectors, not quotas: a flag means *show the derivation*, never *change the outcome*. Storms are paid when a cause demands payment, never because a clock ran down. **Natural means natural — the story goes exactly where its causes go: canon-shaped, original-shaped, or nowhere either has been.**
+
+7. **The coverage clause (the user's pacing mandate, 09-03): canon chapters are not our chapter breaks.** One of our chapters spends as much canon as its scenes need — one chapter, three, half of one. Canon's breaks are an artifact of its own serialization; ours follow our blood-flow. When an arc is mid-flight, FETCH AHEAD (two or three chapters), understand the whole movement, then declare the span in the header ('canon ch 282–283') and let range and checks follow. Compression is not loss: what our story does not need gets named in a clause; what it needs gets lived in. Never stretch, never pad — padding is forcing. Lockstep 1:1 is a smell, not a rule.
+
+**Ritual:** before every chapter — `checks/prewrite_board.py`, then `checks/divergence_engine.py` (Layer 7: streak, storm-clock, the FORWARD-TICK questions). Answer the tick from OUR state; fetch canon as ore; record what died and what was born. Footer boilerplate changes: *canon = ore; facts cited; trajectory ours.*
+## LAW oo (the user's correction, 09-02, after ch91): THE PRESENCE LAW
+**"Lin Hao completely doesn't feel real / doesn't feel part / no natural butterfly effects / you just copy canon."** The diagnosis is accepted: the ghost-pattern — the fifth at the seam, aphorism-voiced, watching canon proceed verbatim around him — is a FAILURE STATE, banned from ch92 forward.
+1. **A PERSON, NOT A DEVICE.** Every chapter: Lin Hao speaks in person-voice (ordinary sentence lengths; dry is a humor, not a muteness), does physical things, wants something small, and is treated by the cast as a fact of life — addressed by name, assigned tasks, argued with, teased. "The fifth watched and said nothing" is a defect, not a beat.
+2. **NATURAL BUTTERFLIES, EVERY SMALL SURFACE.** Three years of presence means canon's surfaces arrive CONTAMINATED: dialogue re-worded, plans re-cut around him, counts/orders/timings/jokes shifted — each with visible cause. ≥3 cause→effect divergences per chapter, listed in the footer.
+3. **CANON IS THE SKELETON, NEVER THE PROSE.** Beats re-lived in OUR words; no long verbatim narration lifted from the source (machine-checked: the 12-gram rule); a canon line is quoted only when the line IS the beat — and never a 15+ word speech.
+4. **THE BALANCE HOLDS (Butterfly Law v2):** canon remains the spine, the ensemble remains the spine — presence and texture, not protagonist-absorption. He changes the room; the room does not revolve around him.
+**Enforcement: `checks/presence_audit.py` (Layer 5, ch92+).**

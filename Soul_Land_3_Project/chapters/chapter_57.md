@@ -293,7 +293,7 @@ Xie Xie had called her a two-faced little schemer, and Lin Hao had written that 
 
 That night, in the room that smelled of the sea, he took the book down and wrote the number first, because the number never asked anything of him.
 
-*Two hundred and forty-one.* It had been two hundred and eighty-two. Eight points, somewhere between eighty-one strikes and one daytime match he had watched from the stands. He could not say which had done it. The not-being-able-to-say had become a habit, and he had noticed that too.
+*Two hundred and forty-one.* It had been two hundred and thirty-three. Eight points, somewhere between eighty-one strikes and one daytime match he had watched from the stands. He could not say which had done it. The not-being-able-to-say had become a habit, and he had noticed that too.
 
 *One thousand three hundred and sixty-six.*
 
@@ -393,7 +393,7 @@ _Every number below traces to a canon line or is labelled AU._
 - **Tang Wulin:** rank **17** · one purple ring
 - **Xie Xie:** rank **23** · highest soul power in class zero except Lin Hao (canon c184, scoped by the BUTTERFLY LAW) · two rings
 - **Gu Yue:** rank **21** · **TWO rings** (canon c224) — **Soul Grandmaster** · spiritual power **153+** · spiritual power **153** at nine (canon c114)
-- **Xu Xiaoyan:** rank **18** · two yellow rings · spiritual power **61** (canon c183)+
+- **Xu Xiaoyan:** rank **18** · two yellow rings · spiritual power **61+** (canon c183)
 - **Zhang Yangzi:** rank **27** · spiritual power ~27 after Little Black · **still at Eastsea Academy**; out of class zero since ch43 · **NOT going to Shrek**
 - **Wang Jinxi:** **LEFT in ch43** (canon ch 153 "Leaving") · last known rank 25 · spiritual power 18 (canon c113) · transferred to another academy · **NOT going to Shrek**
 - **Wei Xiaofeng:** rank **26** · **left class zero first** (canon: *"Wei Xiaofeng was the first to leave"*) · still at Eastsea Academy · **NOT going to Shrek**

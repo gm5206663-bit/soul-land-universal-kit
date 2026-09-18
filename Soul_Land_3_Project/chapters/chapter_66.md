@@ -1,249 +1,263 @@
-# Chapter 66: The Working Students
+# Chapter 66: Hard to Ignore
 
-## Canon Reference: canon ch 288 ("The Status of a Working Student"), ch 289 ("Tang Wulin the Wicked"), with
-## ch 285–287, 290 carried forward.
-## Canon anchors held: **the working-student dormitory** — *"This is the dormitory for working students"* ·
-## the run-down building in a forest west of Spirit Ice Plaza, one room, no walls between boys and girls, two
-## bunk beds, dust, broken windows · **Xie Xie:** *"Quit complaining. If you have spare time, spend it
-## tidying up instead"* (Tang Wulin's line, canon) · *"How old do you think you are? You haven't even kissed
-## anyone yet"* (Xie Xie, canon) · **Gu Yue cleans Spirit Ice Plaza** with a water-and-wind whirlwind
-## (Elemental Control), sucking dust · **the black steamed buns** · **Xie Xie treats them to dinner.**
-## AU: **there are five working students, not four — and one of them is a fourth-rank Grandmaster who has
-## come to the one place on the continent where battle-armor masters are made.** The chapter is about arriving
-## at the bottom of the greatest academy in the world, and finding the forge.
-## Timeline: Age 10 — arrival at Shrek Academy
-## GROWTH: rank **39 → 40 (Soul Elder — THE GATE)** · spiritual power **310 → 317** · hawk **1,442 → 1,454** ·
-## three purple rings · 4th rank (Grandmaster) · **ledger 116 → 118** · Sword Intent.
+## Continuity note: this chapter executes a USER-DIRECTED SEED (2026-08-31):
+## *"Lin Hao sit with Wulin and said: 'Wulin I want to tell you something, I think… well I think I like
+## Gu Yue, it's become hard for me to ignore.'"* The seed is kept near-verbatim. The line-109 lock is
+## hereby AMENDED IN SCOPE by the user's authority: the thing may now be named TO WULIN; what stays
+## held is the rest — Gu Yue has not heard it, and line 109 stays unfinished.
 
----
-
-## Part 1: The Gate
-
-Shrek Academy was not a building. It was a city that had decided to be a school.
-
-Lin Hao had seen big things. He had seen the Spirit Pagoda's nine storeys, and the Skysea Alliance tournament hall, and the forge at Glorybound that his father had said was the biggest in the eastern coast. None of them had prepared him for the gate of Shrek Academy, which was not a gate so much as a statement, and which had a queue at it that had been a queue since before he was born.
-
-Wulin was quiet beside him. Wulin had been quiet since the train, because Wulin had wanted Shrek since he was six and had saved for it and bled for it, and now he was standing at the gate of it and could not say anything.
-
-"It's big," Xie Xie said, because Xie Xie said things.
-
-"It's big," Wulin agreed, and it was the first thing he had said in an hour.
-
-Shen Yi met them at the gate, because Shen Yi had come for the tournament and had stayed, and because she was the one who had assessed Lin Hao and said his body would change. She looked at the five of them, and her eyes stopped on Lin Hao for a beat longer than the others, and then she turned and walked, and they followed, because that was what you did behind Shen Yi.
-
-"Working students go in the west gate," she said. "Not this one. This one is for the inner court."
-
-"The west gate," Xie Xie said.
-
-"The west gate."
+## Canon Reference: interstitial — the walked skip (F6), weeks three–four. The confession is
+## user-directed (quoted above) and executes the amended line-109 lock. Canon anchors held: Gu Yue's
+## famous appetite (series-level canon trait, numberless — the bun is in-character, no held citation
+## needed for a trait) · canon's eventual Wulin×Gu Yue (series-level fact, DORMANT at age ten — named
+## here in the footer as the untouched wire our AU pressure runs along; nothing of it is spent on-page)
+## · the members' forge, Mang Tian's lane, the tin, the walks (fic continuity) · ch64's unspent-hour
+## lesson (the scale spoke when he stopped working) is flipped back by Wulin, who was there · the
+## PERSPECTIVE PANEL DOCTRINE (v3.20) served: a Wulin panel and a Gu Yue panel, causes in the footer.
+## Timeline: Age 10 — a Thursday evening at the members' forge, the dorm the same night, the platform
+## at dawn, and the book after. The walks have got colder.
+## GROWTH: rank **36 → 36 (Soul Elder)** · spiritual power **307 → 313** · hawk **1,424 → 1,430** · three
+## purple rings · 4th rank (Grandmaster) · **ledger 110 → 110 — held; the sentence is not an opponent** ·
+## Sword Intent.
 
 ---
 
-## Part 2: The Dormitory
+## Part 1: The Question That Came Sideways
 
-Shen Yi brought them to a building in a forest west of Spirit Ice Plaza.
+Gu Yue asked Wulin a question at lunch on Thursday, and Wulin, who did not know it was load-bearing, delivered it to the forge that evening with the rest of his freight.
 
-"This is the dormitory for working students," she told them. "Go find the room corresponding to the number on your key. Classes start for you tomorrow. In the meantime, you can complete the job you were just assigned. I'll be leaving now."
+"She asked how many Sundays you've stood."
 
-Shen Yi left while the five of them were in the middle of exchanging looks of dismay.
+The hammer did not stop, because ten years of Mang Tian do not come off a boy in an afternoon. But the count in Lin Hao's head, the silent one under the striking one, dropped a figure.
 
-The building was one floor. It was run-down. It sat in the middle of the forest, and it was clear it had been put there to hide it, because it was a slum next to a palace and Shrek had decided to put its working students where nobody would have to look at them. There were about twenty rooms. Some did not have windows. The wood around the broken ones had rotted.
+"What did you tell her?"
 
-They checked the numbers on their keys, and found they had been given a single room.
+"Two." Wulin turned a hinge bar with the tongs. "Then she said 'all right,' and she took my bun. She does that now. She took Xie Xie's on Tuesday and Xie Xie still hasn't said anything about it, which I find frightening in a way I have decided not to examine."
 
-It had no walls between the boys and the girls. It was about thirty square meters. There were two metal-frame bunk beds. Other than that it was bare. Dust covered the floor. Two windows were broken. A single string dangled from a bulb in the ceiling, and whether the bulb worked was a coin toss.
+"Mm."
 
-"This is too cruel," Xie Xie said. "Are we sure we're in Shrek Academy and not a slum?"
+"She didn't ask anything else. She ate the bun and did the reading for theory and went out early." He set the bar back in the fire. "I thought you'd want it for the book. Somebody counting your Sundays."
 
-"Quit complaining," Wulin said. "If you have spare time, spend it tidying up instead."
+"Whose book," Lin Hao said, mostly to the anvil.
 
-"How are all of us supposed to live in one room," Xu Xiaoyan said. "Men and women shouldn't be in the same room."
+"Yours. You count everything. I just work here."
 
-"How old do you think you are?" Xie Xie said. "You haven't even kissed anyone yet."
+They finished the run in the oldest rhythm either of them knew. But something had come into the room with the freight and stayed, and Lin Hao knew its name, and had known its name for longer than he was going to admit in company, and it sat on the end of the bench all evening like a fourth piece of stock, unsaleable, unreturnable, his.
 
-Lin Hao had not said anything, because he had been looking at the two bunk beds, and doing the arithmetic, because that was what he did.
+Nine months of walks. A staircase crossed at six in the morning, one width apart, unspent. *She asked how many Sundays.* Not whether he was well. Not what he carried. How many. The one question that could not be asked of him without proving she had been counting.
 
-"Two bunk beds," he said. "Four beds. There are five of us."
+He banked the forge badly, which had not happened in four years, and Wulin watched him do it and said nothing, which is what Wulin does with other people's loads, and Lin Hao stood in the cooling dark of the shop and understood that the sentence he had been carrying with its coat on had acquired a weight, and that weight was going to keep arriving, on freight, at intervals, until he put it down somewhere.
 
-The five of them looked at the two bunk beds.
-
-"I'll take the floor," Lin Hao said.
-
-"You can't take the floor," Wulin said.
-
-"I've slept on a forge floor," Lin Hao said. "It's warmer than this. And there are five of us and four beds, and somebody has to take the floor, and it's not going to be Xu Xiaoyan, and it's not going to be Gu Yue."
-
-Gu Yue looked at him. She did not say anything. She had a way of not saying anything that was not empty.
-
-"I'll take the floor," Lin Hao said again. "Somebody has to."
+There was one person in the world it could be put down in front of, and he was sweeping the floor six feet away.
 
 ---
 
-## Part 3: The First Job
+## Part 2: What Lin Hao Said
 
-The job was Spirit Ice Plaza.
+"Wulin. I want to tell you something."
 
-It was not dirty. It was dusty — covered in dust, not trash, and the plaza was enormous, and five working students had been assigned to clean it, and Shen Yi had left, and the plaza had not gotten any smaller.
+Wulin stopped sweeping. He did not say "all right," and he did not lean on the broom, and he did not do any of the things a person does while waiting for a thing to arrive. He stood there the way the forge stood there: banked, hot somewhere in the middle, ready.
 
-"We can't clean this," Xu Xiaoyan said. "Not in a day. Not in a week."
+Lin Hao's sentences had never once jammed. At six he explained grain to a grown man. At eight he had talked a room of smiths into an ordering. At ten he had said a word onto a form and it had become a System. The machinery had never once, in his whole life, failed to deliver a sentence to its end.
 
-Gu Yue had not said anything. She had walked to the middle of the plaza, and she had stood there, and then she had raised her hand.
+"I think…" he said. "Well. I think I like Gu Yue. It's become hard for me to ignore."
 
-The whirlwind started small. It grew until it was five meters high. And then Gu Yue said, "Go," gently, and the whirlpool landed on the plaza, and the dust gathered together, whirling around the hurricane in a frenzy, sucked inside, and the floor came out as clean as if it had been scrubbed.
+The machinery had never once delivered one in that order either. *Well.* He heard himself say it and stood by it, because it was true, and true things came out in whatever shape they came out in, and this one came out crooked, with its sleeves wrong.
 
-Lin Hao watched.
+Wulin set the broom against the wall. Then he said the thing he had apparently been carrying in reserve, ready-made, for some time.
 
-He had watched Gu Yue do a lot of things. He had watched her fold fire and earth into five seconds. He had watched her cross eleven meters without traveling. He had watched her teach him that the wind was in the lightning's way. He had never watched her do this — water and wind into a whirlpool that cleaned a plaza — and he understood, watching it, that he was watching the most skilled master of elements he would ever see, and that she was six elements and a variant, and that nobody in the history of the world had wielded that many.
+"I know."
 
-She cleaned a third of the plaza. Then she recalled the whirlpool, drained it into a sewer, and sat down cross-legged to meditate, because she was not superhuman, and the plaza was enormous, and six elements still ran on soul power.
+"You know."
 
-"I'd be embarrassed to let Gu Yue do it all," Xie Xie said.
+"You've never beaten her," Wulin said, "and you keep a book of everyone you've beaten. She's not in the book. There's no page for her. You walk her home on days when nothing has happened, which is most days, and you do it in the direction the wind comes from so she gets the sheltered side, and you think nobody clocks the wind. And when she talks you go quiet in a way you don't go for machines." He paused, honestly auditing it. "And you really like machines. So."
 
-"Then you can treat us to dinner," Wulin said.
+The lamp did its small work in the middle of the table. Somewhere under the floor the banked forge ticked, cooling, the way metal does when it is done deciding things.
 
-"Sure," Xie Xie said, "as long as you're not coming. Those two can't eat much, but if we add you I'd be concerned the restaurant has enough stock. Your stomach is an endless hole."
+"Does she know?"
 
-Lin Hao had not been listening. He had been looking past the plaza, at a building he had not noticed before, because it had not had a fire in it when he first looked, and now it did.
+"She reads everything," Wulin said. "If she doesn't know, it's because she's decided not to. Those are the two options and they might be the same option."
 
----
+"Are you going to tell her?"
 
-## Part 4: The Forge
+"No," Lin Hao said. Then, because the crooked order of the evening was apparently the house style now: "Not yet."
 
-The forge was behind Spirit Ice Plaza.
+"When?"
 
-Lin Hao had not noticed it when they arrived, because it had been cold and unlit, and a cold forge is just a building. But somebody had lit it while Gu Yue cleaned the plaza, and now there was a fire in it, and where there was a fire there was a forge, and where there was a forge there was metal, and Lin Hao had walked toward it before he had decided to.
+"When it's one clean sentence."
 
-The forge was not like Glorybound. It was bigger, and the metal in it was not the metal Lin Hao knew — it was spirit-refined, and there were racks of it, and there were things in it Lin Hao could not name, and there was a man at the anvil who was not making a horseshoe.
+"You say clean sentences all day."
 
-The man was making a plate. It was not a plate like a plate. It was a piece of a thing, and the thing it was a piece of was on a stand behind him, and it was white, and it had silver thread through it, and it had the shape of a person.
+"Not about her."
 
-Lin Hao had seen a battle armor once, from far away, in a yard, when Wu Zhangkong had said two words and become a knight of ice. He had not seen one close. He had not seen one being made.
+Wulin took that in with his whole body, the way he took everything in, through the shoulders. Then he did the thing only Wulin could have done, which was reach sideways into their shared nine years and come back with the exact tool, not knowing it was a tool, because to him it was just a Thursday.
 
-"That's spirit-refined," the man at the anvil said, without looking up, because he had heard Lin Hao come in and had the ears of a man who works at a forge. "Two-word. You can't make that. You're a kid."
+"You told me about the scale," he said. "The note came when you stopped working."
 
-"I'm a fourth-rank Grandmaster," Lin Hao said.
+"That was metal."
 
-The man looked up.
+"You were holding it."
 
-"At ten," Lin Hao said.
+"Wulin—"
 
-The man looked at him for a long time. Then he looked back at the plate, and he hit it, and he did not say anything else, and Lin Hao understood that he had been dismissed, and that he had also been seen, and that those were not the same thing.
+"I'm not good at this part," Wulin said, to the floor, which was where the real ones went. "So I'll do it the carrying way. You don't have to say it to her soon. You don't have to say it any way at all for a while. Just don't do the thing you do, where a thing that can't be measured yet gets measured anyway so it can be filed." He looked up. "Carry it. I carry things all the time. It doesn't feel like anything while it's happening. And then one day you look around and somebody's been carried the whole way. That's the whole trick. There isn't a hammer involved."
 
-He stood in the forge for a while, and watched the man make a piece of a battle armor, and understood that this was the place — that Shrek was the one place on the continent where battle-armor masters were made, and that the forge was where they were made, and that he had come to the bottom of the greatest academy in the world and the first thing he had found was the forge.
+Lin Hao sat with that. The word *well* was still lying somewhere in the middle of the room where it had fallen, and he decided, in the end, to leave it there, because it had come out true.
 
----
+"Say something," Wulin said, "so I know how bad that was."
 
-## Part 5: The Gate
+"It was terrible."
 
-He hit rank forty that night.
+"I know. I heard it happen." Wulin took up the broom again. "Do the Fridays with me this week. You'll feel normal by Monday."
 
-He had been at thirty-nine for a week, and he had been at the gate, and he had not known that the gate was a thing you could stand at, and then he was cleaning a plaza with a whirlwind and watching a man make a battle armor, and somewhere between the plaza and the forge the rank had moved, because the gate was not a wall and it had never been a wall, and he had been standing at it without knowing.
-
-Forty. Three purple rings. The ceiling.
-
-He sat on the floor of the dormitory — because there were five of them and four beds and he had taken the floor — and he felt the gate, and he understood that the fourth ring was the next thing, and that the fourth ring needed a second spirit soul, and that a second spirit soul was a thing you did not find at a forge, and that he was at the gate and the gate was the last rank before the thing he did not have yet.
-
-The hawk turned over in him. It did not pull. It had not pulled in a while.
+They put the tools away in the order Mang Tian had beaten into them at six, which was its own kind of sentence, and that one was finished, and they went out into the salt air, and the wind came off the sea in the usual direction, and Lin Hao walked on the wrong side of it the whole way home, for the practice.
 
 ---
 
-## Part 6: What Lin Hao Wrote
+## Part 3: What Wulin Did With It
 
-He wrote it that night, on the floor of the working-student dormitory, because there were five of them and four beds and the floor was his.
+Wulin kept the secret perfectly and terribly.
 
-*Three hundred and seventeen. One thousand four hundred and fifty-four. Forty.*
+Perfectly: he told nobody, and nothing in what he said at supper could have been read by anybody for anything.
 
-*We're at Shrek. We're working students. The dormitory is a slum and there are five of us and four beds and I took the floor. Xie Xie said it's too cruel. Wulin said quit complaining. Gu Yue cleaned a third of a plaza with a whirlwind and then had to sit down, because six elements still run on soul power.*
+Terribly: he volunteered for the drying-up. He did the drying-up at the dormitory the way he did everything, thoroughly and at a jog, and Xu Xiaoyan watched him do the inside of a bowl twice and said, "You're doing the drying-up."
 
-*I found the forge. It's behind the plaza. There's a man making a battle armor — a two-word one, spirit-refined — and he told me I can't make that, I'm a kid, and I told him I'm a fourth-rank Grandmaster at ten, and he looked at me and went back to work. I have come to the one place on the continent where battle-armor masters are made, and the first thing I found was the forge.*
+"I'm doing the drying-up."
 
-*I hit forty. The gate. The fourth ring is next, and the fourth ring needs a second spirit soul, and a second spirit soul is a thing you don't find at a forge.*
+"Nobody does the drying-up."
 
-He set the pen down, because there was one more thing.
+"It's my turn."
 
-*Gu Yue cleaned a plaza today and then sat down, because she is not superhuman. Xie Xie said he'd treat us to dinner. Wulin was quiet at the gate, because he wanted Shrek since he was six and now he's here and he can't say anything. We're at the bottom of the greatest academy in the world, and the bottom is a slum dormitory and a plaza full of dust, and I have been at a lot of bottoms this month, and I understand now that the bottom is not a place, it's a thing you stand at until you understand it, and I am standing at one, and I am not going to skip it.*
+"It has never once been anybody's turn." Xu Xiaoyan looked at him a long moment, the way she looked at posting boards, and then, because some things are not hers yet, she let it go — but she wrote it down somewhere behind her eyes, in the ledger she was starting to keep, the one with the match times in it.
 
-He closed the book.
+Gu Yue was at the common-room table with the theory reading and the last bun, which was Xie Xie's, which Xie Xie had surrendered without a word and without eye contact, in the manner of a man paying a tax he had come to regard as weather.
 
-The lock at his temple lay gold across his cheekbone, and the marks on his forearms were raised, and the hawk turned over in him — *one thousand four hundred and fifty-four* — and did not pull toward anything, and Lin Hao lay on the floor of a slum dormitory at the bottom of the greatest academy in the world, and he was at the gate, and the gate was the last rank before the thing he did not have yet.
+"You're smiling," Gu Yue said.
+
+"I'm not."
+
+"You are. It's the forge one." She turned a page. "Is he all right?"
+
+Wulin considered the shape of that for one full second — *she asks me the way I asked him, sideways, in freight* — and understood at the same moment that understanding it was not his to spend.
+
+"He's working on something," Wulin said.
+
+"He's always working on something."
+
+"This one's going well."
+
+Gu Yue looked at the page for a while without any of it going in, and then went back to the beginning of it and read it again properly, and ate the bun to the end, and none of it showed, which was the entire design of her, and later, when the dormitory was dark, she lay awake for exactly one minute longer than usual, which even the ceiling did not know about, and slept.
+
+---
+
+## Part 4: What Gu Yue Did Between the Third and the Fourth
+
+At five-forty the platform was grey with no sun on it yet, and the clock was the only one watching, and that was how she had booked it, and that was what it was for.
+
+First element. Second. Third, exact, and less small than last month.
+
+Between the third and the fourth there was a gap. There had always been a gap; everyone has one, a place in the sequence where the intention has to be re-loaded. Hers was the length of a hall staircase, and it had been getting longer for about nine months, and she had noticed it getting longer, because she noticed everything, and she had tried, for a while, to make it shorter, the way you try to make a sentence shorter, by cutting, and cutting had not worked, because the gap was not too long. It was simply no longer empty.
+
+She did not name what was in it. Naming was a spend, and she had never once spent early. She had a whole alphabet of things she did not say yet — had had it since the yard, since the fence, since the day the smallest boy in the intake looked at a class of martial souls and said the plain thing nobody else would say — and the alphabet was not a burden. It was a purse. You did not open a purse in the street.
+
+The fourth element went off, exact.
+
+The attendant, stamping her out at six, said the slot was open all winter if she wanted it, dawn didn't fill till spring. "Same slot," Gu Yue said, and paid in exact change, and went out into the actual daylight, which was not her concern, and down the steps whose width she had once shared at one remove with a boy going up, and she thought about none of it all the way to school, in the way of a person thinking about nothing on purpose, expertly, at scale.
+
+---
+
+## Part 5: What Lin Hao Wrote
+
+He wrote the numbers first. That was the law of the book and the law of him, and nothing about Thursday had repealed it.
+
+*Three hundred and thirteen.*
+
+*One thousand four hundred and thirty.*
+
+Then he sat with the page open at the blank after line one hundred and ten, and did not write the thing, and examined, as a smith examines a seam, why he was not writing it.
+
+It was not fear. He had a diagnosis for fear and this did not match the symptoms. It was this: the sentence had two ends. One end was the fact of it, and that end he had put down at last, in the worst possible order, in a forge, to the right person, with the word *well* lying on the floor. The other end had a recipient, and until it could be carried to that recipient whole — one clean sentence, no arithmetic riding on it, nothing in the other hand — the book had no business holding a half. A half in the book would calcify. It would become the record. He had watched the ledger do it to a hundred and ten lines: what is written becomes what was.
+
+*Line one hundred and nine stays unfinished,* he wrote, which was not a new line but a ruling on an old one, and therefore allowed. *Not because it is unsayable. Because the second half is a delivery, and deliveries have an address, and the address is not this book.*
+
+He looked at that for a while. It was the cleanest sentence he had managed in two days and it had taken a forge, a broom, and the word *well* to get it.
+
+Wulin was right about the carrying. Wulin was right about the scale. Both of those things were the same thing, and the thing was the whole year of him in one trade lesson: some pieces only speak in the warm hour, and you cannot buy the warm hour with aim, and he had a week of aim's receipts in the book to prove it.
+
+He turned the page. Line one hundred and nine sat on the far side of the turn, unfinished, with its coat on.
+
+One of its buttons, now, was undone.
+
+He closed the book and put out the lamp, and slept without doing anything to the sentence at all, which was, it turned out, a full night's work.
 
 ---
 
 ## End of Chapter 66
 
 ### Chapter Summary:
-**Arrival at Shrek Academy.** The five arrive at the greatest academy in the world and are sent to the
-**west gate** — the working students. *"This is the dormitory for working students"* (canon ch 288): a
-run-down one-floor building in a forest, one room, no walls, two bunk beds, dust, broken windows. **There
-are five of them and four beds, and Lin Hao takes the floor.** Gu Yue cleans a third of Spirit Ice Plaza
-with a water-and-wind whirlwind (canon ch 289), then has to sit down, because six elements still run on soul
-power. **And Lin Hao finds the forge** — behind the plaza, a man making a two-word spirit-refined battle
-armor. *"You can't make that. You're a kid." / "I'm a fourth-rank Grandmaster. At ten."* He has come to the
-one place on the continent where battle-armor masters are made, and the first thing he found was the forge.
-**He hits rank 40 — the gate.** The fourth ring is next, and it needs a second spirit soul.
+**The user's seed, executed near-verbatim.** It arrives by freight: Gu Yue asks Wulin at lunch *"how many Sundays you've stood"* — takes his bun, says *"all right,"* and goes — and Wulin delivers the question to the forge not knowing it is load-bearing. *"Whose book?" / "Yours. You count everything. I just work here."* Lin Hao banks the forge badly for the first time in four years, and understands the sentence with its coat on is going to keep arriving on freight until he puts it down. **Part 2 — the saying:** *"Wulin. I want to tell you something… I think… well, I think I like Gu Yue. It's become hard for me to ignore."* — the first sentence of his life to come out crooked, *with the word 'well' lying on the floor.* Wulin: **"I know."** — *"You've never beaten her and you keep a book of everyone you've beaten. She's not in the book. There's no page for her… you think nobody clocks the wind."* On whether she knows: *"She reads everything. If she doesn't know, it's because she's decided not to. Those are the two options and they might be the same option."* Not yet — *"when it's one clean sentence."* / *"You say clean sentences all day."* / *"Not about her."* And then Wulin reaches into their nine years and comes back with the exact tool: **"You told me about the scale. The note came when you stopped working."** — and the carrying way: *"Just don't do the thing you do, where a thing that can't be measured yet gets measured anyway so it can be filed… I carry things all the time. It doesn't feel like anything while it's happening. And then one day you look around and somebody's been carried the whole way. That's the whole trick. There isn't a hammer involved."* **Part 3 — Wulin keeps it perfectly and terribly:** he volunteers for the drying-up (Xu Xiaoyan: *"It has never once been anybody's turn"* — filed in her own new ledger); Gu Yue, over the last bun (Xie Xie's, surrendered like a tax he regards as weather): *"You're smiling… it's the forge one. Is he all right?"* / *"He's working on something."* / *"This one's going well."* — and one minute longer awake than usual, *which even the ceiling did not know about.* **Part 4 — Gu Yue's panel, the shape without the name:** between the third element and the fourth there is a gap the length of a hall staircase, nine months getting longer, *"no longer empty."* *"Naming was a spend, and she had never once spent early… the alphabet was not a burden. It was a purse. You do not open a purse in the street."* **Part 5 — the ruling:** line 109 stays unfinished *as a delivery with an address, and the address is not this book* — *"what is written becomes what was."* The coat stays on. **One of its buttons, now, was undone.**
 
-### Canon Anchors (all verified):
-- **The working-student dormitory** — *"This is the dormitory for working students"* — canon ch 288.
-- **"Quit complaining. If you have spare time, spend it tidying up instead"** (Tang Wulin) — canon ch 288.
-- **"How old do you think you are? You haven't even kissed anyone yet"** (Xie Xie) — canon ch 288.
-- **Gu Yue cleans Spirit Ice Plaza** with a water-and-wind whirlwind (Elemental Control) — canon ch 289.
-- **The black steamed buns / Xie Xie treats them to dinner** — canon ch 289.
+### Canon Anchors (all verified / honestly labelled):
+- **Gu Yue's appetite** — a series-level canon trait of Gu Yue (famously food-motivated throughout SL3); the bun-taking is the trait at ten, numberless, no held citation required for a qualitative trait. Labelled honestly: trait-consistent, not number-backed.
+- **Canon's eventual Wulin×Gu Yue** — series-level fact, **dormant at age ten and SPENT NOWHERE on this page.** It is named here in the footer only, as the wire our AU pressure runs along: in canon the boy he just confessed to is the other end of that future. Wulin's "I know" carries none of it; the fic records the wire and leaves it live for the walked years. This is the largest untouched butterfly in the project.
+- **The members' forge, Mang Tian's lane, the walks, the tin, Fridays** — fic continuity (ch63–65). **Ch64's unspent-hour lesson** — flipped back by the boy who was there.
+- **The PERSPECTIVE PANEL DOCTRINE (v3.20)** — served twice: a Wulin panel (Part 3) and a Gu Yue panel (Part 4), each with its cause in the ledger below.
+- Interstitial (F6 walked); no canon chapter maps to this week; nothing is cited above as canon beyond the two labelled traits and held fic continuity.
 
-### AU / Butterfly:
-- 🔴 **FIVE WORKING STUDENTS, NOT FOUR.** Canon has four (Wulin, Xie Xie, Gu Yue, Xu Xiaoyan). Lin Hao is
-  the fifth, and there are four beds, and **he takes the floor.**
-- 🔴 **THE FORGE — THE K4 THREAD ARRIVES AT ITS DESTINATION.** Shrek is the one place on the continent
-  where battle-armor masters are made. Lin Hao finds the forge on his first day, and a man making a
-  two-word spirit-refined battle armor tells him *"You can't make that. You're a kid."* He has come to the
-  bottom of the greatest academy in the world and the first thing he found was the forge.
-- 🔴 **THE GATE — RANK 40.** He hits the ceiling. The fourth ring is next, and it needs a second spirit
-  soul — *"a thing you don't find at a forge."* Sets up the fourth-ring arc.
-- **GU YUE** cleans a third of a plaza and has to sit down — six elements still run on soul power.
+### AU / Butterfly (cause → effect):
+- **CAUSE: nine months of walks + the staircase passed unspent (ch63–65).** → Gu Yue counts his Sundays and asks sideways, through Wulin → the question arrives at the forge as freight → the sentence is put down. Effect has cause; cause was on-page first.
+- **CAUSE: ch64's warm hour ("the note came when you stopped working").** → Wulin returns the lesson verbatim at the exact moment it is needed — the project's own physics, restated as advice by the person who witnessed it.
+- **CAUSE: the user's directive (2026-08-31).** → The line-109 lock is amended in scope, by the project's only higher authority than the locks: the thing is said TO WULIN. Still held: Gu Yue has not heard it; the book holds a ruling, not a line; the coat stays on.
+- **NEW DIVERGENCE RECORDED (the purse):** Gu Yue's unnamed alphabet — canon's Gu Yue does not carry this particular purse for this particular boy. This is our AU's central divergence going forward, now with a shape: *she has not spent early either.*
+- Xu Xiaoyan's ledger ("the one with the match times in it") — a seed, not a spend; her ch64 ask produced a bookkeeper.
 
 ### NOT triggered (all remaining locks held):
-second seal break · Hawk-Soul Union · Wu Zhangkong's origin named (Shrek) · who Long Bing is · Na'er found ·
-Gu Yue's true nature (Silver Dragon King) · battle armor worn · the fusion door opened · the card's contents
-revealed · who forged the blade · what answered the hawk · who Mu Chen's first was · who has been giving him
-things · **the fourth-ring arc (the second spirit soul — he is AT the gate, rank 40, but does not have the
-soul yet)** · the romance named
+second seal break · Hawk-Soul Union · Wu Zhangkong's origin named · who Long Bing is · Na'er found · Gu Yue's
+true nature (**her panel shows a gap and a purse, never a reason**) · battle armor worn · the fusion door
+opened · the card's contents revealed · who forged the blade · what answered · what the ape was · who Mu
+Chen's first was · who has been giving him things · the fourth ring (K2 — locked, waiting; rank 36 of a 40
+ceiling) · **the fifth-rank examination NOT taken — the gate holds** · **line 109 stays unfinished — AMENDED
+(ch66, user directive): said in halves to Wulin only; the second half is a delivery with an address, and the
+address is not the book; GU YUE HAS NOT HEARD IT** · **nobody has said it to her — and she, on her own page,
+has decided not to know**
 
 ### Character Progression:
-- **Lin Hao:** rank **39 → 40 (Soul Elder — THE GATE)** · spiritual power **310 → 317** · **hawk 1,442 →
-  1,454** · three purple rings · 4th rank (Grandmaster) · **ledger 116 → 118** · Sword Intent · **at the
-  gate, the fourth ring needs a second spirit soul**
-- **Wulin:** quiet at the gate · wanted Shrek since six
-- **Xie Xie:** *"It's too cruel"* · treats them to dinner
-- **Gu Yue:** cleans a third of a plaza · six elements still run on soul power
-- **The forge man:** making a two-word battle armor · *"You can't make that. You're a kid."*
+- **Lin Hao:** rank **36 → 36 (Soul Elder)** · spiritual power **307 → 313** · **hawk 1,424 → 1,430** · three purple rings · 4th rank (Grandmaster) · **ledger 110 → 110 — held; the sentence is not an opponent** · Sword Intent · **the thing said: to Wulin, in halves, crooked, true** · walks the windward side home for the practice
+- **Tang Wulin:** rank **18** · was told · *"I know"* — and had known · gives the carrying lesson because it is the only one he owns · keeps the secret perfectly (tells nobody) and terribly (does the drying-up)
+- **Gu Yue:** rank **21**, two rings · asked one sideways question and ate the bun · the gap between her third and fourth is no longer empty, and is not named · awake one minute longer than usual
+- **Xu Xiaoyan:** rank **19** · detects the drying-up anomaly and files it — her ledger begins
+- **Xie Xie:** rank **23** · pays the bun-tax without eye contact, in the manner of a man regarding weather (off-page this chapter, present at supper)
+- **Wu Zhangkong:** not on the page — the gentleness this week is the boys' own
+- **Mu Chen:** not on the page; the Sunday gate unchanged
 
 ### Character States:
-- **Lin Hao:** **rank 40 (Soul Elder — THE GATE)** · spiritual power **317** · **hawk 1,454 — eight years to
-  the fourth ring** · **three purple rings** · fist 2,612 kg (floor) · **🔨 4th rank (Grandmaster), the
-  Halo** · Sword Intent · **Ghost Shadow Perplexing Track** · **at Shrek, working student, found the forge**
-- **Wulin:** quiet at the gate · wanted Shrek since six
-  nobody knows
-- **Ranks at chapter end:** Lin Hao **40 (Soul Elder — THE GATE)** · spiritual power **317** · **🌪 hawk
-  1,454** · **ledger 118** · **💜 three purple rings** · **⚡ fist 2,612 kg (floor)** · 🔨 **4th rank
+- **Lin Hao:** **rank 36 (Soul Elder)** · spiritual power **313** · **hawk 1,430** · **three purple rings** ·
+  fist 2,612 kg (floor) · **🔨 4th rank (Grandmaster), the Halo** · Sword Intent · **Ghost Shadow Perplexing
+  Track** · ledger 110; line 109 unfinished by choice — now a ruling with an address · line 111 unwritten
+- **Wu Zhangkong:** **SKY ICE — two-word battle armor master** · off-page this chapter
+- **Ranks at chapter end:** Lin Hao **36 (Soul Elder)** · spiritual power **313** · **🌪 hawk 1,430** ·
+  **ledger 110 (held)** · **💜 three purple rings** · **⚡ fist 2,612 kg (floor)** · 🔨 **4th rank
   (Grandmaster)** · ⚔️ Sword Intent · **Ghost Shadow Perplexing Track** — **NOT triggered:** second seal,
-  Union, Wu Zhangkong's origin, Long Bing, Na'er, Gu Yue's nature, battle armor worn, fusion door, the
-  card's contents, who forged the blade, what answered, the ape, Mu Chen's first, who has been giving him
-  things, **the fourth-ring arc (at the gate, needs the second spirit soul)**, the romance named
-- **Canon coverage:** canon ch 288 + ch 289 adapted · **ch 290 onward not yet used**
+  Union, Wu Zhangkong's origin, Long Bing, Na'er, Gu Yue's nature, **battle armor worn**, fusion door, the
+  card's contents, who forged the blade, what answered, what the ape was, who Mu Chen's first was, who has
+  been giving him things, **the fourth ring — ceiling 40, he is 36, the arc is locked**, **the examination
+  not taken — the gate holds**, **the thing unsaid to her — the second half undelivered**
+- **Canon coverage:** interstitial (F6 walked); user-directed seed executed; two labelled series-level canon
+  traits (her appetite, the dormant ship) and nothing else claimed from canon this chapter
 
 ### Ensemble — canon-verified state
 
 _Single source of truth: `CHARACTER_STATS.md` §1 (canon citations) and §3 (schedule)._
 _Every number below traces to a canon line or is labelled AU._
 
-- **Tang Wulin:** rank **18** · **at Shrek, working student** (canon c288) · one purple ring
-- **Xie Xie:** rank **23** · **at Shrek, working student** (canon c288) · two rings
-- **Gu Yue:** rank **21** · **TWO rings** (canon c224) — **Soul Grandmaster** · **at Shrek, working student** (canon c288) · spiritual power **153** at nine (canon c114)
-- **Xu Xiaoyan:** rank **19** · two yellow rings · spiritual power **61** (canon c183) · **at Shrek, working student** (canon c288)
+- **Tang Wulin:** rank **18** · **going to Shrek** (canon c288) · one purple ring
+- **Xie Xie:** rank **23** · **going to Shrek** (canon c288) · two rings
+- **Gu Yue:** rank **21** · **TWO rings** (canon c224) — **Soul Grandmaster** · **going to Shrek** (canon c288) · spiritual power **153** at nine (canon c114)
+- **Xu Xiaoyan:** rank **19** · two yellow rings · spiritual power **61** (canon c183) · **going to Shrek** (canon c288)
 - **Zhang Yangzi:** rank **27** · spiritual power ~27 after Little Black · **still at Eastsea Academy**; out of class zero since ch43 · **NOT going to Shrek**
 - **Wang Jinxi:** **LEFT in ch43** (canon ch 153 "Leaving") · last known rank 25 · spiritual power 18 (canon c113) · transferred to another academy · **NOT going to Shrek**
 - **Wei Xiaofeng:** rank **26** · **left class zero first** (canon: *"Wei Xiaofeng was the first to leave"*) · still at Eastsea Academy · **NOT going to Shrek**
 
 Canon position anchors for this point in the story: everyone in class zero is **10 years old** through the tournament arc (canon c221: *"They're so young though, only ten years old!"*); the Shrek working-student dorm holds **four** — Tang Wulin, Xie Xie, Gu Yue, Xu Xiaoyan (canon c288; + Lin Hao, AU = five invitees). Departure order: **Wei Xiaofeng left class zero first** (canon), then **Wang Jinxi transferred to another academy** (canon ch 153, staged in our ch43). **AU divergence:** in canon Zhang Yangzi transfers out with him; in this story Zhang Yangzi embraces Wang Jinxi on the steps and **stays at Eastsea Academy**, out of class zero.
 
-🔴 **REALM GAP LAW (v2.90):** every ten ranks is a wall, not a step. Lin Hao is a **Soul Elder with three purple rings**; everyone else here is rank 17–23 with two. None of them can defeat him — they can outlast him, survive him, cost him. Gu Yue does exactly that, because she is the one he cannot read.
-
+🔴 **REALM GAP LAW (v2.90):** every ten ranks is a wall, not a step. Lin Hao is a **Soul Elder with three purple rings**; everyone else here is rank 17–27 with two. None of them can defeat him — they can outlast him, survive him, cost him. Gu Yue does exactly that, because she is the one he cannot read. **No combat at all this chapter — the law rests; the gap that matters is the one between her third element and her fourth.**

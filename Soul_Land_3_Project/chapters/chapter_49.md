@@ -335,7 +335,7 @@ true nature · battle armor worn · the fusion door opened · the card's content
 blade** · **what answered**
 
 ### Character Progression:
-- **Lin Hao:** rank **254 → 254 (Soul Elder)** · spiritual power **212 → 212** · **hawk 1,193 → 1,241** ·
+- **Lin Hao:** rank **33 → 33 (Soul Elder)** · spiritual power **212 → 212** · **hawk 1,193 → 1,241** ·
   **three purple rings, the third filled** · **a purpose** · marks raised all evening and not going down
 - **Wu Zhangkong:** **said "I don't know" twice in four days** · did not correct him for eleven minutes ·
   going to write to somebody
@@ -359,7 +359,7 @@ _Every number below traces to a canon line or is labelled AU._
 
 - **Tang Wulin:** rank **17** (canon c192: *"one step away from reaching rank 17"*) · one purple ring
 - **Xie Xie:** rank **22** (canon c134) · two rings
-- **Gu Yue:** rank **20** · **TWO rings** (canon c224) · spiritual power **153** at nine (canon c114)
+- **Gu Yue:** rank **21** · **TWO rings** (canon c224) · spiritual power **153** at nine (canon c114)
 - **Xu Xiaoyan:** not yet introduced
 - **Zhang Yangzi:** rank **26** · spiritual power ~27 after Little Black · **still at Eastsea Academy**; out of class zero since ch43 · **NOT going to Shrek**
 - **Wang Jinxi:** **LEFT in ch43** (canon ch 153 "Leaving") · last known rank 25 · spiritual power 18 (canon c113) · transferred to another academy · **NOT going to Shrek**

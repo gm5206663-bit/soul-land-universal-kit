@@ -16,6 +16,19 @@ independently. **Order by internal evidence (ranks, ages, events), never by file
 
 ---
 
+## 0. CURRENT STATIONS — end of fic chapter 101 (Age 13; Sea God's Island, the night before registration — canon 286: **THE LAKE LESSON** ('we confer' — the promotion; 'keep the first body fluent' — the last correction); the love ledger SPOKEN ('a man doesn't bid against his captain's gift'; 'after the elders, before the continent'); Shen Yi's counsel + the disciple door named for GY; the captain-grammar hug; the midnight meditation (the dragon roaming; armor = a circuit carved into the soul; **the Pagoda history — D22's biggest meal**); **the TWO-WORD dream**)
+
+_Every line below is either cited from canon held on disk (`canon_extract/chapters/` — 229–286 held on disk, fetched 2026-08-31 / 09-01) or labelled AU. This block is the live target the footers cite; §1 remains the permanent canon ledger._
+
+- **Lin Hao:** rank **45** · spiritual power **2,824** (−100 spent, documented) · hawk **3,199** · **jiao 12,210** (12,000 at the ch68 bond, AU — POWER_MODEL §Second Spirit Line) · 🔴 **the dragon's line tracked (ch71): the joining 90 s, developing; the body with it** · **line 109 FINISHED (the confession spoken)** · ledger **168 (line 168: *He woke. We're good enough. The academy came himself.* — the user's seed, spent)** · smith **5** · **ch70: the Yaluo estate lot won (Heavy Silver + Sky Dragon Iron by weight, read through the crate); the smelter's pour temperature named, correct** · **ch73: the count named once — *Four passes.* *Five of us.* / *I know the number.*; the dignity trade heard through a door that never quite closes; the pulses timed 11 s → 14 s; **ch74: the pamphlet, the three requirements checked against five names, the fourth requirement 20,000 years old (monsters); the last watch; the exam hour missed by the clock; **ch75: THE SEED SPENT — *I don't care about Shrek Academy… only helps me achieve things I should anyway, a few years earlier… we're good enough. Academies change their rules. And the academy came himself.*; the count retired at 17 s; **ch76: trial 1 — 10/10, the hall's first SPIRIT-answer (Wulin's 10 = the first blood-answer; the scale had no number for a spirit that answers standing); THE WAGER spoken and taken — any outer-court student, the rules change for the team if he wins, void if one of five fails a trial; the fourth ring TURNED OVER in the Black Dragon Hall (dragon-blood answered) · ch77: SWORD INTENT SPENT one stroke's worth — Still Water laid flat, War Stomp's edge taken off across the girls (canon's own margin, provided); WZK's "Win." heard; the duel conditional · ch78: trial 2 — 10/10 (the hall read five names); the gates' grammar GIVEN (the forge-childhood: *rows breathe in threes… be somewhere it was*); the playfulness spent (*Ours was smaller*) · ch79: THE MARGIN — six gates of seams run as the second answer; **the maintenance report delivered** (*Your sixth gate drags… I can show your smiths, if they'd rather see than believe* — the hall's craftsmen invoked); the Track SPENT live; trials 10·10·10** · **ch69: lost to WZK honestly, 61 seconds (9 armored); Still Water blooded** · **kit: six strokes (Still Water) · Mysterious Heaven Method · Purple Demon Eyes (3rd stage, AU pace) · Disorder Splitting Wind Hammer · the black-edged Talon · the deep-water body (regenerating, cold-immune, fist 5,000+ — the machine ran out)** · **four rings: three purple + one BLACK (the ten-thousand-year dragon jiao — the instantiated intermediate guardian, ch68)** · **Frost Abyss Sword (top-level) · Frost Abyss Domain · Domineer** · effective **Soul Emperor (61–70)** · **looks ~16 — "sixteen in the face, thirteen in the book" (measured: ch67's three midwinter days, ch68's fogged window, ch69's recalibration); the forearm marks raised, blue-black at the edges; the hawk winter-tipped, its pressure a season deeper (THE SOUL SPIRIT LAW visible — one ladder, two sides)** · the 41–50 title unnamed on purpose
+- **Tang Wulin:** rank **28** · two rings, ~4,000 years of spirit energy (canon c232) · + the external right-claw soul bone (canon c240–241) · spiritual power **499 — the bottleneck** (canon c231) · class five associate (canon c230) · **the armor pact signed (ch69)** · **the second seal BROKEN; the third-seal clock RUNNING (deadline SIXTEEN; −3 months per seal; one year after the ninth; tribulation if unprepared) · GOLDEN DRAGON BODY live (hunger law) · trials 10·10·10 — THE CATCH (the first examinee ever to grab a blade) · MID-EXAM: more trials called; 🔴 FETCH canon 259 (their chapter-262) BEFORE CH80 (the fourth trial)** · the Clear Sky Clan lore staged (the Disorder = Tang San's clan's sole legacy) · **~14M savings intact** · **the badge (the sole clue, canon 244) in his storage ring · fifth rank = the qualifications to search for his parents (canon 244's door)** · Mu Chen's farewell taken, the call promised (canon 242, staged ch69)
+- **Xie Xie:** rank **33** · three rings (canon c229 second half / c232) · spiritual power mid-200s (canon c231) · **rookie first-rank mecha craftsman** (canon c229 second half)
+- **Gu Yue:** rank **31** (AU — canon gives no rank at 13) · three rings (canon c232) · spiritual power **700+, Spirit Sea — 500 crossed a year ago** (canon c231) · **Spirit Pagoda, not Tang Sect** (canon c231; our road to it butterflied — ch67) · **ch71: the confession received — answered with silence, WHICH HE TAKES AS NO: the exit was built for her (his first time; she had never shown him anything he could read); if she likes him she must SAY it — he will not say it again; ONE direction by the Receiver Law (no Wulin×Gu Yue in this AU — none)** · **ch73: the renunciation offered and refused — *If Wulin can't go, I won't go either. If he can't join Shrek, I also refuse to join.* (canon 249 verbatim); ch74: "I'll stop mocking you in the future." (canon 251's close); still as before** · 🔴 **her canon six elements: fire, water, earth, wind, light, space — metal was never hers (session u; never invent elements for her)**
+- **Xu Xiaoyan:** rank **30** — crossed on day 9 of the month (ch68; canon c230's trajectory honoured) · two rings; the second-spirit-soul question open (canon c230's own mechanics) · spiritual power **400+** (canon c231) · class-three associate
+- **Zhang Yangzi:** rank **31** (AU — he stayed, ch43's divergence; canon sends him away with Wang Jinxi)** · the Eastsea dock
+- **Wei Xiaofeng:** rank **30** (AU) · **left class zero first** (canon) · still at Eastsea
+- **Wang Jinxi:** away at another academy · last known rank **25** (canon) · the letters still cross (ch65)
+
 ## 1. CANON HARD NUMBERS (verbatim, cited)
 
 ### 1.1 Age-9 baseline — class five intake (canon c45–c46)
@@ -172,39 +185,14 @@ faulds past the thighs. She is a battle armor master too, and **she is his teach
 three, and he has refined no metal of his own at the required grade. **He may only ever be shown MAKING
 it** — which is the thread Xie Xie opened in ch62: *"you're going to make the metal."*
 
-### 2.7 🔴 SHREK — THE WORKING-STUDENT CAST (canon c288–c307, added 2026-08-30, on-page in our ch66–ch70)
-
-| Character | What canon gives | Citation |
-|---|---|---|
-| **Yuanen** | Working student. Sits alone at a table for four. Sells information. **Male** (*"his tone… make or break newcomers like him"*, *"Yuanen raised his head"*). *"That's because working students are freaks."* Supplies the working-student truth and the Elder Feng precedent. 🔴 **In c302–304 he is only ever "Yuanen" — his full name Yuanen Yehui does not appear until c327.** | c302 (named c327) |
-| **Yue Zhengyu** | 🔴 **Second grade, class one** — *"Honorable enforcer, I am the Angel Clan's Yue Zhengyu, a student from the second grade's class one"* (c291). **Not a first-year.** He has his working-student application approved purely to get into the dormitory: *"Now I can enter the dormitory for working students too. If that girl is there, I'll definitely find her!"* | c291, c303–304 |
-| 🔴 **THE FALLEN ANGEL GIRL — and she is NOT Gu Yue** | **A red-haired working-student girl.** *"They never expected that this Fallen Angel girl with two rings would be a working student like them."* *"the image of that red-haired Fallen Angel girl popped into his head."* Yue Zhengyu's whole campaign is about **her**: *"I discovered a Fallen Angel on campus, and as everyone knows, Fallen Angels always become evil soul masters."* Canon's enforcer already ruled: *"The Academy has already verified my identity and determined that I am not an evil soul master."* 🔴 **Gu Yue wields six elements plus variant ice** (*"fire, water, wind, earth, light, space, and the variant ice attribute"*, c289) — **she is not the Fallen Angel, and canon never says she is.** | c289, c303–304 |
-| **Elder Feng = Feng Wuyu** (🔴 **the same person** — canon's own note: *"It's a pun on Elder Feng. Elder Feng is 枫 老 (Feng Lao) while Mad Elder is 疯 老 (also Feng Lao)"*) | **He personally recruited Tang Wulin and gave him the badge** (*"You're pretty lucky to have Elder Feng personally recruit you"* · *"Elder Feng gave me this badge"*). He is also **the working-student precedent**: working student → graduated the outer court at **thirty-four** → *"the youngest Saint Blacksmith on the continent"* → *"He rose from six to nine rings in twenty years"* → **Title Douluo** and eighth-rank Saint Blacksmith, *"the greatest blacksmith of Shrek Academy."* | c302, c306 |
-| **Shen Yi** | Runs the lectures; **Wu Zhangkong stands to the side in silence.** Declares the seven representatives. 🔴 **She is Wu Zhangkong's TEACHER (canon) — on-page since our ch62.** | c305 |
-| **Elder Cai** | 🔴 **Female** — *"Since Elder Cai left the lecture hall, Shen Yi replaced **her** at the lectern."* The Academy's usual lecturer; **absent as usual**, which is the reason Shen Yi runs the class at all. Gave the opening-ceremony speech: the outer court is only open to you **until thirty-five years of age**. | c295, c305 |
-| **Yang Nianxia** | Power-type. Martial soul the **Duskgold Bear** (a variant of the Duskgold Dreadclaw Bear, minus the claw). Recruits Tang Wulin. Not yet on-page in our story. | c306 |
-
-**THE WORKING-STUDENT RULES (canon c295 / c302) — all of these are load-bearing:**
-- *"Working students, in particular, need them to buy food"* · *"you cannot purchase contribution points with money"* (c295).
-- *"Those of you who are working students will have it harder. You will have to pay for your own meals."* (c295).
-- *"Anyone who is absent three times will face expulsion."* · *"If any of you reach negative one thousand points, you will be expelled."* · **the bottom five of the yearly minor exams are expelled** (c295).
-- Working students *"are required to accept a few missions every month"* (c302).
-- **The economy:** the Academy buys first-grade thousand refined metal for *"a minimum of two thousand contribution points"* while the working-student thousand-refining job pays **one thousand** — *"You'll only get cheated if you do"* (c302). A first-grade thousand refining through the job pays **1,100** (c297); **all student-to-student contribution-point transactions carry a one percent fee** (c297).
-- **Reputation:** *"working students are unpredictable and absolutely must not be offended"* · the chance of a graduating working student entering the inner court is **thirty percent, much higher than ordinary students** (c302).
-
-**THE SEVEN REPRESENTATIVES (canon c305):** *"One class president, two vice-presidents, and a council made up of the four secondary professions."* Monthly stipends — **president 1,000 · vice-president 600 · profession council 500**. A representative who becomes a **battle armor master by twenty-five** is automatically admitted to the inner court on graduation. In canon **Tang Wulin is declared blacksmith representative unchallenged** (*"because no one can compete with him"*).
-🔴 **AU (our ch70):** **Lin Hao is granted the second profession council seat for blacksmithing IN ABSENTIA**, on Xie Xie's recommendation, while he is twenty-nine days into the absorption. Xie Xie holds it and the stipend in trust — *"you will be buying his metal."*
-
-**THE SPIRIT ASCENSION PLATFORM — what it actually is (canon c240, Gu Yue is the one who knows):**
-> *"the spirit ascension platform isn't a true illusory world. It's actually a mix of illusions and reality."*
-
-Three sections — elementary, intermediate, advanced — **one entity split into three, with a different entrance each**. Each tier has a **guardian**; only an extremely formidable soul beast is given the title, and killing one yields a **soul bone that cannot be taken outside** (*"you better fuse with the soul bone here"*). Guardians require more energy than normal beasts. In theory **no one with fewer than five rings should kill a guardian** (canon c240).
-
 ---
 
 ## 3. THE ENSEMBLE SCHEDULE FOR THIS STORY (AU, derived from §1)
 
-Story position at **ch 70** ≈ canon Shrek working-student arc (c288–c307), **everyone age 10–11**; 🔴 **Lin Hao is eleven** (birthday ch68) and is twenty-nine days into a one-month absorption.
+> **ERA NOTE (ch67):** the schedule below is the age-10 tournament-era record, kept for provenance.
+> The live age-13 stations are **§0** — derived from canon c230–c232, held on disk.
+
+Story position at **ch 62** ≈ canon tournament arc / Shrek invitation, **everyone age 10**.
 
 🔴 **WULIN'S INTAKE RANK IS AN AU DIVERGENCE AND IS RECORDED HERE.** Canon c45 has him at **rank 11**.
 Our ch9 prose states on-page: *"Wulin, who had been rank thirteen since before enrollment."* **The
@@ -216,14 +204,31 @@ Xu Xiaoyan 17 on arrival (c183).
 
 | Ch | Wulin | Xie Xie | Gu Yue | Zhang Yangzi | Wang Jinxi | Wei Xiaofeng | Xu Xiaoyan |
 |---|---|---|---|---|---|---|---|
-| 39–41 | 15 | 21 | 19 | 22 (SP 41 → **27**, Little Black dead) | 23 | 22 | — |
-| 42 | 16 | 22 | 20, 2nd ring | 22 (SP 27) | 23 | 22 | — |
-| 43 | 16 | 22 | 20 | **transfers out** | **transfers out** | 22 | — |
-| 44–51 | 16 → 17 | 22 → 23 | 20 | out | out | 22 | — |
-| 52 | 17 | 23 | 20 | out | out | 22 | **17**, two yellow rings |
-| 53–56 | 17 | 23 | 20 | out | out | 22 | 18 |
-| 57–60 | 17 → 18 | 23 | 20 → 21 | out | out | 22 | 18 |
-| 61 | **18** | **23** | **21**, two rings | out | out | 22 | **19**, two rings |
+| 39–40 | 16 | 21 | 19, peak (canon c133) | 24 (SP 41 → **27**, Little Black dead) | 24 | 24 | — |
+| 41 | 16 | 21 | **21 — 2nd ring taken this chapter** | 24 (SP 27) | 24 | 24 | — |
+| 42 | 16 | 22 | 21 | 24 (SP 27) | 25 | 25 | — |
+| 43 | 16 | 22 | 21 | **transfers out** | **transfers out** | 25 | — |
+| 44–47 | 16 | 22 | 21 | out | out | 25 | — |
+| 48–51 | 16 | 22 | 21 | out | out | 26 | — |
+| 52 | 17 | 23 | **21, two rings** | out | out | 26 | **17**, two yellow rings |
+| 53–56 | 17 | 23 | 21 | out | out | 26 | 17 |
+| 57–59 | 17 | 23 | 21 | out | out | 26 | 18 |
+| 60 | **18** | 23 | 21 | out | out | 26 | **19** |
+| 61 | **18** | **23** | **21**, two rings | out (27, still at Eastsea, AU) | out (last known 25) | 26 | **19**, two rings |
+
+🔴 **REBUILT 2026-08-30 from the chapter footers** (`checks/state.json`) — audit finding E6: the
+hand-maintained rows had drifted from the footers in **six of seven columns** (worst: Wei Xiaofeng
+frozen at canon's 22 for ch39–61 while the footers ran 24→25→26; also Zhang Yangzi 22-vs-24,
+Wang Jinxi 23-vs-24/25, Wulin 15-vs-16 at ch39–41, Xie Xie 23-vs-22 at ch48–51, Xu Xiaoyan 18-vs-17
+at ch53–56). **The footers are the story (D3)** and this table now mirrors them.
+
+✅ **E5 RESOLVED 2026-08-30** (user directive: *"check everything and adapt completely"*): Gu Yue's
+2nd-ring staging was a three-way contradiction — Progression blocks said *"second ring — Soul
+Grandmaster"* from ch41, the generated ensemble said rank 20 to ch51 (ch41's even said **19, one
+ring** against its own Progression), and the ch41 + ch52 **prose** says *"rank twenty-one."* Adapted
+to the prose and the band rule (2nd ring ⇒ 21–30): **rank 21 from ch41**, all eleven footers
+corrected. The ring's timing is **AU-ahead of canon** (canon has two rings by c224, the tournament
+era) — labelled as such in the footers.
 
 Rules the schedule obeys:
 1. **Nobody in the ensemble may hold the same number for more than 8 chapters** (a progression
@@ -277,7 +282,7 @@ anyway."*
 | **Ceiling, everything spent** | **SOUL KING PEAK (60)** — the ceiling *"normal guys who don't have a black ring"* reach |
 
 The gap is made of: the realm · **three** rings vs two · three **purple** (thousand-year) rings · a
-1,399-year spirit soul · **🃏 HAWK-SOUL UNION (2nd soul skill — the trump card: a perfectly bonded soul
+the hawk — 3,151 years now (1,399 at c131) · **🃏 HAWK-SOUL UNION (2nd soul skill — the trump card: a perfectly bonded soul
 spirit lends him *itself*, not a technique; only possible because the Adaptation Talent built 100%
 integration)** · the Adaptation Talent scaling with him · mutations raising the container's ceiling ·
 2,612 kg fist · Sword Intent · and the fact that he reads.
@@ -292,7 +297,7 @@ anyone else), not a win for either.
 canon. This constrains *him*, not the genre.
 
 ## 4. OPEN CANON GAPS (verified 2026-08-29 against `canon_extract/INDEX.txt`)
-- **372 chapters on disk, canon ch 229–600, 4.0 MB** (future source). Adapted 23–228 reclaimed 2026-08-29; 35 quote-sources frozen in `CODEX/CANON_QUOTE_SOURCES_FROZEN.txt`; full source in the archived PDFs.
+- **577 chapters held, canon ch 23–600, 5.0 MB, zero empty files.**
 - **Canon ch 28** is absent from every source PDF — the only gap in the held range.
 - **Canon ch 1–22 are not held** — supplied as pasted text at the start of the project.
 - **Nothing past canon ch 600**, and **600 is not the ending** (at 600 Wulin and Gu Yue are travelling

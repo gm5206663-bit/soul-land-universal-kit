@@ -210,7 +210,7 @@ He wrote it that night, above the forge, and he wrote the number first out of ha
 
 Then the line at the bottom.
 
-*Xie Xie built the Twin Dragon Storm in three weeks and threw up twice, and Gu Yue beat me again, which is the fifth time, and I still have not worked out how both things are true — and Xu Xiaoyan lasted eleven seconds, and I got a fourth rank in four days, and there is a tournament, and Long Hengxu has bet his standing on six children.*
+*Xie Xie built the Twin Dragon Storm in three weeks and threw up twice, and Gu Yue outlasted me for four minutes without beating me, and she has beaten me five times in her life and every one of them came before the third ring, and I still have not worked out how both things are true — and Xu Xiaoyan lasted eleven seconds, and I got a fourth rank in four days, and there is a tournament, and Long Hengxu has bet his standing on six children.*
 
 *We are not ready. Wu Zhangkong said there is no one who can be paired with me and have it be fair, and Mu Chen said I am not ready and put me up for it anyway, and both of those men have said the true thing to me in the same week in the same form, and I have begun to understand that this is what it sounds like when adults decide to stop protecting you.*
 

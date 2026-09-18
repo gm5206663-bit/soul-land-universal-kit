@@ -1,4 +1,4 @@
-# CANON LEARNING DOSSIER — extracted from all 577 chapters held at extraction time (23–600; adapted 23–228 since reclaimed, full source archived)
+# CANON LEARNING DOSSIER — extracted from all 577 held chapters (23–600)
 
 Read and extracted 2026-08-28. Every line below is a verbatim or near-verbatim pull from
 `canon_extract/chapters/`. Nothing here is inferred.

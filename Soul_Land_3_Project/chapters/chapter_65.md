@@ -1,236 +1,290 @@
-# Chapter 65: The Strap That Did Not Know
+# Chapter 65: The Same Sunday
 
-## Canon Reference: canon ch 230 ("Spirit Item Exchange" — the second-seal items are rare), with ch 218
-## first-rank-foundation line carried forward.
-## Canon anchors held: **the second-seal items are rare** — *"the necessary items were far too rare! He had
-## already searched Eastsea City's auction houses and even the Eastsea Museum's auction in hopes of finding
-## them but had come out empty-handed"* · **the three items** — *"Azure-veined Vine, a thousand-year Land
-## Dragon Tendon, and a thousand-year Sea Dragon Marrow"* · **a battle armor is grown, not forged** (ch64).
-## AU: **Lin Hao makes his first grown thing — a strap that does not know the difference — and Wulin, in
-## parallel, learns the other kind of waiting: the second-seal items are rare and cannot be forged at any
-## price.** The chapter is about two boys at two different kinds of bottom: one you can stand at and one you
-## can only wait at.
-## Timeline: Age 10 — the four weeks after the tournament
-## GROWTH: rank **38 → 39 (Soul Elder)** · spiritual power **303 → 310** · hawk **1,430 → 1,442** · three
-## purple rings · 4th rank (Grandmaster) · **ledger 114 → 116** · Sword Intent.
-
----
-
-## Part 1: The Strap That Did Not Know
-
-It took three weeks.
-
-Lin Hao had been at Old Zhou's forge for three weeks, and he had made straps every day, and every one of them had known the difference — had known it was made by a fourth-rank Grandmaster who was eleven and was making a strap, and Old Zhou had looked at each one and said nothing, because Old Zhou had been a first-rank blacksmith for forty-one years and had learned that the strap knows.
-
-And then, on the twenty-second day, Lin Hao made a strap that did not know.
-
-He did not know he had done it. He had heated the iron to the temperature where it would move and not the temperature where it would burn, and he had hit it, and folded it, and he had not been thinking about being a Grandmaster, because he had been thinking about the strap, and the strap had been the only thing there was, and when he was done he set it on the anvil and Old Zhou picked it up.
-
-Old Zhou held it for a long time.
-
-"This one doesn't know," Old Zhou said.
-
-"Doesn't know what."
-
-"That you're better than the bottom." Old Zhou turned it over. "This strap was made by a person who was at the bottom of a strap, and that was the whole of him. I've been at the bottom of straps for forty-one years, and this is one of mine." He set it down. "Not one of yours. One of mine."
-
-Lin Hao looked at the strap. It was a strap. It was the same as the four hundred he had made before it, except it was not, and the difference was that this one had been made by a person who had nowhere else to be.
-
-"How long did that take," Lin Hao said.
-
-"Three weeks," Old Zhou said.
-
-"I've been here three weeks."
-
-"Yes." Old Zhou went back to his fire. "That's how long the bottom takes."
+## Canon Reference: interstitial — the first weeks of canon ch 229's refused three-year cut (F6), now
+## under THE PERSPECTIVE PANEL DOCTRINE (BUTTERFLY LAW v3.20, locked this chapter by user directive).
+## Canon anchors held (all from verified saved text and CHARACTER_STATS §1): Xie Xie's destination —
+## rookie FIRST-RANK MECHA CRAFTSMAN at the far end of the skip (canon ch 229 second half, held in
+## `canon_extract/chapters/canon_229.txt`) · Xu Xiaoyan — spiritual power 61, two rings, the Starwheel
+## Ice Staff's night nature (canon c183) and her awareness/coordination (canon c204) · Wei Xiaofeng —
+## left class zero FIRST (canon) · Wang Jinxi — "Leaving," canon ch 153, staged our ch43; last known
+## rank 25 (canon) · Zhang Yangzi — canon transfers OUT with him; our AU keeps him at Eastsea · canon
+## keeps Zhang Yangzi straightforward and kind · Wulin's forging economy and the tin (fic continuity;
+## his far anchor: peak fourth-rank smith, contribution points all from forging — canon ch 229) ·
+## Shen Yi is Wu Zhangkong's teacher (canon; on-page in our fic — K5 open, the Shrek-origin reveal
+## stays LOCKED for canon ch 204) · the adjustments (canon ch 229) · the Shrek dorm four (canon c288).
+## Canon access note: novelhall's catalog and chapter URLs returned 404 on 2026-08-31; nothing new was
+## fetched for this chapter and nothing is cited that is not already held and verified on disk.
+## AU: the docks, the mecha bay's Saturday arrangement, the dawn slots, the morning match, the two
+## letters, and the sighting-that-wasn't are AU inventions spent from the divergence ledger (below).
+## Timeline: Age 10 — the first Sunday of the new term and the week that follows; Eastsea City.
+## GROWTH: rank **36 → 36 (Soul Elder)** · spiritual power **301 → 307** · hawk **1,418 → 1,424** · three
+## purple rings · 4th rank (Grandmaster) · **ledger 110 → 110 — held again; nobody adapted anybody** ·
+## Sword Intent.
 
 ---
 
-## Part 2: What Wulin Could Not Forge
+## Part 1: What Zhang Yangzi Did
 
-Wulin was at the auction house that afternoon, and he was not buying.
+The Sunday boat did not know it was Sunday, so neither did Zhang Yangzi.
 
-He was looking. He had been looking for a month, since he had bought the Land Dragon Tendon and the Sea Dragon Marrow with almost everything he had, and there was one item left, and the one item left was an Azure-veined Vine, and the Azure-veined Vine was not at the auction house.
+He was at the loading dock at twenty to seven with the manifest board and a pencil sharpened with a knife, which was the only kind of pencil worth having. The east crates came off wet again.
 
-"It's not here," Wulin said.
+"Wet again," said the freight man, who liked to be first with bad news.
 
-Lin Hao had come with him, because Wulin had asked, and because Lin Hao had started to understand that Wulin asked him to come to the things that mattered.
+"The sea does that," Zhang Yangzi said.
 
-"Where is it."
+"The sea didn't pack them."
 
-"I don't know." Wulin was looking at the catalogue, which listed the things that were not there. "Old Tang says it's a plant-type soul beast that used to be abundant in the Great Star Dou Forest ages ago. Ages ago. So it's rare, and rare means it's not at an auction house in Eastsea, and I've searched every auction house in Eastsea, and the museum's auction too, and it's not at any of them."
+"No," Zhang Yangzi said, and wrote *seams* on the board, and that was the whole argument, and both of them knew it.
 
-Lin Hao looked at the catalogue.
+Little Black was asleep in the office cot, upside down, taking up the whole of it. Little Black had never once helped with a crate and Zhang Yangzi had stopped expecting it, the way you stop expecting weather to help.
 
-"Can you forge it."
+The letter came with the freight, which was how the good things came now.
 
-"No." Wulin said it the way he said everything, which was like a fact. "It's a plant-type soul beast. You can't forge a soul beast. You find it, or you don't." He closed the catalogue. "This is the other kind of waiting. The kind where you can't go to the bottom and stand there until you understand it. You just wait, and you hope, and you save your points, and you go to every auction, and mostly it's not there."
+It was from Wang Jinxi, three pages, the big awkward handwriting that had never fitted the lines.
 
-Lin Hao looked at him.
+*The forge here is twice ours. Nobody times me. I got the arm right on the second try and the master said "acceptable," and I have learned that acceptable means he framed it in his head before I finished. Rank twenty-five, still. There is a boy in my new class who talks like Xie Xie and I do not trust him and I miss Xie Xie. Tell him the roof trick does not work here. Their roof is slate.*
 
-"How long have you been waiting."
+Zhang Yangzi read it twice, standing between the crates with the pencil behind his ear, and then he sat down on the least wet pallet and wrote back on the back of a misprinted manifest, because paper was paper.
 
-"Since I was six," Wulin said. "For the seal. For the items. For the whole thing. I've been getting ready for a thing that hasn't come since I was six, and the getting ready is the part nobody tells you about, and it's mostly waiting, and I'm good at it, because I've had practice."
+*East crates wet again. Your tarp man never looked at his seams either; some men are the same everywhere, that's not the city, that's the man. The seal trick you showed me holds. The dock runs. Tell your acceptable master that the boy who talks like Xie Xie is exactly what he sounds like, and tell Xie Xie himself, twice.*
 
-Lin Hao did not say anything, because Wulin had just said the thing Lin Hao had been learning at Old Zhou's forge for three weeks, except Wulin had been learning it for four years, and at a kind of bottom Lin Hao had never stood at.
+He hesitated over the next part, and then wrote it anyway, because Wang Jinxi had never once needed a thing softened.
 
-Xie Xie was at the next table, and had been for some time, and had a catalogue of his own, and a small pile of contribution-point slips in front of him that he had been counting and recounting.
+*Class zero trains mornings. I hear them from the fence some days. The little one counts sets out loud now. I don't miss being in there. I want you to know that and I want it to be true, and it is, so that's settled. Your friend, ZYZ.*
 
-"That's not here either," Xie Xie said, without looking up. "The bearing assembly I need. I've been to four auctions. It's not at any of them." He counted the slips again. "I'm saving for a mecha. Not the whole mecha. A bearing assembly. It's the part that lets the arm hold a thing without shaking, and it's not here, and I have been getting ready for a mecha since I was six too, and the getting ready is mostly going to auctions where the thing isn't."
-
-Lin Hao looked at the two of them.
-
-"We're all getting ready," Lin Hao said.
-
-"Yes," Xie Xie said. "That's the whole thing. You're making the metal, I'm making the mecha, Wulin's looking for a vine, and none of us have the thing we're getting ready for yet, and that's the part nobody tells you about six-year-olds, which is that we've been getting ready for a thing that hasn't come since we were six, and we're good at it, because we've had practice."
-
-Lin Hao looked at the two of them, and understood that the three of them were at three different bottoms, and none of them could skip theirs.
+He folded it into the freight pouch going north, and hefted the next crate, and that was Zhang Yangzi's whole Sunday, and if you had asked him whether a thing had gone wrong with his life anywhere along it, he would have had to put the crate down to think. He would not have put the crate down.
 
 ---
 
-## Part 3: What Mu Chen Said
+## Part 2: What Xie Xie Did
 
-Mu Chen found them at the auction house, because Mu Chen found people, and because Mu Chen had been watching Lin Hao for a month and had been waiting to see if the boy would arrive at the bottom on his own.
+There were three ways into the mecha bay and Xie Xie had used all of them, and on the fourth Sunday the bay master was waiting on the roof side with a torque wrench in her hand and no expression on her face at all.
 
-"You made a strap," Mu Chen said.
+"Roof again," she said.
 
-"I made a strap."
+"Slate," Xie Xie said. "I know a boy who says it doesn't work on slate."
 
-"Old Zhou told me." Mu Chen looked at the catalogue in Wulin's hand. "And you're here for the Azure-veined Vine."
+"Then you know a boy who's been on a roof he shouldn't— come down the stairs like a person."
 
-"It's not here," Wulin said.
+He came down the stairs like a person. She stood there looking at him, at the whole problem of him. Then she did the thing that nobody in authority had ever done to Xie Xie, which was to be practical at him.
 
-"No," Mu Chen said. "It's not. It's a thousand-year plant-type soul beast that used to be abundant in the Great Star Dou Forest ages ago, and ages ago means it's rare, and rare means it's not at an auction house in Eastsea." He looked at Wulin. "You've been searching for a month."
+"If you're going to be in my bay, be in it where I can see you. Hold the lamp."
 
-"Since I was six," Wulin said. "For the whole thing."
+He held the lamp. For two hours he held it over an open shoulder actuator while two journeymen swapped a cracked torque plate. He counted, because he could not not count. At the end, with the panel going back on and the journeymen no longer noticing him, he said it.
 
-Mu Chen was quiet for a moment.
+"There are eleven moving parts in that shoulder. Eight of them carry. What are the other three for?"
 
-"There are two kinds of bottom," he said. "One is a forge, and you can stand at it until you understand it, and Lin Hao has been standing at one for three weeks and made a strap that doesn't know he's better than the bottom. The other is an auction house, and you can't stand at it, you can only wait, and Wulin has been waiting since he was six." He looked at both of them. "You're both at the bottom. You're just at different ones. And neither of you can skip yours."
+The bay master took the lamp out of his hand and looked at him over it.
 
-Lin Hao looked at Wulin. Wulin looked at Lin Hao.
+"Failing," she said. "Everything fails. The three are so that when the eight are being brave about it, the machine still turns left. You skip the three because nobody ever sees them work, and then one day the army takes the licence back and it's in the paper." She set the lamp on the bench. "Who told you about licences?"
 
-"We've been getting ready for a thing that hasn't come since we were six," Wulin said.
+"Nobody. I asked a teacher what a mecha master trains and he said design, machining, and a licence the army issues and can take back. I've decided to be difficult about all three."
 
-"Yes," Lin Hao said.
+She snorted, which in a bay master is a laugh.
 
-"That's the whole thing, isn't it," Wulin said. "Getting ready."
+"Saturday," she said. "Six in the morning. Bring nothing. If you bring a tool I haven't given you, you go out the door side, not the roof side."
 
-"Yes."
+He walked home beside himself with it. He did not tell anybody at supper, because it was Saturday's to tell. He told the ceiling of the dormitory about it very thoroughly instead. The ceiling — he was fair about this, later, when he told the story — had held up a roof over the whole thing. Slate or otherwise.
+
+---
+
+## Part 3: What Xu Xiaoyan Did
+
+The match was on Tuesday at nine in the morning, and it was against Wei Xiaofeng, and Wu Zhangkong had timed it for daylight on purpose, and she knew all three of those things were about her.
+
+Wei Xiaofeng did not say anything before it, which was correct of him. He had left class zero first, on his own feet, for his own reasons, and he had never once needed the leaving explained, and he came onto the yard at nine with his hands loose and his rank twenty-six hanging off him quietly.
+
+The starwheel was a night thing. Everybody in the yard knew it was a night thing, and Wu Zhangkong had booked the yard for nine in the morning anyway, and Xu Xiaoyan had looked at the posting board for a long moment on Monday and then copied the time onto her wrist in her small neat hand and gone to bed early.
+
+In the dark she was a thorn-hedge with a wheel in it. In daylight she was a girl, with a staff, and a plan. The gap between the two was the assignment; she had understood that from the posting board.
+
+She lasted three minutes and twelve seconds. She lost at the end of them, properly — put down twice, up twice, down the third. It was the best match she had ever fought, and she knew it while it was happening, which almost nobody gets to have.
+
+Wei Xiaofeng pulled her up out of the dirt. He looked at her the way you look at work that surprised you, and then he gave her one thing, the way he did everything, on his own feet, for his own reasons.
+
+"You kept looking at the light," he said. "The big window. You looked at it four times in the second minute. Stop looking for the light. It isn't coming to help you."
+
+"All right," she said. "What do I look at?"
+
+"Him." Wei Xiaofeng nodded across the yard at Wu Zhangkong and his stopwatch. "The man who booked the dark on you. He's the one telling you what you are by what he schedules."
+
+He walked off before she could answer, which was also correct of him.
+
+Wu Zhangkong called the time across the yard — three twelve — and wrote it down unweighed, the way he wrote everything down now, and Xu Xiaoyan stood in the ordinary daylight with dirt down one side of her and thought: *the forty seconds was a show. The three minutes is a fact. Facts are what you build with.* And then she went and washed, and was on time for theory.
 
 ---
 
 ## Part 4: What Gu Yue Did
 
-Gu Yue was at the forge that night.
+The booking sheet at the Spirit Ascension Platform hall grew a dawn column this term, because the afternoons had filled up. They had filled up because in the spring a class of ten-year-olds from Eastsea Academy won a tournament in Skysea City. Everyone wanted to know whether the hall that trained them had water in it too.
 
-She was not working. She was standing in the doorway, the way she stood in doorways, watching Lin Hao look at the strap that did not know.
+The desk attendant noticed the dawn column's only regular on the third week. A small girl, hair straight as a plumb line, who booked the five-forty slot and paid in exact change and was on the platform alone, and signed the indemnity in a hand that looked printed.
 
-"You made one," she said.
+"You can't have a spotter at that hour," the attendant told her, the first time, because there were rules. "Nobody's on the floor before six."
 
-"I made one."
+"I don't need a spotter," the girl said. "I need the clock to be the only one watching."
 
-"That doesn't know."
+"What if you fall?"
 
-"Yes."
+"I won't be doing anything I can fall off of. I'll be doing arithmetic."
 
-Gu Yue was quiet. She had a way of being quiet that was not empty.
+There was nothing in the rules against arithmetic."
 
-"Old Zhou told me," she said. "He told Mu Chen, and Mu Chen told me, and I came because you made a thing that doesn't know you're better than the bottom, and that took you three weeks, and I want you to know that I understand how long three weeks is." She turned, in the doorway, the way she turned. "I was at the bottom for years. Not three weeks. Years. I was a blank page in my own ledger, and I didn't know I was at the bottom, I just knew I had nothing to show." She paused. "You knew you were at the bottom. That's the difference. You went there on purpose."
+There was nothing in the rules against a clock.
 
-Lin Hao set the strap down.
+So that was Gu Yue's hour. The platform at dawn, the simulation grass grey with no sun on it yet, and six elements going off in a row like a signature she did not leave. A scorch. A frost. A wind-fret. A stain of something the cleaning crew logged as "mineral." And three and four beside them, small and exact and getting less small.
 
-"Did you go on purpose."
+Nobody saw it. That was the entire design of it.
 
-"No." Gu Yue left, because that was the thing they did. "I was just there. That's the other kind of bottom."
+She had asked for Shrek in front of everyone, with a word. She had asked for the dawn with a booking. Of the two requests, the dawn was the honest one, and she knew it, and it changed nothing about the other.
+
+Once — only once — Lin Hao was on the hall steps at six when she came off. His Sundays started at nine and his sleep had never once lasted past five-thirty. They did not stop. She came down one side of the steps' width and he went up the other. Neither of them said anything. Both of them knew the other had clocked it. It sat there between them, unspent, like everything else that mattered.
+
+Wu Zhangkong checked the dawn column every Friday. He never signed it. He never spoke of it. The gentleness, this term, had a whole wing with no door on it, and he simply did not walk through. She had asked for the clock to be the only one watching; he could read a booking sheet. He left it alone, and considered it the hardest technique he had ever learned.
 
 ---
 
-## Part 5: What Lin Hao Wrote
+## Part 5: What Wulin Did
 
-He wrote it that night, at Old Zhou's forge, because the forge was the place he was standing now.
+On Sunday the members' forge was Wulin's until noon, and the commission on the bench was a decorative gate for a chandler's wife in Skysea, forty kilograms of scrollwork, the kind of work he was bad at respecting and did anyway, because the tin did not care what he respected and neither did the city where a little girl had gone missing off a curb.
 
-*Three hundred and ten. One thousand four hundred and forty-two. Thirty-nine.*
+He counted strikes. That was the Sunday change, though nobody had ordered it: he used to count money on Sundays, in his head, over and over, down to the white notes. Now he counted strikes, because the strikes were the part of the arithmetic he could actually do anything about.
 
-*I made a strap that doesn't know. It took three weeks. Old Zhou said this is one of his, not one of mine, because it was made by a person who was at the bottom of a strap and that was the whole of him. I have been eleven years early my whole life and I never stood at the bottom of anything until three weeks ago.*
+The letter had come on Friday. He had read it standing at the letterbox, and once more at the bench, and then folded it into the tin itself, which was where the serious papers lived.
 
-*Wulin is at the other kind of bottom. The Azure-veined Vine is rare and you can't forge a soul beast, you find it or you don't, and he's been waiting since he was six. He's been getting ready for a thing that hasn't come since he was six, and the getting ready is mostly waiting, and he's good at it.*
+*Dear young master Tang — I do not know if I should write, but you said in the office, if anybody ever. A girl has been at the fish market pier three Sundays now, small, by the net sheds. My wife says she is the second daughter of the Huang family that took the stall in spring. I am sorry to send a wrong one. You looked at that office like it was the last one in the world. — F. Gao, chandlery, rectifying street.*
 
-*Gu Yue was at the bottom for years and didn't know she was there. I was at the bottom for three weeks and knew. She said that's the difference. One kind of bottom you go to on purpose. The other you're just at.*
+Wrong one. Second daughter of the Huangs, at the net sheds, three Sundays, and none of them her.
 
-He set the pen down, because there was one more thing.
+He had written back the same night, and the reply had cost him one Friday's loudness to write, it was two lines, it was true, and he had posted it before he could improve it. Improving it would have been lying about the size of it:
 
-*There are two kinds of bottom and neither can be skipped. One is a forge and you stand at it until you understand it. The other is an auction house and you wait. I have been early my whole life and I understand now that early is a person who has never been at either bottom, and I am at one now, and Wulin is at the other, and we have been getting ready for a thing that hasn't come since we were six, and the thing still hasn't come, and I am not going to skip the bottom to make it come faster.*
+*Thank you. Wrong is not nothing — wrong is the street checked. If you ever hear of another, I am still at this address, and I will still be for years.*
 
-He closed the book.
+"Forty more," he told the forge at nine, which was thirty curls, and the forge, which had heard worse arithmetic from better men, said nothing.
 
-The lock at his temple lay gold across his cheekbone, and the marks on his forearms were raised, and the hawk turned over in him — *one thousand four hundred and forty-two* — and did not pull toward anything, and Old Zhou's fire was the only fire in the forge, and Lin Hao sat at the bottom of it with a strap that did not know, and he was not going to skip the bottom, and he did not yet know that the bottom was the only place a thing could be grown.
+The gate took him till eleven. Scrollwork, forty kilograms of it. He did every curl as if it were a hinge, because that was the only standard he had. The tin sat under the bench, heavier than autumn by one wrong girl and one right letter. At noon he banked the forge, and washed, and ate. He did not once say the name out loud. That was the whole of his discipline. It held. He held.
+
+---
+
+## Part 6: What Wu Zhangkong Wrote
+
+On Saturday night, at the desk in the rooms he kept above the practice yard, Wu Zhangkong wrote a letter he had been not-writing for a month.
+
+*Teacher,*
+
+*I was too demanding of them. I saw it in Skysea, on a platform, watching a government not apologise and a boy carry other people's luggage like it was load-bearing. I am correcting it. I want to record that correction is harder than anything I have asked of my own body. With a sword, you are told the shape of the mistake on the day you make it. With this, you are told nothing. You only find out years on, from what the children became, and by then the instruction is over.*
+
+*I have five of them. One has chosen machines, and I will write his Saturday letters for as long as that lasts. One runs freight better than the men I have seen run freight, and is kind without knowing it, which is the only way. One asked me for the dark. I have given it to her. I do not know yet what it is for, and I have decided that not knowing is the job. One is made entirely of carrying. And one —*
+
+He stopped there, and sat with the pen up, for four minutes, in the room with one lamp.
+
+*— and one has said a word on a form that I have not said to you here. When you meet him, you will understand the omission. He is already the best of them at the thing you taught me last, which I did not learn in a season.*
+
+*I remain your student, in this as in the other thing.*
+
+*— Wu Zhangkong*
+
+It went out with the Monday post. The reply came on Thursday, two lines on a card, in a hand like a fencing diagram:
+
+*Opposition I could teach you in a season. Guidance takes years, which is why nobody stays for it. You have stayed. — S.*
+
+He put the card in the drawer with the others. The deep one. The one nobody emptied. He sat a while with his hands flat on the desk. Then he blew the lamp out, like a man putting a weight back on a scale.
+
+---
+
+## Part 7: What Lin Hao Stood
+
+At nine on Sunday he stood on the mark Mu Chen had showed him, one pace behind the fifth-rank bench and half a pace left of the scale, hands behind his back, and watched what the metal was asked.
+
+That was the whole of the instruction, and it was more instruction than he had ever had, because a bench where five men worked in silence asked its questions out loud. By the second Sunday he knew what the room's listening sounded like. When a pass was going to take, every man in the room went quieter a half-second before the hammer. As if the metal could be offended by talk. And when it took, the piece *rang* — one held note — and five faces did nothing at all about it. That nothing was the loudest thing on the bench.
+
+He carried twice. The master scale moved for a consignment stock, and Mu Chen said, "Weights," and Lin Hao brought the tin, and set the weights by the pan, and went to hand the last one to the smith who had asked for it, and Mu Chen said, without turning:
+
+"Set it down. You never hand a weight."
+
+"Why not?" Lin Hao asked.
+
+"Weigh your hands some Saturday," Mu Chen said, "and find out."
+
+Lin Hao set the rest of the weights down. He thought about it for the rest of the morning. He got it on the walk home, and stopped walking for a second because of it.
+
+Your hands are warm. A handed weight carries your hands' warm into the pan with it, and the scale reads the boy instead of the metal, and nobody down here lies to a scale, not even by accident, not even kindly.
+
+*Set it down. Don't hand it.* It was the same sentence Mu Chen had said about the examination, and the same one Wu Zhangkong had said about the twenty minutes, and the same one the book had been saying to him all year about a sentence with its coat on. Everybody he had ever believed was telling him the same thing in different trades: the true reading has no hands on it.
+
+That night he wrote the numbers first.
+
+*Three hundred and seven.*
+
+*One thousand four hundred and twenty-four.*
+
+The ledger stayed shut. Nothing adapted, nothing defeated, nobody measured but himself and one consignment of stock that had no opinion of him.
+
+At the bottom, in the small hand, the whole week:
+
+*Sunday. Everybody was somewhere. It turns out a person can be somewhere too, and that is the entire entry.*
+
+He closed the book and put out the lamp, and slept with his hands cool.
 
 ---
 
 ## End of Chapter 65
 
 ### Chapter Summary:
-Lin Hao makes his **first grown thing** — a strap that does not know he is better than the bottom. It took
-**three weeks** at Old Zhou's forge. *"This is one of mine,"* Old Zhou says. *"Not one of yours. One of
-mine."* **Pays the K4 thread's first installment** (battle-armor smithing: grown, not forged). **Wulin, in
-parallel, learns the other kind of waiting** (canon ch 230): the **Azure-veined Vine** is rare, *"you can't
-forge a soul beast, you find it or you don't,"* and he has been waiting since he was six. **Mu Chen names
-the two kinds of bottom** — a forge you can stand at, an auction house you can only wait at — and neither
-boy can skip his. **Gu Yue:** *"I was at the bottom for years and didn't know I was there. You knew. That's
-the difference."*
+**The first full ensemble-panel chapter (PERSPECTIVE PANEL DOCTRINE, locked this chapter): one Sunday and its week, seven windows, nobody's window is Lin Hao's until the last one.** **Zhang Yangzi** runs the Sunday dock — the east crates, Little Black on the office cot, and a letter from **Wang Jinji** (rank 25 at the new academy, "their roof is slate") that exists only because our AU kept Zhang Yangzi at Eastsea when canon sent him away with Wang Jinxi. His reply: *"I don't miss being in there… and I want it to be true, and it is, so that's settled."* **Xie Xie** is caught on the mecha bay roof a fourth time — and the bay master is practical at him: *"Hold the lamp."* He holds it two hours over an open shoulder actuator and asks the question that earns him the road: *"Eight of them carry. What are the other three for?"* — *"Failing… You skip the three, and one day the army takes the licence back."* Saturday, six a.m., bring nothing: **the mecha-craftsman road from canon's far anchor, started three years early.** **Xu Xiaoyan** gets her morning match — nine a.m., daylight, against **Wei Xiaofeng** (rank 26): she loses in **three minutes and twelve seconds**, put down three times, and knows *while it is happening* that it is the best match she has ever fought. Wei Xiaofeng's one gift: *"Stop looking for the light. It isn't coming to help you… The man who booked the dark on you — he's telling you what you are by what he schedules."* **Gu Yue** books the 5:40 platform slots — *"I don't need a spotter. I need the clock to be the only one watching"* — the dawn column itself a butterfly (the afternoons filled after the win). Six elements in a row, *"like a signature she does not leave."* Wu Zhangkong reads the sheet every Friday **and leaves it alone — "the hardest technique he had ever learned."** Once, she and Lin Hao pass on the hall steps, six a.m., neither stopping, both clocking it: *"unspent, like everything else that mattered."* **Wulin's** Sunday: forty kilograms of scrollwork he doesn't respect, strikes counted instead of money, and Friday's letter — a sighting at the Skysea fish market that is *"the second daughter of the Huang family"* — a wrong one. His reply: *"Wrong is not nothing — wrong is the street checked. If you ever hear of another, I am still at this address, and I will still be for years."* Na'er is not found; the thread stays alive by return post. **Wu Zhangkong writes to Shen Yi:** *"Correction is harder than anything I have ever asked of my own body… not knowing is the job."* Four of the five described; the fifth withheld on purpose: *"He is already the best of them at the thing you taught me last, which I did not learn in a season."* Shen Yi's reply, on a card, two lines: *"Opposition I could teach you in a season. Guidance takes years, which is why nobody stays for it. You have stayed. — S."* **Lin Hao's** Sunday: the standing place, the room's listening, two carries — and Mu Chen's one correction, *"Set it down. You never hand a weight"* — a handed weight carries hand-warmth into the pan and *"the scale reads the boy instead of the metal."* The whole year in one trade: **the true reading has no hands on it.** Numbers: 307 / 1,424; ledger 110 held; *"Everybody was somewhere."*
 
-### Canon Anchors (all verified):
-- **The second-seal items are rare** — *"the necessary items were far too rare! He had already searched
-  Eastsea City's auction houses and even the Eastsea Museum's auction in hopes of finding them but had come
-  out empty-handed"* — canon ch 230 (verified verbatim in the frozen quote-sources).
-- **The three items** — *"Azure-veined Vine, a thousand-year Land Dragon Tendon, and a thousand-year Sea
-  Dragon Marrow"* — canon ch 230.
-- **A battle armor is grown, not forged** — ch64 mechanic, continued.
+### Canon Anchors (all verified against held files):
+- **Xie Xie's road** — canon ch 229 second half (saved complete in `canon_extract/chapters/canon_229.txt`): at the far end of the skip he is a rookie **first-rank mecha craftsman**. The bay, the licence, and the Saturday arrangement are that road's first rung, pulled early by our divergences.
+- **Xu Xiaoyan** — spiritual power 61, two rings (canon c183); the Starwheel's night nature (canon); her awareness and coordination (canon c204, cited in ch57). The three-minute loss is hers, not the starwheel's.
+- **Wei Xiaofeng** — **left class zero first** (canon); rank 26 (footer track); his leaving-first self-possession kept intact — he gives one truth and walks before the answer.
+- **Wang Jinxi** — "Leaving," canon ch 153, staged in our ch43; last known rank 25 (canon). The letters are new; the friendship they carry is the staged ch43 embrace, continued.
+- **Zhang Yangzi** — canon transfers out with Wang Jinxi; 🔴 **our AU keeps him at Eastsea** (the standing divergence, recorded in CHARACTER_STATS §4 as AU). Canon's own description — straightforward and kind — is the panel's spine.
+- **Wulin** — the forging economy and the tin (fic continuity); far anchor: peak fourth-rank smith, contribution points all from forging (canon ch 229 second half). Na'er's disappearance is canon; **she is NOT found here** (lock held).
+- **Shen Yi is Wu Zhangkong's teacher** — canon; already on-page in our fic (K5 open). 🔴 **The Shrek-origin reveal stays LOCKED** (canon ch 204, scheduled); the letter names neither.
+- **The adjustments** — canon ch 229, staged ch63–64; here shown from the teacher's own side.
+- **Canon access:** novelhall's catalog and chapter URLs 404'd on 2026-08-31; nothing new was fetched and nothing is cited above that is not already held on disk.
 
-### AU / Butterfly:
-- 🔴 **THE K4 THREAD PAYS ITS FIRST INSTALLMENT.** Lin Hao makes a strap that does not know he is better
-  than the bottom — the first *grown* thing, after a lifetime of forging from above. *"Early is a person who
-  has never been at either bottom."*
-- 🔴 **TWO KINDS OF BOTTOM.** A forge you can stand at (Lin Hao) and an auction house you can only wait at
-  (Wulin). Neither can be skipped. *"We've been getting ready for a thing that hasn't come since we were
-  six."*
-- 🔴 **GU YUE: TWO KINDS OF BOTTOM, TWO KINDS OF KNOWING.** *"I was at the bottom for years and didn't know
-  I was there. You knew. That's the difference. One kind you go to on purpose. The other you're just at."*
-- **WULIN'S PARALLEL** (canon 230): the Azure-veined Vine is rare, can't be forged, waited for since six.
+### AU / Butterfly (cause → effect, panel by panel — the divergence ledger spent):
+- **CAUSE: class zero WON the tournament (canon: out at the top sixteen).** → The platform hall's afternoons filled → the dawn column exists → Gu Yue's unwitnessed hour has a slot to live in. → Skysea remembers the boy who held the cup → the chandlery writes to Wulin at all → a wrong sighting arrives and is answered — attention's long tail, priced in false leads.
+- **CAUSE: nobody was hurt (canon: two incapacitated).** → The tournament is a story about winning, not triage → Xiaoyan's daylight fame is a thing she must spend rather than a debt she must repay → the morning match is a question, not a convalescence.
+- **CAUSE: Zhang Yangzi stayed (canon: he leaves with Wang Jinxi).** → The dock runs better and knows it → the friendship continues by post instead of ending on a shared road → Wang Jinxi gets a letter's worth of news instead of a companion witness; both arcs continue separately, alive.
+- **CAUSE: the Sealand file was swept (canon has no file).** → Xie Xie watched a registry close on a person → his road is machines — *"a licence the army issues and can take back"* — the honest-tool instinct that canon only gives him at thirteen.
+- **CAUSE: the scale was lent; Sundays opened (ch63–64 AU).** → Lin Hao stands a fifth-rank bench at ten → the weights correction, the room's listening, and a sentence that joins Mu Chen's gate, Wu Zhangkong's twenty minutes, and line 109 into one trade lesson.
+- **The dawn column, the Saturday arrangement, both letters, and the sighting-that-wasn't are AU inventions** spent from the causes above; no new canon is claimed.
 
 ### NOT triggered (all remaining locks held):
-second seal break · Hawk-Soul Union · Wu Zhangkong's origin named (Shrek) · who Long Bing is · Na'er found ·
-Gu Yue's true nature (Silver Dragon King) · battle armor worn · the fusion door opened · the card's contents
-revealed · who forged the blade · what answered the hawk · who Mu Chen's first was · who has been giving him
-things · **the fourth-ring arc (locked until rank 40 — he is at 39)** · the romance named
+second seal break · Hawk-Soul Union · Wu Zhangkong's origin named (**the letter to Shen Yi names neither place nor past**) · who Long Bing is · **Na'er found (a false lead only — the letter is answered, the road stays open, the girl is not her)** · Gu Yue's true nature (**her panel shows the hour, not the reason — "the dawn was the honest one" is all the interiority given**) · battle armor worn · the fusion door opened · the card's contents revealed · who forged the blade · what answered · what the ape was · who Mu Chen's first was · who has been giving him things · the fourth ring (K2 — locked, waiting; rank 36 of a 40 ceiling) · **line 109 stays unfinished — passed on the steps, unspent** · **the fifth-rank examination NOT taken — the gate holds; he stands and carries only** · **nobody defeats anybody this chapter — the ledger holds at 110 by design**
 
 ### Character Progression:
-- **Lin Hao:** rank **38 → 39 (Soul Elder)** · spiritual power **303 → 310** · **hawk 1,430 → 1,442** ·
-  three purple rings · 4th rank (Grandmaster) · **ledger 114 → 116** · Sword Intent · **first grown thing**
-- **Wulin:** the Azure-veined Vine, rare, can't be forged · waiting since six
-- **Xie Xie:** the bearing assembly for his mecha, not at any auction · saving his points · **the third
-  kind of bottom** — *"we've been getting ready for a thing that hasn't come since we were six"*
-- **Old Zhou:** *"This is one of mine. Not one of yours."*
-- **Mu Chen:** **names the two kinds of bottom**
-- **Gu Yue:** **two kinds of bottom, two kinds of knowing** · *"I was at the bottom for years and didn't
-  know I was there"*
+- **Lin Hao:** rank **36 → 36 (Soul Elder)** · spiritual power **301 → 307** · **hawk 1,418 → 1,424** · three purple rings · 4th rank (Grandmaster) · **ledger 110 → 110 — held; nobody adapted anybody** · Sword Intent · **second Sunday stood; two carries; one correction: "Set it down. You never hand a weight"** · the trade lesson joined: *the true reading has no hands on it*
+- **Wu Zhangkong:** the adjustments from the inside — the letter to Shen Yi, the dawn column left alone ("not knowing is the job") · **Shen Yi's reply: "You have stayed"** · the withheld fifth ("you will understand the omission")
+- **Mu Chen:** the bench opens its Sundays · one correction in two hours, and it is metrology · the drawer stays locked
+- **Tang Wulin:** rank **18** · forty kilograms of scrollwork done like hinges · **strikes counted, not money** · the false lead answered the same night: *"Wrong is not nothing — wrong is the street checked"* · the tin heavier by one right letter
+- **Gu Yue:** rank **21**, two rings · **the 5:40 slots, the clock the only witness** · six elements, exact, less small than last month · passed him on the steps; neither stopped
+- **Xie Xie:** rank **23** · caught, lamp-held, question-earned · **Saturday, six a.m., bring nothing** — the mecha road begun at ten (canon's own destination, three years early)
+- **Xu Xiaoyan:** rank **19** · **three minutes and twelve seconds in daylight against rank 26 — a loss she builds with** · "Stop looking for the light. It isn't coming to help you"
+- **Zhang Yangzi:** rank **27** · the Sunday dock, the manifest, the letters both ways · *"I want it to be true, and it is, so that's settled"*
+- **Wei Xiaofeng:** rank **26** · one match, one truth, left before the answer — his own thing, on his own feet
+- **Wang Jinxi (by letter):** the new academy, the twice-size forge, "acceptable," **rank 25, still** — the road continuing off-page
 
 ### Character States:
-- **Lin Hao:** **rank 39 (Soul Elder)** · spiritual power **310** · **hawk 1,442 — eight years to the fourth
-  ring** · **three purple rings** · fist 2,612 kg (floor) · **🔨 4th rank (Grandmaster), the Halo** · Sword
-  Intent · **Ghost Shadow Perplexing Track** · **at the bottom, first grown thing made**
-  nobody knows
-- **Wulin:** the Azure-veined Vine, rare · waiting since six · **can't forge a soul beast**
-- **Mu Chen:** 8th-rank Saint Craftsman · **names the two kinds of bottom** · *"neither of you can skip yours"*
-- **Old Zhou:** first-rank blacksmith, forty-one years · *"one of mine. Not one of yours."*
-- **Ranks at chapter end:** Lin Hao **39 (Soul Elder)** · spiritual power **310** · **🌪 hawk 1,442** ·
-  **ledger 116** · **💜 three purple rings** · **⚡ fist 2,612 kg (floor)** · 🔨 **4th rank (Grandmaster)** ·
-  ⚔️ Sword Intent · **Ghost Shadow Perplexing Track** — **NOT triggered:** second seal, Union, Wu
-  Zhangkong's origin, Long Bing, Na'er, Gu Yue's nature, battle armor worn, fusion door, the card's
-  contents, who forged the blade, what answered, the ape, Mu Chen's first, who has been giving him things,
-  **the fourth-ring arc (rank 40 gate)**, the romance named
-- **Canon coverage:** canon ch 230 adapted · **ch 231 onward not yet used**
+- **Lin Hao:** **rank 36 (Soul Elder)** · spiritual power **307** · **hawk 1,424** · **three purple rings** ·
+  fist 2,612 kg (floor) · **🔨 4th rank (Grandmaster), the Halo** · Sword Intent · **Ghost Shadow Perplexing
+  Track** · **the Sunday standing place held (second week)** · ledger 110; line 109 unfinished by choice
+- **Wu Zhangkong:** **SKY ICE — two-word battle armor master** · the gentling now has a teacher of its
+  own — "You have stayed"
+- **Ranks at chapter end:** Lin Hao **36 (Soul Elder)** · spiritual power **307** · **🌪 hawk 1,424** ·
+  **ledger 110 (held — a chapter in which nobody defeats anybody, on purpose)** · **💜 three purple
+  rings** · **⚡ fist 2,612 kg (floor)** · 🔨 **4th rank (Grandmaster)** · ⚔️ Sword Intent · **Ghost Shadow
+  Perplexing Track** — **NOT triggered:** second seal, Union, Wu Zhangkong's origin, Long Bing, Na'er
+  **(a false lead only)**, Gu Yue's nature, **battle armor worn**, fusion door, the card's contents, who
+  forged the blade, what answered, what the ape was, who Mu Chen's first was, who has been giving him
+  things, **the fourth ring — ceiling 40, he is 36, the arc is locked**, **the examination not taken —
+  the gate holds**
+- **Canon coverage:** interstitial (F6 walked, weeks two–three); no canon chapter adapted — the skip is
+  canon-empty by design; every panel traces to a held anchor (canon_229.txt second half · c183/c184
+  scoping · c153 · c204 · c288) or is AU-labelled in the butterfly ledger above
 
 ### Ensemble — canon-verified state
 
@@ -247,5 +301,4 @@ _Every number below traces to a canon line or is labelled AU._
 
 Canon position anchors for this point in the story: everyone in class zero is **10 years old** through the tournament arc (canon c221: *"They're so young though, only ten years old!"*); the Shrek working-student dorm holds **four** — Tang Wulin, Xie Xie, Gu Yue, Xu Xiaoyan (canon c288; + Lin Hao, AU = five invitees). Departure order: **Wei Xiaofeng left class zero first** (canon), then **Wang Jinxi transferred to another academy** (canon ch 153, staged in our ch43). **AU divergence:** in canon Zhang Yangzi transfers out with him; in this story Zhang Yangzi embraces Wang Jinxi on the steps and **stays at Eastsea Academy**, out of class zero.
 
-🔴 **REALM GAP LAW (v2.90):** every ten ranks is a wall, not a step. Lin Hao is a **Soul Elder with three purple rings**; everyone else here is rank 17–23 with two. None of them can defeat him — they can outlast him, survive him, cost him. Gu Yue does exactly that, because she is the one he cannot read.
-
+🔴 **REALM GAP LAW (v2.90):** every ten ranks is a wall, not a step. Lin Hao is a **Soul Elder with three purple rings**; everyone else here is rank 17–27 with two. None of them can defeat him — they can outlast him, survive him, cost him. Gu Yue does exactly that, because she is the one he cannot read. **This chapter contains no combat of his at all — a deliberate rest beat; the law is not spent cheaply.**

@@ -281,7 +281,7 @@ second seal break · Hawk-Soul Union · **Shrek named as anything but a city nam
 ring filled · **the source of the excess named**
 
 ### Character Progression:
-- **Lin Hao:** rank **238 → 238 (Soul Elder)** · spiritual power **205** (not re-measured; no number invented) ·
+- **Lin Hao:** rank **32 → 32 (Soul Elder)** · spiritual power **205** (not re-measured; no number invented) ·
   **hawk 1,178 → 1,186** · three rings · **four hours of stillness at the forest, unexplained** · **the first
   place where large is not the interesting thing**
 - **Tang Wulin:** rank **16** · at the grave, his breath did something
@@ -308,7 +308,7 @@ _Every number below traces to a canon line or is labelled AU._
 
 - **Tang Wulin:** rank **16** (canon c183) · one purple ring
 - **Xie Xie:** rank **22** (canon c134) · two rings
-- **Gu Yue:** rank **20** · **TWO rings** (canon c224) · spiritual power **153** at nine (canon c114)
+- **Gu Yue:** rank **21** · **TWO rings** (canon c224) · spiritual power **153** at nine (canon c114)
 - **Xu Xiaoyan:** not yet introduced
 - **Zhang Yangzi:** rank **25** · spiritual power ~27 after Little Black · **still at Eastsea Academy**; out of class zero since ch43 · **NOT going to Shrek**
 - **Wang Jinxi:** **LEFT in ch43** (canon ch 153 "Leaving") · last known rank 25 · spiritual power 18 (canon c113) · transferred to another academy · **NOT going to Shrek**

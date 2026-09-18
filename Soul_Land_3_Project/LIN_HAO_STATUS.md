@@ -7,21 +7,23 @@
 **Regenerated from the chapter footers by `checks/build_status.py`. Do not hand-edit this block;**
 **edit the footers or `checks/ensemble_schedule.py` and re-run the generator.**
 
-## Position: end of Chapter 71
 
-Current soul rank 45. Current spiritual power 517. (This line exists so the SYNC check can find both values.)
+
+
+
+
 
 | Line | Value |
 |---|---|
-| **Rank** | rank **45** — **Soul Ancestor** |
-| **Effective combat power** | 🔴 **Soul Emperor (61–70)**, ceiling Soul Emperor peak — **16–25 ranks above his own number** |
-| **Rings** | **4 black** — perfectly compatible, so they exceed normal black |
-| **Spiritual power** | **517** |
-| **Spirit soul (Gale Hawk)** | **1,520 years** |
-| **Ledger (opponents adapted)** | **125** |
-| **Smithing** | **4th rank — Grandmaster** (canon c40: 1–2 Master · 3–4 Grandmaster · 5–6 Master Craftsman · 7–8 Saint Craftsman · 9 Divine Craftsman) |
+| **Rank** | rank **45** — **the fourth ring TAKEN (BLACK, ten-thousand-year); 41–50 band; the 41–50 title is deliberately unnamed (no canon source)** |
+| **Effective combat power** | 🔴 **SOUL EMPEROR (61–70)**, ceiling Emperor peak (ruled ch68) — **16–25 ranks above his own number** |
+| **Rings** | **4 — three purple + ONE BLACK (ten-thousand-year ice-water dragon jiao, the intermediate guardian)** |
+| **Spiritual power** | **2,872** |
+| **Spirit souls** | **Gale Hawk 3,199 years · + the dragon jiao 12,210 (12,000 at the ch68 bond, AU — counted; POWER MODEL §Second Spirit Line)** |
+| **Ledger (opponents adapted)** | **168 — line 168: *He woke. We're good enough. The academy came himself.* (the user's seed, spent). WZK stays off the book (ch69 ruling: he is the margin — 61 seconds / 9 armored / 13 years). Line 109 SPENT (ch71); the first hurt carried quiet (ch72)** |
+| **Smithing** | **5th rank — Master Craftsman (ch67, winter two — second-youngest in Branch records)** (canon c40: 1–2 Master · 3–4 Grandmaster · 5–6 Master Craftsman · 7–8 Saint Craftsman · 9 Divine Craftsman) |
 | **Swordsmanship** | **⚔️ Sword Intent** — absurd at ten; adults spend lifetimes below Intent |
-| **Rank ceiling** | **50** — 4 rings cover ranks 41-50 (Soul Ancestor); 5 ranks of headroom before the 5th ring is needed |
+| **Rank ceiling** | **50** — 4 rings cover ranks 41–50; 5 ranks of headroom before the fifth ring |
 
 ## 🔴 THE BENCHMARK — normal 3rd / 4th / 5th-ring masters, from canon
 
@@ -33,20 +35,20 @@ Current soul rank 45. Current spiritual power 517. (This line exists so the SYNC
 | Trump card | — | — | — | **🃏 Hawk-Soul Union** |
 | Sword realm | — | — | — | **Sword Intent** |
 | Own techniques | — | — | — | **five self-created strokes** |
-| **Effective power** | Soul Elder | Soul Ancestor | **Soul King** | **Soul Emperor** |
+| **Effective power** | Soul Elder | Soul Ancestor | **Soul King** | **Soul Emperor — baseline; ceiling unrevealed** |
 
 Canon, verbatim: *"Normally, soul masters don't get a ten-thousand-year soul ring until rank 50."*
 His fourth ring is planned at ten-thousand-year+. **He will do at ~40 what canon says waits for 50.**
 
 ## Ensemble at this chapter (from `checks/ensemble_schedule.py`)
 
-- **Tang Wulin:** rank **18** · **blacksmith representative at Shrek, unchallenged** (canon c305) · one purple ring
-- **Xie Xie:** rank **23** · **holds the second profession council seat for blacksmithing in trust for Lin Hao** (AU, ch70) · **eleven ingots under his bed** (AU, ch71) · two rings
-- **Gu Yue:** rank **21** · **TWO rings** (canon c224) — **Soul Grandmaster** · **at Shrek** (canon c288) · spiritual power **153** at nine (canon c114)
-- **Xu Xiaoyan:** rank **19** · two yellow rings · spiritual power **61** (canon c183) · **at Shrek** (canon c288)
-- **Zhang Yangzi:** rank **27** · spiritual power ~27 after Little Black · **still at Eastsea Academy**; out of class zero since ch43 · **NOT going to Shrek**
-- **Wang Jinxi:** **LEFT in ch43** (canon ch 153 "Leaving") · last known rank 25 · spiritual power 18 (canon c113) · transferred to another academy · **NOT going to Shrek**
-- **Wei Xiaofeng:** rank **26** · **left class zero first** (canon: *"Wei Xiaofeng was the first to leave"*) · still at Eastsea Academy · **NOT going to Shrek**
+- **Tang Wulin:** rank **28** · two rings, ~4,000 years of spirit energy (canon c232) · + the external right-claw soul bone (canon c240–241) · **the armor pact signed (canon 242, staged ch69)** · the seal set complete, unbroken · **going to Shrek** (canon c288)
+- **Xie Xie:** rank **33** · three rings (canon) · first-rank mecha craftsman candidate · Tang Sect associate · **going to Shrek** (canon c288)
+- **Gu Yue:** rank **31 (AU — canon gives no rank at 13)** · three rings (canon c232) · spiritual power **700+, Spirit Sea (canon c231)** · Spirit Pagoda · **going to Shrek** (canon c288)
+- **Xu Xiaoyan:** rank **30** (crossed ch68) · two rings, the second-spirit-soul question open · spiritual power **400+ (canon c231)** · class-three associate · **going to Shrek** (canon c288)
+- **Zhang Yangzi:** rank **31 (AU)** · the Eastsea dock — **staying** · at the platform with the manifest
+- **Wang Jinxi:** **LEFT in ch43** (canon ch 153) · last known rank 25 · away; the letters still cross · **NOT going to Shrek**
+- **Wei Xiaofeng:** rank **30 (AU)** · **left class zero first** (canon) · still at Eastsea — "Eastsea will keep"
 
 ## 🔴 LOCKED — current as of the last regeneration
 
@@ -57,7 +59,10 @@ His fourth ring is planned at ten-thousand-year+. **He will do at ~40 what canon
 - ✅ **F1 CLOSED (ch40).** The purple-ring skill evolution is on-page: Gale Talon and Hawk-Soul
   Union both upgraded to thousand-year tier when the rings re-formed. Canon: *"if his spirit soul
   was upgraded, then the soul skills it provided would be upgraded too."*
-- **THE FOURTH RING — LOCKED (v2.98).** Second spirit soul is a **DRAGON, ice + water dual
+- **THE FOURTH RING — ✅ EXECUTED ch68, exactly as locked** (40→45; the black dragon jiao; one month,
+  stations only; Frost Abyss Sword; the folded domain; Domineer; looks ~16). **The duel with Wu
+  Zhangkong is booked for next month.**
+- **THE FOURTH RING (historical lock text).** Second spirit soul is a **DRAGON, ice + water dual
   element, ten-thousand-year+**. Absorption takes **ONE MONTH** and changes everything — martial
   soul, body, **appearance (he ends up looking ~16)**, a little of his personality, the rings.
   **Rank 40 → 45 directly.** Martial soul gains water + ice, evolves to **TOP-LEVEL**, and
@@ -65,9 +70,9 @@ His fourth ring is planned at ten-thousand-year+. **He will do at ~40 what canon
   ring skill) and **DOMINEER** as the fourth ring's skill. 🔴 **"Divine Stormbringer" is
   CANCELLED** — never name or foreshadow it. 🔴 **The month gets no invented story time:** canon
   events happen without him; the ensemble carries it.
-- **THE EFFECTIVE POWER LAW — DERIVED, not hardcoded.** Effective **Soul Emperor** (61–70), from his rank and ring count.
-  A lower-realm character defeating him is nonsense **from ch40**. 🔴 The band moved at ch71
-  (the fourth ring, the top-level martial soul and the Domain); state.py computes it.
+- **THE EFFECTIVE POWER LAW — LOCKED; RULED UP AT ch68.** Effective **Soul Emperor (61–70)**, ceiling
+  Emperor peak, from ch68 (rank 45 + the black ring + a top-level martial soul + the folded domain).
+  Earlier era: effective **Soul King**, from ch40. A lower-realm character defeating him is nonsense **from ch40**.
   🔴 **But Gu Yue HAS beaten him five times** — he says so at ch53 and ch58. Those happened
   before, at two rings. **Do not erase them to satisfy the law.**
 - **HE IS NOT DEAD (D017).** He lives through all of Soul Land 3 and beyond. His fate is 🔓
@@ -80,13 +85,16 @@ His fourth ring is planned at ten-thousand-year+. **He will do at ~40 what canon
 
 ## Progression traces (derived, not typed)
 
-- rank: 22 → **45** across 68 recorded chapters
-- spiritual power: 178 → **517** across 51 recorded chapters
-- hawk: 700 → **1,520** years across 45 recorded chapters
-- smithing: 2 → **4** (Grandmaster) across 47 recorded chapters
+- rank: 5 → **45** across 79 recorded footers (held since ch68; effective Soul Emperor 61–70, all-out Soul Sage reserved; the band title never said on-page)
+- spiritual power: 41 → **2,872** across 66 recorded footers
+- hawk: 906 → **3,187** years across 54 recorded footers
+- ledger: 78 → **168** across 31 recorded footers (168 held mid-exam, ch76–85)
+- smithing: 3 → **5** (Master Craftsman) across 21 recorded footers (last recorded ch72)
+
+_All counts from `checks/state.json` (the footers are the single source)._
 
 Full canon citations for every ensemble number: **`CHARACTER_STATS.md`**.
-Full laws: **`THE_CODEX.md`** — §THE ADVANTAGE LEDGER, §THE REALM GAP LAW, §THE FOURTH RING LAW.
+Full laws: **`THE_CODEX.md`** — §THE ADVANTAGE LEDGER, §THE REALM GAP LAW, §THE FOURTH RING LAW, §THE RATE FLOOR, §BODY PRIMACY + THE KIT LAW, **§THE SOUL SPIRIT LAW (2026-08-31: adaptation feeds the entire existence — the spirit is part of him, so it grows; feedback one part, adaptation the main engine; rings are records and never grow, spirits have their own laws; the hawk steps with every body step, on-page)**, **§THE PROSE LAW (2026-08-31: skips are walked as scenes, never summarized — every tracked line gets its on-page beat; appearance on-page at every growth station; canon panels used full; length natural, never fixed — no quotas)**, **§THE CHARACTER LAW (2026-08-31: user teachings instruct the WRITER, never the cast — mechanics live in events, numbers, and observation; nobody in-world has a theory of the hawk, because nobody has ever seen one; dialogue that could be pasted into the codex is wrong)**.
 
 <!-- END GENERATED -->
 
@@ -99,6 +107,19 @@ Full laws: **`THE_CODEX.md`** — §THE ADVANTAGE LEDGER, §THE REALM GAP LAW, �
 > generated file, the generator briefly overwrote them. They live here now and are **appended to
 > `LIN_HAO_STATUS.md` on every regeneration** by `checks/build_status.py`.
 >
+> **CURRENT TRACKED STATE (ch101 — sync law; single-chapter span canon 286):** rank **45** · spiritual power **2,824 (recovering)** · hawk **3,199** · ledger **168 held** · 🔴 **WEAPON INTENT: first test PASSED (the lake lesson); WZK's last correction ('keep the first body fluent'); THE PROMOTION — 'we confer'** · **line 109 FINISHED · the first hurt carried quiet (ch72)** · **ch101: the love ledger SPOKEN once ('a man doesn't bid against his captain's gift'); the two-word dream set; the Pagoda history = D22's biggest meal — the registration morning = ch102 (canon 287)**
+
+## Position: end of Chapter 101
+
+Current soul rank 45. Current spiritual power 2,824. (This line exists so the SYNC check can find both values.) Hawk-grip 3,199 · ledger 168 HELD · THE LAKE LESSON DONE (weapon intent's first test passed; 'we confer' — the promotion) · the ledger spoken once; the two-word dream set. The registration morning + the apology to Cai = ch102 (canon 287 as ore, ID 10716132 / novelfull slug chapter-287-*.html).
+> ledger **168 — *He woke. We're good enough. The academy came himself.* (the user's seed, spent; WZK stays the margin — 61 seconds / 9 armored / 13 years)** · smith **5 (Master Craftsman)** · **four rings: three purple + one BLACK (the dragon
+> jiao, ch68)** · **FROST ABYSS SWORD (top-level) · Frost Abyss Domain (folded) · Domineer** · effective
+> **Soul Emperor (61–70)** · looks ~16 · **THE DUEL FOUGHT (ch69): Still Water blooded — a red line on the teacher; lost honestly in 61 seconds (9 armored); the arithmetic curriculum: 90 and 13 in a year. NOW IN SHREK CITY (ch70): the estate lot won at the Yaluo — Heavy Silver + Sky Dragon Iron by weight, sight-read through the crate ("The crate says mixed. It isn't") — Mu Chen's "introduce yourself" answered in metal; Wulin's fourteenth counted in days; the exam six out.** · **CH73: the count named once (*Four passes. Five of us.* / *I know the number.*); the dignity trade heard through a door that never quite closes; the pulses timed 11 s → 14 s; the exam TOMORROW — and Wulin not awake.** · **CH74: the pamphlet and the four requirements (the fourth 20,000 years old — monsters); the last watch; the exam hour missed by the clock; the pulses at 16 s.** · **CH75: THE SEED — *I don't care about Shrek Academy… Academies change their rules. And the academy came himself.*; the count retired at 17 s; the terms taken (harder, working students) — then REFUSED: **CH76 THE WAGER — any outer-court student of the hall's choosing vs him; win = the rules change for the team (lateness, penalties, working-mark die); void if one of five fails a trial; the word *any* is the hall's now. Trial 1: 10/10 — the hall's first SPIRIT-answer (Wulin's 10 = the first blood-answer; the scale too short for him). The fourth ring turned over in the King's blood · CH77: SWORD INTENT SPENT one stroke's worth — War Stomp's edge taken off across the girls (canon's own margin, provided); WZK heard the wager: "Win." — the duel conditional · CH78: trials 10·10; the gates' grammar given (*I grew up next to one of these. Ours was smaller.*); the Track's home ground reached · CH79: the Track SPENT live (six gates of seams); **the maintenance report** (*the sixth gate's spring is tired — I can show your smiths*); trials 10·10·10.**
+>
+> **Kit (ch67–68):** six strokes (**Still Water** created, winter three) · **Mysterious Heaven Method · Purple Demon Eyes (third stage) · Disorder Splitting Wind Hammer** · **the Gale Talon black-edged** · the deep-water body (**regenerating · cold-immune · fist 5,000+, the machine ran out**) · 🔴 **THE STORM NEVER LEFT: wind is still the first voice, lightning the second — the Frost Abyss CARRIES the storm, it did not replace it (ch69's siege spends wind, called lightning, hammer rhythm, and the bare fist, then ice on top)** · 🔴 **THE FUSION SOUL: his father's iron sword, evolving always — the IRON (the sword's own body) + four elements, lightning/wind/water/ice; count the metal: five. Nothing deleted by an evolution — the iron takes each element like a quench (the blade rings its own note against the Sky Ice's gauntlet: metal answering metal; the father's-iron origin is a scheduled reveal — never denied, never spent early).**
+>
+> **🔴 Appearance & mutation (ch69 state — APPEARANCE & MUTATION LAW v2.56 + THE SOUL SPIRIT LAW, both enforced):** looks ~16 — *"sixteen in the face, thirteen in the book"* is now a measurement, not a saying · tall for his age, heavier through chest and arm than tall accounts for · jaw in, stillness that is not slowness · **the hawk-gold lock at his temple now carrying a colder thread, like light through ice** · **the forearm marks raised, gone blue-black at the edges the way winter rivers go** (deep-water signature, ch68) · **a violet light stands in the gold of his eyes when he reads** (Purple Demon Eyes, series-level canon) · **the hawk's feathers winter-tipped blue-black, its pressure a full season deeper** (the spirit stepped with the body — one ladder, two sides). The world reacts on-page: clerks underline *thirteen* harder, butchers file him under *young man*, conductors stamp the youth fare anyway, Xie Xie calls it *"a face that is a personality."*
+
 > The per-chapter numbers (rank, spiritual power, hawk, ledger, smithing) are in the GENERATED block
 > at the top of `LIN_HAO_STATUS.md`. These panels are the *reference* material: the physical panel,
 > the techniques panel, cultivation speed and the specialty.
@@ -154,16 +175,50 @@ it the whole holder.
 
 | Line | Current state | Source / floor |
 |---|---|---|
-| **Fist / endurance** | **2,612 kg — MEASURED at ch 32** · 🔴 **≈ a FOUR-RING SOUL ANCESTOR in raw physical strength alone.** Wulin at rank 15 is 1,156/1,348 kg ≈ a normal **3-ring** master. **So Lin Hao is a ring tier above Wulin in Wulin's own best attribute** — and physical is not even Lin Hao's best thing; his overall combat is Soul King. | The endurance machine, re-tested on Wu Zhangkong's order. Gu Yue: 115 kg (canon). **Hard floor: 2,612 kg** |
-| **Raw strength** | **Unmeasured — and 🔴 WULIN IS STRONGER, BY A LOT.** Canon puts Wulin at **1,156 / 1,348 kg** at age 9–10 and **2,700 kg** with the Golden Dragon Claw, and canon later says his *"fundamental strength had increased significantly."* **Lin Hao's 2,612 kg is roughly half of Wulin's bare-handed number.** In a clinch, Wulin wins — that is not close and must never be written otherwise. Held a thousand-kilogram-adjacent load across ch 26 | Canon anchor: Wulin's full strength is **over 1,000 kg** (ch 128) and Lin Hao matched his hammers in ch 26 — so the floor is high but the number is unknown |
+| **Fist / endurance** | **5,000+ — the machine RAN OUT at its ceiling (ch68, day 31, on-page)** · the ch-32 floor was **2,612 kg** · 🔴 **the emergence re-based the body: barehanded past Wulin's dragon-claw 3,998 (canon c114's machine and ceiling).** Wulin at rank 15 is 1,156/1,348 kg ≈ a normal **3-ring** master. **So Lin Hao is a ring tier above Wulin in Wulin's own best attribute** — and physical is not even Lin Hao's best thing; his overall combat is Soul King. | The endurance machine, re-tested on Wu Zhangkong's order. Gu Yue: 115 kg (canon). **Hard floor: 2,612 kg** |
+| **Raw strength** | **ERA NOTE: at age 10 Wulin was stronger (canon 2,700-with-claw vs the 2,612 floor) — that era's rows were right. From ch68 the crossover is on-page: the black ring and the top-level soul re-based the body past the machine's 5,000 ceiling.** Canon puts Wulin at **1,156 / 1,348 kg** at age 9–10 and **2,700 kg** with the Golden Dragon Claw, and canon later says his *"fundamental strength had increased significantly."* **Lin Hao's 2,612 kg was roughly half of Wulin's bare-handed number — true to age 10, and kept for the record.** From ch68 the order flips, measured on-page. Held a thousand-kilogram-adjacent load across ch 26 | Canon anchor: Wulin's full strength is **over 1,000 kg** (ch 128) and Lin Hao matched his hammers in ch 26 — so the floor is high but the number is unknown |
 | **Movement speed** | **Unmeasured.** Established: Wind-Step crosses a ring in one step with no wind-up and no tell | ch 11–12, ch 21 gauntlet. In ch 21 he beat six classmates **without** Wind-Step, so the sword speed is a separate, lower floor |
 | **Agility / balance** | **Unmeasured.** Established: recovered mid-fall (ch 13 sky-road), fought on a broken footing and stepped back up | ch 13, ch 21 |
-| **Senses** | **Unmeasured.** Established: hawk-eyes read wind, grain in steel, and a strike's *decision* before the movement | ch 5, ch 10, ch 22 (the Answering Stroke). No instrument has ever tested this |
+| **Senses** | **The Purple Demon Eyes — THIRD STAGE (ch67, winter three; AU pace, monster-scoped; canon gives Wulin stage two at thirteen — c231/c233, held).** Established since ch5: hawk-eyes read wind, grain in steel, a strike's *decision* before the movement; from the Eyes, the seam reads like weather — in metal, matches, people | canon c231/c233 (held) + ch67 on-page |
 | **Durability** | **Unmeasured.** Established: took Wu Zhangkong's stick for months and kept training; took a claw-backhand through a persimmon stall (ch 14); stood in the path of twelve wolves (ch 29) | ch 14, ch 22, ch 29 |
-| **Recovery rate** | **Unmeasured, and canonically abnormal.** Marks that should last a week were gone by morning (ch 14); AT recovery noted in the codex since ch 1 | ch 14 — *"the marks lasted till breakfast"* |
+| **Recovery rate** | **MEASURED (ch68): the deep-water regeneration** — a guardian-broken arm set in week one and finished *new* by week four; frost reads as furniture (cold-immune). Previously: week-long marks gone by morning (ch 14) | ch68 on-page; the locked absorption law's body clause |
 | **Stamina** | **Unmeasured.** Established: ninety-four minutes in the platform carrying two people (ch 29) | ch 29 |
 | **Reflex / processing** | **Unmeasured.** Established: answered six opponents in sequence, and a pack that did not learn | ch 21, ch 29 |
 | **Reliability / consistency** | **The one line with a known defect.** The Unnamed Stroke cannot be summoned on purpose — *"I looked like a man swatting a bee"* | ch 29–30. **This is a real weakness, recorded, not smoothed over** |
+
+### Immediate condition — end of ch 79 (the exam era; supersedes the ch 69 block below)
+
+**No open wounds, no debt, no suppression, no restraint in force.** The exam has cost him grammar,
+not muscle: three trials answered — the SPIRIT-answer (trial 1), the second answer run in the seams of
+six falling gates (trial 3 — *the Track spent; the trial never learned his name*), one stroke's worth
+of Sword Intent spent at trial 2 (the edge taken off a War Stomp; canon's own margin, provided).
+**The maintenance report filed** — the sixth gate's tired spring priced by a half-second palm-read;
+the smiths invoked. Spiritual power **2,824** · hawk **3,151** · ledger **168 (held mid-exam)** ·
+rank **45 (held since ch68)**. The sword's three voices held; the domain folded; the dragon's joining
+held at 95 seconds in the evening cold. **Soul power is still the constraint, not the body — and the
+duel (if it is ever fought) is failure-conditional: WZK's standing word is "Win."**
+
+### Immediate condition — end of ch 69 (historical; superseded on exam-era condition)
+
+**No open wounds, no debt, no suppression, no restraint in force.** The emergence month mended the
+jiao-broken arm whole — it finished NEW (deep-water regeneration; the deep water sees to its own).
+Cold-immune (his own frost is furniture to him). Fist **5,000+ — the machine ran out**.
+
+- **The marks on his forearms: raised, and since ch68 edged blue-black, like winter rivers** — the
+  deep-water signature, visible to anyone who looks, mentioned by no one who knows him.
+- **Hawk-gold at the temples with a colder thread through it now** — light through ice.
+- **He looks ~16 and the world reads him at that** — clerks, butchers, conductors; only the register
+  dissents (appearance is a live line again: three midwinter measurement days in ch67, the fogged
+  window at emergence in ch68, the recalibration month and the train in ch69).
+- **The hawk: winter-tipped feathers, a season-deeper pressure** — the SOUL SPIRIT LAW's visible
+  half (adaptation feeds every part of the whole existence; the spirit is part of him; rings are
+  records and do not grow — spirits do).
+- **The sword has three voices now** — storm, deep water, ice — and the draw is one motion again
+  after the recalibration month (*"the sword and I are introducing ourselves"* — ch69).
+- **The body was re-learned at its new size across ch69's month** — nine days worse than twelve,
+  then better than ever; WZK's correction stands: *"the reach was paid for. Spend it."*
+- **Soul power is still the constraint, not the body.** The duel's honest loss (61 seconds, 9
+  armored) confirmed the ceiling: a two-word battle armor master, genuinely above his stage.
 
 ### Immediate condition — end of ch 62
 **No open wounds, no debt, no suppression, no restraint in force.** The ch29 crystal-mark and the ch25
@@ -193,7 +248,7 @@ thigh bite closed long ago. What is current instead:
 **Retired:** ~~integrating the lightning~~ (done — the lightning has been controlled since ch30 and is
 now part of the sword's second voice) · ~~the rank-30 wall~~ (**opened in ch40** when the third ring was
 bestowed; the ceiling is now 40) · ~~88 years to the purple crossing~~ (**it happened at ch40**, hawk
-1,164 at the crossing, now 1,399).
+1,164 at the crossing, now 3,095).
 
 ---
 
@@ -268,8 +323,8 @@ is the only genuinely low line, and it stays in the panel as a defect.
 | **Rate** | **26 ranks in ~4 years — about 6.5 ranks a year**, and it *accelerated* under combat pressure | ch 3→61 chain |
 | **Canon comparison** | Canon Wulin is *"one step away from rank 17"* at age **11** (canon ch 192); *"not far from reaching rank 30"* far later (c323) | codex rank audit |
 | **Margin** | **Roughly 19 ranks ahead of canon's protagonist at the same age** | derived |
-| **Current status** | **THE WALL OPENED IN ch40.** Two rings covered 21–30; the third ring was bestowed at the 1,000-year crossing and the ceiling moved to **40**. He has **four ranks of headroom** before the fourth ring is required | ch40 |
-| 🔴 **Effective combat power** | **SOUL KING (51–60), ceiling Soul King peak — 15 to 24 ranks above his own number.** See `THE_CODEX.md` §THE ADVANTAGE LEDGER | locked v2.91 |
+| **Current status** | **The fourth ring TAKEN (ch68): three purple + one BLACK (the ten-thousand-year jiao); rank 40 → 45; the ceiling is now 50 — five ranks of headroom before the fifth-ring era** | ch68 footers; audit nn (this row had still said 'four ranks of headroom before the fourth ring') |
+| 🔴 **Effective combat power** | **SOUL EMPEROR (61–70) baseline; all-out SOUL SAGE (71–80) — reserved** (the HYH calibration, 2026-09-01; the old King-band ruling is dead). See `THE_CODEX.md` §THE ADVANTAGE LEDGER | locked HYH |
 
 **The distinction that mattered, and how it resolved:** for eighteen chapters his rank was gated by a
 rule while everything *under* the rank kept climbing — spiritual power, the body, the hawk, the
@@ -278,7 +333,7 @@ rings re-formed purple, a third ring was bestowed, and the rank line started mov
 
 **What replaced it:** the gap between his **rank (36)** and his **effective power (Soul King, 51–60)**
 is now the interesting number, and it is not a gate — it is the accumulated weight of three purple
-perfectly-compatible rings, a 1,399-year spirit soul, Hawk-Soul Union, Sword Intent at ten, five
+perfectly-compatible rings, a 3,055-year spirit soul and the black-ringed dragon jiao, Hawk-Soul Union, Sword Intent at ten, five
 self-created strokes, and a foundation the Adaptation Talent has been building since conception.
 
 **Why the speed is what it is (causal, not asserted):** AT §16 — difficulty multiplies adaptation;
@@ -309,11 +364,23 @@ context and only Reproduction in another — which is exactly the Unnamed Stroke
 | **One Sentence** (a single stroke with nothing hedged) | **3 → 4 — Reproduction moving to Conditioning** | The ch 15 homework was **certainty**; still imperfect at ch 30 |
 | **The Unwritten Stroke** (invent a stroke that has never existed) | **3 in the moment, 1 afterwards** | Achieved at ch 29 under lethal pressure; **cannot be reproduced on demand** — *"I looked like a man swatting a bee."* This is the tracked defect |
 | **Open Hand** (the first form of Reading the Grain: you do not strike first) | **2 — Understanding** | Named ch 28, not yet fought with |
-| **Gale Talon** — 1st soul skill | **5 — Applied mastery** · 🔴 **THOUSAND-YEAR TIER (ch40): a *decision* about the air, not a push** — he tells a volume of air what shape to hold and it holds it | ⚡ **The lightning ARRIVES.** Wind pushes; lightning takes the shortest path and does not ask what is in the way (ch30). **The Talon lands before the wind gets there, and the wind is what holds the wound open afterwards.** |
+| **Gale Talon** — 1st soul skill — 🔴 **BLACK-EDGED from ch68** (storm carrying winter; the adaptation caught the barrier's cold mid-fight) | **5 — Applied mastery** · 🔴 **THOUSAND-YEAR TIER (ch40): a *decision* about the air, not a push** — he tells a volume of air what shape to hold and it holds it | ⚡ **The lightning ARRIVES.** Wind pushes; lightning takes the shortest path and does not ask what is in the way (ch30). **The Talon lands before the wind gets there, and the wind is what holds the wound open afterwards.** |
 | 🔴 **HAWK-SOUL UNION** — 2nd soul skill, **THE TRUMP CARD** | **0 — first on-page use still RESERVED (D006)** · 🔴 **THOUSAND-YEAR TIER (ch40): the hawk became a *mind*, not an instinct — a conversation, not a transformation** | A perfectly-bonded soul lends *itself*, not a technique: wings of wind-light, hawk-eyes, a wind-sheathed body that turns blows aside like weather. ⚡ **He becomes THE CONDUCTOR** — the lightning runs through him, along his arms, along the blade, along the feather-marks on his skin. **He is not holding a storm; he is the path it takes.** Duration and cost both scale with the bond, and the bond is now deeper than any in canon |
 | 🔴 **STORM READING 「读风」** — the **third soul skill** (3rd ring, bestowed ch40) | **unrated — never used on-page yet** | **The hawk's own sense given to him as a skill.** He reads a volume of air the way he reads an opponent — every current, every pressure front — and then **commands it.** Not by pushing: by telling it where to stand. Canon: a purple ring grants *"a complex, active soul skill that adapts to the user's mental commands."* **Limit:** he can only command air he can *read*, and reading takes attention — in a storm he is a god, in a still room he has almost nothing. 🔴 Must not overlap the **Frost Abyss Domain** (jiao, 4th ring): that one OWNS water and ice; this one READS air. |
 | **Wind-Step** (no wind-up, no tell, crosses a ring) | **5 — Applied mastery** | ch 11–13, and deliberately *not* used in the ch 21 gauntlet, which proves the sword works without it |
 | 🔴 **The Fused Stroke** — wind and lightning as ONE idea about distance (new, ch57) | **3 — Reproduction, rising fast** | Taught by **Gu Yue** before the light. *"You have been making the lightning go through something. Take the something out."* **A TECHNIQUE, not a soul skill** — it comes out of him, not a ring, so it grows when *he* grows. Wu Zhangkong: *"I have four rings of frost and I could not have told him that."* The bar was gone from the waist up |
+### The Tang Sect arts (the winters' teachings, ch67 — through inner-sect Wu Zhangkong, canon c230)
+
+| Art | What it is | Held citation |
+|---|---|---|
+| **The Mysterious Heaven Method** | the Sect's cultivation method — *removes the waste*; the retrofitted engine of the winters' SP rates | canon c239 (held): Wulin breaks the bear's influence with it |
+| **The Purple Demon Eyes** | dawn discipline; the seam reads like weather | canon c231/c233 (held); **his third stage = AU pace** |
+| **The Disorder Splitting Wind Hammer** | the inner sect's hammer rhythm — forging and fighting as one motion; spirit refinement *bent toward him* after it | 🔴 series-level canon (Soulland wiki); NOT in held chapters — labelled |
+
+### The sixth stroke (his own, ch67 winter three)
+
+**STILL WATER** — born at the bench from the quiet scale's lesson: *a stroke with no wind before it.* The five ask questions; Still Water waits until the opponent has answered one nobody asked. Mu Chen, reading the page: *"That one isn't a sword's. Keep it anyway."*
+
 | 🔴🔴 **SYNCHRONISATION — 「三雷合鸣」 "THREE THUNDERS IN ONE VOICE"** *(name proposed)* | **NEVER DONE — not once. Learning it is an ARC, not a scene** | **All three soul skills as one instrument:** Storm Reading **decides** (reads the charge, picks where the bolt lands) · Gale Talon **shapes** (tells the air what to be) · Union **carries** (he becomes the conductor). **One strike, three skills, no seam between them.** 🔴 **The single largest multiplier in his kit** — bigger than rank, rings or fist; synchronised he stops being rank 45 and starts being something the Federation has no bracket for. **Costs:** all three at once means the Union is open (heaviest draw he has, cannot hold long) **and** Reading takes attention (he cannot read a whole sky and fight a man at the same time) |
 
 > 🔴 **THE TIER CORRECTION (2026-08-28).** This table scored the techniques by **mastery layer** and

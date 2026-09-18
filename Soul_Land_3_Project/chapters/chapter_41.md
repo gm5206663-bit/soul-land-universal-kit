@@ -299,7 +299,7 @@ _Every number below traces to a canon line or is labelled AU._
 
 - **Tang Wulin:** rank **16** (canon c183) · one white ten-year ring
 - **Xie Xie:** rank **21** · two rings
-- **Gu Yue:** rank **19**, peak (canon c133) · one ring · spiritual power **153** at nine (canon c114)
+- **Gu Yue:** rank **21** — second ring taken this chapter (AU timing; canon has two rings by c224) · **TWO rings** · spiritual power **153** at nine (canon c114)
 - **Xu Xiaoyan:** not yet introduced
 - **Zhang Yangzi:** rank **24** · spiritual power **41 → ~27** — Little Black dead (AU cost of the forest)
 - **Wang Jinxi:** rank **24** (canon c134) · spiritual power **18**, lowest in class zero (canon c113)

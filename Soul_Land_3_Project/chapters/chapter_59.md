@@ -258,7 +258,7 @@ Lin Hao walked out of the Eastsea Branch of the Blacksmith's Association at abou
 
 That night, in the room that smelled of the sea, he took the book down and wrote the number first, because the number never asked anything of him.
 
-*Two hundred and fifty-six.* It had been two hundred and ninety. Eight points, somewhere between saying no to a fifth-rank teacher and using the Track five times and stopping using it as a movement. He could not say which had done it. He had written that three times now, and the writing-it-three-times was the only honest part.
+*Two hundred and fifty-six.* It had been two hundred and forty-nine. Eight points, somewhere between saying no to a fifth-rank teacher and using the Track five times and stopping using it as a movement. He could not say which had done it. He had written that three times now, and the writing-it-three-times was the only honest part.
 
 *One thousand three hundred and eighty-two.*
 
@@ -330,7 +330,7 @@ true nature · battle armor worn · the fusion door opened · the card's content
 what answered · what the ape was · who Mu Chen's first was · who has been giving him things
 
 ### Character Progression:
-- **Lin Hao:** rank **290 → 290 (Soul Elder)** · spiritual power **256 → 256** · **hawk 1,374 → 1,382** · three purple
+- **Lin Hao:** rank **35 → 35 (Soul Elder)** · spiritual power **256 → 256** · **hawk 1,374 → 1,382** · three purple
   rings · 4th rank (Grandmaster) · **the Track understood as a decision, not a movement** · Sword Intent
 - **Elder Duan:** fifth rank, twenty-two years · **not upset for six minutes** · asked after being refused
 - **Ye Xinglan:** Stargod Sword · **confidence unmoved** · thirty-one seconds
@@ -359,7 +359,7 @@ _Every number below traces to a canon line or is labelled AU._
 - **Tang Wulin:** rank **17** · one purple ring
 - **Xie Xie:** rank **23** · highest soul power in class zero except Lin Hao (canon c184, scoped by the BUTTERFLY LAW) · two rings
 - **Gu Yue:** rank **21** · **TWO rings** (canon c224) — **Soul Grandmaster** · spiritual power **153+** · spiritual power **153** at nine (canon c114)
-- **Xu Xiaoyan:** rank **18** · two yellow rings · spiritual power **61** (canon c183)+
+- **Xu Xiaoyan:** rank **18** · two yellow rings · spiritual power **61+** (canon c183)
 - **Zhang Yangzi:** rank **27** · spiritual power ~27 after Little Black · **still at Eastsea Academy**; out of class zero since ch43 · **NOT going to Shrek**
 - **Wang Jinxi:** **LEFT in ch43** (canon ch 153 "Leaving") · last known rank 25 · spiritual power 18 (canon c113) · transferred to another academy · **NOT going to Shrek**
 - **Wei Xiaofeng:** rank **26** · **left class zero first** (canon: *"Wei Xiaofeng was the first to leave"*) · still at Eastsea Academy · **NOT going to Shrek**
