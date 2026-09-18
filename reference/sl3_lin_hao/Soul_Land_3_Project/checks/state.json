@@ -1,0 +1,1967 @@
+{
+ "1": {
+  "file": "chapter_01.md",
+  "title": "Awakening Day",
+  "rank": 5,
+  "sp": null,
+  "hawk": null,
+  "ledger": null,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 5,
+  "ensemble": {
+   "Tang Wulin": 11
+  }
+ },
+ "2": {
+  "file": "chapter_02.md",
+  "title": "A Thousand Strikes",
+  "rank": null,
+  "sp": null,
+  "hawk": null,
+  "ledger": null,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": null,
+  "ensemble": {
+   "Tang Wulin": 11
+  }
+ },
+ "3": {
+  "file": "chapter_03.md",
+  "title": "What the Metal Said",
+  "rank": 11,
+  "sp": 41,
+  "hawk": null,
+  "ledger": null,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 11,
+  "ensemble": {
+   "Tang Wulin": 11
+  }
+ },
+ "4": {
+  "file": "chapter_04.md",
+  "title": "The Worst Class",
+  "rank": 22,
+  "sp": null,
+  "hawk": null,
+  "ledger": null,
+  "smith": null,
+  "rings": 2,
+  "growth_rank": null,
+  "prog_rank": 22,
+  "ensemble": {
+   "Tang Wulin": 13,
+   "Xie Xie": 18,
+   "Zhang Yangzi": 21,
+   "Wang Jinxi": 21,
+   "Wei Xiaofeng": 21
+  }
+ },
+ "5": {
+  "file": "chapter_05.md",
+  "title": "The Blacksmith's Association",
+  "rank": 22,
+  "sp": null,
+  "hawk": null,
+  "ledger": null,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 22,
+  "ensemble": {
+   "Tang Wulin": 13,
+   "Xie Xie": 18,
+   "Zhang Yangzi": 21,
+   "Wang Jinxi": 21,
+   "Wei Xiaofeng": 21
+  }
+ },
+ "6": {
+  "file": "chapter_06.md",
+  "title": "The Weight of the Worst Class",
+  "rank": 22,
+  "sp": null,
+  "hawk": null,
+  "ledger": null,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 22,
+  "ensemble": {
+   "Tang Wulin": 13,
+   "Xie Xie": 18,
+   "Zhang Yangzi": 21,
+   "Wang Jinxi": 21,
+   "Wei Xiaofeng": 21
+  }
+ },
+ "7": {
+  "file": "chapter_07.md",
+  "title": "The Harbor",
+  "rank": 23,
+  "sp": null,
+  "hawk": null,
+  "ledger": null,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 23,
+  "ensemble": {
+   "Tang Wulin": 13,
+   "Xie Xie": 18,
+   "Zhang Yangzi": 21,
+   "Wang Jinxi": 21,
+   "Wei Xiaofeng": 21
+  }
+ },
+ "8": {
+  "file": "chapter_08.md",
+  "title": "The Transfer Student",
+  "rank": 23,
+  "sp": null,
+  "hawk": null,
+  "ledger": null,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 23,
+  "ensemble": {
+   "Tang Wulin": 13,
+   "Xie Xie": 18,
+   "Zhang Yangzi": 21,
+   "Wang Jinxi": 21,
+   "Wei Xiaofeng": 21
+  }
+ },
+ "9": {
+  "file": "chapter_09.md",
+  "title": "Elementalist",
+  "rank": 23,
+  "sp": null,
+  "hawk": null,
+  "ledger": null,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 23,
+  "ensemble": {
+   "Tang Wulin": 14,
+   "Xie Xie": 18,
+   "Zhang Yangzi": 21,
+   "Wang Jinxi": 21,
+   "Wei Xiaofeng": 21
+  }
+ },
+ "10": {
+  "file": "chapter_10.md",
+  "title": "Hammer Practice",
+  "rank": 24,
+  "sp": null,
+  "hawk": null,
+  "ledger": null,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 24,
+  "ensemble": {
+   "Tang Wulin": 14,
+   "Xie Xie": 19,
+   "Gu Yue": 17,
+   "Zhang Yangzi": 22,
+   "Wang Jinxi": 22,
+   "Wei Xiaofeng": 22
+  }
+ },
+ "11": {
+  "file": "chapter_11.md",
+  "title": "The Class Promotion Tournament Begins",
+  "rank": 24,
+  "sp": null,
+  "hawk": null,
+  "ledger": null,
+  "smith": null,
+  "rings": 2,
+  "growth_rank": null,
+  "prog_rank": 24,
+  "ensemble": {
+   "Tang Wulin": 14,
+   "Xie Xie": 19,
+   "Gu Yue": 17,
+   "Zhang Yangzi": 22,
+   "Wang Jinxi": 22,
+   "Wei Xiaofeng": 22
+  }
+ },
+ "12": {
+  "file": "chapter_12.md",
+  "title": "Two Ring Opponent",
+  "rank": 24,
+  "sp": null,
+  "hawk": null,
+  "ledger": null,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 24,
+  "ensemble": {
+   "Tang Wulin": 14,
+   "Xie Xie": 19,
+   "Gu Yue": 17,
+   "Zhang Yangzi": 22,
+   "Wang Jinxi": 22,
+   "Wei Xiaofeng": 22
+  }
+ },
+ "13": {
+  "file": "chapter_13.md",
+  "title": "Flying Soul Masters",
+  "rank": 25,
+  "sp": null,
+  "hawk": null,
+  "ledger": null,
+  "smith": null,
+  "rings": 2,
+  "growth_rank": null,
+  "prog_rank": 25,
+  "ensemble": {
+   "Tang Wulin": 15,
+   "Xie Xie": 19,
+   "Gu Yue": 17,
+   "Zhang Yangzi": 22,
+   "Wang Jinxi": 22,
+   "Wei Xiaofeng": 22
+  }
+ },
+ "14": {
+  "file": "chapter_14.md",
+  "title": "Reappearance of the Golden Scales",
+  "rank": 25,
+  "sp": null,
+  "hawk": null,
+  "ledger": null,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 25,
+  "ensemble": {
+   "Tang Wulin": 15,
+   "Xie Xie": 19,
+   "Gu Yue": 17,
+   "Zhang Yangzi": 22,
+   "Wang Jinxi": 22,
+   "Wei Xiaofeng": 22
+  }
+ },
+ "15": {
+  "file": "chapter_15.md",
+  "title": "White Robes and Blue Sword, Sky Ice and Snow Cold",
+  "rank": 26,
+  "sp": null,
+  "hawk": null,
+  "ledger": null,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 26,
+  "ensemble": {
+   "Tang Wulin": 15,
+   "Xie Xie": 19,
+   "Gu Yue": 17,
+   "Zhang Yangzi": 22,
+   "Wang Jinxi": 22,
+   "Wei Xiaofeng": 22
+  }
+ },
+ "16": {
+  "file": "chapter_16.md",
+  "title": "The Dark Eagle Dragon",
+  "rank": 26,
+  "sp": null,
+  "hawk": null,
+  "ledger": null,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 26,
+  "ensemble": {
+   "Tang Wulin": 15,
+   "Xie Xie": 19,
+   "Gu Yue": 17,
+   "Zhang Yangzi": 22,
+   "Wang Jinxi": 22,
+   "Wei Xiaofeng": 22
+  }
+ },
+ "17": {
+  "file": "chapter_17.md",
+  "title": "I Have a Dragon in My Body?",
+  "rank": 27,
+  "sp": null,
+  "hawk": null,
+  "ledger": null,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 27,
+  "ensemble": {
+   "Tang Wulin": 15,
+   "Xie Xie": 20,
+   "Gu Yue": 18,
+   "Zhang Yangzi": 23,
+   "Wang Jinxi": 22,
+   "Wei Xiaofeng": 23
+  }
+ },
+ "18": {
+  "file": "chapter_18.md",
+  "title": "The Second Meeting",
+  "rank": 27,
+  "sp": null,
+  "hawk": null,
+  "ledger": null,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 27,
+  "ensemble": {
+   "Tang Wulin": 15,
+   "Xie Xie": 20,
+   "Gu Yue": 18,
+   "Zhang Yangzi": 23,
+   "Wang Jinxi": 22,
+   "Wei Xiaofeng": 23
+  }
+ },
+ "19": {
+  "file": "chapter_19.md",
+  "title": "Class Zero is Established!",
+  "rank": 28,
+  "sp": null,
+  "hawk": null,
+  "ledger": null,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 28,
+  "ensemble": {
+   "Tang Wulin": 15,
+   "Xie Xie": 20,
+   "Gu Yue": 18,
+   "Zhang Yangzi": 23,
+   "Wang Jinxi": 22,
+   "Wei Xiaofeng": 23
+  }
+ },
+ "20": {
+  "file": "chapter_20.md",
+  "title": "Battle Armor",
+  "rank": 28,
+  "sp": null,
+  "hawk": null,
+  "ledger": null,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 28,
+  "ensemble": {
+   "Tang Wulin": 15,
+   "Xie Xie": 20,
+   "Gu Yue": 18,
+   "Zhang Yangzi": 23,
+   "Wang Jinxi": 22,
+   "Wei Xiaofeng": 23
+  }
+ },
+ "21": {
+  "file": "chapter_21.md",
+  "title": "Monstrous Numbers",
+  "rank": 29,
+  "sp": 178,
+  "hawk": null,
+  "ledger": null,
+  "smith": null,
+  "rings": 2,
+  "growth_rank": null,
+  "prog_rank": 29,
+  "ensemble": {
+   "Tang Wulin": 15,
+   "Xie Xie": 20,
+   "Gu Yue": 19,
+   "Zhang Yangzi": 23,
+   "Wang Jinxi": 23,
+   "Wei Xiaofeng": 23
+  }
+ },
+ "22": {
+  "file": "chapter_22.md",
+  "title": "The Fifth Time",
+  "rank": 30,
+  "sp": 184,
+  "hawk": null,
+  "ledger": 78,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 30,
+  "ensemble": {
+   "Tang Wulin": 15,
+   "Xie Xie": 20,
+   "Gu Yue": 19,
+   "Zhang Yangzi": 23,
+   "Wang Jinxi": 23,
+   "Wei Xiaofeng": 23
+  }
+ },
+ "23": {
+  "file": "chapter_23.md",
+  "title": "The First Line About Her",
+  "rank": 30,
+  "sp": 191,
+  "hawk": null,
+  "ledger": 79,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 30,
+  "ensemble": {
+   "Tang Wulin": 15,
+   "Xie Xie": 20,
+   "Gu Yue": 19,
+   "Zhang Yangzi": 23,
+   "Wang Jinxi": 23,
+   "Wei Xiaofeng": 23
+  }
+ },
+ "24": {
+  "file": "chapter_24.md",
+  "title": "The Spirit Pagoda",
+  "rank": 30,
+  "sp": 191,
+  "hawk": null,
+  "ledger": 79,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 30,
+  "ensemble": {
+   "Tang Wulin": 15,
+   "Xie Xie": 20,
+   "Gu Yue": 19,
+   "Zhang Yangzi": 23,
+   "Wang Jinxi": 23,
+   "Wei Xiaofeng": 23
+  }
+ },
+ "25": {
+  "file": "chapter_25.md",
+  "title": "What the Forest Teaches",
+  "rank": 30,
+  "sp": 191,
+  "hawk": null,
+  "ledger": null,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 30,
+  "ensemble": {
+   "Tang Wulin": 15,
+   "Xie Xie": 20,
+   "Gu Yue": 19,
+   "Zhang Yangzi": 23,
+   "Wang Jinxi": 23,
+   "Wei Xiaofeng": 23
+  }
+ },
+ "26": {
+  "file": "chapter_26.md",
+  "title": "Four People Who Had Never Fought Together",
+  "rank": 30,
+  "sp": 196,
+  "hawk": null,
+  "ledger": 83,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 30,
+  "ensemble": {
+   "Tang Wulin": 15,
+   "Xie Xie": 20,
+   "Gu Yue": 19,
+   "Zhang Yangzi": 23,
+   "Wang Jinxi": 23,
+   "Wei Xiaofeng": 23
+  }
+ },
+ "27": {
+  "file": "chapter_27.md",
+  "title": "What Wu Zhangkong Could Not Teach",
+  "rank": 30,
+  "sp": 196,
+  "hawk": null,
+  "ledger": 83,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 30,
+  "ensemble": {
+   "Tang Wulin": 15,
+   "Xie Xie": 20,
+   "Gu Yue": 19,
+   "Zhang Yangzi": 23,
+   "Wang Jinxi": 23,
+   "Wei Xiaofeng": 23
+  }
+ },
+ "28": {
+  "file": "chapter_28.md",
+  "title": "A Friend Is the One Who Tells You",
+  "rank": 30,
+  "sp": 196,
+  "hawk": null,
+  "ledger": 83,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 30,
+  "ensemble": {
+   "Tang Wulin": 15,
+   "Xie Xie": 20,
+   "Gu Yue": 19,
+   "Zhang Yangzi": 23,
+   "Wang Jinxi": 23,
+   "Wei Xiaofeng": 23
+  }
+ },
+ "29": {
+  "file": "chapter_29.md",
+  "title": "I Came Anyway",
+  "rank": 30,
+  "sp": 205,
+  "hawk": null,
+  "ledger": 95,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 30,
+  "ensemble": {
+   "Tang Wulin": 15,
+   "Xie Xie": 20,
+   "Gu Yue": 19,
+   "Zhang Yangzi": 23,
+   "Wang Jinxi": 23,
+   "Wei Xiaofeng": 23
+  }
+ },
+ "30": {
+  "file": "chapter_30.md",
+  "title": "The Second Note",
+  "rank": 30,
+  "sp": 205,
+  "hawk": 906,
+  "ledger": null,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 30,
+  "ensemble": {
+   "Tang Wulin": 15,
+   "Xie Xie": 21,
+   "Gu Yue": 19,
+   "Zhang Yangzi": 24,
+   "Wang Jinxi": 24,
+   "Wei Xiaofeng": 24
+  }
+ },
+ "31": {
+  "file": "chapter_31.md",
+  "title": "One Ring Is Better",
+  "rank": 30,
+  "sp": 205,
+  "hawk": 912,
+  "ledger": null,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 30,
+  "ensemble": {
+   "Tang Wulin": 15,
+   "Xie Xie": 21,
+   "Gu Yue": 19,
+   "Zhang Yangzi": 24,
+   "Wang Jinxi": 24,
+   "Wei Xiaofeng": 24
+  }
+ },
+ "32": {
+  "file": "chapter_32.md",
+  "title": "What the Wall Looks Like",
+  "rank": 30,
+  "sp": 205,
+  "hawk": 918,
+  "ledger": null,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 30,
+  "ensemble": {
+   "Tang Wulin": 15,
+   "Xie Xie": 21,
+   "Gu Yue": 19,
+   "Zhang Yangzi": 24,
+   "Wang Jinxi": 24,
+   "Wei Xiaofeng": 24
+  }
+ },
+ "33": {
+  "file": "chapter_33.md",
+  "title": "What Cannot Be Summoned",
+  "rank": 30,
+  "sp": 205,
+  "hawk": 926,
+  "ledger": null,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 30,
+  "ensemble": {
+   "Tang Wulin": 15,
+   "Xie Xie": 21,
+   "Gu Yue": 19,
+   "Zhang Yangzi": 24,
+   "Wang Jinxi": 24,
+   "Wei Xiaofeng": 24
+  }
+ },
+ "34": {
+  "file": "chapter_34.md",
+  "title": "The Third Rank",
+  "rank": 30,
+  "sp": 205,
+  "hawk": 934,
+  "ledger": null,
+  "smith": 3,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 30,
+  "ensemble": {
+   "Tang Wulin": 15,
+   "Xie Xie": 21,
+   "Gu Yue": 19,
+   "Zhang Yangzi": 24,
+   "Wang Jinxi": 24,
+   "Wei Xiaofeng": 24
+  }
+ },
+ "35": {
+  "file": "chapter_35.md",
+  "title": "Gift or Debt",
+  "rank": 30,
+  "sp": 205,
+  "hawk": null,
+  "ledger": null,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 30,
+  "ensemble": {
+   "Tang Wulin": 15,
+   "Xie Xie": 21,
+   "Gu Yue": 19,
+   "Zhang Yangzi": 24,
+   "Wang Jinxi": 24,
+   "Wei Xiaofeng": 24
+  }
+ },
+ "36": {
+  "file": "chapter_36.md",
+  "title": "Past the Marks",
+  "rank": 30,
+  "sp": 205,
+  "hawk": null,
+  "ledger": null,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 30,
+  "ensemble": {
+   "Tang Wulin": 16,
+   "Xie Xie": 21,
+   "Gu Yue": 19,
+   "Zhang Yangzi": 24,
+   "Wang Jinxi": 24,
+   "Wei Xiaofeng": 24
+  }
+ },
+ "37": {
+  "file": "chapter_37.md",
+  "title": "The Sixth Saturday",
+  "rank": 30,
+  "sp": 205,
+  "hawk": 950,
+  "ledger": null,
+  "smith": 3,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 30,
+  "ensemble": {
+   "Tang Wulin": 16,
+   "Xie Xie": 21,
+   "Gu Yue": 19,
+   "Zhang Yangzi": 24,
+   "Wang Jinxi": 24,
+   "Wei Xiaofeng": 24
+  }
+ },
+ "38": {
+  "file": "chapter_38.md",
+  "title": "The Formation",
+  "rank": 30,
+  "sp": 205,
+  "hawk": 957,
+  "ledger": null,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 30,
+  "ensemble": {
+   "Tang Wulin": 16,
+   "Xie Xie": 21,
+   "Gu Yue": 19,
+   "Zhang Yangzi": 24,
+   "Wang Jinxi": 24,
+   "Wei Xiaofeng": 24
+  }
+ },
+ "39": {
+  "file": "chapter_39.md",
+  "title": "Little Black",
+  "rank": 30,
+  "sp": 205,
+  "hawk": 964,
+  "ledger": null,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 30,
+  "ensemble": {
+   "Tang Wulin": 16,
+   "Xie Xie": 21,
+   "Gu Yue": 19,
+   "Zhang Yangzi": 24,
+   "Wang Jinxi": 24,
+   "Wei Xiaofeng": 24
+  }
+ },
+ "40": {
+  "file": "chapter_40.md",
+  "title": "One Thousand One Hundred and Sixty-Four",
+  "rank": 31,
+  "sp": 205,
+  "hawk": 1164,
+  "ledger": null,
+  "smith": null,
+  "rings": 3,
+  "growth_rank": null,
+  "prog_rank": 31,
+  "ensemble": {
+   "Tang Wulin": 16,
+   "Xie Xie": 21,
+   "Gu Yue": 19,
+   "Zhang Yangzi": 24,
+   "Wang Jinxi": 24,
+   "Wei Xiaofeng": 24
+  }
+ },
+ "41": {
+  "file": "chapter_41.md",
+  "title": "Three Rings",
+  "rank": 31,
+  "sp": 205,
+  "hawk": 1164,
+  "ledger": null,
+  "smith": null,
+  "rings": 3,
+  "growth_rank": null,
+  "prog_rank": 31,
+  "ensemble": {
+   "Tang Wulin": 16,
+   "Xie Xie": 21,
+   "Gu Yue": 21,
+   "Zhang Yangzi": 24,
+   "Wang Jinxi": 24,
+   "Wei Xiaofeng": 24
+  }
+ },
+ "42": {
+  "file": "chapter_42.md",
+  "title": "The Bear",
+  "rank": 31,
+  "sp": 205,
+  "hawk": 1171,
+  "ledger": null,
+  "smith": null,
+  "rings": 3,
+  "growth_rank": null,
+  "prog_rank": 31,
+  "ensemble": {
+   "Tang Wulin": 16,
+   "Xie Xie": 22,
+   "Gu Yue": 21,
+   "Zhang Yangzi": 24,
+   "Wang Jinxi": 25,
+   "Wei Xiaofeng": 25
+  }
+ },
+ "43": {
+  "file": "chapter_43.md",
+  "title": "What Wang Jinxi Understood",
+  "rank": 31,
+  "sp": 205,
+  "hawk": 1171,
+  "ledger": null,
+  "smith": null,
+  "rings": 3,
+  "growth_rank": null,
+  "prog_rank": 31,
+  "ensemble": {
+   "Tang Wulin": 16,
+   "Xie Xie": 22,
+   "Gu Yue": 21,
+   "Zhang Yangzi": 25,
+   "Wang Jinxi": "out",
+   "Wei Xiaofeng": 25
+  }
+ },
+ "44": {
+  "file": "chapter_44.md",
+  "title": "The Hall of Heroes",
+  "rank": 31,
+  "sp": 205,
+  "hawk": 1178,
+  "ledger": null,
+  "smith": null,
+  "rings": 3,
+  "growth_rank": null,
+  "prog_rank": 31,
+  "ensemble": {
+   "Tang Wulin": 16,
+   "Xie Xie": 22,
+   "Gu Yue": 21,
+   "Zhang Yangzi": 25,
+   "Wang Jinxi": "out",
+   "Wei Xiaofeng": 25
+  }
+ },
+ "45": {
+  "file": "chapter_45.md",
+  "title": "The City With No Skyscrapers",
+  "rank": 32,
+  "sp": 205,
+  "hawk": 1186,
+  "ledger": null,
+  "smith": null,
+  "rings": 3,
+  "growth_rank": null,
+  "prog_rank": 32,
+  "ensemble": {
+   "Tang Wulin": 16,
+   "Xie Xie": 22,
+   "Gu Yue": 21,
+   "Zhang Yangzi": 25,
+   "Wang Jinxi": "out",
+   "Wei Xiaofeng": 25
+  }
+ },
+ "46": {
+  "file": "chapter_46.md",
+  "title": "The Grave of Long Bing",
+  "rank": 32,
+  "sp": 205,
+  "hawk": 1186,
+  "ledger": null,
+  "smith": null,
+  "rings": 3,
+  "growth_rank": null,
+  "prog_rank": 32,
+  "ensemble": {
+   "Tang Wulin": 16,
+   "Xie Xie": 22,
+   "Gu Yue": 21,
+   "Zhang Yangzi": 25,
+   "Wang Jinxi": "out",
+   "Wei Xiaofeng": 25
+  }
+ },
+ "47": {
+  "file": "chapter_47.md",
+  "title": "The Unnatural Existence",
+  "rank": 32,
+  "sp": 205,
+  "hawk": 1193,
+  "ledger": null,
+  "smith": null,
+  "rings": 3,
+  "growth_rank": null,
+  "prog_rank": 32,
+  "ensemble": {
+   "Tang Wulin": 16,
+   "Xie Xie": 22,
+   "Gu Yue": 21,
+   "Zhang Yangzi": 25,
+   "Wang Jinxi": "out",
+   "Wei Xiaofeng": 25
+  }
+ },
+ "48": {
+  "file": "chapter_48.md",
+  "title": "Five Million",
+  "rank": 32,
+  "sp": 205,
+  "hawk": 1193,
+  "ledger": null,
+  "smith": null,
+  "rings": 3,
+  "growth_rank": null,
+  "prog_rank": 32,
+  "ensemble": {
+   "Tang Wulin": 17,
+   "Xie Xie": 22,
+   "Gu Yue": 21,
+   "Zhang Yangzi": 26,
+   "Wang Jinxi": "out",
+   "Wei Xiaofeng": 26
+  }
+ },
+ "49": {
+  "file": "chapter_49.md",
+  "title": "The Forest That Was Not A Forest",
+  "rank": 33,
+  "sp": 212,
+  "hawk": 1241,
+  "ledger": null,
+  "smith": null,
+  "rings": 3,
+  "growth_rank": null,
+  "prog_rank": 33,
+  "ensemble": {
+   "Tang Wulin": 17,
+   "Xie Xie": 22,
+   "Gu Yue": 21,
+   "Zhang Yangzi": 26,
+   "Wang Jinxi": "out",
+   "Wei Xiaofeng": 26
+  }
+ },
+ "50": {
+  "file": "chapter_50.md",
+  "title": "The Track",
+  "rank": 33,
+  "sp": 218,
+  "hawk": 1288,
+  "ledger": null,
+  "smith": null,
+  "rings": 3,
+  "growth_rank": null,
+  "prog_rank": 33,
+  "ensemble": {
+   "Tang Wulin": 17,
+   "Xie Xie": 22,
+   "Gu Yue": 21,
+   "Zhang Yangzi": 26,
+   "Wang Jinxi": "out",
+   "Wei Xiaofeng": 26
+  }
+ },
+ "51": {
+  "file": "chapter_51.md",
+  "title": "What He Stood In Front Of",
+  "rank": 33,
+  "sp": 226,
+  "hawk": 1344,
+  "ledger": null,
+  "smith": null,
+  "rings": 3,
+  "growth_rank": null,
+  "prog_rank": 33,
+  "ensemble": {
+   "Tang Wulin": 17,
+   "Xie Xie": 22,
+   "Gu Yue": 21,
+   "Zhang Yangzi": 26,
+   "Wang Jinxi": "out",
+   "Wei Xiaofeng": 26
+  }
+ },
+ "52": {
+  "file": "chapter_52.md",
+  "title": "The Sixth",
+  "rank": 33,
+  "sp": 226,
+  "hawk": 1344,
+  "ledger": null,
+  "smith": null,
+  "rings": 3,
+  "growth_rank": null,
+  "prog_rank": 33,
+  "ensemble": {
+   "Tang Wulin": 17,
+   "Xie Xie": 23,
+   "Gu Yue": 21,
+   "Xu Xiaoyan": 17,
+   "Zhang Yangzi": 26,
+   "Wang Jinxi": "out",
+   "Wei Xiaofeng": 26
+  }
+ },
+ "53": {
+  "file": "chapter_53.md",
+  "title": "The Fourth Rank",
+  "rank": 33,
+  "sp": 226,
+  "hawk": 1344,
+  "ledger": null,
+  "smith": null,
+  "rings": 3,
+  "growth_rank": null,
+  "prog_rank": 33,
+  "ensemble": {
+   "Tang Wulin": 17,
+   "Xie Xie": 23,
+   "Gu Yue": 21,
+   "Xu Xiaoyan": 17,
+   "Zhang Yangzi": 26,
+   "Wang Jinxi": "out",
+   "Wei Xiaofeng": 26
+  }
+ },
+ "54": {
+  "file": "chapter_54.md",
+  "title": "Five Seconds",
+  "rank": 34,
+  "sp": 233,
+  "hawk": 1351,
+  "ledger": null,
+  "smith": 4,
+  "rings": 3,
+  "growth_rank": null,
+  "prog_rank": 34,
+  "ensemble": {
+   "Tang Wulin": 17,
+   "Xie Xie": 23,
+   "Gu Yue": 21,
+   "Xu Xiaoyan": 17,
+   "Zhang Yangzi": 26,
+   "Wang Jinxi": "out",
+   "Wei Xiaofeng": 26
+  }
+ },
+ "55": {
+  "file": "chapter_55.md",
+  "title": "The Students of Shrek",
+  "rank": 34,
+  "sp": 233,
+  "hawk": 1351,
+  "ledger": null,
+  "smith": 4,
+  "rings": 3,
+  "growth_rank": null,
+  "prog_rank": 34,
+  "ensemble": {
+   "Tang Wulin": 17,
+   "Xie Xie": 23,
+   "Gu Yue": 21,
+   "Xu Xiaoyan": 17,
+   "Zhang Yangzi": 26,
+   "Wang Jinxi": "out",
+   "Wei Xiaofeng": 26
+  }
+ },
+ "56": {
+  "file": "chapter_56.md",
+  "title": "The Shape",
+  "rank": 34,
+  "sp": 233,
+  "hawk": 1358,
+  "ledger": null,
+  "smith": 4,
+  "rings": 3,
+  "growth_rank": null,
+  "prog_rank": 34,
+  "ensemble": {
+   "Tang Wulin": 17,
+   "Xie Xie": 23,
+   "Gu Yue": 21,
+   "Xu Xiaoyan": 17,
+   "Zhang Yangzi": 26,
+   "Wang Jinxi": "out",
+   "Wei Xiaofeng": 26
+  }
+ },
+ "57": {
+  "file": "chapter_57.md",
+  "title": "The Terrifying Genius",
+  "rank": 34,
+  "sp": 241,
+  "hawk": 1366,
+  "ledger": null,
+  "smith": 4,
+  "rings": 3,
+  "growth_rank": null,
+  "prog_rank": 34,
+  "ensemble": {
+   "Tang Wulin": 17,
+   "Xie Xie": 23,
+   "Gu Yue": 21,
+   "Xu Xiaoyan": 18,
+   "Zhang Yangzi": 27,
+   "Wang Jinxi": "out",
+   "Wei Xiaofeng": 26
+  }
+ },
+ "58": {
+  "file": "chapter_58.md",
+  "title": "The Girl Sent From The Heavens",
+  "rank": 34,
+  "sp": 249,
+  "hawk": 1374,
+  "ledger": null,
+  "smith": 4,
+  "rings": 3,
+  "growth_rank": null,
+  "prog_rank": 34,
+  "ensemble": {
+   "Tang Wulin": 17,
+   "Xie Xie": 23,
+   "Gu Yue": 21,
+   "Xu Xiaoyan": 18,
+   "Zhang Yangzi": 27,
+   "Wang Jinxi": "out",
+   "Wei Xiaofeng": 26
+  }
+ },
+ "59": {
+  "file": "chapter_59.md",
+  "title": "What They Investigated",
+  "rank": 35,
+  "sp": 256,
+  "hawk": 1382,
+  "ledger": null,
+  "smith": 4,
+  "rings": 3,
+  "growth_rank": null,
+  "prog_rank": 35,
+  "ensemble": {
+   "Tang Wulin": 17,
+   "Xie Xie": 23,
+   "Gu Yue": 21,
+   "Xu Xiaoyan": 18,
+   "Zhang Yangzi": 27,
+   "Wang Jinxi": "out",
+   "Wei Xiaofeng": 26
+  }
+ },
+ "60": {
+  "file": "chapter_60.md",
+  "title": "The Invitation",
+  "rank": 36,
+  "sp": 264,
+  "hawk": 1391,
+  "ledger": null,
+  "smith": 4,
+  "rings": 3,
+  "growth_rank": null,
+  "prog_rank": 36,
+  "ensemble": {
+   "Tang Wulin": 18,
+   "Xie Xie": 23,
+   "Gu Yue": 21,
+   "Xu Xiaoyan": 19,
+   "Zhang Yangzi": 27,
+   "Wang Jinxi": "out",
+   "Wei Xiaofeng": 26
+  }
+ },
+ "61": {
+  "file": "chapter_61.md",
+  "title": "What He Said Yes To",
+  "rank": 36,
+  "sp": 281,
+  "hawk": 1399,
+  "ledger": null,
+  "smith": 4,
+  "rings": 3,
+  "growth_rank": null,
+  "prog_rank": 36,
+  "ensemble": {
+   "Tang Wulin": 18,
+   "Xie Xie": 23,
+   "Gu Yue": 21,
+   "Xu Xiaoyan": 19,
+   "Zhang Yangzi": 27,
+   "Wang Jinxi": "out",
+   "Wei Xiaofeng": 26
+  }
+ },
+ "62": {
+  "file": "chapter_62.md",
+  "title": "Two Words",
+  "rank": 36,
+  "sp": 289,
+  "hawk": 1406,
+  "ledger": 109,
+  "smith": 4,
+  "rings": 3,
+  "growth_rank": null,
+  "prog_rank": 36,
+  "ensemble": {
+   "Tang Wulin": 18,
+   "Xie Xie": 23,
+   "Gu Yue": 21,
+   "Xu Xiaoyan": 19,
+   "Zhang Yangzi": 27,
+   "Wang Jinxi": "out",
+   "Wei Xiaofeng": 26
+  }
+ },
+ "63": {
+  "file": "chapter_63.md",
+  "title": "Still Children",
+  "rank": 36,
+  "sp": 295,
+  "hawk": 1412,
+  "ledger": 110,
+  "smith": 4,
+  "rings": 3,
+  "growth_rank": null,
+  "prog_rank": 36,
+  "ensemble": {
+   "Tang Wulin": 18,
+   "Xie Xie": 23,
+   "Gu Yue": 21,
+   "Xu Xiaoyan": 19,
+   "Zhang Yangzi": 27,
+   "Wang Jinxi": "out",
+   "Wei Xiaofeng": 26
+  }
+ },
+ "64": {
+  "file": "chapter_64.md",
+  "title": "One Week",
+  "rank": 36,
+  "sp": 301,
+  "hawk": 1418,
+  "ledger": 110,
+  "smith": 4,
+  "rings": 3,
+  "growth_rank": null,
+  "prog_rank": 36,
+  "ensemble": {
+   "Tang Wulin": 18,
+   "Xie Xie": 23,
+   "Gu Yue": 21,
+   "Xu Xiaoyan": 19,
+   "Zhang Yangzi": 27,
+   "Wang Jinxi": "out",
+   "Wei Xiaofeng": 26
+  }
+ },
+ "65": {
+  "file": "chapter_65.md",
+  "title": "The Same Sunday",
+  "rank": 36,
+  "sp": 307,
+  "hawk": 1424,
+  "ledger": 110,
+  "smith": 4,
+  "rings": 3,
+  "growth_rank": null,
+  "prog_rank": 36,
+  "ensemble": {
+   "Tang Wulin": 18,
+   "Xie Xie": 23,
+   "Gu Yue": 21,
+   "Xu Xiaoyan": 19,
+   "Zhang Yangzi": 27,
+   "Wang Jinxi": "out",
+   "Wei Xiaofeng": 26
+  }
+ },
+ "66": {
+  "file": "chapter_66.md",
+  "title": "Hard to Ignore",
+  "rank": 36,
+  "sp": 313,
+  "hawk": 1430,
+  "ledger": 110,
+  "smith": 4,
+  "rings": 3,
+  "growth_rank": null,
+  "prog_rank": 36,
+  "ensemble": {
+   "Tang Wulin": 18,
+   "Xie Xie": 23,
+   "Gu Yue": 21,
+   "Xu Xiaoyan": 19,
+   "Zhang Yangzi": 27,
+   "Wang Jinxi": "out",
+   "Wei Xiaofeng": 26
+  }
+ },
+ "67": {
+  "file": "chapter_67.md",
+  "title": "Three Winters",
+  "rank": 40,
+  "sp": 1553,
+  "hawk": 2597,
+  "ledger": 164,
+  "smith": 5,
+  "rings": 3,
+  "growth_rank": null,
+  "prog_rank": 40,
+  "ensemble": {
+   "Tang Wulin": 28,
+   "Xie Xie": 33,
+   "Gu Yue": 31,
+   "Xu Xiaoyan": 29,
+   "Zhang Yangzi": 31,
+   "Wang Jinxi": "out",
+   "Wei Xiaofeng": 30
+  }
+ },
+ "68": {
+  "file": "chapter_68.md",
+  "title": "The Month",
+  "rank": 45,
+  "sp": 2705,
+  "hawk": 3055,
+  "ledger": 165,
+  "smith": 5,
+  "rings": 4,
+  "growth_rank": null,
+  "prog_rank": 45,
+  "ensemble": {
+   "Tang Wulin": 28,
+   "Xie Xie": 33,
+   "Gu Yue": 31,
+   "Xu Xiaoyan": 30,
+   "Zhang Yangzi": 31,
+   "Wang Jinxi": "out",
+   "Wei Xiaofeng": 30
+  }
+ },
+ "69": {
+  "file": "chapter_69.md",
+  "title": "Sixty-One Seconds",
+  "rank": 45,
+  "sp": 2740,
+  "hawk": 3095,
+  "ledger": 165,
+  "smith": 5,
+  "rings": 4,
+  "growth_rank": null,
+  "prog_rank": 45,
+  "ensemble": {
+   "Tang Wulin": 28,
+   "Xie Xie": 33,
+   "Gu Yue": 31,
+   "Xu Xiaoyan": 30,
+   "Zhang Yangzi": 31,
+   "Wang Jinxi": "out",
+   "Wei Xiaofeng": 30
+  }
+ },
+ "70": {
+  "file": "chapter_70.md",
+  "title": "The Greatest City",
+  "rank": 45,
+  "sp": 2750,
+  "hawk": 3102,
+  "ledger": 165,
+  "smith": 5,
+  "rings": 4,
+  "growth_rank": null,
+  "prog_rank": 45,
+  "ensemble": {
+   "Tang Wulin": 28,
+   "Xie Xie": 33,
+   "Gu Yue": 31,
+   "Xu Xiaoyan": 30,
+   "Zhang Yangzi": 31,
+   "Wang Jinxi": "out",
+   "Wei Xiaofeng": 30
+  }
+ },
+ "71": {
+  "file": "chapter_71.md",
+  "title": "The Complete Sentence",
+  "rank": 45,
+  "sp": 2762,
+  "hawk": 3108,
+  "ledger": 165,
+  "smith": 5,
+  "rings": 4,
+  "growth_rank": null,
+  "prog_rank": 45,
+  "ensemble": {
+   "Tang Wulin": 28,
+   "Xie Xie": 33,
+   "Gu Yue": 31,
+   "Xu Xiaoyan": 30,
+   "Zhang Yangzi": 31,
+   "Wang Jinxi": "out",
+   "Wei Xiaofeng": 30
+  }
+ },
+ "72": {
+  "file": "chapter_72.md",
+  "title": "Fourteen Candles",
+  "rank": 45,
+  "sp": 2768,
+  "hawk": 3111,
+  "ledger": 165,
+  "smith": 5,
+  "rings": 4,
+  "growth_rank": null,
+  "prog_rank": 45,
+  "ensemble": {
+   "Tang Wulin": 28,
+   "Xie Xie": 33,
+   "Gu Yue": 31,
+   "Xu Xiaoyan": 30,
+   "Zhang Yangzi": 31,
+   "Wang Jinxi": "out",
+   "Wei Xiaofeng": 30
+  }
+ },
+ "73": {
+  "file": "chapter_73.md",
+  "title": "A Small Price",
+  "rank": 45,
+  "sp": 2776,
+  "hawk": 3116,
+  "ledger": 166,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 45,
+  "ensemble": {
+   "Tang Wulin": 28,
+   "Xie Xie": 33,
+   "Gu Yue": 31,
+   "Xu Xiaoyan": 30,
+   "Zhang Yangzi": 31
+  }
+ },
+ "74": {
+  "file": "chapter_74.md",
+  "title": "Thirteen Years",
+  "rank": 45,
+  "sp": 2784,
+  "hawk": 3121,
+  "ledger": 167,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 45,
+  "ensemble": {
+   "Tang Wulin": 28,
+   "Xie Xie": 33,
+   "Gu Yue": 31,
+   "Xu Xiaoyan": 30,
+   "Zhang Yangzi": 31
+  }
+ },
+ "75": {
+  "file": "chapter_75.md",
+  "title": "The Academy Came Himself",
+  "rank": 45,
+  "sp": 2792,
+  "hawk": 3127,
+  "ledger": 168,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 45,
+  "ensemble": {
+   "Tang Wulin": 28,
+   "Xie Xie": 33,
+   "Gu Yue": 31,
+   "Xu Xiaoyan": 30,
+   "Zhang Yangzi": 31
+  }
+ },
+ "76": {
+  "file": "chapter_76.md",
+  "title": "Any Student",
+  "rank": 45,
+  "sp": 2800,
+  "hawk": 3133,
+  "ledger": 168,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 45,
+  "ensemble": {
+   "Tang Wulin": 28,
+   "Xie Xie": 33,
+   "Gu Yue": 31,
+   "Xu Xiaoyan": 30
+  }
+ },
+ "77": {
+  "file": "chapter_77.md",
+  "title": "Win",
+  "rank": 45,
+  "sp": 2808,
+  "hawk": 3139,
+  "ledger": 168,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 45,
+  "ensemble": {
+   "Tang Wulin": 28,
+   "Xie Xie": 33,
+   "Gu Yue": 31,
+   "Xu Xiaoyan": 30
+  }
+ },
+ "78": {
+  "file": "chapter_78.md",
+  "title": "Golden Dragon Body",
+  "rank": 45,
+  "sp": 2816,
+  "hawk": 3145,
+  "ledger": 168,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 45,
+  "ensemble": {
+   "Tang Wulin": 28,
+   "Xie Xie": 33,
+   "Gu Yue": 31,
+   "Xu Xiaoyan": 30
+  }
+ },
+ "79": {
+  "file": "chapter_79.md",
+  "title": "Fourteen Seconds",
+  "rank": 45,
+  "sp": 2824,
+  "hawk": 3151,
+  "ledger": 168,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 45,
+  "ensemble": {
+   "Tang Wulin": 28,
+   "Xie Xie": 33,
+   "Gu Yue": 31,
+   "Xu Xiaoyan": 30
+  }
+ },
+ "80": {
+  "file": "chapter_80.md",
+  "title": "Testing Specialties",
+  "rank": 45,
+  "sp": 2832,
+  "hawk": 3157,
+  "ledger": 168,
+  "smith": 5,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 45,
+  "ensemble": {
+   "Tang Wulin": 28,
+   "Xie Xie": 33,
+   "Gu Yue": 31,
+   "Xu Xiaoyan": 30
+  }
+ },
+ "81": {
+  "file": "chapter_81.md",
+  "title": "Comprehensive",
+  "rank": 45,
+  "sp": 2840,
+  "hawk": 3163,
+  "ledger": 168,
+  "smith": 5,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 45,
+  "ensemble": {
+   "Tang Wulin": 28,
+   "Xie Xie": 33,
+   "Gu Yue": 31,
+   "Xu Xiaoyan": 30
+  }
+ },
+ "82": {
+  "file": "chapter_82.md",
+  "title": "A Test of Strength",
+  "rank": 45,
+  "sp": 2848,
+  "hawk": 3169,
+  "ledger": 168,
+  "smith": 5,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 45,
+  "ensemble": {
+   "Tang Wulin": 28,
+   "Xie Xie": 33,
+   "Gu Yue": 31,
+   "Xu Xiaoyan": 30
+  }
+ },
+ "83": {
+  "file": "chapter_83.md",
+  "title": "Title Douluo",
+  "rank": 45,
+  "sp": 2856,
+  "hawk": 3175,
+  "ledger": 168,
+  "smith": 5,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 45,
+  "ensemble": {
+   "Tang Wulin": 28,
+   "Xie Xie": 33,
+   "Gu Yue": 31,
+   "Xu Xiaoyan": 30
+  }
+ },
+ "84": {
+  "file": "chapter_84.md",
+  "title": "Zero",
+  "rank": 45,
+  "sp": 2864,
+  "hawk": 3181,
+  "ledger": 168,
+  "smith": 5,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 45,
+  "ensemble": {
+   "Tang Wulin": 28,
+   "Xie Xie": 33,
+   "Gu Yue": 31,
+   "Xu Xiaoyan": 30
+  }
+ },
+ "85": {
+  "file": "chapter_85.md",
+  "title": "Not Joking",
+  "rank": 45,
+  "sp": 2872,
+  "hawk": 3187,
+  "ledger": 168,
+  "smith": 5,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 45,
+  "ensemble": {
+   "Tang Wulin": 28,
+   "Xie Xie": 33,
+   "Gu Yue": 31,
+   "Xu Xiaoyan": 30
+  }
+ },
+ "86": {
+  "file": "chapter_86.md",
+  "title": "Points",
+  "rank": 45,
+  "sp": 2880,
+  "hawk": 3193,
+  "ledger": 168,
+  "smith": 5,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 45,
+  "ensemble": {
+   "Tang Wulin": 28,
+   "Xie Xie": 33,
+   "Gu Yue": 31,
+   "Xu Xiaoyan": 30
+  }
+ },
+ "87": {
+  "file": "chapter_87.md",
+  "title": "The Thing He Was Waiting For",
+  "rank": 45,
+  "sp": 2888,
+  "hawk": 3199,
+  "ledger": 168,
+  "smith": 5,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 45,
+  "ensemble": {
+   "Tang Wulin": 28,
+   "Xie Xie": 33,
+   "Gu Yue": 31,
+   "Xu Xiaoyan": 30
+  }
+ },
+ "88": {
+  "file": "chapter_88.md",
+  "title": "Crane and Dragon",
+  "rank": 45,
+  "sp": 2894,
+  "hawk": 3199,
+  "ledger": 168,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 45,
+  "ensemble": {
+   "Tang Wulin": 28,
+   "Xie Xie": 33,
+   "Gu Yue": 31,
+   "Xu Xiaoyan": 30
+  }
+ },
+ "89": {
+  "file": "chapter_89.md",
+  "title": "Nice Acting!",
+  "rank": 45,
+  "sp": 2900,
+  "hawk": 3199,
+  "ledger": 168,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 45,
+  "ensemble": {
+   "Tang Wulin": 28,
+   "Xie Xie": 33,
+   "Gu Yue": 31,
+   "Xu Xiaoyan": 30
+  }
+ },
+ "90": {
+  "file": "chapter_90.md",
+  "title": "The Highest Level",
+  "rank": 45,
+  "sp": 2906,
+  "hawk": 3199,
+  "ledger": 168,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 45,
+  "ensemble": {
+   "Tang Wulin": 28,
+   "Xie Xie": 33,
+   "Gu Yue": 31,
+   "Xu Xiaoyan": 30
+  }
+ },
+ "91": {
+  "file": "chapter_91.md",
+  "title": "The Valley of Two Kings",
+  "rank": 45,
+  "sp": 2912,
+  "hawk": 3199,
+  "ledger": 168,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 45,
+  "ensemble": {
+   "Tang Wulin": 28,
+   "Xie Xie": 33,
+   "Gu Yue": 31,
+   "Xu Xiaoyan": 30
+  }
+ },
+ "92": {
+  "file": "chapter_92.md",
+  "title": "Seen and Spared",
+  "rank": 45,
+  "sp": 2918,
+  "hawk": 3199,
+  "ledger": 168,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 45,
+  "ensemble": {
+   "Tang Wulin": 28,
+   "Xie Xie": 33,
+   "Gu Yue": 31,
+   "Xu Xiaoyan": 30
+  }
+ },
+ "93": {
+  "file": "chapter_93.md",
+  "title": "The Weight of a Hundred Years",
+  "rank": 45,
+  "sp": 2924,
+  "hawk": 3199,
+  "ledger": 168,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 45,
+  "ensemble": {
+   "Tang Wulin": 28,
+   "Xie Xie": 33,
+   "Gu Yue": 31,
+   "Xu Xiaoyan": 30
+  }
+ },
+ "94": {
+  "file": "chapter_94.md",
+  "title": "What the Sword Was For",
+  "rank": 45,
+  "sp": 2824,
+  "hawk": 3199,
+  "ledger": 168,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 45,
+  "ensemble": {
+   "Tang Wulin": 28,
+   "Xie Xie": 33,
+   "Gu Yue": 31,
+   "Xu Xiaoyan": 30
+  }
+ },
+ "95": {
+  "file": "chapter_95.md",
+  "title": "What Was Real",
+  "rank": 45,
+  "sp": 2824,
+  "hawk": 3199,
+  "ledger": 168,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 45,
+  "ensemble": {
+   "Tang Wulin": 28,
+   "Xie Xie": 33,
+   "Gu Yue": 31,
+   "Xu Xiaoyan": 30
+  }
+ },
+ "96": {
+  "file": "chapter_96.md",
+  "title": "One Point",
+  "rank": 45,
+  "sp": 2824,
+  "hawk": 3199,
+  "ledger": 168,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 45,
+  "ensemble": {
+   "Tang Wulin": 28,
+   "Xie Xie": 33,
+   "Gu Yue": 31,
+   "Xu Xiaoyan": 30
+  }
+ },
+ "97": {
+  "file": "chapter_97.md",
+  "title": "What Full Marks Buy",
+  "rank": 45,
+  "sp": 2824,
+  "hawk": 3199,
+  "ledger": 168,
+  "smith": 5,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 45,
+  "ensemble": {
+   "Tang Wulin": 28,
+   "Xie Xie": 33,
+   "Gu Yue": 31,
+   "Xu Xiaoyan": 30
+  }
+ },
+ "98": {
+  "file": "chapter_98.md",
+  "title": "The Heart is the Hammer",
+  "rank": 45,
+  "sp": 2824,
+  "hawk": 3199,
+  "ledger": 168,
+  "smith": 5,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 45,
+  "ensemble": {
+   "Tang Wulin": 28,
+   "Xie Xie": 33,
+   "Gu Yue": 31,
+   "Xu Xiaoyan": 30
+  }
+ },
+ "99": {
+  "file": "chapter_99.md",
+  "title": "Ten Thousand Refinements",
+  "rank": 45,
+  "sp": 2824,
+  "hawk": 3199,
+  "ledger": 168,
+  "smith": 5,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 45,
+  "ensemble": {
+   "Tang Wulin": 28,
+   "Xie Xie": 33,
+   "Gu Yue": 31,
+   "Xu Xiaoyan": 30
+  }
+ },
+ "100": {
+  "file": "chapter_100.md",
+  "title": "Every Weapon Is One Idea",
+  "rank": 45,
+  "sp": 2824,
+  "hawk": 3199,
+  "ledger": 168,
+  "smith": 5,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 45,
+  "ensemble": {
+   "Tang Wulin": 28,
+   "Xie Xie": 33,
+   "Gu Yue": 31,
+   "Xu Xiaoyan": 30
+  }
+ },
+ "101": {
+  "file": "chapter_101.md",
+  "title": "What the Sword Was",
+  "rank": 45,
+  "sp": 2824,
+  "hawk": 3199,
+  "ledger": 168,
+  "smith": null,
+  "rings": null,
+  "growth_rank": null,
+  "prog_rank": 45,
+  "ensemble": {
+   "Tang Wulin": 28,
+   "Xie Xie": 33,
+   "Gu Yue": 31,
+   "Xu Xiaoyan": 30
+  }
+ }
+}

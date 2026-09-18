@@ -1,2 +1,36 @@
 __pycache__/
 *.pyc
+
+# --- rules from arena workspace upload 2026-09-18 ---
+# Python
+*.py[cod]
+.venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+# OS
+.DS_Store
+Thumbs.db
+# Editors
+.vscode/
+.idea/
+*.swp
+# Local/temp
+*.tmp
+*.bak
+*~
+tmp/
+.cache/
+# Git transfer artifacts (built for moving this repo, not part of it)
+# Named individually: soul_land_starter.zip is a real project file and must stay tracked.
+*.bundle
+/soul_land_projects.zip
+# Never commit credentials
+.git-credentials
+.netrc
+*.pem
+*.key
+secrets.*
+.env
+# Node (if any project grows one)
+node_modules/
