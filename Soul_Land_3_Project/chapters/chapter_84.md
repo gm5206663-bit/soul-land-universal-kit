@@ -119,11 +119,24 @@ They would have to be perfect. And one of them, at least, had never been anythin
 
 ### Character States:
 - **Lin Hao:** rank **45** · spiritual power **2,864** · hawk **3,181** · ledger **168 held** · rings **3 purple + 1 black** · smithing **5th rank, Master Craftsman — TRIAL FIVE IS HIS GROUND (the blacksmith table)** · **THE SHREK LEDGER: negative, itemized, signed** (the gate; the quotas; the zero-by-temper; the ignored arithmetic) · the margin's line: *zero, twice; eight trials left; perfect, or home* · the wire DORMANT
-- **Tang Wulin:** rank **28** · two rings + the claw bone + the golden ring · blood essence low, recovering · **the captain's arithmetic: five futures, the fury swallowed, the team first** · the blacksmith table's one bright moment, killed by the sneer
-- **Gu Yue:** rank **31 (AU)** · three rings · trials 8·10·**0** · **the empire refused twice — the disciple offer and the inner court — "Wherever they are, I will also be"** · head down, lips sealed after the one explanation · rage rising at the pre-zero, held behind Wulin's arm
-- **Xie Xie:** rank **33** · three rings · trials 10·10·**0** · the explosion swallowed at the fuse · *now I know what true arrogance is*
-- **Xu Xiaoyan:** rank **30** · two rings · trials 10·10·**0** · laughing at the honesty, counting the lost twenty
+- **Tang Wulin (rank & rings — the ensemble block below):** two rings + the claw bone + the golden ring · blood essence low, recovering · **the captain's arithmetic: five futures, the fury swallowed, the team first** · the blacksmith table's one bright moment, killed by the sneer
+- **Gu Yue (rank & rings — the ensemble block below):** three rings · trials 8·10·**0** · **the empire refused twice — the disciple offer and the inner court — "Wherever they are, I will also be"** · head down, lips sealed after the one explanation · rage rising at the pre-zero, held behind Wulin's arm
+- **Xie Xie (rank & rings — the ensemble block below):** three rings · trials 10·10·**0** · the explosion swallowed at the fuse · *now I know what true arrogance is*
+- **Xu Xiaoyan (rank & rings — the ensemble block below):** two rings · trials 10·10·**0** · laughing at the honesty, counting the lost twenty
 - **Shen Yi:** ashen; the numbers known and unshared; *notified Teacher* — the placation errand running; the file becoming a book with a wound in it
 - **Elder Cai — THE SILVER MOON DOULUO (4P·4B·1 red), the Sea God's Pavilion:** stormed, returned, sneered, pre-zeroed; **Zhuo Shi's face given twice** — *"if they do well… the inner court despite zero twice; if not, go back to where they came from"**
 
-### Ranks at chapter end: Lin Hao **45** · SP **2,864** · hawk **3,181** · ledger **168** · Wulin **28** · Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — trials 4 and 5 zeroed; the fifth trial = second professions, the blacksmith table standing, the Silver Moon sneering; eight trials left, perfect or home — **NOT triggered:** the fifth trial's work, the smith's show, the remaining five trials' shapes, the duel, the seal's NAME (never), Zhuo Shi's face/office, the Teacher's verdict (the placation call made), Hawk-Soul Union, Na'er, Gu Yue's nature, Long Bing↔Bing'er, armor worn, the fusion door, the blade's forger, what answered, the ape, Mu Chen's first, the giver, "Divine Stormbringer"
+### Ranks at chapter end: Lin Hao **45** · SP **2,864** · hawk **3,181** · ledger **168** · Wulin **28** · Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — trials 4 and 5 zeroed; the fifth trial = second professions, the blacksmith table standing, the Silver Moon sneering; eight trials left, perfect or home — **NOT triggered:** the fifth trial's work, the smith's show, the remaining five trials' shapes, the duel, the seal's NAME (never), Zhuo Shi's face/office, the Teacher's verdict (the placation call made), Hawk-Soul Union, Na'er, Gu Yue's nature, Long Bing↔Bing'er, armor worn, the fusion door, the blade's forger, what answered, the ape, Mu Chen's first, the giver, the cancelled divine-tier evolution
+
+### Ensemble — canon-verified state
+
+_Single source of truth: `CHARACTER_STATS.md` §0/§1 (canon citations) and §3 (schedule)._
+_Every number below traces to a canon line or is labelled AU._
+
+- **Tang Wulin:** rank **28** · two rings + the claw bone (canon c232 / c240–241) · at Shrek, working student (canon c288)
+- **Xie Xie:** rank **33** · three rings (two yellow + one purple) · first-rank mecha craftsman · at Shrek (canon c288)
+- **Gu Yue:** rank **31 (AU — canon gives no rank at 13)** · three rings · spiritual power **700+, Spirit Sea (canon c231)** · Spirit Pagoda · at Shrek (canon c288)
+- **Xu Xiaoyan:** rank **30** · two rings (canon: two until the third at 30 — the crossing is the summer's own story) · spiritual power **400+ (canon c231)** · **"Captain"** · at Shrek (canon c288)
+- **Zhang Yangzi:** rank **31 (AU)** · the Eastsea dock — staying
+- **Wang Jinxi:** **LEFT in ch43** (canon ch 153) · last known rank 25 · the letters still cross — **NOT going**
+- **Wei Xiaofeng:** rank **30 (AU)** · still at Eastsea — *"Eastsea will keep"*

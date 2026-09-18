@@ -61,7 +61,7 @@ world_tick: OK
 THE PREWRITE BOARD — machine output, step 0 (before every chapter)
 ==============================================================
 [1] SUITE: run_all: exit 0 | FAIL lines: 0
-[2] STATE: 116 chapters on disk; end state: {'rank': 45, 'sp': 2918, 'hawk': 3260, 'ledger': 179} | ensemble: {'Tang Wulin': 28, 'Xie Xie': 33, 'Gu Yue': 31, 'Xu Xiaoyan': 30}
+[2] STATE: 116 chapters on disk; end state: {'rank': 45, 'sp': 2918, 'hawk': 3260, 'ledger': 179} | ensemble: {'Tang Wulin': 28, 'Xie Xie': 33, 'Gu Yue': 31, 'Xu Xiaoyan': 30, 'Zhang Yangzi': 31, 'Wang Jinxi': 'out', 'Wei Xiaofeng': 30}
 [3] REGISTRY — obligations live for ch86+ / DUE / forward:
     | **The wager + THE EXAM DUEL** (≠ the ch69 teacher-duel, fought and lost honestly in 61 s) | ch76 | taken; conditional (WZK: "Win… The duel is what happen
     | **The black ring in public** | ch68/76 | seen by Shen Yi (car) + mural subtext | ch76 | **said ALOUD at the duel** — a ten-thousand-year ring at an entra

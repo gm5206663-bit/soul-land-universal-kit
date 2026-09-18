@@ -203,10 +203,11 @@ Dawn crossed the city at its usual rate, no faster for anyone. It found, in the 
 
 ### Chapter end state — Lin Hao:
 - **Lin Hao:** rank **45** (no bout — event-gated) · spiritual power **2,776 → 2,784** · hawk **3,116 → 3,121** (the watch fed it) · **the second soul — DRAGON JIAO: the core, deep and dormant — the SOUL SPIRIT LAW keeps it where he goes (the corridor's cold)** · **the body: regenerating · cold-immune · fist 5,000+ kg (held)** · **Sword Intent ⚔️: temperature; the Still Water line — unspent since ch71, HELD** · the dragon's joining **95 s** (the cold at his ankles through the last watch) · smith **5** · **kit: six strokes · Mysterious Heaven · PDE 3rd (the violet SPENT on the pamphlet) · Disorder · the Talon · the Track · FROST ABYSS + the folded Domain · Domineer ×2 · THE FUSION SOUL (the iron + four elements)** · effective **SOUL EMPEROR; all-out: Soul Sage — reserved** · looks **~16** · ledger **167** (*The exam is in one hour. The water is still gold. He is still handling it.*) · line 109 spent; the wire dormant — as before
-- **Tang Wulin:** rank **28** · the second seal **still breaking at chapter's end — water clear, gold mist, pulses at 16 s; NOT WOKEN; the exam one hour out and unreachable**
+- **Tang Wulin (rank & rings — the ensemble block below):** the second seal **still breaking at chapter's end — water clear, gold mist, pulses at 16 s; NOT WOKEN; the exam one hour out and unreachable**
 - **Wu Zhangkong:** kneeling before the Inner Court since exam-eve day — **"just let him kneel there"**; the Teacher unseen; Shen Yi inside, persuading
-- **Ranks at chapter end:** Lin Hao **45** · SP **2,784** · hawk **3,121** · ledger **167** · Wulin **28** (in meditation) · Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — **NOT triggered:** the seal's completion/name/surprise, Wulin waking, the Teacher's verdict, the make-up exam, Hawk-Soul Union, Na'er, Gu Yue's nature, Long Bing↔Bing'er, armor worn, the fusion door, the blade's forger, what answered, the ape, Mu Chen's first, the giver, "Divine Stormbringer"
+- **Ranks at chapter end:** Lin Hao **45** · SP **2,784** · hawk **3,121** · ledger **167** · Wulin **28** (in meditation) · Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — **NOT triggered:** the seal's completion/name/surprise, Wulin waking, the Teacher's verdict, the make-up exam, Hawk-Soul Union, Na'er, Gu Yue's nature, Long Bing↔Bing'er, armor worn, the fusion door, the blade's forger, what answered, the ape, Mu Chen's first, the giver, the cancelled divine-tier evolution
 - **Canon coverage:** 250 + 251 **mined full** (on disk) · 🔴 canon 252 **on disk, HELD for ch75** — *"Your teacher has already settled things. Your tests might be a bit harder, but you still have one last chance. We'll depart once your captain is awake."* + the breakfast banter + the hall: the seal SUCCEEDED; Old Tang clearer; **the third-seal law (deadline sixteen; −3 months per seal; one year per seal after the ninth; tribulation if unprepared)** — **FETCH canon 253 (their chapter-256) BEFORE WRITING CH75**
+- **Zhang Yangzi (rank & rings — the ensemble block below):** the Eastsea dock — staying
 
 ### Ensemble — canon-verified state
 
@@ -221,6 +222,8 @@ _Every number below traces to a canon line or is labelled AU._
 - **Shen Yi:** **the White-haired Witch (canon 251)** — white hair, evergreen eyes, famous, feared by juniors, warm exactly where it counts; senior sister; inside the inner court, persuading with three winters of ammunition
 - **Zhang Yangzi:** rank **31 (AU)** · the Eastsea dock — staying · **the sixth hand, four thousand li from a shape that learned to hold without him** · **Wang Jinxi / Wei Xiaofeng:** away
 
+- **Wang Jinxi:** **LEFT in ch43** (canon ch 153) · last known rank 25 · the letters still cross — **NOT going**
+- **Wei Xiaofeng:** rank **30 (AU)** · still at Eastsea — *"Eastsea will keep"*
 Canon position anchors: the story stands at **the end of canon 251** — dawn of exam day; the kneel standing; the exam hour missed by the clock; the tub still gold. **AU divergences standing:** Zhang Yangzi stayed (the five-hand shape); the tournament owed no debt; five students counted by the academy before it met them; the confession spoken — her silence kept — the wire dormant.
 
 🔴 **REALM GAP LAW (v2.90) + EFFECTIVE POWER LAW v2:** no combat, no spends — the chapter's powers are two words

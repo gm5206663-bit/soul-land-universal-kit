@@ -111,11 +111,12 @@ for path in sorted(glob.glob(os.path.join(CH, "chapter_*.md")),
         "ensemble": ens,
     }
 
+cur = max(state)
 out = os.path.join(ROOT, "checks", "state.json")
 with open(out, "w", encoding="utf-8") as f:
-    json.dump(state, f, indent=1, ensure_ascii=False)
-
-cur = max(state)
+    state_out = dict(state)
+    state_out["latest_chapter"] = cur   # verify_stale.py consumes this; keep it written fresh
+    json.dump(state_out, f, indent=1, ensure_ascii=False)
 print(f"state.json written — {len(state)} chapters, position: end of Chapter {cur}")
 def show(k):
     vals = [(n, v[k]) for n, v in state.items() if v[k] is not None]

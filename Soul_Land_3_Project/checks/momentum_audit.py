@@ -31,7 +31,7 @@ notes = []
 
 # ---- current position ----
 state = json.load(open(os.path.join(ROOT, "checks", "state.json"), encoding="utf-8"))
-chapters = sorted(state, key=int)
+chapters = sorted((k for k in state if str(k).isdigit()), key=int)
 cur = int(chapters[-1]) if chapters else 0
 
 # ---- M1: parse the §4 ledger in BREAKTHROUGH_ENGINE.md ----

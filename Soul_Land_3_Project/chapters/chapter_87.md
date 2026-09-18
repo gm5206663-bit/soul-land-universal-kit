@@ -149,12 +149,25 @@ Neither released a soul. Both waited for the opening, ten meters apart, while th
 
 ### Character States:
 - **Lin Hao:** rank **45** · spiritual power **2,888** · hawk **3,199** · ledger **168 held** · rings **3 purple + 1 black — NONE SHOWN (the ten unwarned)** · smithing **5th rank** · Sword Intent **HELD (never needed)** · **trials 10·10·10·0·0·10·10·10 = 60 — **THE PASSING LINE CROSSED** (defeat by concession, four exchanges, the sixth stroke sheathed), two trials in hand** · the playfulness out at last · the wire DORMANT
-- **Tang Wulin:** rank **28** · **60 points — PASSED (50 + the ten)** · the patience trap; the buns paying dividends; recovering for the team
-- **Xie Xie:** rank **33** · 48 + trial 8 LIVE (vs #2, the strongest — "Not you. You're his.") · "it's practically your catchphrase—"
-- **Gu Yue:** rank **31 (AU)** · **38 — the box holds (≤3/trial)** · watching the soulless four exchanges with the purse's attention
-- **Xu Xiaoyan:** rank **30** · 40 · her captain spent thirty minutes on her behalf; her turn coming
+- **Tang Wulin (rank & rings — the ensemble block below):** **60 points — PASSED (50 + the ten)** · the patience trap; the buns paying dividends; recovering for the team
+- **Xie Xie (rank & rings — the ensemble block below):** 48 + trial 8 LIVE (vs #2, the strongest — "Not you. You're his.") · "it's practically your catchphrase—"
+- **Gu Yue (rank & rings — the ensemble block below):** **38 — the box holds (≤3/trial)** · watching the soulless four exchanges with the purse's attention
+- **Xu Xiaoyan (rank & rings — the ensemble block below):** 40 · her captain spent thirty minutes on her behalf; her turn coming
 - **Shen Yi:** two wrong reads in one evening (the captain's; the blank on her form where the fifth's notes should be) · the file gaining a weight class
 - **Number one:** a real spear-line three rings, honestly won — seated, conceded, thanked; the line of ten silent
 - **Elder Cai:** off-page — but the hall that hears everything heard *I concede*
 
-### Ranks at chapter end: Lin Hao **45** · SP **2,888** · hawk **3,199** · ledger **168** · Wulin **28** · Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — **standings after eight: LH 60 (PASSED at trial 8 — the stomp is the crossing) · Wulin 60 (PASSED) · XX 48 + LIVE (vs #2, ch88 = canon 269 on disk) · XXY 40 · GY 38 — two trials after this one** — **NOT triggered:** Xie Xie's fight (ch88), the girls' fights, the ninth/tenth trials, the duel (never, at this pace — the fork holds), the seal's NAME (never), Zhuo Shi's face/office, the Teacher's verdict, Hawk-Soul Union, Na'er, Gu Yue's nature, Long Bing↔Bing'er, armor worn, the fusion door, the blade's forger, what answered, the ape, Mu Chen's first, the giver, "Divine Stormbringer", the tin
+### Ranks at chapter end: Lin Hao **45** · SP **2,888** · hawk **3,199** · ledger **168** · Wulin **28** · Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — **standings after eight: LH 60 (PASSED at trial 8 — the stomp is the crossing) · Wulin 60 (PASSED) · XX 48 + LIVE (vs #2, ch88 = canon 269 on disk) · XXY 40 · GY 38 — two trials after this one** — **NOT triggered:** Xie Xie's fight (ch88), the girls' fights, the ninth/tenth trials, the duel (never, at this pace — the fork holds), the seal's NAME (never), Zhuo Shi's face/office, the Teacher's verdict, Hawk-Soul Union, Na'er, Gu Yue's nature, Long Bing↔Bing'er, armor worn, the fusion door, the blade's forger, what answered, the ape, Mu Chen's first, the giver, the cancelled divine-tier evolution, the tin
+
+### Ensemble — canon-verified state
+
+_Single source of truth: `CHARACTER_STATS.md` §0/§1 (canon citations) and §3 (schedule)._
+_Every number below traces to a canon line or is labelled AU._
+
+- **Tang Wulin:** rank **28** · two rings + the claw bone (canon c232 / c240–241) · at Shrek, working student (canon c288)
+- **Xie Xie:** rank **33** · three rings (two yellow + one purple) · first-rank mecha craftsman · at Shrek (canon c288)
+- **Gu Yue:** rank **31 (AU — canon gives no rank at 13)** · three rings · spiritual power **700+, Spirit Sea (canon c231)** · Spirit Pagoda · at Shrek (canon c288)
+- **Xu Xiaoyan:** rank **30** · two rings (canon: two until the third at 30 — the crossing is the summer's own story) · spiritual power **400+ (canon c231)** · **"Captain"** · at Shrek (canon c288)
+- **Zhang Yangzi:** rank **31 (AU)** · the Eastsea dock — staying
+- **Wang Jinxi:** **LEFT in ch43** (canon ch 153) · last known rank 25 · the letters still cross — **NOT going**
+- **Wei Xiaofeng:** rank **30 (AU)** · still at Eastsea — *"Eastsea will keep"*

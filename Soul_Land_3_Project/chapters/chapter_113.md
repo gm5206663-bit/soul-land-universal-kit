@@ -106,3 +106,16 @@ Eleven hundred points, plus the salvage. He went and fed the five of them proper
 - **B4 (the material enters the craft arc):** ten-thousand-year ridge-hide and tusks are salvaged into the workshop — real ingredients for the armour/commission work ahead, tying the combat beat to the smithing arc.
 
 ### Ranks at chapter end: Lin Hao **45** (four rings — 3 purple + 1 black; **Sword CONSCIOUSNESS held; Sword Soul only glimpsed as far**) · SP **2,824** · hawk **3,199** · ledger **168** · Wulin **28** · Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — **he came down the mountain a boy who had correctly measured a job and seen the size of the water, and that was exactly as much as a thirteen-year-old ought to bring back from a black-class cull.** — **NOT triggered:** any Sword Soul/realms crossing · any rank/ring/SP/hawk number change · a red/hundred-thousand beast · full trump spend (domain at war, both fusions, Three Thunders) · any academy-felt note or witness · C1 · C4 · C5 · Mu Chen arrival (canon 303) · Feng Wuyu · the election (canon 305).
+
+### Ensemble — canon-verified state
+
+_Single source of truth: `CHARACTER_STATS.md` §0/§1 (canon citations) and §3 (schedule)._
+_Every number below traces to a canon line or is labelled AU._
+
+- **Tang Wulin:** rank **28** · three rings (AU — canon's two not imported, on-page by ch97) + the claw bone · at Shrek, working student (canon c288)
+- **Xie Xie:** rank **33** · three rings (two yellow + one purple) · first-rank mecha craftsman · at Shrek (canon c288)
+- **Gu Yue:** rank **31 (AU — canon gives no rank at 13)** · three rings · spiritual power **700+, Spirit Sea (canon c231)** · Spirit Pagoda · at Shrek (canon c288)
+- **Xu Xiaoyan:** rank **30** · two rings (canon: two until the third at 30 — the crossing is the summer's own story) · spiritual power **400+ (canon c231)** · **"Captain"** · at Shrek (canon c288)
+- **Zhang Yangzi:** rank **31 (AU)** · the Eastsea dock — staying
+- **Wang Jinxi:** **LEFT in ch43** (canon ch 153) · last known rank 25 · the letters still cross — **NOT going**
+- **Wei Xiaofeng:** rank **30 (AU)** · still at Eastsea — *"Eastsea will keep"*

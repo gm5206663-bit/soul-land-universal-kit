@@ -137,9 +137,10 @@ Shen Yi watched them bicker toward the next door and let her proctor's face do h
 
 ### Chapter end state — Lin Hao:
 - **Lin Hao:** rank **45** (no bout) · spiritual power **2,816 → 2,824** · hawk **3,145 → 3,151** (a morning in falling iron; one ladder, two sides) · **the second soul — DRAGON JIAO: the ten-thousand-year core, deep-water dormant, DEEPENING (fed where he goes)** · **the body — the deep-water line: regenerating · cold-immune · fist 5,000+ kg (HELD — the gates never asked; the reads cost half-seconds, not kilograms)** · **Sword Intent ⚔️: HELD (the stroke spent ch77; the gates were feet and grammar)** · the dragon's joining **95 s** (developing) · smith **5** · **kit: six strokes (Still Water) · Mysterious Heaven Method · Purple Demon Eyes 3rd · Disorder Splitting Wind Hammer · the black-edged Gale Talon · THE TRACK (SPENT — six gates of seams, the grammar run live) · FROST ABYSS SWORD (top-level; the storm never left) + the folded Domain · Domineer ×2 · THE FUSION SOUL (the iron + wind/lightning/water/ice — count the metal: five)** · effective **SOUL EMPEROR (61–70); all-out: Soul Sage — reserved** · looks **~16** · ledger **168 (HELD — mid-exam)** · trials: **10 · 10 · 10** · line 109 spent; the wire dormant — as before
-- **Tang Wulin:** rank **28** · Golden Dragon Body (blood-essence law) · trials **10 · 10 · 10** · **the catch — the first examinee in the trial's history to grab a blade** · hungry, audibly
-- **Ranks at chapter end:** Lin Hao **45** · SP **2,824** · hawk **3,151** · ledger **168** · Wulin **28** · Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — three trials, five for five; "Follow me" — **NOT triggered:** the later trials, the duel's opponent, the seal's NAME (never), Zhuo Shi's face, the Teacher's verdict, Hawk-Soul Union, Na'er, Gu Yue's nature, Long Bing↔Bing'er, armor worn, the fusion door, the blade's forger, what answered, the ape, Mu Chen's first, the giver, "Divine Stormbringer"
+- **Tang Wulin (rank & rings — the ensemble block below):** Golden Dragon Body (blood-essence law) · trials **10 · 10 · 10** · **the catch — the first examinee in the trial's history to grab a blade** · hungry, audibly
+- **Ranks at chapter end:** Lin Hao **45** · SP **2,824** · hawk **3,151** · ledger **168** · Wulin **28** · Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — three trials, five for five; "Follow me" — **NOT triggered:** the later trials, the duel's opponent, the seal's NAME (never), Zhuo Shi's face, the Teacher's verdict, Hawk-Soul Union, Na'er, Gu Yue's nature, Long Bing↔Bing'er, armor worn, the fusion door, the blade's forger, what answered, the ape, Mu Chen's first, the giver, the cancelled divine-tier evolution
 - **Canon coverage:** 258 **mined full** (on disk; range 229–258) · 🔴 **FETCH canon 259 (their chapter-262) BEFORE WRITING CH80** — the fourth trial
+- **Zhang Yangzi (rank & rings — the ensemble block below):** the Eastsea dock — staying
 
 ### Ensemble — canon-verified state
 
@@ -154,6 +155,9 @@ _Every number below traces to a canon line or is labelled AU._
 - **Wu Zhangkong:** about the academy's business — the standard standing (**"Win."**)
 - **Zhang Yangzi / Wang Jinxi / Wei Xiaofeng:** away — the dock, the letters, Eastsea keeping
 
+- **Zhang Yangzi:** rank **31 (AU)** · the Eastsea dock — staying
+- **Wang Jinxi:** **LEFT in ch43** (canon ch 153) · last known rank 25 · the letters still cross — **NOT going**
+- **Wei Xiaofeng:** rank **30 (AU)** · still at Eastsea — *"Eastsea will keep"*
 Canon position anchors: the story stands at **the end of canon 258** — three trials done in fourteen seconds, more trials called, the wager alive behind five-for-five. **AU divergences standing:** the fifth examinee as margin + spring-reader · Zhang Yangzi stayed · the confession spoken, her silence kept, the wire dormant.
 
 🔴 **REALM GAP LAW (v2.90) + EFFECTIVE POWER LAW v2:** no combat, and the one physical feat on the page is canon's

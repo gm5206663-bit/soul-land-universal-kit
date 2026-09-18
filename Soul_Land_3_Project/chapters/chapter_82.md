@@ -129,11 +129,24 @@ The old lady's eyes had not left the flower. At the chairs, four people who had 
 
 ### Character States:
 - **Lin Hao:** rank **45** · spiritual power **2,840 → 2,848** · hawk **3,163 → 3,169** · ledger **168 held** · rings **3 purple + 1 black** · smithing **5th rank** · Sword Intent **HELD** · **THE READ FAILED, once — Elder Cai carries no seam; noted honestly; the alphabet's limit priced** · the wall appraised (lime-silver mortar, four hands) · 「全能系」 loose in the hall · **the presentation unspent — after Gu Yue**
-- **Tang Wulin:** rank **28** · two rings + the claw bone + **the GOLDEN RING standing** · Golden Dragon Body live · **the test of strength complete: three punches, the nine-ring wall — "Next."** · blood essence emptied; the Mysterious Heaven recovery running; the hunger with interest · *even Teacher Wu could not compare*
-- **Gu Yue:** rank **31 (AU)** · three rings (2Y+1P shown) · trials 8·10 · **HER SHOW LIVE: the nod, the bowl, the nine-petaled flower — the boundaries of normal about to learn** · as before, unexplained by law
-- **Xie Xie:** rank **33** · three rings · the fellowship of powerlessness (the rubber wall, recognized from the inside)
-- **Xu Xiaoyan:** rank **30** · two rings · the group's rush; the care given in different words
+- **Tang Wulin (rank & rings — the ensemble block below):** two rings + the claw bone + **the GOLDEN RING standing** · Golden Dragon Body live · **the test of strength complete: three punches, the nine-ring wall — "Next."** · blood essence emptied; the Mysterious Heaven recovery running; the hunger with interest · *even Teacher Wu could not compare*
+- **Gu Yue (rank & rings — the ensemble block below):** three rings (2Y+1P shown) · trials 8·10 · **HER SHOW LIVE: the nod, the bowl, the nine-petaled flower — the boundaries of normal about to learn** · as before, unexplained by law
+- **Xie Xie (rank & rings — the ensemble block below):** three rings · the fellowship of powerlessness (the rubber wall, recognized from the inside)
+- **Xu Xiaoyan (rank & rings — the ensemble block below):** two rings · the group's rush; the care given in different words
 - **Shen Yi:** the frown (the first haughty examinee); the dropped jaws unseen by the class — hers among them
 - **Elder Cai:** **NINE RINGS — the room's gravity explained; the Golden Dragon BLOODLINE named back at Wulin; unreadable to the sixth; the punch that ended the test**
 
-### Ranks at chapter end: Lin Hao **45** · SP **2,848** · hawk **3,169** · ledger **168** · Wulin **28** · Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — mid-trial-4: Gu Yue's flower turning, "normal" holding — for now; the margin's presentation next — **NOT triggered:** Gu Yue's full show, the verdicts, the sixth's presentation, the duel, the seal's NAME (never; the King/bloodline distinction live), Zhuo Shi's face, the Teacher's verdict, Hawk-Soul Union, Na'er, Gu Yue's nature, Long Bing↔Bing'er, armor worn, the fusion door, the blade's forger, what answered, the ape, Mu Chen's first, the giver, "Divine Stormbringer"
+### Ranks at chapter end: Lin Hao **45** · SP **2,848** · hawk **3,169** · ledger **168** · Wulin **28** · Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — mid-trial-4: Gu Yue's flower turning, "normal" holding — for now; the margin's presentation next — **NOT triggered:** Gu Yue's full show, the verdicts, the sixth's presentation, the duel, the seal's NAME (never; the King/bloodline distinction live), Zhuo Shi's face, the Teacher's verdict, Hawk-Soul Union, Na'er, Gu Yue's nature, Long Bing↔Bing'er, armor worn, the fusion door, the blade's forger, what answered, the ape, Mu Chen's first, the giver, the cancelled divine-tier evolution
+
+### Ensemble — canon-verified state
+
+_Single source of truth: `CHARACTER_STATS.md` §0/§1 (canon citations) and §3 (schedule)._
+_Every number below traces to a canon line or is labelled AU._
+
+- **Tang Wulin:** rank **28** · two rings + the claw bone (canon c232 / c240–241) · at Shrek, working student (canon c288)
+- **Xie Xie:** rank **33** · three rings (two yellow + one purple) · first-rank mecha craftsman · at Shrek (canon c288)
+- **Gu Yue:** rank **31 (AU — canon gives no rank at 13)** · three rings · spiritual power **700+, Spirit Sea (canon c231)** · Spirit Pagoda · at Shrek (canon c288)
+- **Xu Xiaoyan:** rank **30** · two rings (canon: two until the third at 30 — the crossing is the summer's own story) · spiritual power **400+ (canon c231)** · **"Captain"** · at Shrek (canon c288)
+- **Zhang Yangzi:** rank **31 (AU)** · the Eastsea dock — staying
+- **Wang Jinxi:** **LEFT in ch43** (canon ch 153) · last known rank 25 · the letters still cross — **NOT going**
+- **Wei Xiaofeng:** rank **30 (AU)** · still at Eastsea — *"Eastsea will keep"*

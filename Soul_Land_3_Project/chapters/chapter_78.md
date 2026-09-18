@@ -111,9 +111,10 @@ The hawk shifted on his shoulder — winter-tipped, unbothered, a bird that had 
 
 ### Chapter end state — Lin Hao:
 - **Lin Hao:** rank **45** (no bout) · spiritual power **2,808 → 2,816** · hawk **3,139 → 3,145** (the iron-yard rang like home; one ladder, two sides) · **the second soul — DRAGON JIAO: the ten-thousand-year core, deep-water dormant, DEEPENING (fed where he goes)** · **the body — the deep-water line: regenerating · cold-immune · fist 5,000+ kg (HELD; the gates ask for feet, not fists)** · **Sword Intent ⚔️: HELD this chapter (the stroke spent ch77; the gates are a footwork trial — the Track's home ground)** · the dragon's joining **95 s** (developing) · smith **5** · **kit: six strokes (Still Water) · Mysterious Heaven Method · Purple Demon Eyes 3rd · Disorder Splitting Wind Hammer · the black-edged Gale Talon · THE TRACK (the gates are its arena — spends ch79) · FROST ABYSS SWORD (top-level; the storm never left) + the folded Domain · Domineer ×2 · THE FUSION SOUL (the iron + wind/lightning/water/ice — count the metal: five)** · effective **SOUL EMPEROR (61–70); all-out: Soul Sage — reserved** · looks **~16** · ledger **168 (HELD — mid-exam)** · trials: **1 — 10/10 (the hall's first spirit-answer) · 2 — 10/10** · line 109 spent; the wire dormant — as before
-- **Tang Wulin:** rank **28** · **GOLDEN DRAGON BODY named (canon 257): the golden ring drinks blood essence — hunger the invoice; the whole right side scaled; all-around amplification, strength most** · trials: **10 · 10** · the hunger-bill growing
-- **Ranks at chapter end:** Lin Hao **45** · SP **2,816** · hawk **3,145** · ledger **168** · Wulin **28** · Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — trial 3, the minute spent, **"Begin."** just shouted — **NOT triggered:** the runs' scores, the later trials, the duel's opponent, the seal's NAME (never), Zhuo Shi's face, the Teacher's verdict, Hawk-Soul Union, Na'er, Gu Yue's nature, Long Bing↔Bing'er, armor worn, the fusion door, the blade's forger, what answered, the ape, Mu Chen's first, the giver, "Divine Stormbringer"
+- **Tang Wulin (rank & rings — the ensemble block below):** **GOLDEN DRAGON BODY named (canon 257): the golden ring drinks blood essence — hunger the invoice; the whole right side scaled; all-around amplification, strength most** · trials: **10 · 10** · the hunger-bill growing
+- **Ranks at chapter end:** Lin Hao **45** · SP **2,816** · hawk **3,145** · ledger **168** · Wulin **28** · Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — trial 3, the minute spent, **"Begin."** just shouted — **NOT triggered:** the runs' scores, the later trials, the duel's opponent, the seal's NAME (never), Zhuo Shi's face, the Teacher's verdict, Hawk-Soul Union, Na'er, Gu Yue's nature, Long Bing↔Bing'er, armor worn, the fusion door, the blade's forger, what answered, the ape, Mu Chen's first, the giver, the cancelled divine-tier evolution
 - **Canon coverage:** 257 **mined full** (on disk; range 229–257) · 🔴 **FETCH canon 258 (their chapter-261) BEFORE WRITING CH79** — the runs through the gates
+- **Zhang Yangzi (rank & rings — the ensemble block below):** the Eastsea dock — staying
 
 ### Ensemble — canon-verified state
 
@@ -128,6 +129,9 @@ _Every number below traces to a canon line or is labelled AU._
 - **Wu Zhangkong:** about the academy's business — the wager heard, the standard set (**"Win."**)
 - **Zhang Yangzi / Wang Jinxi / Wei Xiaofeng:** away — the dock, the letters, Eastsea keeping
 
+- **Zhang Yangzi:** rank **31 (AU)** · the Eastsea dock — staying
+- **Wang Jinxi:** **LEFT in ch43** (canon ch 153) · last known rank 25 · the letters still cross — **NOT going**
+- **Wei Xiaofeng:** rank **30 (AU)** · still at Eastsea — *"Eastsea will keep"*
 Canon position anchors: the story stands at **canon 257's cliff** — a hundred blades falling, "Begin." shouted, five children entering the gates. **AU divergences standing:** five examinees (the forge-grammar given) · the proctors' stroke-record · Zhang Yangzi stayed · the confession spoken, her silence kept, the wire dormant.
 
 🔴 **REALM GAP LAW (v2.90) + EFFECTIVE POWER LAW v2:** no combat — a kill credited whole to canon's fighters, and

@@ -300,7 +300,7 @@ Line one hundred and nine stayed unfinished, coat on, one button undone, riding 
 - **NEW:** the arithmetic curriculum (*sixty-one and nine → ninety and thirteen*) — WZK's own measurable love language, now the arc's benchmark. **The duel's ledger line is deliberately absent:** Wu Zhangkong is not a line in the book; he is the margin (footer-ruled).
 
 ### NOT triggered (all remaining locks held):
-**Hawk-Soul Union — still never opened (61 chapters of reservation and counting)** · Wulin's second seal (**the vine is brewed never — canon 248 held on the road**) · Na'er found (the tin rides, four years deep) · Gu Yue's true nature (**canon 242's silver-haired scene HELD untouched**) · Wu Zhangkong's origin (Shen Yi's *bring him* — the origin itself still unnamed; the ch 204 reveal stands) · who Long Bing is · battle armor worn (Lin Hao wears none; WZK's own Sky Ice is his) · the fusion door opened · the card's contents · who forged the blade · what answered · what the ape was · who Mu Chen's first was · who has been giving him things · **line 109 stays unfinished — coat on, one button undone, in the bag** · "Divine Stormbringer" (cancelled, forever)
+**Hawk-Soul Union — still never opened (61 chapters of reservation and counting)** · Wulin's second seal (**the vine is brewed never — canon 248 held on the road**) · Na'er found (the tin rides, four years deep) · Gu Yue's true nature (**canon 242's silver-haired scene HELD untouched**) · Wu Zhangkong's origin (Shen Yi's *bring him* — the origin itself still unnamed; the ch 204 reveal stands) · who Long Bing is · battle armor worn (Lin Hao wears none; WZK's own Sky Ice is his) · the fusion door opened · the card's contents · who forged the blade · what answered · what the ape was · who Mu Chen's first was · who has been giving him things · **line 109 stays unfinished — coat on, one button undone, in the bag** · the cancelled divine-tier evolution (cancelled, forever)
 
 ### Character Progression:
 - **Lin Hao:** rank **45 → 45** · spiritual power **2,705 → 2,740** · **hawk 3,095** · four rings (three purple + one black) · 5th rank (Master Craftsman) · **ledger 165 → 165 — held by ruling: Wu Zhangkong is not a line; he is the margin** · Sword Intent · **Still Water's first combat touch (the red line on the teacher)** · the Unwritten in the cold, debuted · **lost honestly in sixty-one seconds** — and could not stop being pleased
@@ -325,7 +325,7 @@ Line one hundred and nine stayed unfinished, coat on, one button undone, riding 
   Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** · Zhang Yangzi **31 (AU, staying)** · Wei Xiaofeng **30 (AU)**
   — **NOT triggered:** Union, Wulin's seal, Na'er, Gu Yue's nature (canon 242's scene held), WZK's origin,
   Long Bing, armor worn by Lin Hao, the fusion door, the card, the blade's forger, what answered, the ape,
-  Mu Chen's first, the giver, line 109, "Divine Stormbringer"
+  Mu Chen's first, the giver, line 109, the cancelled divine-tier evolution
 - **Canon coverage:** canon 231's reward spent; 242's armor pact and departure era adapted; 243–44's Mu Xi
   staged; **242's silver-haired scene and 248's seal-brew HELD for the road — 245 (Shrek City), 246 (the
   auction), 247 (Ready), 248+ (the seal) are the next chapters' canon, held on disk**

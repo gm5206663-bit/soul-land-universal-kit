@@ -1,7 +1,7 @@
 # checks/prewrite_board.py — THE MANDATORY STEP-0 BOARD (session ac: "not words, but seriously")
 # Machine output only. Run BEFORE every chapter; act on what it says; never write past a red flag.
 import json, re, io, glob, subprocess, os
-os.chdir('/home/user/Soul_Land_3_Project')
+os.chdir(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))  # self-locating — checks/paths.py law: nothing hardcodes a layout
 W = print
 W("=" * 62)
 W("THE PREWRITE BOARD — machine output, step 0 (before every chapter)")
@@ -86,7 +86,7 @@ if os.path.exists(idxp):
 
 # [6] footer carry (COMPUTED from state.json + the newest chapter's ranks line)
 st = json.load(io.open('checks/state.json', encoding='utf-8'))
-cur = max(int(k) for k in st)
+cur = max(int(k) for k in st if str(k).isdigit())
 e = st[str(cur)]
 lf = io.open(f'chapters/chapter_{cur}.md', encoding='utf-8').read()
 m = re.search(r'### Ranks at chapter end:.*', lf)

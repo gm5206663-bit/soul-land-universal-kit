@@ -86,10 +86,10 @@ On a field of geniuses, he suspected that would be plenty.
 
 ### Character Progression:
 - **Lin Hao:** LH voice: 5 turns · rank **45 HELD** · **SP 2,824 → 2,918** (Spirit Sea; earned) · **hawk 3,199 → 3,260** · **ledger 168 → 179** · smith **5** · four rings HELD · **Sword CONSCIOUSNESS deepened (NOT Soul — the far shore explicitly not reached for)** · frost domain at peace; Union on-call; fusion a breath longer; full kit fluent. Preps for the election battle.
-- **Tang Wulin:** rank **28**, climbing honestly to **30** under a now-Shrek Mu Chen; declared the blacksmith representative (canon 305); his routine (class / forging / cultivation) on the page.
+- **Tang Wulin (rank & rings — the ensemble block below):** climbing honestly to 30 under a now-Shrek Mu Chen; declared the blacksmith representative (canon 305); his routine (class / forging / cultivation) on the page.
 - **Mu Chen:** Shrek-based, drills Wulin (and sees Lin Hao's trade line thriving).
-- **Gu Yue:** rank **31 (AU)** · mecha designer (rank 2), pulls Xiaoyan; receiver law intact (no confession, no sword-soul weather).
-- **Xie Xie:** rank **33** · mecha-maker grind. **Xu Xiaoyan:** rank **30** · designer.
+- **Gu Yue (rank & rings — the ensemble block below):** mecha designer (rank 2), pulls Xiaoyan; receiver law intact (no confession, no sword-soul weather).
+- **Xie Xie (rank & rings — the ensemble block below):** mecha-maker grind. **Xu Xiaoyan:** rank **30** · designer.
 - **Shen Yi / Wu Zhangkong / (Elder Cai absent):** deliver the canon-305 election; Wulin the blacksmith rep (Yang Nianxia overruled).
 
 ### D-row derivation SHOWN (Layer 7): **C5 bounded earned growth** — the numbers rise by real, sized increments and cross NO gate (SP stays Spirit Sea; no ring; no sword realm); the "training" is of the tier he owns. **C7 kill-question** — every mastery is the kind that ordinary practice actually produces (a form losing its hesitation, a domain held longer, a fusion opened by repetition); there is no beat that requires a realm he has not earned. **C2 scale** — the teased event is the canon class-president tournament (a peer-scale social/craft stage), not a catastrophe. **C6 one cause** — the whole week runs from one honest decision (don't reach for the far shore; make the current one flawless). Method §42 conflict type = training/cultivation (rotation maintained after the world-reaction 114 and the harvest 115); §43 escalation = mastery/responsibility, not enemy power.
@@ -108,3 +108,16 @@ On a field of geniuses, he suspected that would be plenty.
 - **B4 (the low-profile seat):** Lin Hao yields the blacksmith-representative seat to Wulin — a choice to stay out of the declared light on the eve of a public tournament, where he'll have to matter on skill without claiming a title.
 
 ### Ranks at chapter end: Lin Hao **45** · **SP 2,918** · hawk **3,260** · ledger **179** · smith 5 · Wulin **28** (climbing to 30) · Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — **he spent the week not reaching for the far shore, but making the one he stood on flawless; and a field full of geniuses, fought among his equals, was exactly the place where flawless would be enough.** — **NOT triggered:** any Sword Soul crossing (far; glimpsed only) · any rank/ring change (45 held) · Spirit Abyss/C4 · C1/C5 · the hawk's hundred-thousand crossing · full dragon-fusion stabilization · the president battle (ch117) · Wulin rank 30 · the armour worn/completed · Gu Yue's yes (never spoken by law).
+
+### Ensemble — canon-verified state
+
+_Single source of truth: `CHARACTER_STATS.md` §0/§1 (canon citations) and §3 (schedule)._
+_Every number below traces to a canon line or is labelled AU._
+
+- **Tang Wulin:** rank **28** · three rings (AU — canon's two not imported, on-page by ch97) + the claw bone · at Shrek, working student (canon c288)
+- **Xie Xie:** rank **33** · three rings (two yellow + one purple) · first-rank mecha craftsman · at Shrek (canon c288)
+- **Gu Yue:** rank **31 (AU — canon gives no rank at 13)** · three rings · spiritual power **700+, Spirit Sea (canon c231)** · Spirit Pagoda · at Shrek (canon c288)
+- **Xu Xiaoyan:** rank **30** · two rings (canon: two until the third at 30 — the crossing is the summer's own story) · spiritual power **400+ (canon c231)** · **"Captain"** · at Shrek (canon c288)
+- **Zhang Yangzi:** rank **31 (AU)** · the Eastsea dock — staying
+- **Wang Jinxi:** **LEFT in ch43** (canon ch 153) · last known rank 25 · the letters still cross — **NOT going**
+- **Wei Xiaofeng:** rank **30 (AU)** · still at Eastsea — *"Eastsea will keep"*

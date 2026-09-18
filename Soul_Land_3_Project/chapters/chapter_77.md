@@ -131,9 +131,10 @@ Then the rhinoceros finished falling, and the door's two watchers were moving �
 
 ### Chapter end state — Lin Hao:
 - **Lin Hao:** rank **45** (no bout — the duel now conditional by WZK's ruling) · spiritual power **2,800 → 2,808** · hawk **3,133 → 3,139** (the night and the stroke fed it) · **the second soul — DRAGON JIAO: the ten-thousand-year core, deep-water dormant, DEEPENING (fed where he goes; its waking measured in pressure — the King's hall turned it once, ch76)** · **the body — the deep-water line: regenerating · cold-immune · fist 5,000+ kg (the machine's ceiling, unremeasured; the rhino never made him spend it)** · **Sword Intent ⚔️: SPENT THIS CHAPTER, one stroke's worth — the Still Water line laid flat, War Stomp's edge taken off across the girls (in and gone; calibration clean: a 3,000-year AoE trimmed, not the trial touched)** · the dragon's joining **95 s** (developing; unspent — the stroke cost nothing) · smith **5** · **kit: six strokes (Still Water) · Mysterious Heaven Method · Purple Demon Eyes 3rd · Disorder Splitting Wind Hammer · the black-edged Gale Talon · the Track · FROST ABYSS SWORD (top-level; the storm never left) + the folded Domain · Domineer ×2 · THE FUSION SOUL (the iron + wind/lightning/water/ice — count the metal: five)** · effective **SOUL EMPEROR (61–70); all-out: Soul Sage — reserved** · looks **~16** · ledger **168 (HELD — the trial is the team's, not an opponent-adaptation)** · line 109 spent; the wire dormant — as before
-- **Tang Wulin:** rank **28** · **THE GOLDEN SOUL RING revealed (canon 256): the purples vanish when the claw comes; the light merges with his skin and strengthens it — the surprise SPENT on canon's page** · mid-fight: the topple landed, the hawk-dive burning gold
-- **Ranks at chapter end:** Lin Hao **45** · SP **2,808** · hawk **3,139** · ledger **168** · Wulin **28** · Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — mid-trial-2, the beast falling, three seconds on the shape's first test — **NOT triggered:** the finish (canon 257), trial scores, the duel's opponent, the seal's NAME, Zhuo Shi's face, the Teacher's verdict, Hawk-Soul Union, Na'er, Gu Yue's nature, Long Bing↔Bing'er, armor worn, the fusion door, the blade's forger, what answered, the ape, Mu Chen's first, the giver, "Divine Stormbringer"
+- **Tang Wulin (rank & rings — the ensemble block below):** **THE GOLDEN SOUL RING revealed (canon 256): the purples vanish when the claw comes; the light merges with his skin and strengthens it — the surprise SPENT on canon's page** · mid-fight: the topple landed, the hawk-dive burning gold
+- **Ranks at chapter end:** Lin Hao **45** · SP **2,808** · hawk **3,139** · ledger **168** · Wulin **28** · Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — mid-trial-2, the beast falling, three seconds on the shape's first test — **NOT triggered:** the finish (canon 257), trial scores, the duel's opponent, the seal's NAME, Zhuo Shi's face, the Teacher's verdict, Hawk-Soul Union, Na'er, Gu Yue's nature, Long Bing↔Bing'er, armor worn, the fusion door, the blade's forger, what answered, the ape, Mu Chen's first, the giver, the cancelled divine-tier evolution
 - **Canon coverage:** 256 **mined full** (on disk; range 229–256) · 🔴 **FETCH canon 257 (their chapter-260) BEFORE WRITING CH78** — the rhinoceros finished, the trial scored, what comes third
+- **Zhang Yangzi (rank & rings — the ensemble block below):** the Eastsea dock — staying
 
 ### Ensemble — canon-verified state
 
@@ -148,6 +149,9 @@ _Every number below traces to a canon line or is labelled AU._
 - **Shen Yi:** proctor — the four words carried; the wager witnessed
 - **Zhang Yangzi / Wang Jinxi / Wei Xiaofeng:** away — the dock, the letters, Eastsea keeping
 
+- **Zhang Yangzi:** rank **31 (AU)** · the Eastsea dock — staying
+- **Wang Jinxi:** **LEFT in ch43** (canon ch 153) · last known rank 25 · the letters still cross — **NOT going**
+- **Wei Xiaofeng:** rank **30 (AU)** · still at Eastsea — *"Eastsea will keep"*
 Canon position anchors: the story stands **inside canon 256** — the beast toppling, the dive descending, the gold burning; the wager heard and made assignment. **AU divergences standing:** five examinees (the stroke that provided canon's margin) · the golden ring seen by a smith and a teacher at the door · Zhang Yangzi stayed · the confession spoken, her silence kept, the wire dormant.
 
 🔴 **REALM GAP LAW (v2.90) + EFFECTIVE POWER LAW v2:** one stroke spent, calibration clean — a three-thousand-year

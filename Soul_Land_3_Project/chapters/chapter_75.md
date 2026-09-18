@@ -217,11 +217,14 @@ Nobody answered. The inner city flowed past, ancient, green, and somewhere in it
 
 ### Chapter end state — Lin Hao:
 - **Lin Hao:** rank **45** (no bout — event-gated) · spiritual power **2,784 → 2,792** · hawk **3,121 → 3,127** · **the second soul — DRAGON JIAO: the core, deep-water dormant, DEEPENING (quiet since ch68; its turning comes ch76, in the King's blood)** · **the body: regenerating · cold-immune · fist 5,000+ kg (held)** · **Sword Intent ⚔️: temperature; the Still Water line — unspent since ch71, HELD** · the dragon's joining **95 s** (developing) · smith **5** · **kit: six strokes · Mysterious Heaven · PDE 3rd · Disorder · the Talon · the Track · FROST ABYSS + Domain · Domineer ×2 · THE FUSION SOUL (the iron + four elements — count the metal: five)** · effective **SOUL EMPEROR; all-out: Soul Sage — reserved** · looks **~16** · ledger **168** (*He woke. We're good enough. The academy came himself.*) · the count retired at seventeen seconds · **the sword promised to Shen Yi after the exam**
-- **Tang Wulin:** rank **~27–28** (his own estimate; the book keeps 28) · **the second seal BROKEN (canon 252): the surprise untested, the body a third stronger, the third-seal clock running — deadline SIXTEEN** · awake, fed (three of everything, one juice box), being driven to five harder papers
-- **Ranks at chapter end:** Lin Hao **45** · SP **2,792** · hawk **3,127** · ledger **168** · Wulin **28** · Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — **NOT triggered:** the seal's NAME, the surprise's content, the exam's first test, "what work," the sword shown, Hawk-Soul Union, Na'er, Gu Yue's nature, Long Bing↔Bing'er, the Teacher's face, armor worn, the fusion door, the blade's forger, what answered, the ape, Mu Chen's first, the giver, "Divine Stormbringer"
+- **Tang Wulin (rank & rings — the ensemble block below):** **the second seal BROKEN (canon 252): the surprise untested, the body a third stronger, the third-seal clock running — deadline SIXTEEN** · awake, fed (three of everything, one juice box), being driven to five harder papers
+- **Ranks at chapter end:** Lin Hao **45** · SP **2,792** · hawk **3,127** · ledger **168** · Wulin **28** · Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — **NOT triggered:** the seal's NAME, the surprise's content, the exam's first test, "what work," the sword shown, Hawk-Soul Union, Na'er, Gu Yue's nature, Long Bing↔Bing'er, the Teacher's face, armor worn, the fusion door, the blade's forger, what answered, the ape, Mu Chen's first, the giver, the cancelled divine-tier evolution
 - **Canon coverage:** 252 + 253 **mined full** (on disk; range 229–253) · 🔴 **FETCH canon 254 (their chapter-257) BEFORE WRITING CH76** — the exam itself and the answer to "what work"
 
 ### Ensemble — canon-verified state
+- **Wang Jinxi:** **LEFT in ch43** (canon ch 153) · last known rank 25 · the letters still cross — **NOT going**
+- **Wei Xiaofeng:** rank **30 (AU)** · still at Eastsea — *"Eastsea will keep"*
+- **Zhang Yangzi:** rank **31 (AU)** · the Eastsea dock — staying
 
 _Single source of truth: `CHARACTER_STATS.md` §0/§1 (canon citations) and §3 (schedule)._
 _Every number below traces to a canon line or is labelled AU._

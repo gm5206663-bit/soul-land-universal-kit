@@ -90,7 +90,7 @@ The lamp did its small work in the middle of the table. Somewhere under the floo
 
 "Not about her."
 
-Wulin took that in with his whole body, the way he took everything in, through the shoulders. Then he did the thing only Wulin could have done, which was reach sideways into their shared nine years and come back with the exact tool, not knowing it was a tool, because to him it was just a Thursday.
+Wulin took that in with his whole body, the way he took everything in, through the shoulders. Then he did the thing only Wulin could have done, which was reach sideways into their shared seven years and come back with the exact tool, not knowing it was a tool, because to him it was just a Thursday.
 
 "You told me about the scale," he said. "The note came when you stopped working."
 

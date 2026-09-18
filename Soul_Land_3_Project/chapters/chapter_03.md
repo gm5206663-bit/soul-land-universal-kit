@@ -225,7 +225,7 @@ It was not grass any more.
 
 It was a **vine.**
 
-Wulin screamed around noon. Lin Hao was off the wall and halfway across the garden before he remembered the instruction, and then he stopped, because Wulin's eyes were open and Wulin was looking at him and shaking his head very slightly, which was, in the vocabulary the two of them had built over nine years, *stay there.*
+Wulin screamed around noon. Lin Hao was off the wall and halfway across the garden before he remembered the instruction, and then he stopped, because Wulin's eyes were open and Wulin was looking at him and shaking his head very slightly, which was, in the vocabulary the two of them had built over six years, *stay there.*
 
 So he stayed.
 

@@ -233,7 +233,7 @@ _set(36, 38,
 # ===========================================================================
 # ch 39-41 — Little Black dies; Zhang Yangzi loses a third of his spiritual power (AU event).
 # ===========================================================================
-_set(39, 41,
+_set(39, 40,
      wulin=(16, _wu(16, " (canon c183)")),
      xiexie=(21, _xx(21, rings="two rings")),
      guyue=(19, _gy(19, note=", peak (canon c133)")),
@@ -244,12 +244,22 @@ _set(39, 41,
      xiaoyan=(None, _none("Xu Xiaoyan", NOT_YET)))
 
 # ===========================================================================
+_set(41, 41,
+     wulin=(16, _wu(16, " (canon c183)")),
+     xiexie=(21, _xx(21, rings="two rings")),
+     guyue=(21, _gy(21, rings=TWO_RINGS_GY, note=" — **2nd ring taken this chapter (E5, 2026-08-30)**")),
+     yangzi=(24, "**Zhang Yangzi:** rank **24** · spiritual power **41 → ~27** — Little Black "
+                 "dead (AU cost of the forest)"),
+     jinxi=(24, _wj(24)),
+     weixf=(24, _wx(24)),
+     xiaoyan=(None, _none("Xu Xiaoyan", NOT_YET)))
+
 # ch 42 — Wulin takes the PURPLE ring (canon c184). Gu Yue takes her SECOND ring (canon c224).
 # ===========================================================================
 _set(42, 42,
      wulin=(16, _wu(16, " (canon c183)", PURPLE)),
      xiexie=(22, _xx(22, rings="two rings", note=" (canon c134)")),
-     guyue=(20, _gy(20, rings=TWO_RINGS_GY, note=" (canon c133: one step past peak 19)")),
+     guyue=(21, _gy(21, rings=TWO_RINGS_GY, note=" — **2nd ring taken, rank twenty-one (E5, 2026-08-30: adapted to the prose; AU-ahead of canon c224)**")),
      yangzi=(24, "**Zhang Yangzi:** rank **24** · spiritual power ~27 (Little Black dead)"),
      jinxi=(25, _wj(25)),
      weixf=(25, _wx(25)),
@@ -261,7 +271,7 @@ _set(42, 42,
 _set(43, 44,
      wulin=(16, _wu(16, " (canon c183)", "one purple ring")),
      xiexie=(22, _xx(22, rings="two rings", note=" (canon c134)")),
-     guyue=(20, _gy(20, rings=TWO_RINGS_GY)),
+     guyue=(21, _gy(20, rings=TWO_RINGS_GY)),
      yangzi=(25, "**Zhang Yangzi:** rank **25** · spiritual power ~27 · **leaves class zero this "
                  "chapter** — he embraces Wang Jinxi on the steps and stays at Eastsea (AU: canon "
                  "has him transfer out too)"),
@@ -276,7 +286,7 @@ _set(43, 44,
 _set(45, 47,
      wulin=(16, _wu(16, " (canon c183)", "one purple ring")),
      xiexie=(22, _xx(22, rings="two rings", note=" (canon c134)")),
-     guyue=(20, _gy(20, rings=TWO_RINGS_GY)),
+     guyue=(21, _gy(21, rings=TWO_RINGS_GY)),
      yangzi=(25, _zy_out(25)),
      jinxi=(None, _wj_out()),
      weixf=(25, _wx_out(25)),
@@ -285,7 +295,7 @@ _set(48, 51,
      wulin=(17, _wu(17, " (canon c192: *\"one step away from reaching rank 17\"*)",
                     "one purple ring")),
      xiexie=(22, _xx(22, rings="two rings", note=" (canon c134)")),
-     guyue=(20, _gy(20, rings=TWO_RINGS_GY)),
+     guyue=(21, _gy(21, rings=TWO_RINGS_GY)),
      yangzi=(26, _zy_out(26)),
      jinxi=(None, _wj_out()),
      weixf=(26, _wx_out(26)),
@@ -351,7 +361,7 @@ _set(62, 65,
      weixf=(26, _wx_out(26)),
      xiaoyan=(19, _xy(19, " · **going to Shrek** (canon c288)")))
 
-_set(66, 69,
+_set(66, 66,
      wulin=(18, _wu(18, " · **at Shrek, working student** (canon c288)", "one purple ring")),
      xiexie=(23, _xx(23, rings="two rings", note=" · **at Shrek, working student** (canon c288)")),
      guyue=(21, _gy(21, rings=TWO_RINGS_GY + " — **Soul Grandmaster** · **at Shrek, working student** (canon c288)")),
@@ -360,6 +370,48 @@ _set(66, 69,
      weixf=(26, _wx_out(26)),
      xiaoyan=(19, _xy(19, " · **at Shrek, working student** (canon c288)")))
 
+# ===========================================================================
+# 🔴 ch67 — THE TIMESKIP LANDS (D032 compressed years walked): the ensemble's live
+#            stations re-anchor to the footers (E-era审计 2026-09-18). Wulin enters
+#            canon's own long rank-28 trough (~c230 → c335 = 29, CHARACTER_STATS §1.5);
+#            his OUR third ring lands on-page by ch97 (AU — canon's two not imported).
+# ===========================================================================
+_set(67, 67,
+     wulin=(28, "**Tang Wulin:** rank **28** (canon's trough — 28 from ~c230 until 29 at c335, CHARACTER_STATS §1.5) · two rings + the claw bone · at Shrek, working student (canon c288)"),
+     xiexie=(33, "**Xie Xie:** rank **33** · three rings (two yellow + one purple) · first-rank mecha craftsman · at Shrek (canon c288)"),
+     guyue=(31, "**Gu Yue:** rank **31 (AU — canon gives no rank at 13)** · three rings · spiritual power **700+, Spirit Sea (canon c231)** · Spirit Pagoda · at Shrek (canon c288)"),
+     yangzi=(31, "**Zhang Yangzi:** rank **31 (AU)** · the Eastsea dock — staying"),
+     jinxi=(None, _wj_out()),
+     weixf=(30, "**Wei Xiaofeng:** rank **30 (AU)** · still at Eastsea — *\"Eastsea will keep\"*"),
+     xiaoyan=(29, "**Xu Xiaoyan:** rank **29** · two rings · spiritual power **400+ (canon c231)** · at Shrek (canon c288)"))
+
+_set(68, 116,
+     wulin=(28, "**Tang Wulin:** rank **28** (canon's trough — 28 from ~c230 until 29 at c335, CHARACTER_STATS §1.5) · three rings from ch97 (AU — canon's two not imported) + the claw bone · at Shrek, working student (canon c288)"),
+     xiexie=(33, "**Xie Xie:** rank **33** · three rings (two yellow + one purple) · first-rank mecha craftsman · at Shrek (canon c288)"),
+     guyue=(31, "**Gu Yue:** rank **31 (AU — canon gives no rank at 13)** · three rings · spiritual power **700+, Spirit Sea (canon c231)** · Spirit Pagoda · at Shrek (canon c288)"),
+     yangzi=(31, "**Zhang Yangzi:** rank **31 (AU)** · the Eastsea dock — staying"),
+     jinxi=(None, _wj_out()),
+     weixf=(30, "**Wei Xiaofeng:** rank **30 (AU)** · still at Eastsea — *\"Eastsea will keep\"*"),
+     xiaoyan=(30, "**Xu Xiaoyan:** rank **30** · two rings (canon: two until the third at 30 — the summer crossing; AU-ahead of the c273 bottleneck window) · spiritual power **400+ (canon c231)** · **\"Captain\"** · at Shrek (canon c288)"))
+
+# ---------------------------------------------------------------------------
+# 🔴 REGISTERED PLATEAUS — the machine twin of CHARACTER_STATS.md §3.1 (this file is
+# the single source; §3.1 points here). verify_ensemble.py's freeze detector skips a
+# run that is FULLY covered by one of these (character, rank, chapter-window). Every
+# entry needs the anchor written next to it — an un-registered freeze still FAILS.
+# ---------------------------------------------------------------------------
+REGISTERED_PLATEAUS = [
+    ("guyue",   21, 41, 66, "E5 (2026-08-30): two-ring staging adapted to the prose; AU-ahead of canon c224 — canon itself holds her two-ring 21-era through the tournament"),
+    ("wulin",   28, 67, 116, "canon's own trough: 28 from ~c230 until 29 at c335 (CHARACTER_STATS §1.5); our story covers ~c230–c305 within it"),
+    ("xiexie",  33, 67, 116, "canon c184 'highest soul power' trajectory made current at the Shrek registration band (c281–c305 window)"),
+    ("guyue",   31, 67, 116, "AU-labelled (canon gives no rank at 13); Spirit Sea 700+ (canon c231) standing in the footers"),
+    ("xiaoyan", 30, 68, 116, "AU-ahead of canon's 29-bottleneck (c230/c235/c273); the second-ring summer crossing is on-page (ch114)"),
+    ("yangzi",  31, 67, 116, "AU station — stayed at Eastsea (§3.2 departure order); off-story number, registered not chased"),
+    ("weixf",   30, 67, 116, "AU station — at Eastsea ('Eastsea will keep'); off-story number, registered not chased"),
+]
+
+
+
 # ---------------------------------------------------------------------------
 # ch70 — THE ABSORPTION MONTH, carried by the ensemble. They have ARRIVED at Shrek (ch66+), so
 # "going to Shrek" is now a stale fact and is replaced by their standing there. Canon c302/c295/
@@ -367,17 +419,6 @@ _set(66, 69,
 # Lin Hao is absent for the whole chapter (day 29 of the one-month absorption), and the AU facts
 # created by his absence are marked AU inline.
 # ---------------------------------------------------------------------------
-_set(70, 71,
-     wulin=(18, _wu(18, " · **blacksmith representative at Shrek, unchallenged** (canon c305)",
-                    "one purple ring")),
-     xiexie=(23, _xx(23, rings="two rings",
-                     note=" · **holds the second profession council seat for blacksmithing in "
-                          "trust for Lin Hao** (AU, ch70) · **eleven ingots under his bed** (AU, ch71)")),
-     guyue=(21, _gy(21, rings=TWO_RINGS_GY + " — **Soul Grandmaster** · **at Shrek** (canon c288)")),
-     yangzi=(27, _zy_out(27)),
-     jinxi=(None, _wj_out()),
-     weixf=(26, _wx_out(26)),
-     xiaoyan=(19, _xy(19, " · **at Shrek** (canon c288)")))
 
 # ---------------------------------------------------------------------------
 SHREK_GOERS = {"Tang Wulin", "Xie Xie", "Gu Yue", "Xu Xiaoyan", "Lin Hao"}

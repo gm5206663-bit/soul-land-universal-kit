@@ -38,4 +38,9 @@ repository was deleted or overwritten. This map describes only the addition.
   Heaven and Earth, ringless). Next: Chapter 3, the hunt (ten days), on the
   author's go.
 - Devouring Dragon serial: Chapter 10 locked; next chapter on the author's go.
+- Cross-reference (already-present project, not part of this upload batch):
+  `Soul_Land_3_Project/` — the live SL3 Lin Hao serial documented in the repo-root
+  README; `SL3_LIN_HAO/` above is its frozen handoff pack only. Current state and
+  its machine-checked suite live entirely inside `Soul_Land_3_Project/`
+  (see `Soul_Land_3_Project/README.md` and `REPAIR_AUDIT_2026_09_18.md`).
 - Everything else: frozen, complete, intact.

@@ -1,5 +1,5 @@
 import json, re, io, os, glob
-os.chdir('/home/user/Soul_Land_3_Project')
+os.chdir(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))  # self-locating — checks/paths.py law: nothing hardcodes a layout
 st = json.load(open('checks/state.json'))
 chs = {int(k): v for k, v in st.items() if k.isdigit()}
 print('== A. state.json ground truth ==')
@@ -26,7 +26,7 @@ claims = [
  ('wager @79', 79, r'wager'),
  ('spring report @79', 79, r'sixth gate'),
  ('proctors record @79', 79, r'stroke|margin'),
- ('Yaluo metals @74', 74, r'Heavy Silver|Yaluo|Sky Dragon'),
+ ('Yaluo metals @78', 78, r'Heavy Silver|Yaluo|Sky Dragon'),
  ('armor pact @74', 74, r'armor'),
  ('appetite @79', 79, r'breakfast|appetite'),
  ('Xiaoyan tank @79', 79, r'third|conserv'),
@@ -41,7 +41,7 @@ for label, ch, pat in claims:
     print(f'{"PASS" if has(ch, pat) else "FAIL"}  {label}')
 
 print('\n== C. stale-token sweep in docs ==')
-stale = ['1,399', '3,111', '2,768', 'Soul King (51', '107 opponents', 'rank 36', '\\b289\\b',
+stale = ['1,399', '3,111', '2,768', 'Soul King \(51', '107 opponents', 'rank 36', '\\b289\\b',
          'END OF CHAPTER 6', 'end of chapter 6', 'end of ch 6', 'rank 18,', 'rank 21 ', 'rank 23,']
 for f in ['THE_CODEX.md','LIN_HAO_STATUS.md','LIN_HAO_PANELS.md','CHARACTER_STATS.md','POWER_MODEL.md','RELATIONSHIPS.md','CANON_ACCESS.md','CONTINUATION_PROMPT.md']:
     t = io.open(f, encoding='utf-8').read().split('\n')

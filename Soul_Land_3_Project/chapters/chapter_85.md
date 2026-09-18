@@ -117,11 +117,24 @@ The run, meanwhile, had turned simple again, which was the only way the class li
 
 ### Character States:
 - **Lin Hao:** rank **45** · spiritual power **2,872** · hawk **3,187** · ledger **168 held** · rings **3 purple + 1 black** · smithing **5th rank** · Sword Intent **HELD** · **THE BILL SERVED** (*"your academy has shown nothing worthy enough — I am not joking, clearly"*) — the first words of his day in the summit's direction; fifteen buns exactly; the wire DORMANT
-- **Tang Wulin:** rank **28** · two rings + the claw bone + the golden ring · Golden Dragon Body live · **the Rice Tub: 153 buns, four full scores carried, the leftovers banked; blood essence nearly replenished** · the captain's dread survived the bill
-- **Gu Yue:** rank **31 (AU)** · three rings · trials 8·8·10·0·0·**10** (carried; T1 8, canon's arithmetic) · the head that came up at the bill — *agreeing with every word and admitting nothing*
-- **Xie Xie:** rank **33** · three rings · trials 8·10·10·0·0·**10** (carried; T1 8, canon's arithmetic) · reclining through history; *just wait and see*
-- **Xu Xiaoyan:** rank **30** · two rings · trials 8·10·10·0·0·**10** (carried; T1 8, canon's arithmetic) · meditating through the miracle
+- **Tang Wulin (rank & rings — the ensemble block below):** two rings + the claw bone + the golden ring · Golden Dragon Body live · **the Rice Tub: 153 buns, four full scores carried, the leftovers banked; blood essence nearly replenished** · the captain's dread survived the bill
+- **Gu Yue (rank & rings — the ensemble block below):** three rings · trials 8·8·10·0·0·**10** (carried; T1 8, canon's arithmetic) · the head that came up at the bill — *agreeing with every word and admitting nothing*
+- **Xie Xie (rank & rings — the ensemble block below):** three rings · trials 8·10·10·0·0·**10** (carried; T1 8, canon's arithmetic) · reclining through history; *just wait and see*
+- **Xu Xiaoyan (rank & rings — the ensemble block below):** two rings · trials 8·10·10·0·0·**10** (carried; T1 8, canon's arithmetic) · meditating through the miracle
 - **Shen Yi:** the four-stage expression; the stumble; the monster-question running circles; the file now containing a bill
 - **Elder Cai — the Silver Moon Douluo:** **the bill received — "Zero was cheap, then."** — and the unseen smile already tempering; her own ledger adding a column; *"a bit more should be fine"**
 
 ### Ranks at chapter end: Lin Hao **45** · SP **2,872** · hawk **3,187** · ledger **168** · Wulin **28** · Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — **individual standings through six: LH 40 · Wulin 40 · Xie Xie 38 · Xiaoyan 38 · Gu Yue 36; four trials left (+30 max); outer asks 60; inner 85 through one door that has smiled twice unseen**
+
+### Ensemble — canon-verified state
+
+_Single source of truth: `CHARACTER_STATS.md` §0/§1 (canon citations) and §3 (schedule)._
+_Every number below traces to a canon line or is labelled AU._
+
+- **Tang Wulin:** rank **28** · two rings + the claw bone (canon c232 / c240–241) · at Shrek, working student (canon c288)
+- **Xie Xie:** rank **33** · three rings (two yellow + one purple) · first-rank mecha craftsman · at Shrek (canon c288)
+- **Gu Yue:** rank **31 (AU — canon gives no rank at 13)** · three rings · spiritual power **700+, Spirit Sea (canon c231)** · Spirit Pagoda · at Shrek (canon c288)
+- **Xu Xiaoyan:** rank **30** · two rings (canon: two until the third at 30 — the crossing is the summer's own story) · spiritual power **400+ (canon c231)** · **"Captain"** · at Shrek (canon c288)
+- **Zhang Yangzi:** rank **31 (AU)** · the Eastsea dock — staying
+- **Wang Jinxi:** **LEFT in ch43** (canon ch 153) · last known rank 25 · the letters still cross — **NOT going**
+- **Wei Xiaofeng:** rank **30 (AU)** · still at Eastsea — *"Eastsea will keep"*

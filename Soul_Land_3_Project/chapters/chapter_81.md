@@ -130,11 +130,24 @@ And the hall that hears everything had heard the word.
 
 ### Character States:
 - **Lin Hao:** rank **45** · spiritual power **2,832 → 2,840** · hawk **3,157 → 3,163** · ledger **168 held** · rings **3 purple + 1 black** · 「全能系」 **SAID ALOUD — the hall that hears everything has heard it** · smithing **5th rank** · Sword Intent **HELD** · **the presentation still unspent — the margin goes last, after Gu Yue** · the wire DORMANT (her hand on his shoulder: real, brief, unpriced — an act, not a word)
-- **Tang Wulin:** rank **28** · two rings + the claw bone · trials 10·10·10 · **THE GOLDEN RING STANDING IN THE HALL — the old lady's shock; the stick stopped** · the captain's reframe given (Xie Xie rebuilt mid-trial)
-- **Gu Yue:** rank **31 (AU)** · three rings · trials 8·10 · **her turn NEXT (ch82)** · *"You wrote it in a blank line."* — the recognition spent flat
-- **Xie Xie:** rank **33** · three rings (2Y+1P) · **the critique absorbed — Spirit Sea in three years; the future boundless; the humiliation reframed** · the whispers his
-- **Xu Xiaoyan:** rank **30** · two rings · **the Xu family NAMED by Shrek — origins known; "absolute control" known** · the words-turn done, the tension out of her
+- **Tang Wulin (rank & rings — the ensemble block below):** two rings + the claw bone · trials 10·10·10 · **THE GOLDEN RING STANDING IN THE HALL — the old lady's shock; the stick stopped** · the captain's reframe given (Xie Xie rebuilt mid-trial)
+- **Gu Yue (rank & rings — the ensemble block below):** three rings · trials 8·10 · **her turn NEXT (ch82)** · *"You wrote it in a blank line."* — the recognition spent flat
+- **Xie Xie (rank & rings — the ensemble block below):** three rings (2Y+1P) · **the critique absorbed — Spirit Sea in three years; the future boundless; the humiliation reframed** · the whispers his
+- **Xu Xiaoyan (rank & rings — the ensemble block below):** two rings · **the Xu family NAMED by Shrek — origins known; "absolute control" known** · the words-turn done, the tension out of her
 - **Shen Yi:** standing at the side — the file's pages growing in real time
 - **Elder Cai:** the stick stopped tapping; **the word "Comprehensive" heard and filed** — her response is ch82's
 
-### Ranks at chapter end: Lin Hao **45** · SP **2,840** · hawk **3,163** · ledger **168** · Wulin **28** · Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — mid-trial-4: **the golden ring turning over Wulin; Gu Yue rising; the margin's word loose in a hall that hears everything** — **NOT triggered:** Wulin's verdict, Gu Yue's show, the sixth's presentation, the duel, the seal's NAME (never), Zhuo Shi's face, the Teacher's verdict, Hawk-Soul Union, Na'er, Gu Yue's nature, Long Bing↔Bing'er, armor worn, the fusion door, the blade's forger, what answered, the ape, Mu Chen's first, the giver, "Divine Stormbringer"
+### Ranks at chapter end: Lin Hao **45** · SP **2,840** · hawk **3,163** · ledger **168** · Wulin **28** · Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — mid-trial-4: **the golden ring turning over Wulin; Gu Yue rising; the margin's word loose in a hall that hears everything** — **NOT triggered:** Wulin's verdict, Gu Yue's show, the sixth's presentation, the duel, the seal's NAME (never), Zhuo Shi's face, the Teacher's verdict, Hawk-Soul Union, Na'er, Gu Yue's nature, Long Bing↔Bing'er, armor worn, the fusion door, the blade's forger, what answered, the ape, Mu Chen's first, the giver, the cancelled divine-tier evolution
+
+### Ensemble — canon-verified state
+
+_Single source of truth: `CHARACTER_STATS.md` §0/§1 (canon citations) and §3 (schedule)._
+_Every number below traces to a canon line or is labelled AU._
+
+- **Tang Wulin:** rank **28** · two rings + the claw bone (canon c232 / c240–241) · at Shrek, working student (canon c288)
+- **Xie Xie:** rank **33** · three rings (two yellow + one purple) · first-rank mecha craftsman · at Shrek (canon c288)
+- **Gu Yue:** rank **31 (AU — canon gives no rank at 13)** · three rings · spiritual power **700+, Spirit Sea (canon c231)** · Spirit Pagoda · at Shrek (canon c288)
+- **Xu Xiaoyan:** rank **30** · two rings (canon: two until the third at 30 — the crossing is the summer's own story) · spiritual power **400+ (canon c231)** · **"Captain"** · at Shrek (canon c288)
+- **Zhang Yangzi:** rank **31 (AU)** · the Eastsea dock — staying
+- **Wang Jinxi:** **LEFT in ch43** (canon ch 153) · last known rank 25 · the letters still cross — **NOT going**
+- **Wei Xiaofeng:** rank **30 (AU)** · still at Eastsea — *"Eastsea will keep"*

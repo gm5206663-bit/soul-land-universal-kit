@@ -134,11 +134,24 @@ Wu Zhangkong stepped out of the dark with his blue sword loose in his hand, and 
 
 ### Character States:
 - **Lin Hao:** rank **45** · spiritual power **2,824 (recovering)** · hawk **3,199** · ledger **168 HELD** · **smith 5th rank (proven)** · trials **70 — FULL MARKS; the request HELD, NARROWED (D23)** · **🔴 SWORD CONSCIOUSNESS awakened (the graduation from sword consciousness; all weapons, one intent; quiet, unspent, unnumbered)** · LH voice: 5 turns · the wire DORMANT
-- **Tang Wulin:** rank **28** · Master Craftsman (youngest in history); full marks; the point spent on GY; the weekly inspection standing
-- **Gu Yue:** rank **31 (AU)** · **60 — IN, bought aloud; working student; the sentence received standing**
-- **Xie Xie:** rank **33** · 67 · silent before the statues; green with envy at the grandteacher's favor, telling no one
-- **Xu Xiaoyan:** rank **30** · 67 · working student; the question-asker ("what happened between them?" — "a difference of beliefs")
+- **Tang Wulin (rank & rings — the ensemble block below):** Master Craftsman (youngest in history); full marks; the point spent on GY; the weekly inspection standing
+- **Gu Yue (rank & rings — the ensemble block below):** **60 — IN, bought aloud; working student; the sentence received standing**
+- **Xie Xie (rank & rings — the ensemble block below):** 67 · silent before the statues; green with envy at the grandteacher's favor, telling no one
+- **Xu Xiaoyan (rank & rings — the ensemble block below):** 67 · working student; the question-asker ("what happened between them?" — "a difference of beliefs")
 - **Wu Zhangkong:** staying; tea-duty accepted; **at the lake with his sword drawn — "Show me"**
 - **The elders:** Zhuo Shi's door left open, his tea secured; Cai absent from the island, her page banked
 
-### Ranks at chapter end: Lin Hao **45** · SP **2,824** · hawk **3,199** · ledger **168** · Wulin **28** · Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — **all five IN (the working students of the outer court); sword consciousness born; the teacher's sword drawn = ch101 = canon 286 "Dreams of Battle Armor" (novelfull mirror; novelhall ID 10716131, FETCH FIRST as ore — the registration morning; the dreams) — plus OURS: the lake lesson, 'Show me'** — **NOT triggered:** the lake lesson's outcome · the registration · the dorms/classmates · the CCC-D answer · Cai's page verdict · Feng Wuyu · Mu Chen's letter's content · the placation errand · the letter · the tin · Old Tang · the seal NAME (never) · duel conditional · sword to Shen Yi · Na'er · Gu Yue's nature (the drawer) · WZK origin · armor worn · fusion door · blade forger · what answered · the ape · Mu Chen's first · the giver · "Divine Stormbringer" · the Union opening
+### Ranks at chapter end: Lin Hao **45** · SP **2,824** · hawk **3,199** · ledger **168** · Wulin **28** · Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — **all five IN (the working students of the outer court); sword consciousness born; the teacher's sword drawn = ch101 = canon 286 "Dreams of Battle Armor" (novelfull mirror; novelhall ID 10716131, FETCH FIRST as ore — the registration morning; the dreams) — plus OURS: the lake lesson, 'Show me'** — **NOT triggered:** the lake lesson's outcome · the registration · the dorms/classmates · the CCC-D answer · Cai's page verdict · Feng Wuyu · Mu Chen's letter's content · the placation errand · the letter · the tin · Old Tang · the seal NAME (never) · duel conditional · sword to Shen Yi · Na'er · Gu Yue's nature (the drawer) · WZK origin · armor worn · fusion door · blade forger · what answered · the ape · Mu Chen's first · the giver · the cancelled divine-tier evolution · the Union opening
+
+### Ensemble — canon-verified state
+
+_Single source of truth: `CHARACTER_STATS.md` §0/§1 (canon citations) and §3 (schedule)._
+_Every number below traces to a canon line or is labelled AU._
+
+- **Tang Wulin:** rank **28** · three rings (AU — canon's two not imported, on-page by ch97) + the claw bone · at Shrek, working student (canon c288)
+- **Xie Xie:** rank **33** · three rings (two yellow + one purple) · first-rank mecha craftsman · at Shrek (canon c288)
+- **Gu Yue:** rank **31 (AU — canon gives no rank at 13)** · three rings · spiritual power **700+, Spirit Sea (canon c231)** · Spirit Pagoda · at Shrek (canon c288)
+- **Xu Xiaoyan:** rank **30** · two rings (canon: two until the third at 30 — the crossing is the summer's own story) · spiritual power **400+ (canon c231)** · **"Captain"** · at Shrek (canon c288)
+- **Zhang Yangzi:** rank **31 (AU)** · the Eastsea dock — staying
+- **Wang Jinxi:** **LEFT in ch43** (canon ch 153) · last known rank 25 · the letters still cross — **NOT going**
+- **Wei Xiaofeng:** rank **30 (AU)** · still at Eastsea — *"Eastsea will keep"*

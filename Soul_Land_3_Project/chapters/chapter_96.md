@@ -176,11 +176,24 @@ Zhuo Shi stood dumbstruck — he, the famed stubborn ox of Shrek's inner court, 
 
 ### Character States:
 - **Lin Hao:** rank **45** · spiritual power **2,824** · hawk **3,199** · ledger **168 HELD** · trials **70 — HELD PENDING MAKEUP (the forging floor, ch97)** · the offer made and refused; the makeup taken by choice · LH voice: 5 turns · the wire DORMANT
-- **Tang Wulin:** rank **28** · **70 — accepted, then RENOUNCED** ("one day… enforce the justice myself")
-- **Gu Yue:** rank **31 (AU)** · **59 — REJECTED at one point's width; her chin level; the bow, last, nudged**
-- **Xie Xie:** rank **33** · **67 — accepted, then joined the renunciation** (the count kept since the first week)
-- **Xu Xiaoyan:** rank **30** · **67 — accepted, then joined; then flipped a Title Douluo**
+- **Tang Wulin (rank & rings — the ensemble block below):** **70 — accepted, then RENOUNCED** ("one day… enforce the justice myself")
+- **Gu Yue (rank & rings — the ensemble block below):** **59 — REJECTED at one point's width; her chin level; the bow, last, nudged**
+- **Xie Xie (rank & rings — the ensemble block below):** **67 — accepted, then joined the renunciation** (the count kept since the first week)
+- **Xu Xiaoyan (rank & rings — the ensemble block below):** **67 — accepted, then joined; then flipped a Title Douluo**
 - **The elders:** Zhuo Shi = the grandteacher, flipped by a girl's tears; Cai Yue'er — named by his shout — the page still for one unguarded moment
 - **The trial:** the tenth LIVE — the flip mid-air; the makeup (both boys) waiting
 
-### Ranks at chapter end: Lin Hao **45** · SP **2,824** · hawk **3,199** · ledger **168** · Wulin **28** · Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — **the Three Hall Review LIVE: GY 59, rejected by one point; Wulin's renunciation on the table; the fifth's offer refused; Zhuo Shi flipped mid-roar = ch97 = canon 280 "Fifth Rank for a Full Score" (novelfull mirror; ID 10716125, FETCH FIRST as ore — the makeup = the FORGING floor; the resolution of the test)** — **NOT triggered:** the resolution of the provocation (was it the test?) · GY's final standing · the makeup's content · Cai's page VERDICT · the grey-haired man's full intentions · XX's deduction's cause · the CCC-D answer · the ledger's correction-or-payment · placation errand · smiths' summons · the letter · the shape's failure · Ye Xinglan · the seal NAME (never) · duel conditional · Zhuo Shi's verdict (the makeup will be it) · sword to Shen Yi · Na'er · Gu Yue's nature (the drawer) · WZK origin · armor worn · fusion door · blade forger · what answered · the ape · Mu Chen's first · the giver · "Divine Stormbringer" · the tin · Union opening
+### Ranks at chapter end: Lin Hao **45** · SP **2,824** · hawk **3,199** · ledger **168** · Wulin **28** · Xie Xie **33** · Gu Yue **31** · Xu Xiaoyan **30** — **the Three Hall Review LIVE: GY 59, rejected by one point; Wulin's renunciation on the table; the fifth's offer refused; Zhuo Shi flipped mid-roar = ch97 = canon 280 "Fifth Rank for a Full Score" (novelfull mirror; ID 10716125, FETCH FIRST as ore — the makeup = the FORGING floor; the resolution of the test)** — **NOT triggered:** the resolution of the provocation (was it the test?) · GY's final standing · the makeup's content · Cai's page VERDICT · the grey-haired man's full intentions · XX's deduction's cause · the CCC-D answer · the ledger's correction-or-payment · placation errand · smiths' summons · the letter · the shape's failure · Ye Xinglan · the seal NAME (never) · duel conditional · Zhuo Shi's verdict (the makeup will be it) · sword to Shen Yi · Na'er · Gu Yue's nature (the drawer) · WZK origin · armor worn · fusion door · blade forger · what answered · the ape · Mu Chen's first · the giver · the cancelled divine-tier evolution · the tin · Union opening
+
+### Ensemble — canon-verified state
+
+_Single source of truth: `CHARACTER_STATS.md` §0/§1 (canon citations) and §3 (schedule)._
+_Every number below traces to a canon line or is labelled AU._
+
+- **Tang Wulin:** rank **28** · two rings + the claw bone (canon c232 / c240–241) · at Shrek, working student (canon c288)
+- **Xie Xie:** rank **33** · three rings (two yellow + one purple) · first-rank mecha craftsman · at Shrek (canon c288)
+- **Gu Yue:** rank **31 (AU — canon gives no rank at 13)** · three rings · spiritual power **700+, Spirit Sea (canon c231)** · Spirit Pagoda · at Shrek (canon c288)
+- **Xu Xiaoyan:** rank **30** · two rings (canon: two until the third at 30 — the crossing is the summer's own story) · spiritual power **400+ (canon c231)** · **"Captain"** · at Shrek (canon c288)
+- **Zhang Yangzi:** rank **31 (AU)** · the Eastsea dock — staying
+- **Wang Jinxi:** **LEFT in ch43** (canon ch 153) · last known rank 25 · the letters still cross — **NOT going**
+- **Wei Xiaofeng:** rank **30 (AU)** · still at Eastsea — *"Eastsea will keep"*
