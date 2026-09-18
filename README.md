@@ -22,3 +22,11 @@
 ## `_archive/` — DO NOT USE
 `_archive/2026-08-25_uploads/` holds the original uploads from earlier sessions (pre-v2.26 SL3 snapshots, the Chapter-4-era fossil codex, the stale continuation). Kept for provenance only; every file there is superseded by the trees above.
 `_archive/2026-09-18_workspace_uploads/` (added 2026-09-18) holds an agent-workspace snapshot of the SL3 docset from the chapter-01 audit era — also fully superseded by `Soul_Land_3_Project/`.
+
+---
+
+## ADDITION — Full Workspace Upload (2026-09-18, add-only)
+
+Everything in the live workspace was added on this date without deleting or
+overwriting anything existing. Map of the addition: see
+`WORKSPACE_MAP_2026-09-18.md` at the root of this repository.

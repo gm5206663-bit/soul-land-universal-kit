@@ -1,0 +1,77 @@
+# CANON LEDGER — the Devouring Dragon serial
+Law: every canon fact used anywhere in this project gets a row here with a source.
+[design] rows are OUR inventions on canon base — labeled, never disguised.
+Deviation rows record natural butterfly effects as they happen.
+
+## A. The species (Devouring Dragon)
+| Row | Fact | Source | Tier |
+|---|---|---|---|
+| DD-01 | Devouring Dragon = a spirit beast species, Dragon Clan; also called a Mini-Tyrant Dragon; resembles the Tyrant Dragon but smaller | SL2 ch.391 via Soul Land wiki (soulland.fandom.com/wiki/Devouring_Dragon) | canon (secondary on primary ch.391) |
+| DD-02 | Innate spirit skill: Devouring Heaven and Earth | same | canon |
+| DD-03 | Innately bloodthirsty; recovers energy and evolves by devouring killed enemies (beast or human); rampage stops only when full; then deep sleep | same | canon |
+| DD-04 | Growth ~10x ordinary beasts: ~1,000 real years reaches ordinary 10,000-year cultivation | same | canon |
+| DD-05 | Bloodthirstiness usually gets them killed by stronger opponents; intelligence usually very limited, instinct-driven; ranked inferior to the Dark Demon Evil God Tiger (which devours with high intelligence) | same | canon |
+| DD-06 | Shunned by other spirit beasts as too brutal: every creature is a target to kill and devour | same | canon |
+| DD-07 | Canon sighting: a 20,000-year specimen, ~4 m tall, three-layered dark-blue scales, upright, short three-clawed arms, head a third of body, ~3 m tail; Eyedemon Forest, Sun Moon Empire; killed by Huo Yuhao in self-defense | SL2 ch.391 (wuxiaworld UTS 391-1) | canon |
+| DD-10 | BLOODLINE SUPPRESSION: he is a DRAGON — Earth Dragon line (Tyrant Dragon kinship, DD-08) carrying the Golden Dragon King's bloodline; all dragon-kind descends from the Dragon God, the sovereign of all beasts. The higher bloodline weighs on the lower: low beasts feel the weight in the blood and cower/still/defer, from before learning, without knowing. The weight scales with cultivation and bloodline depth (author s11: "He is dragon not joke, there is bloodline suppression to low beast") | canon-derived: Dragon God as sovereign of beasts; SL3 Golden Dragon King bloodline suppression; DD-08 line receipt | canon-derived + author lock |
+| DD-09 | THE RACE SKILL: the Devouring Dragon's innate spirit skill is DEVOURING HEAVEN AND EARTH — extremely domineering; the power behind devouring slain enemies to recover energy and evolve; paired with the species' very strong defense (SL2 wiki: "very good at defense… innate spirit skill extremely domineering"). Spirit beasts carry innate race skills; the skill is the species' own power, distinct from anything rings could give | SL2 wiki Devouring Dragon (DD-02/03 cross-read) | canon |
+
+## B. Era facts (DL ~3660s; 1000 years after Soul Land 1)
+| Row | Fact | Source | Tier |
+|---|---|---|---|
+| ER-01 | SL1 war era ends ~DL 2656; Tang San's ascension follows within a few years; +1000 → our hatch year DL 3661 | soul_land_new/foundation/CONTINENTAL_TIMELINE_VERIFIED_2026-09-16.md (verified against fandom wiki + baike rows WL-18..WL-30) | verified canon + design offset |
+| ER-02 | Tang Sect founded by Tang San after SL1's war; exists across the millennia (still alive in SL2) | SL1 epilogue / SL2 setting; common canon | canon |
+| ER-03 | Shrek Academy persists across the millennia (still famed in SL2) | SL2 setting | canon |
+| ER-04 | Spirit Hall destroyed at SL1's end (Martial Soul Empire broken, Bibi Dong fallen) | SL1 finale; verified rows WL-27..WL-30 | canon |
+| ER-05 | Spirit-beast ceilings: 100,000-year beasts face the HEAVENLY TRIBULATION and may choose human form instead | SL1 canon (Xiao Wu / Er Ming / Da Ming arcs; the 100k law) | canon |
+| ER-06 | The Star Dou Great Forest is the continent's great spirit-beast country, ruled by ancient overlords; the Beast God Di Tian (Golden-Eyed Black Dragon King) is its supreme one (SL2-era facts; in our era he reigns, ~790,000 years [design age]) | SL2 setting | canon (existence) + design (age) |
+| ER-07 | No soul tools in this era: soul-tool technology is a far-later development tied to the Sun Moon continental collision (SL2-era); collision date TBD | SL2 prologue lore | canon (absence) + [verify date] |
+
+## B2. Spirit-beast law (verified session 6; full sheet in SPIRIT_BEAST_LORE_VERIFIED.md)
+| Row | Fact | Source | Tier |
+|---|---|---|---|
+| SB-01 | REAL AGE ≠ CULTIVATION AGE (xiuwei-nianshu != cunhuo-nianshu (cultivation year-count is NOT years-lived)); tiers are measured in cultivation years; cultivation age can run far ahead of real age via devouring, Emperor-beast presence, treasures, environments | wiki Soul_Beast Age + baike hunshou (soul-beast entry) | canon |
+| SB-02 | Tier table: 10–99 white (≈rank 10+), 100–999 yellow (≈20+), 1,000–9,999 purple (≈30–40+), 10,000–99,999 black (≈50–80+), 100,000–999,999 red/2 skills (≈Title Douluo; ordinary 100k beast ≈ rank 95), 200,000+ Great/Ferocious Beast (red with gold veins; ≈Super/Ultimate Douluo), 1,000,000+ gold | baike hunshou (soul-beast entry) + wiki comparison | canon |
+| SB-03 | Bottlenecks at EVERY tier line: every hundred years a barrier, then per thousand, per ten thousand, per hundred thousand — escalating | wiki Soul_Beast Bottleneck | canon |
+| SB-04 | Intelligence: young beasts low-intellect; 10,000-year beasts ≈ a little kid; human-parity + speech at 100,000; bloodline/treasure exceptions; Devouring Dragons canonically low-end | wiki Soul_Beast Intellect + DD-05 | canon |
+| SB-05 | At 100,000 cultivation-years: rebirth as human OR heavenly tribulation (arrives centuries later; survive = Great Beast; fail = soul-and-form destruction; ~1 in 12 becomes Great Beast); tribulations repeat every 100,000 yrs; sacrifice (100k-only) bestows ring+bone and reverts the beast to an infant | wiki + baike | canon |
+| SB-06 | Death-drops: soul ring ALWAYS (grade = cultivation age, contains all cultivation + the innate ability); soul bone chance below 100k, guaranteed above | wiki Soul_Beast Rings/Bones | canon |
+| SB-07 | Growth is readable from appearance (size at tier crossings); pure bloodlines change less, refine more | wiki Soul_Beast Appearance | canon |
+| SB-08 | Emperor Beasts: destiny-born; double cultivation speed of beasts in their habitat; double 100k-bottleneck breakthrough odds | wiki Soul_Beast Emperor Beasts | canon (distant lore) |
+| SB-10 | STAGE BREAKTHROUGHS carry more than capacity: each tier crossing (10→100→1,000→10,000→100,000 and the gates beyond) opens a window of AWAKENING / EVOLUTION — a chance, not a grant (author ruling s17; canon pattern: spiritual intellect opens at the thousand-year tier; evolution accompanies breakthroughs where bloodline/potential allow). His first crossing (10→100) seized: bloodline step, sense of years, the skill's deeper face — see POWER_LAW STAGE BREAKTHROUGH LAW | author lock + canon pattern | serial law |
+| SB-09 | Soul beasts reproduce like normal animals per species type; Dragon Clan = eggs | wiki Soul_Beast Reproduction | canon |
+
+## B3. Bloodline & era depths (verified session 8)
+| Row | Fact | Source | Tier |
+|---|---|---|---|
+| DD-08 | The Tyrant Dragon — the Devouring Dragon's greater kin — is one of the strongest EARTH DRAGONS; mature 15+ m, 10,000-yr class 30+ m; carries the Golden Dragon King's bloodline; its wing-evolution lore touches the ranks of the Nine Great Dragon Kings; the Devouring Dragon is its "mini" kin (a 20,000-yr Devouring Dragon ≈ 4 m — small and quick for dragon-kind) | wiki Tyrant Dragon + DD-07 | canon |
+| GB-02 | ERA-STATUS OF THE TOP TEN AT DL 3661 (SL2-era ages minus ~9,000 yrs): ALIVE — Di Tian (Golden-Eyed Black Dragon King, ~811,000 yrs, Star Dou Great Forest's depth — Beast God, 1st of the ten); Evil Emperor ~791,000 (Evil Demon Forest); Snow Empress ~691,000 (Extreme North); Bi Ji (Jadeite Swan ~571,000, Star Dou forest); Myriad Demon King (Demonic Eye Demon Tree ~521,000, Star Dou forest); Bear Lord (Dark Gold Terror Claw Bear ~461,000, Star Dou forest); Ice Empress ~391,000 (Extreme North); Scarlet King (Three-Headed Crimson Demon Mastiff ~291,000+, Star Dou forest); Zi Ji ~271,000+. DEAD: Deep Sea Demonic Whale King (1,000,000+, fell at SL1's end); Da Ming and Er Ming (100,000+, fell at SL1's end, "Deceased later Revived" — the revival belongs to a much later era). NAMING IN-STORY REMAINS AUTHOR-GATED (DS-06) | wiki Great Beasts ch1–2 + baike SL2 fierce-beast table | canon + era math |
+| GB-01 | GREAT/FIERCE BEASTS: 200,000+ yrs, usually two tribulations passed; the human-ranked Top Ten Fierce Beasts — Di Tian #1, then Evil Emperor, Snow Empress, Bi Ji, Myriad Demon King, Bear Lord, Ice Empress, Scarlet King, Zi Ji, #10 unknown; weakest of the ten holds 300,000+ yrs; sea excluded | wiki Great Beasts | canon |
+| ER-09 | SUN MOON COLLISION TIMELINE: the Sun Moon Continent collides ~4,000 years BEFORE Soul Land 2's present (= ~6,000 years after SL1); the war unified the continents under the Douluo name and began the Tang Sect's decline. OUR ERA (SL1+1,000, DL 3661) predates the collision by ~5,000 years — no Sun Moon presence, no soul tools, the continent of the three empires | UTS ch.3 + ch.6.1 (webnovel/wuxiaworld) | canon |
+| ER-08 | Da Ming and Er Ming — the Star Dou Great Forest's two 100,000-yr guardian kings — fell at Soul Land 1's end, ~1,000 years before our hatch; Di Tian remains the forest's supreme one | SL1 finale canon [exact date: verify] | canon + verify |
+
+## C. Design rows (ours, labeled)
+| Row | Fact | Status |
+|---|---|---|
+| DS-01 | Hatch year DL 3661; the "1000 years after SL1" offset realized as 2661 + 1000 | locked (author) |
+| DS-02 | Hatchling ground: the mountain border country of the Star Dou Great Forest's outer slopes (passes, hunter lodges, no farms); the STAR LUO EMPIRE holds this border (author ruling s2) | locked (author) |
+| DS-03 (CORRECTED s7, EXTENDED s11) | The Adaptation Talent's scope is the HOLDER'S COMPLETE EXISTENCE (author s7): bloodline, soul-power cultivation, spiritual power/intelligence, body/senses/instinct/recovery, nature-mastery — every road; no two Talents alike (holder-shape law: shaped by holder, environment, situation, time, resources, talent, potential); species low-intelligence is BASELINE not ceiling. ACTIVE FROM THE EGG (author s11: "built foundation from birth mother womb") — Phase 0 built his complete foundation before the hatch. Never sentient, never named in prose | locked (author) |
+| DS-04 | Devouring converts a sliver of prey-years into growth; never full years; no feast-leaps; no prey-memory knowledge transfer | locked [design under v2.0] |
+| DS-05 (CORRECTED s7) | Pace: real years 1–5 detailed; then decade jumps. The species ~10x line (DD-04) is a REFERENCE baseline only (author s7: "this is just reference") — NO arithmetic clock, no derived barrier ages; growth is event-shaped and adaptive; cultivation-age in panels = honest estimate. All earlier rate figures (s5: 25–30 yrs; s6: x2 dial) RETIRED. | locked shape (author pick), s7 correction |
+| DS-06 | Overlord law: Di Tian and the ancient overlords are real and nameable in human lore, but distant gravity only — never staged, never contacted without author go | locked (author) |
+| DS-07 | No name at birth; a name only if the world gives him one | locked (author) |
+| DS-08 | Bloodthirst remains as the species flaw; the Talent lets him survive his nature, never removes it | locked [design] |
+| DD-11 | THE DRAGON'S VOICE (serial design under canon dragon-voice pattern; author s21 ruling — a skill at the first barrier): the bloodline's first active skill, awakened at the 100-year crossing — a roar carrying the weight of his blood (bloodline suppression made ACTIVE). Juvenile state: hammers the low lives flat; makes equals falter; barely reaches above him; short; paid in breath and blood; unreliable at calling — the Talent's roads refine it (aim, compression, cost) as the bloodline climbs. It is the dragon line's own voice, not a prey-trait (DS-10 fuel law kept) | serial law (author) | design |
+| DS-10 | THE BLOODLINE PATH (author s20): he is a SUB-line dragon, not pure — the Talent focuses on the best path he has: cleaning the impurities of the Devouring Dragon blood and INCREASING the dragon bloodline, feeding it from every devouring; the Talent perfects the absorption (race skill = the mechanism). Lesser devoured bloodlines are burned as FUEL for the dragon line — no prey-mutation, no trait-patches; a trait or bloodline element is gained only from something strong enough or superior to matter against dragon blood, and then harmonized, never overwriting. Canon cross-read: master §41.2 (harmonize, don't erase), §41.4 (bloodline = foundation that may climb to a unique personal lineage), §42 (legitimate absorption mechanism) | author lock + master cross-read | serial law |
+| DS-09 | He was the ONLY EGG — kinless from the first breath (author ruling s2) | locked (author) |
+
+## D. Deviations (natural butterflies only)
+| Row | Deviation | Cause | Logged |
+|---|---|---|---|
+| — | none yet | — | — |
+
+## E. Verification queue
+- Sun Moon continental collision date (before asserting anything about soul tools' absence beyond the general fact).
+- Awakening/rite customs ~1000 years after the Spirit Hall's fall (who conducts awakenings in this era?) — needed before human-side POV scenes.
+- The Star Dou Great Forest's named overlords list for this era (Di Tian confirmed; others: verify before naming).
+- Which empire holds the forest's mountain borders in canon geography.
