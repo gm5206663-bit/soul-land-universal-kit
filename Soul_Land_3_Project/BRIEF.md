@@ -84,7 +84,17 @@ THE PREWRITE BOARD — machine output, step 0 (before every chapter)
 [5] CANON: contiguous working set 229–305 (isolated: [28, 218]) | NEXT: canon 306 = their chapter-309, title-verify BEFORE writing
     coverage: trailing canon/fic ratio 1.12 · 1:1 lockstep streak 0 (LAW pp §7: coverage is ELASTIC — fetch ahead when an arc is mid-flight; declare the span; lockstep is a smell)
     expected title (fuzzy — index glues title+first-line): Forming Groups Xu Xiaoyan had a delicate app
-  !! checks/prewrite_board.py exited 1
+[6] FOOTER CARRY (ch116, state.json + footer): rank 45 · SP 2918 · hawk 3260 · ledger 179
+    footer: ### Ranks at chapter end: Lin Hao **45** · **SP 2,918** · hawk **3,260** · ledger **179** · smith 5 · Wulin **28** (climbing to 30) · Xie Xie **33** ·
+[7] MOTIF KEEP-ALIVE (gold; 🟡 gap>=10 🔴 gap>=16 — consult STYLE_GOLD.md):
+    ✅ the drawer         last ch116  (gap 0)
+    🔴 hall-that-hears    last ch86  (gap 30)
+    ✅ price/correct-chg  last ch115  (gap 1)
+    ✅ grain-read         last ch116  (gap 0)
+    🔴 first-hand-in      last ch91  (gap 25)
+    ✅ the-margin         last ch113  (gap 3)
+    STYLE: dialogue-load is a dial (lesson 44-66% / hush 8-15% / standard 13-30%); 1-2 gold patterns per chapter, never a checklist.
+==============================================================
 ==============================================================
 == Layer 7: divergence_engine.py (LAW pp: canon = ore, trajectory ours) ==
   ledger: 25 rows — 20 ACTIVE · 5 HELD · 7 STORM-class

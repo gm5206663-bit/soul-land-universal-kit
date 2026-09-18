@@ -62,3 +62,27 @@ Live ground truth: ch116 · rank 45 · SP 2,918 · hawk 3,260 · ledger 179 (sta
 Unchanged facts: frozen archives (`reference/sl3_lin_hao/`, `SL3_LIN_HAO/`) remain
 FORBIDDEN and sealed. No checker was weakened; three checkers gained guards/red-tests;
 schedule and docs were brought to the truth.
+
+## Second pass — open-problem deep-audit (2026-09-18, later same day)
+
+Every open row of `PROBLEM_INVENTORY.md` (481 rows) was verified against the live tree rather
+than trusted:
+
+- **K2 — fourth-ring arc: RESOLVED.** Paid on-page ch67–68 (ten-thousand-year dragon jiao
+  absorbed; three purple + one black ring; Frost Abyss Sword + Frost Abyss Domain), jiao echoes
+  ch71/76/98/102/104, rank climb to 45 registered (ch98).
+- **E3 — doc-vs-footer drift (Wulin 15 vs 16 @ ch39–41): RESOLVED.** §3 was adapted to the
+  footer truth by the E6 repair; verified today against footers.
+- **K7 — HAWK-SOUL UNION: RESOLVED.** On-page at ch116 (drilled to on-command; opens on
+  command, was emergency-only).
+- **K4 — armor thread: still open, status refreshed to ch115** (Mu Chen reunion paid; anvil
+  shared with Saint president Feng Wuyu; spirit-refining at 13; armor undonned — lock L5 green).
+- **Genuinely open:** K3 (Three Thunders — staged ch111–113, not performed), K5 (Shrek reveal
+  at its canon point), K6 (canon corpus gaps — factual), OO5 (Gu Yue answer timing — pending
+  the user's own call, asked).
+
+Auxiliary battery on the final tree: `audit_mm` 0 FAIL (registry last-echo table all PASS) ·
+`brief` / `prewrite_board` / `build_status` / `build_continuation` OK · canon quotes 21/80 vs
+the 79 on-disk chapters. Infrastructure note: a sandbox re-clone briefly forked the session
+branch from `main`; history was rebased onto the pushed repair commit and re-verified
+(`5e43793 → 5628ea9 → 5927c31`).
