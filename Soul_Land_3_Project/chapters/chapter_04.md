@@ -1,6 +1,17 @@
 # Chapter 4: The Worst Class
 
-## Canon Reference: Novel Chapters 24 (Na'er Leaves), 33-35 (Arrival/Reporting In/Roommates), 40-45 (Cen Yue, Opening Ceremony, The Worst Class)
+## Canon Reference: canon ch 24 (Na'er Leaves), ch 33–35 (First Arrival / Reporting In / Roommates),
+## ch 45–46 (The Worst Class / Icily Arrogant Prince Charming).
+## ⚠️ **CORRECTED 27 Aug:** this chapter previously credited the enrollment scene to "canon ch 40 (Cen Yue)".
+## That was wrong. **Canon ch 40 is the Blacksmith's Association ranking test**, and canon's **Cen Yue is a
+## male Grandmaster blacksmith in his 40s — Mang Tian's friend, with a 15th-floor office.** The enrollment in
+## canon ch 33–34 is handled by **Liu Yuxin**, first grader, class one of the **advanced** academy.
+## Canon anchors held: **Eastsea City — the second largest seaside city in the Sun-Moon Federation, population
+## over three million**, a second-tier city, port nexus, millennia-old buildings protected for centuries ·
+## **108 new students, five classes, class five the worst and smallest at 20** · dormitory **twelve floors,
+## room 205, second floor, two bunk beds, four boys** · **Long Hengxu is the DIRECTOR** and assigns the
+## classes · **Bluesilver Grass** (canon spelling) · Liu Yuxin's line that the martial soul "isn't nearly as
+## important as it used to be."
 ## Timeline: Age 9-10, Glorybound City → Eastsea City
 
 ---
@@ -77,7 +88,7 @@ They searched until past midnight — every alley, the market, the harbor wall, 
 
 Because there had never been any record of her at all.
 
-Toward dawn, sitting on the curb outside the empty house while Wulin stared at nothing, Lin Hao let himself feel what he had been refusing to feel all night. His Adaptation Talent had a habit he had never entirely made peace with: it remembered everything, and it compared everything. And what it told him now, laid out quietly in the dark like evidence on a table, was this —
+Toward dawn, sitting on the curb outside the empty house while Wulin stared at nothing, Lin Hao let himself feel what he had been refusing to feel all night. His head had a habit he had never entirely made peace with: it remembered everything, and it compared everything, and it did both without being asked. And what it laid out now, quietly, in the dark, like evidence on a table, was this —
 
 In four years, his perception had never once read Na'er as *only* a girl.
 
@@ -101,6 +112,16 @@ Lin Hao looked at his friend — at the jaw, the hands, the terrible calm — an
 
 They left Glorybound City on a morning so cold the harbor steam stood in pillars.
 
+And neither of them said the thing that was sitting on the platform between the two families, which was that one boy had a sword that made the Spirit Master's eyebrows go up, and the other had grass.
+
+Lin Wei had looked at his son's blade on the testing floor and had not said anything for a long time, because a man who makes horseshoes does not have a word for what his son had been given. And Wulin's father had looked at a handful of grass and had said *that's all right, son, that's all right,* in the voice of a man who had already worked out what he was going to do about it.
+
+**And Lin Hao had looked at both of them, and had chosen the worst class, and had not told anybody why.**
+
+That is the butterfly, and it is the first one, and everything else in this story grows out of it. **In a story without him, Wulin goes to the worst class because the worst class is where a boy with grass goes, and the worst class stays the worst class, and the grade learns nothing.** In a story with him in it, the worst class has a boy in it with a sword that made a Spirit Master's eyebrows go up, and the worst class stops being the worst class within a month, and the grade learns a thing it would not otherwise have had any reason to learn.
+
+He did not choose it for Wulin. He would have said that if anybody had asked, and it would have been a lie, and he knew it was a lie, and he chose it anyway, and he has never once explained it to anybody, and he does not intend to.
+
 Both families came to the platform. Lin Mei cried and made Lin Hao promise, again, to write every month. Lin Wei said nothing, only gripped his son's shoulder once, hard, in the way of men who had already said everything important the night before, over a sword. Tang Ziran pressed a letter into Wulin's hand — thick, sealed, addressed in Mang Tian's blocky writing.
 
 "Master Mang's own hand," Tang Ziran said. "His workshop in Eastsea City, and the Blacksmith's Association besides. He says: *the boy eats like a furnace, so someone had better keep him employed.*"
@@ -119,7 +140,25 @@ Wulin looked back out at the white country. "How strong I have to be," he said, 
 
 Eastsea City arrived the way oceans do — gradually, then all at once. Flat country wrinkled into hills, hills into suburbs, suburbs into a skyline of glass and stone threaded with soul-powered transit lines. Wulin had thought Glorybound City large. Eastsea City made Glorybound City a neighborhood.
 
-"Look at the size of it," he whispered.
+It was the **second largest seaside city in the Sun-Moon Federation**, and everything about it followed from that — the port first, a nexus for the shipping lanes and for whatever came up out of the ocean, and then three million people arranged around it.
+
+Lin Hao had read the shape of the country on the train, in a free pamphlet he had taken because it was free. **Eighteen first-class cities, in five regions** — north, east, south, west and centre. The centre had only two, **Heaven Dou City and Shrek City**, and the pamphlet said this was fewer than the others and then spent two paragraphs explaining that it did not matter, which Lin Hao took to mean it mattered a great deal. The east had **five first-class coastal cities that made up something called the Skysea Alliance**, and Eastsea City was **second of the five**.
+
+"Second," Wulin said, when Lin Hao told him.
+
+"Second of five. In the east."
+
+"That's still second."
+
+"It's second of five *first-class* cities in a region, in a federation of eighteen," Lin Hao said. "Which is a sentence I did not know existed this morning." He put the pamphlet in his bag, because he kept things. "There's a tournament. Every three years — the Alliance one. And a bigger one every five, for the whole continent."
+
+"Where's the big one held?"
+
+"**Shrek City.**"
+
+Neither of them said anything after that for a while, because they were ten, and Glorybound City had been the whole world until Tuesday, and the word *Shrek* had arrived in the middle of a free pamphlet next to an advertisement for soul-lamp repairs. And old. Older than the glass. For several hundred years the Federation had taken particular care of the ancient buildings here, so the skyline was a city of towers with a much older, plainer, unadorned city still standing intact between their feet — and the soul trains, when they came in, were nearly all dark blue, every one of them, which was the sort of detail Lin Hao noticed and would have been unable to explain.
+
+"Look at the size of it," Wulin whispered.
 
 Lin Hao, who was gawking the hardest, didn't even deny it.
 
@@ -127,35 +166,89 @@ Lin Hao, who was gawking the hardest, didn't even deny it.
 
 ## Part 4: Reporting In
 
-The administration building of Eastsea Academy smelled of ink and polished wood. Behind a long counter, a young woman worked through a stack of enrollment forms with the brisk efficiency of someone who had done this a hundred times — her desk plate read *Cen Yue*.
+There was a sign at the end of the platform — white letters on blue, **EASTSEA ACADEMY** — and a chair behind it, and a row of seventeen-year-olds in blue sportswear who had been given this job as a punishment and had decided to enjoy it.
 
-"Name?"
+The girl who stood up when she saw them had black hair and a pair of red phoenix eyes and the moderate, unhurried build of somebody who was not in a hurry and did not need to be. She had the sort of face that made people feel they had arrived somewhere.
 
-"Tang Wulin."
+"Little brother," she said, "are you here to report?"
 
-Cen Yue glanced up, and glanced again. The new student was slight, with a pretty face that had nothing to do with being a boy and everything to do with a pair of large, clear black eyes — eyes that had recently been crying, she noticed, and had stopped.
+"Yes," said Wulin. "I'm Tang Wulin."
 
-"Born in Glorybound City," she read. "Ten years old. Intermediate division, first grade." Her pen paused. "Soul power assessment — rank thirteen. Soul Master." The pen stopped entirely. "You're ten?"
+She looked at him, and then looked again, in the particular way Lin Hao had already learned to recognise — the second look was the one that meant somebody had worked something out and was deciding how polite to be about it.
 
-"Yes, ma'am."
+"I'm **Liu Yuxin**," she said. "First grader, class one of the **advanced** academy. I'm receiving new students this year, which means I'm your senior sister whether you like it or not." She held out a clipboard. "Fill this in. Then show me the recommendation letter from your elementary academy."
 
-Behind the counter, an older clerk leaned over to look. Cen Yue waved him off, recovered herself, and stamped the form. "Ten years old and past the first bottleneck. Most of this intake won't manage that before twelve." She slid the form aside and reached for the next letter as the boy beside him stepped forward.
+Wulin dug it out of his rucksack, where it had been folded three times by his mother and pressed flat again by his father.
 
-"Lin Hao. Also Glorybound City."
+Liu Yuxin read the form aloud as he wrote, which Lin Hao suspected she did for everyone and which nonetheless made Wulin's ears go red. "Tang Wulin. Ten years old. Graduated from Glorybound City's Red Mountain Elementary Academy." Her voice changed register on the next line, only slightly, the way a good clerk's does. "**Rank thirteen. Plant system. Martial soul: Bluesilver Grass.**"
 
-Cen Yue took the form, and this time her pen stopped dead.
+She looked up.
 
-"Rank twenty-two." The word came out flat, and then Cen Yue read the line again, as if her own eyes had misfiled it. "*Soul Grandmaster.* Two soul rings. At ten years old." She looked up at him — dark wavy hair, amber-brown eyes, a face that belonged on a recruitment poster rather than in an enrollment line — and then down at the spirit-soul assessment attached to his file. "One spirit soul. Gale Hawk, wind attribute. Purchased at ten years of age classification…" Her voice trailed off at the energy reading. "This gauge puts its cultivation near *seven hundred years*. From a ten-year purchase." She set the forms down with the care one gives something that might be hot. "You two know each other?"
+"You know what that is?" said Wulin, flatly.
 
-"Since we were three," Lin Hao said. "One request. Whatever class he's in — I'm in it."
+"Of course I know what it is." She said it briskly, without pity, which was the kindest thing anybody had done for him all week. "Our academy recognises it. Soul Masters have been developing for tens of thousands of years — the martial soul isn't nearly as important as it used to be. And to reach rank thirteen at your age with Bluesilver Grass, honestly, that isn't easy at all."
 
-Cen Yue actually laughed. "That's not how assignment works. Classes are sorted at the opening ceremony, by martial soul quality and soul power. With your assessment, you'll be standing in class one before the director finishes his sentence, and your friend—" she glanced at the other form, at the words *Blue Silver Grass,* and her voice gentled with professional pity, "—well. The sorting is the sorting."
+Wulin, who had braced himself, found he had braced against nothing.
 
-"Then I'll ask the director," Lin Hao said pleasantly. "He sounds like the sort of man who appreciates a straight request."
+Then Lin Hao stepped up and put his own form on the clipboard.
 
-Cen Yue studied him for a long moment, stamped both forms, and produced two brass keys. "Dormitory three, rooms eleven and twelve. Opening ceremony is tomorrow at the main plaza — intermediate and advanced divisions, all of us. Don't be late." Her eyes flicked, just once, to Wulin's left wrist, where his sleeve had shifted — for a fraction of a second, something golden had gleamed there, scales small and radiant, gone like a fish under a stone before her focus arrived. She looked at the boy's calm, grieving face, then down at her forms, and decided it was the light.
+Liu Yuxin read it.
 
-"Next."
+She did not say anything for a moment, which with her was more informative than anything she might have said.
+
+"Rank twenty-two," she said. "*Soul Grandmaster.* Two rings." She turned the page to the spirit-soul assessment and her eyebrows came together. "One spirit soul. Gale Hawk, wind attribute, purchased at ten-year classification — and this gauge reads its cultivation at somewhere near **seven hundred years**." She set the clipboard down on the chair, carefully, the way you set down something you have decided not to be holding. "That gauge is not wrong, is it."
+
+"The gauge is fine," said Lin Hao.
+
+"You bought a ten-year hawk and it is seven hundred years old."
+
+"I bought a ten-year hawk," said Lin Hao, "and then a great deal happened to it, and I'd rather not go into it on a platform, because there's a man in a black suit eleven metres away who has been pretending to read a timetable for four minutes."
+
+Liu Yuxin's eyes went to the man in the black suit. Then back.
+
+Then she laughed — a short, surprised sound — and picked up the clipboard again.
+
+"Right," she said. "Well. You'll want to know how this works, because you're both going to be disappointed. **Classes are assigned at the opening ceremony, tomorrow, by the Director.** Not by me, not by that form, not by anything you can argue with. Martial soul quality and soul power. There are five classes and the smaller the number the better the class, and there are a hundred and eight of you this year."
+
+"One request," said Lin Hao. "Whatever class he's in, I'm in it."
+
+"That's not how assignment works."
+
+"I understand. I'm making the request anyway, so that it's written down." He smiled at her, and Liu Yuxin — who was eleven months his senior, a first grader in class one of the advanced academy, and entirely capable of handling a ten-year-old — had the distinct and unfamiliar sensation of being *managed*. "You'll pass the forms up. Somebody will read them. And when they get to that line they'll wonder whether the boy who wrote it meant it."
+
+"Did you mean it?"
+
+"Completely."
+
+She looked at him for a long moment. Then she stamped both forms, took two brass keys out of a box, and handed them over with the metal placard that let them through the gate.
+
+"**Dormitory is behind the school building. Twelve floors. You're in room two-oh-five, second floor.**" She glanced at the key tag. "Four to a room, two bunk beds. You'll find out who the other two are when you get there, and my advice, as your senior sister, is to be extremely pleasant to them for the first forty-eight hours and then reassess."
+
+"Why forty-eight hours?"
+
+"Because that's how long it takes."
+
+---
+
+They found the dormitory without difficulty, because it was nearly as tall as the school building and there were eleven-year-olds going in and out of it carrying suitcases.
+
+**Room 205, second floor.** The door was already open and there was already somebody inside.
+
+Two bunk beds, enough for four. Two square desks. Four chairs. Two cabinets. One roof lamp. That was the whole of it.
+
+The two bottom bunks were taken. The one on the left was occupied by a boy who was taller than Wulin by half a head and thicker than him by more than that, with short hair and eyes that bulged slightly and, at ten years old, an air of ferocity he was clearly working at. The one on the right held a thin, frail-looking boy wearing glasses and holding a book, who looked up with the mild interest of somebody who had already worked out how this was going to go.
+
+"Hello," said Wulin. "I'm Tang Wulin. I've just arrived."
+
+The frail one nodded. "**Yun Xiao.** The Yun from cloud. The Xiao from big and small."
+
+The tall one rolled his eyes.
+
+"Newcomer," he said. "Clean the room first."
+
+Lin Hao, who had been watching this with great interest from the doorway, put his bag down and said, "Before we start — is this the bit where you tell us you're in charge, or have you already done that?"
+
+"**Zhou Zhangxi,**" said the tall boy, and grinned, and got off the bed.
 
 ---
 
@@ -185,7 +278,7 @@ Lin Hao did not move toward them.
 
 "Director," he said. Not loudly. He simply said it in the direction of the high platform, the way you'd continue a conversation — and the plaza's acoustics, built for announcements, carried it everywhere. "Lin Hao. I'd like to be in class five."
 
-The silence that followed had texture. Director Long Hengxu looked down from the platform at the small, neat boy standing still in the middle of the tide, and something in his expression suggested that Cen Yue's paperwork had, in fact, mentioned this. "You understand," the director said, in his carrying voice, "that class five is the last class."
+The silence that followed had texture. Director Long Hengxu looked down from the platform at the small, neat boy standing still in the middle of the tide, and something in his expression suggested that Liu Yuxin's paperwork had, in fact, mentioned this. "You understand," the director said, in his carrying voice, "that class five is the last class."
 
 "Yes, Director."
 
@@ -229,9 +322,9 @@ The class went around, voices small. Zhou Zhangxi, shield soul, rank nine. Yun X
 
 Wulin stood. He felt the whole class turn — not at his name, but at the grass. It had the reputation it had; four years had not improved it.
 
-"Tang Wulin. Martial soul: Blue Silver Grass. Rank thirteen. One soul ring."
+"Tang Wulin. Martial soul: Bluesilver Grass. Rank thirteen. One soul ring."
 
-The murmur was immediate and not kind. *Blue Silver Grass — here? — with a ring? — someone's counting wrong—* A boy two rows over laughed outright. "Trash spirit. What's it doing past the gate?"
+The murmur was immediate and not kind. *Bluesilver Grass — here? — with a ring? — someone's counting wrong—* A boy two rows over laughed outright. "Trash spirit. What's it doing past the gate?"
 
 The laughter did not get the chance to spread.
 
@@ -311,13 +404,13 @@ Lin Hao looked at the open door, and at the Blacksmith's Association chimneys br
 - **Part 1 — Year montage (age 9→10, detailed per Failure Pattern #4):** Lin Hao rank 17→**22 (Soul Grandmaster)** — hits the rank-20 wall in midwinter and the ~700-year Gale Hawk bestows his **2nd yellow ring** (canon multi-ring rule: 100+yr souls bestow up to 2 yellow); spiritual power crosses into Spirit Connection; Wulin rank 11→13 via Thousand Refinements forging + spiral meditation + 1st seal; Na'er growing quietly; academy letters arrive
 - **Part 2 — Na'er Leaves (CANON EVENT, novel ch 24):** Na'er's strangeness escalates (canon-faithful seeds: staring at the sea, bell-like sleep-speech, animals submitting); her memories return and she is taken in the night. In-prose cause stays unexplained; codex records canon truth (soul beast organization — L4). Wulin's grief forges his driving goal: "I'll get strong enough to look everywhere." Lin Hao's AT realizes in hindsight it never read her as only human — tells no one
 - **Part 3 — Departure:** Families see them off at Glorybound station — **no relocation (canon: parents stay; boys board)**. Mang Tian's letter for Eastsea City workshop + Blacksmith's Association delivered (canon ch 33-44 setup). Soul train AT beat kept
-- **Part 4 — Reporting In (canon ch 40):** Cen Yue processes paperwork (canon scene kept; class assignment removed from her — canon assigns at ceremony). Lin Hao requests Wulin's class. Her glimpse of Goldsong stays unexplained
+- **Part 4 — Reporting In (canon ch 33–34, CORRECTED):** **Liu Yuxin** receives them at the platform with the EASTSEA ACADEMY sign — first grader, class one of the advanced academy, black hair, red phoenix eyes. Canon scene kept; class assignment stays with the Director, as canon has it. Lin Hao requests Wulin's class. Her glimpse of Goldsong stays unexplained
 - **Part 5 — The Worst Class (canon ch 45, scene ownership preserved):** Opening ceremony, Director Long Hengxu, 108 students / 5 classes, "the smaller the number, the more prestigious"; Wulin + **Xie Xie, Yun Xiao, Zhou Zhangxi** called to class five; Xie Xie sits beside Wulin (canon beat); Wu Zhangkong canon-accurate (27-28, 1.9m, blue hair, smoky green eyes, ice-cold handsome, "even if you are a bunch of trash…"); introductions (name/martial soul/rank/aspiration — canon format); **Wu Zhanghong's canon line to the mocker preserved verbatim in substance**; Wulin's canon "I don't have one yet" kept, now carrying private subtext; Lin Hao's AU-divergence: a rank-22 Soul Grandmaster with two rings choosing the worst class ("it's not a method, it's a promise")
 - **Part 6 — Roof:** Mang Tian's letter (Mu Chen = 8-star Saint Craftsman, canon ch 43); 2nd seal pressure rising (dismissible); ends concrete — open dorm door, chimneys, "first thing tomorrow"
 
 ### Canon Preserved / Not Triggered:
 - ✅ Na'er Leaves occurs BEFORE Eastsea enrollment (canon order: ch 24 → ch 33)
-- ✅ Class five = worst class; Long Hengxu assigns; Cen Yue does paperwork only
+- ✅ Class five = worst class (20 students, smallest); **Long Hengxu is the DIRECTOR** and assigns; **Liu Yuxin** does the enrollment, not Cen Yue
 - ✅ Wu Zhangkong's appearance, age, temperament, and signature speech — canon-accurate
 - ✅ Xie Xie classmate seating; Yun Xiao & Zhou Zhangxi present
 - ✅ Wulin's "I don't have one yet" — his beat, kept
@@ -331,7 +424,7 @@ Lin Hao looked at the open door, and at the Blacksmith's Association chimneys br
 ### Butterfly Effects Shown:
 1. ✅ Wulin's grief is witnessed and anchored, not carried alone (Lin Hao's presence reshapes how the loss lands — without softening it)
 2. ✅ Lin Hao chooses the worst class — a rank-15 fusion-soul prodigy in class five changes the class's gravity from day one (Wu Zhanghong's interest, Xie Xie's stare)
-3. ✅ Cen Yue now has a story on file ("the two from Glorybound") — small institutional memory that will echo later
+3. ✅ **Liu Yuxin** now has a story on file ("the two from Glorybound") — and canon gives her a future: she is the senior sister who later hands Wulin a **soul camera** to photograph Wu Zhangkong (canon ch 46/57). Thread opened, deliberately unpaid.
 
 ### Adaptation Talent Shown (embodied, no system voice):
 - ✅ Rail-rhythm meditation (train)
@@ -339,7 +432,7 @@ Lin Hao looked at the open door, and at the Blacksmith's Association chimneys br
 - ✅ Night sensing of Wulin's 2nd seal pressure ("the river had risen another finger's width")
 
 ### Character Progression:
-- **Lin Hao:** Soul Grandmaster rank 22 — two yellow rings from one evolved soul spirit; class five by choice; dormitory three room 12; carries father's Spirit Steel short sword; 2 soul skills (Gale Talon, Hawk-Soul Union); spiritual power Spirit Connection (~120); knows (silently) Na'er was never ordinary
+- **Lin Hao:** Soul Grandmaster rank 22 — two yellow rings from one evolved soul spirit; class five by choice; dormitory three room 12; carries father's Spirit Steel short sword; 2 soul skills (Gale Talon, Hawk-Soul Union); spiritual power Spirit Connection (~180); knows (silently) Na'er was never ordinary
 - **Tang Wulin:** Soul Master rank 13; class five; dormitory three room 11 (door left open); driving goal = find Na'er; Mang Tian's letter for Mu Chen; 2nd seal pressure rising
 - **Na'er:** GONE — taken after memories returned (canon: soul beast organization; L4). Reappears much later in canon (~ch 400)
 - **Xie Xie:** Rank 20, one ring; seated beside Wulin; arrogance intact, curiosity sparked
@@ -356,3 +449,27 @@ Lin Hao looked at the open door, and at the Blacksmith's Association chimneys br
 - Wu Zhangkong's first brutal lessons begin (canon ch 50-52 material may start seeding)
 - Xie Xie friction develops; Yun Xiao / Zhou Zhangxi as class texture
 - Gu Yue still absent (canon timing respected)
+
+**Ranks at chapter end:** Lin Hao 22 · Tang Wulin 11 — the rank-20 wall broken — the hawk bestows a 2nd yellow ring; spiritual power crosses into Spirit Connection (retrofit v2.42: this line was added during the integrity audit so every chapter carries an end-state record)
+
+### Character States:
+- **Lin Hao:** rank 22 — the rank-20 wall broken — the hawk bestows a 2nd yellow ring; spiritual power crosses into Spirit Connection
+- *(retrofit v2.42: added during the integrity audit; earlier chapters were written before the footer standard existed)*
+
+### Ensemble — canon-verified state
+
+_Single source of truth: `CHARACTER_STATS.md` §1 (canon citations) and §3 (schedule)._
+_Every number below traces to a canon line or is labelled AU._
+
+- **Tang Wulin:** rank **13** (AU — canon c45 has 11 at intake; ch9 prose: *"rank thirteen since before enrollment"*) · one white ten-year ring (Goldlight)
+- **Xie Xie:** rank **18** (canon c46) · one yellow hundred-year ring
+- **Gu Yue:** enrolled but sealed — gives no information about herself (canon mystery discipline; AU rank deliberately not stated)
+- **Xu Xiaoyan:** not yet introduced
+- **Zhang Yangzi:** rank **21** · spiritual power **41** (canon c113) · Shadow Phantasm Eagle
+- **Wang Jinxi:** rank **21** (canon c134) · spiritual power **18**, lowest in class zero (canon c113) · Bone Dragon King
+- **Wei Xiaofeng:** rank **21** (canon c101) · Green Shadow Snake
+
+Canon position anchors for this point in the story: everyone in class zero is **10 years old** through the tournament arc (canon c221: *"They're so young though, only ten years old!"*); the Shrek working-student dorm holds **four** — Tang Wulin, Xie Xie, Gu Yue, Xu Xiaoyan (canon c288; + Lin Hao, AU = five invitees). Departure order: **Wei Xiaofeng left class zero first** (canon), then **Wang Jinxi transferred to another academy** (canon ch 153, staged in our ch43). **AU divergence:** in canon Zhang Yangzi transfers out with him; in this story Zhang Yangzi embraces Wang Jinxi on the steps and **stays at Eastsea Academy**, out of class zero.
+
+🔴 **REALM GAP LAW (v2.90):** every ten ranks is a wall, not a step. Lin Hao is a **Soul Elder with three purple rings**; everyone else here is rank 17–23 with two. None of them can defeat him — they can outlast him, survive him, cost him. Gu Yue does exactly that, because she is the one he cannot read.
+

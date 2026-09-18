@@ -1,6 +1,6 @@
 # Chapter 5: The Blacksmith's Association
 
-## Canon Reference: Novel Chapters 41-44 (Ranking Test, Eight Star Saint Craftsman, Second Rank), 49-50 (Xie Xie's challenge, The First Class)
+## Canon Reference: canon ch 41–44 (Ranking Test, Eight Star Saint Craftsman, Second Rank), 49-50 (Xie Xie's challenge, The First Class)
 ## Timeline: Age 10, first week at Eastsea Academy
 
 ---
@@ -35,7 +35,35 @@ Wulin's jaw set. "How much?"
 
 ## Part 2: Second Rank (Canon Scene)
 
-The testing room was a vaulted stone cell built to swallow sound, and at its center, on an anvil of black iron, sat a chunk of Heavy Silver the size of a man's two fists — dense, sullen metal that drank the lamplight. On the rack behind it hung the Thousand Refined Tungsten Hammers.
+The Blacksmith's Association did not need a sign. It was grey, it was **thirty floors** tall, and at the very top of it was the shape of a hammer, which meant that nobody in Eastsea City had ever had to read its name.
+
+Inside, past the glass doors, was a wall ten metres high with an eight-metre golden hammer sculpture set into it.
+
+**Yun Xiaoling** at the front desk knew exactly who they were before they reached her, because Mang Tian's letter had arrived three days ahead of them and the Association had, in the manner of institutions that enjoy being efficient, already opened a testing room.
+
+"Grandmaster Cen is on the fifteenth floor," she said, and pressed a button, and the doors of the soul elevator closed on the largest interior either boy had ever stood in.
+
+**Cen Yue** turned out to be nothing like what Lin Hao had assembled from the word *Grandmaster*. He was a man in his forties, not particularly tall, extremely well built, with shoulders that seemed to have been put on separately, and a black jacket resting on his deltoids rather than being worn. He was looking at a design plan when they came in.
+
+"You're Mang Tian's disciple?" he said, without looking up.
+
+"Yes. Hello, Grandmaster Cen. My teacher asked me to greet you in his place."
+
+Cen Yue's eyes crinkled. "Mang Tian. That man has spent his whole life trying to reach the peak, and he takes a disciple this small." He rolled up the plan. "Come on, then. I'll take you down and we'll find out whether he's gone soft."
+
+---
+
+The testing room was a vaulted stone cell built to swallow sound, and on the stand along one wall were **fifteen chunks of metal, each one third of a metre squared**, in every colour and quality Lin Hao had ever seen and several he had not.
+
+"**Pick one and purify it,**" said the surveyor, a middle-aged woman who plainly knew Cen Yue well. "I grade you on the metal you choose *and* the degree of purification. **Pass sixty and you're a rank-one blacksmith.**" She glanced at the clock. "**One hour. Calcining counts.**"
+
+She did not say what any of the metals were. That, Lin Hao realised, was the actual first test — you had to know what you were looking at before you were allowed to decide what you could do with it.
+
+Wulin walked the line once, slowly, and stopped in the middle.
+
+He picked up a chunk of metal the size of a man's two fists and carried it to the anvil without making a sound, and the surveyor's eyebrows went up, because it was **Heavy Silver** and it weighed **over three hundred kilograms**, and purifying it was, in the ordinary course of things, a **second-rank** blacksmith's standard.
+
+On the rack behind the anvil hung the Thousand Refined Tungsten Hammers.
 
 Lin Hao knew what they were before the surveyor said it, because he had lifted the forty-kilogram practice hammer in his father's forge and nearly lost a foot. These were a matched *pair*, forty kilograms each, tungsten-folded, balanced so perfectly they hung on the rack like sleeping birds.
 
@@ -43,7 +71,7 @@ Lin Hao knew what they were before the surveyor said it, because he had lifted t
 
 Wulin took a hammer in each hand.
 
-He lifted them the way another boy lifts schoolbooks. The surveyor's mouth opened, closed. Beside the door, a girl who had been waiting for the room — silver-bright eyes, a testing robe two sizes too formal, the particular stillness of someone who had been called a generational genius so often it had become posture — leaned forward without noticing she was doing it.
+He lifted them the way another boy lifts schoolbooks. The surveyor's mouth opened, closed. Beside the door, a girl who had been waiting for the other testing room leaned forward without noticing she was doing it — **tall for thirteen, exceptionally pretty, large bright eyes, golden hair combed back into a ponytail**, dressed in close-fitting clothes that made her look nimble rather than dressed, with the particular stillness of someone who had spent nine years being told she was remarkable and had decided, some time ago, to stop agreeing.
 
 Wulin closed his eyes for one breath. Lin Hao watched the shift the way he watched everything: the small settling of his friend's weight, the breath that went down instead of up, the whole forge-honed architecture of him locking into place. Four years of Mang Tian's Thousand Refinements, of a body built strike by strike, of a first seal's furnace banked low behind the sternum.
 
@@ -71,9 +99,65 @@ The surveyor found her voice. "That note… that was the first-rank standard pas
 
 "Tang Wulin," Mu Chen said. "As of this moment you are a second-rank blacksmith of this Association — the youngest in its records, which I will verify tonight and then never enjoy hearing about again." He reached into his robe and produced a bronze badge, plain as a washer. "The Association pays second-rank smiths per completed refinement, and it will have work for you every day your academy lets you breathe. Your master trained your arms. I'll train the rest." His eyes moved, once more, to Lin Hao. "And when *your* arms are old enough for the tungsten, Lin Wei's son, the door knows your father's name."
 
-Outside the testing room, the girl in the robe was still standing where the note had found her. She looked at Wulin — at the trembling arms, the patched sleeves, the ten years of him — and whatever she said to herself about generational geniuses, she said silently. Her name, the surveyor called as she turned away: **Mu Xi**. The President's daughter.
+"Purification required a medium component as well," the surveyor said, when the hour was up and the silver sat on the anvil **seven percent smaller** and grey as old weather. "**Hundred Refine a rare metal and forge a medium-sized component** — those are the two requirements for second rank. You've done the first."
 
-She did not look happy.
+Wulin, who had been expecting to sit down, picked the hammers back up instead.
+
+He made a **semi-circular joint-protection component for a mecha knee** — the piece that wears out fastest, and therefore the piece most worth putting a soul guide array into, and therefore the piece that wanted Heavy Silver's five-to-ten-percent soul-power amplification more than any other. He had worked that out before he started, and neither Cen Yue nor the surveyor said anything at all when they realised he had.
+
+What they said, afterwards, to each other, in the corridor, was that the boy had forged **in harmonisation** — the state where a smith builds on a resonance with the metal until the two of them fuse, and where every work carries the smith's own feelings and ideals whether he wants it to or not.
+
+---
+
+Outside the testing room, the girl with the golden ponytail was still standing where the note had found her.
+
+She had passed her own second-rank test **two days earlier**, in room six, and it had been the best day of her life, and then somebody at the front desk had mentioned — casually, the way people mention weather — that a boy had taken the same test in room three.
+
+"*How* old?"
+
+"Ten."
+
+She had not said anything. She had gone home and thought about it for two days, and what she had arrived at was not jealousy, exactly, because she had made a decision about jealousy a long time ago.
+
+Her father had told her, when she was small enough to have to stand on a box to see the anvil, that forging was a rough and heavy business and **not suitable for girls**. He had said it kindly. He had said it the way you say something that is simply true.
+
+She had started anyway, at **five**, making small hammers out of offcuts. He had thought it was a joke. It had taken **two years** of her mimicking his every movement before Mu Chen — President of the Eastsea City branch, eight-star Saint Craftsman, a man with four hundred smiths under him — had come out one morning and watched her for eleven minutes and then, without any announcement at all, begun teaching her.
+
+She had inherited his martial soul. Her figure had gone stocky from the strength work, and he had gone quietly and expensively looking for rare herbs to fix that, and she had let him, because fighting him about it cost more time than the herbs did.
+
+**First-rank at eleven. Second rank a month after her thirteenth birthday.**
+
+Her father had told her she had progressed faster than anyone her age. That she was worthy of being called a **child prodigy in the world of blacksmithing.**
+
+And she had discovered, over about a year, that she hated the word.
+
+Not because it was untrue. Because it was a word other people used to explain her to themselves, so that they would not have to think about the nine years. *Prodigy* was a thing that happened to you. What had actually happened to her was five-year-old hands and a box to stand on and two years of being thought funny.
+
+**Her goal was to surpass her father and become a ninth-rank Divine Craftsman.** There were **three** of those on the entire Douluo Continent.
+
+So she stood outside room three with her arms folded and watched a ten-year-old come out looking like he had been through a furnace, and she did not feel generous.
+
+"That's him, then," she said.
+
+"That's him," said the surveyor.
+
+"Does he know what he did?"
+
+"He knows he passed."
+
+Mu Xi made a small sound that was not quite a laugh. "Then he'll find out." She pushed off the wall. "So will I."
+
+And she went, because there was a second-rank task board on the third floor and she had every intention of being better at it than a boy who had been doing this for four years — which was, she reflected on the way down, exactly the sort of thing her father would have called *not suitable for girls*, and which she had therefore been doing since she was five.
+
+Lin Hao, watching her go, said to nobody in particular, "She's not annoyed that he beat her."
+
+"No," said Wulin, wiping his face with a sleeve.
+
+"She's annoyed that he did it in an hour."
+
+"What's the difference?"
+
+"The difference," said Lin Hao, "is that the first one you can't fix and the second one you can, and she's already working out how."
 
 ---
 
@@ -95,7 +179,7 @@ They were negotiating the economics of appetite when a voice arrived behind them
 
 Xie Xie stood in the aisle with his tray abandoned somewhere, pale hair still damp from morning training, wearing the expression of a person who had rehearsed this. "Fight me. Again. I wasn't at my best yesterday."
 
-"We didn't fight yesterday," Wulin said, which was true — Xie Xie had *tried* to start a fight yesterday, in the dormitory corridor, and gotten exactly as far as one shove before Lin Hao had appeared in the doorway doing nothing at all, and the走廊 had suddenly felt very crowded.
+"We didn't fight yesterday," Wulin said, which was true — Xie Xie had *tried* to start a fight yesterday, in the dormitory corridor, and gotten exactly as far as one shove before Lin Hao had appeared in the doorway doing nothing at all, and the corridor had suddenly felt very crowded.
 
 "You know what I mean." Xie Xie's eyes flicked — briefly, unwillingly — to Lin Hao, then snapped back to Wulin, who was the actual grievance. "Two strikes. You ended it in two strikes and then you *walked away* like I was furniture. If you don't fight me, I'll tell the whole class your secrets."
 
@@ -155,7 +239,7 @@ Lin Hao walked into the circle, and twenty-odd first-graders watched the smalles
 
 "Your abilities," Wu Zhangkong said.
 
-"My martial soul is the Stormbringer Sword." Lin Hao lifted his hand, and the silver-blue blade surfaced into it with its etched wind-patterns and its restless light, and the classroom's temperature seemed to lean toward him. "My spirit soul is the Gale Hawk." The hawk came — not large, not yet; a shape of wind and pale light that left his shoulder and circled the ceiling once, and every student with working eyes followed it like a compass. "Seven hundred years of cultivation. Two soul rings." He let the numbers stand in the silence a moment, because Wu Zhangkong had said *show*, and numbers were part of the showing. "My first soul skill is called Gale Talon."
+"My martial soul is the Stormbringer Sword." Lin Hao lifted his hand, and the silver-blue blade surfaced into it with its etched wind-patterns and its restless light, and the classroom's temperature seemed to lean toward him. "My spirit soul is the Gale Hawk." The hawk came — not large, not yet; a shape of wind and pale light that left his shoulder and circled the ceiling once, and every student with working eyes followed it like a compass. "Seven hundred and twenty years of cultivation. Two soul rings." He let the numbers stand in the silence a moment, because Wu Zhangkong had said *show*, and numbers were part of the showing. "My first soul skill is called Gale Talon."
 
 He demonstrated it on nothing — a single compressed arc of wind from his sword's edge that crossed the circle and opened a clean, shallow line in the far wall's plaster, three meters of distance folded like paper. Several students sat down without deciding to.
 
@@ -204,14 +288,14 @@ It was, both of them thought without consulting each other, a good shape for a l
 ## End of Chapter 5
 
 ### Chapter Summary:
-- **Part 1-2 — Blacksmith's Association (canon ch 41-44, scene ownership preserved):** Mang Tian's letter delivered; **Mu Chen** — eight-star Saint Craftsman, President of the Eastsea City branch (canon-verified) — tests Wulin personally. Canon trial kept intact: **Heavy Silver purification with the paired Thousand Refined Tungsten Hammers (40kg each)**; the sixty-third strike rings the purification **note** (canon pass-standard); Wulin certified **second-rank blacksmith**, youngest in Association records, hired for daily work. **Mu Xi** (canon: President's daughter, generational genius, second-rank test same day) witnesses it — planted unhappy (canon ch 58 "Mu Xi's Depression" seed). Mu Chen remembers Lin Wei's wind-pattern blade — small butterfly, door opened for Lin Hao "when your arms are old enough"
+- **Part 1-2 — Blacksmith's Association (canon ch 41-44, scene ownership preserved):** Mang Tian's letter delivered; **Mu Chen** — eight-star Saint Craftsman, President of the Eastsea City branch (canon-verified) — tests Wulin personally. Canon trial kept intact: **Heavy Silver purification with the paired Thousand Refined Tungsten Hammers (40kg each)**; the sixty-third strike rings the purification **note** (canon pass-standard); Wulin certified **second-rank blacksmith**, youngest second-rank in the Eastsea Branch, hired for daily work. **Mu Xi — CORRECTED 27 Aug against verbatim canon ch 42 and 57.** Canon ch 42: *"She didn't like being called a genius. The reason she was where she was today wasn't because of her talent, but because of her efforts. Her goal was to surpass her father and become a ninth rank Divine Craftsman."* Canon ch **57** (not 58 — my citation was off by one) gives the backstory: father said forging was **"not suitable for girls"**, she began at **five** making small hammers, **two years** of persistence, inherited his martial soul, went stocky, first-rank at **eleven**, second rank after her **thirteenth** birthday. She is now written as a girl who *resents* the word prodigy — not as one. Mu Chen remembers Lin Wei's wind-pattern blade — small butterfly, door opened for Lin Hao "when your arms are old enough"
 - **Part 3 — Rice, Secrets, and a Fight (canon ch 49-50 beats):** first-window food = spirit-nutrient cultivation resource (canon); Xie Xie's canon challenge preserved ("fight me again… I'll reveal your secrets!" → "I'll make them up!"). AU adaptation: the corridor shove happened off-page; the yard fight follows canon outcome — **Wulin wins in two strikes**, plain forged-body strength, no soul skill. Xie Xie's "tomorrow I'll be at my best" kept. Wu Zhangkong watches unseen
 - **Part 4 — The First Class (canon ch 50, scene ownership preserved):** Wu Zhangkong's canon opening ("most lessons taught by me… elimination after a single loss"), the Tool Soul Master girl's question and his canon answer kept verbatim in substance; **Zhou Zhangxi challenges Wulin and loses** (canon beat, window-punch grudge referenced). AU showcase (Lin Hao's lawful turn): abilities demonstration — 700-yr hawk, two rings, **Gale Talon** demo; **Hawk-Soul Union withheld** ("it's a decision, not a demonstration") — establishes cost/weight instead of spending it. Combat vs Xie Xie: mutation-lightness + hawk-eyes + redirected momentum (no big skills used), single Gale Talon feint, flat-blade yield. Xie Xie's grin = friction → rivalry-friendship trajectory on canon rails
 - **Part 5 — The Roof:** wages counted toward the Na'er search (goal reinforced); seal-hum rising ("a finger's width higher"); open door persists
 
 ### Canon Preserved / Not Triggered:
 - ✅ Wulin's second-rank certification is HIS — the OC witnesses, narrates significance, never touches the hammers
-- ✅ Mu Chen, Mu Xi, the test format, the note-pass, tungsten hammers — all canon-accurate
+- ✅ **Mu Chen** eight-star Saint Craftsman and President (canon ch 42) · **Cen Yue** male Grandmaster, Mang Tian's friend, wide shoulders, 15th-floor office (canon ch 40) · **Yun Xiaoling** at the front desk · the **soul elevator** · Association **thirty floors** with the hammer on top · **fifteen metals, one third of a metre squared, pass sixty, one hour with calcining counted** (canon ch 41) · **Heavy Silver = second-rank standard, over 300 kg** · **40 kg tungsten pair** · **"Hundred Refine a rare metal AND forge a medium component" = the two rank-2 requirements** (canon ch 43) · **Harmonizing** · **seven percent volume reduction** · small components → mecha joints, medium → main body, Heavy Silver amplifies soul power 5–10%
 - ✅ Xie Xie challenge/food-threat/two-strike loss — canon beats intact
 - ✅ First class structure, elimination rule, Tool Soul Master exchange, Zhou Zhangxi vs Wulin — canon intact
 - ✅ NOT triggered: Gu Yue (canon ch 63, arrives mid-term via conflict with Xie Xie), class zero (ch 110), Mu Xi confrontation beyond a look, 2nd seal break (pressure only), Hawk-Soul Union full release (deliberately held — first use should matter)
@@ -230,7 +314,7 @@ It was, both of them thought without consulting each other, a good shape for a l
 ### Character Progression:
 - **Lin Hao:** rank 22 (unchanged); combat debut before class; Union still unspent; Mu Chen's future door; standing rival-pact with Xie Xie
 - **Tang Wulin:** rank 13; **second-rank blacksmith** (canon), Association wage-earner; beat Zhou Zhangxi + Xie Xie with pure body; Na'er-search fund begun
-- **Xie Xie:** rank 20; two losses (Wulin, Lin Hao), zero discouragement — obsession formed
+- **Xie Xie:** rank **18**; two losses (Wulin, Lin Hao), zero discouragement — obsession formed
 - **Mu Chen / Mu Xi:** introduced canon-accurate; Mu Xi's pride quietly cracked
 - **Wu Zhangkong:** recalculating his syllabus; noted Union's withholding
 
@@ -245,3 +329,27 @@ It was, both of them thought without consulting each other, a good shape for a l
 - Wulin's daily Association work deepens (Mu Chen's training beyond the badge)
 - Mu Xi watches, and decides something
 - Lin Hao's rank-22 stability: meditation deepening toward rank 23; hawk feeding toward the 1,000-year purple gate (mutations ticking: feather-marks stronger after heavy soul use)
+
+**Ranks at chapter end:** Lin Hao 22 · Tang Wulin 11 — the Blacksmith's Association — smith-reading shown; Mu Chen notices (retrofit v2.42: this line was added during the integrity audit so every chapter carries an end-state record)
+
+### Character States:
+- **Lin Hao:** rank 22 — the Blacksmith's Association — smith-reading shown; Mu Chen notices
+- *(retrofit v2.42: added during the integrity audit; earlier chapters were written before the footer standard existed)*
+
+### Ensemble — canon-verified state
+
+_Single source of truth: `CHARACTER_STATS.md` §1 (canon citations) and §3 (schedule)._
+_Every number below traces to a canon line or is labelled AU._
+
+- **Tang Wulin:** rank **13** (AU — canon c45 has 11 at intake; ch9 prose: *"rank thirteen since before enrollment"*) · one white ten-year ring (Goldlight)
+- **Xie Xie:** rank **18** (canon c46) · one yellow hundred-year ring
+- **Gu Yue:** enrolled but sealed — gives no information about herself (canon mystery discipline; AU rank deliberately not stated)
+- **Xu Xiaoyan:** not yet introduced
+- **Zhang Yangzi:** rank **21** · spiritual power **41** (canon c113) · Shadow Phantasm Eagle
+- **Wang Jinxi:** rank **21** (canon c134) · spiritual power **18**, lowest in class zero (canon c113) · Bone Dragon King
+- **Wei Xiaofeng:** rank **21** (canon c101) · Green Shadow Snake
+
+Canon position anchors for this point in the story: everyone in class zero is **10 years old** through the tournament arc (canon c221: *"They're so young though, only ten years old!"*); the Shrek working-student dorm holds **four** — Tang Wulin, Xie Xie, Gu Yue, Xu Xiaoyan (canon c288; + Lin Hao, AU = five invitees). Departure order: **Wei Xiaofeng left class zero first** (canon), then **Wang Jinxi transferred to another academy** (canon ch 153, staged in our ch43). **AU divergence:** in canon Zhang Yangzi transfers out with him; in this story Zhang Yangzi embraces Wang Jinxi on the steps and **stays at Eastsea Academy**, out of class zero.
+
+🔴 **REALM GAP LAW (v2.90):** every ten ranks is a wall, not a step. Lin Hao is a **Soul Elder with three purple rings**; everyone else here is rank 17–23 with two. None of them can defeat him — they can outlast him, survive him, cost him. Gu Yue does exactly that, because she is the one he cannot read.
+

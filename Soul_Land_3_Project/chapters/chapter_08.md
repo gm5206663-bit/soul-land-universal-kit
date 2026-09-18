@@ -1,11 +1,65 @@
 # Chapter 8: The Transfer Student
 
-## Canon Reference: Novel Chapters 62-66 (Gu Yue's arrival on the sports field; enrollment test vs Xie Xie; six-element mastery; "Elementalist?")
+## Canon Reference: canon ch 62–66 (Gu Yue's arrival on the sports field; enrollment test vs Xie Xie; six-element mastery; "Elementalist?")
 ## Timeline: Age 10, week 6 at Eastsea Academy
 
 ---
 
-## Part 1: The Field
+## Part 1: The Girl in White
+
+She came through the gate from the direction of the academy buildings, in the middle of the afternoon class, which was the first wrong thing about her.
+
+The second was that she was **not wearing a uniform.**
+
+She was dressed in **white** — plain white, travel white, the white of somebody who had come a long way and had not stopped to change — and she was the same age as every first-grader on the field, and she was not, Lin Hao noticed before he decided to notice it, particularly beautiful. She was delicate. She was pretty. She had long black hair and black eyes and an average build and bright eyes that were full of something. And she walked with a rhythm to it, a particular spacing between her steps, and her whole manner had a feeling to it that Lin Hao's hawk read as *foreign* before his brain had any word for it.
+
+Wu Zhangkong had seen her too, because Wu Zhangkong saw everything, and he had stopped the roster.
+
+"What class are you in?"
+
+"I'm here to attend school," the girl said. "However, I was told the registration period has already passed."
+
+"You're not an Eastsea Academy student?"
+
+"I'm not a student at the moment." She said it the way you'd read out a fact about the weather. "But I would still like to be one. Is that possible, teacher?"
+
+Any other teacher on that field would have sent her to the administration building. Lin Hao watched Wu Zhangkong decide, and could not afterwards have said what the deciding looked like.
+
+"This is a Soul Master's academy," Wu Zhangkong said. "If you want to attend here, you must have the ability."
+
+"I can take a test."
+
+"Your name."
+
+"**Gu Yue.**"
+
+Wu Zhangkong nodded once. Then he turned around and walked back across the field to Xie Xie, who had been listening with the expression of a boy watching something excellent happen to somebody else.
+
+"Give your metal shirt to Tang Wulin. Come here."
+
+Xie Xie gave the shirt. Wulin put it on without being asked, which told Lin Hao more about the last five weeks than anything anybody had said.
+
+"Your physical strength is horrible," Wu Zhangkong told Xie Xie.
+
+"We Agility System Battle Soul Masters only need a burst of power and some nimbleness," Xie Xie said. "We don't need—"
+
+"**How shallow.**" Wu Zhangkong said it without heat, which was the worst way to say it. "Fine. I'll give you a chance today. **Defeat her and you won't have to run this afternoon.**" He looked at the sky. "Twenty minutes' rest. Then we begin."
+
+---
+
+The field had gone completely quiet, which was the only register in which class five ever expressed awe.
+
+Wu Zhangkong gave Xie Xie twenty minutes' rest, and then he let him find out.
+
+---
+
+She was given a uniform, a key, and the back-left desk under the bad window, behind Tang Wulin.
+
+She sat there from the first day and never once explained why.
+
+---
+
+## Part 2: The Field
 
 Tournament training had turned the first-grade sports field into a place with weather of its own.
 
@@ -13,7 +67,7 @@ Class five owned the far end — not by assignment, but by the quiet arithmetic 
 
 It did not look like sparring. It looked like two different disasters negotiating.
 
-Wulin came in the way he came at everything — directly, with the whole forged weight of him, Blue Silver Grass already uncoiling in golden-threaded ropes to own the ground underfoot. Lin Hao did not meet the charge. He *wasn't there* for it, hollow-boned and hawk-read, his body leaving the collision line a half-breath before the collision decided to happen, the Stormbringer answering from an angle the grass had not yet grown into.
+Wulin came in the way he came at everything — directly, with the whole forged weight of him, Bluesilver Grass already uncoiling in golden-threaded ropes to own the ground underfoot. Lin Hao did not meet the charge. He *wasn't there* for it, hollow-boned and hawk-read, his body leaving the collision line a half-breath before the collision decided to happen, the Stormbringer answering from an angle the grass had not yet grown into.
 
 The hawk inside him was working harder than he was. That had been true for weeks now — seven hundred and fifty years of sharpened instinct marking the fight *ahead* of him: there, Wulin's weight committing; there, the grass's third rope feinting left to root right. Lin Hao stopped fighting the head start and started trusting it, the way you trust a hand on your shoulder in the dark, and the match climbed into a register neither of them had reached before — until Wulin's fourth rope finally caught his ankle and his wind-blade finally skidded off Wulin's crossed forearms at the same moment, and they called it even by mutual breathlessness.
 
@@ -35,7 +89,10 @@ Lin Hao noticed. Not her — that was the strange part. He noticed that his hawk
 
 ---
 
-## Part 2: The File
+## Part 3
+
+There were a dozen storm-light tips in his hair by then, and the eyes were gold-flecked in strong light, and the transfer students had noticed both within a day, because Eastsea Academy had not had anybody who looked like that before.
+: The File
 
 At the break, she came onto the field.
 
@@ -65,7 +122,7 @@ She made it by not moving at all.
 
 ---
 
-## Part 3: Six Things at Once
+## Part 4: Six Things at Once
 
 Xie Xie went in at three-quarter speed — a probing line of light, the Light Dragon Dagger tracing an arc meant to herd her toward the soft dirt.
 
@@ -78,6 +135,12 @@ Xie Xie went in at three-quarter speed — a probing line of light, the Light Dr
 *She ranged me. Range is hers. Close it.*
 
 He closed it. Full speed, the yard-blur, the afterimage string that had finally stopped losing to Wulin's hands—
+
+And Lin Hao, who was not in the match, said one thing out loud, quietly, to nobody: "She's not choosing. She's **answering.**"
+
+Xie Xie did not hear him. But the yard did, and the yard repeated it, and by the time the match was over it had gone around the field twice, and it was the only sentence anybody had that described what was actually happening — because Xie Xie was fighting a person and she was fighting a **decision tree**, and the only boy in the yard who thought in decision trees was the one not in the ring.
+
+That is the butterfly. In a yard without him, Xie Xie loses and everybody learns that a girl with six elements is frightening. In a yard with him in it, Xie Xie loses and everybody learns **what she is doing**, which is a different lesson and a much more useful one, and Xie Xie spends the next nine weeks fighting differently because of a sentence said by somebody who wasn't in the match.
 
 **Earth** met him. A pillar the width of a plate rose out of the dirt exactly where his third afterimage was going to land — not where he was, not where he'd been: where he was *going*. Xie Xie's whole body reorganized in a tenth of a second, light flaring, and he vaulted the pillar and came down dagger-first—
 
@@ -115,7 +178,7 @@ Wu Zhangkong's voice cut the ring's murmur like a struck anvil. "Test concluded.
 
 ---
 
-## Part 4: The Desk Behind
+## Part 5: The Desk Behind
 
 The classroom received Gu Yue the way the sea receives a stone: total surface rearrangement, immediate and silent.
 
@@ -155,7 +218,7 @@ Wulin smiled — half a one, but real — and the static did not clear, but it q
 
 ---
 
-## Part 5: Weather
+## Part 6: Weather
 
 That night the roof of dormitory three held its usual parliament: two boys, a city, and the harbor wind coming in off the water with the tide's long argument.
 
@@ -174,6 +237,10 @@ And in his chest, the hawk sat. Not slept — *sat*, alert, composed, facing tha
 The hawk, being seven hundred and fifty years old and increasingly of the opinion that it was *someone*, did not answer.
 
 It kept watching the weather.
+
+---
+
+
 
 ---
 
@@ -215,3 +282,27 @@ It kept watching the weather.
 
 ### Next Chapter Preview:
 **Chapter 9: Elementalist** (canon ch 65-70 beats): the grade's rumors name her ("Elementalist?"); Wu Zhangkong's special tournament training for class five (canon ch 68-69); **"Forge for me then!"** — Gu Yue's first direct request to Wulin (canon ch 70), the first thread of their bond — forged, not talked; Xie Xie's rematch culture absorbs her; Mu Xi watching the Association board (rank-2 climb); Lin Hao's hawk still watching her window
+
+**Ranks at chapter end:** Lin Hao 23 · Tang Wulin 11 — the transfer student — Gu Yue's entrance; canon-minimal (retrofit v2.42: this line was added during the integrity audit so every chapter carries an end-state record)
+
+### Character States:
+- **Lin Hao:** rank 23 — the transfer student — Gu Yue's entrance; canon-minimal
+- *(retrofit v2.42: added during the integrity audit; earlier chapters were written before the footer standard existed)*
+
+### Ensemble — canon-verified state
+
+_Single source of truth: `CHARACTER_STATS.md` §1 (canon citations) and §3 (schedule)._
+_Every number below traces to a canon line or is labelled AU._
+
+- **Tang Wulin:** rank **13** (AU — canon c45 has 11 at intake; ch9 prose: *"rank thirteen since before enrollment"*) · one white ten-year ring (Goldlight)
+- **Xie Xie:** rank **18** (canon c46) · one yellow hundred-year ring
+- **Gu Yue:** enrolled but sealed — gives no information about herself (canon mystery discipline; AU rank deliberately not stated)
+- **Xu Xiaoyan:** not yet introduced
+- **Zhang Yangzi:** rank **21** · spiritual power **41** (canon c113) · Shadow Phantasm Eagle
+- **Wang Jinxi:** rank **21** (canon c134) · spiritual power **18**, lowest in class zero (canon c113) · Bone Dragon King
+- **Wei Xiaofeng:** rank **21** (canon c101) · Green Shadow Snake
+
+Canon position anchors for this point in the story: everyone in class zero is **10 years old** through the tournament arc (canon c221: *"They're so young though, only ten years old!"*); the Shrek working-student dorm holds **four** — Tang Wulin, Xie Xie, Gu Yue, Xu Xiaoyan (canon c288; + Lin Hao, AU = five invitees). Departure order: **Wei Xiaofeng left class zero first** (canon), then **Wang Jinxi transferred to another academy** (canon ch 153, staged in our ch43). **AU divergence:** in canon Zhang Yangzi transfers out with him; in this story Zhang Yangzi embraces Wang Jinxi on the steps and **stays at Eastsea Academy**, out of class zero.
+
+🔴 **REALM GAP LAW (v2.90):** every ten ranks is a wall, not a step. Lin Hao is a **Soul Elder with three purple rings**; everyone else here is rank 17–23 with two. None of them can defeat him — they can outlast him, survive him, cost him. Gu Yue does exactly that, because she is the one he cannot read.
+

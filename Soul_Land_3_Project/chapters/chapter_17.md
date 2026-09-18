@@ -1,6 +1,6 @@
 # Chapter 17: I Have a Dragon in My Body?
 
-## Canon Reference: Novel ch 87 title ("I Have a Dragon in My Body?") + the ch 87-99 gap skeleton (Wulin away, spirit medicines, the seal-attack, "the storm week" (v2.26: canon 台风/typhoon) per ch 105 flashback: golden veins alive, something torn to shreds, "surpass his limits") + ch 100 ("Tang Wulin Returns" — changed) + Xie Xie's two-ring status verified at ch 101 (breakthrough shown on-page here, BEFORE the battle, per canon's "he must have just broken through"). CANON MAP CORRECTIONS FOUND IN RESEARCH (recorded in codex v2.22): class zero = canon ch 109 (not 110); the Golden Dragon Claw injury to Wang Jinxi = canon ch 105 (NOT far future) — held for ch 18's AU rematch; Wei Xiaofeng = Green Shadow Snake (VERIFIED, cleared)
+## Canon Reference: canon ch 87 (title only) ("I Have a Dragon in My Body?") + the ch 87-99 gap skeleton (Wulin away, spirit medicines, the seal-attack, "the week of the hurricane" per ch 105 flashback: golden veins alive, something torn to shreds, "surpass his limits") + ch 100 ("Tang Wulin Returns" — changed) + Xie Xie's two-ring status verified at ch 101 (breakthrough shown on-page here, BEFORE the battle, per canon's "he must have just broken through"). CANON MAP CORRECTIONS FOUND IN RESEARCH (recorded in codex v2.22): class zero = canon ch 109 (not 110); the Golden Dragon Claw injury to Wang Jinxi = canon ch 105 (NOT far future) — held for ch 18's AU rematch; Wei Xiaofeng = Green Shadow Snake (VERIFIED, cleared)
 ## Timeline: Age 10, the weeks after the tournament — the dragon conversation, the letter, the hundred-year dagger, the return
 
 ---
@@ -19,7 +19,7 @@ Not *don't be absurd.* Not *what nonsense.* The flat grammar of the question was
 
 The brush stayed stopped for a long moment. Then Wu Zhangkong set it down, and looked at Xie Xie — who had come because Xie Xie went where the interesting went, and was for once in his life entirely silent — and at Lin Hao, and his smoky green eyes took the inventory of the room the way they took the inventory of a sparring circle: exits, threats, and students.
 
-"What I am about to say leaves this room in none of you," he said. "Three facts. First: I do not know what it is. I have watched you since you were a Blue Silver Grass boy with a hammer, and I have seen it now with my own eyes — and heard the rest of it from a boy who does not lie to me — and I do not know what it is. Anyone who tells you they know is selling you something." He turned the paper he had been writing face down. "Second: it is powerful. The things that break men's arms at your age are not martial souls. Martial souls wait for your cultivation. This does not wait. It grows on its own schedule, it answers to feeling before it answers to you, and one day it will be stronger than you are — that is not a fear, it is arithmetic." A beat. "Third, and the only one that matters: power is not identity. A dragon in your body does not make you a dragon. A hammer in your hand does not make you a hammer." His eyes went to Linhao's sheathed sword, and back. "You are the one who decides what the thing inside you is *for.* Every day. That is the whole of cultivation, and the whole of being a man, and adults fail at it constantly. Control it — or be controlled. There is no third option that lasts."
+"What I am about to say leaves this room in none of you," he said. "Three facts. First: I do not know what it is. I have watched you since you were a Bluesilver Grass boy with a hammer, and I have seen it now with my own eyes — and heard the rest of it from a boy who does not lie to me — and I do not know what it is. Anyone who tells you they know is selling you something." He turned the paper he had been writing face down. "Second: it is powerful. The things that break men's arms at your age are not martial souls. Martial souls wait for your cultivation. This does not wait. It grows on its own schedule, it answers to feeling before it answers to you, and one day it will be stronger than you are — that is not a fear, it is arithmetic." A beat. "Third, and the only one that matters: power is not identity. A dragon in your body does not make you a dragon. A hammer in your hand does not make you a hammer." His eyes went to Linhao's sheathed sword, and back. "You are the one who decides what the thing inside you is *for.* Every day. That is the whole of cultivation, and the whole of being a man, and adults fail at it constantly. Control it — or be controlled. There is no third option that lasts."
 
 "And if I can't control it?" Wulin asked, quiet. "If it comes out when I'm — when I'm not me?"
 
@@ -33,7 +33,10 @@ He did not say that out loud either. The shelf was getting very good company.
 
 ---
 
-## Part 2: The Letter
+## Part 2
+
+The marks on his forearms were still coming and going at that point, faint in the morning and darker after work, and he had taken to wearing long sleeves at the Association without anyone asking him to.
+: The Letter
 
 It came four days later, in the evening post, in a hand like roots growing downhill.
 
@@ -66,6 +69,12 @@ On the far water, the hawk watched the boat go south with an attention Lin Hao f
 ## Part 3: The Second Ring
 
 Wulin had been gone eleven days when Xie Xie broke.
+
+And the reason it broke in a yard instead of in a room, where nobody would have heard it, was that Lin Hao had been crossing that yard at that hour every day for eleven days, because Xie Xie trained at that hour and Lin Hao had started crossing the yard at that hour without ever deciding to.
+
+**In a yard without him, Xie Xie breaks alone, in a room, at night, and comes back the next morning with the second ring and a face that does not match, and nobody ever knows what it cost.** That is what happens in a story where nobody is watching. Xie Xie is a person who performs, and a person who performs does not break in front of an audience, so in a yard without him the breaking goes underground and stays there.
+
+**In a yard with him in it, Xie Xie breaks in front of the one person in the grade who has never once needed him to perform.** And that is the whole butterfly — not that Lin Hao did anything. He did not do anything. He was crossing a yard. **But he had been crossing it at that hour for eleven days without deciding to, and Xie Xie broke where somebody could hear it, and that is the only reason anybody ever knew.**
 
 Lin Hao heard it before Xie Xie knew it — the way he had heard rank fourteen in a dark room months ago, because the ears that read spirals do not clock out. He was crossing the yard after the Association shift when the air over the training ground went *taut,* the particular tautness of a vessel a hand's width from its limit, and he was already walking faster, because he knew whose spiral that was, and he knew — the way the smith knows the color a bar throws the quarter-second before it cracks — that the dagger-boy was on the far side of rank twenty and climbing a wall with his bare hands.
 
@@ -141,6 +150,11 @@ Wulin looked at the board for a long time. The steam went off his fourth bun in 
 
 Third morning. The platform. And somewhere across the city, in a cool office, a woman with a two-year patience folded a copy of the sanction notice into her desk, and waited for the morning she had been promised.
 
+
+Rank twenty-seven arrived quietly, in the third week, after the second ring. Not from the ring — the ring was the gate, not the fuel. The fuel was eight weeks of a monster for a sparring partner and a man with a pointing stick who had begun, without saying so, to aim at him differently.
+
+The hawk was eight hundred and fifteen years old that week. He noticed it the way he noticed the weather — because it had changed, and because the change had a direction.
+
 ---
 
 ## End of Chapter 17
@@ -148,13 +162,13 @@ Third morning. The platform. And somewhere across the city, in a cool office, a 
 ### Chapter Summary:
 - **Part 1 — I Have a Dragon in My Body? (canon ch 87 title + substance, AU-adapted):** Wulin voices the dragon hypothesis to Wu Zhangkong (Lin Hao present, Xie Xie silent witness); the scale shown on demand (new control); **Wu Zhangkong's three facts (canon-spirited, AU-voiced): "I do not know what it is… It is powerful — it grows on its own schedule, it answers to feeling before it answers to you… power is not identity. A dragon in your body does not make you a dragon. You are the one who decides what the thing inside you is *for.* Control it — or be controlled."** + the teacher's tells (three facts given, four kept — Lin Hao counts them; the unaccounted seal-reading never spoken of again); "Go and train the stopping" (the stopped-fist of ch 16 becomes homework — sets up the ch 18 GDC tragedy's cost)
 - **Part 2 — The Letter (canon ch 87-99 gap adapted):** Old Tang's summons — roots-downhill hand, "the water in your cup is rising… come home. There are things a spiritual guide must see with his own eyes, and things a boy must swallow that taste worse than they are" (medicine/seal-attack arc begun, substance kept unnamed — canon ch 105 flashback is the only source, nothing invented beyond it); Wulin released for "weeks"; the brothers' twenty-minute argument ("both of them saying *come back whole*"); **THE FORGED GIFT: the eleven-fold spirit-steel band, left wrist, the told seam — "It remembers its shape… something folded you eleven times on purpose"** (the smith's love-language; the right wrist stays free — "the right one belonged to the file"); the hawk watches the boat south with crossable-weather attention
-- **Part 3 — The Second Ring (Xie Xie's canon ch 101 two-ring status, shown on-page BEFORE the battle per canon's "he must have just broken through"):** Lin Hao hears the spiral hit its limit (ch 9 motif callback) and arrives as **the second ring rises at the rank-21 wall** — the yellow first ring stays unchanged (**RING-COLOR LAW, stated on-page: "rings do not change their color" — color fixed at absorption, canon ch 101 "ten year soul ring" precedent**) — and the dagger grows one circle smaller and more solid (canon ch 101 detail honored); **"souls grow when they're fed"** (the Goldsong/hawk law named — the year of use went into DENSITY, past the hundred years his father bought); **THE TEST SPAR (Prime Law + Calibration): eleven minutes, Xie Xie takes the center twice, turns a Gale Talon ribbon, steps INSIDE a Wind-Step and lands the flat on Lin Hao's ribs — "first blood" — before Lin Hao ends it with the homework (reads where the two rings changed the breathing, one stroke laid where the next step was promised)**; the rematch letter: cream paper, the class-one seal, *"—with the regards of Ye Yingluo"*
+- **Part 3 — The Second Ring (Xie Xie's canon ch 101 two-ring status, shown on-page BEFORE the battle per canon's "he must have just broken through"):** Lin Hao hears the spiral hit its limit (ch 9 motif callback) and arrives as **the second ring rises at the rank-21 wall** — the yellow first ring stays unchanged (**⚠️ v2.50 correction: the colour is correct because his dagger soul was already a hundred-year purchase, so it formed yellow and remains in the 100–999 band — NOT because colour is fixed at absorption. Canon ch 191 shows Wulin's ring turning white → yellow when his soul crosses 100 years. The earlier on-page claim that "rings do not change their color" was wrong and has been removed**) — and the dagger grows one circle smaller and more solid (canon ch 101 detail honored); **"souls grow when they're fed"** (the Goldsong/hawk law named — the year of use went into DENSITY, past the hundred years his father bought); **THE TEST SPAR (Prime Law + Calibration): eleven minutes, Xie Xie takes the center twice, turns a Gale Talon ribbon, steps INSIDE a Wind-Step and lands the flat on Lin Hao's ribs — "first blood" — before Lin Hao ends it with the homework (reads where the two rings changed the breathing, one stroke laid where the next step was promised)**; the rematch letter: cream paper, the class-one seal, *"—with the regards of Ye Yingluo"*
 - **Part 4 — Tang Wulin Returns (canon ch 100):** back in 23 days — same footprint, more inside; the relined-furnace presence; **the hawk-eyes' inventory (L4-held): veins laid in a pattern no anatomy put there + a SECOND nested heat behind the sternum — not a seal; something the seals are keeping, made in the storm week, "waiting, very patiently, to be needed"** (the dormant GDC — canon ch 105 flashback consistent; NO second seal break — lock held); "If — when — it comes out again, I think I can decide. And if I ever can't — you'll know before I will. That's your whole job" / "That's been my whole job since we were six"; **THE SANCTION POSTED: class one vs class one (formerly class five), full roster, third morning, Long Hengxu refereeing, faculty attending — "Wu Zhangkong, attending" dictated cold**; Wulin: "They must have missed us" / "They missed losing"; the nested heat turns over in its sleep "the way a dog turns when the house it guards is touched"; Ye Yingluo folds the notice into her desk
-- **Ranks at chapter end:** Lin Hao 24 · **Wulin 15 (unchanged in rank — the storm week's change is the nested heat, NOT a seal break, NOT a rank; canon-ch-105-consistent)** · **Xie Xie 21 — TWO RINGS (yellow first ring — the noble hundred-year purchase, unchanged per the ring-color law — + second ring bestowed at the rank-21 wall; the dagger grew denser per canon ch 101; canon two-ring status reached, shown on-page)** · Gu Yue sealed — no seal breaks, Union folded, crossing gated, question OPEN (one weather-attention beat)
+- **Ranks at chapter end:** Lin Hao 27 · **Wulin 15 (unchanged in rank — the storm week's change is the nested heat, NOT a seal break, NOT a rank; canon-ch-105-consistent)** · **Xie Xie 21 — TWO RINGS (yellow first ring — the noble hundred-year purchase, unchanged because it remains in the 100–999 band (v2.50) — + second ring bestowed at the rank-21 wall; the dagger grew denser per canon ch 101; canon two-ring status reached, shown on-page)** · Gu Yue sealed — no seal breaks, Union folded, crossing gated, question OPEN (one weather-attention beat)
 
 ### Canon Preserved / Not Triggered:
 - ✅ Canon ch 87 substance: the dragon question voiced; the teacher's guarded guidance (nobody names the Golden Dragon King; "power is not identity" = canon-spirit, AU-voiced)
-- ✅ Canon ch 87-99 gap: Wulin away → spirit medicine ("things a boy must swallow") → seal-attack → "the storm week" (v2.26 naming: canon 台风) → returns changed (ch 100) — substance exactly per the ch 105 flashback (golden veins alive, limit surpassed), nothing invented past it; Old Tang kept unnamed-and-vague per canon
+- ✅ Canon ch 87-99 gap: Wulin away → spirit medicine ("things a boy must swallow") → seal-attack → "the week of the hurricane" → returns changed (ch 100) — substance exactly per the ch 105 flashback (golden veins alive, limit surpassed), nothing invented past it; Old Tang kept unnamed-and-vague per canon
 - ✅ Canon ch 101: Xie Xie two-ring, dagger "reduced by one circle, more solid" — breakthrough placed BEFORE the battle (canon's own timing: "he must have just broken through")
 - ✅ Wei Xiaofeng's Green Shadow Snake (VERIFIED ch 101 primary text) — recorded in codex, cleared for ch 18 use
 - ✅ AU divergences documented: class-one match already won (ch 16) — the canon ch 101-105 battle adapted as a SANCTIONED REMATCH (Ye Yingluo's deferred price = the engine); the canon tragedy (Xie Xie's arms, the GDC erupting, Gu Yue's deflection, Wang Jinxi's arm) HELD INTACT for ch 18
@@ -166,10 +180,25 @@ Third morning. The platform. And somewhere across the city, in a cool office, a 
 3. **The sanctioned rematch** — Ye Yingluo's price moves from a grudge to a *document*; the platform, the teachers, the full roster: she has built the exact stage her two years wanted
 
 ### Character States:
-- **Lin Hao:** rank 24 · the sword-arm itch (the seam-reader smelling a fusion rematch) · keeper of the stopping ("you'll know before I will" — official now) · shelf nearly full ("beginning to suspect this was what his life *was*") · hawk: weather-attention for the southbound boat, one turn toward the nested heat
-- **Tang Wulin:** rank 15 · **the nested heat (dormant GDC — canon ch 105 mechanics; "I think I can decide… if I ever can't, you'll know")** · eleven-fold band, left wrist · storm week unexplained by choice · "They must have missed us"
-- **Xie Xie:** **rank 21, TWO RINGS** · first blood on Lin Hao (the yard's new gospel) · "So have I" — sharpened, ready, still the only opinion he consults
-- **Gu Yue:** sealed · watched the hundred-year crossing from the windowsill (canon-minimal; unobserved) · her ch 18 canon moment (the deflection) approaching — held
+- **Lin Hao:** rank 27 · the sword-arm itch (the seam-reader smelling a fusion rematch) · keeper of the stopping ("you'll know before I will" — official now) · shelf nearly full ("beginning to suspect this was what his life *was*") · hawk: weather-attention for the southbound boat, one turn toward the nested heat
 - **Wu Zhangkong:** three facts given, four kept · "attending" dictated in ice · the stopping assigned as homework
 - **Ye Yingluo:** the price documented, the stage built, the desk drawer closed — waiting for third morning
 - **Old Tang:** saw what he needed to see; gave what tasted worse than it was; the well-water metaphor filed
+
+### Ensemble — canon-verified state
+
+_Single source of truth: `CHARACTER_STATS.md` §1 (canon citations) and §3 (schedule)._
+_Every number below traces to a canon line or is labelled AU._
+
+- **Tang Wulin:** rank **15** (canon c133) · one white ten-year ring
+- **Xie Xie:** rank **20** (canon c101) · **TWO rings**
+- **Gu Yue:** rank **18** (AU, between canon 17 and peak 19) · one ring · spiritual power **153** at nine (canon c114)
+- **Xu Xiaoyan:** not yet introduced
+- **Zhang Yangzi:** rank **23** · spiritual power **41** (canon c113) · climbing out of Spirit Origin (canon c113 predicted within a year)
+- **Wang Jinxi:** rank **22** (canon c134) · spiritual power **18**, lowest in class zero (canon c113)
+- **Wei Xiaofeng:** rank **23** (canon c101)
+
+Canon position anchors for this point in the story: everyone in class zero is **10 years old** through the tournament arc (canon c221: *"They're so young though, only ten years old!"*); the Shrek working-student dorm holds **four** — Tang Wulin, Xie Xie, Gu Yue, Xu Xiaoyan (canon c288; + Lin Hao, AU = five invitees). Departure order: **Wei Xiaofeng left class zero first** (canon), then **Wang Jinxi transferred to another academy** (canon ch 153, staged in our ch43). **AU divergence:** in canon Zhang Yangzi transfers out with him; in this story Zhang Yangzi embraces Wang Jinxi on the steps and **stays at Eastsea Academy**, out of class zero.
+
+🔴 **REALM GAP LAW (v2.90):** every ten ranks is a wall, not a step. Lin Hao is a **Soul Elder with three purple rings**; everyone else here is rank 17–23 with two. None of them can defeat him — they can outlast him, survive him, cost him. Gu Yue does exactly that, because she is the one he cannot read.
+

@@ -1,219 +1,261 @@
-# Chapter 19: The Number Is Zero
+# Chapter 19: Class Zero is Established!
 
-## Canon Reference: Novel ch 108 (Ouyang Zixin) + ch 109 (Class Zero is Established) adapted primary-text-close — the morning-after run with the fifth-grade senpai; the grade assembly: no further promotion matches, the former class five renumbered class one; the A-grade meal reward; the pilot class zero announced with Wu Zhangkong as homeroom teacher; the censure stripping all match participants of rewards; President Yu Zhen's scolding; the no-transfer agreement; WEI XIAOFENG'S CANON REFUSAL (class zero drops to five — in our AU, six); Spirit Ascension Platform rules seeded from canon ch 120-121 (elementary platform: four rings or fewer; weekly sessions academy-funded)
-## Timeline: Age 10 — the morning after the rematch: the grade is counted, and the count is zero
-
----
-
-## Part 1: The First Morning
-
-They began the vow before the sun did.
-
-The track around the grade's exercise ground held the night's cold in its cinders, and the two of them had it to themselves for exactly eleven minutes, which was the amount of time it took the harbor gulls to admit the sky was going to happen again. Wulin ran the outside lane, because the mountain runs the border. Lin Hao ran the inside, turned backwards, watching him — which was not watching at all, but the drill itself.
-
-"Ready," Wulin called, and his right hand came up from his side toward the mark on his own shoulder — the furnace door, practiced — and Lin Hao went. Wind-Step. The world's noise cut off, the cinders became a single stripe, and his hand touched the raised one a full breath after it settled.
-
-"One," he said, when the world's noise came back.
-
-"One," Wulin agreed, and did not say *you used to be late by two*, because brothers do not hand each other arithmetic that stings at dawn.
-
-They ran it nine more times. By the seventh, the gap was closing — not to zero, not yet, maybe not for a season; a breath is not a distance, it is a habit, and habits of the body are reforged the way metal is reforged, in repetitions rather than resolutions. By the ninth, Lin Hao was arriving with the settling hand instead of after it, twice in three tries, and the hawk — riding the high air above the track the way it had ridden everything since the platform, standing on the wind with its wings half-open, watching the golden thing across the water that was now also the golden thing on the next lane — turned a slow circle, once, which meant nothing, and which he had learned to receive the way you receive a nod from someone who does not give words.
-
-Then the sun cleared the harbor, and the track got a third runner.
-
-She came onto the far curve at a pace that was not a warm-up and not a jog — a girl some years older, hair flung back like a banner, running the way water runs, like the ground was doing her a favor. Wulin, on his cooldown lap, slowed. Then stopped. Then stood there with his hands at his sides in the manner of a boy who has been ambushed by beauty and knows it, and can do nothing about the knowing.
-
-"You're staring," Lin Hao said, arriving at his shoulder.
-
-"I'm *appreciating*," Wulin said, with dignity.
-
-What happened next, the whole grade would hear about by lunch, in the versions that grow in the telling. The girl drew level and teased him — *little junior, mind how you run* — and pinched his cheek like he was something at a market stall, and laughed at his ears going red, and bet him ten laps for her name. What actually happened, and what Lin Hao's eyes did with it, was quieter: for two full laps before the finish, her left foot had been lying. A hitch the size of a hair, a cost reported and not paid — a foot that *said* it was tiring to a body that visibly was not. She was buying the last hundred meters. She was a cheat with excellent manners, and she was going to win the race she had just invented.
-
-Lin Hao folded his arms and said nothing at all.
-
-At the hundred-meter mark she cried out, *aiyo*, beautifully, and stumbled — and when Wulin, honorable to the marrow, eased off to help, the pink figure went past him like a thrown rose and crossed the line turning to laugh at him. *"Little fool, you were tricked!"*
-
-She left him with the words floating back over her shoulder: *"Ouyang Zixin. Fifth grade, class one."*
-
-Wulin came back to the fence the color of a sunset. "You knew," he accused.
-
-"Her left foot was lying for two laps."
-
-"Then why didn't you—"
-
-"Because she was pretty, and you were happy, and the lesson was cheap." Lin Hao clapped his shoulder and turned him toward the showers. "The decoy fold was the same lesson at a worse price. The world lies, brother. Some liars break arms, and some win footraces. Learn the tell from the ones that don't cost anything." He was grinning when he said it, and the grin was real, and so was the rest — and Wulin, who had spent three weeks learning exactly what a lie aimed at you could do, laughed until the infirmary stitches in his mood pulled, and cuffed him, and they went in to breakfast.
-
-The notice board by the gate had grown a second sheet overnight. Under the SPECIAL ARRANGEMENT nobody had explained, in the posting-master's unemotional hand:
-
-**FIRST GRADE — ASSEMBLY ON THE EXERCISE GROUND, FIRST BELL. ALL CLASSES.**
+## Canon Reference: canon ch 108–109 primary text ("Ouyang Zixin" / "Class Zero is Established!") — the morning-road encounter with senior sister Ouyang Zixin (fifth grade class one; the cheek-pinch; Xie Xie's teasing), the grade assembly EXACT: first-window reward for the new class one, the class zero announcement (Wu Zhangkong teacher-in-charge; roster; "any other student who shows exceptional ability will also be put into class zero"), the punishment (comrades-first injuries → tournament rewards stripped), President YU ZHEN's speech + private scolding ("two have broken arms… frogs at the bottom of a well… the world has never lacked geniuses, nor has it lacked geniuses that die young"), the no-change-schools contract (through intermediate AND advanced graduation), Long Hengxu as class one's substitute teacher. AU: Lin Hao named in the roster (the board's own "best students in the grade" logic + Wu Zhangkong's recommendation — canon's own exceptional-ability clause)
+## Timeline: Age 10 — the morning after the rematch
 
 ---
 
-## Part 2: The Arithmetic of the Grade
+## Part 1: The Senior Sister on the Morning Road
 
-Five classes stood on the exercise ground in the risen sun, and the grade had never stood so quietly, because the grade had watched yesterday what the grade was still deciding whether to call a battle, and the two boys with their hands in slings and the empty place where a third boy ought to be standing on the far side had done its arithmetic for it.
+Xie Xie was right about one thing, in the end: the arms did not stop Xie Xie. Both forearms in healer's wood and linen, propped on a splint-frame like a small expensive chair for two invalids, and still the dagger-boy was up before the bell, still talking, still insisting that the morning road was doctor's orders.
 
-At the front, beside Director Long Hengxu, stood a man none of the first grade had seen before: wide as a door, in a plain academy coat, with the kind of face that had finished being impressed by anything approximately thirty years ago. The President of Eastsea Academy did not look at five classes. He looked at a ledger only he could see.
+"Walking is circulation," he said. "Circulation is healing. This is medical."
 
-"Two announcements and one decision," Long Hengxu said, in his weather-report voice. "First. Given this year's particularity, the winning class will not continue in further promotion matches. First-grade ranks are adjusted per tournament rule: the former class five is recorded as the first grade's *class one*. The remaining classes shift accordingly."
+"This is you not being able to sit still," Wulin said, falling into step beside him anyway, because the morning road had been theirs since the first week of school and a boy with both arms in a chair did not walk it alone. Lin Hao took the other side — the right, where he always was — and the three of them went out through the gate and onto the road that ran the seawall's length, in the gray-gold light that the harbor wore before the sun cleared the water.
 
-A murmur went through five classes and did not quite become anything. Behind Lin Hao, somebody whispered *we're the top class* with the awe of people who had spent a year calling the same twenty-two students the worst in the grade — and the twenty-two in question stood a little differently, the way metal stands differently after it has been folded.
+It was on the second bend — the one where the road narrowed between the supply sheds — that Wulin, mid-sentence, mid-stride, mid-*everything,* collided with a running senior.
 
-"Second. In recognition of the new class one's performance" — the Director's voice did not change, and would not have changed for a typhoon — "the academy awards every student of class one one A-grade meal each day, for the semester."
+It was not a hard collision. It was the kind that happens when one person is running the road as a circuit and three boys are walking it as a conversation, and the running one is faster than the road expected. The senior went half a step back; Wulin, whose density had opinions about collisions, stayed exactly where he was; and the morning light, coming over the sheds at exactly that moment, did the thing morning light does when a story decides something is about to matter.
 
-This time the murmur did become something. The first grade's idea of A-grade meals was the idea of people whose families had priced them once, at a stall, and walked away: food that *repaired* you. The new class one cheered with the whole of itself, slings and all, and Xie Xie's cheer was the loudest, because a treasurer's heart has a chamber for free food that no grief can close.
+She was older — fifth grade by her coat — and she was, in the way of senior sisters in the memory of every boy who ever walked a morning road, extremely pretty: delicate features, large limpid eyes, a runner's breath, and around her in the low sun a kind of drawn-gold radiance that had nothing to do with any soul and everything to do with the hour.
 
-"Third." The Director let the cheering die on its own, which took a while. "By decision of the academy's board, the first grade will host a pilot class. Its purpose: students whose ability has outgrown their level are not to be buried in it. Its name, for the present: the first grade's *class zero*. Homeroom teacher: Wu Zhangkong."
+"S— sorry," Wulin said, which was accurate and also, he would later maintain under oath, all he managed.
 
-The sun seemed to go one degree cooler. Five classes turned, as one animal, to look at the man in white standing apart at the platform's edge — and Wu Zhangkong, who had once told a classroom of the grade's rejects that he would make them the strongest in their cohort if it cost him every cold hour of six years, looked back at five classes with no expression that any of them could spend.
+"Junior brother, pay attention when you're running," she said — and then, because he had not been running and they all knew it, she reached out and ruffled his hair, and looked at him properly, and her eyebrows went up. "Ah. You're very good looking." And then she did the thing that the road would talk about for a term: she pinched his cheek, exactly once, and giggled at her own audacity.
 
-"Selected from the existing classes — currently seven." The Director read the names the way he read weather. "From class one: Tang Wulin. Xie Xie. Gu Yue. Lin Hao."
+And then — because a pretty senior sister with a runner's eyes does not stop looking at one boy when there is a *second* one standing right there, and this second one was the one the whole grade had been trading stories about for a term — her gaze slid past Wulin's scarlet ear and landed on Lin Hao, and *stayed.* The morning light caught the storm-gray at his hair-tips and the gold-fleck in his eyes, and Ouyang Zixin — who had pinched a hundred cheeks and forgotten ninety-nine — did not pinch his. She tilted her head, the way you do at something you'd like to keep looking at, and said, "Oh. And *you're* the swordsman." Not a question. Then, with a runner's grin that had absolutely no mercy in it: "The stories undersell the eyes."
 
-He did not stumble on the fourth name, because he had written the fourth name himself, once, in a different ruling: *the entitlement was to file a fourth.* Arithmetic, in the Director's office, was a discipline with a long memory. The tournament had been won by four; the count of monsters had simply followed its own ledger.
+And she was gone around the bend at a runner's pace, her voice floating back over her shoulder: "My name is Ouyang Zixin. I'm in the fifth grade's class one. Do try to be *looking* when you run, junior brothers."
 
-"From class two: Zhang Yangzi. Wang Jinxi. Wei Xiaofeng."
+Silence on the road. Then—
 
-On the far flank, in the ranks of the class that had been class one until yesterday morning and was now something else, Wang Jinxi stood with his right hand bound in healer's wood to his chest, and did not look at the platform, or the President, or his own class. He looked across the ground at exactly one person — the boy who had broken his arm and then not been wrong — with an expression that was not hate, and not wonder, and not surrender, but the face of a boy listening to a word he had no definition for yet. *Follow* kept saying itself somewhere under his splint, in the bone, where he couldn't shut it up.
+Lin Hao turned to Wulin with the grave, solemn face of a man delivering a eulogy, and said: "She pinched you."
 
-"Finally," said Long Hengxu, "a ruling of censure. In yesterday's match, the participants of class one and class two failed — *entirely*" — the first word the weather-report voice had ever leaned on — "to uphold the principle of friendship before victory. Three students were gravely injured. All participants are hereby censured, and stripped of every reward the match might otherwise have conferred. Let the grade take note."
+"She—"
 
-The arithmetic took one second to land in the new class one, and then Xie Xie made a sound like a man being robbed in his own house.
+"She reached out," Lin Hao said, "and she put her hand on your *face,* and she pinched it, and I watched her do it, and I will be telling this story at every meal for the next six years, and by the time we graduate it will have a *title.*" He was already grinning, the whole of him, the solemnity gone before it landed. "'Ouyang Zixin Pinches Tang Wulin's Cheek.' It writes itself. It's got a beginning, a middle, and your ears."
 
-"The *meal*—" he said. "He gave the meal and took it back — the fighters' meals — *my meal—*"
+"I was *startled!*" Wulin said, which was the worst possible defense, because it was true, and his ears knew it.
 
-"You can have my portion of the smell," Yun Xiao said, with the serenity of a boy whose arms worked.
+"You were *pinched,*" Lin Hao corrected, delighted. "There's a difference. Startled is something that happens *to* you. Pinched is something that happens to you *because of your face.*" He slung an arm around his brother's shoulders — the same side he'd walked on since they were six, the right, the one that was always his — and steered him down the road. "Don't worry. I'll be gentle. Mostly."
 
-"Both of you," Zhou Zhangxi said, radiantly, "can watch me eat."
+"Stop staring, the two of you," Xie Xie said, from inside his splint-chair, with the enormous enjoyment of a man watching two buildings fall at once. "That senior sister is already long gone. And she *noticed* the swordsman, Wulin. She *noticed* him. You got a pinch; he got a *review.*"
 
-The President stepped forward, and five classes went silent without being told, because some silences are a property of the man, like weather is a property of the sea.
+"She said I was good looking!" Wulin protested, with his entire face.
+
+"She said *he's the swordsman,*" Xie Xie said, "and then she *kept looking.* That's worse for you. That's so much worse for you."
+
+"She also said 'junior brothers,'" Lin Hao put in, helpful as a knife, "'plural.' Which means she was talking to *both* of us, which means, technically, Wulin, I got pinched by association, and I will be accepting condolences." He ducked the swat without looking, because he'd known it was coming since the word 'consolences.' "And for the record — her heart's not the problem. *Yours* is. You've got room in there for a taken sister, a promised forge, a whole city of notice-paper with one face on it, and *apparently* still space for a senior sister's hair in the morning light. Big furnace. Holds a lot of fire. It's not a flaw, it's just — *generous.*" He said it with all the warmth in the world, because it was true, and because teasing his brother about the size of his own heart was the oldest thing between them, older than the academy, older than the forge. "Just don't tell me Na'er's going to come back and find you've got a *senior sister* pinned to your ear."
+
+"*She pinched ME,*" Wulin said, "not the other way around, and Na'er is—" he stopped, because the road had gone quiet in the way it did when the taken sister's name landed, and Lin Hao's arm around his shoulders tightened exactly once, the way it always did, and neither of them said the rest, because they never had to.
+
+"Come on," Lin Hao said, lighter, steering him on, because that was the other half of the teasing — knowing exactly when to stop. "Let's go get breakfast before Xie Xie eats his own splint. And Wulin? If you see her again — *look* where you're running. For both our sakes. I can only carry one of us being pinched."
 
 ---
 
-## Part 3: The Agreement
+## Part 2: The Assembly
 
-The grade was dismissed to classes; the seven were told to remain; and the exercise ground, which had held five classes, held instead one President, one teacher, and seven children of whom two were in slings, one was missing entirely, and one was arriving late — carried — because Zhang Yangzi's legs were in frames, and Zhang Yangzi had made it clear through intermediaries that if class zero was being founded in his name while he lay in a classroom, the classroom would at least contribute his presence. They set him on the bench by the equipment shed, white-faced and upright, daring anyone to mention the bench.
+Breakfast was a hurried affair, and class was not — because class was a note on the board: *all first-grade students, the sports field, grade assembly.*
 
-The President looked at them for a long moment. Something in the look made even Wei Xiaofeng stand straighter.
+The five classes of the first grade stood in their blocks in the field's cold morning geometry, two hundred and some children in ranked lines. The reviewing platform wore Long Hengxu, the faculty, and — new, at the center, in a coat that cost more than the platform — a man most of the grade had only ever seen at a distance: President Yu Zhen, whose face gave nothing away the way a deep wall gives nothing away.
 
-"Quite the heroes," Yu Zhen said. "Two broken arms. Two broken legs. A broken wrist-count I have lost track of. Yesterday I had a report on my desk describing a martial soul fusion skill, an unregistered element-type martial soul, and a *golden power* that no file in this academy contains — and the only thing all three were doing at the time was *injuring each other.*" He let that sit. "You believe you are strong. You are — for your age. So was every genius who died at twelve. This Federation is not short of geniuses. It is short of *grown* ones. Talent becomes greatness by work that outstrips ordinary people, or it becomes a story the Federation tells about what might have been. Understood?"
+Long Hengxu, who had been a director for longer than most of the field had been alive, began with the thing everyone had come for, in the voice he kept for weather reports and history.
 
-"Understood," said seven voices, in the varying keys of the chastened, the indignant, and — in one case, a boy on a bench with his legs in frames — the faintly sarcastic, which the President elected not to hear.
+"In light of the new class one's outstanding achievements in this tournament, the entire class will be rewarded with one meal a day from the first window — for one term."
 
-Then the President's wrist turned, and there were papers in his hand. "The academy is about to spend real money on you. So the academy will first make sure you are here to be spent on. This is an agreement. Read it. Sign it: you will not transfer from Eastsea Academy before completing the intermediate and senior sections. Refuse, and class zero goes on without you. I am a busy man; decide."
+The sound the class-one block made — the block that had been *class five* for a term and a half, the worst class in the building, the block that had learned to eat victory at the fourth window because the fourth window was where the portions were — was not cheering. It was a wall of two dozen ten-year-olds discovering, all at once, that the first window was *theirs:* the nourishing window, the expensive window, the window most families could not afford once. Zhou Zhangxi, in the second row, began a song that was stopped by his own disbelief. Mu Xi did arithmetic on her fingers and stopped at a number she clearly did not believe, and started again.
 
-Paper passed from hand to hand.
+And on the reviewing platform, Ye Yingluo — class two's teacher now, the ladder's price worn like a coat she had not chosen — watched the block she had been given, and watched the block she had lost, and her face grew gloomier at every cheer.
 
-Wulin read the first line and signed. It was not carelessness. It was the arithmetic of a boy who had awakened a grass soul in a poor man's house and knew precisely what an academy leaning its whole weight in his direction was worth — and under the arithmetic, unspoken, in the chamber where he kept the thing that never slept: *resources, rank, reach — everything it takes to look everywhere for her.* His signature went down like a hammer-blow, plain and certain.
+"Quiet down!" Long Hengxu did not raise his voice; the field obeyed anyway. "Due to the excellence of this year's first grade, the board of directors has decided to conduct a study. We are establishing an experimental class in the first grade, comprised of the best students in the grade. It will temporarily be called **class zero**, and Wu Zhangkong will be the teacher in charge." He unrolled a slate the way other men unsheathe things. "The students for class zero have already been selected."
 
-Gu Yue signed so close behind him that her pen touched paper before his ink had finished being wet — no hesitation, no reading, as if the paper had never contained a question at all. If the speed meant anything, it meant it where no one could see; her face was a still pond, and even hawk-eyes, passing over it, found no fish in it.
+And then he read the names — and the first name on the slate was not the one the field expected.
 
-Xie Xie attempted to raise the matter of families — *"President, shouldn't we perhaps... communicate with home?"* — and met *"You may. Class zero will go on without you. I'm busy."* — after which he signed left-handed, with the grim dignity of a treasurer closing a bad account.
+"**Lin Hao.** Tang Wulin. Xie Xie. Gu Yue." A breath. "From class two: Zhang Yangzi, Wang Jinxi, Wei Xiaofeng. In the future, any other student who shows exceptional ability will also be put into class zero."
 
-Wang Jinxi signed without a word. Then he looked at his own signature for a moment the way he had looked across the exercise ground — as if it had been written by the bone-deep thing rather than by him.
+*Class zero?*
 
-Lin Hao read every line.
+In all of Eastsea Academy's history there had never been a class zero. The field went through the silence of two hundred children doing arithmetic they had not been taught: the best students, pulled out of the classes, given the ice-cold teacher everyone had spent a term being frightened of — which, if you were ten, meant either a prize or a punishment, and no way from where you stood to tell which. And the first name on the list — the swordsman, the fourth, the one the grade had traded stories about for a term — sat there at the front of it, not added on the end but *first,* the way a thing that belongs is placed, and two hundred children registered it without any of them being able to say, afterward, exactly why it mattered. Only that it did.
 
-He read it the way he read metal, and for the same reason: a contract, like a billet, hides its seams in the middle where no one looks. He found them. The clause that bound was not the front page's friendly sentence — it was a sub-clause, three pages in, defining *transfer* broadly enough to include "placement at any other institution by any party, including by family arrangement," which meant it bound the Zixin-family kind of ambition as well as the boy kind. The door it closed was a real door. It would not open again for years.
+In the class-one block, Wulin had said *they'll take all of us or none of us,* and Xie Xie had said *they'll take all of us, obviously, we're the terrifying ones* — and when the names came, they did not react, because they had known. But Xie Xie, who could not leave a thing unsaid even with both arms in a chair, leaned over and hissed, with enormous feeling, "They put you *first.* They put you *first,* Hao. Before *Wulin.* Do you know what that does to my *brand?*"
 
-He signed with his eyes open. That was the whole of the difference, and it was the homework in another shape: certainty was not speed, and it was not sharpness — it was *committing without a hedge, with the whole cost read first.* A sword that waits to be sure the seam is real has already been beaten by the lie. A signature that knows what it closes is not a signature that hesitates.
+"It means the board can read," Lin Hao said, without turning his head. "It means you're third. Try to contain your grief."
 
-Wei Xiaofeng did not sign.
+"I'm *fourth,* actually," Xie Xie said. "Gu Yue's third. I'm fourth. Behind *Gu Yue.* This is a disaster." And he was grinning the whole time he said it, because being fourth behind his three best friends in a class of seven was the best thing that had happened to him all term, and Lin Hao knew it, and didn't say so, because that was the other half of the teasing too.
 
-He stood with the paper in both hands, and for a moment the drilled humility fell off him like a coat, and underneath it was a boy doing a family's arithmetic out loud: *"President — my family. For the senior section, my family may intend a better academy. To sign this without consulting them..."*
+And Wang Jinxi, across the field, looked at Tang Wulin. And then — a fraction later, a fraction longer — his gaze slid one body to the left, to the name that had been read *first,* to the boy whose sword had found the seam of his fusion, and rested there like a hand on a doorframe.
 
-"You may go and consult them," said Yu Zhen. "Everyone has their own path. You may return to class two." And he took the agreement back out of Wei Xiaofeng's hands with the finality of a door closing, and added, in the voice of a man correcting a ledger: "Class zero is now six."
+Lin Hao looked back. He did not nod. Nods were for things finished, and nothing between them was finished. He simply held the look the way you hold a hot workpiece: carefully, and without flinching, and with full attention to what it was going to do next. And then — because two hundred people were watching and he had never in his life been able to leave a solemn thing solemn — he gave the dragon the smallest possible salute, two fingers off the brow, the way you'd greet a rival across a forge, and Wang Jinxi — top-tier dark dragon, broken arm, complicated face — looked like a boy who had been handed something he did not have a pocket for.
 
-Wei Xiaofeng looked at the paper leaving his hands. He looked — once, quickly — at the seven... at the six, at the slings, at the bench with the boy on it, at the four who had beaten him twice and the two who had fused with everything they had and lost anyway; and whatever he saw in the sum of it, he bowed to the President, and went, walking very straight across the empty exercise ground, and did not look back at any of them, which was its own kind of answer, and took longer than the walk needed.
+"Aside from these two announcements," Long Hengxu resumed, and the field heard the hinge in his voice, "there are still punishments to be announced. In the match between class one and class two, both sides prioritized their comrades first and the competition second, which led to three students being seriously injured. This has raised a serious concern with the participants. As such, they will be deprived of the tournament rewards, as a punishment — and a warning to others."
 
-The President watched him go. And then — between one breath and the next, with the smoothness of a master performer — the sternness drained out of Yu Zhen's face entirely, and what replaced it was a warm, round, entirely different smile, and the six children of class zero stood witnessing the fastest change of face any of them had ever seen a human being accomplish.
+A ripple of confusion ran the field: even won, no rewards? Their classes would only be promoted? Long Hengxu had said it harshly, and the field heard harshness — and on the reviewing platform, Wu Zhangkong's expression did not move, because Wu Zhangkong had read the punishment correctly: the director had turned a disaster into a *precedent.* Comrades first. Written into the record. Kept.
 
-"Well," said the President, beaming, "that's settled. From today you are this academy's core. We respect Wei Xiaofeng's choice — and I promise you, one day he will regret it green. Eastsea is not ranked highly on the continent, I know it, you'll hear it. But it is the one intermediate soul master academy of this whole city, and when everything we have tilts toward six children — resources, teachers, the *Tower* — then I tell you: even that legendary academy of the inner continent, the one every child is taught to dream about, could hardly do better by you than we are about to."
+"President, do you have any words to say?"
 
-Five of the six felt the warm certainty of it wash over them like the first A-grade meal.
+Yu Zhen nodded, and began, in a clear voice, with the speech the board had written: "Students, I am sure you are all very curious as to why we established class zero. This is because the students we have picked out have already far surpassed the level of their peers. If they were to continue advancing with the other students, their talent would be buried. In summary — if you wish to shine in the future, then you must put in even more effort. I hope that I will see more students joining class zero later on, going on to become the greatest geniuses of Eastsea Academy. Alright then, the assembly is over. Teachers, lead your classes back. Long Hengxu will act as class one's substitute teacher until a new teacher can be found. Wu Zhangkong and the students of class zero will remain here."
 
-The sixth said nothing, and his mouth-corner moved — one millimeter, one instant — because he was the only man on that exercise ground who knew, in the specific and personal way of a man who had been *expelled from it*, exactly what the legendary academy of the inner continent was; and what it would do to six children of this caliber; and how much, and how gladly.
+The five classes filed out of the field wearing shock, admiration, envy, and regret in proportions that varied by child. And seven were left — six standing, one absent — in the empty geometry of the field, with the president, and the ice-cold teacher, and each other.
 
-"Class is dismissed," said Wu Zhangkong, in his own weather. "Class zero follows me."
+---
+
+## Part 3: Frogs and Contracts
+
+"Children, come over here."
+
+They came — the four of class one in their walking formation, which they had never once discussed and had always had; the two of class two in a formation of two that was clearly a negotiation. Wei Xiaofeng came with his chin up and his eyes on the ground's enemies. Wang Jinxi came the way weather comes.
+
+Yu Zhen looked the six of them over — the bandaged arms, the sling, the stillness — and raised an eyebrow, and when he spoke, the board's speech was gone and something considerably colder had arrived.
+
+"You guys are quite able, huh! Do you think that just because you're a bit more outstanding than your peers, that you're great? Look at you all — what have you accomplished? Among you six, two have broken arms, and there's still one with broken legs resting in the dormitory!"
+
+They had never expected the president to open with a tongue-lashing, and the six of them stood it the way fence posts stand wind.
+
+"I have already said what the purpose of class zero is: it's to not hold you back. But even with how small you all are, you harbor so much pride and conceit in your hearts. I will have you all behave with integrity in front of me — otherwise, don't blame the academy for being impolite. I'm warning you now: if a situation like yesterday's happens again, you will all be punished. Don't think that just because you are geniuses, you don't have to follow the rules. You are all just viewing the sky from the bottom of a well. There are plenty of people even more outstanding than you throughout the federation." He let that settle, the way a man sets down weight. "From the very beginning, this world has never lacked geniuses, nor has it lacked geniuses that die young. If a genius wants to become great, then he will have to invest far more effort than an ordinary person. Only then will you live up to your potential. Do you all understand?"
+
+"Understood," said six voices — and one of the six, a president would note later, in a report no one ever read, had said it a half-beat before the others, without flinching, in the tone of a boy agreeing to something he had already known since he was six years old and the sea had taken his best friend's rival's — *had taken Na'er,* the president did not know; the boy simply did not find the sentence new. Frogs in wells. The boy had grown up next to the largest well in the world and spent his life reading what was written on its water.
+
+"Sign this contract."
+
+The papers appeared with a flip of the president's hand and distributed themselves into six sets of hands — one set having to be tucked under a splint-frame, because Xie Xie's hands were otherwise employed being broken. Wulin looked his over. The word at the top was large: **CONTRACT.** And the content beneath, in the flat grammar of institutions: *the undersigned voluntarily contracts with Eastsea Academy — before graduating from the intermediate division AND the advanced division, will not change schools.*
+
+"A guarantee," Yu Zhen said, watching them read. "The academy will invest resources in class zero that no class in this school has ever received. The academy wants a guarantee that you will stay for your studies."
+
+Wei Xiaofeng read his contract like an insult. Wang Jinxi read his like a map. Gu Yue read hers in four seconds and held the pen without signing, looking — as she had looked at the fusion test — at the arithmetic underneath: what an academy this size considered "resources," and what an academy this size considered "a guarantee," and the distance between the two numbers.
+
+And Lin Hao read his the way he read everything made by human hands for human purposes: like a commission. *They are investing. They are binding. The work is specified, the payment is stated, the term is long.* It was, he noticed, the first contract of his life addressed to him by name — and the terms were, by any forge's standard, honorable: resources for loyalty, training for years. He had made his own version of this contract at six years old, walking into the worst class in the grade behind his brother, and no paper had been necessary.
+
+He signed first. Then he turned to the splint-frame, because Xie Xie was attempting to hold a pen between two bandaged wrists in a manner that was brave, inventive, and producing a signature that resembled a drowning spider.
+
+"It's a legal document," Xie Xie hissed. "It has to be *legible.*"
+
+"It has to be signed," Lin Hao said, and steadied the paper with one hand and put his other hand lightly over Xie Xie's bandaged fists, and guided them the way he guided a hammer that was learning a strike — not moving them, giving them the line — and the name that came out was Xie Xie's own, legible, and larger than usual, because the dagger-boy had pressed.
+
+"Federation charter," Xie Xie muttered, looking at it with enormous satisfaction. "Put that on a wall."
+
+One by one, the six signed. And Yu Zhen collected the papers with the face of a man who had just bought something at a good price and knew it, and Long Hengxu — substitute teacher of class one as of this morning — looked at the six children holding his school's largest investment, and said the only thing he had to say, in his weather-report voice:
+
+"Don't make me regret the paperwork."
 
 ---
 
 ## Part 4: The Room With No Number
 
-He led them in the wrong direction.
+Their classroom had no number on the door. That was the whole of its first lesson.
 
-Not toward the bright classrooms of the class-one wing — *down*, to the ground floor, to the innermost corridor, to a door every one of them knew: the smallest room, the worst room, the room at the end of everything, where a class of twenty-two rejects had spent a year being the grade's joke and then its rumor and then its champion. The door plate was new. It had been polished. It said:
+It was bigger than a class should be and emptier than a room that size should be — six desks, a seventh arriving, walls stripped of the charts and slogans the other classrooms wore, and a window along the whole east side that looked out over the training grounds, the seawall, and beyond them the harbor, gray and enormous and wearing its morning traffic the way the forge wore its sparks. Wu Zhangkong had chosen the window, or the window had chosen Wu Zhangkong; either way, he stood in front of it now, hands behind his back, and the six of him — six students, one teacher, zero number — stood in a loose semicircle that had sorted itself, without discussion, into a four and a two.
 
-**FIRST GRADE — CLASS ZERO**
+He looked at the sorting. He had clearly decided, at some point during the walk over, that comment was beneath him.
 
-"The class numbers run one through five," Wu Zhangkong said, opening his own door like a man re-entering a sword forge he owned. "A zero stands before them. You are not above the first grade. You are what the first grade is *before it is anything* — the part that has no class to hide inside. Remember which room you learned in."
+"Your schedule is new," he said. "Mornings: cultivation, together, this room — spiritual power is the foundation of everything, and everything you are is built on a foundation you have been neglecting while you were busy being remarkable. Afternoons: your classes' work, compressed. Evenings: combat." A pause. "Not sparring. Combat. There is a difference, and by the end of the term you will be able to tell me what it is."
 
-They filed in. Wulin took his old seat, out of pure muscle. Gu Yue took the desk behind him, out of whatever took desks behind him. Zhang Yangzi's bench went where a bench could go; Xie Xie claimed the window with his slings; Wang Jinxi stood a half-second in the doorway — in *their* doorway, the enemy's shrine — and then sat, and the sitting had the weight of something the bone-deep word had decided.
+"The resources the president mentioned," Gu Yue said — of course Gu Yue said it, of course she said it first, "—what are they."
 
-At the front, the teacher who had been assigned to the worst class and made it the best one stood before the worst room's blackboard, and six monsters settled in front of him like weather finding a coast.
+"They are not yours yet," Wu Zhangkong said, which was the coldest and most honest answer anyone had ever given her, and something in her stillness leaned forward, interested. "They are earned on a schedule. There is a place in this city where talent is measured — where souls your age are given things most soul masters die without. You will go there when you are ready, and not one day before, because that place does not care about your contracts or your president or your tournament." His smoky green eyes went around the circle and rested, one by one: on the splint-frame, on the sling-less arm that had been broken, on the boy with the hawk's eyes who had not taken notes because he did not need to. "Which brings me to the only rule of this room. You are seven. The board gave me six and the tournament gave me the seventh. I do not care which class carried you here — the classes are done with you. In this room there is no class one, no class two, no class five. There is class zero, and it has never lost a student, because it has never had one. Be the reason it stays that way."
 
-"Terms," said Wu Zhangkong. "One: your curriculum is mine to write, and it will not resemble the grade's. Two: the academy has bought you something it will not buy twice. Once a week, one day, you will enter the Spirit Transferring Tower — the Ascension Platform." He let the name land. It landed differently on each of them: on Xie Xie like money (a moment's arithmetic behind his eyes, *"five hundred thousand a head, a thousand slots a month on the whole coast, and the academy is paying"*), on Wulin like hope — Lin Hao watched it happen, watched the boy's hand drift toward the wrist where a little golden snake usually rode, because everyone had heard the platform's one promise: *soul spirits can grow there. Years can be added.* On Zhang Yangzi it landed like a grudge being given a lawful venue, and on Wang Jinxi it landed on the bone-deep word and made it louder.
+"Seven," Wei Xiaofeng said, with a sneer he had clearly been carrying since the field, "is an unlucky number."
 
-"The elementary platform admits four rings or fewer," Wu Zhangkong said. "You qualify six times over. Inside it, you rely on yourselves. Danger is real enough to teach and not real enough to kill; the signaler on your wrist brings you home. Details next week, at the Tower." A beat, the length he measured everything in. "Three."
+"Then we're safe," Xie Xie said, from inside his chair, "because nothing bad has *ever* happened to us."
 
-He looked, for the first time that morning, directly at the two boys by the window — the golden hand and the wind — and the look had been standing outside at dawn, apparently, on a cold track, watching a breath be chased and nine times caught.
+And Wu Zhangkong — who had been ice and geometry since September — made a sound. It was small. It was gone in a third of a second. But six children heard it, and one of the six (Lin Hao) filed it with the precision it deserved: *the teacher laughed. Once. The room is real.*
 
-"Some of you," the teacher said, "have already begun. Whatever it is you are training at first light — stopping, reaching — it is now class zero's first curriculum. Not because I ordered it. Because I arrived at this academy a year ago to teach a class no one wanted, and I have since learned to read which lessons the monsters give themselves." The ice did not thaw; it merely acknowledged the sun. "That is all. First bell tomorrow. The Tower next week. Go be children for one afternoon; you will not get many."
+"Combat at four," Wu Zhangkong said, and was gone, and the room with no number was left to six children and a window and the harbor, and the two formations — the four and the two — looked at each other across three meters of unassigned floor.
 
-They went. And in the empty room with the new plate, the harbor light came slantwise through the worst window in the grade and lay along the desks like something being poured.
+Wei Xiaofeng looked at the four the way you look at weather you blame personally. Wang Jinxi looked at Wulin, and then at Lin Hao, and said — quietly, to no one in particular, in the voice of a boy setting down something heavy to see if it would stay down:
+
+"Your swordsman found the seam of my soul." A pause. "No one had ever found the seam of my soul."
+
+"He finds seams," Lin Hao's brother said, mildly. "It's what he's for."
+
+And Wang Jinxi — top-tier dark dragon, broken arm, complicated face — looked at Tang Wulin for one long moment, and then nodded, once, the smallest nod in the world, and went and sat down at a desk on the *four's* side of the floor. Wei Xiaofeng made a sound like a kettle. And the room with no number, without deciding to, stopped being two formations — because a dragon had moved first, and dragons, whatever else they are, are not followers, and everyone in the room understood without being told that whatever had just happened, it had not been a surrender.
+
+It had been an investment.
 
 ---
 
-Outside the gate, the SPECIAL ARRANGEMENT notice had been taken down. In its place, in the posting-master's unemotional hand, the paper said what the whole grade stopped to read on the way to supper:
+That night, on the roof, the harbor did its accounting, and two brothers sat with their backs against the same warm chimney they had owned since the dormitories were assigned, and did what they had done every night since they were six: talked about nothing that mattered until it turned into everything that did.
 
-**THE FIRST GRADE'S CLASS ZERO — SIX STUDENTS, ONE TEACHER — EXISTS AS OF TODAY.**
+"Six years," Wulin said. "Through the advanced division. We're stuck in this city for six years, Hao."
 
-Xie Xie read it aloud twice for the drama. Wulin read it once, quietly, the way he read anything that changed the size of the world, and his right hand closed and opened at his side — the furnace door, practicing, always practicing now — and beside him Lin Hao stood in the evening wind with the whole day folded away: a signature signed with open eyes, a foot that lied for two laps, a doorway with the word ZERO on it, and a platform coming, a place built to feed soul spirits their missing years.
+"Six years of the first window," Lin Hao said. "Do you know what they put in the first window's soup? Mu Chen told me. It's criminal. There's a *bone* in it that's been simmering since before we were born. I'm going to eat an animal that was old when the academy was young." He nudged his brother's shoulder with his own. "And you're paying, because you're the one who got us famous."
 
-The wind arrived before he called it. It always did now. It moved his hair — which had, at the temple, in the last month, without any announcement, two strands the color of storm-light where the brown used to be — and out over the water of him the hawk stood on the high wind with its wings half-spread, watching the weather come, and between them the question lay as it had lain all season, patient as a folded thing: *can you see, without me?*
+"I didn't get us famous, *you* got us famous, they read your name *first*—"
 
-He still could not answer it. But this morning he had caught a settling hand nine times out of ten with his back turned, and this afternoon a liar with lovely manners had won a footrace on his silence, and he had known the shape of every lie in it, and chosen, each time, like a smith chooses which seam to work and which to leave for the metal's own good.
+"They read my name first because the board can read," Lin Hao said. "You got the cheek-pinched. That's the famous one. That's the one with the *story.*" He was grinning, because he could feel Wulin trying not to, and making his brother laugh was the oldest game he had. "Six years, Wulin. Six years of senior sisters noticing you in the morning light. Think of the *titles.*"
 
-The answer was coming. It would not be a word.
+"*Stop.*"
 
-On the exercise ground, alone in the last light with his legs propped on a bench because the frames allowed no more and his pride no less, Zhang Yangzi sat watching the door of the room with no number with the expression of a boy who intended, very soon, to fight all six of them — and behind him, unnoticed by everyone, unwatched by everyone except the one teacher who had never once stopped watching, Wang Jinxi stood in the corridor with his healed hand flat against the new plate, as if a door could be a pulse, and listened to what the bone said.
+"'Ouyang Zixin Pinches Tang Wulin's Cheek: A Saga.' It's going to have *chapters,* Wulin. By fourth year it's going to have a *theme song.*"
 
-The bone said *follow.*
+Wulin shoved him. Lin Hao shoved back. It was not a fight; it had never been a fight; it was the thing two brothers do on a warm chimney when the words have gone somewhere too big and they need to come back down to something the size of a shoulder. And then Wulin's shoulder stopped moving, and the quiet came, and Lin Hao let it, because he could feel the shape of what was coming and had learned, years ago, that the teasing was the door and the quiet was the room, and you could not get to the room any other way.
+
+"The notice-paper," Wulin said, quieter now. "Six years in one city. If she's taken *south*—"
+
+"Then the paper goes south," Lin Hao said. "The fund's funded. The fish-wife oils ours. And you've got a contract that says they'll invest in you — which means in six weeks you'll be famous enough that the paper won't have to ask people to look. It'll just have to ask people to *remember.*" He looked at his brother — at the jaw doing the thing it did when it held an ocean behind it — and said the only thing that had ever worked, in the voice he kept for the one thing he never once teased: "We don't stop looking. That's not what the contract says. That's what *we* say. And I'm the one who reads the water, Wulin. You know I am. So stop carrying it like it's yours alone, because it stopped being yours alone the day I walked into that class behind you."
+
+Wulin's jaw unclenched. And then — because he was Wulin, and because the quiet never lasted longer than Wulin could stand it — he said, "If a senior sister pinches *my* cheek one more time I'm going to have to move cities."
+
+"You'd move cities for me," Lin Hao said, "and you'd complain the whole way, and you'd make me carry the forge."
+
+"I'd make you carry the *forge,*" Wulin agreed, "and the anvil, and the *bellows,* and I'd walk in front."
+
+"You'd get lost," Lin Hao said. "You'd get lost in six years of one city and I'd have to come find you, and I'd never hear the end of it." And they sat there, shoulders touching, two brothers on a warm chimney, and the harbor did its accounting, and the dark water kept what it kept, and neither of them said the rest, because they never had to.
+
+And under it all, on the far water, the hawk watched the boy who had signed his name to six years of a city — watched, and was still, and gave no answer, and needed to give none: the question between them had gone quiet in a new way lately, the way a held note goes quiet when the hand on the string has stopped trembling. It was not an answer. It was not the end. It was simply that, for tonight, the bird and the boy were both looking at the same harbor, and the dark water kept what it kept, and somewhere under the sleep that took them both, a chair sat pulled up to a door — and the door, for the first time, was on the *inside.*
+
+Third morning, the room with no number would have its first combat. A teacher who had laughed once would find out what seven children made of his schedule — and the sky beyond the east window would go on being the largest well in the world, and class zero would go on being the smallest class in it, and the two facts would not stop being true for a very long time.
+
+
+Rank twenty-eight came on the fourth day of class zero, and Lin Hao noticed it the way he noticed a change in the wind — by what it let him do that he could not do yesterday. Wu Zhangkong's stick arrived a half-beat later than it had. He was not faster. He was *earlier.*
+
+Eight hundred and twenty-five years, and the hawk sat in him facing a window it had been facing for four months, patient as weather.
 
 ---
 
 ## End of Chapter 19
 
 ### Chapter Summary:
-- **Part 1 — The First Morning:** the vow's first dawn (the reach-drill: Wulin raises the furnace-door hand, Lin Hao crosses Wind-Step to touch it — one breath late, then closing, nine of ten by the end); **Ouyang Zixin (CANON ch 108): the fifth-grade campus flower on the track — teases Wulin, pinches his cheek, bets ten laps for her name, fakes the ankle, wins ("little fool, you were tricked!") — Lin Hao's eyes read her lying left foot for two laps and he says nothing: "the decoy fold was the same lesson at a worse price... the world lies, brother; learn the tell from the ones that don't cost anything"**; the assembly notice posted
-- **Part 2 — The Arithmetic of the Grade (CANON ch 108-109 beats held close):** Long Hengxu + President Yu Zhen preside; no further promotion matches; **former class five officially renumbered the first grade's CLASS ONE** ("the remaining classes shift accordingly"); **A-grade meal reward for the whole class** (Xie Xie's loudest cheer); **CLASS ZERO announced as pilot class, Wu Zhangkong homeroom, SEVEN named (AU: the entitled fourth — "arithmetic is a discipline with a long memory"; canon = six)**; Wang Jinxi's gaze crossing the ground to land only on Wulin ("not hate, not wonder, not surrender — a word with no definition yet"); **the censure: all match participants stripped of every reward — the fighters lose the A-meal** (Xie Xie's robbery; Yun Xiao/Zhou Zhangxi comedy)
-- **Part 3 — The Agreement (CANON ch 109 beat-exact):** Zhang Yangzi carried in on a bench (legs in frames — canon: absent from the assembly, "the classroom has a leg-broken one," here given presence); **Yu Zhen's scolding** ("This Federation is not short of geniuses. It is short of *grown* ones... Talent becomes greatness by work that outstrips ordinary people"); **the no-transfer agreement**: Wulin signs instantly (the poor boy's arithmetic + the unspoken search-for-her chamber); **Gu Yue signs right behind him, no reading, no hesitation — face a still pond**; Xie Xie's family-consult rebuffed ("Class zero will go on without you. I'm busy"), signs left-handed; Wang Jinxi signs "as if written by the bone-deep thing"; **LIN HAO READS EVERY LINE — finds the real teeth (the sub-clause defining transfer broadly enough to bind family arrangement) and signs with his eyes open = THE HOMEWORK IN ANOTHER SHAPE (certainty = committing without a hedge, whole cost read first)**; **WEI XIAOFENG'S CANON REFUSAL** ("my family may intend a better academy for the senior section" — "Everyone has their own path... Class zero is now six" — canon drops to five; the AU's four-plus-two = six); his one look back at the six, walking very straight; **Yu Zhen's face-melt scold-to-beam** ("he will regret it green") + the boast: "even that legendary academy of the inner continent could hardly do better by you" (canon names Shrek; our adaptation keeps it unnamed per standing lock — Wu Zhangkong's one-millimeter mouth-corner twitch, the man who was expelled from it)
-- **Part 4 — The Room With No Number:** Wu Zhangkong leads them DOWN — back to the old class-five room, the smallest, the worst, the innermost — **door plate: FIRST GRADE — CLASS ZERO** ("A zero stands before them... You are what the first grade is before it is anything"); seats retaken (Wulin's old seat; Gu Yue's desk behind him; Wang Jinxi sitting in "the enemy's shrine" with the weight of the decided word); **TERMS: curriculum his to write; once a week, one day, the Spirit Ascension Tower — THE PLATFORM (canon ch 120-121 rules seeded: elementary platform = four rings or fewer; "you qualify six times over"; signaler on the wrist; danger real enough to teach, not to kill; details next week)** — the name landing differently on each (Xie Xie's money-arithmetic "500,000 a head, a thousand slots a month"; Wulin's hand drifting to the wrist where Goldsong rides — *years can be added*; Zhang Yangzi's lawful grudge-venue; Wang Jinxi's word louder); **the vow acknowledged, not ordered** ("Some of you have already begun... it is now class zero's first curriculum. Not because I ordered it. Because I have learned to read which lessons the monsters give themselves"); "Go be children for one afternoon; you will not get many"
-- **Coda:** the gate notice replaced (**"THE FIRST GRADE'S CLASS ZERO — SIX STUDENTS, ONE TEACHER — EXISTS AS OF TODAY"**); Wulin's practicing furnace-door hand; Lin Hao in the evening wind — the day folded (open-eyed signature; the lying foot; the ZERO doorway; the platform coming); **the wind before the call; TWO STORM-LIGHT STRANDS at the temple (the crossing's headline change, seeded at 1-2 strands)**; the hawk standing on the high wind watching weather come; **the question OPEN — "the answer was coming. It would not be a word"**; the coda pair: Zhang Yangzi planning to fight all six; **Wang Jinxi's healed hand flat on the zero-plate "as if a door could be a pulse" — the bone says *follow*** (canon 118 "Wang Jinxi's Confusion" seeded)
+- **Part 1 — The Senior Sister on the Morning Road (canon ch 108 + AU butterfly):** Wulin collides with **Ouyang Zixin** (canon beats kept: radiance, hair-ruffle, cheek-pinch, "Ah! You're very good looking", she gives her name) — **BUT the natural butterfly is honored: Ouyang Zixin ALSO notices Lin Hao** (a pretty senior with a runner's eyes doesn't stop at one boy when the most striking one — the swordsman the whole grade trades stories about — is standing right there): her gaze slides to him and *stays* ("Oh. And *you're* the swordsman… The stories undersell the eyes"). **LIN HAO IS PLAYFUL, NOT A SILENT WATCHER (root fix): he teases Wulin mercilessly and warmly** ("She pinched you… 'Ouyang Zixin Pinches Tang Wulin's Cheek.' It writes itself. It's got a beginning, a middle, and your ears"), slings an arm around his brother (the right side, his since six), and the teasing carries the affection ("her heart's not the problem. *Yours* is… Big furnace. Holds a lot of fire. It's not a flaw, it's just *generous*") and the Na'er-warmth underneath ("don't tell me Na'er's going to come back and find you've got a senior sister pinned to your ear"); Xie Xie's teasing redirected ("She *noticed* the swordsman, Wulin. You got a pinch; he got a *review*"); the teasing knows when to stop (the arm tightens once at Na'er's name, and neither says the rest)
+- **Part 2 — The Assembly (canon ch 109 core preserved):** Long Hengxu's announcements — **the first-window reward for the new class one (one meal/day, one term — the worst class's vindication; Zhou Zhangxi's stopped song, Mu Xi's disbelieving arithmetic)**; **CLASS ZERO ESTABLISHED — Wu Zhangkong teacher-in-charge. ⚠️ ROSTER FIX (root, refined per user): Long Hengxu reads "LIN HAO. Tang Wulin. Xie Xie. Gu Yue." — LIN HAO'S NAME IS FIRST IN THE LIST** (not "and Lin Hao" tacked on the end) — the POSITION itself shows he is integrated, a real part, not something "added"; NO over-the-top field reaction (the user clarified: position, not a special reaction — the field registers it "without any of them being able to say why it mattered. Only that it did"). Xie Xie's playful grief ("They put you *first*… before *Wulin*… I'm *fourth,* actually. This is a disaster" — grinning); Wang Jinxi's gaze slides to the name read first ("like a hand on a doorframe"); **Lin Hao's playful two-finger salute to the dragon across the field**; Ye Yingluo's gloom (canon); the punishment (canon: rewards stripped — "comrades first… written into the record. Kept."); **President YU ZHEN introduced** (canon ch 109, primary-text verified); Long Hengxu = class one's substitute teacher (canon)
+- **Part 3 — Frogs and Contracts (canon ch 109 preserved):** Yu Zhen's scolding near-verbatim ("Among you six, two have broken arms, and there's still one with broken legs resting in the dormitory!" — AU-adjusted for six present; "viewing the sky from the bottom of a well… the world has never lacked geniuses, nor has it lacked geniuses that die young"); **Lin Hao's half-beat-early "Understood" (a president's footnote: the boy did not find the sentence new — the well imagery lands on the boy who grew up beside the sea)**; **THE CONTRACT (canon): no changing schools through intermediate AND advanced graduation — the academy's guarantee for unprecedented resources**; Lin Hao reads it like a commission ("resources for loyalty, training for years… honorable"), notes it is the first contract of his life addressed to him by name, and remembers the unwritten one he signed at six (choosing the worst class for his brother); **he signs first, then guides Xie Xie's bandaged fists through the signature (the hammer-learning-a-strike image; brotherhood shown, not stated; "Federation charter. Put that on a wall")**; Gu Yue's four-second read of the arithmetic under the contract; Long Hengxu: "Don't make me regret the paperwork."
+- **Part 4 — The Room With No Number:** the class-zero classroom (no number on the door — "the whole of its first lesson"); Wu Zhangkong's schedule (mornings: spiritual power foundation; afternoons: compressed class work; evenings: "Not sparring. Combat. There is a difference, and by the end of the term you will tell me what it is"); **Gu Yue asks about the resources first; Wu Zhangkong's answer ("They are not yours yet… There is a place in this city where talent is measured" — the Spirit Ascension Platform seeded, unnamed, gated: "when you are ready, and not one day before")**; the only rule: "There is no class one, no class two, no class five… Be the reason class zero has never lost a student"; **Wei Xiaofeng's "seven is an unlucky number" / Xie Xie's "nothing bad has EVER happened to us" / WU ZHANGKONG LAUGHS — once, a third of a second ("the teacher laughed. Once. The room is real.")**; **Wang Jinxi's investment beat: "Your swordsman found the seam of my soul. No one had ever found the seam of my soul" → he moves to the four's side of the floor — not a surrender, an investment; Wei Xiaofeng "made a sound like a kettle"; the two formations stop being two**
+- **Roof coda (root fix — PLAYFUL brotherhood, not solemn ceremony):** the brothers tease first (Lin Hao: "Six years of senior sisters noticing you… 'Ouyang Zixin Pinches Tang Wulin's Cheek: A Saga.' By fourth year it's going to have a *theme song*"; the shoulder-shoving that is "the thing two brothers do when the words have gone somewhere too big and they need to come back down to something the size of a shoulder"), and the teasing is the door to the quiet room: Wulin's Na'er-fear ("If she's taken *south*—") → Lin Hao's answer, in the one voice he never teases ("We don't stop looking… I'm the one who reads the water, Wulin… it stopped being yours alone the day I walked into that class behind you") → and then straight back to teasing ("If a senior sister pinches my cheek one more time I'm going to have to move cities" / "You'd get lost in six years of one city and I'd have to come find you"). The hawk beat — the question "gone quiet in a new way… the door, for the first time, was on the inside" — still NOT resolved; closing horizon: first combat in three days
+- **Ranks at chapter end:** Lin Hao 28 · Wulin 15 · Xie Xie 21 (both forearms mending — healer's wood; stable, mobile, uncontainable) · Gu Yue sealed · Wang Jinxi ~23 (arm in healer's care; canon: ten days to heal) · Zhang Yangzi (legs, resting) · Wei Xiaofeng unhurt, unrepentant — no breakthroughs, no seal breaks, Union folded, crossing gated, question OPEN (texture: quiet, inside)
 
 ### Canon Preserved / Not Triggered:
-- ✅ Canon ch 108: Ouyang Zixin's character (fifth grade class one, campus flower, 4 years older, the pinch, the trick-race, the name-as-prize); Xie Xie's arms "set and knit, days to full" (canon ~10 days) — our slings honor both; assembly called same morning; Long Hengxu + the President preside
-- ✅ Canon ch 109: no further promotion matches + renumbering (old five → class one); A-grade meal reward; pilot class zero, Wu Zhangkong homeroom, roster from class one + class two; the censure stripping participants of rewards; Yu Zhen's genius-scolding speech; the no-transfer agreement + Xie Xie's rebuff; Wulin's instant signature; Gu Yue right behind; **Wei Xiaofeng's refusal and exit (canon-exact, the founding's one door out — class zero drops a number)**; Yu Zhen's face-melt + "regret it green" boast; Wu Zhangkong's mouth-twitch at the legendary-academy claim (canon: he IS from it)
-- ✅ Canon ch 120-121 seeded: weekly Tower day academy-funded; elementary platform = four rings or fewer; rescue signaler; 18 towers ("the whole coast's slots"); 500,000/entry economics; soul-souls can gain years, "the higher the tier the smaller the chance" (protects the hawk's locked crossing)
-- ✅ AU divergences documented: seven named, not six (the ch-11 entitled-fourth ruling propagates — Long Hengxu's own arithmetic); six remain after Wei Xiaofeng's exit (canon five: 3+2; ours 4+2); Zhang Yangzi present on a bench (canon: absent/in classroom); the vow read by Wu Zhangkong and made curriculum-adjacent (kept unnamed, private); the President's "legendary academy" kept unnamed (canon names Shrek; standing lock honored)
-- ✅ NOT triggered: 2nd seal break · Hawk-Soul Union (stays folded; Wind-Step only, drill-scale) · the 1,000-yr crossing (platform's canon rule "higher tier = smaller chance" holds the gate; hawk feeds itself — a becoming, not a product) · the hawk-question's verbal resolution · Shrek named · golden-scales/dragon mystery solved (one L4-held beat: WZK's twitch) · Gu Yue eruption #2 (her pond stays still) · Wang Jinxi's transfer era (canon ch 153 — only the *follow* pulse) · Na'er's return (Wulin's search chamber touched, unnamed) · fusion-door (Xie Xie beat: slings + treasurer grief only; the doorway itself rests)
+- ✅ Canon ch 108: Ouyang Zixin's encounter beat-exact (radiance, ruffle, pinch, name, Xie Xie's teasing, Wulin's denial) — the canon "Senior Sister Liu Yuxin" comparison omitted (Liu Yuxin not introduced in our AU — clean omission, no contradiction)
+- ✅ Canon ch 109: the assembly structure and all announcements (first window, class zero, roster + exceptional-ability clause, punishment, Yu Zhen's speech, the private scolding near-verbatim, the contract's exact terms, Long Hengxu's substitute role); Ye Yingluo's gloom; Wei Xiaofeng's enmity; Wang Jinxi's complicated gaze
+- ✅ AU divergence documented: Lin Hao named in the founding roster (canon's own "best students" + exceptional-ability logic; six present at the scolding → "among you six"; the contract is seven-signed over the coming days incl. Zhang Yangzi)
+- ✅ NOT triggered: Spirit Ascension Platform sessions (seeded unnamed only — canon ch 120+ era), battle armor concept (canon ch 110 — NEXT CHAPTER), 2nd seal, Union, 1,000-yr crossing, the question's resolution (new texture only), Shrek named, Na'er found, Wang Jinxi's friendship arc consummated (investment ≠ friendship yet), Ye Yingluo's price (patient)
 
 ### Butterfly Effects Shown (organic):
-1. **The entitled fourth compounds** — the Director's own ch-11 ruling ("the entitlement was to file a fourth") propagates into the founding: the academy's arithmetic now officially carries a seventh name, and class zero's founding number (six) is the AU's signature (canon's five)
-2. **The vow becomes the room's first curriculum** — the AU's private discipline, witnessed by the one teacher who watches everything, becomes class zero's unnamed foundation stone (in canon the founding has no such root; here the rematch's cost is the seed the academy waters)
-3. **Wei Xiaofeng's exit carries the AU's weight** — his refusal is canon-shaped (family, senior-section ambitions) but his one long look back is at six children bound by a broken-armed week the AU made personal; the door out of class zero opens onto a heavier room in our story than in canon
+1. **The worst class eats at the first window** — the whole old class five (22 students) rewarded; the grade's social map redrawn by a tournament the academy never expected them to enter
+2. **Wang Jinxi moves first** — the canon grudge-seed of ch 18 is complicated on schedule by canon's own "values friendship" character: the seam-finding becomes the bridge; class zero starts as seven, not two camps
+3. **Wu Zhangkong laughs** — the teacher's ice cracked a third of a second in front of his class; the room with no number is real
 
-### Character States (End of Chapter 19):
-- **Lin Hao:** rank 24 · the reach-drill at nine-of-ten (one breath late → closing, not closed) · certainty homework applied to paper (open-eyed signature) · two storm-light strands at the temple (seeded, deniable) · the hawk standing on the wind, watching weather; the question OPEN, the answer approaching "not a word"
-- **Tang Wulin:** rank 15 · furnace-door practicing always · the agreement signed in one hammer-blow (the search's chamber under it, unnamed) · the platform's promise landing on the wrist where Goldsong rides (hope: *years can be added*) · the senpai lesson laughed off and banked
-- **Xie Xie:** rank 21, two rings · arms set and knitting (canon pace), slings on · robbed of the A-meal by censure (treasurer's grief at full volume) · left-handed signature · the grade's comedy engine intact
-- **Gu Yue:** sealed · the still-pond instant signature (the single beat; no fish visible) · element ladder unchanged (no new element shown)
-- **Wang Jinxi:** arm healed to the plate-touching stage (canon recovery pace) · signed "as if by the bone-deep thing" · hand flat on the zero-plate, the word *follow* unparsed (canon ch 118 seeded)
-- **Zhang Yangzi:** legs in frames, present on a bench · the platform heard as a lawful grudge-venue · intends to fight all six
-- **Wei Xiaofeng:** GONE to class two — canon's founding refusal honored; "he will regret it green" (canon ch 121's regret seeded)
-- **Wu Zhangkong:** class zero homeroom teacher · the worst room reclaimed with a zero · the vow read without being named · the legendary-academy twitch (L4 held) · "Go be children for one afternoon"
-- **Ye Yingluo:** class two's homeroom teacher now (canon), the grudge unpaid with nowhere yet to spend it
-- **Yu Zhen (NEW, canon ch 109, primary-text verified):** Academy President · scold-then-beam face-melt · the no-transfer agreement's author · "not short of geniuses — short of *grown* ones"
-- **Long Hengxu:** the renumbering, the reward, the censure, the ruling with the long memory; temp holder of class one's homeroom (canon) until a replacement is chosen
-- **Ouyang Zixin (NEW, canon ch 108, primary-text verified):** fifth grade class one, the intermediate department's first campus flower · the lying left foot · "every boy has a senpai he won't forget" — introduced, unresolved, canon-light
+### Character States:
+- **Lin Hao:** rank 28 · first contract of his life signed (and the memory of the unwritten one from age six) · the seam acknowledged by the dragon himself · the question quiet "on the inside" · first combat in three days
+- **Wu Zhangkong:** class zero's teacher · laughed once · "They are not yours yet"
+- **Yu Zhen:** president · bought six (seven) children at a good price and knows it · one footnote in one unread report
+- **Ye Yingluo:** class two · gloomier · patient · the price unpaid
+- **Long Hengxu:** director · reads the roster; the contract that binds them through intermediate AND advanced graduation
+- **Ouyang Zixin:** senior · a runner's eyes · **notices Lin Hao** (butterfly-integration law honoured)
+- **Na'er:** GONE — taken in the night after her memories returned; the fund Wulin keeps; reappears ~canon ch 400
 
-### Ranks at chapter end: Lin Hao 24 · Wulin 15 · Xie Xie 21 (two rings; arms knitting) · Gu Yue sealed · Wang Jinxi ~23 (arm healed to function) · Zhang Yangzi ~22 (legs in frames) — no seal breaks, no new rings, Union folded, crossing gated (platform's own rule holds it), the question OPEN
+### Ensemble — canon-verified state
+
+_Single source of truth: `CHARACTER_STATS.md` §1 (canon citations) and §3 (schedule)._
+_Every number below traces to a canon line or is labelled AU._
+
+- **Tang Wulin:** rank **15** (canon c133) · one white ten-year ring
+- **Xie Xie:** rank **20** (canon c101) · **TWO rings**
+- **Gu Yue:** rank **18** (AU, between canon 17 and peak 19) · one ring · spiritual power **153** at nine (canon c114)
+- **Xu Xiaoyan:** not yet introduced
+- **Zhang Yangzi:** rank **23** · spiritual power **41** (canon c113) · climbing out of Spirit Origin (canon c113 predicted within a year)
+- **Wang Jinxi:** rank **22** (canon c134) · spiritual power **18**, lowest in class zero (canon c113)
+- **Wei Xiaofeng:** rank **23** (canon c101)
+
+Canon position anchors for this point in the story: everyone in class zero is **10 years old** through the tournament arc (canon c221: *"They're so young though, only ten years old!"*); the Shrek working-student dorm holds **four** — Tang Wulin, Xie Xie, Gu Yue, Xu Xiaoyan (canon c288; + Lin Hao, AU = five invitees). Departure order: **Wei Xiaofeng left class zero first** (canon), then **Wang Jinxi transferred to another academy** (canon ch 153, staged in our ch43). **AU divergence:** in canon Zhang Yangzi transfers out with him; in this story Zhang Yangzi embraces Wang Jinxi on the steps and **stays at Eastsea Academy**, out of class zero.
+
+🔴 **REALM GAP LAW (v2.90):** every ten ranks is a wall, not a step. Lin Hao is a **Soul Elder with three purple rings**; everyone else here is rank 17–23 with two. None of them can defeat him — they can outlast him, survive him, cost him. Gu Yue does exactly that, because she is the one he cannot read.
+

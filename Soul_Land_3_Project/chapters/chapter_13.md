@@ -1,6 +1,6 @@
 # Chapter 13: Flying Soul Masters
 
-## Canon Reference: Novel Chapters 81-82 ("Flying Soul Masters" / "Teamwork!") — the Gu brothers' aerial match preserved: triplets, flight souls, speed-boost first skill, Ye Yingrong's training and assessment, Xie Xie's thrown aerial run on Gu Yue's ice, the three outs (Tianri tapped, Tianyue daggered down, Tianming pulled from the air by Bluesilver Grass), Long Hengxu's shocked call, Wu Zhangkong's "That is not my goal," Ye Yingrong's soul communicator call to her sister (class one's teacher, the two-year grudge — canon ch 83)
+## Canon Reference: canon ch 81–82 ("Flying Soul Masters" / "Teamwork!") — the Gu brothers' aerial match preserved: triplets, flight souls, speed-boost first skill, Ye Yingrong's training and assessment, Xie Xie's thrown aerial run on Gu Yue's ice, the three outs (Tianri tapped, Tianyue daggered down, Tianming pulled from the air by Bluesilver Grass), Long Hengxu's shocked call, Wu Zhangkong's "That is not my goal," Ye Yingrong's soul communicator call to her sister (class one's teacher, the two-year grudge — canon ch 83)
 ## Timeline: Age 10, tournament day 4 — class five vs class two
 
 ---
@@ -45,7 +45,10 @@ But Lin Hao had already drawn.
 
 ---
 
-## Part 2: The Sword Makes a Road
+## Part 2
+
+He came down out of the sky with his hair standing out behind him, storm-light at the tips, and the whole lane looked up, and afterwards nobody could agree on what they had seen except that the hair had not been that colour before the tournament.
+: The Sword Makes a Road
 
 The Stormbringer came out of the air the way it always did, and the stands — which had learned to count, which had learned the ten seconds and the twenty-one — went quiet in the particular way that meant they were about to have to learn something else.
 
@@ -91,13 +94,13 @@ Three bundles of blue light bloomed in the air. Xie Xie connected the three poin
 
 And Gu Tianming — wing still wobbling where the sword had taken his sky, formation long gone, months of drilled unison scattered — did the only thing left that was his: folded what lift he had and threw himself at the descending girl, because a flyer who comes down empty-handed has to answer for it, and she was right there, slow in her green light, and someone had to be defeated—
 
-The sword was already there. It had been there since the pitch. One more cut, laid not under the wing this time but *along* the dive — the wind-edge turning the air into a chute, a slope, a suggestion the diving boy could not refuse — and the desperate charge arrived at Tang Wulin's waiting grass two meters off its line and half its speed, and the Bluesilver Grass took Gu Tianming around the waist the way a river takes a stone, and pulled, and the flyer came down out of his own element and onto the platform in a heap, and Wulin's other arm was already around Gu Yue, setting her on her feet.
+The sword was already there. It had been there since the pitch. One more cut, laid not under the wing this time but *along* the dive — the wind-edge turning the air into a chute, a slope, a suggestion the diving boy could not refuse — The desperate charge arrived at Tang Wulin's waiting grass two meters off its line and half its speed. The Bluesilver Grass took Gu Tianming around the waist the way a river takes a stone, and pulled, and the flyer came down out of his own element and onto the platform in a heap, and Wulin's other arm was already around Gu Yue, setting her on her feet.
 
 "First grade's class five wins."
 
 Long Hengxu's voice had a note in it. The stands, given a moment to find their feet, used them.
 
-The four of them stood on the platform in the noise — the forge, the light, the flood learning to be a cup, and the fourth boy coming down his dissolving stair one cut at a time, sword last to sleep — and the counting that had become the grade's religion ran one more time and came out wrong in the way it always did now, because you could count the rings (four; two on one boy), you could count the seconds, but there was no arithmetic yet built for a swordsman who had *walked up* into a flying match and taken the sky away from people who were born in it.
+The four of them stood on the platform in the noise — the forge, the light, the flood learning to be a cup, and the fourth boy coming down his dissolving stair one cut at a time, sword last to sleep. The counting that had become the grade's religion ran one more time and came out wrong in the way it always did now. You could count the rings (four; two on one boy). You could count the seconds. But there was no arithmetic yet built for a swordsman who had *walked up* into a flying match and taken the sky away from people who were born in it.
 
 "What do you mean, *flying soul masters?*" a second-year was already shouting, delighted, in the row behind class five's own twenty-two. "You saw him! He didn't fly! He *walked!*"
 
@@ -114,6 +117,14 @@ The dagger-boy couldn't fly. The dagger-boy had never touched the ground after t
 "Congratulations, Teacher Wu." She had crossed to him without noticing the decision. Her voice came out level; she was proud of it. "You will be in class two now."
 
 "That is not my goal," Wu Zhangkong said mildly, and inclined his head a fraction — the smallest bow that could still be called one — and turned to follow his students off the platform, and gave them no words at all.
+
+And Ye Yingrong went back up the teachers' wall and wrote her assessment, and the assessment was wrong, and she would not find out for two years, and the reason she was wrong is the whole of the butterfly.
+
+She had scored the match. Three flyers, speed souls, Ye Yingrong's own training behind them, and class five had taken them apart in the air, which was not supposed to be possible, and she had scored it correctly: **the dagger-boy is fast, the grass-boy owns ground, the girl owns weather, and the boy with the sword is the one who decided where the other three would be.**
+
+That is a complete assessment. It is also the assessment of a class that does not contain him — because what she had actually watched was not four students coordinating. It was **one student reading three flyers faster than three flyers could fly,** and the other three arriving at the places he had already put them. She had scored the arrival and missed the reading, because the reading does not look like anything from the wall.
+
+**In a class without him, that match is a loss and Ye Yingrong's assessment is correct.** In a class with him in it, the match is a win and her assessment is a description of the furniture.
 
 "Is Teacher Wu pleased with us or not?" Xie Xie demanded of the world at large, suspiciously, as the four of them came down the steps.
 
@@ -185,8 +196,12 @@ Lin Hao lay back on the narrow bed and looked at nothing in particular, and some
 
 Not an answer. Not yet.
 
-But the top of the ladder was a dragon, and tomorrow the grade would attend class one the way you attend weather, and somewhere across the city a cold voice two years patient had decided to return a favor — and the fourth boy of class five closed his eyes with the sword's road still singing in his arms, and slept the way he had started sleeping lately: like a room where someone had pulled up a chair, and was, tonight, watching him sleep with something that a kinder vocabulary than his might have called *pride.*
+But the top of the ladder was a dragon. Tomorrow the grade would attend class one the way you attend weather. And somewhere across the city a cold voice, two years patient, had decided to return a favor.
 
+The fourth boy of class five closed his eyes with the sword's road still singing in his arms, and slept the way he had started sleeping lately: like a room where someone had pulled up a chair, and was, tonight, watching him sleep with something that a kinder vocabulary than his might have called *pride.*
+
+
+Rank twenty-five arrived that night, in the deep quiet after the third match, the way forged things arrive — not with a sound, with a settling. Three tournament matches in four days, a bear's momentum turned through his arms, a flyer pulled out of his own sky: the soul had taken all of it and made a rank out of it.
 ---
 
 ## End of Chapter 13
@@ -196,7 +211,7 @@ But the top of the ladder was a dragon, and tomorrow the grade would attend clas
 - **Part 2 — The Sword Makes a Road (LIN HAO'S SHOWING — swordsman-first, Calibration + Swordsman Law compliant):** **the sword cuts shelves into the air and he CLIMBS** ("the road was not under his feet — the road was in his hand"); cost counted with his breath (each shelf a slice of soul power; sweat at the sixth step — the hawk gives NOTHING, sits silent, watches: the sky-work is *his*); **STRAIN:** Gu Tianming's speed-dive kick breaks his shelf, two-meter fall, arms numb — recovery = sword-seam + Wind-Step ("the fall became a step"); **the sword answer: he cuts the LIFT under Tianming's wing — "He didn't cut the flyers. He cut the flyers' sky"** (formation broken); then canon choreography preserved exactly: Wulin's throw, Gu Yue's three blue stones, Xie Xie's aerial run (Tianri tapped — Long Hengxu's throat-note kept; three blue lights, three flips, Tianyue daggered down), Tianming's desperate dive at descending Gu Yue **herded by Lin Hao's chute-cut** into **Wulin's grass-pull (canon outs preserved: Xie Xie ×2, Wulin ×1)**; Long Hengxu's shocked "First grade's class five wins"; stands' gospel evolves: "He didn't fly! He *walked!*"; Gu Yue's held breath when the first shelf held (canon-minimal micro-beat, unobserved)
 - **Part 3 — What Ye Yingrong Saw (canon ch 82-83 beats):** her teacher's dissection ("they hadn't executed a plan — they had *improvised* one"); the promotion line adapted: "You will be in class two now" — **"That is not my goal" (canon verbatim)**; her Gu Yue note (adapted: "the girl carried water" → twin-souls wonder implied); her cataloguing of Lin Hao's face as "a problem for someone's concentration in about four years" (attractiveness shown through reaction, natural); **THE SOUL COMMUNICATOR CALL (canon ch 83 dialogue preserved):** "Big sister, we lost… your class one might run into worthy opponents… the students of that Icily Arrogant Prince Charming aren't easy to handle" — **the sister = class one's teacher (NAME UNVERIFIED — kept unnamed on-page), the two-year grudge: "I've been waiting a long time for this day… he humiliated me — but this time I'll return the favor"; "He wasn't in the wrong when he rejected you"** — the class-one match is now a grudge match (reader knows; characters don't)
 - **Part 4 — The Chair:** first-window celebration (Gu Yue's "one meal" law, Xie Xie's bet, the auntie's unadmitted extra ladle); Xie Xie's trial-by-chopsticks ("Walked. Up. Into a *flying match*"); Wulin's class-one slate (*the dragon goes spectral a quarter at a time… do not let them touch*); **THE HAWK BEAT — the texture-change:** he spent the morning in the hawk's element and climbed it WITHOUT the hawk; the silence watched "the way a hawk watches from a high branch while something young and promising learns the wind on its own wings"; the chair did not move, the question was not asked again — and did not need to be ("Two days ago the answer would have been an argument. Today it was a morning's worth of footprints, dissolving behind him down the sky"); "the silence felt less like a held breath than like a nod" — NOT an answer, NOT resolved; he sleeps "like a room where someone had pulled up a chair… watching him sleep with something a kinder vocabulary might have called *pride*"
-- **Ranks at chapter end:** Lin Hao 24 · **Wulin 15 (NEW — rank 15 breakthrough shown on-page in Part 4:** the settling heard through the wall — three matches in four days + the dragon-hum + nine weeks of monster sparring summed through; "You reached it in half the time the grade thinks is possible"; 2nd seal pressed and was told *not yet*. **Canon comparison: canon Wulin = rank ~14 at tournament age (canon ch 193 anchor: approaching 17 at age 11, still one-ring) — AU is AHEAD of canon: 15, butterfly-justified** — still ONE ring, rank 11-20 = 1st-ring band, lawful**)** · Xie Xie 20 · Gu Yue sealed — no seal breaks, no new rings, Union folded, crossing gated, question OPEN
+- **Ranks at chapter end:** Lin Hao 25 · **Wulin 15 (NEW — rank 15 breakthrough shown on-page in Part 4:** the settling heard through the wall — three matches in four days + the dragon-hum + nine weeks of monster sparring summed through; "You reached it in half the time the grade thinks is possible"; 2nd seal pressed and was told *not yet*. **Canon comparison: canon Wulin = rank ~14 at tournament age (canon ch 193 anchor: approaching 17 at age 11, still one-ring) — AU is AHEAD of canon: 15, butterfly-justified** — still ONE ring, rank 11-20 = 1st-ring band, lawful**)** · Xie Xie 20 · Gu Yue sealed — no seal breaks, no new rings, Union folded, crossing gated, question OPEN
 
 ### Canon Preserved / Not Triggered:
 - ✅ Canon ch 81-82 choreography intact: triplets' flight + speed skill, Ye Yingrong's training/assessment/promotion-congratulation, Wulin's throw, Gu Yue's blue stones + icicle-cover + green-light descent, Xie Xie's taps (Tianri head-tap + Long Hengxu's killing-intent note; Tianyue dagger-down), Tianming's dive at Gu Yue + Wulin's grass-pull + catching Gu Yue, "First grade's class five wins" with the shocked note, Gu Yue's post-match risk-lecture ("we shouldn't have gone up first"), Wu Zhangkong's silent walk-off + "That is not my goal"
@@ -212,9 +227,26 @@ But the top of the ladder was a dragon, and tomorrow the grade would attend clas
 3. **The hawk's question deepens by being unnecessary:** he answered it for a whole morning in the hawk's own element, without the hawk — the silence's texture changed (watching → something like pride), still no words
 
 ### Character States:
-- **Lin Hao:** rank 24 · two yellow rings · hawk ~760 yrs (silent all match; texture-change at night) · soul power drained from sky-road (recovering; furnace appetite) · arms bruised-numb from the caught kick · Stormbringer's road-singing still in his arms at sleep · question OPEN, chair unmoved, the nod-that-is-not-an-answer
-- **Tang Wulin:** **rank 15 (breakthrough on-page this chapter — Part 4)** · 2nd-seal pressure steady, pressed once and told *not yet* (no golden scales — the Guang Long incident that draws them is held for ch 14) · class-one slate written · sincere apology mid-being-right
-- **Xie Xie:** rank 20 · Light Dragon Dagger's aerial canon-showcase delivered · "louder than his own evidence" intact · bet the meal and claims he won it
-- **Gu Yue:** sealed · ice revealed (third shown element: nothing → water → ice) · post-match ledger-lecture · the held breath at the first shelf (unobserved, unmentioned, deniable)
+- **Lin Hao:** rank 25 · two yellow rings · hawk seven hundred and seventy years old (silent all match; texture-change at night) · soul power drained from sky-road (recovering; furnace appetite) · arms bruised-numb from the caught kick · Stormbringer's road-singing still in his arms at sleep · question OPEN, chair unmoved, the nod-that-is-not-an-answer
 - **Wu Zhangkong:** "That is not my goal" · walked off silent (canon) · hands still out since ch 12
 - **Ye Yingrong:** NEW — class two's teacher, triplets' trainer, professional and fair; her grudge-holding sister (class one's teacher, unnamed) now forewarned and waiting two years
+- **Long Hengxu:** director · present at the match · the authority that makes the ladder legitimate
+- **Gu Tianming:** class two's flyer · wing wobbling where the sword took his sky · months of drilled unison scattered · throws himself at the descending girl and loses
+
+### Ensemble — canon-verified state
+
+_Single source of truth: `CHARACTER_STATS.md` §1 (canon citations) and §3 (schedule)._
+_Every number below traces to a canon line or is labelled AU._
+
+- **Tang Wulin:** rank **15** (canon c133 *peak of rank 15*) · one white ten-year ring
+- **Xie Xie:** rank **19** (canon c72) · one yellow hundred-year ring
+- **Gu Yue:** rank **17** (canon c72) · one ring · spiritual power **153** at nine (canon c114)
+- **Xu Xiaoyan:** not yet introduced
+- **Zhang Yangzi:** rank **22** · spiritual power **41** (canon c113)
+- **Wang Jinxi:** rank **22** (canon c134) · spiritual power **18**, lowest in class zero (canon c113)
+- **Wei Xiaofeng:** rank **22** (canon c101)
+
+Canon position anchors for this point in the story: everyone in class zero is **10 years old** through the tournament arc (canon c221: *"They're so young though, only ten years old!"*); the Shrek working-student dorm holds **four** — Tang Wulin, Xie Xie, Gu Yue, Xu Xiaoyan (canon c288; + Lin Hao, AU = five invitees). Departure order: **Wei Xiaofeng left class zero first** (canon), then **Wang Jinxi transferred to another academy** (canon ch 153, staged in our ch43). **AU divergence:** in canon Zhang Yangzi transfers out with him; in this story Zhang Yangzi embraces Wang Jinxi on the steps and **stays at Eastsea Academy**, out of class zero.
+
+🔴 **REALM GAP LAW (v2.90):** every ten ranks is a wall, not a step. Lin Hao is a **Soul Elder with three purple rings**; everyone else here is rank 17–23 with two. None of them can defeat him — they can outlast him, survive him, cost him. Gu Yue does exactly that, because she is the one he cannot read.
+

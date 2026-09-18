@@ -1,6 +1,6 @@
 # Chapter 7: The Harbor
 
-## Canon Reference: Novel Chapters 48-49 (Golden Scales / Unable to Find the Golden Scales — woven in), 42-44 (Mu Chen's teaching manner), ch 63 approach (transfer student — unnamed)
+## Canon Reference: canon ch 48–49 (Golden Scales / Unable to Find the Golden Scales — woven in), 42-44 (Mu Chen's teaching manner), ch 63 approach (transfer student — unnamed)
 ## Timeline: Age 10, weeks 3-5 at Eastsea Academy
 
 ---
@@ -75,6 +75,16 @@ They took the first soul train to Glorybound on Saturday morning, because the no
 
 Glorybound City received them the way it received everything: with salt wind and indifference. The harbor at noon was a forest of masts and a babel of gulls; the notice-boards by the ferry landing were layered three years deep with lost dogs, lost boats, and lost persons, and Wulin added one more, hammered flat with a care that made the harbormaster's boy watch, then help.
 
+And Wulin had a system. Wulin always had a system: ferry masters first, then the night-boat crews, then the women who sold dried fish at the third landing, because they stood still longest and saw the most. It was a good system. It was the best system a boy of ten with a budget and a picture could have.
+
+**Lin Hao did not use it.**
+
+Because Lin Hao did not ask anybody whether they had seen a girl. He asked them what they had *noticed,* and that is a different question and it gets a different answer, and by the second landing he had stopped asking about a girl at all and had started asking about **a woman who walked without looking where she was going** — because a person who takes a child does not look where they are going, they look behind them, and everybody at a harbor remembers the one person who walked the wrong way.
+
+Two boatmen remembered. One of them remembered a grey coat. The other remembered that the woman had paid in coin and not in notes, and had paid exactly, and had not waited for change.
+
+**That is the butterfly, and Wulin would not have got it.** Not because Wulin is stupid — Wulin's system was better than anything Lin Hao could have planned. **It is because Lin Hao does not ask people what they saw. He asks them what they noticed, and those are two different questions, and the whole of the rest of his life runs on the difference.**
+
 The notice was simple. NA'ER. Silver hair. Amethyst eyes. Found in this city, taken from this city, roughly four months past. She is family. **Reward: 500 federation coins for verified word of her.** No questions asked of the bringer. Contact: the Association branch, Eastsea City, ask for Tang.
 
 Five hundred coins was more than most of the men on those docks made in two months, and by nightfall — because Wulin had learned from his father how money talks and from Lin Hao how money *listens* — the notice had been copied by a dozen hands onto a dozen other boards, up the coast road and down, and the harbor's idle architecture of old men had begun, in its slow tide-way fashion, to pay attention.
@@ -131,11 +141,35 @@ On his shoulders, under his shirt, the feather-fine marks glowed a little longer
 
 ## Part 5: The Announcement
 
+Class five was **twenty students**, and Lin Hao had counted them all in the first week, because that was what he did, and the count was the most informative thing about the class.
+
+**Eight of the twenty were Tool Soul Masters with no battle skills whatsoever.** Not weak battle skills. None. A hoe. A ladle. A spool. Two of them, when Wu Zhangkong paired the class in the first week, had spent the entire match pushing at each other, and he had let it run its full length without saying a word, which everybody understood was worse than a rebuke. **Three more were Battle Soul Masters whose martial souls sat about where Bluesilver Grass sat** — which, as Wulin observed with the flatness of a man reading his own file, meant that the joke of Glorybound City was, on paper, mid-table here.
+
+Wu Zhangkong had called it the worst class in the academy in that first lesson, and said it the way you read out a temperature. Then a boy two rows over had called Wulin's grass trash, and a piece of chalk had crossed the room with a spiralling force that put it precisely into the boy's open mouth, and Wu Zhangkong had said, without raising his voice:
+
+**"There are no trash martial souls in this world. Rather, there are only trash people. Consider your own morals first before calling others trash. If you aren't a piece of trash yourself, would you have landed in class five?"**
+
+Nobody said it again. Not once, in five weeks.
+
+And underneath all of it, the sentence he had opened with, which the class had not understood at the time and had begun, gradually, to understand: **"My name is Wu Zhangkong. For the next six years, you will all be under my tutelage."**
+
+Six years. Said to the worst class in the academy, in a ground-floor room at the end of a building, as though it were a promise rather than a posting.
+
+---
+
 Monday's first class ended with Wu Zhangkong holding the room for ten seconds longer than anyone expected — which, with him, was the equivalent of standing on the desk.
 
 "Two announcements," he said. "The class promotion tournament begins at term's end. Class against class, full roster, the grade's board decides the standings." His pale green eyes crossed the room and rested, with what the class had learned to recognize as his maximum warmth, on the back file. "Some of you have made the worst class's name interesting. See that it stays interesting."
 
-A rustle went through the twenty-odd. Xie Xie's dagger-light was out of his grip and humming over his knuckles before the sentence had landed, and Zhou Zhangxi cracked his knuckles in slow, tectonic sequence, and Yun Xiao — quiet Yun Xiao — allowed himself a single, small, accountant's smile.
+A rustle went through the twenty. Xie Xie's dagger-light was out of his grip and humming over his knuckles before the sentence had landed. **Zhou Zhangxi** cracked his knuckles in slow, tectonic sequence — the Titan Ape in him never entirely sat down, and in a room where eight children had nothing to fight with, he had discovered that being the largest person present was a personality. **Yun Xiao** — quiet Yun Xiao, who had not thrown a punch in five weeks and who had nonetheless become, by general unspoken agreement, the person you asked before you did anything — allowed himself a single, small, accountant's smile, and made a note, because Yun Xiao made notes.
+
+And **Li Chushui**, two desks up, who had short light-blue hair and big eyes and who reminded Wulin uncomfortably of somebody, went very still in the particular way she went still before she moved fast.
+
+She had shown her martial soul in the second week, when the class did its first paired work. She had bowed first — actually bowed, to a boy named Chen Long who had a ladle — and then **half of her light-blue hair had turned white**, and **one of her blue eyes had gone green**, and a white ring had come up under her feet, and a small white cat had appeared on her shoulder and sat there looking at everybody with the flat contempt only cats and Gu Yue managed. White fur had grown over her palms and claws had come out of her fingertips, and she had crossed eleven metres of floor in the time Chen Long took to lift his ladle, and she had stopped one inch from his chest, and the cat had yawned.
+
+Agility System. A ten-year white ring. And Wulin had watched the whole of it with his stomach doing something he had refused to examine, because the white hair and the big eyes and the small careful bow had put somebody in the room who was not in the room.
+
+He had not said anything. He had not said anything for three weeks.
 
 "Second," Wu Zhangkong said. "The Academy has assigned a transfer student to this class, effective this week." He let the sentence sit in the silence it deserved — because transfer students went to class one; transfer students went where the silk jackets were; transfer students did not, in the history of Eastsea Academy, come to the ground-floor-end-of-the-building class. "Mid-term. Unusual. Not my decision." A beat. "Her file is sealed."
 
@@ -143,9 +177,55 @@ A rustle went through the twenty-odd. Xie Xie's dagger-light was out of his grip
 
 "The people who sealed it," Wu Zhangkong said, and left, which ended the class in the way his exits always did: instantly, and with thirty conversations detonating behind him.
 
+Zhou Zhangxi leaned back across the desk. "Twenty students. Eight of them can't fight. And they send us a *girl*."
+
+"Zhou," said Yun Xiao, without looking up from his note. "Write that down and read it back to me in a year."
+
+"I'll read it back to you next week."
+
+"You'll read it back to me in a year," said Yun Xiao, "and you'll say it in front of her, and I would like very much to be standing somewhere else when you do."
+
 Walking out with the noise, Wulin fell into step beside Lin Hao, and the two of them said the same thing at the same moment, in the same tone, without consulting each other:
 
 "Our class doesn't get things by accident."
+
+**Liu Yuxin** caught them at the gate, which was where she caught everybody, because she had decided some weeks ago that the interesting things in the intermediate division happened to first-graders and that if you wanted to see them you had to stand at the gate.
+
+"Wulin." She was holding something behind her back, in the manner of a person who has rehearsed this. "Senior sister has a small favour."
+
+She produced a **soul camera**.
+
+"No," said Wulin.
+
+"You haven't heard the favour."
+
+"It involves that." He pointed at the camera. "It always involves the camera."
+
+"Take a few pictures of Teacher Wu," Liu Yuxin said, pressing it into his hands with both of hers so that refusing would have been a physical act. "That's all. He's your class teacher. You see him every day. It's nothing."
+
+"He's—" Wulin looked at the camera, and then at the ground-floor window at the end of the building, behind which a man with hair the colour of a winter lake was probably not doing anything at all. "Senior sister, why do you want pictures of Teacher Wu?"
+
+Liu Yuxin's face did the thing that had made her extremely popular in the advanced division.
+
+"You don't know?" she said. "**He's the Icily Arrogant Prince Charming.** He's the number one lady-killer in this academy — the young female teachers, the senior girls, all of us. He was teaching in the advanced division and then for some reason they sent him down here, to the *worst class,* and we all think it's an injustice." She lowered her voice, which was unnecessary and which she did anyway. "He's the most formidable teacher we have. Somebody says he's the number one expert in the academy. **I saw him once with at least six soul rings.**"
+
+Wulin stopped.
+
+"Six?"
+
+"**Six.** That's a Soul Emperor." Liu Yuxin nodded, pleased with herself. "Eastsea City has a handful of those. And he's *young.* And he's teaching *your class.* And you have a camera."
+
+Wulin looked at the camera for a long time.
+
+Six rings. He thought about the wooden sword on the rack, and the eleven seconds it had taken to stop Xie Xie without moving his feet, and the fact that he had never once seen Wu Zhangkong release anything at all.
+
+"I'll take them," he said.
+
+"You will?"
+
+"Yes." He put the camera in his bag. "But not for you."
+
+---
 
 Above them, unseen, unbothered, the gulls of Eastsea turned in the harbor wind — and one of them, for a single beat that no one was watching closely enough to notice, turned *with* the wind rather than against it, the way a bird does only when the wind is, in some small and private sense, its own.
 
@@ -194,3 +274,27 @@ Above them, unseen, unbothered, the gulls of Eastsea turned in the harbor wind �
 
 ### Next Chapter Preview:
 **Chapter 8: The Transfer Student** — GU YUE'S ENTRANCE (canon ch 63): she arrives at class five; per canon her introduction must collide with Xie Xie (his arrogance vs her icy composure; canon: "Gu Yue vs Xie Xie" ch 64); her sealed file's authority silences questions; **Na'er-resonance stays L4 — at most one deniable, unexplained beat if she passes something of Wulin's (the golden-scale arm? Goldsong's hidden warmth?) — never named, never repeated**; class five dynamics rearrange; tournament training ramps; Lin Hao's hawk reacts to her with an unease it cannot explain (wind reads weather it doesn't recognize)
+
+**Ranks at chapter end:** Lin Hao 23 · Tang Wulin 11 — the harbour — quiet rank-23 breakthrough (tidal, no spectacle); Na'er taken in the night (retrofit v2.42: this line was added during the integrity audit so every chapter carries an end-state record)
+
+### Character States:
+- **Lin Hao:** rank 23 — the harbour — quiet rank-23 breakthrough (tidal, no spectacle); Na'er taken in the night
+- *(retrofit v2.42: added during the integrity audit; earlier chapters were written before the footer standard existed)*
+
+### Ensemble — canon-verified state
+
+_Single source of truth: `CHARACTER_STATS.md` §1 (canon citations) and §3 (schedule)._
+_Every number below traces to a canon line or is labelled AU._
+
+- **Tang Wulin:** rank **13** (AU — canon c45 has 11 at intake; ch9 prose: *"rank thirteen since before enrollment"*) · one white ten-year ring (Goldlight)
+- **Xie Xie:** rank **18** (canon c46) · one yellow hundred-year ring
+- **Gu Yue:** enrolled but sealed — gives no information about herself (canon mystery discipline; AU rank deliberately not stated)
+- **Xu Xiaoyan:** not yet introduced
+- **Zhang Yangzi:** rank **21** · spiritual power **41** (canon c113) · Shadow Phantasm Eagle
+- **Wang Jinxi:** rank **21** (canon c134) · spiritual power **18**, lowest in class zero (canon c113) · Bone Dragon King
+- **Wei Xiaofeng:** rank **21** (canon c101) · Green Shadow Snake
+
+Canon position anchors for this point in the story: everyone in class zero is **10 years old** through the tournament arc (canon c221: *"They're so young though, only ten years old!"*); the Shrek working-student dorm holds **four** — Tang Wulin, Xie Xie, Gu Yue, Xu Xiaoyan (canon c288; + Lin Hao, AU = five invitees). Departure order: **Wei Xiaofeng left class zero first** (canon), then **Wang Jinxi transferred to another academy** (canon ch 153, staged in our ch43). **AU divergence:** in canon Zhang Yangzi transfers out with him; in this story Zhang Yangzi embraces Wang Jinxi on the steps and **stays at Eastsea Academy**, out of class zero.
+
+🔴 **REALM GAP LAW (v2.90):** every ten ranks is a wall, not a step. Lin Hao is a **Soul Elder with three purple rings**; everyone else here is rank 17–23 with two. None of them can defeat him — they can outlast him, survive him, cost him. Gu Yue does exactly that, because she is the one he cannot read.
+

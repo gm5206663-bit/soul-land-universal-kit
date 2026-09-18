@@ -1,6 +1,6 @@
 # Chapter 16: The Dark Eagle Dragon
 
-## Canon Reference: Novel canon outcome locked (class five defeats class one's trio); class-one trio per canon dossier — Wang Jinxi (Bone Dragon King, ~23, 2 yellow rings, Bone Soul Conversion quarter-spectral at 2 rings), Zhang Yangzi (Shadow Phantasm Eagle, ~22), Wei Xiaofeng (martial soul canon-UNVERIFIED — kept nameless/typeless on-page); the Dark Eagle Dragon fusion (scouted canon-faithful in ch 12); Ye Yingluo's grudge (canon ch 83/86); Wulin×Wang Jinxi dragon-resonance = canon-consistent seed of their future joint-cultivation affinity (canon dossier future-beat 3), kept L4-deniable, NO Golden Dragon Claw, NO injury
+## Canon Reference: canon outcome locked (no single chapter) (class five defeats class one's trio); class-one trio per canon dossier — Wang Jinxi (Bone Dragon King, ~23, 2 yellow rings, Bone Soul Conversion quarter-spectral at 2 rings), Zhang Yangzi (Shadow Phantasm Eagle, ~22), Wei Xiaofeng (martial soul canon-UNVERIFIED — kept nameless/typeless on-page); the Dark Eagle Dragon fusion (scouted canon-faithful in ch 12); Ye Yingluo's grudge (canon ch 83/86); Wulin×Wang Jinxi dragon-resonance = canon-consistent seed of their future joint-cultivation affinity (canon dossier future-beat 3), kept L4-deniable, NO Golden Dragon Claw, NO injury
 ## Timeline: Age 10, tournament's last night (the fusion test) and final match day — class five vs class one
 
 ---
@@ -137,6 +137,10 @@ One stroke. No feint. No second thought hedging the first. The Gale Talon laid a
 
 The world *rang.*
 
+And here is the thing that would not have happened in a yard without him. Class five's plan that morning had been to survive the fusion and lose well — that was the plan Wu Zhangkong had not said and everybody had understood, because class one's trio was the top of the ladder and class five was the worst class in the grade, and arithmetic is arithmetic. **Nobody had planned to break the weld, because nobody in that yard thought in welds.** Lin Hao had spent the whole night thinking in welds, because thinking in the shape of a thing is what he does instead of being afraid of it, and the yard had no way to know that until the seam opened.
+
+That is the whole of it. The butterfly is not that he won. It is that **a fight everybody had already scored became a fight nobody had scored,** and the reason was one boy who reads seams, and the yard did not have him in the arithmetic.
+
 The backlash came up the blade like a struck anvil's voice — soul-fire, the two-ring agreement burning where it had been interrupted — and it bit through the wind-guard into Lin Hao's palm, searing a line from thumb to wrist, and his whole right arm went numb to the elbow with the echo of a strength that was not his and had never been his, and the Stormbringer screamed in a register swords do not have—
 
 —and the Dark Eagle Dragon *stuttered.*
@@ -173,7 +177,7 @@ Long Hengxu's voice did not need the slate this time. He looked at the platform 
 
 "The tournament is concluded. Class five has defeated every class in the first grade." A pause with the ghost of something in it that forty years of assemblies had never once contained. "As of this moment, you are the first grade's *class one.*"
 
-And the grade came apart. The sound that went up off those stands had no arithmetic in it at all — the worst class, the joke, the back of the building, *on top,* and the noise rolled over the platform until even the ward hummed along, and Zhou Zhangxi began a song that twenty-two throats finished for him, and somewhere in it Xie Xie was hugging people who had not consented, and Gu Yue was being looked at by four separate teachers with four separate expressions, and Wulin stood very still in the middle of it flexing a right hand that had not, he noticed, entirely stopped singing.
+And the grade came apart. The sound that went up off those stands had no arithmetic in it at all — the worst class, the joke, the back of the building, *on top.* The noise rolled over the platform until even the ward hummed along. Zhou Zhangxi began a song that twenty-two throats finished for him, and somewhere in it Xie Xie was hugging people who had not consented, and Gu Yue was being looked at by four separate teachers with four separate expressions, and Wulin stood very still in the middle of it flexing a right hand that had not, he noticed, entirely stopped singing.
 
 On the teachers' platform, Ye Yingluo did not move for a long time. Her price had been sitting on that platform in the shape of a dark-haired boy and an eagle and a fusion, and a small swordsman with a burned palm had walked into the middle of it and *interrupted* — and the two-year wound had learned, this morning, something new about itself, which was that it could wait. It had waited two years. It was, she decided, turning from the rail with her composure intact and her eyes on the white robes one last time, extremely good at waiting. The price would keep. So would she.
 
@@ -208,7 +212,7 @@ It was watching the *door.*
 - **Part 2 — The Dark Eagle Dragon (the grudge match):** the city-sized stands; **Ye Yingluo at the rail, price ready, watching Wu Zhangkong** ("where he has to watch"); class one's execution schedule (canon trio faithful: Wang Jinxi's Bone Dragon King drinking light, Zhang Yangzi's shadow-eagle HERDING — "they're not hunting, they're *herding*"; Wei Xiaofeng's martial soul kept nameless/typeless per verification lock — "something heavy and light-swallowing around his forearms"); Gu Yue's read ("They need us *grouped* — break their line"); Lin Hao breaks the herd-corner (Gale Talon seam-turn sends Wei Xiaofeng's strike into the sky); **THE FUSION FORMS (canon ch 12 scouting texture honored: the eagle folds over the dragon, the chord struck under the world, the ward hums)**
 - **Part 3 — Breaking the Weld (Lin Hao's keystone — Swordsman + Calibration Law):** the hawk-eyes find the seam (the handshake between souls); **THE CERTAINTY STRIKE — one stroke, no hedge, "the homework" paid: the sword goes into the seam, not the flesh — the Dark Eagle Dragon STUTTERS, the single voice cracks into two**; **STRAIN: soul-fire backlash sears his palm thumb-to-wrist, arm numb, the Stormbringer "screamed in a register swords do not have"** (a fusion interrupted costs the interrupter); the agreed counter (Xie Xie's three touches on Wei Xiaofeng; Gu Yue's three-degree floor under the eagle's landing; Wulin vs Wang Jinxi: the conversion read, the re-materialization window, grass + momentum); **THE CANON SEED: Wulin's stopped punch one inch from the Bone Dragon Claw — Wang Jinxi's dragon soul HUMS/ANSWERS/LEANS (canon-consistent seed of their future joint-cultivation affinity — L4-deniable, Wulin shuts the heat down), and Wulin's quiet "Yield" — no injury, no Golden Dragon Claw, wonder instead of hostility**
 - **Part 4 — The Top of the Ladder:** "As of this moment, you are the first grade's *class one*" (instant-promotion canon consistent) — the worst class finishes ON TOP; the grade comes apart; Wulin's still-singing hand; **Ye Yingluo's price learns to wait** ("It had waited two years. It was extremely good at waiting… The price would keep. So would she" — menace deferred, deniable); Wu Zhangkong's finger-stop: "A sword that can interrupt a fusion skill is not a sword. It is an *argument.* Make yours better than theirs"; **the roof coda: the hawk PREENS HIM (a first — "a teacher watches a student's handwriting finally come out level"); the wind now arrives a half-breath BEFORE he calls it — "the line between asking and answering had gone, like the weld's seam, too thin to see"; the chair is watching the DOOR** — question still OPEN, texture changed
-- **Ranks at chapter end:** Lin Hao 24 (palm sear healing via AT furnace; no rank change) · Wulin 15 (hand still faintly singing — resonance aftermath, deniable) · Xie Xie 20 · Gu Yue sealed — no breakthroughs, no seal breaks (heat risen and SHUT DOWN), no new rings, Union folded, crossing gated, question OPEN
+- **Ranks at chapter end:** Lin Hao 26 (palm sear healing via AT furnace; no rank change) · Wulin 15 (hand still faintly singing — resonance aftermath, deniable) · Xie Xie 20 · Gu Yue sealed — no breakthroughs, no seal breaks (heat risen and SHUT DOWN), no new rings, Union folded, crossing gated, question OPEN
 
 ### Canon Preserved / Not Triggered:
 - ✅ Canon outcome: class five defeats class one's trio; Wang Jinxi/Zhang Yangzi/Wei Xiaofeng canon-faithful (Bone Soul Conversion quarter-spectral + never longer than a heartbeat; Shadow Phantasm Eagle's shadow-flight; Wei Xiaofeng's soul UNNAMED per verification lock); the Dark Eagle Dragon fusion forms and is canon-mighty (it takes an AU-first: a seam-interrupting sword, at real cost)
@@ -223,10 +227,25 @@ It was watching the *door.*
 3. **The worst class on top:** class five → class one by tournament's end — the grade's mythology completes its arc, and Long Hengxu's assemblies will never recover; the four finishers are now the first grade's standard
 
 ### Character States:
-- **Lin Hao:** rank 24 · palm seared thumb-to-wrist (AT-healing) · the certainty strike landed — homework passed, "an argument, not a sword" · fusion-door with Xie Xie seeded, unaccounted reading with Wulin filed · hawk preening him (first) · wind arriving before the call · question OPEN, chair watching the door
-- **Tang Wulin:** rank 15 · the dragon-answer felt and shut down ("furnace door") · hand still singing faintly · yielded-to-yielded respect with Wang Jinxi · the sealed reading shared only with his brother
-- **Xie Xie:** rank 20 · a fusion door exists (with Lin Hao) — the boy will talk about it for a year · three touches on a two-ring · rank-20 bottleneck pressure intact
-- **Gu Yue:** sealed · refused the test (the refusal filed) · three-degree floor, whole-board geometry · four teachers looking at her with four expressions
-- **Wang Jinxi:** yielded in wonder — his dragon leaned toward Wulin's fist; no hostility; the seed of the canon friendship/affinity planted early and softly
+- **Lin Hao:** rank 26 · palm seared thumb-to-wrist (AT-healing) · the certainty strike landed — homework passed, "an argument, not a sword" · fusion-door with Xie Xie seeded, unaccounted reading with Wulin filed · hawk preening him (first) · wind arriving before the call · question OPEN, chair watching the door
 - **Wu Zhangkong:** files multiplying (the word *edit*; the four seal-points) · his class is now class one · "Make yours better than theirs"
 - **Ye Yingluo:** price deferred, patience armed — watching, waiting, canon-alive
+- **Long Hengxu:** director · the ladder swap is his sanction to give
+
+### Ensemble — canon-verified state
+
+_Single source of truth: `CHARACTER_STATS.md` §1 (canon citations) and §3 (schedule)._
+_Every number below traces to a canon line or is labelled AU._
+
+- **Tang Wulin:** rank **15** (canon c133 *peak of rank 15*) · one white ten-year ring
+- **Xie Xie:** rank **19** (canon c72) · one yellow hundred-year ring
+- **Gu Yue:** rank **17** (canon c72) · one ring · spiritual power **153** at nine (canon c114)
+- **Xu Xiaoyan:** not yet introduced
+- **Zhang Yangzi:** rank **22** · spiritual power **41** (canon c113)
+- **Wang Jinxi:** rank **22** (canon c134) · spiritual power **18**, lowest in class zero (canon c113)
+- **Wei Xiaofeng:** rank **22** (canon c101)
+
+Canon position anchors for this point in the story: everyone in class zero is **10 years old** through the tournament arc (canon c221: *"They're so young though, only ten years old!"*); the Shrek working-student dorm holds **four** — Tang Wulin, Xie Xie, Gu Yue, Xu Xiaoyan (canon c288; + Lin Hao, AU = five invitees). Departure order: **Wei Xiaofeng left class zero first** (canon), then **Wang Jinxi transferred to another academy** (canon ch 153, staged in our ch43). **AU divergence:** in canon Zhang Yangzi transfers out with him; in this story Zhang Yangzi embraces Wang Jinxi on the steps and **stays at Eastsea Academy**, out of class zero.
+
+🔴 **REALM GAP LAW (v2.90):** every ten ranks is a wall, not a step. Lin Hao is a **Soul Elder with three purple rings**; everyone else here is rank 17–23 with two. None of them can defeat him — they can outlast him, survive him, cost him. Gu Yue does exactly that, because she is the one he cannot read.
+

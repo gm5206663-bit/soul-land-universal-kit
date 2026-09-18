@@ -1,6 +1,6 @@
 # Chapter 12: Two Ring Opponent
 
-## Canon Reference: Novel Chapters 75-76 rhythm ("The Story of the Stewed Beef" — the famous Eastsea earthen-jar beef; "Two Ring Opponent" — the scouting beat), class-one trio canon records (Bone Dragon King, Shadow Phantasm Eagle, Dark Eagle Dragon fusion)
+## Canon Reference: canon ch 75–76 rhythm ("The Story of the Stewed Beef" — the famous Eastsea earthen-jar beef; "Two Ring Opponent" — the scouting beat), class-one trio canon records (Bone Dragon King, Shadow Phantasm Eagle, Dark Eagle Dragon fusion)
 ## Timeline: Age 10, tournament day 2-3 — class three match, the beef, the scouting
 
 ---
@@ -63,7 +63,10 @@ Class five released their rings for the record. The white ring in the gold grass
 
 ---
 
-## Part 2: The Story of the Stewed Beef
+## Part 2
+
+His hair had gone the colour of the underside of a wave at the tips, and in the yard light his eyes caught gold, and the second-years had started calling it the weather without ever explaining it to anybody who asked.
+: The Story of the Stewed Beef
 
 There is a shop in Eastsea City that has never once advertised, because it has never once needed to.
 
@@ -118,6 +121,16 @@ Wang Jinxi fought at the center, and the first thing Lin Hao's eyes told him —
 He did not fight alone. When class two's best committed — a committed, good, three-ring combination that deserved better — Wang Jinxi and Zhang Yangzi closed, and the Shadow Phantasm Eagle folded over the Bone Dragon King like a wing over a bone, and the two souls *met*—
 
 Martial Soul Fusion Skill. The word went through the stands the way wind goes through a field. Lin Hao had read about fusion skills in the Association's public library, in the dry careful prose of reference books: two souls, one shape, the rarest arithmetic in the profession. The reference books had not mentioned the *sound.* The Dark Eagle Dragon went through class two's combination the way a decision goes through an argument, and the platform's ward hummed a note Lin Hao felt in his hollow bones, and beside him—
+
+And the four of them walked back to room eleven, and three of them were quiet in the way people are quiet when they have watched something they cannot do, and the fourth was quiet in a completely different way, and none of them knew the difference yet.
+
+Xie Xie was doing arithmetic: *their rings agree and ours do not, and that is the whole of the problem.* Wulin was doing arithmetic: *the grass owns ground and the ground does not fuse.* Gu Yue was doing arithmetic: *weather does not fuse, weather simply is.*
+
+**Lin Hao was not doing arithmetic. He was looking at the weld.**
+
+Because a fusion is not a thing two people do. It is a **seam** — two voices agreeing, mid-stride, to be one voice, and the seam runs the length of the thing, and a seam is a shape, and Lin Hao had spent six years reading shapes in metal that did not want to be read. The stands saw a monster. **He saw a weld, and a weld has a place where it is thin, and he had already found it, walking back, without deciding to.**
+
+That is the whole butterfly, and nobody in the stands could have seen it, because the stands were watching a fusion and he was watching a **seam.** In a class without him, class five watches that match and learns that they are going to lose. **In a class with him in it, they learn where the weld is thin — and the next morning the weld breaks.**
 
 Beside him, Tang Wulin had gone very still.
 
@@ -197,3 +210,30 @@ But when the sleep came, it came the way it had come the night before — like a
 
 ### Next Chapter Preview:
 **Chapter 13: Class Two** — the speed line that presses early (Wulin's slate says do not press early — Xie Xie's canon-flavored answer to speed vs speed); the ladder's last rung before the top; and on the horizon, the match the whole grade is now waiting for: **class five vs class one — the Four vs the dragon, the eagle, and the fusion** (canon outcome: class five wins; the "Two Ring Opponent" reputation made permanent). The chair keeps closing
+
+### Character States:
+- **Lin Hao:** rank 24 · two yellow rings · **the sword speaks** — cuts the feed-door with the Gale Talon laid along the steel ("the sword's own voice given teeth"); takes Qin Lang's backhand and is driven back a full step (strain shown); Wind-Step crosses back inside the guard
+- **Qin Lang:** class three's two-ring anchor · Iron-Back Ape · the wall whose feed-line got cut · twenty-one seconds
+- **Wu Zhangkong:** hands come out from behind his back — a swordsman recognising one
+- **Long Hengxu:** director · the sanction behind the ladder
+- **Zhou Zhangxi:** class five · massive build · the bunk Lin Hao sleeps above · attitude turned long ago over a steamed-bun contest
+
+**Ranks at chapter end:** Lin Hao 24 · Tang Wulin 14 — two-ring opponent — the sword speaks; Xie Xie stops fighting to watch (retrofit v2.42: this line was added during the integrity audit so every chapter carries an end-state record)
+
+### Ensemble — canon-verified state
+
+_Single source of truth: `CHARACTER_STATS.md` §1 (canon citations) and §3 (schedule)._
+_Every number below traces to a canon line or is labelled AU._
+
+- **Tang Wulin:** rank **14** (AU — canon c98 has 12 at this point; documented delta) · one white ten-year ring
+- **Xie Xie:** rank **19** (canon c72) · one yellow hundred-year ring
+- **Gu Yue:** rank **17** (canon c72) · one ring · spiritual power **153** at nine (canon c114)
+- **Xu Xiaoyan:** not yet introduced
+- **Zhang Yangzi:** rank **22** · spiritual power **41** (canon c113)
+- **Wang Jinxi:** rank **22** (canon c134) · spiritual power **18**, lowest in class zero (canon c113)
+- **Wei Xiaofeng:** rank **22** (canon c101)
+
+Canon position anchors for this point in the story: everyone in class zero is **10 years old** through the tournament arc (canon c221: *"They're so young though, only ten years old!"*); the Shrek working-student dorm holds **four** — Tang Wulin, Xie Xie, Gu Yue, Xu Xiaoyan (canon c288; + Lin Hao, AU = five invitees). Departure order: **Wei Xiaofeng left class zero first** (canon), then **Wang Jinxi transferred to another academy** (canon ch 153, staged in our ch43). **AU divergence:** in canon Zhang Yangzi transfers out with him; in this story Zhang Yangzi embraces Wang Jinxi on the steps and **stays at Eastsea Academy**, out of class zero.
+
+🔴 **REALM GAP LAW (v2.90):** every ten ranks is a wall, not a step. Lin Hao is a **Soul Elder with three purple rings**; everyone else here is rank 17–23 with two. None of them can defeat him — they can outlast him, survive him, cost him. Gu Yue does exactly that, because she is the one he cannot read.
+

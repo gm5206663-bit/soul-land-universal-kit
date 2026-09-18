@@ -1,11 +1,13 @@
 # Chapter 10: Hammer Practice
 
-## Canon Reference: Novel Chapter 71 (Hammer Practice — weekly break, blood-sacrificed Thousand Refined Heavy Silver Hammers, extreme focus, "the life stored within the metal," task pay), ch 71 tail (Xie Xie on Gu Yue's permutations), ch 57 seed (Mu Xi)
+## Canon Reference: canon ch 71 (Hammer Practice — weekly break, blood-sacrificed Thousand Refined Heavy Silver Hammers, extreme focus, "the life stored within the metal," task pay), ch 71 tail (Xie Xie on Gu Yue's permutations), ch 57 seed (Mu Xi)
 ## Timeline: Age 10, weeks 10-12 at Eastsea Academy — tournament ~2.5 months out
 
 ---
 
 ## Part 1: The Weekly Break
+
+Xie Xie had walked out of the training ground behind him and had not said goodnight, which for Xie Xie was a long speech, and Lin Hao had understood every word of it.
 
 The Intermediate Academy gave one day a week to its students — a single unharnessed Saturday, which the first grade spent in the ways first grades do: sleeping, eating, fighting, and, in the case of two of class five's four, disappearing before breakfast toward the harbor road and the Blacksmith's Association.
 
@@ -14,6 +16,51 @@ They walked together, the way they had walked together since before either could
 Mu Chen had given each of them a key in the third week — not one key to share, but two, to two closet-forges on the same short corridor, because when he had tried to give the boys one forge they had both, without conferring, politely declined until there were two. "The Association pays for results, not for audiences," Mu Chen had said, handing over the second key with something that, on him, was nearly a smile. "Forge when your class schedule allows. Submit on Fridays. The metal does not care which day you respect it."
 
 So the Saturdays belonged to the hammers. Two sets of them, in two closets, on the same short corridor.
+
+And on the fourth Saturday of the term, Wulin found out what his hammers did.
+
+It was not dramatic. He was six hundred strikes into a bar of ordinary tungsten steel, working the Thousand Refinements the slow careful way Mang Tian had installed in him, when he hit one strike slightly wrong — flat, a degree off the vertical, the sort of error he had stopped making two years ago and had made again because he was thinking about the tournament — and the hammer came back at him with **three** shocks in it instead of one.
+
+He stopped. He looked at the handle. He hit it again, correctly, and there was one shock.
+
+He hit it flat on purpose. Three.
+
+"**Lin Hao.**"
+
+Lin Hao was four metres away and had already stopped working, because he had heard it — three notes where there should have been one, in a corridor built to carry sound, from a boy who had been hitting metal correctly for two years.
+
+"Do it again," he said.
+
+Wulin did it again.
+
+Lin Hao crossed the corridor, took the hammer, weighed it, turned it, and held it up to the lamp so that the light ran along the black face where the petal pattern lived.
+
+"When you folded these," he said, "the Thousand Refinement put something in them. Every Thousand Refinement puts something in — it's why the metal's worth a hundred times as much afterwards, it's not the density, it's that the metal *keeps* something." He handed it back. "Yours keeps the strike. You hit it and it gives you the hit three times."
+
+Wulin looked at the hammer he had been carrying for two years.
+
+"I never noticed."
+
+"No," said Lin Hao, with the particular satisfaction of a boy who has been waiting a long time to say something to his best friend. "You never notice anything about the hammers. You notice everything about the *metal.* That's the difference between us and it is going to be the difference between us for the rest of our lives and I have made my peace with it."
+
+He went back to his own forge. He worked for eleven minutes. Then he said, without turning around:
+
+"**Stacked Hammers.** That's what you should call it."
+
+"What?"
+
+"Your effect. It stacks the strike. Call it Stacked Hammers, because if you don't give it a name Mu Chen will, and Mu Chen names things after himself."
+
+Wulin laughed — the first time he had laughed all week — and the sound went up the short corridor and out, and two floors above them a surveyor paused with her pen in the air and made a note, because that was a forging sound she had not heard before and the Association paid attention to things like that.
+
+And in the third week after that, Lin Hao found his own.
+
+His was not three of anything. His was quieter than that and he understood it less well. What his hammers did, when he hit truly — truly, the way he had hit eleven times in his life and could not have predicted any of them — was **take the next strike out of the metal's resistance.** The bar went soft for one blow. Just one. And in that blow you could move more metal than in the ten before it.
+
+He did not name it. He wrote it in the ledger at the back of his book, in the column he kept for things the metal had done that he could not yet explain, and he put a date beside it, and he went back to work.
+
+There was room in that column. He intended to fill it.
+
 
 Lin Hao's were the older trade. Not the blood-sacrificed Thousand Refined pair Mang Tian had folded for Wulin in Glorybound — those were Wulin's, drunk from Wulin's blood — but the set his father Lin Wei had put in his hands at six, the year the Stormbringer woke: a matched pair of heavy forging hammers, plain steel, no ceremony, the handles worn to the exact shape of a growing boy's grip because a blacksmith's son does not get new handles, he gets *the same ones* until his hands outgrow them and his father silently makes the next size. Lin Wei had made him four sizes in four years. The fifth was waiting at home, and Lin Hao's hands had not yet earned it.
 
@@ -85,7 +132,10 @@ He carried the edge up the short corridor to knock on Mu Chen's door, and the ha
 
 ---
 
-## Part 2: The Board
+## Part 2
+
+The storm-light tips had spread past a dozen. Mu Chen had looked at them once, at the forge, and said nothing, and had put him on the far anvil where the light was better, and Lin Hao had understood that the man had decided he could see better than he could say.
+: The Board
 
 The Association's commission board lived on the ground floor, and beside it — because bureaucracies grow their organs where they fit — the craftsman's ledger: a brass-framed slate where the Association posted, monthly, the ranked output of its registered smiths.
 
@@ -138,6 +188,30 @@ Xie Xie was quiet for four steps. It was, both of the others knew, the longest s
 Ahead of them, walking her own few paces apart as she always did, Gu Yue turned the corner toward the girls' dormitory without looking back — and it was a measure of the nine nights that none of the three boys noticed the not-looking anymore.
 
 Except the hawk. The hawk noticed everything, and the hawk — Lin Hao had stopped asking it why — had begun, in the last few nights, to watch the walking-away with something that was no longer only unease. It was the stillness of a bird watching a horizon it had seen before. He did not have a name for that. He filed it where the other files were: deep, private, marked *later.*
+
+---
+
+---
+
+There was a shape to the four of them, and it took about three weeks for anybody to be able to say it out loud.
+
+**Xie Xie and Gu Yue did not get on.** Not badly — there was no badness in it, no incident, no moment anybody could point to. It was simply that Xie Xie talked and Gu Yue did not, that Xie Xie wanted to be liked and Gu Yue had never asked for anything from anyone, and that when they were in a room together the air between them had the specific tightness of two people who have decided, independently, not to start something.
+
+**And both of them got on perfectly well with Tang Wulin.**
+
+Which made Wulin, without ever having applied for the position or noticed he had been given it, the only person in the room who could say *come on* to both of them at once and have it mean the same thing. He did not mediate. He never used the word. He simply said *right, food,* and they went, and the evening did not become a problem.
+
+Lin Hao, watching this from the outside for three weeks, worked out what it was before Wulin did.
+
+"You're the hinge," he said, on the walk home.
+
+"I'm what?"
+
+"Xie Xie would fight her properly if you weren't there, because he'd have an audience. She'd let him, because she wouldn't care. With you there neither of them can be doing it *at* anybody, so they just… don't." Lin Hao shrugged. "You're not keeping the peace. You're making the fight impossible. Different thing. Much better."
+
+Wulin considered this. "I just said food."
+
+"Yes," said Lin Hao. "That's the whole trick, and you're the only one of us who'd think of it."
 
 ---
 
@@ -224,3 +298,27 @@ It did not need to. For the first time, the silence felt like the silence on the
 
 ### Next Chapter Preview:
 **Chapter 11: The Class Promotion Tournament Begins** (canon ch 72-74: "The Class Promotion Tournament Begins!" / "The First Match" / "The Trio" — our AU: the Four): bracket day; class one's politics meet the worst class's myth; first match — the four's function debuts (Xie Xie's question-method, Wulin's hammer-hand, Gu Yue's cup-not-flood, Lin Hao's reading-for-four); canon opponent texture (two-ring opponents, ch 76 seed); Wu Zhangkong's silence-as-praise; Mu Xi in the crowd with her ledger-thinking; the hawk's question unanswered but present
+
+**Ranks at chapter end:** Lin Hao 24 · Tang Wulin 14 — hammer practice — Lin Hao forges his own commission; quiet rank-24 threshold ('a stair, not a breakthrough'); the hawk looks at HIM (retrofit v2.42: this line was added during the integrity audit so every chapter carries an end-state record)
+
+### Character States:
+- **Lin Hao:** rank 24 — hammer practice — Lin Hao forges his own commission; quiet rank-24 threshold ('a stair, not a breakthrough'); the hawk looks at HIM
+- *(retrofit v2.42: added during the integrity audit; earlier chapters were written before the footer standard existed)*
+
+### Ensemble — canon-verified state
+
+_Single source of truth: `CHARACTER_STATS.md` §1 (canon citations) and §3 (schedule)._
+_Every number below traces to a canon line or is labelled AU._
+
+- **Tang Wulin:** rank **14** (AU — canon c98 has 12 at this point; documented delta) · one white ten-year ring
+- **Xie Xie:** rank **19** (canon c72) · one yellow hundred-year ring
+- **Gu Yue:** rank **17** (canon c72) · one ring · spiritual power **153** at nine (canon c114)
+- **Xu Xiaoyan:** not yet introduced
+- **Zhang Yangzi:** rank **22** · spiritual power **41** (canon c113)
+- **Wang Jinxi:** rank **22** (canon c134) · spiritual power **18**, lowest in class zero (canon c113)
+- **Wei Xiaofeng:** rank **22** (canon c101)
+
+Canon position anchors for this point in the story: everyone in class zero is **10 years old** through the tournament arc (canon c221: *"They're so young though, only ten years old!"*); the Shrek working-student dorm holds **four** — Tang Wulin, Xie Xie, Gu Yue, Xu Xiaoyan (canon c288; + Lin Hao, AU = five invitees). Departure order: **Wei Xiaofeng left class zero first** (canon), then **Wang Jinxi transferred to another academy** (canon ch 153, staged in our ch43). **AU divergence:** in canon Zhang Yangzi transfers out with him; in this story Zhang Yangzi embraces Wang Jinxi on the steps and **stays at Eastsea Academy**, out of class zero.
+
+🔴 **REALM GAP LAW (v2.90):** every ten ranks is a wall, not a step. Lin Hao is a **Soul Elder with three purple rings**; everyone else here is rank 17–23 with two. None of them can defeat him — they can outlast him, survive him, cost him. Gu Yue does exactly that, because she is the one he cannot read.
+

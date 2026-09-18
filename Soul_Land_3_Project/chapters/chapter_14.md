@@ -1,6 +1,6 @@
 # Chapter 14: Reappearance of the Golden Scales
 
-## Canon Reference: Novel Chapters 76-79 ("Two Ring Opponent" / "Let Me Face Him!" / "Reappearance of the Golden Scales" / "Light Dragon Dagger and Golden Scales") — Guang Long's extortion of Uncle Li, the Armored Dragon reveal (rank 27, two lizard souls, Armored Body + Armored Dragon Body), the trio's suppression, "Let me face him," the golden scales' reappearance (dagger-cut trigger, golden slit-pupils, the arm-shattering blow, ten-second recession), the night test in Wu Zhangkong's room. AU: the Four; Lin Hao draws the fight's first blood and keeps the street's eyes; our ch 7 first appearance was spontaneous (no dagger) — Wulin says so honestly, deepening the mystery per L4
+## Canon Reference: canon ch 76–79 ("Two Ring Opponent" / "Let Me Face Him!" / "Reappearance of the Golden Scales" / "Light Dragon Dagger and Golden Scales") — Guang Long's extortion of Uncle Li, the Armored Dragon reveal (rank 27, two lizard souls, Armored Body + Armored Dragon Body), the trio's suppression, "Let me face him," the golden scales' reappearance (dagger-cut trigger, golden slit-pupils, the arm-shattering blow, ten-second recession), the night test in Wu Zhangkong's room. AU: the Four; Lin Hao draws the fight's first blood and keeps the street's eyes; our ch 7 first appearance was spontaneous (no dagger) — Wulin says so honestly, deepening the mystery per L4
 ## Timeline: Age 10, tournament week's rest day — the beef lane, then the dormitory
 
 ---
@@ -95,6 +95,14 @@ He went through them the way weather goes through a market. Gu Yue's light flash
 
 What followed, the lane would retell for a year, and never once correctly.
 
+And the part the lane never got right — the part that would have been impossible in a lane without him — was that **the dagger did not draw the blood.**
+
+Xie Xie's Light Dragon Dagger went across the scales, because scales are what they are and a dagger goes where it is pointed, and the scales did not open, because that is what scales do. **Lin Hao's blade went along the seam under the jaw instead, because plate has seams and scales have grain, and he had spent six years reading grain in metal that did not want to be read.** Same lane. Same dragon. Same scales. **Different line.**
+
+That is the butterfly, and it is the whole of it. **In a lane without him, Xie Xie's dagger fails and Wulin's hammer does the work and the lane retells a story about a hammer.** In a lane with him in it, the dagger fails and the sword draws first blood, and the lane retells the story wrong for a year because nobody in it understood that the difference was not the weapon.
+
+And his shout — *"the NECK—"* — arrived one heartbeat late, and he would think about that heartbeat for longer than he thought about anything else that week, because reading a thing and saying it in time are two different skills and he had only ever had the first.
+
 Fist and hammer met. The sound was less a sound than a weather event; the crowd fell back with its hands over its ears; and Tang Wulin — the forge-boy, the boy the grade had learned to measure matches by — was thrown out of the collision like a stone from a sling, and Xie Xie, who dashed in to catch him, learned what catching him meant, and both of them went down in a heap at the wall of the beef shop. The Light Dragon Dagger, jarred out of control in the fall, scored a line across Wulin's back.
 
 "So painful. Xie Xie, your Light Dragon Dagger is stabbing me."
@@ -171,6 +179,57 @@ And Lin Hao, last out, paused in the doorframe — because the smith's question 
 
 Wu Zhangkong said nothing for a long moment. The hall lamp made two shadows of him and none of anyone else.
 
+---
+
+Room 205 was not dark when they got back.
+
+**Yun Xiao** was awake at the lower bunk with his book and a stub of candle, in the specific posture of a person who had decided an hour ago that he was not going to sleep and had since made peace with it. **Zhou Zhangxi** was awake on the bunk above him, flat on his back, staring at the ceiling, which was Zhou Zhangxi's version of the same decision.
+
+Neither of them said anything for a moment. Then Zhou Zhangxi said, "You're bleeding."
+
+"It's not mine," said Wulin.
+
+"That's not better."
+
+"No," said Wulin. "It isn't."
+
+Yun Xiao closed his book. He did not ask what had happened. He had not asked what had happened on any of the nights, which was, Lin Hao thought, the most under-rated thing about him — he simply wrote things down and waited until somebody was ready.
+
+"Four of you," he said instead. "Every night. Three months." He adjusted his glasses. "There are twenty students in this class. Sixteen of them are also going to be in the tournament, and none of them have been asked to stay after the bell once."
+
+Nobody said anything, because there was nothing to say that was not an apology.
+
+"I'm not complaining," said Yun Xiao. "I'm noting. There's a difference, and I want it noted."
+
+"You're in the roster matches," said Wulin. "All of us are. That's the whole class."
+
+"Yes," said Yun Xiao. "And you four are additionally the combat team, which is a thing that exists, and which is going to be on the board, and which people are going to say the names of." He put the book down. "I'd like to be good at something that gets said. That's all. I'd have thought that was obvious."
+
+Zhou Zhangxi rolled over, and the bunk creaked like a ship.
+
+"I can lift more than anyone in this grade except you," he said to Wulin, without any heat in it at all, which was worse. "And I can't do the *thing.* Whatever the thing is. The thing you four do where you go and come back different." A pause. "Is it teachable?"
+
+The room was very quiet.
+
+"No," said Lin Hao, because it was the only honest answer and because he had learned that Zhou Zhangxi would have hated a kind one. "It isn't teachable. But the other parts are. Running is running. Lifting is lifting. And you're better at both than anyone he's got."
+
+"You're saying I'm the strongest person not on the team."
+
+"I'm saying you're the strongest person not on the team," said Lin Hao, "and that in six months somebody is going to need somebody like that, and it isn't going to be a comfort to them that you were sad about it in the spring."
+
+Zhou Zhangxi stared at the ceiling for a long time.
+
+"That was a shit thing to say," he said at last.
+
+"Yes."
+
+"I'm going to think about it anyway."
+
+"Good," said Lin Hao.
+
+Yun Xiao, from the lower bunk, in the voice of a boy adding a line to a ledger: "Noted."
+
+
 "Go to sleep, Lin Hao."
 
 "Yes, teacher."
@@ -190,7 +249,7 @@ The pictures of them would be ready by morning. All four.
 - **Part 2 — Armored Dragon (canon ch 76-77 preserved):** Bluesilver Bind + Xie Xie's dagger at the throat + the compensation demand (canon); Guang Long's dare ("a one-ring Soul Master… do it then"); **Lin Hao's shout "the NECK—" arrives one heartbeat late** (the warning that is an epitaph — canon's can't-cut-the-neck beat preserved); Gu Yue's FIREBALL (canon — element ladder: nothing → water → ice → FIRE); the two-ring reveal (white + yellow; two lizard spirit souls — canon exact); **Armored Dragon martial soul named + Armored Body/Armored Dragon Body skills + rank 27 + innate god-strength (canon ch 77 exact)**; Wulin's tungsten → heavy silver hammers, the thrown-hammer swat (canon); **LIN HAO'S EXCHANGE — SWORDSMAN-FIRST, Calibration-compliant:** "plate has seams, scales have grain" — he cuts ALONG the seam under the jaw with the Gale Talon laid on the Stormbringer and **DRAWS THE FIGHT'S FIRST BLOOD** (where the dagger failed across the grain — smith-reading shown through the work); **STRAIN: the claw-backhand catches the air where his Wind-Step had been — thrown through the persimmon stall, arm numb, ribs singing, the honest understanding that rank 27 double-skilled is not winnable today**; canon endgame preserved: Gu Yue shields Wulin and won't step aside (canon: no teleport because he's behind her), Guang Long's grab, Wulin's pull — **"Let me face him" (canon title line kept)**
 - **Part 3 — Gold (canon ch 78 preserved):** fist-and-hammer weather event; Wulin thrown bleeding; Xie Xie's failed catch; the accidental dagger-cut ("So painful. Xie Xie, your Light Dragon Dagger is stabbing me" — canon verbatim); Guang Long's crowd-menace speech (canon); **THE SCALES: heat from the tailbone, gold spots → arm → claws, slit-pupils (canon exact); Lin Hao's AU role = THE DOOR — he stands in the mouth of the crowd, back to the fight, coat spread: "Show's over. Nobody's eyes past me"** (the keeper of the secret, actively keeping); the fish-wife's attractiveness beat (blood on the temple, borrowed arm, gate-in-front-of-a-garden calm, hawk-gold eyes — "like a smith looks at a crowd"); **canon finish intact: Guang Long sees the gold eyes, his land-dragon blood goes LIMP with inherited fear, one hammer shatters the arm, the three-thug heap; ten-second recession, soul power scraped out (canon exact)**; Xie Xie witnesses ("Wulin. *What was that?*"); the brothers' look (they share the file from ch 7); Gu Yue's scholar-with-an-impossible-book stillness (L4-safe); the street helps Uncle Li (canon); **"For the medicine. Don't ask"** — Wulin's Na'er-fund money given anyway (character beat); the hawk's one deniable beat: "On the far water, something lifted its head — not toward the fight. Toward the gold"
 - **Part 4 — The Night Test (canon ch 79 adapted):** all Four to Wu Zhangkong's room (moon-white pajamas, canon texture); Xie Xie's fusion-skill fantasy (canon comedy kept — "no one in Eastsea City… *no one*"); **AU honesty beat: Wulin states the first appearance was SPONTANEOUS (ch 7 canon-divergence honored — "the first time wasn't a fight. I woke up with a scale") — the mystery deepens instead of resolving**; the canon test (Xie Xie's slow cut — **"light went IN"** through the wound — the heat turns — one spot surfaces, hesitates, fades); Wu Zhangkong: "The light feeds it. But it did not rise. Not *asked for.* It comes when you cannot afford for it not to" + the secrecy order ("the world is full of people who collect interesting things"); **Lin Hao's smith-reading of the mystery: "The dagger's a *door.* Something behind it leaned close… the fire just reminded the metal what the metal *was*"** — and Wu Zhangkong's quiet: "That was not a child's thought. Keep having them. *Quietly.*"; **THE GUANG BIAO HOOK: broken arm, lost lane — "children like that attended a school, and schools had gates" — "The pictures of them would be ready by morning. All four." (canon ch 83 setup — academy-gate retaliation next chapter)**
-- **Ranks at chapter end:** Lin Hao 24 (bruised: numbed right arm, cracked-rib song, temple cut — healing; AT recovery) · Wulin 15 (soul power scraped to the well's bottom — recovering; scales receded; 2nd seal undisturbed) · Xie Xie 20 · Gu Yue sealed — no breakthroughs, no seal breaks, no new rings, Union folded, crossing gated, question OPEN
+- **Ranks at chapter end:** Lin Hao 25 (bruised: numbed right arm, cracked-rib song, temple cut — healing; AT recovery) · Wulin 15 (soul power scraped to the well's bottom — recovering; scales receded; 2nd seal undisturbed) · Xie Xie 20 · Gu Yue sealed — no breakthroughs, no seal breaks, no new rings, Union folded, crossing gated, question OPEN
 
 ### Canon Preserved / Not Triggered:
 - ✅ Canon ch 76: extortion scene, Uncle Li's sick wife, Guang Long's dialogue, Wulin's punches, the cast-copper palm, Bind + dagger-at-throat, the dare, the can't-cut neck, the fireball, the white+yellow ring reveal with metallic scales
@@ -206,9 +265,26 @@ The pictures of them would be ready by morning. All four.
 3. **Uncle Li's lane becomes class-five territory** — "for the medicine, don't ask" + the promised follow-up appointment with the thug-purse: the street will remember who paid when the pictures come
 
 ### Character States:
-- **Lin Hao:** rank 24 · numbed right arm + rib-song + temple cut (AT recovery underway; furnace appetite ravenous by dinner) · the door beat — first time he fought a crowd's *attention* instead of a body · his smith-reading of the golden mystery ("the dagger's a door") filed and delivered · hawk: one head-lift toward the gold, settled watchful · question OPEN
-- **Tang Wulin:** rank 15 · soul power scraped out (recovering overnight) · right arm aching, scales receded fully · knows the dagger-light feeds it (not why) · gave the medicine money · "Let me face him" entered the grade's unwritten gospel before morning
-- **Xie Xie:** rank 20 · witnessed the gold up close · fusion-skill theory in ruins and rebuilding · shaken under the bragging (he felt the fear-temperature of the gold too)
-- **Gu Yue:** sealed · fire revealed to the street (fourth shown element — nobody in the lane will connect a beef-riot to a tournament girl) · "what is that" filed beside larger files · recognition-of-a-secret stillness
+- **Lin Hao:** rank 25 · numbed right arm + rib-song + temple cut (AT recovery underway; furnace appetite ravenous by dinner) · the door beat — first time he fought a crowd's *attention* instead of a body · his smith-reading of the golden mystery ("the dagger's a door") filed and delivered · hawk: one head-lift toward the gold, settled watchful · question OPEN
 - **Wu Zhangkong:** knows the light feeds it; doesn't know what it is; has begun watching Lin Hao's *thoughts*, not just his sword; secrecy order issued
 - **Guang Long:** broken arm, lost lane, lost face — climbing toward Guang Biao; **the pictures of all four, by morning**
+- **Zhou Zhangxi:** awake at midnight in room 205, flat on his back, staring at the ceiling — the Titan Ape in him never entirely sits down. Asks the only question that matters (**"Is it teachable?"**), gets an honest **"no,"** and decides to think about it anyway. The strongest person not on the combat team, and he has just been told so to his face.
+- **Yun Xiao:** awake with a book and a stub of candle. Never asks what happened — he writes things down and waits until somebody is ready. Puts one thing on the record: **"I'd like to be good at something that gets said. That's all."** Closes with **"Noted."**
+
+### Ensemble — canon-verified state
+
+_Single source of truth: `CHARACTER_STATS.md` §1 (canon citations) and §3 (schedule)._
+_Every number below traces to a canon line or is labelled AU._
+
+- **Tang Wulin:** rank **15** (canon c133 *peak of rank 15*) · one white ten-year ring
+- **Xie Xie:** rank **19** (canon c72) · one yellow hundred-year ring
+- **Gu Yue:** rank **17** (canon c72) · one ring · spiritual power **153** at nine (canon c114)
+- **Xu Xiaoyan:** not yet introduced
+- **Zhang Yangzi:** rank **22** · spiritual power **41** (canon c113)
+- **Wang Jinxi:** rank **22** (canon c134) · spiritual power **18**, lowest in class zero (canon c113)
+- **Wei Xiaofeng:** rank **22** (canon c101)
+
+Canon position anchors for this point in the story: everyone in class zero is **10 years old** through the tournament arc (canon c221: *"They're so young though, only ten years old!"*); the Shrek working-student dorm holds **four** — Tang Wulin, Xie Xie, Gu Yue, Xu Xiaoyan (canon c288; + Lin Hao, AU = five invitees). Departure order: **Wei Xiaofeng left class zero first** (canon), then **Wang Jinxi transferred to another academy** (canon ch 153, staged in our ch43). **AU divergence:** in canon Zhang Yangzi transfers out with him; in this story Zhang Yangzi embraces Wang Jinxi on the steps and **stays at Eastsea Academy**, out of class zero.
+
+🔴 **REALM GAP LAW (v2.90):** every ten ranks is a wall, not a step. Lin Hao is a **Soul Elder with three purple rings**; everyone else here is rank 17–23 with two. None of them can defeat him — they can outlast him, survive him, cost him. Gu Yue does exactly that, because she is the one he cannot read.
+

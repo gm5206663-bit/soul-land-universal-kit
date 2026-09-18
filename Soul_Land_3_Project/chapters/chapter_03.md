@@ -1,368 +1,417 @@
-# Chapter 3: First Spirit Soul
+# Chapter 3: What the Metal Said
 
-## Canon Reference: Novel Chapters 19-21 — Spirit Pagoda Visit, First Spirit Soul, Golden Dragon King Seal
-## Timeline: Age 9, 3 years after Awakening Day
-
----
-
-## Part 1: Three Years of Growth (Age 6-9)
-
-Three years passed in Glorybound City, and the two boys grew in very different ways.
-
-### Lin Hao's Rapid Advancement
-
-Lin Hao's Adaptation Talent worked relentlessly, optimizing every aspect of his cultivation and training.
-
-**Year 1 (Age 6-7):**
-- Meditation efficiency: 25% → 35% (AT continuously optimized circulation patterns)
-- Swordsmanship: Mastered all basic forms in 3 months (normal students take 1-2 years)
-- Blacksmithing: Could forge simple tools with surprising precision
-- Soul power cultivation: Reached Soul Scholar rank 5 by year's end
-
-**Year 2 (Age 7-8):**
-- Meditation efficiency: 35% → 45% (AT refined meridians, reduced energy loss)
-- Swordsmanship: Advanced to intermediate forms, Chen Long called him "once-in-a-generation prodigy"
-- Blacksmithing: Could shape complex metal pieces, understanding of metallurgy deepened
-- Soul power cultivation: Reached Soul Scholar rank 8
-
-**Year 3 (Age 8-9):**
-- Meditation efficiency: 45% → 55% (AT optimized spiritual sea, enhanced soul power absorption)
-- Swordsmanship: Mastered intermediate forms, began learning advanced techniques
-- Blacksmithing: Approaching journeyman level, could forge quality weapons
-- Soul power cultivation: Reached Soul Scholar rank 10 at age 8 → absorbed Gale Hawk spirit soul six months later → broke through to Soul Master rank 11 → advanced to rank 17 by age 9
-
-By age 9, Lin Hao was a Soul Master rank 17 — miles beyond where the level-5 measurement at his awakening had placed him. Because the number had never been the whole truth: his Adaptation Talent had spent the years since rebuilding the things the crystal ball could not see — widening meridians, deepening affinity, purifying every cycle of soul power — making every meditation session more efficient, every technique more refined, and even his spirit soul integration deeper than normal limits allowed.
-
-Master Chen Long often shook his head in amazement. "In forty years of teaching, I've never seen anyone progress like you. Your martial soul is exceptional, but it's more than that. You have an instinct for the sword that can't be taught."
-
-Lin Hao just smiled modestly, but he knew the truth. His Adaptation Talent was working constantly, analyzing every movement, correcting every flaw, optimizing every aspect of his training.
-
-### Tang Wulin's Steady Progress
-
-Wulin's path was different. Without Lin Hao's innate advantages, he had to work twice as hard for half the progress.
-
-**Year 1 (Age 6-7):**
-- Spiral meditation technique: More efficient than standard method, but still limited by low innate soul power
-- Blacksmithing: Developed physical strength and endurance through Mang Tian's rigorous training
-- Soul power cultivation: Reached Soul Scholar rank 3 by year's end
-
-**Year 2 (Age 7-8):**
-- Spiral meditation: Continued refinement, but hitting limits of his physiology
-- Blacksmithing: Became proficient, could handle more complex forging tasks
-- Soul power cultivation: Reached Soul Scholar rank 5
-
-**Year 3 (Age 8-9):**
-- Spiral meditation: Reached peak efficiency for his current level
-- Blacksmithing: Approaching journeyman level, earning good money for family
-- Soul power cultivation: Reached Soul Scholar rank 10, ready for first spirit soul
-
-Wulin's determination never wavered. Every day after school, he trained at Mang Tian's workshop, his hands growing calloused, his arms growing strong. Every evening, he meditated with his spiral technique, pushing his soul power higher despite the limitations of his Blue Silver Grass martial soul.
-
-Na'er watched him with adoration, always waiting for him after training, always believing in him. "You'll be a great Soul Master, Brother Wulin," she'd say. "I know it."
+## Canon Reference: canon ch 9–23 — the three years, the spiritual-power test, the draw, the fusion, and the
+## variant.
+## ⚠️ This chapter **compresses canon ch 9–22** (three years of story time) and then adapts **canon ch 23**
+## in full. Recorded, not hidden.
+## Timeline: age 7 → 9, Glorybound City
+## Canon anchors held: three months of pure pounding, then simple extraction, then simple components, medium
+## components after two and a half years · **Mang Tian gifts the 40 kg Thousand Refined Tungsten Hammers after
+## one year, which is what formally makes a boy a blacksmith** · **Wulin saves 30,200 Federation Coins in three
+## years** and spends **30,000** on a random draw · the draw yields a **defective Grass Snake — ten
+## centimetres, earthen yellow, rhombus scales, no soul-beast genes** · the spiritual realms are **Spirit
+## Origin → Spirit Connection → Spirit Sea → Spirit Abyss → Spirit Domain → Divine Origin** · **Wulin tests 38;
+## the testing Spirit Master is a 28th-rank Soul Grandmaster with only 87** · the fusion takes **morning to
+## evening**, turns Bluesilver Grass into a **scaled vine with a golden stripe**, and a golden veined pattern
+## descends from the forehead and **rises from the tailbone** to meet at the spine · Wulin reaches **rank 11** ·
+## the **variant martial soul** rules · the Grass Snake is named **Goldlight** · **Bluesilver Emperor** is the
+## evolved form and the Tang Sect's founding patriarch carried Bluesilver Grass.
 
 ---
 
-## Part 2: Reaching the Threshold (Age 9)
+## Part 1 — The Three Years
 
-By their ninth birthday, both boys had reached the critical threshold — though at very different points on the path. Wulin had just reached Soul Scholar rank 10. Lin Hao was already Soul Master rank 17.
+The first three months, Mang Tian taught them nothing at all.
 
-Lin Hao had broken through to Soul Master six months earlier, when he absorbed his Gale Hawk spirit soul, his Adaptation Talent having accelerated his cultivation beyond normal limits. He'd been waiting for Wulin to catch up so they could visit the Spirit Pagoda together.
+He gave them metal and he gave them hammers and he went away, and when they asked what they were supposed to be making he said, with the patience of a man who has been asked this by every apprentice he has ever had, "Nothing. You're not making anything. You're hitting it."
 
-"Finally," Wulin said one evening, grinning at his friend. "Rank 10. I'm ready for my first spirit soul."
+So they hit it.
 
-Lin Hao nodded, though he'd already absorbed his first spirit soul months ago. He'd been training with it, learning to integrate it with his Stormbringer Sword, letting his Adaptation Talent optimize their synergy.
+Wulin was better at it than he had any right to be, and the reason was not talent. The reason was that Wulin had decided, at six years old, in a school cafeteria, that if the one part was no good he would simply be extraordinary at the ninety-nine — and he had meant it in the flat, unglamorous, entirely literal way that he meant everything. He came in the mornings. He stayed late. He hit metal on the days Mang Tian did not ask him to, which Mang Tian noticed and did not mention, because mentioning it would have made it a thing between them, and Mang Tian did not do things between him and apprentices.
 
-But he wanted to be there for Wulin's first spirit soul absorption. This was a crucial moment, and he wanted to support his friend.
+Lin Hao was worse at it, which infuriated him.
 
-"Tomorrow," Lin Hao said. "We'll go to the Spirit Pagoda together."
+He heard the metal immediately — that had been true from the first afternoon — and hearing it turned out to be almost useless, because hearing a thing and doing a thing are separated by a distance that no amount of hearing will cross. His shoulders went flat. His left hand arrived late. His strikes rang true and then, two hundred in, went dull in a way he could hear perfectly well and could not stop, which was the specific hell of being good at noticing.
 
----
+"You're listening for the right sound," Mang Tian told him, around the four-hundredth afternoon. "Stop it."
 
-## Part 3: The Spirit Pagoda (Canon Event)
+"Stop listening?"
 
-The Spirit Pagoda branch in Glorybound City was an impressive structure — tall, elegant, with intricate carvings and soul-powered lights that glowed with soft blue radiance.
+"Stop listening for *right*. There isn't a right. There's this piece, today, at this heat, and it's not the same as yesterday's." He tapped the lump with one knuckle. "You're comparing it to a sound in your head. That's why you're late. You're always a beat behind because you're checking."
 
-Inside, the air hummed with energy. Shelves lined with glowing orbs filled the back room, each containing a spirit soul — artificial spirits created from soul beast essence.
+Lin Hao, who was seven and had never in his life been told that thinking was the problem, said nothing for a while.
 
-A clerk greeted them professionally. "Welcome to the Spirit Pagoda. I understand you're here for first spirit souls?"
+Then he hit it, and did not check, and the sound came back.
 
-Tang Ziran nodded. "My son has reached Soul Scholar rank 10. We're here to purchase his first spirit soul."
+"That," said Mang Tian.
 
-The clerk pulled out a price list:
-- **White Spirit Soul (10-99 years):** 70,000 federal coins (73 options)
-- **Yellow Spirit Soul (100-999 years):** 1,000,000 federal coins (11 options)
-- **Random Spirit Soul:** 30,000 federal coins (unpredictable quality, may be defective)
-
-Wulin's stomach twisted. Even the cheapest option — 70,000 coins — was more than his family earned in several months.
-
-"I... I can't afford a white spirit soul," Wulin admitted, his voice tight.
-
-Tang Ziran placed a hand on his shoulder. "We could wait, son. I could borrow—"
-
-"No," Wulin interrupted firmly. "We already struggle to feed Na'er and me. I won't put our family in debt." He looked at the clerk. "I'll take the random spirit soul. 30,000 coins."
-
-The clerk raised an eyebrow. "Are you certain? Random spirit souls are unpredictable. The Spirit Pagoda has been experimenting with artificial souls created from regular non-spirit beasts, and the results have been... inconsistent. You may receive a defective spirit soul with little to no combat value."
-
-Wulin's jaw tightened. "I understand the risks."
-
-The clerk studied him for a moment, then nodded with respect. "Very well."
-
-He retrieved a dim, flickering orb from a shelf. Inside, a tiny snake-like creature coiled weakly — earthen yellow, barely ten centimeters long, thin as a child's finger, with tiny rhombus-shaped scales.
-
-"A Grass Snake," the clerk said. "Ten years old. This is considered a defective spirit soul. Grass Snakes are completely harmless to everything except insects. They have no combat value, no special abilities."
-
-Wulin stared at the tiny snake, his heart sinking. A defective spirit soul for a "trash" martial soul. It felt like fate mocking him.
-
-But he forced a smile. "Thank you. I'll take it."
-
-"You have 24 hours to absorb it," the clerk warned. "After that, it will dissipate and die."
+It took him eleven days to be able to do it twice in a row.
 
 ---
 
-## Part 4: Lin Hao's Second Spirit Soul
+After the three months came extraction — pulling the impurity out — and after that, simple components, which were ugly little brackets and pins that went into soul machines and that nobody would ever look at.
 
-While Wulin prepared to absorb his Grass Snake, Lin Wei took his son aside.
+Wulin made his first acceptable simple component in the fourteenth month.
 
-"Son," Lin Wei said quietly, "I know you already have your first spirit soul — the Gale Hawk you absorbed six months ago. But I've been saving money, and I want you to have a second option."
+Lin Hao made his in the ninth, and Mang Tian held it up to the light for a long time and then put it in the reject box, and when Lin Hao asked why, he said, "Because you made it in nine months and you're pleased with it, and I don't want you pleased with it."
 
-Lin Hao's eyes widened. "Dad, you don't have to—"
+He made his second in the eleventh month and it went in the good box.
 
-"I want to," Lin Wei insisted. "Your Stormbringer Sword is exceptional. It deserves the best spirit soul we can afford. I've saved 70,000 coins — enough for a white spirit soul."
+Medium components came at two and a half years, which was, Mang Tian said, fast. He did not say how fast. He had stopped volunteering comparisons some time around the point where he began needing them.
 
-Lin Hao was touched by his father's sacrifice. But he shook his head. "Dad, I already have the Gale Hawk. It's perfect for my martial soul. My Adaptation Talent has already optimized our integration — I'm faster, stronger, more aware than ever. A second spirit soul wouldn't help as much as you think."
+At the end of the first year he took both boys into the back room and gave them hammers.
 
-Lin Wei looked uncertain. "But—"
+**Thousand Refined Tungsten.** Forty kilos apiece. The handles were cut with a spiral that dug into the palm, and the heads were black, and on one face of each you could just make out a petal pattern that was not decoration — it was what the metal looked like after a thousand foldings and there was no way to put it there except to do the work.
 
-"Trust me," Lin Hao said gently. "The Gale Hawk is enough. Save the money for the family. Or save it for when I need my second spirit soul at Soul Grandmaster rank."
+Wulin nearly dropped his.
 
-Lin Wei studied his son for a long moment, then nodded slowly. "You've always been wise beyond your years, Hao. Very well. But when you reach Soul Grandmaster, I'll have the money ready."
+"These are yours," said Mang Tian. "You're blacksmiths now. That's what it means — not the skill, the hammers. You carry them, you keep them, you don't lend them." He looked at Lin Hao. "And you don't show them to anybody until you can hold them all day without your form going. Which you can't."
 
-Lin Hao smiled. "Thank you, Dad."
+"How long?"
 
----
-
-## Part 5: Wulin's Spirit Soul Absorption (Canon Event - Enhanced)
-
-That evening, Wulin sat cross-legged on his bed, the dim orb containing the Grass Snake resting in his palms. Na'er sat beside him, her amethyst eyes watching with concern.
-
-"Are you okay, Brother Wulin?" she asked softly.
-
-Wulin forced a smile. "I'm fine, Na'er. Just... disappointed, I guess."
-
-Na'er touched his hand. "It doesn't matter what spirit soul you have. You're still going to be a great Soul Master."
-
-Her faith warmed his heart. "Thanks, Na'er."
-
-He took a deep breath and began the absorption process. Soul power flowed from his body into the orb, drawing the Grass Snake's essence into his being.
-
-The tiny snake dissolved into golden light and merged with his Blue Silver Grass martial soul.
-
-And then, something extraordinary happened.
-
-A golden pattern spread from Wulin's spine, covering his entire body in intricate lines that pulsed with power. His Blue Silver Grass vines emerged from his palm, but they were different now — threaded with shimmering golden veins that pulsed like a living heartbeat.
-
-The Grass Snake, infused with the golden energy, began to transform.
-
-**Lin Hao watched with his Adaptation Talent analyzing everything:**
-
-*Observation: Golden energy emanating from Wulin's spine. Source: Unknown bloodline. Power level: Extremely high, possibly divine-tier.*
-
-*Analysis: The golden energy is interacting with the Grass Snake spirit soul. The snake's basic structure is being rewritten at the fundamental level. Its bloodline is... evolving?*
-
-*This isn't normal spirit soul absorption. This is something else entirely. The golden energy is transforming the Grass Snake into something far more powerful.*
-
-The transformation continued. The Grass Snake's earthen yellow body turned golden, radiant scales forming along its length. It grew larger, stronger, more powerful. Two small horns emerged from its head, and its eyes began to emit a golden light.
-
-*Incredible,* Lin Hao thought, his Adaptation Talent working furiously to understand what was happening. *The spirit soul is evolving beyond its original form. It's becoming... a dragon? No, a replica of a dragon. A Golden Dragon.*
-
-*And Wulin's Blue Silver Grass is being enhanced as well. The golden veins are making it far tougher, far stronger than normal. This is a mutation — a beneficial mutation triggered by the golden bloodline.*
-
-The transformation lasted nearly an hour. When it finally ended, Wulin collapsed onto his bed, exhausted but exhilarated.
-
-He looked at his Blue Silver Grass vines. They were tougher now, stronger, threaded with golden lines that pulsed with power. And coiled around his wrist was the Grass Snake — but it was no longer a weak, defective spirit soul.
-
-It had evolved into something magnificent.
-
-Its body was now golden, covered in radiant scales. It had grown to nearly a meter in length, with two small horns and eyes that gleamed with golden light. It was intelligent, loyal, powerful.
-
-"Goldsong," Wulin whispered, the name coming to him instinctively. "Your name is Goldsong."
-
-The spirit soul raised its head and let out a soft hiss, its golden eyes filled with intelligence and devotion.
-
-**Lin Hao's Adaptation Talent continued analyzing:**
-
-*Goldsong. A Golden Dragon replica, evolved from a defective Grass Snake through the influence of Wulin's mysterious golden bloodline.*
-
-*This is extraordinary. The spirit soul has been completely transformed. Its bloodline is now draconic, its characteristics enhanced a hundredfold. It's no longer a 10-year Grass Snake — it's something far more powerful, with the potential to evolve even further as Wulin grows stronger.*
-
-*And Wulin's Blue Silver Grass has been mutated as well. The golden veins have enhanced its toughness, its strength, its potential. This isn't just Blue Silver Grass anymore — it's something unique, something powerful.*
-
-*Wulin doesn't understand what's happening to him. But I can see it. That golden bloodline is changing everything — his martial soul, his spirit soul, his very potential.*
+"As long as it takes."
 
 ---
 
-## Part 6: The First Seal Breaks (Canon Event)
+There is a thing that happens to a boy who spends three years hitting metal, and neither of them could have described it at the time, and both of them would have denied it if you had suggested it.
 
-Deep within Wulin's mind, something stirred.
+Wulin got strong in the way that is not impressive — slowly, unevenly, in the shoulders and the forearms, so that by nine he could lift a thing another nine-year-old could not lift, and did not think anything of it, because he had been lifting it since he was seven.
 
-The golden patterns that had covered his body during the spirit soul absorption hadn't just transformed Goldsong and his Blue Silver Grass. They had done something else as well.
+Lin Hao got *accurate*. Which was different, and which he noticed, because he noticed everything. He noticed that he could put a strike exactly where he had decided to put it, and that the deciding had got faster, and that the gap between deciding and doing had got so small he could no longer find it. He noticed that when he watched somebody move he could see the moment before they moved. He noticed that he had started reading the grain of a blade the way other people read a face.
 
-The first seal of the Golden Dragon King bloodline had begun to crack.
+He did not have a word for any of it. He was nine. He assumed everybody's head did this and that it was simply impolite to mention.
 
-Pain lanced through Wulin — intense, burning pain as if his very bones were being reforged. He gritted his teeth, refusing to scream. Na'er watched with wide eyes, her hand covering her mouth.
+What he did have, by nine, was a sword he understood and a trade he was good at and a best friend who ate like a famine and worked like a man serving a sentence, and he had begun — very quietly, without telling anybody, because he had noticed that people got strange when you told them — to work out how much money all of that could be turned into.
 
-**Lin Hao sensed the change:**
-
-*Something's happening to Wulin. His soul power is fluctuating wildly. And there's that golden energy again — it's surging through his body, changing him at the fundamental level.*
-
-*This is... a seal breaking? Something sealed within him is being released. The golden bloodline is unlocking, granting him new power.*
-
-The transformation continued for several minutes. When it finally ended, Wulin gasped, his body trembling with exhaustion and exhilaration.
-
-He could feel it — enhanced strength, enhanced regeneration, a power coursing through his veins that hadn't been there before.
-
-**Lin Hao's Adaptation Talent analyzed the changes:**
-
-*Confirmed: Wulin's physical capabilities have been enhanced significantly. His strength, speed, endurance, regeneration — all improved by at least 50%.*
-
-*This is the result of the first seal breaking. Whatever that golden bloodline is, it's granting him incredible power.*
-
-*And there's more. I can sense additional seals — seventeen more, based on the energy patterns. As Wulin grows stronger, more seals will break, granting him even more power.*
-
-*This explains so much. The golden energy during his awakening, the transformation of his spirit soul, the mutation of his Blue Silver Grass — it's all connected to this sealed bloodline.*
-
-*Wulin is far more special than anyone realizes. Including himself.*
+Because Wulin was saving. And Wulin had a number in his head. And Lin Hao had worked out, some time in the second year, what the number was for.
 
 ---
 
-## Part 7: Old Tang Appears (Canon Event)
+## Part 2 — Thirty-Eight
 
-That night, as Wulin slept, he found himself in a strange mental space — a vast golden void filled with swirling energy.
+The Spirit Pagoda tested spiritual power once a term, for free, because the Spirit Pagoda was interested in children the way a fisherman is interested in the sea.
 
-Before him stood a figure — an old man with kind eyes and a gentle smile. He wore simple robes, and his presence radiated wisdom and power.
+The man who ran the machine in the Glorybound branch was in his fifties and had the flattened, courteous manner of somebody who has watched forty thousand families be disappointed.
 
-"Hello, Wulin," the old man said. "You can call me Old Tang."
+Wulin went first, because Lin Hao pushed him.
 
-Wulin stared at him, confused. "Who are you? Where am I?"
+The crystal took his hand and the needle went up and stopped, and the man leaned forward slightly, which was the first unprofessional thing he had done all afternoon.
 
-"You're in your own mind," Old Tang explained. "And I'm... a guide, of sorts. I've been watching over you for a long time."
+"**Thirty-eight.**"
 
-He gestured to the golden void around them. "What you experienced today — the golden patterns, the evolution of your spirit soul, the seal breaking — that was the first seal of the Golden Dragon King bloodline beginning to crack."
+"Is that good?" said Wulin.
 
-Wulin's eyes widened. "Golden Dragon King? What are you talking about?"
+The man looked at him for a moment. "At nine? It's advanced Spirit Origin. It's a long way above average." He straightened up. "Most children your age are in the teens."
 
-Old Tang's expression turned serious. "You have a special bloodline, Wulin. The bloodline of the Golden Dragon King — one of the most powerful divine beasts to ever exist. Your father sealed it with 18 seals to protect you, because the power is too great for a child to handle."
+Lin Hao went second and got forty-one, and the man wrote it down without comment, because forty-one after thirty-eight is not a story.
 
-"My... father?" Wulin whispered. "You know my father?"
+Then Wulin — who had been building up to this for eleven minutes, and who had clearly decided that the way to ask a frightening question was to ask it very fast — said, "What's yours?"
 
-Old Tang nodded. "I do. And someday, you'll meet him. But for now, you need to focus on growing stronger. As you break each seal, you'll gain new abilities — enhanced strength, regeneration, dragon powers. But be careful. The power is immense, and if you're not ready, it could overwhelm you."
+And the man, who could have said anything, and who had possibly not been asked in a decade, smiled the thin smile of a man who has made peace with something.
 
-He placed a hand on Wulin's shoulder. "You've taken your first step today. Goldsong is a manifestation of the Golden Dragon King's power, adapted to your Blue Silver Grass martial soul. Use it well, Wulin. And remember — you're destined for greatness."
+"**Eighty-seven.**" He let that sit. "I'm a twenty-eighth rank Soul Grandmaster. Four rings. I've cultivated for forty-one years." He tapped the machine. "Spiritual power isn't effort. You can't grind at it the way you grind at soul power. It grows with the body and it grows with the mind, and some people get more of it than other people, and that's the whole of it."
 
-The vision faded, and Wulin woke up, his mind racing with questions.
+"So what is it?" said Wulin. "What's it *for*?"
 
-Golden Dragon King bloodline? Seals? Old Tang?
+The man glanced at the door, which was the gesture of a man deciding to do something slightly outside his job.
 
-He didn't understand it all yet. But he knew one thing for certain.
+"It's the ladder," he said. "**Spirit Origin** — that's where everybody starts, that's you two. Above a hundred is **Spirit Connection**, and that's when your mind and your spirit soul can actually talk to each other. Above that is **Spirit Sea**. Then **Spirit Abyss**, then **Spirit Domain**, and then **Divine Origin**, which is a word for gods and I've never met anybody who's said it out loud without laughing."
 
-His journey was just beginning.
+He leaned on the counter.
+
+"Here's the part that matters, and nobody tells children this. **Your spiritual power decides how much spirit soul your body can carry.** Spirit Origin? One. Maybe one yellow one. Spirit Connection? Two yellows, or one purple. Spirit Sea?" He shrugged. "Five yellows. Three purples. A black one if you can afford it, and you can't."
+
+Wulin was very still.
+
+"Because a spirit soul is what gives you rings," said the man, "and rings are what give you soul skills, and soul skills are the entire difference between a man who can fight and a man who can't. So the ladder isn't a ladder. It's a *ceiling*. And it goes up before you're born."
+
+He straightened up, glanced at the door again, and went back to being a man doing a job.
+
+"Thirty-eight is a good number, son. Don't let anybody tell you it isn't."
 
 ---
 
-## Part 8: The Next Day
+They walked home without talking for two blocks.
 
-The next morning, the two boys met at their usual training spot.
+Then Wulin said, "Eighty-seven. Forty-one years."
 
-Wulin looked different. His Blue Silver Grass vines now had golden threads running through them, and Goldsong coiled around his shoulders like a living golden bracelet. His movements were more confident, more powerful.
+"He said it isn't effort."
 
-"Your spirit soul evolved?!" Lin Hao exclaimed, though his Adaptation Talent had already analyzed it thoroughly.
+"He said it isn't *only* effort." Wulin's jaw had the particular set it got when he had hold of something. "He said it grows with the mind. Minds do things."
 
-Wulin nodded, grinning. "Yeah! It was supposed to be a defective Grass Snake, but something happened during absorption. Golden patterns covered my body, and the snake transformed into... this. I call it Goldsong."
+"They don't do much."
 
-He demonstrated, and Goldsong raised its head, its golden eyes gleaming with intelligence.
+"They do if you make them." Wulin stopped walking. "Hao. I'm going to get to a hundred."
 
-Lin Hao studied it with genuine fascination (even though he'd already analyzed it). "That's amazing, Wulin. It's like... a mini dragon."
+Lin Hao looked at his friend — nine years old, rank eleven in soul power, thirty-eight in the thing that mattered, wearing a shirt his mother had let out twice — and did the thing he had been doing privately for three years, which was to look at Wulin and to find, to his continuing astonishment, that he could not work out what the boy was going to end up being.
 
-"I know!" Wulin said excitedly. "And my Blue Silver Grass is stronger too. Look."
+He could work out everybody. He could not work out Wulin.
 
-He manifested his vines, and they were visibly tougher, threaded with golden lines that pulsed with power.
+"Right," said Lin Hao. "Well. I'd better keep up, hadn't I."
 
-"And I feel... different," Wulin continued. "Stronger. Faster. Like I have more energy than before."
+---
 
-**Lin Hao nodded, his Adaptation Talent confirming what Wulin was feeling:**
+## Part 3 — Thirty Thousand Two Hundred
 
-*The first seal has broken, granting Wulin enhanced physical capabilities. His strength, speed, endurance, regeneration — all improved significantly.*
+It took Wulin three years.
 
-*He doesn't understand what's happening to him yet. But he's experiencing the benefits of the Golden Dragon King bloodline.*
+He did it the way he did everything, which was completely and without charm. He took in mending. He swept the workshop on the days Mang Tian did not need him, for coin. He carried things. He ate at home, always, which his mother noticed and said nothing about, and which Lin Hao noticed and said a great deal about, and which Wulin waved away because he had a number in his head and the number was more real to him than dinner.
 
-"That's incredible," Lin Hao said aloud. "Your spirit soul evolution must have triggered some kind of mutation in your body as well."
+On the morning of his ninth birthday he had **thirty thousand two hundred Federation Coins.**
 
-Wulin shrugged. "I guess. I don't really understand it. But I feel great!"
+He went to the Spirit Pagoda branch with Lin Hao beside him and put the money on the counter in a cloth bag, and the woman behind the glass — who had given them both the tour three years ago and who remembered, because she remembered everybody — looked at the bag and then at his face, and her expression did something complicated.
 
-Lin Hao smiled. "That's what matters. Now, let's train. I want to see how your new spirit soul works in combat."
+"The draw," said Wulin.
 
-The two boys began sparring, and Lin Hao immediately noticed the difference. Wulin was faster, stronger, more resilient than before. His Blue Silver Grass vines were tougher, harder to break. And Goldsong assisted him, wrapping around enemies, enhancing his attacks.
+"Child—"
 
-**Lin Hao's Adaptation Talent analyzed the combat dynamics:**
+"The draw, please."
 
-*Wulin's combat effectiveness has increased by at least 40%. The combination of his enhanced physical capabilities, mutated Blue Silver Grass, and evolved Goldsong spirit soul makes him far more dangerous than before.*
+"**Thirty thousand,**" she said. "You understand there's no refund. You understand that the draw can produce something that is not, in any useful sense, a spirit soul."
 
-*He's still not as strong as me — I have three years of optimized training, advanced swordsmanship, and my Gale Hawk spirit soul. But the gap is closing.*
+"Yes."
 
-*And as more seals break, Wulin will continue to grow stronger. His potential is... enormous.*
+"You could get a ten-year white. You could get nothing." She looked at the bag again. "Seventy-three white ones behind me at seventy thousand. Eleven yellow at a million. Those are the ones that work. The draw is—" she searched for a word that was not cruel and did not find one "—the draw is what poor people buy."
 
-*This is going to be interesting.*
+"I know," said Wulin. "That's why I can afford it."
+
+She opened the drawer.
+
+---
+
+It came out of the light in the woman's hand, and it was a snake, and it was ten centimetres long.
+
+Earthen yellow. Rhombus scales, neatly ranked, the size of a fingernail paring. It moved in a way that snakes move. It had, by every test the Spirit Pagoda applied, the shape of a spirit soul.
+
+It had no soul-beast genes.
+
+The woman held it up to the lamp for a long moment, and her face went into the flat professional neutral that Lin Hao had already learned to read as *bad news arriving politely*.
+
+"It's defective," she said. "It's a Grass Snake. It's—" she turned it slightly "—it's essentially a very well-made picture of a snake."
+
+Wulin did not move.
+
+"Can I still fuse it?"
+
+"You can. It'll give you a ring. It won't give you much else." She set it down gently, the way you set down something that has cost somebody everything. "Ten-year white. Weakest category there is. I'm sorry, child."
+
+Wulin picked it up.
+
+It curled around his finger and lay there, and it was, Lin Hao thought, the saddest thing he had ever seen — not because it was weak, but because Wulin had carried a cloth bag of coins for three years and gotten exactly what the woman had told him he would get, and because he was still holding it very carefully, the way you hold something alive.
+
+"What do you want to do?" said Lin Hao, quietly.
+
+"I want to fuse it," said Wulin.
+
+---
+
+## Part 4 — Morning to Evening
+
+They did it in the garden behind the Tang house, because Mang Tian had said a fusion needed room and privacy and had then, characteristically, not come.
+
+It began at dawn.
+
+Lin Hao sat on the wall and watched, because he had been told to watch — *"if his soul power goes wrong you run and get me, you don't try to be clever"* — and he had agreed, and had then discovered over the following nine hours that watching Wulin work was the most interesting thing he had ever done.
+
+The Grass Snake went into the Bluesilver Grass.
+
+That was the only way Lin Hao could afterwards describe it. The small earthen-yellow thing uncoiled from Wulin's palm and went *into* the thin green sprig, and the sprig took it, and nothing happened for a while.
+
+Then the grass began to change.
+
+It thickened. It lengthened. The thin weak blades that had been the joke of a school cafeteria in Glorybound City ran out along the ground and up the wall and over the top of it, and as they ran they put on **scales** — fine, overlapping, the same rhombus pattern the snake had had — and along the length of each one there came a **stripe of gold**, thin as a thread, running the whole way.
+
+It was not grass any more.
+
+It was a **vine.**
+
+Wulin screamed around noon. Lin Hao was off the wall and halfway across the garden before he remembered the instruction, and then he stopped, because Wulin's eyes were open and Wulin was looking at him and shaking his head very slightly, which was, in the vocabulary the two of them had built over nine years, *stay there.*
+
+So he stayed.
+
+The golden veined pattern came last. It appeared on Wulin's forehead — the same place it had appeared at the awakening, three years earlier, the thing the Spirit Master had never seen in tens of thousands of children — and it ran down his neck and along his arms. And at the same time, separately, another pattern **rose from his tailbone**, up the small of his back, and the two met at his spine and joined.
+
+It finished at dusk.
+
+Wulin lay in the grass with a vine the length of a clothesline lying across his chest, and he was **rank eleven.**
+
+He had gone from rank three to rank eleven in one day, and he looked up at Lin Hao with an expression of total, exhausted, unembarrassed joy, and said, "I'm a Soul Master."
+
+---
+
+## Part 5 — What Mang Tian Could Not Tear
+
+Mang Tian came the next morning, and the first thing he did was try to pull the vine apart.
+
+He did it casually, the way a man tests a rope. He was a **fortieth-rank Soul Ancestor with four soul rings** and thirty-one years of hands, and he put his first soul skill into it — **Tenacity**, the white ten-year rabbit, the weakest ring he owned and the one he used for exactly this — and he pulled.
+
+The vine did not break.
+
+He pulled harder. Tang Ziran, who had come out with tea, put the tea down.
+
+And then Mang Tian stopped, and let go, and looked at his disciple with an expression Lin Hao had never seen on him before, which was the expression of a man revising something.
+
+"You felt that?" he said.
+
+"My soul power went," said Wulin. "It just — went. Like it got eaten."
+
+"Yes." Mang Tian sat down on the step, which he did not usually do. "Sit down. Both of you. You're going to learn a word today and I want you to learn it properly."
+
+He held up the vine.
+
+"**Variation.** Under special circumstances a martial soul varies. It happens when you fuse with a spirit soul that's very compatible with it — or very *in*compatible. It happens when something outside stimulates it. Some people are born varied. Some vary during the awakening itself." He turned the vine in his hands. "And there are good variations and bad ones. A strong martial soul can be weakened by varying. A weak one can be made strong."
+
+"Bluesilver Grass becomes a vine," said Lin Hao. "That's normal, isn't it. You said."
+
+"It's *possible*. It's what's supposed to happen, and it's what happened to a man I knew — his Bluesilver Grass went to a vine thicker than this one and I tore it apart with my bare hands." He lifted it an inch. "I cannot tear yours. With a soul skill in it. That is not possible. Not unless the strength of the martial soul is tied to the soul power behind it, which means—" he let go "—which means I can't break this until you run out. And you're eleven."
+
+There was a silence in the garden.
+
+"Is that good?" said Wulin, in a small voice.
+
+"That's the best thing that has ever happened to you," said Mang Tian. "It isn't *absolutely* good — it depends entirely on how well you control it, and a vine is a control-type soul, and if you tangle with a man whose soul power is higher than yours he'll struggle free and bleed you dry, so it's a war of attrition you'll lose. Use it like a whip. Don't hug people with it." He stood up. "And there may be another variation when you take your second ring. I can't tell you what it'll be. Nobody can."
+
+He went into the workshop.
+
+Then he came back out, because he was Mang Tian and he could not leave a thing half-said.
+
+"You asked me once," he said to Wulin, "whether it was really true that your grass was trash. It isn't any more. You've profited from a disaster. Go and be insufferable about it somewhere else."
+
+---
+
+## Part 6 — Goldlight
+
+That night, in the garden, with the moon up and his parents asleep, Wulin called the snake out.
+
+It came — ten centimetres, earthen yellow, rhombus scales, worth thirty thousand Federation Coins and nothing at all — and lay in the hollow of his palm, and it had been with him for a day, and a spirit soul stays with its master for life and dissipates only when the master dies, which was a fact Wulin had read three times and had not, until that moment, properly understood.
+
+"Thank you," he said to it. "You gave me hope and I turned my back on you for about a month and I'm sorry."
+
+The snake raised its head and flicked its tongue.
+
+"I should give you a name."
+
+The little scale on its forehead flashed gold.
+
+Wulin sat up straight.
+
+"Do that again."
+
+It did not. It could not; it had the intelligence of a very small animal and no comprehension whatsoever of what was being asked of it. But the gold was there, in the scale, where it had not been before the fusion, and Wulin looked at it for a long time.
+
+"**Goldlight,**" he said. "Because you can turn gold, and because if your whole body ever does that, I want you to know I'll have seen it first."
+
+The snake did not object.
+
+So its name was Goldlight — a simple name, and a good one, and the first thing in Tang Wulin's life that had been given to him for nothing and had turned out to be worth having.
+
+---
+
+## Part 7 — The Hawk
+
+Lin Hao had taken his ring six months earlier, and he had not made a fuss about it, which in retrospect everybody agreed was the most Lin Hao thing about the whole affair.
+
+He had saved separately from Wulin — not three years, because Lin Hao had begun selling components in his second year and Mang Tian had taken a percentage and then, noticing what the percentage was doing, had quietly stopped taking it — and he had not bought the draw, because he had done the arithmetic on the draw and found it obscene.
+
+He had bought a **Gale Hawk.**
+
+Wind, with lightning in it. Ten years. White. Cheap, in the way that ten-year things are cheap, and exactly suited to a sword that already had wind and lightning in it, which the woman at the counter had called a coincidence and Lin Hao had not.
+
+Fusing it had taken an afternoon. The ring had come up white around his feet and settled, and the Stormbringer Sword had got *quieter*, which he had not expected — the restlessness along the edge had stopped being a tremor and become a decision, as though the blade had been asking a question for three years and had finally been given enough information to form an opinion.
+
+His rank went to eleven.
+
+And something else happened, which he told nobody, because he had learned at six years old in an alley behind a fish market that information was a thing you kept until you knew what it was worth.
+
+The hawk had looked at him.
+
+Not at the room. Not past him. At *him* — with the flat golden attention of a bird that had been dead for ten years and was somehow still, in some sense Lin Hao could not define, in there — and it had looked at him for perhaps two seconds, and then gone.
+
+He had thought about those two seconds every day for six months.
+
+He had not worked out what they meant. He had, however, worked out that he intended to.
+
+---
+
+Three years. Two rings. One vine and one sword.
+
+And in a small room at the back of a house two doors down, a girl with silver hair who had no martial soul at all and no record anywhere in the Sun-Moon Federation sat up in bed, once a week or so, while seven colours turned slowly around her and went in between her eyes.
+
+Nobody knew.
+
+The three of them were nine years old, and Glorybound City was very small, and none of them had the faintest idea what was coming.
 
 ---
 
 ## End of Chapter 3
 
 ### Chapter Summary:
-- **3-year time skip (Age 6-9):** Detailed progression showing Lin Hao's rapid advancement (rank 17) vs Wulin's steady progress (rank 10)
-- **Lin Hao's advantages:** Higher innate soul power (5 vs 3) + Adaptation Talent = significantly faster cultivation
-- **Spirit Pagoda visit:** Wulin can only afford random spirit soul (30k coins), gets defective Grass Snake
-- **Lin Hao already has first spirit soul:** Absorbed Gale Hawk 6 months earlier (rank 11), father offers second but Lin Hao declines
-- **Wulin's spirit soul absorption:** Golden patterns appear, Grass Snake evolves into Goldsong (Golden Dragon replica)
-- **Lin Hao's Adaptation Talent analyzes everything:** Bloodline transformation, spirit soul evolution, martial soul mutation
-- **First Golden Dragon King seal breaks:** Wulin gains enhanced strength/regeneration
-- **Old Tang appears:** Explains Golden Dragon King bloodline and 18 seals
-- **Both become Soul Masters:** Lin Hao rank 17 (already, months of compounding growth past his breakthrough), Wulin rank 11 (newly)
+Three years, told as scenes rather than statistics. Mang Tian teaches them nothing for three months except to
+hit metal; Lin Hao's problem is that he *listens* and listening makes him late. At the end of the first year
+both boys receive **forty-kilo Thousand Refined Tungsten Hammers**, which is what formally makes them
+blacksmiths. The Spirit Pagoda tests them: **Wulin 38, Lin Hao 41**, against a 28th-rank Soul Grandmaster with
+**87**, who explains the ladder and the ceiling it puts over every Soul Master. Wulin saves **30,200 coins in
+three years**, spends **30,000** on the draw, and receives a **defective ten-year Grass Snake**. He fuses it
+anyway. The fusion runs from morning to evening, turns Bluesilver Grass into a **scaled vine with a golden
+stripe**, brings the golden pattern down from his forehead and **up from his tailbone** to meet at his spine,
+and takes him to **rank eleven**. Mang Tian cannot tear the vine apart and teaches them the word **variation**.
+Wulin names the snake **Goldlight**. Lin Hao took his **Gale Hawk** six months earlier — and the hawk looked at
+him, and he has thought about it every day since.
 
 ### Character Progression:
-- **Lin Hao:** Soul Master rank 17 (broke through to rank 11 six months ago via Gale Hawk, now rank 17), Stormbringer Sword + Gale Hawk spirit soul (optimized integration), Advanced swordsmanship, approaching journeyman blacksmith, 3 years ahead of expected progression due to Adaptation Talent
-- **Tang Wulin:** Soul Master rank 11 (just reached), Blue Silver Grass (mutated with golden veins) + Goldsong spirit soul (evolved Grass Snake), 1st Golden Dragon King seal broken (enhanced physical capabilities), Old Tang spiritual guide
-- **Na'er:** Age 8-9, devoted to Wulin, witnessed spirit soul evolution
+- **Lin Hao:** rank **11** · one white ten-year ring (Gale Hawk, wind + lightning) · spiritual power **41**
+  (Spirit Origin) · a blacksmith with his own Thousand Refined Tungsten Hammers · **the Adaptation Talent is
+  never named in the prose** — it is shown as accuracy, as reading the grain, as seeing the moment before
+  somebody moves.
+- **Tang Wulin:** rank **11** · one white ten-year ring (**Goldlight**) · spiritual power **38** · Bluesilver
+  Grass varied into a scaled golden-striped vine.
+
+### Canon Facts Established (all verified):
+- The **spiritual-power ladder and what it gates** — Spirit Origin → Connection → Sea → Abyss → Domain →
+  Divine Origin, with the spirit-soul capacity of the first three. **Uses the ch 69/114/134 version
+  (Spirit Origin 1–100), not canon ch 17's contradictory 1–50 — see `CANON_ACCESS.md`.**
+- **Wulin 38 / the Spirit Master 87 at 28th rank** — canon ch 17's exact figures.
+- **30,200 coins saved; 30,000 for the draw; the defective Grass Snake** — ten centimetres, earthen yellow,
+  rhombus scales, no soul-beast genes.
+- **The fusion takes morning to evening** and the pattern **rises from the tailbone**.
+- **The variant martial soul rules, verbatim in substance** — compatibility, incompatibility, external
+  stimulation, birth, awakening; good and bad variations; *"another variation once you obtain your second soul
+  ring."*
+- **Goldlight**, and the rule that a spirit soul dissipates only at its master's death.
+- **Forty-kilo Thousand Refined Tungsten Hammers after one year = a blacksmith.**
 
 ### Butterfly Effects Shown:
-1. ✅ Lin Hao's higher innate soul power + Adaptation Talent = significantly faster cultivation (rank 17 vs Wulin's rank 10)
-2. ✅ Lin Hao already absorbed first spirit soul 6 months earlier (doesn't need to do it again in this chapter)
-3. ✅ Lin Hao's Adaptation Talent analyzes Wulin's spirit soul evolution in detail (bloodline, characteristics, mutations)
-4. ✅ Power gap established: Lin Hao is ahead due to advantages, but Wulin's potential is enormous
-
-### World Details Shown:
-- ✅ Spirit Pagoda branch, pricing, spirit soul options
-- ✅ Random spirit souls can be defective
-- ✅ 24-hour absorption time limit
-- ✅ Spirit soul absorption process (soul power flows, essence merges)
-- ✅ Spirit souls can evolve under special circumstances
-- ✅ Spirit souls have bloodlines, characteristics, mutations (analyzed by Adaptation Talent)
-
-### Critical Improvements Over Previous Version:
-1. ✅ **Power level consistency:** Lin Hao is rank 17, Wulin is rank 10 (logical given their advantages)
-2. ✅ **Detailed 3-year progression:** Showed training montages, rank advancement over time
-3. ✅ **Adaptation Talent shown in detail:** Analyzing bloodlines, characteristics, mutations, evolution
-4. ✅ **Spirit soul importance emphasized:** Bloodlines, characteristics, mutations, evolution potential
-5. ✅ **Lin Hao already has spirit soul:** Doesn't need to absorb one in this chapter (already did 6 months ago)
-6. ✅ **Power gap acknowledged:** Lin Hao is ahead, but Wulin's potential is enormous
-7. ✅ **Self-critical approach:** Identified logical flaws and fixed them
+- **Lin Hao does not buy the draw.** He does the arithmetic, finds it obscene, and buys a suited ten-year hawk
+  instead. Two poor boys, same city, same shop — one buys hope, one buys fit. That contrast is the spine of
+  their trade rivalry and it comes straight from character.
+- **The hawk looked at him.** Canon gives Wulin a golden dragon and a thread of divine consciousness; Lin Hao
+  gets two seconds of attention from a dead bird and no explanation. Open thread, deliberately unresolved.
 
 ### Next Chapter Preview:
-**Chapter 4: East Sea Academy**
-- Time skip to age 10 (1 year later)
-- Both boys attend East Sea Academy entrance exams
-- Meet Xie Xie, Xu Xiaoyan, Gu Yue (canon characters)
-- Form team, participate in competitions
-- Tang Wulin advances in forging (becomes 2-star blacksmith)
-- Lin Hao's Adaptation Talent helps him master academy techniques rapidly
-- Wulin needs to break 2nd Golden Dragon King seal by age 15
-- Character development, relationships deepen
+Eastsea City. Three million people, a soul train, and an academy with five classes — and a girl who turns up
+after the registration has closed.
+
+### Character States:
+- **Lin Hao:** age 9 · Stormbringer Sword · **rank 11** · 1 white ring (Gale Hawk, ~10 years) · spiritual power
+  **41** (Spirit Origin) · blacksmith, Thousand Refined Tungsten Hammers
+  ring (**Goldlight**, 10 years, defective) · spiritual power **38**
+- **Na'er:** age 9 · no martial soul · no records · the seven-coloured ring continues
+- **Canon coverage:** ch 9–22 compressed · **ch 23 adapted in full**
+
+### Ensemble — canon-verified state
+
+_Single source of truth: `CHARACTER_STATS.md` §1 (canon citations) and §3 (schedule)._
+_Every number below traces to a canon line or is labelled AU._
+
+- **Tang Wulin:** rank **11** (canon c45 intake) · no rings yet — age 6-9
+- **Xie Xie:** not yet introduced
+- **Gu Yue:** not yet introduced
+- **Xu Xiaoyan:** not yet introduced
+- **Zhang Yangzi:** not yet introduced
+- **Wang Jinxi:** not yet introduced
+- **Wei Xiaofeng:** not yet introduced
+
+Canon position anchors for this point in the story: everyone in class zero is **10 years old** through the tournament arc (canon c221: *"They're so young though, only ten years old!"*); the Shrek working-student dorm holds **four** — Tang Wulin, Xie Xie, Gu Yue, Xu Xiaoyan (canon c288; + Lin Hao, AU = five invitees). Departure order: **Wei Xiaofeng left class zero first** (canon), then **Wang Jinxi transferred to another academy** (canon ch 153, staged in our ch43). **AU divergence:** in canon Zhang Yangzi transfers out with him; in this story Zhang Yangzi embraces Wang Jinxi on the steps and **stays at Eastsea Academy**, out of class zero.
+
+🔴 **REALM GAP LAW (v2.90):** every ten ranks is a wall, not a step. Lin Hao is a **Soul Elder with three purple rings**; everyone else here is rank 17–23 with two. None of them can defeat him — they can outlast him, survive him, cost him. Gu Yue does exactly that, because she is the one he cannot read.
+

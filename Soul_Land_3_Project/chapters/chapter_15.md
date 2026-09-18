@@ -1,6 +1,6 @@
 # Chapter 15: White Robes and Blue Sword, Sky Ice and Snow Cold
 
-## Canon Reference: Novel Chapters 83-86 ("Guang Biao" / "Ten Thousand Year Soul Ring" / "White Robes and Blue Sword, Sky Ice and Snow Cold I-II") — the gate confrontation preserved: ~200 mecha masters with federation-prohibited soul devices, the stretcher and banner, Guang Biao (mecha brigade captain, six-ring Soul Emperor, Armored Dragon, two lizard souls + thousand-year purple python), Long Hengxu's defiance ("step over my dead body"), Wu Zhangkong's entrance and the Skyfrost Sword's rings (yellow, yellow, purple, purple, BLACK, BLACK — two ten-thousand-year rings), the two-sword-strike victory, "You're from that place" / "I was expelled… my temper wasn't good," the sisters' reactions (Ye Yingrong's fall, YE YINGLUO named — primary-text verified ch 86), the "Prince Charming" cheers, Guang Biao's ten-minute freeze and withdrawal, the ice-wave dismissal + curfew, Xie Xie's tremble. AU: the Four (four photographs); Lin Hao reads the gate and watches the sword-intent lesson at master level
+## Canon Reference: canon ch 83–86 ("Guang Biao" / "Ten Thousand Year Soul Ring" / "White Robes and Blue Sword, Sky Ice and Snow Cold I-II") — the gate confrontation preserved: ~200 mecha masters with federation-prohibited soul devices, the stretcher and banner, Guang Biao (mecha brigade captain, six-ring Soul Emperor, Armored Dragon, two lizard souls + thousand-year purple python), Long Hengxu's defiance ("step over my dead body"), Wu Zhangkong's entrance and the Skyfrost Sword's rings (yellow, yellow, purple, purple, BLACK, BLACK — two ten-thousand-year rings), the two-sword-strike victory, "You're from that place" / "I was expelled… my temper wasn't good," the sisters' reactions (Ye Yingrong's fall, YE YINGLUO named — primary-text verified ch 86), the "Prince Charming" cheers, Guang Biao's ten-minute freeze and withdrawal, the ice-wave dismissal + curfew, Xie Xie's tremble. AU: the Four (four photographs); Lin Hao reads the gate and watches the sword-intent lesson at master level
 ## Timeline: Age 10, tournament week — the morning after the beef lane
 
 ---
@@ -31,7 +31,10 @@ Wu Zhangkong listened with an indifferent expression that had gone, by degrees, 
 
 ---
 
-## Part 2: The Gate
+## Part 2
+
+The marks on his forearms had stopped fading. That was new — they used to be gone by morning, and now they simply stayed, faint as a healed scratch, the shape a feather makes when it is pressed flat. He had stopped rolling his sleeves down in front of people, because there was no longer anything to hide by evening.
+: The Gate
 
 Outside the great gates of Eastsea Academy stood an impenetrable crowd of at least two hundred fierce and burly people holding all sorts of weapons — and that was the part Lin Hao's eyes went to first, past the size of it, past the noise, the way his father's eyes went to the grain before the shape of a bar.
 
@@ -139,6 +142,14 @@ Beside her, the woman who had waited two years for this morning said nothing for
 
 "No one has ever rejected me. He was the first." Ye Yingluo's beautiful eyes burned with a stubbornness two years old and freshly fed. "He shall pay the price for that. And his *students* are the road to it." She turned from the yard, already composing the match in her head — the dragon, the eagle, the fusion, the grudge — and the class-one teacher's smile, had anyone been watching it, would have kept a sensible person up at night. "Let the tournament finish. I'll take my price on the platform, where he has to watch."
 
+And here is the thing she did not know, and could not have known, and which would have changed her whole plan if she had known it: **she was counting five students, and the class had six.**
+
+In a class without him, her road runs through Xie Xie's speed and Wulin's hands and Gu Yue's weather, and all three of those are things a woman of her rank can predict and price and beat. **She had priced the class.** She had done it that morning, on the wall, while her sister was falling in love, and the arithmetic had come out comfortable.
+
+What she had not priced was a boy who reads a sword the way other people read a face — because that is not a thing you can price until you have seen it, and the only people in the yard who had seen it were the five students who had stopped being surprised by it, and Wu Zhangkong, who had stopped being surprised by it two years before he met any of them.
+
+**She would find out at the tournament, in front of four hundred people, and the finding-out would cost her more than the rejection had.** That is the butterfly, and nobody in the yard — least of all her — could see it from where they were standing.
+
 Across the yard, on the stones where his tornado had died, Guang Biao stood frozen for over ten minutes, while the chill walked slowly out of his body and his pulse remembered its job. When his hands finally unclenched, blood dripped from the frozen piercings in both palms.
 
 *That guy is terrifying. He is definitely no nobody.*
@@ -187,6 +198,11 @@ Tomorrow was class one. At the top of the ladder, a dragon waited, and an eagle,
 
 The worst class in the grade slept like soldiers. Two of them, in the dark, smiled.
 
+
+Rank twenty-six came in the week after the lane, and it came the way everything came to him now — bought. He had been hit by a rank twenty-seven with two lizard souls and had lived, and his soul had filed the whole of it, and the filing cost a rank to store.
+
+The hawk, eight hundred years old and heavier in him than it had been before the lane, did not comment. It never did.
+
 ---
 
 ## End of Chapter 15
@@ -196,7 +212,7 @@ The worst class in the grade slept like soldiers. Two of them, in the dark, smil
 - **Part 2 — The Gate (canon ch 83-84 preserved):** ~200 Mecha Masters with federation-prohibited soul devices; the banner + stretcher + four photographs; **Lin Hao's blacksmith-eyes read the soul devices first (the unit, not the mob)** and the pressure off Guang Biao "in his boots"; Long Hengxu's recognition-dread (mecha brigade captain, master regiment rank) + canon defiance ("step over my dead body") + students stepping up behind him; the Four add themselves to the line ("a hull is made of rivets"); Guang Biao's ground-shaking stomp; **Lin Hao's gate-command beat: "Whatever happens next — nobody past us. Juniors behind. NOW."** — class five moves on his reading; his calm calibration decision (Prime Law as judgment, not passivity): *"This one isn't ours. This one's the teacher's. Ours is the gate."*
 - **Part 3 — White Robes and Blue Sword (canon ch 84-85 choreography preserved exactly):** Wu Zhangkong's entrance + canon lines ("I dislike talking about reasoning the most"; "Those FOUR students… If you can defeat me, you may proceed. Otherwise, get lost"); Guang Biao's six rings (Y,Y,P,P,P,P) + two lizard souls + thousand-year purple python; **the Skyfrost Sword's rings — yellow, yellow, purple, purple, BLACK, BLACK — two ten-thousand-year rings** (canon reveal beat); the sword-as-old-friend look (canon: "a gaze as tender as water" — rendered as the smith's look at his first folded blade); the two-sword-strike victory preserved: seven brittle notes = seven scales = seven steps (one stroke, seven disguises), ice-qi needles sealing his skills, the Armored Dragon going quiet, purple eyes, the beginner's thrust, the python's tail cleanly cut, the inch-from-the-nose stop, pierced frozen palms; **"You're from that place" / "I was expelled from that place. The reason was because my temper wasn't good. Don't let me see you again" (canon verbatim)**
 - **Part 4 — What the Gate Remembered (canon ch 86 preserved + AU):** the "Prince Charming" roar + class five's adopted pride; **THE SISTERS (canon ch 86 verbatim-adapted): Ye Yingrong's fall ("I've fallen for him") + YE YINGLUO NAMED (primary-text verified) — "he could duel and beat a seven-ring Soul Sage… he is from that place" + "No one has ever rejected me… He shall pay the price" + AU edge: "his STUDENTS are the road to it. I'll take my price on the platform, where he has to watch" — the grudge match armed**; Guang Biao's ten-minute freeze + blood-dripping palms + mecha refusal ("do you think we'll survive the Administrative Department?") + the guilt-at-the-stretcher backstory beat (Lin Hao reads it: "That was why the lanes had a Guang Long"); the ice-wave dismissal + **"Did all of you do anything wrong?" + the night curfew (canon)**; **THE SWORD-INTENT PAYOFF (AU core): "You watched the sword, not the fight." — Lin Hao's reading: "The seven notes weren't seven strikes. They were one strike, and six of them were the *door*… You didn't defeat him. You *answered* him." — Wu Zhangkong: "Then stop making your sword wait."**; Xie Xie's canon tremble-excitement + Wulin's canon-practical reply (adapted to our rank-20 Xie Xie); Lin Hao's realization: the homework is not speed or sharpness — **it is CERTAINTY** ("to make it certain"); the hawk's deniable beat (watching the frost, then the teacher's wing, then the boy — "a bird worth flying after… very nearly a conversation"); **hook: tomorrow class one — the dragon, the eagle, the fusion, and a woman sharpening something that has nothing to do with swords**
-- **Ranks at chapter end:** Lin Hao 24 (no combat — the gate was his; sword undrawn all morning, never more important) · Wulin 15 · Xie Xie 20 · Gu Yue sealed — no breakthroughs, no seal breaks, no new rings, Union folded, crossing gated, question OPEN ("very nearly a conversation")
+- **Ranks at chapter end:** Lin Hao 26 (no combat — the gate was his; sword undrawn all morning, never more important) · Wulin 15 · Xie Xie 20 · Gu Yue sealed — no breakthroughs, no seal breaks, no new rings, Union folded, crossing gated, question OPEN ("very nearly a conversation")
 
 ### Canon Preserved / Not Triggered:
 - ✅ Canon ch 83: Zhou Zhangxi's report, Wulin's find-Teacher-Wu judgment, Wu Zhangkong's door scene, the gate composition (200 men, soul devices, stretcher, banner), Guang Biao's introduction and "elder brother" framing, Long Hengxu's defiance, the stomp
@@ -212,10 +228,27 @@ The worst class in the grade slept like soldiers. Two of them, in the dark, smil
 3. **The grudge match is armed twice** — Ye Yingluo's revenge now explicitly routes THROUGH the students ("the platform, where he has to watch"), fusing her canon grudge with the canon class-one match
 
 ### Character States:
-- **Lin Hao:** rank 24 · sword undrawn, homework redefined (certainty) · gate held by his word · the Guang Biao guilt-file added to the shelf · hawk: "very nearly a conversation" · question OPEN
-- **Tang Wulin:** rank 15 · canon judgment beat kept · the gold kept out of the retelling · curfewed, meditating
-- **Xie Xie:** rank 20 · trembling with hero-worship ("a TRUE expert") · rank-20 bottleneck noted by Wulin (2nd-ring pressure building — canon-trajectory)
-- **Gu Yue:** sealed · her "what is that" from ch 14 sitting beside her larger files · watched her teacher's ring-count with the same scholar-stillness
+- **Lin Hao:** rank 26 · sword undrawn, homework redefined (certainty) · gate held by his word · the Guang Biao guilt-file added to the shelf · hawk: "very nearly a conversation" · question OPEN
 - **Wu Zhangkong:** shown at full canon height (six rings, two black; can duel a seven-ring Soul Sage per Ye Yingluo) · expelled-from-Shrek line kept · has begun answering Lin Hao's readings with direction, not correction
 - **Guang Biao:** frozen hands, retreated brigade, Administrative Department anxiety, brother-guilt — the lane threat ENDED (no return per canon)
 - **Ye Yingluo:** NAMED and armed — class-one match = her revenge platform; class five warned by nobody
+- **Long Hengxu:** director · the academy's position behind Wu Zhangkong
+- **Guang Long:** rank 27 · Armored Dragon · two lizard souls · arm shattered by the Golden Dragon Claw · fled · the fight Lin Hao LOST (the ledger line in different ink)
+
+### Ensemble — canon-verified state
+
+_Single source of truth: `CHARACTER_STATS.md` §1 (canon citations) and §3 (schedule)._
+_Every number below traces to a canon line or is labelled AU._
+
+- **Tang Wulin:** rank **15** (canon c133 *peak of rank 15*) · one white ten-year ring
+- **Xie Xie:** rank **19** (canon c72) · one yellow hundred-year ring
+- **Gu Yue:** rank **17** (canon c72) · one ring · spiritual power **153** at nine (canon c114)
+- **Xu Xiaoyan:** not yet introduced
+- **Zhang Yangzi:** rank **22** · spiritual power **41** (canon c113)
+- **Wang Jinxi:** rank **22** (canon c134) · spiritual power **18**, lowest in class zero (canon c113)
+- **Wei Xiaofeng:** rank **22** (canon c101)
+
+Canon position anchors for this point in the story: everyone in class zero is **10 years old** through the tournament arc (canon c221: *"They're so young though, only ten years old!"*); the Shrek working-student dorm holds **four** — Tang Wulin, Xie Xie, Gu Yue, Xu Xiaoyan (canon c288; + Lin Hao, AU = five invitees). Departure order: **Wei Xiaofeng left class zero first** (canon), then **Wang Jinxi transferred to another academy** (canon ch 153, staged in our ch43). **AU divergence:** in canon Zhang Yangzi transfers out with him; in this story Zhang Yangzi embraces Wang Jinxi on the steps and **stays at Eastsea Academy**, out of class zero.
+
+🔴 **REALM GAP LAW (v2.90):** every ten ranks is a wall, not a step. Lin Hao is a **Soul Elder with three purple rings**; everyone else here is rank 17–23 with two. None of them can defeat him — they can outlast him, survive him, cost him. Gu Yue does exactly that, because she is the one he cannot read.
+

@@ -1,337 +1,460 @@
 # Chapter 1: Awakening Day
 
-## Canon Reference: Novel Chapter 1 — Awakening Day
-## Timeline: Story Start, Age 6, Glorybound City
+## Canon Reference: canon ch 1–6 — "Awakening Day" through the awakening ceremony.
+## ⚠️ Canon ch 7–22 are **SKIPPED here** and compressed into ch 2–3 (recorded, not hidden).
+## Timeline: Story start, age 6, Glorybound City
+## Canon anchors held: Glorybound City on the border of the ocean and the eastern coast of the Sun-Moon
+## Federation · Red Mountain Academy, an elementary comprehensive academy for **two thousand** students, white
+## roofs and red walls · the **Awakening Chamber** is a circular building with **seven floors**, one chamber
+## per floor; the boys are taken to the **third** · the Spirit Master wears a **simple orange robe embroidered
+## with the form of a soul beast** and comes from the **Spirit Pagoda** · **Bluesilver Grass** (canon spelling,
+## one word) · Wulin's innate soul power **rank 3** · the golden lines on his forehead spreading to his four
+## limbs, which the Spirit Master has never seen in tens of thousands of children · Tang Ziran a machine
+## repairman of ordinary skill and meagre wage · the "one in a thousand" rarity of soul power.
 
 ---
 
-Glorybound City was a small town sitting on the border between the ocean and the eastern coast of the Sun Moon Federation. The salt-tinged breeze carried the sound of distant waves as the morning sun cast golden light over the crowded streets.
+Glorybound City sat on the border between the ocean and the eastern coast of the Sun-Moon Federation, which meant it smelled of salt and hot metal in equal measure, and that nobody who lived there thought either smell was worth mentioning.
 
-Today was an exceptionally bustling day in the city — it was the annual Awakening Day.
+On the morning of the annual Awakening Day, the streets in front of Red Mountain Academy were so packed that a dog could have crossed the square without touching the ground.
 
-All of the people residing upon the Douluo Continent possessed something called a "martial soul." The martial soul was a part of the body which could be awakened when they became six years old, regardless of whether they were animals or plants. Through the means of an awakening ceremony, they were able to awaken their own martial soul. This was precisely the purpose of the annual Awakening Day, to awaken their martial souls.
+Everybody on the Douluo Continent had a martial soul. It woke on your sixth birthday, it decided what you were for, and once a year the academies opened their doors and found out. If your martial soul was a hoe, you would till fields better than other men. If it was an animal, you might carry some of what that animal could do. And if — one child in a thousand, the teachers said, though nobody had ever met the person who counted — you woke with soul power as well, then your whole family's fortune turned over like a card.
 
-If someone's martial soul was a hoe, then their ability to till the fields would far exceed those of others. If instead they had an animal for a martial soul, they might possess some of the abilities of said animal. Due to this, the martial soul had long since become the most significant factor in determining someone's life.
+So the parents came. They came in their best clothes, which for most of them meant their only good coat, and they stood in the sun and did not say what they were thinking.
 
-However, the emergence of soul power was even more important. Soul power was a type of energy that nourished and upgraded the martial soul. Although everyone possessed a martial soul, only one in a thousand people might possess soul power.
+Two boys stood a little apart from the crowd, because they had arrived early and had already been told twice to stop climbing the wall.
 
-The soul power rank represented someone's future and power. As soon as their martial soul was awakened, they could cultivate soul power in order to nourish and upgrade their martial soul. Thus, over the 100,000 years the Douluo Continent has existed, the most noble profession has been that of a Soul Master.
+"If I get a hoe," said Tang Wulin, "I'm going to be very good at it."
 
-Due to this, even commoners would look forward to their children becoming six years old and awakening their martial soul, in hopes that they would possess soul power. If they possessed soul power, their lives would be transformed, benefiting them and their whole family.
+"You'd be terrible at it," said Lin Hao. "You cried when you dropped a spoon."
 
-The moment dawn arrived, the streets in front of the Red Mountain Academy were packed. The streets were flooded with parents and their children who had come to participate in the Awakening.
+"That was a *good* spoon."
 
-Among the crowd, two boys stood close together — best friends since they could remember.
+"It was a spoon, Wulin."
 
-Lin Hao, just barely six years old, was already striking — extremely handsome even at this young age, with bright amber-brown eyes that sparkled with mischief and dark brown hair that fell in playful waves across his forehead. His features were delicate yet strong, drawing attention from passing adults who often asked his parents if he was a child actor from the capital.
+Lin Hao was six years old and already the reason two older women had stopped in the street to ask his mother whether he was something to do with the theatre. He had dark brown hair that fell across his forehead in a way his mother had given up on, and amber-brown eyes that gave the impression, fairly or not, that he had already heard the end of the joke and was being polite about it.
 
-Beside him stood Tang Wulin, a pretty boy with a head full of short black hair and a stature slightly taller than others of the same age. However, his most attractive feature were his large, clear black eyes and long eyelashes which wouldn't lose to a girl at all. Even with his commoner's clothing, his outstanding appearance could easily draw the eyes of others.
+Beside him, Tang Wulin was a pretty boy with short black hair, taller than he should have been at six, with large clear black eyes and eyelashes that his mother's friends found unfair. He wore commoner's clothing and did not seem to notice it.
 
-"Dad, what do you think my martial soul will be?" Wulin said with excitement as he looked towards his father. He loved to listen to his father's stories about Soul Masters. His large eyes were filled with a longing for the future.
+"Dad," he said, "what do you think mine will be?"
 
-Tang Ziran, his father, was a middle-aged man who shared a similar appearance. He had a medium build and an average height, everything about him was just average. "Dad doesn't know either. It all depends on luck," he said, releasing a gloomy sigh within his heart.
+Tang Ziran was a middle-aged man of medium build and average height, everything about him average, which was a thing he had made peace with and also a thing that occasionally sat on his chest at night. He was a machine repairman who specialised in soul machines, and his skill was ordinary, and so his wage was meagre, and he knew exactly how much a family like his needed the one-in-a-thousand.
 
-"What about you, Hao?" Wulin turned to his friend. "What do you think you'll get?"
+"Dad doesn't know," he said. "It's all luck."
 
-Lin Hao grinned, his amber eyes gleaming with confidence. "Something amazing, obviously. My dad has his Iron Sword martial soul, and my mom has her Gale Eagle. Maybe I'll get something from both of them."
+He said it kindly. He also sighed inside, where his son could not hear it.
 
-His father, Lin Wei, chuckled. The broad-shouldered blacksmith had calloused hands from years of working metal, but his eyes were kind. "Don't get ahead of yourself, son. Martial souls are unpredictable."
+"What about yours, Hao?" Wulin turned, bright-eyed. "What do you want?"
 
-Beside him, Lin Mei — a slender seamstress with gentle eyes and the graceful movements of someone with a beast-type martial soul — smiled at her son. "Whatever you get, we'll be proud of you."
+"A sword."
 
-"I'll definitely have soul power, right?" Wulin's eyes were filled with hope as he looked at his father.
+"Everybody wants a sword."
 
-Tang Ziran patted his head and smiled. "Regardless of whether or not you have soul power, dad will always love you."
+"I'm going to *get* one," said Lin Hao, with the complete absence of doubt that only the six and the very old can manage. "Dad's got Iron Sword. Mum's got Gale Eagle. One of those has to come out, and if it comes out and it's a hoe, I'm going to have some questions."
 
-There was an unceasing torrent of parents and children passing as they exited the academy. The overwhelming majority of them all left with sighs of disappointment, but occasionally one of them would be overjoyed. There was no need to ask why; their martial soul must have given birth to soul power. This immediately attracted the envious and jealous gazes of others.
+Behind him, Lin Wei laughed — a broad-shouldered blacksmith with hands rough enough to strike a match on, and eyes that were unexpectedly soft. "Don't get ahead of yourself. Martial souls don't take requests."
 
-As time passed, the sun's radiance intensified, while the pretty young boy's previous enthusiasm continued to wane.
+"And whatever you get," said Lin Mei, his mother, a slender seamstress who moved like someone whose martial soul had been something quick, "we're proud of you."
 
-"Tang Wulin!" A teacher walked out from the Red Mountain Academy with a list in hand, calling out the next name.
+"I'll definitely have soul power, right?" Wulin asked his father. It was the third time he had asked.
 
-"I'm here!" With wide eyes, the pretty boy jumped up full of excitement.
+Tang Ziran put his hand on his son's head. "Whether you do or you don't, Dad will always love you."
 
-Tang Ziran was also slightly startled as his excited son pulled him forward with his small hands.
+Which was the right answer and also, both of them knew, not the one he wanted.
 
-"Follow me." Perhaps it was due to the excessive workload on Awakening Day, but the teacher seemed somewhat apathetic as he quickly turned around and began walking ahead.
+The crowd thinned and thickened and thinned again as families came out. Most came out sighing. Now and then one came out making a noise that turned every head on the square, and there was no need to ask, and the envious looks followed them all the way home.
 
-As they walked along the small path inside of the academy, Tang Wulin was excitedly taking everything in. Red Mountain Academy was an elementary grade comprehensive academy able to hold two thousand students. The buildings within the academy were all simple and unadorned with white roofs and red walls. The academy grounds were exceptionally clean. Awakening Day was right before the start of a new term. In comparison to the clamor outside of the walls, the academy seemed unusually peaceful.
+The sun climbed. Wulin's enthusiasm, which had started at a run, began to walk.
 
-Lin Hao walked beside Wulin, his own father following behind. The two boys had been inseparable since they were toddlers, growing up in the same neighborhood, playing together every day. Now they faced their awakening together.
+"Tang Wulin!" A teacher came out of the academy with a list.
 
-The teacher brought them to the front of a circular building before telling the parents, "Would the children's parents please wait here for a moment?"
+"Here!" Wulin was up and moving before his own brain had agreed to it.
 
-Tang Ziran nodded his head and told his son, "Listen to the teacher's commands, and good luck son! Dad will be waiting right here for you."
+Tang Ziran was pulled forward by one small hand.
 
-Tang Wulin rigorously nodded his head. "I'll definitely have a powerful martial soul, dad!"
+"Follow me," said the teacher, and turned and went, in the flat apathetic manner of a man on his four-hundredth child of the day.
 
-Lin Wei placed a hand on Lin Hao's shoulder. "Remember what I told you. No matter what happens, we're proud of you."
+They walked in through the small path, and Wulin took it all in the way he took everything, completely. Red Mountain Academy was an elementary comprehensive academy holding two thousand students. The buildings were simple and unadorned — white roofs, red walls — and the grounds were exceptionally clean, and inside the walls it was peaceful in a way the street outside was not, as though the noise had been asked to wait.
 
-Lin Hao grinned. "Don't worry, Dad. I've got this."
+Lin Hao walked beside him with his father behind, and was counting the windows.
 
-As he watched the two boys follow the teacher into the circular building, a trace of disappointment and frustration appeared within Tang Ziran's eyes as he reminisced of the past. Every single elementary academy would have this circular building. It was called the Awakening Chamber, and it was specifically used to aid six year old children in the awakening of their martial soul. Before the day of the awakening ceremony, the academy would invite a Spirit Master from the Spirit Pagoda to conduct the awakening ceremony. Decades ago, he had the same hopes when he entered the Awakening Chamber.
+He had been counting things for as long as anyone could remember, and he had never thought it was strange, because he had never met anybody who didn't. Forty-one windows on the long face. The bricks in the path were laid two-across, one-along. The teacher's left shoe had a worn heel, which meant he turned his foot out when he walked, which meant — he stopped that line of thought, because it didn't matter, and he had learned very early that most of what he noticed did not matter, and that the trick was knowing which parts did.
 
-There wasn't just a single awakening area within the Awakening Chamber, rather there were seven floors and within each one was an Awakening Chamber. Tang Wulin and Lin Hao were brought to the Awakening Chamber on the third floor.
+The teacher brought them to a circular building.
 
-As soon as they entered the Awakening Chamber, both boys were dazzled. All of the floors, the walls, and even the ceiling had wonderful inscriptions carved into them to create an elegant, decorative design.
+"Parents wait here," he said.
 
-Within the Awakening Chamber was a middle-aged man wearing a simple orange robe that featured the embroidered form of a soul beast.
+Tang Ziran crouched down. "Listen to the teacher. Good luck, son."
 
-Since childhood, Tang Wulin had loved to listen to his father's stories and within those stories, Spirit Masters would always appear. These Spirit Masters from the Spirit Pagoda were powerful and mysterious existences. They were an exceptionally special group of Soul Masters and held an extremely majestic status on the Douluo Continent. However, this was the first time he had ever seen one.
+"I'll get a powerful one, Dad."
 
-"Hello," Tang Wulin shyly replied.
+Lin Wei put a hand on Lin Hao's shoulder. "Whatever happens. We're proud of you."
 
-The Soul Master wore a gentle smile on his face. "Come here children. Stand in the middle."
+"Dad." Lin Hao looked up at him with great seriousness. "If I come out with a hoe, I want you to know I'm going to be very good at it, and I'm going to be *furious* about it the entire time."
 
-Both boys blinked for a moment before cutely walking over and standing in the middle. Wulin couldn't help but ask, "Lord Spirit Master, what kind of martial soul will we have?"
+Lin Wei barked out a laugh and shoved him gently toward the door.
 
-The Spirit Master replied with a smile, "Ah, I don't know either! After you've awakened, you'll naturally be able to see what it is. Anyway, your eyes are so pretty, it would be just perfect if you got a martial soul related to your eyes."
+---
 
-Tang Wulin's eyes shined. "Soul eyes? I heard that the first master of the Spirit Pagoda had spirit eyes…."
+There was not one awakening area in the Awakening Chamber but seven — seven floors, one chamber apiece. Tang Wulin and Lin Hao were taken up to the third.
 
-The Spirit Master interrupted him, "Quiet down. I'm about to begin."
+Both of them stopped in the doorway.
 
-The Spirit Master raised his right arm slightly. A gentle white light shone from his hands, attracting the boys' attention. That white light — could it be the fabled soul power that only Spirit Masters possess?
+Every surface — floor, walls, ceiling — was carved with inscriptions in a pattern that seemed at first to be decoration and then, the longer you looked, seemed to be a sentence in a language that had simply run out of room.
 
-While under their astonished gaze, the white light vibrated before flying off towards the sky and blossoming into fireworks that illuminated the Awakening Chamber with its splendor.
+In the middle of the chamber stood a middle-aged man in a simple orange robe embroidered with the form of a soul beast.
 
-Starting from the ceiling, the inscription lines filled with light as it moved towards the walls. It was as if it possessed a strong and revitalizing energy, as well as a life of its own. The lines kept lighting up until they converged below the boys' feet.
+Wulin had heard about Spirit Masters his whole life, in his father's stories, where they were always the ones who arrived late and fixed everything. They were from the Spirit Pagoda. They were powerful and mysterious and held a status on the Douluo Continent that had nothing to do with what your father did for a living. He had never seen one.
 
-Lin Hao felt something stir within him — a sensation he'd experienced his entire life but never understood. His Adaptation Talent had been working since before he was born, optimizing his body, his mind, his very being. For six years, it had focused on one crucial task: perfectly fusing his parents' martial souls into something new. Now, with that task complete, he could feel it shifting, preparing to optimize other aspects of his being.
+"Hello," said Tang Wulin, shyly.
 
-"Ah—!" Tang Wulin suddenly screamed, causing the Spirit Master to jump in fright. An ordinary child usually wouldn't feel too much during their Awakening, but an extremely low number of them would experience intense pain due to their weak bodies being unable to bear the energy.
+The Spirit Master smiled. "Come here, children. Stand in the middle."
 
-The Spirit Master's body disappeared in a flash and appeared in front of Tang Wulin. In case the situation truly did take a turn for the worse, he would immediately stop the ceremony and ensure the boy's safety.
+They stood in the middle.
 
-After he got close, he was astonished to see that some golden lines were flickering on Tang Wulin's forehead. Afterwards, those golden lines began to spread to his four limbs, creating a network of golden lines that pulsed with an otherworldly light before fading as quickly as they'd appeared.
+"Lord Spirit Master," said Wulin, who could not hold a question for long, "what kind of martial soul will we get?"
 
-Lin Hao watched with wide eyes, his Adaptation Talent analyzing the strange phenomenon. *What was that? Golden patterns... they felt powerful, ancient. But they disappeared so quickly.*
+"I don't know either." The man sounded genuinely amused. "You'll see when it wakes. Though—" he looked at Wulin properly for the first time "—your eyes are so pretty it would be a shame if you didn't get something to do with them."
 
-Tang Wulin seemed to be enduring immense pain as his eyes were tightly closed. He slowly raised his right arm, and a small patch of green grass appeared in his palm — thin, weak, utterly unremarkable.
+"Soul eyes?" Wulin lit up. "I heard the first master of the Spirit Pagoda had spirit eyes—"
 
-Blue Silver Grass.
+"Quiet," said the Spirit Master, not unkindly. "I'm about to begin."
 
-The Spirit Master's expression remained neutral, though there was a hint of disappointment in his eyes. "Blue Silver Grass. Now, place your hand on this crystal ball to test your soul power."
+He raised his right arm. A gentle white light came out of his hand, and both boys stopped breathing, because that was soul power — the thing only one in a thousand had — and it was floating in the air in front of them like a held note.
 
-He held out a blue crystal ball. Tang Wulin, still trembling from the pain, placed his hand on it. The ball glowed with a faint, pale light.
+The white light shivered and went up and broke open into something like fireworks, and the inscriptions began to fill from the ceiling down, running along the walls with a vitality that made them look, for a moment, less like carving and more like something that had been asleep.
 
-"Innate soul power: level 3," the Spirit Master announced quietly.
+The lines met beneath the boys' feet.
 
-A murmur rippled through the room where other children waited their turn. Blue Silver Grass was considered one of the weakest martial souls — common, useless, with no combat value. And level 3 innate soul power was barely enough to cultivate.
+---
 
-Wulin's face fell, his shoulders slumping. He stared at the grass in his palm as if it had personally betrayed him.
+Lin Hao had felt it before.
 
-"Thank you, child," the Spirit Master said gently. "You may step aside."
+That was the strange part, and it was the part he had never told anyone, because he had never been sure it was the sort of thing you told. There was a feeling — had been for as long as he could remember — of something in him *arranging*. Not a voice. Nothing so simple. More like the way you can feel a room is not square without measuring it. It had been working on one thing for six years, patiently, the way water works on stone, and he had never known what the thing was.
 
-Wulin moved to the side of the room, his head bowed. Several children in the line snickered quietly.
+Now the light went into him, and the arranging stopped.
 
-"Trash spirit," one boy whispered loudly enough for Wulin to hear. "Level 3 soul power. He'll never be a real Spirit Master."
+It stopped the way a held breath stops.
 
-Lin Hao's eyes narrowed, but he forced himself to remain still. His turn was next.
+For one moment he understood, with a clarity that was almost frightening, exactly what it had been doing: it had been folding two things into one, over and over, six years of quiet folding, and now the fold was finished and there was nothing left in his hands to fold.
 
-"Lin Hao," the Spirit Master called.
+*Oh,* he thought. *That's what you were for.*
 
-Lin Hao stepped forward, his expression calm despite the anger simmering inside him. As he moved to the center of the room, he felt his Adaptation Talent activate fully — the martial soul fusion was complete, and now it could focus on optimizing everything else.
+And then something else in him, which had been waiting its turn like a second child at a door, stepped forward and began, very quickly, to look at everything else instead.
 
-The Spirit Master raised his hand again, channeling soul power into the inscriptions. The light flowed once more, converging on Lin Hao.
+"Ah—!"
 
-The reaction was immediate and different from Wulin's.
+The scream was Wulin's.
 
-Wind swirled around Lin Hao, whipping his hair and clothes. Tiny sparks of lightning crackled in the air, making the nearby children gasp and step back. A silver-blue sword materialized in his right hand — sleek and elegant, with wind patterns etched into the blade and faint lightning dancing along its edge.
+An ordinary child feels almost nothing at awakening. A very small number feel a great deal, because their bodies are not ready to carry what has come into them, and the Spirit Master was moving before the sound had finished — crossing the chamber in a single blur, arriving at Tang Wulin's side with his hand already rising to stop the ceremony.
+
+He stopped it about halfway.
+
+Golden lines were flickering on the boy's forehead.
+
+They spread — down his neck, along both arms, out to his four limbs — a network of gold that pulsed once, twice, with a light that did not belong in a room, and then went out as suddenly as it had come.
+
+The Spirit Master from the Spirit Pagoda, who had conducted this ceremony for nineteen years and had put his hands on more children than he could count, stood very still and looked at Tang Wulin's forehead as though it had insulted him personally.
+
+In tens of thousands of children, he had never seen that.
+
+Lin Hao saw the man's face.
+
+He filed it — not because he decided to, but because that was simply what happened — and he noticed that he had already worked out the important part, which was that whatever had just come out of his best friend, the person whose entire job it was to know had not seen before.
+
+Wulin was bent double, teeth gritted, and he slowly raised his right arm.
+
+A small patch of green grass appeared in his palm. Thin. Weak. Utterly unremarkable.
+
+Bluesilver Grass.
+
+The Spirit Master's face went carefully neutral in the way adults do when they are about to say something unkind and would prefer not to. "Bluesilver Grass. Now put your hand on the crystal, child."
+
+He held out a blue crystal ball. Wulin, still shaking, put his hand on it. It glowed faintly, the pale embarrassed glow of a lamp with almost nothing behind it.
+
+"Innate soul power, rank three."
+
+There was a murmur from the line of children waiting their turn. Everybody in Glorybound City knew what Bluesilver Grass was. It was the one they told you about so you would feel better about the hoe.
+
+"Thank you, child," said the Spirit Master gently. "Step aside."
+
+Wulin stepped aside with his head down.
+
+Somewhere in the line, a boy with a fat face and a knife for a martial soul said, loudly enough to be helpful, "Trash soul. Rank three. He'll never be a Soul Master."
+
+---
+
+"Lin Hao."
+
+He had known it was coming for four seconds, which was long enough to decide how he was going to walk, and he walked to the middle of the chamber at exactly his ordinary speed, because he had noticed — again, without deciding to — that the Spirit Master was watching him now, and that adults read a boy's hands before they read his face.
+
+He put his hands where they could be seen.
+
+The Spirit Master raised his arm. The light went up, broke, ran down the walls, and came into Lin Hao.
+
+Wind moved.
+
+Not a draught. Not the door. The air in the chamber turned and gathered around him in a slow visible coil, and his hair lifted, and the children in the line took half a step back without any of them agreeing to. There was a sound like a hand drawn along the edge of a glass.
+
+Something crackled — small, bright, gone — a thread of lightning no longer than a finger, running along the inside of his forearm.
+
+And a sword came into his right hand.
+
+It was not a big sword. It was silver-blue and it was light and it was, unmistakably, *good* — the kind of thing a man who made swords for a living would pick up and go quiet about. Wind ran in fine lines along the flat of the blade, and along the edge there was a restlessness, as though the metal had not entirely decided to stop moving.
 
 The Stormbringer Sword.
 
-The Spirit Master's eyes widened with surprise. This was no common martial soul. The wind and lightning attributes, the quality of the manifestation — this was a high-level martial soul, far beyond what one would expect from a commoner family.
+The Spirit Master's eyebrows went up.
 
-"Remarkable," the Spirit Master murmured. "Place your hand on the crystal ball."
+"Well," he said. Then, after a moment: "Well."
 
-Lin Hao did so, and the ball glowed with a steady, moderate light — not as bright as Full Soul Power would be, but respectable.
+"Is it a sword?" asked Lin Hao, who knew perfectly well it was a sword.
 
-"Stormbringer Sword," the Spirit Master announced, his voice carrying genuine interest. "Innate soul power: level 5."
+"It is a sword."
 
-The room erupted in whispers. Level 5 innate soul power was good — not exceptional, but solid. Combined with such a high-level martial soul, this boy had real potential.
+"Dad's got Iron Sword," said Lin Hao, conversationally, "and Mum's got Gale Eagle, so I've been told to expect one of those and to be grateful, and instead I appear to have been given both at once and a thunderstorm, so I'd like to register that I consider this an acceptable outcome."
 
-"Very good," the Spirit Master said with a pleased smile. "You have excellent potential, young man. Your martial soul is rare and powerful — a fusion type, if I'm not mistaken. Wind and lightning attributes working in harmony."
+Two of the children in the line laughed. The Spirit Master's mouth twitched, which was possibly against the rules.
 
-Lin Hao nodded politely, but his eyes immediately sought out Wulin, who was still standing to the side with his head bowed. The extremely handsome boy's expression was carefully neutral, but Lin Hao could see the disappointment in his friend's posture.
+"This is a high-grade martial soul," he said. "Wind and lightning in one manifestation. That is rare in a child of the capital, let alone here." He held out the crystal. "Hand."
 
-*Don't worry, Wulin,* he thought. *I won't let anyone look down on you.*
+Lin Hao put his hand on the ball.
 
-The ceremony continued with the remaining children. None of them had anything remarkable — a few more tool martial souls, one girl with a cat martial soul, several with no soul power at all.
+It glowed — steadily, moderately, more than Wulin's and considerably less than the light the room had been hoping for.
 
-When the ceremony concluded, the children were directed outside where their parents waited anxiously. Lin Hao spotted his parents immediately and ran to them, showing off his martial soul.
+"Rank five."
 
-"A sword!" his father exclaimed, his blacksmith's eyes appraising the weapon. "And with wind and lightning attributes? Son, this is incredible! It's like a fusion of my Iron Sword and your mother's Gale Eagle!"
+A good number. Not a number that made anybody's fortune. Combined with the sword, though, it was enough that the Spirit Master looked at him for a second longer than he had looked at anyone else that morning, and wrote something on his list that was not just a name.
 
-His mother hugged him tightly. "Level 5 soul power. That's wonderful, Hao. You can become a Spirit Master."
+"Very good, young man. You have a real future if you keep it."
 
-Lin Hao smiled and accepted their congratulations, but his eyes kept searching the crowd until he found Wulin. His friend was with his father, showing him the Blue Silver Grass with obvious shame.
+"Thank you," said Lin Hao, and was already looking past him.
 
-"Excuse me," Lin Hao told his parents and slipped through the crowd to reach Wulin's side.
+Wulin was standing against the wall with the grass still in his hand and his chin tucked down, and he had gone very still, in the way children go still when they have decided not to cry in front of people.
 
-"Look, Dad," Wulin was saying quietly, holding up the thin grass. "It's just Blue Silver Grass. Level 3 soul power."
+Lin Hao crossed the floor to him.
 
-Tang Ziran's face was carefully neutral, but Lin Hao could see the disappointment in his eyes before he masked it. "That's okay, son. Blue Silver Grass isn't—"
+He did not hurry, and he did not slow down, and he did not look at the Spirit Master, or the stocky boy with the purchased knife, or his father, or the list that had his name on it with a mark next to it that nobody else's name had. He walked across a room that had spent the last four minutes finding out he was the best thing in it, and he stopped in front of the only person in it who had already been found out to be the worst, and he held out his hand.
 
-"It's not trash," Lin Hao interrupted, stepping up beside them.
+"Let me see it."
 
-Both Tang Ziran and Wulin looked at him in surprise.
+"It's grass."
 
-"What do you mean?" Wulin asked.
+"I can see it's grass. Let me see *it.*"
 
-Lin Hao shrugged, his tone casual despite the seriousness in his amber eyes. "I mean, just because it's Blue Silver Grass doesn't mean it's useless. Look at you — you're the hardest working person I know. If anyone can make Blue Silver Grass strong, it's you."
+Wulin gave it to him. Lin Hao turned the Bluesilver Grass over in his fingers the way his father turned over a bar of stock on the anvil — properly, the whole of it, taking his time about it, the way you handle a thing when you are trying to find out what it is rather than what it is worth. And the room, which had been watching the sword, slowly stopped, and started watching this instead, because there is something arresting about a six-year-old examining a worthless object with total seriousness.
 
-Wulin's eyes widened, and a small smile tugged at his lips. "You really think so?"
+"It's got threads," Lin Hao said.
 
-"I know so," Lin Hao said firmly. "Besides, level 3 soul power isn't that bad. It's enough to cultivate. You just have to work harder than everyone else. And you will, because that's what you do."
+"So?"
 
-Tang Ziran looked at Lin Hao with gratitude. "Thank you, Hao. That's very kind of you."
+"So it can be woven." He handed it back. "Nothing else in this room can be woven. That knife can't be woven. My sword can't be woven. You've got the only one in Glorybound City that can be tied into a knot, and you're standing there like you've been handed a hoe."
 
-Before Lin Hao could respond, a group of boys approached — children from the awakening ceremony who had overheard the results. The leader, a stocky boy who had awakened a common hammer martial soul, sneered at Wulin.
+"Hao."
 
-"Hey, look. It's the Blue Silver Grass kid. I heard you only got level 3 soul power. That's pathetic!"
+"And I've known you since we were three," Lin Hao said, "and you have never once in your life been given anything that you did not turn into a weapon, so I am going to go and stand over there with my sword, and you are going to stand here with your grass, and it is going to be exactly the same as it was yesterday, and if anybody in this square says otherwise I would like you to tell me and I will deal with it."
 
-The other boys laughed.
+And he went and stood where he had been standing, and Wulin looked down at the grass in his hand for a long moment, and put his chin up.
 
-Wulin's face flushed red, and he looked down at the ground.
-
-Lin Hao stepped forward, positioning himself between Wulin and the bullies. Despite being the same age, there was something in his posture — a quiet confidence that made the other boys pause.
-
-"Leave him alone," Lin Hao said, his voice calm but carrying an edge.
-
-The lead bully scoffed. "Or what? You'll fight us with your fancy sword? Big deal. Level 5 soul power isn't that impressive."
-
-Lin Hao's eyes narrowed. "Maybe not. But it's higher than yours. And my martial soul is a lot more impressive than a common hammer."
-
-The bully's face turned red. "Shut up! At least I don't hang around with trash like him!"
-
-Something cold flickered in Lin Hao's eyes. His hand moved to his side, and the Stormbringer Sword materialized in his grip — not threateningly, just present. The wind picked up around him, ruffling his hair, and tiny sparks of lightning danced along the blade.
-
-"Say that again," he said quietly. "I dare you."
-
-The bullies stared at the sword, at the wind swirling around Lin Hao, at the lightning crackling along the blade. The lead bully swallowed nervously.
-
-"Whatever," he muttered. "Come on, guys. Let's go."
-
-The group retreated quickly, casting nervous glances over their shoulders.
-
-Wulin stared at Lin Hao in awe. "You didn't have to do that."
-
-"Yes, I did," Lin Hao said simply, dismissing his martial soul. The wind died down, and the lightning faded. "You're my friend, Wulin. Nobody gets to call you trash while I'm around."
-
-Tang Ziran placed a hand on Lin Hao's shoulder. "Thank you, Hao. You're a good friend."
-
-Lin Hao grinned, his playful demeanor returning. "Of course I am. Now, Wulin, race you home!"
-
-Before Wulin could respond, Lin Hao took off running, his laughter carrying on the wind. Wulin smiled — really smiled for the first time since the ceremony — and chased after him.
-
-As they ran through the streets of Glorybound City, past soul-powered street lamps and modern buildings that blended ancient architecture with advanced technology, Lin Hao could feel his Adaptation Talent working in new ways. With the martial soul fusion finally complete, it was now free to focus on optimizing other things — his soul power cultivation, his body, his techniques. He could already feel subtle changes happening, improvements being made.
-
-*This is just the beginning,* he thought as he glanced back at Wulin, who was struggling to keep up. *We're both going to become great Spirit Masters. Together.*
-
-Behind them, the sun climbed higher in the sky, casting long shadows across the city. Two boys, one with a "trash" martial soul and one with a high-level fusion sword, ran toward their futures.
-
-Neither of them knew what challenges lay ahead.
-
-But they would face them together.
+Tang Ziran, who had watched all of it from four metres away and had not said a word, put his hand on his son's head, and looked across at Lin Wei, and Lin Wei shrugged in the way he shrugged when a piece of work had come out better than the drawing.
 
 ---
 
-Later that evening, the two families gathered for dinner at the Lin household. Lin Mei had prepared a feast to celebrate both boys' awakenings, and the small house was filled with warmth and laughter.
+Outside, the sun had got higher and the square had got louder, and the parents came forward to collect their children and find out what they had been given.
 
-Lin Hao sat across from Wulin, watching as his friend slowly regained his spirits. The disappointment was still there, but so was determination — that stubborn refusal to give up that Lin Hao admired most about him.
+"A sword!" Lin Wei turned it over in his mind the way he turned over everything, appraising. "Wind *and* lightning? That's my Iron Sword and your mother's Gale Eagle in one piece. Son, that's a good day's work."
 
-"So what happens now?" Wulin asked, picking at his food. "Can we really become Spirit Masters?"
+"Rank five," said Lin Mei, holding him. "That's wonderful, Hao."
 
-Lin Wei nodded. "Level 3 and level 5 are both enough to cultivate. You'll need to train hard and reach rank 10 before you can absorb your first spirit soul from the Spirit Pagoda. That's when you'll truly become Spirit Masters."
+Lin Hao accepted this with good grace and looked over his mother's shoulder until he found what he was looking for.
 
-"How long will that take?" Lin Hao asked.
+Tang Wulin was holding up a thin green sprig to his father.
 
-"For most children, several years," Tang Ziran said. "But it depends on your talent, your effort, and the resources you have access to. Spirit Masters from wealthy families with good resources advance faster than commoners."
+"It's just Bluesilver Grass, Dad. Rank three."
 
-He paused, looking thoughtful. "Actually, Wulin, if you want to become a Spirit Master, you'll need money to buy your first spirit soul. The Spirit Pagoda charges for them, and they're not cheap."
+Tang Ziran's face did the careful neutral thing, and Lin Hao watched him do it, and thought — with the total, unreasonable certainty of a six-year-old — *that is the worst thing I have ever seen and I am going to do something about it immediately.*
 
-Wulin's face fell. "How much?"
+"Excuse me," he told his parents, and went.
 
-"A ten-year spirit soul costs around 70,000 federal coins," Tang Ziran said gently. "There's also a random selection option for 30,000, but it might give you a defective soul."
+"—isn't—" Tang Ziran was saying.
 
-The table fell silent. That was more money than either family earned in a year.
+"It isn't trash," said Lin Hao, arriving.
 
-Lin Wei broke the silence. "You know, Wulin, my friend Mang Tian runs a forging workshop in town. He's always looking for apprentices. If you're interested, you could learn blacksmithing and earn money that way."
+Both of them looked at him.
 
-Wulin's eyes lit up. "Really? You think he'd take me?"
+"What do you mean?" said Wulin.
 
-"I'll talk to him tomorrow," Lin Wei promised. "He's a good man, and he appreciates hard workers."
+Lin Hao shrugged. He had noticed, on the way over, that there were four boys coming across the square in a loose group and that one of them was stocky and had the expression of a boy who had heard a rumour and was looking forward to it, and he decided to be quick.
 
-Lin Hao's Adaptation Talent was already working, analyzing the information and beginning to optimize his cultivation path. He could feel it making adjustments, finding more efficient ways to absorb and circulate soul power.
+"I mean the man in the orange robe has done this for nineteen years," he said. "Nineteen. He's probably seen forty thousand kids. And when it was your turn he crossed the room so fast he went blurry. He didn't do that for anybody else, Wulin. Not one."
 
-*I'll reach rank 10 faster than normal,* he realized. *My Adaptation Talent will make sure of it. And I'll help Wulin however I can.*
+Wulin blinked. "He came because it hurt."
 
-"We'll train together," Lin Hao told Wulin. "Every day. We'll push each other to get stronger."
+"He came because he didn't know what was happening." Lin Hao said it flatly, the way you'd read out a number. "Gold came out of your forehead and went down your arms and he stood there like somebody had insulted his mother. Grass doesn't do that. Grass is grass."
 
-Wulin nodded, some of his determination returning. "Okay. I won't give up. I'll work harder than anyone."
+There was a silence.
 
-"That's the spirit," Lin Hao grinned. "And once we're Spirit Masters, we can join an academy and learn real combat techniques. Maybe even join the Tang Sect or get into Shrek Academy someday."
+"Also," said Lin Hao, "I have a sword, and you have a weed, and I am still standing next to you, so evidently the weed does not disqualify you from anything I care about."
 
-"Shrek Academy?" Wulin's eyes widened. "But that's the most prestigious academy on the continent! Only the most talented Spirit Masters get in."
+Wulin's mouth did something that was almost a smile and wasn't quite brave enough.
 
-"So?" Lin Hao shrugged. "Why not us? We just have to be good enough."
+"You really think it's not trash?"
 
-The adults exchanged amused glances at the boys' ambition, but neither discouraged them. Dreams were important, especially for children.
+"I think rank three means you work harder than everyone else," said Lin Hao, "and I've known you since we were three, and you are the single most stubborn person in this city, so I'm not especially worried."
 
-As the evening wore on and the families said their goodbyes, Lin Hao walked Wulin and his father to their door.
+Tang Ziran looked at Lin Hao for a long moment. "Thank you, Hao."
 
-"Thanks again, Hao," Wulin said quietly. "For defending me today. And for believing in me."
+"That's very kind of you," said a voice behind them.
 
-Lin Hao punched him lightly on the shoulder. "Always, buddy. Now get some sleep. Tomorrow we start training."
+The stocky boy had arrived, with his three behind him. He had a knife for a martial soul and his family had paid extra for it, and he knew exactly what that meant and had decided it meant something about him.
 
-Wulin smiled and went inside. Lin Hao watched him go, then turned and headed home, his mind already racing with plans.
+"Bluesilver Grass," he said. "Rank three. My dad says that's the bottom. My dad says they give those to kids so the ceremony doesn't look empty."
 
-*We're going to be great,* he thought, his amber eyes gleaming with determination in the moonlight. *Both of us. No matter what it takes.*
+The three behind him laughed on cue.
 
-High above, the stars twinkled in the night sky, bearing witness to the beginning of a journey that would change the world.
+Wulin went red and looked at his shoes.
+
+Lin Hao did not step in front of him, which was the thing everybody expected and which he had already decided against, because standing in front of somebody tells the whole square that they need standing in front of.
+
+Instead he stepped *beside* him, and turned to face the stocky boy, and smiled — and the smile was warm and pleasant and did not reach his eyes at all, and the stocky boy, who was six and not yet good at reading this, nonetheless felt something go wrong with the afternoon.
+
+"You're right," said Lin Hao.
+
+The stocky boy's face changed. "I am?"
+
+"Completely. Bluesilver Grass is the bottom. Rank three is the bottom. You have a knife and I have a sword and you're the one who walked over here to tell a stranger about your father's opinions, so let's be honest about who's had the good morning."
+
+"Shut up."
+
+"No, but genuinely," said Lin Hao, still smiling, "I'm fascinated. You've got a knife. A *knife*. Did you choose that, or did your dad choose it and now you've got to explain it to people at parties for the rest of your life?"
+
+One of the three behind him made a noise that was very nearly a laugh and then decided, on reflection, not to.
+
+The stocky boy's face went the colour of the academy walls. "At least I don't stand next to trash."
+
+Something in Lin Hao's face closed, like a shutter.
+
+The sword was in his hand. He had not made a decision to draw it and he could not afterwards have described doing it. The wind came up around him and turned his hair, and along the edge of the blade that restlessness woke up and there was one thin bright line of lightning, no longer than a finger, running the length of the steel.
+
+"Say that again," he said, quietly, "but this time think about it first."
+
+The stocky boy looked at the sword. He looked at the wind. He looked at the small bright thing moving along the edge of the metal, and he understood, at six years old and for the first time in his life, that there were rooms he could walk out of and rooms he had better not have walked into.
+
+"Whatever," he said. "Come on."
+
+They went. They did not run, because running would have been an admission, but they went quickly.
+
+Wulin was staring at him.
+
+"You didn't have to do that."
+
+"Yes," said Lin Hao, and let the sword go. The wind sat down. "I did. You're my friend. Nobody calls you trash in front of me and then gets to have a nice afternoon."
+
+Tang Ziran put a hand on his shoulder and said thank you again, and Lin Hao, who could not bear being thanked for more than about four seconds, immediately brightened and said, "Right. Wulin. Race you home. Loser carries the winner's shoes."
+
+"You don't wear shoes home, we live next door—"
+
+Lin Hao was already running.
+
+Wulin stood there for a moment with the grass still in his hand, and then he smiled — really smiled, for the first time since the ceremony — and went after him, and Tang Ziran called after them both about the road, and did not much mean it.
+
+---
+
+They ate at the Lins' that evening, both families around one table in a front room that was not big enough, because Lin Mei cooked like a woman who had been told there would be four and had decided there would be nine.
+
+Wulin ate four bowls. His mother was not there — nobody said anything about that, because Wulin's mother had been gone a long time and the Tangs had made a decision about it years ago — and Lin Mei put food in front of him at exactly the same rate she put it in front of her own son, and did not comment on it once, which was the kindest thing that happened to Tang Wulin that year.
+
+"Rank five and a sword," said Tang Ziran, raising his cup. "And rank three and a weed. Between the two of you, boys, you've got the whole range covered."
+
+"Dad," said Wulin.
+
+"I'm joking, Linlin."
+
+Lin Hao, who had been working out for eleven minutes how to say the thing without making it a speech, put down his chopsticks.
+
+"Wulin's is going to be better than mine," he said.
+
+The table went quiet.
+
+"Hao—" Lin Mei began.
+
+"No, listen, I've thought about it." He was six, and he had the total confidence of a person who has thought about something for eleven minutes. "The man in the orange robe has seen forty thousand kids. Mine was a sword. He wrote it down and he moved on, because a sword is a sword, there's a sword in every city, you can go and buy one. But gold came out of Wulin's *head*, and that man crossed the room so fast he went blurry, and then he looked at him like he'd been personally offended."
+
+He looked at Wulin.
+
+"Nobody has ever seen that. Which means nobody knows what it does. Which means nobody knows what it *can't* do either." He shrugged. "I got a good hand. You got a card nobody's got a rule for. I'd rather have your card."
+
+Wulin stared at him.
+
+Tang Ziran set his cup down very carefully, the way men do when they are trying not to make a face.
+
+"That's a good way of putting it," said Lin Wei at last.
+
+"It's the right way," said Lin Hao, and went back to eating, because he had said the thing and could now be six again.
+
+Outside, the sun went down over Glorybound City and the soul lamps came up the street one after another, and somewhere in a small room at the back of a house two doors down, a man named Mang Tian took a piece of cold metal out of a rack and looked at it for a while and put it back, and thought about a boy he had not met yet.
+
+Neither of the boys in the front room knew anything about that.
+
+They knew they were six, and that they had martial souls, and that tomorrow the real work started, and — which was the part that mattered — that they were going to do it in the same city, at the same academy, at the same desk if Lin Hao could arrange it, which he fully intended to.
 
 ---
 
 ## End of Chapter 1
 
 ### Chapter Summary:
-- Awakening Day ceremony at Red Mountain Academy in Glorybound City
-- Tang Wulin awakens Blue Silver Grass with innate soul power level 3, experiences intense pain with golden lines appearing (hint of Golden Dragon King bloodline)
-- Lin Hao awakens Stormbringer Sword (fusion of parents' Iron Sword + Gale Eagle) with innate soul power level 5
-- Spirit Master from Spirit Pagoda conducts ceremony using inscriptions and crystal ball
-- Lin Hao defends Wulin from bullies, establishes their friendship
-- Both families celebrate together
-- Discussion about spirit souls and costs (70,000 for ten-year soul, 30,000 for random)
-- Lin Wei suggests Wulin apprentice with blacksmith Mang Tian
-- Both boys vow to train hard and become Spirit Masters
-- Adaptation Talent begins upgrading after martial soul fusion is complete
+Awakening Day in Glorybound City. Lin Hao and Tang Wulin, six years old and friends since they were three,
+are awakened together on the third floor of Red Mountain Academy's Awakening Chamber. Wulin draws **Bluesilver
+Grass with innate soul power rank 3** — and, unseen by anyone but a Spirit Master who has never witnessed it
+in tens of thousands of children, **golden lines that spread from his forehead to his four limbs**. Lin Hao
+draws the **Stormbringer Sword** (wind and lightning in one manifestation, a high-grade martial soul) with
+**innate soul power rank 5**. When a stocky knife-boy calls Wulin trash, Lin Hao answers him with words first
+and the sword second, and wins both. At dinner he tells the table, in front of everyone, that Wulin's card is
+the better one.
 
 ### Character Progression:
-- **Lin Hao:** Martial soul awakened (Stormbringer Sword), Adaptation Talent now fully active, determined to train with Wulin
-- **Tang Wulin:** Martial soul awakened (Blue Silver Grass), disappointed but determined, grateful for Lin Hao's support, will start forging apprenticeship
+- **Lin Hao:** martial soul awakened — **Stormbringer Sword**, wind + lightning, high grade. Innate soul power
+  **rank 5**. His Adaptation Talent is **never named in narration**; it is shown twice only — the six-year
+  folding finishing, and then something else stepping forward to look at everything else.
+- **Tang Wulin:** **Bluesilver Grass, rank 3.** Golden lines, forehead to limbs. Canon beat preserved exactly.
 
 ### Butterfly Effects Shown:
-1. ✅ Lin Hao defends Wulin from bullies (in canon, Wulin faced mockery alone)
-2. ✅ Wulin has emotional support and someone who believes in him from the start
-3. ✅ Training partner established (will push each other to improve faster)
-4. ✅ Lin Wei suggests forging apprenticeship earlier (in canon, Tang Ziran suggested it)
+- Wulin hears, on the worst day of his life, from the person he trusts most, that his martial soul is the
+  *better* one — and is given the reason (the Spirit Master's reaction) rather than a comfort. This is a
+  different foundation under him than canon gives him.
+- Lin Hao's first act with a martial soul in his hand is spent defending somebody else. That is the whole
+  character, established in one scene.
 
-### World Details Shown:
-- ✅ Glorybound City on border of ocean and eastern coast of Sun Moon Federation
-- ✅ Red Mountain Academy - elementary comprehensive academy
-- ✅ Awakening Chamber - circular building with 7 floors
-- ✅ Spirit Master from Spirit Pagoda conducts ceremony
-- ✅ Inscriptions light up during ceremony
-- ✅ Blue crystal ball tests soul power
-- ✅ Soul-powered street lamps and modern technology mentioned
-- ✅ Spirit Pagoda sells spirit souls (70,000 for ten-year, 30,000 for random)
+### World Details Shown (all canon-verified):
+- Glorybound City on the border of the ocean and the eastern coast of the **Sun-Moon Federation**
+- Red Mountain Academy: elementary, **two thousand** students, white roofs and red walls
+- The **Awakening Chamber**: circular, **seven floors**, one chamber per floor; the boys go to the **third**
+- The Spirit Master: **simple orange robe embroidered with a soul beast**, from the **Spirit Pagoda**
+- Soul power is **one in a thousand**; **Bluesilver Grass** (canon's one-word spelling)
 
 ### Next Chapter Preview:
-**Chapter 2: The Path Forward**
-- Both boys begin daily training regimen
-- Lin Hao's Adaptation Talent optimizes his cultivation (faster progress)
-- Tang Wulin shows determination despite weak martial soul
-- Wulin starts forging apprenticeship with Mang Tian
-- Possible introduction of Na'er (found by Tang family)
-- Time progression (months passing)
+Three years of pounding. A blacksmith named Mang Tian, a lump of metal, a thousand strikes, and the spirit-soul
+price ladder that explains why a poor family's child cannot simply buy power.
+
+### Character States:
+- **Lin Hao:** age 6 · Stormbringer Sword (wind + lightning) · innate soul power rank 5 · no rings ·
+  spiritual power unmeasured (internal ~22, Spirit Origin)
+- **Canon coverage:** ch 1–6 adapted · **ch 7–22 skipped, compressed into ch 2–3**
+
+### Ensemble — canon-verified state
+
+_Single source of truth: `CHARACTER_STATS.md` §1 (canon citations) and §3 (schedule)._
+_Every number below traces to a canon line or is labelled AU._
+
+- **Tang Wulin:** rank **11** (canon c45 intake) · no rings yet — age 6-9
+- **Xie Xie:** not yet introduced
+- **Gu Yue:** not yet introduced
+- **Xu Xiaoyan:** not yet introduced
+- **Zhang Yangzi:** not yet introduced
+- **Wang Jinxi:** not yet introduced
+- **Wei Xiaofeng:** not yet introduced
+
+Canon position anchors for this point in the story: everyone in class zero is **10 years old** through the tournament arc (canon c221: *"They're so young though, only ten years old!"*); the Shrek working-student dorm holds **four** — Tang Wulin, Xie Xie, Gu Yue, Xu Xiaoyan (canon c288; + Lin Hao, AU = five invitees). Departure order: **Wei Xiaofeng left class zero first** (canon), then **Wang Jinxi transferred to another academy** (canon ch 153, staged in our ch43). **AU divergence:** in canon Zhang Yangzi transfers out with him; in this story Zhang Yangzi embraces Wang Jinxi on the steps and **stays at Eastsea Academy**, out of class zero.
+
+🔴 **REALM GAP LAW (v2.90):** every ten ranks is a wall, not a step. Lin Hao is a **Soul Elder with three purple rings**; everyone else here is rank 17–23 with two. None of them can defeat him — they can outlast him, survive him, cost him. Gu Yue does exactly that, because she is the one he cannot read.
+

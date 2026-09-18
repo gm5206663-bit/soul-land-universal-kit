@@ -1,6 +1,17 @@
 # Chapter 6: The Weight of the Worst Class
 
-## Canon Reference: Novel Chapters 44 (10,000-coin Heavy Silver pay, the promised match arrangement), 51-52 (Match, Victory Streak), 58 seed (Mu Xi)
+## Canon Reference: canon ch 44 (10,000-coin Heavy Silver pay, the promised match arrangement),
+## ch 51–52 (Match, Victory Streak), ch **57** (Mu Xi — **not 58; my earlier citation was off by one**).
+## ⚠️ **CORRECTED 27 Aug:** this chapter previously framed Mu Xi as a proud "generational genius" whose
+## problem was that her name sat at the top of a ladder. Canon ch 42 says the opposite in so many words:
+## *"She didn't like being called a genius. The reason she was where she was today wasn't because of her
+## talent, but because of her efforts."* Canon ch 57 supplies the cause: her father told her forging was
+## **"not suitable for girls"**; she began at **five** on a box, making small hammers; **two years** of
+## persistence; she inherited his martial soul; went **stocky**; **first rank at eleven**; second rank after
+## her thirteenth birthday; her goal is **ninth-rank Divine Craftsman** (only three exist).
+## Other canon anchors held: **Mu Chen — eight-star Saint Craftsman, President of the Eastsea City branch,
+## the only man at that rank in the Association**; **Wulin's Heavy Silver component pays 10,000 Federation
+## Coins** (canon ch 43–44).
 ## Timeline: Age 10, second week at Eastsea Academy
 
 ---
@@ -39,7 +50,7 @@ The second fight lasted longer, and everyone who watched it understood, in the w
 
 Xie Xie was fast. He was also, Lin Hao could tell within four exchanges, *smarter than Tuesday* — he had stopped leading with the dagger, stopped letting his light gather where eyes could track it, was arriving from angles he had plainly drawn on paper the night before. Three of those angles would have finished most first-graders. Lin Hao simply was not standing in them.
 
-It was not speed, and the yard kept trying to call it speed. It was that the air told Lin Hao first. Light Dragon Dagger drew its light from somewhere, and before the light moved, the air above Xie Xie's leading shoulder went *taut*, the way a drum skin goes taut a half-breath before the strike — and hawk-eyes, fed by seven hundred years of a soul that had spent its whole first life reading weather for prey, saw the tautness the way other people saw the blade.
+It was not speed, and the yard kept trying to call it speed. It was that the air told Lin Hao first. Light Dragon Dagger drew its light from somewhere, and before the light moved, the air above Xie Xie's leading shoulder went *taut*, the way a drum skin goes taut a half-breath before the strike — and hawk-eyes, fed by seven hundred and thirty-five years of a soul that had spent its whole first life reading weather for prey, saw the tautness the way other people saw the blade.
 
 So Lin Hao redirected. A wrist turned here, a flat blade there, Xie Xie's own speed doing all the work of Xie Xie's defeat, until the dagger-boy was breathing hard in the middle of the yard with his hair coming loose and his fury — and this was the part the yard would remember — completely gone.
 
@@ -85,8 +96,13 @@ The third match was Zhou Zhangxi, and Zhou Zhangxi did not decline anything. He 
 
 "My turn," Xie Xie said, and the smirking girl from the corridor got her match, and it is the considered opinion of everyone present that she did not smirk afterward.
 
-Then class one sent their best — a rank-21 Soul Grandmaster with a silver-horned rhino soul and family money in every stitch — and Wu Zhangkong's eyes slid, once, toward the back of class five's file, and the yard understood the arithmetic before the announcement.
+Then class one sent their best — a rank-21 Soul Grandmaster with a silver-horned rhino soul and family money in every stitch — and Wu Zhangkong's eyes slid, once, toward the back of class five's file, and the yard understood the assignment.
 
+Lin Hao went, and the match lasted four seconds, and that was the part nobody in the yard had a way to describe afterward, because a rank-21 Soul Grandmaster does not lose in four seconds to a boy three ranks under him and nobody could say what had happened. The rhino soul had come forward. The Stormbringer had been where the rhino soul was going to be. That was all of it.
+
+And the thing that changed because he was standing there — the thing that nobody in that yard would have had any reason to think about if he had not been in the file — was that **Wu Zhangkong did not send Xie Xie next.** Canon's yard would have sent Xie Xie, because Xie Xie was class five's best and the format was class against class. But Wu Zhangkong had watched four seconds of a four-second match and had made a decision about the shape of his class that he did not say out loud, and the shape was no longer the shape it had been that morning.
+
+Xie Xie noticed. Xie Xie always noticed. He did not say anything, which was the loudest thing Xie Xie had ever done.
 Tang Wulin took the circle, and the match lasted one exchange, and it was not a fight so much as a *demonstration of the difference between rank and strength.* The rhino charge was magnificent. Wulin met it the way an anvil meets a rumor, and the silver horns went up, and the class one boy went down, and Director Long Hengxu sat forward in the gallery for the first time all afternoon.
 
 "Lin Hao," said Wu Zhangkong, "you're wasting their time. Center."
@@ -113,11 +129,29 @@ He took four days of evenings. The Association paid on delivery, and the clerk c
 
 Ten thousand coins. His father made perhaps four hundred a month at the factory. This was two years of his father's hands, in his own, at ten years old, because a hammer had taught him that metal talks if you hit it honestly.
 
+And the clerk would not have counted that money out in a story without him.
+
+Not because the Association is unkind. **Because the commission would not have existed.** Mu Chen had given the Heavy Silver to Wulin on a Tuesday because Mu Chen had spent a month watching a boy who listened to metal, and the reason Mu Chen had been watching was that **another boy had been standing at the east window of the Association for six weeks, reading grain in metal that nobody else was reading, and Mu Chen had started looking at everything else in the building differently because of it.**
+
+**In a story without him, Wulin is a promising boy with grass and a hammer, and the Association gives him small work for years, and the ten thousand coins never happen.** In a story with him in it, Mu Chen has already decided that this building contains something he did not expect, and Wulin gets Heavy Silver on a Tuesday, and his father's two years of hands come home in a bag.
+
+That is the butterfly, and Wulin never knew. He would have said the money was because he worked. He worked. **But the reason the work was there was a boy at a window who had never once been introduced to him, and who would not have said it was him if anybody had asked.**
+
 Mu Chen's actual teaching came in fragments between commissions, and it was never about the hammer. "Where does the sound go, boy?" he asked once, watching Wulin's sixtieth-something strike sing true. "Into the air means waste. Into the metal means work. Into *you* means you'll be deaf by forty and I'll have to shout at your students instead." He watched the next strike. "Your friend with the hawk-eyes — he listens like the metal owes him money. Bring him to the forge. Not to work. To listen. A smith who can hear what I can hear is worth three who can't."
 
 And there was Mu Xi.
 
-She had been coming to the public forging floor for two weeks — officially to work her own commissions, though her work sat finished and cooling while her eyes sat on the boy at the far anvil. She watched the way the Tungsten hammers moved in his hands. She watched the *silence* of his strikes — the thing her father's whole school was built on and that this commoner's son did like breathing. She was, by every measure the Association had, a generational genius. She had been called that since she was seven.
+She had been coming to the public forging floor for two weeks — officially to work her own commissions, though her work sat finished and cooling while her eyes sat on the boy at the far anvil. She watched the way the Tungsten hammers moved in his hands. She watched the *silence* of his strikes — the thing her father's whole school was built on, the thing she had spent nine years being told she would eventually earn, and that this commoner's son did like breathing.
+
+She had **first rank at eleven** and second rank a month after her thirteenth birthday, and her father had called her a child prodigy of the blacksmithing world, and she had learned by about the age of twelve to stop correcting people when they said it, because correcting them took longer than letting them.
+
+It was not pride. She had checked. Pride would have been simpler.
+
+What it actually was, and what she had never said out loud to anybody, was this: she had started at **five**, on a box, making small hammers out of offcuts, after her father told her kindly and accurately that forging was **not suitable for girls** — and every rank she held was two years of being thought funny, paid in advance. So when the Association started saying *prodigy*, it felt like somebody taking the nine years and handing back a word.
+
+She was not here to compete with Tang Wulin.
+
+She was here to find out what he had that she had not been able to buy with nine years.
 
 On the fourth day she crossed the floor while Wulin was banking his forge, and stood beside him for long enough that he noticed and wiped his hands and stood up straight, and asked — in the clipped, exact tone of a person carrying a very heavy object — one question.
 
@@ -127,11 +161,21 @@ Wulin thought about it honestly. He was not performing modesty; he genuinely tur
 
 "I don't know," he said. "The metal wasn't ready before then. You can hear it getting ready — like bread. I just kept hitting where it told me until the telling turned into the note." He hesitated, then added, because she looked like someone who had never once been told to just *listen*: "Maybe your strikes ring at forty because forty is when your metal is ready. Mine's a different lump every time."
 
-It was, without question, the truest answer he had. It was also, for Mu Xi — for whom every number in her life had been a rank on a ladder with her name carved at the top — the wrong shape of answer entirely. *The metal tells him,* her face said, briefly, before her training put the mask back. *The metal does not tell me. The metal obeys me, or I obey my father's school.*
+It was, without question, the truest answer he had.
 
-"Thank you," she said, precisely, and went back to her own anvil, and her strikes that evening rang at the fortieth, exactly as always, exactly on school-perfect, and she did not go home until midnight.
+And it was the wrong shape of answer entirely for a girl who had built herself out of *doing it correctly*, because *the metal tells you* is not a thing you can practise. It is not a thing you can start at five on a box. You either hear it or you spend your life becoming good enough that it almost doesn't matter.
 
-In his office above the floor, Mu Chen watched his daughter through the window, watched the boy bank his forge and leave with ten thousand coins in a bag over his shoulder, and said nothing at all, which for him was a kind of grief.
+*The metal tells him,* her face said, briefly, before nine years of training put the mask back on. *The metal does not tell me. The metal obeys me, or I obey my father's school.*
+
+"Thank you," she said, precisely, and went back to her own anvil.
+
+Her strikes that evening rang at the fortieth, exactly as always, exactly on school-perfect — and she did not go home until midnight, because there was nothing else she knew how to do, and because if the metal was not going to speak to her then she would simply have to become so good that its silence stopped being the point.
+
+Her father had reached **eight stars**. There were **three** men on the Douluo Continent who had reached nine and could be called **Divine Craftsmen**, and she had known their names before she could read properly. She had decided at about the age of seven, in the flat unexamined way children decide things, that she was going to be the fourth, and she had never once revised the plan, and she was not going to start now because a boy from a town nobody visited had a metal that talked to him.
+
+In his office above the floor, **Mu Chen — eight-star Saint Craftsman, President of the Eastsea City branch, the only man at that rank in the entire Association, and one of perhaps forty on the continent who could name all three of the nine-star Divine Craftsmen** — watched his daughter through the window, watched the boy bank his forge and leave with ten thousand coins in a bag over his shoulder, and said nothing at all.
+
+Which, for him, was a kind of grief. He had spent nine years teaching her that effort was the whole of it, because effort was the only thing he had ever been able to honestly promise her.
 
 ---
 
@@ -165,7 +209,7 @@ Wulin stared at the page. The furnace-hum under his ribs — the second seal, pa
 
 "*It was* forged, that's the whole point—"
 
-The argument went on for twenty minutes, which is what arguments between brothers sound like when both of them are, underneath, agreeing completely. Above them the Eastsea sky did its slow harbor thing, and the hawk inside Lin Hao's chest turned once in its sleep, heavy with another week of fed cultivation — seven hundred and some years now, and climbing toward a number he could feel the way sailors feel weather. On his shoulders, under the shirt, the feather-fine wind-marks from the week's sparring still glowed faint, and glowed, he noticed, a little longer each time.
+The argument went on for twenty minutes, which is what arguments between brothers sound like when both of them are, underneath, agreeing completely. Above them the Eastsea sky did its slow harbor thing, and the hawk inside Lin Hao's chest turned once in its sleep, heavy with another week of fed cultivation — seven hundred and thirty-five years now, and climbing toward a number he could feel the way sailors feel weather. On his shoulders, under the shirt, the feather-fine wind-marks from the week's sparring still glowed faint, and glowed, he noticed, a little longer each time.
 
 Becoming, not changing. Slowly. The way the sea makes a route.
 
@@ -178,12 +222,12 @@ Down below, in room eleven, the door stood open its careful inch, and on the win
 ### Chapter Summary:
 - **Part 1 — Xie Xie's promised match (canon ch 44 arrangement: "you set the location"):** Xie Xie has *analyzed* — lands the first blow ever on Wulin (feint-low/high, thin cut healed instantly by 1st-seal regeneration — canon-consistent); loses in two strikes again ("becoming a tradition"). Vs Lin Hao: smarter angles, redirected again; the turn — he stops raging and asks **"How do you see my first step?"** Lin Hao's split-truth answer ("you tell the air you're coming… my eyes are from further away than your feet") — AT concealed as swordsman's wisdom, knowledge firewall intact. Ends with canon respect-language: **first window, his treat** (canon ch 50 beat)
 - **Part 2 — Victory Streak (canon ch 51-52):** joint class-vs-class training; class five's rise shown through ensemble wins: Yun Xiao's patient footwork, Zhou Zhangxi applying what he learned watching Wulin, Xie Xie's controlled dagger, Wulin's one-exchange demonstration vs a rank-21; **Lin Hao wins without Union ("some doors you don't open for an audience")**. Streak compounds; "the worst class is winning" enters grade vocabulary; Long Hengxu observes; **Wu Zhangkong makes Lin Hao & Wulin permanent sparring partners** (two furnaces, one whetstone). First real session: fence repairs, feather-marks glowing post-spar (mutation beat)
-- **Part 3 — Ten Thousand Coins (canon ch 44 amount):** Wulin's first solo Heavy Silver commission → **10,000 federation coins** on delivery; Mu Chen's teaching = the silent-strike philosophy ("where does the sound go?") + invitation for Lin Hao to "come listen" (door widening, not stealing Wulin's forge). **Mu Xi's decision:** asks Wulin the 63rd-strike question with enormous pride; his true answer ("the metal tells me… maybe forty is when YOUR metal is ready") is the wrong shape for a ladder-mind — mask goes back on, she works till midnight. Canon ch 58 depression seed planted gently; Mu Chen watches, silent (his grief)
+- **Part 3 — Ten Thousand Coins (canon ch 44 amount):** Wulin's first solo Heavy Silver commission → **10,000 federation coins** on delivery; Mu Chen's teaching = the silent-strike philosophy ("where does the sound go?") + invitation for Lin Hao to "come listen" (door widening, not stealing Wulin's forge). **Mu Xi's decision — REFRAMED against canon ch 42/57:** asks Wulin the 63rd-strike question **not from pride but from nine years of effort meeting something effort can't buy**. His true answer ("the metal tells me… maybe forty is when YOUR metal is ready") is the wrong shape for a girl who built herself out of *doing it correctly* — because "the metal tells you" cannot be practised. Mask goes back on; she works till midnight. Canon **ch 57** depression seed planted gently. **Mu Chen — eight-star Saint Craftsman, the only one in the Association — watches, silent, and the chapter names his grief: he taught her effort was the whole of it, because it was the only thing he could honestly promise her.**
 - **Part 4 — The List:** Chen Long's first monthly letter arrives (Ch 4 promise kept — reads Lin Hao's compensation from his writing; Lin Mei's postscript). Wulin's **FIND NA'ER** fund plan (notices, port towns, coastal routes); Lin Hao's AT-derived insight redirects the search: **she always faced the water — start at Glorybound harbor, the night fishermen**. Ends: badge-moon, open door, carried weight
 
 ### Canon Preserved / Not Triggered:
 - ✅ 10,000-coin Heavy Silver pay (canon exact), promised-match structure, first-window treat, Zhou Zhangxi's turn, Xie Xie's obsession-maturing-into-respect arc on canon rails
-- ✅ Mu Xi's pride and the depression seed handled per canon trajectory (ch 58) — no rush, no confrontation
+- ✅ **Mu Xi written per canon ch 42/57, not per my earlier invention** — she resents the word *prodigy*, her identity is effort against a father who said no, and her ambition is **ninth-rank Divine Craftsman** (only three exist on the continent). Depression seed per canon ch **57** trajectory — no rush, no confrontation
 - ✅ NOT triggered: Gu Yue (ch 63), class zero (ch 110), 2nd seal break, Hawk-Soul Union, Na'er at academy, Spirit Ascension Platform
 
 ### Butterfly Effects Shown:
@@ -201,16 +245,41 @@ Down below, in room eleven, the door stood open its careful inch, and on the win
 ### Character Progression:
 - **Lin Hao:** rank 22 (23 approaching — meditation deepening); hawk ~700+ yrs; Union still folded; first letter home; feather-marks lasting longer
 - **Tang Wulin:** rank 13; 10,000 coins + Friday commission incoming; FIND NA'ER fund operationalized; split lip (sparring), grinning
-- **Xie Xie:** rank 20; first blood drawn (on Wulin); questions replacing fury; treats rivals to dinner = friendship grammar
+- **Xie Xie:** rank **18**; first blood drawn (on Wulin); questions replacing fury; treats rivals to dinner = friendship grammar
 - **Yun Xiao:** first solo win, patience-style; noticed
 - **Zhou Zhangxi:** learned from watching Wulin; applying it
-- **Mu Xi:** pride quietly cracked; working till midnight (depression seed)
+- **Mu Xi:** the nine years meet something they can't buy; mask back on; working till midnight (canon ch 57 depression seed)
 - **Mu Chen:** invited Lin Hao to the forge to *listen*
 - **Wu Zhangkong:** paired the two furnaces permanently
 
 ### Attractiveness Mentions (natural): 2
 - Xie Xie's dagger "pale as a held breath" / his hair coming loose in defeat
 - Mu Xi's posture/knuckles scene (character, not decoration) — plus functional descriptions only elsewhere
+- **Mu Chen named at full canon rank:** eight-star Saint Craftsman, President of the Eastsea City branch, only one at that rank in the Association
 
 ### Next Chapter Preview:
 **Chapter 7: The Harbor** (Na'er search opens — night fishermen of Glorybound harbor; possible first real lead) + Association deepening (Lin Hao's first forge-listening session with Mu Chen) + rank 23 breakthrough pacing + Gu Yue's arrival approaching (canon ch 63 — mid-term; her entrance must collide with Xie Xie per canon)
+
+**Ranks at chapter end:** Lin Hao 22 · Tang Wulin 11 — the weight of the worst class — class five's standing begins to shift (retrofit v2.42: this line was added during the integrity audit so every chapter carries an end-state record)
+
+### Character States:
+- **Lin Hao:** rank 22 — the weight of the worst class — class five's standing begins to shift
+- *(retrofit v2.42: added during the integrity audit; earlier chapters were written before the footer standard existed)*
+
+### Ensemble — canon-verified state
+
+_Single source of truth: `CHARACTER_STATS.md` §1 (canon citations) and §3 (schedule)._
+_Every number below traces to a canon line or is labelled AU._
+
+- **Tang Wulin:** rank **13** (AU — canon c45 has 11 at intake; ch9 prose: *"rank thirteen since before enrollment"*) · one white ten-year ring (Goldlight)
+- **Xie Xie:** rank **18** (canon c46) · one yellow hundred-year ring
+- **Gu Yue:** enrolled but sealed — gives no information about herself (canon mystery discipline; AU rank deliberately not stated)
+- **Xu Xiaoyan:** not yet introduced
+- **Zhang Yangzi:** rank **21** · spiritual power **41** (canon c113) · Shadow Phantasm Eagle
+- **Wang Jinxi:** rank **21** (canon c134) · spiritual power **18**, lowest in class zero (canon c113) · Bone Dragon King
+- **Wei Xiaofeng:** rank **21** (canon c101) · Green Shadow Snake
+
+Canon position anchors for this point in the story: everyone in class zero is **10 years old** through the tournament arc (canon c221: *"They're so young though, only ten years old!"*); the Shrek working-student dorm holds **four** — Tang Wulin, Xie Xie, Gu Yue, Xu Xiaoyan (canon c288; + Lin Hao, AU = five invitees). Departure order: **Wei Xiaofeng left class zero first** (canon), then **Wang Jinxi transferred to another academy** (canon ch 153, staged in our ch43). **AU divergence:** in canon Zhang Yangzi transfers out with him; in this story Zhang Yangzi embraces Wang Jinxi on the steps and **stays at Eastsea Academy**, out of class zero.
+
+🔴 **REALM GAP LAW (v2.90):** every ten ranks is a wall, not a step. Lin Hao is a **Soul Elder with three purple rings**; everyone else here is rank 17–23 with two. None of them can defeat him — they can outlast him, survive him, cost him. Gu Yue does exactly that, because she is the one he cannot read.
+

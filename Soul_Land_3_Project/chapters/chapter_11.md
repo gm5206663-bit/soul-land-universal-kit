@@ -1,6 +1,6 @@
 # Chapter 11: The Class Promotion Tournament Begins
 
-## Canon Reference: Novel Chapters 72-74 (Tournament Begins / The First Match — class five vs class four, 10-second match, Jia Long / Lin Zunyuan / Mo Si, ring display, "The Trio" naming) — AU: the Four
+## Canon Reference: canon ch 72–74 (Tournament Begins / The First Match — class five vs class four, 10-second match, Jia Long / Lin Zunyuan / Mo Si, ring display, "The Trio" naming) — AU: the Four
 ## Timeline: Age 10, tournament day 1 — ~2 months to term's end
 
 ---
@@ -31,7 +31,10 @@ The stillness did not answer. It was, he was beginning to understand, extremely 
 
 ---
 
-## Part 2: The First Match
+## Part 2
+
+The storm-light in his hair caught the yard light when he turned his head, and the class-four boy opposite him had spent the first four seconds of the match looking at it instead of at the sword, which was the last mistake he made that morning.
+: The First Match
 
 Director Long Hengxu took the tournament platform at the first bell with the expression of a man presiding over paperwork.
 
@@ -222,3 +225,31 @@ But when sleep came — late, the way it came after hard days — it came with t
 
 ### Next Chapter Preview:
 **Chapter 12: Two Ring Opponent** (canon ch 75-76 texture: "The Story of the Stewed Beef" ensemble beat + "Two Ring Opponent"): class three's combined-soul two-ring vs the Four; Lin Hao fights on his own eyes with the hawk watching — the showing he promised; Gu Yue pours her first cup (minimal, canon-guarded); the stewed beef shop celebration (canon ch 75 — the famous Eastsea earthen-jar beef); the question still open; tournament ladder climbs toward class one
+
+### Character States:
+- **Lin Hao:** rank 24 · two yellow rings · hawk ~760 yrs · fought Mo Si (Gale Talon at the throat, "Yield") · the hawk's leading gone soft since the question — the match fought on his own reading ("the student could, it turned out, see")
+- **Wu Zhangkong:** declares four participants; "The entitlement was to file a fourth" ruled by Long Hengxu
+- **Long Hengxu:** Eastsea Academy director · the bedrock ruling that lets class five field a fourth · impassive, procedural, unarguable
+- **Mo Si:** class four's free piece · short sword, Agility-type, rank 13 · yields at walking volume · laughs afterwards
+- **Jia Long / Lin Zunyuan:** class four's wall and staff support · both beaten on canon terms
+- **Kong Hanwen:** class four's teacher · does the arithmetic on the ten seconds · protests and loses
+
+**Ranks at chapter end:** Lin Hao 24 · Tang Wulin 14 — the tournament's first match — Lin Hao fights Mo Si; canon ownership preserved (retrofit v2.42: this line was added during the integrity audit so every chapter carries an end-state record)
+
+### Ensemble — canon-verified state
+
+_Single source of truth: `CHARACTER_STATS.md` §1 (canon citations) and §3 (schedule)._
+_Every number below traces to a canon line or is labelled AU._
+
+- **Tang Wulin:** rank **14** (AU — canon c98 has 12 at this point; documented delta) · one white ten-year ring
+- **Xie Xie:** rank **19** (canon c72) · one yellow hundred-year ring
+- **Gu Yue:** rank **17** (canon c72) · one ring · spiritual power **153** at nine (canon c114)
+- **Xu Xiaoyan:** not yet introduced
+- **Zhang Yangzi:** rank **22** · spiritual power **41** (canon c113)
+- **Wang Jinxi:** rank **22** (canon c134) · spiritual power **18**, lowest in class zero (canon c113)
+- **Wei Xiaofeng:** rank **22** (canon c101)
+
+Canon position anchors for this point in the story: everyone in class zero is **10 years old** through the tournament arc (canon c221: *"They're so young though, only ten years old!"*); the Shrek working-student dorm holds **four** — Tang Wulin, Xie Xie, Gu Yue, Xu Xiaoyan (canon c288; + Lin Hao, AU = five invitees). Departure order: **Wei Xiaofeng left class zero first** (canon), then **Wang Jinxi transferred to another academy** (canon ch 153, staged in our ch43). **AU divergence:** in canon Zhang Yangzi transfers out with him; in this story Zhang Yangzi embraces Wang Jinxi on the steps and **stays at Eastsea Academy**, out of class zero.
+
+🔴 **REALM GAP LAW (v2.90):** every ten ranks is a wall, not a step. Lin Hao is a **Soul Elder with three purple rings**; everyone else here is rank 17–23 with two. None of them can defeat him — they can outlast him, survive him, cost him. Gu Yue does exactly that, because she is the one he cannot read.
+
