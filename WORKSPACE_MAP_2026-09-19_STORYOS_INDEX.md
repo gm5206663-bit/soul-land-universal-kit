@@ -55,19 +55,29 @@ Verified by git blob SHA (byte-level), against the author's own `workspace HANDO
 |---|---|---|---|---|---|
 | `arena_managed_uploads/2026-09-18_chapter51_managed_snapshot/soul_land_4_fire_phoenix/` (this repo) | 654 | **653** | 0 | 0 | ✅ **CURRENT — read this one** |
 | `soul_land_4_fire_phoenix` **private repo**, root | 654 | **653** | 0 | 0 | ✅ current duplicate |
-| `soul_land_4_fire_phoenix/` (this repo, top level) | 173 | 71 | 96 | 486 | ⛔ **STALE — stops at Chapter 31** |
-| `sl4_fire_phoenix/` (this repo, top level) | 172 | 0 | 0 | 653 | ⛔ **STALE — stops at Chapter 31** |
-| `soul-land-projects` repo → `sl4_fire_phoenix/soul_land_4_fire_phoenix/` | 168 | 71 | 95 | 487 | ⛔ **STALE** |
+| ~~`soul_land_4_fire_phoenix/`~~ (this repo, top level) | 173 | 71 | 96 | 486 | ⛔ STALE — stops at Chapter 31 → 🗄️ **ARCHIVED 2026-09-19** to `_archive/2026-09-19_stale_sl4_copies_at_ch31/soul_land_4_fire_phoenix_STALE_ch31/` |
+| ~~`sl4_fire_phoenix/`~~ (this repo, top level) | 172 | 0 | 0 | 653 | ⛔ STALE — stops at Chapter 31, and its nested 168-file tree was a **byte-identical subset** of the row above → 🗄️ **ARCHIVED 2026-09-19** to `_archive/2026-09-19_stale_sl4_copies_at_ch31/sl4_fire_phoenix_STALE_ch31/` |
+| `soul-land-projects` repo → `sl4_fire_phoenix/soul_land_4_fire_phoenix/` | 168 | 71 | 95 | 487 | ⛔ STALE → 🗄️ **ARCHIVED 2026-09-19** in that repository |
 
 The live edge is **after Chapter 51 "The Cost of Quiet"**, canon consumed through source
-Chapter 176, next source Chapter 177 `1,000-year Purple Zoysia`. An agent that reads either
-top-level `*fire_phoenix*` directory will draft from a state twenty chapters behind, using
-superseded power values.
+Chapter 176, next source Chapter 177 `1,000-year Purple Zoysia`. An agent that read either
+top-level `*fire_phoenix*` directory **would have** drafted from a state twenty chapters
+behind, using superseded power values. 🔴 **Resolved 2026-09-19: neither directory exists at
+the top level any more.** Both were moved under `_archive/`, which `README.md` already
+declares superseded-do-not-read.
 
 **Not deleted, per the standing rule "never delete user work — archive/mark, don't erase."**
-Marked here instead. Recommended next step, for the author to approve: move the three stale
-copies under `_archive/` or add a `README_STALE.md` inside each, the way `audits/` folders
-already carry `README_OBSOLETE_BACKUP.md`.
+
+🔴 **DONE 2026-09-19 — the recommended next step was approved by the author and executed.**
+Both stale copies in this repository were moved under `_archive/` with `git mv`: **345
+renames, all recorded as `R100` (100% similarity) — zero deletions, zero content changes.**
+History follows the files via `git log --follow`. Each directory carries a
+`README_STALE_ARCHIVED.md`, and the archive folder carries its own `README.md`, the way
+`audits/` folders already carry `README_OBSOLETE_BACKUP.md`.
+
+The third stale copy, in the `soul-land-projects` repository, was archived the same day.
+
+Full delta: `WORKSPACE_MAP_2026-09-19_ARCHIVE_AND_REPAIR.md`.
 
 ### Privacy note the author should see
 

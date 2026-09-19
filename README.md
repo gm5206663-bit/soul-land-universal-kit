@@ -22,6 +22,7 @@
 ## `_archive/` — DO NOT USE
 `_archive/2026-08-25_uploads/` holds the original uploads from earlier sessions (pre-v2.26 SL3 snapshots, the Chapter-4-era fossil codex, the stale continuation). Kept for provenance only; every file there is superseded by the trees above.
 `_archive/2026-09-18_workspace_uploads/` (added 2026-09-18) holds an agent-workspace snapshot of the SL3 docset from the chapter-01 audit era — also fully superseded by `Soul_Land_3_Project/`.
+`_archive/2026-09-19_stale_sl4_copies_at_ch31/` (added 2026-09-19) holds the **two stale top-level Soul Land 4 copies** (`soul_land_4_fire_phoenix/`, `sl4_fire_phoenix/`), both frozen at **Chapter 31** while the project is at **Chapter 51**. Moved by `git mv` — 345 renames, all `R100`, zero deletions, zero content changes. `sl4_fire_phoenix/`'s nested 168-file tree was verified a **byte-identical subset** of the other copy. Each has a `README_STALE_ARCHIVED.md`. **The archived `sl4_fire_phoenix/…/SOUL_LAND_4_FIRE_PHOENIX_NEXT_STEPS_FOR_CONTINUATION.md` is actively dangerous**: it presents `Dawnflame 1,120` and `Dawn-Iron 2,040` as current, two values `STATUS_PANEL.md` §9 explicitly bans. Never read it as state.
 
 ---
 
@@ -41,13 +42,27 @@ Nothing existing was deleted or overwritten. See
 - **an index of every fanfiction project in this repository** — files, chapters, and whether
   each is current, superseded, dropped, forbidden, or foundation-stage
 - **the Soul Land 4 five-copies finding** — the live edge is after **Chapter 51**, and two
-  top-level directories (`soul_land_4_fire_phoenix/`, `sl4_fire_phoenix/`) are **stale at
-  Chapter 31**. The current copy is
+  top-level directories (`soul_land_4_fire_phoenix/`, `sl4_fire_phoenix/`) were **stale at
+  Chapter 31**. 🔴 **Both archived 2026-09-19** to
+  `_archive/2026-09-19_stale_sl4_copies_at_ch31/` (see the `_archive/` section above). The
+  current copy in this repo is
   `arena_managed_uploads/2026-09-18_chapter51_managed_snapshot/soul_land_4_fire_phoenix/`.
-  This is SL3's TWO-COPIES LAW applying to SL4, which now has five places.
+  This was SL3's TWO-COPIES LAW applying to SL4, which had five places; it now has three,
+  and the third (`soul-land-projects` repo) was archived the same day.
+  See `WORKSPACE_MAP_2026-09-19_ARCHIVE_AND_REPAIR.md` for the full delta.
 - **Dragon Prince Yuan — Zhou Xu**, added today at
-  `dragon_prince_yuan_native_oc_fanfiction/` (28 files). Its gate is **FAIL**
-  (firewall-integrity error + a stale `START_HERE.md`), so per its own rule 1: **do not
-  draft prose for it yet.**
+  `dragon_prince_yuan_native_oc_fanfiction/` (28 files). ~~Its gate is **FAIL**~~
+  🔴 **RESOLVED 2026-09-19 — gate is now PASS.** The FAIL was two things: the scanner
+  hard-coded 11 SL4-specific firewall filenames, so a project declaring its firewalls in
+  `foundation/KNOWLEDGE_FIREWALLS.md` read as zero firewalls (scanner bug, now generic);
+  and the project had no `foundation/CURRENT_STATE_MANIFEST.json`, so its live edge was not
+  machine-readable (now authored from its own files, marked generated). Two stale
+  pre-prose headers were also corrected: `HANDOFF.md` said "no prose yet" and
+  `foundation/START_HERE.md` said "do not write Chapter 1 yet", both above their own
+  appended after-Chapter-1 live-edge sections. Now 30 files.
+  Still genuinely open, and needing the **user**, not an agent: exact cultivation realm for
+  Zhou Xu, the project-specific knowledge-firewall boundaries (`KNOWLEDGE_FIREWALLS.md` is
+  still TBD), wine-quirk handling, and name confirmation. Chapter 2 is blocked on fetching
+  novel Chapter 2 `Genesis Runes`.
 - **`gm5206663-bit/storyos-site`** — the verification/publishing tooling, in its own public
   repository.

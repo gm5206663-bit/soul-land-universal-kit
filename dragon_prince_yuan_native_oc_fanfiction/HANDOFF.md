@@ -2,7 +2,14 @@
 
 Project root: `/home/user/dragon_prince_yuan_native_oc_fanfiction/`
 
-Status: foundation initialized, no prose yet.
+Status: **SUPERSEDED — foundation initialized AND Chapter 1 written.**
+
+> The line that used to read "foundation initialized, no prose yet" was true at setup and
+> is now historical. Prose exists: `chapters/Chapter_01.md`, **The Second Son in the Green
+> Smoke**. The authoritative live edge is the `## Latest live edge after Chapter 1` section
+> at the bottom of this file, `foundation/STATUS_PANEL.md`, and
+> `foundation/CURRENT_STATE_MANIFEST.json`. Everything below is still valid as the record of
+> the user locks the project was built on.
 
 User locks:
 

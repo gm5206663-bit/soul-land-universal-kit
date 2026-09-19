@@ -12,6 +12,13 @@ Purpose: establish a clean foundation before prose so the project does not repea
 
 ## Absolute startup rule
 
+> **STATUS: COMPLETED — this gate has been passed.** Chapter 1 has been written
+> (`chapters/Chapter_01.md`, **The Second Son in the Green Smoke**), so the eight locks below
+> were resolved and prose began. This section is kept as the historical startup discipline and
+> as the checklist to re-run if the project is ever reset. For the current state read the
+> `## Latest live edge after Chapter 1` section below, `foundation/STATUS_PANEL.md`, and
+> `foundation/CURRENT_STATE_MANIFEST.json`.
+
 Do **not** write Chapter 1 yet. First lock:
 
 1. Source priority: novel vs manhua vs donghua.
