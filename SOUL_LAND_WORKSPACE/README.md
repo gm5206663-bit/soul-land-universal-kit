@@ -14,7 +14,7 @@
 | `/home/user/SOUL_LAND_WORKSPACE/` | **This hub**: cockpit, agent operating profile, cross-project laws, audit report. | META |
 | `/home/user/soul_land_new/` | **Lan Shen** serial (SL1 era, Blue Silver Grass OC). | FROZEN/DROPPED by author (session 22) — preserved |
 | `/home/user/soul_land_devouring_dragon/` | **Devouring Dragon** — original beast-protagonist serial, 1,000 yrs after SL1, Adaptation Talent from the egg. | **ACTIVE** — edge = Chapter 10 "The Cold Country" |
-| `/home/user/soul_land_holy_spirit/` | **Holy Spirit serial** — NEW Soul Land 2 fic: reincarnator + Adaptation Talent, Devouring Dragon soul + hidden Dragon Heart, walks himself into the Holy Spirit Cult at six. Built on the kit. | LIVE — edge = Chapter 2 "The Answer" (restart register) |
+| `/home/user/soul_land_holy_spirit/` | **Holy Spirit serial** — NEW Soul Land 2 fic: reincarnator + Adaptation Talent, Devouring Dragon soul + hidden Dragon Heart, walks himself into the Holy Spirit Cult at six. Built on the kit. | LIVE — edge = Chapter 4 "The Use" (restart register) |
 | `/home/user/SOUL_LAND_WORKSPACE/kit/` | **THE NO-MISTAKE KIT** (author's distilled law: 00–07 + rebuilt 08–10, templates, tools/verify.py). Governs every live project. | META |
 | `/home/user/SOUL_LAND_WORKSPACE/SARA.md` | The agent self-file (author-owned continuity). Updated every session. | META |
 | `/home/user/SL_ARCHIVE/` | All superseded / historical material, originals kept byte-exact. | ARCHIVE |

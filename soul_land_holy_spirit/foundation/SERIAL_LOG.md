@@ -555,3 +555,45 @@ kind"); ch2 — the feeding scene names it (Devouring Heaven and Earth,
 older than rings) and the assessor writes it into her report
 ("innate and ringless"). Mirrors: STATUS_PANEL protagonist block +
 CONTINUITY register. verify PASS.
+## s20 — CHAPTER 3: THE RIGHT WAY (2026-09-18)
+AUTHOR: "Next chapter."
+CHAPTER 3 delivered (3,365 words, 31 spoken lines, 4+ events):
+the word comes down short; THE CHURCH'S KNIFE given (bone handle,
+worn smooth — "the knife belongs to the blade"); the hunt walks
+(GU HAN, Iron Chain, y/y/p/p STANDARD, Soul Ancestor; SHI TIE,
+Mountain Axe, two yellow rings; assessor; Feng Si); the fringe law
+and the Emperor's weight; the quarry of his own line — HORNED EARTH
+DRAGON, hundred-and-twenty years (dragon's blood answers dragon's
+blood); the binding without the kill; THE KILL by his own hand while
+the hunger was made to WAIT (horn opens the shoulder — the price on
+the page); THE FIRST RING (yellow, the hour's fade); THE ABSORPTION
+— devouring turns trial to filling, gate opens, feeding's water comes
+through: level TEN → THIRTEEN; FIRST SKILL: EARTH DRAGON SCALE ARMOR,
+tested against iron; assessor's law: "the feeding feeds the gate too
+— the church's method is one method, not two"; the HIDDEN ONE knocked
+once at the dragon-kind ring (folded in the dark, no one saw); end
+hook: "Tomorrow the church begins to use you." Account: two of the
+four done (vessel, ring). Mirrors: CONTINUITY ch3 row + debts,
+STATUS_PANEL position/known-by/beats, CHARACTERS +Gu Han +Shi Tie,
+SARA s20, README edge. verify PASS.
+## s21 — CHAPTER 4: THE USE (2026-09-19)
+AUTHOR: "Next chapter."
+CHAPTER 4 delivered (3,356 words, 31 spoken lines, 5 events):
+THE USE BEGINS — the beast-house (church economy on the page);
+QIN MO beast-keeper (Cage Thorn, y/y/p STANDARD, Soul Elder); the
+feeding as labor; the SHOWED PACE — levels fourteen/sixteen/seventeen
+across three moon-turnings ("the second gate before his eighth
+winter") with the TRUE pace filed as the leash the rooms above
+believe in; THE WALL FINISHED — sixty-third cup, the hand finds no
+door, the song's whole measure taken, the wall shows the shape of a
+door; THE ASH WYRM — true dragon-kind, two hundred winters,
+death-sick from the deep-country's edge (Gu Han's taking cost two men
+their standing and one his hand; poisoned flesh = poisoned ring);
+the word: let him drink, and watch; the HIDDEN ONE WAKES; the
+devouring grows with dragon's blood; the wyrm's memory of THE DEEP
+COUNTRY filed (the weight that owns it — a closed eye that is not
+closed); "the boy is the church's dragon, and the church will feed
+the boy dragons"; reading: eighteen, settling; THE SUMMONS — the main
+temple before the snow, where the church decides what things are for.
+Mirrors: CONTINUITY ch4 row + debts (wall debt CLOSED), PANEL,
+CHARACTERS +Qin Mo, SARA s21, README edge. verify PASS.

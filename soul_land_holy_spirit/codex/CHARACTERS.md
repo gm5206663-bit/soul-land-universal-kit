@@ -61,6 +61,27 @@ The altar's escort to the two-skull stone; stops at the line he was never
 paid to cross. "It hears what it wants to hear." One scene, delivered him,
 gone up toward the lamps.
 
+## GU HAN [design — first ch3]
+Hunt-master of the altar. Fifty winters, a face like a saddle, a coil
+of black chain at his hip — SOUL: IRON CHAIN; FOUR RINGS yellow,
+yellow, purple, purple (STANDARD); Soul Ancestor; the casting ring
+and the locking ring, four hundred hunts old. Walks the fringes the
+way the fringes walk; states the hunt law (we find, we bind, we hold
+— he kills; the ring follows the killing hand); tests what he needs
+to know. The church's honest instrument for the taking of beasts.
+## SHI TIE [design — first ch3]
+Grey handler of the hunt. SOUL: MOUNTAIN AXE; TWO YELLOW RINGS
+(STANDARD); Soul Master; stakes and rope and the carrying of what the
+hunt keeps, because the church wastes nothing of what its blades take.
+
+## QIN MO [design — first ch4]
+Beast-keeper of the altar's beast-house. Old the way the altar is
+old, hands like cage-iron — SOUL: CAGE THORN; THREE RINGS yellow,
+yellow, purple (STANDARD); Soul Elder; thirty years of the house.
+States the house's law (nothing dies wasted, nothing lives past its
+use; whole beasts to the gates, ruined to the pit's pot, the useless
+to the devourer). The church's arithmetic in a woman.
+
 ## MO YA [STRUCK s18 — belonged to the discarded academy-style ch2;
 the cult does not run floors and rivalries; reusable only if the
 author wills it, outside the pit]

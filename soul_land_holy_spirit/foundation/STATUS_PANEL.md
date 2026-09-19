@@ -1,7 +1,9 @@
 # STATUS PANEL — the single status source (kit 02)
 All other files derive from this one.
 
-LIVE EDGE        : Chapter 2 — "The Answer" (DL ~12667, days
+LIVE EDGE        : Chapter 4 — "The Use" (DL ~12667–68, one
+                   season out, age six)
+                   fifteen, age six)
                    four–ten, age six)
 PROTAGONIST      : LUO CHEN — the reincarnator (author-based); twin souls:
                    DEVOURING DRAGON (public) + DRAGON HEART (hidden);
@@ -16,28 +18,36 @@ PROTAGONIST      : LUO CHEN — the reincarnator (author-based); twin souls:
                    DEVOURING HEAVEN AND EARTH — the ringless devouring
                    art + the dragon's dominion over lesser beasts
                    (POWER_CANON §J)
-POSITION         : SEPARATED — a locked room in the altar's under-
-                   halls (the box and its price); FENG SI his keeper
-                   and teacher; the Formula filed clean; THE FEEDING
-                   done — a hundred-year boar drunk dry, the vessel
-                   filled, NO RING left (the devouring eats what the
-                   ring is made of — the gate still wants a killing
-                   done the right way); the cup nightly (first
-                   grain); THE HUNT WALKS FOR HIM IN TEN DAYS
-KNOWN BY WHOM    : THE ASSESSOR (Blood-Bone Whip, five rings
-                   y/y/p/p/b STANDARD, level fifty-nine, Soul King) —
-                   the dragon, the fullness, the classification, the
-                   FEEDING'S CLEANNESS ("it ate cleaner than the
-                   beast ate"); FENG SI (Soul-Calling Flute, three
-                   rings y/y/p, level thirty-eight, Soul Elder) — the
-                   same, now KEEPER and teacher; both answer for him
-                   to the rooms above; THE GATEKEEPER — the terms at
-                   the panel; KUI (stone-mill soul, level eight) —
-                   the bowl, twice; THE ROOMS ABOVE — two reports
-                   now, and the feeding's word riding up tonight.
-                   UNKNOWN: the reincarnation, the book, the Heart,
-                   the Talent, the plans, the beasts-not-men law, the
-                   filed Formula
+POSITION         : SOUL MASTER — level EIGHTEEN and settling (the
+                   showed pace: fourteen/sixteen/seventeen across
+                   three moon-turnings; the wyrm's winters still
+                   settling; the TRUE pace filed — the shown leash
+                   the rooms above believe in); ONE YELLOW RING
+                   (Horned Earth Dragon); FIRST SKILL: EARTH DRAGON
+                   SCALE ARMOR; the wall FINISHED (sixty-third cup —
+                   the song cannot get in and does not know it; the
+                   wall shows the shape of a door); the wyrm's two
+                   hundred winters drunk — the devouring grew with
+                   dragon's blood, the hidden one woke for it, and
+                   the deep country's memory came with it; the
+                   church's knife at his hip; SUMMONED — the main
+                   temple before the snow, where the church's own
+                   eyes will read him
+KNOWN BY WHOM    : THE ASSESSOR — everything the crystal can read,
+                   now including the showed pace and the wyrm's
+                   drinking ("the boy is the church's dragon");
+                   FENG SI — keeper and teacher, the readings, the
+                   summons word; GU HAN — the wyrm's taking; QIN MO
+                   (Cage Thorn, y/y/p STANDARD, Soul Elder) beast-
+                   keeper — the work's law; SHI TIE — the hunt's
+                   carrying; THE GATEKEEPER; KUI — the bowl, twice;
+                   THE ROOMS ABOVE — four reports now, the wyrm's
+                   reading riding up. UNKNOWN: the reincarnation,
+                   the book, the Heart's waking (folded), the
+                   Talent, the plans, the beasts-not-men law, the
+                   filed Formula, the wall's proof (the cup is
+                   believed to be working), the true pace, the
+                   wyrm's memory of the deep country, the account
 FORBIDDEN NOW    : NO TANG SECT CONTACT AND NO GOD'S-SIGHT EXPOSURE
                    (the not-to-be-seen list — Plan 9); the Soul-
                    Devouring Knife unobtained (horizon plan, Star Luo
@@ -54,16 +64,14 @@ EVENT (test/fight/hunt/deal/discovery); mechanics on the page; the
 protagonist WINS VISIBLY with what he chooses to show; dialogue
 drives; danger physical; zero apparatus in chapter files; bookkeeping
 kit-only. The old literary-register chapters live in attic/ (s13).
-- Chapter 3 (on the author's go): THE HUNT, ten days hence — the
-  cult's hunt, not an outing: the handlers, the forest's fringes on
-  the page (canon ecology: hundred-year kinds, the deeps off-limits,
-  the Emperor's weight standing over all of it); the quarry of the
-  dragon's own line if the forest and the moment allow it; THE FIRST
-  KILL DONE THE RIGHT WAY and THE FIRST RING as the canon scene —
-  the ring condensing over the dead beast, the hour's fade, the
-  seated absorption, the gate opening; the price paid and what the
-  price does to him; the cult's eyes on all of it, because the church
-  feeds what is useful and watches what it feeds.
+- Chapter 5 (on the author's go): THE ROAD UP — the journey from the
+  altar to the main temple before the snow (the cult's country on the
+  page: its roads, its villages-that-serve, its outer face to the
+  world); the main temple itself — where the church decides what
+  things are for: the rooms above with faces, the doctrine's deeper
+  layer, and the church's own eyes reading him; the wall under a new
+  kind of looking; what a six-year-old blade is FOR, in the church's
+  arithmetic — and what he intends to be for instead.
 - His plan-book lives in bible/HIS_PLANS.md — intentions, not a
   schedule. THE COLLECTED CANON LIVES IN THE KIT: bible/
   CANON_CALENDAR.md (the full SL2 clock — the Cult dies in the boy's
@@ -77,18 +85,17 @@ kit-only. The old literary-register chapters live in attic/ (s13).
 
 
 ## Last action
-Session 18 (2026-09-18): REBUKE — "holy spirit cult never take Luo
-Chen as normal and put with normal, this is not academy not Shark
-academy, this is holy spirit cult." The academy-style ch2 (measures,
-spars, rankings) was WRONG: struck to attic; CULT-IS-NOT-AN-ACADEMY
-locked as RULES 12. Chapter 2 REWRITTEN as "The Answer" (3,296
-words): the answer comes down on the third night — the walk-in is NOT
-the pit's; Kui's bowl kept; the locked room with the mattress (the
-box and its price); Feng Si made keeper and teacher; the doctrine's
-first layer spoken and counted; the Formula handed over alone, the
-hook filed; THE FEEDING — a hundred-year boar drunk dry, the
-devouring takes without waste and leaves NO RING, because the
-devouring eats what the ring is made of (the gate wants a killing
-done the right way); the cup nightly, first grain; the word — the
-hunt walks for him in ten days. Mo Ya + the measured children struck
-from the register (discarded cast). Mirrors rebuilt. verify PASS.
+Session 21 (2026-09-19): Chapter 4 — "The Use" (3,356 words, 31
+spoken lines). The beast-house: the church's larder/ledger/arithmetic
+on the page; QIN MO beast-keeper (Cage Thorn, y/y/p STANDARD) sets
+the work's law; the feeding as labor; the SHOWED PACE (fourteen →
+seventeen across three moon-turnings; the assessor's arithmetic —
+"the second gate before his eighth winter") while the true pace stays
+filed; THE WALL FINISHED — the sixty-third cup's hand finds no door,
+the song's whole measure taken; THE ASH WYRM — true dragon-kind, two
+hundred winters, death-sick from the deep-country's edge; the hidden
+one wakes; the devouring grows with dragon's blood; the wyrm's memory
+of the deep country filed; "the boy is the church's dragon"; reading:
+eighteen, settling; THE WORD — the main temple before the snow.
+Mirrors: CONTINUITY ch4 row + debts (wall debt CLOSED), PANEL,
+CHARACTERS +Qin Mo, LOG s21, SARA s21, README edge. verify PASS.
