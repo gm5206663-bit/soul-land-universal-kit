@@ -30,3 +30,24 @@
 Everything in the live workspace was added on this date without deleting or
 overwriting anything existing. Map of the addition: see
 `WORKSPACE_MAP_2026-09-18.md` at the root of this repository.
+
+---
+
+## ADDITION — StoryOS index + Dragon Prince Yuan (2026-09-19, add-only)
+
+Nothing existing was deleted or overwritten. See
+`WORKSPACE_MAP_2026-09-19_STORYOS_INDEX.md` for:
+
+- **an index of every fanfiction project in this repository** — files, chapters, and whether
+  each is current, superseded, dropped, forbidden, or foundation-stage
+- **the Soul Land 4 five-copies finding** — the live edge is after **Chapter 51**, and two
+  top-level directories (`soul_land_4_fire_phoenix/`, `sl4_fire_phoenix/`) are **stale at
+  Chapter 31**. The current copy is
+  `arena_managed_uploads/2026-09-18_chapter51_managed_snapshot/soul_land_4_fire_phoenix/`.
+  This is SL3's TWO-COPIES LAW applying to SL4, which now has five places.
+- **Dragon Prince Yuan — Zhou Xu**, added today at
+  `dragon_prince_yuan_native_oc_fanfiction/` (28 files). Its gate is **FAIL**
+  (firewall-integrity error + a stale `START_HERE.md`), so per its own rule 1: **do not
+  draft prose for it yet.**
+- **`gm5206663-bit/storyos-site`** — the verification/publishing tooling, in its own public
+  repository.
