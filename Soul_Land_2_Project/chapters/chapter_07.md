@@ -97,7 +97,7 @@ Wang Dong ran a full lap on that, jaw working. "In my whole life," he said at la
 
 "Then you've been running in a small yard," said Huo Yuhao, and — because the woodshed had taught him exactly one form of luxury — put on speed, and left a genius staring at his dust.
 
-"话不投机半句多!" Wang Dong announced to the sky, offended to his roots, and then, being who he was, *blazed* past the entire complaining hundred — a quarter-hour's deficit erased in half an hour of legs like whips — and finished first of all one hundred, barely breathing, so angry that he was almost happy, which is the exact temperature at which friendships set.
+"Not even half a sentence is worth saying!" Wang Dong announced to the sky, offended to his roots, and then, being who he was, *blazed* past the entire complaining hundred — a quarter-hour's deficit erased in half an hour of legs like whips — and finished first of all one hundred, barely breathing, so angry that he was almost happy, which is the exact temperature at which friendships set.
 
 ---
 
@@ -232,7 +232,7 @@ Evening, after the telling: the work-board's forge shift, an hour's walk from so
 
 "Come back tomorrow. Bring your own hammer."
 
-He had brought his own hammer. It sat on the desk of room 108 beside a page titled **玄玉手**, in a corner room with three beds and two roommates already breathing — one aristocratic and fur-swaddled, one somewhere deep in a white-ringed meditation — and in the pocket of a coat on the third nail, an empress who had listened all evening to a tale of gray buildings and thundering doors permitted herself one footnote:
+He had brought his own hammer. It sat on the desk of room 108 beside a page titled **the Jade Hand**, in a corner room with three beds and two roommates already breathing — one aristocratic and fur-swaddled, one somewhere deep in a white-ringed meditation — and in the pocket of a coat on the third nail, an empress who had listened all evening to a tale of gray buildings and thundering doors permitted herself one footnote:
 
 "*Little tide. The age you mean to upgrade is bigger than the one you were told about.*"
 
@@ -249,12 +249,12 @@ Across the academy the whetstone's window was dark at last, and the testing grou
 - **Canon receipts:** Zhou Yi's whole dossier (appearance, voice, creed, rings, the expulsions by name, the lap-counting omniscience); the rules-of-combat lecture; Wang Dong's public soul reveal (the Goddess of Light Butterfly — "the continent's most beautiful butterfly soul"); the self-Shock; the flight; the friendship-forged beats — all held close
 
 ### Canon Preserved / Not Triggered:
-- ✅ The gauntlet is canon's, whole: every beat from the manifesto to the nine names fires from Zhou Yi, Wang Dong, and Yuhao in canon order; the OC runs *inside* canon's field without touching a canon outcome (he counts the same laps she does — and *says nothing*, so her reveal stays hers)
-- ✅ NOT triggered: the proud deskmate unnamed (canon's later card) · the Fighting Spirit Zone (= year two) · the white ring explained · the ice · the fox's truth (one purr, zero facts) · the OC's roommate (still the empty line) · no romance
-- ✅ Frame Rule (two-lights close) · Company Coherence (all three protagonists in Class One — **placement OURS, designed and flagged: canon fixes only Yuhao's Class One; nothing blocks the assessment-square's ADMITTED-with-annotation from the same room**) · Mechanics (no soul releases — the run is body-craft and the Jade Hand's conduction; all lawful) ✓
+-  The gauntlet is canon's, whole: every beat from the manifesto to the nine names fires from Zhou Yi, Wang Dong, and Yuhao in canon order; the OC runs *inside* canon's field without touching a canon outcome (he counts the same laps she does — and *says nothing*, so her reveal stays hers)
+-  NOT triggered: the proud deskmate unnamed (canon's later card) · the Fighting Spirit Zone (= year two) · the white ring explained · the ice · the fox's truth (one purr, zero facts) · the OC's roommate (still the empty line) · no romance
+-  Frame Rule (two-lights close) · Company Coherence (all three protagonists in Class One — **placement OURS, designed and flagged: canon fixes only Yuhao's Class One; nothing blocks the assessment-square's ADMITTED-with-annotation from the same room**) · Mechanics (no soul releases — the run is body-craft and the Jade Hand's conduction; all lawful) 
 
 ### Tests Run:
-- **MULTI-PANEL:** 6 panels, 4 POVs + the fox ✓ · **PRIME LAW:** the OC administers, counts, carries, tempers, earns burns, is told *stay* ✓ · **CALIBRATION:** no combat; the gauntlet's costs shown honestly through canon's bodies ✓ · **UPGRADE PRINCIPLE:** the Jade Hand's first lesson = conduction — "let the whole of it move through you, and be shaped by what comes" ✓ · **Firewall:** reader sees all; no character gains canon-held knowledge ✓ · **Integrity:** dup-scan clean; single close; verified ✓
+- **MULTI-PANEL:** 6 panels, 4 POVs + the fox  · **PRIME LAW:** the OC administers, counts, carries, tempers, earns burns, is told *stay*  · **CALIBRATION:** no combat; the gauntlet's costs shown honestly through canon's bodies  · **UPGRADE PRINCIPLE:** the Jade Hand's first lesson = conduction — "let the whole of it move through you, and be shaped by what comes"  · **Firewall:** reader sees all; no character gains canon-held knowledge  · **Integrity:** dup-scan clean; single close; verified 
 
 ### Character States (End of Chapter 7):
 - **Zhou Yi:** the creed stated; ninety-one kept; "I am always where your conduct is" — the whetstone established

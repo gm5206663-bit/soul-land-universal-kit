@@ -1,6 +1,6 @@
 # Chapter 1: The Two Hiders
 
-## Canon Reference: Novel 引子 (the God Realm) + ch 1-3 (the departure; the road; the stream; the baboon; the Skydream merge) — each beat given its full space; the scene rebuilt through the OC and the fox
+## Canon Reference: Novel Prologue (the God Realm) + ch 1-3 (the departure; the road; the stream; the baboon; the Skydream merge) — each beat given its full space; the scene rebuilt through the OC and the fox
 ## Timeline: Age 11 — the road to the forest, and the day the world blinked
 
 ---
@@ -49,7 +49,7 @@ His mother's last lesson had been delivered in a whisper, like all her real ones
 
 "Mama." The boy's voice was very level, which in an eleven-year-old is louder than shouting. "Watch me from where you are. However much it takes — one day I'll come back and put all of this under my feet." A breath. "From today I take your name. Not Dai. **Huo. Huo Yuhao.**"
 
-He had reached rank 10 the day before, after five years of work that would have broken a grown man's pride — innate soul power of exactly one level, the priests had said at his awakening, and a spirit-type martial soul so rare the continent had almost no soul beasts to feed it. It was, he had decided long ago, his leaving day.
+He had reached rank ten the day before, after five years of work that would have broken a grown man's pride — innate soul power of exactly one level, the priests had said at his awakening, and a spirit-type martial soul so rare the continent had almost no soul beasts to feed it. It was, he had decided long ago, his leaving day.
 
 In the bundle: one change of clothes, dry rations, a hand-drawn map, seven silver soul coins and five copper — his mother's whole estate — and, at his lower back, a sheathed short blade a foot long. The only gift his father ever gave his mother. The blade was seven inches of autumn water; the sheath was jade-green leather; the hilt was plain, old, and fit a hand like a settled promise. She had held it until the last hour of her life, and then given it to him.
 
@@ -63,7 +63,7 @@ He turned north, toward the Star Dou Great Forest, and ran. His eyes stayed dry 
 
 He walked for six days.
 
-He took wrong turns and corrected them, learned to read the sun, thanked strangers, ate the free things his mother had taught him to find. A rank-10 body is a good body; grief, it turned out, could be burned as fuel; and three hundred li a day carried him north, away from an empire and toward a forest with a human-beings'-forbidden-zone reputation and, somewhere in it, the one thing his soul could eat: a spirit-type soul beast.
+He took wrong turns and corrected them, learned to read the sun, thanked strangers, ate the free things his mother had taught him to find. A rank-ten body is a good body; grief, it turned out, could be burned as fuel; and three hundred li a day carried him north, away from an empire and toward a forest with a human-beings'-forbidden-zone reputation and, somewhere in it, the one thing his soul could eat: a spirit-type soul beast.
 
 Forty li south of that forest, a courier was finishing a delivery.
 
@@ -191,7 +191,7 @@ It split two meters from the stream — gold-white light breathing up through th
 
 Bei Bei dropped mid-motion, hand still outstretched toward Tang Ya. Tang Ya folded over her knees with a word half-sworn. Yuhao slid from his log and lay in the grass, eyes open, unfocused, breathing.
 
-Jiang Che fell too — the fox's warning or no warning, the wave did not negotiate with rank 29 — and knew, in the last instant before his thoughts went soft and far, the specific humiliation of a courier watching his parcels tip while his body refused the order to catch them.
+Jiang Che fell too — the fox's warning or no warning, the wave did not negotiate with rank twenty-nine — and knew, in the last instant before his thoughts went soft and far, the specific humiliation of a courier watching his parcels tip while his body refused the order to catch them.
 
 The fox stood up.
 
@@ -279,4 +279,4 @@ And the road went on north — toward an academy, toward a year, toward a sect t
 
 ### Canon Preserved: the prologue; the departure and vow; the dagger; the stream meeting; Skydream's history, motive, the self-sealing, the lustrous-white ring, the first Intelligent Soul Ring; the baboon misread reaching canon's shape. NOT triggered: the sect told · the whites' knowledge · the ice soul · god-cuts past the prologue.
 
-### Tests: ANTI-NERF (remove them and the chapter collapses into canon — it no longer survives their removal) ✓ Engine ✓ Fox-Knowledge Limit ✓ (negotiates as a peer of ancient beasts; explains no soul-mechanics) Frame Rule ✓ Integrity ✓
+### Tests: ANTI-NERF (remove them and the chapter collapses into canon — it no longer survives their removal)  Engine  Fox-Knowledge Limit  (negotiates as a peer of ancient beasts; explains no soul-mechanics) Frame Rule  Integrity 

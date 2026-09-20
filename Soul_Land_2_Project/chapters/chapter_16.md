@@ -145,12 +145,12 @@ The fox said nothing at all, which was her way of saying *yes - and the hunt is 
 - **Engine compliance:** canon panels full-scene first (Zhou Yi's discovery whole; the pill arithmetic exact; the announcement); OC participation inside (the square's edge - present, parallel, not replacing); natural ripples (the class's spine; the room's two ledgers; the triangle's seating); multi-POV (4)
 
 ### Canon Preserved / Butterfly Effects:
-- ✅ Canon 15-3 held whole: the midnight training + Zhou Yi's discovery; two shirts; three-day failures; the pill arithmetic (13-peak -> 17 -> 17-peak/18- verge; 7x -> 10x); the body; the assessment announced for TOMORROW; her pride
-- ✅ NATURAL RIPPLES: the room's two ledgers talking (the bread; the shared targets - 18 and 30); the triangle's center of gravity named by the ensemble; Zhou Yi's three examples (the runner, the prince, the fixer) as the class's unofficial trinity
-- ✅ NOT triggered: the assessment's content (= next chapter, canon 15-4/16); Ma Xiaotao; the third-ring hunt (planned, not begun); no resonance content; no romance
+-  Canon 15-3 held whole: the midnight training + Zhou Yi's discovery; two shirts; three-day failures; the pill arithmetic (13-peak -> 17 -> 17-peak/18- verge; 7x -> 10x); the body; the assessment announced for TOMORROW; her pride
+-  NATURAL RIPPLES: the room's two ledgers talking (the bread; the shared targets - 18 and 30); the triangle's center of gravity named by the ensemble; Zhou Yi's three examples (the runner, the prince, the fixer) as the class's unofficial trinity
+-  NOT triggered: the assessment's content (= next chapter, canon 15-4/16); Ma Xiaotao; the third-ring hunt (planned, not begun); no resonance content; no romance
 
 ### Tests Run:
-- Engine ✓ (canon whole, first) · Presence-Balance ✓ (he joins the MIDNIGHT scene his way - his own training at the edge + the bread - not replacing Yuhao's beat) · Triangle ✓ (the two ledgers; the shared targets) · Integrity: dup-scan clean ✓
+- Engine  (canon whole, first) · Presence-Balance  (he joins the MIDNIGHT scene his way - his own training at the edge + the bread - not replacing Yuhao's beat) · Triangle  (the two ledgers; the shared targets) · Integrity: dup-scan clean 
 
 ### Character States (End of Chapter 16):
 - **Huo Yuhao:** 17-peak, verging 18; 10x cultivation; midnight-trained; the class's grain; tomorrow: the assessment

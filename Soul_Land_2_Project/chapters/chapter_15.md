@@ -176,12 +176,12 @@ The fox, in the coat on the nail, said one word, for one ear, and it was not *ad
 - **The anger (user-directed, built to spec):** at the academy — his friends nearly died and the answer was a pill and a threat; the anger shown as CRAFT (two questions, no shouting, no leaks) and as DIRECTION (outgrow the jar; become the answer) — never as hatred, never as sulking; and the fox's institutional read keeps it canon-honest (the teachers healed them; the girl is a wound; hiding is cheaper than admitting — "that is not evil; that is an institution")
 
 ### Canon Preserved / Butterfly Effects:
-- ✅ Canon 15-1/2 held whole: the pill debate and Wang Dong's lecture; his pill taken that night (21→22/23); the three-month montage (the stall's growth, one-fish limit, the fame, Nannan, Xu Sanshi's conversion); **67 of 91; the academy's shock; Yuhao's unchallenged monitorship and why**
-- ✅ NATURAL RIPPLES (presence, not heroism): the audit + the memo (an institution now has a first-year who asks the second question — a file with a long life); the unlicensed infirmary tolerated by Zhou Yi (her *flagged* file finding its use); the information ledger; the sect's economy and the mountain's seventh seat
-- ✅ NOT triggered: Ma Xiaotao connected to the boys · Skydream · Wang Dong's secret · the resonance content (held at "It will happen again" — nothing further, per the Restraint law) · no romance
+-  Canon 15-1/2 held whole: the pill debate and Wang Dong's lecture; his pill taken that night (21→22/23); the three-month montage (the stall's growth, one-fish limit, the fame, Nannan, Xu Sanshi's conversion); **67 of 91; the academy's shock; Yuhao's unchallenged monitorship and why**
+-  NATURAL RIPPLES (presence, not heroism): the audit + the memo (an institution now has a first-year who asks the second question — a file with a long life); the unlicensed infirmary tolerated by Zhou Yi (her *flagged* file finding its use); the information ledger; the sect's economy and the mountain's seventh seat
+-  NOT triggered: Ma Xiaotao connected to the boys · Skydream · Wang Dong's secret · the resonance content (held at "It will happen again" — nothing further, per the Restraint law) · no romance
 
 ### Tests Run:
-- Engine: panels ✓ (canon full-scene) participation ✓ ripples ✓ multi-POV ✓ (room 108 / administrator hall / fox / ensemble) full-file ✓ · Presence-Balance ✓ · Triangle ✓ (the eve-of-assessment table runs through the third bed; both boys turn to him) · Fox-Knowledge Limit ✓ (institutions as beast-lore; no mechanism-talk) · Three-Source rule noted (novel primary fetched; manhua ch 15 天梦一指 = our ch 14 ✓) · Integrity: dup-scan clean ✓
+- Engine: panels  (canon full-scene) participation  ripples  multi-POV  (room 108 / administrator hall / fox / ensemble) full-file  · Presence-Balance  · Triangle  (the eve-of-assessment table runs through the third bed; both boys turn to him) · Fox-Knowledge Limit  (institutions as beast-lore; no mechanism-talk) · Three-Source rule noted (novel primary fetched; manhua ch 15 "Heaven-Dream's One Finger" = our ch 14 ) · Integrity: dup-scan clean 
 
 ### Character States (End of Chapter 15):
 - **Jiang Che:** the audit spent; the craftsman's-revenge doctrine received; three months of forge, mend, and ledger; the assessment's eve challenge — "Worry about *me*"

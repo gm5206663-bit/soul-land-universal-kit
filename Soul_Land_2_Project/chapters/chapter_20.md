@@ -65,7 +65,7 @@ Wang Dong frowned: "Support for a control soul should buff *us*—"
 
 ---
 
-### THE SPAR *(2 v 1 — the rehearsal)*
+### THE SPAR *(two against one — the rehearsal)*
 
 Xiao Xiao designed it, because Xiao Xiao had Opinions about rehearsal: no point showing each other tricks — *resist* each other. Wang Dong alone on one side; the monitor and the cauldron-girl on the other.
 
@@ -81,7 +81,7 @@ It rose behind the small girl like a bronze bell the size of a bath-house — an
 
 —and the ground under him had become *rope.*
 
-The grass. Two vines, placed ninety seconds ago at the start of the spar and never mentioned, because the third member of Group One had been standing at the clearing's edge being boring. The prince hit the bind at speed; the bind held — rank 29 against rank 23's momentum, no contest — and the cauldron's rim tapped him, once, gently, like a temple bell being introduced to a fly, and Wang Dong sat down in midair with his eyes crossed and his wings folding around him like a dropped curtain.
+The grass. Two vines, placed ninety seconds ago at the start of the spar and never mentioned, because the third member of Group One had been standing at the clearing's edge being boring. The prince hit the bind at speed; the bind held — rank twenty-nine against rank twenty-three's momentum, no contest — and the cauldron's rim tapped him, once, gently, like a temple bell being introduced to a fly, and Wang Dong sat down in midair with his eyes crossed and his wings folding around him like a dropped curtain.
 
 Silence. The gold faded from two pairs of eyes. Somewhere, a bird resumed.
 
@@ -160,12 +160,12 @@ They stood before the boards with the year's future in chalk, and the last minut
 - **Panel map (4 panels, 4 POVs):** THE MORNING *(canon: the tactics-hum classroom; Zhou Yi's one-sentence send-off ["whoever blocks you, beat the hell out of them"]; the fish-blackmail command structure + the dorm-cleaning counter-deal; Xiao Xiao's allegiance tease; OURS: the trio-formalization inside the class's three-headed clusters)* · THE EXCHANGE *(canon whole, adapted: the abilities laid out — Yuhao [detection/sharing 50m]; Wang Dong [assault+flight]; **Xiao Xiao's full reveal: the cauldron [ram + stun + control] and THE NINE PHOENIX GREETING FLUTE [support-control, slows enemies; "weakening beats buffing"; "we hide some strength"]; OURS: the courier's stated truth — "I don't kill well. I hold extremely well." / "I can work with held"**)* · THE SPAR *(canon's 2v1 rebuilt for the room: WD vs Yuhao+XX; the sharing's first gift to Xiao Xiao ["a kettle achieving enlightenment"]; the prince's thirty seconds of dominance; THE GRASS'S FIRST TEAM-KILL — the two pre-placed vines; the cauldron's rim-tap; "Minuted." / "Again."; the fox's engineering verdict: "one field with two hands" + "you still telegraph the third vine from the left")* · THE CALLING *(the draw: GROUP ONE vs GROUP NINE — one assault, one agility, one support, standard, drilled, unremarkable; the fox's final briefing; "Go be boring — it is the most interesting thing on this continent"; the bell; round one called)*
 
 ### Canon Preserved / Butterfly Effects:
-- ✅ Canon 17-1 held whole: the morning beat; Zhou Yi's send-off; the fish-command + counter-deal; the "switch affections" tease; the abilities exchange (all four souls, including Xiao Xiao's flute reveal and her hide-strength doctrine); the 2v1 rehearsal concept; the out-of-academy clearing
-- ✅ **THE ROOM'S REHEARSAL:** the 2v1 becomes a true Group One exercise — and the grass's first team-kill (the pre-placed vines) shows the room's three months of cohabitation as *combat chemistry* — the natural butterfly of the room-as-team
-- ✅ NOT triggered: the first real fight (= ch 21) · the flute used in battle (held, per her doctrine) · Ma Xiaotao at the grounds · the ring hunt
+-  Canon 17-1 held whole: the morning beat; Zhou Yi's send-off; the fish-command + counter-deal; the "switch affections" tease; the abilities exchange (all four souls, including Xiao Xiao's flute reveal and her hide-strength doctrine); the 2v1 rehearsal concept; the out-of-academy clearing
+-  **THE ROOM'S REHEARSAL:** the 2v1 becomes a true Group One exercise — and the grass's first team-kill (the pre-placed vines) shows the room's three months of cohabitation as *combat chemistry* — the natural butterfly of the room-as-team
+-  NOT triggered: the first real fight (= ch 21) · the flute used in battle (held, per her doctrine) · Ma Xiaotao at the grounds · the ring hunt
 
 ### Tests Run:
-- Engine ✓ (canon whole first) · Presence-Balance ✓ · Triangle ✓ (the room's chemistry as the machine being timed) · Dominance ✓ (the grass ends the prince in one bind — strain honest: rank 23's speed took thirty seconds to solve) · Fox-Limit ✓ ("one field with two hands" = observation, not theory) · Integrity ✓
+- Engine  (canon whole first) · Presence-Balance  · Triangle  (the room's chemistry as the machine being timed) · Dominance  (the grass ends the prince in one bind — strain honest: rank 23's speed took thirty seconds to solve) · Fox-Limit  ("one field with two hands" = observation, not theory) · Integrity 
 
 ### Character States (End of Chapter 20):
 - **Group One:** rehearsed into a machine — detection + bind + cauldron + wings; the flute held in reserve; the command structure (obey the monitor; fish as law)

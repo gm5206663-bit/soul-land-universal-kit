@@ -1,8 +1,10 @@
 # ║ JIANG CHE (江澈) — STATUS ║
 ### "Soul Land 2: The Unraveled Tide" (Branch 06)
-**Current through:** End of Chapter 15 (the three months) · **Version:** 4.1 · **Date:** 26 August 2026
+**Current through:** End of Chapter 21 (Round One) · **Version:** 4.2 · **Date:** 20 September 2026 (re-rail sync)
 
 > **READ THIS FIRST:** Jiang Che is not a normal soul master whose stats are modified by a talent. **He is a construction of the Adaptation Talent.** Every level, every ring, every breath, every cell — built by the AT since conception. His rank 25 is not anyone else's rank 25. His 400-year ring is not anyone else's 400-year ring. The AT does not add to him; the AT *is* what he is made of. Every comparison to "normal" is a category error. This file describes what he **is**, not how he ranks against what he isn't.
+
+> **v4.2 CORRECTION (2026-09-20, re-rail):** this dossier's v4.1 "rank 25" framing is a **design-era** number, superseded by the serialization — the live rank is the codex per-chapter "Ranks:" line, and at the ch21 edge it is **17-peak** (two yellow rings; the 20 wall / third ring still ahead). Where this file states a number that the panel contradicts, the panel wins. See `foundation/STATUS_PANEL.md` §5.
 
 ---
 

@@ -1,6 +1,6 @@
 # Chapter 9: Iron
 
-## Canon Reference: Novel ch 10-4 (the iron-chain announcement; Wang Dong named class monitor) + ch 11 parts 1-2 (最弱的班長 — the iron-chain run; Yuhao's moving-Xuantian discovery; the last one standing; the healing tree) — primary text held in-session; the OC woven throughout
+## Canon Reference: Novel ch 10-4 (the iron-chain announcement; Wang Dong named class monitor) + ch 11 parts 1-2 (The Weakest Monitor — the iron-chain run; Yuhao's moving-Xuantian discovery; the last one standing; the healing tree) — primary text held in-session; the OC woven throughout
 ## Timeline: Day one, afternoon — the iron age begins
 
 ---
@@ -167,17 +167,17 @@ Not the Soul Saint's age. The *art's* age. She was tasting the healing light and
 - **Panel map (6 panels):** THE ANNOUNCEMENT (canon: Wang Dong named class monitor — the position floats; **the iron-chain shirts — 30 jin each, run until the bell, soul skills forbidden, LAST RUNNER LEAVES CLASS ONE**; Zhou Yi's fairness speech) · THE FIRST HOUR (ours-within-canon: the class sorted; Wang Dong at the front; the OC in the middle carrying iron at courier's pace — **the AT receiving sustained-load information for the first time**; the fox riding the iron age "with the compressed dignity of an empress on a mule") · THE BREAKING (canon: the girl first, then the dominoes; the front-runners paying their speed-debts; the OC watching with a courier's professional eye; Yuhao at the back, metronomic) · THE DISCOVERY (canon: **Yuhao's Xuantian Gong EVOLVES — moving-circulation, the warmth that nourishes meridians during absolute-limit exercise; even the ancestor never achieved this**; the intersection of his weakness and his spiritual depth) · THE LAST (canon: nine runners at 1.5 hours; the fall of Wang Dong; **Yuhao the last one standing; the ninety rising to follow him; Zhou Yi moved**; the bell; Wang Dong catching Yuhao; "What is *wrong* with you") · THE TREE (canon: **the Soul Saint's healing — seven rings, the transformation into a great tree, ninety-one leaves**; ours: the AT filing the day's information; the fox tasting the healing light and saying "*Old.*")
 
 ### Canon Preserved / Not Triggered:
-- ✅ Every beat of the iron-chain sequence fires from canon owners: the monitor appointment; the iron shirts; Zhou Yi's speeches; the falling order; Wang Dong's laps and collapse; Yuhao's last-man-standing; the ninety rising; the Soul Saint's healing tree
-- ✅ Yuhao's Xuantian evolution is HIS (canon, protected); the OC's AT-response to the load is HIS (designed) — neither touches the other's discovery
-- ✅ NOT triggered: the white ring explained · the ice soul · the fox's truth (one word: "*Old.*") · no romance · no new ranks
-- ✅ Frame Rule (character-level close) · Company Coherence (all three boys in the same run, the same square, the same healing) · Dominance Guard (the OC runs the full time without falling — but Yuhao is the chapter's heart, not the OC) ✓
+-  Every beat of the iron-chain sequence fires from canon owners: the monitor appointment; the iron shirts; Zhou Yi's speeches; the falling order; Wang Dong's laps and collapse; Yuhao's last-man-standing; the ninety rising; the Soul Saint's healing tree
+-  Yuhao's Xuantian evolution is HIS (canon, protected); the OC's AT-response to the load is HIS (designed) — neither touches the other's discovery
+-  NOT triggered: the white ring explained · the ice soul · the fox's truth (one word: "*Old.*") · no romance · no new ranks
+-  Frame Rule (character-level close) · Company Coherence (all three boys in the same run, the same square, the same healing) · Dominance Guard (the OC runs the full time without falling — but Yuhao is the chapter's heart, not the OC) 
 
 ### Tests Run:
-- **MULTI-PANEL:** 6 panels; canon complete; the OC woven through the same events ✓
-- **PRIME LAW:** the OC carries iron, reads the field, adapts, doesn't fall ✓
-- **CALIBRATION:** honest strain (ragged breathing at the end); the AT turning limits into foundation ✓
-- **Firewall:** reader sees Yuhao's discovery; the OC doesn't know about it ✓
-- **Integrity:** clean ✓
+- **MULTI-PANEL:** 6 panels; canon complete; the OC woven through the same events 
+- **PRIME LAW:** the OC carries iron, reads the field, adapts, doesn't fall 
+- **CALIBRATION:** honest strain (ragged breathing at the end); the AT turning limits into foundation 
+- **Firewall:** reader sees Yuhao's discovery; the OC doesn't know about it 
+- **Integrity:** clean 
 
 ### Character States (End of Chapter 9):
 - **Huo Yuhao:** the last one standing; the class's spiritual leader (the irony: the weakest is the strongest); **the Xuantian Gong evolved (moving-circulation)**; healed by the Soul Saint's leaf

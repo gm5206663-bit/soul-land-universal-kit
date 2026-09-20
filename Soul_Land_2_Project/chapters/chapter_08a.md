@@ -93,7 +93,7 @@ But the badge was not the creation. The creation happened the night after the te
 
 **The item: a hidden-weapon frame.**
 
-Not a weapon — not yet. A *frame*: the skeleton of a sleeve-dart mechanism, the kind the Treasure Record described in its chapter on 暗器百解 (the Hundred Solutions of Hidden Weapons) — the chapter Tang Ya had said was "for later, when your hands are worth it." His hands were worth it now, rank-badge or no rank-badge, and the first project was the simplest and most fundamental: the **track** — the channel down which a dart travels when released from a wrist-mounted launcher.
+Not a weapon — not yet. A *frame*: the skeleton of a sleeve-dart mechanism, the kind the Treasure Record described in its chapter on *A Hundred Hidden Weapons, Explained* — the chapter Tang Ya had said was "for later, when your hands are worth it." His hands were worth it now, rank-badge or no rank-badge, and the first project was the simplest and most fundamental: the **track** — the channel down which a dart travels when released from a wrist-mounted launcher.
 
 The work was precision-forging at a scale the billet-test had not approached: channels a finger's width wide, walls as thin as a coin, the whole piece no larger than a man's palm. It took four failed attempts — four pieces of iron that cracked under the hammer's precision-demand, because the tolerances were finer than a first-rank smith's ordinary work and the AT was learning a new scale the way it learned everything.
 

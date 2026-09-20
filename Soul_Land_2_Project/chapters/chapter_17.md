@@ -220,12 +220,12 @@ And the fox, on the third nail, administered the clause, and permitted the ruffl
 - **The structural fix:** GROUP FOURTEEN NEVER EXISTS. The room of three IS the team of three. Canon's own rule (rooms group first) makes it inevitable — not a choice, not a noble sacrifice, just the rule the academy built for exactly this. Xiao Xiao anchors Group Eleven (her twin souls = natural anchor; her own arc's seed). The strangers (Zhou Sichen, Xu Tianran) form their own group off-screen.
 
 ### Canon Preserved / Butterfly Effects:
-- ✅ Canon 15-4 held whole: the papers; the rules; the exemption; Xiao Xiao's introduction (moved to the Group Eleven anchor — same girl, same reveal pending, different group)
-- ✅ **THE REAL BUTTERFLY:** Group One is a ROOM, not a draft. The team that canon assembled by teacher's choice, our AU assembled by brotherhood — and the academy's rule simply *recognized* it. This changes the assessment's shape: the strongest team in the year is also the most bonded, the most practiced, the one with a fox
-- ✅ NOT triggered: Xiao Xiao's twin-soul reveal (= her group's fight, canon's clock) · the assessment's first fights (= ch 18 rebuild) · Ma Xiaotao · the ring hunt (post-assessment)
+-  Canon 15-4 held whole: the papers; the rules; the exemption; Xiao Xiao's introduction (moved to the Group Eleven anchor — same girl, same reveal pending, different group)
+-  **THE REAL BUTTERFLY:** Group One is a ROOM, not a draft. The team that canon assembled by teacher's choice, our AU assembled by brotherhood — and the academy's rule simply *recognized* it. This changes the assessment's shape: the strongest team in the year is also the most bonded, the most practiced, the one with a fox
+-  NOT triggered: Xiao Xiao's twin-soul reveal (= her group's fight, canon's clock) · the assessment's first fights (= ch 18 rebuild) · Ma Xiaotao · the ring hunt (post-assessment)
 
 ### Tests Run:
-- ANTI-NERF ✓ (no manufactured exclusions; the room IS the team) · Engine ✓ · Triangle ✓ (the room's strategy runs through the third bed's binding) · Cascade ✓ (the secret-sharing is ambient — "never once said the word Skydream aloud") · Integrity ✓
+- ANTI-NERF  (no manufactured exclusions; the room IS the team) · Engine  · Triangle  (the room's strategy runs through the third bed's binding) · Cascade  (the secret-sharing is ambient — "never once said the word Skydream aloud") · Integrity 
 
 ### Character States (End of Chapter 17):
 - **Group One:** the room of three — Yuhao (detection/control), Wang Dong (assault), Jiang Che (binding/triage/the mend); the fox reading the field

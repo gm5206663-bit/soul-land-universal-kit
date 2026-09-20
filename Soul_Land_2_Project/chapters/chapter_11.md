@@ -1,6 +1,6 @@
 # Chapter 11: The Seams
 
-## Canon Reference: Novel ch 12-3/4 (the Fighting Spirit Zone's economics; Tang Ya's Dragon-Beard Needle; the Bei Bei–Xu Sanshi friendship; Wang Dong asks to join the Tang Sect; the fight begins) + ch 13-1 (玄水丹 — the fight's resolution: Yuhao's secret sharing as Bei Bei's edge) — primary text held in-session
+## Canon Reference: Novel ch 12-3/4 (the Fighting Spirit Zone's economics; Tang Ya's Dragon-Beard Needle; the Bei Bei–Xu Sanshi friendship; Wang Dong asks to join the Tang Sect; the fight begins) + ch 13-1 (the Mysterious Water Pill — the fight's resolution: Yuhao's secret sharing as Bei Bei's edge) — primary text held in-session
 ## Timeline: The same evening — the Fighting Spirit Zone fills, the fight resolves, and the sect grows
 
 ---
@@ -11,7 +11,7 @@ Five hundred students packed the hexagonal arena by the time the fighters entere
 
 Tang Ya, still eating, briefed her disciples with the fluency of a woman who had done this many times: the Fighting Spirit Zone opened every day after class until midnight; ten gold bought a match, one silver bought a seat; famous fighters drew free broadcasting through soul-amplifiers in every dorm; the academy took half the gate, the winner took the rest — "your senior brother has made a *fortune* in here" — and Xu Sanshi, being a year above Bei Bei, would owe an extra ten gold if he lost.
 
-"They've fought before," she added, airily. "互有胜负. They're actually friends."
+"They've fought before," she added, airily. "They trade wins. They're actually friends."
 
 Yuhao blinked. "They're *what?*"
 
@@ -29,7 +29,7 @@ What the crowd didn't know — what five hundred paying customers had not paid t
 
 The needle was a **Dragon-Beard Needle** — the Tang Sect's ancestral hidden weapon, passed only through the line of Sect Masters, a golden thread finer than hair that buried itself in flesh and *stayed* there, disrupting soul power, causing pain that made a three-ring Soul Elder's hands shake. Tang Ya had thrown it at Xu Sanshi when he grabbed Yuhao. It had been in his waist for forty minutes.
 
-The pill was a **Mysterious Water Pill** (玄水丹) — a treasure Bei Bei wanted and Xu Sanshi owned and the Sect could not afford.
+The pill was a **Mysterious Water Pill** — a treasure Bei Bei wanted and Xu Sanshi owned and the Sect could not afford.
 
 "Give me another one," said Bei Bei, extracting the needle with the precise fingers of a craftsman, "and I'll bet you the fight."
 
@@ -200,13 +200,13 @@ The fox purred once, very quietly, against his chest, in the register of archive
 - **Panel map (6 panels):** THE CROWD (canon: the Fighting Spirit Zone's economics; Tang Ya's briefing; the Bei Bei–Xu Sanshi friendship revealed — "co-conspirators in the perfectly legal enterprise of hitting each other for money"; OURS: the fox's protein-density observation; Jiang Che's oath-silence at the secret) · THE NEEDLE (canon: the Dragon-Beard Needle extracted; the Mysterious Water Pill demanded; the bet placed — "I won't lose" / "You always say that" / "I'm always right") · THE ROOMMATE (canon: Wang Dong already with them from the stall; **WANG DONG ASKS TO JOIN THE TANG SECT** — "I want to learn the hidden weapons"; Tang Ya's shock; the sect of FOUR might become five; the fox's silence = the loudest thing) · THE FIGHT (canon: Bei Bei vs Xu Sanshi; the Xuanwu Shake; the double-skill counter; the half-beat stutter; **Yuhao's secret sharing as the winning edge**; Bei Bei's Ghost-Shadow track behind the shield; OURS: Jiang Che *reads the sharing* — sees Yuhao's gold eyes, recognizes the map being fed, files it silently; the fox also knows) · THE PILL (canon: the Mysterious Water Pill explained; OURS: **Jiang Che gives his share to Yuhao** — "He's rank ten with a woodshed body. I'm rank twenty-five with a foundation the AT built. Give them to Yuhao"; Bei Bei's file grows another page; the sect spends its first money on its weakest member) · THE WALK (OURS: five people in the dark; Xu Sanshi attached; Wang Dong and Yuhao arguing-smiling; the fox: "This is what a sect looks like when it is becoming a sect again")
 
 ### Canon Preserved / Butterfly Effects:
-- ✅ Canon: the Fighting Spirit Zone's full mechanics; the Bei Bei–Xu Sanshi friendship; the Dragon-Beard Needle; the Mysterious Water Pill; the fight's choreography; **Yuhao's secret sharing**; Wang Dong's request to join the Tang Sect
-- ✅ **BUTTERFLY EFFECT:** the OC gives his pill share to Yuhao — a natural, character-driven ripple (the Upgrade Principle + the Brotherhood + "the weak thing is the important thing")
-- ✅ **BUTTERFLY EFFECT:** Jiang Che *reads* Yuhao's sharing during the fight (his sensory domain sees the gold eyes, recognizes the timing shifts, files it) — but says nothing, because it's not his to say
-- ✅ NOT triggered: the white ring explained · Wang Dong's secret · the ice soul · the fox's truth · no romance
+-  Canon: the Fighting Spirit Zone's full mechanics; the Bei Bei–Xu Sanshi friendship; the Dragon-Beard Needle; the Mysterious Water Pill; the fight's choreography; **Yuhao's secret sharing**; Wang Dong's request to join the Tang Sect
+-  **BUTTERFLY EFFECT:** the OC gives his pill share to Yuhao — a natural, character-driven ripple (the Upgrade Principle + the Brotherhood + "the weak thing is the important thing")
+-  **BUTTERFLY EFFECT:** Jiang Che *reads* Yuhao's sharing during the fight (his sensory domain sees the gold eyes, recognizes the timing shifts, files it) — but says nothing, because it's not his to say
+-  NOT triggered: the white ring explained · Wang Dong's secret · the ice soul · the fox's truth · no romance
 
 ### Tests Run:
-- **MULTI-PANEL:** 6 panels; canon complete; the OC ACTIVE in every scene (talking, watching, giving, walking) · **PRIME LAW:** the OC gives his share, reads the fight, walks with family · **PARTICIPATION:** the OC's pill-giving = a natural butterfly that changes the sect's resource allocation · **AT-Visibility:** the OC's strength stated ("rank twenty-five with a foundation the AT built") ✓
+- **MULTI-PANEL:** 6 panels; canon complete; the OC ACTIVE in every scene (talking, watching, giving, walking) · **PRIME LAW:** the OC gives his share, reads the fight, walks with family · **PARTICIPATION:** the OC's pill-giving = a natural butterfly that changes the sect's resource allocation · **AT-Visibility:** the OC's strength stated ("rank twenty-five with a foundation the AT built") 
 
 ### Character States (End of Chapter 11):
 - **Jiang Che:** gave his pill share to Yuhao; read the sharing silently; filed the combat data from two Soul Elders; walked home with five people

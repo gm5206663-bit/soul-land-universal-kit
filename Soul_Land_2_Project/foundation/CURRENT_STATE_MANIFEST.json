@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0-rerail",
+  "updated": "2026-09-20",
+  "project": "soul_land_2_unraveled_tide",
+  "purpose": "Machine-readable current-state manifest. The STATUS_PANEL.md is the human source of truth; this file is what a checker reads. If the two disagree, the panel wins and this file is a defect.",
+  "live_edge": {
+    "fic_chapter": 21,
+    "fic_title": "Round One",
+    "fic_file": "chapters/chapter_21.md",
+    "state": "after Chapter 21, 'Round One'"
+  },
+  "canon_consumed_through": {
+    "chapter": "17-3",
+    "note": "canon ch 17-2/3 held whole in ch21 (dual-control spar, kite-flying, bear team)"
+  },
+  "next": {
+    "fic_chapter": 22,
+    "source": "canon ch 17-3/4 (knockout bracket; Ma Xiaotao at the grounds; ring hunt — all not yet triggered)"
+  },
+  "ranks_live": {
+    "jiang_che": "17-peak",
+    "huo_yuhao": "23",
+    "wang_dong": "29",
+    "note": "from the codex per-chapter 'Ranks:' lines, the source of truth; unchanged Ch17-21"
+  },
+  "group_one": {
+    "members": ["Huo Yuhao", "Wang Dong", "Xiao Xiao", "Jiang Che (the courier)"],
+    "record": "4-0 after the first round",
+    "rumor": "Group One rearranges the ground and the ground wins"
+  },
+  "rings_jiang_che": [
+    {"n": 1, "beast": "Overlord Vine", "age": "~400", "color": "yellow", "skill": "Tide Bind"},
+    {"n": 2, "beast": "Sun Flower", "age": "~740", "color": "yellow", "skill": "Photosynthetic Renewal"},
+    {"n": 3, "beast": "RESERVED", "note": "the 20-wall event; ring-config law says purple; a story, not a stat"}
+  ],
+  "required_status_patterns": [
+    "Live edge: after Chapter 21",
+    "chapters/chapter_21\\.md",
+    "17-peak / 23 / 29",
+    "Group One.*4-0|4-0.*Group One",
+    "Round One",
+    "canon ch 17-2/3 held|canon 17-2/3 held",
+    "the 20 wall|20-wall",
+    "rank 25.*superseded|SUPERSEDED.*rank 25|design-era.*superseded",
+    "foundation/STATUS_PANEL.md"
+  ],
+  "known_superseded": [
+    {
+      "field": "quick_reference_rank",
+      "was": "arrives already BUILT (rank ~25, two rings) at the canon convergence",
+      "now": "rank 10 at Chapter 1 (two yellow rings); 17-peak at the Ch21 edge",
+      "source": "serialized chapters + codex per-chapter Ranks lines",
+      "ruled": "2026-09-20, re-rail"
+    },
+    {
+      "field": "dossier_current_through",
+      "was": "JIANG_CHE_STATUS v4.1: 'End of Chapter 15'",
+      "now": "End of Chapter 21 (v4.2 sync)",
+      "source": "the chapter files themselves",
+      "ruled": "2026-09-20, re-rail"
+    }
+  ],
+  "key_support_files": [
+    "README.md",
+    "foundation/STATUS_PANEL.md",
+    "foundation/NO_MISTAKE_LIVE_RULES.md",
+    "foundation/KNOWLEDGE_FIREWALLS.md",
+    "foundation/CANON_LEDGER.md",
+    "foundation/CONTINUITY.md",
+    "foundation/OPEN.md",
+    "foundation/SERIAL_LOG.md",
+    "THE_CODEX.md",
+    "JIANG_CHE_STATUS.md",
+    "CONTINUATION_PROMPT.md",
+    "../CODEX/06_PROJECT_SOUL_LAND_2.md"
+  ],
+  "gate": {
+    "verify": "v2.1 (unified, 2026-09-20)",
+    "chapter_gate": "22/22 PASS 2026-09-20",
+    "project_sweep": "hard gates clean 2026-09-20",
+    "selftest": "22/22"
+  },
+  "open_rulings": ["R1 name-digits", "R2 CJK dialogue translations", "R3 corpus-wide mark convention"]
+}

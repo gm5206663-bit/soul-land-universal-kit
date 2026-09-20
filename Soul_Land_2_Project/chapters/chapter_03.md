@@ -133,4 +133,4 @@ The forest's rim had its own night-sounds — not the deep-wood silences that ma
 - **The Person Law:** "Copy that" learned and liked; the bone-sing question (craft-curiosity as personality, not function); the fox silent because "the moment was the boys'"
 
 ### Canon Preserved: the Datura fight whole; Bei Bei's debut; the pills; the sharing; the flying knife; the 3rd ring; the BSG tradition. NOT triggered: the ice named · the whites told
-### Tests: Engine ✓ Cascade ✓ Person ✓ Craft-Visibility ✓ (the bone-sing; the forge-ear) Integrity ✓
+### Tests: Engine  Cascade  Person  Craft-Visibility  (the bone-sing; the forge-ear) Integrity 

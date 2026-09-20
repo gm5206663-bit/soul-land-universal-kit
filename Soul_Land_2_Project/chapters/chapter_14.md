@@ -156,12 +156,12 @@ The jar held its lid. The year had begun.
 - **Engine compliance:** canon panels full-scene first (the attack, the possession, the rescue, the Ma Xiaotao reveal, the pill, the apology, the second pill, the queue); OC participation inside them (the warning; the witness; the books); **natural ripples: (1) the standing file — the academy now searches the world for an extreme-ice man who doesn't know he's wanted (the reader alone holds all three facts); (2) the triangle at the stall — both boys orbit the middle bed; (3) the sect's economy compounding.** Presence-Balance: he is in every scene he'd naturally attend; none stolen; none skipped. Triangle Geometry: both boys turn to the third bed before each other.
 
 ### Canon Preserved / Butterfly Effects:
-- ✅ Canon held whole: the attack → possession → "I dodge" → rescue → cover-up → pills (BOTH) → orphan apology/food-law → Xu Sanshi's queue → **Ma Xiaotao: name, face, age, the evil-fire phoenix, the diagnosis, the marriage-solution, the search, her refusal** — all from primary text ch 14-1 through 15-1
-- ✅ NATURAL RIPPLES (presence, not heroism): the standing extreme-ice file (ambient L4 tension); the triangle's seating; the sect ledger
-- ✅ NOT triggered: Skydream named · the possessor explained · Ma Xiaotao connected to Yuhao by any character · Wang Dong's secret · the fox's truth · no resonance content (that is ch 15's, to be rebuilt next)
+-  Canon held whole: the attack → possession → "I dodge" → rescue → cover-up → pills (BOTH) → orphan apology/food-law → Xu Sanshi's queue → **Ma Xiaotao: name, face, age, the evil-fire phoenix, the diagnosis, the marriage-solution, the search, her refusal** — all from primary text ch 14-1 through 15-1
+-  NATURAL RIPPLES (presence, not heroism): the standing extreme-ice file (ambient L4 tension); the triangle's seating; the sect ledger
+-  NOT triggered: Skydream named · the possessor explained · Ma Xiaotao connected to Yuhao by any character · Wang Dong's secret · the fox's truth · no resonance content (that is ch 15's, to be rebuilt next)
 
 ### Tests Run:
-- Engine: panels ✓ participation ✓ natural ripples ✓ multi-POV (Yuhao / shore / inner court / ensemble) ✓ full-file check ✓ · Presence-Balance ✓ · Triangle Geometry ✓ (both turn to the third bed first) · Fox-Knowledge Limit ✓ (beast-reads only; the mechanism untouched) · Integrity: dup-scan clean ✓
+- Engine: panels  participation  natural ripples  multi-POV (Yuhao / shore / inner court / ensemble)  full-file check  · Presence-Balance  · Triangle Geometry  (both turn to the third bed first) · Fox-Knowledge Limit  (beast-reads only; the mechanism untouched) · Integrity: dup-scan clean 
 
 ### Character States (End of Chapter 14):
 - **Huo Yuhao:** the black-out; the year of no net; two pills in the belt; fed by a prince's law; the middle of everything without holding it

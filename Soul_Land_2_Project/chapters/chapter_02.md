@@ -1,6 +1,6 @@
 # Chapter 2: The Sect of Three
 
-## Canon Reference: Novel ch 3 (百万年魂环 parts 1-4 — Skydream's autobiography; the white-ring camouflage = YUHAO'S OWN CHOICE; the recruitment: Tang Ya's history, the Shrek seat, the life-condition; the three bows; the Treasure Record; the Twenty-Four Bridges belt) + the AU's cascade: the brothers' shared secret from hour one
+## Canon Reference: Novel ch 3 (The Million-Year Soul Ring, parts 1-4 — Skydream's autobiography; the white-ring camouflage = YUHAO'S OWN CHOICE; the recruitment: Tang Ya's history, the Shrek seat, the life-condition; the three bows; the Treasure Record; the Twenty-Four Bridges belt) + the AU's cascade: the brothers' shared secret from hour one
 ## Timeline: The two days after the merge — the walk north, the oath
 
 ---
@@ -149,4 +149,4 @@ From the fox, that was a coronation. And tomorrow was the forest, and after it t
 - **The Person Law:** the fish-debt opener; the arithmetic gag ("I eat two. My mother's arithmetic doesn't care" carried forward); the answer about the house
 
 ### Canon Preserved: the recruitment whole; the gifts; the history; the life-condition; the three bows. NOT triggered: the sect told the truth · Skydream named to any but the brothers · the ice soul
-### Tests: Engine ✓ Cascade ✓ Person ✓ Triangle ✓ Fox-Limit ✓ Integrity ✓
+### Tests: Engine  Cascade  Person  Triangle  Fox-Limit  Integrity 

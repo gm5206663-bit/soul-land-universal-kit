@@ -37,7 +37,7 @@ Not hard. Not cruel. *Exactly* enough: one stride's worth of deceleration, one h
 
 The grounds had been converted at noon: a dozen roped fields in the square before the stands, referee-teachers in gray, the draw-boards on wheels, and the first year's three hundred teams milling in a noise like a market having a nightmare.
 
-The rules were read out once, at volume, by a referee with a voice like a法规 textbook: each team fights a minimum of ten matches across the round; wins are the currency; at the cut, one hundred fifty teams advance and one hundred fifty go home. Soul tools permitted *within* regulation — no, that was next year, don't ask — contact stops at the referee's call; surrenders honored; and the medics' tent, a white pavilion at the square's edge, was staffed by healing-attribute teachers whose whole afternoon was about to become a syllabus.
+The rules were read out once, at volume, by a referee with a voice like a regulations textbook: each team fights a minimum of ten matches across the round; wins are the currency; at the cut, one hundred fifty teams advance and one hundred fifty go home. Soul tools permitted *within* regulation — no, that was next year, don't ask — contact stops at the referee's call; surrenders honored; and the medics' tent, a white pavilion at the square's edge, was staffed by healing-attribute teachers whose whole afternoon was about to become a syllabus.
 
 Which was where Group One's third member had already quietly been: the courier had walked the medics' tent at noon, introduced himself as a healer's son with a mend, and been assigned — by a tired teacher who saw rank badge and forge-calluses and correctly identified *useful* — a corner station and a queue number.
 
@@ -157,12 +157,12 @@ And the courier - the weather, the hammer, the boring one, the floor - closed th
 - **The corrected shape running:** Group One is the room plus Xiao Xiao — Yuhao's field, Wang Dong's correctness, Xiao Xiao's cauldron, the courier's floor: the four-part machine canon's trio always needed, completed
 
 ### Canon Preserved / Butterfly Effects:
-- ✅ Canon 17-2/3 held whole: the dual-control spar's mechanics (the sharing → the cauldron's foreknowledge; the prince's frustration and commitment); the kite-flying concept; the bear team (canon's own first-round texture)
-- ✅ **THE ROOM'S ADDITION — THE FLOOR:** the courier's contribution is not a fourth fighter but the *ground itself*: pre-threaded vines, geometry, the landing-cushions — control underneath the control, which is what a binding-type adds to canon's dual-field
-- ✅ NOT triggered: Xiao Xiao's flute used (= her decisive fight, later) · the knockout bracket · Ma Xiaotao at the grounds · the ring hunt
+-  Canon 17-2/3 held whole: the dual-control spar's mechanics (the sharing → the cauldron's foreknowledge; the prince's frustration and commitment); the kite-flying concept; the bear team (canon's own first-round texture)
+-  **THE ROOM'S ADDITION — THE FLOOR:** the courier's contribution is not a fourth fighter but the *ground itself*: pre-threaded vines, geometry, the landing-cushions — control underneath the control, which is what a binding-type adds to canon's dual-field
+-  NOT triggered: Xiao Xiao's flute used (= her decisive fight, later) · the knockout bracket · Ma Xiaotao at the grounds · the ring hunt
 
 ### Tests Run:
-- Engine ✓ (canon whole first; the room's piece extends, never replaces) · Person ✓ (the bear bet paid; the floor joke; the names) · Craft ✓ (the mend-station; the damage-ledger) · Dominance ✓ (four fights, eleven minutes — the floor wins without the OC "carrying") · Integrity ✓
+- Engine  (canon whole first; the room's piece extends, never replaces) · Person  (the bear bet paid; the floor joke; the names) · Craft  (the mend-station; the damage-ledger) · Dominance  (four fights, eleven minutes — the floor wins without the OC "carrying") · Integrity 
 
 ### Character States (End of Chapter 21):
 - **Group One:** 4-0; the year's rumor ("the ground wins"); the names multiplying

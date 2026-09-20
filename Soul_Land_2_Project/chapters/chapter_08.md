@@ -1,6 +1,6 @@
 # Chapter 8: First Circles
 
-## Canon Reference: Novel ch 10 parts 1-3 (初涉魂導器 — Fan Yu's test; He Caitou / 定裝魂導炮; the miss at thirty meters; the 100-meter offer; Tang Ya's fish-stall scheme; the room-mates' martial-soul exchange; the one-direction experiment) — primary text held in-session; the OC woven as the forge-circuit
+## Canon Reference: Novel ch 10 parts 1-3 (First Foray into Soul Tools — Fan Yu's test; He Caitou / the Fixed-Mount Soul Tool Cannon; the miss at thirty meters; the 100-meter offer; Tang Ya's fish-stall scheme; the room-mates' martial-soul exchange; the one-direction experiment) — primary text held in-session; the OC woven as the forge-circuit
 ## Timeline: Day one continues — the afternoon and the first night
 
 ---
@@ -76,7 +76,7 @@ Class dismissed. Wang Dong collapsed theatrically onto his fur. Yuhao went to th
 
 The week that followed found room 108's rhythm, and the rhythm had three beats and a fox.
 
-Mornings: three alarms, or rather one alarm and two victims of it. Yuhao woke at dawn because five years of woodshed discipline didn't know how not to; Wang Dong woke at noon because princes did; and the courier woke when the fox sat on his chest, which was 6:04, every day, because empires do not recognize weekends.
+Mornings: three alarms, or rather one alarm and two victims of it. Yuhao woke at dawn because five years of woodshed discipline didn't know how not to; Wang Dong woke at noon because princes did; and the courier woke when the fox sat on his chest, which was six-forty in the morning, every day, because empires do not recognize weekends.
 
 "*Up,*" she said, every day. "*The continent does not smith itself.*"
 
@@ -186,12 +186,12 @@ And in the other two beds, two boys slept or meditated or stared at ceilings, an
 - **Panel map (5 panels):** THE TEST ZONE (canon ch 10-1/2: Fan Yu's test — the pushback that woke Skydream, the sharing that moved a mountain, the cannon's four-meter miss at two hundred; **the offer: one hundred meters and I teach you to build**; He Caitou — the friendship begun with a nickname; the fixed-load cannon: its economics and its bottleneck) · THE FISH STALL (canon ch 10-3: Tang Ya's scheme; the gate-stall opened; the sect's economics reborn; **Tang Ya and Bei Bei advance to fourth year**) · THE ROOM (canon ch 10-3: the martial-soul exchange; the Goddess of Light Butterfly named; the thousand-year secret; the one-direction experiment — thirty-two meters, the kick-bucket drain, Wang Dong catching; OURS: the third bed listening, the fox's tri-note verdict) · THE FORGE (OURS: the daily seam between smithy and test ground; the alloyed offcuts; the quench-oil's soul-resonance; the old Journeyman's *and yet*; the Jade Hand's jade undertone in six nights — "You're going to be here a while, aren't you" / "Years") · THE FIRST NIGHT (the three lamps; the fish-stall egg; the locked room's window; the Fusion Charter as a house to be built)
 
 ### Canon Preserved / Not Triggered:
-- ✅ Canon ch 10-1/2/3 held: Fan Yu's test and rejection → the demonstration → the sharing → Cai Tou's cannon and miss → the 100-meter offer; Cai Tou's dossier and the fixed-load cannon's mechanics; the fish-stall scheme (Tang Ya's character intact); the roommates' exchange; the one-direction push; Wang Dong's thousand-year second ring (his secret, unnamed)
-- ✅ OURS: the forge-circuit between smithy and test ground (his daily ground (honest work between two buildings)); the Journeyman's reading of the Jade Hand; the fox's private assessments; the three-lamp close
-- ✅ NOT triggered: Yuhao's detection at 100m (the arc is at 32m; the mountain's four hundred = the far horizon) · Fan Yu's connection to Zhou Yi (canon tease, unrevealed) · Wang Dong's secret · the white ring explained · the ice soul · the fox's truth · no romance
+-  Canon ch 10-1/2/3 held: Fan Yu's test and rejection → the demonstration → the sharing → Cai Tou's cannon and miss → the 100-meter offer; Cai Tou's dossier and the fixed-load cannon's mechanics; the fish-stall scheme (Tang Ya's character intact); the roommates' exchange; the one-direction push; Wang Dong's thousand-year second ring (his secret, unnamed)
+-  OURS: the forge-circuit between smithy and test ground (his daily ground (honest work between two buildings)); the Journeyman's reading of the Jade Hand; the fox's private assessments; the three-lamp close
+-  NOT triggered: Yuhao's detection at 100m (the arc is at 32m; the mountain's four hundred = the far horizon) · Fan Yu's connection to Zhou Yi (canon tease, unrevealed) · Wang Dong's secret · the white ring explained · the ice soul · the fox's truth · no romance
 
 ### Tests Run:
-- **MULTI-PANEL:** 5 panels, 3 POVs + the fox ✓ · **PRIME LAW:** the OC forges, reads, listens, walks the seam ✓ · **CALIBRATION:** no combat; the forge's honest scale ✓ · **Firewall:** reader sees all; characters hold canon ✓ · **Integrity:** clean ✓
+- **MULTI-PANEL:** 5 panels, 3 POVs + the fox  · **PRIME LAW:** the OC forges, reads, listens, walks the seam  · **CALIBRATION:** no combat; the forge's honest scale  · **Firewall:** reader sees all; characters hold canon  · **Integrity:** clean 
 
 ### Character States (End of Chapter 8):
 - **Huo Yuhao:** the fish-stall launched (first earnings); detection at 32m forward; Fan Yu's offer standing; the Xuantian conversion deepening
