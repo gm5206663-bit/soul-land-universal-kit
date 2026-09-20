@@ -100,3 +100,23 @@ in `audits/2026-09-20_CH22_CANON_COVERAGE.md`, written before prose. Gate:
 23/23 chapter + project sweep + selftest 22/22. State synced same turn: panel
 (after Ch22), codex Ch22 record, manifest, continuity debts, dossier v4.3,
 mirror resynced.
+
+**Self-audit of Chapter 22 (2026-09-20, on the author's order: compare against
+the other projects, learn their good).** Compared Ch22 against SL4's footer
+standard (the strongest discipline in the corpus), SL3, the small serials and
+SL2 chapters 1–21. Found and fixed in the same turn, receipted:
+`audits/CHAPTER_22_VALIDATION_2026-09-20.md` — (1) "the room — all four of it"
+conflated the room (three) with Group One (four); (2) "the year would need a
+word for" used 3× (a tic vs the Ch21 baseline) → cut to 1 deliberate; (3) the
+market simile paralleled Ch21's too closely → varied; (4) "the brazier at the
+stall's coals" garbled → "the stall's brazier"; (5) "from yesterday's draw" —
+chronology error (the draw was Ch17) → "carried over from the first round";
+(6) "went under" → "went out"; (7) the closing paragraph reused three Ch21
+signature sentences near-verbatim back-to-back → rewritten (the "Same time"
+refrain kept, deliberate). Adopted from SL4 (disciplines, not formats): the
+per-chapter **validation receipt** with canon-beat table, twelve-lock
+checklist, **provenance audit** (what is receipt-sourced, what is OURS, what
+was checked-and-not-used — zero leakage from the later-canon material the
+research surfaced), **forbidden-future list**, and the **next-chapter guard
+line** in the tail; panel §7.6 now requires it for every chapter. Gate
+re-run: 23/23 + project sweep + selftest 22/22.

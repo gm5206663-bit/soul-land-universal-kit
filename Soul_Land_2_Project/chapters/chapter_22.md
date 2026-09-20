@@ -9,9 +9,9 @@
 
 By the time the sun cleared the stands, the square had a new smell to it: wet chalk, fried fish, and one hundred fifty teams' worth of fear.
 
-The two big boards had been wheeled to the center of the square at dawn, and the clerk who filled them had the handwriting of a monk and the pace of a man being chased, and by mid-morning the year had been drawn as a tree. Three hundred names on the first board, one hundred fifty of them crossed out in the clerk's red chalk, the rest of them standing. On the second board — the one the whole first year was reading sideways, on tiptoe, in a noise like a market deciding what to be afraid of — the rest of the year, in rows:
+The two big boards had been wheeled to the center of the square at dawn, and the clerk who filled them had the handwriting of a monk and the pace of a man being chased, and by mid-morning the year had been drawn as a tree. Three hundred names on the first board, one hundred fifty of them crossed out in the clerk's red chalk, the rest of them standing. On the second board — the one the whole first year was reading sideways, on tiptoe, in a noise like a market that had found out what day it was — the rest of the year, in rows:
 
-The top sixty-four. Knockout. One line each, from the edge of the board to the center of it, and the line that bent was the line that went home. And under the sixty-four, in the same red chalk, the cut of the cut: **eighty-six more names**, crossed out with the same steady hand, and the square doing the thing the year would need a word for later — the specific silence of people watching their own futures get *counted.*
+The top sixty-four. Knockout. One line each, from the edge of the board to the center of it, and the line that bent was the line that went home. And under the sixty-four, in the same red chalk, the cut of the cut: **eighty-six more names**, crossed out with the same steady hand, and the square going into the specific silence of people watching their own futures get *counted.*
 
 "Champion's prize," the referee read, at volume, the way a man reads something he has been told not to think about, "extremely rare."
 
@@ -23,7 +23,7 @@ Zhou Yi stood at the square's edge, arms folded, and watched the first year read
 
 "*The board is the truth now. The chalk dries at four. Learn the shape of it before it dries.*"
 
-And the room — all four of it, because the room was four now and the first round had stopped the year pretending otherwise — read the shape of it.
+And the four of Group One — the room plus Xiao Xiao, the four-part machine the first round had finished proving — read the shape of it.
 
 Group One's line was chalked on the second board in the clerk's red: the first round's four on it like a receipt — four wins, eleven minutes — and the knockout's first match against a team the class had spent the whole afternoon trying to name and failing, and had settled, for want of better, on the number: **Group Forty-Seven.**
 
@@ -37,7 +37,7 @@ They came the way the inner court always came: as a change in the weather. The d
 
 And in the line, the red veil.
 
-The pink eyes did not look for anyone. That was the thing the year would file under terror: she did not look for it. The venue's noise arrived at her the way noise arrives at a banked fire — present, whole, *managed* — and the brazier at the stall's coals, which had been throwing sparks for the last hour, went quiet as the red line passed it. Not blown out. Not smothered. The flames simply leaned away from the heat the way a room leans away from a person who has decided to leave, and every coal on the stall's line remembered itself at once, and the line of senior students stood in a silence that had a texture to it, and the whisper the outer school had been running since the veil, grown a day of venue, came around one last time:
+The pink eyes did not look for anyone. That was the thing the year would file under terror: she did not look for it. The venue's noise arrived at her the way noise arrives at a banked fire — present, whole, *managed* — and the stall's brazier, which had been throwing sparks for the last hour, went quiet as the red line passed it. Not blown out. Not smothered. The flames simply leaned away from the heat the way a room leans away from a person who has decided to leave, and every coal on the stall's line remembered itself at once, and the line of senior students stood in a silence that had a texture to it, and the whisper the outer school had been running since the veil, grown a day of venue, came around one last time:
 
 *Fire control so precise. A fire-attribute soul?*
 
@@ -51,7 +51,7 @@ The courier, at the medics' corner he had kept through the night — because the
 
 "*The ledger can hold it. You can hold it. That is the whole law, courier. The rest is the venue's.*"
 
-He did not answer. He was already mending a sixth-year's wrist from yesterday's draw, and the red line was past the brazier, past the board, past the square's whole noise, going into the inner court's own ground where the outer school's chalk did not reach, and the year's arithmetic updated itself in a ledger nobody would ever be shown:
+He did not answer. He was already mending a sixth-year's wrist carried over from the first round, and the red line was past the brazier, past the board, past the square's whole noise, going into the inner court's own ground where the outer school's chalk did not reach, and the year's arithmetic updated itself in a ledger nobody would ever be shown:
 
 *The red is at the venue. The bank holds. We are going to be careful. We are already careful. Careful is the floor, and the floor holds.*
 
@@ -139,11 +139,11 @@ The table looked at the fox. The fox looked at the boards. The boards, which wer
 
 "*Both. That is what a still cauldron is: a question with a lid on it. The lid comes off in your fight, not before. That is your doctrine, and your doctrine is correct, and the cauldron knows it, and it is still because it is patient — and patience, in a cauldron, is a weapon the year will need a word for.*"
 
-The grill's last coal went under, and the year went quiet for the word, and the courier — the courier, the weather, the hammer, the boring one, the floor — turned the last fish with the exact turn he gave everything, the Captain's first form at the scale of a fish, and closed the ledger on the page that was a door, and looked at his team in the grill's last light, and the boards behind them, and the inner court's red at the edge of the venue, and the shape of the rest of the year, and said the thing the whole day had been walking toward:
+The grill's last coal went out, and the year went quiet for the word, and the courier — the courier, the weather, the hammer, the boring one, the floor — turned the last fish with the exact turn he gave everything, the Captain's first form at the scale of a fish, and closed the ledger on the page that was a door, and looked at his team in the grill's last light, and the boards behind them, and the inner court's red at the edge of the venue, and the shape of the rest of the year, and said the thing the whole day had been walking toward:
 
 "Tomorrow: the first line of the bracket. The name: the watching. The page: not yet." He put the ledger down, flat, the way he put down everything that was done and everything that was owed. "After: the rest of it. Same time."
 
-"Same time," said the room — the four of them, in the cadence that was theirs, and the grill's last coal, and the boards' two witnesses, all of it in it — and the year's first day of the bracket's shape ended not in chalk or glory but in fish and arithmetic and a door with a lock on it, and the particular, unremarkable, load-bearing comfort of people who had decided, months ago, to be a team, and were now, finally, being read by the year the way the year was going to read them all.
+"Same time," said the room — the four of them, with the grill's last coal and the boards' two witnesses in the answer, the way every answer at that table carried the furniture it was said at — and the year's first day of the bracket's shape ended the way the rest of the year was going to end: not in chalk or glory, but in fish, and arithmetic, and a door with a lock on it, and the particular comfort of a team that had stopped needing the chalk to tell it what it was.
 
 ---
 
@@ -168,3 +168,8 @@ The grill's last coal went under, and the year went quiet for the word, and the 
 - **Wang Dong:** "I would lose to them once, cleanly" (his official position on the watching); the word given: *the watching*; the thousand-year ring still his secret
 - **Xiao Xiao:** the cauldron's stillness since the board went up (a question with a lid on it — the lid comes off in her fight, per her doctrine); the flute still held
 - **Ranks:** unchanged — 17-peak / 23 / 29 (Yuhao / Wang Dong / Jiang Che)
+
+### Chapter 23 guard (forward-discipline, adopted from the SL4 footer standard, 2026-09-20)
+- **Open** on the morning of the first knockout match — Group One vs Group Forty-Seven, "the watching"; canon ch 17-5 **research-first, do not write from memory**; coverage receipt before prose.
+- **Carry forward unchanged:** the hunt's page (**NOT YET** — the wall at thirty, he is 29; the departure is not this chapter) · the prize's contents (two words) · Xiao Xiao's lid (on) · the red at the venue's edge (the bank holds; no interaction with the room) · the ranks line · the stall's coal (the loop runs).
+- **Do not consume:** the knockout's second line or beyond · the prize's reveal · the hunt's departure · Group Forty-Seven's members, souls or fate (the team exists only as its record and its word) · Ma Xiaotao's inner-court moves beyond her standing at the venue's edge · any rank change · the flute.

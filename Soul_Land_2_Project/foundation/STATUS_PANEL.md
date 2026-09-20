@@ -158,9 +158,13 @@ wall event and is a story, not a stat.
    unless the canon beat earns a change — the first knockout match is
    Group One vs Group Forty-Seven, "the watching"; the ring hunt's departure
    is still **not** here (it is at the wall at thirty; he is 29).
-6. Run `verify.py` (chapter gate + `--project`) and the selftest before calling
-   it done; update this panel, the codex record, the dossier, the manifest and
-   the mirror in the same turn; log it in `SERIAL_LOG.md`.
+6. Run `verify.py` (chapter gate + `--project`) and the selftest; write the
+   per-chapter **validation receipt** `audits/CHAPTER_23_VALIDATION_DATE.md`
+   (SL4 standard, adopted 2026-09-20: canon-beat table, twelve-lock checklist,
+   provenance audit, forbidden-future list, state-sync list) and the **next
+   chapter's guard line** in the chapter tail — before calling it done; update
+   this panel, the codex record, the dossier, the manifest and the mirror in
+   the same turn; log it in `SERIAL_LOG.md`.
 
 ## 8. Gate status
 
