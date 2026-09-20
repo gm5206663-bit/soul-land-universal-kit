@@ -118,7 +118,7 @@ He worked his way down the fold along the high side until the wind brought him v
 
 "Do we have the wire for a wall that long?"
 
-" We have the wire off the old water line, " said the first man. " The line at the water was pulled when the permits came, and every length of it is coiled in the store at the lodge. Wire goes round a wall as well as it goes across a trail.
+"We have the wire off the old water line," said the first man. "The line at the water was pulled when the permits came, and every length of it is coiled in the store at the lodge. Wire goes round a wall as well as it goes across a trail."
 
 "What did the water give us last season?" said the younger one.
 
@@ -126,7 +126,7 @@ He worked his way down the fold along the high side until the wind brought him v
 
 "Half."
 
-" Half, and the ground, and the wire, and the man who argues with the count in the ninth month. ""
+"Half, and the ground, and the wire, and the man who argues with the count in the ninth month."
 
 The younger one looked up at the fold, at the ground the men were closing inside it, and did not answer. The hound got up from the ground, walked to him, and stood with its muzzle against his leg, and his hand went down onto its head without his looking at it.
 
@@ -144,7 +144,7 @@ The axe man put the post down and wiped his hands.
 
 "And the north side?"
 
-" We put a line on the north side too, " said the man with the axe. " That is the whole point of the north side.
+"We put a line on the north side too," said the man with the axe. "That is the whole point of the north side."
 
 "How long will the wall take?"
 
@@ -152,7 +152,7 @@ The axe man put the post down and wiped his hands.
 
 "Then we sleep in the fold."
 
-" We sleep in the fold, and we eat out of it, and in the spring it is ours. ""
+"We sleep in the fold, and we eat out of it, and in the spring it is ours."
 
 The boy came up from the stream with the water and set the skin down by the stones, and the hound took two steps toward the north ridge and stood, and the man with the axe called it back.
 
@@ -166,7 +166,7 @@ He drove the post. The sound went up the slope to where the dragon lay in the hi
 
 ## Footer
 
-- Word count (body): 3,096 (verify.py, s36 gate). Spoken dialogue: 28 lines (9.0 per 1000w). Prose metrics (s35 house-grammar method, prose-only): average 21.3w, median 18w, longest 58w; no sentence over 60w; motif word "the way" x0.
+- Word count (body): 3,086 (verify.py, s36 gate). Spoken dialogue: 30 lines (9.7 per 1000w). Prose metrics (s35 house-grammar method, prose-only): average 21.1w, median 18w, longest 58w; no sentence over 60w; motif word "the way" x0.
 - Chapter time: DL 3663 — the winter after the crossing into the spring (exact figures panel-only).
 - Gate: standing delegation (2026-09-20). HUMAN SCENE: one scene at the takers' new line in the east — the fold closed, the wall built, the wire counted, the boy on the north ridge — written at house density. The dragon reads them from above and never goes near (firewall stands). Beats held: hunting by the sense of years complete (the thin lives passed, the heavy ones hunted; bread and meat told apart); THE PRICE OF THE BECOMING (the veiling broken by the heavier presence; two meals lost; the veiling rebuilt bigger, holding again over the lesser lives); THE NEW REACH GENERALIZING (the drawing a habit of the still hours, thin and honest; deepest in the hollow of the fallen giant); THE SECOND THAW (the low lives bowing deeper, the order his); THE BLACK-RAVINE SERPENT READ (a depth past all depths; the thread clearer; the reading a pull of its own, held, not followed); THE YEAR-TAKERS DEEPER (their new line in the country of the heavier lives; the hunger running both ways of one trail; the sharing a race); THE NEW TRUTH (the outer country eaten down past its giving; the deep country has the years; the pull of need); the shape held without deciding.
 - s36 rebuild note (2026-09-20; author, verbatim: "Now rebuild chapter 1 to 12 completely" ): chapter rewritten in full at the house grammar (foundation/HOUSE_STYLE_AUDIT.md): scene-first, short plain sentences, scenes shown moment to moment; soul-beast rule (SB-11) held.
