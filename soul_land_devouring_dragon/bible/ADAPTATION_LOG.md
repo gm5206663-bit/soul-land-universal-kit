@@ -575,10 +575,9 @@ body). The Talent is never named; deltas record its RESULTS.
   (the list-keeper; SOUL KING; the stag's purple light carried down the road to
   the tables — depth for frames that have grown into it, the ring-slot law ER-12
   [rewritten s33; the s30 text read "as his SECOND RING" — struck by the author];
-  "the list cares about years"), GAO TIE (the spirit hound's master; GRAND SOUL MASTER; "the old hunters of the border say the deep country
+  "It signs. Then it is a line on the list."), GAO TIE (the spirit hound's master; GRAND SOUL MASTER; "the old hunters of the border say the deep country
   has its own keepers"), XIAO AN (the young one; SOUL MASTER — a white first ring carried since the border, her second light to come [s33]; the deep kills left whole:
-  "the same mark, the same shape, like a name signed" — the kill word seen
-  as a signature from their side); their list on paper, their motive on the
+  "it knows the country, and it knows where a beast will stand" — the kill word read from their side); their list on paper, their motive on the
   page (the deep keeps its own green; the list is deep). No contact; nothing
   reaches him; the dragon never hears; the firewall stands.
 - DEVOURING road: the lean end of the cold, then the green season's first
@@ -641,12 +640,7 @@ body). The Talent is never named; deltas record its RESULTS.
   made the ground wary, and the wary ground moved the bull's hours: the
   word that guards the country guards the taking too (the taking came at
   the edge of the hour, on the thinnest ground, or would have been lost).
-- MEN ledger: THE DEEP CAMP (their camp in the country of the giants; the
-  deep green's weather against them — heat, the low lives of the warm air, the ground's word, the
-  the spirit hound slow: every country keeps its own weather, from their side); their
-  list has grown the KEEPERS' LINE (Xiao An's ch11 observation became the
-  list's line — no name, the sign of the mark on it: "a thing that signs
-  and does not show"); their craft: the water's hour, the water's edge, the
+- MEN ledger: THE FIRES IN THE GIANTS' COUNTRY (their green-season camp; the hound working the water line; every country keeps its own weather, from their side); their list has grown the KEEPERS' LINE (the mark written at the winter place — a thing that signs and does not show); their craft: the water's edge, at the water's hour, the
   retreat rule ("if the mark comes, we pull back") — their discipline
   against his word. THE CROSSING AT THE WATER: the going-out at the hour
   the meal stood begun; the veiling at its last margin; the hush held; the

@@ -1115,3 +1115,57 @@ One entry per working session. Newest at the bottom.
 - PUSH: kit commit + push this session; Control Centre correction filed; workshop
   mirror re-synced (diff -rq).
 
+### Session 34 — 2026-09-20 (THE WRITING — style law restored; Chapters 11-12 rewritten in full)
+- Author correction (verbatim): "what bad chapter's and events and scene are
+  written, go check how canon are written what are even doing seriously, like
+  what the hell there is only mistakes to look upon, what a bad writing even this
+  what the hell, i can't read few lines before i disgusted by how bad is this,
+  like seriously you need truly work on it." And: "THE PARALLEL PANEL when needed
+  what you don't have common sense what you don't have intelligence to understand
+  common sense."
+- THE DEFECT (measured, not excused): the s25 prose law ("don't write boring",
+  RAILS) was broken again. Chapters 11-12 carried average sentences of 62 and 64
+  words with single sentences of 328 and 430 words; one register (long interior
+  narration) carried whole chapters; abstraction words ("the ledger", "the word",
+  "the quiet thing", "the shape of the letting-go") were the sentence engine; the
+  parallel panels were where scenes happened, and ch12 used two of them, one a
+  planning scene the beast side did not need. Canon Soul Land is plain and fast:
+  short concrete sentences, real scenes, people talking.
+- THE REWRITE (both chapters, full, same turn): ch11 — the thaw; the antler's
+  kill-ground read (pale-gold light in the moss); his list and their list; the
+  RACE and the kill of the thick-paw shown moment to moment (the stillness's
+  near-miss, the bank, the jaw); the two reds at the meal; the kill-word set in
+  the ground; one short panel at the winter place (Gao Tie "Same ground. Same
+  shape as the deep place."; Xiao An "it knows the country, and it knows where a
+  beast will stand"; Old Qin "It signs. Then it is a line on the list." and the
+  bull marked as the next line; the deep lights to the tables). ch12 — the green
+  at its height; the craft's cost (his own word moved the heavy kinds and the
+  bull's hours); the two fires and the hound working the water line; THE FIGHT at
+  the water shown moment to moment (the horns, the jaw, the deep light read low
+  and purple); the deepest meal and the bloodline dividend; THE CROSSING as a
+  real-time scene (the stillness at its last margin over open ground; the hound
+  stops and sits; the men read the bank and find nothing; the day's re-learning);
+  one short panel at the water's edge (the hound's certainty; the sign of the
+  seen; the market line). The ch12 camp planning scene is out of the page.
+- MEASURED RESULT: ch11 average sentence 17 words, median 14, longest 53, "the
+  way" once; ch12 average 19, median 15, longest 55, "the way" four (was ten).
+  Gates PASS: ch11 2,634 prose words / 17 dialogue lines; ch12 3,010 / 13; project
+  sweep PASS. Footers carry the exact counts.
+- PANEL LAW (author: "when needed"): at most one short panel per chapter, only
+  where the beast side cannot carry the beat; never a planning scene; never a
+  re-tell. Recorded in RAILS alongside the STYLE LAW.
+- LAW RECORDED: RAILS §STYLE LAW (second offence) — sentence average <= 25 words
+  and no sentence over ~50; one hard scene per chapter minimum; three of the five
+  kit registers minimum; dialogue mandatory; abstraction words never the sentence
+  engine; the panel law; footers keep figures, prose keeps none.
+- MIRRORS (same turn): STATUS_PANEL (Updated, Last action, NOW/FACES/Men, panel
+  passages); TIMELINE (both rows, quotes aligned to the new text); CHARACTERS
+  (all three rows); CONTINUITY (Old Qin, Xiao An, Gao Tie rows); PLACES (the deep
+  camp row); KNOWLEDGE_FIREWALLS; PROTAGONIST; HIS_STATUS_PANEL; ADAPTATION_LOG;
+  CREATURES (hound row quote). Every dropped quote replaced with what the
+  chapters now say; the author's verbatim quotes preserved untouched.
+- OPEN (stated, not asked): Chapters 1-10 carry the same defect. They are being
+  rewritten to this register next, in order, two to three chapters per pass.
+- PUSH: kit commit + push this session; Control Centre correction filed; workshop
+  mirror re-synced (diff -rq).
+

@@ -224,19 +224,14 @@ marked [design] and belong to the author to correct.
   the thaw, and GO DEEP with the green — the going is the going of readers;
   in the READER's eyes only (the parallel panel, the 2026-09-18 ruling)
   they carry faces — OLD QIN (the list-keeper; SOUL KING; the grey stag's
-  purple light carried down the road to the tables (the ring-slot law, ER-12); "the list cares about years"), GAO TIE (the
+  purple light carried down the road to the tables (the ring-slot law, ER-12); "It signs. Then it is a line on the list."), GAO TIE (the
   spirit hound-man; GRAND SOUL MASTER; "the old hunters of the border say the deep
   country has its own keepers"), XIAO AN (the young one; SOUL MASTER — the
   white first ring carried since the border; the bull's deep purple goes to the tables, not her frame; the mark
-  observed: "like a name signed"); their
+  observed: "it knows the country, and it knows where a beast will stand"); their
   list on paper, their motive on the page — the dragon never hears, never
-  sees; the firewall stands. CH12: the DEEP CAMP (their camp in the
-  country of the giants; the deep green's weather against them); their list
-  has grown the KEEPERS' LINE (Xiao An's observation became the list's line —
-  no name, the sign of the mark on it: "a thing that signs and does not
-  show"); their craft: the water's hour, the water's edge, the retreat rule
-  ("if the mark comes, we pull back"); THE SIGN OF THE SEEN set on the
-  keepers' line at the water (the spirit hound's certainty for a whole hour ("The spirit hound doesn't hold an hour for the grass"); "When a
+  sees; the firewall stands. CH12: THE FIRES IN THE GIANTS' COUNTRY (two fires; the hound working the water line out ahead of them); their list has grown the KEEPERS' LINE (the mark written at the winter place — no name, the sign of the mark on it: "a thing that signs and does not show"); their craft: the water's edge, at the water's hour, and the retreat rule ("if the mark comes while we are at it — we pull back"); THE SIGN OF THE SEEN set on the
+  keepers' line at the water (the spirit hound's certainty for a whole hour ("It doesn't hold an hour for a piece of grass"); "When a
   line has been seen, the list goes to it" — their next going is toward the
   mark).
 - THE GREATNESS THAT READ HIM AND LET HIM GO: a depth past all his reading

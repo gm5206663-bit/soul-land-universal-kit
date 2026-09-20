@@ -16,5 +16,5 @@ Law: a place gets its row when the story touches it.
 | Place | What it is | Status |
 |---|---|---|
 | The winter place | the hunting line's winter camp in the breaks of the deep country (ch10: smoke standing day after day; ch11: struck at the thaw, the smoke-line gone) | [design, on page] |
-| The deep camp | the hunting line's green-season camp in the country of the giants (ch12: the deep green's weather against them; the keepers' line discussed at its edge) | [design, on page] |
+| The deep camp | the hunting line's green-season camp in the country of the giants (ch12: two fires; the line splits, one half working the water line with the hound ahead) | [design, on page] |
 | The water's edge (the water of the warm breaks) | the water where the old bull comes at the edge of the hour (ch12: the taking, the crossing, the sign of the seen set) | [design, on page] |

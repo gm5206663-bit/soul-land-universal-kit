@@ -79,7 +79,7 @@
   King; the stag's purple light carried down the road to the tables — the
   ring-slot law, ER-12), Gao Tie the spirit hound's master (Grand
   Soul Master), Xiao An the young one (Soul Master — a white first ring; her
-  second light to come) who sees the mark — "like a name signed";
+  second light to come) who sees the mark — "it knows the country, and it knows where a beast will stand";
   the dragon never hears, never sees); THE RACE WON (the map of their going
   does its first green work — the window of hours; the thick-paw of the
   green run [design] taken); the veiling's NEAR-MISS in the wide green

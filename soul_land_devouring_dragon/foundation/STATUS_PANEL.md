@@ -2,7 +2,7 @@
 CLEAN GLANCEABLE SHEET OF HIM (identity, cultivation, body/height, attributes,
 skills, combat power vs normal soul beasts): bible/HIS_STATUS_PANEL.md
 (author s23 request; updated each chapter).
-Updated: 2026-09-20 (session 33 — the ring-slot law correction; s32: soul-beast correction; s31: Chapters 11–12 rewritten in full). Exact figures live HERE
+Updated: 2026-09-20 (session 34 — the style law: Chapters 11–12 rewritten in full in plain scene register, panels cut to one short scene per chapter; s33 ring-slot law; s32 soul-beast rule). Exact figures live HERE
 and in ADAPTATION_LOG only; prose never carries numbers.
 
 ## Identity
@@ -29,18 +29,7 @@ the kill word standing in the ground the way a name stands in a country;
 the heavy kind moving at the edges of the hours, standing away from the
 marked ground) — his own craft made the ground wary, and the wary ground
 moved the bull's hours: the word that guards the country guards the taking
-too. THE PARALLEL PANELS (the ruling, second use — twice): THE DEEP CAMP
-at the going-out (the deep green's weather against them — heat, the low lives
-of the warm air, the
-ground's word, the spirit hound slow: every country keeps its own weather, from
-their side; the list has grown the KEEPERS' LINE — Xiao An's ch11 observation
-became the list's line: no name, the sign of the mark on it, "a thing that
-signs and does not show"; Xiao An's demand: the SIGN OF THE SEEN on it before
-they move — "a line with no face is a line the list can walk into blind";
-the bull as the prize: "Low years are deep years… That one feeds the
-border till the cold comes"; their craft — the WATER'S HOUR: "We come at
-the water's hour. We take at the water's edge. And if the mark comes, we
-pull back." — the retreat rule, their discipline against his word). THE
+too. THE PARALLEL PANEL (the ruling; the s34 law: when needed only — one short scene, at the water, after the crossing): the men read the bank and find nothing; GAO TIE on the spirit hound ("It holds it like a name... It doesn't hold an hour for a piece of grass."); XIAO AN: "Then it killed the bull... it was here when we came."; OLD QIN sets the SIGN OF THE SEEN on the keepers' line ("When a line has been seen, the list goes to it."); the deep lights go down the road to the tables. THE
 VEILING'S GREEN CLIMB: the hush now carried by the ground's word, the deep
 stillness (the climb paid — no head turned at the water — but the hush is a
 SPENT line, not a standing one; the margin bought each hour). THE VOICE:
@@ -61,9 +50,8 @@ spent to the last of its margin: the deep stillness, a day, the country
 keeping its own secret longer; the war's ledger's first honest line of the
 new kind: THE NEXT LINE OF THEIRS WILL COME WITH EYES, NOT ONLY HANDS — the
 spirit hound carried the scent. THE WATER (the reader's side of the crossing): the
-spirit hound's certainty for a whole hour ("It holds it like a name... The spirit hound
-doesn't hold an hour for the grass."); the mark at the water, the whole body
-gone; Xiao An: "And the spirit hound smelled something"; Gao Tie: "It's held the whole hour."; Old Qin sets the SIGN OF THE SEEN on the keepers' line — "When a
+spirit hound's certainty for a whole hour ("It holds it like a name... It doesn't hold an hour for a piece of grass."); the mark at the water, the whole body
+gone; Xiao An: "Then it killed the bull... it was here when we came."; Gao Tie: "It's been on this bank since before the light."; Old Qin sets the SIGN OF THE SEEN on the keepers' line — "When a
 line has been seen, the list goes to it." (their next going is toward the
 mark — toward him.) THE TURN: the deepest meal of his life (the bloodline
 dividend visible: scales darker, the crown higher, the dragon-thread
@@ -134,10 +122,7 @@ Talent never named; no leaps.
   winter in the deep country; the smoke-line; same breaks, same hours) →
   THE SMOKE-LINE GONE (ch11: the winter place struck at the thaw; they go
   deep with the green — the going is the going of readers; the next smoke
-  kept as an edge) → THE DEEP CAMP (ch12: the new smoke stands in the
-  country of the giants — the map's edge closed; their camp in the deep
-  green; the KEEPERS' LINE on their list — Xiao An's mark-observation became
-  the list's line: no name, the sign of the mark on it) → THE CROSSING AT
+  kept as an edge) → THE FIRES IN THE GIANTS' COUNTRY (ch12: the new smoke stands in the country of the giants; two fires — the map's edge closed; their line working the water line with the hound out ahead; the KEEPERS' LINE on their list — a thing that signs and does not show, written at the winter place) → THE CROSSING AT
   THE WATER (ch12: the going-out at the water at the hour the meal stood
   begun; the spirit hound stopped, sat, held the scent; the upright shapes
   looked and found no one; nothing known, nothing seen of him — but the
@@ -148,11 +133,9 @@ Talent never named; no leaps.
   road to the tables — depth for frames that have grown into it (the ring-slot
   law, ER-12); the sign of the seen set on the keepers' line: "When a
   line has been seen, the list goes to it."),
-  GAO TIE (the spirit hound's master; "It holds it like a name... The spirit hound doesn't hold an hour for the grass."), XIAO AN (the
-  young one; the mark observed: "like a name signed"; her demand: the sign
-  of the seen before they move); their list on paper, their motive on the
-  page (the deep keeps its own green; "the list cares about years"; the old
-  bull: "That one feeds the border till the cold comes"); their craft: the
+  GAO TIE (the spirit hound's master; "It holds it like a name... It doesn't hold an hour for a piece of grass."), XIAO AN (the
+  young one; the mark observed: "it knows the country, and it knows where a beast will stand"; the sign of the seen set at the water (ch12)); their list on paper, their motive on the
+  page (the deep keeps its own green; "It signs. Then it is a line on the list."; the old bull's deep light read low and purple (his side)); their craft: the
   water's hour, the water's edge, and the retreat rule ("if the mark comes,
   we pull back"); the dragon never hears, never sees — firewall stands.
 - Wounds kept: the scar behind the jaw — for life; the bristle-cuts of the
@@ -217,30 +200,39 @@ Talent never named; no leaps.
 - No chapter drafting until the author says so.
 
 ## Last action
-Session 33 (2026-09-20): author correction (verbatim: "A thousand-year second
-ring,"?, what are you even saying what you know how even this rear even in soul
-land 2") → THE RING-SLOT LAW recorded and enforced in ONE pass. The struck claim
-was the stag's purple ring as OLD QIN'S SECOND RING — he is a Soul King whose
-slots are long filled, and a thousand-year second ring is a pedigree anomaly rare
-even in Soul Land 2 (the receipt this workspace holds: Wang Dong of Shrek's
-thousand-year second ring; the standard sets read thin-thin-deep — the Shrek
-proctor and Bei Bei, two yellow rings and one purple across three). Prose: ch11 —
-Old Qin's line now reads "A thousand-year light... the Tang Sect's frontier teams
-pay more — they buy depth for frames that have grown into it; thin slots take thin
-lights, and the deep light waits for the third."; ch12 — the camp panel rewritten:
-the bull's purple goes down the road with the stag's, to the tables that buy depth;
-Xiao An, who carries a thin white first ring, asks for it anyway; Gao Tie's word
-stands ("The border calls that a death wearing a ring."); Old Qin answers with the
-law ("A thousand-year light is a third-ring light... first rings thin, second rings
-thin, and the deep light at the third... That is the future."). Rule recorded:
-CANON_LEDGER ER-12 (new) and ER-11 (rewritten); NO_MISTAKE_LIVE_RULES (s33
-author-law block); GLOSSARY (the ring-slot law). Mirrors swept same turn: TIMELINE,
-CONTINUITY, CHARACTERS (Xiao An's record corrected: a white first ring carried, her
-second light to come), CREATURES, HIS_STATUS_PANEL, PROTAGONIST, ADAPTATION_LOG;
-the last three s32 "flies" leftovers cleaned. Gates re-run: ch11 2,896 prose words
-/ 19 dialogue lines; ch12 3,292 / 27; project sweep PASS. Footers reset to the
-gated counts. (Preceding: s32 — soul-beast correction; s31 — Chapters 11–12
-rewritten in full.)
+Session 34 (2026-09-20): author correction (verbatim: "what bad chapter's and
+events and scene are written, go check how canon are written... i can't read few
+lines before i disgusted by how bad is this... THE PARALLEL PANEL when needed
+what you don't have common sense"). THE WRITING WAS THE DEFECT — the s25 prose
+law ("don't write boring", RAILS §PROSE LAW) had been broken a second time:
+Chapters 11-12 had drifted into a single register with an average sentence of
+62-64 words and single sentences of 328 and 430 words, abstraction words carried
+the prose, and the parallel panels had become the place where scenes happened.
+What was done in one pass:
+(1) CHAPTERS 11 AND 12 REWRITTEN IN FULL in plain scene register: short
+    concrete sentences (ch11 now averages 17 words, longest 53; ch12 19 words,
+    longest 55 — against 62/328 and 64/430 before), real scenes shown moment to
+    moment (the antler's kill-ground read; the race and the kill of the thick-paw;
+    the fight at the water; the crossing), the abstraction engines ("the ledger",
+    "the word", "the quiet thing") removed.
+(2) PANEL LAW (author, "when needed"): panels cut to ONE SHORT SCENE PER CHAPTER
+    at most — ch11 keeps only the winter-place scene (the mark written on the
+    list; the keepers' line; the deep lights to the market; the bull marked as
+    the next line); ch12 keeps only the water's edge after the crossing (the
+    hound's certainty; the sign of the seen). The ch12 camp PLANNING scene is
+    gone from the page; the crossing is told from his side.
+(3) LAW RECORDED: RAILS §STYLE LAW (second offence) — sentence averages and
+    caps, one hard scene per chapter minimum, three registers minimum, the
+    abstraction limit, the panel law, all with the author's words.
+(4) MIRRORS: every citation of a line the rewrite dropped is replaced with what
+    the chapters now say (STATUS_PANEL FACES/NOW, TIMELINE both rows, CHARACTERS
+    all three rows, CONTINUITY, PLACES, KNOWLEDGE_FIREWALLS, PROTAGONIST,
+    HIS_STATUS_PANEL, ADAPTATION_LOG, CREATURES); SERIAL_LOG records the change.
+(5) GATES: verify.py per chapter + project sweep — PASS. ch11 2,634 prose words /
+    17 dialogue lines; ch12 3,010 / 13. Footers carry the exact counts.
+NEXT (same law, no ruling needed): Chapters 1-10 carry the same defect and are
+rewritten to this register in order, two to three chapters per pass.
+(Preceding: s33 ring-slot law; s32 soul-beast rule; s31 total rewrites.)
 
 ## Underlying locks
 v2.0 Talent law (never named, no free output) · anti-nerf/anti-inflation twin law

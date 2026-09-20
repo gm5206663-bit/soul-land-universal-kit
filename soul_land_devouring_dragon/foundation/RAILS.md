@@ -47,3 +47,29 @@ The author rebuked drift into monotone, meditative prose. Standing law:
 - THE KIT governs the author's NEW fiction (built from scratch on the kit,
   starting 2026-09-18) and stands as reference law here; this serial keeps
   its own locked shape plus the rulings above.
+
+## STYLE LAW — the second offence (author correction, session 34, 2026-09-20)
+Author, verbatim: "what bad chapter's and events and scene are written, go check how
+canon are written... there is only mistakes to look upon, what a bad writing... i
+can't read few lines before i disgusted by how bad is this." And, on the panels:
+"THE PARALLEL PANEL when needed what you don't have common sense."
+The s25 law above was broken a second time: chapters drifted into ONE register
+(long interior narration), average sentence length reached 62-64 words with single
+sentences of 328 and 430 words, and the same connectives and abstractions carried
+the prose ("the way X", "the ledger", "the word", "the quiet thing"). Canon Soul
+Land is written plain and fast: short concrete sentences, named things, real
+scenes, people talking. HARD RULES from here (machine-checked where possible):
+1. SENTENCES: average <= 25 words per chapter; no sentence over ~50 words; no
+   paragraph that is one sentence; no chained "the way X" (max two per chapter,
+   earned).
+2. HARD SCENE: every chapter shows at least one event in real time, moment to
+   moment, not summarized (a hunt, a fight, a crossing, an escape).
+3. REGISTERS: at least three of the kit's five registers per chapter (kit 07 §2);
+   dialogue is mandatory.
+4. ABSTRACTION LIMIT: the motif words ("the list", "the mark", "the stillness",
+   "the word of the kill") may appear, but never as the sentence engine; the
+   subject of a sentence is a thing or a body, not an idea.
+5. PANEL LAW (author): the parallel panel only WHEN NEEDED — one short panel per
+   chapter at most, carrying only what the beast side cannot; never a planning
+   scene; never a re-tell of a beat already told from his side. Default: none.
+6. FOOTERS/ledgers keep the exact figures; prose keeps none (kit 07 §4).
