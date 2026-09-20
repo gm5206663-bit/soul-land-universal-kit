@@ -1169,3 +1169,28 @@ One entry per working session. Newest at the bottom.
 - PUSH: kit commit + push this session; Control Centre correction filed; workshop
   mirror re-synced (diff -rq).
 
+### Session 35 — 2026-09-20 (CHAPTER 1 rewritten to the house grammar)
+- On the author's instruction ("Check how a fen fiction written and others All
+  things"), the audit was run first: foundation/HOUSE_STYLE_AUDIT.md — every
+  project in this workspace measured with one script, plus six published Soul
+  Land fanfiction samples read directly. Result: our serial was the single
+  outlier in the author's own library (sentence average 44.6 and 0.8 spoken
+  lines per thousand words, against a house norm of 19-30 and 10-20). Targets
+  bound into RAILS (HOUSE GRAMMAR) and kit 07 §9.
+- CHAPTER 1 REWRITTEN IN FULL to those targets. Measured after: 2,616 prose
+  words; sentence average 17.8, median 13, longest 59, none over 60 (was average
+  44.6, longest 250); 67 paragraphs, none a single thesis; scenes: the hatch; the
+  first eating; the slope's lessons (the beetles as the slope's smallest soul
+  beasts; blue silver grass named; the beaked nesters); the stone-runner hunt
+  run in real time (the failed rushes, the day of watching, the low wait in the
+  grit, the kill, the deep sleep); the great wings and the two rules; the smell
+  from beyond the pass; the first winter coming.
+- VOICES: chapter one carries no human-side scene — the beat forbids it (the
+  hatch, the empty mountain) — recorded in the footer; Chapter 2 opens the human
+  side, and from there no chapter goes without voices.
+- QUEUE: Chapters 2-10 rewritten to the same targets, two to three per pass.
+  Chapters 11-12 take a dialogue pass (their human scenes to house density).
+- Gates: verify.py run on the chapter (the only failure is the known
+  beast-chapter dialogue gate at zero spoken lines; the project sweep reads it as
+  a report); zero digits in prose; footer carries the exact count.
+- PUSH: kit commit + push this session; workshop mirror re-synced.
