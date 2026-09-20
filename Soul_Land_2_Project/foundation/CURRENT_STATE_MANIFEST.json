@@ -4,24 +4,24 @@
   "project": "soul_land_2_unraveled_tide",
   "purpose": "Machine-readable current-state manifest. The STATUS_PANEL.md is the human source of truth; this file is what a checker reads. If the two disagree, the panel wins and this file is a defect.",
   "live_edge": {
-    "fic_chapter": 22,
-    "fic_title": "Knockout Brackets",
-    "fic_file": "chapters/chapter_22.md",
-    "state": "after Chapter 22, 'Knockout Brackets'"
+    "fic_chapter": 23,
+    "fic_title": "The Watching",
+    "fic_file": "chapters/chapter_23.md",
+    "state": "after Chapter 23, 'The Watching'"
   },
   "canon_consumed_through": {
     "chapter": "17-4",
-    "note": "canon ch 17-4 held whole in ch22 (bracket's posting; Ma Xiaotao at the venue; ring-hunt setup: prize, window, shape)"
+    "note": "canon ch 17-4 held whole in ch22 (bracket's posting; Ma Xiaotao at the venue; ring-hunt setup: prize, window, shape); ch23 claimed no canon beat of 17-5 (no clean primary text obtainable in-session; the match is a designed ensemble, flagged — see coverage receipt)"
   },
   "next": {
-    "fic_chapter": 23,
-    "source": "canon ch 17-5 (research at Ch23 writing — do not write from memory; first knockout match: Group One vs Group Forty-Seven 'the watching'; the prize's standing at the top of the tree)"
+    "fic_chapter": 24,
+    "source": "canon ch 17-5 (research at Ch24 writing — do not write from memory; the second line of the bracket — the name on the board the year has not yet earned; the prize's standing at the top of the tree)"
   },
   "ranks_live": {
     "huo_yuhao": "17-peak (verging 18)",
     "wang_dong": "23",
     "jiang_che": "29 (wall at thirty; third-ring hunt planned, not triggered)",
-    "note": "codex per-chapter 'Ranks:' lines are the source of truth, in the order 17-peak / 23 / 29 = Yuhao / Wang Dong / Jiang Che (Ch15-16 records + ch15/16 prose); unchanged Ch17-21"
+    "note": "codex per-chapter 'Ranks:' lines are the source of truth, in the order 17-peak / 23 / 29 = Yuhao / Wang Dong / Jiang Che (Ch15-16 records + ch15/16 prose); unchanged Ch17-23"
   },
   "group_one": {
     "members": [
@@ -30,7 +30,7 @@
       "Xiao Xiao",
       "Jiang Che (the courier)"
     ],
-    "record": "4-0 first round on the board; knockout first line chalked (Group Forty-Seven 'the watching') for Ch23",
+    "record": "4-0 first round; knockout first line BENT (the watching gone — a first loss, no description); second line on the board, unread (a line not yet earned stays on the board)",
     "rumor": "Group One rearranges the ground and the ground wins"
   },
   "rings_jiang_che": [
@@ -55,12 +55,12 @@
     }
   ],
   "required_status_patterns": [
-    "Live edge: after Chapter 22",
-    "chapters/chapter_22\\.md",
-    "Knockout Brackets",
+    "Live edge: after Chapter 23",
+    "chapters/chapter_23\\.md",
+    "The Watching",
     "17-peak / 23 / 29",
     "Group One.*4-0|4-0.*Group One",
-    "canon 17-4 held|canon ch 17-4 held",
+    "Canon consumed through.*canon ch 17-4",
     "the wall at thirty|thirty-bottleneck",
     "rank 25.*superseded|SUPERSEDED.*rank 25|design-era.*superseded",
     "foundation/STATUS_PANEL.md"

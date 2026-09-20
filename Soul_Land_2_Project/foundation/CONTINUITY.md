@@ -19,9 +19,10 @@
 | The waystation contract (the fox's, for the guardians) | ch2 | UNdelivered |
 | The third ring — the wall | **the wall at thirty** (ruled 2026-09-20, R5 closed: serialization prose wins; design-era "20-wall" SUPERSEDED, kept for provenance) | RESERVED as a story event; the hunt's **shape is on the ledger's page (Ch22)** — planned, measured, window marked, NOT YET; the departure is at the wall (he is 29) |
 | Xiao Xiao's decisive fight (the Nine Phoenix Greeting Flute) | ch20 (flute named) | HELD, per her hide-strength doctrine |
-| Ma Xiaotao at the grounds | canon 17-4 | **DONE (Ch22)** — the red at the venue; the bank holds; no interaction with the room (the Ch18 blink stays a blink) |
-| The knockout bracket | canon 17-4 | **POSTED (Ch22)** — the top sixty-four; the eighty-six crossed out; Group One's first line: Group Forty-Seven "the watching" (Ch23) |
-| The first knockout match — Group One vs Group Forty-Seven | Ch22 (the line chalked) | next (Ch23) — the first fight the year gets a word for |
+| Ma Xiaotao at the grounds | canon 17-4 | **DONE (Ch22) — UNCHANGED (Ch23)** — the red at the venue's edge; the bank holds (two hundred days and two days of venue, L3); no interaction with the room (the Ch18 blink stays a blink) |
+| The knockout bracket | canon 17-4 | **POSTED (Ch22) — FIRST LINE BENT (Ch23)** — the top sixty-four; the eighty-six crossed out; Group One's first line: Group Forty-Seven "the watching" — gone (a first loss, no description); the second line is on the board, **unread** |
+| The first knockout match — Group One vs Group Forty-Seven | Ch22 (the line chalked) | **DONE (Ch23)** — "the watching" (the first fight the year gets a word for — the word was already on the board); the room won as a system; the needle's fact filed (L3); Wang Dong edited and mended; the middle one looked at the small girl (the first time the watching looked at anything) |
+| The watching, second time (a rematch the board may owe) | Ch23 (the fox's file) | the team still deciding what it is decided *not yet* — it will decide again, and the next time it will have the room in it (a future event, not a consumed line) |
 | The champion's prize — what "extremely rare" is | Ch17 (draft) + Ch22 (re-read at the board) | open — the contents stay two words until the canon earns the reveal |
 | The fox's reveal of her true years | L2/L4 | reserved beat, unwritten |
 | The white-ring veil | ch1 (L4) | holding; the fox keeps it |

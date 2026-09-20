@@ -133,3 +133,26 @@ required pattern flipped to "the wall at thirty|thirty-bottleneck"). No
 prose touched; no checker touched. Re-verified: every remaining "20-wall"
 mention in the project is flagged SUPERSEDED; all manifest required patterns
 still match the panel.
+
+**Chapter 23 — The Watching (2026-09-20).** Research-first per the Ch22 guard:
+canon ch 17-5 researched; no clean primary text obtainable in-session (the
+fresh pass surfaced a fandom-wiki one-line semifinal claim — ruled NOT usable:
+non-primary, would consume the bracket's second line, collides with the Ch17
+structural fix); receipt written BEFORE prose:
+`audits/2026-09-20_CH23_CANON_COVERAGE.md`. The chapter is the designed
+canon-lawful ensemble match (flagged; the same discipline as the Ch6 trial
+and the Ch20 rehearsal): Group One vs Group Forty-Seven, the first line of
+the knockout. The room's four-part machine closes into a system (the sharing
+as a fence; the floor holds — a floor with no map; the cauldron, the still
+point; the wings, the answer); the watching rendered strictly as its record
+and its word (no souls, no names, no fate; the middle one = a position); the
+needle's fact filed (L3: where they stand, the reading is empty — the
+reading, not the ground); the honest cost (the needle spent; Wang Dong
+edited and mended); the year's word paid (the match itself becomes "the
+watching"); the ledger's first empty entry ("Forty-Seven: no description.");
+the hunt's page untouched (NOT YET); the red held at the venue's edge
+(unchanged); the second line on the board, unread. canon_consumed_through
+stays 17-4. Gate: 24/24 chapter + project sweep + selftest 22/22. State
+synced same turn: panel (after Ch23), codex v15.3, manifest, continuity
+debts, dossier v4.4, mirror resynced. Validation receipt:
+`audits/CHAPTER_23_VALIDATION_2026-09-20.md`.
