@@ -107,7 +107,7 @@ WebNovel and FanFiction.net; Soul Land / Douluo Dalu, the same genre and fandom)
   case, motif-swept and re-gated in s36) carries no human side — the recorded
   beat-forbids exception, and no second chapter goes without voices.
   Chapters 2–10 each carry ONE human-side scene, written at house density
-  on the page (27 / 30 / 25 / 36 / 27 / 28 / 29 / 32 / 31 spoken lines;
+  on the page (27 / 30 / 25 / 36 / 27 / 30 / 29 / 32 / 31 spoken lines;
   8.2–10.7 per 1000w) — the takers' line: the lodge, the fern-country kill,
   the husk, the pass snare, the thaw pull, the eastern fold, the deep-camp
   ledger, the hunt beneath his ledge, the winter fold. Chapters 11–12: dialogue

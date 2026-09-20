@@ -1214,7 +1214,7 @@ One entry per working session. Newest at the bottom.
   THAN THE WALL -- the first mild day of the year: two men pull the line, bait
   gone, ground unmarked, the pass written down as giving nothing (27; 9.2).
   ch7 THE SENSE OF YEARS -- the eastern fold: the fold closed, the wall built,
-  the wire counted, the boy on the north ridge (28; 9.0). ch8 THE DEEP COUNTRY
+  the wire counted, the boy on the north ridge (30; 9.7). ch8 THE DEEP COUNTRY
   -- the camp under the giants' trees: eleven days of marks read into a ledger,
   the thing that walks a straight line, the hound reading something for two days
   (29; 8.6). ch9 THE KEEPING EARNED -- beneath his ledge: the hunt worked up the
@@ -1232,7 +1232,7 @@ One entry per working session. Newest at the bottom.
   16.2-21.3 words per chapter; longest sentence 52-60; no sentence over 60;
   motif word "the way" 0-1 per chapter (was 11-17 at the start of the session).
   Body words: ch1 2,595; ch2 3,095; ch3 3,389; ch4 2,600; ch5 3,375; ch6 2,930;
-  ch7 3,096; ch8 3,362; ch9 3,879; ch10 3,420; ch11 2,786; ch12 3,279.
+  ch7 3,086; ch8 3,362; ch9 3,879; ch10 3,420; ch11 2,786; ch12 3,279.
 - RULING RECORDED (ER-13, the standing light): a killed soul beast's light rises
   over the body and stands where it died; it is taken by a soul master standing
   at it (into the frame, or on the border into a light-box for the market); a
