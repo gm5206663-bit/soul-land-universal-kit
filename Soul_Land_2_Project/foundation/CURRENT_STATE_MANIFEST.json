@@ -4,18 +4,18 @@
   "project": "soul_land_2_unraveled_tide",
   "purpose": "Machine-readable current-state manifest. The STATUS_PANEL.md is the human source of truth; this file is what a checker reads. If the two disagree, the panel wins and this file is a defect.",
   "live_edge": {
-    "fic_chapter": 21,
-    "fic_title": "Round One",
-    "fic_file": "chapters/chapter_21.md",
-    "state": "after Chapter 21, 'Round One'"
+    "fic_chapter": 22,
+    "fic_title": "Knockout Brackets",
+    "fic_file": "chapters/chapter_22.md",
+    "state": "after Chapter 22, 'Knockout Brackets'"
   },
   "canon_consumed_through": {
-    "chapter": "17-3",
-    "note": "canon ch 17-2/3 held whole in ch21 (dual-control spar, kite-flying, bear team)"
+    "chapter": "17-4",
+    "note": "canon ch 17-4 held whole in ch22 (bracket's posting; Ma Xiaotao at the venue; ring-hunt setup: prize, window, shape)"
   },
   "next": {
-    "fic_chapter": 22,
-    "source": "canon ch 17-4 (knockout bracket; Ma Xiaotao at the grounds; ring hunt — all not yet triggered)"
+    "fic_chapter": 23,
+    "source": "canon ch 17-5 (research at Ch23 writing — do not write from memory; first knockout match: Group One vs Group Forty-Seven 'the watching'; the prize's standing at the top of the tree)"
   },
   "ranks_live": {
     "huo_yuhao": "17-peak (verging 18)",
@@ -30,7 +30,7 @@
       "Xiao Xiao",
       "Jiang Che (the courier)"
     ],
-    "record": "4-0 after the first round",
+    "record": "4-0 first round on the board; knockout first line chalked (Group Forty-Seven 'the watching') for Ch23",
     "rumor": "Group One rearranges the ground and the ground wins"
   },
   "rings_jiang_che": [
@@ -55,12 +55,12 @@
     }
   ],
   "required_status_patterns": [
-    "Live edge: after Chapter 21",
-    "chapters/chapter_21\\.md",
+    "Live edge: after Chapter 22",
+    "chapters/chapter_22\\.md",
+    "Knockout Brackets",
     "17-peak / 23 / 29",
     "Group One.*4-0|4-0.*Group One",
-    "Round One",
-    "canon ch 17-2/3 held|canon 17-2/3 held",
+    "canon 17-4 held|canon ch 17-4 held",
     "the 20 wall|20-wall",
     "rank 25.*superseded|SUPERSEDED.*rank 25|design-era.*superseded",
     "foundation/STATUS_PANEL.md"
@@ -97,7 +97,7 @@
   ],
   "gate": {
     "verify": "v2 (unified, 2026-09-20)",
-    "chapter_gate": "22/22 PASS 2026-09-20",
+    "chapter_gate": "23/23 PASS 2026-09-20",
     "project_sweep": "hard gates clean 2026-09-20",
     "selftest": "22/22"
   },

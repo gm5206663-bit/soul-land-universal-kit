@@ -82,3 +82,21 @@ gate version (the file says v2, not v2.1); the next-source notation (canon ch
 sweep + selftest 22/22 (receipt below). *Lesson, appended to lock 9: the
 shorthand inherits the author's order — verify the name-mapping against the
 prose before it becomes the source of truth.*
+
+**Chapter 22 — "Knockout Brackets" (2026-09-20, on the author's "next chapter").**
+Can 17-4 held whole: the bracket's posting (one hundred fifty to the top
+sixty-four, the eighty-six crossed out), the champion's prize re-read
+("extremely rare" — contents left two words, a forward debt), Ma Xiaotao at
+the venue (the red line, the brazier's quiet, the whisper grown a day of
+venue; no interaction with the room — the Ch18 blink stays a blink; L3/L4
+held), and the ring-hunt setup (the prize, the window, the shape). OURS:
+Group Forty-Seven "the watching" (the unshown dangerous team the fox's Ch21
+beat owed; first match tomorrow — designed canon-lawful ensemble, no canon
+fate), the stall's coal to the forge (the year's little closed loop), the
+word *the watching* (the Ch21 "we need more words" beat paid). Research
+record: no clean primary translation of 17-4 obtainable in-session (2 search
+passes surveyed; the codex's own receipts govern per Branch 06) — receipted
+in `audits/2026-09-20_CH22_CANON_COVERAGE.md`, written before prose. Gate:
+23/23 chapter + project sweep + selftest 22/22. State synced same turn: panel
+(after Ch22), codex Ch22 record, manifest, continuity debts, dossier v4.3,
+mirror resynced.

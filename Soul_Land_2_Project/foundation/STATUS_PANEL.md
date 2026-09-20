@@ -4,7 +4,7 @@
 
 **File:** `foundation/STATUS_PANEL.md` — the single live-edge source. Any other copy is a copy.
 
-**Live edge: after Chapter 21 — "Round One."**
+**Live edge: after Chapter 22 — "Knockout Brackets."**
 
 ---
 
@@ -39,14 +39,13 @@ chapters actually carry.
 
 ## 1. Latest written artifacts
 
-- Latest prose: `chapters/chapter_21.md` — **Round One** (canon 17-2/3 held
-  whole in the chapter: the corrected Group One shape; the floor; the bear
-  team; the debrief; the names).
-- Codex record: `THE_CODEX.md` "Chapter 21: Round One (WRITTEN)" — canon
-  receipts, the floor, the 90-second round, "Ranks: 17-peak / 23 / 29, Group
-  One at 4-0".
-- OC dossier: `JIANG_CHE_STATUS.md` v4.2 (synced to this edge; rank note
-  corrected same day).
+- Latest prose: `chapters/chapter_22.md` — **Knockout Brackets** (canon ch 17-4 held whole: the bracket's posting; the eighty-six crossed out; the prize re-read; the red at the venue; the hunt's shape — NOT YET).
+- Codex record: `THE_CODEX.md` "Chapter 22: Knockout Brackets (WRITTEN)" —
+  canon receipts, Group Forty-Seven "the watching", the hunt's page, "Ranks:
+  17-peak / 23 / 29 (Yuhao / Wang Dong / Jiang Che) — unchanged".
+- Coverage receipt: `audits/2026-09-20_CH22_CANON_COVERAGE.md` (written before
+  prose; research-first record).
+- OC dossier: `JIANG_CHE_STATUS.md` v4.3 (synced to this edge).
 - Mirror: `../CODEX/06_PROJECT_SOUL_LAND_2.md` (byte-identical to THE_CODEX.md;
   verify with a hash before trusting it).
 
@@ -54,28 +53,35 @@ chapters actually carry.
 
 ## 2. Source position
 
-- Canon consumed through **canon ch 17-3**: Chapter 21 held 17-2 and 17-3 whole
-  (the dual-control spar, the kite-flying, the bear team = canon's own
-  first-round texture).
-- Next source: **canon ch 17-4** (the knockout bracket; Ma Xiaotao at the
-  grounds; the ring-hunt setup — all still *not triggered*).
-- Next fic chapter: **Chapter 22.**
+- Canon consumed through **canon ch 17-4**: Chapter 22 held 17-4 whole (the
+  bracket's posting; Ma Xiaotao at the venue; the ring-hunt setup — prize,
+  window, shape).
+- Next source: **canon ch 17-5** (research at Chapter 23 writing — do not
+  write from memory; the known texture: the first knockout match, the prize's
+  standing at the top of the tree).
+- Next fic chapter: **Chapter 23** — Group One vs Group Forty-Seven, "the
+  watching" (the room's first knockout match; the first fight the year gets a
+  word for).
 
 ---
 
-## 3. Current scene after Chapter 21
+## 3. Current scene after Chapter 22
 
-- Group One is **4-0** in the first round; the year's rumor is running
-  ("Group One rearranges the ground and the ground wins"); the names are
-  multiplying (the courier, the weather, the hammer, the boring one).
-- The corrected shape is running: Group One is the room plus Xiao Xiao —
-  Yuhao's field, Wang Dong's correctness, Xiao Xiao's cauldron, the courier's
-  floor: the four-part machine canon's trio always needed, completed.
-- The courier took the medics' corner as his station for the day and kept the
-  day's damage-ledger running: nineteen mends (fourteen from other teams'
-  matches, five from his own), eleven minutes of fighting, four wins.
-- Wang Dong's ("the prince's") official position, delivered at volume for the
-  stands: "very dangerous, extremely handsome, *sorry about the bell*."
+- Group One is **4-0** on the board (first round); the knockout's first line
+  is chalked and not yet fought: **Group Forty-Seven — "the watching"**
+  (tomorrow). The cut of the cut: one hundred fifty to the top sixty-four, the
+  eighty-six going home before the dusk bell.
+- The year's rumor has a spine now: the ninety seconds don't come off the
+  board; the eraser had its best day of the year.
+- The red is at the venue: the bank holds (two hundred days and a day of
+  venue, the fox's archive, L3); the inner court's ground — the outer school's
+  chalk does not reach; no interaction with the room (the Ch18 blink stays a
+  blink).
+- The courier's ledger carries the hunt's shape on a page: the wall at
+  thirty, the forest south, the water-kin, the Sun Flower's precedent, the
+  seed question — and under it, in ink, **NOT YET**.
+- The champion's prize stands at the top of the tree as two words:
+  *extremely rare* (contents unrevealed — a forward debt).
 
 ## 4. Character states (end of Chapter 21)
 
@@ -83,23 +89,24 @@ Plain words first; the story's own shorthand in parentheses.
 
 | Who | State |
 |---|---|
-| **Jiang Che** (the courier) | **Rank 29** — the wall at thirty is his next gate; the third-ring hunt is planned (Ch15) and **not triggered** (Ch21 tail). Two yellow rings: Overlord Vine (~400 yr) + Sun Flower (~740 yr) — canon ledger §D; ring three reserved. His control is **the floor**: pre-threaded vines, geometry, landing-cushions — control underneath the control (the rumor: "the ground wins"). Day's work: the **medics' corner** as his station; the **damage-ledger** — nineteen entries in a courier's shorthand, filed by team. |
-| **Huo Yuhao** (the gray boy) | **Rank 17-peak, verging 18** — the pill ledger (Ch15-16: second Mysterious Water Pill 12-peak → 13-peak; the Soul-Raising Pill resting at 17; the quarter's grind to the peak; "Rank eighteen by the assessment?"). **Class One monitor** — unchallenged, the class's spine (Ch10-15). **The field** (50 m detection; the room's first mover). **The fish stall** — the sect's economics, his station since Ch8 (30 a day, one each, no price-rise). |
-| **Wang Dong** (the prince, the blue prince) | **Rank 23.** Kills *correctly* (the spear met *correctly*; "one correctnessed"). The **bear bet collected** (the bear mended: "You floored me." / "It was a floor."). Official position on Group One: "very dangerous, extremely handsome, *sorry about the bell*." His thousand-year second ring still his own secret (Ch8, unnamed on-page). |
-| **Xiao Xiao** | **The cauldron** (interceptions; the sharing's foreknowledge). **The Nine Phoenix Greeting Flute held all day** — correct, per her hide-strength doctrine (support-control, slows enemies); her decisive fight is later. The shy one — blushes at Wang Dong only (Ch17 debut). |
-| **Tang Ya** | **Sect master** of the thousand-year sect (the master line is the grass line — Ch3). **The grill** — she launched the fish-stall scheme (Ch8); "the grill defended" (Ch10). "Excellent sect work" (Ch10, on-page). **The hundred-treasure pouch given to Yuhao** (Ch19). The sect's economics alive: 30 a day, one each, no price-rise (Ch15). |
+| **Jiang Che** (the courier) | **Rank 29** — the wall at thirty is his next gate. **The hunt's shape is on the ledger's page** (Ch22): planned, measured, window marked — **NOT YET** (the departure is at the wall). Two yellow rings: Overlord Vine (~400 yr) + Sun Flower (~740 yr) — canon ledger §D; ring three reserved. The floor is on the board now (the ninety seconds don't come off). The medics' corner kept through day two; the forge runs on the stall's coal. |
+| **Huo Yuhao** (the gray boy) | **Rank 17-peak, verging 18** (the verge named Ch16, held). **Class One monitor** — the class's spine, unchallenged. **The field** (50 m detection; "the field stays"). **The fish stall** — now the forge's coal supplier (the year's little closed loop: stall → forge → sect's tools → stall's line). |
+| **Wang Dong** (the prince, the blue prince) | **Rank 23.** Official position on the watching, at volume, for the stands: "I would lose to them once. Cleanly. That is what they are owed." The word given to the year: *the watching*. His thousand-year second ring still his own secret (Ch8, unnamed on-page). |
+| **Xiao Xiao** | **The cauldron's stillness** since the board went up — "it's not resting, it's *listening*" (a question with a lid on it; the lid comes off in her fight, per her doctrine). The Nine Phoenix Greeting Flute still held; the decisive fight is later. |
+| **Tang Ya** | **Sect master** of the thousand-year sect (the master line is the grass line — Ch3). The grill — her stall made the bracket's day (the coals, the line twenty deep). "Excellent sect work" (Ch10, on-page). The hundred-treasure pouch given to Yuhao (Ch19). The sect's economics alive: 30 a day, one each, no price-rise — now with coal (Ch22). |
 | **Bei Bei** | **The first disciple** (Tang Ya's; the porcelain vials; Thunder Dragon Claw + the lightning-net — Ch3). Fourth year since Ch8 (promotion trials). **The second Treasure Record** — the oilcloth ledger begun years ago, "the plan beneath the plan" (Ch5). Grandmaster Yu Xiaogang's line (the academy's true soul — Ch5). |
-| **Ma Xiaotao** (the red woman) | Twenty, a Soul Emperor, the academy's greatest genius in centuries; the evil-fire phoenix held down by cold (Ch14). **Public debut done** (Ch18: the red veil, the pink eyes, the queue's detonation); **name given** (Ch19; top ten in the inner court). Her fire is banked by the borrowed turtle (the Xu Sanshi arrangement — the fox's archive, L3). **Not at the tournament grounds yet — that beat is canon 17-4 and is not triggered.** |
-| **Xiao Jiu (the fox)** | The hidden companion (nine-tailed, in the coat, cat-sized by her own illusion). Present in every scene; the tactical reads; **the True Cascade running** (her archive of the red one — L3). Her true years L4-sealed; the first on-page reveal of the years is a reserved beat. |
+| **Ma Xiaotao** (the red woman) | **At the venue (Ch22)** — the red line, the pink eyes, the brazier's quiet; the whisper grown a day of venue ("a fire-attribute soul?" stays the outer school's wrong answer). The bank holds: two hundred days and a day of venue, the turtle's pressure still the load-bearing wall (the fox's archive, L3). The inner court's ground — the outer school's chalk does not reach. **No interaction with the room** — the Ch18 blink stays a blink (L3/L4 held). |
+| **Xiao Jiu (the fox)** | The hidden companion (nine-tailed, in the coat, cat-sized by her own illusion). The True Cascade ran through the venue (L3, the reader holds it): "the bank holds." The day's law: "The ledger can hold it. You can hold it." Her true years L4-sealed; the first on-page reveal of the years is a reserved beat. |
 
 **Ranks line (source of truth for rank: the codex per-chapter "Ranks:" lines).**
 Codex shorthand, in the order it is written: **17-peak / 23 / 29** — mapped per
 the Ch15-16 records: **Yuhao 17-peak (verging 18) / Wang Dong 23 / Jiang Che
-29** — unchanged through Chapters 17–21. Next gates: Jiang Che — the wall at
-thirty (the third-ring hunt: planned, not triggered); Yuhao — 18 (verging,
-named Ch16); Wang Dong — none named. Note: the design-era "20-wall" wording in
-the ledger and lock 5 is kept for provenance; the serialization's prose ties
-the third-ring gate to the wall at thirty — reconciliation is OPEN R5.
+29** — unchanged through Chapters 17–22. Next gates: Jiang Che — the wall at
+thirty (the third-ring hunt: the shape is on the page, the departure is at the
+wall — NOT YET); Yuhao — 18 (verging, named Ch16); Wang Dong — none named.
+Note: the design-era "20-wall" wording in the ledger and lock 5 is kept for
+provenance; the serialization's prose ties the third-ring gate to the wall at
+thirty — reconciliation is OPEN R5.
 
 ---
 
@@ -138,25 +145,27 @@ wall event and is a story, not a stat.
 
 ---
 
-## 7. Next (Chapter 22)
+## 7. Next (Chapter 23)
 
 1. Read `foundation/NO_MISTAKE_LIVE_RULES.md` and this panel.
-2. Research-first: fetch canon **ch 17-4** (the knockout bracket; Ma Xiaotao
-   at the grounds; the ring-hunt setup) from the primary source — do not write
-   from memory.
-3. Write the canon coverage receipt **before** prose.
+2. Research-first: fetch canon **ch 17-5** from the primary source — do not
+   write from memory (known texture: the first knockout match; the prize's
+   standing at the top of the tree).
+3. Write the canon coverage receipt **before** prose
+   (`audits/YYYY-MM-DD_CH23_CANON_COVERAGE.md`).
 4. Set the chapter's panel endpoints before dates.
 5. Preserve the ranks mapping (**Yuhao 17-peak / Wang Dong 23 / Jiang Che 29**)
-   unless the canon beat earns a change — the third-ring hunt is **not**
-   triggered here (the wall is at thirty).
+   unless the canon beat earns a change — the first knockout match is
+   Group One vs Group Forty-Seven, "the watching"; the ring hunt's departure
+   is still **not** here (it is at the wall at thirty; he is 29).
 6. Run `verify.py` (chapter gate + `--project`) and the selftest before calling
    it done; update this panel, the codex record, the dossier, the manifest and
    the mirror in the same turn; log it in `SERIAL_LOG.md`.
 
 ## 8. Gate status
 
-- Chapter gate (`verify.py chapters/`): **22/22 PASS** (2026-09-20, gate v2
-  unified).
+- Chapter gate (`verify.py chapters/`): **23/23 PASS** (2026-09-20, gate v2
+  unified; Ch22 "Knockout Brackets" included).
 - Project sweep (`verify.py --project .`): clean hard gates; CJK now lives in
   `foundation/CANON_LEDGER.md` (the glossary), not in chapter files.
 - Selftest (`selftest.py`): **22/22** — every defect still caught, apparatus

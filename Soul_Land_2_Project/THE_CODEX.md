@@ -422,6 +422,15 @@ What this means:
 - **The round:** 90 seconds; the rumor: 'Group One rearranges the ground and the ground wins'
 - **Ranks:** 17-peak / 23 / 29 - Group One at 4-0
 
+**Chapter 22: Knockout Brackets (WRITTEN - canon ch 17-4 held; the room's arithmetic)**
+
+- **Canon receipts:** the bracket's posting (the one hundred fifty cut to the top sixty-four; the eighty-six crossed out); the champion's prize re-read ("extremely rare" — contents left two words, a forward debt); MA XIAOTAO AT THE VENUE (the inner court's red line; the brazier's quiet; "fire control so precise — a fire-attribute soul?" grown a day of venue; the inner court's ground — the outer school's chalk does not reach); the ring-hunt setup (the prize, the window, the shape)
+- **OURS (participation):** Group Forty-Seven — "the watching" (the unshown dangerous team the fox's Ch21 beat owed: clean record, no ledger, no description; first match tomorrow — a designed canon-lawful ensemble team, no canon fate attached); the stall's coal to the forge (the year's little closed loop: stall → forge → sect's tools → stall's line); the word *the watching* (the Ch21 "we need more words" beat paid); the eraser (the rumor's spine, image only)
+- **THE HUNT'S SHAPE (the room's piece — planned, NOT triggered):** the ledger's page — the wall at thirty, the forest south, the water-kin, the Sun Flower's precedent, the seed question ("what does the grass itself want to become?"); "NOT YET" in ink; the room knows he is planning the wall (Ch15 texture), the content stays his; the AT never named (L1)
+- **THE RED HELD:** no interaction with the room (the Ch18 blink stays a blink); the cascade note reader-only (L3: "the bank holds. Two hundred days and a day of venue."); the ice stays unnamed on-page (L4)
+- **Ranks:** 17-peak / 23 / 29 (Yuhao / Wang Dong / Jiang Che) — unchanged; the wall at thirty named in prose (words)
+- **Coverage receipt:** `audits/2026-09-20_CH22_CANON_COVERAGE.md` (written before prose; research-first record: no clean primary translation of 17-4 obtainable in-session — the codex's own receipts govern per Branch 06)
+
 ### FOUNDATION CHANGELOG
 - **v15.2 (2026-09-20, re-rail):** governance layer rebuilt after the corpus audit found four files carrying four different live edges. Single source of truth now `foundation/STATUS_PANEL.md`; twelve locks in `foundation/NO_MISTAKE_LIVE_RULES.md`; machine-readable manifest; CJK glossary moved to `foundation/CANON_LEDGER.md`; design-era "rank ~25" lines flagged SUPERSEDED (serialization: rank 10 at ch1, 29 at the ch21 edge; the Ranks shorthand "17-peak / 23 / 29" maps to Yuhao / Wang Dong / Jiang Che — same-day correction of the first draft's mis-mapping); gate unified and re-proven (selftest 22/22). Prose untouched except the re-rail hygiene listed in the receipt.
 - **v15.1 (2026-08-26): CHAPTER 21 WRITTEN - Round One.** The corrected shape first fight. All laws running. Integrity clean.

@@ -4,6 +4,8 @@
 
 > **READ THIS FIRST:** Jiang Che is not a normal soul master whose stats are modified by a talent. **He is a construction of the Adaptation Talent.** Every level, every ring, every breath, every cell — built by the AT since conception. His rank 25 is not anyone else's rank 25. His 400-year ring is not anyone else's 400-year ring. The AT does not add to him; the AT *is* what he is made of. Every comparison to "normal" is a category error. This file describes what he **is**, not how he ranks against what he isn't.
 
+> **v4.3 STATE SYNC (2026-09-20, after Chapter 22 "Knockout Brackets"):** the live edge is after Ch22 — the hunt's shape is on the ledger's page (the wall at thirty, the forest south, the water-kin, the Sun Flower's precedent, the seed question) with **NOT YET** under it: planned, measured, window marked, not started; the departure is at the wall. The v4.2 rank mapping correction stands unchanged (Jiang Che 29; Yuhao 17-peak verging 18; Wang Dong 23).
+>
 > **v4.2 CORRECTION (2026-09-20, re-rail; mapping corrected same day):** this dossier's v4.1 "rank 25" framing is a **design-era** number, superseded by the serialization — the live rank is the codex per-chapter "Ranks:" line, and at the ch21 edge **Jiang Che is 29** (two yellow rings; the wall at thirty; the third-ring hunt planned, not triggered). The codex shorthand "17-peak / 23 / 29" maps to **Yuhao / Wang Dong / Jiang Che** — the 17-peak (verging 18) belongs to Yuhao, per the Ch15-16 records and the ch15/16 prose. Where this file states a number that the panel contradicts, the panel wins. See `foundation/STATUS_PANEL.md` §4/§5.
 
 ---
