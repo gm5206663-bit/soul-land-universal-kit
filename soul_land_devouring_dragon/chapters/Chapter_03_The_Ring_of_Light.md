@@ -1,86 +1,203 @@
 # Chapter 3: The Ring of Light
 
-The thaw came up the mountain the way everything true comes, by becoming. First the seep-water broke its skin and ran. Then the snow went gray and heavy and full of holes, and then it went in patches, and then it was only in the shadows of the north folds, and then it was only memory, and the mountain steamed, and the world opened.
+The thaw took the white off the mountain in three weeks, and when it was gone the slope was not the slope any more.
 
-He came out of the roots-house into a country he had not met before, because the winter country and the green country are two countries wearing one mountain. The smell of it came at him in waves, the green smell, thick and crowded and alive in a way the white had never been, and the sound of it was a wall of small lives — the nesting things were back in the broken pine, and the stone-runners were out on the warm grit thinning themselves in the sun, and things he had never heard moved in the wet places below the slope. The hunger came with the thaw the way it came with everything, and this year the hunger met a world that had food in it again, and the meeting was good.
+It was his.
 
-And he met it changed. That was the law of the winter's payment, and it showed itself now the way all such payments show: in the doing. The slope that had been a struggle was a slope. The digging that had been work was habit. The cold that had been an enemy was a memory his body kept without needing. The snow's whole long teaching had gone into him and become part of the ground he stood on, the way the mountain keeps everything that falls on it, and he went about the green world bigger than he had gone about the white one, harder over his back, quicker in his turn, and the world treated him to match.
+That was the difference the winter had made, and he felt it the first morning he came down through the wet fern with the sun on his back. The rock seam was his seam. The seep was his seep. The talus where the stone-runners lived was his larder, and when he walked the paths between the cracks the runners did not sit up and look at him any more.
 
-The broken pine taught him the change first. The nesting things had come back to their holes in its dead heart, and in the old days the beaks had been one of the mountain's words for not-yet, and he had passed the tree slowly, because the beaks were sharp and many and angry. He went up the broken pine this year without slowness. The beaks came, and struck, and found the scales that had not been there in the autumn, and the scales did not care, and the taking was loud and angry and full of wings, and it was his. He ate in the sun with the tree's heart pulled apart around him, and the mountain did not argue, because the mountain never argues with what has grown into its laws.
+They went still. Then they went down.
 
----
+Something in them knew him before his shadow came across them, and the knowing came up out of them in how their small bodies went still, and it was the same knowing he had seen in the deer-kind on the open snow, and it was new to be on the giving end of it. The low lives of the slope feared him now. Not because he was big. He was still small. Because of something in him they could smell that he could not smell at all.
 
-The pull had been waiting all winter, and the thaw unbound it.
+He put that fact away without a word and went to the broken pine.
 
-It lived in the direction of the trees — the true trees, the ones that stood at the mountain's hem and went on and on into a country with no hem at all. He had stood at the edge of them on the night he moved his den, and the edge had been a line his body knew the way it knew the sky-line, without reading. Now the green world was calling from in there, and the calling was not a sound, and it was not a smell, and it was not anything the mountain's teaching had a shelf for. It was closer than that. It was the place the pull came from and the place the pull pointed to being the same place, and the place was in him.
+The nesters were still in the hole in the pine's heart. He walked up to the pine in the open, downhill side and all, and put his head into the hole, and there was a flurry in the dark and something stabbed at his eye, and this time it did not reach.
 
-He crossed the line on a morning of moving cloud, because there was nothing else to do with a thing that had been true all winter.
+He took the nest and ate what was in it. He ate the small things first and then the eggs, and afterwards he sat against the pine in the sun with his claws buried in the soft rotten wood, and there was nothing in him that felt any particular way about the pine at all.
 
-The forest took him in the way deep water takes a stone. The trees closed over behind him, and the sky became a thing in pieces, and the light came down green and broken, and the sounds of the slope-world went away and were replaced by a stillness that was not still at all but full, full of small doings at distances without number. The ground under him was different — deep and soft and old, made of the forest's own body, season after season of the forest lying down and becoming ground. He walked it slowly, because the quiet thing in him had the whole of a new country to read, and reading was what kept beasts alive in countries they had not earned yet.
-
-And the forest knew him before he knew it. Where he passed, the small doings turned their voices down; the little bones of the undergrowth went still and stayed still while he went by, the way grass goes still before the wind that is still far off. His blood was an older and higher word than the blood of the low things, and the low things hear the higher word in the blood, from before learning, and bow to it without knowing what bows. He did not know this either. He knew only that the reading of the new country came easier than it should have, and the quiet thing kept the fact the way it kept all facts, without a name for it.
-
-And his blood answered. That was the strangeness of it, and the truest thing of the day. The slope had been a place to survive; the wood of the outer trees had been a place to watch from; this was a place his body knew before he knew it — the deep shade, the cold seep-water, the moss over the stone, the long green silence — knew it the way the jaw knew the holding, the way the sleep knew the fullness, from the inside, from before learning. Something in him that had been standing up against the mountain all his life lay down in the forest and was at rest, and he did not understand it, and did not need to understand it, because understanding was not the requirement. Belonging was the fact, and the fact was enough.
-
-He made his den the way the winter had taught him to make dens — roots and ground and the shape of water nearby. There was a fold where a giant had fallen across a ravine a long age ago, and the rains had hollowed under it, and the ravine had a stream at its floor that came out of the deep forest cold and unhurried, and the hollow was dry and hidden and had a way out that was not the way in, which is a thing the winter had written into him in the white nights, in the language of the taught. He slept there while the new country went on outside, and the sleep was deep, and the forest kept him the way the hollow had kept the egg, and the keeping was not noticed, and that was the point of it.
+He had come up the slope a hatchling with a punctured face and he was going down it as something the pine was afraid of. That was the whole year, in one tree.
 
 ---
 
-It was in the first deepening of the green that he met the first of the forest's true people.
+The pull had been waiting for the thaw all winter.
 
-He had been reading a trail along the ravine's shoulder — not a stone-runner trail, something heavier, something that walked the same way every day the way the mountain walks its seasons — when the wind brought him the smell, and the smell was new. Not new the way the green was new, which was many things at once; new the way one thing is new, whole, entire, a thing he had never met in all the mountain's teaching. There was life in it the way he had life in him. Not the plain heat of the stone-runners and the nesting things, the small warm lives that were only warm; this was warm and MORE, and the more was the thing he had been eating toward all his life without knowing it had a name — the faintness, the thing the world was full of, the thing his body drew like roots draw water. It lived in this smell. A little of it. Enough.
+It came on the first truly warm morning, thin and far, from the low country south of his slope, and it was not a smell and not a sound. It was a direction. Something down there was the right shape for him, and had been the right shape all winter, and had only been hidden by the cold.
 
-He followed the reading the way the reading asked to be followed, slow and downwind and off the ground where the ground told, and he found it at the stream's bend where the sun came through the canopy in a piece.
+He went.
 
-It was a low thing, thick in the shoulder, bristled along its back with stiff dark hair that stood like the winter's frost-needles, and it rooted in the soft ground of the bend with a long snout, and it was alone, and it was smaller than the hill-cat, and it was the first thing he had ever met that carried the world's more in its own flesh. He lay above it in the fern and read it the way the quiet thing read everything, and the reading said small, and alone, and bristled, and unaware, and the hunger said now, and the quiet thing looked at the bristles and said once, carefully.
+The going took him farther than he had ever been. The slope fell away into a valley of deep mixed green, and the trees in the valley were bigger than his trees, and the ground between them held more tracks than he could hold in his head at once. And as he came down among them, the country opened in him.
 
-He came down on it out of the fern the way the winter had taught the ambush and the spring had taught the speed, and the fight was short and sharp and honest. The bristles met his muzzle like the frost-needles they were, and the pain of them went up into his skull, and the thing screamed under him and drove its shoulder into the ground to throw him, and the red thing rose to make it loud and long, and the quiet thing held the jaw to its work instead, and the jaw found the place behind the bristled shoulder where the hide went soft, and closed, and held. Take, and keep. The thrashing went on and went down and went still, and the stream went on beside them, cold and unhurried, and the forest said nothing, because the forest says nothing about its own laws being kept.
+It was not a thing he could have described. It was like warm water around a body that has been cold for a long time. His blood, which was thin and young and mostly silent, sat up in him and answered the green.
 
-The eating of it was the deepest eating of his life, and the depth was not in the meat. The meat was good — the green season had fattened it, and hunger made it sweeter — but beneath the meat was the more, and the more went into him the way nothing had ever gone into him, familiar and strange at once, like meeting a thing he had been made of and had never met. The faintness that he drew from the air and the snow and the sleeping world, he took from this flesh whole — and the taking was more than the jaw's work, because some of it came to him from beyond the touching, the warmth of the flesh flowing toward him out of the distance of a breath, the way water flows toward a mouth it has been promised to, thin and strange and his, as though the air itself were being drunk. He did not think about it, because there was no thinking in that hour, only the old deep pull of his kind waking in him for the first time, and drinking. It settled into him and became him the way everything became him, only more so, only deeper down, in the place under the scales where the winter had been quietly refining its blade. When the fullness came, the deep sleep came down on him in the green light of the stream's bend, and it was the deepest sleep of his life, and the forest stood over him like a roof, and did not let anything come.
+He walked on through it with his head up and something in him that was not hunger and not fear standing the whole length of his spine. The forest was the country of his kind. He had not known there was such a thing as a country of his kind.
 
-He woke to a world that had changed again, because he had changed again. The green country had more in it than it had had before the sleep — he could feel the lives at every distance the way he had felt them before, and now there were lives among them that carried the more, and he could tell them apart, the plain warmth and the warmth-with-more, the way his nose had learned to tell the morning snow from the evening snow. The bristle-cuts on his muzzle were healing the way his body healed everything, quietly and completely, and his skin felt close on him, and full, the way it feels when the growing has been real. He stood at the stream and drank, and the water gave back a shape he was still growing into, and the forest went on around him, full of the more, and the more was no longer a mystery. It was a country. He had only met the first of its people.
+The forest knew him too.
 
----
+He felt that by the afternoon. The low lives of the valleys — the ground-birds, the small burrowers, the pale things in the fern — went quiet as he passed, and not the ordinary quiet of a passing beast. It went further than that. In one old hollow he came up on a family of fox-kind at a den and the whole family lay down flat in the fern with their ears back and their eyes on him, and did not run, and did not move, until he was gone from their country.
 
-The green season deepened, and the country gave, and he grew into it, and then the forest showed him the thing that men are.
+He was not big and he was not old. But he walked through the low country like weather, and the low country lay down before him, and he did not have the learning yet to wonder why.
 
-It came to him by sound first, far off in the fern country across the ravine's far shoulder — the broken eager cry of the spirit hounds, and under it the flat hard sounds of the upright voices, and the sounds were moving, and the moving had a shape he had learned in the white wood, which was the shape of a chase. His body went still in the green shadow the way it had learned to go still, and the quiet thing did not say hide this time; it said read, and he came forward through the forest the way the forest let him come, belly low, place to place, shadow to shadow, reading the chase by its sounds the way the winter had taught him to read the snow by its smell.
-
-They had run the thing down in a break of the ferns where a storm had thrown the trees, and he came to the edge of the break and lay in the tangle of a root-wall and looked down at it, and saw the whole of it, and the whole of it went into him and stayed.
-
-The thing they had run was a quick slender beast of the fern country, gone to ground at last in the broken trees with the spirit hounds ringing it and the upright things coming up behind, and the end of it was fast and not long — the cold shining shapes did their distance-work, and the quick beast made its last stand with the courage of the cornered, and went down, and the spirit hounds were called off with the flat hard sounds, and the upright things stood over the kill, and then began the thing he had no shape for, the thing that was more than killing, the thing that made killing only the door of it.
-
-The years came out of the dead thing.
-
-He saw it with his whole being, not with his eyes alone, because it was not an eyes-thing. Over the body of the quick beast, in the still green light of the storm-break, there gathered a brightness, and the brightness was a ring, a circle of it, turning slowly, and it was the color of sun on the seep-water, pale gold, and it was the most familiar thing he had ever seen and the most terrible, because he knew what it was the way he knew his own jaw — it was the beast's MORE, all of it, gathered, the faintness it had drawn all its life out of the air and the ground and the green world, its whole growing made visible and held there turning over its own body, waiting. Every scale on him stood. Every drop of his blood knew the thing that hung there, knew it for what it was — the years, the whole years, everything a beast becomes — and the red thing in him did not rise, because this was not a thing the red thing had any answer for, and the quiet thing in him did not move, because the quiet thing was looking at the upright thing that stood under the turning ring, and the upright thing was reaching for it.
-
-The ring went down over the upright thing and was taken in.
-
-He lay in the root-wall while it happened, and his body kept it the way his body kept everything, all of it, all the way down. The dead beast lay in the ferns emptied, and emptied was the word for it, emptied in a way no eaten prey was emptied, because what he took from his kills was what his nature gave him leave to take, and what had been taken here was the WHOLE of it, the years themselves, the shape that had stood over the body turning slowly, gone now into the upright thing, into the thing with the cold shining death and the spirit hounds and the flat hard voice. The men did the field-dressing with their hands, and took what they wanted of the meat and the hide, and left the rest, and went away through the fern country with their spirit hounds and their fullness, and the forest came back to the storm-break when the last sound of them had gone, and the birds returned, and the green light went on.
-
-He came down to the body when the forest had settled, and stood over it, and smelled the gone-ness of it. The blood was still in it, and the meat was still in it, and the warmth was still leaving it, and none of that mattered, because the more was gone, and he stood in the green silence and knew, in the wordless way his kind knows, the whole of the thing the winter had only shown him the outside of: that the upright things did not only kill. They took the years. They took the thing a beast was, the whole growing of it, the shape that stood turning over the body — and they took it into themselves, and went on.
-
-The red thing rose then, and it was not the red thing of the hungry nights. It was deeper than that, and older, and it looked down-slope of the mountain, in the direction the upright things had gone, and it did not pull him to run at them, because the quiet thing stood in him now like the ravine wall, and the winter's whole teaching stood with it, and the shape of the cold shining death stood with it, and the shape of the turning ring stood newest and deepest of all. He stood over the emptied beast until the feeling went down into him and became what such feelings become in a beast that survives — not a thought, because there was no room yet for thoughts, but a place, a deep place, a keeping, the way the mountain keeps everything that falls on it.
-
-He ate what was left of the quick beast, because nothing of a kill is refused, and because the eating was his own old law, and the law was his, and the keeping of it was a kind of answer. And then he went back to the ravine den through the green evening, the forest going up around him in the dark, full of the lives that carried the more, and he lay down in the roots-house with the stream talking at the floor of the world, and the sleep took him deep, and the forest kept him, and the keeping was not noticed, and that was still the point of it.
+He made his den before the dark, in a bank of old roots above a stream, and he made it as his kind makes things: one way in, which he did not use, and one way out, which he did.
 
 ---
 
-The first true summer of his life came in over the forest the way summer comes, whole and without hurry. The green darkened to its deep color; the stream came down smaller and warmer; the lives of the country made their summer shapes, and he made his among them, no longer a guest in the green world, no longer the smallness the mountain had hatched. The slope was behind him now, the way the shell was behind him, the way the white country was behind him — each of them a thing he had grown out of and kept, because nothing that teaches is ever lost, only gone under, the way the ground keeps the seasons.
+The bristle-back was the first thing that fought him for the valley.
 
-He was of the forest now. The forest's people were his people — the plain warmth and the warmth-with-more, the bristled things and the quick things and the small patient things of the moss, all of them under the law, eat beneath you and fear above you, and the law had a shape he had not been taught before this summer, which was that there were hunters of the law itself, things outside the law that took the years. That shape lived in him now, in the deep place, kept.
+He found it at the stream bend in the morning, a low thick rooting beast with a snout in the mud and needles along its back, and it was not afraid of him. He knew that at once, and it was strange: it had looked at him and gone on rooting, and this dull fat thing had read him better than the foxes had.
 
-On the hot nights, when the forest breathed slow and the stars stood over the canopy's breaks, he lay at the mouth of the ravine den and felt the world's more moving in the dark the way the winter had taught him to feel the faintness, only wider now, and deeper, and among it, far down-slope of the mountain beyond the shoulder, the small kept fires burned in their season, and he looked at them the way he had learned to look — without the red thing's pull, without the flatness of fear, with the whole of the winter and the whole of the green standing behind his eyes.
+He watched it all morning. It was slow. It had short legs and a heavy shoulder and it tore roots out of the bank with its snout and ate them. Every time anything came near it — a bird, a hare, a lizard-kind — it swung its head and the needles along its back stood up with a wet tearing sound, and the thing that had come near went away.
 
-The fires burned, and the forest breathed, and the years of him went on growing the way his years grew, in the dark, in the deep, in the way that had no announcement and needed none.
+But he had watched the stone-runners, and the trick was the same trick. He only had to be patient and to take the right moment.
+
+He came at the bristle-back from behind and above, off the bank, at the moment when it had its whole snout buried in the streamside mud. His jaws went onto its neck.
+
+The needles came up.
+
+He learned about the needles in the first heartbeat. They raked his muzzle and the side of his face when the beast humped and twisted underneath him, and they went through his lip and the soft under his jaw, and the pain made his grip loosen for half a breath, and he felt the strength of the bristle-back come up into his jaws like the strength of a tree.
+
+Then it was only holding. The beast hurled itself against the bank and rolled and drove its needles into him, and he got his forelegs around it and set his weight, and the two of them went down the bank into the stream together. The water came up red around his jaws. He held through the heaving and the tearing, and he set the hold deeper each time the beast screamed, and the screaming went on for a long time out there in the stream where no other beast could hear it.
+
+When it stopped, he dragged it up the bank and ate it.
+
+And this was different.
+
+The meat was heavier than any meat he had ever taken, and it was not just meat, because when he swallowed it everything in it that had been alive went down with it. He felt the bristle-back's life go into him — the years of it, the strength of it, the rooting and the digging and the going down into the cold. And his blood drank that in as dry ground drinks rain, and he understood, with a feeling that went through his whole body like a shiver, that the beasts of the forest were meat that fed more than the belly.
+
+Then he felt something else, and it made him stop eating with his head down.
+
+The air around the kill was not empty any more. He was drawing on it. A thin, warm, faint thing was coming off the whole stream bend and going into him, through the hide and the scales and the blood, the same way the mountain air had gone into him in the hungry weeks of winter, only this time it was moving because he was pulling it.
+
+He did not make it happen. It had always been there in him, and the winter had laid it down and the months of eating had thickened it, and now it came out of him whole at his first real meal.
+
+Devouring. He had no word for the thing he was doing. His kind had one, and every beast of his line down all the years had done the same, and none of them had ever needed to say it.
+
+He ate until he could not eat any more, and then the deep sleep took him where he lay, and the sleep worked on him longer than any sleep had worked before.
+
+He woke to a world with more in it.
+
+It took him most of a morning to understand what had changed, because it was not his eyes and it was not his nose. Everything he looked at had a second thing in it now, as a rock has a warm side and a cold side. Some lives glowed. The beetles on the rock had a faint flat look to them. The stone-runners, sitting up on their haunches watching him, had something small and bright in them, and the bristle-back's meat had left a warm banked coal low in his own belly that he could almost see when he turned his mind to it.
+
+He had begun to be able to tell the small lives from the great ones. He could not read it yet. He could only feel the difference.
+
+But he had felt it. And that was a door opening.
 
 ---
+
+The men came down the fern country eleven days later, and that day gave him the worst lesson of the spring.
+
+He had been working the slopes above the fern country for a week, and he was up on a root-wall above the long grass when the fern country went loud.
+
+The change came at him across the whole valley at once: the hounds' cry, off in the middle distance, the flat hard voices of the upright things, and under both of them a noise he had never heard — a fast rustling that ran through the fern like water going downhill, as if the whole stand of grass were moving.
+
+A slender thing burst out of the fern at the bottom of his wall.
+
+It was quick. He had never seen a beast run like that — low to the ground, all legs and speed, its coat the color of the fern and its whole body made for going, and it came through the grass with the hounds behind it and gained on them at every length.
+
+He had seen the death that has no length. He had seen it take a deer-kind in the middle of a stride. He knew what was coming.
+
+The death came. The flat hard sound, once, from the trees at the far side of the fern country; and the slender beast went down in the middle of its run, at full speed, and slid a length through the green and did not move.
+
+The upright things came out of the trees and walked across the fern to the body at their own pace, the walk of men who already know how a thing ends.
+
+There were two of them. One was old, and one was young, and the old one had the long thin thing over his shoulder and the young one carried a short bright blade and a pack. The hounds came up and stood around the body with their heads down, respectful, and the two men stood over it, and then the old one crouched down and did something he did not understand.
+
+He watched from the root-wall without breathing.
+
+Something rose out of the slender beast.
+
+It was not blood. Blood sank and spread and went dark, and he had seen blood a hundred times. This thing came up out of the body as a light: a ring of light, thin and bright and pale gold, turning slowly in the air above the beast's back, and it hung in the fern country's warm air like a thing being offered.
+
+The young one came forward and knelt down over the body. And the ring went into him.
+
+He did not see how it happened. The light went down out of the air and into the young man's body as a splash of water goes into cloth. For one moment the whole of the young one's frame stood lit from the inside with a pale gold glow. Then it was gone, and the young man stood up with his hands shaking and his face shining, and the old one put a hand on his shoulder and said something short and hard that the young one answered with a laugh.
+
+The body on the ground was just a body after that.
+
+He lay on his root-wall for a long time after the men had gone with their hounds and their kill, and the thing he had just seen stayed open in him like a wound.
+
+They did not take the meat of that beast at all. They left most of it. What the men had come the whole length of the fern country to take, and what they had carried away with their hounds and their long flat death, was the light. The years.
+
+They take the years. That was the thing. Everything that had ever been hunted and eaten on the mountain was eaten for the belly. These creatures hunted for the light that lived in a beast's body, and when they had it, they carried the light away inside themselves.
+
+He came down off the root-wall at dusk, when he was sure they were gone, and stood at the body.
+
+The slender beast was still warm. Its eyes were open and its legs were folded as they had folded when it went down at full speed. And the pale light that had been standing in it — the warm banked coal he could now see in every living thing when he tried — was gone out of it entirely. He looked at it with the new sense he had woken with, and where the beast's years had stood there was a flat grey nothing, like water where the spring has stopped.
+
+He sat down beside it, looked at it a long time, and then ate it.
+
+There was no more in it than in the beetles of the rock seam. The meat was meat; the years were gone. He ate what was there and left the rest for the ravens, and going back up the valley he understood that the men of the mountain were hunting a different thing than food, and that the thing they were hunting, some part of him had always known was the true meat of the world.
+
+And there was one more thing, and it stayed with him longer than all of the rest.
+
+When the ring had risen out of the beast and the young man had knelt beneath it, the thing inside him that stood near the surface of him now. The red thing, the one that wanted to go down to the lights and tear and take — had come up in him so hard that his vision had gone narrow, and he had lain on the root-wall with his whole body trembling at the wrong end of the valley, tasting the light in the air as he tasted meat.
+
+He had wanted, for the first time in his life, to eat the years of a creature that was already dead and already in other hands.
+
+The red thing was deeper than hunger. He knew that now.
+
+He held it with the whole of the winter he had in him, and it did not calm. He lay on the wall and let it stay up in his chest until the last of the men's smell went off the fern country, and then he went down to the ground and put his nose in the cold fern and rang the heaviness out of his legs as a body rings out a long run.
+
+He walked back to his roots-house in the dark and lay down, and the pale light stood over the emptied body in his memory all night.
+
+He was of the forest now, and the forest had told him what its worst secret was. Men did not only kill the beasts of the mountain. They took the years out of them and wore the years themselves, and one day, as the pull was pulling him, the years would be his. And behind his patience and his little jaws there would be a long line of other creatures who had wanted exactly the same thing, and the men who were better at it than any of them.
+
+Then the deep sleep came for him, and for a while the world was quiet.
+
+---
+
+They had the fire going before the light went, and the two of them ate sitting on their heels with the ring-beast's haunch turning over the coals.
+
+"It went in clean," said the young one. He kept turning his left hand over, looking at it. "The whole light. It went in at the palm and it went up my arm and it sat down in my chest."
+
+"It will sit there," said the old one. He was a generation older and he took his meat carefully, because he had been on this line long enough to know what a good day was worth. "You will feel it tomorrow, when you carry the pack up the fern slope."
+
+"Will I be stronger?"
+
+"You will be heavier," said the old one. "And you will be warm in the mornings before the fire is lit. That is what a first light gives a man. Strength comes later, and it comes with work."
+
+The young man put his hand down and looked at the beast instead: the great grey carcass lying on the moss, the hide cut down the belly where the old man had done the work, the meat left lying where it fell.
+
+"Four this season," he said. "Four lights. One for each of us, one for the man at the water, one over for the lodge."
+
+"The lodge takes the pelts," said the old one. "We take the lights. That is how the line has always worked, and the reason it works that way is that the line is ours."
+
+"The lodge says the ground is theirs."
+
+"The lodge says a great many things," said the old one. "The lodge sits in a warm room and counts what we carry down. Eat. Then sleep. Tomorrow we walk the fern country east and I want the marks read before noon."
+
+"What is in the fern country east?"
+
+"Three beasts with more years on them than this one," said the old one. "Two cows and a bull. Or there were, three weeks ago, when I walked it. The bull has been in the same break two winters."
+
+"And the light off a bull that age?"
+
+"Bigger than this one, if the ground gives it," said the old one. "And you do not take it with your hand out. You take it with a line, a bow, and eleven hours of standing still."
+
+"Eleven hours of standing still."
+
+"Eleven hours. You will learn to stand." The old one lifted his head and read the sky for a moment. "It will rain before morning."
+
+"Then it rains on the kill-ground."
+
+"Then the trail reads clean behind us," said the old one, "and the ravens do the rest of the work. Where is the hound?"
+
+"At the camp, with my brother."
+
+"Good. He is not to walk a kill-ground for three days, or he will eat the hide off it and we carry nothing down."
+
+"And the bow?"
+
+"Strung and dry," said the young one.
+
+They ate. The young man turned his hand over one more time in the firelight and then put it away in his sleeve, and the old man watched the small gold light move under the skin of his wrist and said nothing about it, because the boy had walked twelve seasons of lines to get it.
+
+He banked the coals and lay down on his side of the fire, and the fern country stood around them in the dark, going about its business.
 
 ## Footer
 
-- Word count (body): ~3,550.
-- Chapter time: DL 3662 — the thaw through the first deepening of summer (real age ≈ 8 months → ≈ 18 months; exact figures panel-only).
-- Gate: none — Chapter 4 waits on the author's go.
-- Anchors touched this chapter (mirrors updated same turn): DL 3662 — THE THAW: the winter's teaching become ground (cumulative law — the slope is now a slope; the broken-pine beaks taken where they once threatened); THE PULL ANSWERED: he crosses into the deep outer forest and his blood answers it (belonging before learning; the Earth-Dragon bloodline's quiet recognition of dragon country — subtle, unstaged, no lore); THE FOREST KNOWS HIS BLOOD — the low lives lower their voices and bow in the blood before him (bloodline suppression, DD-10; young and thin but real — the author s11 correction written into prose); the ravine den made (roots-house law kept: a way out that is not the way in); FIRST SPIRIT-BEAST PREY — the bristle-back of the stream bend (ten-year class, carries the world's more in its flesh) [design]; the ambush read and paid for once (bristle-cuts on the muzzle, healed quiet and complete); the deepest devouring yet — the faintness taken whole from living cultivation, and part of the taking came FROM BEYOND THE TOUCHING — THE FIRST FLICKER OF THE RACE SKILL, Devouring Heaven and Earth (DD-09), waking in him for the first time, drinking the air — causal chain complete (possibility: the outer forest's true people; substrate: his devouring nature and its innate skill made for exactly this; cost: the wound, the patience, the risk); the deepest deep sleep → waking with the world's more now legible (the plain warmth and the warmth-with-more told apart) — SENSE road step, BODY refinement visible (SB-07); THE RING WITNESSED — the men run down a quick slender beast of the fern country and he watches from the root-wall: the years leave the body as a turning ring of pale-gold light and are taken IN by an upright one; he learns in the wordless way his kind knows that men do not only kill — THEY TAKE THE YEARS; bloodthirst's new form (deeper than hunger-rage; held by the quiet thing + the whole winter's teaching — survived); the emptied prey eaten anyway ("the law was his, and the keeping of it was a kind of answer"); he is of the forest now — the slope kept the way the shell is kept. Canon adherence: ring witnessed at beast-distance, color and shape per SB-02 (hundred-year class = pale gold/yellow), no human ever knows he was there, nothing staged; Talent never named; the adaptive modes shown as story (environmental/exploratory/reactive/integrative; directed still young); no numbers in prose; English-only.
+- Word count (body): 3,389 (verify.py, s36 gate). Spoken dialogue: 30 lines (8.9 per 1000w). Prose metrics (s35 house-grammar method, prose-only): average 18.8w, median 14w, longest 60w; no sentence over 60w; motif word "the way" x0.
+- Chapter time: DL 3662 — the thaw into early summer (exact figures panel-only).
+- Gate: standing delegation (2026-09-20). HUMAN SCENE: one scene at the fern-country kill — the young hunter's first light going into him, the old hunter's talk of the line, the count, and the bull in the east — written at house density. The dragon watches from the root-wall, understands nothing, is never seen (firewall stands). Beats held: the thaw's teaching become ground (the nest taken in open); THE PULL ANSWERED (his blood answers the green — belonging before learning); THE FOREST KNOWS HIS BLOOD (the low lives go down before him); the roots-house den (a way out that is not the way in); FIRST DEATH FOUGHT — the bristle-back taken by jaw-hold, paid in the muzzle cuts; the deepest devouring yet and THE FIRST FLICKER OF THE RACE SKILL (the air drawn, the meal feeding more than the belly); waking with the world's more legible (the plain warmth and the warmth-with-more told apart); THE RING WITNESSED — the slender beast run down, the pale-gold ring rising, the upright one kneeling under it and taking it in; the lesson: men take the years; bloodthirst in its new, deeper form, held; the emptied body eaten anyway.
+- s36 rebuild note (2026-09-20; author, verbatim: "Now rebuild chapter 1 to 12 completely" ): chapter rewritten in full at the house grammar (foundation/HOUSE_STYLE_AUDIT.md): scene-first, short plain sentences, scenes shown moment to moment; soul-beast rule (SB-11) held — every creature a soul beast, men's beasts the spirit hounds.
 - Figure audit: zero count-numbers in prose. All age/cultivation figures panel-only.
-- s32 correction (2026-09-20; author, verbatim: "soul land have soul beast not normal animal, even commonest thing is blue silver grass, correct everything even things i don't tell"): the kept hunting beasts are the spirit hounds (was: dogs) through the ring-kill reading.

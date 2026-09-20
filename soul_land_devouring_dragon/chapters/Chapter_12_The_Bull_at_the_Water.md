@@ -10,7 +10,7 @@ He learned the beast's whole day. Where it slept, on a dry shelf above the ravin
 
 He did not know, that first week, what his own word was costing him.
 
-It came to him the way the important things came now, in the reading of the country. The heavy kinds of the warm breaks were drifting. The old feeding lines along the low breaks were being walked out and left, and the heavy ones were up on the high ground where they had never fed before, and the run he had marked the thick-paw on stood with his kill-word still on it and no beast near it.
+It came to him as the important things came now, in the reading of the country. The heavy kinds of the warm breaks were drifting. The old feeding lines along the low breaks were being walked out and left, and the heavy ones were up on the high ground where they had never fed before, and the run he had marked the thick-paw on stood with his kill-word still on it and no beast near it.
 
 He put the two things side by side. His own mark was written in the ground in a dozen places now, and it was a word that said: this ground is watched, and I am near it and eating. The beasts of the green could not read a name, and they did not know what he was, but they could read what the ground read, and the ground read danger, and they had moved.
 
@@ -54,7 +54,7 @@ He came up with the mud in his eyes and the bull was on him. It had turned faste
 
 Then the jaw had the bull's head.
 
-He set it deep, the way he set the thick-paw, but the bull's neck was the thickest neck he had ever closed on, and the old beast did not scream and did not run. It braced. It went down on its forelegs with its whole weight set forward and dragged him through the shallows, and it threw him off its head twice, and both times he came back onto it, because that was what had to be done and there was no art in it past that. His jaw locked higher, into the base of the skull. The bull rolled in the water. It rolled again, and its legs were in the air, and the water came up brown around them both, and it was still rolling when the rolling began to slow.
+He set it deep, as he set the thick-paw, but the bull's neck was the thickest neck he had ever closed on, and the old beast did not scream and did not run. It braced. It went down on its forelegs with its whole weight set forward and dragged him through the shallows, and it threw him off its head twice, and both times he came back onto it, because that was what had to be done and there was no art in it past that. His jaw locked higher, into the base of the skull. The bull rolled in the water. It rolled again, and its legs were in the air, and the water came up brown around them both, and it was still rolling when the rolling began to slow.
 
 The light came up out of the old body while the body was still moving.
 
@@ -100,9 +100,9 @@ Then he took the iron in both hands and walked three lengths toward it, and he s
 
 He did not know what they said. He was not meant to, and it would have changed nothing if he had.
 
-He took them out of the country the way the ground carries a secret — by not being anything, for as long as it took.
+He took them out of the country as the ground carries a secret — by not being anything, for as long as it took.
 
-They stood at the water a while. They read the shallows, and the bull's body, and the bank, and the hound's sitting. Then they went back down the water line the way they had come, and he lay in the fern and let the stillness down slowly. The letting-down was its own cost: the ground had to learn him again after a stillness that deep, and the learning took the day.
+They stood at the water a while. They read the shallows, and the bull's body, and the bank, and the hound's sitting. Then they went back down the water line as they had come, and he lay in the fern and let the stillness down slowly. The letting-down was its own cost: the ground had to learn him again after a stillness that deep, and the learning took the day.
 
 He slept in the fern that night, one country of sleep, and woke with the cost paid and the meat settled and the plates tighter on his back.
 
@@ -116,15 +116,37 @@ At the water's edge, when the men had come back down the bank and stood in the s
 
 Nobody spoke for a moment. The water went past their boots, brown and quick.
 
+"You saw the fern," said Gao Tie. "Thirty lengths of open fern, and nothing in it."
+
+"I saw it," said Xiao An. "I walked it twice."
+
+"And the hound?"
+
+"The hound sat," said Xiao An. "The hound does not sit for nothing."
+
+"Beasts leave sign," said Gao Tie. "A beast that size leaves sign going in and sign going out. There was no sign going out."
+
+"There was no sign going in," said Xiao An. "Only the mark at the water and the bull's blood on the bank. Whatever ate the bull came out of the green, took it, and went back into the green the same way it came."
+
 "The ground at the fern," said Old Qin. "Did you see it? Nothing. No track, no sign, no beast standing in thirty lengths of open fern with a hound pointing at it." He looked at the fern a while longer. He was not a man who was ever in a hurry. "That is past reading," he said. "That is a thing that signs, and does not show, and now it shows that it can stand in front of us and not be seen."
 
 He took out the list, and the brush, and the ink, and he wrote, and the writing was careful and slow, as always.
+
+"What do we put down for it?" said Gao Tie. "A name? We have no name. A kind? We have no kind. We have a mark and a bank and a smell the hound will not leave."
+
+"We put down what we have," said Old Qin.
 
 "Two lines on it now?" said Gao Tie.
 
 "One line, and the sign of the seen on it," said Old Qin. "When a line has been seen, the list goes to it. We do not go hunting the warm breaks again for the deep lights. We go where the country says the mark has been, and we find what leaves these signs, and then the list will have its face and its name on it, and the season will have paid for itself twice."
 
 He folded the list and put it away. "The stag's light and the bull's if we can take it — those go down the road with the rest. The tables buy depth for frames that have grown to hold it. That is the market, and the market is the work. But the mark —" and he looked one more time at the empty fern, "the mark is a line now, and a line does not sit on a list forever."
+
+"The bull goes down the road with the stag's," said Old Qin, "if we can take the light off it in the state it's in, and we can. The tables pay for depth, and we have a season's bread standing in that water. That is settled."
+
+"And the other thing?" said Gao Tie.
+
+"The other thing is a line with no face on it," said Old Qin. "We do not hunt what we cannot see. We hunt where it has been, and we read it, and one day we will read it wrong and it will be standing in front of us. When that day comes, we will find out what it is. Until then, the list."
 
 They went back down the water line, and the hound went last, and twice it turned its head.
 
@@ -148,11 +170,13 @@ It would come with eyes.
 
 ## Footer
 
-- Word count (body): 3,010 (verify.py, gate of the s34 style rewrite; 13 dialogue lines).
+- Word count (body): 3,279 (verify.py, s36 gate). Spoken dialogue: 32 lines (9.8 per 1000w). Prose metrics (s35 house-grammar method, prose-only): average 17.8w, median 14w, longest 55w; no sentence over 60w; motif word "the way" x0.
 - Chapter time: DL 3664 green season at its height (real age ≈ 58–60 → ≈ 60–62 months; exact figures panel-only).
 - Gate: standing delegation (2026-09-20). THE PARALLEL PANEL: one short panel only this chapter, at the water's edge after the crossing (the author's s34 ruling: panels only when needed — the reader's-side scene the beast cannot carry; short; never a planning re-tell; the beast's own account of the crossing is the chapter's spine). The dragon never hears, never sees; separate scene, separate hour; the firewall stands.
-- s34 correction (2026-09-20; author, verbatim: "i can't read few lines before i disgusted by how bad is this... THE PARALLEL PANEL when needed what you don't have common sense"): THE CHAPTER REWRITTEN IN FULL in plain scene register — the fight at the water shown moment to moment; the crossing held as a real-time scene; the abstraction vocabulary cut back; the two-panel structure reduced to one short panel; the camp planning scene removed from the page. Story beats held: the bull marked and taken at the water; the deepest meal and the bloodline dividend; the crossing and the after-cost; the hound's testimony; the sign of the seen set on the keepers' line; the war's shape changed (eyes, not only hands).
-- Anchors touched this chapter (mirrors updated same turn): (1) THE GREEN AT ITS HEIGHT; (2) THE CRAFT'S COST (the warm breaks shifted — his own kill-word moved the heavy kinds, and the bull with them); (3) THE HUNTING LINE'S two fires and the hound working the water line; (4) THE FIGHT AND THE TAKING at the water — the jaw-work, the deep light read low and purple, the meal, the two reds, the bloodline's green dividend; (5) THE CROSSING — the stillness at its last margin over open ground; the hound stops, sits, tells the men; the men read the bank and find nothing; the ground's day of re-learning; (6) THE PANEL — the hound's certainty; the sign of the seen set on the keepers' line; the deep lights to the market (ring-slot law, ER-12); the list's next going toward the mark; (7) his side — "a hound that has found you once can find you again"; the war's next line comes with eyes.
+- s34 correction (2026-09-20; author, verbatim: "i can't read few lines before i disgusted by how bad is this... THE PARALLEL PANEL when needed what you don't have common sense" ): THE CHAPTER REWRITTEN IN FULL in plain scene register — the fight at the water shown moment to moment; the crossing held as a real-time scene; the abstraction vocabulary cut back; the two-panel structure reduced to one short panel; the camp planning scene removed from the page. Story beats held: the bull marked and taken at the water; the deepest meal and the bloodline dividend; the crossing and the after-cost; the hound's testimony; the sign of the seen set on the keepers' line; the war's shape changed (eyes, not only hands).
+- Anchors touched this chapter (mirrors updated same turn): (1) THE GREEN AT ITS HEIGHT; (2) THE CRAFT'S COST (the warm breaks shifted — his own kill-word moved the heavy kinds, and the bull with them); (3) THE HUNTING LINE'S two fires and the hound working the water line; (4) THE FIGHT AND THE TAKING at the water — the jaw-work, the deep light read low and purple, the meal, the two reds, the bloodline's green dividend; (5) THE CROSSING — the stillness at its last margin over open ground; the hound stops, sits, tells the men; the men read the bank and find nothing; the ground's day of re-learning; (6) THE PANEL — the hound's certainty; the sign of the seen set on the keepers' line; the deep lights to the market (ring-slot law, ER-12); the list's next going toward the mark; (7) his side — "a hound that has found you once can find you again" ; the war's next line comes with eyes.
 - Figure audit: zero count-numbers in prose. All age/cultivation figures panel-only.
 - s32 correction note (2026-09-20): "soul land have soul beast not normal animal, even commonest thing is blue silver grass, correct everything even things i don't tell." — held in this rewrite.
-- s33 correction note (2026-09-20): "A thousand-year second ring,"?, what are you even saying what you know how even this rear even in soul land 2. — the ring-slot law (ER-12) held in this rewrite.
+- s33 correction note (2026-09-20): "A thousand-year second ring," ?, what are you even saying what you know how even this rear even in soul land 2. — the ring-slot law (ER-12) held in this rewrite.
+
+- s36 rebuild note (2026-09-20; author, verbatim: "Now rebuild chapter 1 to 12 completely" ): chapter rebuilt in full at the house grammar (foundation/HOUSE_STYLE_AUDIT.md): scene-first, short plain sentences, scenes shown moment to moment; soul-beast rule (SB-11) held; motif sweep done ( "the way" cut to the house limit).

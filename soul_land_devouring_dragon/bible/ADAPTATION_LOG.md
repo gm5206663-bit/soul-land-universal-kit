@@ -537,9 +537,10 @@ body). The Talent is never named; deltas record its RESULTS.
   standing day after day; the map gains the line it never held (they STAY);
   the race sharpened (same breaks, same hours, same heavy kinds; the spirit hounds'
   voices carried further in the cold air). THE TURN: they took the grey stag
-  of the second water — the beast he had marked for the taking; the ring-
-  light darker than pale gold (purple tier, panel-only; color read, never
-  named). THE WAR OF THE LISTS: his list kept in his blood, their list kept
+  of the second water — the beast he had marked for the taking; the light
+  darker than pale gold DRAWN and gone before he walked the ground (the two
+  kneeling-marks pressed in the moss, the smell of the drawing still on it;
+  purple tier, panel-only; color read, never named — ER-13). THE WAR OF THE LISTS: his list kept in his blood, their list kept
   in their hands, written over the same beasts; no end in the reading. No
   contact, nothing staged.
 - DEVOURING road: the lean days; the warm-breaks' heavy meals; the taking

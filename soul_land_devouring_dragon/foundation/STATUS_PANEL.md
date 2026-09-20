@@ -2,7 +2,7 @@
 CLEAN GLANCEABLE SHEET OF HIM (identity, cultivation, body/height, attributes,
 skills, combat power vs normal soul beasts): bible/HIS_STATUS_PANEL.md
 (author s23 request; updated each chapter).
-Updated: 2026-09-20 (session 34 — the style law: Chapters 11–12 rewritten in full in plain scene register, panels cut to one short scene per chapter; s33 ring-slot law; s32 soul-beast rule). Exact figures live HERE
+Updated: 2026-09-20 (session 36 — the FULL REBUILD: Chapters 1–12 all rebuilt to the house grammar measured in foundation/HOUSE_STYLE_AUDIT.md — every chapter that has a human-side scene now carries it on the page at house density (8.2–10.7 spoken lines per 1000w), prose averages 16.2–21.3 words, no sentence over 60, motif word "the way" cut to 0–1; Chapter 1 alone carries no voices, the recorded beat-forbids exception. s35 house grammar; s34 style law; s33 ring-slot law; s32 soul-beast rule). Exact figures live HERE
 and in ADAPTATION_LOG only; prose never carries numbers.
 
 ## Identity

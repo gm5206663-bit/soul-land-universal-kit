@@ -1,64 +1,189 @@
 # Chapter 10: The Cold Country
 
-The cold came into the deep country the way the deep country does everything — differently.
+The cold came up out of the ground, and he did not believe it.
 
-He had a winter in his bones, the winter of the scree hollow, with its own teachings standing in the deep place: the prey thins, the water skins over, the wind carries further, and the belly is the clock. So when the canopy of the giants began to thin and the green went grey in the breaks, he set his watch by the winter he knew, and the deep country broke his watch the way it broke everything it had not been asked to keep. The cold did not come down out of the sky here; it came up out of the ground, out of the dark waters and the roots and the standing stone, and it arrived before the sky had finished warning, and the heavy kinds of the deep country moved earlier than any reading of his had said they would move, and the first ambush he built on the word of the outer winter stood empty through the whole of the day, and through the night after, and the day after that, and the empty ambush wrote the line that mattered: every country keeps its own weather, and the ledger of one country is only a guess in another.
+That was the first thing the deep country's winter did to him. The outer country had taught him the seasons as a mother teaches: the sky went grey, the wind turned, then the white came. Here the ground itself went cold first, days ahead of anything in the air, and the heavy lives of the deep breaks read it and moved. He came back to his own hunting ground on the third morning of the new cold and found the hollers and the wallows empty, the heavy beasts gone up into the high country where they wintered among the rocks.
 
-The guess cost him the lean days that followed, because the deep country's cold had hidden the heavy kinds in the places he had not yet read — the warm breaks where the ground's own breath came up, the thickets under the standing stone, the deep runs under the roots of the giants — and hunger is a teacher that does not repeat its lessons patiently. He found the warm breaks at last by the nose and not by the guessing, and the first meal of the cold country was eaten standing over the kill with the grey light failing around him, and the quiet thing wrote the winter down as a new country, which is what it was. The deep country had to be learned again. It had let him believe otherwise, and the believing had been paid for, and the paying was the honest price of the believing, and the ledger took the new pages the way the ledger takes everything.
+He did not read what the country had written. He set his ambush anyway, in the wallow where the big ones came to drink, as his outer-country lessons said to do, and he lay in it for three days.
 
----
+Nothing came. On the first day he told himself the beasts were shy. On the second day he was hungry. On the third day he was cold and light-headed and the ambush was clearly empty.
 
-The year-takers came into the cold country too, and the coming changed the race, because they did not hunt the deep country out of the outer country and go home to their fires at the day's end.
+He went up after them.
 
-They brought their fires into the deep country.
+The finding was the whole of the lesson. The heavy kinds had gone up into the warm breaks — folds of the country where the water ran hot under the rock and the snow did not lie — and the warm breaks were where the winter's eating was. He found them by the nose, following the smell of green water up a long gorge, and he came out at the top into a shallow bowl of steaming ground with the heavy kind standing fat and calm in it. He stood in the rim of that bowl with the steam going past his shoulders and paid the account of the three days honestly.
 
-He smelled them first from the far ridge in the last of the light — the smell that has no kind, the smell that is not earth nor beast nor water nor green, the sharp thin smell of the thing the upright ones carry with them against the cold, the light that eats wood — and he stood on the ridge a long time with the smell coming and going on the wind and the quiet thing writing it down, and the writing said what it said: the sharing of the deep country had become the living in it. The year-takers had a winter place down in the breaks among the giants, and the smoke of it stood up through the grey canopy thin and straight in the cold air, and stood there day after day, and the standing of it was a line in the map that had never been in any map of his — the map had held the year-takers as the things that came and went, and now the map held them as the things that stayed.
+The deep country's winter was a new country. It had its own rivers and its own high country and its own rules, and his old map was worth nothing in it.
 
-The race sharpened on that line the way a jaw sharpens on the bone. The prey of the cold country was the prey of scarcity, and scarcity is not shared, and he read the hunt of them over the same breaks he hunted, at the same hours, on the same heavy kinds, and the cold air carried the spirit hounds' voices further than the green air ever had, and the voices were part of the weather of the winter now, the way the frost was part of it, and the quiet thing kept the map of their going-down and their coming-up out of the breaks the way it kept the map of everything, because the keeping of the map was the keeping of him.
-
----
-
-The voice and the veiling learned the cold the way everything learned the cold, and the cold was a harder teacher than the deep summer had been to either of them.
-
-The voice's lesson was paid first, because the voice is spent out of the breath and the blood, and the cold is the thief of both. He called the falter on a heavy one in the grey of a morning and bought the instant and took the kill, and stood over it shaking afterwards the way he had never stood over a taking, because the voice in the cold country took the warmth out of him with the breath, and the warmth does not come back quickly in the cold country, and the quiet thing wrote the line under the voice's lines: the voice spends heat as well as breath, and the winter's voice is a winter's price, and the calling of it must be spent the way all winter things must be spent — only at need, and for the whole of the need, and never once for less. The voice had been his since the deep summer; the cold taught him to be miserly with it, and the miserliness was a climb of its own.
-
-The veiling's lesson came the harder way, through the belly. The deep country's veiling had been learned in the fullness of the deep summer, and the cold country stripped the fullness away, and the veiling went with it — because hunger is a louder word in the blood than fear is, and the veiling had been built to hold against the fear. There was a week in the middle of the cold when the meals went against him and the belly stood like a stone in him, and he walked his trails with the veiling breaking and breaking again the way frost-cracked water breaks under the weight, and the breaking of it in the hunger was written down with the line that mattered, which was that the veiling is not fed on fullness, and never was, but on the attention, and the attention can be held when the belly is stone the way it can be held when the blood is up, if the wanting to hold it is stronger than the belly's word — and by the last week of the cold month the veiling held in the hunger the way it held in the moving, and the deep place of the ledger held the account: the veiling had now been broken by everything that breaks it, and rebuilt after everything that breaks it, and there was very little left in the deep country that could ask it to break.
+He wrote it down, in his blood, as he wrote everything, and went into the warm breaks to hunt.
 
 ---
 
-The bloodthirst came for him in the cold country the way it came everywhere, and the cold country gave it a new shape, because the cold country is the country of the want.
+The men wintered in the deep country, and that was the second thing.
 
-The red thing in the scarcity wanted everything. That was the shape of it — not the red rising of the full summer, the strength boiling over the top of the meat, but the red want, the want with the teeth, the want that stood behind the eyes in the lean week and looked at every life in the breaks as the meal and the whole of the meals. The quiet thing stood against it the way it had stood in the summer, and found the summer's standing did not hold, because the red thing of the want does not charge and cannot be ridden in the running — the red thing of the want waits, and whispers, and spends the hunt before the hunt begins.
+He smelled their fire before he saw their smoke. It came to him one grey afternoon on a wind from the far ridge, the sharp thin smell of the light that eats wood, and his whole body went still, because the fire-smell belonged to a place he had left behind: the lodges, the pass, the outer country. Men did not winter in the deep country. That was a rule he had carried since his first winter, written into the same page as the cold coming down from the sky.
 
-There was a day in the lean month when it nearly spent him. He had the grey stag of the second water under his reading — a heavy one he had marked in the ledger for the taking, marked with the days and the hours of it and the ground of it, the way the deep place marks the things that are kept for — and the red want came up out of the week's hunger and took the choosing out of the taking, and he went in before the ground was right and the hour was right, and the grey stag read the coming that was not veiled because the red want had eaten the veiling on the way in, and the grey stag was gone into the breaks like the smoke goes up, and the day was lost, and the hunger stood where it had stood, and the quiet thing wrote the day down in the place it writes the days that must not be repeated: the want sharpens the hunt or the want spends the hunt, and there is nothing between, and the choosing of which it does is the whole of the riding.
+He went up on the ridge on the second morning and found them.
 
-The choosing was learned the way everything was learned, and the learning showed its work on the next taking, because the next taking came at the end of a stalk built over days in the cold grey of the warm breaks, with the want standing sharp in him the whole of the way and kept to the line — the want as the edge, not the rider — and the spring went at the hour and the ground that the ledger had marked, and the voice was spent at need and for the whole of the need, and the taking was clean, and the red thing was paid out of the payment, and the quiet thing kept the difference the way it keeps everything: the want had been carried through the hunt, and the hunt had not been spent.
+There was a fold in the breaks across the valley, sheltered by a spur of the giants' rock, and in that fold the smelt stood up in a thin line all day. Not a camp that came and went. A winter place. There was a wall of cut brush and piled stone, and a frame of poles, and the light that eats wood burning under it in the dark, and around it the ground had been swept and trodden until it had the flat patient look of ground a man owns.
+
+They were staying.
+
+He lay on the far ridge and read the fold as he would read a beast's den. Two men at least. Their spirit hounds. The light that eats wood, which they kept alive all the day and all the night, and which was the thing in all the world that most made him want to go down and tear and eat. And the smoke standing over the fold day after day, so that even when he was a day's walking away he could turn his head and read them.
+
+The map changed that morning. His country had one line on it that he had never had before: a place where men lived in the winter, deep in the deep country, on his own breaks, hunting his own heavy kinds.
+
+The race had stopped being a season. It was a country now, and he was sharing it.
+
+---
+
+The cold taught his two tools what they were worth, and it did it in a week.
+
+The voice went first. He called it on a hunt in the second month of the white — a heavy beast gone to ground in a snowbound break, and the low note to buy the falter. It worked. The beast went still and he took it.
+
+And then, standing over the kill in the falling snow, he could not get warm again.
+
+It was not the ordinary cold. The voice had spent something more than air: it had spent heat, and the heat had gone out of him over the snow with the sound, and he stood over his own kill with his whole body shuddering, and it took him most of a day and the whole of the hot meat to put the heat back.
+
+He put the voice away after that, like a tool that cost too much to use. Through the whole middle of the winter he called it twice — once at a hunt he could not take without it, and once at a beast that stood between him and his hollow in the dark. Twice in three months. He paid the price both times, willingly, and the discipline of it changed how he hunted: he got used to winning without it.
+
+The veiling broke differently.
+
+Fear had never been able to break the hush. He had carried it through the reaching of the hounds and the weight of the ravine and it had held. Hunger broke it inside a week.
+
+The lean stretch came in the third month, when the warm breaks froze at their edges and the heavy kind moved again into country he did not know. Six days of hunting that fed him once. And through those six days, he could not hold the hush at all.
+
+It was the hunger that spoke through him. Fear had been sharp and thin and it had made the hush easy — fear narrowed him, and there was less of him to hide. Hungry, his whole body was loud: the pull stood open in him, the sense reached out of him whether he asked it to or not, and every living thing in the country could read the shout coming off him.
+
+The veiling is fed on attention. He learned that as he learned everything: by working out what had gone wrong on ground where nothing could be done about it. When his whole attention was bent on the next meal, there was nothing left over to hold the hush, and the country read him and went quiet ahead of him.
+
+By the cold month's end he had taught himself to hold the hush while hungry — badly, in fits, as a beast holds anything new. He could do it now by feeding the hush a share of his own hunger: hold the shout down, and let the belly be angry about it.
+
+He lost four kills learning that. He gained a rule for the whole of the rest of the winter, and the rule was this: the hush is fed on attention, and attention is the only coin he has.
 
 ---
 
-What the deep summer's letting-go ripened into came to him without announcement over the cold months, the way all his ripenings came, and it was a change in the map.
+The want was the winter's last and hardest teacher.
 
-The greatnesses of the deep country had stood in his sense all through the deep summer as the absences of reading — the places where the sense went down to nothing, bowed to and gone past. Over the cold country they began to stand differently, because the shape of the letting-go had taught him what reading feels like from the side that does the reading, and the sense of years, cold-sharpened and reaching further than it had ever reached in the green, began to hold the absences as the fixed things, the way the sense holds the mountains. The map gained its last layer in the cold: the standings of the greatnesses, fixed in the deep place the way the standing stone stands, and the walking of the cold country became the walking between them, and he walked it the way the small lives walk the country of the sleeping greatnesses — without haste, and without the noise of haste, and with the whole of the care.
+He had carried the red thing in two shapes since the first summer. The boil was the old rage of his kind, the rampage that came up out of fullness. The want was quieter than the boil and worse: it waited. It stood behind his eyes in the long grey hours and pointed at the heavy lives in the country and whispered the hunt before the hunt had begun.
 
-There was more in the ripening than the map. The cold air carried the thread of the dragon beyond the ridge clearer than the green air ever had, and the thread stood in him through the cold months the way a plucked thread stands, and the song of it was the old song, the word of the dragon going out into the dark toward its own word, and the quiet thing kept the song with the shape of the letting-go, because the shapes were one shape, which was that he had been read by the deep country and let go, and the deep country was the country of the dragon's word, and the word in him was going up its own road without end. And there was this in the ripening too, the smallest thing and the deepest: the cold had less hold on him than on the lives around him. The frost stood on the breaks and the grey kinds paid it in their heat, and the blood of him went warm through the cold country the way the deep waters go warm under the stone, because the blood was more dragon than it had been, and the dragon's blood keeps its own fire, and the fire was the dividend of all the deep meals and all the deep sleeps, standing in him in the cold the way the first crown stood on him — not for anything, and not against anything, and simply because of everything that had gone into the making of it.
+In the cold, with the deep years everywhere in his reading and his belly lean and the hunger that had no meal standing in him the whole time, the want grew into the shape of the winter.
+
+The grey stag was the nearest loss.
+
+It was a beast of the second water, up in the high warm breaks, heavy with years — a creature nearly the size of the old stag of the fern country, standing in his reading like a banked fire. He marked it as he marked everything: its hours, its water, its ground, its habits. He watched it for a week.
+
+And on the eighth morning, going up the long gorge to the place where he meant to take it, the want spent the hunt before it began.
+
+He could not say afterward where the control went. Somewhere in the climb he stopped hunting and started wanting; he hurried, he cut ground he should not have cut, he came up over the rim of the warm break with the hush broken and the shout of himself going out ahead of him for half a morning, and the stag was gone. Not frightened — it had simply walked. He found its tracks going out the far side of the break, unhurried and steady, in the snow. It had read him coming from the other side of the morning.
+
+He stood in the empty hot break and let the day go.
+
+He learned the shape of it that evening, lying over the water with the hunger in him and nothing to show for a day and a half of hunting. The want spent the hunt, or the want sharpened the hunt, and there was no third possibility, and the choosing between them was the whole of the riding. It was the same law as the boil, in its colder and more patient form.
+
+He proved it nine days later on a beast of the middle years in the lower breaks. He carried the want through the whole stalk like a coal in his chest, and it did what coals do: it lit the reading, it steadied the stalk, it put the last length on the end of the spring when the moment came. He took that beast clean.
+
+He ate it in the warm break with the steam going up around him, and the fact sat in him as solid as any rock on his first slope: the want is not the enemy. The want is the fuel. What rides it is the choosing.
 
 ---
 
-The turn of the deep year came down into the country of the giants on a still grey day, and brought him the last line of the cold season, and the last line was written in other hands.
+In the deep middle of that winter, the country gave him the last layer of its map.
 
-He was coming down to the second water in the first of the light to read the grey stag's ground, because the ledger does not sleep and neither does the wanting, and the grey stag's ground was not the grey stag's ground any more. The blood of it stood warm on the snow under the breaks, and the shape of the turn-out stood whole in the reading of the place, and the ring-light of it — the ring of the grey stag of the second water, the beast he had marked for the taking, marked with the days and the hours and the ground — stood in the air above the blood darker than the pale gold, the color of the fern-breaks at the day's end, and went down into the ground the way the lights go down, and the reading of the place held the upright shapes and the spirit hounds' shapes fresh under the frost.
+It came on the cold clear nights, when the air stood still over the break and the whole sky was a lid of stars. His sense of years, sharper in the cold than it had ever been, reached farther than it had ever reached — out past the giants' country, past the deep fringe, up into the unreadable north — and on those nights the absences gave up their shapes.
 
-They had taken it. The beast he had kept in the deep place, kept with the patience of the marked days, taken out of the ledger by other hands, and the ring of it carried away to stand in the keeping of the year-takers, and the quiet thing stood over the blood of the grey stag a long time in the still grey morning with the cold coming up out of the ground, and wrote the line in the deepest place it writes, where the shape of the letting-go stands, because the line belonged there: the race for the deep years had become the war of the lists, and his list was kept in his blood, and their list was kept in their hands, and the lists were being written over the same beasts, and the cold country had shown him the war's first taken line, and the war had no end in the reading.
+They were standings. That was the thing his reading finally told him. The depths he could not read were not places; they were lives, fixed in their own grounds the way mountains are fixed, each one standing in the country around it like a pole in a tent, and everything in the country stood in relation to them. The ravine's weight away south was one. The unreadable north held others.
 
-The deep year turned. The cold country kept him the way the warm country had kept him — not wholly, the keeping is earned and the earning has no end — but truly. He stood at the mouth of his hollow in the grey light with the scales of him darker than the winter, and the crown of him higher than the summer had left it, and the thread of the dragon in him singing out into the cold toward the far ridge, and the years of the deep country standing around him in the dark on every side, and one of the depths read back, and the lists of the cold season stood written in the deep place — his list and the other list — and the years of him went on growing without announcement, and needing none, in the cold country that had learned the shape of him, and had not broken it.
+The cold country's walking had become a walking between them. He could feel the old standings when he moved through the high breaks; he could feel where their grounds began and where a careful beast went around. And deeper in his blood than all of it, thin and clear and carried farther on the cold air than it had ever carried before, the thread sang north toward the ravine.
+
+The last dividend was the quietest one and he noticed it before any of the others. The cold had less hold on him than it should have had.
+
+His outer-country winters had gone into his bones; he had carried the cold out of the last two as a beast carries a debt. This winter the cold sat on him lightly. His blood kept its own fire now — deep meals and deep sleeps had paid for it, season after season — and the white country that had nearly killed the hatchling was, to the beast he had become, merely the season.
+
+He did not think that to himself in pride. He simply noticed it, as he noticed everything, and kept it.
 
 ---
+
+And then the season turned, and the first line of the war was written in other hands.
+
+He was up in the high warm breaks on the day the men took the grey stag. He never saw it happen. He came down the long gorge two days after, and the stag's ground was a husk: the great body lying opened in the snow at the second water, the meat left for the ravens, and beside the beast's head, pressed deep into the moss, the two small marks where a man had knelt to take what stood over it.
+
+There was no light. He read the place as he read everything, and the place told him what had happened in it: the light had risen when the beast went down, which takes no time at all, and a man had knelt in the moss and drawn it away. The smell of the drawing was still there, thin and sharp, gone into the moss and the snow. The deep colour of it was on his reading like the ghost of a fire, and it was the same colour he had watched stand over the other husk in the summer.
+
+The men had come up the gorge, taken the light he had marked, and gone down again. They had not even been near the ground when he walked it.
+
+He had marked that stag. It had been on his list, with its hours and its water and its ground, and the men had walked into the deep country in the winter and taken it without ever knowing he had wanted it.
+
+He looked at the light for a long time.
+
+Then he did what he did with everything. He wrote it down.
+
+His list, from that day, was not a list of beasts any more. It was a list of what the country had promised him and what had been taken out from under the promise: the bristle-back, the deer, the stag of the fern country, the great stag of the high fern, the deep beasts. And now the grey stag of the second water, marked, watched, and taken by other hands before he ever walked its ground.
+
+Their list was on paper, in a winter place in the deep country, written in a hand he would never see. His was in his blood. Both of them were written over the same beasts, in the same breaks, in the same hours of the same cold seasons.
+
+He turned north out of the stag's ground and went up over the rocks, and behind him in the moss the two marks of a kneeling man filled slowly with snow.
+
+That was the war. Not a fight — he had not seen a man in his life close enough to fight. The war was two lists and one country, and the country kept the count.
+
+He went back up into his own range with the cold on his back, and the place beside the stag's head stayed in his reading like a mark of a claim, and the claim was not his.
+
+The cold year turned. The deep country kept him, the thread sang north, and somewhere down in the breaks under the giants' rock the men had a light in a box that had been on his own list.
+
+The next line of that war was going to be taken in the thaw, and whichever list took it, the country would keep the count of both.
+
+---
+
+The two men in the fold were splitting wood on the third morning, and their voices came up to the far ridge clean on the cold air, and the boy worked the water and moved the hounds out of the wind.
+
+"If we work the second water again we should work it north," said the kneeling man. He had a wedge and a mallet, and he was taking the split wood and stacking it tight against the brush wall. "That water has been hunted two winters. The heavy kinds are learning the south end."
+
+"They learn," said the other from behind the poles. He was the older of the two, old enough that the winter in this fold had been his plan and not his luck, and he came out from under the frame with his hands wet from the water-bucket. "That is why we are still alive. The ones who do not learn the country starve in it. The beasts stay because the warm water is here. We stay because they stay."
+
+"And the line?"
+
+"The line goes in at the thaw. Second water, north end, both banks. And this year we do not pull it."
+
+"Not pull it? The permit says the line comes out at the season's end."
+
+"The permit says the lodge writes down what the line takes," said the old man. He threw the last of the water down the bank and set the bucket by the fire. "What the lodge knows is the lodge's business. Do you know what a light of the deep colour is worth in the low country? It buys a house. A house, a wife, and a winter with no line in it. A beast of that kind has been read at the second water twice in three winters, and I do not mean to stand in the thaw and watch some other man's line take it out from under me."
+
+"You have been saying that for two winters."
+
+"And for two winters the thing has not walked into a line," said the old man. "That water is deep and wide, and the beast that drinks at it does not come every night. Fine. This year we do not wait for the night it comes. We close the whole north end and we sit on it for the white."
+
+"With what? Two hounds and the two of us."
+
+"We have the boy," said the old man. "The boy can hold a hound. And at the thaw the lodge sends two more men up if the fold is worth working, and the fold is worth working because I say it is."
+
+"Then why not go where the big lights are?" said the kneeling man. "North, past the black ridge, where the deep country starts."
+
+"Because the men who went north did not come back," said the old man, "and their wire is still hanging up there in the trees."
+
+"That is a story."
+
+"That is a ledger," said the old man. "The lodge wrote them down as gone, and the lodge pays for wire whether we set it or not, and the wire up there was paid for and never used. I have read the page. Have you?"
+
+The kneeling man said nothing and went back to the wood.
+
+The boy came up from the water with the bucket and stopped on the flat stone by the fire out of habit, and the old man looked at him as a man looks at a tool he has not decided about.
+
+"What does the box hold?" said the boy.
+
+"One light," said the old man. "A thin one. You carried it up yourself, so you know as well as I do."
+
+"Then why is it up here and not at the lodge?"
+
+"Because the box goes down when I go down," said the old man, "and I go down when the line is set and the count is made. That is the whole reason we live up here in the white with the wind."
+
+"There is nothing up here," said the boy.
+
+"There is worse than nothing," said the old man. "Work."
+
+He went back under the frame. The wood split and the smoke stood straight up out of the fold all day, and the dragon lay on the far ridge with the cold air going past his crown, and read every word he could not understand, and went home in the dark.
 
 ## Footer
 
-- Word count (body): ~2650.
-- Chapter time: DL 3663 cold season → the turn of the year (real age ≈ 48 → ≈ 54 months; exact figures panel-only).
-- Gate: none — Chapter 11 waits on the author's go.
-- Anchors touched this chapter (mirrors updated same turn): DL 3663–64 THE COLD COUNTRY — the deep country's first winter. (1) THE OUTER WINTER'S LEDGER BREAKS — the cold comes UP out of the ground, before the sky's warning; the heavy kinds moved early; the first ambush stands empty three days (the outer country's lessons fail here); the lean days paid for the believing; the warm breaks found by the nose; the winter written down as a NEW COUNTRY to be learned again. (2) THE YEAR-TAKERS WINTER IN THE DEEP COUNTRY — the light that eats wood smelled from the far ridge; a winter place in the breaks; smoke standing day after day; the map gains the line it never held — they STAY; the race sharpened (same breaks, same hours, same heavy kinds; the spirit hounds' voices carried further in the cold air; part of the winter's weather; the map kept because the keeping is the keeping of him). (3) VOICE AND VEILING LEARN THE COLD — the voice spends HEAT as well as breath (the winter's voice is a winter's price: spent only at need, for the whole of the need — the miserliness climb); the veiling breaks under HUNGER where it held under fear (hunger is a louder word in the blood than fear; the lean week's breakings; the line: the veiling is fed on the ATTENTION, not the fullness; by the cold month's end it holds in the hunger — broken now by everything that breaks it, rebuilt after everything). (4) THE RED THING OF THE WANT — the cold country's bloodthirst is the red WANT (waits, whispers, spends the hunt before it begins); THE NEAR-LOSS: the grey stag of the second water, marked in the ledger for the taking — the want ate the veiling on the way in, the quarry vanished, the day and the hunger lost; the lesson: the want sharpens the hunt or spends it, and the choosing is the whole of the riding; proven at the next taking — the want carried THROUGH the hunt as the edge, not the rider. (5) WHAT THE LETTING-GO RIPENS INTO (author-gated, nothing staged) — the map gains its last layer: the standings of the greatnesses held as FIXED things (the sense of years, cold-sharpened, reaching further); the walking of the cold country becomes the walking between them; the dragon-thread beyond the ridge carried CLEARER in the cold air; and the smallest, deepest dividend — THE COLD HAS LESS HOLD ON HIM: the dragon's blood keeps its own fire (quality of the deep meals and sleeps; not for anything, not against anything, simply because of everything). (6) THE TURN — the last line written in other hands: the grey stag taken by the year-takers, the ring-light darker than pale gold (purple tier, panel-only; color read, never named); THE WAR OF THE LISTS — his list kept in his blood, their list kept in their hands, written over the same beasts; the war has no end in the reading. ENDING: the deep year turns; the cold country keeps him — not wholly, truly; scales darker than the winter, crown higher, thread singing toward the far ridge. Canon adherence: DS-08 the flaw carried as the want in scarcity (uncured, ridden by choosing); DS-10 honored (the letting-go ripens as orientation, nothing granted; the thread's direction kept, not moved); INTELLIGENCE LAW honored (wordless lists, maps, lines; no words); ring law honored (purple tier panel-only); no numbers in prose; no canon individuals; Talent never named; English-only. PROSE LAW (s25) applied: the empty ambush that costs the lean days; the smoke-line that changes the race; the voice's heat-price paid standing over the kill; the hunger-week that breaks the veiling; the red want that spends the marked quarry; the final turn — the year-takers taking the beast he had kept. Every beat opens in motion, ends on a turn.
+- Word count (body): 3,420 (verify.py, s36 gate). Spoken dialogue: 31 lines (9.1 per 1000w). Prose metrics (s35 house-grammar method, prose-only): average 18.4w, median 14w, longest 59w; no sentence over 60w; motif word "the way" x1.
+- Chapter time: DL 3663–64 — the deep country's winter to the turn of the year (exact figures panel-only).
+- Gate: standing delegation (2026-09-20). HUMAN SCENE: one scene at the men's winter fold — the water line kept, the box, the deep-colour beast at the second water they mean to have before another man's line takes it, the boy and the ledger — written at house density. The dragon reads them off the far ridge and understands nothing (firewall stands). Beats held: THE OUTER WINTER'S LEDGER BREAKING (the cold coming up out of the ground; the heavy kinds gone early; the empty ambush and the three lean days; the warm breaks found by the nose; the winter written as a new country); THE YEAR-TAKERS WINTERING DEEP (the fire-smell from the far ridge; the winter place in the breaks; the smoke standing day after day; the map gaining the line — they stay; the race sharpened on the same breaks); VOICE AND VEILING IN THE COLD (the voice spending heat as well as breath, spent twice in three months; the veiling broken by hunger where fear never broke it; the hush fed on attention, held again by the cold month's end); THE RED THING OF THE WANT (the grey stag lost to the want eating the hush on the way in; the lesson and its proof — the want carried through the next hunt as the edge); THE LAST LAYER OF THE MAP (the unreadable depths read as fixed standings; the cold country walked between them; the thread carried clearer on the cold air; the quiet dividend — the cold's hold on him lessened); THE TURN (the grey stag taken by the men; the ring-light of the deep colour standing in the moss, panel-only, never named; the war of the lists — his in his blood, theirs on paper, written over the same beasts).
+- s36 rebuild note (2026-09-20; author, verbatim: "Now rebuild chapter 1 to 12 completely" ): chapter rewritten in full at the house grammar (foundation/HOUSE_STYLE_AUDIT.md): scene-first, short plain sentences, scenes shown moment to moment; soul-beast rule (SB-11) held.
 - Figure audit: zero count-numbers in prose. All age/cultivation figures panel-only.
-- s32 correction (2026-09-20; author, verbatim: "soul land have soul beast not normal animal, even commonest thing is blue silver grass, correct everything even things i don't tell"): the spirit hounds' voices (was: dogs'); the lead spirit hound's lifted head.

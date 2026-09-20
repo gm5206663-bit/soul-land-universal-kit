@@ -2,15 +2,15 @@
 
 The shell had been a wall for as long as he had been anything, and then it hurt.
 
-That was the first thing: the wall pressing in from every side at once, water-tightness giving way to a thin, cold wet seeping in, and something in him that had been waiting a very long time deciding that it was done waiting. He pushed. The push was not a thing he chose. It came up out of his back and his neck and his legs together, the way a cough comes up out of a chest, and the shell split somewhere near his head with a small sharp sound.
+That was the first thing: the wall pressing in from every side at once, water-tightness giving way to a thin, cold wet seeping in, and something in him that had been waiting a very long time deciding that it was done waiting. He pushed. The push was not a thing he chose. It came up out of his back and his neck and his legs together, like a cough coming up out of a chest, and the shell split somewhere near his head with a small sharp sound.
 
 Light came through the split. It was white and thin and it hurt too, and he did not know it was light, only that the world beyond the shell was colder and louder than the world inside it.
 
-He worked himself out the way a thing works out of mud, half pushing and half falling, and then he was lying on his side on hard wet ground with the pieces of the shell under him and the wind moving over his skin.
+He worked himself free, half pushing and half falling, and then he was lying on his side on hard wet ground with the pieces of the shell under him and the wind moving over his skin.
 
 The wind was the second thing. It was cold and it did not stop, and his skin was wrong for it: soft, pale, thin, no armor to it at all. He curled up, and his own body was the only warm thing anywhere.
 
-Something in him was already working. He had no word for it and no thought about it. Even then, in the first minutes, it was going quietly about its business the way it had gone about its business in the egg, taking the cold and pushing back with something that was not quite warmth and not quite skin, a slow thickening that would show only later. It never stopped. It never slept. Every hard thing that happened to him after that would be met by that slow answering.
+Something in him was already working. He had no word for it and no thought about it. Even then, in the first minutes, it was going quietly about its business as it had in the egg, taking the cold and pushing back with something that was not quite warmth and not quite skin, a slow thickening that would show only later. It never stopped. It never slept. Every hard thing that happened to him after that would be met by that slow answering.
 
 He was hungry. That was the third thing, and it was the biggest.
 
@@ -24,13 +24,13 @@ The pieces were dry and sharp and they cut the inside of his mouth, and he ate t
 
 The mountain was not built for something as small as he was.
 
-He learned that in the first days. His scales were pale and soft and the cold went through them. His legs were thick and clumsy under a body too light for them. His tail was too long and got in the way when he turned, and his head was too heavy for his neck, so he moved the way new things move: badly, and often downhill.
+He learned that in the first days. His scales were pale and soft and the cold went through them. His legs were thick and clumsy under a body too light for them. His tail was too long and got in the way when he turned, and his head was too heavy for his neck, so he moved as new things move: badly, and often downhill.
 
 He fell off a rock shelf on the second day and lay at the bottom of it for a while, stunned, and then he got up and went on, because the hunger did not care about the fall.
 
 The hunger kept his time. It rose and he obeyed it and it went quiet for a while, and the quiet was the only rest he had. He drank at a seep where the water came out of the stone cold and clean, and learned to come back to it. He learned where the sun lay longest on the rocks, and lay there. He learned to keep to the low ground when the wind got up.
 
-He learned the slope the way water learns it. By going down it many times.
+He learned the slope as water learns it. By going down it many times.
 
 There was a seam of rock near the top of his hollow that held the sun all afternoon, and beetles worked in the grit of it — the smallest soul beasts of the mountain, too small to have years worth counting, slow and armored and stupid. He learned to catch them. He got his first one with a clumsy snap of his jaws and crunched it shell and all, and the hunger said eat, and after that he went back to the seam every warm afternoon and crouched in the grit with his nose down, waiting.
 
@@ -48,9 +48,9 @@ The first true hunt was for the stone-runners.
 
 They lived in the talus where the slope went wide — low, thick, quick things the color of the rock they lived in, with small eyes and a fatness about them that the hunger could feel from across the stones. They came out when the sun did and sat up on their haunches and looked around, and they ran between the rocks along paths they had worn smooth.
 
-He wanted one. He wanted it the way he had wanted the shell.
+He wanted one. He wanted it as he had wanted the shell.
 
-He went at the first one straight, fast, all at once, the way the hunger told him to go. He was two lengths away when it saw him, and it was gone into a crack between two stones before he reached the spot, and he hit the boulder behind it shoulder-first and lay there with his ears ringing.
+He went at the first one straight, fast, all at once, as the hunger told him to go. He was two lengths away when it saw him, and it was gone into a crack between two stones before he reached the spot, and he hit the boulder behind it shoulder-first and lay there with his ears ringing.
 
 He tried again that evening. Same thing. Again the next morning.
 
@@ -80,9 +80,9 @@ He woke bigger. He did not know that yet. He only knew that the world smelled st
 
 The great wings came back on the fifth day, and he learned the law of the mountain.
 
-He was on the warm rock above his hollow when the shadow went over him. He looked up, and there was a winged thing crossing the valley, wide as three of him laid end to end, with a long neck and a stillness in the way it held itself that he knew at once, the way a small thing knows a large thing, without being told.
+He was on the warm rock above his hollow when the shadow went over him. He looked up, and there was a winged thing crossing the valley, wide as three of him laid end to end, with a long neck and a stillness in how it held itself that he knew at once, as a small thing knows a large thing, without being told.
 
-It was not hunting him. It was not hunting anything. It was riding the warm air above the valley the way a leaf rides water, and the whole valley watched it, and nothing moved that did not have to.
+It was not hunting him. It was not hunting anything. It was riding the warm air above the valley as a leaf rides water, and the whole valley watched it, and nothing moved that did not have to.
 
 Then the wings went down the far side of the valley to a stand of old trees, and something happened there that he saw only in pieces: a rush, a cracking of branches, a high thin crying that stopped. When the wings came back up, they carried something.
 
@@ -134,10 +134,12 @@ That was the first season of the world.
 
 ## Footer
 
-- Word count (body): 2,616 (verify.py, gate of the s34 house-grammar rewrite; no spoken dialogue — the beat forbids voices in the hatch chapter).
+- Word count (body): 2,595 (verify.py, s36 gate). Spoken dialogue: 0 lines (none; the beat forbids voices — see the gate). Prose metrics (s35 house-grammar method, prose-only): average 17.3w, median 12w, longest 59w; no sentence over 60w; motif word "the way" x1.
 - Chapter time: DL 3661 — the hatch through the first season (exact figures panel-only).
 - Gate: standing delegation (2026-09-20). VOICES: chapter one has no human-side scene — the beat forbids it (the hatch, the empty mountain) — and it is the only such chapter before the human side opens in Chapter 2. House-grammar house rules otherwise applied (scene-first opening; short sentences; two or more finished scenes; no abstraction engines).
-- s34 rewrite (2026-09-20; author, verbatim: "Check how a fen fiction written and others All things" + the earlier "i can't read few lines before i disgusted by how bad is this"): chapter rewritten in full at the house grammar measured in foundation/HOUSE_STYLE_AUDIT.md (sentence average <= 25 words; scene register; tiny finished scenes; plain nouns). Beats held: the hatch (the egg's slow working, never named); the first eating; the slope's lessons (the beetles as the slope's smallest soul beasts; BLUE SILVER GRASS named as the commonest soul beast of the world; the beaked nesters); the first true hunt — the stone-runners, the failed rushes, the watching, the low waiting, the kill, the deep sleep's growth; the great wings and the two rules (what lives above the mountain is not food; the pull that stands a small thing up to be seen); bloodthirst's first bait; the strangeness on the wind (smoke, iron, the two-legged smell — never seen, never known); the first winter coming; his first remembering.
+- s34 rewrite (2026-09-20; author, verbatim: "Check how a fen fiction written and others All things" + the earlier "i can't read few lines before i disgusted by how bad is this" ): chapter rewritten in full at the house grammar measured in foundation/HOUSE_STYLE_AUDIT.md (sentence average <= 25 words; scene register; tiny finished scenes; plain nouns). Beats held: the hatch (the egg's slow working, never named); the first eating; the slope's lessons (the beetles as the slope's smallest soul beasts; BLUE SILVER GRASS named as the commonest soul beast of the world; the beaked nesters); the first true hunt — the stone-runners, the failed rushes, the watching, the low waiting, the kill, the deep sleep's growth; the great wings and the two rules (what lives above the mountain is not food; the pull that stands a small thing up to be seen); bloodthirst's first bait; the strangeness on the wind (smoke, iron, the two-legged smell — never seen, never known); the first winter coming; his first remembering.
 - Anchors touched this chapter (mirrors updated same turn): DL 3661 THE FIRST HUNGER — the hatch; the Adaptation Talent working from the egg (never named); the slope's prey-web begun; the first rule (small things in the dark can hurt you); the first hunt and the first kill; the second rule (the wings); the smell from beyond the pass.
 - Figure audit: zero count-numbers in prose. All age/cultivation figures panel-only.
 - s32 correction note (2026-09-20): "soul land have soul beast not normal animal, even commonest thing is blue silver grass, correct everything even things i don't tell." — held in this rewrite.
+
+- s36 rebuild note (2026-09-20; author, verbatim: "Now rebuild chapter 1 to 12 completely" ): chapter rebuilt in full at the house grammar (foundation/HOUSE_STYLE_AUDIT.md): scene-first, short plain sentences, scenes shown moment to moment; soul-beast rule (SB-11) held; motif sweep done ( "the way" cut to the house limit).

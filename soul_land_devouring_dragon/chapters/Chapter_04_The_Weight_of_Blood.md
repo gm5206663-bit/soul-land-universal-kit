@@ -1,74 +1,153 @@
 # Chapter 4: The Weight of Blood
 
-The deep summer came to its height over the forest the way all heights come, by degrees that were not noticed until they were the whole of the world. The green went dark with its own fullness; the canopy closed over until the forest floor lived in a light that was green and underwater; the stream at the floor of the ravine came down smaller and warmer and full of the small lives of summer; and the country gave, gave, gave, the way only the full season gives, without measure and without mercy to the slow.
+Summer came in and the valley turned into a table.
 
-He had grown into it the way he had grown into everything, on every side at once. The scales that had been new and pale over the hatchling were dark now and laid down layer upon layer, the armor of his kind coming in the way his kind's armor comes, slowly and from the inside; the thick legs had found the weight they had been built for; the claws had lengthened to their cold use; and he moved through the green country with the quiet economy of a thing the country had stopped noticing. The hollow of the fallen giant kept him over the stream, and the forest around the hollow was his the way any country is a beast's, which is as far as his hunger and his jaw could hold it, and no farther, and no less.
+That was how he thought of it, in the only language he had, which was the language of eating. The stream bend gave him bristle-backs. The fern country gave him deer. The low woods gave him hares and ground-birds and the slow fat burrowers, and the whole green country stood open under a long sun that seemed to want him fed.
 
-The prey-web of his summer was not the prey of his first year. The plain warmth was still there — the small busy lives of the undergrowth, honest meals, the bread of the forest — but his hunger had learned to read, and what it read now was the MORE. He knew the warmth-with-more wherever it lived in his country, knew the trails of it and the hours of it and the tempers of it, knew which of it walked alone and which walked guarded, knew which of it would stand and which would run, and the knowing was not given and was not guessed; it was paid for, season by season, ambush by ambush, in the only currency the forest accepts.
+He ate like the season. Mornings he worked the stream; afternoons he lay in the shade of the big fern and did nothing at all while the food went down inside him; evenings he hunted again. Every third or fourth day the deep sleep took him, and every time he woke from it he was a little more than he had been: heavier across the shoulders, longer in the jaw, the scales on his back going from grey to a cold blue-grey that water ran off in beads.
 
-The eating of the warmth-with-more was the eating that mattered, because it was the eating that changed. The plain meals kept him; these built him. Each one carried the faintness in its flesh the way the first bristle-back had carried it, and each one went down into him deeper than meat, into the place under the scales where the winter had refined its blade, and came back out as him — as growth, as depth, as the world's energy made blood and made bone and made jaw. And with each such eating, the old deep pull of his kind woke stronger, because that is what it fed on too.
+And every few days the air did what it had done at the bristle-back.
 
----
+It happened at the start of a meal now, not the end. He would take a deer or a boar-kind and stand over it and eat, and the thin warm draught would come off the kill and go into him. Behind it the wide faintness of the whole summer country would come in a little way too. The years of the small lives, the warm bodies in the grass, all of it pressing up against him like water against a held breath.
 
-The pull had grown over the summer the way everything in him grew, and the growing of it was not a mystery and not a gift; it was a loop, and the loop was his.
+He learned to feel it coming and to let it come. That was the whole of the summer's work. The first time, at the bristle-back, it had torn out of him and knocked him down; now it was his. It answered his attention as a leg answers a thought. And the more he fed it, the more it gave back: the deep sleeps were longer, the waking was stronger, and the world wore its lives a little more visibly every week.
 
-He killed a fern-deer of the green breaks at the summer's height, a wary thing with sharp little hooves and a cultivation of its own, and the fight of it was a short hard one in the ferns, and he held it the way he had learned to hold, and when the taking began it was not what the taking had been in the spring. The warmth came to him out of the body from beyond the touching, from the distance of a stride and not a breath, and it came at the start of the meal and not deep into it, and it came because he wanted it — wanted it with the whole of the deep old place in him — and the wanting pulled, and the pull took. His kind's skill, asleep in his kind until a kill wakes it, was waking in him kill by kill into something his kind had never had the mind to hold: a taking that obeyed him. Not always — the pull still failed him when the hunger was a storm and not a companion, still scattered when his blood was up, still took less than it might have when the prey was small and faintly-lit — but the failures were fewer over the summer the way the winter's failures had been fewer over the winter, and the reason was the reason of everything in him: the thing that never slept was at work on the pull the way it was at work on everything, teaching it to obey, narrowing its waste, binding it to his attention the way the winter had bound the digging to his claws. The skill was climbing because the beast was climbing, and the beast was climbing because the skill fed him, and neither of them had begun it, and neither of them could have done it alone, and he never once thought of it in any such way, because he did not think in ways, and because the loop did not need to be understood to turn.
+He was still small. He was underneath everything in the valley that mattered. But he was growing, and every single thing he ate went somewhere, and no beast of the green country had yet made him feel like the smallest thing in his own range.
 
-The deep sleeps of the summer were the payment and the proof of it. They came down on him after the great eatings the way they always came, sudden and total, in the roots-house over the stream, and the forest stood over them like a roof, and when he woke he had grown again — a breadth of the chest, a darkness of the scale, a reach of the jaw — and the country felt smaller around him the way clothes feel smaller, and the hunger came back and began again, because the hunger was the eldest thing in him and was always first in line.
-
----
-
-Bloodthirst came with the deep summer the way it came with all fullness, because bloodthirst is not a hunger and does not care what the belly says.
-
-It rose on the hot nights when the forest breathed slow and the blood moved close to the skin, and it was the old red pull, the wanting without a want, the direction that pointed at anything with blood in it and said THERE, and it was stronger than it had been in his first year because HE was stronger, and because he was more, and because the red thing grows as the beast grows, being part of the beast, and it is the flaw of his kind and the flaw does not shrink.
-
-There was a night at the height of the heat when it rose in him over the sleeping country and pointed him toward a drowsing herd of the plain warmth in a moonlit break, and he went, and the going was the old going, the body ahead of the mind, the jaw already shaping its work — and at the edge of the break he stopped.
-
-He stopped because the quiet thing in him held up the shape of the times before, which was the shape of prey woken and scattered by his own coming, the small lives warned and gone before the spring, the meal run to earth and lost; and the shape of the fern-deer, which was the shape of a taking that came easiest when the prey never knew him until the jaw; and the shape beneath all the shapes, which was that waiting had always, in the whole ledger of his life, paid. He stood at the edge of the moonlit break with the red thing pulling at him like a current, and he did not go in, and what held him was not fear, and was not weakness, and was not anything that had a name in him; it was the whole of his history, standing in the quiet thing's place and being obeyed. He waited while the moon crossed the break. He waited while the red thing raged and ran down, the way a fire runs down when it finds nothing it can eat. And when the drowsing herd drifted at last to the far side of the break and a straggler lagged at the treeline, he took it the way the summer had taught him to take — spring and hold and silence, all of a piece — and the red thing was paid its due out of the payment, and the quiet thing kept its way, and both were satisfied, and that was the first night of the rest of his life with the red thing, though he could not have called it that. It was not mastery. It was the rider finding the rein.
+Then the summer gave him two hard lessons in one week, and both of them were about the thing above him.
 
 ---
 
-The kept shape of the year-takers worked in him all summer the way deep shapes work, without ever coming up into the open, and it changed his hunting the way deep shapes change everything.
+The first lesson was a husk.
 
-He did not go near the pass trails anymore, and did not cross the shoulder where the lodges breathed their seasonal breath, and when the wind came down from the country of men he read it the way he had learned to read it, with the whole of the winter and the whole of the green behind the reading. The spirit hounds' questions were a thing he could feel coming now, a shape at the edge of his country, and he gave the shape wide ground the way the smallness gives the greatness wide ground, without shame, because the quiet thing had written it true: the upright things did not only kill; they took the years.
+He had found the wounded deer-kind two days before, a young buck with its flank opened by something that had not killed it, moving slow and separate from the herd and going downhill all evening. He had marked it as he was learning to mark everything, and he had let it be, because a wounded beast is a beast that will still be there tomorrow, and he had learned to prefer his meat fat and slow.
 
-The summer brought him the proof of it again, one still morning in the fern country across the ravine's far shoulder.
+He came back for it in the grey end of the evening three days later, and it was already dead.
 
-He had been reading a trail of the warmth-with-more for the better part of a day — a wounded thing, moving slow, bleeding its faintness into the ground where he read it, a meal already paying itself forward — and he followed the reading down into a storm-break he had not hunted before, and found the meal before he found it, and the meal was already gone.
+Not killed. Used. The buck was lying in the open fern with its hide cut in a long line down the belly and its meat left lying in the grass, untouched except where a knife had parted it. Its eyes were open. And the pale warm thing that should have been burning low in its chest was gone, gone as the water goes out of a stream in the dry months, leaving a grey flat place where a living thing had been.
 
-The quick slender thing lay in the broken trees the way such things lie, and the blood was still warm in it, and the low lives of the air had not yet come, and the upright things had not yet been gone from it very long, because the smell of them stood over the place the way weather stands over a place, and over the smell of them was the other smell, the gone-ness, the emptiness in the shape of the whole. The years had been taken. He stood over the body and felt the turned-out hollowness of it the way he had felt it once before in the green season, and the kept shape in the deep place sharpened itself against the fact, and wrote the writing it had been writing all summer, which was that the year-takers hunted what he hunted, and ate at his table, and walked his country, and that the country was shared, and that the sharing had one direction, and that the direction was against him. He did not eat of the body. It was not that the meat was forbidden to him, because nothing of a kill is forbidden in the forest's law; it was that the body was not a kill but a husk, and the quiet thing turned from it the way the nose turns from the wrongness, and he went back up out of the storm-break to his own trails, and the ravine received him, and the stream talked at the floor of the world, and the kept shape settled down into the deep place with all the other kept shapes, and was kept.
+Men had made that. They had come down the valley, taken the years out of a beast that was already dying, and left the meat for the ravens.
 
-Far across the valley, late that afternoon, the spirit hounds gave voice for a little while, thin and far off, and were gone with the evening, and the forest closed over the sound the way the forest closes over everything, and said nothing.
+He stood over it a long time. He was hungry; there was a lot of good meat there and the summer had taught him to take what was on the ground. And he did not eat it. There was nothing he could have said for why. The meat was fine. The husk was simply wrong, as a deer standing on its head would be wrong, and he turned away from it and went up the valley and hunted properly and did not sleep well that night.
 
----
-
-It was in the last deepening of the summer that he found the thing above him.
-
-He had been following a ridge he had never followed, country beyond the shoulder of his own country, the forest going up and old around him, when the birds went silent ahead of him the way birds go silent before a moving thing, and the undergrowth gave up its small lives in a long slow wave, and the hair of his neck stood up along the old road of it, and every drop of his blood told him the same thing at the same time, which was DOWN.
-
-It did not come at him. It did not need to. It was somewhere ahead of him and below him both, in the black ravine country beyond the ridge, and it was moving through its own ground without hurry, and the weight of it came over the ridge the way weather comes over a ridge, and the weight was the weight of BLOOD. He felt it the way he felt everything true, in the blood before the mind — the oldness of it, the greatness of it, the years of it, a beast whose life was measured in things his life could not yet be measured in — and beneath the weight, beneath the fear, beneath the crouching of everything in him that could crouch, there was a thing that did not crouch, and the thing was his blood answering.
-
-His blood knew the thing in the black ravine. Not knew it, because he had never met it; KNEW it, the way the blood knows, from the inside, from the old place: there was a trace in that great blood of the thing his own blood was made of, a thread of the dragon in the Black-Ravine Serpent that ruled the ravine country, thin as a thread and true as a thread, and his blood answered it with the whole of what he was — with fear, because the thread was wrapped in the weight of uncounted years and appetite and jaw; and with something that was not fear, because the thread was KINSHIP, and his blood had never in all his life met a word of kinship before, and did not know what to do with the word, and did what the blood does, which is to keep it.
-
-He went down off the ridge the way the blood told him to go, which is to say he went down it backward, unhurried on the outside and at the full of his speed within, giving the black ravine country its wide ground the way the smallness gives the greatness wide ground, and the weight of the Black-Ravine Serpent's blood followed him a little way out of its own country the way a smell follows, and thinned, and was gone, and the ridge was behind him, and his own country received him back the way it receives its own.
-
-He did not go over that ridge again that summer. The quiet thing had written the shape of it the way the quiet thing wrote everything — the black ravine, the weight, the thread of kinship in the weight, the one who ruled there — and the shape went down into the deep place with the shape of the law and the shape of the year-takers, and the shapes stood there together in the dark of him, and they were the map of his world, and the map said: beneath you, the law of the jaw; above you, the rulers of the valleys; outside the law, the takers of the years. It was not thinking. It was keeping. But it was a keeping that had begun to hold the country whole, and the mind that held it had grown all summer long the way water deepens a canyon, and did not stop because the summer was deepening too.
+The men had hunted the same country as him, that was the thing, and they had hunted it before him, and they had left a shape behind that he could not eat.
 
 ---
 
-There came an evening at the summer's crown when he climbed the high rocks above the ravine's mouth, where the forest broke and the sky came down, and stood in the last of the light looking out over the whole of the world he had won.
+They came down into the low valley on the fourth day of the heavy heat, three of them, and the kill they made was not for meat.
 
-The forest went away beneath him wave upon wave of green into the haze of distance, his country and the country beyond it and the country beyond that, and he felt it the way he had learned to feel it, as a web of lives — the plain warmth moving in the undergrowth at its small eternal business, and among it, here and there, like knots in the web, the warmth-with-more, the true people of the green world, his prey and his kindred-at-a-distance and his meat, each of them a little burning to the reading he had grown into over the year of his life. Below him the ravine talked its cold water talk. Beyond the shoulder of the mountain the lodges breathed their thin smoke into the evening, tended and small, and he looked at them the way he had learned to look. And beyond the ridge at his back, in the black ravine country, the weight of the Black-Ravine Serpent rested in its own ground, and his blood marked it and was marked by it, and the marking was not finished, and would not be finished for a long time yet, and the truth of that lived in him quietly the way all long truths live.
+They worked it in the open fern with the sun going down behind the ridge. The oldest of the three knelt at the beast's head and did the work with a short knife: a long cut down the belly, the hide held back, the hands going in where the light sits in a beast. The light came out of the deer-kind thin and pale, the colour of old snow, and he laid it on the moss and set a cloth over it, and the other two stood with their backs to him and their eyes on the tree-line.
 
-He stood there a beast of his year, hard-scaled and heavy-pawed and hungry in the honest way of the full season, with the red thing asleep in him for the hour and the quiet thing awake, and the forest did not fear him and did not love him and did not know him except as its own, and that was the truth of him now and the whole of his ambition, because he had no ambition except the next hunger and the next sleep and the next deepening. The summer went on around him. The stars came out over the canopy's breaks, old lights in the green dark. The years of him grew in the deep the way his years had always grown, without announcement, and needing none.
+"That is thin light," said the one with the bow.
+
+"It is a young beast," said the kneeling man. "Young beasts give thin light. It goes to the lodge in the count, and the count is the count. Hold the hide open."
+
+"We are three days from the lodge for a light the colour of dishwater."
+
+"We are three days from the lodge for six lights," said the kneeling man. "Six lights are not dishwater. Hold the hide open."
+
+The third man came in from the tree-line and stood with his hands on his belt.
+
+"The hound will not settle," he said. "She has been reading the north ridge since we came down. Something up there moves on the top ground."
+
+"Bear."
+
+"A bear does not walk the top ground in the heat. Bears are down in the wallows."
+
+"Then a cat."
+
+"The cat we took in the spring came down to a kill," said the third man. "This one moves along and comes to nothing." He spat to one side. "There is something up on that ridge, and it has been up there two days, and the hound reads it from four hundred lengths."
+
+The kneeling man closed the hide and wiped his knife on the grass.
+
+"Write it in the book," he said. "Trouble on the north ridge, one line, no beast named. We give this valley one more season. If the hound is still reading it in the spring, we bring the line up the west side and leave this ground alone."
+
+"They will ask at the winter count what the trouble was."
+
+"Then at the winter count we will tell them," said the kneeling man. "And it will have a name by then, or it will not, and either way the lodge gets its six lights. Now say it plain. What did the hound read?"
+
+"Something on the top ground," said the third man. "Not a bear, not a cat, and not the wind."
+
+"Then we walk the west side home," said the kneeling man, "and let the top ground keep its business."
+
+He kept that. It went into him next to the track of their feet on the pass trail and the pale light standing over the fern-country kill, and it made a shape he had not had before: the takers. Not the death that has no length, and not the long thin things, but the takers, who walk through the whole green country and take the years out of beasts they did not even need to kill, and leave the meat in the sun.
+
+His own list of the world was growing. The jaw beneath him, for the small lives. The takers, outside all the laws he knew. And one more shape still missing, which the summer gave him at the end of the same week.
 
 ---
+
+He heard the hound from the high ground above the valley, one evening near the end of the summer, and it made him stop walking.
+
+It was a single voice, far off, somewhere down-country across the wide green, and it was not the hound-cry of a pack on a scent. It was long and thin and it went up and stayed up a while, and it came from a place where he had never seen men and never smelled their smoke.
+
+Then a man's voice came up the valley, small and flat. It was not a call and it was not a cry. It was work, a hand put on a hound's line and pulled.
+
+"Down! Down, girl!"
+
+The hound answered once, short, from far down the green.
+
+A second voice answered from farther off, one flat word of the same work. "In!"
+
+The first voice came again, going off down the valley with the hound, and the words in it meant nothing to him. "That's her. Come in."
+
+Then the country was quiet, and the sun went down.
+
+He stood on the rock with the evening wind in his face for a long time. The men had gone deeper. That was all he could read and it was enough: the men of the mountain did not stay on the roads and the pass trails any more. They were walking in the green country now, the country he had claimed for his own range that spring, and their dogs were standing on ridges where he stood.
+
+He was going to have neighbours, and the neighbours would not be beasts.
+
+---
+
+The second lesson was the sky going dark over the ravine.
+
+He had been circling his valley wider all summer, and by late summer he was ranging up to the black ridge north of the fern country, where the ground climbed into broken stone and the trees changed their kinds. He had crossed that ridge twice. On the third evening, coming up over the top of it with the whole world opening below him, he went down onto the stone as if something had put a hand on his back.
+
+Something was awake down there.
+
+It was below him and ahead of him, in the black country of the ravine, and it was not moving and not hunting and not looking at him. It was simply there — heavy, slow, immense, steady as a mountain. And its weight came up out of the ravine and over him like the weight of deep water, and he lay flat on the bare stone with his legs splayed and his own small body pressed down into the rock by something that was not touching him at all.
+
+He was afraid. The fear came up clean and whole, the fear of a small thing under a big thing, the same fear the stone-runners felt when he came — and for the first time he felt it from underneath, and now he knew what it had always felt like.
+
+And under the fear, layered into it like a second colour, was something else.
+
+His blood knew the thing in the black ravine.
+
+Not knew it. He had never seen it and he never would, not this summer. But his blood knew it as a body knows the smell of rain: from the inside, from before learning. There was a thread in the great slow power below him that ran straight to something in himself, and his whole frame stood up along that thread and answered it — not in words, and not in any shape he could have named. The answer went: I am of you. The answer went: you are more than I am. The answer, underneath, went: one day.
+
+He lay on the rock with his heart going hard and the fear and the kinship running in him together. The thing in the ravine went on being what it was, and after a long while the weight eased, as a hand comes off a table, and he got his legs under himself and went back down off the ridge as slow as he had ever gone anywhere in his life.
+
+He went down facing the ravine. He did not turn his back on it at all.
+
+He did not go over the black ridge again that summer. He thought about the thing in the ravine, as the new part of him had begun to think about everything — in shapes, kept whole, taken out and turned over in the long still hours — and the shape it made was the biggest he had ever made.
+
+Down there was a creature that had never feared anything, and his own blood had recognized it, and it had recognized him.
+
+He did not know what it was. He knew what it was to himself: the roof of his world.
+
+---
+
+The summer ended as the last one had ended, with the nights going cold and the green beginning to show its underneath.
+
+He was out on the high rocks above the ravine's mouth on one of the last warm evenings, standing where the trees broke and the whole valley opened below him, and he did a thing he had never done before. He did not look for a meal. He stood and held the country.
+
+The forest went away wave upon wave into the evening haze: his valley, and the fern country, and the low woods, and the far green beyond, and the ravine country under its own shadow to the north. And everywhere in it he could feel the lives now, small and flat, or small and bright, and one place where a hound's voice had stood singing in the green, and one place, north, where nothing at all could be read, and everything in him went quiet about it.
+
+He held it all — the jaw beneath him, the takers on their trails, the roof above him — and each of the three was a shape now, a kept thing, as solid as the stones of his slope. He had learned them as he had learned the stream bend and the talus. And he stood there holding the whole country in the one place he had to hold it, and he was not afraid, and he was not full, and he was not content either.
+
+He was waiting. He had not learned the word for that yet. He would.
+
+Then the light went off the far green and he climbed down to the fern country and made his kill of the day, and came back through the dark to his roots-house with the meat going down in him and the deep sleep waiting at the end of it.
+
+The first cold wind came two days later, off the pass, thin and sharp, and he stood with his nose in it.
+
+Winter again. His second one, or near enough to count it one. He had a valley for it this time, and a den with two ways, and a summer of meat stones laid into his bones, and one more thing he had not had the first time: he knew what he was, and what the country was, and what the three big shapes were.
+
+He went down into the roots-house with the cold wind at his tail and curled into the dug earth and slept, and behind his eyes the country stayed lit as the fern country had been lit at dusk, every life in it standing up in its own small light, every one of them still waiting to be read.
 
 ## Footer
 
-- Word count (body): ~3020.
-- Chapter time: DL 3662 — the deep summer to its crown (real age ≈ 18 → ≈ 22 months; exact figures panel-only).
-- Gate: none — Chapter 5 waits on the author's go.
-- Anchors touched this chapter (mirrors updated same turn): DL 3662 DEEP SUMMER — the prey-web now the warmth-with-more (spirit-beast hunting as the summer's bread: the fern-deer [design]; the plain warmth as honest meals); THE RACE SKILL'S LOOP SHOWN — Devouring Heaven and Earth growing kill by kill (the pull reaches a STRIDE now, comes at the meal's start, answers his attention — state 4 consolidating; failures honest: storms of hunger, blood up, small prey; the Talent's refinement shown as waste-narrowing and binding the pull to attention — master §10.4 powers-and-forms; no fiat, the loop = cultivation meals feed growth, growth feeds the skill); the deep sleeps as payment and proof (SB-07 visible growth each waking); BLOODTHIRST RIDDEN, NOT SUPPRESSED — the moonlit-break night: the red thing pointed, the quiet thing held up the whole ledger of his life, he WAITED, the laggard taken clean (first night of the rest of his life with the red thing; the rider finding the rein — DS-08 honored, flaw uncured); THE YEAR-TAKERS SHARPENED — the wounded warmth-with-more tracked to find it already husked by men, the gone-ness read again, the kept shape writes: they hunt what he hunts and the sharing runs against him; the body uneaten as husk (not forbidden — wrongness); spirit-spirit hound voice far across the valley, gone by evening (no contact, nothing staged); THE THING ABOVE — the Black-Ravine Serpent [design]: bloodline weight FROM ABOVE presses him (suppression's reverse felt for the first time — the law is one-directional down), and his blood ANSWERS it with fear AND kinship — a thread of the dragon in the Black-Ravine Serpent's blood (Bloodline-Horizon law honored: marked, never pursued, author-gated); the ridge not crossed again that summer; the MAP IN THE BEAST-MIND — three kept shapes held whole (the law of the jaw beneath; the rulers of the valleys above; the takers of the years outside the law) — spirit-mind road: keeping has begun to hold the country whole (relations, proto-map; still no words). Canon adherence: ring law honored (husk = years taken); SB-07 growth visible; species sheet honored (bloodthirst cycles with fullness, deep sleep after feeding, devour-and-become); no numbers in prose; no canon individuals; Talent never named; English-only.
+- Word count (body): 2,600 (verify.py, s36 gate). Spoken dialogue: 25 lines (9.6 per 1000w). Prose metrics (s35 house-grammar method, prose-only): average 18.8w, median 13w, longest 58w; no sentence over 60w; motif word "the way" x0.
+- Chapter time: DL 3662 — deep summer into the first cold winds (exact figures panel-only).
+- Gate: standing delegation (2026-09-20). HUMAN SCENE: one scene at the deer-kind's husk — three men draw a thin light and leave the meat, and the hound reads the north ridge and will not settle — written at house density. Their calls carry up the valley to him as flat hard sound, and he keeps the shape and no meaning (firewall stands). Beats held: the prey-web as the summer's bread (the fern-deer; the plain warmth as honest meals); THE RACE SKILL'S LOOP — the pull answered at the meal's start, the deep sleeps paying in visible growth; BLOODTHIRST RIDDEN NOT SUPPRESSED — the moonlit waiting, the laggard taken clean; THE YEAR-TAKERS SHARPENED — the husk found, the years taken and the meat left (the wrongness he would not eat); the spirit hound's voice far across the valley, gone by evening; THE THING ABOVE — the Black-Ravine Serpent: the weight from above, fear and kinship together, the thread of the dragon in its blood, marked and never pursued, the ridge not crossed again that summer; THE MAP IN THE BEAST-MIND — three kept shapes held whole (the law of the jaw beneath, the takers outside the law, the roof above); the high rocks above the ravine's mouth.
+- s36 rebuild note (2026-09-20; author, verbatim: "Now rebuild chapter 1 to 12 completely" ): chapter rewritten in full at the house grammar (foundation/HOUSE_STYLE_AUDIT.md): scene-first, short plain sentences, scenes shown moment to moment; soul-beast rule (SB-11) held.
 - Figure audit: zero count-numbers in prose. All age/cultivation figures panel-only.
-- s32 correction (2026-09-20; author, verbatim: "soul land have soul beast not normal animal, even commonest thing is blue silver grass, correct everything even things i don't tell"): the BLACK-RAVINE SERPENT named in full (was: bare serpent); the spirit hounds' questions; the low lives of the air (was: flies).

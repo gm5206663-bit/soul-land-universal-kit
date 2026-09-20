@@ -1,80 +1,199 @@
 # Chapter 2: The Law of the Snow
 
-The cold season came down the mountain the way all true things come down the mountain — not arriving, but becoming. First the seep-water had skin on it. Then the wind changed its mind, and kept the new mind. Then the sky went gray and stayed gray, and the first snow came down out of it without hurry, and covered the slope, and covered the seam of rocks and the door of light and the broken pine, and made the whole world into one thing, white and silent and empty, and the hunger, which had been a habit, became a law.
+The first snow came in the night and the world turned white by morning, and the white changed every rule he had learned.
 
-The stone-runners were gone. Not gone the way prey goes when the hunter comes, which is away, but gone the way the mountain takes things away, which is down — into the talus, into the deep warmth of the rocks, into a sleep that the hunger could not argue with. The beetles were gone from the grit. The nesting things of the broken pine were gone south in the way of wings. The slope, which had given its slow gifts all the season of the sun, gave nothing now but white, and the white was beautiful in the way the mountain's refusals are beautiful, which is completely, and without apology.
+He woke in his hollow with the cold on his back and something new lying over the slope outside. It was soft and it was deep and when he stepped into it his legs went in to the knee, and the cold of it came through the pale scales of his belly and sat there.
 
-He learned the snow the way he had learned everything, by being taught by it, and the teaching was hunger. The snow covered scent the way water covers stone, but not all the way, and not all snow covered it the same; he learned the difference between the snow of the morning, which told everything, and the snow of the evening, which told lies; between the drift, which kept nothing, and the crust, which kept everything. He learned that the world went on under the white — warmth under it, breath under it, the small sleeping hearts of the stone-runners curled in their deep rooms in the talus — and he learned to find them, because the hunger had no other lesson to give him. It was the nose that found them, and the nose had been growing all season long, the way everything in him had been growing, in the quiet way that things grow when the growing is not watched: down through the crust, down through the drifted grit, to the faint deep warmth that said slept, and then the digging, and then the meal, small and bitter and earned, the mountain giving with one hand what it had taken with the other. And the small sleeping hearts in the deep rooms of the talus knew him before the digging reached them, because his blood went ahead of his claws — thin and young, but an older and higher word than theirs, and it came with the weight the low things bow to in their sleep, and this too was part of what he was, and it had not been taught, because it was not a teaching.
+The slope he had learned was gone under it. The rock seam was gone. The green thread at the seep was gone. The talus where his paths ran was a white field with the tops of the stones standing out of it like drowned teeth.
 
-The den under the roots held him through it. The fallen giant made a house of its own death, roots up like a wall against the wind, a hollow beneath where the snow could not reach, and he made it his by the only right the mountain knows, which is use. He slept in it the long sleeps, the full ones and the empty ones, and between them he went out into the white and learned what the white had to teach.
+He stood in the middle of it with the hunger already up and looked for something that made sense.
+
+The hunger did not care that the world had changed. It said eat, and there was nothing to obey it with, and that was the first day.
+
+The second day he learned the snow's own smell.
+
+He had a nose, and a nose does not stop at a white field; it reads through. That was what the cold taught him, slowly, one failed hunt at a time. Snow had a smell of its own, thin and flat, and under the smell of snow, if the wind was wrong or the day was old, everything underneath it was a secret. But on a still morning, with the frost hard and the air clean, the snow carried smells upward like water carries oil. He learned to stand with his nose up on those mornings and read what the white had buried: a hare-kind sleeping in a drift, a fox-kind's line down a gully, old blood two days cold where something had died.
+
+He learned it as he had learned the slope. By being wrong about it and paying.
+
+The stone-runners saved him.
+
+They did not leave the talus in the cold. He found that out by lying beside a crack through most of one freezing afternoon, waiting for the hunger to answer a question he had not worked out yet. Nothing came out. But under his chin, through the rock and the snow over it, he could feel a slow warm breathing. The stone-runners were down in their cracks, wintering, fat and deep and stupid, curled together.
+
+He dug one out with his hands.
+
+The digging took most of the afternoon and left his claws split and blunt. He got one runner out of the crack and ate it in two bites. Then he dug for the next crack, and the next. By the end of that day his claws were thick and flat like small shovels, and something in him had already learned what digging was for, as his body had learned the hiding crouch in the summer.
+
+He did not think of it. It simply happened, day after day, as cold made his belly want more. The mountain was teaching him, and the teacher did not explain.
 
 ---
 
-It was in the first deep of the snow that he saw them at last.
+He saw the men for the first time in the middle of the cold.
 
-He had come down off the slope and across the first of the white woods, following a thin wrongness in the wind, when he heard them, and hearing them was nothing like hearing anything else, because there was no shape in him for the sound — a baying, broken and eager, that did not belong to any throat he knew. His body went still in the snow the way it had gone still on the rock when the wings came, and he came forward after that the way he had never come forward before, belly low, one slow placed foot at a time, to the edge of a thicket on the rise, and looked down into the wood.
+It was a late afternoon, the light going grey and thin, and he was up on the high rock above his hollow where the wind had swept the stone bare. Far down the slope, near the pass trail, something was moving that was not a beast.
 
-There were beasts there, and not-beasts. The beasts he knew the shape of — spirit hounds, in a way, though bigger and thicker than the spirit hounds of his knowing should have been, or maybe he had never known spirit hounds at all and knew them now, running loose in the snow with their heads down and their broken eager cry. Soul beasts, every one of them — everything that lives in the world is a soul beast, of some years or other — and these were the kept ones, and the keeping was the first thing of the not-beasts he ever learned to read. And with them, walking, the upright things.
+There were beasts there, and not-beasts.
 
-They were the smell from beyond the shoulder. He had carried that smell in his body all season, and now the smell had bodies, and the bodies were wrong in every way a body could be wrong, and his nature could not look away from them. Thin, where beasts are thick. Slow, where beasts are quick. Soft, where beasts are armored — no scale, no fur that mattered, and yet the cold did not seem to take them, and that was the first wrongness his body wrote down. The second was the hands. He watched the hands. The hands were never still, and they held things, and the things they held were not parts of them and were more than parts of them — long cold shapes that shone the way ice shines, and when one of the upright things raised such a shape, the world ended for a deer-kind thing running in the snow below, and the ending came from far away, without teeth, without claws, without any law of the kill he knew.
+The beasts he knew in the shape of spirit hounds, though these were bigger and thicker than any he had met digging in the snow. They ran loose in the white with their heads down and their cry going up in pieces, and they ran on lines, the whole pack of them, working lines as his own nose worked a trail.
 
-The deer-kind fell. The spirit hounds went to it with their broken cry. The upright things came after, walking, and there was no hurry in their walking, because nothing that had fallen to the cold shining shapes ever needed hurry, and they stood over the kill and did things to it with their hands and their shining, and the wind came up the slope and brought it all to him — the blood-smell, and the iron-smell, and the wrong-smell — and he stood in his thicket on the rise with every scale along his neck standing, and did not move, and did not breathe more than he had to, and the quiet thing in him was very large that day.
+Behind them, walking upright on two legs, came the not-beasts.
+
+He flattened on the rock and watched them come down the pass trail. They were slow and they were loud and they were wrapped in the hides of other beasts, and they carried long thin things over their shoulders that the grey light caught and turned to points of fire.
+
+The spirit hounds ran a deer-kind out of the lower woods.
+
+He watched the whole thing happen. The deer-kind broke from the treeline into the open snow, and one of the upright things stopped walking and put the long thin thing to its shoulder, and there was a flat hard sound like a stick breaking, and the deer-kind fell in the middle of a stride and did not get up.
+
+It fell before the hound had taken a length toward it.
+
+He lay on the rock with his jaws shut and his whole body still. There was no wound in the deer-kind that he could see at that distance. Nothing had touched it. And it was dead.
+
+He had just learned that the cold shining things the upright ones carried could reach across the whole slope and take a life out of it. The lesson went into him and stayed there, and it was not a lesson he would ever have to be taught twice: the death those creatures carried had no length in it. Distance did not protect.
+
+The hounds reached the deer-kind and stood around it, crying, and the upright things came up and did things to it with their hands and their thin bright blades, and then one of the hounds stopped.
 
 One of the spirit hounds lifted its head.
 
-He saw it happen the way it happened, which was all at once and forever. The spirit hound's head came up out of its work and turned toward the rise, and the baying stopped in its throat, and it stood in the snow with its nose working, and the world narrowed down to the wind between that nose and his thicket. He did not move. Moving was a thing his body had no offer of; he stood in the stillness the mountain had taught him, the snow on his blue back the color of shadow, and the wind, which had been against him all day, shifted in the way winds do when they are done with a beast, and went across, and carried his scent away into the white and away from the spirit hound and into nothing. The spirit hound stood a while with its question. Then one of the upright things said something to it in the tongue of the upright things, a flat hard sound, and the spirit hound went back to its work, and the world opened again.
+The wind had turned. He felt it come up the slope against his face, and he saw the hound's head come up out of its work and turn toward the high ground where he lay, and he knew, absolutely and at once, that the wind was carrying him down to the dogs' noses.
 
-They left before the light failed, taking the deer-kind with them on a drag of wood, the spirit hounds running and the upright things walking, and the wood emptied of them the way it had emptied of everything else, and he stood in his thicket long after the last sound of them had gone, and kept the shape of them the way he kept all the mountain's teaching — not as a thought, but as a place in himself, deep, where the shapes go that are never unlearned. The smell beyond the shoulder had bodies now. The bodies held the cold shining death at a distance. And the spirit hounds could ask questions. All of it went down into him, and settled, and stayed.
+He did not run. Running was a thing his body wanted and his body was wrong. He pressed himself flat into the hollow of the rock and lay with his whole weight along the stone, as he lay over the wettest mosses when the sun was full, and the wind went over him and down the slope and the hound stood with its nose up and its ears forward, asking the air a question.
 
----
+The wind kept going. It carried his smell down the slope, and then it shifted, rolled, and carried it past the hound into the empty country to the west, and the question went unanswered.
 
-The deep of the winter came then, and with it the thing he had been built without being built for — true hunger.
+The hound stood a while longer with its nose up. Then it dropped its head and went back to the meat, and the upright things finished their work and took the deer-kind away on a drag of wood, and the white slope stood empty and quiet under the grey sky, and he lay on his rock until the light was gone.
 
-Not the hunger of days, which was a companion. The hunger of the deep white, which was a country. Meals grew far apart. The digging in the talus went unrewarded for days at a time, the stone-runners sleeping deeper than his nose could follow; the woods held nothing for him, because the woods held the spirit hounds and the upright things in them now, and the quiet thing in him had written that country closed. The cold ate of him what the hunger did not.
+Men. That was the word, though he had no word for it. Men, and their kept spirit hounds, and the death that had no length.
 
-And all the while, the thing in him that never slept was at its work, because that is what it was for, and it had never once in his life been idle. The winter tried cold on him and found him changing under the trial: a down grew in beneath the scales where the cold had been finding its ways, and the blood learned its deep roads, keeping the warmth where the warmth mattered, and the belly learned to take everything there was to take out of a stone-runner and leave nothing behind, and the digging-claws came thick and blunt for the frozen grit. He did none of this. It was done the way his bones were done, by the same quiet workmanship that had closed the new scales over him in the autumn, without consulting him, without pause, feeding on everything the winter gave him to bear — the cold, the emptiness, the digging, the waiting — and paying it back as fitness, so that the season that was eating him was building him at the same time, and both were true, and he never once knew either. And deeper than the flesh, past the scales and the blood's roads, the work went on in places the mountain has no name for: the mind itself was deepening, the way water deepens a canyon, slowly and forever, taking every shape the winter gave him and making it part of the ground; and in his blood something old was being quietly refined, kill by kill and sleep by sleep, the way a blade is refined, toward a shape it had always carried and never yet shown. Even in the emptiness there was the breathing: the air of the mountain was not empty air, it was full of the faintness the way the world is full of it, and his body drew on it the way roots draw on water, in the deep sleeps and the still ones and the ones between, because the drawing went on the way the heart went on, and a winter that could starve him could not stop him, because what he was did not run on meals alone.
-
-He learned the particular loneliness of a full moon on snow, when the world is bright enough to hunt in and empty enough to make the hunting a joke, and the red thing in him rose in those nights, and he learned what the red thing was like when it was fed nothing at all.
-
-It wanted him to run. That was the whole of it, and it was the thing his kind lived by and died by, the pull to go at the world straight and fast and all at once, to find and tear and fill, and in the deep white nights it pulled him toward the lights he could now see burning beyond the shoulder of the mountain — small kept fires in the dark, and around them the wrong-smell, and under the wrong-smell, food, endless food, the smell of it riding the cold air like a madness. He stood at the edge of the treeline in those nights with the red thing rising in him, and the snow blue in the moonlight, and the lights burning, and he did not go, and the not-going was not gentleness. It was the quiet thing, and the mountain's whole year of teaching, and the shape of the cold shining death held up like a claw over the bodies of the upright things, all of it holding him at the treeline by the scruff of his nature, the way a mother beast holds her young when the young has not yet learned what is in the dark.
-
-The test came on its own, the way tests do, wearing the face of a gift.
-
-He found the blood from far off — a kill made and left, out in the open snow below the pass trail where the upright things came and went. The smell of it came to him across the white, warm and red and free, and he came to it at the edge of the dusk with the caution the mountain had beaten into him, circling, reading: the drag-marks of the spirit hounds, the boot-shapes of the upright things, the gone-ness of their passage, and then the thing itself — the offal of a great boar-kind, piled in the snow where the hands had left it, uneaten, unguarded, steaming faintly in the cold.
-
-It was a gift. It was also a place where anything might be killed that bent to eat it, and he knew that too, and he was reading the snow around it for the answer when the answer came out of the wood on the far side, low and gray and quick, and the hill-cat stood between him and the meat.
-
-It was bigger than he was. That was the first fact of it, and facts are what fights are made of. It was low and gray, built the way cold countries build their killers, with shoulders that rolled under a fur gone thick for the winter and eyes the color of the snow's shadow, and it looked at him the way the ones above look at the ones below, because that was the law it knew, and it knew itself above. He looked back at it from the snow with the red thing rising in him and the quiet thing holding, and neither of them made a sound, because the mountain does not give announcements.
-
-The cat came the way cats come, which is all at once from perfectly still, and the world became small and fast. The claws found him first, across the flank, and the pain of it was a bright cold thing, and the snow came up to meet him, and the red thing roared in him to tear, and the quiet thing said the one word it had, which was wait, and he waited inside the fight for the moment the fight would give him — the cat above him, weighty and sure, coming in to finish the thing its claws had begun, and the jaw he had been built with, the jaw of his kind, which does not strike and does not tear and does not let go, closed over the cat's foreleg at the shoulder, and held.
-
-There is no grace in a devourer's kill. The cat screamed and thrashed, and he went where it took him, over and over in the snow, holding; the free claws raked his back and he held; the world went red at the edges and the red thing wanted to rip, to open, to end it the loud way, and he held instead, because holding was the one thing in him that was deeper than the red thing, the blood-knowledge of his kind, the oldest word of it — take, and keep, and what you keep becomes you. The thrashing slowed. The screams went down into a wet thin sound. The snow all around them was torn and red, and the light was going out of the winter afternoon, and the hill-cat stood a long moment on three legs with its one free shoulder pressed against his jaw, shuddering, and then it was not standing, and then he was alone with it in the snow, and the silence came back to the mountain the way it always comes back, complete, and without opinion.
-
-He ate what he had come for, and he ate what he had won, and the eating was deep the way only the earned eating is deep, and when the fullness came, the deep sleep came down out of the dark on him like stone out of the sky, and took him where he lay in the red snow beside his kill, and did not ask him anything.
+It changed the map more than the snow had.
 
 ---
 
-He woke to the storm.
+The lights came out on the dark evenings after that.
 
-The wind was going over the wood in great gray waves, and the snow was coming down out of it like the end of something, and he lay in the drift he had slept into and felt himself the way a beast feels itself after the deep sleep, which is all at once and from the inside. Bigger. It was always bigger, after the sleeps, the mountain paying back in the dark what it had charged in the light; but this waking had an edge to it. The scales along his back had come hard, armor over armor where the claws had found their way in, and the place behind the jaw where the free shoulder had pressed was sore in a way that said it would stay sore, and would stay, and he got out of the drift and stood in the storm with the snow going past him gray and endless, and the scar beginning on him the way scars begin, which is for life.
+They stood beyond the shoulder of the mountain, down the pass side, small and orange, and they did not move. He could see them from the high rock on clear nights, three and sometimes four of them in a row, and every time he saw them the red thing inside him stood up and reached.
 
-The deep winter made its habit after that. Hunger and snow and the long sleeps; the digging in the talus when the digging gave; the white woods kept closed in his body, with the spirit hounds' questions and the cold shining death filed in them; the nights of the full moon, when the lights burned beyond the shoulder and the red thing rose and the quiet thing held, and neither of them won, and both of them grew. He learned the winter mountain all the way through, the way the mountain lets one beast learn it — in exchange for everything it can take, and the keeping of what it can't.
+That was the second thing he learned that winter. There was a hunger in him that pointed, and it pointed at the fires without knowing what fires were. The pull came up through his chest and legs, hot and simple, saying go down, take, eat; and it was bigger than the hunger of any empty day. It was the biggest thing in him.
 
-It was late in the deep, when the ice lay thick on the seep and the cold had become a thing with weight, that he found one of the lodges empty. He had come down-slope of the far pass in a wind that smelled of old smoke, following the shape of the wrong-smell to its source, and found the timber-and-stone place in the wood with no fire in it and no sound in it and the snow lying unbroken over its doors. The spirit hounds were gone. The upright things were gone. The fires were ash gone cold and white, and the snow had come into the doors and made itself at home, and the whole place stood in the wood like a pelt left on the stretching-frame, holding the shape of the life that had been in it.
+But there was a line. He stood at the treeline on the coldest evening with the lights hanging below him in the dark and the pull standing up in him like a column, and he did not cross the line. He stood there until his legs were shaking and the smell of smoke was in his throat, and he turned back and went up to his hollow and lay down, and the pull stayed with him all night as an old wound stays with a body.
 
-He went around it once, close, reading it the way the mountain had taught him to read, and the wind told him the whole of it: gone for days, going on season; gone down the mountain the way they had come, with their spirit hounds and their shining and their kills, taking the wrong-smell with them back into the world below the passes. They breathed like a season. That was the thing he kept of it — that the upright things came and went with the cold the way the snow came and went with the cold, and that the mountain was the mountain under them, and would be the mountain after them, and that he was of the mountain.
+He did not know why he had not gone. There had been no fear in it. There had been no thinking in it. Some part of him, older and slower than the pull, had simply looked at the whole shape of his short life and said: not yet, and the pull had not been able to bend it.
 
-The thaw had not come yet, but it was coming; he could feel it in the waits between the storms, the way the mountain felt everything, through the soles of the world. The forest stood at his back, dark and patient and deep, and its pull on him had grown with the winter the way everything in him had grown with the winter, quietly, and on every side at once.
-
-He was still small. The white was still white. The hunger came at dawn, the way it always came, and he went out into it the way he always went out, because the mountain had taught him the last and first of its laws, which is that the season does not argue, and neither does the work.
+That night was the first night he carried the red thing without using it, and his body remembered how.
 
 ---
+
+The offal brought it to a head.
+
+Late in the cold, hunger drove him down toward the pass trail, where he had not gone since the deer-kind fell. He found a kill there, or what was left of one: bones, a hide, and a red mess of gut and scraps the men had left on the snow when they went.
+
+He ate it. Carrion was carrion and the hunger was real, and while he ate he kept his nose working, and through the smell of the dead thing he caught something else. Beast-smell, strong and fresh, laid over the offal like a statement.
+
+Something had been at the same meat, recently, and that something had marked the place.
+
+He got his head up out of the offal with his jaws red. The smell came from the rocks above the trail, and as he read it, the rocks moved.
+
+A cat came off them.
+
+It was grey and big and thick-furred, made heavy for the cold, and it came down the rocks at him without a sound, and it was on him before the go-fast part of him had finished waking. Claws went across his back and opened the hide there in four long lines. Teeth found the loose skin behind his shoulder and tore it. The two of them went over in the snow together, and the cat came up on top, and it was faster than anything he had ever fought.
+
+He had fought nothing. That was the true trouble. The stone-runners ran and the beetles crunched and the hill-cat was his first real enemy, and it was better than him at everything except one thing.
+
+He was heavier than he looked and he had a jaw.
+
+The cat raked him twice more, opening his flank and his shoulder, and he took it, because taking it was the only way to get close. He gave ground. He rolled with the blows instead of into them, as a leaf goes with water, and the cat took the ground and came for the throat as its kind does.
+
+When the throat came, his jaws closed on the back of the cat's neck.
+
+Then it was simple. The cat fought as a beast fights when its whole life is suddenly in one place, and he held, and the holding was quiet and long, and the snow went red under them both, and after a while the cat's strength came apart into a long shivering and stopped.
+
+He let go and stood over it, and his legs were shaking, and his own blood was running down his flank into the snow.
+
+Then he did the other thing. He ate.
+
+He ate the hill-cat down to the bones and the hide and the cold, and the full-ness came up over the hunger like water rising, and this time the red thing came with it: the boil, the old rage of his kind, the thing that wants the whole world torn and eaten and would kill him one day doing it. He stood over the bones with the red thing standing in him and the blood on him and the lights of the men burning in the dark below, and for a while he did not know what he was going to do.
+
+Then the sleep came down on him, and the red thing went under with it.
+
+He slept in the open snow by the bones of the cat, through the night and the next day and another night. When he woke, the world was louder and nearer than before, and the wound lines on his back had closed to four pale scars that would stay there as long as he lived, and the scales over his shoulders had gone from grey to a deeper grey that light did not go through.
+
+He was bigger. The cold was less. And he could feel, faintly and without knowing how, that his nose had grown sharper again.
+
+That was the winter: a white country, a louder world, and the first enemy that ever tested him, carried in the scars behind his jaw where the fur never grew right again.
+
+---
+
+Late in the season, in the waits between storms, he found the lodge empty.
+
+He came on it from upwind, following a smoke-smell that had gone cold and strange, and he found the timber-and-stone place standing in the snow at the head of a little valley with its door open and its inside dark. He went around it twice at a distance, reading. Fire-ash, days old. The smell of men, thick inside, fading at the edges. And no sound at all.
+
+He went closer. There was snow drifted over the doorway and the fire-stones inside were grey and dead, and the smell of the men who had built the place hung inside it so heavy that the whole lodge smelled like a wound.
+
+Men had been here, and had gone. The shelter they built was empty and it stayed empty, and something in him stood at the threshold and read that and did not go in.
+
+The place taught him what men were, better than the kill on the trail had. They were not like the badgers that bolt, or the cats that come back. They built a place and lived in it, and then the whole breathing of them went out of it at once, like a season ending — they went somewhere, together, on some errand he could not see, and the errand took all of them.
+
+He left the lodge standing empty behind him and went back up the slope.
+
+Men breathe like a season. That was the keep, and he kept it whole: they come, and they go, and their going is bigger than anything he could read.
+
+The storms thinned after that. There was a day of dripping, and a night when the cold came loose, and then a morning when a whole slope of the white had gone grey and soft and the water under it was moving.
+
+He stood on the warm rock that afternoon, in the sun, thin and hungry and bigger than he had been when the white came, and watched the mountain start giving itself back.
+
+The first season had taught him water, hunger, wind, and stone. The first winter had taught him snow, men, and the red thing inside himself.
+
+He climbed down into his hollow with the sun on his back and the smell of wet ground coming up the slope, and something in him — the deepest thing, the thing that had been counting his life without ever saying a number — sat up and said one word, low and firm: more.
+
+---
+
+At the lodge, the fire had burned down to coals and two of the men sat at it with their boots off and their hands out to the heat.
+
+"The deer runs are thinning," said the older one. He had a knife and a stick and he was working the stick down to a point, slow, a shaving at a time.
+
+"They thin every year," said the other. "That is what winter does to deer."
+
+"I mean the runs are thinning for us." The old one turned the stick and looked at the point. "There is a hole somewhere in the lower woods that is taking more than we take. Three clean kills this month, and on two of them the meat was so little left that the ravens had been first."
+
+"Cat?"
+
+"Cat eats where it kills. This moves."
+
+"Bear moves."
+
+"Not in the low woods, and not this season." The old man turned the stick once more. "You go out with the hound tomorrow and you read the ground where the third kill was. Read it before noon, when the light is flat."
+
+The other man said nothing for a while. The fire spat.
+
+The door came open and the third one came in with a hound behind him, and the cold came in with both of them. He shut the door with his heel and stood over the fire with his hands out.
+
+"Snow on the pass," he said. "To the knee, and deeper above the third turn."
+
+"To the knee," said the old one, "and a month of it yet to come."
+
+"The line held?"
+
+"The line held. The dogs read it three times and there was nothing in it."
+
+"Then the pass is finished for the year," said the old one. "On paper it is open another month. On the ground it is finished tomorrow. The ring-light is what the market wants now, and the market pays for ring-light, not for pelts."
+
+"Pelts are pelts," said the younger one at the fire.
+
+"Pelts are pelts," the old one said. "And the boy could have taken a light off a hare-kind years since. He went up the pass with his father's bow instead, like his father."
+
+"He is going out with the light next season."
+
+"He is going out with his bow," said the old one. "The light comes when the ground gives it, and the ground is giving less every year. That is a thing the young ones have not noticed yet."
+
+"And if the thing in the lower woods comes up to the pass?"
+
+"Then it comes up," the old one said. He turned the stick once more, and threw it on the fire. "And we will hear about it from the dogs, and the dogs will decide what we do. That is what we keep them for."
+
+The dogs were asleep in the straw by the door in a heap, and one of them lifted its head at the sound of its own name and put it down again.
 
 ## Footer
 
-- Word count (body): ~3,470.
-- Chapter time: DL 3661 deep cold season → the first waits of the thaw (real age ≈ 3 months → ≈ 8 months; exact figures panel-only).
-- Gate: none — Chapter 3 waits on the author's go.
-- Anchors touched this chapter (mirrors updated same turn): DL 3661–62 — THE COLD SEASON: snow as new teacher (scent-through-snow; the nose road deepening — Talent senses road, passive, never named); digging-out of wintering stone-runners (honest scarcity-economy, no leaps); FIRST SIGHTING OF MEN — spirit hounds, the upright things, the cold shining death at a distance (iron spears; a deer-kind killed from far away), the spirit hound's question answered by a kind wind (nothing staged, no contact, no human ever knows he was there); the lights beyond the shoulder seen at night (bloodthirst pulled toward them; the quiet thing holds at the treeline — DS-08 honored, flaw uncured); the offal test at the pass trail and THE FIRST TRUE FIGHT — the hill-cat [design], bigger, faster; the devourer's kill by jaw-hold (species law: take, and keep, and what you keep becomes you — no grace, paid in wounds: raked flank/back, the scar behind the jaw for life); first carrion-scavenge alongside first kill; bloodthirst-at-the-feast held by fullness into the deep sleep; woke bigger and armored-scaled in the storm (deep-sleep conversion window, DS-04 sliver law — no numbers, no leaps); the EMPTY LODGE found — men breathe like a season (the wrong-smell's source seen, untrespassed); the thaw felt in the waits between storms; the forest's pull grown; THE WEIGHT OF HIS BLOOD AT THE TALUS DIGGING — the small sleeping lives know him before the claws arrive (bloodline suppression, DD-10; author s11 correction written into prose; thin and young, but real). THE ADAPTATION ENGINE SHOWN (s5 correction): the winter's trials met by self-growing adaptation — winter-down under the scales, the blood's deep roads, the empty belly made efficient, digging-claws thickened for frozen grit, and the ambient drawing (the mountain air is not empty; the body draws on the faintness the way roots draw on water, even in starvation — never dormant, no dead season); all passive, automatic, exposure-fed, none of it done BY him. Canon adherence: species sheet honored (bloodthirst cycles with hunger, deep sleep after feeding, devour-and-become); Talent never named; no numbers in prose; no canon individuals; English-only.
-- Figure audit: zero count-numbers in prose. All cultivation/age figures panel-only.
-- s32 correction (2026-09-20; author, verbatim: "soul land have soul beast not normal animal, even commonest thing is blue silver grass, correct everything even things i don't tell"): the men's kept beasts are the SPIRIT HOUNDS (soul beasts of the hound kind — never dogs); the soul-beast law stated in the open ("everything that lives in the world is a soul beast, of some years or other").
+- Word count (body): 3,095 (verify.py, s36 gate). Spoken dialogue: 27 lines (8.7 per 1000w). Prose metrics (s35 house-grammar method, prose-only): average 17.6w, median 14w, longest 60w; no sentence over 60w; motif word "the way" x0.
+- Chapter time: DL 3661–62 — the first cold season (exact figures panel-only).
+- Gate: standing delegation (2026-09-20). HUMAN SCENE: one scene at the lodge at the first snow — the men count the thinning deer runs, the pass line, the boy and his bow, the dogs' work — written at house density. The dragon is never inside it, and nothing human is understood anywhere in the chapter (firewall stands). Beats held: snow as teacher (scent-through-snow); wintering stone-runners dug out; FIRST SIGHTING OF MEN — spirit hounds, iron killing at a distance, the hound's question answered by a shifting wind; the lodge lights and the red thing held at the treeline; the offal and THE FIRST TRUE FIGHT — the hill-cat killed by jaw-hold, paid in the scars; first carrion; the deep sleep and the visible growth (armor scales, sharper nose); the empty lodge read; the thaw felt.
+- s36 rebuild note (2026-09-20; author, verbatim: "Now rebuild chapter 1 to 12 completely" ): chapter rewritten in full at the house grammar (foundation/HOUSE_STYLE_AUDIT.md): scene-first opening, short plain sentences, scenes shown moment to moment, no abstraction engines; the souls-beast rule (SB-11) held — spirit hounds, soul beasts, no ordinary animals.
+- Figure audit: zero count-numbers in prose. All age/cultivation figures panel-only.

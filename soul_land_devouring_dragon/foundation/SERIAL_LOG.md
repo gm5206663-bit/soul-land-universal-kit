@@ -1194,3 +1194,60 @@ One entry per working session. Newest at the bottom.
   beast-chapter dialogue gate at zero spoken lines; the project sweep reads it as
   a report); zero digits in prose; footer carries the exact count.
 - PUSH: kit commit + push this session; workshop mirror re-synced.
+
+### Session 36 — 2026-09-20 (THE FULL REBUILD — Chapters 1 to 12 to the house grammar)
+- Author, verbatim: " Now rebuild chapter 1 to 12 completely " — every chapter of
+  the serial rebuilt in full to the house grammar measured in s35
+  (foundation/HOUSE_STYLE_AUDIT.md); same beats, same canon, not patches.
+- What was done, in one pass per chapter, each with its OWN human-side scene on
+  the page (the law: a chapter with a human-side beat always carries that scene,
+  written at house density -- voices are how this fandom reads; at most one such
+  scene per chapter; never a planning scene; never a re-tell):
+  ch2 THE LAW OF THE SNOW -- the lodge at the first snow: the thinning runs, the
+  pass line, the boy and his bow, the dogs' work (27 spoken lines; 8.7/1000w).
+  ch3 THE RING OF LIGHT -- the fern-country kill: the young hunter's first light
+  going in, the line's count, the bull in the east (30; 8.9). ch4 THE WEIGHT OF
+  BLOOD -- the deer-kind's husk: three men draw a thin light and leave the meat;
+  the hound reads the north ridge and will not settle (25; 9.6). ch5 THE HUNGER
+  THAT HAS NO MEAL -- the deep pass: the line set at chest height, the wire, the
+  bait in the open, the boy and the hound at the camp (36; 10.7). ch6 GREATER
+  THAN THE WALL -- the first mild day of the year: two men pull the line, bait
+  gone, ground unmarked, the pass written down as giving nothing (27; 9.2).
+  ch7 THE SENSE OF YEARS -- the eastern fold: the fold closed, the wall built,
+  the wire counted, the boy on the north ridge (28; 9.0). ch8 THE DEEP COUNTRY
+  -- the camp under the giants' trees: eleven days of marks read into a ledger,
+  the thing that walks a straight line, the hound reading something for two days
+  (29; 8.6). ch9 THE KEEPING EARNED -- beneath his ledge: the hunt worked up the
+  break, the print measured hand to hand, the craft of the light that stands
+  where a beast dies away from the line (32; 8.2). ch10 THE COLD COUNTRY -- the
+  winter fold: the water line kept, the box, the deep-colour beast at the second
+  water the old man means to have (31; 9.1).
+- Chapters 11 and 12: dialogue raised to the house target on the existing s34
+  rebuilds (27 lines, 9.7/1000w; 32 lines, 9.8/1000w). One short panel each,
+  unchanged in function.
+- Chapter 1: the s35 rewrite motif-swept and re-gated; it remains the ONLY
+  chapter with no human side (the beat forbids it -- the hatch, the empty
+  mountain), recorded in its footer. No two chapters go without voices.
+- Measured result (s35 house-grammar method, prose-only): sentence averages
+  16.2-21.3 words per chapter; longest sentence 52-60; no sentence over 60;
+  motif word "the way" 0-1 per chapter (was 11-17 at the start of the session).
+  Body words: ch1 2,595; ch2 3,095; ch3 3,389; ch4 2,600; ch5 3,375; ch6 2,930;
+  ch7 3,096; ch8 3,362; ch9 3,879; ch10 3,420; ch11 2,786; ch12 3,279.
+- RULING RECORDED (ER-13, the standing light): a killed soul beast's light rises
+  over the body and stands where it died; it is taken by a soul master standing
+  at it (into the frame, or on the border into a light-box for the market); a
+  light no one stood at is left standing and dims. The ch3/ch9 husks and the
+  ch10 second-water stag were re-staged to this rule in the rebuild (the stag's
+  light DRAWN and gone before he walked the ground -- the two kneeling-marks
+  pressed in the moss).
+- Mirrors swept: TIMELINE (the ch10 take; the ch12 ring-slot cell no longer
+  quotes the page-side lecture the s34 style law struck), ADAPTATION_LOG (ch10),
+  CHARACTERS (Old Qin's motive line re-quoted from the page), CANON_LEDGER
+  (+ER-13), STATUS_PANEL (header), HOUSE_STYLE_AUDIT (the queue marked done).
+- Gates: verify.py per chapter PASS (ch1 FAILs the three-spoken-line guard only,
+  the recorded beat-forbids exception); project sweep PASS -- all hard gates
+  clean; zero digits in prose; footers carry counts, metrics and the scene law.
+- PUSH: kit commit + push this session; contributions registry edge + log event;
+  workshop mirror re-synced and diffed. Beat lists for ch2-10 verified against
+  the pre-rebuild anchor lists (the talus-digging and "forest's pull grown"
+  beats of ch2 stand in the body and in codex/TIMELINE.md).

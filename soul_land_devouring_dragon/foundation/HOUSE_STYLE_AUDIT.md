@@ -102,11 +102,20 @@ WebNovel and FanFiction.net; Soul Land / Douluo Dalu, the same genre and fandom)
    the ring-slot law (ER-12), the firewalls, the footers with exact figures.
 
 ## 5. THE QUEUE (rewrite to these targets, in order)
-- Chapters 11–12: style pass done (avg 17 and 19); they still carry under-target
-  dialogue (6.5 and 4.3 per thousand) → one dialogue pass on each, with the human
-  scenes brought to house density.
-- Chapters 1–10: full rewrite to these targets, two to three per pass.
-  Chapter 1 is the test case: it must open the way a fanfic opens.
+- DONE in session 36 (2026-09-20, author: " Now rebuild chapter 1 to 12
+  completely " ): every chapter rebuilt to these targets. Chapter 1 (s35 test
+  case, motif-swept and re-gated in s36) carries no human side — the recorded
+  beat-forbids exception, and no second chapter goes without voices.
+  Chapters 2–10 each carry ONE human-side scene, written at house density
+  on the page (27 / 30 / 25 / 36 / 27 / 28 / 29 / 32 / 31 spoken lines;
+  8.2–10.7 per 1000w) — the takers' line: the lodge, the fern-country kill,
+  the husk, the pass snare, the thaw pull, the eastern fold, the deep-camp
+  ledger, the hunt beneath his ledge, the winter fold. Chapters 11–12: dialogue
+  brought to 9.7 and 9.8 per 1000w, panels kept at one short scene each.
+  Prose now averages 16.2–21.3 words per chapter, longest sentence 52–60,
+  motif word "the way" 0–1 per chapter. Gates: verify.py per chapter and
+  project sweep PASS (the sweep reports Chapter 1 as the only chapter under
+  three spoken lines, as ruled).
 - Every rewrite: gates, footers, mirrors, SERIAL_LOG, push, workshop sync —
   the standing procedure, unchanged.
 
