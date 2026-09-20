@@ -73,3 +73,20 @@ scenes, people talking. HARD RULES from here (machine-checked where possible):
    chapter at most, carrying only what the beast side cannot; never a planning
    scene; never a re-tell of a beat already told from his side. Default: none.
 6. FOOTERS/ledgers keep the exact figures; prose keeps none (kit 07 §4).
+
+## HOUSE GRAMMAR (measured, s34 audit — see foundation/HOUSE_STYLE_AUDIT.md)
+Measured across every project in this workspace: the house norm is sentence
+average 19-30 words with 10-20 spoken lines per thousand words. The Devouring
+Dragon serial was the single outlier (average 45, longest 250, dialogue 0.8 per
+thousand -- twenty times less dialogue than Soul Land 2). Binding targets:
+1. Sentence average <= 25 words per chapter; no sentence over 60; no
+   one-sentence paragraphs.
+2. Dialogue >= 8-10 spoken lines per thousand words wherever a human-side scene
+   exists; chapters with human-side beats always carry that scene on the page at
+   house density (voices are how this fandom reads). No human side at all only
+   when the beat forbids it, never twice in a row.
+3. Open inside a scene; at least one hard scene in real time; two or more small
+   finished scenes per chapter.
+4. At most one human-side scene per chapter unless the chapter IS a human-side
+   chapter; never a planning scene, never a re-tell.
+5. Motif words are texture, never the sentence engine.

@@ -155,3 +155,22 @@ Before shipping:
 
 All of these except the last are machine-checked by `tools/verify.py`. The last one is yours
 to answer honestly.
+
+---
+
+## 9. HOUSE GRAMMAR (measured standard, 2026-09-20)
+
+Drawn from published Soul Land fanfiction read directly and from the corpus of
+this workspace (every project measured: average sentence 19-30 words, dialogue
+10-20 spoken lines per thousand words). A chapter that sits outside this band
+does not read like the fandom and will be rejected by the author regardless of
+its facts.
+
+- **Sentence average <= 25 words; no sentence over 60; the median near 15.**
+- **Dialogue >= 8-10 spoken lines per thousand words** in any chapter that has
+  people in it. Exposition is delivered in speech, by named characters with
+  wants, the way canon and the fandom both do it.
+- **Open inside a scene** (a body doing something, or a voice speaking).
+- **Several small finished scenes** per chapter, at least one in real time.
+- **Plain concrete nouns.** Motif words are texture, never the sentence engine.
+- **End on a hook**: a decision, an arrival, a threat, a name.
