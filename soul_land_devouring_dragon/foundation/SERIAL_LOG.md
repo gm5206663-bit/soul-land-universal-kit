@@ -763,3 +763,63 @@ One entry per working session. Newest at the bottom.
   (the dragon never hears them; firewall stands); (2) chapter footers KEPT
   (author ruling overrides kit 07 §3 for this serial); (3) the kit governs
   the author's brand-new fiction, built from scratch starting this session.
+
+### Session 28 — 2026-09-20 (Chapter 11 — The War of the Lists)
+- Author delegation (verbatim): "Let's continue Devouring dragon fen fiction"
+  + "You take everything related to this project to your workshop and then
+  continue while also update on my GitHub" — full ownership of the workflow
+  granted (workshop mirror, continued writing, push to GitHub); the chapter
+  go is given.
+- All foundation/codex/bible files re-read from the cloned kit before writing
+  (the project's own handoff order). The 2026-09-18 rulings confirmed from
+  the primary sources (RAILS.md tail + this log, session 27): the parallel
+  year-takers panels (faces, names, dialogue) APPROVED from the chapter they
+  are next used in; DD footers KEPT (registered kit-07 §3 exception); the kit
+  governs the author's new fiction, the serial keeps its locked shape.
+- Chapter 11 written: "The War of the Lists" (~2,790 words; DL 3664 thaw →
+  green season; real age ≈ 54 → ≈ 58–60 months). Beats: the deep thaw (the
+  green up out of the ground before the sky's word — every country keeps its
+  own weather); the smoke-line gone (the winter place struck — they stayed,
+  and they went, and the going is the going of readers); the SECOND LINE
+  TAKEN (the broad-antler of the high break [design] marked, taken by the
+  year-takers at the marked hour; pale gold read; the list counts the line,
+  not the weight; the faith of the kept-for spent twice → the patience of
+  the choosing); THE PARALLEL PANEL (the ruling, first use — Bren the list-
+  keeper, Yorre the dogs, Sella the young one; their list on paper; their
+  motive on the page; Sella's mark-observation: "like a name signed" — the
+  kill word from their side; the dragon never hears, never sees — separate
+  scene, separate hour, firewall stands); THE RACE WON (the map of their
+  going does its first green work — the window of hours; the thick-paw of
+  the green run [design] taken); the veiling's NEAR-MISS in the wide green
+  (the stillness costs time; the last stride cost; the jaw-work holds); the
+  voice UNSPENT (the winter's price bought a summer's silence); THE TWO REDS
+  met at the deep meal (the boil and the whisper; the choosing stands
+  against both and finds the same standing); the kill word placed; the fixed
+  things held in the green (nothing staged); the thread sings in the green
+  (the song does not season); the wall at the thousand far, unfelt; CLOSE:
+  the season's question over the green — the next line, and which of the two
+  lists would take it.
+- verify.py (unified v2) over the chapter: PASS — 2,787 prose words, 19
+  dialogue lines (the hard dialogue gate satisfied by the ruling's parallel
+  panel), 0 hard failures (one advisory: no year-range panel — DD chapters
+  carry none by their registered shape). Manual sweeps: zero digits and zero
+  CJK in prose; the "the way X" connective audited and held to deliberate
+  uses (s25); no canon individuals; the Talent never named; the dragon's
+  panels wordless (Lock 10); footers kept (ruling).
+- Hunter names are [design] (Bren, Yorre, Sella) — flagged for author
+  acceptance; the author may correct. No new canon consumed (no canon
+  individuals or beats touched; all ring-economy and era facts already
+  receipted in the ledger).
+- Mirrors synced AND grep-verified same turn (record law): STATUS_PANEL
+  (all blocks, incl. the not-takings ledger and the Men ledger extension);
+  PROTAGONIST (state); HIS_STATUS_PANEL (live edge + §4 flaw line + §5
+  voice/veiling lines + §7 kept shapes + §8 kept shapes; the race-skill
+  state discrepancy with STATUS_PANEL reconciled to state 5); TIMELINE
+  (+1 row); CREATURES (+broad-antler, +thick-paw rows); CHARACTERS (first
+  named humans in the serial — Bren, Yorre, Sella); CONTINUITY (ch11 anchor
+  row; character register: year-takers faceless → FACED; panel endpoint);
+  ADAPTATION_LOG (ch11 delta); README (live edge + next beat + rulings in
+  force; the stale verify path fixed to the in-repo kit path).
+- Workshop mirror /home/user/workshop/devouring_dragon/ updated (the author's
+  delegation: "take everything related to this project to your workshop").
+- Pushed to the author's GitHub (soul-land-universal-kit) the same turn.

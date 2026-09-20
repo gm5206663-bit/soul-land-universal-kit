@@ -552,3 +552,73 @@ body). The Talent is never named; deltas record its RESULTS.
   marked); the cold country must keep being learned (its weather is its own);
   the voice's heat-price in the cold; the red want of every lean season; the
   standings of the greatnesses walked between; the thread's road unended.
+
+## Status Delta — Chapter 11 close (DL 3664 thaw → green season; real age ≈ 58–60 months)
+- SENSES / MAP road: THE DEEP THAW — the green came up out of the ground
+  before the sky's word; the outer green's ledger failed the deep, as the
+  outer cold's did (every country keeps its own weather — the winter's
+  lesson carried into the spring); the deep green filed as a season already
+  started taking. THE SMOKE-LINE GONE — the winter place struck at the
+  thaw; the map rewrote the line it never held: they stayed, and they went,
+  and the going is the going of readers (a hunting line that goes into the
+  green of a country it has read goes to work, and work does not go home);
+  the next smoke kept as an edge.
+- SPIRIT-MIND road: INTELLIGENCE LAW honored — the green season written down
+  as pages in the ledger; the marked quarry kept in the deep place with its
+  days and hours and the faith of the kept-for; the war of the lists rewritten
+  with its second kind of page (the line that could be lost; the taking still
+  taken); the war's ledger kept: what is taken in other hands, what is taken
+  in his.
+- MEN ledger: the year-takers STRUCK the winter place at the thaw and went
+  deep with the green (the going is the going of readers); the reader's
+  parallel panel (the 2026-09-18 ruling, first use) gave them faces — BREN
+  (the list-keeper; the grey stag's purple ring in his keeping; "the list
+  cares about years"), YORRE (the dogs; "the old ones say the deep country
+  has its own keepers"), SELLA (the young one; the deep kills left whole:
+  "the same mark, the same shape, like a name signed" — the kill word seen
+  as a signature from their side); their list on paper, their motive on the
+  page (the deep keeps its own green; the list is deep). No contact; nothing
+  reaches him; the dragon never hears; the firewall stands.
+- DEVOURING road: the lean end of the cold, then the green season's first
+  deep meal — THE THICK-PAW OF THE GREEN RUN [design] taken at the window's
+  middle (the race won); the taking after the want-lesson and after the
+  faith-spent (the want as edge, not rider; the patience of the choosing);
+  the bloodline dividend sorted per DS-10 (the lesser burned; the deep and
+  true fed the dragon's blood — quality first).
+- WHAT WENT WRONG (PROSE LAW s25, the failure first): THE SECOND LINE TAKEN —
+  the broad-antler of the high break [design] marked with the patience of the
+  marked days, taken by the year-takers at the marked hour; the ring-light
+  pale gold (hundred-year class; color read, never named) — the first line
+  darker than pale gold, the second pale gold, and the list counts the line,
+  not the weight; the cost paid in the days of the marking, the meal not
+  eaten, the faith in the ground spent twice. THE VEILING'S NEAR-MISS in the
+  wide green — the crossing's heavier presence thinned the hush on the open
+  run; two low lives turned their heads; the stillness cost time; the time
+  cost the thick-paw's last stride; the jaw-work held the rest — the green
+  is the veiling's own climb (its next truth).
+- THE VOICE road: UNSPENT through the green's first taking (the taking came
+  on ground and hour and jaw); the winter's price (the cold's miserliness)
+  bought a summer's silence; the silence, kept, worth more than the calling
+  spent — the voice's next truth.
+- BLOODTHIRST ledger (DS-08, uncured): THE TWO REDS MET — the deep meal gave
+  the red thing of the FULLNESS its summer back (the boil over the top of
+  the meat) and put meat in the red thing of the WANT (the whisper with
+  sharpness in it); the two reds stood at the same hour; the choosing stood
+  against both and found the same standing (the choosing is against the
+  choosing's own being taken — and is not taken); the two words of the red
+  thing named at last as one thing, and the line the choosing stood on
+  written in the deepest place.
+- Craft: the kill word placed at the meal's end (the deep country's craft;
+  his to speak, not only his to fear).
+- Cultivation (panel; no clock, s7): REAL AGE ≈ 58–60 months; CULTIVATION-AGE
+  ESTIMATE ≈ 180–195 years — HUNDRED-YEAR CLASS (the cold country's lean
+  meals chosen deep, then the green season's first deep meal; quality first).
+  Next barrier at cultivation-year 1,000 (SB-03), unaged, unfelt. No leaps.
+- New pressures: the war of the lists in the green (the two lists converge
+  on the same heavy kind — the season's question: the next line, and which
+  of the two lists would take it); the green country must keep being learned
+  (its weather is its own; its wide ground is where the heavier presence
+  lives); the veiling's green climb (the heavier presence, its own
+  discipline); the voice's kept silence (spent or kept, at what price); the
+  standings of the greatnesses walked between in the green; the thread's
+  road unended (the song does not season; nothing staged).

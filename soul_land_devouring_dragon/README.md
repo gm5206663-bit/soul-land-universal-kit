@@ -15,7 +15,7 @@ Authority order: author word > NO_MISTAKE_LIVE_RULES > FOUNDATION/CANON_LEDGER
   HIS_STATUS_PANEL (DERIVED clean sheet — author-facing)
 - codex/ — CREATURES, TIMELINE, PLACES, CHARACTERS, GLOSSARY,
   KNOWLEDGE_FIREWALLS
-- chapters/ — Chapter_01 … Chapter_10
+- chapters/ — Chapter_01 … Chapter_11
 
 ## HANDOFF (kit 10)
 READ FIRST, in order:
@@ -25,6 +25,16 @@ READ FIRST, in order:
 4. foundation/CONTINUITY.md — anchor table + forward references
 5. the last two chapters
 6. foundation/SERIAL_LOG.md — last three entries only
-LIVE EDGE: Chapter 10 — The Cold Country (DL 3663 cold season → turn of year)
-NEXT BEAT: Chapter 11 — the fourth year opens; author's fresh go required.
-VERIFY: python3 /home/user/SOUL_LAND_WORKSPACE/kit/tools/verify.py /home/user/soul_land_devouring_dragon
+LIVE EDGE: Chapter 11 — The War of the Lists (DL 3664 thaw → green season)
+NEXT BEAT: Chapter 12 — the green season deepens: the two lists converge on
+the same heavy kind; Sella's mark-observation may turn to a list-line of its
+own (the keepers, named from their side); the veiling's green climb; the
+voice toward its next truth; the fixed things still walked between (nothing
+staged); the wall at 1,000 far, unfelt. Author's fresh go required.
+RULINGS IN FORCE (2026-09-18, session 27): the year-takers carry faces,
+names and dialogue in the parallel panel (the dragon never hears; firewall
+stands); DD chapter footers KEPT (registered exception to kit 07 §3); the
+kit governs the author's new fiction and stands as reference law — this
+serial keeps its locked shape.
+VERIFY: from the kit repo root:
+python3 SOUL_LAND_WORKSPACE/kit/tools/verify.py soul_land_devouring_dragon/chapters/

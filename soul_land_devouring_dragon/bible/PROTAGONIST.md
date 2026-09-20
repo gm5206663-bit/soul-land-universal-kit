@@ -37,7 +37,31 @@
   nothing is ever granted free.
 
 ## State (updated at the end of every working turn)
-- Now: after Chapter 10. The cold season of the third year (DL 3663 → turn
+- Now: after Chapter 11. The thaw and first green of the fourth year
+  (DL 3664; ≈ 58–60 months old) — THE WAR OF THE LISTS IN THE GREEN SEASON:
+  the deep thaw (the green comes up out of the ground before the sky's word;
+  the outer green's ledger fails the deep, as the outer cold's did); the
+  smoke-line gone (the winter place struck; they go deep with the green —
+  the going is the going of readers); the SECOND LINE TAKEN (the broad-
+  antler of the high break [design], marked, taken by the year-takers at
+  the marked hour; pale gold read; the list counts the line, not the
+  weight); the PARALLEL PANEL (the 2026-09-18 ruling, first use — the
+  year-takers carry faces in the reader's eyes: Bren the list-keeper, Yorre
+  the dogs, Sella the young one who sees the mark — "like a name signed";
+  the dragon never hears, never sees); THE RACE WON (the map of their going
+  does its first green work — the window of hours; the thick-paw of the
+  green run [design] taken); the veiling's NEAR-MISS in the wide green
+  (the heavier presence thins the hush; the stillness costs time; the last
+  stride cost; the jaw-work holds — the green is its own climb); the voice
+  UNSPENT (the winter's price bought a summer's silence); THE TWO REDS met
+  at the deep meal (the fullness's summer back — the boil; the want with
+  meat in it — the whisper; the choosing stands against both and finds the
+  same standing; the two words of the red thing named at last as one
+  thing); the kill word placed at the meal's end; the fixed things held in
+  the green (nothing staged); the thread sings in the green (the song does
+  not season); the wall at the thousand far, unfelt; the season's question
+  over the green: the next line, and which of the two lists would take it.
+- Before this (ch10): The cold season of the third year (DL 3663 → turn
   of the year; ≈ 54 months old) — THE COLD COUNTRY: the outer winter's
   ledger broke (the cold comes up out of the ground; the first ambush stood
   empty; the lean days paid); the year-takers WINTER in the deep country
@@ -96,7 +120,7 @@
   sleep under the first snow); the country kept whole in the beast-mind as a
   map. Den: the ravine den over the stream.
 - Cultivation: REAL AGE and CULTIVATION-AGE tracked separately (SB-01): real
-  age ≈ 54 months; cultivation-age ESTIMATE ≈ 180–195 years → HUNDRED-YEAR
+  age ≈ 58–60 months; cultivation-age ESTIMATE ≈ 180–195 years → HUNDRED-YEAR
   CLASS (yellow-ring tier). FIRST BARRIER at cultivation-year 100 (SB-03):
   CROSSED. Next barrier at cultivation-year 1,000, unaged, unfelt. NO
   arithmetic clock (s7) — estimates move with events; figures live in

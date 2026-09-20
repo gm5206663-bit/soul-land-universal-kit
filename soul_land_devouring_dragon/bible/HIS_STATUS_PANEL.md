@@ -1,5 +1,5 @@
 # HIS STATUS PANEL — clean sheet
-Live after Chapter 10 (DL 3663 cold season → turn of the year — the cold country kept him).
+Live after Chapter 11 (DL 3664 thaw → green season — the war of the lists in the green; the season's question over the green).
 DERIVED SHEET — mirrors foundation/STATUS_PANEL.md (the single status source,
 per kit 02) and ADAPTATION_LOG; updated each chapter. If this sheet and
 STATUS_PANEL ever disagree, STATUS_PANEL is right and this sheet is stale.
@@ -18,7 +18,7 @@ marked [design] and belong to the author to correct.
   every devouring (DS-10 the bloodline path).
 - Kin: NONE — the only egg (DS-09); kinless from the first breath.
 - Born: late summer DL 3661 — 1,000 years after Soul Land 1.
-- Real age now: ≈ 54 months.
+- Real age now: ≈ 58–60 months.
 - Territory now: a new hollow in the DEEP COUNTRY (past the serpent's
   ground); before: ravine den (outer forest) ← roots-house ← scree hollow.
 
@@ -81,8 +81,13 @@ marked [design] and belong to the author to correct.
 - FLAW — BLOODTHIRST (DS-08): uncured, rides with him; grows as he grows;
   ridden by the quiet thing + the whole ledger of his life; in the scarcity
   it takes the shape of THE RED WANT (waits, whispers, spends the hunt
-  before it begins) — the want sharpens the hunt or spends it, and the
-  choosing is the whole of the riding (the grey stag's lesson).
+  before it begins — the want sharpens the hunt or spends it, the grey
+  stag's lesson); in the plenty THE RED FULLNESS (boils over the top of the
+  deep meat, asks to be given the head). THE TWO REDS MET AT LAST (ch11):
+  stood in him at the same hour, in the green — the boil and the whisper;
+  the choosing stood against both and found the same standing (the choosing
+  is against the choosing's own being taken — and is not taken); the two
+  words of the red thing named at last as one thing.
 
 ## 5. SKILLS & POWERS
 - RACE SKILL — DEVOURING HEAVEN AND EARTH (DD-09): state 5 — the taking
@@ -98,12 +103,21 @@ marked [design] and belong to the author to correct.
   MISERLINESS — the voice spends HEAT as well as breath; spent only at
   need, for the whole of the need. Proven: the long-fang hunt; the deep-
   fringe hunt; the deep summer's last taking; the cold country's takings.
+  THE GREEN SEASON'S SILENCE (ch11): the thick-paw's taking came on ground
+  and hour and jaw — the voice stood unspent all the way; the winter's price
+  (the cold's miserliness) bought a summer's silence, and the silence, kept,
+  is worth more than the calling spent — the voice's next truth.
 - THE VEILING (nature-mastery): the hushing of his blood's weight; whole
   attention only; HELD IN THE MOVING and HELD IN THE HUNGER now — broken by
   everything that breaks it (fear, the red thing, hunger) and rebuilt after
   everything; fed on the ATTENTION, not the fullness; at its last shadow
   when it matters most (bare stone, the serpent's stirring; the reading of
-  the greatness).
+  the greatness). THE VEILING'S NEAR-MISS IN THE WIDE GREEN (ch11): the
+  crossing's heavier presence thinned the hush on the open green run — two
+  low lives turned their heads; the stillness cost time; the time cost the
+  thick-paw's last stride; the jaw-work held the rest — the green, where the
+  heavy kind move in the thick of their season, is the veiling's own climb
+  (its next truth).
 - THE SENSE OF YEARS (awakened at the first barrier): see SENSES.
 - THE EGG-FOUNDATION (Phase 0): built from the first moment of his being —
   bloodline expression, vitality, senses, spirit-mind substrate, instinct
@@ -151,7 +165,19 @@ marked [design] and belong to the author to correct.
   cold comes up out of the ground before the sky's warning; the winter
   written down as a new country.
 - THE MAP'S LAST LAYER: the standings of the greatnesses held as FIXED
-  things; the walking of the country is the walking between them.
+  things; the walking of the country is the walking between them — PROVEN
+  ACROSS SEASONS (ch11: the layer held in the green the way it held in the
+  cold; nothing staged).
+- THE PATIENCE OF THE CHOOSING (ch11): the faith of the kept-for was spent
+  twice (the grey stag; the broad-antler of the high break taken at the
+  marked hour) — and the list learned its second kind of page: the line
+  that could be lost, and the taking still taken; the taking now comes at
+  the hour the MAP OF THEIR GOING gives (the window of hours wide as their
+  going — the winter's keeping did its first green work).
+- THE SMOKE-LINE GONE (ch11): the winter place struck at the thaw; the map
+  rewrote the line it never held — they stayed, and they went, and the
+  going is the going of readers (work does not go home); the next smoke
+  kept as an edge.
 - THE DRAGON'S FIRE: the cold has less hold on him than on the lives around
   him — the dragon's blood keeps its own fire (the dividend of the deep
   meals and deep sleeps; standing in him simply because of everything).
@@ -165,12 +191,25 @@ marked [design] and belong to the author to correct.
 - The year-takers: they take the years; they hunt what he hunts; iron can
   wait; the sharing is a race with no end in the reading; they read the deep
   country now too (the purple-tier light witnessed; the hunt in the country
-  of the giants).
+  of the giants); WINTERED in the deep country, STRUCK the winter place at
+  the thaw, and GO DEEP with the green — the going is the going of readers;
+  in the READER's eyes only (the parallel panel, the 2026-09-18 ruling)
+  they carry faces — Bren (the list-keeper; "the list cares about years"),
+  Yorre (the dogs; "the old ones say the deep country has its own keepers"),
+  Sella (the young one; the mark observed: "like a name signed"); their
+  list on paper, their motive on the page — the dragon never hears, never
+  sees; the firewall stands.
 - THE GREATNESS THAT READ HIM AND LET HIM GO: a depth past all his reading
   that knows the word of the dragon — and read the word in him; the shape
   kept deeper than all the other shapes.
 - THE WAR OF THE LISTS: his list kept in his blood, the year-takers' list
   kept in their hands, written over the same beasts — opened at the turn of
   the deep year, when they took the grey stag he had marked; no end in the
-  reading.
+  reading. GREEN SEASON (ch11): the war's SECOND LINE TAKEN (the broad-
+  antler of the high break [design] — pale gold read; the first line darker
+  than pale gold — the list counts the line, not the weight) and the race's
+  ONE LINE TAKEN (the thick-paw of the green run [design] — the window of
+  their going); the season's question over the green: the next line, and
+  which of the two lists would take it — the lines converge on the same
+  heavy kind (the reader holds it; nothing staged).
 - The country that made him: kept whole, past argument.
