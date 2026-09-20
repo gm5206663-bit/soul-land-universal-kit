@@ -57,3 +57,16 @@ the ravine's ruler is the BLACK-RAVINE SERPENT, always named in full. Panels,
 mirrors and prose alike. Author, verbatim: "soul land have soul beast not normal
 animal, even commonest thing is blue silver grass — correct everything even things
 i don't tell".
+
+## AUTHOR LAW (s33, 2026-09-20) — THE RING-SLOT LAW
+Author, verbatim: "A thousand-year second ring,"?, what are you even saying what
+you know how even this rear even in soul land 2.
+Rings sit on the decade of rank: the first at ten, the second at twenty, the third
+at thirty; a filled slot is never re-taken; thin lights for thin slots, the deep
+(thousand-year) light at the third and beyond. A thousand-year SECOND ring is a
+pedigree anomaly — rare even in Soul Land 2 (the receipt: Wang Dong of Shrek's
+thousand-year second ring); a thousand-year FIRST ring is a death, never a plan.
+No panel, mirror or chapter sets a deep light on a thin frame; the border's deep
+lights are market goods — the tables buy depth for frames that have grown into it.
+Recorded: CANON_LEDGER ER-12 (new), ER-11 (rewritten); GLOSSARY; ch11–12 panels
+corrected s33.

@@ -76,9 +76,10 @@
   the marked hour; pale gold read; the list counts the line, not the
   weight); the PARALLEL PANEL (the 2026-09-18 ruling, first use — the
   year-takers carry faces in the reader's eyes: Old Qin the list-keeper (Soul
-  King; the stag's purple ring as his second), Gao Tie the spirit hound's master (Grand
-  Soul Master), Xiao An the young one (Soul Master — her first ring still to
-  come) who sees the mark — "like a name signed";
+  King; the stag's purple light carried down the road to the tables — the
+  ring-slot law, ER-12), Gao Tie the spirit hound's master (Grand
+  Soul Master), Xiao An the young one (Soul Master — a white first ring; her
+  second light to come) who sees the mark — "like a name signed";
   the dragon never hears, never sees); THE RACE WON (the map of their going
   does its first green work — the window of hours; the thick-paw of the
   green run [design] taken); the veiling's NEAR-MISS in the wide green

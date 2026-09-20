@@ -2,7 +2,7 @@
 CLEAN GLANCEABLE SHEET OF HIM (identity, cultivation, body/height, attributes,
 skills, combat power vs normal soul beasts): bible/HIS_STATUS_PANEL.md
 (author s23 request; updated each chapter).
-Updated: 2026-09-20 (session 32 — soul-beast correction: this world has soul beasts, not ordinary animals; s31: Chapters 11–12 rewritten in full). Exact figures live HERE
+Updated: 2026-09-20 (session 33 — the ring-slot law correction; s32: soul-beast correction; s31: Chapters 11–12 rewritten in full). Exact figures live HERE
 and in ADAPTATION_LOG only; prose never carries numbers.
 
 ## Identity
@@ -30,7 +30,8 @@ the heavy kind moving at the edges of the hours, standing away from the
 marked ground) — his own craft made the ground wary, and the wary ground
 moved the bull's hours: the word that guards the country guards the taking
 too. THE PARALLEL PANELS (the ruling, second use — twice): THE DEEP CAMP
-at the going-out (the deep green's weather against them — heat, flies, the
+at the going-out (the deep green's weather against them — heat, the low lives
+of the warm air, the
 ground's word, the spirit hound slow: every country keeps its own weather, from
 their side; the list has grown the KEEPERS' LINE — Xiao An's ch11 observation
 became the list's line: no name, the sign of the mark on it, "a thing that
@@ -143,8 +144,9 @@ Talent never named; no leaps.
   spirit hound CARRIED THE SCENT (the sign of the seen set from it); the war's ledger's first honest line of the new
   kind: the next line of theirs will come with eyes, not only hands); no
   contact, never known to be there — and, in the READER's eyes only (the
-  parallel panels, the 2026-09-18 ruling): FACES — OLD QIN (the list-keeper; SOUL KING; the grey stag's PURPLE RING
-  as his SECOND RING; the sign of the seen set on the keepers' line: "When a
+  parallel panels, the 2026-09-18 ruling): FACES — OLD QIN (the list-keeper; SOUL KING; the stag's purple light carried down the
+  road to the tables — depth for frames that have grown into it (the ring-slot
+  law, ER-12); the sign of the seen set on the keepers' line: "When a
   line has been seen, the list goes to it."),
   GAO TIE (the spirit hound's master; "It holds it like a name... The spirit hound doesn't hold an hour for the grass."), XIAO AN (the
   young one; the mark observed: "like a name signed"; her demand: the sign
@@ -215,26 +217,30 @@ Talent never named; no leaps.
 - No chapter drafting until the author says so.
 
 ## Last action
-Session 32 (2026-09-20): author correction (verbatim: "dogs and SERPENT'S?, what
-the hell, what this is soul land, soul land have soul beast not normal animal,
-even commonest thing is blue silver grass, correct everything even things i don't
-tell") → THE SOUL-BEAST RULE executed in ONE pass across the whole serial.
-Prose: every "dog / dogs" for the men's kept hunting beasts is now the SPIRIT
-HOUNDS (soul beasts of the hound kind, kept — never a mundane animal); ch2 states
-the law in the open ("everything that lives in the world is a soul beast, of some
-years or other"); the ravine's ruler is the BLACK-RAVINE SERPENT in full,
-everywhere (was: bare "serpent"); ch1 names the slope's beetles as its smallest
-soul beasts and BLUE SILVER GRASS as the commonest soul beast of the world (the
-author's own example); the flies are the low lives of the air. Rule recorded:
-CANON_LEDGER SB-11; NO_MISTAKE_LIVE_RULES (author-law block); CREATURES header;
-GLOSSARY (Soul beast / The spirit hounds / The Black-Ravine Serpent); WORLD §3;
-SPIRIT_BEAST_LORE_VERIFIED (commonest soul beast). Mirrors swept same turn:
-TIMELINE, CONTINUITY, CHARACTERS, KNOWLEDGE_FIREWALLS, PROTAGONIST,
-HIS_STATUS_PANEL, ADAPTATION_LOG, README; all 12 chapter footers carry the s32
-note. Gates: verify.py (unified v2) run per chapter + project sweep — PASS; ch11
-2,873 prose words / 19 dialogue lines; ch12 3,197 / 24. Zero digits/CJK in prose.
-The author's verbatim quotes are preserved untouched in the record. (Preceding:
-session 31 — Chapters 11–12 rewritten in full on "Rewrite that chapter".)
+Session 33 (2026-09-20): author correction (verbatim: "A thousand-year second
+ring,"?, what are you even saying what you know how even this rear even in soul
+land 2") → THE RING-SLOT LAW recorded and enforced in ONE pass. The struck claim
+was the stag's purple ring as OLD QIN'S SECOND RING — he is a Soul King whose
+slots are long filled, and a thousand-year second ring is a pedigree anomaly rare
+even in Soul Land 2 (the receipt this workspace holds: Wang Dong of Shrek's
+thousand-year second ring; the standard sets read thin-thin-deep — the Shrek
+proctor and Bei Bei, two yellow rings and one purple across three). Prose: ch11 —
+Old Qin's line now reads "A thousand-year light... the Tang Sect's frontier teams
+pay more — they buy depth for frames that have grown into it; thin slots take thin
+lights, and the deep light waits for the third."; ch12 — the camp panel rewritten:
+the bull's purple goes down the road with the stag's, to the tables that buy depth;
+Xiao An, who carries a thin white first ring, asks for it anyway; Gao Tie's word
+stands ("The border calls that a death wearing a ring."); Old Qin answers with the
+law ("A thousand-year light is a third-ring light... first rings thin, second rings
+thin, and the deep light at the third... That is the future."). Rule recorded:
+CANON_LEDGER ER-12 (new) and ER-11 (rewritten); NO_MISTAKE_LIVE_RULES (s33
+author-law block); GLOSSARY (the ring-slot law). Mirrors swept same turn: TIMELINE,
+CONTINUITY, CHARACTERS (Xiao An's record corrected: a white first ring carried, her
+second light to come), CREATURES, HIS_STATUS_PANEL, PROTAGONIST, ADAPTATION_LOG;
+the last three s32 "flies" leftovers cleaned. Gates re-run: ch11 2,896 prose words
+/ 19 dialogue lines; ch12 3,292 / 27; project sweep PASS. Footers reset to the
+gated counts. (Preceding: s32 — soul-beast correction; s31 — Chapters 11–12
+rewritten in full.)
 
 ## Underlying locks
 v2.0 Talent law (never named, no free output) · anti-nerf/anti-inflation twin law

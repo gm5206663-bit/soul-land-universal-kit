@@ -572,9 +572,11 @@ body). The Talent is never named; deltas record its RESULTS.
 - MEN ledger: the year-takers STRUCK the winter place at the thaw and went
   deep with the green (the going is the going of readers); the reader's
   parallel panel (the 2026-09-18 ruling, first use) gave them faces — OLD QIN
-  (the list-keeper; SOUL KING; the grey stag's PURPLE RING as his SECOND
-  RING; "the list cares about years"), GAO TIE (the spirit hound's master; GRAND SOUL MASTER; "the old hunters of the border say the deep country
-  has its own keepers"), XIAO AN (the young one; SOUL MASTER — her first ring still to come; the deep kills left whole:
+  (the list-keeper; SOUL KING; the stag's purple light carried down the road to
+  the tables — depth for frames that have grown into it, the ring-slot law ER-12
+  [rewritten s33; the s30 text read "as his SECOND RING" — struck by the author];
+  "the list cares about years"), GAO TIE (the spirit hound's master; GRAND SOUL MASTER; "the old hunters of the border say the deep country
+  has its own keepers"), XIAO AN (the young one; SOUL MASTER — a white first ring carried since the border, her second light to come [s33]; the deep kills left whole:
   "the same mark, the same shape, like a name signed" — the kill word seen
   as a signature from their side); their list on paper, their motive on the
   page (the deep keeps its own green; the list is deep). No contact; nothing
@@ -640,7 +642,7 @@ body). The Talent is never named; deltas record its RESULTS.
   word that guards the country guards the taking too (the taking came at
   the edge of the hour, on the thinnest ground, or would have been lost).
 - MEN ledger: THE DEEP CAMP (their camp in the country of the giants; the
-  deep green's weather against them — heat, flies, the ground's word, the
+  deep green's weather against them — heat, the low lives of the warm air, the ground's word, the
   the spirit hound slow: every country keeps its own weather, from their side); their
   list has grown the KEEPERS' LINE (Xiao An's ch11 observation became the
   list's line — no name, the sign of the mark on it: "a thing that signs

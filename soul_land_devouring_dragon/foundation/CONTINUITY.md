@@ -31,9 +31,9 @@ Check this table BEFORE writing any new date or age in a chapter.
 |---|---|---|---|
 | he (the dragon; unnamed by law) | ch1 | ch11 | protagonist |
 | the year-takers | ch5 | ch12 | spine opposition — FACES from ch11 (the 2026-09-18 ruling): the parallel panels carry them in the reader's eyes (OLD QIN the list-keeper — SOUL KING, GAO TIE the spirit hound's master — GRAND SOUL MASTER, XIAO AN the young one — SOUL MASTER [design — named per the Soul Land naming convention, corrected s30]); the dragon never hears, never sees; firewall stands; ch12: the deep camp, the keepers' line on their list, the crossing at the water (the spirit hound's scent carried; the sign of the seen set) |
-| Old Qin (the list-keeper) [design] | ch11 (parallel panel) | ch12 | SOUL KING; the list on paper; the grey stag's PURPLE RING as his SECOND RING; the sign of the seen set on the keepers' line at the water |
+| Old Qin (the list-keeper) [design] | ch11 (parallel panel) | ch12 | SOUL KING; the list on paper; the stag's purple light carried down the road to the tables (the ring-slot law, ER-12); the sign of the seen set on the keepers' line at the water |
 | Gao Tie (the spirit hound's master) [design] | ch11 (parallel panel) | ch12 | GRAND SOUL MASTER; the spirit hound's collar; the keepers' rumor; "It holds it like a name." |
-| Xiao An (the young one) [design] | ch11 (parallel panel) | ch12 | SOUL MASTER — the old bull's purple ring is her FIRST ring (a thousand-year first ring); the mark observed: "like a name signed"; the keepers' line her line |
+| Xiao An (the young one) [design] | ch11 (parallel panel) | ch12 | SOUL MASTER — a white first ring; the bull's deep purple goes to the tables, not her frame (she asks for it anyway; the law's word: "a death wearing a ring" — ER-12); the mark observed: "like a name signed"; the keepers' line her line |
 | the greatness past his reading | ch9 | ch10 | never staged; author-gated |
 | the grey stag of the second water | ch10 | ch10 | taken by the year-takers at the turn |
 | the broad-antler of the high break [design] | ch11 | ch11 | marked, taken by the year-takers at the marked hour — the war's second line |

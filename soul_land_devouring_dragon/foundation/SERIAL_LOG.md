@@ -942,7 +942,10 @@ One entry per working session. Newest at the bottom.
     RING; the old bull's PURPLE RING planned as Xiao An's FIRST RING (a
     thousand-year first ring — the canon tension: "The border calls that a
     death wearing a ring" / "The Tang Sect's frontier teams call it a
-    future"); the road market and ring prices at folk level (WORLD §5); the
+    future") [SUPERSEDED s33, 2026-09-20: the author struck the thousand-year
+    second-ring claim; the ring-slot law (ER-12) governs — the deep lights are
+    market goods, and no deep light is set on a thin frame; see the s33 entry];
+    the road market and ring prices at folk level (WORLD §5); the
     Tang Sect's frontier teams (design-folk under ER-02); the team's SPIRIT HOUND
     [design] — CREATURES row — introduced on the human side; the beast-side
     sections then kept the old kind-word (the dragon reads canine shapes —
@@ -986,12 +989,13 @@ One entry per working session. Newest at the bottom.
 - WHAT CHANGED: the whole text re-derived. Beast sections in the
   serial's prose voice (lists/maps/lines, the word of the kill, the
   letting-go); human sections with full canon texture — Old Qin
-  (Soul King; the grey stag's purple as his second ring; "Purple
+  (Soul King; the stag's purple light carried down the road to the tables
+  [rewritten s33 — the s31 text read "as his second ring"; ER-12]; "Purple
   isn't a price — it's a standing... Purple rings have a habit of
   deciding late."), Gao Tie (the spirit hound's master; "A beast struck right has
   iron in it."), Xiao An (Soul Master; the mark "like a name signed";
-  the bull's purple as her first ring — "a death wearing a ring" vs
-  "the Tang Sect's frontier teams call it a future"); the road
+  the bull's deep purple a death on her thin frame, the light for the tables
+  [rewritten s33 — ER-12]; the road
   market's prices; the Tang Sect's frontier teams [design-folk under
   ER-02]; the spirit hound; the water's hour + the retreat rule.
   Three flat "the way X" connectives tightened (ch11: the jaw-work
@@ -1062,4 +1066,52 @@ One entry per working session. Newest at the bottom.
   the struck words was replaced. The s30 ruling text is annotated, not erased.
 - PUSH: kit commit + push this session; Control Centre registry edge updated to
   this session's kit hash; workshop mirror re-synced (diff -rq).
+
+### Session 33 — 2026-09-20 (THE RING-SLOT LAW — correction, one pass)
+- Author correction (verbatim): "A thousand-year second ring,"?, what are you
+  even saying what you know how even this rear even in soul land 2.
+- THE DEFECT: the ch11 panel had OLD QIN — a Soul King — speaking of the stag's
+  purple ring as "a thousand-year second ring", and the ch12 panel had the old
+  bull's purple planned as XIAO AN'S FIRST RING with the answer "the Tang Sect's
+  frontier teams call it a future". Both set a deep light on a thin frame: a
+  Soul King's slots are long filled, and a thousand-year second ring is a
+  pedigree anomaly — rare EVEN IN SOUL LAND 2 (the author's exact point).
+- THE LAW (recorded: CANON_LEDGER ER-12; NO_MISTAKE_LIVE_RULES s33 block;
+  GLOSSARY): a master's Nth ring is taken at the Nth decade of rank — first at
+  ten, second at twenty, third at thirty; a filled slot is never re-taken; thin
+  lights for thin slots, the deep (thousand-year) light at the third and beyond.
+  RECEIPTS HELD IN THIS WORKSPACE (Soul_Land_2_Project): the standard sets read
+  thin-thin-deep — the Shrek fourth-year proctor and Bei Bei, two yellow rings and
+  one purple across three rings; the Soul Saint's seven: two yellow, two purple,
+  three black; and the marked exception: Wang Dong of Shrek carries the
+  thousand-year SECOND ring (chapter 09) — the anomaly the author named. A
+  thousand-year FIRST ring is a death, never a plan; the border's word stands.
+- PROSE (ch11, ch12 rewritten at the panel level, same turn):
+  ch11 — "A thousand-year second ring," → "A thousand-year light," + "they buy
+  depth for frames that have grown into it; thin slots take thin lights, and the
+  deep light waits for the third." (the rest of the speech kept: "Purple isn't a
+  price — it's a standing... Purple rings have a habit of deciding late.").
+  ch12 — the camp panel rebuilt: the bull's purple goes down the road with the
+  stag's, to the tables that buy depth; Xiao An's answer ("The tables buy depth,
+  and I carry thin. I know what the border would call me for asking... I am asking
+  anyway."); Gao Tie's word kept ("A thousand-year light. On your frame. The
+  border calls that a death wearing a ring."); Old Qin's law speech replaces the
+  struck answer ("A thousand-year light is a third-ring light... first rings thin,
+  second rings thin, and the deep light at the third... That is the future.").
+- RECORDS CORRECTED: Xiao An — SOUL MASTER (11–20) with a WHITE first ring
+  carried since the border and her second light to come (the old "her first ring
+  still to come" broke the rank law: a rank-11+ master holds at least one ring);
+  the stag's and bull's lights recorded as market goods (ER-11 rewritten); the
+  carry-to-the-tables model labelled design-folk in ER-11, author-overrulable.
+- MIRRORS (grep-verified): STATUS_PANEL (Updated, Last action, FACES block);
+  TIMELINE (both ch11/ch12 rows); CHARACTERS (both rows); CONTINUITY (both rows);
+  CREATURES (bull row); HIS_STATUS_PANEL; PROTAGONIST; ADAPTATION_LOG (s30 text
+  annotated, not erased); GLOSSARY; NO_MISTAKE_LIVE_RULES; CANON_LEDGER. The three
+  remaining s32 "flies" leftovers (STATUS_PANEL, TIMELINE, ADAPTATION_LOG) cleaned
+  on the way.
+- GATES (same turn): verify.py (unified v2) per chapter + project sweep — PASS.
+  ch11 2,896 prose words / 19 dialogue lines; ch12 3,292 / 27 (footers reset to
+  these). Zero digits in prose, zero CJK.
+- PUSH: kit commit + push this session; Control Centre correction filed; workshop
+  mirror re-synced (diff -rq).
 

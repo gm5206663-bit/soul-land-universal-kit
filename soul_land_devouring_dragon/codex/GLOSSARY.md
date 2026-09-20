@@ -45,6 +45,17 @@ Terms as THIS serial uses them. Canon terms carry their canon meaning.
 - **The Tang Sect's frontier teams** — the Tang Sect (at the height of its
   legend, ER-02) buying rings at the road market — [design-folk under
   ER-02]; the era's presence, never staged.
+- **The ring-slot law** — canon law recorded s33 (author's correction, verbatim:
+  "A thousand-year second ring,"?, what are you even saying what you know how even
+  this rear even in soul land 2): a master's Nth ring is taken at the Nth decade of
+  rank (the first at ten, the second at twenty, the third at thirty); thin lights
+  for thin slots, the deep (thousand-year) light at the third and beyond. A
+  thousand-year SECOND ring is a pedigree anomaly — rare even in Soul Land 2 (the
+  receipt in this workspace: Wang Dong of Shrek, the thousand-year second ring; the
+  SL2 project's standard sets read thin-thin-deep — the fourth-year proctor and Bei
+  Bei, two yellow and one purple). A thousand-year FIRST ring is a death, never a
+  plan. The border's deep lights are market goods: the tables buy depth for frames
+  that have grown into it (ER-12).
 - **The keepers' line** — the line on the year-takers' list for the thing
   that signs and does not show (ch11, Xiao An's line; ch12, the sign of the
   seen set on it).

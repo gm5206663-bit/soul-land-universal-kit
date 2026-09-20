@@ -224,10 +224,10 @@ marked [design] and belong to the author to correct.
   the thaw, and GO DEEP with the green — the going is the going of readers;
   in the READER's eyes only (the parallel panel, the 2026-09-18 ruling)
   they carry faces — OLD QIN (the list-keeper; SOUL KING; the grey stag's
-  PURPLE RING as his SECOND RING; "the list cares about years"), GAO TIE (the
+  purple light carried down the road to the tables (the ring-slot law, ER-12); "the list cares about years"), GAO TIE (the
   spirit hound-man; GRAND SOUL MASTER; "the old hunters of the border say the deep
   country has its own keepers"), XIAO AN (the young one; SOUL MASTER — the
-  bull's purple ring is her FIRST ring, a thousand-year first ring; the mark
+  white first ring carried since the border; the bull's deep purple goes to the tables, not her frame; the mark
   observed: "like a name signed"); their
   list on paper, their motive on the page — the dragon never hears, never
   sees; the firewall stands. CH12: the DEEP CAMP (their camp in the
