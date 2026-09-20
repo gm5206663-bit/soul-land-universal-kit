@@ -91,3 +91,13 @@ convention (SL3 carries 826) · R4 filename-law hyphens. Canon checks 2–5.
 
 **Live edge after this receipt:** after Chapter 21 "Round One."
 **Next:** Chapter 22 (canon 17-3/4) — on the author's go.
+
+## Addendum (2026-09-20, same day, after the author's flag)
+
+The receipt's row "rank 10 at ch1; 17-peak at ch21" carried the re-rail's
+rank-mapping error: **17-peak is Yuhao's rank (verging 18); Jiang Che's Ch21
+edge is 29 (the wall at thirty)**. The serialization's own text is the source
+(ch15 record + ch15/16 prose, cited in the correction). All governance files
+were repaired the same turn; the hygiene and gate claims in this receipt are
+unaffected. Full correction record: `foundation/SERIAL_LOG.md` +
+`foundation/STATUS_PANEL.md` §0 + manifest `known_corrections`.

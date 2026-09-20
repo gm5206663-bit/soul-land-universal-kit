@@ -15,23 +15,44 @@
   },
   "next": {
     "fic_chapter": 22,
-    "source": "canon ch 17-3/4 (knockout bracket; Ma Xiaotao at the grounds; ring hunt — all not yet triggered)"
+    "source": "canon ch 17-4 (knockout bracket; Ma Xiaotao at the grounds; ring hunt — all not yet triggered)"
   },
   "ranks_live": {
-    "jiang_che": "17-peak",
-    "huo_yuhao": "23",
-    "wang_dong": "29",
-    "note": "from the codex per-chapter 'Ranks:' lines, the source of truth; unchanged Ch17-21"
+    "huo_yuhao": "17-peak (verging 18)",
+    "wang_dong": "23",
+    "jiang_che": "29 (wall at thirty; third-ring hunt planned, not triggered)",
+    "note": "codex per-chapter 'Ranks:' lines are the source of truth, in the order 17-peak / 23 / 29 = Yuhao / Wang Dong / Jiang Che (Ch15-16 records + ch15/16 prose); unchanged Ch17-21"
   },
   "group_one": {
-    "members": ["Huo Yuhao", "Wang Dong", "Xiao Xiao", "Jiang Che (the courier)"],
+    "members": [
+      "Huo Yuhao",
+      "Wang Dong",
+      "Xiao Xiao",
+      "Jiang Che (the courier)"
+    ],
     "record": "4-0 after the first round",
     "rumor": "Group One rearranges the ground and the ground wins"
   },
   "rings_jiang_che": [
-    {"n": 1, "beast": "Overlord Vine", "age": "~400", "color": "yellow", "skill": "Tide Bind"},
-    {"n": 2, "beast": "Sun Flower", "age": "~740", "color": "yellow", "skill": "Photosynthetic Renewal"},
-    {"n": 3, "beast": "RESERVED", "note": "the 20-wall event; ring-config law says purple; a story, not a stat"}
+    {
+      "n": 1,
+      "beast": "Overlord Vine",
+      "age": "~400",
+      "color": "yellow",
+      "skill": "Tide Bind"
+    },
+    {
+      "n": 2,
+      "beast": "Sun Flower",
+      "age": "~740",
+      "color": "yellow",
+      "skill": "Photosynthetic Renewal"
+    },
+    {
+      "n": 3,
+      "beast": "RESERVED",
+      "note": "design-era ruling: 'the 20-wall event'; serialization prose ties the third ring to the wall at thirty (ch15: 'the thirty-bottleneck ahead — the rank-wall where the third ring must come'; ch16: 'the wall at thirty, the hunt planned'); hunt planned, not triggered; wording reconciliation pending as OPEN R5; ring-config law says purple (3–4); a story, not a stat"
+    }
   ],
   "required_status_patterns": [
     "Live edge: after Chapter 21",
@@ -48,7 +69,7 @@
     {
       "field": "quick_reference_rank",
       "was": "arrives already BUILT (rank ~25, two rings) at the canon convergence",
-      "now": "rank 10 at Chapter 1 (two yellow rings); 17-peak at the Ch21 edge",
+      "now": "rank 10 at Chapter 1 (two yellow rings); 29 at the Ch21 edge (wall at thirty)",
       "source": "serialized chapters + codex per-chapter Ranks lines",
       "ruled": "2026-09-20, re-rail"
     },
@@ -75,10 +96,28 @@
     "../CODEX/06_PROJECT_SOUL_LAND_2.md"
   ],
   "gate": {
-    "verify": "v2.1 (unified, 2026-09-20)",
+    "verify": "v2 (unified, 2026-09-20)",
     "chapter_gate": "22/22 PASS 2026-09-20",
     "project_sweep": "hard gates clean 2026-09-20",
     "selftest": "22/22"
   },
-  "open_rulings": ["R1 name-digits", "R2 CJK dialogue translations", "R3 corpus-wide mark convention"]
+  "open_rulings": [
+    "R1 name-digits",
+    "R2 CJK dialogue translations",
+    "R3 corpus-wide mark convention"
+  ],
+  "known_corrections": [
+    {
+      "field": "ranks_live_mapping",
+      "was": "jiang_che=17-peak, huo_yuhao=23, wang_dong=29",
+      "now": "huo_yuhao=17-peak (verging 18), wang_dong=23, jiang_che=29",
+      "source": "codex Ch15-16 records + ch15/16 prose (on-page dialogue)",
+      "ruled": "2026-09-20, same-day correction after author flag",
+      "receipts": [
+        "foundation/SERIAL_LOG.md",
+        "audits/2026-09-20_RE_RAIL_RECEIPT.md (addendum)",
+        "foundation/STATUS_PANEL.md §0"
+      ]
+    }
+  ]
 }

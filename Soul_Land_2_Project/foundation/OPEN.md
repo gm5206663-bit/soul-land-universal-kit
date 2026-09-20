@@ -10,7 +10,7 @@
 *names* keep their numerals: **Room 108** (this serial), **Dorm333 / Dorm336 /
 Rank39 / SP505** (SL4), **ch 17** (SL3/SL4). Measurement digits (ranks spoken
 as numbers, times, years, counts) stay forbidden in prose. Implemented in gate
-v2.1 and red-tested. *Effect if the author disagrees: the name-digits are
+v2 (unified) and red-tested. *Effect if the author disagrees: the name-digits are
 converted to words and the gate exemption removed.*
 
 **R2 — The two CJK dialogue lines (translations proposed, 2026-09-20).**
@@ -36,12 +36,23 @@ alongside the existing set; spaces, CJK and other punctuation still fail.
 *Effect if the author disagrees: hyphens are removed from the law and every
 dated file in the repos is renamed (a large mechanical sweep).*
 
+**R5 — The third-ring wall: 20 or 30? (same-day correction, 2026-09-20).** The
+design-era wording (canon ledger ring-3 row, lock 5, old manifest) calls the
+third-ring event the **20-wall**. The serialization's own prose ties it to
+**the wall at thirty**: ch15 "the thirty-bottleneck ahead — the rank-wall where
+the third ring must come … the third-ring hunt PLANNED"; ch16 "the wall at
+thirty, the hunt planned". The live panel follows the serialization (wall at
+thirty) and the design-era wording is kept for provenance. *Author: confirm —
+if the 20-wall ruling stands, the ch15/16 prose lines are what get repaired,
+and Jiang Che's next-gate line flips with it.*
+
 ## OPEN CANON CHECKS (execute at the listed trigger — never let these lapse)
 
 | # | Check | Trigger | Status |
 |---|---|---|---|
 | 1 | ~~Rank-20 ring-cap~~ | — | CLOSED (v4.3): Ring 2 fixed to ~740 yr |
-| 2 | Town names on the forest road + Tang Ya's exact title | ch 4–6 research fetch | verify against the v15-rebuilt chapters (the rebuild may already hold it) |
+| 2a | Town names on the forest road | ch 4–6 research fetch | open |
+| 2b | ~~Tang Ya's exact title~~ | — | RESOLVED (2026-09-20): on-page in ch1 — "Sect Master of a thousand-year sect"; panel states it from that line |
 | 3 | Star Dou plant-beast roster (validate the Overlord Vine) | first hunt scene | open — the ring hunt is not yet triggered |
 | 4 | Fox-type beast canon detail for Xiao Jiu's reveal | her first on-page appearance of the years | open — reserved beat |
 | 5 | Tang Ya's recruitment sparkle (both boys) | pre-rebuild note (ch8 OLD NOTES) | verify whether the v15 rebuild kept it |

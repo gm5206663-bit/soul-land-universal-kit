@@ -44,7 +44,10 @@ nothing is absolute — ranks are estimates about fights, not fixtures; no free
 levels, no unearned mastery; the clean current is **never the poison path**
 (hard lock, user); the AT integrates rings to 100% but creates nothing from
 nothing, grants no missing knowledge, and first overwhelming exposure can
-still kill.
+still kill. *Same-day note (2026-09-20): the serialization's prose ties the
+third-ring gate to the wall at thirty (ch15/16); the live panel follows the
+serialization until R5 is ruled — the 20-wall wording above stands as the
+design-era ruling.*
 
 **6. IDENTITY** — public: Jiang Che, the courier, Tang Sect third disciple,
 Shrek Class One, Room 108. Private: the AT (L1, never revealed to anyone,
@@ -67,7 +70,10 @@ instead; every bend of canon is a logged butterfly with cause on-page.
 codex's per-chapter "Ranks:" lines and `foundation/STATUS_PANEL.md`. Prose
 carries felt approximations in words; exact figures in panels/ledgers/footers
 only. The v4.1 "rank 25" design number is superseded (see panel §5) and must
-not be written as current.
+not be written as current. *Same-day lesson (2026-09-20): the shorthand's
+order is the author's — verify the name-mapping against chapter prose before
+restating it (17-peak is Yuhao's, verging 18; Jiang Che's edge is 29, the wall
+at thirty).*
 
 **10. VOICE** — the Soul Land register: simple, fast, clean web-novel prose;
 every chapter is an event; mechanics on the page; dialogue drives scenes;

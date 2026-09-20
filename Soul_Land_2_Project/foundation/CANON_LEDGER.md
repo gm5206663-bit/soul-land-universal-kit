@@ -41,7 +41,11 @@ of truth). The five that gate the next work:
 - Ring 2: **Sun Flower**, ~740 yr, YELLOW (at the rank-20 canon ceiling);
   skill PHOTOSYNTHETIC RENEWAL. [canon plant name] + [design] pairing
 - Ring 3: **reserved** as the 20-wall event; a story, not a stat; ring-config
-  law says purple (3–4). [user ruling]
+  law says purple (3–4). [user ruling] — **same-day note (2026-09-20):** the
+  serialization's prose ties the third-ring event to the wall at thirty (ch15:
+  "the thirty-bottleneck ahead — the rank-wall where the third ring must come";
+  ch16: "the wall at thirty, the hunt planned"); the "20-wall" wording above is
+  kept as the design-era ruling — reconciliation is OPEN R5.
 - Ring-config law (s17): 1–2 yellow, 3–4 purple, 5–7 black; deviating-up =
   prodigy marks, reserved for canon's chosen or author exceptions.
 

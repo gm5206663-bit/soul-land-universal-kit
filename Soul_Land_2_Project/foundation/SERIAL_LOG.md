@@ -58,3 +58,27 @@ and `soul-land-projects` @ 4e1370a (gate install, 2 files). Verified on GitHub:
 STATUS_PANEL, receipt and the unified verify.py all live. Ruling R2 (the two
 dialogue translations) accepted by the author and is final; R1, R3, R4 remain
 open in `OPEN.md`.
+
+**Correction entry (2026-09-20, same day as the re-rail, after the author flagged
+the pushed panel):** the re-rail's rank-line mapping was wrong. The codex
+shorthand "17-peak / 23 / 29" was read as (Jiang Che / Yuhao / Wang Dong); the
+serialization assigns it **(Yuhao / Wang Dong / Jiang Che)** — ch15 record
+"Yuhao climbing past the teens · Wang Dong 23 · Jiang Che 29"; the ch16 pill
+ledger is Yuhao's grind to 17-peak while the third bed holds "29 and the
+planned hunt"; ch15 dialogue on-page: "You're rank twenty-three, and I passed
+twenty-nine last week. The wall's at thirty." Repaired in the same turn,
+receipted: `STATUS_PANEL.md` (rewrite + dated correction note in §0), manifest
+(`ranks_live` corrected + `known_corrections` record), `CONTINUITY.md` anchors,
+`JIANG_CHE_STATUS.md` v4.2 note, `THE_CODEX.md` v15.2 note + mirror resync,
+`OPEN.md` (new R5: 20-wall vs 30-wall wording, awaiting author), canon ledger
+ring-3 row and lock 5 (dated notes, original wording untouched). Also corrected
+the same turn: the panel's opaque character-state lines (fabricated "sect's
+third" and ungrounded "dragon of blue lightning" / "gentlest dangerous"
+removed; Wang Dong's "butterfly named" was a stale Ch8 event — replaced with
+states the chapters carry); the continuation prompt's stale "Rank ~25 /
+~800-yr" line (flagged SUPERSEDED; ~740 yr per the closed ring-cap check); the
+gate version (the file says v2, not v2.1); the next-source notation (canon ch
+17-4, not "17-3/4"). Gate re-run after the repair: chapter gate 22/22 + project
+sweep + selftest 22/22 (receipt below). *Lesson, appended to lock 9: the
+shorthand inherits the author's order — verify the name-mapping against the
+prose before it becomes the source of truth.*

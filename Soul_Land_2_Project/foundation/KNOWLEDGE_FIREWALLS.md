@@ -32,7 +32,7 @@
 - **Truth:** the fox's archive: "the red one from the lake; two hundred days
   since the ice pressed her fire flat; she does not know what pressed it."
   Ma Xiaotao's fire was suppressed by the ice-soul; the cascade is running
-  toward the public debut (ch18) and its aftermath.
+  through the public debut (ch18, done) and its aftermath.
 - **Who knows:** the fox (archive); the reader (via the fox's beats).
 - **Who must not know:** the cast. The near-recognition in ch18 is a blink,
   not a disclosure. The ice-soul who did it is not named on-page.

@@ -9,7 +9,7 @@
 | Jiang Che | age 11 at story start; born Linjiang City (designed geography, forest's edge) | codex |
 | The three months | Chapters 1–15 cover the first three months at Shrek | JIANG_CHE_STATUS v4.1 ("End of Chapter 15 — the three months") |
 | The assessment | Chapter 17 onward — draft day and the first round | codex ch17–21 records |
-| Ranks (live) | **17-peak / 23 / 29** (Jiang Che / Yuhao / Wang Dong), unchanged Ch17–21 | codex "Ranks:" lines (source of truth) |
+| Ranks (live) | codex shorthand **17-peak / 23 / 29** = **Yuhao 17-peak (verging 18) / Wang Dong 23 / Jiang Che 29**, unchanged Ch17–21 | codex "Ranks:" lines (source of truth); mapping per Ch15-16 records + ch15/16 prose (same-day correction 2026-09-20) |
 | Group One | Yuhao + Wang Dong + Xiao Xiao + Jiang Che; 4-0 after Ch21 | codex ch21 + chapter tail |
 
 ## Forward debts (threads open at the live edge — nothing is closed silently)
@@ -17,10 +17,10 @@
 | Debt | Where it was opened | Status |
 |---|---|---|
 | The waystation contract (the fox's, for the guardians) | ch2 | UNdelivered |
-| The third ring — the 20 wall | canon law + ring-config | RESERVED as a story event; the ring hunt is **not triggered** |
+| The third ring — the wall | design-era: the 20-wall event; serialization: **the wall at thirty** (ch15/16 prose) | RESERVED as a story event; the ring hunt is planned (Ch15), **not triggered** (Ch21); the 20/30 wording reconciliation is OPEN R5 |
 | Xiao Xiao's decisive fight (the Nine Phoenix Greeting Flute) | ch20 (flute named) | HELD, per her hide-strength doctrine |
-| Ma Xiaotao at the grounds | canon 17-3/4 | not triggered |
-| The knockout bracket | canon 17-3/4 | next |
+| Ma Xiaotao at the grounds | canon 17-4 | not triggered |
+| The knockout bracket | canon 17-4 | next |
 | The fox's reveal of her true years | L2/L4 | reserved beat, unwritten |
 | The white-ring veil | ch1 (L4) | holding; the fox keeps it |
 | Tang Ya's recruitment sparkle (aimed at both boys) | ch8 (OLD NOTES) | open thread from the pre-rebuild notes — verify against the v15 chapters before writing |
