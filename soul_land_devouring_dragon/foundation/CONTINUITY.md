@@ -29,15 +29,20 @@ Check this table BEFORE writing any new date or age in a chapter.
 | the voice as a name he cannot un-say (anything deep enough to read a word can read him) | ch13 | author-gated, nothing staged | OPEN |
 | the want's patience (it wants the deep years; it no longer hurries him) | ch13 | author-gated | OPEN |
 | the hound that held his scent for one hour | ch12 | author-gated | OPEN |
+| the wrong face on the paper (the men hunting the pale beast south) | ch14 | author-gated | OPEN |
+| the pale beast carrying the sound of the dragon (it knows what he is) | ch14 | author-gated | OPEN |
+| the aimed word's price (the country reading too warmly; the thread loud) | ch14 | author-gated | OPEN |
+| the two lodge men [design] | ch13 | ch14 | the older one killed by the pale beast at the broken watch-fold (died at the camp of black stone); the younger one lives |
+| the pale beast of the deep fringe [design] | ch14 | ch14 | the rival reader; the wrong face on the keepers' line; walks south with the aimed word in its ears |
 
 ## Character register
 | Name | First | Last | Note |
 |---|---|---|---|
-| he (the dragon; unnamed by law) | ch1 | ch13 | protagonist |
-| the year-takers | ch5 | ch12 | spine opposition — FACES from ch11 (the 2026-09-18 ruling): the parallel panels carry them in the reader's eyes (OLD QIN the list-keeper — SOUL KING, GAO TIE the spirit hound's master — GRAND SOUL MASTER, XIAO AN the young one — SOUL MASTER [design — named per the Soul Land naming convention, corrected s30]); the dragon never hears, never sees; firewall stands; ch12: the crossing at the water (the spirit hound's scent carried; the sign of the seen set); ch13: THE KEEPERS' LINE SET AND NAMED — the watch craft worked fold by fold (the kill left standing, the light boxed, the wire, the blind, the staked hound) |
-| Old Qin (the list-keeper) [design] | ch11 (parallel panel) | ch13 | SOUL KING; the list on paper; the stag's purple light carried down the road to the tables (the ring-slot law, ER-12); the sign of the seen set on the keepers' line at the water |
-| Gao Tie (the spirit hound's master) [design] | ch11 (parallel panel) | ch13 | GRAND SOUL MASTER; the spirit hound's collar; the keepers' rumor; "It holds it like a name... It doesn't hold an hour for a piece of grass." |
-| Xiao An (the young one) [design] | ch11 (parallel panel) | ch13 | SOUL MASTER — a white first ring; the bull's deep purple goes to the tables rather than any thin frame (the ring-slot law, ER-12); her read: "it knows the country, and it knows where a beast will stand"; the keepers' line her line |
+| he (the dragon; unnamed by law) | ch1 | ch14 | protagonist |
+| the year-takers | ch5 | ch12 | spine opposition — FACES from ch11 (the 2026-09-18 ruling): the parallel panels carry them in the reader's eyes (OLD QIN the list-keeper — SOUL KING, GAO TIE the spirit hound's master — GRAND SOUL MASTER, XIAO AN the young one — SOUL MASTER [design — named per the Soul Land naming convention, corrected s30]); the dragon never hears, never sees; firewall stands; ch12: the crossing at the water (the spirit hound's scent carried; the sign of the seen set); ch13: THE KEEPERS' LINE SET AND NAMED — the watch craft worked fold by fold (the kill left standing, the light boxed, the wire, the blind, the staked hound); ch14: the wrong face written into the list (the pale beast), the line turned south |
+| Old Qin (the list-keeper) [design] | ch11 (parallel panel) | ch14 | SOUL KING; the list on paper; the stag's purple light carried down the road to the tables (the ring-slot law, ER-12); the sign of the seen set on the keepers' line at the water |
+| Gao Tie (the spirit hound's master) [design] | ch11 (parallel panel) | ch14 | GRAND SOUL MASTER; the spirit hound's collar; the keepers' rumor; "It holds it like a name... It doesn't hold an hour for a piece of grass." |
+| Xiao An (the young one) [design] | ch11 (parallel panel) | ch14 | SOUL MASTER — a white first ring; the bull's deep purple goes to the tables rather than any thin frame (the ring-slot law, ER-12); her read: "it knows the country, and it knows where a beast will stand"; the keepers' line her line |
 | the greatness past his reading | ch9 | ch10 | never staged; author-gated |
 | the grey stag of the second water | ch10 | ch10 | taken by the year-takers at the turn |
 | the broad-antler of the high break [design] | ch11 | ch11 | marked, taken by the year-takers at the marked hour — the war's second line |
@@ -52,3 +57,4 @@ Check this table BEFORE writing any new date or age in a chapter.
 | ch11 | the deep year turned; war of the lists opened | the green season: the second line taken, the race's line won, the two reds met, the parallel panel (faces to the reader); the season's question over the green |
 | ch12 | the green season: the second line taken, the race's line won, the two reds met | the green at its height: the bull taken at the water, the crossing (the spirit hound's scent), the war's shape changed — the next line of both lists is the reading of the other's mark |
 | ch13 | the green at its height: the bull taken, the crossing, the war's shape changed | the falling of the green: the after-cost paid, the kill-word read as a sign, THE KEEPERS' LINE SET (the watch craft), the voice spent at the deep edge, the want wakened patient — two lists over one country and only one of them can read |
+| ch14 | the falling of the green: the after-cost paid, the keepers' line set, the voice at the deep edge | the deep country's second winter: the season of the watch, the second edge of the sign (the pale beast reading him), the watch-fold broken and a man killed, the WRONG FACE on the keepers' line, the hound's second reading, the aimed word paid for, the line turned south |

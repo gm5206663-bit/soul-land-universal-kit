@@ -735,3 +735,33 @@ body). The Talent is never named; deltas record its RESULTS.
   estimate unchanged in kind (past the first barrier; next barrier at
   cultivation-year 1,000 — far, unfelt).
 - Beat bank untouched: no leaps; the standings not staged; the wall unfelt.
+
+## Status Delta — Chapter 14 close (DL 3664–65, the deep country's second winter; real age ≈ 68–70 months)
+- Situation: THE WRONG FACE — the season of the watch; his own lying kills taught a
+  rival reader; the men have put a face on the keepers' line, and the face is wrong.
+- NATURE-MASTERY road: (a) THE SECOND EDGE OF THE SIGN — his lie-kills drew the
+  wide-tracked pale beast of the deep fringe (meat untouched at a written kill);
+  his own craft grown a second edge pointed at himself. (b) THE AIMED WORD — the
+  voice's next truth: spent into a beast at four lengths instead of into the air
+  (short, dense, no roll over the country); the pale beast stops and leaves the
+  kill; the price — two days of the country reading too warmly, the thread loud
+  in the chest, the walk home two days longer; a word said to a reader is a word
+  the reader keeps. (c) THE WANT'S QUESTION — a heavy beast eaten deep and the
+  hunger unmoved by the fullness; no meal can answer it again; it wants the
+  standing itself; held like a current; DS-08 uncured.
+- MEN ledger: THE WRONG FACE ON THE PAPER — the broken watch-fold (one man down
+  at the water; the older lodge man died of it at the camp of black stone); Xiao
+  An's argument that the printed beast is not the thing that signs; Old Qin's
+  ruling (the count carries what can be proved; the mark and the beast written
+  as one line until another proves otherwise); the line turned SOUTH on the wide
+  pads — the watch pulled off his ground for the season; their paper now carries
+  a killer with a heavy pale-sided shape and a name that waits.
+- THE HOUND: the second reading — the crossing above the camp; two lines in the
+  nose (the wide pads fresh; his own old scent from the water) and no way to make
+  them one; the hound called off; the veiling held; the confusion is protection
+  he never planned and cannot count on twice.
+- Firewall: the men still have nothing of him; they believe the mark has a face,
+  and the face is the pale beast's. The dragon never hears, never sees.
+- Cultivation (panel; no clock, s7): REAL AGE ≈ 68–70 months; CULTIVATION-AGE
+  ESTIMATE ≈ 190–205 (the winter's heavy meals; the aimed word's spend is not a
+  gain). Next barrier at cultivation-year 1,000 — far, unfelt. No leaps.

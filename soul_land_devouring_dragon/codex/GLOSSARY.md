@@ -63,3 +63,12 @@ Terms as THIS serial uses them. Canon terms carry their canon meaning.
   both trails, a blind and a staked hound, four days to a fold, the kill
   carried a day's walk north at a time — the list goes to the line it has
   seen).
+
+- **The aimed word** — the dragon's voice spent into a creature instead of into
+  the air: one short dense note at close range, no roll out over the country
+  (ch14, first use, at the pale beast). Its price is the aim: two days of the
+  country reading too warmly and the thread loud in the chest.
+- **The wrong face** — what the keepers' line names in its paper after the pale
+  beast broke the watch-fold (ch14): a beast proved by tracks and a killing,
+  written as the thing that signs and does not show until another beast proves
+  otherwise.

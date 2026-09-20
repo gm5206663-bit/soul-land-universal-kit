@@ -20,3 +20,6 @@ Law: a place gets its row when the story touches it.
 | The water's edge (the water of the warm breaks) | the water where the old bull comes at the edge of the hour (ch12: the taking, the crossing, the sign of the seen set) | [design, on page] |
 | The watch-folds (the keepers' line) | the folds the hunting line works one at a time with a kill left standing and a blind over it (ch13: the first watch-fold, four days; the kill carried north a day's walk and set again) | [design, on page] |
 | The edge of the deep place | the last ground before the unreadable country north of the giants' trees, where nothing that makes trails lives and the standings stand (ch13: walked between, the voice spent there once) | [design, on page] |
+| The broken watch-fold (the west fringe) | the line's fold the pale beast walked through (ch14: wire stood and never touched, blind knocked apart, the hound's stake torn out, one man down at the water) | [design, on page] |
+| The camp of black stone | where the line carried its dead and Old Qin wrote the wrong face into the list (ch14) | [design, on page] |
+| The killing ground of the pale beast | the shelf of old rock in the low fringe where the dragon read the beast and spent one aimed word (ch14) | [design, on page] |

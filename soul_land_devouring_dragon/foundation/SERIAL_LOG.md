@@ -1292,3 +1292,48 @@ One entry per working session. Newest at the bottom.
   next beat), this log.
 - PUSH: kit commit + push; contributions registry edge + log event; workshop
   re-synced and diffed.
+
+### Session 38 — 2026-09-20 (CHECK EVERYTHING: the full audit; CHAPTER 14 written)
+- Author, verbatim: " Check everything and do ".
+- AUDIT (first, before writing): every repository on the account cloned and
+  checked — soul-land-universal-kit, the-universal-storyline-creation- (the
+  contributions centre), soul-land-projects, soul_land_4_fire_phoenix,
+  storyos-site. Every project's gates swept inside the kit: soul_land_devouring_
+  dragon PASS; Soul_Land_2_Project PASS; Soul_Land_5_Project PASS; soul_land_holy_
+  spirit PASS; dragon_prince_yuan_native_oc_fanfiction PASS; SL1_GU_YUAN PASS;
+  SL3_LIN_HAO PASS; the remaining projects carry their own pre-existing states
+  (Soul_Land_3_Project and SOUL_LAND_NEW write rank and measure digits into
+  prose by their own design; soul_land_new and blue_silver and Miraculous_Project
+  and SL_ARCHIVE and soul_land_starter carry digits; none of them is this
+  serial's business and none was touched). No other repository holds any of the
+  Devouring Dragon serial. DD cross-reads: all 14 footers match verify.py to the
+  word; no stale live edges; every ch13 quote claimed by a mirror stands in the
+  chapter. TWO REAL DEFECTS FOUND AND FIXED: (1) foundation/STATUS_PANEL.md had
+  been left on the Chapter 12 exact-figures block — now ch14 values (real age
+  ≈ 68–70 months; cultivation estimate ≈ 190–205; kills, territory, the
+  bloodthirst ledger and the men-ledger all brought forward); (2) the CANON
+  LEDGER's ER-07 still said the Sun Moon collision date was TBD — s15 verified
+  it; now receipted with the cross-reference to OPEN.md #11.
+- WRITTEN: chapters/Chapter_14_The_Wrong_Face.md at the house grammar from the
+  draft up (one human-side scene at house density; no panels). 4,673 words;
+  43 spoken lines (9.2 per 1000w); average 20.3, longest 57; no one-sentence
+  paragraphs; "the way" x1.
+- Beats: THE SEASON OF THE WATCH; THE SIGN'S SECOND EDGE (the pale beast of the
+  deep fringe reading him); THE BROKEN FOLD AND THE DEATH (the older lodge man
+  killed; the camp of black stone); THE WRONG FACE ON THE PAPER (Xiao An's
+  argument; Old Qin's ruling; the line turned south); THE HOUND'S SECOND READING
+  (two scents, no way to make them one; the veiling held); THE WANT'S QUESTION
+  (the fullness cannot answer it any more); THE VOICE'S NEXT TRUTH PAID FOR
+  (the aimed word at four lengths; the price of the aim); the wall far, unfelt.
+- Firewall: held — the men now believe the mark has a FACE, and the face is the
+  pale beast's; the dragon never hears, never sees.
+- Gates: verify.py per chapter PASS (ch1 the recorded no-voices exception);
+  project sweep PASS — 14/14 footers, all hard gates clean.
+- Mirrors swept: codex/TIMELINE (ch14 row), bible/ADAPTATION_LOG (ch14 delta),
+  codex/CREATURES (+the pale beast), codex/PLACES (+three rows),
+  foundation/CONTINUITY (endpoints, register, forward references), codex/
+  GLOSSARY (+the aimed word, the wrong face), codex/CHARACTERS, codex/
+  KNOWLEDGE_FIREWALLS (through ch14), bible/HIS_STATUS_PANEL, foundation/
+  STATUS_PANEL, README, this log.
+- PUSH: kit commit + push; contributions centre note + registry edge; workshop
+  re-synced and diffed.

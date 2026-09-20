@@ -25,7 +25,7 @@ Deviation rows record natural butterfly effects as they happen.
 | ER-04 | Spirit Hall destroyed at SL1's end (Martial Soul Empire broken, Bibi Dong fallen) | SL1 finale; verified rows WL-27..WL-30 | canon |
 | ER-05 | Spirit-beast ceilings: 100,000-year beasts face the HEAVENLY TRIBULATION and may choose human form instead | SL1 canon (Xiao Wu / Er Ming / Da Ming arcs; the 100k law) | canon |
 | ER-06 | The Star Dou Great Forest is the continent's great spirit-beast country, ruled by ancient overlords; the Beast God Di Tian (Golden-Eyed Black Dragon King) is its supreme one (SL2-era facts; in our era he reigns, ~790,000 years [design age]) | SL2 setting | canon (existence) + design (age) |
-| ER-07 | No soul tools in this era: soul-tool technology is a far-later development tied to the Sun Moon continental collision (SL2-era); collision date TBD | SL2 prologue lore | canon (absence) + [verify date] |
+| ER-07 | No soul tools in this era: soul-tool technology is a far-later development tied to the Sun Moon continental collision (SL2-era); collision date VERIFIED s15 (≈ SL1+6,000 real years — OPEN.md #11: ~4,000 years before SL2; our era predates it by ~5,000) | SL2 prologue lore | canon (absence) + [verify date] |
 
 ## B2. Spirit-beast law (verified session 6; full sheet in SPIRIT_BEAST_LORE_VERIFIED.md)
 | Row | Fact | Source | Tier |

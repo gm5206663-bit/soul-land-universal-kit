@@ -2,8 +2,13 @@
 CLEAN GLANCEABLE SHEET OF HIM (identity, cultivation, body/height, attributes,
 skills, combat power vs normal soul beasts): bible/HIS_STATUS_PANEL.md
 (author s23 request; updated each chapter).
-Updated: 2026-09-20 (session 36 — the FULL REBUILD: Chapters 1–12 all rebuilt to the house grammar measured in foundation/HOUSE_STYLE_AUDIT.md — every chapter that has a human-side scene now carries it on the page at house density (8.2–10.7 spoken lines per 1000w), prose averages 16.2–21.3 words, no sentence over 60, motif word "the way" cut to 0–1; Chapter 1 alone carries no voices, the recorded beat-forbids exception. s35 house grammar; s34 style law; s33 ring-slot law; s32 soul-beast rule). Exact figures live HERE
-and in ADAPTATION_LOG only; prose never carries numbers.
+Updated: 2026-09-20 (session 37 — CHAPTER 13 written in full at the house grammar
+(4,008 words; 41 spoken lines, 10.2 per 1000w; average 20.8, longest 60); the
+full-rebuild law closed across all 13 chapters (paragraph rule enforced, false
+apparatus head repaired, all footers re-verified). Rulings in force: house
+grammar (s35), style + panel law (s34), ring-slot law ER-12 (s33), soul-beast
+rule SB-11 (s32), standing light ER-13 (s36). Exact figures live HERE and in
+ADAPTATION_LOG only; prose never carries numbers.
 
 ## Identity
 - Protagonist: an unnamed Devouring Dragon spirit beast (canon species DD-01..07).
@@ -15,43 +20,43 @@ and in ADAPTATION_LOG only; prose never carries numbers.
 - Serial scope; natural length; NATURAL ENDING (none pre-chosen).
 
 ## Now
-LIVE EDGE: after Chapter 13 "The Keepers' Line" (DL 3664 falling of the green;
-real age ≈ 64–66 months). THE AFTER-COST OF THE CROSSING: the water bank
-learned him — his own word over four days of bank, the small lives gone from
-it; the stillness the ground remembers; the debt paid down through the season
-until his own bank was his again. THE WAR IN THE GROUND: his kill-word read
-for the first time as a SIGN — he had been signing his ground since the first
-season; the takers' craft mirrored (a kill of theirs left standing, the light
-boxed, the wire on both trails, a blind and a staked hound); the first
-watch-fold read from the rim and given up unentered; the husk never eaten.
-THE KEEPERS' LINE SET (one short human-side scene, house density): the list
-goes to the line it has seen — the first time the war is aimed at him as a
-line, not at beasts; the watch craft (four days to a fold, the kill carried
-north a day's walk at a time); the rule to look and not shoot and to write
-what comes; Old Qin names the line; the two lodge men up from the fold; their
-paper now holds his ground and they have never once seen him. THE COUNTER:
-the country made to lie (a loud kill left in the far south, and again, and
-once in the low outer country); the feel of being a country's secret instead
-of its sign. THE VOICE'S NEXT TRUTH: spent once at the edge of the deep place
-— the standings walked between (nothing staged); the deep country read the
-word as a WORD, not a roar (no going flat, no giving of ground: the silence of
-being read); a voice that names him to anything deep enough to read. THE WANT
-WAKENED PATIENT: held down by the bull's fullness through the green's height;
-at the turning it woke changed — unhurried, wanting the deep years, the
-country's own patience got into the flaw; held against like a current (DS-08
-uncured, ridden). THE WALL at cultivation-year 1,000: far, unfelt. Two lists
-over one country, and only one of them can read. Talent never named; no leaps.
+LIVE EDGE: after Chapter 14 "The Wrong Face" (DL 3664–65, the deep country's
+second winter; real age ≈ 68–70 months). THE SEASON OF THE WATCH: the cold
+comes up out of the ground first; the heavy kind drift early; the line's
+watch-folds work north a day's walk at a time and he never goes near one.
+THE SIGN'S SECOND EDGE: his own lie-kills taught a rival reader — the pale
+beast of the deep fringe, wide-tracked, meat untouched at a written kill; the
+tracks closer on his own trails; his craft grown a second edge pointed at
+himself. THE MEN MEET THE WRONG BEAST: the fold broken (wire stood and never
+touched, blind knocked apart, the hound's stake torn out, one man down at the
+water); the older lodge man dead by the camp of black stone. THE WRONG FACE
+ON THE PAPER (one short human-side scene, house density): Xiao An's argument
+that the printed beast is not the thing that signs; Old Qin's ruling — the
+lodge counts what can be proved, the mark and the beast written as one line
+until another proves otherwise; the line turned SOUTH on the wide pads — the
+watch pulled off his ground for the season. THE HOUND'S SECOND READING: the
+crossing above their camp; two lines in the nose and no way to make them one;
+called off; the veiling held; the confusion is protection he never planned
+and cannot count on twice. THE WANT'S QUESTION: a heavy beast eaten deep and
+the hunger unmoved — no meal can answer it any more; it wants the standing
+itself, held like a current (DS-08 uncured). THE VOICE'S NEXT TRUTH PAID FOR:
+the killing ground; ONE AIMED WORD at four lengths (short, dense, no roll over
+the country); the pale beast stops and walks off; the price — two days of the
+country reading too warmly, the thread loud in the chest, the walk home two
+days longer; the word said to a reader is a word the reader keeps. THE WALL at
+cultivation-year 1,000: far, unfelt. Freedom bought with a lie that grew legs;
+the two lists' next meeting is south, and he is north in it. Talent never
+named; no leaps.
 
 ## Exact figures (panel law)
-- REAL AGE: ≈ 60–62 months (hatched late summer DL 3661; the deep summer and
-  the cold season of the third year, DL 3663 → turn of the year, and the
-  thaw, first green and green at its height of the fourth year, DL 3664,
+- REAL AGE: ≈ 68–70 months (hatched late summer DL 3661; through DL 3663 and
+  DL 3664 to the deep country's second winter — the ch14 season of the watch
   lived).
-- CULTIVATION-AGE (SB-01 — NOT the same as real age): ESTIMATE ≈ 180–195
-  years — HUNDRED-YEAR CLASS (yellow-ring tier, 100–999 cultivation-yrs);
-  the cold country's lean meals chosen deep, then the green season's first
-  deep meal (the thick-paw [design]), moved it; the bloodline dividend is
-  quality first. FIRST BARRIER at cultivation-year 100: CROSSED. Next barrier at
+- CULTIVATION-AGE (SB-01 — NOT the same as real age): ESTIMATE ≈ 190–205
+  years — HUNDRED-YEAR CLASS; the winter's heavy meals moved it; the aimed
+  word's spend is not a gain. FIRST BARRIER at cultivation-year 100: CROSSED.
+  Next barrier at cultivation-year 1,000 (SB-03), unaged, unfelt. NO clock
+  (s7); estimates move with events. No leaps. FIRST BARRIER at cultivation-year 100: CROSSED. Next barrier at
   cultivation-year 1,000 (SB-03), unaged, unfelt. NO clock (s7); estimates
   move with events. No leaps.
 - Kills/devoured: wintering stone-runners dug out; first carrion (pass-trail
@@ -71,10 +76,16 @@ over one country, and only one of them can read. Talent never named; no leaps.
   OLD BULL OF THE WARM BREAKS [design] (the deepest meal of his life; the
   fight the whole of what he was paid for; the voice unspent through a true
   fight; the CROSSING at the water — the spirit hound's scent held; the veiling
-  at its last margin, the after-cost the deep stillness). Territory: scree
-  slope → roots-house → the ravine den (deep outer forest) → THE BLACK-RAVINE SERPENT'S
-  GROUND CROSSED (rim-path, in the weight's stillness) → A NEW HOLLOW in the
-  deep country (roots and ground and water; the way out is not the way in).
+  at its last margin, the after-cost the deep stillness); the falling of the
+  green — the lie-kills (two in the far south, one in the low outer country;
+  the meat eaten deep and the rest left as a word), and the season's small
+  quiet hunting on hard ground. Territory: scree slope → roots-house → the
+  ravine den (deep outer forest) → THE BLACK-RAVINE SERPENT'S GROUND CROSSED
+  (rim-path, in the weight's stillness) → A NEW HOLLOW in the deep country
+  (roots and ground and water; the way out is not the way in) → THE
+  WATCH-FOLDS GIVEN UP UNENTERED (the keepers' line's ground; he never crossed
+  their wire) → THE EDGE OF THE DEEP PLACE (walked between the standings; the
+  voice spent there once).
 
 - Ring-of-himself if killed now (SB-06): a YELLOW ring of hundred-year class
   — real worth to a hunter now; his worth to them grows with his years.
@@ -84,7 +95,10 @@ over one country, and only one of them can read. Talent never named; no leaps.
   snow after the stag-kind (ch5). Bloodthirst ledger: wings-pull, lodge-lights
   pull, feast-pull — all survived; the moonlit-break night — RIDDEN (the rein
   found, ch4); the stag-kind fight — the red thing rose and the jaw-work held
-  anyway (ch5). DS-08: the flaw remains, uncured.
+  anyway (ch5); the green's height — the WANT QUIET under the bull's fullness;
+  the falling of the green — THE WANT WAKENED PATIENT (unhurried, wanting the
+  deep years; held against like a current, ch13). DS-08: the flaw remains,
+  uncured — and it has learned to wait.
 - Men: scent → SIGHT (spirit hounds, the upright things, iron-at-a-distance, the empty
   lodge read) → WITNESS (the turning ring, ch3) → KNOWLEDGE SHARPENED (the
   husk: they hunt what he hunts, ch4; the snare: they can take the years
@@ -96,8 +110,13 @@ over one country, and only one of them can read. Talent never named; no leaps.
   THE WATER (ch12: the going-out at the water at the hour the meal stood
   begun; the spirit hound stopped, sat, held the scent; the upright shapes
   looked and found no one; nothing known, nothing seen of him — but the
-  spirit hound CARRIED THE SCENT (the sign of the seen set from it); the war's ledger's first honest line of the new
-  kind: the next line of theirs will come with eyes, not only hands); no
+  spirit hound CARRIED THE SCENT (the sign of the seen set from it); the war's ledger's first honest line of the new kind: the next line of theirs
+  will come with eyes, not only hands) → THE WATCH (ch13: the keepers' line
+  set and worked fold by fold — a kill of theirs left standing with the light
+  boxed, wire run on both trails, a blind and a staked hound, four days to a
+  fold, the kill carried north a day's walk at a time; the line named by Old
+  Qin; their paper now holds three watch-folds' worth of his mark — and they
+  have still never once seen him); no
   contact, never known to be there — and, in the READER's eyes only (the
   parallel panels, the 2026-09-18 ruling): FACES — OLD QIN (the list-keeper; SOUL KING; the stag's purple light carried down the
   road to the tables — depth for frames that have grown into it (the ring-slot
@@ -156,29 +175,33 @@ over one country, and only one of them can read. Talent never named; no leaps.
   after; NO growth-rate clock.
 
 ## Next beats (author-gated)
-- Chapter 14 (on the author's go): the season of the watch — the line works its
-  way up the deep country fold by fold; the keepers' line meets something that
-  is not him (a heavy kind, a rival eater, the answering moved by his own
-  kill-word) and the list is filled in with the wrong beast; the hound's
-  scent-state tested a second time; the want's patience asked a question the
-  fullness cannot answer; the voice's next truth paid for; the standings still
-  walked between (nothing staged); the wall at 1,000 far, unfelt; no leaps.
+- Chapter 15 (on the author's go): the south — the keepers' line meets the pale
+  beast on ground it has chosen, and the wrong face is tested (does the paper
+  hold, or does the mark get a second face?); the dragon reads the south from a
+  distance, or chooses a ground of his own; the hound torn between two scents
+  and what it does the third time; the want's patience asked again; the rankings
+  of the deep place unchanged (nothing staged); the wall at 1,000 far, unfelt.
 - No chapter drafting until the author says so.
 
 ## Last action
-Session 37 (2026-09-20; author, verbatim: " Continue "): CHAPTER 13 "The
-Keepers' Line" WRITTEN — the first chapter written at the house grammar from
-the draft up (foundation/HOUSE_STYLE_AUDIT.md §4): 4,008 words; 41 spoken
-lines (10.2 per 1000w); sentence average 20.8, longest 60; one human-side
-scene at house density (the watch-fold and the naming of the line); the
-firewall held on the page (no sighting, no print, no contact). Also this
-session: the s36 full rebuild closed out — the paragraph rule enforced across
-all 13 chapters (single-sentence paragraphs merged or split), ch5's false
-apparatus head repaired, and all 13 footers re-set to the measured counts
-(ch1 2,595 … ch13 4,008). Gates: verify.py per chapter and project sweep PASS
-(ch1 the recorded no-voices exception). Mirrors swept: TIMELINE (ch13 row),
-ADAPTATION_LOG (ch13 delta), CHARACTERS (three rows), CONTINUITY (endpoints,
-register, forward references), PLACES (the watch-folds; the edge of the deep
-place), GLOSSARY (the keepers' line), KNOWLEDGE_FIREWALLS (through ch13),
-SERIAL_LOG (Session 37), README (live edge + next beat). NEXT: kit push;
-contributions registry edge + log; workshop re-sync.
+Session 38 (2026-09-20; author, verbatim: " Check everything and do "): a full
+audit of the whole workspace first — every repo reachable on the account cloned
+and checked (five repos: kit, contributions centre, soul-land-projects,
+soul_land_4_fire_phoenix, storyos-site), every project's gates swept, and the
+DD mirrors cross-read against the chapters. Two real defects found and fixed:
+the STATUS PANEL's exact-figures block was still on the Chapter 12 values (now
+ch14: ≈ 68–70 months, cultivation ≈ 190–205) and CANON_LEDGER ER-07 still said
+the Sun Moon collision date was TBD when s15 verified it (now receipted). No
+other repository carries the Devouring Dragon serial — the kit, the
+contributions centre and the workshop are the whole of it. THEN: CHAPTER 14
+"The Wrong Face" WRITTEN at the house grammar from the draft up — 4,673 words;
+43 spoken lines (9.2 per 1000w); average 20.3, longest 57; one human-side
+scene at house density; no panels; the firewall held (they believe the mark
+has the pale beast's face). Beats: the season of the watch; the sign's second
+edge; the broken fold and the death; the wrong face on the paper; the hound's
+second reading; the want's question; the aimed word paid for. Mirrors swept
+(TIMELINE, ADAPTATION_LOG, CHARACTERS, CONTINUITY, PLACES, GLOSSARY, CREATURES,
+KNOWLEDGE_FIREWALLS, HIS_STATUS_PANEL, STATUS_PANEL, README, SERIAL_LOG
+Session 38). Gates: verify.py per chapter + project sweep PASS (ch1 the
+recorded no-voices exception). NEXT: kit push; contributions registry + note;
+workshop re-sync.

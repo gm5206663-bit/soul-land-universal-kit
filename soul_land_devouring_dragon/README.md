@@ -25,14 +25,14 @@ READ FIRST, in order:
 4. foundation/CONTINUITY.md — anchor table + forward references
 5. the last two chapters
 6. foundation/SERIAL_LOG.md — last three entries only
-LIVE EDGE: Chapter 13 — The Keepers' Line (DL 3664 falling of the green)
-NEXT BEAT: Chapter 14 — the season of the watch: the line works its way up
-the deep country fold by fold; the keepers' line meets something that is not
-him and the list is filled in with the wrong beast; the hound's scent-state
-tested a second time; the want's patience asked a question the fullness
-cannot answer; the voice's next truth paid for; the greatnesses still walked
-between (nothing staged); the wall at 1,000 far, unfelt. Author's fresh go
-required.
+LIVE EDGE: Chapter 14 — The Wrong Face (DL 3664–65, the deep country's second
+winter)
+NEXT BEAT: Chapter 15 — the south: the keepers' line meets the pale beast on
+ground of its choosing and the wrong face is tested; the dragon reads the south
+from a distance or chooses a ground of his own; the hound torn between two
+scents and what it does the third time; the want's patience asked again; the
+greatnesses still walked between (nothing staged); the wall at 1,000 far,
+unfelt. Author's fresh go required.
 RULINGS IN FORCE (2026-09-18, session 27): the year-takers carry faces,
 names and dialogue in the parallel panel (the dragon never hears; firewall
 stands); DD chapter footers KEPT (registered exception to kit 07 §3); the
