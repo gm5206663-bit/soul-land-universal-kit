@@ -51,7 +51,7 @@
     {
       "n": 3,
       "beast": "RESERVED",
-      "note": "design-era ruling: 'the 20-wall event'; serialization prose ties the third ring to the wall at thirty (ch15: 'the thirty-bottleneck ahead — the rank-wall where the third ring must come'; ch16: 'the wall at thirty, the hunt planned'); hunt planned, not triggered; wording reconciliation pending as OPEN R5; ring-config law says purple (3–4); a story, not a stat"
+      "note": "ruled 2026-09-20 (R5 closed): the third-ring event is the wall at thirty — the serialization's prose is the live wording (ch15: 'the thirty-bottleneck ahead — the rank-wall where the third ring must come'; ch16: 'the wall at thirty, the hunt planned'); the design-era '20-wall' wording is SUPERSEDED, kept for provenance only, reversible; hunt planned, not triggered; ring-config law says purple (3–4); a story, not a stat"
     }
   ],
   "required_status_patterns": [
@@ -61,7 +61,7 @@
     "17-peak / 23 / 29",
     "Group One.*4-0|4-0.*Group One",
     "canon 17-4 held|canon ch 17-4 held",
-    "the 20 wall|20-wall",
+    "the wall at thirty|thirty-bottleneck",
     "rank 25.*superseded|SUPERSEDED.*rank 25|design-era.*superseded",
     "foundation/STATUS_PANEL.md"
   ],

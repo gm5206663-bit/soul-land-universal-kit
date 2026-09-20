@@ -104,9 +104,10 @@ the Ch15-16 records: **Yuhao 17-peak (verging 18) / Wang Dong 23 / Jiang Che
 29** — unchanged through Chapters 17–22. Next gates: Jiang Che — the wall at
 thirty (the third-ring hunt: the shape is on the page, the departure is at the
 wall — NOT YET); Yuhao — 18 (verging, named Ch16); Wang Dong — none named.
-Note: the design-era "20-wall" wording in the ledger and lock 5 is kept for
-provenance; the serialization's prose ties the third-ring gate to the wall at
-thirty — reconciliation is OPEN R5.
+Note: **R5 closed (ruled 2026-09-20)** — the wall at thirty is the live
+wording (the serialization's prose, ch15/16); the design-era "20-wall"
+wording in the ledger and lock 5 is SUPERSEDED, kept for provenance only
+(reversible).
 
 ---
 

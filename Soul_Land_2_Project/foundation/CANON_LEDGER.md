@@ -40,12 +40,12 @@ of truth). The five that gate the next work:
   maximum compatibility; skill TIDE BIND. [design on canon species]
 - Ring 2: **Sun Flower**, ~740 yr, YELLOW (at the rank-20 canon ceiling);
   skill PHOTOSYNTHETIC RENEWAL. [canon plant name] + [design] pairing
-- Ring 3: **reserved** as the 20-wall event; a story, not a stat; ring-config
-  law says purple (3–4). [user ruling] — **same-day note (2026-09-20):** the
-  serialization's prose ties the third-ring event to the wall at thirty (ch15:
-  "the thirty-bottleneck ahead — the rank-wall where the third ring must come";
-  ch16: "the wall at thirty, the hunt planned"); the "20-wall" wording above is
-  kept as the design-era ruling — reconciliation is OPEN R5.
+- Ring 3: **reserved** as the wall-at-thirty event; a story, not a stat;
+  ring-config law says purple (3–4). [ruled 2026-09-20, R5 closed] — the
+  serialization's prose is the live wording (ch15: "the thirty-bottleneck
+  ahead — the rank-wall where the third ring must come"; ch16: "the wall at
+  thirty, the hunt planned"). The design-era "20-wall" wording is
+  **SUPERSEDED — kept for provenance only, reversible.**
 - Ring-config law (s17): 1–2 yellow, 3–4 purple, 5–7 black; deviating-up =
   prodigy marks, reserved for canon's chosen or author exceptions.
 

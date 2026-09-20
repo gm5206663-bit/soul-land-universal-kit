@@ -17,7 +17,7 @@
 | Debt | Where it was opened | Status |
 |---|---|---|
 | The waystation contract (the fox's, for the guardians) | ch2 | UNdelivered |
-| The third ring — the wall | design-era: the 20-wall event; serialization: **the wall at thirty** (ch15/16 prose) | RESERVED as a story event; the hunt's **shape is on the ledger's page (Ch22)** — planned, measured, window marked, NOT YET; the departure is at the wall (he is 29); the 20/30 wording reconciliation is OPEN R5 |
+| The third ring — the wall | **the wall at thirty** (ruled 2026-09-20, R5 closed: serialization prose wins; design-era "20-wall" SUPERSEDED, kept for provenance) | RESERVED as a story event; the hunt's **shape is on the ledger's page (Ch22)** — planned, measured, window marked, NOT YET; the departure is at the wall (he is 29) |
 | Xiao Xiao's decisive fight (the Nine Phoenix Greeting Flute) | ch20 (flute named) | HELD, per her hide-strength doctrine |
 | Ma Xiaotao at the grounds | canon 17-4 | **DONE (Ch22)** — the red at the venue; the bank holds; no interaction with the room (the Ch18 blink stays a blink) |
 | The knockout bracket | canon 17-4 | **POSTED (Ch22)** — the top sixty-four; the eighty-six crossed out; Group One's first line: Group Forty-Seven "the watching" (Ch23) |

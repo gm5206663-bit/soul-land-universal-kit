@@ -120,3 +120,16 @@ was checked-and-not-used — zero leakage from the later-canon material the
 research surfaced), **forbidden-future list**, and the **next-chapter guard
 line** in the tail; panel §7.6 now requires it for every chapter. Gate
 re-run: 23/23 + project sweep + selftest 22/22.
+
+**R5 ruled + sweep applied (2026-09-20).** The third-ring wall question
+(closed the day it opened): the serialization's own prose wins — **the wall
+at thirty** is the live wording (ch15 "the thirty-bottleneck ahead"; ch16
+"the wall at thirty, the hunt planned"). The design-era "20-wall" shorthand
+is SUPERSEDED, kept for provenance only, reversible. Sweep applied in one
+pass: OPEN.md (R5 entry now ruled), CANON_LEDGER (ring-3 row),
+NO_MISTAKE_LIVE_RULES (lock 5), CONTINUITY (the wall's debt line),
+STATUS_PANEL (ranks-line note), CURRENT_STATE_MANIFEST (ring-3 note +
+required pattern flipped to "the wall at thirty|thirty-bottleneck"). No
+prose touched; no checker touched. Re-verified: every remaining "20-wall"
+mention in the project is flagged SUPERSEDED; all manifest required patterns
+still match the panel.

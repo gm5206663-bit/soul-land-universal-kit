@@ -38,16 +38,15 @@ earn it." The sect's survival crisis is the antagonist with a face (the
 letter home: "the sect needs us").
 
 **5. POWER CEILING** — the AT road: ranks grow through canon gates (the
-20-wall needs the third ring; ring colours bind; canon's pre-absorption
+wall at thirty needs the third ring; ring colours bind; canon's pre-absorption
 laws bind hard); the third ring is **reserved** as a story event, not a stat;
 nothing is absolute — ranks are estimates about fights, not fixtures; no free
 levels, no unearned mastery; the clean current is **never the poison path**
 (hard lock, user); the AT integrates rings to 100% but creates nothing from
 nothing, grants no missing knowledge, and first overwhelming exposure can
-still kill. *Same-day note (2026-09-20): the serialization's prose ties the
-third-ring gate to the wall at thirty (ch15/16); the live panel follows the
-serialization until R5 is ruled — the 20-wall wording above stands as the
-design-era ruling.*
+still kill. *ruled 2026-09-20 (R5 closed): the serialization's prose is the live wording —
+the third-ring gate is the wall at thirty (ch15/16). The design-era "20-wall"
+wording is SUPERSEDED, kept for provenance only, reversible.*
 
 **6. IDENTITY** — public: Jiang Che, the courier, Tang Sect third disciple,
 Shrek Class One, Room 108. Private: the AT (L1, never revealed to anyone,

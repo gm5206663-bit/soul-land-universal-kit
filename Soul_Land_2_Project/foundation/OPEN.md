@@ -42,9 +42,13 @@ third-ring event the **20-wall**. The serialization's own prose ties it to
 **the wall at thirty**: ch15 "the thirty-bottleneck ahead — the rank-wall where
 the third ring must come … the third-ring hunt PLANNED"; ch16 "the wall at
 thirty, the hunt planned". The live panel follows the serialization (wall at
-thirty) and the design-era wording is kept for provenance. *Author: confirm —
-if the 20-wall ruling stands, the ch15/16 prose lines are what get repaired,
-and Jiang Che's next-gate line flips with it.*
+thirty) and the design-era wording is kept for provenance.
+**Ruled (2026-09-20): the wall at thirty wins.** The serialization's prose is
+the live wording (ch15/16); the design-era "20-wall" wording is
+**SUPERSEDED — kept for provenance only, reversible.** Sweep applied the same
+day: CANON_LEDGER (ring-3 row), NO_MISTAKE_LIVE_RULES (lock 5), CONTINUITY
+(the wall's debt line), STATUS_PANEL (ranks-line note), CURRENT_STATE_MANIFEST
+(ring-3 note + the required pattern).
 
 ## OPEN CANON CHECKS (execute at the listed trigger — never let these lapse)
 
