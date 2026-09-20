@@ -51,3 +51,10 @@ hard gates clean; `selftest.py` → 22/22.
 **Open:** rulings R1–R3 in `OPEN.md`; canon checks 2–5.
 **Live edge after this entry:** after Chapter 21 "Round One." Next: Chapter 22
 (canon 17-3/4), on the author's go.
+
+**Push (2026-09-20, on the author's go):** the re-rail is committed and pushed to
+GitHub — `soul-land-universal-kit` @ ee9969d (re-rail + gate + archives, 45 files)
+and `soul-land-projects` @ 4e1370a (gate install, 2 files). Verified on GitHub:
+STATUS_PANEL, receipt and the unified verify.py all live. Ruling R2 (the two
+dialogue translations) accepted by the author and is final; R1, R3, R4 remain
+open in `OPEN.md`.
