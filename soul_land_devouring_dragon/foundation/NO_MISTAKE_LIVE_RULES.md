@@ -1,5 +1,5 @@
 # NO MISTAKE LIVE RULES — the twelve locks (kit 02), mapped to this serial
-Current through Chapter 10. The kit (SOUL_LAND_WORKSPACE/kit/) governs; this file
+Current through Chapter 12 (s32). The kit (SOUL_LAND_WORKSPACE/kit/) governs; this file
 states the locks in the kit's shape. Author rulings always outrank this file.
 
  1. ERA — Soul Land, ~1,000 years after SL1 (between SL1 and SL2; pre-Sun-Moon
@@ -19,7 +19,7 @@ states the locks in the kit's shape. Author rulings always outrank this file.
     100,000-year gate law (human rebirth OR tribulation) — far wall ahead;
     (f) devouring as a beast's legitimate absorption (master §42.4).
  4. SPINE — "The year-takers want the years of the forest's beasts, and they
-    bring iron and dogs and fire into the deep country to take them — and he
+    bring iron and spirit hounds and fire into the deep country to take them — and he
     is one of the beasts whose years they would take." The race is the spine;
     the war of the lists is its current front (ch10).
  5. POWER CEILING — direction: up his own origin toward the Dragon God's
@@ -47,3 +47,13 @@ states the locks in the kit's shape. Author rulings always outrank this file.
     "done".
 12. HANDOFF — read order in README; live edge in STATUS_PANEL; serial log
     tail carries the last three sessions.
+
+## AUTHOR LAW (s32, 2026-09-20) — THE SOUL-BEAST RULE
+This world has SOUL BEASTS, not ordinary animals. Every creature in the serial is
+a soul beast of a kind, with a year-tier; even the commonest thing of the world is
+a soul beast — blue silver grass, the low ground-cover of every country. The kept
+hunting beasts are the SPIRIT HOUNDS (hound-kind soul beasts, kept — never dogs);
+the ravine's ruler is the BLACK-RAVINE SERPENT, always named in full. Panels,
+mirrors and prose alike. Author, verbatim: "soul land have soul beast not normal
+animal, even commonest thing is blue silver grass — correct everything even things
+i don't tell".

@@ -2,7 +2,7 @@
 CLEAN GLANCEABLE SHEET OF HIM (identity, cultivation, body/height, attributes,
 skills, combat power vs normal soul beasts): bible/HIS_STATUS_PANEL.md
 (author s23 request; updated each chapter).
-Updated: 2026-09-20 (session 31 — Chapters 11–12 rewritten in full). Exact figures live HERE
+Updated: 2026-09-20 (session 32 — soul-beast correction: this world has soul beasts, not ordinary animals; s31: Chapters 11–12 rewritten in full). Exact figures live HERE
 and in ADAPTATION_LOG only; prose never carries numbers.
 
 ## Identity
@@ -31,7 +31,7 @@ marked ground) — his own craft made the ground wary, and the wary ground
 moved the bull's hours: the word that guards the country guards the taking
 too. THE PARALLEL PANELS (the ruling, second use — twice): THE DEEP CAMP
 at the going-out (the deep green's weather against them — heat, flies, the
-ground's word, the hound slow: every country keeps its own weather, from
+ground's word, the spirit hound slow: every country keeps its own weather, from
 their side; the list has grown the KEEPERS' LINE — Xiao An's ch11 observation
 became the list's line: no name, the sign of the mark on it, "a thing that
 signs and does not show"; Xiao An's demand: the SIGN OF THE SEEN on it before
@@ -59,10 +59,10 @@ ground the way the ground carries a secret); the COST — the ground's word
 spent to the last of its margin: the deep stillness, a day, the country
 keeping its own secret longer; the war's ledger's first honest line of the
 new kind: THE NEXT LINE OF THEIRS WILL COME WITH EYES, NOT ONLY HANDS — the
-hound carried the scent. THE WATER (the reader's side of the crossing): the
-hound's certainty for a whole hour ("It holds it like a name... The hound
+spirit hound carried the scent. THE WATER (the reader's side of the crossing): the
+spirit hound's certainty for a whole hour ("It holds it like a name... The spirit hound
 doesn't hold an hour for the grass."); the mark at the water, the whole body
-gone; Xiao An: "And the hound smelled something"; Gao Tie: "It's held the whole hour."; Old Qin sets the SIGN OF THE SEEN on the keepers' line — "When a
+gone; Xiao An: "And the spirit hound smelled something"; Gao Tie: "It's held the whole hour."; Old Qin sets the SIGN OF THE SEEN on the keepers' line — "When a
 line has been seen, the list goes to it." (their next going is toward the
 mark — toward him.) THE TURN: the deepest meal of his life (the bloodline
 dividend visible: scales darker, the crown higher, the dragon-thread
@@ -111,9 +111,9 @@ Talent never named; no leaps.
   last stride cost, the jaw-work held; the two reds met at its meal); THE
   OLD BULL OF THE WARM BREAKS [design] (the deepest meal of his life; the
   fight the whole of what he was paid for; the voice unspent through a true
-  fight; the CROSSING at the water — the hound's scent held; the veiling
+  fight; the CROSSING at the water — the spirit hound's scent held; the veiling
   at its last margin, the after-cost the deep stillness). Territory: scree
-  slope → roots-house → the ravine den (deep outer forest) → THE SERPENT'S
+  slope → roots-house → the ravine den (deep outer forest) → THE BLACK-RAVINE SERPENT'S
   GROUND CROSSED (rim-path, in the weight's stillness) → A NEW HOLLOW in the
   deep country (roots and ground and water; the way out is not the way in).
 
@@ -126,7 +126,7 @@ Talent never named; no leaps.
   pull, feast-pull — all survived; the moonlit-break night — RIDDEN (the rein
   found, ch4); the stag-kind fight — the red thing rose and the jaw-work held
   anyway (ch5). DS-08: the flaw remains, uncured.
-- Men: scent → SIGHT (dogs, the upright things, iron-at-a-distance, the empty
+- Men: scent → SIGHT (spirit hounds, the upright things, iron-at-a-distance, the empty
   lodge read) → WITNESS (the turning ring, ch3) → KNOWLEDGE SHARPENED (the
   husk: they hunt what he hunts, ch4; the snare: they can take the years
   without being there, ch5 — IRON CAN WAIT) → THE RACE SHARPENED (ch10: they
@@ -138,15 +138,15 @@ Talent never named; no leaps.
   green; the KEEPERS' LINE on their list — Xiao An's mark-observation became
   the list's line: no name, the sign of the mark on it) → THE CROSSING AT
   THE WATER (ch12: the going-out at the water at the hour the meal stood
-  begun; the hound stopped, sat, held the scent; the upright shapes
+  begun; the spirit hound stopped, sat, held the scent; the upright shapes
   looked and found no one; nothing known, nothing seen of him — but the
-  hound CARRIED THE SCENT (the sign of the seen set from it); the war's ledger's first honest line of the new
+  spirit hound CARRIED THE SCENT (the sign of the seen set from it); the war's ledger's first honest line of the new
   kind: the next line of theirs will come with eyes, not only hands); no
   contact, never known to be there — and, in the READER's eyes only (the
   parallel panels, the 2026-09-18 ruling): FACES — OLD QIN (the list-keeper; SOUL KING; the grey stag's PURPLE RING
   as his SECOND RING; the sign of the seen set on the keepers' line: "When a
   line has been seen, the list goes to it."),
-  GAO TIE (the hound-man; "It holds it like a name... The hound doesn't hold an hour for the grass."), XIAO AN (the
+  GAO TIE (the spirit hound's master; "It holds it like a name... The spirit hound doesn't hold an hour for the grass."), XIAO AN (the
   young one; the mark observed: "like a name signed"; her demand: the sign
   of the seen before they move); their list on paper, their motive on the
   page (the deep keeps its own green; "the list cares about years"; the old
@@ -165,7 +165,7 @@ Talent never named; no leaps.
   Golden Dragon King's blood within; BLOODLINE SUPPRESSION of low beasts real
   from the hatch — always-on, grown with growth: the forest lowers its voice
   farther and more wholly (ch5); beasts above him untouched; suppression's
-  reverse felt from the serpent (ch4). THE VEILING (ch5): first function —
+  reverse felt from the Black-Ravine Serpent (ch4). THE VEILING (ch5): first function —
   unstable, whole attention only; by cold-season's set-in he walks his trails
   hushed to a shadow.
 - EGG-FOUNDATION (author s11): DIFFERENT AND SPECIAL FROM HIS OWN RACE — the
@@ -215,22 +215,26 @@ Talent never named; no leaps.
 - No chapter drafting until the author says so.
 
 ## Last action
-Session 31 (2026-09-20): author directive ("Rewrite that chapter") →
-Chapters 11 AND 12 rewritten in full (the s30 correction pass was
-panel-level; the author ruled the texture work required whole-chapter
-rewrites — the s30 beats, all quoted lines, and every ledger beat
-preserved verbatim, verified by diff against the s30 bodies); canon
-human-side texture throughout (Old Qin / Gao Tie / Xiao An; soul
-masters; rank names per ER-10; purple tier per SB-02; the road market;
-the Tang Sect's frontier teams [design-folk]; the spirit hound); three
-flat "the way X" connectives tightened in the rewrite. verify.py
-(unified v2) PASS: ch11 2,866 prose words / 19 dialogue lines; ch12
-3,175 prose words / 24 dialogue lines; project sweep PASS (12 chapters,
-footers 12/12). Zero digits/CJK in prose. Mirrors re-synced same turn:
-STATUS_PANEL (NOW + Men block quote fixes + Last action); TIMELINE
-(retreat-quote fix); ch11/ch12 footers (exact word counts, FULL REWRITE
-s31 note). SERIAL_LOG (s31).
-
+Session 32 (2026-09-20): author correction (verbatim: "dogs and SERPENT'S?, what
+the hell, what this is soul land, soul land have soul beast not normal animal,
+even commonest thing is blue silver grass, correct everything even things i don't
+tell") → THE SOUL-BEAST RULE executed in ONE pass across the whole serial.
+Prose: every "dog / dogs" for the men's kept hunting beasts is now the SPIRIT
+HOUNDS (soul beasts of the hound kind, kept — never a mundane animal); ch2 states
+the law in the open ("everything that lives in the world is a soul beast, of some
+years or other"); the ravine's ruler is the BLACK-RAVINE SERPENT in full,
+everywhere (was: bare "serpent"); ch1 names the slope's beetles as its smallest
+soul beasts and BLUE SILVER GRASS as the commonest soul beast of the world (the
+author's own example); the flies are the low lives of the air. Rule recorded:
+CANON_LEDGER SB-11; NO_MISTAKE_LIVE_RULES (author-law block); CREATURES header;
+GLOSSARY (Soul beast / The spirit hounds / The Black-Ravine Serpent); WORLD §3;
+SPIRIT_BEAST_LORE_VERIFIED (commonest soul beast). Mirrors swept same turn:
+TIMELINE, CONTINUITY, CHARACTERS, KNOWLEDGE_FIREWALLS, PROTAGONIST,
+HIS_STATUS_PANEL, ADAPTATION_LOG, README; all 12 chapter footers carry the s32
+note. Gates: verify.py (unified v2) run per chapter + project sweep — PASS; ch11
+2,873 prose words / 19 dialogue lines; ch12 3,197 / 24. Zero digits/CJK in prose.
+The author's verbatim quotes are preserved untouched in the record. (Preceding:
+session 31 — Chapters 11–12 rewritten in full on "Rewrite that chapter".)
 
 ## Underlying locks
 v2.0 Talent law (never named, no free output) · anti-nerf/anti-inflation twin law

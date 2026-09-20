@@ -19,7 +19,7 @@ marked [design] and belong to the author to correct.
 - Kin: NONE — the only egg (DS-09); kinless from the first breath.
 - Born: late summer DL 3661 — 1,000 years after Soul Land 1.
 - Real age now: ≈ 60–62 months.
-- Territory now: a new hollow in the DEEP COUNTRY (past the serpent's
+- Territory now: a new hollow in the DEEP COUNTRY (past the Black-Ravine Serpent's
   ground); before: ravine den (outer forest) ← roots-house ← scree hollow.
 
 ## 2. CULTIVATION
@@ -116,7 +116,7 @@ marked [design] and belong to the author to correct.
   attention only; HELD IN THE MOVING and HELD IN THE HUNGER now — broken by
   everything that breaks it (fear, the red thing, hunger) and rebuilt after
   everything; fed on the ATTENTION, not the fullness; at its last shadow
-  when it matters most (bare stone, the serpent's stirring; the reading of
+  when it matters most (bare stone, the Black-Ravine Serpent's stirring; the reading of
   the greatness). THE VEILING'S NEAR-MISS IN THE WIDE GREEN (ch11): the
   crossing's heavier presence thinned the hush on the open green run — two
   low lives turned their heads; the stillness cost time; the time cost the
@@ -153,7 +153,7 @@ marked [design] and belong to the author to correct.
   only in extremity, for survival, never for the meal; the deep country is
   full of them, and of greatnesses past his reading.
 - vs MEN: not measured as a beast-contest — the cold shining death at a
-  distance, the hound, the taking of the years; avoided by law; never known
+  distance, the spirit hound, the taking of the years; avoided by law; never known
   to be there. Iron can wait — and he gives it wide ground.
 - Standing rule: he fights beneath him, fears above him (the forest's law);
   every fight in the ledger was paid for honestly; no victory without cost
@@ -198,10 +198,10 @@ marked [design] and belong to the author to correct.
   the taking too.
 - THE CROSSING (ch12): the moment without a meeting — the going-out at the
   water at the hour the meal stood begun; the veiling at its last margin;
-  the hound stopped, sat, held the SCENT; the upright shapes looked
+  the spirit hound stopped, sat, held the SCENT; the upright shapes looked
   and found no one; the going done before the looking finished (the
   ground's word carrying him out of the ground the way the ground carries a
-  secret); nothing known, nothing seen of him — but the hound CARRIED THE SCENT (the sign of the seen set from it); the war's ledger's first honest line of the new kind: the next line
+  secret); nothing known, nothing seen of him — but the spirit hound CARRIED THE SCENT (the sign of the seen set from it); the war's ledger's first honest line of the new kind: the next line
   of theirs will come with EYES, not only hands.
 - THE WAR IN THE GROUND ITSELF (ch12): the word of the bull — the deepest
   word yet — the country now carries his word everywhere the heavy kind
@@ -214,7 +214,7 @@ marked [design] and belong to the author to correct.
 ## 8. KEPT SHAPES (the map of his world)
 - The law: eat beneath you, fear above you, hold your ground, give the wide
   ground.
-- The rulers of the valleys above him — the black-ravine serpent (a thread
+- The rulers of the valleys above him — the Black-Ravine Serpent (a thread
   of the dragon in its blood; fear and the thing that is not fear; its
   ground crossed once, paid for in the whole of the care).
 - The year-takers: they take the years; they hunt what he hunts; iron can
@@ -225,7 +225,7 @@ marked [design] and belong to the author to correct.
   in the READER's eyes only (the parallel panel, the 2026-09-18 ruling)
   they carry faces — OLD QIN (the list-keeper; SOUL KING; the grey stag's
   PURPLE RING as his SECOND RING; "the list cares about years"), GAO TIE (the
-  hound-man; GRAND SOUL MASTER; "the old hunters of the border say the deep
+  spirit hound-man; GRAND SOUL MASTER; "the old hunters of the border say the deep
   country has its own keepers"), XIAO AN (the young one; SOUL MASTER — the
   bull's purple ring is her FIRST ring, a thousand-year first ring; the mark
   observed: "like a name signed"); their
@@ -236,7 +236,7 @@ marked [design] and belong to the author to correct.
   no name, the sign of the mark on it: "a thing that signs and does not
   show"); their craft: the water's hour, the water's edge, the retreat rule
   ("if the mark comes, we pull back"); THE SIGN OF THE SEEN set on the
-  keepers' line at the water (the hound's certainty for a whole hour ("The hound doesn't hold an hour for the grass"); "When a
+  keepers' line at the water (the spirit hound's certainty for a whole hour ("The spirit hound doesn't hold an hour for the grass"); "When a
   line has been seen, the list goes to it" — their next going is toward the
   mark).
 - THE GREATNESS THAT READ HIM AND LET HIM GO: a depth past all his reading
@@ -255,8 +255,8 @@ marked [design] and belong to the author to correct.
   (ch12): the CONVERGENCE ANSWERED — the old bull of the warm breaks
   [design] taken in his at the water's edge (the deepest meal of his life);
   the bull's line BURNED at the water (the going-out there, the whole body
-  gone; the hound's scent held); the war's shape CHANGED — his ledger: the
-  hound's scent (eyes, not only hands); their list: the sign of the seen on the keepers' line
+  gone; the spirit hound's scent held); the war's shape CHANGED — his ledger: the
+  spirit hound's scent (eyes, not only hands); their list: the sign of the seen on the keepers' line
   (the list goes to it); the season's next question: the next line of both
   lists is now the READING OF THE OTHER'S MARK — the two lists walking into
   each other's ground.

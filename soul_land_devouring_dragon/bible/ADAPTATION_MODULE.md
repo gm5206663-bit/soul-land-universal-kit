@@ -83,7 +83,7 @@ would.
   (§16.2); diminishing returns are real (§16.3) — the same stone-runners cannot
   feed major growth forever.
 - CUMULATIVE LAW (§23): later states contain the whole foundation. KNOWN
-  THREATS BECOME EASIER (§23.3) — dogs, iron, snow, hill-cats: a familiar
+  THREATS BECOME EASIER (§23.3) — spirit hounds, iron, snow, hill-cats: a familiar
   threat family never returns at first-contact difficulty without a real change
   in scale or mechanism. TIME GAPS ARE NEVER EMPTY (§23.2): decade jumps of
   this serial still carry maturation, integration, efficiency, stability — the
@@ -110,7 +110,7 @@ would.
   This test prevents BOTH artificial nerfing and unearned inflation.
 - MODE MAP (§12), beast-holder reading: MAINTENANCE + DEVELOPMENTAL +
   ENVIRONMENTAL + REACTIVE + RECOVERY + INTEGRATIVE run constantly;
-  ANTICIPATORY grows with every kept shape (the iron-shape, the dog-question);
+  ANTICIPATORY grows with every kept shape (the iron-shape, the spirit hound-question);
   DIRECTED adaptation is weak now (beast mind) and strengthens as his
   intelligence deepens — a story law: his growing will gradually gives the
   Talent direction; EVOLUTIONARY mode fires at tier crossings and bloodline

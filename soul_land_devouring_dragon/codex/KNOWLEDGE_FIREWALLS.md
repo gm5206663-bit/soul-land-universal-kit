@@ -4,7 +4,7 @@
 - Everything his senses and the ledger have read, on-page: his country, then
   the deep country (trails, hours, waters, the warm breaks, the standings of
   the greatnesses); the kinds of the answering; the kill-word and its aim.
-- The year-takers as SHAPES: upright, iron, dogs, the light that eats wood,
+- The year-takers as SHAPES: upright, iron, spirit hounds, the light that eats wood,
   the taking of the ring-lights; that they read the ground; that they stay
   in the deep country now (ch10).
 - Ring-lights as COLOR only (pale gold; the deeper color). Never names,
@@ -30,12 +30,12 @@
 - Must not (without earned route): HIS existence — the veiling is the wall;
   if they ever learn of it must be earned on-page (a broken veiling, a
   witnessed kill, a report). As of ch12: NOTHING of him — the crossing at the
-  water (ch12) resolved on their side to the HOUND'S SCENT (the hound held
+  water (ch12) resolved on their side to the HOUND'S SCENT (the spirit hound held
   the scent for a whole hour; "it holds it like a name") and to the SIGN OF
   THE SEEN set on the keepers' line; the scent is a scent, not a known thing
-  — the lead dog's lifted head (ch10) and the crossing's looking (ch12) both
+  — the lead spirit hound's lifted head (ch10) and the crossing's looking (ch12) both
   resolved into nothing of his; that resolution is canon for the firewall.
-- The hound's scent = the war's first SCENT-STATE (their side; the next going
+- The spirit hound's scent = the war's first SCENT-STATE (their side; the next going
   is toward the mark — the list goes to the line it has seen).
 
 ## THE GREATNESS PAST HIS READING

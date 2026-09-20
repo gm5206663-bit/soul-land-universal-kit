@@ -72,7 +72,7 @@ body). The Talent is never named; deltas record its RESULTS.
 - SENSES road: state 2 → 3 developing — scent-through-snow learned (morning snow
   tells truth, evening snow tells lies; drift keeps nothing, crust keeps
   everything); warmth-under read through crust to wintering stone-runners; the
-  snow's sound-map and the dogs' question heard whole. Exposure + need fed it;
+  snow's sound-map and the spirit hounds' question heard whole. Exposure + need fed it;
   nothing granted.
 - DEVOURING road: digging-out of wintering stone-runners as the scarcity economy
   (earned, small, bitter); FIRST CARRION (the offal at the pass trail — he ate
@@ -103,7 +103,7 @@ body). The Talent is never named; deltas record its RESULTS.
   (2) Bloodthirst-at-the-feast over the cat-kill — pulled into the deep sleep by
   fullness before it could spend. Flaw uncured, twice survived; it grows as he
   grows.
-- MEN ledger: scent → SIGHT. Dogs (with questions; one asked, the wind answered);
+- MEN ledger: scent → SIGHT. Spirit hounds (with questions; one asked, the wind answered);
   the upright things watched at distance killing a deer-kind from afar with the
   cold shining shapes (iron at a distance — outside every law of the kill he
   knew); the EMPTY LODGE read last — men breathe like a season, come and go with
@@ -115,7 +115,7 @@ body). The Talent is never named; deltas record its RESULTS.
   First barrier ahead: cultivation-year 100 (SB-03), unaged. Growth steady
   through the season's deep sleeps; no leaps.
 - SPIRIT-MIND ROAD (s7): the mind deepened through the winter faster than his
-  species' curve — the keeping of shapes (men, iron, the dog-question, the
+  species' curve — the keeping of shapes (men, iron, the spirit hound-question, the
   empty lodge) is itself intellect growing: experience becoming structure.
   The canon low-intelligence of Devouring Dragons is the species baseline, not
   his ceiling (master document scope).
@@ -124,7 +124,7 @@ body). The Talent is never named; deltas record its RESULTS.
   growing-into-shape of his kind's blueprint (SB-07: pure bloodlines refine
   more than re-shape). Recorded now; it will show.
 - New pressures: the thaw coming and the forest's pull grown with the winter;
-  the white woods kept closed in his body (dog-questions filed there); the red
+  the white woods kept closed in his body (spirit hounds' questions filed there); the red
   thing and the quiet thing both grew.
 
 ## Status Delta — Chapter 3 close (DL 3662; thaw → first deepening of summer; real age ≈ 8 → ≈ 18 months)
@@ -156,7 +156,7 @@ body). The Talent is never named; deltas record its RESULTS.
   Devouring Heaven and Earth — state 4 developing, unstable, breath-range,
   cultivation-flesh only (stage record in ADAPTATION_MODULE §3c).
 - SPIRIT-MIND road (s7 scope): the kept shapes have begun to hold RELATIONS,
-  not only shapes — the lodge breathes with the season; the dogs' question has
+  not only shapes — the lodge breathes with the season; the spirit hounds' question has
   a range; and now the deepest relation of all, wordless and kept: the upright
   things TAKE THE YEARS. Intelligence deepening faster than the species curve;
   still sensation + instinct + learned shapes; no human-parity thought.
@@ -205,8 +205,8 @@ body). The Talent is never named; deltas record its RESULTS.
   DS-08: the flaw remains, uncured).
 - BLOODLINE road: suppression deepens naturally with growth (the undergrowth's
   long slow wave before him); SUPPRESSION'S REVERSE FELT — the black-ravine
-  serpent's weight from above (the law one-directional down); KINSHIP MARKED —
-  a thread of the dragon in the serpent's blood (Bloodline-Horizon law:
+  Black-Ravine Serpent's weight from above (the law one-directional down); KINSHIP MARKED —
+  a thread of the dragon in the Black-Ravine Serpent's blood (Bloodline-Horizon law:
   marked, never pursued).
 - BODY road: SB-07 visible — breadth of chest, darkness of scale laid layer
   upon layer (the species' armor coming), reach of jaw.
@@ -215,7 +215,7 @@ body). The Talent is never named; deltas record its RESULTS.
   uneaten (wrongness, not law).
 - MEN ledger: proof renewed — the wounded prey he tracked, found already
   husked; the kept shape writes: they hunt what he hunts, the sharing runs
-  against him; dog-voice far across the valley, gone by evening; no contact.
+  against him; spirit-spirit hound voice far across the valley, gone by evening; no contact.
 - Cultivation (panel; no clock, s7): REAL AGE ≈ 22 months; CULTIVATION-AGE
   ESTIMATE ≈ 50–60 years — TEN-YEAR CLASS, mid toward late. No leaps.
 
@@ -259,7 +259,7 @@ body). The Talent is never named; deltas record its RESULTS.
   shoulder wound healing slow through the cold (a kept wound, honest).
 - MEN ledger: the ring-hunters' snare [design] at the deep pass — untres-
   passed, wide-grounded; the lodges' cold-season breath; no contact, nothing
-  staged. SERPENT ledger: the weight sleeps in the black ravine country;
+  staged. BLACK-RAVINE SERPENT ledger: the weight sleeps in the black ravine country;
   marked quietly from a distance; not finished.
 - Cultivation (panel; no clock, s7): REAL AGE ≈ 30 months at the second cold
   season's setting-in; CULTIVATION-AGE ESTIMATE ≈ 85–95 years — TEN-YEAR
@@ -278,7 +278,7 @@ body). The Talent is never named; deltas record its RESULTS.
   necessity, not triumph). §29.2 honored: the Talent stood over the crossing,
   reinforcing layers too weak to survive the becoming, slowing it until they
   bore it. §29.4 honored — observable consequences shown: movement changed
-  (the still economy of the snow); perception expanded (the serpent's weight
+  (the still economy of the snow); perception expanded (the Black-Ravine Serpent's weight
   read as never before); recovery faster; the pull unchained (farther,
   easier); NEW LIMITATIONS specific to the new state — the greater hunger (the
   wall passed becomes the floor of the next hunger) and the heavier presence
@@ -296,7 +296,7 @@ body). The Talent is never named; deltas record its RESULTS.
   heavier presence — the work of teaching the weight to be quiet begun again.
 - BLOODLINE road: the crossing refined the blood with the whole (§29.1) —
   suppression visibly deeper (the under-snow lives go down before him; the
-  white country reads him changed); the dragon-thread in the serpent read
+  white country reads him changed); the dragon-thread in the Black-Ravine Serpent read
   clearer.
 - BODY road: SB-07 visible at the tier crossing — larger, layered scales
   hard-broken against the long-fang's bite, healing faster.
@@ -329,7 +329,7 @@ body). The Talent is never named; deltas record its RESULTS.
   Written into Chapter 6 prose same turn (author s21 discipline).
 - New pressures: the greater hunger and the greater meals it needs (the outer
   country may not hold them forever); the veiling re-learning under a heavier
-  presence; the walls ahead (1,000; 10,000; the gate); the serpent read
+  presence; the walls ahead (1,000; 10,000; the gate); the Black-Ravine Serpent read
   clearer — and the reading is a pull of its own, kept, not followed.
 
 ## Status Delta — Chapter 7 close (DL 3663, the height of the second spring; real age ≈ 40 months)
@@ -340,7 +340,7 @@ body). The Talent is never named; deltas record its RESULTS.
 - SENSES road: THE SENSE OF YEARS at full hunt — the world wears its years;
   he passes the bright thin lives and reads for the heavy ones; the plain
   warmth is bread, the heavy years are meat; the spring's plenty has ORDER in
-  it now — the order his. The sense has no walls: it reads the serpent's
+  it now — the order his. The sense has no walls: it reads the Black-Ravine Serpent's
   years across the ridge as a DEPTH past all other depths (no number in him;
   the ancient ones of his country burn beside it the way the last of a fire
   burns beside the sun).
@@ -356,7 +356,7 @@ body). The Talent is never named; deltas record its RESULTS.
   reached, the fullness reaches less), deeper in sleep, deepest in the hollow
   of the fallen giant where the ravine stone is old past the forest. Control
   and safe maximum still ahead (§29.3).
-- SPIRIT-MIND road: INTELLIGENCE LAW honored — the serpent's shape neither
+- SPIRIT-MIND road: INTELLIGENCE LAW honored — the Black-Ravine Serpent's shape neither
   kept nor refused but HELD until he grows to the size of it; the map grows
   a line without a word: the sharing of the country is a race (wordless
   relation, no thought); the new truth held: the outer country cannot feed
@@ -364,10 +364,10 @@ body). The Talent is never named; deltas record its RESULTS.
 - BLOODLINE road: suppression visibly deeper after the crossing — the low
   lives bow deeper and farther; the first crown of the dragon READ IN THE
   BLOOD by the low things (they read the crown the way they read the weight,
-  from before learning); the dragon-thread in the serpent clearer than ever;
+  from before learning); the dragon-thread in the Black-Ravine Serpent clearer than ever;
   his blood answers with the fear and the thing that is not fear.
 - MEN ledger: THE YEAR-TAKERS DEEPER — a new snare set DEEPER than winter's
-  (in the country of the heavier lives); dogs and flat hard voices moving
+  (in the country of the heavier lives); spirit hounds and flat hard voices moving
   deeper into the country of the heavy years at the last of the spring; "the
   hunger ran both ways of the trail, and the trail was one"; no contact,
   nothing staged.
@@ -376,18 +376,18 @@ body). The Talent is never named; deltas record its RESULTS.
   winter and spring; the deep-drawing habit between them). Next barrier at
   cultivation-year 1,000 (SB-03), unaged, unfelt. No leaps.
 - New pressures: the outer country thinning (the deep country has the years
-  he needs); the serpent's ground between him and the depths; the year-takers
+  he needs); the Black-Ravine Serpent's ground between him and the depths; the year-takers
   racing for the same years; the pull of need pointing where the pull of
   belonging pointed; the shape not ready for the deciding.
 
 ## Status Delta — Chapter 8 close (DL 3663, the first hunting of the deep country; real age ≈ 44 months)
 - Situation: THE DECIDING done as non-decision (the shape ripened until the
   beast was doing what the shape had always said); the outer country kept
-  whole in the keeping, past argument; the serpent's ground CROSSED; a new
+  whole in the keeping, past argument; the Black-Ravine Serpent's ground CROSSED; a new
   hollow made in the deep country (the way out is not the way in — the first
   winter's law kept in all countries). The keeping of the deep country is NOT
   yet earned; the earning has begun.
-- BLOODLINE road: THE SERPENT'S GROUND CROSSED by patience, the rim-path, and
+- BLOODLINE road: THE BLACK-RAVINE SERPENT'S GROUND CROSSED by patience, the rim-path, and
   the knowing of when the weight sleeps (the ancient ones have their
   stillness); the weight moved mid-crossing — he became nothing (veiling to
   its last shadow, body to stone, breath to nothing); the stirring passed;
@@ -427,7 +427,7 @@ body). The Talent is never named; deltas record its RESULTS.
   room again (the room is the whole of the deep country); the race-line kept:
   the year-takers in the deep country for the same years; the sharing is
   still the race, and the race has no end in the reading.
-- MEN ledger: dogs and flat hard voices down-country of the giants — the
+- MEN ledger: spirit hounds and flat hard voices down-country of the giants — the
   year-takers have come into the deep country; no contact, nothing staged.
 - Cultivation (panel; no clock, s7): REAL AGE ≈ 44 months; CULTIVATION-AGE
   ESTIMATE ≈ 130–145 years — HUNDRED-YEAR CLASS (the deep-fringe devouring
@@ -435,7 +435,7 @@ body). The Talent is never named; deltas record its RESULTS.
   cultivation-year 1,000 (SB-03), unaged, unfelt. No leaps.
 - New pressures: the keeping of the deep country to be earned; the kills that
   are heard; the year-takers in the same country; the greatnesses past his
-  reading; the bloodthirst climbing with the blood; the serpent's ground now
+  reading; the bloodthirst climbing with the blood; the Black-Ravine Serpent's ground now
   behind him, between him and the country that made him.
 
 ## Status Delta — Chapter 9 close (DL 3663, the deep summer's height; real age ≈ 48 months)
@@ -535,7 +535,7 @@ body). The Talent is never named; deltas record its RESULTS.
 - MEN ledger: THE YEAR-TAKERS WINTER IN THE DEEP COUNTRY — the light that
   eats wood smelled from the far ridge; a winter place in the breaks; smoke
   standing day after day; the map gains the line it never held (they STAY);
-  the race sharpened (same breaks, same hours, same heavy kinds; the dogs'
+  the race sharpened (same breaks, same hours, same heavy kinds; the spirit hounds'
   voices carried further in the cold air). THE TURN: they took the grey stag
   of the second water — the beast he had marked for the taking; the ring-
   light darker than pale gold (purple tier, panel-only; color read, never
@@ -573,7 +573,7 @@ body). The Talent is never named; deltas record its RESULTS.
   deep with the green (the going is the going of readers); the reader's
   parallel panel (the 2026-09-18 ruling, first use) gave them faces — OLD QIN
   (the list-keeper; SOUL KING; the grey stag's PURPLE RING as his SECOND
-  RING; "the list cares about years"), GAO TIE (the hound-man; GRAND SOUL MASTER; "the old hunters of the border say the deep country
+  RING; "the list cares about years"), GAO TIE (the spirit hound's master; GRAND SOUL MASTER; "the old hunters of the border say the deep country
   has its own keepers"), XIAO AN (the young one; SOUL MASTER — her first ring still to come; the deep kills left whole:
   "the same mark, the same shape, like a name signed" — the kill word seen
   as a signature from their side); their list on paper, their motive on the
@@ -641,7 +641,7 @@ body). The Talent is never named; deltas record its RESULTS.
   the edge of the hour, on the thinnest ground, or would have been lost).
 - MEN ledger: THE DEEP CAMP (their camp in the country of the giants; the
   deep green's weather against them — heat, flies, the ground's word, the
-  the hound slow: every country keeps its own weather, from their side); their
+  the spirit hound slow: every country keeps its own weather, from their side); their
   list has grown the KEEPERS' LINE (Xiao An's ch11 observation became the
   list's line — no name, the sign of the mark on it: "a thing that signs
   and does not show"); their craft: the water's hour, the water's edge, the
@@ -651,8 +651,8 @@ body). The Talent is never named; deltas record its RESULTS.
   HOUND STOPPED, SAT, HELD THE SCENT; the upright shapes looked and
   found no one; the going done before the looking finished (the ground's
   word carrying him out of the ground the way the ground carries a
-  secret); NOTHING KNOWN, NOTHING SEEN OF HIM — but the hound CARRIED THE
-  SCENT; the reader's side (the parallel panel): the hound's certainty for a
+  secret); NOTHING KNOWN, NOTHING SEEN OF HIM — but the spirit hound CARRIED THE
+  SCENT; the reader's side (the parallel panel): the spirit hound's certainty for a
   whole hour, the mark at the water, the whole body gone, the SIGN OF THE
   SEEN set on the keepers' line ("When a line has been seen, the list goes
   to it." — their next going is toward the mark). No contact; the firewall
@@ -671,7 +671,7 @@ body). The Talent is never named; deltas record its RESULTS.
   (the hush held through the crossing, and the after-cost came: the
   ground's word spent to the last of its margin — the deep stillness, a
   day, the country keeping its own secret about him longer than it would
-  otherwise — the ground re-learning him); THE CROSSING'S COST (the hound's
+  otherwise — the ground re-learning him); THE CROSSING'S COST (the spirit hound's
   certainty — the war's shape changed: the next line of theirs will come
   with EYES, not only hands).
 - THE VOICE road: UNSPENT into the green (the second summer of the

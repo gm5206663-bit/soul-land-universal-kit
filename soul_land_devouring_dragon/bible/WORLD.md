@@ -43,14 +43,18 @@ One thousand years after Soul Land 1. Canon anchors first, design second.
   streams, wind-broken ridges. No farms. Human presence = HUNTER LODGES and
   pass-traffic (author-locked: humans present from the start).
 - [design] The lodges: timber-and-stone camps of fur hunters and ring-hunters,
-  occupied by season; dogs, fire, iron, and the patience of men who kill for
+  occupied by season; spirit hounds, fire, iron, and the patience of men who kill for
   living. Ring-hunters (soul masters working the outer forest for white and
   yellow rings) are the lodge aristocracy. Exact lodge names/placements: at
   Chapter 1's need, logged here then.
 - [design] Prey-web of the hatch-slope (to detail in CREATURES.md as met):
-  insects and soft things first; then hare-kind, marmot-kind, ground-birds;
-  then the mid-predators that eat hatchlings — fox-kind, wildcat-kind, serpents,
-  and the hundred-year things of the lower woods. Nothing invented ahead of need.
+  **EVERY creature of it is a soul beast of its own years** — this world has soul
+  beasts, not ordinary animals (author correction s32, 2026-09-20); the low ground
+  first, blue silver grass and the below-ten-year things — the commonest soul
+  beasts there are; then hare-kind, marmot-kind, ground-birds; then the
+  mid-predators that eat hatchlings — fox-kind, wildcat-kind, the great-winged
+  things of the ridges, and the hundred-year things of the lower woods. Nothing
+  invented ahead of need.
 - Seasons: the mountain has teeth in winter (deep snow, starvation pressure —
   the hatchling's first true enemy may be cold, not fang).
 

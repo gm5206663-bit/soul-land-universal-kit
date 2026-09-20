@@ -65,7 +65,7 @@ One entry per working session. Newest at the bottom.
 - Written: chapters/Chapter_02_The_Law_of_the_Snow.md (~3,030 words, zero CJK;
   one soft-count hardened). Beats: snow as new medium (scent-through-snow; the
   digging-out of wintering stone-runners as the scarcity economy); FIRST SIGHTING
-  OF MEN — dogs with a question the kind wind answered, the upright things seen
+  OF MEN — spirit hounds with a question the kind wind answered, the upright things seen
   killing a deer-kind from afar with iron, no contact, nothing staged, he was
   never known to be there; bloodthirst tested by the lodges' lights in the
   moonlit nights (held at the treeline); the offal test at the pass trail; THE
@@ -313,23 +313,23 @@ One entry per working session. Newest at the bottom.
   not fear, the straggler taken clean (direction, not suppression — DS-08, the
   flaw uncured); THE YEAR-TAKERS SHARPENED — the wounded prey he tracked,
   found already husked; the kept shape writes: they hunt what he hunts, the
-  sharing runs against him; the husk left uneaten (wrongness, not law); dog-
+  sharing runs against him; the husk left uneaten (wrongness, not law); spirit hound-
   voice far across the valley, gone by evening (no contact, nothing staged);
-  THE THING ABOVE — the black-ravine serpent [design]: bloodline weight from
+  THE THING ABOVE — the Black-Ravine Serpent [design]: bloodline weight from
   above pressed him (suppression confirmed one-directional down), and his
   blood answered with fear AND kinship — a thread of the dragon in the
-  serpent's blood (Bloodline-Horizon law: marked, never pursued); the ridge
+  Black-Ravine Serpent's blood (Bloodline-Horizon law: marked, never pursued); the ridge
   not crossed again that summer; THE MAP IN THE BEAST-MIND — beneath, the law
   of the jaw; above, the rulers of the valleys; outside the law, the takers of
   the years; kept whole, wordless (spirit-mind road).
 - Mirrors synced same turn: ADAPTATION_LOG ch4 delta; ADAPTATION_MODULE skill
   stage (state 4 consolidating); STATUS_PANEL (now/age/figures/kills/next/
-  last); TIMELINE (+1 row); CREATURES (fern-deer + black-ravine serpent rows);
+  last); TIMELINE (+1 row); CREATURES (fern-deer + black-ravine Black-Ravine Serpent rows);
   this log. CJK clean.
 - Next beat (author-gated): Chapter 5 — the summer's fall: the season turns,
   the first year rounds toward its close; what the first barrier at
   cultivation-year 100 feels like when his estimate nears it (unaged, event-
-  shaped, nothing derived); the serpent's country at his back; the lodges'
+  shaped, nothing derived); the Black-Ravine Serpent's country at his back; the lodges'
   cold-season breath; the rein must hold every time the red thing rises.
 
 ### Session 14 — 2026-09-16 (Chapter 5 written — the hunger that has no meal)
@@ -355,7 +355,7 @@ One entry per working session. Newest at the bottom.
   greater — not by one meal); IRON CAN WAIT — the ring-hunters' snare read at
   the deep pass: they can take the years without being there; the pass trail
   wide-grounded; no contact, nothing staged; the lodges' cold-season breath;
-  the serpent's weight sleeping behind the ridge, marked quietly; the second
+  the Black-Ravine Serpent's weight sleeping behind the ridge, marked quietly; the second
   cold season sets in at the foot of the wall, and the wall's direction is UP.
 - Mirrors synced same turn: ADAPTATION_LOG ch5 delta (all roads incl. the
   causal-sufficiency record for the stag-kind); ADAPTATION_MODULE (veiling
@@ -365,7 +365,7 @@ One entry per working session. Newest at the bottom.
   the white endured from mastery not smallness; the wall's pressure growing
   through scarcity; what EVENT opens the first barrier — extremity, a quality
   of prey, a ripening of the skill — event-shaped, nothing derived, author-
-  gated in the writing; the serpent under the snow; the lodges and their iron.
+  gated in the writing; the Black-Ravine Serpent under the snow; the lodges and their iron.
 - Session 14 REPAIR (recorded honestly): the s13 mirror script failed at an
   early anchor and its syncs never landed (ADAPTATION_LOG ch4 delta, MOD skill
   stage, panel ch4 state, TIMELINE ch4 row, CREATURES ch4 rows). All
@@ -419,7 +419,7 @@ One entry per working session. Newest at the bottom.
   becoming, slowing it until they bore it); the crossing a season inside the
   storm; the wall broke the way the dark breaks — he became greater than the
   wall. §29.4 consequences SHOWN: movement changed (the still economy of the
-  snow); perception expanded (the serpent's weight read as never before);
+  snow); perception expanded (the Black-Ravine Serpent's weight read as never before);
   recovery faster; the pull unchained; NEW LIMITATIONS kept honest — the
   greater hunger (the wall passed becomes the floor of the next hunger) and
   the heavier presence (the veiling takes strain again — part of the price).
@@ -437,7 +437,7 @@ One entry per working session. Newest at the bottom.
 - Next beat (author-gated): Chapter 7 — the world after the crossing: the
   greater hunger and the greater meals it needs (the outer country may not
   hold them forever); the veiling re-learned under the heavier presence; the
-  new reach generalizing beyond extremity; spring's second thaw; the serpent
+  new reach generalizing beyond extremity; spring's second thaw; the Black-Ravine Serpent
   read clearer — the reading is a pull of its own, kept, not followed; the
   lodges wake for their green season.
 
@@ -510,12 +510,12 @@ One entry per working session. Newest at the bottom.
   of the still hours — thinner than in extremity, deeper in sleep, deepest
   where the ravine stone is old past the forest; honestly uneven); the second
   thaw met by a greater beast (the low lives bow deeper and farther; the
-  first crown of the dragon READ IN THE BLOOD by the low things); THE SERPENT
+  first crown of the dragon READ IN THE BLOOD by the low things); THE BLACK-RAVINE SERPENT
   READ BY THE SENSE OF YEARS — its years a depth past all other depths; the
   dragon-thread clearer; his blood answers with the fear and the thing that
   is not fear; THE READING IS A PULL OF ITS OWN — neither kept nor refused
   but HELD until he grows to the size of it; THE YEAR-TAKERS DEEPER (a new
-  snare in the country of the heavier lives; dogs and voices deeper at the
+  snare in the country of the heavier lives; spirit hounds and voices deeper at the
   last of the spring; "the hunger ran both ways of the trail, and the trail
   was one"; the sharing of the country is a race — wordless); THE NEW TRUTH —
   the outer country is thinning under him; the deep country has the years he
@@ -524,7 +524,7 @@ One entry per working session. Newest at the bottom.
 - Mirrors synced AND grep-verified same turn: ADAPTATION_LOG ch7 delta;
   STATUS_PANEL (now/age/figures/next/last); TIMELINE (+1 row); this log.
 - Next beat (author-gated): Chapter 8 — the deciding of the shape: the move
-  into the deep country (the serpent's ground stands between); the first true
+  into the deep country (the Black-Ravine Serpent's ground stands between); the first true
   hunting among the ancient ones — what it costs and teaches; the year-takers
   at his heels in the same country; the crown read by beasts that have never
   bowed to his kind; the rein under stranger strain.
@@ -588,7 +588,7 @@ One entry per working session. Newest at the bottom.
 - Written: chapters/Chapter_08_The_Deep_Country.md (~2,900 words, zero CJK;
   three counts hardened). Beats: the deciding done as non-decision (the shape
   ripened until the beast was doing what the shape had always said); the look
-  back — the country that made him kept whole, past argument; THE SERPENT'S
+  back — the country that made him kept whole, past argument; THE BLACK-RAVINE SERPENT'S
   GROUND CROSSED honest (by patience, the rim-path, and the knowing of when
   the weight sleeps; mid-crossing the weight MOVED and he became nothing —
   veiling to its last shadow, body to stone, breath to nothing; the stirring
@@ -615,7 +615,7 @@ One entry per working session. Newest at the bottom.
   scales darker and deeper, the crown a shade higher); THE KILL IS A WORD
   (the years' blood is heard; lives heavier than his taken followed; eat
   fast, be gone before the answering); THE YEAR-TAKERS IN THE DEEP COUNTRY
-  (dogs and voices down-country of the giants; the sharing is still the race,
+  (spirit hounds and voices down-country of the giants; the sharing is still the race,
   and the race has no end in the reading); the new hollow (the way out is not
   the way in — the first winter's law kept in all countries); BLOODTHIRST THE
   STRONGEST IT HAS EVER BEEN (the years' blood like a fire; the red thing
@@ -700,7 +700,7 @@ One entry per working session. Newest at the bottom.
   answering hunts HIM before he learns to aim the kill-word (the cold water
   saves him); the first called voice tears the veiling and draws a moving
   hill (voice + veiling become ONE lesson); the wind betrays him over the
-  year-takers' hunt — the lead dog's lifted head held off by the moving-
+  year-takers' hunt — the lead spirit hound's lifted head held off by the moving-
   veiling, the upright one who reads the ground; the greatness-scene made
   physical (the world stops; the veiling at its last shadow is NOT enough;
   the blood answers — the crown goes hot; his legs go against him; he walks
@@ -749,7 +749,7 @@ One entry per working session. Newest at the bottom.
   Author told the originals can replace the rebuilds.
 - Inheritance applied to THIS project (kit 10): NO_MISTAKE_LIVE_RULES.md (the twelve
   locks, mapped from existing author rulings — spine sentence: the year-takers want the
-  years of the forest's beasts and bring iron, dogs, and fire to take them); CONTINUITY.md
+  years of the forest's beasts and bring iron, spirit hounds, and fire to take them); CONTINUITY.md
   (anchor table ch1–10, forward-reference debts, character register); codex/
   KNOWLEDGE_FIREWALLS.md; README.md with HANDOFF block; HIS_STATUS_PANEL stamped DERIVED
   (single status source = STATUS_PANEL.md, kit 02).
@@ -785,7 +785,7 @@ One entry per working session. Newest at the bottom.
   year-takers at the marked hour; pale gold read; the list counts the line,
   not the weight; the faith of the kept-for spent twice → the patience of
   the choosing); THE PARALLEL PANEL (the ruling, first use — Bren the list-
-  keeper, Yorre the dogs, Sella the young one; their list on paper; their
+  keeper, Yorre the spirit hounds, Sella the young one; their list on paper; their
   motive on the page; Sella's mark-observation: "like a name signed" — the
   kill word from their side; the dragon never hears, never sees — separate
   scene, separate hour, firewall stands); THE RACE WON (the map of their
@@ -854,8 +854,8 @@ One entry per working session. Newest at the bottom.
   no name, the sign of the mark on it; the bull the prize — "That one feeds
   the border till the cold comes"; their craft: the water's hour and the
   retreat rule — "if the mark comes, we come off") and THE WATER (the
-  reader's side of the crossing — the dogs' certainty for a whole hour;
-  "The dogs saw something"; the SIGN OF THE SEEN set on the keepers' line —
+  reader's side of the crossing — the spirit hounds' certainty for a whole hour;
+  "The spirit hounds saw something"; the SIGN OF THE SEEN set on the keepers' line —
   "When a line has been seen, the list goes to it."); THE VEILING'S GREEN
   CLIMB (the hush carried by the ground's word — a spent line, not a
   standing one; the margin bought each hour); the voice UNSPENT into the
@@ -863,12 +863,12 @@ One entry per working session. Newest at the bottom.
   THE BULL AT THE WATER (the taking at the thinnest ground of his life —
   the window closed to the edge of the hour; the fight the whole of what he
   was paid for; the jaw's work held); THE CROSSING (the moment without a
-  meeting — the going-out at the water; the dogs stopped, sat, held their
+  meeting — the going-out at the water; the spirit hounds stopped, sat, held their
   certainty; the upright shapes looked and found no one; the going done
   before the looking finished; the after-cost: the deep stillness, a day,
   the ground re-learning him; the war's ledger's first honest line of the
   new kind: the next line of theirs will come with EYES, not only hands —
-  the dogs carried the seen); THE TURN (the deepest meal of his life — the
+  the spirit hounds carried the seen); THE TURN (the deepest meal of his life — the
   dividend visible; THE TWO REDS in the deepest fullness — the want QUIET
   for the first time, the fullness so deep the want slept in it; the kill
   word placed — the word of the bull — THE WAR IN THE GROUND ITSELF; the
@@ -933,7 +933,7 @@ One entry per working session. Newest at the bottom.
 - CORRECTION (all in one pass): the parallel panels of Chapter 11 and
   Chapter 12 REWRITTEN in the canon human-side texture:
   - NAMES (Soul Land naming convention — pinyin, the SL2 OC precedent):
-    OLD QIN (the list-keeper; SOUL KING), GAO TIE (the hound-man; GRAND
+    OLD QIN (the list-keeper; SOUL KING), GAO TIE (the spirit hound's master; GRAND
     SOUL MASTER), XIAO AN (the young one; SOUL MASTER — her first ring
     still to come). The s29 "names ratified" decision is SUPERSEDED (the
     Control Centre carries the correction append-only).
@@ -943,14 +943,17 @@ One entry per working session. Newest at the bottom.
     thousand-year first ring — the canon tension: "The border calls that a
     death wearing a ring" / "The Tang Sect's frontier teams call it a
     future"); the road market and ring prices at folk level (WORLD §5); the
-    Tang Sect's frontier teams (design-folk under ER-02); the hound (the
-    team's SPIRIT HOUND [design] — CREATURES row) replaces the generic
-    "dogs"; the beast-side sections keep the kind-word "dogs" (the dragon
-    reads canine shapes — firewall unchanged).
+    Tang Sect's frontier teams (design-folk under ER-02); the team's SPIRIT HOUND
+    [design] — CREATURES row — introduced on the human side; the beast-side
+    sections then kept the old kind-word (the dragon reads canine shapes —
+    firewall unchanged). [SUPERSEDED s32, 2026-09-20: the author struck that word
+    again — this world has soul beasts, not ordinary animals; every canine word
+    is now "spirit hounds" on BOTH sides (SB-11). The ruling above is the s30
+    record as written.]
   - BEATS UNCHANGED: the striking, the keepers' line, the mark-observation
     ("like a name signed"), the bull as the prize, the water's hour and the
     retreat rule, the crossing, the sign of the seen, the convergence. The
-    dragon's sections are unchanged except the crossing (the hound's
+    dragon's sections are unchanged except the crossing (the spirit hound's
     scent).
 - CANON LEDGER extended: ER-10 (rank ladder, canon-strong, via the
   Control Centre canon.json spine), ER-11 (the borders' ring economy + the
@@ -958,7 +961,7 @@ One entry per working session. Newest at the bottom.
   (soul master, ring-hunting line, the spirit hound, the road market, the
   Tang Sect's frontier teams, the keepers's line). PLACES extended (the
   winter place, the deep camp, the water's edge). KNOWLEDGE_FIREWALLS
-  updated through ch12 (the hound's scent = the war's first scent-state;
+  updated through ch12 (the spirit hound's scent = the war's first scent-state;
   the crossing resolved to nothing of his — the firewall stands).
 - All current-state mirrors re-synced and grep-verified (STATUS_PANEL,
   HIS_STATUS_PANEL, PROTAGONIST, TIMELINE ch11+12 rows, CREATURES,
@@ -985,7 +988,7 @@ One entry per working session. Newest at the bottom.
   letting-go); human sections with full canon texture — Old Qin
   (Soul King; the grey stag's purple as his second ring; "Purple
   isn't a price — it's a standing... Purple rings have a habit of
-  deciding late."), Gao Tie (the hound-man; "A beast struck right has
+  deciding late."), Gao Tie (the spirit hound's master; "A beast struck right has
   iron in it."), Xiao An (Soul Master; the mark "like a name signed";
   the bull's purple as her first ring — "a death wearing a ring" vs
   "the Tang Sect's frontier teams call it a future"); the road
@@ -1002,7 +1005,7 @@ One entry per working session. Newest at the bottom.
   exact gated word counts + the FULL REWRITE s31 note.
 - MIRRORS (same turn, grep-verified): STATUS_PANEL (Updated line,
   NOW block, Men block — Gao Tie's line now "It holds it like a
-  name... The hound doesn't hold an hour for the grass." and the
+  name... The spirit hound doesn't hold an hour for the grass." and the
   retreat quote "we pull back" — the mirror carried a "come off"
   typo against both the s30 and s31 bodies; Last action = this
   entry); TIMELINE (same retreat-quote fix). ADAPTATION_LOG,
@@ -1016,3 +1019,47 @@ One entry per working session. Newest at the bottom.
   edge → this session's kit hash (the s30 correction contribution
   covers the texture ruling; the rewrite lands inside it — no new
   CC contribution filed); workshop mirror re-synced (diff -rq).
+
+### Session 32 — 2026-09-20 (SOUL-BEAST CORRECTION — the whole serial, one pass)
+- Author correction (verbatim): "dogs and SERPENT'S?, what the hell, what this is
+  soul land, soul land have soul beast not normal animal, even commonest thing is
+  blue silver grass, correct everything even things i don't tell".
+- RULING (recorded as SB-11 + the NO_MISTAKE_LIVE_RULES author-law block): this
+  world has SOUL BEASTS, not ordinary animals. Every creature of the serial is a
+  soul beast of a kind with a year-tier; even the commonest thing is a soul beast
+  — blue silver grass, the low ground-cover of every country. The men's kept
+  hunting beasts are the SPIRIT HOUNDS (soul beasts of the hound kind, kept —
+  never dogs, on the human side AND the beast side); the ravine's ruler is the
+  BLACK-RAVINE SERPENT, named in full, never a bare "serpent".
+- WHY IT RECURRED: the s30 correction fixed the human-side word only and kept
+  "dogs" as the beast-side kind-word by ruling; the author struck it again. The
+  partial ruling is SUPERSEDED — the rule binds every panel, mirror and chapter
+  (annotated in this log at the s30 entry).
+- PROSE (all 12 chapters swept, same turn): "dog / dogs / dog's" → the spirit
+  hounds (ch2, 3, 4, 7, 8, 9, 10, 11, 12); bare "the hound" → the spirit hound
+  (ch11, ch12); "the hound-man" → the spirit hound's master (Gao Tie); the quoted
+  line now reads "The spirit hound doesn't hold an hour for the grass."; bare
+  "serpent" → the BLACK-RAVINE SERPENT (ch4, 5, 6, 7, 8, 9); ch1: the beetles are
+  the slope's smallest soul beasts and BLUE SILVER GRASS is named as the
+  commonest soul beast of the world; ch2: the law stated in the open ("everything
+  that lives in the world is a soul beast, of some years or other"); ch12 + ch4:
+  the flies → the low lives of the air (no mundane fauna left anywhere).
+- MIRRORS (grep-verified): STATUS_PANEL (Updated, Last action); TIMELINE;
+  CONTINUITY; CHARACTERS; CREATURES (header rule + the hound row rewritten as
+  plural soul beasts of the hound kind + a blue silver grass row); GLOSSARY (Soul
+  beast / The spirit hounds / The Black-Ravine Serpent); WORLD §3 (the prey-web
+  is soul beasts, the law written in); KNOWLEDGE_FIREWALLS; PROTAGONIST;
+  HIS_STATUS_PANEL; ADAPTATION_LOG; CANON_LEDGER (SB-11); NO_MISTAKE_LIVE_RULES
+  (header date + author-law block); SPIRIT_BEAST_LORE_VERIFIED (term note +
+  commonest-soul-beast note); README untouched (no hits).
+- GATES (same turn): verify.py (unified v2) run per chapter + project sweep —
+  PASS (12 chapters, footers 12/12; the dialogue report reads 10 chapters under
+  three spoken lines — the known beast-POV chapters, a report, not a failure).
+  Counts: ch11 2,873 prose words / 19 dialogue lines; ch12 3,197 / 24 (footers
+  updated to these). Zero digits in prose, zero CJK.
+- RECORD DISCIPLINE: the author's verbatim correction quotes are preserved
+  untouched (the "Bren?, dog's?," line in this log); every other occurrence of
+  the struck words was replaced. The s30 ruling text is annotated, not erased.
+- PUSH: kit commit + push this session; Control Centre registry edge updated to
+  this session's kit hash; workshop mirror re-synced (diff -rq).
+

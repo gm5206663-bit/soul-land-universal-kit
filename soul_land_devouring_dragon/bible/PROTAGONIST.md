@@ -50,12 +50,12 @@
   FIGHT (the first proof of the silence's worth); THE BULL TAKEN at the
   water's edge (the thinnest ground of his life; the fight the whole of
   what he was paid for; the jaw's work held); THE CROSSING — the
-  going-out at the water, the hound stopped and held the scent, the
+  going-out at the water, the spirit hound stopped and held the scent, the
   upright shapes looked and found no one (nothing known, nothing seen of
   him; the ground's word carrying him out of the ground); the cost: the
   deep stillness (the ground re-learning him); the war's ledger's first
   honest line of the new kind — the next line of theirs will come with
-  EYES, not only hands (the hound carried the scent); the reader's side: the
+  EYES, not only hands (the spirit hound carried the scent); the reader's side: the
   sign of the SEEN set on the keepers' line ("When a line has been seen,
   the list goes to it" — their next going is toward the mark); the deepest
   meal of his life (the dividend visible: scales darker, the crown higher,
@@ -76,7 +76,7 @@
   the marked hour; pale gold read; the list counts the line, not the
   weight); the PARALLEL PANEL (the 2026-09-18 ruling, first use — the
   year-takers carry faces in the reader's eyes: Old Qin the list-keeper (Soul
-  King; the stag's purple ring as his second), Gao Tie the hound-man (Grand
+  King; the stag's purple ring as his second), Gao Tie the spirit hound's master (Grand
   Soul Master), Xiao An the young one (Soul Master — her first ring still to
   come) who sees the mark — "like a name signed";
   the dragon never hears, never sees); THE RACE WON (the map of their going
@@ -130,7 +130,7 @@
   hunt on the outcast long-fang (once wide-grounded); bloodthirst ridden
   again under a true fight; the new knowing kept — the years he has crossed
   are his, and no upright thing takes them except with his whole life; the
-  serpent read clearer than ever, kept, not followed. AWAKENINGS SEIZED at the
+  Black-Ravine Serpent read clearer than ever, kept, not followed. AWAKENINGS SEIZED at the
   crossing (author s17; skill per author s21): the BLOODLINE STEP (armor
   locked into the full deep layering of his kind; the FIRST CROWN of the
   dragon along skull and neck), THE DRAGON'S VOICE (DD-11 — the bloodline's
@@ -143,7 +143,7 @@
   (the pull at a stride, answering his attention; state 4 consolidating); the
   rider found the rein (bloodthirst ridden, not suppressed — DS-08); the
   VEILING learned (his blood's weight hushed when his whole attention wills
-  it); the black-ravine serpent marked above him (fear and kinship — a thread
+  it); the Black-Ravine Serpent marked above him (fear and kinship — a thread
   of the dragon in its blood); the year-takers' map sharpened (the husk; the
   snare — IRON CAN WAIT); THE WALL — the first barrier at cultivation-year 100
   approached and FELT, uncrossed (the hunger that has no meal); the old stag-
@@ -167,7 +167,7 @@
   take from him — the permanent direction of danger).
 - Known dangers: hunger (eternal), the things above him, the bloodthirst within
   (growing as he grows), MEN now seen and kept deep — the cold shining death at
-  a distance, the dogs with questions.
+  a distance, the spirit hounds with questions.
 
 ## Portrayal laws (beast-eye prose)
 - POV is a BEAST: hunger, scent, sound, ground, threat, kinlessness. No human

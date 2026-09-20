@@ -26,7 +26,19 @@ Terms as THIS serial uses them. Canon terms carry their canon meaning.
   rings) are the lodge aristocracy" (WORLD §3). The year-takers' faces
   (ch11+): Old Qin (Soul King), Gao Tie (Grand Soul Master), Xiao An
   (Soul Master) [design].
-- **The spirit hound** — the hunting line's tamed hound soul beast
+- **Soul beast** — every living creature of this world, of whatever years
+  (SB-01/02): there are NO ordinary animals here, and even the commonest thing
+  is a soul beast — blue silver grass, the low ground-cover of every country.
+  The term is canon ("spirit beast" in the older files means the same thing;
+  SPIRIT_BEAST_LORE_VERIFIED.md keeps its s6 name). Author correction s32.
+- **The spirit hounds** — SOUL BEASTS of the hound kind, kept by the border's
+  hunting folk (the lodges' lines, the ring-hunting teams) [design, ch2+]; the
+  line's scent and soul-sense (ch11+: Gao Tie holds the lead's collar). Not
+  dogs: this world has soul beasts, not ordinary animals (the s32 rule).
+- **The Black-Ravine Serpent** — the soul beast that rules the black ravine
+  country beyond the ridge (a thread of the dragon in its blood) [design, ch4+];
+  always named in full — never a bare "serpent" (the s32 rule).
+- **The spirit hound** — (the s6–s30 term; see The spirit hounds above)
   [design, ch11+]; the team's scent and soul-sense.
 - **The road market** — the market at the mountain's foot (WORLD §4–5);
   rings trade there; prices stay at dialogue-folk level (the corpus law).

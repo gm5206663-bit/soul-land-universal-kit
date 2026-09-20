@@ -37,6 +37,13 @@ retrieved live) + baike (baike.baidu.com hunshou (soul beast)) + DD sheet (SL2 c
 | Hundred-thousand-year (red) | 100,000–999,999 | red | 2 | Title Douluo (90+); ordinary 100k beast ≈ a rank-95 Titled Douluo [baike, Xiao Bai quote] |
 | Great/Ferocious Beast (xiongshou (ferocious beast)) | 200,000–999,999 | red with gold veins | 2 | Super/Ultimate Douluo to half-god; over 200,000 yrs = Great Beasts [wiki] |
 | Million-year | 1,000,000+ | gold | 4 + bestows an unformed martial soul | god-level |
+- TERM: this world's creatures are SOUL BEASTS; there are no ordinary animals in
+  it (author correction s32; SB-11). This sheet's s6 name is kept.
+- THE COMMONEST SOUL BEAST: BLUE SILVER GRASS — the continent's low ground-cover;
+  a plant soul beast of the white tier at best, worthless to hunters, the floor of
+  the world's beast-life. [canon, SL1: the series opens on it as the commonest soul
+  beast of the world] STORY USE (author correction s32, verbatim: "even commonest
+  thing is blue silver grass") — the low ground of our serial's world, in ch1.
 - Wiki comparison table (marks rows under rank 60 as assumptions): 10y→rank 10+,
   100y→20+, 500y→30+, 1,000y→40+, 5,000y→50+, 10,000y→60+, 30,000y→70+,
   50,000y→80+, 100,000y→90+, 200,000y→95+, 500,000y→99+, 1,000,000y→100+.
