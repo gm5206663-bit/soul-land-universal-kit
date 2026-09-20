@@ -32,9 +32,9 @@ moved the bull's hours: the word that guards the country guards the taking
 too. THE PARALLEL PANELS (the ruling, second use — twice): THE DEEP CAMP
 at the going-out (the deep green's weather against them — heat, flies, the
 ground's word, the dogs slow: every country keeps its own weather, from
-their side; the list has grown the KEEPERS' LINE — Sella's ch11 observation
+their side; the list has grown the KEEPERS' LINE — Xiao An's ch11 observation
 became the list's line: no name, the sign of the mark on it, "a thing that
-signs and does not show"; Sella's demand: the SIGN OF THE SEEN on it before
+signs and does not show"; Xiao An's demand: the SIGN OF THE SEEN on it before
 they move — "a line with no face is a line the list can walk into blind";
 the bull as the prize: "Low years are deep years… That one feeds the
 border till the cold comes"; their craft — the WATER'S HOUR: "We come at
@@ -52,17 +52,18 @@ what he was paid for (the horns against the jaw; the red thing's rise; the
 jaw's work held). THE CROSSING (the moment without a meeting — the
 serial's closest thing to contact; no contact staged, nothing known): the
 going-out at the water at the hour the meal stood begun; the veiling at its
-last margin; the hush held; the DOGS STOPPED, SAT, HELD THEIR CERTAINTY at
-the water; the upright shapes looked and found no one; the going done
+last margin; the hush held; THE HOUND (the team's spirit hound) STOPPED,
+SAT, HELD THE SCENT at the water; the upright shapes looked and found no one; the going done
 before the looking finished (the ground's word carrying him out of the
 ground the way the ground carries a secret); the COST — the ground's word
 spent to the last of its margin: the deep stillness, a day, the country
 keeping its own secret longer; the war's ledger's first honest line of the
 new kind: THE NEXT LINE OF THEIRS WILL COME WITH EYES, NOT ONLY HANDS — the
-dogs carried the seen. THE WATER (the reader's side of the crossing): the
-dogs' certainty for a whole hour ("The dogs don't hold an hour for the
-grass"); the mark at the water, the whole body gone; Sella: "The dogs saw
-something"; Bren sets the SIGN OF THE SEEN on the keepers' line — "When a
+hound carried the scent. THE WATER (the reader's side of the crossing): the
+hound's certainty for a whole hour ("It holds it like a name... The hound
+doesn't hold an hour for the grass."); the mark at the water, the whole body
+gone; Xiao An: "And the hound smelled something"; Gao Tie: "The hound has held
+the whole hour."; Old Qin sets the SIGN OF THE SEEN on the keepers' line — "When a
 line has been seen, the list goes to it." (their next going is toward the
 mark — toward him.) THE TURN: the deepest meal of his life (the bloodline
 dividend visible: scales darker, the crown higher, the dragon-thread
@@ -111,7 +112,7 @@ Talent never named; no leaps.
   last stride cost, the jaw-work held; the two reds met at its meal); THE
   OLD BULL OF THE WARM BREAKS [design] (the deepest meal of his life; the
   fight the whole of what he was paid for; the voice unspent through a true
-  fight; the CROSSING at the water — the dogs' certainty held; the veiling
+  fight; the CROSSING at the water — the hound's scent held; the veiling
   at its last margin, the after-cost the deep stillness). Territory: scree
   slope → roots-house → the ravine den (deep outer forest) → THE SERPENT'S
   GROUND CROSSED (rim-path, in the weight's stillness) → A NEW HOLLOW in the
@@ -135,18 +136,18 @@ Talent never named; no leaps.
   deep with the green — the going is the going of readers; the next smoke
   kept as an edge) → THE DEEP CAMP (ch12: the new smoke stands in the
   country of the giants — the map's edge closed; their camp in the deep
-  green; the KEEPERS' LINE on their list — Sella's mark-observation became
+  green; the KEEPERS' LINE on their list — Xiao An's mark-observation became
   the list's line: no name, the sign of the mark on it) → THE CROSSING AT
   THE WATER (ch12: the going-out at the water at the hour the meal stood
-  begun; the dogs stopped, sat, held their certainty; the upright shapes
+  begun; the hound stopped, sat, held the scent; the upright shapes
   looked and found no one; nothing known, nothing seen of him — but the
-  dogs CARRIED THE SEEN; the war's ledger's first honest line of the new
+  hound CARRIED THE SCENT (the sign of the seen set from it); the war's ledger's first honest line of the new
   kind: the next line of theirs will come with eyes, not only hands); no
   contact, never known to be there — and, in the READER's eyes only (the
-  parallel panels, the 2026-09-18 ruling): FACES — BREN (the list-keeper;
-  the grey stag's purple ring in his keeping; the sign of the seen set on
-  the keepers' line: "When a line has been seen, the list goes to it."),
-  YORRE (the dogs; "The dogs don't hold an hour for the grass."), SELLA (the
+  parallel panels, the 2026-09-18 ruling): FACES — OLD QIN (the list-keeper; SOUL KING; the grey stag's PURPLE RING
+  as his SECOND RING; the sign of the seen set on the keepers' line: "When a
+  line has been seen, the list goes to it."),
+  GAO TIE (the dogs; "The dogs don't hold an hour for the grass."), XIAO AN (the
   young one; the mark observed: "like a name signed"; her demand: the sign
   of the seen before they move); their list on paper, their motive on the
   page (the deep keeps its own green; "the list cares about years"; the old
@@ -228,7 +229,7 @@ used twice; the beast's panels wordless; footers kept per the ruling).
 Zero digits/CJK in prose; "the way X" audited and held to six distinct
 deliberate similes. Mirrors synced AND grep-verified same turn:
 ADAPTATION_LOG ch12 delta; STATUS_PANEL (all blocks); TIMELINE (+1 row);
-CREATURES (+old bull row; grey stag tier corrected); CHARACTERS (Sella's
+CREATURES (+old bull row; grey stag tier corrected); CHARACTERS (Xiao An's
 wire extended); CONTINUITY (ch12 anchor + register); PROTAGONIST;
 HIS_STATUS_PANEL (live edge + kept shapes); README (live edge + next
 beat); SERIAL_LOG (s29). Control Centre: two corrections + one decision

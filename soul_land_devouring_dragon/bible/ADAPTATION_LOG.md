@@ -571,10 +571,10 @@ body). The Talent is never named; deltas record its RESULTS.
   in his.
 - MEN ledger: the year-takers STRUCK the winter place at the thaw and went
   deep with the green (the going is the going of readers); the reader's
-  parallel panel (the 2026-09-18 ruling, first use) gave them faces — BREN
-  (the list-keeper; the grey stag's purple ring in his keeping; "the list
-  cares about years"), YORRE (the dogs; "the old ones say the deep country
-  has its own keepers"), SELLA (the young one; the deep kills left whole:
+  parallel panel (the 2026-09-18 ruling, first use) gave them faces — OLD QIN
+  (the list-keeper; SOUL KING; the grey stag's PURPLE RING as his SECOND
+  RING; "the list cares about years"), GAO TIE (the hound-man; GRAND SOUL MASTER; "the old hunters of the border say the deep country
+  has its own keepers"), XIAO AN (the young one; SOUL MASTER — her first ring still to come; the deep kills left whole:
   "the same mark, the same shape, like a name signed" — the kill word seen
   as a signature from their side); their list on paper, their motive on the
   page (the deep keeps its own green; the list is deep). No contact; nothing
@@ -641,18 +641,18 @@ body). The Talent is never named; deltas record its RESULTS.
   the edge of the hour, on the thinnest ground, or would have been lost).
 - MEN ledger: THE DEEP CAMP (their camp in the country of the giants; the
   deep green's weather against them — heat, flies, the ground's word, the
-  dogs slow: every country keeps its own weather, from their side); their
-  list has grown the KEEPERS' LINE (Sella's ch11 observation became the
+  the hound slow: every country keeps its own weather, from their side); their
+  list has grown the KEEPERS' LINE (Xiao An's ch11 observation became the
   list's line — no name, the sign of the mark on it: "a thing that signs
   and does not show"); their craft: the water's hour, the water's edge, the
-  retreat rule ("if the mark comes, we come off") — their discipline
+  retreat rule ("if the mark comes, we pull back") — their discipline
   against his word. THE CROSSING AT THE WATER: the going-out at the hour
   the meal stood begun; the veiling at its last margin; the hush held; the
-  dogs STOPPED, SAT, HELD THEIR CERTAINTY; the upright shapes looked and
+  HOUND STOPPED, SAT, HELD THE SCENT; the upright shapes looked and
   found no one; the going done before the looking finished (the ground's
   word carrying him out of the ground the way the ground carries a
-  secret); NOTHING KNOWN, NOTHING SEEN OF HIM — but the dogs CARRIED THE
-  SEEN; the reader's side (the parallel panel): the dogs' certainty for a
+  secret); NOTHING KNOWN, NOTHING SEEN OF HIM — but the hound CARRIED THE
+  SCENT; the reader's side (the parallel panel): the hound's certainty for a
   whole hour, the mark at the water, the whole body gone, the SIGN OF THE
   SEEN set on the keepers' line ("When a line has been seen, the list goes
   to it." — their next going is toward the mark). No contact; the firewall
@@ -671,7 +671,7 @@ body). The Talent is never named; deltas record its RESULTS.
   (the hush held through the crossing, and the after-cost came: the
   ground's word spent to the last of its margin — the deep stillness, a
   day, the country keeping its own secret about him longer than it would
-  otherwise — the ground re-learning him); THE CROSSING'S COST (the dogs'
+  otherwise — the ground re-learning him); THE CROSSING'S COST (the hound's
   certainty — the war's shape changed: the next line of theirs will come
   with EYES, not only hands).
 - THE VOICE road: UNSPENT into the green (the second summer of the

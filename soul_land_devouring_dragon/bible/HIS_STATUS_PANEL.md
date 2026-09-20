@@ -153,7 +153,7 @@ marked [design] and belong to the author to correct.
   only in extremity, for survival, never for the meal; the deep country is
   full of them, and of greatnesses past his reading.
 - vs MEN: not measured as a beast-contest — the cold shining death at a
-  distance, the dogs, the taking of the years; avoided by law; never known
+  distance, the hound, the taking of the years; avoided by law; never known
   to be there. Iron can wait — and he gives it wide ground.
 - Standing rule: he fights beneath him, fears above him (the forest's law);
   every fight in the ledger was paid for honestly; no victory without cost
@@ -198,11 +198,10 @@ marked [design] and belong to the author to correct.
   the taking too.
 - THE CROSSING (ch12): the moment without a meeting — the going-out at the
   water at the hour the meal stood begun; the veiling at its last margin;
-  the dogs stopped, sat, held their certainty; the upright shapes looked
+  the hound stopped, sat, held the SCENT; the upright shapes looked
   and found no one; the going done before the looking finished (the
   ground's word carrying him out of the ground the way the ground carries a
-  secret); nothing known, nothing seen of him — but the dogs CARRIED THE
-  SEEN; the war's ledger's first honest line of the new kind: the next line
+  secret); nothing known, nothing seen of him — but the hound CARRIED THE SCENT (the sign of the seen set from it); the war's ledger's first honest line of the new kind: the next line
   of theirs will come with EYES, not only hands.
 - THE WAR IN THE GROUND ITSELF (ch12): the word of the bull — the deepest
   word yet — the country now carries his word everywhere the heavy kind
@@ -224,17 +223,20 @@ marked [design] and belong to the author to correct.
   of the giants); WINTERED in the deep country, STRUCK the winter place at
   the thaw, and GO DEEP with the green — the going is the going of readers;
   in the READER's eyes only (the parallel panel, the 2026-09-18 ruling)
-  they carry faces — Bren (the list-keeper; "the list cares about years"),
-  Yorre (the dogs; "the old ones say the deep country has its own keepers"),
-  Sella (the young one; the mark observed: "like a name signed"); their
+  they carry faces — OLD QIN (the list-keeper; SOUL KING; the grey stag's
+  PURPLE RING as his SECOND RING; "the list cares about years"), GAO TIE (the
+  hound-man; GRAND SOUL MASTER; "the old hunters of the border say the deep
+  country has its own keepers"), XIAO AN (the young one; SOUL MASTER — the
+  bull's purple ring is her FIRST ring, a thousand-year first ring; the mark
+  observed: "like a name signed"); their
   list on paper, their motive on the page — the dragon never hears, never
   sees; the firewall stands. CH12: the DEEP CAMP (their camp in the
   country of the giants; the deep green's weather against them); their list
-  has grown the KEEPERS' LINE (Sella's observation became the list's line —
+  has grown the KEEPERS' LINE (Xiao An's observation became the list's line —
   no name, the sign of the mark on it: "a thing that signs and does not
   show"); their craft: the water's hour, the water's edge, the retreat rule
-  ("if the mark comes, we come off"); THE SIGN OF THE SEEN set on the
-  keepers' line at the water (the dogs' certainty for a whole hour; "When a
+  ("if the mark comes, we pull back"); THE SIGN OF THE SEEN set on the
+  keepers' line at the water (the hound's certainty for a whole hour ("The hound doesn't hold an hour for the grass"); "When a
   line has been seen, the list goes to it" — their next going is toward the
   mark).
 - THE GREATNESS THAT READ HIM AND LET HIM GO: a depth past all his reading
@@ -253,8 +255,8 @@ marked [design] and belong to the author to correct.
   (ch12): the CONVERGENCE ANSWERED — the old bull of the warm breaks
   [design] taken in his at the water's edge (the deepest meal of his life);
   the bull's line BURNED at the water (the going-out there, the whole body
-  gone); the war's shape CHANGED — his ledger: the dogs' certainty (eyes,
-  not only hands); their list: the sign of the seen on the keepers' line
+  gone; the hound's scent held); the war's shape CHANGED — his ledger: the
+  hound's scent (eyes, not only hands); their list: the sign of the seen on the keepers' line
   (the list goes to it); the season's next question: the next line of both
   lists is now the READING OF THE OTHER'S MARK — the two lists walking into
   each other's ground.

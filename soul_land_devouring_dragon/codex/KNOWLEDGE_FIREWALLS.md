@@ -1,4 +1,4 @@
-# KNOWLEDGE FIREWALLS (kit 06) — who knows what; updated through Chapter 10
+# KNOWLEDGE FIREWALLS (kit 06) — who knows what; updated through Chapter 12
 
 ## HE (the dragon) MAY KNOW
 - Everything his senses and the ledger have read, on-page: his country, then
@@ -20,12 +20,23 @@
 - The arithmetic of years (cultivation-age, ring tiers) — panel-only.
 - The purpose of the ring-lights they carry away.
 
-## THE YEAR-TAKERS MAY KNOW / MUST NOT KNOW
-- May: tracks, kills, the ground's reading; the deep country's heavy years.
+## THE YEAR-TAKERS (the hunting line) MAY KNOW / MUST NOT KNOW
+- May: tracks, kills, the ground's reading; the deep country's heavy years;
+  the mark on the deep kills (the KILL WORD seen from their side — ch11,
+  Xiao An's observation; written as the KEEPERS' LINE: one line, no name, the
+  sign of the mark on it); FACES AND NAMES in the reader's eyes only (the
+  2026-09-18 ruling, from ch11) — Old Qin, Gao Tie, Xiao An [design]; their
+  rings, their ranks, their craft (the water's hour; the retreat rule).
 - Must not (without earned route): HIS existence — the veiling is the wall;
-  if they ever learn of him it must be earned on-page (a broken veiling, a
-  witnessed kill, a report). As of ch10: nothing. The lead dog's lifted head
-  (ch10) resolved into nothing — that resolution is canon for the firewall.
+  if they ever learn of it must be earned on-page (a broken veiling, a
+  witnessed kill, a report). As of ch12: NOTHING of him — the crossing at the
+  water (ch12) resolved on their side to the HOUND'S SCENT (the hound held
+  the scent for a whole hour; "it holds it like a name") and to the SIGN OF
+  THE SEEN set on the keepers' line; the scent is a scent, not a known thing
+  — the lead dog's lifted head (ch10) and the crossing's looking (ch12) both
+  resolved into nothing of his; that resolution is canon for the firewall.
+- The hound's scent = the war's first SCENT-STATE (their side; the next going
+  is toward the mark — the list goes to the line it has seen).
 
 ## THE GREATNESS PAST HIS READING
 - Knows the dragon-word read in him (ch9). Nothing else is staged; its

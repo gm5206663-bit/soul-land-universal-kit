@@ -900,3 +900,71 @@ One entry per working session. Newest at the bottom.
 - Workshop mirror /home/user/workshop/devouring_dragon/ updated,
   diff-verified identical. Pushed to the author's GitHub (kit + Control
   Centre) the same turn.
+
+### Session 30 — 2026-09-20 (CORRECTION — the human-side canon texture)
+- Author correction (verbatim): "This is complete failure — Bren?, dog's?,
+  what is this even, which angle it looks like soul land fen fiction, you
+  should check everything and understand everything completely everything
+  every single part and details, there's my GitHub there's everything you
+  need, there is canon there is also everything so can't you?"
+- The correction is correct. Diagnosis: the ch11–12 parallel panels were
+  written from generic frontier-hunter instinct — Western-fantasy names
+  (Bren/Yorre/Sella), no Soul Land vocabulary anywhere on the human side.
+  The project's OWN files already carried the human-side canon, and it was
+  not consumed before writing:
+  - bible/WORLD.md §1–3: "hunting beasts for rings is the soul master's
+    road exactly as in SL1"; "Ring-hunters (soul masters working the outer
+    forest for white and yellow rings) are the lodge aristocracy"; the Tang
+    Sect at the height of its legend; "steel, soul-power craft of the old
+    kind"; the border economy "furs, pelts, dried meat, beast-bone and the
+    occasional ring".
+  - The Control Centre canon.json (the author's GitHub): the DOULUO RANK
+    LADDER (Soul Warrior 1–10 … Titled Douluo 91–99; confidence: strong)
+    and the ring-color/tier canon — not read before writing.
+  - The CANON_LEDGER verification queue: "Awakening/rite customs … needed
+    BEFORE human-side POV scenes" — flagged, and the panels never touched
+    it (the rewrite keeps it untouched).
+- Full re-read done this turn (the "check everything" pass): WORLD.md
+  (full), FOUNDATION.md (full), GLOSSARY (full), CANON_LEDGER (full),
+  SPIRIT_BEAST_LORE_VERIFIED, KNOWLEDGE_FIREWALLS (full), Control Centre
+  canon.json + laws.json, SL2 chapters sampled for the human-side register
+  (Douluo mainland / soul power / soul ring / spirit soul / Tang Sect
+  texture), both chapters' panels re-audited.
+- CORRECTION (all in one pass): the parallel panels of Chapter 11 and
+  Chapter 12 REWRITTEN in the canon human-side texture:
+  - NAMES (Soul Land naming convention — pinyin, the SL2 OC precedent):
+    OLD QIN (the list-keeper; SOUL KING), GAO TIE (the hound-man; GRAND
+    SOUL MASTER), XIAO AN (the young one; SOUL MASTER — her first ring
+    still to come). The s29 "names ratified" decision is SUPERSEDED (the
+    Control Centre carries the correction append-only).
+  - TEXTURE: soul masters + rank ladder (ER-10); soul rings by canon
+    color/tier (SB-02) — the grey stag's PURPLE RING as Old Qin's SECOND
+    RING; the old bull's PURPLE RING planned as Xiao An's FIRST RING (a
+    thousand-year first ring — the canon tension: "The border calls that a
+    death wearing a ring" / "The Tang Sect's frontier teams call it a
+    future"); the road market and ring prices at folk level (WORLD §5); the
+    Tang Sect's frontier teams (design-folk under ER-02); the hound (the
+    team's SPIRIT HOUND [design] — CREATURES row) replaces the generic
+    "dogs"; the beast-side sections keep the kind-word "dogs" (the dragon
+    reads canine shapes — firewall unchanged).
+  - BEATS UNCHANGED: the striking, the keepers' line, the mark-observation
+    ("like a name signed"), the bull as the prize, the water's hour and the
+    retreat rule, the crossing, the sign of the seen, the convergence. The
+    dragon's sections are unchanged except the crossing (the hound's
+    scent).
+- CANON LEDGER extended: ER-10 (rank ladder, canon-strong, via the
+  Control Centre canon.json spine), ER-11 (the borders' ring economy + the
+  first-ring tension; design-folk under ER-02/SB-02). GLOSSARY extended
+  (soul master, ring-hunting line, the spirit hound, the road market, the
+  Tang Sect's frontier teams, the keepers's line). PLACES extended (the
+  winter place, the deep camp, the water's edge). KNOWLEDGE_FIREWALLS
+  updated through ch12 (the hound's scent = the war's first scent-state;
+  the crossing resolved to nothing of his — the firewall stands).
+- All current-state mirrors re-synced and grep-verified (STATUS_PANEL,
+  HIS_STATUS_PANEL, PROTAGONIST, TIMELINE ch11+12 rows, CREATURES,
+  CHARACTERS, CONTINUITY register+anchors, ADAPTATION_LOG ch11+12 deltas,
+  both chapters' footers). The s28/s29 log entries keep the old names as
+  the record of what was written then; this entry supersedes them.
+- Gates re-run over both chapters + project sweep after the correction.
+- Control Centre: correction contribution filed (the s29 name decision
+  superseded), rebuild + push the same turn.
