@@ -2,7 +2,7 @@
 CLEAN GLANCEABLE SHEET OF HIM (identity, cultivation, body/height, attributes,
 skills, combat power vs normal soul beasts): bible/HIS_STATUS_PANEL.md
 (author s23 request; updated each chapter).
-Updated: 2026-09-20 (session 29 — Chapter 12 written). Exact figures live HERE
+Updated: 2026-09-20 (session 31 — Chapters 11–12 rewritten in full). Exact figures live HERE
 and in ADAPTATION_LOG only; prose never carries numbers.
 
 ## Identity
@@ -31,7 +31,7 @@ marked ground) — his own craft made the ground wary, and the wary ground
 moved the bull's hours: the word that guards the country guards the taking
 too. THE PARALLEL PANELS (the ruling, second use — twice): THE DEEP CAMP
 at the going-out (the deep green's weather against them — heat, flies, the
-ground's word, the dogs slow: every country keeps its own weather, from
+ground's word, the hound slow: every country keeps its own weather, from
 their side; the list has grown the KEEPERS' LINE — Xiao An's ch11 observation
 became the list's line: no name, the sign of the mark on it, "a thing that
 signs and does not show"; Xiao An's demand: the SIGN OF THE SEEN on it before
@@ -39,7 +39,7 @@ they move — "a line with no face is a line the list can walk into blind";
 the bull as the prize: "Low years are deep years… That one feeds the
 border till the cold comes"; their craft — the WATER'S HOUR: "We come at
 the water's hour. We take at the water's edge. And if the mark comes, we
-come off." — the retreat rule, their discipline against his word). THE
+pull back." — the retreat rule, their discipline against his word). THE
 VEILING'S GREEN CLIMB: the hush now carried by the ground's word, the deep
 stillness (the climb paid — no head turned at the water — but the hush is a
 SPENT line, not a standing one; the margin bought each hour). THE VOICE:
@@ -62,8 +62,7 @@ new kind: THE NEXT LINE OF THEIRS WILL COME WITH EYES, NOT ONLY HANDS — the
 hound carried the scent. THE WATER (the reader's side of the crossing): the
 hound's certainty for a whole hour ("It holds it like a name... The hound
 doesn't hold an hour for the grass."); the mark at the water, the whole body
-gone; Xiao An: "And the hound smelled something"; Gao Tie: "The hound has held
-the whole hour."; Old Qin sets the SIGN OF THE SEEN on the keepers' line — "When a
+gone; Xiao An: "And the hound smelled something"; Gao Tie: "It's held the whole hour."; Old Qin sets the SIGN OF THE SEEN on the keepers' line — "When a
 line has been seen, the list goes to it." (their next going is toward the
 mark — toward him.) THE TURN: the deepest meal of his life (the bloodline
 dividend visible: scales darker, the crown higher, the dragon-thread
@@ -147,13 +146,13 @@ Talent never named; no leaps.
   parallel panels, the 2026-09-18 ruling): FACES — OLD QIN (the list-keeper; SOUL KING; the grey stag's PURPLE RING
   as his SECOND RING; the sign of the seen set on the keepers' line: "When a
   line has been seen, the list goes to it."),
-  GAO TIE (the dogs; "The dogs don't hold an hour for the grass."), XIAO AN (the
+  GAO TIE (the hound-man; "It holds it like a name... The hound doesn't hold an hour for the grass."), XIAO AN (the
   young one; the mark observed: "like a name signed"; her demand: the sign
   of the seen before they move); their list on paper, their motive on the
   page (the deep keeps its own green; "the list cares about years"; the old
   bull: "That one feeds the border till the cold comes"); their craft: the
   water's hour, the water's edge, and the retreat rule ("if the mark comes,
-  we come off"); the dragon never hears, never sees — firewall stands.
+  we pull back"); the dragon never hears, never sees — firewall stands.
 - Wounds kept: the scar behind the jaw — for life; the bristle-cuts of the
   muzzle (healed quiet and complete); the stag-kind's shoulder wound (healed
   honest); the deep-fringe fight — TORN SHOULDER AND OPENED FLANK (the cost
@@ -216,25 +215,21 @@ Talent never named; no leaps.
 - No chapter drafting until the author says so.
 
 ## Last action
-Session 29 (2026-09-20): author directive ("Do everything yourself... check
-my entire GitHub you know what you need to do") → all five repos checked
-(no new author pushes; two stale Control Centre live-edges found and
-corrected); agent decisions taken under the delegation (hunter names
-ratified [design]; the grey stag's tier resolved to the ch10 event read —
-purple tier; the old bull named per convention); Chapter 12 drafted
-("The Bull at the Water", ~3,050 words; DL 3664 green at its height).
-verify.py (unified v2) PASS: 3,050 prose words, 20 dialogue lines, 0 hard
-failures (the dialogue gate satisfied by the ruling's parallel panels —
-used twice; the beast's panels wordless; footers kept per the ruling).
-Zero digits/CJK in prose; "the way X" audited and held to six distinct
-deliberate similes. Mirrors synced AND grep-verified same turn:
-ADAPTATION_LOG ch12 delta; STATUS_PANEL (all blocks); TIMELINE (+1 row);
-CREATURES (+old bull row; grey stag tier corrected); CHARACTERS (Xiao An's
-wire extended); CONTINUITY (ch12 anchor + register); PROTAGONIST;
-HIS_STATUS_PANEL (live edge + kept shapes); README (live edge + next
-beat); SERIAL_LOG (s29). Control Centre: two corrections + one decision
-filed via intake (validated, ingested, rebuilt); registry hand-curated;
-pushed.
+Session 31 (2026-09-20): author directive ("Rewrite that chapter") →
+Chapters 11 AND 12 rewritten in full (the s30 correction pass was
+panel-level; the author ruled the texture work required whole-chapter
+rewrites — the s30 beats, all quoted lines, and every ledger beat
+preserved verbatim, verified by diff against the s30 bodies); canon
+human-side texture throughout (Old Qin / Gao Tie / Xiao An; soul
+masters; rank names per ER-10; purple tier per SB-02; the road market;
+the Tang Sect's frontier teams [design-folk]; the spirit hound); three
+flat "the way X" connectives tightened in the rewrite. verify.py
+(unified v2) PASS: ch11 2,866 prose words / 19 dialogue lines; ch12
+3,175 prose words / 24 dialogue lines; project sweep PASS (12 chapters,
+footers 12/12). Zero digits/CJK in prose. Mirrors re-synced same turn:
+STATUS_PANEL (NOW + Men block quote fixes + Last action); TIMELINE
+(retreat-quote fix); ch11/ch12 footers (exact word counts, FULL REWRITE
+s31 note). SERIAL_LOG (s31).
 
 
 ## Underlying locks

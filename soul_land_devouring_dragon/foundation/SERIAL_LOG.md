@@ -968,3 +968,51 @@ One entry per working session. Newest at the bottom.
 - Gates re-run over both chapters + project sweep after the correction.
 - Control Centre: correction contribution filed (the s29 name decision
   superseded), rebuild + push the same turn.
+
+### Session 31 — 2026-09-20 (FULL REWRITE — Chapters 11 + 12)
+- DIRECTIVE: author (after the s30 correction report): "Rewrite that
+  chapter." Scope ruled: Chapters 11 AND 12 — the same texture defect
+  sat in both, and the s30 correction was panel-level. The author's
+  demand read as: when the human-side texture is ruled failed, the
+  chapter is rewritten in full, not patched panel by panel.
+- WHAT WAS DONE: both chapters rewritten in full (fresh complete
+  bodies, not splices). Every continuity beat and every quoted line
+  preserved verbatim — verified by diff of the s30 vs s31 bodies'
+  quoted lines: IDENTICAL (zero diff, both chapters). The mirrors'
+  quoted citations therefore stand untouched.
+- WHAT CHANGED: the whole text re-derived. Beast sections in the
+  serial's prose voice (lists/maps/lines, the word of the kill, the
+  letting-go); human sections with full canon texture — Old Qin
+  (Soul King; the grey stag's purple as his second ring; "Purple
+  isn't a price — it's a standing... Purple rings have a habit of
+  deciding late."), Gao Tie (the hound-man; "A beast struck right has
+  iron in it."), Xiao An (Soul Master; the mark "like a name signed";
+  the bull's purple as her first ring — "a death wearing a ring" vs
+  "the Tang Sect's frontier teams call it a future"); the road
+  market's prices; the Tang Sect's frontier teams [design-folk under
+  ER-02]; the spirit hound; the water's hour + the retreat rule.
+  Three flat "the way X" connectives tightened (ch11: the jaw-work
+  line, the ledger-holds-everything line; ch12: the margin line) —
+  final deliberate similes: five per chapter, the rest false
+  positives ("all the way", "the whole of the way").
+- GATES (same turn): verify.py (unified v2) PASS — ch11 2,866 prose
+  words / 19 dialogue lines; ch12 3,175 prose words / 24 dialogue
+  lines; project sweep PASS (12 chapters, footers 12/12). Zero
+  digits in prose, zero CJK. Both chapters' footers updated to the
+  exact gated word counts + the FULL REWRITE s31 note.
+- MIRRORS (same turn, grep-verified): STATUS_PANEL (Updated line,
+  NOW block, Men block — Gao Tie's line now "It holds it like a
+  name... The hound doesn't hold an hour for the grass." and the
+  retreat quote "we pull back" — the mirror carried a "come off"
+  typo against both the s30 and s31 bodies; Last action = this
+  entry); TIMELINE (same retreat-quote fix). ADAPTATION_LOG,
+  CREATURES, GLOSSARY, CHARACTERS, CONTINUITY, KNOWLEDGE_FIREWALLS,
+  README re-verified against the rewritten bodies: already
+  s30-correct, no change needed.
+- NOTE (process): the /tmp clone was wiped mid-session; re-cloned at
+  079a2a0 (s30) and the rewrites re-issued into it — final state
+  verified by gate + grep, not by memory.
+- PUSH: kit commit + push this session; Control Centre registry
+  edge → this session's kit hash (the s30 correction contribution
+  covers the texture ruling; the rewrite lands inside it — no new
+  CC contribution filed); workshop mirror re-synced (diff -rq).
