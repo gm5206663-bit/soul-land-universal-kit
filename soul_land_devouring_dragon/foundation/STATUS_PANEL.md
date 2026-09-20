@@ -2,7 +2,7 @@
 CLEAN GLANCEABLE SHEET OF HIM (identity, cultivation, body/height, attributes,
 skills, combat power vs normal soul beasts): bible/HIS_STATUS_PANEL.md
 (author s23 request; updated each chapter).
-Updated: 2026-09-20 (session 28 — Chapter 11 written). Exact figures live HERE
+Updated: 2026-09-20 (session 29 — Chapter 12 written). Exact figures live HERE
 and in ADAPTATION_LOG only; prose never carries numbers.
 
 ## Identity
@@ -15,57 +15,79 @@ and in ADAPTATION_LOG only; prose never carries numbers.
 - Serial scope; natural length; NATURAL ENDING (none pre-chosen).
 
 ## Now
-LIVE EDGE: after Chapter 11 "The War of the Lists" (DL 3664 thaw → green
-season; real age ≈ 58–60 months). THE DEEP THAW: the green comes up out of
-the ground before the sky's word — the outer green's ledger fails the deep,
-as the outer cold's did (every country keeps its own weather — the winter's
-lesson carried into the spring); the deep green is a season already started
-taking. THE SMOKE-LINE GONE: the winter place struck at the thaw — the map
-rewrites the line it never held: they STAYED, and they WENT, and the going
-is the going of readers (a hunting line that goes into the green of a
-country it has read goes to work, and work does not go home); the next smoke
-kept as an edge. THE SECOND LINE TAKEN: the broad-antler of the high break
-[design] marked with the patience of the marked days — taken by the
-year-takers at the marked hour; the ring-light PALE GOLD (hundred-year
-class; color read, never named); the contrast: the first taken line darker
-than pale gold, the second pale gold — the list counts the line, not the
-weight; the ledger's answer — the faith of the kept-for spent twice, the
-PATIENCE OF THE CHOOSING kept; the list's second kind of page (the line
-that could be lost; the taking still taken). THE PARALLEL PANEL (the
-2026-09-18 ruling, first use): the year-takers carry FACES in the reader's
-eyes — Bren (the list-keeper; "the list cares about years"), Yorre (the
-dogs; "the old ones say the deep country has its own keepers"), Sella (the
-young one; the deep kills left whole, "the same mark, the same shape, like
-a name signed" — the kill word seen as a signature from their side); their
-motive on the page: the deep keeps its own green, the list is deep; the
-dragon NEVER hears, NEVER sees (separate scene, separate hour; firewall
-stands). THE RACE WON: the map of their going does its first green work — a
-window of hours wide as their going; the thick-paw of the green run
-[design] taken at the window's middle. THE VEILING'S NEAR-MISS in the wide
-green: the crossing's heavier presence thins the hush; two low lives turn
-their heads; the stillness costs time; the time costs the thick-paw's last
-stride; the jaw-work holds — the veiling toward its next truth (the green
-is its own climb). THE VOICE UNSPENT: the taking came on ground and hour and
-jaw; the winter's price bought a summer's silence. THE TWO REDS: the deep
-meal gives the red thing of the FULLNESS its summer back (the boil) and
-puts meat in the red thing of the WANT (the whisper) — the two reds stood
-at the same hour; the choosing stands against both and finds the same
-standing (the choosing is against the choosing's own being taken); the two
-words of the red thing named at last as one thing; the kill word placed at
-the meal's end. THE TURN: the fixed things held in the green (the map's
-last layer proven across seasons — nothing staged); the thread sings in the
-green (the song does not season; direction unaged); the wall at the
-thousand far, unaged, unfelt; the two lists stand in the deepest place —
-the war's second taken line, the race's one taken race; the season's
-question over the green: the next line, and which of the two lists would
-take it (the lines converge on the same heavy kind — the reader holds it;
-nothing staged). Talent never named; no leaps.
+LIVE EDGE: after Chapter 12 "The Bull at the Water" (DL 3664 green season
+at its height; real age ≈ 60–62 months). THE GREEN AT ITS HEIGHT: the deep
+country wears the green wholly; the heavy kind fat in the warm breaks; the
+map's edge ANSWERS — the new smoke stands in the country of the giants (the
+place kept as a question with an edge, closed); the line of their going
+read down to the hour. THE MARK OF THE BULL: the OLD BULL OF THE WARM
+BREAKS [design] — years standing LOW and deep (purple light, panel-only;
+the sense of years bows at the edge of the reading); the deepest meal the
+green had to give; marked for a SEASON, not an hour — and the COST of the
+craft: the warm breaks have shifted (the answering of the deep country —
+the kill word standing in the ground the way a name stands in a country;
+the heavy kind moving at the edges of the hours, standing away from the
+marked ground) — his own craft made the ground wary, and the wary ground
+moved the bull's hours: the word that guards the country guards the taking
+too. THE PARALLEL PANELS (the ruling, second use — twice): THE DEEP CAMP
+at the going-out (the deep green's weather against them — heat, flies, the
+ground's word, the dogs slow: every country keeps its own weather, from
+their side; the list has grown the KEEPERS' LINE — Sella's ch11 observation
+became the list's line: no name, the sign of the mark on it, "a thing that
+signs and does not show"; Sella's demand: the SIGN OF THE SEEN on it before
+they move — "a line with no face is a line the list can walk into blind";
+the bull as the prize: "Low years are deep years… That one feeds the
+border till the cold comes"; their craft — the WATER'S HOUR: "We come at
+the water's hour. We take at the water's edge. And if the mark comes, we
+come off." — the retreat rule, their discipline against his word). THE
+VEILING'S GREEN CLIMB: the hush now carried by the ground's word, the deep
+stillness (the climb paid — no head turned at the water — but the hush is a
+SPENT line, not a standing one; the margin bought each hour). THE VOICE:
+unspent into the green — and UNSPENT THROUGH A TRUE FIGHT (the first proof
+of the silence's worth; its next truth at the edge of the deep place, not
+yet written, not gone to). THE BULL AT THE WATER: the taking at the
+thinnest ground of his life (the window closed to the edge of the hour;
+the ground wet; the going-out's smell in the air); the fight the whole of
+what he was paid for (the horns against the jaw; the red thing's rise; the
+jaw's work held). THE CROSSING (the moment without a meeting — the
+serial's closest thing to contact; no contact staged, nothing known): the
+going-out at the water at the hour the meal stood begun; the veiling at its
+last margin; the hush held; the DOGS STOPPED, SAT, HELD THEIR CERTAINTY at
+the water; the upright shapes looked and found no one; the going done
+before the looking finished (the ground's word carrying him out of the
+ground the way the ground carries a secret); the COST — the ground's word
+spent to the last of its margin: the deep stillness, a day, the country
+keeping its own secret longer; the war's ledger's first honest line of the
+new kind: THE NEXT LINE OF THEIRS WILL COME WITH EYES, NOT ONLY HANDS — the
+dogs carried the seen. THE WATER (the reader's side of the crossing): the
+dogs' certainty for a whole hour ("The dogs don't hold an hour for the
+grass"); the mark at the water, the whole body gone; Sella: "The dogs saw
+something"; Bren sets the SIGN OF THE SEEN on the keepers' line — "When a
+line has been seen, the list goes to it." (their next going is toward the
+mark — toward him.) THE TURN: the deepest meal of his life (the bloodline
+dividend visible: scales darker, the crown higher, the dragon-thread
+clearer — quality first); THE TWO REDS in the deepest fullness (the boil
+at its height; the WANT QUIET for the first time — the fullness so deep
+the want slept in it; the choosing stood against both in the quiet; DS-08
+uncured, ridden); the kill word placed (the word of the bull — the deepest
+word yet — the country now carries his word everywhere the heavy kind
+pass: THE WAR IN THE GROUND ITSELF); the greatnesses held their standings
+in the height of the green (the walking between the fixed things — nothing
+staged); the thread sings at the green's height (unaged; nothing asked of
+it); the wall at the thousand far, unaged, unfelt. CLOSE: the two lists at
+the height of the green, the war's shape CHANGED — his ledger: eyes; their
+list: the sign of the seen — the season's question answered (the bull
+taken in his) and its next question asked in the same green: the next line
+of both lists is now the READING OF THE OTHER'S MARK — the war of the
+lists comes down to the two lists walking into each other's ground.
+Talent never named; no leaps.
 
 
 ## Exact figures (panel law)
-- REAL AGE: ≈ 58–60 months (hatched late summer DL 3661; the deep summer and
+- REAL AGE: ≈ 60–62 months (hatched late summer DL 3661; the deep summer and
   the cold season of the third year, DL 3663 → turn of the year, and the
-  thaw and first green of the fourth year, DL 3664, lived).
+  thaw, first green and green at its height of the fourth year, DL 3664,
+  lived).
 - CULTIVATION-AGE (SB-01 — NOT the same as real age): ESTIMATE ≈ 180–195
   years — HUNDRED-YEAR CLASS (yellow-ring tier, 100–999 cultivation-yrs);
   the cold country's lean meals chosen deep, then the green season's first
@@ -86,7 +108,11 @@ nothing staged). Talent never named; no leaps.
   the deep country; hardest fight; the bloodline dividend); THE THICK-PAW OF
   THE GREEN RUN [design] (the green season's first deep meal; the race won
   in the window of their going; the veiling's near-miss at its taking — the
-  last stride cost, the jaw-work held; the two reds met at its meal). Territory: scree
+  last stride cost, the jaw-work held; the two reds met at its meal); THE
+  OLD BULL OF THE WARM BREAKS [design] (the deepest meal of his life; the
+  fight the whole of what he was paid for; the voice unspent through a true
+  fight; the CROSSING at the water — the dogs' certainty held; the veiling
+  at its last margin, the after-cost the deep stillness). Territory: scree
   slope → roots-house → the ravine den (deep outer forest) → THE SERPENT'S
   GROUND CROSSED (rim-path, in the weight's stillness) → A NEW HOLLOW in the
   deep country (roots and ground and water; the way out is not the way in).
@@ -107,13 +133,26 @@ nothing staged). Talent never named; no leaps.
   winter in the deep country; the smoke-line; same breaks, same hours) →
   THE SMOKE-LINE GONE (ch11: the winter place struck at the thaw; they go
   deep with the green — the going is the going of readers; the next smoke
-  kept as an edge); no contact, never known to be there — and, in the
-  READER's eyes only (the parallel panel, the 2026-09-18 ruling): FACES —
-  BREN (the list-keeper; the grey stag's purple ring in his keeping), YORRE
-  (the dogs), SELLA (the young one; the mark observed: "like a name
-  signed"); their list on paper, their motive on the page (the deep keeps
-  its own green; "the list cares about years"); the dragon never hears,
-  never sees — firewall stands.
+  kept as an edge) → THE DEEP CAMP (ch12: the new smoke stands in the
+  country of the giants — the map's edge closed; their camp in the deep
+  green; the KEEPERS' LINE on their list — Sella's mark-observation became
+  the list's line: no name, the sign of the mark on it) → THE CROSSING AT
+  THE WATER (ch12: the going-out at the water at the hour the meal stood
+  begun; the dogs stopped, sat, held their certainty; the upright shapes
+  looked and found no one; nothing known, nothing seen of him — but the
+  dogs CARRIED THE SEEN; the war's ledger's first honest line of the new
+  kind: the next line of theirs will come with eyes, not only hands); no
+  contact, never known to be there — and, in the READER's eyes only (the
+  parallel panels, the 2026-09-18 ruling): FACES — BREN (the list-keeper;
+  the grey stag's purple ring in his keeping; the sign of the seen set on
+  the keepers' line: "When a line has been seen, the list goes to it."),
+  YORRE (the dogs; "The dogs don't hold an hour for the grass."), SELLA (the
+  young one; the mark observed: "like a name signed"; her demand: the sign
+  of the seen before they move); their list on paper, their motive on the
+  page (the deep keeps its own green; "the list cares about years"; the old
+  bull: "That one feeds the border till the cold comes"); their craft: the
+  water's hour, the water's edge, and the retreat rule ("if the mark comes,
+  we come off"); the dragon never hears, never sees — firewall stands.
 - Wounds kept: the scar behind the jaw — for life; the bristle-cuts of the
   muzzle (healed quiet and complete); the stag-kind's shoulder wound (healed
   honest); the deep-fringe fight — TORN SHOULDER AND OPENED FLANK (the cost
@@ -162,30 +201,39 @@ nothing staged). Talent never named; no leaps.
   after; NO growth-rate clock.
 
 ## Next beats (author-gated)
-- Chapter 12 (on the author's go): the green season deepens — the two lists
-  converge on the same heavy kind (his next mark to be made deep; their list
-  is deep, and the reader has seen it read); Sella's mark-observation may
-  turn to a list-line of its own (the keepers, named from their side — the
-  war gains a name it has never had in his); the veiling's green climb
-  (the heavier presence, its own discipline); the voice toward its next
-  truth (the summer's silence kept, or spent, at what price); the fixed
-  things still walked between (nothing staged); the wall at 1,000 far,
+- Chapter 13 (on the author's go): the list goes to the line it has seen —
+  the year-takers' next going is toward the mark, toward the keepers
+  (their hunt of the thing that signs and does not show — the first time
+  the war is aimed at him as a line, not at beasts); his counter: the word
+  now stands everywhere the heavy kind pass (the war in the ground itself —
+  his craft is his cover and his tell); the veiling's after-cost working
+  off (the ground re-learning him); the voice's next truth at the edge of
+  the deep place; the want's first deep sleep against the green's deepening
+  (does the fullness keep sleeping it, or does the want wake changed?); the
+  greatnesses still walked between (nothing staged); the wall at 1,000 far,
   unfelt; no leaps.
 - No chapter drafting until the author says so.
 
 ## Last action
-Session 28 (2026-09-20): author delegation ("continue ... while also update
-on my GitHub") → Chapter 11 drafted ("The War of the Lists", ~2,790 words;
-DL 3664 thaw → green season). verify.py (unified v2) PASS: 2,787 prose
-words, 19 dialogue lines, 0 hard failures (the dialogue gate satisfied by
-the 2026-09-18 ruling's parallel panel; the beast's panels wordless per the
-locks; footers kept per the ruling). Zero digits/CJK in prose; "the way X"
-connective audited and held to deliberate uses. Mirrors synced AND
-grep-verified same turn: ADAPTATION_LOG ch11 delta; STATUS_PANEL (all
-blocks); TIMELINE (+1 row); CREATURES (+broad-antler, +thick-paw rows);
-CHARACTERS (first named humans: Bren, Yorre, Sella [design]); CONTINUITY
-(ch11 anchor + character register); PROTAGONIST; HIS_STATUS_PANEL (live
-edge + kept shapes); README (live edge + next beat); SERIAL_LOG (s28).
+Session 29 (2026-09-20): author directive ("Do everything yourself... check
+my entire GitHub you know what you need to do") → all five repos checked
+(no new author pushes; two stale Control Centre live-edges found and
+corrected); agent decisions taken under the delegation (hunter names
+ratified [design]; the grey stag's tier resolved to the ch10 event read —
+purple tier; the old bull named per convention); Chapter 12 drafted
+("The Bull at the Water", ~3,050 words; DL 3664 green at its height).
+verify.py (unified v2) PASS: 3,050 prose words, 20 dialogue lines, 0 hard
+failures (the dialogue gate satisfied by the ruling's parallel panels —
+used twice; the beast's panels wordless; footers kept per the ruling).
+Zero digits/CJK in prose; "the way X" audited and held to six distinct
+deliberate similes. Mirrors synced AND grep-verified same turn:
+ADAPTATION_LOG ch12 delta; STATUS_PANEL (all blocks); TIMELINE (+1 row);
+CREATURES (+old bull row; grey stag tier corrected); CHARACTERS (Sella's
+wire extended); CONTINUITY (ch12 anchor + register); PROTAGONIST;
+HIS_STATUS_PANEL (live edge + kept shapes); README (live edge + next
+beat); SERIAL_LOG (s29). Control Centre: two corrections + one decision
+filed via intake (validated, ingested, rebuilt); registry hand-curated;
+pushed.
 
 
 ## Underlying locks

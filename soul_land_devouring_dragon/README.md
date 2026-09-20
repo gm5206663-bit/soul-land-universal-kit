@@ -25,12 +25,16 @@ READ FIRST, in order:
 4. foundation/CONTINUITY.md — anchor table + forward references
 5. the last two chapters
 6. foundation/SERIAL_LOG.md — last three entries only
-LIVE EDGE: Chapter 11 — The War of the Lists (DL 3664 thaw → green season)
-NEXT BEAT: Chapter 12 — the green season deepens: the two lists converge on
-the same heavy kind; Sella's mark-observation may turn to a list-line of its
-own (the keepers, named from their side); the veiling's green climb; the
-voice toward its next truth; the fixed things still walked between (nothing
-staged); the wall at 1,000 far, unfelt. Author's fresh go required.
+LIVE EDGE: Chapter 12 — The Bull at the Water (DL 3664 green season at its height)
+NEXT BEAT: Chapter 13 — the list goes to the line it has seen: the
+year-takers' next going is toward the mark (the first time the war is aimed
+at him as a line, not at beasts); his counter: the word now stands
+everywhere the heavy kind pass (the war in the ground itself — his craft is
+his cover and his tell); the veiling's after-cost working off (the ground
+re-learning him); the voice's next truth at the edge of the deep place; the
+want's first deep sleep (does it keep sleeping, or wake changed?); the
+greatnesses still walked between (nothing staged); the wall at 1,000 far,
+unfelt. Author's fresh go required.
 RULINGS IN FORCE (2026-09-18, session 27): the year-takers carry faces,
 names and dialogue in the parallel panel (the dragon never hears; firewall
 stands); DD chapter footers KEPT (registered exception to kit 07 §3); the

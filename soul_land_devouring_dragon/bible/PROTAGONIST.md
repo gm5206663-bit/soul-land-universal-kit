@@ -37,7 +37,36 @@
   nothing is ever granted free.
 
 ## State (updated at the end of every working turn)
-- Now: after Chapter 11. The thaw and first green of the fourth year
+- Now: after Chapter 12. The green season of the fourth year at its height
+  (DL 3664; ≈ 60–62 months old) — THE BULL AT THE WATER: the green at its
+  height (the heavy kind fat; the map's edge answers — the new smoke in the
+  country of the giants); the OLD BULL OF THE WARM BREAKS [design] marked
+  for a season (years standing low and deep — the sense bows at the edge of
+  the reading) — and the craft's cost: his own kill word made the warm
+  breaks wary (the answering of the deep country), and the wary ground
+  moved the bull's hours; the VEILING'S GREEN CLIMB (the hush carried by
+  the ground's word; a spent line, not a standing one — the margin bought
+  each hour); the VOICE unspent into the green and UNSPENT THROUGH A TRUE
+  FIGHT (the first proof of the silence's worth); THE BULL TAKEN at the
+  water's edge (the thinnest ground of his life; the fight the whole of
+  what he was paid for; the jaw's work held); THE CROSSING — the
+  going-out at the water, the dogs stopped and held their certainty, the
+  upright shapes looked and found no one (nothing known, nothing seen of
+  him; the ground's word carrying him out of the ground); the cost: the
+  deep stillness (the ground re-learning him); the war's ledger's first
+  honest line of the new kind — the next line of theirs will come with
+  EYES, not only hands (the dogs carried the seen); the reader's side: the
+  sign of the SEEN set on the keepers' line ("When a line has been seen,
+  the list goes to it" — their next going is toward the mark); the deepest
+  meal of his life (the dividend visible: scales darker, the crown higher,
+  the dragon-thread clearer); THE TWO REDS in the deepest fullness (the
+  boil at its height; the WANT QUIET for the first time — the fullness so
+  deep the want slept in it); the kill word placed (the word of the bull —
+  the deepest word yet — the war in the ground itself); the greatnesses
+  held their standings (nothing staged); the thread sings (unaged); the
+  wall far, unfelt; the season's next question: the next line of both lists
+  is now the READING OF THE OTHER'S MARK.
+- Before this (ch11): The thaw and first green of the fourth year
   (DL 3664; ≈ 58–60 months old) — THE WAR OF THE LISTS IN THE GREEN SEASON:
   the deep thaw (the green comes up out of the ground before the sky's word;
   the outer green's ledger fails the deep, as the outer cold's did); the
@@ -120,7 +149,7 @@
   sleep under the first snow); the country kept whole in the beast-mind as a
   map. Den: the ravine den over the stream.
 - Cultivation: REAL AGE and CULTIVATION-AGE tracked separately (SB-01): real
-  age ≈ 58–60 months; cultivation-age ESTIMATE ≈ 180–195 years → HUNDRED-YEAR
+  age ≈ 60–62 months; cultivation-age ESTIMATE ≈ 180–195 years → HUNDRED-YEAR
   CLASS (yellow-ring tier). FIRST BARRIER at cultivation-year 100 (SB-03):
   CROSSED. Next barrier at cultivation-year 1,000, unaged, unfelt. NO
   arithmetic clock (s7) — estimates move with events; figures live in

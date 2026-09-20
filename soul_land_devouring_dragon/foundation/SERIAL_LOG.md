@@ -823,3 +823,80 @@ One entry per working session. Newest at the bottom.
 - Workshop mirror /home/user/workshop/devouring_dragon/ updated (the author's
   delegation: "take everything related to this project to your workshop").
 - Pushed to the author's GitHub (soul-land-universal-kit) the same turn.
+
+### Session 29 — 2026-09-20 (Chapter 12 — The Bull at the Water)
+- Author directive (verbatim): "Do everything yourself if you don't know
+  what you need to do then check my entire GitHub you know what you need to
+  do" — full self-directed continuation: all five repos checked (no new
+  author pushes since the session's own work; the work to do = continue the
+  serial + resolve the two flagged items + the two stale Control Centre
+  live-edges found in the check).
+- Agent decisions taken under the delegation (recorded append-only; the
+  author may still correct): (1) HUNTER NAMES RATED CANONICAL [design] —
+  Bren, Yorre, Sella (the ch11 acceptance flag is closed by the
+  delegation); (2) THE GREY STAG'S TIER — the ch10 event read (the
+  ring-light darker than pale gold = purple tier, thousand-year class)
+  stands over the CREATURES row's original "hundred-year class" assumption
+  (the read stands in the ch10 body, the ch10 footer and ch11's parallel
+  panel); the register row corrected the same turn, the correction noted
+  in the row itself; (3) the new prey named per the serial's functional-
+  naming convention — the old bull of the warm breaks [design].
+- Chapter 12 written: "The Bull at the Water" (~3,050 words; DL 3664 green
+  season at its height; real age ≈ 58–60 → ≈ 60–62 months). Beats: the
+  green at its height (the map's edge answers — the new smoke in the
+  country of the giants); the mark of the bull (years low and deep — the
+  sense bows; marked for a season, not an hour) and the CRAFT'S COST (his
+  own kill word made the warm breaks wary — the answering of the deep
+  country — and moved the bull's hours: the word that guards the country
+  guards the taking too); THE PARALLEL PANELS (the ruling, second use —
+  twice): THE DEEP CAMP (the deep green's weather against them; the
+  KEEPERS' LINE on their list — Sella's observation became the list's line,
+  no name, the sign of the mark on it; the bull the prize — "That one feeds
+  the border till the cold comes"; their craft: the water's hour and the
+  retreat rule — "if the mark comes, we come off") and THE WATER (the
+  reader's side of the crossing — the dogs' certainty for a whole hour;
+  "The dogs saw something"; the SIGN OF THE SEEN set on the keepers' line —
+  "When a line has been seen, the list goes to it."); THE VEILING'S GREEN
+  CLIMB (the hush carried by the ground's word — a spent line, not a
+  standing one; the margin bought each hour); the voice UNSPENT into the
+  green and through a true fight (the first proof of the silence's worth);
+  THE BULL AT THE WATER (the taking at the thinnest ground of his life —
+  the window closed to the edge of the hour; the fight the whole of what he
+  was paid for; the jaw's work held); THE CROSSING (the moment without a
+  meeting — the going-out at the water; the dogs stopped, sat, held their
+  certainty; the upright shapes looked and found no one; the going done
+  before the looking finished; the after-cost: the deep stillness, a day,
+  the ground re-learning him; the war's ledger's first honest line of the
+  new kind: the next line of theirs will come with EYES, not only hands —
+  the dogs carried the seen); THE TURN (the deepest meal of his life — the
+  dividend visible; THE TWO REDS in the deepest fullness — the want QUIET
+  for the first time, the fullness so deep the want slept in it; the kill
+  word placed — the word of the bull — THE WAR IN THE GROUND ITSELF; the
+  greatnesses held their standings — nothing staged; the thread sings —
+  unaged; the wall far, unfelt); CLOSE: the war's shape CHANGED — the
+  season's question answered (the bull taken in his) and its next question
+  asked: the next line of both lists is now the READING OF THE OTHER'S MARK
+  — the two lists walking into each other's ground.
+- verify.py (unified v2) over the chapter: PASS — 3,050 prose words, 20
+  dialogue lines, 0 hard failures (the dialogue gate satisfied by the
+  ruling's parallel panels — used twice; the beast's panels wordless;
+  footers kept). Manual sweeps: zero digits and zero CJK in prose; the "the
+  way X" connective audited — cut from 13 similes in the first draft to six
+  distinct deliberate similes (no repeated image; no beat with two).
+- No new canon consumed (no canon individuals or beats; all ring-economy
+  and era facts already receipted in the ledger).
+- Control Centre (the-universal-storyline-creation-): the full-repo check
+  found two stale live-edges — soul_land_2 (stuck at Ch22) and
+  devouring_dragon (stuck at Ch10). Filed via the intake protocol: two
+  correction contributions + one decision contribution (the DD agent
+  decisions), validated, ingested, state hand-curated, rebuilt, selftest
+  run, pushed.
+- Mirrors synced AND grep-verified same turn (record law): ADAPTATION_LOG
+  ch12 delta; STATUS_PANEL (all blocks); TIMELINE (+1 row); CREATURES
+  (+old bull row; grey stag tier corrected); CHARACTERS (all three wires
+  extended); CONTINUITY (ch12 anchor + register + panel endpoint);
+  PROTAGONIST; HIS_STATUS_PANEL (live edge + kept shapes); README (live
+  edge + next beat); SERIAL_LOG (this entry).
+- Workshop mirror /home/user/workshop/devouring_dragon/ updated,
+  diff-verified identical. Pushed to the author's GitHub (kit + Control
+  Centre) the same turn.

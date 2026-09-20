@@ -1,5 +1,5 @@
 # HIS STATUS PANEL — clean sheet
-Live after Chapter 11 (DL 3664 thaw → green season — the war of the lists in the green; the season's question over the green).
+Live after Chapter 12 (DL 3664 green season at its height — the bull taken at the water; the crossing; the war's shape changed: the next line of both lists is the reading of the other's mark).
 DERIVED SHEET — mirrors foundation/STATUS_PANEL.md (the single status source,
 per kit 02) and ADAPTATION_LOG; updated each chapter. If this sheet and
 STATUS_PANEL ever disagree, STATUS_PANEL is right and this sheet is stale.
@@ -18,7 +18,7 @@ marked [design] and belong to the author to correct.
   every devouring (DS-10 the bloodline path).
 - Kin: NONE — the only egg (DS-09); kinless from the first breath.
 - Born: late summer DL 3661 — 1,000 years after Soul Land 1.
-- Real age now: ≈ 58–60 months.
+- Real age now: ≈ 60–62 months.
 - Territory now: a new hollow in the DEEP COUNTRY (past the serpent's
   ground); before: ravine den (outer forest) ← roots-house ← scree hollow.
 
@@ -87,7 +87,10 @@ marked [design] and belong to the author to correct.
   stood in him at the same hour, in the green — the boil and the whisper;
   the choosing stood against both and found the same standing (the choosing
   is against the choosing's own being taken — and is not taken); the two
-  words of the red thing named at last as one thing.
+  words of the red thing named at last as one thing; the DEEPEST FULLNESS
+  (ch12): the boil at its height and the want QUIET for the first time —
+  the fullness so deep the want slept in it; the choosing stood against
+  both in the quiet (the flaw uncured, ridden).
 
 ## 5. SKILLS & POWERS
 - RACE SKILL — DEVOURING HEAVEN AND EARTH (DD-09): state 5 — the taking
@@ -103,10 +106,12 @@ marked [design] and belong to the author to correct.
   MISERLINESS — the voice spends HEAT as well as breath; spent only at
   need, for the whole of the need. Proven: the long-fang hunt; the deep-
   fringe hunt; the deep summer's last taking; the cold country's takings.
-  THE GREEN SEASON'S SILENCE (ch11): the thick-paw's taking came on ground
-  and hour and jaw — the voice stood unspent all the way; the winter's price
-  (the cold's miserliness) bought a summer's silence, and the silence, kept,
-  is worth more than the calling spent — the voice's next truth.
+  THE GREEN SEASON'S SILENCE (ch11–12): the thick-paw's taking came on
+  ground and hour and jaw — the voice stood unspent all the way; the winter's
+  price (the cold's miserliness) bought a summer's silence; the silence held
+  through a TRUE FIGHT (the old bull at the water — ch12) — the FIRST PROOF
+  OF THE SILENCE'S WORTH; the voice's next truth stands at the edge of the
+  deep place, not yet written, not gone to.
 - THE VEILING (nature-mastery): the hushing of his blood's weight; whole
   attention only; HELD IN THE MOVING and HELD IN THE HUNGER now — broken by
   everything that breaks it (fear, the red thing, hunger) and rebuilt after
@@ -117,7 +122,12 @@ marked [design] and belong to the author to correct.
   low lives turned their heads; the stillness cost time; the time cost the
   thick-paw's last stride; the jaw-work held the rest — the green, where the
   heavy kind move in the thick of their season, is the veiling's own climb
-  (its next truth).
+  (its next truth). THE GREEN CLIMB (ch12): the hush now carried by the
+  ground's word, the deep stillness — the climb paid at the water (no head
+  turned, the hush held at its last margin through the crossing) — but the
+  hush is a SPENT line, not a standing one: bought each hour, the margin
+  paid at the water, and the after-cost came: the deep stillness, a day,
+  the ground re-learning him (the country keeping its own secret longer).
 - THE SENSE OF YEARS (awakened at the first barrier): see SENSES.
 - THE EGG-FOUNDATION (Phase 0): built from the first moment of his being —
   bloodline expression, vitality, senses, spirit-mind substrate, instinct
@@ -177,7 +187,27 @@ marked [design] and belong to the author to correct.
 - THE SMOKE-LINE GONE (ch11): the winter place struck at the thaw; the map
   rewrote the line it never held — they stayed, and they went, and the
   going is the going of readers (work does not go home); the next smoke
-  kept as an edge.
+  kept as an edge. THE MAP'S EDGE ANSWERED (ch12): the new smoke stands in
+  the country of the giants — the question closed; the line of their going
+  read down to the hour.
+- THE CRAFT'S COST (ch12): the answering of the deep country — the kill
+  word standing in the ground the way a name stands in a country; the warm
+  breaks shifted (the heavy kind at the edges of the hours, standing away
+  from the marked ground); his own craft made the ground wary, and the wary
+  ground moved the bull's hours — the word that guards the country guards
+  the taking too.
+- THE CROSSING (ch12): the moment without a meeting — the going-out at the
+  water at the hour the meal stood begun; the veiling at its last margin;
+  the dogs stopped, sat, held their certainty; the upright shapes looked
+  and found no one; the going done before the looking finished (the
+  ground's word carrying him out of the ground the way the ground carries a
+  secret); nothing known, nothing seen of him — but the dogs CARRIED THE
+  SEEN; the war's ledger's first honest line of the new kind: the next line
+  of theirs will come with EYES, not only hands.
+- THE WAR IN THE GROUND ITSELF (ch12): the word of the bull — the deepest
+  word yet — the country now carries his word everywhere the heavy kind
+  pass; the war of the lists written over the ground, and the ground
+  keeping the writing; his craft is his cover and his tell.
 - THE DRAGON'S FIRE: the cold has less hold on him than on the lives around
   him — the dragon's blood keeps its own fire (the dividend of the deep
   meals and deep sleeps; standing in him simply because of everything).
@@ -198,7 +228,15 @@ marked [design] and belong to the author to correct.
   Yorre (the dogs; "the old ones say the deep country has its own keepers"),
   Sella (the young one; the mark observed: "like a name signed"); their
   list on paper, their motive on the page — the dragon never hears, never
-  sees; the firewall stands.
+  sees; the firewall stands. CH12: the DEEP CAMP (their camp in the
+  country of the giants; the deep green's weather against them); their list
+  has grown the KEEPERS' LINE (Sella's observation became the list's line —
+  no name, the sign of the mark on it: "a thing that signs and does not
+  show"); their craft: the water's hour, the water's edge, the retreat rule
+  ("if the mark comes, we come off"); THE SIGN OF THE SEEN set on the
+  keepers' line at the water (the dogs' certainty for a whole hour; "When a
+  line has been seen, the list goes to it" — their next going is toward the
+  mark).
 - THE GREATNESS THAT READ HIM AND LET HIM GO: a depth past all his reading
   that knows the word of the dragon — and read the word in him; the shape
   kept deeper than all the other shapes.
@@ -211,5 +249,13 @@ marked [design] and belong to the author to correct.
   ONE LINE TAKEN (the thick-paw of the green run [design] — the window of
   their going); the season's question over the green: the next line, and
   which of the two lists would take it — the lines converge on the same
-  heavy kind (the reader holds it; nothing staged).
+  heavy kind (the reader holds it; nothing staged). GREEN AT ITS HEIGHT
+  (ch12): the CONVERGENCE ANSWERED — the old bull of the warm breaks
+  [design] taken in his at the water's edge (the deepest meal of his life);
+  the bull's line BURNED at the water (the going-out there, the whole body
+  gone); the war's shape CHANGED — his ledger: the dogs' certainty (eyes,
+  not only hands); their list: the sign of the seen on the keepers' line
+  (the list goes to it); the season's next question: the next line of both
+  lists is now the READING OF THE OTHER'S MARK — the two lists walking into
+  each other's ground.
 - The country that made him: kept whole, past argument.

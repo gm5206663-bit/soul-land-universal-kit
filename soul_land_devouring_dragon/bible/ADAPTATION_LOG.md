@@ -622,3 +622,91 @@ body). The Talent is never named; deltas record its RESULTS.
   discipline); the voice's kept silence (spent or kept, at what price); the
   standings of the greatnesses walked between in the green; the thread's
   road unended (the song does not season; nothing staged).
+
+## Status Delta — Chapter 12 close (DL 3664 green season at its height; real age ≈ 60–62 months)
+- SENSES / MAP road: THE GREEN AT ITS HEIGHT — the deep country wears the
+  green wholly; the heavy kind fat in the warm breaks; THE MAP'S EDGE
+  ANSWERS — the new smoke stands in the country of the giants (the place
+  kept as a question with an edge, closed); the line of their going read
+  down to the hour.
+- THE MARK OF THE BULL: the OLD BULL OF THE WARM BREAKS [design] — years
+  standing LOW and deep (purple light, panel-only; the sense of years bows
+  at the edge of the reading); the deepest meal the green had to give;
+  marked for a SEASON, not an hour. THE CRAFT'S COST — the warm breaks had
+  shifted (the answering of the deep country: the kill word standing in the
+  ground the way a name stands in a country; the heavy kind moving at the
+  edges of the hours, standing away from the marked ground) — his own craft
+  made the ground wary, and the wary ground moved the bull's hours: the
+  word that guards the country guards the taking too (the taking came at
+  the edge of the hour, on the thinnest ground, or would have been lost).
+- MEN ledger: THE DEEP CAMP (their camp in the country of the giants; the
+  deep green's weather against them — heat, flies, the ground's word, the
+  dogs slow: every country keeps its own weather, from their side); their
+  list has grown the KEEPERS' LINE (Sella's ch11 observation became the
+  list's line — no name, the sign of the mark on it: "a thing that signs
+  and does not show"); their craft: the water's hour, the water's edge, the
+  retreat rule ("if the mark comes, we come off") — their discipline
+  against his word. THE CROSSING AT THE WATER: the going-out at the hour
+  the meal stood begun; the veiling at its last margin; the hush held; the
+  dogs STOPPED, SAT, HELD THEIR CERTAINTY; the upright shapes looked and
+  found no one; the going done before the looking finished (the ground's
+  word carrying him out of the ground the way the ground carries a
+  secret); NOTHING KNOWN, NOTHING SEEN OF HIM — but the dogs CARRIED THE
+  SEEN; the reader's side (the parallel panel): the dogs' certainty for a
+  whole hour, the mark at the water, the whole body gone, the SIGN OF THE
+  SEEN set on the keepers' line ("When a line has been seen, the list goes
+  to it." — their next going is toward the mark). No contact; the firewall
+  stands.
+- DEVOURING road: THE BULL AT THE WATER — the fight the whole of what he
+  was paid for (the horns against the jaw; the ground wet; the going-out's
+  smell in the air); the jaw's work held against the red thing's rise; the
+  deepest meal of his life; the bloodline dividend sorted per DS-10 (the
+  lesser burned; the deep and true fed the dragon's blood — visible: scales
+  darker, the crown higher, the dragon-thread clearer; quality first).
+- WHAT WENT WRONG (PROSE LAW s25, the failure first): THE CRAFT'S COST
+  (his own word made the bull wary — the taking came at the edge of the
+  hour, on the thinnest ground of his life, at the water's edge with the
+  going-out's smell in the air, or would have been lost — the word that
+  guards the country guards the taking too); THE VEILING'S LAST MARGIN
+  (the hush held through the crossing, and the after-cost came: the
+  ground's word spent to the last of its margin — the deep stillness, a
+  day, the country keeping its own secret about him longer than it would
+  otherwise — the ground re-learning him); THE CROSSING'S COST (the dogs'
+  certainty — the war's shape changed: the next line of theirs will come
+  with EYES, not only hands).
+- THE VOICE road: UNSPENT into the green (the second summer of the
+  silence) and UNSPENT THROUGH A TRUE FIGHT (the bull at the water) — the
+  FIRST PROOF OF THE SILENCE'S WORTH; the line of its next truth stands at
+  the edge of the deep place, not yet written, not gone to (the shapes not
+  yet written do not go to).
+- THE VEILING road: THE GREEN CLIMB — the hush now carried by the ground's
+  word, the deep stillness (the stillness learned as its own thing in the
+  green); the climb paid at the water (no head turned; the hush held at
+  its last margin); the hush stands in the ledger as a SPENT line, not a
+  standing one — bought each hour, the margin paid at the water, the
+  after-cost the deep stillness (its next truth: the green's wide ground,
+  its own discipline, still ahead).
+- BLOODTHIRST ledger (DS-08, uncured): THE TWO REDS IN THE DEEPEST
+  FULLNESS — the boil at its height over the top of the deep meat; the
+  WANT QUIET for the first time (the fullness so deep the want slept in
+  it); the choosing stood against both in the quiet, and found the quiet
+  was the standing, and the standing was the quiet; the red thing ridden
+  in the deepest fullness as in the leanest want; the flaw uncured, and
+  the flaw ridden.
+- Craft: the kill word placed — the word of the bull, the deepest word yet,
+  left as a name in the deep country; the country now carries his word
+  everywhere the heavy kind pass — THE WAR IN THE GROUND ITSELF (his craft
+  is his cover and his tell).
+- Cultivation (panel; no clock, s7): REAL AGE ≈ 60–62 months;
+  CULTIVATION-AGE ESTIMATE ≈ 180–195 years — HUNDRED-YEAR CLASS (the green
+  season's deep meals; quality first). Next barrier at cultivation-year
+  1,000 (SB-03), unaged, unfelt. No leaps.
+- New pressures: the war's shape changed (their next going is toward the
+  mark — the first time the war is aimed at him as a line, not at beasts);
+  the word in the ground (his cover and his tell — the war in the ground
+  itself); the veiling's after-cost working off (the ground re-learning
+  him); the voice's next truth at the edge of the deep place; the want's
+  first deep sleep against the green's deepening (does the fullness keep
+  sleeping it, or does the want wake changed?); the standings of the
+  greatnesses walked between in the height of the green; the thread's road
+  unended (unaged; nothing staged).
