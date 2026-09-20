@@ -25,15 +25,19 @@ Check this table BEFORE writing any new date or age in a chapter.
 | the wall at cultivation-year 1,000 | ch6 | far ahead, unfelt | PARKED — deliberate |
 | the thread beyond the ridge (kin of the blood) | ch7–10 | author-gated, nothing staged | PARKED — deliberate |
 | one of the greatnesses may read him again | ch9 | author-gated, nothing staged | PARKED — deliberate |
+| the paper in Old Qin's coat (the keepers' line filled in fold by fold) | ch13 | author-gated | OPEN |
+| the voice as a name he cannot un-say (anything deep enough to read a word can read him) | ch13 | author-gated, nothing staged | OPEN |
+| the want's patience (it wants the deep years; it no longer hurries him) | ch13 | author-gated | OPEN |
+| the hound that held his scent for one hour | ch12 | author-gated | OPEN |
 
 ## Character register
 | Name | First | Last | Note |
 |---|---|---|---|
-| he (the dragon; unnamed by law) | ch1 | ch11 | protagonist |
-| the year-takers | ch5 | ch12 | spine opposition — FACES from ch11 (the 2026-09-18 ruling): the parallel panels carry them in the reader's eyes (OLD QIN the list-keeper — SOUL KING, GAO TIE the spirit hound's master — GRAND SOUL MASTER, XIAO AN the young one — SOUL MASTER [design — named per the Soul Land naming convention, corrected s30]); the dragon never hears, never sees; firewall stands; ch12: the deep camp, the keepers' line on their list, the crossing at the water (the spirit hound's scent carried; the sign of the seen set) |
-| Old Qin (the list-keeper) [design] | ch11 (parallel panel) | ch12 | SOUL KING; the list on paper; the stag's purple light carried down the road to the tables (the ring-slot law, ER-12); the sign of the seen set on the keepers' line at the water |
-| Gao Tie (the spirit hound's master) [design] | ch11 (parallel panel) | ch12 | GRAND SOUL MASTER; the spirit hound's collar; the keepers' rumor; "It holds it like a name... It doesn't hold an hour for a piece of grass." |
-| Xiao An (the young one) [design] | ch11 (parallel panel) | ch12 | SOUL MASTER — a white first ring; the bull's deep purple goes to the tables rather than any thin frame (the ring-slot law, ER-12); her read: "it knows the country, and it knows where a beast will stand"; the keepers' line her line |
+| he (the dragon; unnamed by law) | ch1 | ch13 | protagonist |
+| the year-takers | ch5 | ch12 | spine opposition — FACES from ch11 (the 2026-09-18 ruling): the parallel panels carry them in the reader's eyes (OLD QIN the list-keeper — SOUL KING, GAO TIE the spirit hound's master — GRAND SOUL MASTER, XIAO AN the young one — SOUL MASTER [design — named per the Soul Land naming convention, corrected s30]); the dragon never hears, never sees; firewall stands; ch12: the crossing at the water (the spirit hound's scent carried; the sign of the seen set); ch13: THE KEEPERS' LINE SET AND NAMED — the watch craft worked fold by fold (the kill left standing, the light boxed, the wire, the blind, the staked hound) |
+| Old Qin (the list-keeper) [design] | ch11 (parallel panel) | ch13 | SOUL KING; the list on paper; the stag's purple light carried down the road to the tables (the ring-slot law, ER-12); the sign of the seen set on the keepers' line at the water |
+| Gao Tie (the spirit hound's master) [design] | ch11 (parallel panel) | ch13 | GRAND SOUL MASTER; the spirit hound's collar; the keepers' rumor; "It holds it like a name... It doesn't hold an hour for a piece of grass." |
+| Xiao An (the young one) [design] | ch11 (parallel panel) | ch13 | SOUL MASTER — a white first ring; the bull's deep purple goes to the tables rather than any thin frame (the ring-slot law, ER-12); her read: "it knows the country, and it knows where a beast will stand"; the keepers' line her line |
 | the greatness past his reading | ch9 | ch10 | never staged; author-gated |
 | the grey stag of the second water | ch10 | ch10 | taken by the year-takers at the turn |
 | the broad-antler of the high break [design] | ch11 | ch11 | marked, taken by the year-takers at the marked hour — the war's second line |
@@ -47,3 +51,4 @@ Check this table BEFORE writing any new date or age in a chapter.
 | ch10 | deep summer's height; keeping earned | the deep year turned; war of the lists opened; cold country keeps him |
 | ch11 | the deep year turned; war of the lists opened | the green season: the second line taken, the race's line won, the two reds met, the parallel panel (faces to the reader); the season's question over the green |
 | ch12 | the green season: the second line taken, the race's line won, the two reds met | the green at its height: the bull taken at the water, the crossing (the spirit hound's scent), the war's shape changed — the next line of both lists is the reading of the other's mark |
+| ch13 | the green at its height: the bull taken, the crossing, the war's shape changed | the falling of the green: the after-cost paid, the kill-word read as a sign, THE KEEPERS' LINE SET (the watch craft), the voice spent at the deep edge, the want wakened patient — two lists over one country and only one of them can read |

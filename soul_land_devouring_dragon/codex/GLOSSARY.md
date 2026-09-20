@@ -56,6 +56,10 @@ Terms as THIS serial uses them. Canon terms carry their canon meaning.
   Bei, two yellow and one purple). A thousand-year FIRST ring is a death, never a
   plan. The border's deep lights are market goods: the tables buy depth for frames
   that have grown into it (ER-12).
-- **The keepers' line** — the line on the year-takers' list for the thing
-  that signs and does not show (ch11, Xiao An's line; ch12, the sign of the
-  seen set on it).
+- **The keepers' line** — the one line on the year-takers' list for the
+  thing that signs and does not show (ch11, Xiao An's line; ch12, the sign of
+  the seen set on it; ch13, the line named by Old Qin and worked as a WATCH:
+  a kill of theirs left standing in the open with the light boxed, wire run on
+  both trails, a blind and a staked hound, four days to a fold, the kill
+  carried a day's walk north at a time — the list goes to the line it has
+  seen).

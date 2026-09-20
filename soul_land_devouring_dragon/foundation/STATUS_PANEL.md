@@ -15,62 +15,32 @@ and in ADAPTATION_LOG only; prose never carries numbers.
 - Serial scope; natural length; NATURAL ENDING (none pre-chosen).
 
 ## Now
-LIVE EDGE: after Chapter 12 "The Bull at the Water" (DL 3664 green season
-at its height; real age ≈ 60–62 months). THE GREEN AT ITS HEIGHT: the deep
-country wears the green wholly; the heavy kind fat in the warm breaks; the
-map's edge ANSWERS — the new smoke stands in the country of the giants (the
-place kept as a question with an edge, closed); the line of their going
-read down to the hour. THE MARK OF THE BULL: the OLD BULL OF THE WARM
-BREAKS [design] — years standing LOW and deep (purple light, panel-only;
-the sense of years bows at the edge of the reading); the deepest meal the
-green had to give; marked for a SEASON, not an hour — and the COST of the
-craft: the warm breaks have shifted (the answering of the deep country —
-the kill word standing in the ground the way a name stands in a country;
-the heavy kind moving at the edges of the hours, standing away from the
-marked ground) — his own craft made the ground wary, and the wary ground
-moved the bull's hours: the word that guards the country guards the taking
-too. THE PARALLEL PANEL (the ruling; the s34 law: when needed only — one short scene, at the water, after the crossing): the men read the bank and find nothing; GAO TIE on the spirit hound ("It holds it like a name... It doesn't hold an hour for a piece of grass."); XIAO AN: "Then it killed the bull... it was here when we came."; OLD QIN sets the SIGN OF THE SEEN on the keepers' line ("When a line has been seen, the list goes to it."); the deep lights go down the road to the tables. THE
-VEILING'S GREEN CLIMB: the hush now carried by the ground's word, the deep
-stillness (the climb paid — no head turned at the water — but the hush is a
-SPENT line, not a standing one; the margin bought each hour). THE VOICE:
-unspent into the green — and UNSPENT THROUGH A TRUE FIGHT (the first proof
-of the silence's worth; its next truth at the edge of the deep place, not
-yet written, not gone to). THE BULL AT THE WATER: the taking at the
-thinnest ground of his life (the window closed to the edge of the hour;
-the ground wet; the going-out's smell in the air); the fight the whole of
-what he was paid for (the horns against the jaw; the red thing's rise; the
-jaw's work held). THE CROSSING (the moment without a meeting — the
-serial's closest thing to contact; no contact staged, nothing known): the
-going-out at the water at the hour the meal stood begun; the veiling at its
-last margin; the hush held; THE HOUND (the team's spirit hound) STOPPED,
-SAT, HELD THE SCENT at the water; the upright shapes looked and found no one; the going done
-before the looking finished (the ground's word carrying him out of the
-ground the way the ground carries a secret); the COST — the ground's word
-spent to the last of its margin: the deep stillness, a day, the country
-keeping its own secret longer; the war's ledger's first honest line of the
-new kind: THE NEXT LINE OF THEIRS WILL COME WITH EYES, NOT ONLY HANDS — the
-spirit hound carried the scent. THE WATER (the reader's side of the crossing): the
-spirit hound's certainty for a whole hour ("It holds it like a name... It doesn't hold an hour for a piece of grass."); the mark at the water, the whole body
-gone; Xiao An: "Then it killed the bull... it was here when we came."; Gao Tie: "It's been on this bank since before the light."; Old Qin sets the SIGN OF THE SEEN on the keepers' line — "When a
-line has been seen, the list goes to it." (their next going is toward the
-mark — toward him.) THE TURN: the deepest meal of his life (the bloodline
-dividend visible: scales darker, the crown higher, the dragon-thread
-clearer — quality first); THE TWO REDS in the deepest fullness (the boil
-at its height; the WANT QUIET for the first time — the fullness so deep
-the want slept in it; the choosing stood against both in the quiet; DS-08
-uncured, ridden); the kill word placed (the word of the bull — the deepest
-word yet — the country now carries his word everywhere the heavy kind
-pass: THE WAR IN THE GROUND ITSELF); the greatnesses held their standings
-in the height of the green (the walking between the fixed things — nothing
-staged); the thread sings at the green's height (unaged; nothing asked of
-it); the wall at the thousand far, unaged, unfelt. CLOSE: the two lists at
-the height of the green, the war's shape CHANGED — his ledger: eyes; their
-list: the sign of the seen — the season's question answered (the bull
-taken in his) and its next question asked in the same green: the next line
-of both lists is now the READING OF THE OTHER'S MARK — the war of the
-lists comes down to the two lists walking into each other's ground.
-Talent never named; no leaps.
-
+LIVE EDGE: after Chapter 13 "The Keepers' Line" (DL 3664 falling of the green;
+real age ≈ 64–66 months). THE AFTER-COST OF THE CROSSING: the water bank
+learned him — his own word over four days of bank, the small lives gone from
+it; the stillness the ground remembers; the debt paid down through the season
+until his own bank was his again. THE WAR IN THE GROUND: his kill-word read
+for the first time as a SIGN — he had been signing his ground since the first
+season; the takers' craft mirrored (a kill of theirs left standing, the light
+boxed, the wire on both trails, a blind and a staked hound); the first
+watch-fold read from the rim and given up unentered; the husk never eaten.
+THE KEEPERS' LINE SET (one short human-side scene, house density): the list
+goes to the line it has seen — the first time the war is aimed at him as a
+line, not at beasts; the watch craft (four days to a fold, the kill carried
+north a day's walk at a time); the rule to look and not shoot and to write
+what comes; Old Qin names the line; the two lodge men up from the fold; their
+paper now holds his ground and they have never once seen him. THE COUNTER:
+the country made to lie (a loud kill left in the far south, and again, and
+once in the low outer country); the feel of being a country's secret instead
+of its sign. THE VOICE'S NEXT TRUTH: spent once at the edge of the deep place
+— the standings walked between (nothing staged); the deep country read the
+word as a WORD, not a roar (no going flat, no giving of ground: the silence of
+being read); a voice that names him to anything deep enough to read. THE WANT
+WAKENED PATIENT: held down by the bull's fullness through the green's height;
+at the turning it woke changed — unhurried, wanting the deep years, the
+country's own patience got into the flaw; held against like a current (DS-08
+uncured, ridden). THE WALL at cultivation-year 1,000: far, unfelt. Two lists
+over one country, and only one of them can read. Talent never named; no leaps.
 
 ## Exact figures (panel law)
 - REAL AGE: ≈ 60–62 months (hatched late summer DL 3661; the deep summer and
@@ -186,56 +156,29 @@ Talent never named; no leaps.
   after; NO growth-rate clock.
 
 ## Next beats (author-gated)
-- Chapter 13 (on the author's go): the list goes to the line it has seen —
-  the year-takers' next going is toward the mark, toward the keepers
-  (their hunt of the thing that signs and does not show — the first time
-  the war is aimed at him as a line, not at beasts); his counter: the word
-  now stands everywhere the heavy kind pass (the war in the ground itself —
-  his craft is his cover and his tell); the veiling's after-cost working
-  off (the ground re-learning him); the voice's next truth at the edge of
-  the deep place; the want's first deep sleep against the green's deepening
-  (does the fullness keep sleeping it, or does the want wake changed?); the
-  greatnesses still walked between (nothing staged); the wall at 1,000 far,
-  unfelt; no leaps.
+- Chapter 14 (on the author's go): the season of the watch — the line works its
+  way up the deep country fold by fold; the keepers' line meets something that
+  is not him (a heavy kind, a rival eater, the answering moved by his own
+  kill-word) and the list is filled in with the wrong beast; the hound's
+  scent-state tested a second time; the want's patience asked a question the
+  fullness cannot answer; the voice's next truth paid for; the standings still
+  walked between (nothing staged); the wall at 1,000 far, unfelt; no leaps.
 - No chapter drafting until the author says so.
 
 ## Last action
-Session 34 (2026-09-20): author correction (verbatim: "what bad chapter's and
-events and scene are written, go check how canon are written... i can't read few
-lines before i disgusted by how bad is this... THE PARALLEL PANEL when needed
-what you don't have common sense"). THE WRITING WAS THE DEFECT — the s25 prose
-law ("don't write boring", RAILS §PROSE LAW) had been broken a second time:
-Chapters 11-12 had drifted into a single register with an average sentence of
-62-64 words and single sentences of 328 and 430 words, abstraction words carried
-the prose, and the parallel panels had become the place where scenes happened.
-What was done in one pass:
-(1) CHAPTERS 11 AND 12 REWRITTEN IN FULL in plain scene register: short
-    concrete sentences (ch11 now averages 17 words, longest 53; ch12 19 words,
-    longest 55 — against 62/328 and 64/430 before), real scenes shown moment to
-    moment (the antler's kill-ground read; the race and the kill of the thick-paw;
-    the fight at the water; the crossing), the abstraction engines ("the ledger",
-    "the word", "the quiet thing") removed.
-(2) PANEL LAW (author, "when needed"): panels cut to ONE SHORT SCENE PER CHAPTER
-    at most — ch11 keeps only the winter-place scene (the mark written on the
-    list; the keepers' line; the deep lights to the market; the bull marked as
-    the next line); ch12 keeps only the water's edge after the crossing (the
-    hound's certainty; the sign of the seen). The ch12 camp PLANNING scene is
-    gone from the page; the crossing is told from his side.
-(3) LAW RECORDED: RAILS §STYLE LAW (second offence) — sentence averages and
-    caps, one hard scene per chapter minimum, three registers minimum, the
-    abstraction limit, the panel law, all with the author's words.
-(4) MIRRORS: every citation of a line the rewrite dropped is replaced with what
-    the chapters now say (STATUS_PANEL FACES/NOW, TIMELINE both rows, CHARACTERS
-    all three rows, CONTINUITY, PLACES, KNOWLEDGE_FIREWALLS, PROTAGONIST,
-    HIS_STATUS_PANEL, ADAPTATION_LOG, CREATURES); SERIAL_LOG records the change.
-(5) GATES: verify.py per chapter + project sweep — PASS. ch11 2,634 prose words /
-    17 dialogue lines; ch12 3,010 / 13. Footers carry the exact counts.
-NEXT (same law, no ruling needed): Chapters 1-10 carry the same defect and are
-rewritten to this register in order, two to three chapters per pass.
-(Preceding: s33 ring-slot law; s32 soul-beast rule; s31 total rewrites.)
-
-## Underlying locks
-v2.0 Talent law (never named, no free output) · anti-nerf/anti-inflation twin law
-· beast knowledge firewall · overlord distance (DS-06) · no name unless given
-(DS-07) · era truth DL 3660s · separation walls from all other projects · zero
-CJK / English-only / exact-figures-only record law.
+Session 37 (2026-09-20; author, verbatim: " Continue "): CHAPTER 13 "The
+Keepers' Line" WRITTEN — the first chapter written at the house grammar from
+the draft up (foundation/HOUSE_STYLE_AUDIT.md §4): 4,008 words; 41 spoken
+lines (10.2 per 1000w); sentence average 20.8, longest 60; one human-side
+scene at house density (the watch-fold and the naming of the line); the
+firewall held on the page (no sighting, no print, no contact). Also this
+session: the s36 full rebuild closed out — the paragraph rule enforced across
+all 13 chapters (single-sentence paragraphs merged or split), ch5's false
+apparatus head repaired, and all 13 footers re-set to the measured counts
+(ch1 2,595 … ch13 4,008). Gates: verify.py per chapter and project sweep PASS
+(ch1 the recorded no-voices exception). Mirrors swept: TIMELINE (ch13 row),
+ADAPTATION_LOG (ch13 delta), CHARACTERS (three rows), CONTINUITY (endpoints,
+register, forward references), PLACES (the watch-folds; the edge of the deep
+place), GLOSSARY (the keepers' line), KNOWLEDGE_FIREWALLS (through ch13),
+SERIAL_LOG (Session 37), README (live edge + next beat). NEXT: kit push;
+contributions registry edge + log; workshop re-sync.

@@ -707,3 +707,31 @@ body). The Talent is never named; deltas record its RESULTS.
   sleeping it, or does the want wake changed?); the standings of the
   greatnesses walked between in the height of the green; the thread's road
   unended (unaged; nothing staged).
+
+## Status Delta — Chapter 13 close (DL 3664, the falling of the green; real age ≈ 64–66 months)
+- Situation: THE KEEPERS' LINE — the war aimed at him as a LINE for the first
+  time; the green falls; both lists on one country.
+- NATURE-MASTERY road: (a) THE AFTER-COST OF THE CROSSING — the water bank
+  learned him (his word over four days of bank; the small lives gone from it;
+  the stillness ground remembered, as the ground remembers everything spent on
+  it); the debt paid down through the season until his own bank was his again.
+  (b) THE WAR IN THE GROUND — his kill-word read for the first time as a SIGN;
+  his own craft turned against readers (the loud kill left in the far south,
+  and again, and once in the low outer country); the feel of being a country's
+  secret instead of its sign. (c) THE VOICE'S NEXT TRUTH — spent once at the
+  edge of the deep place; the deep country read it as a WORD (no going flat,
+  no giving of ground: the silence of being read); a voice that names him to
+  anything deep enough to read. (d) THE WANT WAKENED PATIENT — held down by
+  the bull's fullness through the green's height; at the turning it woke
+  changed: unhurried, wanting the deep years, the country's own patience got
+  into the flaw. The riding continues; DS-08 uncured.
+- MEN ledger: THE KEEPERS' LINE SET — the list goes to the line it has seen;
+  the watch craft (a kill of theirs left standing, the light boxed, the wire on
+  both trails, the blind, the staked hound, four days to a fold, the kill
+  carried north a day's walk at a time); the rule to look and not shoot and to
+  write what comes; Old Qin names the line; two lodge men up from the fold;
+  their paper now holds his ground and they have never once seen him.
+- Cultivation (panel; no clock, s7): REAL AGE ≈ 64–66 months; CULTIVATION-AGE
+  estimate unchanged in kind (past the first barrier; next barrier at
+  cultivation-year 1,000 — far, unfelt).
+- Beat bank untouched: no leaps; the standings not staged; the wall unfelt.

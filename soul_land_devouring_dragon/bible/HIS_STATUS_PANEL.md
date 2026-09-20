@@ -256,3 +256,17 @@ marked [design] and belong to the author to correct.
   lists is now the READING OF THE OTHER'S MARK — the two lists walking into
   each other's ground.
 - The country that made him: kept whole, past argument.
+
+## Chapter 13 close — the falling of the green (DL 3664; real age ≈ 64–66 months)
+- THE AFTER-COST PAID: the water bank relearned him through the season; the
+  stillness that ground remembers; his own bank his again.
+- THE WAR IN THE GROUND: his kill-word read as a SIGN; the counter (loud kills
+  left as lies in the far south and the low outer country); the first
+  watch-fold given up unentered.
+- THE VOICE: spent once at the edge of the deep place; read as a WORD by
+  anything deep enough (no going flat, no giving of ground: the silence of
+  being read). A name he cannot un-say.
+- THE WANT: wakened patient at the turning of the season — unhurried, wanting
+  the deep years (DS-08 uncured, ridden).
+- Counts (s37): 4,008 body words; 41 spoken lines, 10.2 per 1000w; average
+  20.8 words per sentence, longest 60.

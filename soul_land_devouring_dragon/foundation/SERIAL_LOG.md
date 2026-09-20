@@ -1251,3 +1251,44 @@ One entry per working session. Newest at the bottom.
   workshop mirror re-synced and diffed. Beat lists for ch2-10 verified against
   the pre-rebuild anchor lists (the talus-digging and "forest's pull grown"
   beats of ch2 stand in the body and in codex/TIMELINE.md).
+
+### Session 37 — 2026-09-20 (CHAPTER 13 written — the keepers' line)
+- Author, verbatim: " Continue " — the go for the next chapter.
+- WRITTEN: chapters/Chapter_13_The_Keepers_Line.md — the first chapter written
+  at the house grammar from the draft up (foundation/HOUSE_STYLE_AUDIT.md §4).
+  4,008 body words; 41 spoken lines (10.2 per 1000w); sentence average 20.8,
+  longest 60; no one-sentence paragraphs; "the way" x2. ONE human-side scene at
+  house density (the watch-fold and the naming of the line); no panels this
+  chapter — the reader's side is the men's own scene.
+- Beats: THE AFTER-COST OF THE CROSSING (the water bank learned him; the small
+  lives gone; the debt paid down until his own bank was his again); THE WAR IN
+  THE GROUND (his kill-word read as a SIGN for the first time; the takers'
+  craft mirrored — a kill of theirs left standing, the light boxed, wire on
+  both trails, a blind and a staked hound; the first watch-fold given up
+  unentered); THE KEEPERS' LINE SET (the list goes to the line it has seen;
+  the watch of four days to a fold, the kill carried north a day's walk at a
+  time; the rule to look and not shoot; Old Qin's naming); THE COUNTER (the
+  country made to lie; the loud kill left in the far south); THE VOICE'S NEXT
+  TRUTH (spent once at the edge of the deep place — read as a WORD, not a
+  roar; the silence of being read); THE WANT WAKENED PATIENT (the flaw learns
+  to wait); the wall at the thousand far, unfelt.
+- Firewall: held on the page — no sighting, no print, no contact; the watch
+  found nothing; their own reading ("a thing that signs and does not show")
+  is the only thing they carry forward.
+- PROCESS (this session also closed the s36 rebuild): the paragraph rule
+  enforced across all 13 chapters (single-sentence paragraphs merged or
+  split), ch5's false apparatus head repaired (a bare rule six lines in was
+  making the gate strip the opening scene), and all 13 footers re-set to the
+  measured counts.
+- Gates: verify.py per chapter PASS (ch1 FAILs the three-spoken-line guard
+  only, the recorded beat-forbids exception); project sweep PASS — all hard
+  gates clean; zero digits in prose; footers carry counts, metrics, and the
+  scene law; 13/13 footers.
+- Mirrors swept: TIMELINE (ch13 row), ADAPTATION_LOG (ch13 status delta),
+  CHARACTERS (all three rows, last-seen ch13), CONTINUITY (endpoints row,
+  register, four forward references), PLACES (the watch-folds; the edge of the
+  deep place), GLOSSARY (the keepers' line), KNOWLEDGE_FIREWALLS (through
+  ch13), STATUS_PANEL (Now / next beats / last action), README (live edge +
+  next beat), this log.
+- PUSH: kit commit + push; contributions registry edge + log event; workshop
+  re-synced and diffed.
