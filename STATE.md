@@ -1,5 +1,7 @@
 # TOP-LEVEL STATE — read this first (updated 2026-09-08, 2nd correction)
 
+> **UPDATE 2026-09-21 (housekeeping audit):** this file is dated **2026-09-08** and is kept as history. Since then Blue Silver completed Book One (`blue_silver/chapters_rebuilt/` — 15 chapters, 34,711 words, gates green; see `blue_silver/HANDOFF.md`), and the newest live build in the repository is the devouring-dragon serial (`soul_land_devouring_dragon/` — see its `foundation/STATUS_PANEL.md` for the live edge). The rules below still stand: the user's word outranks any file, never delete user work.
+
 ## THE CURRENT PROJECT — confirmed by 搭档
 **`/home/user/blue_silver/`** — the Blue Silver serial (pre-SL1 Blue Silver Grass OC,
 Star Dou Forest, deep era). This is the live build. 搭档 chose it directly when asked

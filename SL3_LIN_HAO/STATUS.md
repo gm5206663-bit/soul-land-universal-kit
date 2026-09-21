@@ -1,5 +1,7 @@
 # SL3 林浩 — RESTORED STATUS (2026-09-15)
 
+> **UPDATE 2026-09-21 (housekeeping audit):** the zip this file says is missing IS present in this repository — `Soul_Land_3_Project/Soul_Land_3_Project_handoff_2026-09-03.zip` (309 files, uploaded 2026-09-18) — and `Soul_Land_3_Project/` itself now holds **117 chapter files** with its suite reported green (see `README.md`, updated 2026-09-18). The freeze condition below is therefore satisfied: restore/continue from that tree, and treat the 2026-09-15 body of this file as history.
+
 **What is on hand:** the 2026-09-03 cold-start HANDOFF only.
 
 **What is NOT on hand:** `Soul_Land_3_Project_handoff_2026-09-03.zip` (the 101-chapter workspace, nine-layer check suite, all briefings). **SL3 is frozen until that zip is uploaded.** Nothing may be written or restored without it.

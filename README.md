@@ -1,6 +1,8 @@
 # ═══ WORKSPACE MAP — read this first ═══
 **Every future chat/agent: the truth lives in exactly these places. Anything in `_archive/` is superseded — never read it as current.**
 
+🔴 **LIVE BUILD as of 2026-09-21:** `soul_land_devouring_dragon/` — the devouring-dragon serial (14 chapters, plain-language prose, all gates PASS). Start at its `HANDOFF.md`; laws in its `foundation/RAILS.md`; live edge in its `foundation/STATUS_PANEL.md`. See the 2026-09-21 addition at the end of this file.
+
 ## Authoritative trees (write here, read here)
 
 | Path | What it is | Governs |
@@ -45,7 +47,7 @@ Nothing existing was deleted or overwritten. See
   top-level directories (`soul_land_4_fire_phoenix/`, `sl4_fire_phoenix/`) were **stale at
   Chapter 31**. 🔴 **Both archived 2026-09-19** to
   `_archive/2026-09-19_stale_sl4_copies_at_ch31/` (see the `_archive/` section above). The
-  current copy in this repo is
+  most recent copy held in this repository is
   `arena_managed_uploads/2026-09-18_chapter51_managed_snapshot/soul_land_4_fire_phoenix/`.
   This was SL3's TWO-COPIES LAW applying to SL4, which had five places; it now has three,
   and the third (`soul-land-projects` repo) was archived the same day.
@@ -66,3 +68,12 @@ Nothing existing was deleted or overwritten. See
   novel Chapter 2 `Genesis Runes`.
 - **`gm5206663-bit/storyos-site`** — the verification/publishing tooling, in its own public
   repository.
+
+---
+
+## ADDITION — Devouring Dragon serial + 2026-09-21 housekeeping (add-only)
+
+Nothing existing was deleted or overwritten by these additions.
+
+- **`soul_land_devouring_dragon/`** — the Soul Land **devouring-dragon serial** (14 chapters; plain words after the s40 PLAIN LANGUAGE LAW; every chapter passes `SOUL_LAND_WORKSPACE/kit/tools/verify.py`). This is the newest live build in the repository. Read order: `soul_land_devouring_dragon/HANDOFF.md` → `foundation/STATUS_PANEL.md` (live edge) → `foundation/RAILS.md` (laws of record).
+- **Housekeeping, 2026-09-21 (every deletion receipted):** scratch scripts, same-directory duplicates and one redundant export were retired; the three unique files in it were kept in `_archive/2026-09-18_perfect_export_kept/`. Full receipt list: `HOUSEKEEPING_2026-09-21.md`. No project content was edited by the housekeeping pass.
