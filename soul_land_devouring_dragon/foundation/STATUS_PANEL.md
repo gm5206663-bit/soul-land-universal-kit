@@ -2,13 +2,15 @@
 CLEAN GLANCEABLE SHEET OF HIM (identity, cultivation, body/height, attributes,
 skills, combat power vs normal soul beasts): bible/HIS_STATUS_PANEL.md
 (author s23 request; updated each chapter).
-Updated: 2026-09-20 (session 37 — CHAPTER 13 written in full at the house grammar
-(4,008 words; 41 spoken lines, 10.2 per 1000w; average 20.8, longest 60); the
-full-rebuild law closed across all 13 chapters (paragraph rule enforced, false
-apparatus head repaired, all footers re-verified). Rulings in force: house
-grammar (s35), style + panel law (s34), ring-slot law ER-12 (s33), soul-beast
-rule SB-11 (s32), standing light ER-13 (s36). Exact figures live HERE and in
-ADAPTATION_LOG only; prose never carries numbers.
+Updated: 2026-09-21 (session 39 — SCOPE LAW added to RAILS + kit 07 §10 and
+CHAPTERS 13-14 CUT to it: ch13 4,008 → 2,728 words, ch14 4,673 → 3,267; both
+re-gated PASS; spoken lines 32 (11.7 per 1000w) and 38 (11.6 per 1000w); no
+sentence over 60; no one-sentence paragraphs). Earlier: s37 CHAPTER 13 written
+in full at the house grammar; the full-rebuild law closed across all 13 chapters.
+Rulings in force: scope law (s39), house grammar (s35), style + panel law (s34),
+ring-slot law ER-12 (s33), soul-beast rule SB-11 (s32), standing light ER-13
+(s36). Exact figures live HERE and in ADAPTATION_LOG only; prose never carries
+numbers.
 
 ## Identity
 - Protagonist: an unnamed Devouring Dragon spirit beast (canon species DD-01..07).
@@ -175,7 +177,8 @@ named; no leaps.
   after; NO growth-rate clock.
 
 ## Next beats (author-gated)
-- Chapter 15 (on the author's go): the south — the keepers' line meets the pale
+- Chapter 15 (on the author's go; SCOPE LAW in force — 2,400-3,000 words, no
+  explanation layer, skip what changes nothing): the south — the keepers' line meets the pale
   beast on ground it has chosen, and the wrong face is tested (does the paper
   hold, or does the mark get a second face?); the dragon reads the south from a
   distance, or chooses a ground of his own; the hound torn between two scents
@@ -184,6 +187,19 @@ named; no leaps.
 - No chapter drafting until the author says so.
 
 ## Last action
+Session 39 (2026-09-21; author, verbatim: " Why you making nonsense by writing
+nonsenses like it becomes boring, wyrite what needs to write not everything ,
+you can skip "): the writing itself was the defect. Diagnosis: chapters 13-14
+were the serial's longest (4,008 / 4,673 words) and both said everything twice —
+an explanation paragraph after each scene and a closing re-tell of the chapter's
+own events. FIX: SCOPE LAW written into RAILS and kit 07 §10 (write it once; no
+overview openings; one line of consequence; budget 2,400-3,000, ceiling 3,400
+for a season's turn; skip what changes nothing). THEN: chapters 13 and 14 cut to
+it — 2,728 words (32 spoken lines, 11.7 per 1000w; average 20.0, longest 60) and
+3,267 words (38 spoken lines, 11.6 per 1000w; average 19.1, longest 58). Nothing
+added; every named beat and both human-side scenes kept; gates re-run PASS;
+mirrors brought to the new counts.
+
 Session 38 (2026-09-20; author, verbatim: " Check everything and do "): a full
 audit of the whole workspace first — every repo reachable on the account cloned
 and checked (five repos: kit, contributions centre, soul-land-projects,
@@ -195,7 +211,9 @@ the Sun Moon collision date was TBD when s15 verified it (now receipted). No
 other repository carries the Devouring Dragon serial — the kit, the
 contributions centre and the workshop are the whole of it. THEN: CHAPTER 14
 "The Wrong Face" WRITTEN at the house grammar from the draft up — 4,673 words;
-43 spoken lines (9.2 per 1000w); average 20.3, longest 57; one human-side
+43 spoken lines (9.2 per 1000w); average 20.3, longest 57 — s39 cut the chapter
+to 3,267 words (38 spoken lines, 11.6 per 1000w; average 19.1, longest 58, no
+one-sentence paragraphs), every beat kept; one human-side
 scene at house density; no panels; the firewall held (they believe the mark
 has the pale beast's face). Beats: the season of the watch; the sign's second
 edge; the broken fold and the death; the wrong face on the paper; the hound's
@@ -203,5 +221,5 @@ second reading; the want's question; the aimed word paid for. Mirrors swept
 (TIMELINE, ADAPTATION_LOG, CHARACTERS, CONTINUITY, PLACES, GLOSSARY, CREATURES,
 KNOWLEDGE_FIREWALLS, HIS_STATUS_PANEL, STATUS_PANEL, README, SERIAL_LOG
 Session 38). Gates: verify.py per chapter + project sweep PASS (ch1 the
-recorded no-voices exception). NEXT: kit push; contributions registry + note;
-workshop re-sync.
+recorded no-voices exception). s38 shipped kit, contributions centre and
+workshop as planned. s39 follows: the SCOPE LAW and the chapter 13-14 cut.

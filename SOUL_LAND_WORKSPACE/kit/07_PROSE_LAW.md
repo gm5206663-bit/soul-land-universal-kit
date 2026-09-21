@@ -174,3 +174,16 @@ its facts.
 - **Several small finished scenes** per chapter, at least one in real time.
 - **Plain concrete nouns.** Motif words are texture, never the sentence engine.
 - **End on a hook**: a decision, an arrival, a threat, a name.
+
+## 10. SCOPE LAW (s39, 2026-09-21) — write what needs writing; you can skip
+Author, verbatim: "Why you making nonsense by writing nonsenses like it becomes
+boring, wyrite what needs to write not everything , you can skip"
+1. A beat is written once. No paragraph explains a paragraph; no chapter
+   re-tells its own events at the close.
+2. No overview openings (season summaries, status reports). Open in scene.
+3. One line of consequence after a scene; never a summary of the scene.
+4. Budget: 2,400-3,000 words a chapter; up to 3,400 only for a chapter that
+   carries a season's turn, reason recorded in the footer.
+5. Skip what changes nothing: repeated readings, repeated lessons, scenery that
+   carries neither. Cutting removes explanation, never the scene.
+6. Every rule above in this file still stands over it.

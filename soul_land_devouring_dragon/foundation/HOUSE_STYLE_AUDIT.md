@@ -128,3 +128,17 @@ WebNovel and FanFiction.net; Soul Land / Douluo Dalu, the same genre and fandom)
 - The workspace's own accepted standard: Soul_Land_2_Project and SOUL_LAND_NEW
   chapters (dialogue-led, avg 19–23 words) — the author's own library is the
   closest model, and it is already in the repo.
+
+## 7. SCOPE (s39, 2026-09-21) — the length was not story
+After the s38 delivery the author ruled the writing itself boring because it
+said everything. Measured: chapters 13 and 14 were the serial's longest (4,008
+and 4,673 words) and both carried an explanation layer — roughly one paragraph
+per scene whose only job was to interpret the scene above it — plus a closing
+re-tell of their own events. The scenes and the dialogue were not the problem;
+the commentary around them was. Rebuilt to the SCOPE LAW (RAILS):
+| chapter | before | after | spoken lines | avg | max |
+| ch13 | 4,008 | 2,728 | 32 (11.7 per 1000w) | 20.0 | 60 |
+| ch14 | 4,673 | 3,267 | 38 (11.6 per 1000w) | 19.1 | 58 |
+Nothing added; the explanation layer and the overview openings cut; every named
+beat and the human-side scene kept. Rules and budgets: RAILS SCOPE LAW (s39)
+and kit 07 §10.

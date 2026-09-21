@@ -38,5 +38,10 @@ names and dialogue in the parallel panel (the dragon never hears; firewall
 stands); DD chapter footers KEPT (registered exception to kit 07 §3); the
 kit governs the author's new fiction and stands as reference law — this
 serial keeps its locked shape.
+SCOPE LAW (2026-09-21, session 39; author: " wyrite what needs to write not
+everything , you can skip "): a chapter is 2,400-3,000 words (ceiling 3,400 for a
+season's turn, reason in the footer); a beat is written once; no explanation
+paragraphs, no overview openings, no re-telling the chapter's own events at the
+close; cutting removes commentary, never scene.
 VERIFY: from the kit repo root:
 python3 SOUL_LAND_WORKSPACE/kit/tools/verify.py soul_land_devouring_dragon/chapters/

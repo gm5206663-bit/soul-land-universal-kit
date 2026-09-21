@@ -1337,3 +1337,37 @@ One entry per working session. Newest at the bottom.
   STATUS_PANEL, README, this log.
 - PUSH: kit commit + push; contributions centre note + registry edge; workshop
   re-synced and diffed.
+
+### Session 39 — 2026-09-21 (SCOPE LAW; chapters 13-14 cut to it)
+- Author, verbatim: " Why you making nonsense by writing nonsenses like it
+  becomes boring, wyrite what needs to write not everything , you can skip ".
+- DIAGNOSIS (measured before cutting): chapters 13 and 14 were the serial's
+  longest — 4,008 and 4,673 words — and both said everything twice. Each scene
+  was followed by an explanation paragraph whose only job was to interpret the
+  scene above it (ch13 twelve of these, ch14 nine), and both chapters closed on
+  a re-tell of their own events; ch14 also opened on a season overview.
+  Sentence metrics were already inside the house grammar (avg 20.8 / 20.3; no
+  sentence over 60; no one-sentence paragraphs). The length was not story.
+- FIX, part one — LAW: SCOPE LAW written into foundation/RAILS.md (author
+  verbatim; six rules) and into the kit, SOUL_LAND_WORKSPACE/kit/07_PROSE_LAW.md
+  §10; measured record in foundation/HOUSE_STYLE_AUDIT.md §7. Rules: a beat is
+  written once; no overview openings; one line of consequence after a scene,
+  never a summary of it; budget 2,400-3,000 words a chapter, ceiling 3,400 for a
+  chapter carrying a season's turn with the reason in its footer; skip what
+  changes nothing; cutting removes explanation, never the scene.
+- FIX, part two — THE CHAPTERS: chapters/Chapter_13_The_Keepers_Line.md cut
+  4,008 → 2,728 words; chapters/Chapter_14_The_Wrong_Face.md cut 4,673 → 3,267
+  (the season's turn, ceiling applies and is recorded in its footer). Nothing
+  was added. Every named beat, both human-side scenes, and every quoted line
+  claimed by a mirror kept; the explanation layer, the overview opening and the
+  closing re-tells removed.
+- COUNTS after the cut: ch13 2,728 words, 32 spoken lines (11.7 per 1000w),
+  average 20.0, median 17, longest 60; ch14 3,267 words, 38 spoken lines (11.6
+  per 1000w), average 19.1, median 17, longest 58; zero sentences over 60;
+  zero one-sentence paragraphs in either chapter.
+- Gates: verify.py per chapter PASS on both; project sweep re-run.
+- Mirrors brought forward: foundation/STATUS_PANEL.md (header, live counts,
+  last-action block, next beat), bible/HIS_STATUS_PANEL.md (both count blocks),
+  README.md (SCOPE LAW in the rulings-in-force block), this log. The session 37
+  and 38 entries keep their as-shipped counts as history; the live counts are
+  the ones above.

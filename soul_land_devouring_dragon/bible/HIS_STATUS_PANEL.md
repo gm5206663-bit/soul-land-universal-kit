@@ -268,8 +268,9 @@ marked [design] and belong to the author to correct.
   being read). A name he cannot un-say.
 - THE WANT: wakened patient at the turning of the season — unhurried, wanting
   the deep years (DS-08 uncured, ridden).
-- Counts (s37): 4,008 body words; 41 spoken lines, 10.2 per 1000w; average
-  20.8 words per sentence, longest 60.
+- Counts (s39, after the scope trim): 2,728 body words; 32 spoken lines, 11.7
+  per 1000w; average 20.0 words per sentence, longest 60; no one-sentence
+  paragraphs.
 
 ## Chapter 14 close — the deep country's second winter (DL 3664–65; real age ≈ 68–70 months)
 - THE SIGN'S SECOND EDGE: the pale beast of the deep fringe follows his lie-kills
@@ -281,5 +282,6 @@ marked [design] and belong to the author to correct.
   can answer it any more; it wants the standing itself; held like a current.
 - THE WATCH PULLED OFF HIS GROUND: the pale beast broke one of their folds and
   killed a man; the keepers' line now carries a wrong face and walks south.
-- Counts (s38): 4,673 body words; 43 spoken lines, 9.2 per 1000w; average 20.3
-  words per sentence, longest 57.
+- Counts (s39, after the scope trim): 3,267 body words; 38 spoken lines, 11.6
+  per 1000w; average 19.1 words per sentence, longest 58; no one-sentence
+  paragraphs.

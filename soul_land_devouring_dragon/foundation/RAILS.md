@@ -90,3 +90,32 @@ thousand -- twenty times less dialogue than Soul Land 2). Binding targets:
 4. At most one human-side scene per chapter unless the chapter IS a human-side
    chapter; never a planning scene, never a re-tell.
 5. Motif words are texture, never the sentence engine.
+
+
+## SCOPE LAW — "write what needs to write, not everything" (author correction, session 39, 2026-09-21)
+Author, verbatim: "Why you making nonsense by writing nonsenses like it becomes
+boring, wyrite what needs to write not everything , you can skip"
+The s25 and s34 laws fixed HOW the prose is built. This one fixes HOW MUCH gets
+written. Chapters 13 and 14 had shipped at 4,008 and 4,673 words — the longest
+in the serial — and the length was not story: every event was narrated, then
+explained, then summarized again. The explanation layer ran about one paragraph
+per scene (a paragraph whose only job is to interpret a scene already shown),
+and each chapter closed on a second telling of its own events. Binding rules:
+1. WRITE IT ONCE. A beat goes on the page once. No paragraph may exist to
+   explain a paragraph; no chapter may close by re-telling its own events.
+2. NO OVERVIEW OPENINGS. A chapter does not open on a season, a summary or a
+   status report. Open inside the scene (house grammar 3).
+3. ONE LINE OF CONSEQUENCE. After a scene, one short line of consequence is
+   allowed. A summary of what the reader just read is not.
+4. BUDGET: target 2,400–3,000 words per chapter. A chapter carrying a season's
+   turn may run to 3,400 with the reason written into its footer. Anything
+   longer is a defect, not a chapter.
+5. SKIP. Material that changes nothing — a second reading of ground already
+   read, a third example of a lesson already learned, scenery between two beats
+   that carries neither — is left out. The author's word: "you can skip".
+6. ALL HARD RULES STAND (registers, dialogue density, no one-sentence
+   paragraphs, sentence caps, panel law, firewall, figure law). Cutting is done
+   by removing explanation, never by removing the scene.
+Receipt of the first application (s39): ch13 4,008 → 2,728 words (−32%), ch14
+4,673 → 3,267 (−30%); both re-gated PASS, dialogue 11.7 and 11.6 spoken lines
+per 1000w, no sentence over 60, no one-sentence paragraphs. Nothing was added.
