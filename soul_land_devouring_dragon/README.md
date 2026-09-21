@@ -15,7 +15,9 @@ Authority order: author word > NO_MISTAKE_LIVE_RULES > FOUNDATION/CANON_LEDGER
   HIS_STATUS_PANEL (DERIVED clean sheet — author-facing)
 - codex/ — CREATURES, TIMELINE, PLACES, CHARACTERS, GLOSSARY,
   KNOWLEDGE_FIREWALLS
-- chapters/ — Chapter_01 … Chapter_16
+- chapters/ — Chapter_01 … Chapter_17
+- tools/measure_prose.py — the corrected prose measure (s43), used for every
+  chapter footer
 
 ## HANDOFF (kit 10)
 READ FIRST, in order:
@@ -25,14 +27,14 @@ READ FIRST, in order:
 4. foundation/CONTINUITY.md — anchor table + forward references
 5. the last two chapters
 6. foundation/SERIAL_LOG.md — last three entries only
-LIVE EDGE: Chapter 16 — The One Print (DL 3665, the summer; the pan made the
-watch, and he prints no more)
-NEXT BEAT: Chapter 17 — THE WATCH BY THE PAN: the next spring's wet, and the two
-of them up on the high ground before the mud sets (the younger man has the
-first watch; the wire goes up); what the pan takes and what the line does with
-it; and the other side of it — the dragon, who now prints nothing, on the long
-way with the wet's water running; the greatnesses' country unchanged (nothing
-staged); the wall at 1,000 far, unfelt. Author's fresh go required.
+LIVE EDGE: Chapter 17 — The Long Wet (DL 3666, the spring wet; the watch kept,
+no line gained, and the low water watch set)
+NEXT BEAT: Chapter 18 — THE LOW WATER WATCH: the summer, the flats come out, and
+the line comes down to the drawn water with the wire and the hound; the net now
+lies on his summer ground and the two sides work the country's one water their
+own way; the dragon hunting the drawn water as his own; the greatnesses'
+country unchanged (nothing staged); the wall at 1,000 far, unfelt. Author's
+fresh go required.
 RULINGS IN FORCE (2026-09-18, session 27): the year-takers carry faces,
 names and dialogue in the parallel panel (the dragon never hears; firewall
 stands); DD chapter footers KEPT (registered exception to kit 07 §3); the

@@ -829,3 +829,39 @@ body). The Talent is never named; deltas record its RESULTS.
 - Cultivation (panel; no clock, s7): REAL AGE ≈ 74–76 months; CULTIVATION-AGE
   ESTIMATE ≈ 200–215 (the summer's meat on the low water). Next barrier at
   cultivation-year 1,000 — far, unfelt. No leaps.
+
+## ch17 (DL 3666 — the spring wet; the author's third " Continue ")
+- THE WET AND THE TAKEN GROUND FLOODED: the streams over their banks; the low
+  country one brown sheet; the flood's first gift (the slow kind stranded on
+  the ridges, taken twice without a fight, chest-deep); then the meat gone and
+  him hungry inside a week; the ravine den taken as his wet ground (the old
+  roots den under the flood).
+- THE RAIN'S HOURS (the wet's discipline): the wet country writes down
+  everything, so he crosses open ground only in the heaviest rain and watches
+  his own print slump and fill inside the hour; the long way by the rock bars;
+  TWO KILLS PASSED UP and one mud-island beast left standing rather than sign
+  soft ground; thin again inside the wet; the hunger using the thin weeks.
+- MEN ledger: THE WATCH BY THE PAN — the three of them up before the mud sets;
+  the wire low across both ways onto the pan; the lean-to; days all the same;
+  the hound's rounds and the rain erasing her tracks; her nose to the place
+  the one print had been and nothing left; the younger man's "we watch a bowl
+  of soup"; Xiao An's "if". THE WIRE'S CATCH — the young ox of the low country
+  in the wire at the black hour; the iron put down in the dark; half a night
+  of poles; the kill clean and off the pan; the white light risen and boxed;
+  the meat butchered on the rock. OLD QIN'S READING AND RULING — the pan's
+  whole page; no heavy track but the ox's; no line gained for a season of
+  rain; THE LOW WATER WATCH SET (when the flats come out, the line watches the
+  water — the net now lies on his summer ground); the watch struck, the ground
+  put back to rock, the four stones stay; "Do not put a line on the paper out
+  of wanting one."
+- HE READS THE STRUCK WATCH: their season baked into the pan and not one print
+  of his; the price of printing nothing paid for a whole wet; the bare-rock
+  border rule (he sleeps well back from mud).
+- Firewall: the line has gained a watch method (the pan), a boxed white light,
+  and a new ground to watch (the low water); it still has nothing of him — the
+  only heavy track in the pan was the ox they brought themselves.
+- Cultivation (panel; no clock, s7): REAL AGE ≈ 83–85 months; CULTIVATION-AGE
+  ESTIMATE ≈ 205–215 (the flood's first gift and the kill in the drawn water;
+  the lean weeks moved it little). Next barrier at cultivation-year 1,000 —
+  far, unfelt. No leaps. (Open flag: hatch-year vs month-count reconciliation
+  — foundation/OPEN.md item 19.)

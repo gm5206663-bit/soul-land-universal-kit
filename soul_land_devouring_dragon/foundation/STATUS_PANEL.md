@@ -2,8 +2,9 @@
 CLEAN GLANCEABLE SHEET OF HIM (identity, cultivation, body/height, attributes,
 skills, combat power vs normal soul beasts): bible/HIS_STATUS_PANEL.md
 (author s23 request; updated each chapter).
-Updated: 2026-09-21 (session 42 — CHAPTER 16 "The One Print" WRITTEN AND GATED: 2,791w / 48 spoken lines (17.2 per 1000w) / average 17.1 / longest 57; no sentence over 60; no one-sentence paragraphs; the summer walk delivered — the line comes back north, the hound stops at the dried pan, the ONE PRINT, the pan made the watch (four stones), the dragon reads it and PRINTS NO MORE; every mirror synced same turn).
-Session 41 — CHAPTER 15 "The Hound's Third Time" WRITTEN AND GATED: 2,686w / 51 spoken lines (19.0 per 1000w) / average 15.0 / longest 53; no sentence over 60; no one-sentence paragraphs; the queued beats delivered — the thaw, the south watch on the pale beast's chosen ground, the beast come to the meat, THE HOUND'S THIRD TIME, the paper held with NO light for the box, the low country taken; every mirror synced same turn).
+Updated: 2026-09-21 (session 43 — CHAPTER 17 "The Long Wet" WRITTEN AND GATED: 2,967w / 50 spoken lines (16.9 per 1000w) / average 17.4 / longest 57; no sentence over 60; the watch by the pan delivered — the wet, the rain's hours, the wire's catch, Old Qin's ruling, and the low water watch set for the summer; every mirror synced same turn). SESSION 43 ALSO FOUND AND FIXED A MEASURE BUG: the old one-sentence-paragraph check could never fire, and footers s37–s42 claimed "no one-sentence paragraphs" while the serial carries short one-line beat paragraphs as house style — ruling recorded, wording corrected in place in RAILS, the panels, the logs (bracketed) and every footer; tools/measure_prose.py added as the corrected measure.
+Session 42 — CHAPTER 16 "The One Print" WRITTEN AND GATED: 2,791w / 48 spoken lines (17.2 per 1000w) / average 17.1 / longest 57 no sentence over 60; the summer walk delivered — the line comes back north, the hound stops at the dried pan, the ONE PRINT, the pan made the watch (four stones), the dragon reads it and PRINTS NO MORE; every mirror synced same turn).
+Session 41 — CHAPTER 15 "The Hound's Third Time" WRITTEN AND GATED: 2,686w / 51 spoken lines (19.0 per 1000w) / average 15.0 / longest 53; no sentence over 60; the queued beats delivered — the thaw, the south watch on the pale beast's chosen ground, the beast come to the meat, THE HOUND'S THIRD TIME, the paper held with NO light for the box, the low country taken; every mirror synced same turn).
 Session 40 — PLAIN LANGUAGE LAW: the private vocabulary
 was removed from the prose of all 14 chapters. Chapters 13-14 rewritten in plain
 words (ch13 2,564w / 32 spoken lines / average 17.7; ch14 3,169w / 38 / 17.2),
@@ -15,7 +16,7 @@ thread, the deep country (narration). Table: codex/GLOSSARY.md RETIRED WORDS.
 Session 39 — SCOPE LAW added to RAILS + kit 07 §10 and
 CHAPTERS 13-14 CUT to it: ch13 4,008 → 2,728 words, ch14 4,673 → 3,267; both
 re-gated PASS; spoken lines 32 (11.7 per 1000w) and 38 (11.6 per 1000w); no
-sentence over 60; no one-sentence paragraphs). Earlier: s37 CHAPTER 13 written
+sentence over 60). Earlier: s37 CHAPTER 13 written
 in full at the house grammar; the full-rebuild law closed across all 13 chapters.
 Rulings in force: scope law (s39), house grammar (s35), style + panel law (s34),
 ring-slot law ER-12 (s33), soul-beast rule SB-11 (s32), standing light ER-13
@@ -32,44 +33,51 @@ numbers.
 - Serial scope; natural length; NATURAL ENDING (none pre-chosen).
 
 ## Now
-LIVE EDGE: after Chapter 16 "The One Print" (DL 3665, the summer after the thaw;
-real age ≈ 74–76 months). THE SUMMER ON THE TAKEN GROUND: the heat and the
-falling water; the low country hunted as his own ground (the grazer at the lower
-pool; kills kept off the trail; the crows paid); the hunger the same and only
-carried. THE LINE COMES BACK NORTH: smoke on the south wind in the middle of the
-summer; he reads them three days out; he watches them walk his own trail and
-does not move (a beast who moves in front of men is a beast they follow); the
-hound's night half-circle at the camp edge and his quiet at its last limit.
-THE SUMMER WALK ON THE HIGH GROUND: stone, dry grass and baked pans; three days
-of nothing; the hound's stop at the dried pan and Xiao An's read — the print
-stood in the mud while it set, no roll in it, the beast looking down at the
-south where their fires had been; Gao Tie's casts off both ends (stone and
-stream; she will not cross running water); NOT the pale beast — narrower,
-heavier in front, and it had walked a whole season and left one print. THE PAN
-BECOMES THE WATCH: Old Qin's ruling — one print with no face and no kill is not
-a line; the pan is marked with four stones and watched next spring before the
-mud sets; the younger man gets the first watch, promised. HE PRINTS NO MORE
-(the chapter's turn): he reads their stopped places, the hound's two lines, the
-men's knees in the dust beside his own print, and takes the lesson whole — they
-can read him now; he will not write for them again; the pan gets nothing; THE
-LONG WAY — crossings at the rock bars, ridges of bare stone, mud flats left to
-the grazing kind, twice a kill passed up and a day gone hungry (the cost paid).
-THE STONES BY THE PAN: men set a thing down in the open and walk away only when
-they mean to come back; he does not know the whole of what they said. THE SOUTH
-AND THE NORTH UNCHANGED: the pale beast on its own ground with his roar
-unreturned; the deep forest the same; the pull the same and as far off. THE WALL
-at cultivation-year 1,000: far, unfelt. Closing image: the summer ends with him
-walking on stone — the pan holding its one print beside the four stones, and he
-has already chosen where he will walk when they come back. Talent never named;
-no leaps.
+LIVE EDGE: after Chapter 17 "The Long Wet" (DL 3666, the spring wet; real age
+≈ 83–85 months). THE WATCH BY THE PAN: the three of them up on the high ground
+in the first rain before the mud sets (the four stones standing where they were
+set); the wire low across both ways onto the pan; the lean-to; the pan left
+alone to take whatever walks. THE WET TAKES HIS GROUND: the streams over their
+banks; the low country one brown sheet; the flood's first gift (the slow kind
+stranded on the ridges, taken twice) and then the meat gone and him hungry
+inside a week; he takes the stone and the ravine den. THE WATCH IN THE RAIN:
+days all the same; the hound's rounds and the rain erasing her tracks; the
+hound's nose to the place the one print had been and nothing left there; the
+younger man's "we watch a bowl of soup"; Xiao An's "if"; the hound slower, the
+coat over her. THE RAIN'S HOURS (his turn): he crosses open ground only in the
+downpour and watches his own print slump and fill; the long way by the rock
+bars; two kills passed up and one mud-island beast left standing; thin again
+inside the wet; the hunger using the thin weeks; their smoke on the high ground
+twice and the whole meaning of the four stones at last; he never goes near. THE
+WIRE TAKES THE WRONG BEAST: the black-hour shock; the iron put down in the
+dark; half a night of poles; first light shows a young ox of the low country
+drowned out of the flats — not what the wire was set for; the kill clean and
+off the pan; THE WET'S WHOLE WATCHING — the white light rises and stands in the
+rain and goes into the box; the meat butchered on the rock. OLD QIN READS THE
+SEASON AND RULES: the pan's whole page read out; no heavy track but the ox's;
+the watch held and no line gained for a season of rain; THE LOW WATER WATCH
+SET — when the flats come out, the line watches the water (the summer's net
+lies where he drinks); the watch struck and the ground put back to rock; the
+four stones stay; "Do not put a line on the paper out of wanting one." HE
+READS THE STRUCK WATCH: ten days after; their season baked into the pan
+(hound circles, poles, boots, the ox's smeared track) and NOT ONE PRINT OF HIS;
+the trick's price paid for a whole wet; the bare-rock border rule (he sleeps
+well back from mud); the wet ends, the water draws down, the low country his
+again — and the men already promised to the water. THE DEEP FOREST UNCHANGED;
+the hunger patient; the wall at cultivation-year 1,000 far, unfelt. Talent
+never named; no leaps.
 
 ## Exact figures (panel law)
-- REAL AGE: ≈ 74–76 months (hatched late summer DL 3661; through DL 3663,
-  DL 3664, the deep country's second winter and the thaw to the green of
-  DL 3665 — the ch16 summer lived on the taken low ground).
-- CULTIVATION-AGE (SB-01 — NOT the same as real age): ESTIMATE ≈ 200–215
-  years — HUNDRED-YEAR CLASS; the winter's heavy meals and the summer's meat
-  on the low water moved it; the aimed word's spend (ch14) is not a gain. FIRST BARRIER
+- REAL AGE: ≈ 83–85 months (hatched late summer DL 3661; through DL 3663,
+  DL 3664, the second winter, the thaw, the green of DL 3665 and the year's
+  turn to the wet of DL 3666 — the ch17 wet lived on stone. OPEN: the stated
+  hatch year and this month-count do not reconcile — see foundation/OPEN.md,
+  "PANEL FIGURE" entry; the increments are the panel's law until the author
+  rules).
+- CULTIVATION-AGE (SB-01 — NOT the same as real age): ESTIMATE ≈ 205–215
+  years — HUNDRED-YEAR CLASS; the flood's first gift (the stranded slow kind)
+  and the kill in the drawn water moved it; the lean weeks of the wet moved it
+  little; the aimed word's spend (ch14) is not a gain. FIRST BARRIER
   at cultivation-year 100: CROSSED. Next barrier at cultivation-year 1,000
   (SB-03), unaged, unfelt. NO clock (s7); estimates move with events. No
   leaps. (The duplicated tail this line carried since s34 was removed s41.)
@@ -100,7 +108,15 @@ no leaps.
   ground — the low water falling to pools and holding the slow kind at it; the
   old thin one taken at the lower pool at dusk, no fight; kills kept off the
   trail); two kills PASSED UP through the summer rather than cross soft mud
-  (the price of printing no more).
+  (the price of printing no more); THE FLOOD'S FIRST GIFT [design] (two of the
+  slow kind stranded on the ridges by the risen water, taken without a fight
+  standing chest-deep in ch17's first weeks); THE YOUNG OX OF THE LOW COUNTRY
+  [design] (not his kill — it drowned out of the flats, came up onto the high
+  ground and died in the line's wire in the dark; the ch17 wire night, seen by
+  him only as ground afterwards); THE KILL IN THE DRAWN WATER [design] (the old
+  grazer in the shallows where the flats were coming out, the first deep meal
+  after the lean wet). KILLS PASSED UP: two in the wet rather than cross soft
+  ground, and one mud-island beast left standing.
   Territory: scree slope → roots-house → the
   ravine den (deep outer forest) → THE BLACK-RAVINE SERPENT'S GROUND CROSSED
   (rim-path, in the weight's stillness) → A NEW HOLLOW in the deep country
@@ -111,7 +127,10 @@ no leaps.
   left at the thaw; the road between the two countries; his own quiet over it)
   → THE HIGH GROUND KEPT OFF (ch16 — he will not cross soft pans; the long way
   by rock bars and bare stone; the pan with the one print and the line's four
-  stones is a place he walks around).
+  stones is a place he walks around) → THE RAVINE DEN (ch17 — his wet ground:
+  high rock in the outer forest with the stream past the mouth; the old roots
+  den was under the flood) → THE FLOODED LOW COUNTRY (ch17 — one brown sheet,
+  walked only at the edges; the flats dry again by the close).
 
 - Ring-of-himself if killed now (SB-06): a YELLOW ring of hundred-year class
   — real worth to a hunter now; his worth to them grows with his years.
@@ -201,17 +220,37 @@ no leaps.
   after; NO growth-rate clock.
 
 ## Next beats (author-gated)
-- Chapter 17 (on the author's go; SCOPE LAW in force — 2,400-3,000 words, no
-  explanation layer, skip what changes nothing): THE WATCH BY THE PAN — the
-  next spring's wet, and the two of them up on the high ground before the mud
-  sets (the younger man has the first watch; the wire goes up); what the pan
-  takes and what the line does with it; and the other side of it — the dragon,
-  who now prints nothing, on the long way, with the wet's water running and the
-  high ground forbidden; the deep forest unchanged (nothing staged); the wall
-  at 1,000 far, unfelt.
+- Chapter 18 (on the author's go; SCOPE LAW in force — 2,400-3,000 words, no
+  explanation layer, skip what changes nothing): THE LOW WATER WATCH — the
+  summer, the flats come out, and the line comes down to the drawn water with
+  the wire and the hound (Old Qin's ruling of ch17) — the net now lies on his
+  summer ground, and the two sides of the country's one water each work it
+  their own way; the dragon hunting the drawn water as his own; what the water
+  gives the men and what it gives him; the deep forest unchanged (nothing
+  staged); the wall at 1,000 far, unfelt.
 - No chapter drafting until the author says so.
 
 ## Last action
+Session 43 (2026-09-21; author, verbatim: " Continue " — the third consecutive
+go): CHAPTER 17 "The Long Wet" written and shipped. The wet delivered: the watch
+goes up before the mud sets; the flood takes the low country and he takes the
+stone; the rain's hours learned (his print slumps and fills); the wire takes a
+young ox of the low country (not what it was set for) and the white light
+stands in the rain and goes into the box; Old Qin reads the season, gains no
+line for rain, and sets the LOW WATER WATCH for when the flats come out; the
+watch struck, the four stones stay; he reads the struck watch — not one print
+of his — and the price of a whole wet paid. Written plain from the first draft
+(s39 + s40 laws); 2,967 words, 50 spoken lines, average 17.4, longest 57;
+verify.py PASS; project sweep PASS (17/17 footers); all mirrors synced same
+turn; pushed to GitHub. SAME SESSION — THE MEASURE BUG: the old
+one-sentence-paragraph check could never fire (it stripped the punctuation it
+tested for), so footers from s37 to s42 claimed "no one-sentence paragraphs"
+while the serial has carried short one-line beat paragraphs since early on.
+Ruling recorded; the claim corrected in place everywhere (RAILS, both panels,
+the logs bracketed, every chapter footer); tools/measure_prose.py added as the
+corrected measure; 26 short one-line beats counted across ch4–ch17 — house
+style, allowed.
+
 Session 42 (2026-09-21; author, verbatim: " Continue " — the second consecutive
 go): CHAPTER 16 "The One Print" written and shipped. The summer delivered: the
 line back on the high ground; the hound's stop at the dried pan; the ONE PRINT
@@ -271,8 +310,7 @@ other repository carries the Devouring Dragon serial — the kit, the
 contributions centre and the workshop are the whole of it. THEN: CHAPTER 14
 "The Wrong Face" WRITTEN at the house grammar from the draft up — 4,673 words;
 43 spoken lines (9.2 per 1000w); average 20.3, longest 57 — s39 cut the chapter
-to 3,267 words (38 spoken lines, 11.6 per 1000w; average 19.1, longest 58, no
-one-sentence paragraphs), every beat kept; one human-side
+to 3,267 words (38 spoken lines, 11.6 per 1000w; average 19.1, longest 58), every beat kept; one human-side
 scene at house density; no panels; the firewall held (they believe the mark
 has the pale beast's face). Beats: the season of the watch; the sign's second
 edge; the broken fold and the death; the wrong face on the paper; the hound's

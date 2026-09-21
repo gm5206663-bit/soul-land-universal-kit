@@ -1257,7 +1257,7 @@ One entry per working session. Newest at the bottom.
 - WRITTEN: chapters/Chapter_13_The_Keepers_Line.md — the first chapter written
   at the house grammar from the draft up (foundation/HOUSE_STYLE_AUDIT.md §4).
   4,008 body words; 41 spoken lines (10.2 per 1000w); sentence average 20.8,
-  longest 60; no one-sentence paragraphs; "the way" x2. ONE human-side scene at
+  longest 60; no one-sentence paragraphs [clause reworded s43: the 60-word sentence cap is the rule; short one-line beat paragraphs are allowed]; "the way" x2. ONE human-side scene at
   house density (the watch-fold and the naming of the line); no panels this
   chapter — the reader's side is the men's own scene.
 - Beats: THE AFTER-COST OF THE CROSSING (the water bank learned him; the small
@@ -1316,8 +1316,7 @@ One entry per working session. Newest at the bottom.
   it; now receipted with the cross-reference to OPEN.md #11.
 - WRITTEN: chapters/Chapter_14_The_Wrong_Face.md at the house grammar from the
   draft up (one human-side scene at house density; no panels). 4,673 words;
-  43 spoken lines (9.2 per 1000w); average 20.3, longest 57; no one-sentence
-  paragraphs; "the way" x1.
+  43 spoken lines (9.2 per 1000w); average 20.3, longest 57; no one-sentence paragraphs [clause reworded s43: the 60-word sentence cap is the rule; short one-line beat paragraphs are allowed]; "the way" x1.
 - Beats: THE SEASON OF THE WATCH; THE SIGN'S SECOND EDGE (the pale beast of the
   deep fringe reading him); THE BROKEN FOLD AND THE DEATH (the older lodge man
   killed; the camp of black stone); THE WRONG FACE ON THE PAPER (Xiao An's
@@ -1347,7 +1346,7 @@ One entry per working session. Newest at the bottom.
   scene above it (ch13 twelve of these, ch14 nine), and both chapters closed on
   a re-tell of their own events; ch14 also opened on a season overview.
   Sentence metrics were already inside the house grammar (avg 20.8 / 20.3; no
-  sentence over 60; no one-sentence paragraphs). The length was not story.
+  sentence over 60; no one-sentence paragraphs [clause reworded s43: the 60-word sentence cap is the rule; short one-line beat paragraphs are allowed]). The length was not story.
 - FIX, part one — LAW: SCOPE LAW written into foundation/RAILS.md (author
   verbatim; six rules) and into the kit, SOUL_LAND_WORKSPACE/kit/07_PROSE_LAW.md
   §10; measured record in foundation/HOUSE_STYLE_AUDIT.md §7. Rules: a beat is
@@ -1364,7 +1363,7 @@ One entry per working session. Newest at the bottom.
 - COUNTS after the cut: ch13 2,728 words, 32 spoken lines (11.7 per 1000w),
   average 20.0, median 17, longest 60; ch14 3,267 words, 38 spoken lines (11.6
   per 1000w), average 19.1, median 17, longest 58; zero sentences over 60;
-  zero one-sentence paragraphs in either chapter.
+  zero one-sentence paragraphs [clause reworded s43: the 60-word sentence cap is the rule; short one-line beat paragraphs are allowed] in either chapter. [clause reworded s43: the 60-word sentence cap is the rule; short one-line beat paragraphs are allowed]
 - Gates: verify.py per chapter PASS on both; project sweep re-run.
 - Mirrors brought forward: foundation/STATUS_PANEL.md (header, live counts,
   last-action block, next beat), bible/HIS_STATUS_PANEL.md (both count blocks),
@@ -1399,7 +1398,7 @@ One entry per working session. Newest at the bottom.
 - Counts after the pass: ch13 2,564 words / 32 spoken lines (12.5 per 1000w) /
   average 17.7 / longest 54; ch14 3,169 / 38 (12.0) / 17.2 / 46. Zero retired
   words in any chapter prose; zero sentences over 60; zero one-sentence prose
-  paragraphs.
+  paragraphs [clause reworded s43: the 60-word sentence cap is the rule; short one-line beats allowed].
 - Gates: verify.py per chapter PASS (ch1 the recorded no-voices exception);
   project sweep PASS; footers re-set to the verified counts.
 
@@ -1420,7 +1419,7 @@ One entry per working session. Newest at the bottom.
 - Gates: verify.py PASS (2,686 prose words, 51 spoken lines); project sweep PASS
   (15/15 chapters carry footers; ch1 the recorded no-voices exception); counts
   19.0 spoken lines per 1000w / average 15.0 / median 12 / longest 53 / no
-  sentence over 60 / no one-sentence prose paragraphs.
+  sentence over 60 / no one-sentence prose paragraphs [clause reworded s43: the 60-word sentence cap is the rule; short one-line beat paragraphs are allowed]. [clause reworded s43: the 60-word sentence cap is the rule; short one-line beat paragraphs are allowed]
 - Mirrors synced same turn: STATUS_PANEL (edge, figures, kills, territory, next
   beats -> ch16, last action), HIS_STATUS_PANEL (edge + ch15 close),
   ADAPTATION_LOG, SERIAL_LOG, README, CREATURES, KNOWLEDGE_FIREWALLS, PLACES,
@@ -1443,9 +1442,49 @@ One entry per working session. Newest at the bottom.
 - Gates: verify.py PASS (2,791 prose words, 48 spoken lines); project sweep PASS
   (16/16 chapters carry footers; ch1 the recorded no-voices exception); counts
   17.2 spoken lines per 1000w / average 17.1 / median 15 / longest 57 / no
-  sentence over 60 / no one-sentence prose paragraphs / "the way" x2 (one
+  sentence over 60 / no one-sentence prose paragraphs [clause reworded s43: the 60-word sentence cap is the rule; short one-line beat paragraphs are allowed] / "the way" x2 (one
   simile, one plain).
 - Mirrors synced same turn: STATUS_PANEL (header, edge, figures, kills,
   territory, next beats -> ch17, last action), HIS_STATUS_PANEL (edge + ch16
   close), ADAPTATION_LOG, SERIAL_LOG, README, KNOWLEDGE_FIREWALLS, PLACES,
   TIMELINE, GLOSSARY, CONTINUITY.
+
+### Session 43 — 2026-09-21 (CHAPTER 17 — The Long Wet; and the measure bug, found and fixed)
+- Author, verbatim: " Continue " — the third consecutive go, per the panel's
+  next-beats.
+- WRITTEN: chapters/Chapter_17_The_Long_Wet.md — the watch by the pan through
+  the spring wet. The line: the watch set before the mud sets; days all the
+  same; the wire takes a young ox of the low country (not what it was set
+  for); the white light risen, standing, boxed; Old Qin's reading and ruling —
+  no line gained for a season of rain, and THE LOW WATER WATCH set for when the
+  flats come out. Him: the flood takes the low country and he takes the stone;
+  the rain's hours learned (crossing only in the downpour, the print slumping
+  and filling); two kills passed up and a lean wet; their smoke read from far
+  off and the four stones' meaning closed; the struck watch read ten days on —
+  NOT ONE PRINT OF HIS.
+- Scope held from the first draft: 2,967 words (budget 2,400-3,000); plain
+  words (retired scan: one hit, the literal light colour "white" — the
+  ten-year tier, not the retired noun); zero count-numbers in prose (the ox's
+  age was moved out of the prose to the panel); "the way" x0 formulaic.
+- Gates: verify.py PASS (2,967 prose words, 50 spoken lines); project sweep
+  PASS (17/17 chapters carry footers; ch1 the recorded no-voices exception);
+  counts 16.9 spoken lines per 1000w / average 17.4 / median 13 / longest 57.
+- THE MEASURE BUG (found this session; fixed everywhere in place): the
+  one-sentence-paragraph check used since the s35 house-grammar work stripped
+  trailing punctuation from the paragraph before testing for it, so it could
+  never fire. Consequence: every chapter footer from s37 to s42, the panels
+  and the logs claimed "no one-sentence paragraphs" while the serial has
+  carried short one-line beat paragraphs all along (measured: 26 across
+  ch4–ch17; ch15 has 9, ch16 has 6, ch13 has 4). RULING (standing delegation,
+  2026-09-20): short one-line beat paragraphs are house style and ALLOWED; the
+  thing the house bars — the monster single-sentence paragraph — is already
+  barred by the 60-word sentence cap. Fixed: RAILS (four clauses reworded),
+  STATUS_PANEL and HIS_STATUS_PANEL (claims corrected), SERIAL_LOG and
+  HIS_STATUS_PANEL historical lines (bracketed with the correction, kept as
+  record), and every chapter footer 1–16 (the false clause removed). Added
+  tools/measure_prose.py as the corrected, honest measure for all future
+  chapters; footers now state only what that measure proves.
+- Mirrors synced same turn: STATUS_PANEL (header, edge, figures + the OPEN
+  flag, kills, territory, next beats -> ch18, last action), HIS_STATUS_PANEL,
+  ADAPTATION_LOG, SERIAL_LOG, README, KNOWLEDGE_FIREWALLS, PLACES, TIMELINE,
+  GLOSSARY, CONTINUITY, OPEN (item 19: hatch year vs month-count, flagged).

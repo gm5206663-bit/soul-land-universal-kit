@@ -1,5 +1,5 @@
 # HIS STATUS PANEL — clean sheet
-Live after Chapter 16 (DL 3665, the summer — the line walked the high ground on the hound's word, read one print out of the whole wet season, and made the pan their watch; he read their work, took the lesson, and now prints nothing).
+Live after Chapter 17 (DL 3666, the spring wet — the line watched the marked pan through the rain and took only an ox in their own wire; he lived the wet on stone, learned the rain's hours, and paid a lean season for printing nothing).
 DERIVED SHEET — mirrors foundation/STATUS_PANEL.md (the single status source,
 per kit 02) and ADAPTATION_LOG; updated each chapter. If this sheet and
 STATUS_PANEL ever disagree, STATUS_PANEL is right and this sheet is stale.
@@ -269,8 +269,7 @@ marked [design] and belong to the author to correct.
 - THE WANT: wakened patient at the turning of the season — unhurried, wanting
   the deep years (DS-08 uncured, ridden).
 - Counts (s40, after the plain-language rewrite): 2,564 body words; 32 spoken
-  lines, 12.5 per 1000w; average 17.7 words per sentence, longest 54; no
-  one-sentence paragraphs.
+  lines, 12.5 per 1000w; average 17.7 words per sentence, longest 54. [clause reworded s43: the 60-word sentence cap is the rule; short one-line beats allowed]
 
 ## Chapter 14 close — the deep country's second winter (DL 3664–65; real age ≈ 68–70 months)
 - THE SIGN'S SECOND EDGE: the pale beast of the deep fringe follows his lie-kills
@@ -283,8 +282,7 @@ marked [design] and belong to the author to correct.
 - THE WATCH PULLED OFF HIS GROUND: the pale beast broke one of their folds and
   killed a man; the keepers' line now carries a wrong face and walks south.
 - Counts (s40, after the plain-language rewrite): 3,169 body words; 38 spoken
-  lines, 12.0 per 1000w; average 17.2 words per sentence, longest 46; no
-  one-sentence paragraphs.
+  lines, 12.0 per 1000w; average 17.2 words per sentence, longest 46. [clause reworded s43: the 60-word sentence cap is the rule; short one-line beats allowed]
 
 ## Chapter 15 close — the thaw on the taken low ground (DL 3665; real age ≈ 71–73 months)
 - THE SOUTH SEEN FROM THE RIDGE: the thaw; the camps on his ground down; one
@@ -306,7 +304,7 @@ marked [design] and belong to the author to correct.
 - THE DEEP FOREST: unchanged all season; the pull toward the ground under the
   greatnesses far off and the same.
 - Counts (s41): 2,686 body words; 51 spoken lines, 19.0 per 1000w; average 15.0
-  words per sentence, longest 53; no one-sentence paragraphs.
+  words per sentence, longest 53; no one-sentence paragraphs [clause reworded s43: the 60-word sentence cap is the rule; short one-line beat paragraphs are allowed].
 
 ## Chapter 16 close — the summer on the taken ground (DL 3665; real age ≈ 74–76 months)
 - THE SUMMER: the low country hunted as his own; the water falling to pools and
@@ -328,4 +326,31 @@ marked [design] and belong to the author to correct.
   he does not know the whole of what they said.
 - THE SOUTH AND THE NORTH UNCHANGED; the hunger patient; the barrier unfelt.
 - Counts (s42): 2,791 body words; 48 spoken lines, 17.2 per 1000w; average 17.1
-  words per sentence, longest 57; no one-sentence paragraphs.
+  words per sentence, longest 57; no one-sentence paragraphs [clause reworded s43: the 60-word sentence cap is the rule; short one-line beat paragraphs are allowed].
+
+## Chapter 17 close — the wet lived on stone (DL 3666; real age ≈ 83–85 months)
+- THE WET AND THE WATCH: the spring rain comes up the country and holds; the
+  line comes back to the marked pan before the mud sets (wire on both ways
+  onto it, the lean-to, the four stones standing); the pan is left alone to
+  take whatever walks.
+- THE FLOOD TAKES HIS GROUND: the streams over their banks; the low country
+  one brown sheet; the flood's first gift (two of the slow kind stranded on
+  the ridges, taken without a fight) and then the meat gone; he takes the
+  stone and the ravine den; hungry inside a week.
+- THE RAIN'S HOURS: open ground only in the heaviest rain, where his own
+  print slumps and fills inside the hour; the long way by the rock bars; two
+  kills passed up and one mud-island beast left standing; thin again; the
+  hunger using the thin weeks.
+- THE WIRE AND THE WHITE LIGHT (the line's night, read by him only as ground
+  afterwards): a young ox of the low country drowned out of the flats, come
+  up onto the high ground and dead in the wire in the dark; its white light
+  rose and stood in the rain; boxed and carried down to the tables.
+- OLD QIN'S RULING AND THE LOW WATER WATCH: the watch held the pan and no
+  line was gained for a season of rain; when the flats come out, the line
+  watches the LOW WATER — the net moves onto his summer ground.
+- HE READS THE STRUCK WATCH: ten days after; their whole season baked into
+  the pan (hound circles, poles, boots, the ox's smeared track) and NOT ONE
+  PRINT OF HIS; the trick's price paid for a whole wet; the bare-rock border
+  rule; the wet ends and the low country is his again.
+- Counts (s43): 2,967 body words; 50 spoken lines, 16.9 per 1000w; average
+  17.4 words per sentence, longest 57; one short one-line beat paragraph.

@@ -27,3 +27,5 @@ Law: a place gets its row when the story touches it.
 | The low country (his taken ground) | the ground the line left at the thaw; taken by him (ch15) — no camp, no rival heavy beast, the meat coming down to the new water, the road between the men's country and the deep forest | [design, on page] |
 | The high ground and the marked pan | stone, dry grass and baked pans above the low country; the pan took his one print in the wet and was marked with four stones by the line (ch16) — the watch for the next spring | [design, on page] |
 | The rock bars | the crossings on the upper streams where water runs over stone — his way over since he stopped printing (ch16) | [design, on page] |
+| The flooded low country | the spring flood of DL 3666 — the streams over their banks and the flats one brown sheet (ch17); he walks only its edges; dry again by the close, when the flats come out | [design, on page] |
+| The ravine den | high rock in the outer forest with the stream past the mouth — his wet ground while the low country was under water (ch17) | [design, on page] |

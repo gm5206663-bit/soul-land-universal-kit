@@ -1,4 +1,4 @@
-# KNOWLEDGE FIREWALLS (kit 06) — who knows what; updated through Chapter 16
+# KNOWLEDGE FIREWALLS (kit 06) — who knows what; updated through Chapter 17
 
 ## HE (the dragon) MAY KNOW
 - Everything his senses and the ledger have read, on-page: his country, then
@@ -46,20 +46,23 @@
   pan, THE ONE PRINT read by Xiao An (stood in the setting mud, no roll, facing
   down at the south), the casts off stone and stream, Old Qin's ruling that one
   print with no face is not a line — THE PAN IS THE WATCH: four stones set, the
-  younger man's first watch promised for the next wet.
+  younger man's first watch promised for the next wet; ch17: THE WATCH BY THE
+  PAN — the watch kept through the wet, the wire's only catch a young ox of the
+  low country (not what it was set for; the white light boxed for the tables),
+  the pan proved nothing else; Old Qin gained no line for a season of rain and
+  SET THE LOW WATER WATCH for when the flats come out — the net moves onto the
+  dragon's summer ground.
 - Must not (without earned route): HIS existence — the veiling is the wall;
   if they ever learn of it must be earned on-page (a broken veiling, a
-  witnessed kill, a report). As of ch16: STILL NOTHING of him on any paper, and now the ground itself is
-  watched (the marked pan takes a print from anything that walks it in the wet;
-  he has stopped printing — the long way, the rock bars, the bare stone). The
-  men have a place, a shape and a watching plan; the hound carries the old
-  scent. — the men believe the mark has a
-  FACE, and the face belongs to the pale beast; the hound's third reading put
-  it standing over ground that carries his old scent in front of all four of
-  them, and it is still unwritable (no print, no blood, nothing to see), and
-  the summer walk is now the only thing pointed his way. The dragon never
-  hears, never sees; any crossing left no print. That resolution is canon for
-  the firewall.
+  witnessed kill, a report). As of ch17: STILL NOTHING of him on any paper. The
+  men believe the mark has a FACE, and the face belongs to the pale beast; the
+  hound's third reading (ch15) and its fourth season of work (ch16–ch17) put
+  the unwritable scent ahead of a living beast and ahead of a marked pan, and
+  neither availed: the pan took nothing of his through the whole wet. The line
+  now carries a method (the watch), a place (the marked pan) and a window (the
+  low water when the flats come out) — and still has no beast. The dragon
+  never hears, never sees; any crossing left no print. That resolution is
+  canon for the firewall.
 
 ## THE GREATNESS PAST HIS READING
 - Knows the dragon-word read in him (ch9). Nothing else is staged; its

@@ -106,7 +106,7 @@ He marked it that evening. He set his sign in the ground above the water where t
 
 ## Footer
 
-- Word count (body): 2,795 (verify.py, s37 gate). Spoken dialogue: 27 lines (9.7 per 1000w). Prose metrics (s35 house-grammar method, prose-only): average 16.0w, median 12w, longest 53w; no sentence over 60w; no one-sentence paragraphs; motif word "the way" x1.
+- Word count (body): 2,795 (verify.py, s37 gate). Spoken dialogue: 27 lines (9.7 per 1000w). Prose metrics (s35 house-grammar method, prose-only): average 16.0w, median 12w, longest 53w; no sentence over 60w; motif word "the way" x1.
 - Chapter time: DL 3664 thaw → green season (real age ≈ 54 → ≈ 58–60 months; exact figures panel-only).
 - Gate: standing delegation (2026-09-20). THE PARALLEL PANEL: one short panel only this chapter, at the winter place (the author's s34 ruling: panels only when needed — a reader's-side scene the beast cannot carry, kept short, never a planning re-tell). The dragon never hears, never sees; separate scene, separate hour; the firewall stands.
 - s34 correction (2026-09-20; author, verbatim: "i can't read few lines before i disgusted by how bad is this... THE PARALLEL PANEL when needed what you don't have common sense" ): THE CHAPTER REWRITTEN IN FULL in plain scene register — short sentences, real scenes (the antler's kill-ground read; the race and the kill of the thick-paw shown moment to moment; the two reds at the meal; the craft's word set in the ground), the abstraction vocabulary cut back to rare motifs, the old single-register mannered prose removed. Story beats held: the smoke-line gone; the second line taken in other hands; the race won in the window of their going; the thick-paw taken; the kill-sign placed; the list's decision toward the old bull.

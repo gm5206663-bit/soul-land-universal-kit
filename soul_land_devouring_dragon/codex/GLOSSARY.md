@@ -119,3 +119,17 @@ labels only, where their meaning is defined.
   bare stone, the mud flats left to the grazing kind. He prints nothing for the
   men who can now read him; twice that summer he passed up a kill rather than
   cross soft mud, and went a day hungry.
+
+- **The pan's first watch (the wet of DL 3666)** — the line's watch by the four
+  stones through the spring wet (ch17): the wire on both ways onto the pan, the
+  lean-to, three people and a hound, day after day of rain. Its whole catch was
+  a young ox of the low country drowned out of the flats and blundered into the
+  wire; its light (white, ten-year thin) went into the box for the tables. The
+  pan itself proved nothing: no heavy track but the ox's, and nothing at all of
+  the beast of the one print. Old Qin's ruling: the count carries what the
+  ground can prove, and a season of rain proves nothing — so the paper gained
+  no line, and the watching moved to the water.
+- **The low water watch** — Old Qin's ruling at the close of the ch17 wet: when
+  the flats come out through the summer, the line watches the low water, where
+  everything that walks the country must come to drink. The net now lies on the
+  dragon's own summer ground (ch17, stated; not yet worked on the page).

@@ -79,8 +79,9 @@ Measured across every project in this workspace: the house norm is sentence
 average 19-30 words with 10-20 spoken lines per thousand words. The Devouring
 Dragon serial was the single outlier (average 45, longest 250, dialogue 0.8 per
 thousand -- twenty times less dialogue than Soul Land 2). Binding targets:
-1. Sentence average <= 25 words per chapter; no sentence over 60; no
-   one-sentence paragraphs.
+1. Sentence average <= 25 words per chapter; no sentence over 60 (the cap is
+   what bars the monster single-sentence paragraph; short one-line beat
+   paragraphs are house style and allowed — ruling s43, 2026-09-21).
 2. Dialogue >= 8-10 spoken lines per thousand words wherever a human-side scene
    exists; chapters with human-side beats always carry that scene on the page at
    house density (voices are how this fandom reads). No human side at all only
@@ -113,12 +114,12 @@ and each chapter closed on a second telling of its own events. Binding rules:
 5. SKIP. Material that changes nothing — a second reading of ground already
    read, a third example of a lesson already learned, scenery between two beats
    that carries neither — is left out. The author's word: "you can skip".
-6. ALL HARD RULES STAND (registers, dialogue density, no one-sentence
-   paragraphs, sentence caps, panel law, firewall, figure law). Cutting is done
+6. ALL HARD RULES STAND (registers, dialogue density, the sentence cap, panel
+   law, firewall, figure law). Cutting is done
    by removing explanation, never by removing the scene.
 Receipt of the first application (s39): ch13 4,008 → 2,728 words (−32%), ch14
 4,673 → 3,267 (−30%); both re-gated PASS, dialogue 11.7 and 11.6 spoken lines
-per 1000w, no sentence over 60, no one-sentence paragraphs. Nothing was added.
+per 1000w, no sentence over 60. Nothing was added.
 
 
 ## PLAIN LANGUAGE LAW — "write clear that can be understood" (author correction, session 40, 2026-09-21)
@@ -144,5 +145,8 @@ same cold... their folds ... the white ... the fringe"). This law kills that.
    defect. (s40 receipt: ~350 substitutions across chapters 1-12 plus full plain
    rewrites of 13 and 14; zero retired words left in any chapter prose.)
 6. Everything else stands unchanged: SCOPE LAW, house grammar, the five registers,
-   dialogue density, sentence caps, no one-sentence paragraphs, the figure law,
-   the panel law and the knowledge firewall.
+   dialogue density, the sentence cap, the figure law, the panel law and the
+   knowledge firewall. (The phrase "no one-sentence paragraphs [clause reworded s43: the 60-word sentence cap is the rule; short one-line beat paragraphs are allowed]" was removed
+   everywhere s43: measured, the serial carries short one-line beat paragraphs
+   as house style, and the monster single-sentence paragraph is already barred
+   by the 60-word cap.)
