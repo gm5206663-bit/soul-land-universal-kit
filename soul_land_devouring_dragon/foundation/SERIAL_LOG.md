@@ -1562,7 +1562,9 @@ One entry per working session. Newest at the bottom.
 - Mirrors synced same turn: STATUS_PANEL, HIS_STATUS_PANEL, ADAPTATION_LOG,
   SERIAL_LOG, README, KNOWLEDGE_FIREWALLS, PLACES, TIMELINE, GLOSSARY,
   CONTINUITY, RAILS, plus the kit's verify.py and the workshop copy.
-- STILL OPEN (flagged, not silently left): chapters 11 and 12 are LEGACY human-arc
-  chapters (100% / 77% men) written before this ruling. They are the next
-  rebuild in the same manner, queued first for the coming sessions, and are
-  listed in the panel's next-beats as a debt against the s45 law.
+- OLDER CHAPTERS — SETTLED THE SAME DAY. This entry first queued chapters 11
+  and 12 (the two heaviest human-arc chapters) for a legacy rebuild. The author
+  answered, verbatim: "Hey please skip this nonsense" (2026-09-21). RULING: no
+  backward work. Every chapter written before the s45 ruling stands as written;
+  the panel law binds the serial going forward. The rebuild note was struck from
+  the panel's next-beats so it cannot return as a to-do.

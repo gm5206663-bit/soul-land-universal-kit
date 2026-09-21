@@ -154,6 +154,11 @@ you think whom stroy we writeing"
    dialogue gate that demanded three spoken lines of every chapter. House
    grammar's other caps (average <= 25, none over 60, scene-first, >= 2 small
    finished scenes, motif words as texture) all stand.
+7. SCOPE — FORWARD ONLY (author's word, s45, verbatim: "Hey please skip this
+   nonsense"). The law binds the serial from here on. Chapters written before
+   this ruling stand as written; nothing earlier is queued for rebuild, and no
+   older chapter is raised again as pending work. (Chapters 15-18 were rebuilt
+   the same session because the author had asked for that fix.)
 
 ## PACING LAW — "skip when thing is same" (author word, session 44, 2026-09-21)
 Author, verbatim: "Hey don't make too much boring,skip when thing is same skip when he reaches

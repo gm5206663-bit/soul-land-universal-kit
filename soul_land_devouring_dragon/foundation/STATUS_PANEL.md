@@ -233,9 +233,8 @@ no leaps.
   spends under the deep forest's eaves; the pale beast's road read south and
   whether he crosses it; or the year the standing lights' country stirs a
   little closer). Author's word picks the anchor; nothing staged without it.
-- DEBT AGAINST THE s45 LAW (flagged, not hidden): chapters 11 and 12 are legacy
-  human-arc chapters (measured 100% and 77% men) written before this ruling;
-  they are queued for the same beast-first rebuild, first in line.
+- NO BACKWARD WORK (author's ruling, s45 — "skip this nonsense"): the chapters
+  written before this law stand as written; nothing earlier is queued.
 - No chapter drafting until the author says so.
 
 ## Last action
