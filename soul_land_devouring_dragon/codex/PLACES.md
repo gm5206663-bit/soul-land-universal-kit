@@ -25,3 +25,5 @@ Law: a place gets its row when the story touches it.
 | The killing ground of the pale beast | the shelf of old rock in the low fringe where the dragon read the beast and spent one aimed word (ch14) | [design, on page] |
 | The south watch ground | the low trail below the shelf of old rock, where the line set its watch on the pale beast's chosen ground and the beast came to the bait in daylight (ch15: wire stepped, blind read, no light for the box) | [design, on page] |
 | The low country (his taken ground) | the ground the line left at the thaw; taken by him (ch15) — no camp, no rival heavy beast, the meat coming down to the new water, the road between the men's country and the deep forest | [design, on page] |
+| The high ground and the marked pan | stone, dry grass and baked pans above the low country; the pan took his one print in the wet and was marked with four stones by the line (ch16) — the watch for the next spring | [design, on page] |
+| The rock bars | the crossings on the upper streams where water runs over stone — his way over since he stopped printing (ch16) | [design, on page] |

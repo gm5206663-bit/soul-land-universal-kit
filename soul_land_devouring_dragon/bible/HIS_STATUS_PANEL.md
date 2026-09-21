@@ -1,5 +1,5 @@
 # HIS STATUS PANEL — clean sheet
-Live after Chapter 15 (DL 3665, the thaw — the south season closed: the pale beast seen and counted, the paper held with no light for the box, the hound's third reading, and the low country taken as his ground).
+Live after Chapter 16 (DL 3665, the summer — the line walked the high ground on the hound's word, read one print out of the whole wet season, and made the pan their watch; he read their work, took the lesson, and now prints nothing).
 DERIVED SHEET — mirrors foundation/STATUS_PANEL.md (the single status source,
 per kit 02) and ADAPTATION_LOG; updated each chapter. If this sheet and
 STATUS_PANEL ever disagree, STATUS_PANEL is right and this sheet is stale.
@@ -307,3 +307,25 @@ marked [design] and belong to the author to correct.
   greatnesses far off and the same.
 - Counts (s41): 2,686 body words; 51 spoken lines, 19.0 per 1000w; average 15.0
   words per sentence, longest 53; no one-sentence paragraphs.
+
+## Chapter 16 close — the summer on the taken ground (DL 3665; real age ≈ 74–76 months)
+- THE SUMMER: the low country hunted as his own; the water falling to pools and
+  holding the slow kind at it; kills kept off the trail; the hunger the same and
+  only carried.
+- THE LINE'S SUMMER WALK: four men and the hound came back north; he watched
+  them pass along his own trail without moving; on the high ground the hound
+  stopped at a dried pan and Xiao An read the ONE PRINT (the beast had stood in
+  the setting mud and looked down at the south where their fires had been);
+  Gao Tie cast both ends — stone and stream; the print is not the pale beast's.
+- THE PAN BECOMES THE WATCH: Old Qin would not write one print with no face and
+  no kill; four stones mark the place; next spring before the mud sets, the line
+  watches it (the younger man has the first watch).
+- HE PRINTS NO MORE (the turn): he read their stopped places and the hound's two
+  lines and the men's knees beside his own print, and gave up writing for them —
+  the pan untouched, the long way after (rock bars, bare stone, mud flats left
+  alone), two kills passed up and a day hungry twice; the cost paid.
+- THE STONES: men set a thing down in the open and walk away only to come back;
+  he does not know the whole of what they said.
+- THE SOUTH AND THE NORTH UNCHANGED; the hunger patient; the barrier unfelt.
+- Counts (s42): 2,791 body words; 48 spoken lines, 17.2 per 1000w; average 17.1
+  words per sentence, longest 57; no one-sentence paragraphs.

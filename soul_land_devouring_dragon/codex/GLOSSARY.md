@@ -109,3 +109,13 @@ labels only, where their meaning is defined.
   the line writes the beast the ground can prove (the pale beast, seen and
   counted) and comes home with no light for the lodge's table for the first
   time.
+
+- **The pan (the watch by the four stones)** — the dried pan on the high ground
+  that took his one print in the wet season (ch16). The line marked it with four
+  stones; it is watched next spring before the mud sets, because the pan writes
+  down whatever walks on it. Old Qin's ruling: one print with no face and no
+  kill is not a line, so the pan is where the next line will come from.
+- **The long way** — his way after ch16: crossings at the rock bars, ridges of
+  bare stone, the mud flats left to the grazing kind. He prints nothing for the
+  men who can now read him; twice that summer he passed up a kill rather than
+  cross soft mud, and went a day hungry.

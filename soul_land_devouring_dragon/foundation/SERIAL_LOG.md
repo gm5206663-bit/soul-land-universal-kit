@@ -1425,3 +1425,27 @@ One entry per working session. Newest at the bottom.
   beats -> ch16, last action), HIS_STATUS_PANEL (edge + ch15 close),
   ADAPTATION_LOG, SERIAL_LOG, README, CREATURES, KNOWLEDGE_FIREWALLS, PLACES,
   TIMELINE, GLOSSARY, CONTINUITY.
+
+### Session 42 — 2026-09-21 (CHAPTER 16 — The One Print)
+- Author, verbatim: " Continue " — the second consecutive go, per the panel's
+  next-beats.
+- WRITTEN: chapters/Chapter_16_The_One_Print.md — the summer delivered: the low
+  country hunted as his own; the line comes back north and he lets them walk his
+  own trail; the summer walk on the high ground; the hound's stop at the dried
+  pan; the ONE PRINT read by Xiao An (the beast had stood and looked south); the
+  casts off stone and stream; Old Qin's ruling — the PAN IS THE WATCH (four
+  stones, first watch promised for the next wet); and the turn — HE PRINTS NO
+  MORE, the long way after, the cost paid.
+- Scope held from the first draft (not cut later): 2,791 words (budget
+  2,400-3,000); no explanation layer; no closing re-tell; plain words (zero
+  retired words in the prose; "the green" fixed to "summer" before the footer
+  was set — the s40 rule caught it at the measure step).
+- Gates: verify.py PASS (2,791 prose words, 48 spoken lines); project sweep PASS
+  (16/16 chapters carry footers; ch1 the recorded no-voices exception); counts
+  17.2 spoken lines per 1000w / average 17.1 / median 15 / longest 57 / no
+  sentence over 60 / no one-sentence prose paragraphs / "the way" x2 (one
+  simile, one plain).
+- Mirrors synced same turn: STATUS_PANEL (header, edge, figures, kills,
+  territory, next beats -> ch17, last action), HIS_STATUS_PANEL (edge + ch16
+  close), ADAPTATION_LOG, SERIAL_LOG, README, KNOWLEDGE_FIREWALLS, PLACES,
+  TIMELINE, GLOSSARY, CONTINUITY.

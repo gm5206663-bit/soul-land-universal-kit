@@ -2,7 +2,8 @@
 CLEAN GLANCEABLE SHEET OF HIM (identity, cultivation, body/height, attributes,
 skills, combat power vs normal soul beasts): bible/HIS_STATUS_PANEL.md
 (author s23 request; updated each chapter).
-Updated: 2026-09-21 (session 41 — CHAPTER 15 "The Hound's Third Time" WRITTEN AND GATED: 2,686w / 51 spoken lines (19.0 per 1000w) / average 15.0 / longest 53; no sentence over 60; no one-sentence paragraphs; the queued beats delivered — the thaw, the south watch on the pale beast's chosen ground, the beast come to the meat, THE HOUND'S THIRD TIME, the paper held with NO light for the box, the low country taken; every mirror synced same turn).
+Updated: 2026-09-21 (session 42 — CHAPTER 16 "The One Print" WRITTEN AND GATED: 2,791w / 48 spoken lines (17.2 per 1000w) / average 17.1 / longest 57; no sentence over 60; no one-sentence paragraphs; the summer walk delivered — the line comes back north, the hound stops at the dried pan, the ONE PRINT, the pan made the watch (four stones), the dragon reads it and PRINTS NO MORE; every mirror synced same turn).
+Session 41 — CHAPTER 15 "The Hound's Third Time" WRITTEN AND GATED: 2,686w / 51 spoken lines (19.0 per 1000w) / average 15.0 / longest 53; no sentence over 60; no one-sentence paragraphs; the queued beats delivered — the thaw, the south watch on the pale beast's chosen ground, the beast come to the meat, THE HOUND'S THIRD TIME, the paper held with NO light for the box, the low country taken; every mirror synced same turn).
 Session 40 — PLAIN LANGUAGE LAW: the private vocabulary
 was removed from the prose of all 14 chapters. Chapters 13-14 rewritten in plain
 words (ch13 2,564w / 32 spoken lines / average 17.7; ch14 3,169w / 38 / 17.2),
@@ -31,44 +32,44 @@ numbers.
 - Serial scope; natural length; NATURAL ENDING (none pre-chosen).
 
 ## Now
-LIVE EDGE: after Chapter 15 "The Hound's Third Time" (DL 3665, the thaw after the
-deep country's second winter; real age ≈ 71–73 months). THE THAW AND THE EMPTY
-GROUND: water under the den; the camps on his ground down; one smoke line still
-south and he does not go down while it stands. THE SOUTH WATCH ON THE PALE
-BEAST'S CHOSEN GROUND: four days on the low trail where the wide pads cross,
-below the shelf of old rock; bait killed and left standing (his own trick,
-learned from him); the wire, the blind, the hound staked by the water. THE PALE
-BEAST COME TO THE MEAT: it steps the wire, stops short of the kill, reads the
-blind, eats the bait in the open in daylight and walks off south unhurried —
-SEEN AND COUNTED by the line. THE HOUND'S THIRD TIME (the chapter's pivot): the
-first reading at the summer water (ch12), the second on the high ground in the
-cold (ch14); the third time it LEAVES A LIVING BEAST to stand over a patch of
-ground it will not come off; Gao Tie ("I have never known her to lie"); the
-younger man ("A smell is not a beast"); Xiao An walks the patch and finds
-nothing to see. THE PAPER HOLDS AND THE LIGHT-BOX STAYS EMPTY: Old Qin's ruling
-— the list carries what the ground can prove; the seen and counted beast goes
-down with the place under it and the old lodge man's name and pay under that;
-NO LIGHT this season; the summer promise — Xiao An will walk the high ground
-where the hound points, in front of Old Qin. THE LOW COUNTRY TAKEN: he reads
-the emptied watch in one walk (including the worn circle of a hound that would
-not leave a patch of ground he cannot read); the ground open — no camp, no
-rival heavy beast, the meat coming down to the new water, the road between the
-men's country and the deep forest; his own quiet over it; the first kill on it,
-the rest dragged off the trail. THE WANT'S PATIENCE ASKED AGAIN: the hunger
-stands up at every meal and he only carries it now (DS-08 uncured). THE DEEP
-FOREST UNCHANGED: the greatnesses' country had not moved all season; the pull
-toward the ground under them far off and the same. THE WALL at cultivation-year
-1,000: far, unfelt. Closing image: the hound goes down the country with the
-men — it has smelled him three times, and nothing about him is written
-anywhere. Talent never named; no leaps.
+LIVE EDGE: after Chapter 16 "The One Print" (DL 3665, the summer after the thaw;
+real age ≈ 74–76 months). THE SUMMER ON THE TAKEN GROUND: the heat and the
+falling water; the low country hunted as his own ground (the grazer at the lower
+pool; kills kept off the trail; the crows paid); the hunger the same and only
+carried. THE LINE COMES BACK NORTH: smoke on the south wind in the middle of the
+summer; he reads them three days out; he watches them walk his own trail and
+does not move (a beast who moves in front of men is a beast they follow); the
+hound's night half-circle at the camp edge and his quiet at its last limit.
+THE SUMMER WALK ON THE HIGH GROUND: stone, dry grass and baked pans; three days
+of nothing; the hound's stop at the dried pan and Xiao An's read — the print
+stood in the mud while it set, no roll in it, the beast looking down at the
+south where their fires had been; Gao Tie's casts off both ends (stone and
+stream; she will not cross running water); NOT the pale beast — narrower,
+heavier in front, and it had walked a whole season and left one print. THE PAN
+BECOMES THE WATCH: Old Qin's ruling — one print with no face and no kill is not
+a line; the pan is marked with four stones and watched next spring before the
+mud sets; the younger man gets the first watch, promised. HE PRINTS NO MORE
+(the chapter's turn): he reads their stopped places, the hound's two lines, the
+men's knees in the dust beside his own print, and takes the lesson whole — they
+can read him now; he will not write for them again; the pan gets nothing; THE
+LONG WAY — crossings at the rock bars, ridges of bare stone, mud flats left to
+the grazing kind, twice a kill passed up and a day gone hungry (the cost paid).
+THE STONES BY THE PAN: men set a thing down in the open and walk away only when
+they mean to come back; he does not know the whole of what they said. THE SOUTH
+AND THE NORTH UNCHANGED: the pale beast on its own ground with his roar
+unreturned; the deep forest the same; the pull the same and as far off. THE WALL
+at cultivation-year 1,000: far, unfelt. Closing image: the summer ends with him
+walking on stone — the pan holding its one print beside the four stones, and he
+has already chosen where he will walk when they come back. Talent never named;
+no leaps.
 
 ## Exact figures (panel law)
-- REAL AGE: ≈ 71–73 months (hatched late summer DL 3661; through DL 3663,
-  DL 3664 and the deep country's second winter to the thaw of DL 3665 — the
-  ch15 season lived on the taken low ground).
-- CULTIVATION-AGE (SB-01 — NOT the same as real age): ESTIMATE ≈ 195–210
-  years — HUNDRED-YEAR CLASS; the winter's heavy meals and the thaw's new
-  ground moved it; the aimed word's spend (ch14) is not a gain. FIRST BARRIER
+- REAL AGE: ≈ 74–76 months (hatched late summer DL 3661; through DL 3663,
+  DL 3664, the deep country's second winter and the thaw to the green of
+  DL 3665 — the ch16 summer lived on the taken low ground).
+- CULTIVATION-AGE (SB-01 — NOT the same as real age): ESTIMATE ≈ 200–215
+  years — HUNDRED-YEAR CLASS; the winter's heavy meals and the summer's meat
+  on the low water moved it; the aimed word's spend (ch14) is not a gain. FIRST BARRIER
   at cultivation-year 100: CROSSED. Next barrier at cultivation-year 1,000
   (SB-03), unaged, unfelt. NO clock (s7); estimates move with events. No
   leaps. (The duplicated tail this line carried since s34 was removed s41.)
@@ -94,7 +95,12 @@ anywhere. Talent never named; no leaps.
   the meat eaten deep and the rest left as a word), and the season's small
   quiet hunting on hard ground; THE LOW COUNTRY GRAZERS OF THE THAW [design]
   (the first meat on the taken ground — the slow heavy kind coming down to the
-  new water; taken at the bank, no fight, the rest dragged off the trail).
+  new water; taken at the bank, no fight, the rest dragged off the trail); THE
+  WATER-EDGE GRAZERS OF THE SUMMER [design] (the green's meat on the taken
+  ground — the low water falling to pools and holding the slow kind at it; the
+  old thin one taken at the lower pool at dusk, no fight; kills kept off the
+  trail); two kills PASSED UP through the summer rather than cross soft mud
+  (the price of printing no more).
   Territory: scree slope → roots-house → the
   ravine den (deep outer forest) → THE BLACK-RAVINE SERPENT'S GROUND CROSSED
   (rim-path, in the weight's stillness) → A NEW HOLLOW in the deep country
@@ -102,7 +108,10 @@ anywhere. Talent never named; no leaps.
   WATCH-FOLDS GIVEN UP UNENTERED (the keepers' line's ground; he never crossed
   their wire) → THE EDGE OF THE DEEP PLACE (walked between the standings; the
   voice spent there once) → THE LOW COUNTRY TAKEN (ch15 — the ground the line
-  left at the thaw; the road between the two countries; his own quiet over it).
+  left at the thaw; the road between the two countries; his own quiet over it)
+  → THE HIGH GROUND KEPT OFF (ch16 — he will not cross soft pans; the long way
+  by rock bars and bare stone; the pan with the one print and the line's four
+  stones is a place he walks around).
 
 - Ring-of-himself if killed now (SB-06): a YELLOW ring of hundred-year class
   — real worth to a hunter now; his worth to them grows with his years.
@@ -192,18 +201,28 @@ anywhere. Talent never named; no leaps.
   after; NO growth-rate clock.
 
 ## Next beats (author-gated)
-- Chapter 16 (on the author's go; SCOPE LAW in force — 2,400-3,000 words, no
-  explanation layer, skip what changes nothing): the summer comes up the
-  country — the keepers' line returns north and walks where the hound points
-  (Xiao An in front, Old Qin behind her), on ground that holds a print in the
-  warm months; what the ground shows them, and what the list does with it; the
-  dragon hunting his taken low ground through the summer; the roar's fate in
-  the pale beast, somewhere south, unreturned; the want asked again; the
-  rankings of the deep place unchanged (nothing staged); the wall at 1,000 far,
-  unfelt.
+- Chapter 17 (on the author's go; SCOPE LAW in force — 2,400-3,000 words, no
+  explanation layer, skip what changes nothing): THE WATCH BY THE PAN — the
+  next spring's wet, and the two of them up on the high ground before the mud
+  sets (the younger man has the first watch; the wire goes up); what the pan
+  takes and what the line does with it; and the other side of it — the dragon,
+  who now prints nothing, on the long way, with the wet's water running and the
+  high ground forbidden; the deep forest unchanged (nothing staged); the wall
+  at 1,000 far, unfelt.
 - No chapter drafting until the author says so.
 
 ## Last action
+Session 42 (2026-09-21; author, verbatim: " Continue " — the second consecutive
+go): CHAPTER 16 "The One Print" written and shipped. The summer delivered: the
+line back on the high ground; the hound's stop at the dried pan; the ONE PRINT
+read by Xiao An (the beast had stood and looked south); Gao Tie's casts off
+stone and stream; Old Qin's ruling — the pan becomes the watch with four stones
+and the first watch promised; the dragon reads the ground after them and takes
+the turn (HE PRINTS NO MORE — the long way by rock bars and bare stone, two
+kills passed up). Written plain from the first draft (s39 + s40 laws); 2,791
+words, 48 spoken lines, average 17.1, longest 57; verify.py PASS; project sweep
+PASS (16/16 footers); all mirrors synced same turn; pushed to GitHub.
+
 Session 41 (2026-09-21; author, verbatim: " Continue " — the go for the queued
 chapter): CHAPTER 15 "The Hound's Third Time" written and shipped. The south
 delivered: the thaw and the empty ground; the watch set on the pale beast's

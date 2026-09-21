@@ -796,3 +796,36 @@ body). The Talent is never named; deltas record its RESULTS.
 - Cultivation (panel; no clock, s7): REAL AGE ≈ 71–73 months; CULTIVATION-AGE
   ESTIMATE ≈ 195–210 (the winter's heavy meals and the thaw's new ground). Next
   barrier at cultivation-year 1,000 — far, unfelt. No leaps.
+
+## ch16 (DL 3665 — the summer; the author's second " Continue ")
+- THE SUMMER ON THE TAKEN GROUND: the low country hunted as his own (the old thin
+  grazer taken at the lower pool at dusk; kills kept off the trail, the rest
+  dragged into the fern, the crows paid); the heat, the flies, the water falling
+  to pools; the hunger the same after every meal and only carried.
+- THE LINE COMES BACK NORTH: smoke on the south wind; he reads them three days
+  out; he lies on the rim and lets them walk his own trail, because a beast that
+  moves in front of men is a beast they follow; the hound's night half-circle at
+  the camp edge met by his quiet at its last limit; water skipped, two nights
+  without a kill.
+- MEN ledger: THE SUMMER WALK ON THE HIGH GROUND — stone, dry grass, baked pans;
+  three days of nothing; the hound's stop at the dried pan; Xiao An's read (the
+  print stood while the mud set, no roll in it, the beast looking down at the
+  south); Gao Tie's casts off both ends (stone and stream; she will not cross
+  running water); the print is NOT the pale beast's (narrower, heavier in front,
+  one print in a whole season); Old Qin's ruling — one print with no face and no
+  kill is not a line, the PAN IS THE WATCH, four stones set, next spring before
+  the mud sets; the younger man's first watch promised; Xiao An's last look from
+  the stones.
+- THE TURN — HE PRINTS NO MORE: he reads the stopped places, the hound's two
+  lines, the men's knees in the dust beside his own print; he does not touch the
+  pan (a torn pan is one more thing to read), gives them nothing, and takes the
+  long way — crossings at the rock bars, ridges of bare stone, mud flats left to
+  the grazing kind; twice a kill passed up rather than cross soft mud, a day
+  hungry each time; the cost paid.
+- Firewall: the line now has a place and a shape and no beast; the pan will take
+  a print from anything that walks in the wet, and next spring they will watch
+  it. Nothing of him is written; but the ground itself now writes what he does
+  not. The dragon never hears, never sees.
+- Cultivation (panel; no clock, s7): REAL AGE ≈ 74–76 months; CULTIVATION-AGE
+  ESTIMATE ≈ 200–215 (the summer's meat on the low water). Next barrier at
+  cultivation-year 1,000 — far, unfelt. No leaps.

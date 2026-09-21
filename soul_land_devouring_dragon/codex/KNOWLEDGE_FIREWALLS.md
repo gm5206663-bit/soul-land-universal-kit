@@ -1,4 +1,4 @@
-# KNOWLEDGE FIREWALLS (kit 06) — who knows what; updated through Chapter 15
+# KNOWLEDGE FIREWALLS (kit 06) — who knows what; updated through Chapter 16
 
 ## HE (the dragon) MAY KNOW
 - Everything his senses and the ledger have read, on-page: his country, then
@@ -41,10 +41,19 @@
   COUNTED, with the place under it and the old lodge man's name and pay under
   that — and came down the country with NO light for the box; Old Qin refused
   the second line (a smell is not a proof) and gave Xiao An the summer: walk
-  the high ground where the hound points, in front of him.
+  the high ground where the hound points, in front of him; ch16: THE SUMMER
+  WALK — the line back north on the high ground, the hound's stop at the dried
+  pan, THE ONE PRINT read by Xiao An (stood in the setting mud, no roll, facing
+  down at the south), the casts off stone and stream, Old Qin's ruling that one
+  print with no face is not a line — THE PAN IS THE WATCH: four stones set, the
+  younger man's first watch promised for the next wet.
 - Must not (without earned route): HIS existence — the veiling is the wall;
   if they ever learn of it must be earned on-page (a broken veiling, a
-  witnessed kill, a report). As of ch15: STILL NOTHING of him on any paper — the men believe the mark has a
+  witnessed kill, a report). As of ch16: STILL NOTHING of him on any paper, and now the ground itself is
+  watched (the marked pan takes a print from anything that walks it in the wet;
+  he has stopped printing — the long way, the rock bars, the bare stone). The
+  men have a place, a shape and a watching plan; the hound carries the old
+  scent. — the men believe the mark has a
   FACE, and the face belongs to the pale beast; the hound's third reading put
   it standing over ground that carries his old scent in front of all four of
   them, and it is still unwritable (no print, no blood, nothing to see), and
