@@ -1,4 +1,4 @@
-# KNOWLEDGE FIREWALLS (kit 06) — who knows what; updated through Chapter 17
+# KNOWLEDGE FIREWALLS (kit 06) — who knows what; updated through Chapter 18
 
 ## HE (the dragon) MAY KNOW
 - Everything his senses and the ledger have read, on-page: his country, then
@@ -51,18 +51,27 @@
   low country (not what it was set for; the white light boxed for the tables),
   the pan proved nothing else; Old Qin gained no line for a season of rain and
   SET THE LOW WATER WATCH for when the flats come out — the net moves onto the
-  dragon's summer ground.
+  dragon's summer ground; ch18: THE LOW WATER WATCH WORKED — the wire at the
+  main pool all dry; the hound's nights (three times standing pointed at a
+  smell nobody could see); the hound carried the line to HIS kill at the head
+  of the run (a grazer, the deep parts eaten, fifty paces of mud and gravel
+  with every small foot in them and not one print of a heavy hunter); the smell
+  named as the big crossing's (ch12), NOT the pale one's; and OLD QIN'S RULING:
+  THE PAPER TAKES TWO LINES — the pale killer with a face, and the thing that
+  signs and does not show; the watch not struck, THE WATER MADE THE SNARE.
 - Must not (without earned route): HIS existence — the veiling is the wall;
   if they ever learn of it must be earned on-page (a broken veiling, a
-  witnessed kill, a report). As of ch17: STILL NOTHING of him on any paper. The
-  men believe the mark has a FACE, and the face belongs to the pale beast; the
-  hound's third reading (ch15) and its fourth season of work (ch16–ch17) put
-  the unwritable scent ahead of a living beast and ahead of a marked pan, and
-  neither availed: the pan took nothing of his through the whole wet. The line
-  now carries a method (the watch), a place (the marked pan) and a window (the
-  low water when the flats come out) — and still has no beast. The dragon
-  never hears, never sees; any crossing left no print. That resolution is
-  canon for the firewall.
+  witnessed kill, a report). As of ch18: STILL NOTHING of him on any paper that
+  names or shapes him — but the line now holds him by two true things and no
+  false ones: the hound's nose (the crossing's smell, kept through years and
+  seasons) and the water's necessity. The pan took nothing of his through the
+  whole wet; the summer dry took his kill and his scent and no print. The paper
+  now carries TWO LINES — the pale killer with a face, and the thing that signs
+  and does not show, believed one beast with two ways of walking since the
+  first water. The counter-read is forming in Xiao An alone (the hound will not
+  step on a fast run; the kills are all up by the runs), not yet written. The
+  dragon never hears, never sees; any crossing left no print. That resolution
+  is canon for the firewall.
 
 ## THE GREATNESS PAST HIS READING
 - Knows the dragon-word read in him (ch9). Nothing else is staged; its

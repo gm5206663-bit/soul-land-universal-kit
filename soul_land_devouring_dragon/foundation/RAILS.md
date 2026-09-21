@@ -122,6 +122,23 @@ Receipt of the first application (s39): ch13 4,008 → 2,728 words (−32%), ch1
 per 1000w, no sentence over 60. Nothing was added.
 
 
+## PACING LAW — "skip when thing is same" (author word, session 44, 2026-09-21)
+Author, verbatim: "Hey don't make too much boring,skip when thing is same skip when he reaches
+thousand years old with summery of time skip"
+1. SAMENESS IS SKIPPED. When a thing is the same as it was before — a second
+   watch that learns nothing new, a third lesson already learned, a season that
+   repeats its predecessor — it gets one line and no scene. The story moves.
+2. THE THOUSAND-YEAR ROAD IS TOLD BY TIME-SKIP SUMMARY. The road from the
+   living edge to the cultivation-year-1,000 barrier (SB-03) is NOT ground out
+   chapter by chapter. The years between are given in summary — what the years
+   did, what changed, what held — with scenes kept only where something is
+   genuinely new. The barrier itself arrives at the end of such a summary.
+3. This stands WITH the SCOPE LAW (s39) and not instead of it: cut explanation,
+   never scene; but never write a scene whose only content is that nothing
+   changed.
+4. The panel's next-beats section carries the current pacing state so any
+   session knows where the story is on the road.
+
 ## PLAIN LANGUAGE LAW — "write clear that can be understood" (author correction, session 40, 2026-09-21)
 Author, verbatim: "What the hell even this writeing style what you can't write clear
 that can be understood, why this poem type nonsenses"

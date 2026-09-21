@@ -865,3 +865,45 @@ body). The Talent is never named; deltas record its RESULTS.
   the lean weeks moved it little). Next barrier at cultivation-year 1,000 —
   far, unfelt. No leaps. (Open flag: hatch-year vs month-count reconciliation
   — foundation/OPEN.md item 19.)
+
+## ch18 (DL 3666 — the summer dry; the author's " Next chapter " + the pacing word)
+- THE DRAW-DOWN: the streams come apart into pools; the meat walks the same
+  lines between the same water; he moves his drinking to the runs after he
+  finds the hound staked at the main pool in the first week; the summer's rules
+  (kills at the upper water taken standing in the stream over stone, eaten in
+  the water, the rest left to the crows; crossings on the rock bars); the cost
+  paid (miles, heat, the flies at the cut places); the hunger unchanged.
+- THE TURN: the ground no longer reads him — prints have been off the page for
+  a year and a half of seasons — but the HOUND reads him out of the air and the
+  water (the smell from the big crossing two summers back), and it takes the
+  line to his kill and to the shallows where his feet stood. The drink is the
+  problem now; water has no choices in it and he cannot drop it; his answer
+  remains the runs (fast water, stone underfoot, drunk in the dark) — and the
+  line's answer is the season at the water.
+- MEN ledger: THE LOW WATER WATCH — the wire in the low neck of the main pool
+  on both sides; the blind; the hound staked at the water; Xiao An's daily read
+  of the draw-down; the younger man's boredom (the pale beast's line on his
+  copy of the sheet; the pale beast drinking south in the dry); THE HOUND'S
+  NIGHTS (three nights, standing pointed at the dark bank; "She has never
+  pointed at nothing in her life"; Gao Tie's bedroll moved to the pool's edge).
+  THE KILL WITH NO TRACKS — Xiao An walks onto the grazer dead at the head of
+  the run; the deep parts eaten; the drag-mark; the crows; fifty paces of mud
+  and gravel that hold every small foot and not one print of a heavy hunter;
+  the hound's bark into the shallows and her stare up the run she will not
+  enter; Old Qin come the lodge road; the smell named as the crossing's smell
+  (ch12), NOT the pale one's. THE TWO LINES — Old Qin's ruling: the paper takes
+  a second line; the signer is known apart from the pale killer; his own
+  black-stone rule answered ("Two lines for two beasts is the count finally
+  telling the truth"). THE WATER IS THE SNARE — the watch not struck; the wire
+  stays through the dry ("it cannot drink where the water is not"); Xiao An's
+  unspoken "something" and her look up the run (the fast water — the hound's
+  limit; the counter-read forming, not yet a line).
+- Firewall: still nothing of him — but the line no longer needs ground or
+  sight; it holds him by the hound's nose and by the water's necessity. The men
+  have made him a line of his own (no face, no shape, no track) and the pool
+  their snare. The dragon never hears, never sees.
+- Cultivation (panel; no clock, s7): REAL AGE ≈ 87–89 months; CULTIVATION-AGE
+  ESTIMATE ≈ 210–220 (the drawn-water kills; the leaning weeks held it back
+  some). Next barrier at cultivation-year 1,000 — far, unfelt. No leaps. PACING
+  (s44 law): sameness skipped; the road to the barrier told by time-skip
+  summary.

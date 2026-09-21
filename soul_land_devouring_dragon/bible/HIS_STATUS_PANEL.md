@@ -1,5 +1,5 @@
 # HIS STATUS PANEL — clean sheet
-Live after Chapter 17 (DL 3666, the spring wet — the line watched the marked pan through the rain and took only an ox in their own wire; he lived the wet on stone, learned the rain's hours, and paid a lean season for printing nothing).
+Live after Chapter 18 (DL 3666, the summer dry — the water drew down; the line set its net on the main pool, its hound pointed at his smell night after night, and his kill with no tracks at the run gave their paper a second line; he drinks at the runs and the ground no longer reads him — the hound does).
 DERIVED SHEET — mirrors foundation/STATUS_PANEL.md (the single status source,
 per kit 02) and ADAPTATION_LOG; updated each chapter. If this sheet and
 STATUS_PANEL ever disagree, STATUS_PANEL is right and this sheet is stale.
@@ -354,3 +354,24 @@ marked [design] and belong to the author to correct.
   rule; the wet ends and the low country is his again.
 - Counts (s43): 2,967 body words; 50 spoken lines, 16.9 per 1000w; average
   17.4 words per sentence, longest 57; one short one-line beat paragraph.
+
+## Chapter 18 close — the summer dry at the runs (DL 3666; real age ≈ 87–89 months)
+- THE DRAW-DOWN AND THE RUNS: the water goes down; everything walks the same
+  lines between the same pools; he drinks at the runs (having found the hound
+  staked at the still water in the first week; the watch is on the water). The
+  summer's rules: kills at the upper water, taken standing in the stream over
+  stone, eaten in the water, the rest left to the crows; the rock bars; the
+  costs (miles, heat, the flies) paid; kills passed up at every watched pool.
+- THE TURN OF HIS SEASON: the ground no longer reads him (he prints nothing),
+  but the HOUND reads him — the air, the water, a smell two summers old — and
+  it led the line to his kill and to the shallows where his feet had stood. The
+  DRINK is the problem now, and the drink cannot be dropped.
+- THE LINE'S SUMMER (parallel, not his): the low water watch; the hound's
+  nights (she points at nothing; Gao Tie sleeps at the pool's edge by her);
+  THE KILL WITH NO TRACKS (the grazer at the head of the run, the deep parts
+  eaten, fifty paces of mud and gravel holding every foot but a heavy
+  hunter's); Old Qin's ruling — THE PAPER TAKES TWO LINES (the signer known
+  apart from the pale beast); THE WATER IS THE SNARE (the wire stays all dry;
+  Xiao An's unspoken "something" and her look up the run).
+- Counts (s44): 2,867 body words; 49 spoken lines, 17.1 per 1000w; average 18.0
+  words per sentence, longest 60.

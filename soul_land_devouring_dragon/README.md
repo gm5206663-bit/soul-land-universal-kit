@@ -27,19 +27,23 @@ READ FIRST, in order:
 4. foundation/CONTINUITY.md — anchor table + forward references
 5. the last two chapters
 6. foundation/SERIAL_LOG.md — last three entries only
-LIVE EDGE: Chapter 17 — The Long Wet (DL 3666, the spring wet; the watch kept,
-no line gained, and the low water watch set)
-NEXT BEAT: Chapter 18 — THE LOW WATER WATCH: the summer, the flats come out, and
-the line comes down to the drawn water with the wire and the hound; the net now
-lies on his summer ground and the two sides work the country's one water their
-own way; the dragon hunting the drawn water as his own; the greatnesses'
-country unchanged (nothing staged); the wall at 1,000 far, unfelt. Author's
-fresh go required.
+LIVE EDGE: Chapter 18 — Two Lines (DL 3666, the summer dry; the paper carries
+two lines now, the water is the snare, and the hound — not the ground — is what
+reads him)
+NEXT BEAT: Chapter 19 — THE SEASONS AT THE WATER, under the PACING LAW (s44:
+sameness skipped; the road to the barrier told by time-skip summary): the same
+rounds told once and then skipped; the hound's years; ONE anchored event where
+something is genuinely new, chosen on the author's go. Author's fresh go
+required.
 RULINGS IN FORCE (2026-09-18, session 27): the year-takers carry faces,
 names and dialogue in the parallel panel (the dragon never hears; firewall
 stands); DD chapter footers KEPT (registered exception to kit 07 §3); the
 kit governs the author's new fiction and stands as reference law — this
 serial keeps its locked shape.
+PACING LAW (2026-09-21, session 44; author: " skip when thing is same skip when he
+reaches thousand years old with summery of time skip "): sameness gets one line
+and no scene; the road to the cultivation-year-1,000 barrier is told by
+time-skip summary, never ground out.
 PLAIN LANGUAGE LAW (2026-09-21, session 40; author: " write clear that can be
 understood, why this poem type nonsenses "): narration uses the plain name of the
 real thing; no invented house words in prose (retired list in codex/GLOSSARY.md);

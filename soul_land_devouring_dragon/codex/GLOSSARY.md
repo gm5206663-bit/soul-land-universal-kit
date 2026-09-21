@@ -133,3 +133,19 @@ labels only, where their meaning is defined.
   the flats come out through the summer, the line watches the low water, where
   everything that walks the country must come to drink. The net now lies on the
   dragon's own summer ground (ch17, stated; not yet worked on the page).
+
+- **The two lines** — the state of the keepers' paper after ch18: the pale
+  beast's line (the killer with a face, seen and counted) and the signer's line
+  (the thing that signs and does not show, no face and no track) — the first
+  time the count lets the two beasts stand apart. Old Qin's ruling, answering
+  his own black-stone rule: "Two lines for two beasts is the count finally
+  telling the truth."
+- **The kill with no tracks** — the ch18 summer dry at the head of the run: a
+  heavy grazer killed at the water, the deep parts eaten in the shallows, the
+  drag-mark left — and fifty paces of mud and gravel holding every small foot
+  and not one print of a heavy hunter. Gao Tie's hound put the line onto it and
+  would not leave it, which is how the signer's line was finally proved to the
+  lodge's standard.
+- **The water is the snare** — Old Qin's ruling at the close of ch18: the watch
+  at the main pool is not struck; a beast can go round a blind, cross stone and
+  hold its smell out of the wind, "but it cannot drink where the water is not."

@@ -1488,3 +1488,32 @@ One entry per working session. Newest at the bottom.
   flag, kills, territory, next beats -> ch18, last action), HIS_STATUS_PANEL,
   ADAPTATION_LOG, SERIAL_LOG, README, KNOWLEDGE_FIREWALLS, PLACES, TIMELINE,
   GLOSSARY, CONTINUITY, OPEN (item 19: hatch year vs month-count, flagged).
+
+### Session 44 — 2026-09-21 (CHAPTER 18 — Two Lines; and the PACING LAW)
+- Author, verbatim: " Next chapter " plus, in the same message: " Hey don't make
+  too much boring,skip when thing is same skip when he reaches thousand years
+  old with summery of time skip ".
+- WRITTEN: chapters/Chapter_18_Two_Lines.md — the summer dry. The line: the low
+  water watch at the main pool; the hound's nights; THE KILL WITH NO TRACKS at
+  the head of the run; Old Qin's ruling that gives the paper its TWO LINES (the
+  signer known apart from the pale beast); the water made the snare. Him: the
+  draw-down and the runs; the summer's rules; and the turn — the ground no
+  longer reads him but the hound does, so the drink is the problem now.
+- LAW BOUND (s44): the PACING LAW into RAILS — sameness skipped (one line, no
+  scene); the road to the cultivation-year-1,000 barrier told by TIME-SKIP
+  SUMMARY, never ground out; the panel's next-beats now carry the pacing state.
+- Gates: verify.py PASS (2,867 prose words, 49 spoken lines); project sweep
+  PASS (18/18 chapters carry footers; ch1 the recorded no-voices exception);
+  counts 17.1 spoken lines per 1000w / average 18.0 / median 14 / longest 60.
+- Measure-tool catches this session: two sentences at 61 words split; nine
+  heavy constructions recast; retired-word scan clean.
+- Incident: /tmp wiped between turns for the second time (both clones gone).
+  Re-cloned by token; the chapter was written into both the clone and the
+  persistent workshop copy BEFORE any cleanup command ran (the clone restore
+  itself briefly destroyed a first copy — recovered from context; both copies
+  now saved before cleanup). Standing note reinforced: never rm -rf any /tmp
+  path that holds the only copy of unwritten-to-repo work.
+- Mirrors synced same turn: STATUS_PANEL (header, edge, figures, kills,
+  territory, next beats + pacing state, last action), HIS_STATUS_PANEL,
+  ADAPTATION_LOG, SERIAL_LOG, README, KNOWLEDGE_FIREWALLS, PLACES, TIMELINE,
+  GLOSSARY, CONTINUITY.
