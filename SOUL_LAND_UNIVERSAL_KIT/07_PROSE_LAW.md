@@ -193,3 +193,57 @@ Before shipping:
 
 All of these except the last are machine-checked by `tools/verify.py`. The last one is yours
 to answer honestly.
+
+---
+
+## 9. HOUSE GRAMMAR (measured standard, 2026-09-20)
+
+Drawn from published Soul Land fanfiction read directly and from the corpus of
+this workspace (every project measured: average sentence 19-30 words, dialogue
+10-20 spoken lines per thousand words). A chapter that sits outside this band
+does not read like the fandom and will be rejected by the author regardless of
+its facts.
+
+- **Sentence average <= 25 words; no sentence over 60; the median near 15.**
+- **Dialogue >= 8-10 spoken lines per thousand words** in any chapter that has
+  people in it. Exposition is delivered in speech, by named characters with
+  wants, the way canon and the fandom both do it.
+- **Open inside a scene** (a body doing something, or a voice speaking).
+- **Several small finished scenes** per chapter, at least one in real time.
+- **Plain concrete nouns.** Motif words are texture, never the sentence engine.
+- **End on a hook**: a decision, an arrival, a threat, a name.
+
+## 10. SCOPE LAW (s39, 2026-09-21) — write what needs writing; you can skip
+Author, verbatim: "Why you making nonsense by writing nonsenses like it becomes
+boring, wyrite what needs to write not everything , you can skip"
+1. A beat is written once. No paragraph explains a paragraph; no chapter
+   re-tells its own events at the close.
+2. No overview openings (season summaries, status reports). Open in scene.
+3. One line of consequence after a scene; never a summary of the scene.
+4. Budget: 2,400-3,000 words a chapter; up to 3,400 only for a chapter that
+   carries a season's turn, reason recorded in the footer.
+5. Skip what changes nothing: repeated readings, repeated lessons, scenery that
+   carries neither. Cutting removes explanation, never the scene.
+6. Every rule above in this file still stands over it.
+
+## 11. PLAIN LANGUAGE LAW (s40, 2026-09-21) — write clear that can be understood
+Author, verbatim: "What the hell even this writeing style what you can't write
+clear that can be understood, why this poem type nonsenses"
+1. Narration says what happened in plain words; a stranger must understand every
+   sentence on one reading.
+2. No invented code nouns as narration. If a sentence only makes sense to someone
+   who knows the serial's private vocabulary, rewrite it.
+3. In-world names (teams, lists, lines) may appear only in speech, and only where
+   the scene explains them.
+4. The subject of a sentence is a thing or a body; ideas never carry it.
+5. Check before shipping: grep the retired word list (kit + project). Any hit in
+   narration is a defect, not a style choice.
+6. This stands over the house grammar and the scope law; it never excuses a scene
+   being cut or a voice being thinned.
+
+---
+
+*Provenance (2026-09-21): §9–§11 were added to the released kit from the workspace working copy
+(`SOUL_LAND_WORKSPACE/kit/07_PROSE_LAW.md`), where they were bound during the devouring-dragon
+sessions (HOUSE GRAMMAR s36–s38, SCOPE LAW s39, PLAIN LANGUAGE LAW s40). Law numbering is
+identical in both copies.*

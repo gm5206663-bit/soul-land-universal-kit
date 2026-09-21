@@ -24,7 +24,11 @@
 ## `_archive/` — DO NOT USE
 `_archive/2026-08-25_uploads/` holds the original uploads from earlier sessions (pre-v2.26 SL3 snapshots, the Chapter-4-era fossil codex, the stale continuation). Kept for provenance only; every file there is superseded by the trees above.
 `_archive/2026-09-18_workspace_uploads/` (added 2026-09-18) holds an agent-workspace snapshot of the SL3 docset from the chapter-01 audit era — also fully superseded by `Soul_Land_3_Project/`.
-`_archive/2026-09-19_stale_sl4_copies_at_ch31/` (added 2026-09-19) holds the **two stale top-level Soul Land 4 copies** (`soul_land_4_fire_phoenix/`, `sl4_fire_phoenix/`), both frozen at **Chapter 31** while the project is at **Chapter 51**. Moved by `git mv` — 345 renames, all `R100`, zero deletions, zero content changes. `sl4_fire_phoenix/`'s nested 168-file tree was verified a **byte-identical subset** of the other copy. Each has a `README_STALE_ARCHIVED.md`. **The archived `sl4_fire_phoenix/…/SOUL_LAND_4_FIRE_PHOENIX_NEXT_STEPS_FOR_CONTINUATION.md` is actively dangerous**: it presents `Dawnflame 1,120` and `Dawn-Iron 2,040` as current, two values `STATUS_PANEL.md` §9 explicitly bans. Never read it as state.
+`_archive/2026-09-19_stale_sl4_copies_at_ch31/` (added 2026-09-19) holds the **two stale top-level Soul Land 4 copies** (`soul_land_4_fire_phoenix/`, `sl4_fire_phoenix/`), both frozen at **Chapter 31** while the project is now at **Chapter 52**. Moved by `git mv` — 345 renames, all `R100`, zero deletions, zero content changes. `sl4_fire_phoenix/`'s nested 168-file tree was verified a **byte-identical subset** of the other copy. Each has a `README_STALE_ARCHIVED.md`. **The archived `sl4_fire_phoenix/…/SOUL_LAND_4_FIRE_PHOENIX_NEXT_STEPS_FOR_CONTINUATION.md` is actively dangerous**: it presents `Dawnflame 1,120` and `Dawn-Iron 2,040` as current, two values `STATUS_PANEL.md` §9 explicitly bans. Never read it as state.
+`_archive/2026-09-21_superseded_arena_readme/` (added 2026-09-21) holds the old root file `README_ARENA_WORKSPACE.md` —
+a second, unreferenced README for this repository whose content duplicated (and had gone stale against)
+the soul-land-projects README and this file, including a Chapter-51 live-edge claim. Kept, not erased;
+superseded by `README.md`.
 
 ---
 
@@ -43,7 +47,7 @@ Nothing existing was deleted or overwritten. See
 
 - **an index of every fanfiction project in this repository** — files, chapters, and whether
   each is current, superseded, dropped, forbidden, or foundation-stage
-- **the Soul Land 4 five-copies finding** — the live edge is after **Chapter 51**, and two
+- **the Soul Land 4 five-copies finding** — the live edge is after **Chapter 52**, and two
   top-level directories (`soul_land_4_fire_phoenix/`, `sl4_fire_phoenix/`) were **stale at
   Chapter 31**. 🔴 **Both archived 2026-09-19** to
   `_archive/2026-09-19_stale_sl4_copies_at_ch31/` (see the `_archive/` section above). The

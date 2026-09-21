@@ -1,9 +1,10 @@
 # Soul Land 4 Fire Phoenix — Next Steps for Continuation
 
-Live edge: **after Chapter51, `The Cost of Quiet`**.
+Live edge: **after Chapter52, `Amiable Beasts`**.
 
-Updated: 2026-09-19. This file previously stopped at the Chapter35 live edge and every value in
-it was superseded; it has been rebuilt from `foundation/STATUS_PANEL.md`. It is an **entry
+Updated: 2026-09-21 — the live edge moved to Chapter52 (written and validated 2026-09-19), and §5's
+Chapter52 preparation list was fulfilled and is now historical. The file was rebuilt from
+`foundation/STATUS_PANEL.md` on 2026-09-19; its §7 record stands. It is an **entry
 point, not an authority** — on any conflict, `foundation/STATUS_PANEL.md` and
 `foundation/CURRENT_STATE_MANIFEST.json` win and this file is wrong.
 
@@ -37,9 +38,9 @@ governs is long past at this edge — it is history, not the current scene.
 
 ## 2. Source position
 
-- Canon consumed through verified **Chapter176 `Be harder on yourself`**.
-- Next source boundary: **Chapter177 `1,000-year Purple Zoysia`** — NOT YET FETCHED. This is
-  the hard blocker for Chapter52. Fetch and read all chunks before coverage or prose.
+- Canon consumed through verified **Chapter177 `1,000-year Purple Zoysia`**.
+- Next source boundary: **Chapter178 `Collaborate`** — not yet fetched. This is the boundary
+  for Chapter53.
 - Pacing rule after the post-ranking rebuild: do not default to one canon chapter per fic
   chapter. Compress routine canon beats; expand only meaningful character, system, butterfly,
   relationship or tactical change. Do not invent formal reward ceremonies or items just to
@@ -47,7 +48,7 @@ governs is long past at this edge — it is history, not the current scene.
 
 ---
 
-## 3. Current state after Chapter51
+## 3. Current state (rebuilt 2026-09-19; live edge now after Chapter52)
 
 **Scene.** Dorm333 is inside Soul World's simulated Star Dou Forest in the seven-day Shrek
 Heaven Luo qualifier round: second morning, about twenty kilometres inward, moving faster with
@@ -128,26 +129,19 @@ identity.
 
 ---
 
-## 5. Next chapter preparation (Chapter52)
+## 5. Historical — the Chapter52 preparation list (fulfilled 2026-09-19)
 
-Chapter52 should consume verified NovelFull **Chapter177 `1,000-year Purple Zoysia`**.
+Chapter52 `Amiable Beasts` was written and validated on 2026-09-19, consuming Chapter177. Every
+item of this section's original list was fulfilled; the list is kept only as history, and its
+substance survives in the project's own records (the validation and support-sync receipts, the
+locks, and the Perfect Continuation Skill).
 
-1. Begin from Dorm333's current simulated Star Dou Forest position after Chapter51.
-2. Fetch and read all chunks of Chapter177 before coverage or prose.
-3. Write `canon_coverage/Canon_Coverage_Chapter_52.md` **before** `chapters/Chapter_52.md`.
-4. Preserve current reward states unless Chapter177 explicitly changes them: Lan's Platform
-   access unspent; Qian's darker-yellow/500-year-realm rings with no exact ages or purple
-   breakthrough; Liu's Soul Bone fused/Rank29 but no unsupported Silver Edge mastery.
-5. Preserve the current round rules listed above.
-6. Maintain Lan's command/analysis authority as a command role, not raw-power superiority over
-   Yan.
-7. Preserve Dorm336's second-place consequences naturally: no erasure, no fake reward package,
-   no forced insertion into Dorm333's random position.
-8. Use public Yan Shuo/he only; do not reveal Yan's private identity.
-9. Do not currentize future Yan soul-spirit or Rainbow Dragon routes.
-10. Apply the Soul Spirit mechanics lock, Yan foundation-weighted real-tier lock, repaired
-    pacing rule, Lan/Yan relationship lock, and Perfect Continuation Skill to any power or
-    system comparison.
+For what comes next, use the project's own state rather than this file:
+
+1. `foundation/STATUS_PANEL.md` — live edge; `foundation/CURRENT_STATE_MANIFEST.json` — next fic
+   chapter **53**, next source **Chapter178 `Collaborate`**.
+2. Follow `foundation/PERFECT_CONTINUATION_SKILL.md`: coverage before prose, then run the
+   project's own gate, `tools/perfect_continuation_skill_check.py`, before and after any edit.
 
 ---
 

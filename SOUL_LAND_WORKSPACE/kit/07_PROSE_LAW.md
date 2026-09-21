@@ -7,13 +7,17 @@ readable in sequence rather than one chapter at a time.
 
 ## 1. LANGUAGE LAW
 
-**English only. Zero non-ASCII characters in any file — prose, panels, ledgers, notes.**
+**English only. No characters in a script the reader cannot read — CJK ideographs, kana,
+hangul — in any file: prose, panels, ledgers, notes.**
 
 Names are written in pinyin: A Yin, Tang San, Lan Xuanyu, Spirit Hall. Never in characters.
 
-This is not stylistic. It is a portability law: files that contain mixed scripts break on
-transfer, render incorrectly in viewers, and fail automated checks. It also forces the
-discipline of naming things once, consistently, in the glossary.
+This is *not* a blanket ban on non-ASCII. Em dashes, en dashes, curly quotes, the `≈` sign and
+the kit's `◆` panel marker are correct, portable typography and are explicitly allowed.
+
+The distinction matters because an over-broad rule gets quietly ignored, and a rule that is
+ignored stops being a rule. Ban the thing that actually breaks — unreadable script — and the
+check stays honest, which is what `tools/verify.py` actually enforces.
 
 Two related artifacts to never emit:
 
@@ -144,7 +148,7 @@ mangled, and a mangled filename in a handoff is a lost file.
 Before shipping:
 
 ```
-- Zero non-ASCII characters
+- Zero characters in an unreadable script (CJK, kana, hangul) — not a blanket non-ASCII ban
 - Zero literal backslash-n sequences
 - Zero digits in prose
 - At least three spoken dialogue lines
@@ -202,3 +206,10 @@ clear that can be understood, why this poem type nonsenses"
    narration is a defect, not a style choice.
 6. This stands over the house grammar and the scope law; it never excuses a scene
    being cut or a voice being thinned.
+
+---
+
+*Copy note (2026-09-21): this is the working copy used by the projects in this workspace.
+§9, §10 and §11 were written here during the devouring-dragon sessions and have been back-ported to the
+released kit (`SOUL_LAND_UNIVERSAL_KIT/07_PROSE_LAW.md`); §1 and the §8 audit line were aligned to
+`tools/verify.py`, which bans unreadable scripts rather than all non-ASCII.*

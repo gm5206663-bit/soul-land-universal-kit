@@ -89,13 +89,12 @@ deleted as redundant.
 
 - Removed `storyos-site/` — one file (`validation_report.txt`), an unreferenced leftover of the
   StoryOS publish stage; StoryOS has its own repository (`storyos-site`).
-- Removed the two byte-identical COMPLETE-panel twins inside the `audits/2026-09-14_chapter36_sync_before/` and
-  `audits/2026-09-15_chapter39_sync_before/` snapshots (each folder keeps its `YAN_SHUO_CURRENT_STATUS_PANEL.md` twin;
-  the snapshots' other files untouched). Commit `7b2c641`.
-- Replaced `YAN_SHUO_COMPLETE_CURRENT_STATUS_PANEL.md` — byte-identical duplicate of
-  `YAN_SHUO_CURRENT_STATUS_PANEL.md` (two copies of one status panel breaks the one-source rule).
-  The file now contains a pointer to the single panel; older audits that list both files are
-  historical records and were left untouched.
+- ~~Removed the two byte-identical COMPLETE-panel twins inside the `audits/2026-09-14_chapter36_sync_before/` and
+  `audits/2026-09-15_chapter39_sync_before/` snapshots.~~ **REVERTED** — both restored (commit `dec226e`); the dated
+  snapshots keep their full history.
+- ~~Replaced `YAN_SHUO_COMPLETE_CURRENT_STATUS_PANEL.md`~~ — **REVERTED, see the Second-pass
+  correction below: this file is a mirror the project's own validator requires. It was restored,
+  and the pointer stub removed.**
 
 ## storyos-site — checked, nothing wrong found
 
@@ -140,3 +139,77 @@ and topics were added where none existed.
 
 *The kit row above is `ba2e939`; the two commits after it are this receipts file itself — see
 `git log --oneline -3 -- HOUSEKEEPING_2026-09-21.md`.*
+
+---
+
+## Second pass (same day, after "manage my GitHub perfectly" was repeated)
+
+The second pass went below filenames into *content* — every repo's own validators were run, and
+every stale claim found was replaced. Two findings were about work from the first pass itself.
+
+### Correction to the first pass (soul_land_4_fire_phoenix)
+
+The first pass removed `YAN_SHUO_COMPLETE_CURRENT_STATUS_PANEL.md` (and its two twins inside dated
+`sync_before` snapshots) as duplicates of `YAN_SHUO_CURRENT_STATUS_PANEL.md`. **That was wrong for
+this project.** Its own gate, `tools/perfect_continuation_skill_check.py`, requires BOTH
+`YAN_SHUO_CURRENT_STATUS_PANEL.md` and `YAN_SHUO_COMPLETE_CURRENT_STATUS_PANEL.md` to be
+byte-exact mirrors of `foundation/STATUS_PANEL.md`; the gate failed, which is how the error was
+caught. All three files are restored (commits `a92d466`, `dec226e`) and the gate passes again.
+Below, the first pass's entry for that file is superseded by this correction.
+
+### soul_land_4_fire_phoenix (private) — commit `a92d466`
+
+Its verification suite was failing (the mirror above) and its StoryOS layer was stale at the old
+edge, still describing the 2026-09-17 rejected branch's Chapter52 as quarantined. Fixed by running
+the project's **own** pipeline, not by hand-editing generated files:
+
+- `storyos/scripts/scan_project.py audits . storyos` → `storyos/STORYOS_STATE.json`,
+  `storyos/ledgers/CANON_LEDGER.md`, `storyos/ledgers/BRANCH_LEDGER.md` re-scanned: live edge
+  Chapter52, Chapter52 accepted (receipts `CHAPTER_52_VALIDATION_2026-09-19.md` /
+  `CHAPTER_52_SUPPORT_SYNC_2026-09-19.md`), quarantine now only Chapter53.
+- `storyos/scripts/gen_docs.py storyos` → re-rendered `storyos/STATUS_PANEL.md`,
+  `storyos/CANON_SOURCE_NUMBERING_MAP.md`, `storyos/NO_MISTAKE_LIVE_RULES.md`.
+- `storyos/scripts/build_site.py . storyos/site` → re-rendered `storyos/site/index.html` +
+  `STATE.json` (76 KB; its embedded check now reads PASS and NEXT CHAPTER: Chapter53).
+- Three files still said "Next fic chapter: Chapter52" while the project's own manifest said 53:
+  `README.md` (also gained the missing Chapter52 row in its active-sequence list),
+  `foundation/CANON_SOURCE_NUMBERING_MAP.md` (and its support-anchor line moved off Chapter51),
+  `foundation/PERFECT_CONTINUATION_SKILL.md` (header said "after Chapter51"). All corrected.
+- The scan's rebuilt drift registry was thinner than the file it replaced (it had dropped e.g.
+  `Dawnflame 1,120`, `Dawn-Iron 2,040`, `Phoenix God authority` from the registry categories), so
+  the registry was unioned — nothing previously listed as banned was lost.
+
+Result: `tools/perfect_continuation_skill_check.py` PASS (mirrors match, 0 stale issues) and
+`storyos/tools/storyos_validate.py` PASS (NEXT CHAPTER: Chapter53, source Chapter178 `Collaborate`).
+
+### soul-land-universal-kit — commit "this one"
+
+- **The released kit was missing the author's three newest laws.** `SOUL_LAND_UNIVERSAL_KIT/07_PROSE_LAW.md`
+  held §1–§8; §9 HOUSE GRAMMAR, §10 SCOPE LAW and §11 PLAIN LANGUAGE LAW existed only in the
+  workspace working copy (`SOUL_LAND_WORKSPACE/kit/07_PROSE_LAW.md`). Ported, with a dated
+  provenance note. The working copy's two "zero non-ASCII" statements contradicted
+  `tools/verify.py` (which allows portable typography and bans only unreadable scripts — the
+  released copy already said so) and were aligned. Kit selftest still PASSES.
+- `SOUL_LAND_4_FIRE_PHOENIX_NEXT_STEPS_FOR_CONTINUATION.md` (repo root, unreachable by any project
+  validator) still said "after Chapter51" and carried a Chapter52 preparation list, all of which was
+  fulfilled on 2026-09-19 — and clauses its own project now classifies as stale. Edge corrected to
+  Chapter52, §2's boundary advanced to Chapter178 `Collaborate`, §5 re-headed as historical with
+  pointers to the project's status panel and manifest.
+- Root `README_ARENA_WORKSPACE.md` was a second, unreferenced README (an earlier front door with a
+  stale Chapter-51 claim) → archived to `_archive/2026-09-21_superseded_arena_readme/` with a dated
+  supersession note; its bytes unchanged. The main `README.md`'s two remaining "Chapter 51"
+  statements were corrected to Chapter 52.
+
+### soul-land-projects — commit `487ddf9`
+
+- `README.md` said twice that the live Fire Phoenix project is at Ch51 → Chapter 52.
+- `STATE.md` (dated 2026-09-08, still opening "THE CURRENT PROJECT … blue_silver … Work
+  blue_silver" as rule 1) → dated banner added; body kept as history.
+- `SOUL_LAND_UNIVERSAL_KIT/07_PROSE_LAW.md` re-synced with the kit repo so the mirror carries the
+  three new laws; the two copies are byte-identical again.
+
+### Standing rule added by the second pass
+
+**Run a project's own validators before and after any deletion or edit inside it.** A file that
+looks like a duplicate may be required by that project's law. Filename- and byte-level comparisons
+are not enough on their own.
