@@ -1,4 +1,7 @@
 # KNOWLEDGE FIREWALLS (kit 06) — who knows what; updated through Chapter 18
+# (the human side of this file is CLOSED as of ch18: the keepers' line left the
+# forest; nothing further was learned by anyone. Kept as the record of what they
+# carried out.)
 
 ## HE (the dragon) MAY KNOW
 - Everything his senses and the ledger have read, on-page: his country, then
@@ -72,6 +75,12 @@
   step on a fast run; the kills are all up by the runs), not yet written. The
   dragon never hears, never sees; any crossing left no print. That resolution
   is canon for the firewall.
+
+As of ch18 (thread CLOSED): the line's watching ended. The men walked home with
+  what they had: the pale beast's line (seen and counted, no light for the table
+  that season) and the signer's line (no face, no track, one season of nothing
+  in the pan); a hound that would not leave a scent it could not place. None of
+  it was ever made into knowledge of HIM. No human remains on his storyline.
 
 ## THE GREATNESS PAST HIS READING
 - Knows the dragon-word read in him (ch9). Nothing else is staged; its

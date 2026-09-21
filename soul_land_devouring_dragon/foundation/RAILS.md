@@ -72,6 +72,8 @@ scenes, people talking. HARD RULES from here (machine-checked where possible):
 5. PANEL LAW (author): the parallel panel only WHEN NEEDED — one short panel per
    chapter at most, carrying only what the beast side cannot; never a planning
    scene; never a re-tell of a beat already told from his side. Default: none.
+   (RE-BOUND s45 — see the PANEL LAW RE-BOUND section; the s34 over-firing of
+   this rule is what the s45 correction fixed.)
 6. FOOTERS/ledgers keep the exact figures; prose keeps none (kit 07 §4).
 
 ## HOUSE GRAMMAR (measured, s34 audit — see foundation/HOUSE_STYLE_AUDIT.md)
@@ -82,10 +84,9 @@ thousand -- twenty times less dialogue than Soul Land 2). Binding targets:
 1. Sentence average <= 25 words per chapter; no sentence over 60 (the cap is
    what bars the monster single-sentence paragraph; short one-line beat
    paragraphs are house style and allowed — ruling s43, 2026-09-21).
-2. Dialogue >= 8-10 spoken lines per thousand words wherever a human-side scene
-   exists; chapters with human-side beats always carry that scene on the page at
-   house density (voices are how this fandom reads). No human side at all only
-   when the beat forbids it, never twice in a row.
+2. Dialogue: wherever a panel exists, it carries 8-10 spoken lines per thousand
+   words of the panel. Chapters with NO panel carry no voices at all (s45: the
+   story is the beast's; declared "PANEL: NONE" in the footer).
 3. Open inside a scene; at least one hard scene in real time; two or more small
    finished scenes per chapter.
 4. At most one human-side scene per chapter unless the chapter IS a human-side
@@ -121,6 +122,38 @@ Receipt of the first application (s39): ch13 4,008 → 2,728 words (−32%), ch1
 4,673 → 3,267 (−30%); both re-gated PASS, dialogue 11.7 and 11.6 spoken lines
 per 1000w, no sentence over 60. Nothing was added.
 
+
+## PANEL LAW RE-BOUND — "the story is the beast's" (author correction, session 45, 2026-09-21)
+Author, verbatim: "What Gao Tie and others what the hell are you even writing what is
+becoming sense of writing they are nothing, there are nothing to do, oc is soul' beast not
+human, multiple panel when needed not necessary , no human remind on Forest to die like what
+you think whom stroy we writeing"
+1. THE STORY IS THE BEAST'S. The OC is a soul beast; the serial is his. Every
+   chapter's spine is his experience, his ground, his hunger, his growth. The
+   human cast never owns a chapter, never drives an arc, never becomes the story.
+2. PANELS ONLY WHEN NEEDED — DEFAULT NONE. A panel exists only where something
+   must reach the reader that his side cannot carry, and then it is ONE short
+   scene (target <= 300 words, ceiling 400). Never two panels in a chapter.
+   Never in consecutive chapters without the author's word. Never a planning
+   scene, never a re-tell of a beat already told from his side.
+3. THE FOOTER DECLARES IT, and the gate reads the declaration:
+   "PANEL: NONE" — no panel, no voices, nothing to explain;
+   "PANEL (one short scene): ..." — the panel is described and dialogue carries
+   at house density inside it.
+4. THE HUMAN THREAD DOES NOT LINGER. The keepers' line's forest thread is
+   CLOSED (ch18: the watch struck, the men walked home, no fire came up the
+   country again). No humans remain on his forest storyline to be killed off or
+   to keep watch forever. If men return in a later era, it is a new thread and
+   the author's call.
+5. BUDGET NOTE (same session): in beast-first chapters the SCOPE floor is
+   2,000 words (the old 2,400 floor assumed a human panel). Nothing is ever
+   added to a chapter merely to reach a number. The ceiling (3,400, season-turn
+   only, reason in footer) is unchanged.
+6. What this overrides: the s34 house-grammar clause that required a human-side
+   scene "at house density" wherever a human beat exists, and the s45-amended
+   dialogue gate that demanded three spoken lines of every chapter. House
+   grammar's other caps (average <= 25, none over 60, scene-first, >= 2 small
+   finished scenes, motif words as texture) all stand.
 
 ## PACING LAW — "skip when thing is same" (author word, session 44, 2026-09-21)
 Author, verbatim: "Hey don't make too much boring,skip when thing is same skip when he reaches

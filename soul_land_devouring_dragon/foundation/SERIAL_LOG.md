@@ -1517,3 +1517,52 @@ One entry per working session. Newest at the bottom.
   territory, next beats + pacing state, last action), HIS_STATUS_PANEL,
   ADAPTATION_LOG, SERIAL_LOG, README, KNOWLEDGE_FIREWALLS, PLACES, TIMELINE,
   GLOSSARY, CONTINUITY.
+
+### Session 45 — 2026-09-21 (THE PANEL CORRECTION — chapters 15-18 rebuilt; the men's thread closed)
+- Author, verbatim: "What Gao Tie and others what the hell are you even writing
+  what is becoming sense of writing they are nothing, there are nothing to do,
+  oc is soul' beast not human, multiple panel when needed not necessary , no
+  human remind on Forest to die like what you think whom stroy we writeing"
+- DIAGNOSIS (measured before the fix): the human side had eaten the serial. By
+  section words: ch11 100% men, ch12 77%, ch18 87%, ch17 64%, ch15 60%, ch16
+  46%; the keepers had become the story's engine and the beast its audience.
+- LAW: PANEL LAW RE-BOUND written into RAILS (with the author's words): the
+  story is the beast's; panels only when needed, default none (one short scene,
+  <= 300 words target / 400 ceiling, never two in a chapter, never consecutive
+  without the author's word); the footer declares "PANEL: NONE" or "PANEL (one
+  short scene): ..."; the human thread does not linger; budget note — beast-first
+  chapters run to a 2,000-word floor, nothing added merely to reach a number.
+  The s34 house-grammar clause that required human scenes "at house density" is
+  overridden.
+- EXECUTED: chapters 15-18 REBUILT in full as pure beast chapters —
+  ch15 The Hound's Third Time (2,229w): the thaw, the empty camps, the south
+  watch ground read (the hound's worn circle), the low country taken, the pale
+  beast's ground let be, the hound's third time watched from cover; ch16 The One
+  Print (2,319w): the summer on the taken ground, the men passing without seeing
+  him, the pan and the four stones read after them, HE PRINTS NO MORE and the
+  cost dramatized; ch17 The Long Wet (2,250w): the flood, the gift out of the
+  current, the rain's hours and the lean weeks, THE LIGHT ON THE HIGH GROUND (the
+  night the wire took the ox, seen whole from the rim), the struck watch read,
+  not one print of his; ch18 "The Dry Country" (2,360w; renamed from "Two
+  Lines" — the old title was about their paper): the draw-down and the runs, the
+  hound's nights at the pool, the kill at the run and the men at his shallows,
+  the drink problem, and THE WATCH GOES HOME — the men strike camp for the last
+  time and walk down-country; no fire comes up the country again; the country
+  is his and nothing in it hunts him in return.
+- THE THREAD CLOSED: the keepers' forest thread ends inside ch18 (the author's
+  " no human remind on Forest "): no humans remain on his storyline; the pale
+  beast and the hound, both soul beasts, remain part of the country's life.
+- TOOL: verify.py gate 4 amended so the footer's panel declaration governs the
+  voices (a "PANEL: NONE" chapter may carry zero dialogue; a panel chapter must
+  carry three or more); ch1 given its auditable "PANEL: NONE" line. The old
+  "no-voices exception" for ch1 is now a declaration the tool can read.
+- Gates: verify.py PASS on all rebuilt chapters; project sweep PASS (18/18
+  footers); all four chapters: no sentence over 60, no retired words, zero
+  count-numbers.
+- Mirrors synced same turn: STATUS_PANEL, HIS_STATUS_PANEL, ADAPTATION_LOG,
+  SERIAL_LOG, README, KNOWLEDGE_FIREWALLS, PLACES, TIMELINE, GLOSSARY,
+  CONTINUITY, RAILS, plus the kit's verify.py and the workshop copy.
+- STILL OPEN (flagged, not silently left): chapters 11 and 12 are LEGACY human-arc
+  chapters (100% / 77% men) written before this ruling. They are the next
+  rebuild in the same manner, queued first for the coming sessions, and are
+  listed in the panel's next-beats as a debt against the s45 law.

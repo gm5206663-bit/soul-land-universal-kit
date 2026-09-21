@@ -149,3 +149,11 @@ labels only, where their meaning is defined.
 - **The water is the snare** — Old Qin's ruling at the close of ch18: the watch
   at the main pool is not struck; a beast can go round a blind, cross stone and
   hold its smell out of the wind, "but it cannot drink where the water is not."
+
+## THREAD CLOSED (s45, 2026-09-21)
+The keeper-side entries in this file — the keepers' line, the wrong face, the two
+lines, the low water watch, the pan's first watch, the hound's third time — are
+HISTORY as of ch18. The line struck its watch and walked home; no humans remain
+on the dragon's storyline. They stay in the glossary as the record of what the
+men were, not as live threads. (The hound and the pale beast are soul beasts and
+remain part of the country.)

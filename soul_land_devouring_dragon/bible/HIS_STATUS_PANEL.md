@@ -1,5 +1,5 @@
 # HIS STATUS PANEL — clean sheet
-Live after Chapter 18 (DL 3666, the summer dry — the water drew down; the line set its net on the main pool, its hound pointed at his smell night after night, and his kill with no tracks at the run gave their paper a second line; he drinks at the runs and the ground no longer reads him — the hound does).
+Live after Chapter 18 (DL 3667 — the men's thread closed: the watch struck, the line walked home, no fire came up the country again; the whole country is his, and nothing in it hunts him in return).
 DERIVED SHEET — mirrors foundation/STATUS_PANEL.md (the single status source,
 per kit 02) and ADAPTATION_LOG; updated each chapter. If this sheet and
 STATUS_PANEL ever disagree, STATUS_PANEL is right and this sheet is stale.
@@ -355,23 +355,16 @@ marked [design] and belong to the author to correct.
 - Counts (s43): 2,967 body words; 50 spoken lines, 16.9 per 1000w; average
   17.4 words per sentence, longest 57; one short one-line beat paragraph.
 
-## Chapter 18 close — the summer dry at the runs (DL 3666; real age ≈ 87–89 months)
-- THE DRAW-DOWN AND THE RUNS: the water goes down; everything walks the same
-  lines between the same pools; he drinks at the runs (having found the hound
-  staked at the still water in the first week; the watch is on the water). The
-  summer's rules: kills at the upper water, taken standing in the stream over
-  stone, eaten in the water, the rest left to the crows; the rock bars; the
-  costs (miles, heat, the flies) paid; kills passed up at every watched pool.
-- THE TURN OF HIS SEASON: the ground no longer reads him (he prints nothing),
-  but the HOUND reads him — the air, the water, a smell two summers old — and
-  it led the line to his kill and to the shallows where his feet had stood. The
-  DRINK is the problem now, and the drink cannot be dropped.
-- THE LINE'S SUMMER (parallel, not his): the low water watch; the hound's
-  nights (she points at nothing; Gao Tie sleeps at the pool's edge by her);
-  THE KILL WITH NO TRACKS (the grazer at the head of the run, the deep parts
-  eaten, fifty paces of mud and gravel holding every foot but a heavy
-  hunter's); Old Qin's ruling — THE PAPER TAKES TWO LINES (the signer known
-  apart from the pale beast); THE WATER IS THE SNARE (the wire stays all dry;
-  Xiao An's unspoken "something" and her look up the run).
-- Counts (s44): 2,867 body words; 49 spoken lines, 17.1 per 1000w; average 18.0
-  words per sentence, longest 60.
+## Chapter 18 close — the dry, and the country his (DL 3667; real age ≈ 90–95 months)
+- THE DRAW-DOWN AND THE RUNS: his drinking moved to the fast water; kills taken
+  standing in the current; the summer's costs paid.
+- THE HOUND'S LAST WORD (carried away, unfinished): all season she stood pointed
+  up the water at a smell that was not there — his smell, two summers old, held
+  and never made into a thing a man could see.
+- THE WATCH GOES HOME: the camp struck at the end of the dry; the men walked
+  south with heavy packs; no fire came up the country again.
+- THE COUNTRY HIS: the low trail with no boots on it; the pan and the four
+  stones left to the grass and the crows; the whole country walked in six slow
+  days at the edges; nothing in it hunts him in return.
+- Counts (s45, after the beast-first rebuild): 2,360 body words; no panel; no
+  voices; average 23.4 words per sentence, longest 53.

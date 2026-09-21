@@ -766,144 +766,27 @@ body). The Talent is never named; deltas record its RESULTS.
   ESTIMATE ≈ 190–205 (the winter's heavy meals; the aimed word's spend is not a
   gain). Next barrier at cultivation-year 1,000 — far, unfelt. No leaps.
 
-## ch15 (DL 3665 — the thaw; the queued chapter delivered on the author's "Continue")
-- THE THAW AND THE WAIT: water under the den; the camps on his ground down; one
-  smoke line still south; he hunts the hard ground above and waits while it stands.
-- THE LOW COUNTRY TAKEN: the smoke gone; the emptied watch read in one walk — the
-  men killed a beast and left it standing, the pale beast came up out of the south
-  and ate it, the men watched and went down the country; the wire and blind gone,
-  the fire ring cold, the pale beast's tracks south and none returning; the worn
-  circle of a hound that would not leave one patch of ground (he cannot read what
-  she found); the ground open (no camp, no rival heavy beast, the meat coming down
-  with the thaw, the road between the two countries); his own quiet over it; first
-  kill on the new ground, the rest dragged off the trail.
-- MEN ledger: THE SOUTH WATCH — four days on the low trail below the shelf of old
-  rock, on the pale beast's chosen ground; the bait killed and left standing; the
-  wire, the blind, the hound staked. THE BEAST COME TO THE MEAT: it stepped the
-  wire as if it were drawn for it, stopped short of the kill, read the blind, ate
-  in the open in daylight with the line counting it, and walked off south
-  unhurried. THE RULING: the list carries what the ground can prove — the seen and
-  counted beast written with the place under it, the old lodge man's name and pay
-  under that; NO light for the table; the summer promise (Xiao An walks the high
-  ground where the hound points, in front of Old Qin).
-- THE HOUND: the third reading — the first at the summer water (ch12), the second
-  on the high ground in the cold (ch14); the third time it leaves a living beast
-  to stand over ground carrying his old scent and will not come off it. The one
-  true reading in the south is the one the list cannot write.
-- Firewall: still nothing of him on any paper; the men believe the paper's beast
-  and now hold a direction (the summer walk) and a hound that will not give the
-  scent up. The dragon never hears, never sees.
-- Cultivation (panel; no clock, s7): REAL AGE ≈ 71–73 months; CULTIVATION-AGE
-  ESTIMATE ≈ 195–210 (the winter's heavy meals and the thaw's new ground). Next
-  barrier at cultivation-year 1,000 — far, unfelt. No leaps.
-
-## ch16 (DL 3665 — the summer; the author's second " Continue ")
-- THE SUMMER ON THE TAKEN GROUND: the low country hunted as his own (the old thin
-  grazer taken at the lower pool at dusk; kills kept off the trail, the rest
-  dragged into the fern, the crows paid); the heat, the flies, the water falling
-  to pools; the hunger the same after every meal and only carried.
-- THE LINE COMES BACK NORTH: smoke on the south wind; he reads them three days
-  out; he lies on the rim and lets them walk his own trail, because a beast that
-  moves in front of men is a beast they follow; the hound's night half-circle at
-  the camp edge met by his quiet at its last limit; water skipped, two nights
-  without a kill.
-- MEN ledger: THE SUMMER WALK ON THE HIGH GROUND — stone, dry grass, baked pans;
-  three days of nothing; the hound's stop at the dried pan; Xiao An's read (the
-  print stood while the mud set, no roll in it, the beast looking down at the
-  south); Gao Tie's casts off both ends (stone and stream; she will not cross
-  running water); the print is NOT the pale beast's (narrower, heavier in front,
-  one print in a whole season); Old Qin's ruling — one print with no face and no
-  kill is not a line, the PAN IS THE WATCH, four stones set, next spring before
-  the mud sets; the younger man's first watch promised; Xiao An's last look from
-  the stones.
-- THE TURN — HE PRINTS NO MORE: he reads the stopped places, the hound's two
-  lines, the men's knees in the dust beside his own print; he does not touch the
-  pan (a torn pan is one more thing to read), gives them nothing, and takes the
-  long way — crossings at the rock bars, ridges of bare stone, mud flats left to
-  the grazing kind; twice a kill passed up rather than cross soft mud, a day
-  hungry each time; the cost paid.
-- Firewall: the line now has a place and a shape and no beast; the pan will take
-  a print from anything that walks in the wet, and next spring they will watch
-  it. Nothing of him is written; but the ground itself now writes what he does
-  not. The dragon never hears, never sees.
-- Cultivation (panel; no clock, s7): REAL AGE ≈ 74–76 months; CULTIVATION-AGE
-  ESTIMATE ≈ 200–215 (the summer's meat on the low water). Next barrier at
-  cultivation-year 1,000 — far, unfelt. No leaps.
-
-## ch17 (DL 3666 — the spring wet; the author's third " Continue ")
-- THE WET AND THE TAKEN GROUND FLOODED: the streams over their banks; the low
-  country one brown sheet; the flood's first gift (the slow kind stranded on
-  the ridges, taken twice without a fight, chest-deep); then the meat gone and
-  him hungry inside a week; the ravine den taken as his wet ground (the old
-  roots den under the flood).
-- THE RAIN'S HOURS (the wet's discipline): the wet country writes down
-  everything, so he crosses open ground only in the heaviest rain and watches
-  his own print slump and fill inside the hour; the long way by the rock bars;
-  TWO KILLS PASSED UP and one mud-island beast left standing rather than sign
-  soft ground; thin again inside the wet; the hunger using the thin weeks.
-- MEN ledger: THE WATCH BY THE PAN — the three of them up before the mud sets;
-  the wire low across both ways onto the pan; the lean-to; days all the same;
-  the hound's rounds and the rain erasing her tracks; her nose to the place
-  the one print had been and nothing left; the younger man's "we watch a bowl
-  of soup"; Xiao An's "if". THE WIRE'S CATCH — the young ox of the low country
-  in the wire at the black hour; the iron put down in the dark; half a night
-  of poles; the kill clean and off the pan; the white light risen and boxed;
-  the meat butchered on the rock. OLD QIN'S READING AND RULING — the pan's
-  whole page; no heavy track but the ox's; no line gained for a season of
-  rain; THE LOW WATER WATCH SET (when the flats come out, the line watches the
-  water — the net now lies on his summer ground); the watch struck, the ground
-  put back to rock, the four stones stay; "Do not put a line on the paper out
-  of wanting one."
-- HE READS THE STRUCK WATCH: their season baked into the pan and not one print
-  of his; the price of printing nothing paid for a whole wet; the bare-rock
-  border rule (he sleeps well back from mud).
-- Firewall: the line has gained a watch method (the pan), a boxed white light,
-  and a new ground to watch (the low water); it still has nothing of him — the
-  only heavy track in the pan was the ox they brought themselves.
-- Cultivation (panel; no clock, s7): REAL AGE ≈ 83–85 months; CULTIVATION-AGE
-  ESTIMATE ≈ 205–215 (the flood's first gift and the kill in the drawn water;
-  the lean weeks moved it little). Next barrier at cultivation-year 1,000 —
-  far, unfelt. No leaps. (Open flag: hatch-year vs month-count reconciliation
-  — foundation/OPEN.md item 19.)
-
-## ch18 (DL 3666 — the summer dry; the author's " Next chapter " + the pacing word)
-- THE DRAW-DOWN: the streams come apart into pools; the meat walks the same
-  lines between the same water; he moves his drinking to the runs after he
-  finds the hound staked at the main pool in the first week; the summer's rules
-  (kills at the upper water taken standing in the stream over stone, eaten in
-  the water, the rest left to the crows; crossings on the rock bars); the cost
-  paid (miles, heat, the flies at the cut places); the hunger unchanged.
-- THE TURN: the ground no longer reads him — prints have been off the page for
-  a year and a half of seasons — but the HOUND reads him out of the air and the
-  water (the smell from the big crossing two summers back), and it takes the
-  line to his kill and to the shallows where his feet stood. The drink is the
-  problem now; water has no choices in it and he cannot drop it; his answer
-  remains the runs (fast water, stone underfoot, drunk in the dark) — and the
-  line's answer is the season at the water.
-- MEN ledger: THE LOW WATER WATCH — the wire in the low neck of the main pool
-  on both sides; the blind; the hound staked at the water; Xiao An's daily read
-  of the draw-down; the younger man's boredom (the pale beast's line on his
-  copy of the sheet; the pale beast drinking south in the dry); THE HOUND'S
-  NIGHTS (three nights, standing pointed at the dark bank; "She has never
-  pointed at nothing in her life"; Gao Tie's bedroll moved to the pool's edge).
-  THE KILL WITH NO TRACKS — Xiao An walks onto the grazer dead at the head of
-  the run; the deep parts eaten; the drag-mark; the crows; fifty paces of mud
-  and gravel that hold every small foot and not one print of a heavy hunter;
-  the hound's bark into the shallows and her stare up the run she will not
-  enter; Old Qin come the lodge road; the smell named as the crossing's smell
-  (ch12), NOT the pale one's. THE TWO LINES — Old Qin's ruling: the paper takes
-  a second line; the signer is known apart from the pale killer; his own
-  black-stone rule answered ("Two lines for two beasts is the count finally
-  telling the truth"). THE WATER IS THE SNARE — the watch not struck; the wire
-  stays through the dry ("it cannot drink where the water is not"); Xiao An's
-  unspoken "something" and her look up the run (the fast water — the hound's
-  limit; the counter-read forming, not yet a line).
-- Firewall: still nothing of him — but the line no longer needs ground or
-  sight; it holds him by the hound's nose and by the water's necessity. The men
-  have made him a line of his own (no face, no shape, no track) and the pool
-  their snare. The dragon never hears, never sees.
-- Cultivation (panel; no clock, s7): REAL AGE ≈ 87–89 months; CULTIVATION-AGE
-  ESTIMATE ≈ 210–220 (the drawn-water kills; the leaning weeks held it back
-  some). Next barrier at cultivation-year 1,000 — far, unfelt. No leaps. PACING
-  (s44 law): sameness skipped; the road to the barrier told by time-skip
-  summary.
+## ch15–ch18 REBUILD (s45, 2026-09-21 — the PANEL LAW RE-BOUND executed)
+- Author, verbatim: "What Gao Tie and others what the hell are you even writing
+  what is becoming sense of writing they are nothing, there are nothing to do,
+  oc is soul' beast not human, multiple panel when needed not necessary , no
+  human remind on Forest to die like what you think whom stroy we writeing"
+- Measured before: the men's share of chapters 15–18 ran 46–87%, ch18 at 87%,
+  and the keepers' doings carried the plot while the beast carried the audience.
+- REBUILT (full rewrites, beast-first, no panels, no voices): ch15 The Hound's
+  Third Time 2,229w; ch16 The One Print 2,319w; ch17 The Long Wet 2,250w; ch18
+  The Dry Country 2,360w (renamed from "Two Lines"). The men now reach the page
+  only as ground he reads; every essential event survives in that form (the
+  watch ground, the moss circle, the pan and the stones, the light on the high
+  ground, the knees in the gravel, the trail walking home).
+- THE THREAD CLOSED (ch18): the watch struck, the line walked home, no fire came
+  up the country again. No humans remain on his storyline. The pale beast and
+  the hound — both soul beasts — remain part of the country's life.
+- Counts after: averages 21.8–23.4; no sentence over 60; zero retired words;
+  zero count-numbers; all gates PASS; sweep PASS (18/18 footers).
+- Firewall: closed by their absence. What the men carried out is recorded in
+  codex/KNOWLEDGE_FIREWALLS.md; none of it is knowledge of him.
+- Cultivation (panel; no clock, s7): REAL AGE ≈ 90–95 months; CULTIVATION-AGE
+  ESTIMATE ≈ 215–225. Next barrier at cultivation-year 1,000 — far, unfelt.
+  No leaps. PACING (s44): from here sameness is skipped; the road to the barrier
+  is told by time-skip summary.

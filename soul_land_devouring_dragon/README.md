@@ -15,7 +15,7 @@ Authority order: author word > NO_MISTAKE_LIVE_RULES > FOUNDATION/CANON_LEDGER
   HIS_STATUS_PANEL (DERIVED clean sheet — author-facing)
 - codex/ — CREATURES, TIMELINE, PLACES, CHARACTERS, GLOSSARY,
   KNOWLEDGE_FIREWALLS
-- chapters/ — Chapter_01 … Chapter_17
+- chapters/ — Chapter_01 … Chapter_18
 - tools/measure_prose.py — the corrected prose measure (s43), used for every
   chapter footer
 
@@ -27,19 +27,24 @@ READ FIRST, in order:
 4. foundation/CONTINUITY.md — anchor table + forward references
 5. the last two chapters
 6. foundation/SERIAL_LOG.md — last three entries only
-LIVE EDGE: Chapter 18 — Two Lines (DL 3666, the summer dry; the paper carries
-two lines now, the water is the snare, and the hound — not the ground — is what
-reads him)
-NEXT BEAT: Chapter 19 — THE SEASONS AT THE WATER, under the PACING LAW (s44:
-sameness skipped; the road to the barrier told by time-skip summary): the same
-rounds told once and then skipped; the hound's years; ONE anchored event where
-something is genuinely new, chosen on the author's go. Author's fresh go
-required.
+LIVE EDGE: Chapter 18 — The Dry Country (DL 3667; the men's thread CLOSED — the
+watch struck and the line walked home; the country is his)
+NEXT BEAT: Chapter 19 — THE YEARS ON HIS BORDER, under the PACING LAW (s44) and
+the PANEL LAW RE-BOUND (s45): the seasons after the men told by summary where
+they repeat and by scene where they turn; the deep forest's edge and the pull
+growing; ONE anchored event where something is genuinely new, on the author's
+go. Author's fresh go required.
 RULINGS IN FORCE (2026-09-18, session 27): the year-takers carry faces,
 names and dialogue in the parallel panel (the dragon never hears; firewall
 stands); DD chapter footers KEPT (registered exception to kit 07 §3); the
 kit governs the author's new fiction and stands as reference law — this
 serial keeps its locked shape.
+PANEL LAW RE-BOUND (2026-09-21, session 45; author: " they are nothing, there
+are nothing to do, oc is soul' beast not human, multiple panel when needed not
+necessary "): the story is the beast's; panels only when needed, default none;
+one short panel at most; the footer declares PANEL: NONE or PANEL (one short
+scene); the human thread does not linger (the keepers' line left the forest in
+ch18).
 PACING LAW (2026-09-21, session 44; author: " skip when thing is same skip when he
 reaches thousand years old with summery of time skip "): sameness gets one line
 and no scene; the road to the cultivation-year-1,000 barrier is told by

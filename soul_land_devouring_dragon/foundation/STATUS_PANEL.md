@@ -2,7 +2,8 @@
 CLEAN GLANCEABLE SHEET OF HIM (identity, cultivation, body/height, attributes,
 skills, combat power vs normal soul beasts): bible/HIS_STATUS_PANEL.md
 (author s23 request; updated each chapter).
-Updated: 2026-09-21 (session 44 — CHAPTER 18 "Two Lines" WRITTEN AND GATED: 2,867w / 49 spoken lines (17.1 per 1000w) / average 18.0 / longest 60; the low water watch delivered — the draw-down, the hound's nights, THE KILL WITH NO TRACKS, and Old Qin's ruling that gives the paper its TWO LINES; every mirror synced same turn. SESSION 44 ALSO BOUND THE AUTHOR'S PACING WORD INTO LAW: "don't make too much boring, skip when thing is same, skip when he reaches thousand years old with summary of time skip" → RAILS PACING LAW (sameness skipped; the road to cultivation-year 1,000 told by time-skip summary, never ground out); the panel's next-beats now carry the pacing state).
+Updated: 2026-09-21 (session 45 — THE AUTHOR'S PANEL CORRECTION EXECUTED: " they are nothing, there are nothing to do, oc is soul' beast not human, multiple panel when needed not necessary , no human remind on Forest to die like what you think whom stroy we writeing " — CHAPTERS 15-18 REBUILT as pure beast chapters (no panels, no voices; the men reach the page only as ground he reads) and THE KEEPER'S THREAD CLOSED: the watch struck at the end of the dry, the men walked home, no fire came up the country again. Measured before the fix: ch15 60% men, ch16 46%, ch17 64%, ch18 87%; after: 0% panels in all four. verify.py gate 4 amended (panel declaration in the footer governs voices) and ch1 given its auditable "PANEL: NONE" line. New counts: ch15 2,229w, ch16 2,319w, ch17 2,250w, ch18 2,360w; all gates PASS; sweep PASS (18/18 footers).)
+Session 44 — CHAPTER 18 "Two Lines" WRITTEN AND GATED: 2,867w / 49 spoken lines (17.1 per 1000w) / average 18.0 / longest 60; the low water watch delivered — the draw-down, the hound's nights, THE KILL WITH NO TRACKS, and Old Qin's ruling that gives the paper its TWO LINES; every mirror synced same turn. SESSION 44 ALSO BOUND THE AUTHOR'S PACING WORD INTO LAW: "don't make too much boring, skip when thing is same, skip when he reaches thousand years old with summary of time skip" → RAILS PACING LAW (sameness skipped; the road to cultivation-year 1,000 told by time-skip summary, never ground out); the panel's next-beats now carry the pacing state).
 Session 43 — CHAPTER 17 "The Long Wet" WRITTEN AND GATED: 2,967w / 50 spoken lines (16.9 per 1000w) / average 17.4 / longest 57; no sentence over 60; the watch by the pan delivered — the wet, the rain's hours, the wire's catch, Old Qin's ruling, and the low water watch set for the summer; every mirror synced same turn). SESSION 43 ALSO FOUND AND FIXED A MEASURE BUG: the old one-sentence-paragraph check could never fire, and footers s37–s42 claimed "no one-sentence paragraphs" while the serial carries short one-line beat paragraphs as house style — ruling recorded, wording corrected in place in RAILS, the panels, the logs (bracketed) and every footer; tools/measure_prose.py added as the corrected measure.
 Session 42 — CHAPTER 16 "The One Print" WRITTEN AND GATED: 2,791w / 48 spoken lines (17.2 per 1000w) / average 17.1 / longest 57 no sentence over 60; the summer walk delivered — the line comes back north, the hound stops at the dried pan, the ONE PRINT, the pan made the watch (four stones), the dragon reads it and PRINTS NO MORE; every mirror synced same turn).
 Session 41 — CHAPTER 15 "The Hound's Third Time" WRITTEN AND GATED: 2,686w / 51 spoken lines (19.0 per 1000w) / average 15.0 / longest 53; no sentence over 60; the queued beats delivered — the thaw, the south watch on the pale beast's chosen ground, the beast come to the meat, THE HOUND'S THIRD TIME, the paper held with NO light for the box, the low country taken; every mirror synced same turn).
@@ -34,51 +35,40 @@ numbers.
 - Serial scope; natural length; NATURAL ENDING (none pre-chosen).
 
 ## Now
-LIVE EDGE: after Chapter 18 "Two Lines" (DL 3666, the summer dry; real age
-≈ 87–89 months). THE DRAW-DOWN AND THE RUNS: the water goes down all summer;
-everything walks the same lines between the same pools; he drinks at the runs
-(having found the hound staked at the still water in the first week); the
-summer's rules — kills at the upper water taken standing in the stream over
-stone, eaten in the water, the rest left to the crows; the rock bars; the cost
-(miles, heat, the flies) paid. THE LOW WATER WATCH: Gao Tie's wire in the low
-neck of the main pool; Xiao An's daily reading of the draw-down; the younger
-man's boredom and the pale beast's line on his copy of the sheet; THE HOUND'S
-NIGHTS — she points at nothing on the dark bank, three nights, and Gao Tie
-moves his bedroll to the pool's edge beside her ("She has never pointed at
-nothing in her life"). THE KILL WITH NO TRACKS: the grazer dead at the head of
-the run, the deep parts eaten, the drag-mark, the crows; fifty paces of soft
-mud and loud gravel holding every small thing's feet and NOT ONE PRINT of a
-heavy hunter; the hound's bark into the shallows and her stare up the run she
-will not enter; Old Qin come the lodge road; the smell called as the one from
-the crossing two summers back — NOT the pale one's. THE TWO LINES (the
-chapter's change): the paper takes a second line — the thing that signs and
-does not show, now known apart from the pale beast ("Two lines for two beasts
-is the count finally telling the truth"). THE WATER IS THE SNARE: the watch is
-not struck; the wire stays through the dry — "a beast can go round a blind...
-but it cannot drink where the water is not"; Xiao An's unspoken "something"
-and her look up the run where the hound will not go. HE READS IT ALL: the kill
-bank after them (four pairs of boots, knees in the gravel at the shallows, the
-wire unlifted, the old man come the road); the turn of his season — the ground
-no longer reads him, but THE HOUND DOES (air, water, a smell two summers old),
-so the DRINK is the problem now; his last look at the pool (the hound standing
-pointed at a smell that is not there); his water taken at the run in the black
-dark. The paper's beast count: TWO (the pale killer with a face; the signer
-without). The four stones stand at a pan where no print is. THE DEEP FOREST
-UNCHANGED; the hunger patient; the wall at cultivation-year 1,000 far, unfelt.
-PACING (s44 law): from here sameness is skipped, and the road to the barrier is
-told by time-skip summary. Talent never named; no leaps.
+LIVE EDGE: after Chapter 18 "The Dry Country" (DL 3667, the end of the dry and the
+seasons after it; real age ≈ 90–95 months). THE MEN'S THREAD IS CLOSED: the
+keepers' line kept its watch at the main pool through the dry (read by him from
+the rim: the wire, the fire, the hound), and at the end of the season the camp
+was struck for the last time and the men walked home down the south trail with
+heavy packs; no fire came up the country all autumn, the winter, or the spring
+after. THE COUNTRY IS HIS: the whole low country walked in six slow days at the
+edges; the low trail with no boots on it; the high ground with its pan and its
+four stones left to the grass and the crows. THE HOUND'S LAST WORD (unfinished,
+carried away): all season she stood pointed up the water at a smell that was
+not there — his smell, two summers old, held in her nose and never once made
+into a thing a man could see; she was old, and she went home with it. THE
+DRAGON'S STATE: his drinking moved to the runs and the rock bars; his kills
+taken standing in the current; the long way kept; prints off the page for a
+year and a half of seasons and counting. THE PALE BEAST sits on its own ground
+somewhere south with the roar unreturned. THE DEEP FOREST NORTH, UNCHANGED: the
+pull under the great beasts the same as it has been since his first summer. THE
+WALL at cultivation-year 1,000: far, unfelt. PACING (s44 law): sameness is
+skipped; the road from here to the barrier is told by time-skip summary, with
+scenes kept only where something is genuinely new. PANEL LAW (s45): panels
+only when needed — default none; the story is the beast's. Talent never named;
+no leaps.
 
 ## Exact figures (panel law)
-- REAL AGE: ≈ 87–89 months (hatched late summer DL 3661; through DL 3663,
-  DL 3664, the second winter, the thaw, the green of DL 3665, the wet and the
-  dry of DL 3666 — the ch18 dry lived at the runs. OPEN: the stated
+- REAL AGE: ≈ 90–95 months (hatched late summer DL 3661; through DL 3663,
+  DL 3664, the second winter, the thaw, the summer of DL 3665, the wet and dry
+  of DL 3666, and the seasons after the men left in DL 3667. OPEN: the stated
   hatch year and this month-count do not reconcile — see foundation/OPEN.md,
   "PANEL FIGURE" entry; the increments are the panel's law until the author
   rules).
-- CULTIVATION-AGE (SB-01 — NOT the same as real age): ESTIMATE ≈ 210–220
-  years — HUNDRED-YEAR CLASS; the summer's drawn-water kills moved it; the
-  leaning weeks (the flies, the long crossings) held it back some; the aimed
-  word's spend (ch14) is not a gain. FIRST BARRIER
+- CULTIVATION-AGE (SB-01 — NOT the same as real age): ESTIMATE ≈ 215–225
+  years — HUNDRED-YEAR CLASS; the drawn-water kills, the flood's gift and the
+  years after the men left moved it; the lean wet weeks held it back some; the
+  aimed word's spend (ch14) is not a gain. FIRST BARRIER
   at cultivation-year 100: CROSSED. Next barrier at cultivation-year 1,000
   (SB-03), unaged, unfelt. NO clock (s7); estimates move with events. No
   leaps. (The duplicated tail this line carried since s34 was removed s41.)
@@ -113,8 +103,10 @@ told by time-skip summary. Talent never named; no leaps.
   slow kind stranded on the ridges by the risen water, taken without a fight
   standing chest-deep in ch17's first weeks); THE YOUNG OX OF THE LOW COUNTRY
   [design] (not his kill — it drowned out of the flats, came up onto the high
-  ground and died in the line's wire in the dark; the ch17 wire night, seen by
-  him only as ground afterwards); THE KILL IN THE DRAWN WATER [design] (the old
+  ground and died in the men's wire in the dark; read afterwards from the cut
+  bones, and its light watched standing on the high ground from the rim —
+  ch17); THE DROWNED GRAZER OUT OF THE CURRENT [design] (carried down the
+  flood and eaten on the bare rock — meat that cost him no print, ch17); THE KILL IN THE DRAWN WATER [design] (the old
   grazer in the shallows where the flats were coming out, the first deep meal
   after the lean wet); THE UPPER-WATER KILLS [design] (the ch18 dry — the drawn
   water's meat taken at the runs, standing in the stream over stone, eaten in
@@ -126,7 +118,7 @@ told by time-skip summary. Talent never named; no leaps.
   ravine den (deep outer forest) → THE BLACK-RAVINE SERPENT'S GROUND CROSSED
   (rim-path, in the weight's stillness) → A NEW HOLLOW in the deep country
   (roots and ground and water; the way out is not the way in) → THE
-  WATCH-FOLDS GIVEN UP UNENTERED (the keepers' line's ground; he never crossed
+  WATCH-FOLDS GIVEN UP UNENTERED (the keepers' line's ground; never crossed
   their wire) → THE EDGE OF THE DEEP PLACE (walked between the standings; the
   voice spent there once) → THE LOW COUNTRY TAKEN (ch15 — the ground the line
   left at the thaw; the road between the two countries; his own quiet over it)
@@ -228,22 +220,39 @@ told by time-skip summary. Talent never named; no leaps.
   after; NO growth-rate clock.
 
 ## Next beats (author-gated)
-- PACING STATE (the s44 law in force): sameness is skipped, and the road to
-  the cultivation-year-1,000 barrier is told by time-skip summary. The serial's
-  detailed years (1–5, real) are long past; the seasons from here move by
-  summary unless something is genuinely new.
-- Chapter 19 (on the author's go; SCOPE LAW + PACING LAW in force): THE
-  SEASONS AT THE WATER — the same rounds told once and then skipped; what the
-  drying line does with two lines on the paper through the next seasons; the
-  hound's years; and ONE anchored event, to be chosen on the author's go,
-  where something is genuinely new (candidates on the table: the line's first
-  winter working the two lines in parallel; or the country's own turn — a
-  dry that changes the water itself; or the first fresh thing the years bring
-  to his ground). The deep forest unchanged (nothing staged); the barrier far,
-  unfelt.
+- PACING STATE (s44 + s45 laws in force): sameness is skipped; the road to the
+  cultivation-year-1,000 barrier is told by TIME-SKIP SUMMARY, with scenes kept
+  only where something is genuinely new; panels only when needed, default none.
+  The men's thread is closed and does not return; the country is his.
+- Chapter 19 (on the author's go; SCOPE + PACING + PANEL laws in force): THE
+  YEARS ON HIS BORDER — the seasons after the men, told by summary where they
+  repeat and by scene where they turn: the country's own business (the herds,
+  the springs, the winters), the deep forest's edge stood at again with the
+  pull growing, and the first genuinely new thing the years bring — the choice
+  of what opens the road north (candidates on the table: the first winter he
+  spends under the deep forest's eaves; the pale beast's road read south and
+  whether he crosses it; or the year the standing lights' country stirs a
+  little closer). Author's word picks the anchor; nothing staged without it.
+- DEBT AGAINST THE s45 LAW (flagged, not hidden): chapters 11 and 12 are legacy
+  human-arc chapters (measured 100% and 77% men) written before this ruling;
+  they are queued for the same beast-first rebuild, first in line.
 - No chapter drafting until the author says so.
 
 ## Last action
+Session 45 (2026-09-21; author, verbatim: "What Gao Tie and others what the hell
+are you even writing what is becoming sense of writing they are nothing, there
+are nothing to do, oc is soul' beast not human, multiple panel when needed not
+necessary , no human remind on Forest to die like what you think whom stroy we
+writeing"): PANEL LAW RE-BOUND written into RAILS and executed in one pass.
+Chapters 15-18 REBUILT as pure beast chapters (no panels, no voices; the men
+reach the page only as ground he reads) — measured before: ch15 60% men, ch16
+46%, ch17 64%, ch18 87%. THE KEEPER'S THREAD CLOSED inside ch18: the watch
+struck, the men walked home, no fire came up the country again. verify.py gate 4
+amended (footer panel declaration governs voices) and ch1 given its auditable
+"PANEL: NONE" line. New counts: ch15 2,229 / ch16 2,319 / ch17 2,250 / ch18
+2,360; all gates PASS; project sweep PASS (18/18 footers); all mirrors synced
+same turn; pushed to GitHub. Budget note: beast-first floor 2,000 words.
+
 Session 44 (2026-09-21; author, verbatim: " Next chapter " plus the pacing word
 " Hey don't make too much boring,skip when thing is same skip when he reaches
 thousand years old with summery of time skip "): CHAPTER 18 "Two Lines" written

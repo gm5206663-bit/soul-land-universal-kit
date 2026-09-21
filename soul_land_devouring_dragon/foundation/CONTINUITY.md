@@ -25,7 +25,7 @@ Check this table BEFORE writing any new date or age in a chapter.
 | the wall at cultivation-year 1,000 | ch6 | far ahead, unfelt | PARKED — deliberate |
 | the thread beyond the ridge (kin of the blood) | ch7–10 | author-gated, nothing staged | PARKED — deliberate |
 | one of the greatnesses may read him again | ch9 | author-gated, nothing staged | PARKED — deliberate |
-| the paper in Old Qin's coat (the keepers' line filled in fold by fold) | ch13 | author-gated | OPEN |
+| the paper in Old Qin's coat (the keepers' line filled in fold by fold) | ch13 | ch18 | CLOSED (s45) — carried down the country with the men; no human thread remains |
 | the voice as a name he cannot un-say (anything deep enough to read a word can read him) | ch13 | author-gated, nothing staged | OPEN |
 | the want's patience (it wants the deep years; it no longer hurries him) | ch13 | author-gated | OPEN |
 | the hound that held his scent for one hour | ch12 | author-gated | OPEN |
@@ -33,26 +33,26 @@ Check this table BEFORE writing any new date or age in a chapter.
 | the paper's beast: seen and counted, no light for the box (what the lodge does with that) | ch15 | author-gated | OPEN |
 | the low country as his ground (the road between the two countries) | ch15 | held | HELD |
 | the marked pan (the line's spring watch) | ch16 | ch17 | WORKED — the watch held the whole wet and took nothing of his; the four stones stay (ch17) |
-| the low water watch (the flats come out; the line comes to the water) | ch17 | ch18 | WORKED — the water watch held all dry; the kill with no tracks gave the paper its second line; the watch NOT struck (the water is the snare) |
-| the two lines on the paper (the pale killer; the signer without a face) | ch18 | author-gated | OPEN |
-| Xiao An's counter-read (the hound will not cross running water; the kills are all up by the runs) | ch18 | author-gated | SEEDED — her unspoken "something"; not yet written |
-| the hound (older now; the one reader the prints no longer matter to) | ch18 | author-gated | OPEN |
+| the low water watch (the men at the pool all dry) | ch17 | ch18 | CLOSED (s45) — worked all dry and struck at the end of it; the men walked home |
+| THE MEN'S THREAD | ch11 | ch18 | CLOSED (s45) — the watch struck, the line walked home, no fire came up the country again; no humans remain on his storyline (the s45 PANEL LAW ruling) |
+| the hound (old; carried his smell home unresolved) | ch12 | ch18 | LAST SEEN walking south with the men; her one reading she could never spend |
+| the pale beast (the roar still on it, somewhere south) | ch14 | held | HELD — his ground was read once at the south pool and left alone (ch15); never staged without the author |
 | the boxed white light (the ox's thin light carried to the tables) | ch17 | ch17 | closed by the accounting (the season's light, not the quarry's) |
 | he prints no more (the long way; the cost of crossing nothing soft) | ch16 | held | HELD |
 | the wrong face on the paper (the men hunting the pale beast south) | ch14 | author-gated | OPEN |
 | the pale beast carrying the sound of the dragon (it knows what he is) | ch14 | author-gated | OPEN |
 | the aimed word's price (the country reading too warmly; the thread loud) | ch14 | author-gated | OPEN |
-| the two lodge men [design] | ch13 | ch18 | the older one killed by the pale beast at the broken watch-fold (died at the camp of black stone); the younger one lives — the south watch (ch15), the summer walk (ch16), the wet watch (ch17), the water watch (ch18) |
+| the two lodge men [design] | ch13 | ch18 (thread closed s45) | the older one killed by the pale beast at the broken watch-fold (died at the camp of black stone); the younger one walked home with the rest |
 | the pale beast of the deep fringe [design] | ch14 | ch14 | the rival reader; the wrong face on the keepers' line; walks south with the aimed word in its ears |
 
 ## Character register
 | Name | First | Last | Note |
 |---|---|---|---|
-| he (the dragon; unnamed by law) | ch1 | ch18 | protagonist |
-| the year-takers | ch5 | ch12 | spine opposition — FACES from ch11 (the 2026-09-18 ruling): the parallel panels carry them in the reader's eyes (OLD QIN the list-keeper — SOUL KING, GAO TIE the spirit hound's master — GRAND SOUL MASTER, XIAO AN the young one — SOUL MASTER [design — named per the Soul Land naming convention, corrected s30]); the dragon never hears, never sees; firewall stands; ch12: the crossing at the water (the spirit hound's scent carried; the sign of the seen set); ch13: THE KEEPERS' LINE SET AND NAMED — the watch craft worked fold by fold (the kill left standing, the light boxed, the wire, the blind, the staked hound); ch14: the wrong face written into the list (the pale beast), the line turned south; ch15: the south watch (the pale beast seen and counted; no light for the box; the hound's third reading) and the low country taken by him; ch16: the summer walk on the high ground — the ONE PRINT read, the pan made the watch, and he prints no more; ch17: the wet — the watch kept the pan and caught an ox, the low water watch set, and he lived the wet on stone with not one print left; ch18: the dry — the paper takes two lines, the water made the snare, and the hound (not the ground) is what reads him now |
-| Old Qin (the list-keeper) [design] | ch11 (parallel panel) | ch18 | SOUL KING; the list on paper; the stag's purple light carried down the road to the tables (the ring-slot law, ER-12); the sign of the seen set on the keepers' line at the water |
-| Gao Tie (the spirit hound's master) [design] | ch11 (parallel panel) | ch18 | GRAND SOUL MASTER; the spirit hound's collar; the keepers' rumor; "It holds it like a name... It doesn't hold an hour for a piece of grass." |
-| Xiao An (the young one) [design] | ch11 (parallel panel) | ch18 | SOUL MASTER — a white first ring; ch15: given the summer walk; ch16: her read of the pan — the print stood while the mud set, no roll in it, the beast facing south; ch17: the wet watch; ch18: the kill with no tracks walked out for them all, and her unspoken "something" held back (her look up the run where the hound will not go). the bull's deep purple goes to the tables rather than any thin frame (the ring-slot law, ER-12); her read: "it knows the country, and it knows where a beast will stand"; the keepers' line her line |
+| he (the dragon; unnamed by law) | ch1 | ch18 (rebuilt s45) | protagonist — the ONLY POV; the serial is his (s45) |
+| the year-takers | ch5 | ch12 | spine opposition — FACES from ch11 (the 2026-09-18 ruling): the parallel panels carry them in the reader's eyes (OLD QIN the list-keeper — SOUL KING, GAO TIE the spirit hound's master — GRAND SOUL MASTER, XIAO AN the young one — SOUL MASTER [design — named per the Soul Land naming convention, corrected s30]); the dragon never hears, never sees; firewall stands; ch12: the crossing at the water (the spirit hound's scent carried; the sign of the seen set); ch13: THE KEEPERS' LINE SET AND NAMED — the watch craft worked fold by fold (the kill left standing, the light boxed, the wire, the blind, the staked hound); ch14: the wrong face written into the list (the pale beast), the line turned south; ch15: the south watch ground read and the low country taken by him; ch16: the men pass unseen, the pan and the four stones read after them, and he prints no more; ch17: the wet lived on stone, the light on the high ground watched whole, not one print of his; ch18: the watch struck, the men walked home, and the country is his (ch15-18 rebuilt s45 — the men now reach the page only as ground he reads) |
+| Old Qin (the list-keeper) [design] | ch11 (parallel panel) | ch18 (thread closed s45) | SOUL KING; the list on paper; the stag's purple light carried down the road to the tables (the ring-slot law, ER-12); the sign of the seen set on the keepers' line at the water |
+| Gao Tie (the spirit hound's master) [design] | ch11 (parallel panel) | ch18 (thread closed s45) | GRAND SOUL MASTER; the spirit hound's collar; the keepers' rumor; "It holds it like a name... It doesn't hold an hour for a piece of grass." |
+| Xiao An (the young one) [design] | ch11 (parallel panel) | ch18 (thread closed s45) | SOUL MASTER — a white first ring; carried off the mountain the one reading she never spent (the hound would not cross running water; the kills were always up by the runs). the bull's deep purple goes to the tables rather than any thin frame (the ring-slot law, ER-12); her read: "it knows the country, and it knows where a beast will stand"; the keepers' line her line |
 | the greatness past his reading | ch9 | ch10 | never staged; author-gated |
 | the grey stag of the second water | ch10 | ch10 | taken by the year-takers at the turn |
 | the broad-antler of the high break [design] | ch11 | ch11 | marked, taken by the year-takers at the marked hour — the war's second line |
@@ -67,7 +67,7 @@ Check this table BEFORE writing any new date or age in a chapter.
 | ch11 | the deep year turned; war of the lists opened | the green season: the second line taken, the race's line won, the two reds met, the parallel panel (faces to the reader); the season's question over the green |
 | ch12 | the green season: the second line taken, the race's line won, the two reds met | the green at its height: the bull taken at the water, the crossing (the spirit hound's scent), the war's shape changed — the next line of both lists is the reading of the other's mark |
 | ch13 | the green at its height: the bull taken, the crossing, the war's shape changed | the falling of the green: the after-cost paid, the kill-word read as a sign, THE KEEPERS' LINE SET (the watch craft), the voice spent at the deep edge, the want wakened patient — two lists over one country and only one of them can read |
-| ch18 | the low water watch worked; the two lines written | the dry: the hound's nights, the kill with no tracks, the paper's two lines, the water made the snare, and the hound — not the ground — now the reader that matters |
+| ch18 | the men at the pool all dry | the dry, rebuilt s45: his drinking to the runs, the hound's nights watched from the rim, the kill at the run and the men at his shallows, and THE WATCH GOES HOME — the men walked south for the last time; the country is his |
 | ch17 | the pan marked; the low water watch set | the wet: the watch kept through the rain and gained no line, the wire took an ox, the low water watch set for summer, and he lived the wet on stone, leaving nothing |
 | ch16 | the line back north on the hound's read; the pan marked | the summer: the one print read, the pan made the watch, and he prints no more |
 | ch15 | the wrong face on the keepers' line; the line turned south | the thaw: the south watch on the pale beast's chosen ground, the beast seen and counted, the hound's third reading, the paper held with no light for the box, the low country taken |
