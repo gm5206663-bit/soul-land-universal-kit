@@ -15,7 +15,7 @@ content was kept.** Nothing in any project's live serial, laws, or gates was edi
 | `the-universal-storyline-creation-` | `a6a24cf` (s40 ship, unchanged) | none |
 | `soul-land-projects` | `dd39daf` (seed_of_creation merged in) | none |
 | `storyos-site` | `64c1739` (unchanged) | none |
-| `soul_land_4_fire_phoenix` | `607f7f5` (housekeeping) | none |
+| `soul_land_4_fire_phoenix` | `7b2c641` (housekeeping) | none |
 
 Secret scan across all five repositories: **clean** (no `ghp_`/`github_pat_`/`AKIA`/password
 patterns anywhere in tracked files; `push_to_github.sh` takes the token as an argument and never
@@ -65,6 +65,13 @@ archive is frozen history and its internal citations win over tidiness.
    uploaded"; the zip is present in this repository (309 files, added 2026-09-18) and
    `Soul_Land_3_Project/` holds 117 chapter files. A dated banner resolves the freeze.
 
+## Scans re-run properly before the deletions
+
+A full same-directory duplicate scan (md5 per folder) and a junk-name scan (`(1)`, `copy`, `_old`, `.bak`, `.tmp`, `~`,
+`__pycache__`) were run across all five repositories. Findings were exactly the items listed above and nothing else.
+Two `(1)`-named files were checked and **kept**: `uploads/README (1).md` in the kit and in `soul-land-projects` differ in
+content from `uploads/README.md` (715 B vs 4,118 B in soul-land-projects) — a different upload, not a copy.
+
 ## the-universal-storyline-creation- — checked, nothing wrong found
 
 Registry, intake, and gates are consistent with the kit (`devouring_dragon` edge = kit `22765d8`,
@@ -82,6 +89,9 @@ deleted as redundant.
 
 - Removed `storyos-site/` — one file (`validation_report.txt`), an unreferenced leftover of the
   StoryOS publish stage; StoryOS has its own repository (`storyos-site`).
+- Removed the two byte-identical COMPLETE-panel twins inside the `audits/2026-09-14_chapter36_sync_before/` and
+  `audits/2026-09-15_chapter39_sync_before/` snapshots (each folder keeps its `YAN_SHUO_CURRENT_STATUS_PANEL.md` twin;
+  the snapshots' other files untouched). Commit `7b2c641`.
 - Replaced `YAN_SHUO_COMPLETE_CURRENT_STATUS_PANEL.md` — byte-identical duplicate of
   `YAN_SHUO_CURRENT_STATUS_PANEL.md` (two copies of one status panel breaks the one-source rule).
   The file now contains a pointer to the single panel; older audits that list both files are
@@ -127,3 +137,6 @@ and topics were added where none existed.
 - Any rewrite of historical audits and dated archive files (they record what was true when written).
 - Regenerating the `storyos-site` published snapshot (needs `$STORYOS_HOME`; it is current as of the
   last measured edge anyway).
+
+*The kit row above is `ba2e939`; the two commits after it are this receipts file itself — see
+`git log --oneline -3 -- HOUSEKEEPING_2026-09-21.md`.*
