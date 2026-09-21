@@ -1,6 +1,6 @@
 # Chapter 1: The First Hunger
 
-The shell had been a wall for as long as he had been anything, and then it hurt. That was the first thing: the wall pressing in from every side at once, water-tightness giving way to a thin, cold wet seeping in, and something in him that had been waiting a very long time deciding that it was done waiting. He pushed. The push was not a thing he chose. It came up out of his back and his neck and his legs together, like a cough coming up out of a chest, and the shell split somewhere near his head with a small sharp sound.
+The shell had been a wall for as long as he had been anything, and then it hurt. That was the first thing: the shell pressing in from every side at once, water-tightness giving way to a thin, cold wet seeping in, and something in him that had been waiting a very long time deciding that it was done waiting. He pushed. The push was not a thing he chose. It came up out of his back and his neck and his legs together, like a cough coming up out of a chest, and the shell split somewhere near his head with a small sharp sound.
 
 Light came through the split. It was white and thin and it hurt too, and he did not know it was light, only that the world beyond the shell was colder and louder than the world inside it.
 
@@ -36,7 +36,7 @@ The first true hunt was for the stone-runners. They lived in the talus where the
 
 He wanted one. He wanted it as he had wanted the shell.
 
-He went at the first one straight, fast, all at once, as the hunger told him to go. He was two lengths away when it saw him, and it was gone into a crack between two stones before he reached the spot, and he hit the boulder behind it shoulder-first and lay there with his ears ringing.
+He went at the first one straight, fast, all at once, as the hunger told him to go. He was two paces away when it saw him, and it was gone into a crack between two stones before he reached the spot, and he hit the boulder behind it shoulder-first and lay there with his ears ringing.
 
 He tried again that evening. Same thing. Again the next morning.
 

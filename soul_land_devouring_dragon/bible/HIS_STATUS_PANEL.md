@@ -224,13 +224,13 @@ marked [design] and belong to the author to correct.
   the thaw, and GO DEEP with the green — the going is the going of readers;
   in the READER's eyes only (the parallel panel, the 2026-09-18 ruling)
   they carry faces — OLD QIN (the list-keeper; SOUL KING; the grey stag's
-  purple light carried down the road to the tables (the ring-slot law, ER-12); "It signs. Then it is a line on the list."), GAO TIE (the
+  purple light carried down the road to the tables (the ring-slot law, ER-12); "It leaves signs. Then it is a line on the list."), GAO TIE (the
   spirit hound-man; GRAND SOUL MASTER; "the old hunters of the border say the deep
   country has its own keepers"), XIAO AN (the young one; SOUL MASTER — the
   white first ring carried since the border; the bull's deep purple goes to the tables, not her frame; the mark
   observed: "it knows the country, and it knows where a beast will stand"); their
   list on paper, their motive on the page — the dragon never hears, never
-  sees; the firewall stands. CH12: THE FIRES IN THE GIANTS' COUNTRY (two fires; the hound working the water line out ahead of them); their list has grown the KEEPERS' LINE (the mark written at the winter place — no name, the sign of the mark on it: "a thing that signs and does not show"); their craft: the water's edge, at the water's hour, and the retreat rule ("if the mark comes while we are at it — we pull back"); THE SIGN OF THE SEEN set on the
+  sees; the firewall stands. CH12: THE FIRES IN THE GIANTS' COUNTRY (two fires; the hound working the water line out ahead of them); their list has grown the KEEPERS' LINE (the mark written at the winter place — no name, the sign of the mark on it: "the beast that leaves signs and never shows itself"); their craft: the water's edge, at the water's hour, and the retreat rule ("if the beast comes while we are at it — we pull back"); THE SIGN OF THE SEEN set on the
   keepers' line at the water (the spirit hound's certainty for a whole hour ("It doesn't hold an hour for a piece of grass"); "When a
   line has been seen, the list goes to it" — their next going is toward the
   mark).
@@ -268,9 +268,9 @@ marked [design] and belong to the author to correct.
   being read). A name he cannot un-say.
 - THE WANT: wakened patient at the turning of the season — unhurried, wanting
   the deep years (DS-08 uncured, ridden).
-- Counts (s39, after the scope trim): 2,728 body words; 32 spoken lines, 11.7
-  per 1000w; average 20.0 words per sentence, longest 60; no one-sentence
-  paragraphs.
+- Counts (s40, after the plain-language rewrite): 2,564 body words; 32 spoken
+  lines, 12.5 per 1000w; average 17.7 words per sentence, longest 54; no
+  one-sentence paragraphs.
 
 ## Chapter 14 close — the deep country's second winter (DL 3664–65; real age ≈ 68–70 months)
 - THE SIGN'S SECOND EDGE: the pale beast of the deep fringe follows his lie-kills
@@ -282,6 +282,6 @@ marked [design] and belong to the author to correct.
   can answer it any more; it wants the standing itself; held like a current.
 - THE WATCH PULLED OFF HIS GROUND: the pale beast broke one of their folds and
   killed a man; the keepers' line now carries a wrong face and walks south.
-- Counts (s39, after the scope trim): 3,267 body words; 38 spoken lines, 11.6
-  per 1000w; average 19.1 words per sentence, longest 58; no one-sentence
-  paragraphs.
+- Counts (s40, after the plain-language rewrite): 3,169 body words; 38 spoken
+  lines, 12.0 per 1000w; average 17.2 words per sentence, longest 46; no
+  one-sentence paragraphs.

@@ -1,12 +1,12 @@
 # Chapter 2: The Law of the Snow
 
-The first snow came in the night and the world turned white by morning, and the white changed every rule he had learned. He woke in his hollow with the cold on his back and something new lying over the slope outside. It was soft and it was deep and when he stepped into it his legs went in to the knee, and the cold of it came through the pale scales of his belly and sat there.
+The first snow came in the night and the world turned white by morning, and the snow changed every rule he had learned. He woke in his hollow with the cold on his back and something new lying over the slope outside. It was soft and it was deep and when he stepped into it his legs went in to the knee, and the cold of it came through the pale scales of his belly and sat there.
 
-The slope he had learned was gone under it. The rock seam was gone. The green thread at the seep was gone. The talus where his paths ran was a white field with the tops of the stones standing out of it like drowned teeth.
+The slope he had learned was gone under it. The rock seam was gone. The summer thread at the seep was gone. The talus where his paths ran was a white field with the tops of the stones standing out of it like drowned teeth.
 
 He stood in the middle of it with the hunger already up and looked for something that made sense. The hunger did not care that the world had changed. It said eat, and there was nothing to obey it with, and that was the first day.
 
-The second day he learned the snow's own smell. He had a nose, and a nose does not stop at a white field; it reads through. That was what the cold taught him, slowly, one failed hunt at a time. Snow had a smell of its own, thin and flat, and under the smell of snow, if the wind was wrong or the day was old, everything underneath it was a secret. But on a still morning, with the frost hard and the air clean, the snow carried smells upward like water carries oil. He learned to stand with his nose up on those mornings and read what the white had buried: a hare-kind sleeping in a drift, a fox-kind's line down a gully, old blood two days cold where something had died.
+The second day he learned the snow's own smell. He had a nose, and a nose does not stop at a white field; it reads through. That was what the cold taught him, slowly, one failed hunt at a time. Snow had a smell of its own, thin and flat, and under the smell of snow, if the wind was wrong or the day was old, everything underneath it was a secret. But on a still morning, with the frost hard and the air clean, the snow carried smells upward like water carries oil. He learned to stand with his nose up on those mornings and read what the snow had buried: a hare-kind sleeping in a drift, a fox-kind's line down a gully, old blood two days cold where something had died.
 
 He learned it as he had learned the slope. By being wrong about it and paying.
 
@@ -20,7 +20,7 @@ He did not think of it. It simply happened, day after day, as cold made his bell
 
 He saw the men for the first time in the middle of the cold. It was a late afternoon, the light going grey and thin, and he was up on the high rock above his hollow where the wind had swept the stone bare. Far down the slope, near the pass trail, something was moving that was not a beast.
 
-There were beasts there, and not-beasts. The beasts he knew in the shape of spirit hounds, though these were bigger and thicker than any he had met digging in the snow. They ran loose in the white with their heads down and their cry going up in pieces, and they ran on lines, the whole pack of them, working lines as his own nose worked a trail.
+There were beasts there, and not-beasts. The beasts he knew in the shape of spirit hounds, though these were bigger and thicker than any he had met digging in the snow. They ran loose in the snow with their heads down and their cry going up in pieces, and they ran on lines, the whole pack of them, working lines as his own nose worked a trail.
 
 Behind them, walking upright on two legs, came the not-beasts. He flattened on the rock and watched them come down the pass trail. They were slow and they were loud and they were wrapped in the hides of other beasts, and they carried long thin things over their shoulders that the grey light caught and turned to points of fire.
 
@@ -38,9 +38,9 @@ He did not run. Running was a thing his body wanted and his body was wrong. He p
 
 The wind kept going. It carried his smell down the slope, and then it shifted, rolled, and carried it past the hound into the empty country to the west, and the question went unanswered.
 
-The hound stood a while longer with its nose up. Then it dropped its head and went back to the meat, and the upright things finished their work and took the deer-kind away on a drag of wood, and the white slope stood empty and quiet under the grey sky, and he lay on his rock until the light was gone.
+The hound stood a while longer with its nose up. Then it dropped its head and went back to the meat, and the upright things finished their work and took the deer-kind away on a drag of wood, and the snow slope stood empty and quiet under the grey sky, and he lay on his rock until the light was gone.
 
-Men. That was the word, though he had no word for it. Men, and their kept spirit hounds, and the death that had no length. It changed the map more than the snow had.
+Men. That was the rule of the place, though he had no words for it. Men, and their kept spirit hounds, and the death that had no length. It changed the map more than the snow had.
 
 ---
 
@@ -88,9 +88,9 @@ The place taught him what men were, better than the kill on the trail had. They 
 
 He left the lodge standing empty behind him and went back up the slope. Men breathe like a season. That was the keep, and he kept it whole: they come, and they go, and their going is bigger than anything he could read.
 
-The storms thinned after that. There was a day of dripping, and a night when the cold came loose, and then a morning when a whole slope of the white had gone grey and soft and the water under it was moving.
+The storms thinned after that. There was a day of dripping, and a night when the cold came loose, and then a morning when a whole slope of the snow had gone grey and soft and the water under it was moving.
 
-He stood on the warm rock that afternoon, in the sun, thin and hungry and bigger than he had been when the white came, and watched the mountain start giving itself back. The first season had taught him water, hunger, wind, and stone. The first winter had taught him snow, men, and the red thing inside himself. He climbed down into his hollow with the sun on his back and the smell of wet ground coming up the slope, and something in him — the deepest thing, the thing that had been counting his life without ever saying a number — sat up and said one word, low and firm: more.
+He stood on the warm rock that afternoon, in the sun, thin and hungry and bigger than he had been when the snow came, and watched the mountain start giving itself back. The first season had taught him water, hunger, wind, and stone. The first winter had taught him snow, men, and the red thing inside himself. He climbed down into his hollow with the sun on his back and the smell of wet ground coming up the slope, and something in him — the deepest thing, the thing that had been counting his life without ever saying a number — sat up and said one word, low and firm: more.
 
 ---
 
@@ -118,7 +118,7 @@ The door came open and the third one came in with a hound behind him, and the co
 
 "To the knee," said the old one, "and a month of it yet to come."
 
-"The line held?"
+"The trap held?"
 
 "The line held. The dogs read it three times and there was nothing in it."
 
@@ -140,7 +140,7 @@ The dogs were asleep in the straw by the door in a heap. One of them lifted its 
 
 ## Footer
 
-- Word count (body): 3,093 (verify.py, s37 gate). Spoken dialogue: 27 lines (8.7 per 1000w). Prose metrics (s35 house-grammar method, prose-only): average 17.4w, median 14w, longest 60w; no sentence over 60w; no one-sentence paragraphs; motif word "the way" x0.
+- Word count (body): 3,096 (verify.py, s37 gate). Spoken dialogue: 27 lines (8.7 per 1000w). Prose metrics (s35 house-grammar method, prose-only): average 17.4w, median 14w, longest 60w; no sentence over 60w; no one-sentence paragraphs; motif word "the way" x0.
 - Chapter time: DL 3661–62 — the first cold season (exact figures panel-only).
 - Gate: standing delegation (2026-09-20). HUMAN SCENE: one scene at the lodge at the first snow — the men count the thinning deer runs, the pass line, the boy and his bow, the dogs' work — written at house density. The dragon is never inside it, and nothing human is understood anywhere in the chapter (firewall stands). Beats held: snow as teacher (scent-through-snow); wintering stone-runners dug out; FIRST SIGHTING OF MEN — spirit hounds, iron killing at a distance, the hound's question answered by a shifting wind; the lodge lights and the red thing held at the treeline; the offal and THE FIRST TRUE FIGHT — the hill-cat killed by jaw-hold, paid in the scars; first carrion; the deep sleep and the visible growth (armor scales, sharper nose); the empty lodge read; the thaw felt.
 - s36 rebuild note (2026-09-20; author, verbatim: "Now rebuild chapter 1 to 12 completely" ): chapter rewritten in full at the house grammar (foundation/HOUSE_STYLE_AUDIT.md): scene-first opening, short plain sentences, scenes shown moment to moment, no abstraction engines; the souls-beast rule (SB-11) held — spirit hounds, soul beasts, no ordinary animals.

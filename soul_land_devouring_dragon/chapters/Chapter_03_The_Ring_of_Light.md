@@ -1,6 +1,6 @@
 # Chapter 3: The Ring of Light
 
-The thaw took the white off the mountain in three weeks, and when it was gone the slope was not the slope any more. It was his.
+The thaw took the snow off the mountain in three weeks, and when it was gone the slope was not the slope any more. It was his.
 
 That was the difference the winter had made, and he felt it the first morning he came down through the wet fern with the sun on his back. The rock seam was his seam. The seep was his seep. The talus where the stone-runners lived was his larder, and when he walked the paths between the cracks the runners did not sit up and look at him any more.
 
@@ -20,7 +20,7 @@ The pull had been waiting for the thaw all winter. It came on the first truly wa
 
 He went. The going took him farther than he had ever been. The slope fell away into a valley of deep mixed green, and the trees in the valley were bigger than his trees, and the ground between them held more tracks than he could hold in his head at once. And as he came down among them, the country opened in him.
 
-It was not a thing he could have described. It was like warm water around a body that has been cold for a long time. His blood, which was thin and young and mostly silent, sat up in him and answered the green.
+It was not a thing he could have described. It was like warm water around a body that has been cold for a long time. His blood, which was thin and young and mostly silent, sat up in him and answered the forest.
 
 He walked on through it with his head up and something in him that was not hunger and not fear standing the whole length of his spine. The forest was the country of his kind. He had not known there was such a thing as a country of his kind.
 
@@ -56,7 +56,7 @@ He ate until he could not eat any more, and then the deep sleep took him where h
 
 It took him most of a morning to understand what had changed, because it was not his eyes and it was not his nose. Everything he looked at had a second thing in it now, as a rock has a warm side and a cold side. Some lives glowed. The beetles on the rock had a faint flat look to them. The stone-runners, sitting up on their haunches watching him, had something small and bright in them, and the bristle-back's meat had left a warm banked coal low in his own belly that he could almost see when he turned his mind to it.
 
-He had begun to be able to tell the small lives from the great ones. He could not read it yet. He could only feel the difference.
+He had begun to be able to tell the small lives from the great beasts. He could not read it yet. He could only feel the difference.
 
 But he had felt it. And that was a door opening.
 
@@ -70,7 +70,7 @@ It was quick. He had never seen a beast run like that — low to the ground, all
 
 He had seen the death that has no length. He had seen it take a deer-kind in the middle of a stride. He knew what was coming.
 
-The death came. The flat hard sound, once, from the trees at the far side of the fern country; and the slender beast went down in the middle of its run, at full speed, and slid a length through the green and did not move.
+The death came. The flat hard sound, once, from the trees at the far side of the fern country; and the slender beast went down in the middle of its run, at full speed, and slid a length through the summer and did not move.
 
 The upright things came out of the trees and walked across the fern to the body at their own pace, the walk of men who already know how a thing ends. There were two of them. One was old, and one was young, and the old one had the long thin thing over his shoulder and the young one carried a short bright blade and a pack. The hounds came up and stood around the body with their heads down, respectful, and the two men stood over it, and then the old one crouched down and did something he did not understand.
 
@@ -96,7 +96,7 @@ And there was one more thing, and it stayed with him longer than all of the rest
 
 He had wanted, for the first time in his life, to eat the years of a creature that was already dead and already in other hands. The red thing was deeper than hunger. He knew that now.
 
-He held it with the whole of the winter he had in him, and it did not calm. He lay on the wall and let it stay up in his chest until the last of the men's smell went off the fern country, and then he went down to the ground and put his nose in the cold fern and rang the heaviness out of his legs as a body rings out a long run.
+He held it with the whole of the winter he had in him, and it did not calm. He lay on the ledge and let it stay up in his chest until the last of the men's smell went off the fern country, and then he went down to the ground and put his nose in the cold fern and rang the heaviness out of his legs as a body rings out a long run.
 
 He walked back to his roots-house in the dark and lay down, and the pale light stood over the emptied body in his memory all night. He was of the forest now, and the forest had told him what its worst secret was. Men did not only kill the beasts of the mountain. They took the years out of them and wore the years themselves, and one day, as the pull was pulling him, the years would be his. And behind his patience and his little jaws there would be a long line of other creatures who had wanted exactly the same thing, and the men who were better at it than any of them. Then the deep sleep came for him, and for a while the world was quiet.
 
@@ -120,7 +120,7 @@ The young man put his hand down and looked at the beast instead. The great grey 
 
 "The lodge says the ground is theirs."
 
-"The lodge says a great many things," said the old one. "The lodge sits in a warm room and counts what we carry down. Eat. Then sleep. Tomorrow we walk the fern country east and I want the marks read before noon."
+"The lodge says a great many things," said the old one. "The lodge sits in a warm room and counts what we carry down. Eat. Then sleep. Tomorrow we walk the fern country east and I want the tracks read before noon."
 
 "What is in the fern country east?"
 
@@ -152,6 +152,6 @@ They ate. The young man turned his hand over one more time in the firelight and 
 
 - Word count (body): 3,390 (verify.py, s37 gate). Spoken dialogue: 30 lines (8.8 per 1000w). Prose metrics (s35 house-grammar method, prose-only): average 18.6w, median 13w, longest 60w; no sentence over 60w; no one-sentence paragraphs; motif word "the way" x0.
 - Chapter time: DL 3662 — the thaw into early summer (exact figures panel-only).
-- Gate: standing delegation (2026-09-20). HUMAN SCENE: one scene at the fern-country kill — the young hunter's first light going into him, the old hunter's talk of the line, the count, and the bull in the east — written at house density. The dragon watches from the root-wall, understands nothing, is never seen (firewall stands). Beats held: the thaw's teaching become ground (the nest taken in open); THE PULL ANSWERED (his blood answers the green — belonging before learning); THE FOREST KNOWS HIS BLOOD (the low lives go down before him); the roots-house den (a way out that is not the way in); FIRST DEATH FOUGHT — the bristle-back taken by jaw-hold, paid in the muzzle cuts; the deepest devouring yet and THE FIRST FLICKER OF THE RACE SKILL (the air drawn, the meal feeding more than the belly); waking with the world's more legible (the plain warmth and the warmth-with-more told apart); THE RING WITNESSED — the slender beast run down, the pale-gold ring rising, the upright one kneeling under it and taking it in; the lesson: men take the years; bloodthirst in its new, deeper form, held; the emptied body eaten anyway.
+- Gate: standing delegation (2026-09-20). HUMAN SCENE: one scene at the fern-country kill — the young hunter's first light going into him, the old hunter's talk of the line, the list, and the bull in the east — written at house density. The dragon watches from the root-wall, understands nothing, is never seen (firewall stands). Beats held: the thaw's teaching become ground (the nest taken in open); THE PULL ANSWERED (his blood answers the green — belonging before learning); THE FOREST KNOWS HIS BLOOD (the low lives go down before him); the roots-house den (a way out that is not the way in); FIRST DEATH FOUGHT — the bristle-back taken by jaw-hold, paid in the muzzle cuts; the deepest devouring yet and THE FIRST FLICKER OF THE RACE SKILL (the air drawn, the meal feeding more than the belly); waking with the world's more legible (the plain warmth and the warmth-with-more told apart); THE RING WITNESSED — the slender beast run down, the pale-gold ring rising, the upright one kneeling under it and taking it in; the lesson: men take the years; bloodthirst in its new, deeper form, held; the emptied body eaten anyway.
 - s36 rebuild note (2026-09-20; author, verbatim: "Now rebuild chapter 1 to 12 completely" ): chapter rewritten in full at the house grammar (foundation/HOUSE_STYLE_AUDIT.md): scene-first, short plain sentences, scenes shown moment to moment; soul-beast rule (SB-11) held — every creature a soul beast, men's beasts the spirit hounds.
 - Figure audit: zero count-numbers in prose. All age/cultivation figures panel-only.

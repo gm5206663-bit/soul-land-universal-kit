@@ -1,14 +1,14 @@
 # Chapter 5: The Hunger That Has No Meal
 
-The second autumn met him as an equal, and that was the first autumn he had ever had. The first one had been a thing that happened to him. This one he walked into with his eyes open: the green going gold at the edges, the heavy kinds feeding up for the cold, the stream running low and clear, and the first thin frost on the high ground in the mornings. He knew the country now. He knew what it did in the second month and in the third. When the cold came, he would be ready for it, and the knowing made the whole season taste different, the way meat tastes different when the belly is already warm.
+The second autumn met him as an equal, and that was the first autumn he had ever had. The first one had been a thing that happened to him. This one he walked into with his eyes open: the summer going gold at the edges, the heavy kinds feeding up for the cold, the stream running low and clear, and the first thin frost on the high ground in the mornings. He knew the country now. He knew what it did in the second month and in the third. When the cold came, he would be ready for it, and the knowing made the whole season taste different, the way meat tastes different when the belly is already warm.
 
 He ate well. He ate better than he had eaten in his life. And on the misty mornings, when he worked the fern country, he began to learn the last and hardest thing about hunting.
 
-The trouble was the stillness. He had learned stillness for prey that ran and prey that hid. A beast comes down to a stream and puts its head in the water; a beast grazes in a run with its head down and its ears working; a beast walks a path it has walked for years. For all of those, lying in the fern and not moving was enough, and it had been enough for two seasons.
+The trouble was the quiet. He had learned stillness for prey that ran and prey that hid. A beast comes down to a stream and puts its head in the water; a beast grazes in a run with its head down and its ears working; a beast walks a path it has walked for years. For all of those, lying in the fern and not moving was enough, and it had been enough for two seasons.
 
 The fern-deer were different. The fern-deer read the country as he read it.
 
-He found that out on the first cold-mist morning of the autumn, stalking the fern country for the third day running. There was a herd of seven in the long grass at the top of the valley, and he had spent two days learning them, and on the third morning he lay in the mist-wet fern ten lengths downwind of the whole herd with his chin on his claws and worked out, comfortably, exactly which one he would take.
+He found that out on the first cold-mist morning of the autumn, stalking the fern country for the third day running. There was a herd of seven in the long grass at the top of the valley, and he had spent two days learning them, and on the third morning he lay in the mist-wet fern ten paces downwind of the whole herd with his chin on his claws and worked out, comfortably, exactly which one he would take.
 
 He did not move. He had not moved in a long time. And then the lead doe lifted her head and looked down the wind at the fern where he lay, and looked at it for two long breaths. The whole herd turned as one and went off up the valley at a walk that was not quite a run. They did not come back that day or the next.
 
@@ -34,7 +34,7 @@ He would pay that toll for the rest of his life. It was the first thing he ever 
 
 The other thing that autumn taught him was worse. He was not growing any more.
 
-Not stopping — he checked, as he checked everything, in the still mornings and the long sleeps. The meat still went down and the deep sleeps still came. But the change that had lived in him all summer, the answering, thickening, deepening change, had gone quiet as a fire goes quiet. He ate a deer and slept and woke, and nothing in him was different.
+Not stopping — he checked, as he checked everything, in the still mornings and the long sleeps. The meat still went down and the deep sleeps still came. But the change that had lived in him all summer, the slow deep thickening of what he was, had gone quiet as a fire goes quiet. He ate a deer and slept and woke, and nothing in him was different.
 
 Then it got stranger. There came a week when he ate well every day and slept deep every night, and woke on the fourth morning with the hunger standing in him as tall as it had ever stood — as if he had not eaten in a month.
 
@@ -54,9 +54,9 @@ The last of the autumn gave him the stag. He had been watching the great stag-ki
 
 It was sick. That was why it was still there and why no beast had chased it off its ground. He could see it in how it walked: one whole side of it stiff, the breath coming short after any long move, the great head hanging lower than a great head hangs.
 
-In the old roots-house of his mind, the shapes lay where he kept them: the jaw beneath him, the takers on the trails, the roof of the world. The stag was not any of those three.
+In the old roots-house of his mind, the shapes lay where he kept them: the jaw beneath him, the hunters on the trails, the roof of the world. The stag was not any of those three.
 
-The stag was the wall. He did not decide that. It was simply true, and he acted on it as he acted on appetite. He stalked the great stag for two more weeks, and on the first morning of the white — the real white, the cold come down to stay — he came up through the mist at the old beast's flank and took its shoulder in his jaws.
+The stag was the barrier and the door to it. He did not decide that. It was simply true, and he acted on it as he acted on appetite. He stalked the great stag for two more weeks, and on the first morning of the snow — the deep snow, the cold come down to stay — he came up through the mist at the old beast's flank and took its shoulder in his jaws.
 
 The stag did not run. It had not run from anything in years.
 
@@ -70,47 +70,47 @@ The hold was long. The old beast went down on its knees and stayed there with it
 
 And then, while the great years of the stag were coming up out of the body, he did something he did not understand and would never be able to explain. He let go, stepped back, and lay down in the snow beside it.
 
-Not from mercy. There was no mercy in him and none in the country. It was the wall. The stag was the wall, and he had put his jaw into the wall and held until the wall broke, and the breaking had cost him more than any meal he had ever taken, and some part of him needed to lie in the snow a while and be the size of what he had done.
+Not from mercy. There was no mercy in him and none in the country. It was the barrier, standing in the shape of a beast. The stag was the barrier, and he had put his jaw into the barrier and held until the barrier broke, and the breaking had cost him more than any meal he had ever taken, and some part of him needed to lie in the snow a while and be the size of what he had done.
 
 He ate when the cold began to bite. He ate the great beast slowly and completely, over days, keeping his own wounds off the ground; heavy slow full years going down into him, warmer and deeper than anything he had ever eaten, the pull working at them for days and nights, straining where it had never strained before and never once letting go.
 
 He crawled into a rock-shelter on the third day and the deep sleep took him there under the first heavy snow, and this sleep was longer than any that had come before. Twice his own blood woke him. Twice he slept again.
 
-When he came out, the winter had set in for good, the white lay deep over the high fern country, and his shoulder was closed to a long pale cord of scar. He was changed. He could feel it in his feet and in his breath and in the strange new appetite that sat a little higher in him than before, less like a hunger and more like a direction. What the stag had given him was not the crossing of the wall. It was the shape of the crossing: he had fed the thing that had no meal on the oldest and heaviest wildness he had ever taken, and it had grown.
+When he came out, the winter had set in for good, the snow lay deep over the high fern country, and his shoulder was closed to a long pale cord of scar. He was changed. He could feel it in his feet and in his breath and in the strange new appetite that sat a little higher in him than before, less like a hunger and more like a direction. What the stag had given him was not the crossing of the barrier. It was the shape of the crossing: he had fed the thing that had no meal on the oldest and heaviest wildness he had ever taken, and it had grown.
 
-The wall was still there. But he knew now that it was not a wall to be got around. It was a wall to become bigger than.
+The barrier was still there. But he knew now that it was not a wall to be got around. It was a wall to become bigger than.
 
 ---
 
-He came down out of the high country two days into the white to find that the men had left him a present at the deep pass. He read it from a long way off and did not go close until dark. A length of trail at the widest part of the pass, where the green country opened down to the low country, had been changed. There was a line across the trail at the height of his chest: a hard, thin, grey line strung between two cut posts, and below it, laid in the snow, the bait — good meat, untouched and fresh, laid out square in the open as if it were being offered.
+He came down out of the high country two days into the snow to find that the men had left him a present at the deep pass. He read it from a long way off and did not go close until dark. A length of trail at the widest part of the pass, where the low country opened down to the low country, had been changed. There was a line across the trail at the height of his chest: a hard, thin, grey line strung between two cut posts, and below it, laid in the snow, the bait — good meat, untouched and fresh, laid out square in the open as if it were being offered.
 
-He lay in the rocks above the trail for the whole night and watched the thing. Nothing moved. No men came. No dog came. There was nothing there but meat and the thin line and the two posts, and every part of him knew that they were one thing and not three, and the whole of the thing had been set down by the takers, and the offer was not free.
+He lay in the rocks above the trail for the whole night and watched the thing. Nothing moved. No men came. No dog came. There was nothing there but meat and the thin line and the two posts, and every part of him knew that they were one thing and not three, and the whole of the thing had been set down by the hunters, and the offer was not free.
 
 He understood the meaning of it before he understood the shape. Men left death waiting. They could make their death that has no length sit in one place like a hunter with a line. If he wanted the meat on that trail, he could have the meat: he only had to touch the thing they had built around it, and then the line he could not see would hold him there until the men came.
 
-The pass trail ran under that line. He would need it, in years to come. It lay between his valley and the country east, and the country east had been in his reading since the summer.
+The pass trail ran under that line. He would need it, in years to come. It lay between his valley and the country east, and the country east had been in his sense since the summer.
 
-He went away from the snare with that fact kept whole. The takers could own a trail without standing on it. They could take the years from a beast that was not yet dead, in a place where they were not.
+He went away from the snare with that fact kept whole. The hunters could own a trail without standing on it. They could take the years from a beast that was not yet dead, in a place where they were not.
 
 That night he went up onto the high rock above the ravine, the one place where the whole country lay open to him, and sat with the cold smoking off the ground. The Black-Ravine Serpent's weight lay in its sleep to the north, huge and quiet, and he read it as a small thing reads a mountain: at a distance, without wanting to. The lights of the lodges had gone out for the season, the men were down-country behind their walls with their fires and their years, and one thin line of death stood waiting in the pass.
 
-He did not cross the wall that winter. The wall would not be crossed that way, and he had known it since the stag. But he had learned what crossing it looked like: you grew until the wall was beneath your notice, as the pine had become beneath his notice, as the stone-runners' cracks had become beneath his notice, as the whole first slope had become too small to hold him.
+He did not cross the barrier that winter. The barrier would not be crossed that way, and he had known it since the stag. But he had learned what crossing it looked like: you grew until the barrier was beneath your notice, as the pine had become beneath his notice, as the stone-runners' cracks had become beneath his notice, as the whole first slope had become too small to hold him.
 
-The cold season was on the country, and the wall was on him, and he sat between them on the high rock with the direction standing in him clear as the stream in the thaw. It pointed up.
+The cold season was on the country, and the barrier was on him, and he sat between them on the high rock with the direction standing in him clear as the stream in the thaw. It pointed up.
 
 ---
 
 The two men came up the pass in the afternoon and set the line while the light held. The third one came up behind them with the wire over his shoulder.
 
-"Higher," said the one who was kneeling at the post. "At the chest, not the leg. A calf catches and a bull carries the whole frame off with it. At the chest it goes down, and it goes down in the first ten lengths."
+"Higher," said the one who was kneeling at the post. "At the chest, not the leg. A calf catches and a bull carries the whole frame off with it. At the chest it goes down, and it goes down in the first ten paces."
 
 "At the chest," said the other. He eyed the trail, then took the wire and re-set the hitch. "Second post goes here."
 
-"Not here. Six lengths down, where the trail narrows."
+"Not here. Six paces down, where the trail narrows."
 
 "Then the line is short."
 
-"A short line that holds is worth a long line that misses," said the kneeling man. "Four lengths of wire in a narrow place will hold a bull. Ten lengths in the open will hold nothing but the wind."
+"A short line that holds is worth a long line that misses," said the kneeling man. "Four paces of wire in a narrow place will hold a bull. Ten paces in the open will hold nothing but the wind."
 
 The third man dropped the coil. He stood with his hands on his hips, looking at the ground the line would close.
 
@@ -120,7 +120,7 @@ The third man dropped the coil. He stood with his hands on his hips, looking at 
 
 "For one line."
 
-"For one line, and the line works for as long as the ground has beasts walking it," said the kneeling man. "Two lengths of this wire came off the old water line when the permits came, and the lodge charges us for wire whether we set it or not. So we set it."
+"For one line, and the line works for as long as the ground has beasts walking it," said the kneeling man. "Two paces of this wire came off the old water line when the permits came, and the lodge charges us for wire whether we set it or not. So we set it."
 
 "And the bait?"
 
@@ -160,8 +160,8 @@ They gathered their gear and went down the pass. Behind them the line stood stru
 
 ## Footer
 
-- Word count (body): 3,371 (verify.py, s37 gate). Spoken dialogue: 36 lines (10.7 per 1000w). Prose metrics (s35 house-grammar method, prose-only): average 17.2w, median 12w, longest 58w; no sentence over 60w; no one-sentence paragraphs; motif word "the way" x1.
+- Word count (body): 3,386 (verify.py, s37 gate). Spoken dialogue: 36 lines (10.7 per 1000w). Prose metrics (s35 house-grammar method, prose-only): average 17.2w, median 12w, longest 58w; no sentence over 60w; no one-sentence paragraphs; motif word "the way" x1.
 - Chapter time: DL 3662 — the second autumn into the second winter (exact figures panel-only).
-- Gate: standing delegation (2026-09-20). HUMAN SCENE: one scene at the deep pass — the line set at chest height, the wire counted, the bait laid in the open, the boy and the hound kept at the camp — written at house density. The dragon reads the snare and never goes near it; nothing is understood (firewall stands). Beats held: the season met not endured; THE VEILING LEARNED (the shout read by the fern-deer; the hushing held with whole attention; the toll of a share of him always holding); THE WALL — growth gone quiet, the hunger that has no meal, the country eaten down to the level of his mouth, the first barrier approached and not crossed; THE OLD STAG-KIND — the hardest fight of his life, the shoulder opened to the bone, the hold slipped and taken again, the deepest devouring, the longest sleep under the first big snow, the change toward the crossing; IRON CAN WAIT — the snare at the deep pass read and left untrespassed; the pass trail carried as the way east; the Black-Ravine Serpent's weight sleeping and marked quietly; the direction pointed up.
+- Gate: standing delegation (2026-09-20). HUMAN SCENE: one scene at the deep pass — the line set at chest height, the wire counted, the bait laid in the open, the boy and the hound kept at the camp — written at house density. The dragon reads the snare and never goes near it; nothing is understood (firewall stands). Beats held: the season met not endured; the quiet LEARNED (the shout read by the fern-deer; the hushing held with whole attention; the toll of a share of him always holding); THE WALL — growth gone quiet, the hunger that has no meal, the country eaten down to the level of his mouth, the first barrier approached and not crossed; THE OLD STAG-KIND — the hardest fight of his life, the shoulder opened to the bone, the hold slipped and taken again, the deepest devouring, the longest sleep under the first big snow, the change toward the crossing; IRON CAN WAIT — the snare at the deep pass read and left untrespassed; the pass trail carried as the way east; the Black-Ravine Serpent's weight sleeping and marked quietly; the direction pointed up.
 - s36 rebuild note (2026-09-20; author, verbatim: "Now rebuild chapter 1 to 12 completely" ): chapter rewritten in full at the house grammar (foundation/HOUSE_STYLE_AUDIT.md): scene-first, short plain sentences, scenes shown moment to moment; soul-beast rule (SB-11) held.
 - Figure audit: zero count-numbers in prose. All age/cultivation figures panel-only.

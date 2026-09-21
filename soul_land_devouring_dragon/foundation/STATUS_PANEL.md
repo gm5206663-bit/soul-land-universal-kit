@@ -2,7 +2,15 @@
 CLEAN GLANCEABLE SHEET OF HIM (identity, cultivation, body/height, attributes,
 skills, combat power vs normal soul beasts): bible/HIS_STATUS_PANEL.md
 (author s23 request; updated each chapter).
-Updated: 2026-09-21 (session 39 — SCOPE LAW added to RAILS + kit 07 §10 and
+Updated: 2026-09-21 (session 40 — PLAIN LANGUAGE LAW: the private vocabulary
+was removed from the prose of all 14 chapters. Chapters 13-14 rewritten in plain
+words (ch13 2,564w / 32 spoken lines / average 17.7; ch14 3,169w / 38 / 17.2),
+and chapters 1-12 swept (~350 substitutions, every one reviewed for meaning).
+Retired: the takers, the white, the green, fold(s), the fringe, the hush, the
+stillness, the veiling, the want, the word, the answering, the reading, the
+standings, the mark, lengths, warm breaks, the wall, the craft, the count, the
+thread, the deep country (narration). Table: codex/GLOSSARY.md RETIRED WORDS.
+Session 39 — SCOPE LAW added to RAILS + kit 07 §10 and
 CHAPTERS 13-14 CUT to it: ch13 4,008 → 2,728 words, ch14 4,673 → 3,267; both
 re-gated PASS; spoken lines 32 (11.7 per 1000w) and 38 (11.6 per 1000w); no
 sentence over 60; no one-sentence paragraphs). Earlier: s37 CHAPTER 13 written
@@ -108,7 +116,7 @@ named; no leaps.
   winter in the deep country; the smoke-line; same breaks, same hours) →
   THE SMOKE-LINE GONE (ch11: the winter place struck at the thaw; they go
   deep with the green — the going is the going of readers; the next smoke
-  kept as an edge) → THE FIRES IN THE GIANTS' COUNTRY (ch12: the new smoke stands in the country of the giants; two fires — the map's edge closed; their line working the water line with the hound out ahead; the KEEPERS' LINE on their list — a thing that signs and does not show, written at the winter place) → THE CROSSING AT
+  kept as an edge) → THE FIRES IN THE GIANTS' COUNTRY (ch12: the new smoke stands in the country of the giants; two fires — the map's edge closed; their line working the water line with the hound out ahead; the KEEPERS' LINE on their list — the beast that leaves signs and never shows itself, written at the winter place) → THE CROSSING AT
   THE WATER (ch12: the going-out at the water at the hour the meal stood
   begun; the spirit hound stopped, sat, held the scent; the upright shapes
   looked and found no one; nothing known, nothing seen of him — but the
@@ -126,7 +134,7 @@ named; no leaps.
   line has been seen, the list goes to it."),
   GAO TIE (the spirit hound's master; "It holds it like a name... It doesn't hold an hour for a piece of grass."), XIAO AN (the
   young one; the mark observed: "it knows the country, and it knows where a beast will stand"; the sign of the seen set at the water (ch12)); their list on paper, their motive on the
-  page (the deep keeps its own green; "It signs. Then it is a line on the list."; the old bull's deep light read low and purple (his side)); their craft: the
+  page (the deep keeps its own green; "It leaves signs. Then it is a line on the list."; the old bull's deep light read low and purple (his side)); their craft: the
   water's hour, the water's edge, and the retreat rule ("if the mark comes,
   we pull back"); the dragon never hears, never sees — firewall stands.
 - Wounds kept: the scar behind the jaw — for life; the bristle-cuts of the
@@ -187,6 +195,18 @@ named; no leaps.
 - No chapter drafting until the author says so.
 
 ## Last action
+Session 40 (2026-09-21; author, verbatim: " What the hell even this writeing
+style what you can't write clear that can be understood, why this poem type
+nonsenses "): the prose register was the defect. The narration used house code
+words (the takers, the white, the green, folds, the fringe, the answering, the
+reading, the hush, the want, the word, the standings, lengths, warm breaks, the
+wall) so no sentence could be understood on one reading. FIX: the PLAIN LANGUAGE
+LAW (RAILS + kit 07 §11; retired-words table in codex/GLOSSARY.md) and one full
+pass: chapters 13-14 rewritten in plain words; chapters 1-12 swept, every
+substitution reviewed against its meaning (a "fold of country" stayed a hollow;
+only the men's station became a camp). Zero retired words left in any chapter;
+gates re-run PASS; footers re-set to the new counts.
+
 Session 39 (2026-09-21; author, verbatim: " Why you making nonsense by writing
 nonsenses like it becomes boring, wyrite what needs to write not everything ,
 you can skip "): the writing itself was the defect. Diagnosis: chapters 13-14

@@ -119,3 +119,30 @@ and each chapter closed on a second telling of its own events. Binding rules:
 Receipt of the first application (s39): ch13 4,008 → 2,728 words (−32%), ch14
 4,673 → 3,267 (−30%); both re-gated PASS, dialogue 11.7 and 11.6 spoken lines
 per 1000w, no sentence over 60, no one-sentence paragraphs. Nothing was added.
+
+
+## PLAIN LANGUAGE LAW — "write clear that can be understood" (author correction, session 40, 2026-09-21)
+Author, verbatim: "What the hell even this writeing style what you can't write clear
+that can be understood, why this poem type nonsenses"
+The serial had grown a private vocabulary and used it as narration, so a plain
+paragraph could not be understood on one reading ("the takers moved north with the
+same cold... their folds ... the white ... the fringe"). This law kills that.
+1. SAY IT STRAIGHT. Narration uses the plain name of the real thing: hunters,
+   snow, summer, camps, wire, hound, hot springs, den, tracks. A stranger who has
+   never seen this bible must understand every sentence the first time.
+2. NO INVENTED CODE IN PROSE. These words may NOT carry narration (retired list,
+   also in codex/GLOSSARY.md): the takers, the white, the green, the fold(s), the
+   folding, the fringe, the hush, the stillness, the veiling, the want, the word,
+   the kill-word, the answering, the reading, the standings, the mark (as quarry),
+   lengths (as distance), warm breaks, the wall (as barrier), the craft, the count
+   (as record), the thread, the deep country (in narration).
+3. IN-WORLD NAMES ONLY IN SPEECH, and explained where first used: "the keepers'
+   line", "the list". Designed terms live in the bible, not in the prose.
+4. THE SUBJECT IS A THING OR A BODY. If a sentence can only be parsed by someone
+   who knows the serial's private words, it is a defect and gets rewritten.
+5. CHECKABLE: grep the retired list before shipping; a hit in narration is a
+   defect. (s40 receipt: ~350 substitutions across chapters 1-12 plus full plain
+   rewrites of 13 and 14; zero retired words left in any chapter prose.)
+6. Everything else stands unchanged: SCOPE LAW, house grammar, the five registers,
+   dialogue density, sentence caps, no one-sentence paragraphs, the figure law,
+   the panel law and the knowledge firewall.

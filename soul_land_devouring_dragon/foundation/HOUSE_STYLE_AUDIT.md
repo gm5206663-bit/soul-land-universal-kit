@@ -142,3 +142,19 @@ the commentary around them was. Rebuilt to the SCOPE LAW (RAILS):
 Nothing added; the explanation layer and the overview openings cut; every named
 beat and the human-side scene kept. Rules and budgets: RAILS SCOPE LAW (s39)
 and kit 07 §10.
+
+## 8. PLAIN LANGUAGE (s40, 2026-09-21) — the private vocabulary was the defect
+The author flagged a plain paragraph of chapter 14 as unreadable ("what you can't
+write clear that can be understood, why this poem type nonsenses"). Measured
+cause: a house vocabulary had been promoted into narration — the takers (14 uses),
+the white (30), the green (47), fold/folds (39), the count (100), the mark (33),
+the wall (38), lengths (30), warm breaks (17), the hush/stillness/veiling (43),
+the want (22), the reading (18), the word (16), the thread (15), the answering
+(8), the standings (15), the kill-word. A reader had to learn the code to read a
+scene. Fix: PLAIN LANGUAGE LAW (RAILS; kit 07 §11) plus one full pass —
+chapters 13-14 rewritten in plain words; chapters 1-12 swept (~350 substitutions,
+reviewed line by line for meaning, e.g. "fold of country" kept as "hollow" where
+it named land and became "camp" where it named a station). Retired words now zero
+in every chapter. Counts after the pass: ch13 2,564w / 32 spoken lines (12.5 per
+1000w) / average 17.7 / longest 54; ch14 3,169w / 38 (12.0) / average 17.2 /
+longest 46.

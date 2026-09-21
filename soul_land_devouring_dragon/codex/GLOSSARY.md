@@ -72,3 +72,29 @@ Terms as THIS serial uses them. Canon terms carry their canon meaning.
   beast broke the watch-fold (ch14): a beast proved by tracks and a killing,
   written as the thing that signs and does not show until another beast proves
   otherwise.
+
+## RETIRED WORDS (s40, 2026-09-21) — private vocabulary removed from the prose
+These were house words used as narration until the author ruled them unreadable
+("why this poem type nonsenses"). They may NOT appear in chapter prose again; the
+right-hand column is what the page says instead. Remaining in the bible as design
+labels only, where their meaning is defined.
+| retired | the page now says |
+| the takers | the hunters |
+| the white | the snow / winter |
+| the green | the summer |
+| the fold(s), the folding | the camp(s) / the ground (a "fold of country" = a hollow) |
+| the fringe | the edge of the deep forest |
+| the hush, the stillness, the veiling | the quiet |
+| the want | the hunger |
+| the word, the kill-word | the roar / the kills he left standing |
+| the answering | the beasts that came to his kills |
+| the reading | his sense / the feel |
+| the standings, the standing | the standing light / the great beasts |
+| the mark (quarry) | the beast / the sign |
+| lengths (distance) | paces |
+| warm breaks | hot springs |
+| the wall (barrier) | the barrier (when the men build it: the fence) |
+| the craft | the trick |
+| the count (record) | the list |
+| the thread | the pull |
+| the deep country (narration) | the deep forest |

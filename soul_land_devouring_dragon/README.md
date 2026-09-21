@@ -38,6 +38,11 @@ names and dialogue in the parallel panel (the dragon never hears; firewall
 stands); DD chapter footers KEPT (registered exception to kit 07 §3); the
 kit governs the author's new fiction and stands as reference law — this
 serial keeps its locked shape.
+PLAIN LANGUAGE LAW (2026-09-21, session 40; author: " write clear that can be
+understood, why this poem type nonsenses "): narration uses the plain name of the
+real thing; no invented house words in prose (retired list in codex/GLOSSARY.md);
+in-world names only in speech and explained where used; grep the retired list
+before shipping.
 SCOPE LAW (2026-09-21, session 39; author: " wyrite what needs to write not
 everything , you can skip "): a chapter is 2,400-3,000 words (ceiling 3,400 for a
 season's turn, reason in the footer); a beat is written once; no explanation

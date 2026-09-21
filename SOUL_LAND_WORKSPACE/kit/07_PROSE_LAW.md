@@ -187,3 +187,18 @@ boring, wyrite what needs to write not everything , you can skip"
 5. Skip what changes nothing: repeated readings, repeated lessons, scenery that
    carries neither. Cutting removes explanation, never the scene.
 6. Every rule above in this file still stands over it.
+
+## 11. PLAIN LANGUAGE LAW (s40, 2026-09-21) — write clear that can be understood
+Author, verbatim: "What the hell even this writeing style what you can't write
+clear that can be understood, why this poem type nonsenses"
+1. Narration says what happened in plain words; a stranger must understand every
+   sentence on one reading.
+2. No invented code nouns as narration. If a sentence only makes sense to someone
+   who knows the serial's private vocabulary, rewrite it.
+3. In-world names (teams, lists, lines) may appear only in speech, and only where
+   the scene explains them.
+4. The subject of a sentence is a thing or a body; ideas never carry it.
+5. Check before shipping: grep the retired word list (kit + project). Any hit in
+   narration is a defect, not a style choice.
+6. This stands over the house grammar and the scope law; it never excuses a scene
+   being cut or a voice being thinned.

@@ -1137,7 +1137,7 @@ One entry per working session. Newest at the bottom.
   near-miss, the bank, the jaw); the two reds at the meal; the kill-word set in
   the ground; one short panel at the winter place (Gao Tie "Same ground. Same
   shape as the deep place."; Xiao An "it knows the country, and it knows where a
-  beast will stand"; Old Qin "It signs. Then it is a line on the list." and the
+  beast will stand"; Old Qin "It leaves signs. Then it is a line on the list." and the
   bull marked as the next line; the deep lights to the tables). ch12 — the green
   at its height; the craft's cost (his own word moved the heavy kinds and the
   bull's hours); the two fires and the hound working the water line; THE FIGHT at
@@ -1273,7 +1273,7 @@ One entry per working session. Newest at the bottom.
   roar; the silence of being read); THE WANT WAKENED PATIENT (the flaw learns
   to wait); the wall at the thousand far, unfelt.
 - Firewall: held on the page — no sighting, no print, no contact; the watch
-  found nothing; their own reading ("a thing that signs and does not show")
+  found nothing; their own reading ("the beast that leaves signs and never shows itself")
   is the only thing they carry forward.
 - PROCESS (this session also closed the s36 rebuild): the paragraph rule
   enforced across all 13 chapters (single-sentence paragraphs merged or
@@ -1371,3 +1371,34 @@ One entry per working session. Newest at the bottom.
   README.md (SCOPE LAW in the rulings-in-force block), this log. The session 37
   and 38 entries keep their as-shipped counts as history; the live counts are
   the ones above.
+
+### Session 40 — 2026-09-21 (PLAIN LANGUAGE LAW; the private vocabulary removed from all 14 chapters)
+- Author, verbatim: " What the hell even this writeing style what you can't write
+  clear that can be understood, why this poem type nonsenses " — sent over a
+  paragraph of chapter 14.
+- DIAGNOSIS: the serial had a house vocabulary and used it as narration: the
+  takers (14 uses across chapters 1-14), the white (30), the green (47),
+  fold/folds/the folding (39), the count (100), the mark (33), the wall (38),
+  lengths (30), warm breaks (17), the hush/stillness/veiling (43), the want (22),
+  the reading (18), the word (16), the thread (15), the answering (8), the
+  standings/standing (15), the kill-word. Scenes could not be understood without
+  learning the code.
+- FIX, part one — LAW: PLAIN LANGUAGE LAW written into foundation/RAILS.md and
+  SOUL_LAND_WORKSPACE/kit/07_PROSE_LAW.md §11, with a retired-words table in
+  codex/GLOSSARY.md and the measured record in foundation/HOUSE_STYLE_AUDIT.md §8.
+- FIX, part two — THE CHAPTERS: chapters/Chapter_13_The_Keepers_Line.md and
+  Chapter_14_The_Wrong_Face.md rewritten in plain words; chapters 1-12 swept
+  (~350 substitutions: takers->hunters, the white->the snow, the green->the
+  summer, folds->camps, fringe->the edge of the deep forest, hush/stillness/
+  veiling->the quiet, want->the hunger, thread->the pull, wall->the barrier,
+  count->the list, lengths->paces, warm breaks->hot springs, deep country->the
+  deep forest, mark->sign or print by context, word->roar, answering->the beasts
+  that came to his kills, reading->the sense). Every substitution was reviewed
+  against its meaning: a "fold of country" stayed a hollow and only the men's
+  station became a camp; "the wall" in the egg stayed the shell.
+- Counts after the pass: ch13 2,564 words / 32 spoken lines (12.5 per 1000w) /
+  average 17.7 / longest 54; ch14 3,169 / 38 (12.0) / 17.2 / 46. Zero retired
+  words in any chapter prose; zero sentences over 60; zero one-sentence prose
+  paragraphs.
+- Gates: verify.py per chapter PASS (ch1 the recorded no-voices exception);
+  project sweep PASS; footers re-set to the verified counts.
