@@ -23,3 +23,5 @@ Law: a place gets its row when the story touches it.
 | The broken watch-fold (the west fringe) | the line's fold the pale beast walked through (ch14: wire stood and never touched, blind knocked apart, the hound's stake torn out, one man down at the water) | [design, on page] |
 | The camp of black stone | where the line carried its dead and Old Qin wrote the wrong face into the list (ch14) | [design, on page] |
 | The killing ground of the pale beast | the shelf of old rock in the low fringe where the dragon read the beast and spent one aimed word (ch14) | [design, on page] |
+| The south watch ground | the low trail below the shelf of old rock, where the line set its watch on the pale beast's chosen ground and the beast came to the bait in daylight (ch15: wire stepped, blind read, no light for the box) | [design, on page] |
+| The low country (his taken ground) | the ground the line left at the thaw; taken by him (ch15) — no camp, no rival heavy beast, the meat coming down to the new water, the road between the men's country and the deep forest | [design, on page] |

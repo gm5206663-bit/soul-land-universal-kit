@@ -1,5 +1,5 @@
 # HIS STATUS PANEL — clean sheet
-Live after Chapter 12 (DL 3664 green season at its height — the bull taken at the water; the crossing; the war's shape changed: the next line of both lists is the reading of the other's mark).
+Live after Chapter 15 (DL 3665, the thaw — the south season closed: the pale beast seen and counted, the paper held with no light for the box, the hound's third reading, and the low country taken as his ground).
 DERIVED SHEET — mirrors foundation/STATUS_PANEL.md (the single status source,
 per kit 02) and ADAPTATION_LOG; updated each chapter. If this sheet and
 STATUS_PANEL ever disagree, STATUS_PANEL is right and this sheet is stale.
@@ -285,3 +285,25 @@ marked [design] and belong to the author to correct.
 - Counts (s40, after the plain-language rewrite): 3,169 body words; 38 spoken
   lines, 12.0 per 1000w; average 17.2 words per sentence, longest 46; no
   one-sentence paragraphs.
+
+## Chapter 15 close — the thaw on the taken low ground (DL 3665; real age ≈ 71–73 months)
+- THE SOUTH SEEN FROM THE RIDGE: the thaw; the camps on his ground down; one
+  smoke line still south, and he waits while it stands.
+- THE LOW COUNTRY TAKEN: the smoke gone; the emptied watch read in one walk
+  (bait eaten by the pale beast, wire and blind gone, the pale beast's tracks
+  south and not returning, the worn circle of a hound that would not leave one
+  patch of ground he cannot read); the ground open — no camp, no rival heavy
+  beast, the meat coming down to the new water, the road between the men's
+  country and the deep forest; his own quiet over it; first kill on it, the
+  rest dragged off the trail.
+- THE PAPER AND THE HOUND (parallel, not his): the pale beast walked the watch
+  wire, read the blind and ate the bait in the open in daylight — seen and
+  counted, no light for the box; the hound's third reading (it left a living
+  beast to stand over ground carrying his old scent); Old Qin's ruling and the
+  summer promise (walk where the hound points before writing a line).
+- THE HUNGER: patience asked again; the meal full and the hunger unmoved; he
+  only carries it now.
+- THE DEEP FOREST: unchanged all season; the pull toward the ground under the
+  greatnesses far off and the same.
+- Counts (s41): 2,686 body words; 51 spoken lines, 19.0 per 1000w; average 15.0
+  words per sentence, longest 53; no one-sentence paragraphs.

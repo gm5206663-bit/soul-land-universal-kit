@@ -2,7 +2,8 @@
 CLEAN GLANCEABLE SHEET OF HIM (identity, cultivation, body/height, attributes,
 skills, combat power vs normal soul beasts): bible/HIS_STATUS_PANEL.md
 (author s23 request; updated each chapter).
-Updated: 2026-09-21 (session 40 — PLAIN LANGUAGE LAW: the private vocabulary
+Updated: 2026-09-21 (session 41 — CHAPTER 15 "The Hound's Third Time" WRITTEN AND GATED: 2,686w / 51 spoken lines (19.0 per 1000w) / average 15.0 / longest 53; no sentence over 60; no one-sentence paragraphs; the queued beats delivered — the thaw, the south watch on the pale beast's chosen ground, the beast come to the meat, THE HOUND'S THIRD TIME, the paper held with NO light for the box, the low country taken; every mirror synced same turn).
+Session 40 — PLAIN LANGUAGE LAW: the private vocabulary
 was removed from the prose of all 14 chapters. Chapters 13-14 rewritten in plain
 words (ch13 2,564w / 32 spoken lines / average 17.7; ch14 3,169w / 38 / 17.2),
 and chapters 1-12 swept (~350 substitutions, every one reviewed for meaning).
@@ -30,45 +31,47 @@ numbers.
 - Serial scope; natural length; NATURAL ENDING (none pre-chosen).
 
 ## Now
-LIVE EDGE: after Chapter 14 "The Wrong Face" (DL 3664–65, the deep country's
-second winter; real age ≈ 68–70 months). THE SEASON OF THE WATCH: the cold
-comes up out of the ground first; the heavy kind drift early; the line's
-watch-folds work north a day's walk at a time and he never goes near one.
-THE SIGN'S SECOND EDGE: his own lie-kills taught a rival reader — the pale
-beast of the deep fringe, wide-tracked, meat untouched at a written kill; the
-tracks closer on his own trails; his craft grown a second edge pointed at
-himself. THE MEN MEET THE WRONG BEAST: the fold broken (wire stood and never
-touched, blind knocked apart, the hound's stake torn out, one man down at the
-water); the older lodge man dead by the camp of black stone. THE WRONG FACE
-ON THE PAPER (one short human-side scene, house density): Xiao An's argument
-that the printed beast is not the thing that signs; Old Qin's ruling — the
-lodge counts what can be proved, the mark and the beast written as one line
-until another proves otherwise; the line turned SOUTH on the wide pads — the
-watch pulled off his ground for the season. THE HOUND'S SECOND READING: the
-crossing above their camp; two lines in the nose and no way to make them one;
-called off; the veiling held; the confusion is protection he never planned
-and cannot count on twice. THE WANT'S QUESTION: a heavy beast eaten deep and
-the hunger unmoved — no meal can answer it any more; it wants the standing
-itself, held like a current (DS-08 uncured). THE VOICE'S NEXT TRUTH PAID FOR:
-the killing ground; ONE AIMED WORD at four lengths (short, dense, no roll over
-the country); the pale beast stops and walks off; the price — two days of the
-country reading too warmly, the thread loud in the chest, the walk home two
-days longer; the word said to a reader is a word the reader keeps. THE WALL at
-cultivation-year 1,000: far, unfelt. Freedom bought with a lie that grew legs;
-the two lists' next meeting is south, and he is north in it. Talent never
-named; no leaps.
+LIVE EDGE: after Chapter 15 "The Hound's Third Time" (DL 3665, the thaw after the
+deep country's second winter; real age ≈ 71–73 months). THE THAW AND THE EMPTY
+GROUND: water under the den; the camps on his ground down; one smoke line still
+south and he does not go down while it stands. THE SOUTH WATCH ON THE PALE
+BEAST'S CHOSEN GROUND: four days on the low trail where the wide pads cross,
+below the shelf of old rock; bait killed and left standing (his own trick,
+learned from him); the wire, the blind, the hound staked by the water. THE PALE
+BEAST COME TO THE MEAT: it steps the wire, stops short of the kill, reads the
+blind, eats the bait in the open in daylight and walks off south unhurried —
+SEEN AND COUNTED by the line. THE HOUND'S THIRD TIME (the chapter's pivot): the
+first reading at the summer water (ch12), the second on the high ground in the
+cold (ch14); the third time it LEAVES A LIVING BEAST to stand over a patch of
+ground it will not come off; Gao Tie ("I have never known her to lie"); the
+younger man ("A smell is not a beast"); Xiao An walks the patch and finds
+nothing to see. THE PAPER HOLDS AND THE LIGHT-BOX STAYS EMPTY: Old Qin's ruling
+— the list carries what the ground can prove; the seen and counted beast goes
+down with the place under it and the old lodge man's name and pay under that;
+NO LIGHT this season; the summer promise — Xiao An will walk the high ground
+where the hound points, in front of Old Qin. THE LOW COUNTRY TAKEN: he reads
+the emptied watch in one walk (including the worn circle of a hound that would
+not leave a patch of ground he cannot read); the ground open — no camp, no
+rival heavy beast, the meat coming down to the new water, the road between the
+men's country and the deep forest; his own quiet over it; the first kill on it,
+the rest dragged off the trail. THE WANT'S PATIENCE ASKED AGAIN: the hunger
+stands up at every meal and he only carries it now (DS-08 uncured). THE DEEP
+FOREST UNCHANGED: the greatnesses' country had not moved all season; the pull
+toward the ground under them far off and the same. THE WALL at cultivation-year
+1,000: far, unfelt. Closing image: the hound goes down the country with the
+men — it has smelled him three times, and nothing about him is written
+anywhere. Talent never named; no leaps.
 
 ## Exact figures (panel law)
-- REAL AGE: ≈ 68–70 months (hatched late summer DL 3661; through DL 3663 and
-  DL 3664 to the deep country's second winter — the ch14 season of the watch
-  lived).
-- CULTIVATION-AGE (SB-01 — NOT the same as real age): ESTIMATE ≈ 190–205
-  years — HUNDRED-YEAR CLASS; the winter's heavy meals moved it; the aimed
-  word's spend is not a gain. FIRST BARRIER at cultivation-year 100: CROSSED.
-  Next barrier at cultivation-year 1,000 (SB-03), unaged, unfelt. NO clock
-  (s7); estimates move with events. No leaps. FIRST BARRIER at cultivation-year 100: CROSSED. Next barrier at
-  cultivation-year 1,000 (SB-03), unaged, unfelt. NO clock (s7); estimates
-  move with events. No leaps.
+- REAL AGE: ≈ 71–73 months (hatched late summer DL 3661; through DL 3663,
+  DL 3664 and the deep country's second winter to the thaw of DL 3665 — the
+  ch15 season lived on the taken low ground).
+- CULTIVATION-AGE (SB-01 — NOT the same as real age): ESTIMATE ≈ 195–210
+  years — HUNDRED-YEAR CLASS; the winter's heavy meals and the thaw's new
+  ground moved it; the aimed word's spend (ch14) is not a gain. FIRST BARRIER
+  at cultivation-year 100: CROSSED. Next barrier at cultivation-year 1,000
+  (SB-03), unaged, unfelt. NO clock (s7); estimates move with events. No
+  leaps. (The duplicated tail this line carried since s34 was removed s41.)
 - Kills/devoured: wintering stone-runners dug out; first carrion (pass-trail
   offal); THE HILL-CAT (first fight-kill, jaw-hold); the broken-pine nest-raid;
   THE BRISTLE-BACK (FIRST SPIRIT-BEAST PREY); the emptied quick-beast of the
@@ -89,13 +92,17 @@ named; no leaps.
   at its last margin, the after-cost the deep stillness); the falling of the
   green — the lie-kills (two in the far south, one in the low outer country;
   the meat eaten deep and the rest left as a word), and the season's small
-  quiet hunting on hard ground. Territory: scree slope → roots-house → the
+  quiet hunting on hard ground; THE LOW COUNTRY GRAZERS OF THE THAW [design]
+  (the first meat on the taken ground — the slow heavy kind coming down to the
+  new water; taken at the bank, no fight, the rest dragged off the trail).
+  Territory: scree slope → roots-house → the
   ravine den (deep outer forest) → THE BLACK-RAVINE SERPENT'S GROUND CROSSED
   (rim-path, in the weight's stillness) → A NEW HOLLOW in the deep country
   (roots and ground and water; the way out is not the way in) → THE
   WATCH-FOLDS GIVEN UP UNENTERED (the keepers' line's ground; he never crossed
   their wire) → THE EDGE OF THE DEEP PLACE (walked between the standings; the
-  voice spent there once).
+  voice spent there once) → THE LOW COUNTRY TAKEN (ch15 — the ground the line
+  left at the thaw; the road between the two countries; his own quiet over it).
 
 - Ring-of-himself if killed now (SB-06): a YELLOW ring of hundred-year class
   — real worth to a hunter now; his worth to them grows with his years.
@@ -185,16 +192,29 @@ named; no leaps.
   after; NO growth-rate clock.
 
 ## Next beats (author-gated)
-- Chapter 15 (on the author's go; SCOPE LAW in force — 2,400-3,000 words, no
-  explanation layer, skip what changes nothing): the south — the keepers' line meets the pale
-  beast on ground it has chosen, and the wrong face is tested (does the paper
-  hold, or does the mark get a second face?); the dragon reads the south from a
-  distance, or chooses a ground of his own; the hound torn between two scents
-  and what it does the third time; the want's patience asked again; the rankings
-  of the deep place unchanged (nothing staged); the wall at 1,000 far, unfelt.
+- Chapter 16 (on the author's go; SCOPE LAW in force — 2,400-3,000 words, no
+  explanation layer, skip what changes nothing): the summer comes up the
+  country — the keepers' line returns north and walks where the hound points
+  (Xiao An in front, Old Qin behind her), on ground that holds a print in the
+  warm months; what the ground shows them, and what the list does with it; the
+  dragon hunting his taken low ground through the summer; the roar's fate in
+  the pale beast, somewhere south, unreturned; the want asked again; the
+  rankings of the deep place unchanged (nothing staged); the wall at 1,000 far,
+  unfelt.
 - No chapter drafting until the author says so.
 
 ## Last action
+Session 41 (2026-09-21; author, verbatim: " Continue " — the go for the queued
+chapter): CHAPTER 15 "The Hound's Third Time" written and shipped. The south
+delivered: the thaw and the empty ground; the watch set on the pale beast's
+chosen ground; the beast come to the meat in daylight and counted; THE HOUND'S
+THIRD TIME (it leaves a living beast to stand over ground carrying his old
+scent); Old Qin's ruling — the paper keeps the beast the ground proves and the
+light-box stays empty; Xiao An given the summer walk; the low country taken by
+him. Written plain from the first draft (s39 + s40 laws); 2,686 words, 51
+spoken lines, average 15.0, longest 53; verify.py PASS; project sweep PASS;
+all mirrors synced same turn; pushed to GitHub.
+
 Session 40 (2026-09-21; author, verbatim: " What the hell even this writeing
 style what you can't write clear that can be understood, why this poem type
 nonsenses "): the prose register was the defect. The narration used house code

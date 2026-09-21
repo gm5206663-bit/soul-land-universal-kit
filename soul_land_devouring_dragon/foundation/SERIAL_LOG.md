@@ -1402,3 +1402,26 @@ One entry per working session. Newest at the bottom.
   paragraphs.
 - Gates: verify.py per chapter PASS (ch1 the recorded no-voices exception);
   project sweep PASS; footers re-set to the verified counts.
+
+### Session 41 — 2026-09-21 (CHAPTER 15 — The Hound's Third Time)
+- Author, verbatim: " Continue " — the go for the queued chapter, per the panel's
+  next-beats.
+- WRITTEN: chapters/Chapter_15_The_Hounds_Third_Time.md — the south delivered:
+  the thaw and the empty ground; the watch set on the pale beast's chosen ground;
+  the pale beast come to the meat in daylight (wire stepped, blind read, bait
+  eaten in the open, walk-off south); THE HOUND'S THIRD TIME (it leaves a living
+  beast to stand over ground that carries his old scent); Old Qin's ruling — the
+  paper holds with the seen beast and no light for the box; Xiao An given the
+  summer walk; the low country taken by him, the ground the line left.
+- Scope held from the first draft (not cut later): 2,686 words (budget
+  2,400-3,000); no explanation layer; no closing re-tell; plain words throughout
+  (no retired word in the prose; the single grep hit is the established counting
+  rule in dialogue: "Count it").
+- Gates: verify.py PASS (2,686 prose words, 51 spoken lines); project sweep PASS
+  (15/15 chapters carry footers; ch1 the recorded no-voices exception); counts
+  19.0 spoken lines per 1000w / average 15.0 / median 12 / longest 53 / no
+  sentence over 60 / no one-sentence prose paragraphs.
+- Mirrors synced same turn: STATUS_PANEL (edge, figures, kills, territory, next
+  beats -> ch16, last action), HIS_STATUS_PANEL (edge + ch15 close),
+  ADAPTATION_LOG, SERIAL_LOG, README, CREATURES, KNOWLEDGE_FIREWALLS, PLACES,
+  TIMELINE, GLOSSARY, CONTINUITY.

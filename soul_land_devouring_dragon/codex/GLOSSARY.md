@@ -98,3 +98,14 @@ labels only, where their meaning is defined.
 | the count (record) | the list |
 | the thread | the pull |
 | the deep country (narration) | the deep forest |
+
+- **The hound's third time** — the south watch's reading (ch15). The first
+  reading was at the summer water (ch12), the second on the high ground in the
+  cold (ch14); the third time the hound leaves a living beast (the pale one)
+  standing at the meat and will not come off a patch of ground that carries his
+  old scent. Kept by the line as a smell nobody can write; Old Qin's promise:
+  walk where she points before writing a line; Xiao An's summer walk.
+- **The paper holds, the box stays empty** — the south season's account (ch15):
+  the line writes the beast the ground can prove (the pale beast, seen and
+  counted) and comes home with no light for the lodge's table for the first
+  time.

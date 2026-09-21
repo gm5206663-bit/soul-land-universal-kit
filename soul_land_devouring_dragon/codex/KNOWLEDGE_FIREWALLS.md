@@ -1,4 +1,4 @@
-# KNOWLEDGE FIREWALLS (kit 06) — who knows what; updated through Chapter 14
+# KNOWLEDGE FIREWALLS (kit 06) — who knows what; updated through Chapter 15
 
 ## HE (the dragon) MAY KNOW
 - Everything his senses and the ledger have read, on-page: his country, then
@@ -35,14 +35,22 @@
   and killed (wire stood and never touched, the hound's stake torn out, one man
   down at the water and dead by the camp); Old Qin's ruling wrote the beast
   into the keepers' line; the line turned SOUTH on the wide pads; the hound
-  carries two scents and no way to make them one.
+  carries two scents and no way to make them one; ch15: THE SOUTH WATCH — the
+  line met the pale beast on the low ground (it stepped the wire, read the
+  blind, ate the bait in the open in daylight) and WROTE IT AS SEEN AND
+  COUNTED, with the place under it and the old lodge man's name and pay under
+  that — and came down the country with NO light for the box; Old Qin refused
+  the second line (a smell is not a proof) and gave Xiao An the summer: walk
+  the high ground where the hound points, in front of him.
 - Must not (without earned route): HIS existence — the veiling is the wall;
   if they ever learn of it must be earned on-page (a broken veiling, a
-  witnessed kill, a report). As of ch14: STILL NOTHING of him — the men now
-  believe the mark has a FACE, and the face belongs to the pale beast; the
-  scents in the hound's nose are read by them as one beast with two ways of
-  walking, never as two creatures; the crossing above their camp left no print.
-  That resolution is canon for the firewall.
+  witnessed kill, a report). As of ch15: STILL NOTHING of him on any paper — the men believe the mark has a
+  FACE, and the face belongs to the pale beast; the hound's third reading put
+  it standing over ground that carries his old scent in front of all four of
+  them, and it is still unwritable (no print, no blood, nothing to see), and
+  the summer walk is now the only thing pointed his way. The dragon never
+  hears, never sees; any crossing left no print. That resolution is canon for
+  the firewall.
 
 ## THE GREATNESS PAST HIS READING
 - Knows the dragon-word read in him (ch9). Nothing else is staged; its

@@ -15,7 +15,7 @@ Authority order: author word > NO_MISTAKE_LIVE_RULES > FOUNDATION/CANON_LEDGER
   HIS_STATUS_PANEL (DERIVED clean sheet — author-facing)
 - codex/ — CREATURES, TIMELINE, PLACES, CHARACTERS, GLOSSARY,
   KNOWLEDGE_FIREWALLS
-- chapters/ — Chapter_01 … Chapter_11
+- chapters/ — Chapter_01 … Chapter_15
 
 ## HANDOFF (kit 10)
 READ FIRST, in order:
@@ -25,14 +25,15 @@ READ FIRST, in order:
 4. foundation/CONTINUITY.md — anchor table + forward references
 5. the last two chapters
 6. foundation/SERIAL_LOG.md — last three entries only
-LIVE EDGE: Chapter 14 — The Wrong Face (DL 3664–65, the deep country's second
-winter)
-NEXT BEAT: Chapter 15 — the south: the keepers' line meets the pale beast on
-ground of its choosing and the wrong face is tested; the dragon reads the south
-from a distance or chooses a ground of his own; the hound torn between two
-scents and what it does the third time; the want's patience asked again; the
-greatnesses still walked between (nothing staged); the wall at 1,000 far,
-unfelt. Author's fresh go required.
+LIVE EDGE: Chapter 15 — The Hound's Third Time (DL 3665, the thaw; the low
+country taken)
+NEXT BEAT: Chapter 16 — the summer comes up the country: the keepers' line
+returns north and walks where the hound points (Xiao An in front, Old Qin
+behind her), on ground that holds a print in the warm months; what the ground
+shows them and what the list does with it; the dragon hunting his taken low
+ground; the roar's fate in the pale beast, somewhere south, unreturned; the
+want asked again; the greatnesses' country unchanged (nothing staged); the wall
+at 1,000 far, unfelt. Author's fresh go required.
 RULINGS IN FORCE (2026-09-18, session 27): the year-takers carry faces,
 names and dialogue in the parallel panel (the dragon never hears; firewall
 stands); DD chapter footers KEPT (registered exception to kit 07 §3); the

@@ -765,3 +765,34 @@ body). The Talent is never named; deltas record its RESULTS.
 - Cultivation (panel; no clock, s7): REAL AGE ≈ 68–70 months; CULTIVATION-AGE
   ESTIMATE ≈ 190–205 (the winter's heavy meals; the aimed word's spend is not a
   gain). Next barrier at cultivation-year 1,000 — far, unfelt. No leaps.
+
+## ch15 (DL 3665 — the thaw; the queued chapter delivered on the author's "Continue")
+- THE THAW AND THE WAIT: water under the den; the camps on his ground down; one
+  smoke line still south; he hunts the hard ground above and waits while it stands.
+- THE LOW COUNTRY TAKEN: the smoke gone; the emptied watch read in one walk — the
+  men killed a beast and left it standing, the pale beast came up out of the south
+  and ate it, the men watched and went down the country; the wire and blind gone,
+  the fire ring cold, the pale beast's tracks south and none returning; the worn
+  circle of a hound that would not leave one patch of ground (he cannot read what
+  she found); the ground open (no camp, no rival heavy beast, the meat coming down
+  with the thaw, the road between the two countries); his own quiet over it; first
+  kill on the new ground, the rest dragged off the trail.
+- MEN ledger: THE SOUTH WATCH — four days on the low trail below the shelf of old
+  rock, on the pale beast's chosen ground; the bait killed and left standing; the
+  wire, the blind, the hound staked. THE BEAST COME TO THE MEAT: it stepped the
+  wire as if it were drawn for it, stopped short of the kill, read the blind, ate
+  in the open in daylight with the line counting it, and walked off south
+  unhurried. THE RULING: the list carries what the ground can prove — the seen and
+  counted beast written with the place under it, the old lodge man's name and pay
+  under that; NO light for the table; the summer promise (Xiao An walks the high
+  ground where the hound points, in front of Old Qin).
+- THE HOUND: the third reading — the first at the summer water (ch12), the second
+  on the high ground in the cold (ch14); the third time it leaves a living beast
+  to stand over ground carrying his old scent and will not come off it. The one
+  true reading in the south is the one the list cannot write.
+- Firewall: still nothing of him on any paper; the men believe the paper's beast
+  and now hold a direction (the summer walk) and a hound that will not give the
+  scent up. The dragon never hears, never sees.
+- Cultivation (panel; no clock, s7): REAL AGE ≈ 71–73 months; CULTIVATION-AGE
+  ESTIMATE ≈ 195–210 (the winter's heavy meals and the thaw's new ground). Next
+  barrier at cultivation-year 1,000 — far, unfelt. No leaps.
