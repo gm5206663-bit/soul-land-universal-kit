@@ -71,3 +71,34 @@ it becomes a new ledger row and the ripples get priced.
 Not the emperor beast. Not a hidden god. A villager's son with a king-of-beasts soul,
 a womb-born gift that lets him absorbe what should kill him, two author-named skills,
 and a recommendation letter in his bag. Everything he becomes from here is **earned on page**.
+
+## §7 CANON SKILL REGISTER (added 2026-09-22, author audit)
+The measuring sticks every lion skill card must argue against (ore: wiki_soulskill_mechanics.txt):
+
+**Measuring stick A — White Tiger line (canon beast-soul power-attack ladder):**
+| Ring | Skill | Register |
+|---|---|---|
+| 1st yellow | White Tiger Barrier | amplification: white-light layer, str+def up |
+| 2nd yellow | Intense Light Wave | ranged blast |
+| 3rd purple (Vajra Tiger, 1k) | Vajra Transformation | amplification **+100% str/atk/def, ~30 min** |
+| 4th purple | Meteor Shower | AOE, each meteor = 1/10 soul power |
+| 5th black | Devil God Transformation | amplification **+150%, STACKS with 3rd** |
+| 6th black | Annihilation Kill | finisher, ~50% total soul power |
+| 7th | White Tiger True Body | avatar |
+
+**Measuring stick B — Mighty Lion line (our soul's own proven line):** Barrier (5th) ·
+Avatar (7th) · All Beasts Bow Down (8th) · Soul Shattering Death Roar (9th) — aspiration
+bank, author signs each use. Donghua fire-trivia NOT banked: our line runs metal+earth.
+
+**House cards (canon register, see STATUS_PANEL for live values):**
+- GOLDEN LION CLAW — melee-burst attack; golden metal claw-blades; killing rake;
+  output scales with soul power; cost carded at first use.
+- GOLDEN LION BODY — amplification (enchantment family, stackable): +100% strength,
+  +100% defense sustained window; forged-plate luster (drake scale → lion-worn);
+  EARTH secondary expresses as grounding (knockback/knockdown resistance).
+  Benchmark: Vajra's +100%/30-min band — same 1,000y tier, so this card argues from canon,
+  not from wish.
+
+**Attribute rule discovered this audit:** the donor's element shows *through* the soul
+(White Tiger Earthquake precedent) — and under L-09, perfect absorption locks it in as a
+real **secondary attribute**. Lion line: METAL primary + EARTH secondary.

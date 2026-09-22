@@ -1,6 +1,7 @@
 # STATUS PANEL — single-state truth
-Snapshot: **FOUNDATION v1** · 2026-09-22 · chapters live: **0**
+Snapshot: **FOUNDATION v2** · 2026-09-22 · chapters live: **0**
 Rebuilt in full after every kill/rewrite. If a number isn't here, it doesn't exist yet.
+Skill cards follow CANON SKILL LAW (AUTHORS_LAW L-08) — no trait-poetry; measured effects only.
 
 ---
 
@@ -8,7 +9,8 @@ Rebuilt in full after every kill/rewrite. If a number isn't here, it doesn't exi
 | Card | Value |
 |---|---|
 | Age at canon start | **11** (= Huo Yuhao) |
-| Martial soul | **GOLDEN LION** — metal-type beast soul, Power Attack System (ledger 005/007) |
+| Martial soul | **GOLDEN LION** — beast soul, Power Attack System (ledger 005/007) |
+| **Soul attributes** | **METAL — primary** (native, deepened by ring 1) · **EARTH — secondary** (ring-2 graft, law L-09) |
 | Innate soul power | **rank 5** |
 | Cultivation at canon start | **rank 23** — Soul Grandmaster, rings yellow·purple |
 | Talent | **ADAPTATION** (womb-born, AUTHORS_LAW L-04) |
@@ -18,31 +20,49 @@ Rebuilt in full after every kill/rewrite. If a number isn't here, it doesn't exi
 | Romance lanes | Wang Dong / Dong'er (Tang Wutong) + Wang Qiu'er — natural development (L-06) |
 
 ## RING 1 — 500y GOLDEN LION · yellow (ledger 009)
-- **Skill 1: GOLDEN LION CLAW** — full-power rake; steel-edged claws; the metal essence rides the cut
-- Perfect-absorption package (adaptation + same-species compatibility):
-  - Bloodline **purified & strengthened** — golden sheen in the mane under possession; beast-pressure a cut above his rank
-  - Claw hardness ≈ steel; strength + reflexes above rank-23 norms
-  - Night-adapted eyes; predator aura (weak beasts shy off him)
-  - Metal essence now **native** — future metal-type donors gain compatibility
+- **SKILL 1: GOLDEN LION CLAW** — attack technique, melee burst
+  - Soul power floods arm → claws; claws extend as **golden metal claw-blades** (metal primary)
+  - One full-power rake — armor-rending killing blow, the donor species' own close-combat
+    signature tailored to his claws (L-08.2)
+  - Output scales with soul power invested (L-08.3); base grade = 100y-band, reinforced by
+    perfect absorption + same-species compatibility
+  - Cost: fixed soul power per strike — carded at first chapter use (measurement-first)
+  - Range: arm's reach at rank 23. Claw-light projection = growth window, **not yet granted**
+- **Absorption gains** (separate card per L-08.6):
+  - Physique up proportional to an adult golden lion frame; claws steel-hard at rest
+  - **Bloodline purified & strengthened** — same-species perfect absorption (L-04.3)
+  - METAL primary attribute deepened; metal now native to the soul
+  - Night-adapted eyes · predator aura (physiology perks, bloodline card — not skills)
 
 ## RING 2 — 1,000y EARTH ARMOURED IRON DRAGON · purple (ledger 010) `[design species]`
-- **Skill 2: GOLDEN LION BODY** — full-body enhancement window: earth-iron lattice surfaces as **golden mane-plate hide** (drake scales re-worn lion-style); strength & defense surge; grounding stance resists knockback. Duration/cost: measured on first chapter use.
-- Adapted dragon traits (golden-lion versions, per L-04):
-  - Subdermal iron-earth lattice → his native hide reinforcement
-  - Tremor sense through the ground (short range)
-  - Weight rooting (drake stance → lion stance)
+- **SKILL 2: GOLDEN LION BODY** — self-enhancement, amplification ("enchantment") family;
+  stacks with later amplification skills per canon (L-08.4, White Tiger proof)
+  - Golden light surges over the body; metal-earth reinforcement shows as a **forged-plate
+    luster** across skin and mane — the drake's iron scale translated lion-style (L-04.2)
+  - **+100% strength · +100% defense** while sustained — canon benchmark card (1,000y
+    amplification = White Tiger Vajra Transformation's band; ledger 016)
+  - **EARTH secondary attribute expresses:** grounding — heavy resistance to knockback and
+    knockdown; stance roots like the drake's ground-seat, worn as a lion's stance
+  - Duration: sustained window maintained by soul power; max window at rank 23 carded at
+    first chapter use (measurement-first)
+  - Cost: activation + upkeep drain per L-08.5
+- **Absorption gains** (separate card per L-08.6):
+  - Physique up proportional to a sub-dragon drake frame
+  - **EARTH grafted as the martial soul's SECONDARY ATTRIBUTE** (law L-09, author-signed):
+    earth-aligned defense affinity; compatibility boost toward future earth/metal donors
 
 ## FORTUNE COMPENSATION QUEUE (L-05)
 *(empty — opens when the first butterfly lands on Huo Yuhao)*
 
-## CANON ANCHORS VERIFIED (this session)
-- Golden Lion species: SL2 ch 148, Shrek Beast Dueling Area (ledger 005, pointer ore)
+## CANON ANCHORS VERIFIED
+- Golden Lion species: SL2 ch 148 (ledger 005, pointer ore)
 - Golden Lion martial soul + ring line: Mighty Lion Douluo (ledger 007, pointer ore)
+- Skill mechanics + White Tiger measuring stick: (ledger 016, ore wiki_soulskill_mechanics.txt)
 - Ring ceiling ladder 423y/764y (ledger 004)
-- New GitHub token live; remote = gm5206663-bit/soul-land-universal-kit, HEAD a0a6473
 
 ## OPEN / PENDING
 - Chapter 1 — UNWRITTEN. Venue: road to Shrek (ledger 012). Awaiting author's "start".
 - City/village names — `[design]`, settled at ch-1 writing
-- Ring 3+ design — not opened; canon precedent line banked (Barrier / Avatar / All Beasts Bow Down / Death Roar)
+- Skill costs/windows (Claw strike cost, Body max window) — pending first chapter use
+- Ring 3+ design — not opened; aspiration bank (Barrier / Avatar / All Beasts Bow Down / Death Roar)
 - Three-Eyed Golden Lion hook — held, unsigned (ledger 015)

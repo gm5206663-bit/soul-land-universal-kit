@@ -57,3 +57,31 @@ STATUS_PANEL; every entry must be paid inside the serial, never hand-waved.
 ## L-07 — NAMING & VOCABULARY
 Canon terms as canon uses them (soul power ranks, age-tiers, empire names). No invented
 technique-names dressed as canon. Every house invention carries `[design]` on its card.
+
+## L-08 — CANON SKILL LAW (author-ordered audit 2026-09-22)
+> "This not how soul' land soul' skills works go check how work's"
+
+Verified against canon (ore `wiki_soulskill_mechanics.txt`):
+1. **One skill per ring** (100,000y carries two; a million-year ring up to four).
+2. The skill forms from the donor's **bloodline origin + lingering soul × martial-soul
+   compatibility** — the donor's effect shows *through* the soul, tailored to the master.
+3. **Skills scale** — base grade by ring age (canon yardstick: 100y ≈ 30%-class …
+   1,000y ≈ 50%-class … 100,000y ≈ 100%-class) and output grows with the master's soul power.
+4. **Amplification ("enchantment") skills stack** — canon proof: White Tiger Barrier +
+   Vajra Transformation (+100% str/atk/def, ~30 min) + Devil God Transformation (+150%),
+   stacked together.
+5. Skills have **measured costs and durations** (up to stated fractions of total soul power).
+6. Ring **absorption itself boosts stats** proportional to the donor — separate from the skill.
+CHAPTER RULE: every displayed skill is written name → type → measured effect → cost → duration.
+Trait-poetry is banned from skill cards.
+
+## L-09 — ATTRIBUTE GRAFT LAW (author-signed 2026-09-22)
+> "Perfect absorption means he got Earth attribute secondary form second soul ring"
+
+Perfect absorption under Adaptation (L-04) grafts the donor's **attribute onto the martial soul**
+— not as flavor, as a real **secondary attribute**. Ring 2 (Earth Armoured Iron Dragon) ⇒
+**EARTH = Golden Lion's secondary attribute** (METAL primary + EARTH secondary).
+Canon adjacency: donor-element skills express through beast souls (White Tiger Earthquake line).
+Priced: graft requires perfect absorption; secondary never rivals primary; element conflicts
+per L-04.4. Primary/secondary line is carded in STATUS_PANEL and may only change by graft or
+author word.

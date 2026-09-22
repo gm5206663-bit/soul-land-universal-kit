@@ -39,8 +39,14 @@ Absorption ceilings (Yu Xiaogang's ladder): ring 1 ≈ 423y, ring 2 ≈ 764y —
 - **Adaptation Talent** — womb-born gift (AUTHORS_LAW L-04)
 - **Fortune Compensation Queue** — repayment ledger for Huo Yuhao's butterflies (L-05)
 - **Jin Yang (金阳)** — hero's name; surname Jin ("gold"), chosen by designer, author-delegated
-- **Golden Lion Claw / Golden Lion Body** — author-named skills 1 & 2 (cards in STATUS_PANEL)
-- **Mane-plate hide** — ring-2 armor expression: earth-iron lattice worn lion-style
+- **Golden Lion Claw** — skill 1, melee-burst attack technique (canon-register card in STATUS_PANEL)
+- **Golden Lion Body** — skill 2, amplification/enchantment technique, earth-grounded (STATUS_PANEL)
+- **Soul attribute (primary/secondary)** — the element core of a martial soul; hero line METAL + EARTH (L-09)
+- **Amplification / enchantment family** — stat-multiplier skills; stack per canon proof (Barrier + Vajra + Devil God)
+- **Soul skill scaling** — base grade by ring age (100y ≈ 30% … 1k ≈ 50% … 100k ≈ 100%-class); output scales with soul power (L-08)
+
+## Skill-writing register (binding on chapters)
+name → type → measured effect → cost → duration. Trait-poetry banned (L-08 chapter rule).
 
 ## Banned in chapters (era breakers)
 Spirit Hall · Spirit Empire · Bibi Dong-era institutions · mass spirit-souls · SL3/SL4 tech or terms
