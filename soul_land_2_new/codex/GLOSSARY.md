@@ -63,9 +63,10 @@ name → type → measured effect → cost → duration. Trait-poetry banned (L-
 - **Gold soul coin (金魂币) / silver / copper** — 1 gold = 10 silver = 100 copper (canon units)
 - **No soul-master stipend institution** — SL2 era coin law L-10 (that subsidy died with SL1's hall)
 - **Blacksmith grade ladder 1–9** — house era-note `[design]`; grade 3 = cold-forged cold-measured journeyman-master; the great associations formalize it next era (SL3 context)
-- **Metal-resonance sense** `[design]` — feel grain/stress/temperature-band in metal while working it (panel §6, module §9)
+- **Metal-resonance sense** `[design]` — feel grain/stress/temperature-band in metal while working it (panel §7, module §9)
 - **Soul-tool workshop blanks** — the gold-paying market a smith sells into; making tools = engineer track, walled off (L-10.3)
-- **Standing Golden Lion** `[design]` — his fighting-school name (panel §5)
+- **Standing Golden Lion** `[design]` — his fighting-school name (panel §6)
+- **Martial soul possession (beast souls)** — the soul possesses the master; base-form transformation carded at panel §3 (White Tiger = the canon measuring register)
 
 ## Banned in chapters (era breakers)
 Spirit Hall · Spirit Empire · Bibi Dong-era institutions · mass spirit-souls · SL3/SL4 tech or terms · any Tier-0 gold (spear/divine blood) manifesting without a signed ledger row

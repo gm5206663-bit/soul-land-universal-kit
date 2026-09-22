@@ -28,6 +28,10 @@ The martial-soul type is canon-proven; the canon carrier line ran:
 | Ring | Skill (canon precedent) |
 |---|---|
 | Initial | Constitution of the Golden Lion — enhanced **strength and defense** |
+
+> **Base-form doctrine:** a beast soul's first truth is POSSESSION — the soul wears the master
+> (White Tiger register: hair, eyes, claws, king-mark, constitution). Our lion's possessed form
+> and constitution grant are carded at STATUS_PANEL §3. Ring skills fire from the possessed base.
 | 5th | **Mighty Lion Barrier** — flaming defensive barrier |
 | 7th | **Golden Lion Avatar** — transforms into a >6 m golden lion with goat horns; all attributes surge |
 | 8th | **All Beasts Bow Down** — spiritual-pressure ability; beast martial souls/soul beasts lose composure by rank |
