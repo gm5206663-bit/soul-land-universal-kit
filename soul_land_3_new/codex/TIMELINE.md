@@ -7,7 +7,8 @@ Canon anchor:      THE CHOOSING = FOUR YEARS BEFORE canon ch 62 (Gu Yue's Eastse
                    gates, ore 62–63). CH1 then timeskips and LANDS ON the canon
                    ch 62–64 day (Xie Xie fight, Elementalist disclosure, Class 5).
 Author rulings:    session-3e re-rule (killed Pagoda shelf; "first soul spirit,"
-                   rings self-formed, 4-year skip, butterfly already happened).
+                   rings GIVEN by the wolf (author session-3g),
+                   4-year skip, butterfly already happened).
 OC clock:          wolf = death's-door reject cub at the choosing (no figure) +
                    four years concealed.
 ```

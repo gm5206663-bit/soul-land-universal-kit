@@ -7,7 +7,8 @@ Updated 2026-09-22 (session 3f: panel REPAIRED — duplicates + stale venue-math
 
 - Stage: **SERIAL LIVE (revised).** Latest chapter: **Chapter 01 — "The Choosing"**
   (gate PASS, commit `1e09f7a`). Venue per author ruling: the choosing happens at
-  the Star Dou margins four years pre-canon; her rings are shown self-formed; a
+  the Star Dou margins four years pre-canon; her rings come FROM the wolf
+  (author ruling — she does not self-form in this fic, per canon mechanics); a
   4-year timeskip lands on the canon ch 62–64 day; the butterfly is already
   4 years deep.
 - Scene edge: admitted to 1st Year Class 5. The wolf is her concealed companion
@@ -20,9 +21,15 @@ Updated 2026-09-22 (session 3f: panel REPAIRED — duplicates + stale venue-math
 - Holder: unnamed twin-line wolf (Elemental Silver × metal Golden), AT holder;
   rejected by both blood-courts as "defective" `[design]`; FW-7 — selfhood and
   the AT are never named in prose.
-- Her public face: one yellow ring (canon-ore 63 fact). True cultivation
-  UNMEASURED by her own rule ("grow, and be counted for nothing"). Rings
-  self-formed `[design, ledger 40]`. No spirit-soul utility is claimed for her.
+- AUTHOR'S RING LAW (session 3g, replaces ledger 40/47): in this fic she does NOT
+  self-condense her rings — **the soul spirit gives them** (canon mechanics, ore
+  120: spirit soul = the ring). Her public yellow ring is made of HIS years; its
+  color therefore tracks his cultivation (yellow while <1,000y). Ripple logged:
+  canon was silent on her ring source — this is a deliberate, priced divergence;
+  the cost = her camouflage's meter is a living partner. If he gutters, her yellow
+  gutters with him.
+- Her public face: one yellow ring (canon-ore 63 fact). True cultivation/soul-power
+  rank UNMEASURED by her own rule ("grow, and be counted for nothing").
 - Bind price shown on page: fusion spent HER — she slept till moonrise
   (ore ch 120 law; one line, no tallying).
 - Wolf sustenance price: one coin of moon-pale metal per season, paid in the
@@ -45,7 +52,8 @@ Updated 2026-09-22 (session 3f: panel REPAIRED — duplicates + stale venue-math
   GOLD side — metal-frame body (hide/strength/burst). WOLF side — pack instinct,
   nose/ear-map. Incipient (integration road): two elements answered one breath once,
   fumbled (ch-01 Part Two). These are abilities, not ring-skills — he grants her
-  NO ring and NO skill (ledger 47); companion-mimicry only on reveal (ore 1331).
+  her the RING (his years = her public colors), NOT the skill inside it;
+  companion-mimicry only on reveal (ore 1331).
 
 ## 3. OPEN THREADS
 
