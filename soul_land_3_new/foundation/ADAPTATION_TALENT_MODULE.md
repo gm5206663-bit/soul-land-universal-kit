@@ -120,7 +120,9 @@ THE_WOLF_MODULE §3.2.)*
 
 | Gain (dated state) | Substrate consumed | Scene |
 |---|---|---|
-| (none yet — zero chapters) | | |
+| Flank wound closed (choosing +1 month) | Her pines-side nursing, first moon | ch 01 Part One tail |
+| Cultivation 100y → 500y true (4 winters) | 12+ seasonal moon-pale coins (paid in her sleeves) + Silver-side ambience + her read-overs | ch 01 Part Two (audit fragments) |
+| Twin-lamp coexistence begun (integration road, fumbled) | The Talent's longest substrate: the bind itself; two-blood truces, months-priced | ch 01 Part Two |
 
 ## M5. PRE-DRAFT CHECKS AGAINST THIS MODULE (Chapter 1 readiness)
 

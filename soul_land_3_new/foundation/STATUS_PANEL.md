@@ -27,12 +27,19 @@ Updated 2026-09-22 (session 3f: panel REPAIRED — duplicates + stale venue-math
   (ore ch 120 law; one line, no tallying).
 - Wolf sustenance price: one coin of moon-pale metal per season, paid in the
   length of her winter sleeves.
-- Arc law (not yet exercised): platform kills yield 1/10 cultivation, even split
-  (ore ch 130); defective souls evolve easier (ore 130–131); companion souls grow
-  via bearer's nourishment (ore 1331).
-- Substrate ledger (AT §M4): **EMPTY — defect flagged.** Ch-01 showed gains
-  (wound closure; the rotproof/lungs line) that were never retro-logged. Held
-  pending the author's AT ruling (open question, session 3f).
+- Wolf, MEASURED (in-world audit by her own read, ch-01 Part Two; author-set defaults):
+  choosing winter = **100 years** (starved) · winter two = **200** · winter three =
+  **350** · arrival at Eastsea = **~500 years** (deep yellow). **1,000-year purple
+  crossing is a future, priced, measured event** (public-attention law: a nobody
+  girl's first ring must not turn violet).
+- His own skills, possessed at Eastsea arrival `[design; mimicry precedent ore 1331]`:
+  **Six-Tongue Call** — one element spoken at a time (water/fire/earth/wind/light;
+  darkness shuttered with the sixth room); **Metal Hide / Silver Bone** — gold-line
+  body: hide defense + burst strength; **Pack Sense** — nose/ear-map field work.
+  Incipient (integration road, shown fumbled in ch-01): twin-tongue fusing.
+- Structural rule: her rings/skills are SELF-formed (ledger 40) — he grants her no
+  ring and no skill; what he is to her = the concealed sixth man + the link's
+  feeling-texture (FW-2). Companion-mimicry of her list arrives only on reveal (1331).
 
 ## 3. OPEN THREADS
 
