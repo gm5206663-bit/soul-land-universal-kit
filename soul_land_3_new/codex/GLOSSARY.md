@@ -27,7 +27,10 @@ and nowhere else, then fixing every chapter (two-copies law applied to words).
 | Mithril | the silver wolf's food/bottleneck metal (SL2 ch 163) — the canonical price behind "the coin of moon-pale metal" |
 | golden wolf | metal-element soul beast; burly golden-furred physical power (canon-franchise, author-cited) — the wolf's GOLD blood |
 | Elementalist | Gu Yue's martial soul — her ch-64 disclosure: six elements incl. space; her TRUE country: SEVEN (water, fire, earth, wind, light, darkness, space), god-tier +Destruction/Creation/Life |
-| Elemental Tide | Gu Yue's first soul skill — sustain + control (canon ch 64) |
+| Elemental Tide | her first soul skill — **ATTRACTS elemental energy** (canon/wiki; ring #1, origin "Spirit Ring Materialization", 300y yellow → later 1,000y → 10,000y) — her line: Tide #1, Control #2, Fusion #3, Staff #4; #7 = SDK True Body + Elemental Devouring |
 | Goldsong ("Goldlight" in held ores) | Wulin's companion soul; defective→evolving precedent; NOT ours (NOT list) |
 
 Rank titles follow kit 01 §2. Zero CJK characters anywhere (rail 8 — gate-enforced).
+| Elemental Devouring | her hidden #7-ring class — black-hole swallow (blue red cyan yellow white black silver); victim can't reuse the element, she can. NOT for school era — disclosure wire |
+| Silver Dragon King's seven | the true martial-soul country = water, fire, earth, wind, light, darkness, space; each ring unlocks a new elemental control; +Divine rings (11 Destruction, 12 Creation) at god tier |
+| Silver Moon Wolf King's seventh | LIGHTNING — the canon royal-ladder seventh element of the silver wolf line (SL2 164–165); our wolf's possible SPACE seventh is [design], not canon |
