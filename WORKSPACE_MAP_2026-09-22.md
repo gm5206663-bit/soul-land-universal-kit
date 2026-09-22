@@ -68,3 +68,11 @@ sl4_foundation_v1 (subset), starter zip, uploads/ (folded into SL_ARCHIVE/inbox)
 root-dup SARA.md; old workspace maps to SL_ARCHIVE/workspace_maps_history/;
 scripts to .admin/. Full accounting: CLEANUP_2026-09-22_WORKSHOP.md. ~1,000 fewer
 tracked files. All live serials and libraries untouched.
+
+## Pass 6 (same date — WORKSHOP SPARSENED, author-ordered)
+Author: "why have my projects in your workshop — you have a token, access them
+anytime." Correct. Repo converted to SPARSE CHECKOUT: the on-disk workspace now
+holds only `soul_land_3_new/` (the live serial) + root docs. Every other project
+remains intact ON GITHUB (soul-land-universal-kit + soul-land-projects +
+storyos-site + storyline) and in local git objects — reachable anytime via
+`git show HEAD:path` (no re-clone, no mess). Nothing deleted from the remote.
