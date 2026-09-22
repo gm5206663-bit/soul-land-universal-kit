@@ -71,7 +71,27 @@ Canon-lore branches into DD3: the Dragonwolf/Diamond line (636 — metal-sheen,
 dragon-trace branch of the same country, suppressed by GDK blood), and endgame
 wolf Limit Douluo (1896 — the ceiling answer).
 
-## 4. QUEUED (not yet primary-verified — fan-pointer held, ore to follow)
+## 4. WIKI ORE BANKED 2026-09-22 (pointer-class; primary chapter text still queued)
+
+Content of the four species pages now sits on disk:
+- `canon_ore/research/wiki_silverwolf_sl2-163.txt` — full species law incl.
+  MITHRIL-feeding + bottleneck rule, basic-attacks limit, race ladder.
+- `canon_ore/research/wiki_silvermoonking_sl2-164-165.txt` — SEVEN elements
+  (six + **LIGHTNING**, the canonical royal 7th), enslave/lead wolves,
+  **+20% pack-guidance cultivation**, silver-white crescent forehead mark,
+  20,000+y exemplar at the Jing Yang Mountain Range.
+- `canon_ore/research/wiki_goldenwolf_sl2-163-164.txt` — golden = metal-type,
+  burly, swift, pack; three 10,000y Golden Wolf Kings; Jing Yang +30% metal-buff.
+- `canon_ore/research/canon_0636_research.txt` (already banked, DD3 TEXT) —
+  Dragonwolf/Diamond lineage suppressed by GDK blood.
+
+**Correction of a design overclaim (logged 2026-09-22):** the species ladder's
+canonical 7th element = **LIGHTNING** (Silver Moon Wolf King, SL2 164–165). The
+hope that his royal 7th might be *space* (her color) is **[design]** — blessed
+by the twin-blood + her SDK nourishment, NOT promised by the species ladder.
+Verdict §2's "built-in arc horizon" line is design-lantern, not canon.
+
+## 5. QUEUED PRIMARY ORE
 
 - [ ] SL2 novel ch **163** (Elemental Silver Wolf species scene) — primary ore.
   The freewebnovel SL2 map is NON-LINEAR at URL 165 (=ch 46.3); a readnovelfull

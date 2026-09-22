@@ -32,8 +32,11 @@ Updated 2026-09-22 (session 3f: panel REPAIRED — duplicates + stale venue-math
   rank UNMEASURED by her own rule ("grow, and be counted for nothing").
 - Bind price shown on page: fusion spent HER — she slept till moonrise
   (ore ch 120 law; one line, no tallying).
-- Wolf sustenance price: one coin of moon-pale metal per season, paid in the
-  length of her winter sleeves.
+- Wolf sustenance price (canon-named): **Mithril** — the silver wolf's canon
+  bottleneck metal (SL2 ch 163, wiki-ore `research/wiki_silverwolf_sl2-163.txt`).
+  Fed as one silver-white coin per season, paid in the length of her winter sleeves.
+  NOTE: canon needs MASSIVE mithril at bottlenecks — his 1,000y crossing is priced
+  by a mithril-hoard problem AND the public-attention law, together.
 - Wolf, MEASURED (in-world audit by her own read, ch-01 Part Two; author-set defaults):
   choosing winter = **100 years** (starved) · winter two = **200** · winter three =
   **350** · arrival at Eastsea = **~500 years** (deep yellow). **1,000-year purple

@@ -22,7 +22,9 @@ and nowhere else, then fixing every chapter (two-copies law applied to words).
 | inherited spirit soul | rare no-ring ability-granting soul (canon ch 743) |
 | genetic incompatibility | canon's term for a defective mixed-essence soul (canon ch 1331) — the wolf's shelf reading |
 | dragonwolf | dragonblooded wolf line; gold/diamond metal body (canon ch 636) |
-| elemental silver wolf | six-element master species — Water, Fire, Earth, Wind, Light, Darkness, fluid at will (canon-franchise, author-cited) — the wolf's SILVER blood; identical six to Gu Yue's Elementalist |
+| elemental silver wolf | six-element master species (water, fire, earth, wind, light, darkness; fluid at will but ONLY basic attacks per element) — feeds on MITHRIL to break bottlenecks; race ladder 1,000y Silver Wolf → 10,000y Silver (Moon) Wolf King (+1 rare element) → 100,000y Emperor. The wolf's SILVER blood. His six ⊂ Gu Yue's true SEVEN — space is the one tongue he lacks |
+| Golden Wolf | metal-type wolf of the Jing Yang range (Sun-Moon Empire): burly, glowing fur, pack hunters, three 10,000y Wolf Kings; silver royals GUIDE the metal pack's cultivation +20% (silver-white crescent forehead mark on the king) — the wolf's GOLDEN blood |
+| Mithril | the silver wolf's food/bottleneck metal (SL2 ch 163) — the canonical price behind "the coin of moon-pale metal" |
 | golden wolf | metal-element soul beast; burly golden-furred physical power (canon-franchise, author-cited) — the wolf's GOLD blood |
 | Elementalist | Gu Yue's martial soul — her ch-64 disclosure: six elements incl. space; her TRUE country: SEVEN (water, fire, earth, wind, light, darkness, space), god-tier +Destruction/Creation/Life |
 | Elemental Tide | Gu Yue's first soul skill — sustain + control (canon ch 64) |

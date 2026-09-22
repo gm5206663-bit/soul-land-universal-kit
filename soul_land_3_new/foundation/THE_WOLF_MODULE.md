@@ -184,14 +184,15 @@ without; HIS Adaptation Talent integrates from within (module: AT §M2 roads 1�
    aloud — it is the reason *under* the reason, and the arc of him learning
    WHAT she is runs on the other side of it.
 
-### §3.3 THE SCENE (bind-scene ruling = option 1, author session 2)
+### §3.3 THE SCENE — **RETIRED 2026-09-22 (author ruled the venue dead)**
 
-The Pagoda's Eastsea branch (ore ch 121 "Eastsea Spirit Pagoda" texture: pillars,
-mural hall, staff rows) — the defective/artificial reject shelf. The clerk
-apologizes for the unstable reading; she asks for the wolf anyway. The scene runs
-on layers 1–2 aloud, layer 3 in glances. Opens inside the sale, not before it
-(prose law 6 — no overview opening; the shelf-life he lived is told in pieces,
-paid out in later chapters, never info-dumped in the first).
+The Pagoda-shelf bind died with the old draft. Live scene law = what Chapter 01
+"The Choosing" committed: Star Dou margins choosing → him as her FIRST soul
+spirit (consent bridge) → her rings come FROM him (author ring law, ledger 50) →
+4-year skip → canon ch 62–64 Eastsea landing. Original text kept for history:
+
+*The Pagoda's Eastsea branch … the clerk apologizes for the unstable reading; she
+asks for the wolf anyway. (scene spec of the killed draft, v1)*
 
 ## 4. MODULE FIREWALLS (extends KNOWLEDGE_FIREWALLS.md)
 
