@@ -48,5 +48,16 @@ Absorption ceilings (Yu Xiaogang's ladder): ring 1 ≈ 423y, ring 2 ≈ 764y —
 ## Skill-writing register (binding on chapters)
 name → type → measured effect → cost → duration. Trait-poetry banned (L-08 chapter rule).
 
+## Golden register (canon, era-tagged)
+- **Golden Dragon King** — Dragon God's body-half; divine tier; **ERA-WALLED** (context only)
+- **Golden Dragon Spear** — GDK's 49th rib; only golden-dragon blood wields it; Qiu'er's lane
+- **Dark Gold Terrorclaw Bear** — METAL-element, behemoth-blooded; devour-evolution; in-era (SL2 ch 139)
+- **Golden Fur Lion Mastiff** — lion/canine progenitor legend; EXTINCT in our era (SL3 platform only)
+- **Life Gold (生灵之金)** — "mother of all metals"; evolves metals; Huo Yuhao's road (L-05 locked)
+- **Ancient Golden Tree / Elder Gold** — Tang-San-planted heart of Shrek; Sea God Pavilion inside
+- **Ten Savage Beasts** — Star Dou's ranked lords (Di Tian #1, Bear Lord #6, Scarlet King #8)
+- **Golden Earth Dragon King** — golden NAME, light ELEMENT (teaching case)
+- **Di Tian** — Black Dragon King with golden eyes = NOT a gold bloodline
+
 ## Banned in chapters (era breakers)
-Spirit Hall · Spirit Empire · Bibi Dong-era institutions · mass spirit-souls · SL3/SL4 tech or terms
+Spirit Hall · Spirit Empire · Bibi Dong-era institutions · mass spirit-souls · SL3/SL4 tech or terms · any Tier-0 gold (spear/divine blood) manifesting without a signed ledger row

@@ -102,3 +102,15 @@ bank, author signs each use. Donghua fire-trivia NOT banked: our line runs metal
 **Attribute rule discovered this audit:** the donor's element shows *through* the soul
 (White Tiger Earthquake precedent) — and under L-09, perfect absorption locks it in as a
 real **secondary attribute**. Lion line: METAL primary + EARTH secondary.
+
+## §8 THE GOLDEN FAMILY TREE (added 2026-09-22, gold sweep)
+Full atlas: `foundation/THE_GOLD_REGISTER.md` + ore `wiki_gold_atlas.txt`. Placement of our line:
+- **Above us, unreachable:** Golden Dragon King (divine, era-walled), Qiu'er's Golden Dragon
+  (ultimate strength — destiny lane, not kinship), the mastiff legend (extinct progenitor of
+  lions — resonance possible only as author-signed revelation).
+- **Beside us, huntable:** the DARK GOLD TERRORCLAW BEAR — metal like us, behemoth-blooded,
+  alive in our era, canon-active at Star Dou (ch 139). The one legitimate ladder of gold.
+- **Around us, objects:** Life Gold (evolves metals — Huo's road, L-05 priced), the Ancient
+  Golden Tree (Tang San's planting, Shrek's heart — acknowledgment flavor free).
+- **Inside us:** earned metal, twice refined; EARTH graft. No divine blood, no fate, no domain.
+Lion doctrine: our gold is made, not born — every future ring is the mint.
