@@ -5,13 +5,14 @@ Updated 2026-09-22 (session 1: rulings R1–R6 resolved; premise locked).
 
 ## 1. LIVE EDGE
 
-- Stage: **DRAFTING DOOR OPEN** — premise locked (silver-golden twin-wolf → Gu
-  Yue's soul spirit), holds the ADAPTATION TALENT (author, session 1b). All locks
-  filled; all rulings closed (R7→S1, R8→defaults, by recommendation under his
-  standing delegation). 8 canon ores banked and mined. Awaiting exactly one word
-  from the author: **"start."** Latest chapter tracked: **Chapter 00** (none).
-- Slot (S1, closed): chapter 1 = the binding, elementary Ascension Platform window,
-  canon ch 120–145 texture (ore on disk: 119/120/121/129/130/131).
+- Stage: **DRAFTING DOOR OPEN** — premise locked AND session-2-perfected:
+  **the elemental-silver-wolf × golden-dragonwolf companion spirit soul of Gu
+  Yue**, Adaptation-Talent holder; she knows him at first touch; defective-shelf
+  bind at the Eastsea Pagoda (scene spec §3.3); endgame in full Natural-Ripple.
+  14 ores banked/maned. Awaiting exactly one word from the author: **"start."**
+  Latest chapter tracked: **Chapter 00** (none).
+- Scene spec ready: THE_WOLF_MODULE §3.3; ore texture on disk
+  (62–66 arrival/elements · 119–131 platform/evolution · 636/743/1331 mechanism).
 
 ## 2. POWER & NUMBERS
 

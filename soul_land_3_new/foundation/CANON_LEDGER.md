@@ -31,4 +31,12 @@ pass (spine §7) converts every `[verify]` the premise touches.
 | 22 | Adaptation Talent Master Foundation v2.0 = locked universal core for this serial | [user ruling 2026-09-22] | ADAPTATION_TALENT_MODULE.md | 2026-09-22 |
 | 23 | Twin-blood wolf = Pagoda "defective" dual-essence stock (shelf-class parity w/ Goldlight) | [design on canon shelf precedent] | THE_WOLF_MODULE §1/M1 | 2026-09-22 |
 
+| 24 | Golden/diamond DRAGONWOLF = metal-singular dragonblooded wolf line (Wolf King Hua Lantang); GDK blood suppresses dragonwolf souls | [canon — cited ch 636] | canon_ore/research/canon_0636_research.txt | 2026-09-22 |
+| 25 | COMPANION SPIRIT SOUL: merged early, grows with master, mental link, can wield master's skills; "genetic incompatibility" is canon's defect vocabulary; Goldsong's cured by GDK-blood nourishment | [canon — cited ch 1331] | canon_ore/research/canon_1331_research.txt | 2026-09-22 |
+| 26 | Inherited spirit souls exist beyond Pagoda stock (grant ability, not rings) | [canon — cited ch 743] | canon_ore/research/canon_0743_research.txt | 2026-09-22 |
+| 27 | Gu Yue martial soul = Elementalist; six elements controlled, rings cannot strengthen them; first skill Elemental Tide; ONE ring carried into ch 131 | [canon — cited ch 64 + 131] | canon_ore/canon_064.txt, canon_131.txt | 2026-09-22 |
+| 28 | Silver-wolf line = elemental/moon-aspected franchise species (Silver Moon Wolf lineage into SL4) | [canon-franchise + user ruling; DD3-text ore-pending] | author session 2 | 2026-09-22 |
+| 29 | Wolf = elemental silver wolf × golden dragonwolf companion soul; defect = genetic incompatibility (canon vocabulary §25) | [design on canon base] | THE_WOLF_MODULE §2/§3.2 | 2026-09-22 |
+| 30 | Dragon blood pressures: his gold blood FEELS Wulin's GDK suppression (per §24 mechanics) and Gu Yue's SDK sovereign pull (FW-2 feel-only) | [design on §24 mechanics] | THE_WOLF_MODULE §2 NOT-list | 2026-09-22 |
+
 Append below with chapters: `| n | claim | tag | chapter/source | date |`

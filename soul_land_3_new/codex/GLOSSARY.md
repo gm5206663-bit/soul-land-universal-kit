@@ -18,5 +18,13 @@ and nowhere else, then fixing every chapter (two-copies law applied to words).
 | Holy Spirit Cult | the evil-master church |
 | Blood God Legion | the far-north passage garrison |
 | Sea God Pavilion | Shrek's inner seat |
+| companion spirit soul | spirit soul merged early that grows with the master (canon ch 1331); OUR wolf's binding form |
+| inherited spirit soul | rare no-ring ability-granting soul (canon ch 743) |
+| genetic incompatibility | canon's term for a defective mixed-essence soul (canon ch 1331) — the wolf's shelf reading |
+| dragonwolf | dragonblooded wolf line; gold/diamond metal body (canon ch 636) — the wolf's GOLD blood |
+| elemental silver wolf | moon/elemental-aspected silver wolf line (franchise-canonical) — the wolf's SILVER blood |
+| Elementalist | Gu Yue's martial soul — six elements controlled, rings unable to strengthen them (canon ch 64) |
+| Elemental Tide | Gu Yue's first soul skill — sustain + control (canon ch 64) |
+| Goldsong ("Goldlight" in held ores) | Wulin's companion soul; defective→evolving precedent; NOT ours (NOT list) |
 
 Rank titles follow kit 01 §2. Zero CJK characters anywhere (rail 8 — gate-enforced).

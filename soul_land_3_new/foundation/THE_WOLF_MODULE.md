@@ -35,18 +35,40 @@ double weight here.
 - **Defective-stock precedent:** Wulin's Goldsong — an error on the shelf that was
   everything **[canon]**. The twin-blood wolf fits the same shelf-class `[design]`.
 
-## 2. THE WOLF (design lines — dormant until the author's R8)
+## 2. THE WOLF (design lines — SESSION 2, 2026-09-22: author-locked to CANON species)
 
-- **Twin-line blood:** Silver Wolf line × Golden Wolf line. The two bloods in one
-  body is the instability that gets him classified *defective* and left unsold
-  `[design]`. Aspect vocabulary (silver = ?, gold = ?) is DELIBERATELY left
-  undefined here — the author's word names his blood's natures.
-- **Public face (lock 6):** Gu Yue's mysterious contracted soul spirit.
+**Ruling (author, verbatim):** *"silver wolf or elemental silver wolf (canon) golden
+wolf (canon, a gold, singular metal type go check"* — and checked it was. The two
+bloods are now canon-anchored, NOT invented:
+
+- **SILVER BLOOD — ELEMENTAL SILVER WOLF.** Canon-franchise silver-wolf line
+  (moon/elemental-aspected; franchise-canonical: Silver Moon Wolf lineage carrying
+  into SL4 canon). Elemental natured — the side that answers to **her** element
+  mastery. Tag: `[canon-franchise + user ruling; DD3-text silver-wolf specifics
+  ore-pending → chapter-gated]`.
+- **GOLD BLOOD — GOLDEN/DIAMOND DRAGONWOLF.** DD3 canon, **verified by ore ch 636**
+  ("Dragonwolf Martial Soul" — Hua Lantang, the Star Luo Eight Heavenly Kings'
+  "Wolf King"): a dragon-blooded wolf line, gold-scaled with the sheen of *some
+  bizarre metal*; signature defense "Diamond Dragonwolf" — a gold/metal-singular
+  body line, exactly as the author said. Tag: `[canon — cited ch 636]`.
+- **WHY TWIN-READS AS DEFECTIVE:** dragon-trace + elemental silver in one frame =
+  *genetic incompatibility* in canon's OWN vocabulary (ore ch 1331 — Goldsong's
+  defect was literally a genetic incompatibility). Pagoda tests read an unstable
+  mixed essence and stamp it. The stamp is canon's own language, not our invention.
+- **[design]** the twin bloods' exact surface expressions are working defaults
+  until the author names them further (his word owns the vocabulary; silence =
+  ours, replaceable).
+
+- **Public face (lock 6):** Gu Yue's mysterious contracted soul spirit — canon
+  FORM: a **companion spirit soul** (see §3.2).
 - **True face:** twin-line remnant; origin scene `[design]`, resolved in-scene.
-- **NOT list (double-locked — rail 5 + author convention):** NOT dragon line ·
-  never touches Golden/Silver **Dragon** King inheritance · never competes with
-  Goldsong (he belongs to Wulin) · no devour/absorb shortcut — and per the author's
-  own law, bloodline-over-pressure is a *living threshold, never immunity*.
+- **NOT list (double-locked — rail 5 + author convention):** NOT dragon line — his
+  gold is a *dragonblooded wolf*, never the **Dragon King** line; never touches
+  Golden/Silver DRAGON KING **inheritance**; never replaces/supplants Goldsong
+  (canon sibling-shelf, different master); no devour shortcut; bloodline-over-
+  suppression = *living threshold, never immunity* — and canon ch 636 already shows
+  what real dragon-suppression DOES to dragonwolves: he feels it (ores: GDK
+  suppression of the Dragonwolf martial soul, verbatim).
 - **Ceiling (lock 5, per the author's standing law "do not self-limit powers"):**
   NO ceiling is locked. What is locked instead: every gain carries an on-page price
   and a substrate scene. Numbers grow; boxes never appear free.
@@ -57,6 +79,16 @@ double weight here.
   distance between them is the plot. Talent discipline: non-sentient, never named
   in prose, substrate-priced, holder-tier-mirroring, with §61.2/§61.4/§64.1 clauses
   sworn for every holder before him.
+- **AWARENESS — author ruling (session 2, verbatim):** *"Of course she knows, what
+  this even question."* Gu Yue reads him at first touch (the King reads beast-kind).
+  Full openness on HER side from chapter 1: the secret-keeping runs OUTWARD
+  (Pagoda, teammates, the world — FW-7/FW-9), never INWARD. **The one not-knowing
+  is HIS: he does not know what SHE is** (FW-2 inversion — feel-only sovereign
+  pull; her truth is his earned arc, author-gated).
+- **Voice (R8 default):** contract-link telepathy to Gu Yue only at first (she
+  answers; two-voice warmth early); silent beast to the world; name emerges
+  in-scene — hers to give, which canon-parallel texture (Goldsong was named)
+  supports.
 - **Voice (R8 default):** contract-link telepathy to Gu Yue only at first; silent
   beast exterior to the world; speech widens only through earned scenes.
 
@@ -93,6 +125,52 @@ double weight here.
   stock slips through.
 - **The price on her side (ore ch 120):** fusing a spirit soul spends spiritual
   power; she pays to hold him — the price is on the page, not in a footer promise.
+
+### §3.2 THE BIND'S CANON FORM — COMPANION SPIRIT SOUL (ore ch 1331, verified)
+
+Canon NAMES our mechanism. Ore ch 1331 ("Companion Spirit Soul", verified against
+the full map): a companion spirit soul is a soul merged **early** that **grows and
+improves alongside its master** — "the ones that soul masters liked the most,"
+first souls that keep growing; connected **by a mental link**; a mature companion
+can wield the master's own skills (Goldsong used Wulin's). Goldsong's defect was
+literal *genetic incompatibility*, **resolved by the nourishment of the Golden
+Dragon King's bloodline** — mutated, re-formed, intelligence waking through
+"countless evolutions." Canon ch 743 adds the exotica register: inherited spirit
+souls exist beyond Pagoda stock.
+
+**So the wolf, canon-framed:** Gu Yue's *companion spirit soul* — off the
+deficiency shelf, a genetic-incompatibility defective exactly in Goldsong's class,
+whose resolution runs **Silver-side**: her essence nourishes what she already
+reads true (she knows — session-2 ruling). The parallel is canon's own structure:
+**Goldsong is nourished by the Golden Dragon King's blood; the wolf is nourished
+by the Silver Dragon King's.** Twin mechanisms — HER essence feeds him from
+without; HIS Adaptation Talent integrates from within (module: AT §M2 roads 1–2).
+`[design on canon base — mechanism cited ch 636/743/1331]`
+
+**Why she chooses him — ALL THREE LAYERS ARE CANON-SOURCED (session-2 ruling demand
+"reason why she choose, go check canon information" — checked):**
+1. **Her own declared weakness (ore ch 64, her verbatim words):** *"I am able to
+   control all six elements, but I am unable to attach my soul ring onto any of
+   these elements… it is hard to strengthen them."* An **elemental** silver wolf
+   companion is the Pagoda-stock answer to the gap she herself states on-page. The
+   gold side guards a caster's physical flank.
+2. **The Goldsong lesson (ore ch 130–131):** she STOOD THERE and watched a
+   defective soul evolve ("his spirit soul is naturally weak, so it's easier for
+   it to evolve"). Choosing the defective twin-wolf is her applying canon's own
+   scene she lived through. Public reason, airtight with Wu Zhangkong and the team.
+3. **The private reason (FW-2 layer):** he is beast-kind; she is the Silver King of
+   beast-kind. She reads him at first touch. This reason never reaches the page
+   aloud — it is the reason *under* the reason, and the arc of him learning
+   WHAT she is runs on the other side of it.
+
+### §3.3 THE SCENE (bind-scene ruling = option 1, author session 2)
+
+The Pagoda's Eastsea branch (ore ch 121 "Eastsea Spirit Pagoda" texture: pillars,
+mural hall, staff rows) — the defective/artificial reject shelf. The clerk
+apologizes for the unstable reading; she asks for the wolf anyway. The scene runs
+on layers 1–2 aloud, layer 3 in glances. Opens inside the sale, not before it
+(prose law 6 — no overview opening; the shelf-life he lived is told in pieces,
+paid out in later chapters, never info-dumped in the first).
 
 ## 4. MODULE FIREWALLS (extends KNOWLEDGE_FIREWALLS.md)
 

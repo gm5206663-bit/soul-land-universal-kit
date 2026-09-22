@@ -49,6 +49,12 @@ It amends nothing in the core and shares no CONTENT with other modules — shape
 
 ## M1. THE IDENTITY TRUTH — hold BOTH truths (blue_silver/seed module form)
 
+*(Post-session-2 note: canon's own vocabulary for his "defect" now exists — ore ch
+1331 calls Goldsong's flaw a **genetic incompatibility**, resolved by dragon-blood
+nourishment. Read M1 through that lens: incompatibility is the label; the Talent's
+integration + her Silver-side nourishment are the twin mechanics of its unwinding —
+THE_WOLF_MODULE §3.2.)*
+
 - **Truth 1 — he is defective.** Pagoda stock taxonomy reads twin-essence
   instability in one small wolf-frame and stamps the shelf: reject-stock, the same
   shelf-class that Goldlight came home from `[design on canon shelf-class precedent,

@@ -120,6 +120,24 @@ Standing author rulings are appended below this line, dated, verbatim where give
 9. **Canon-ore pipeline re-proven live** (8 chapters banked, title-verified; the
    +1→+2 mirror-offset drift caught by the title law — see spine HARVEST §C).
 
+### SESSION 2 — 2026-09-22 (the four perfection rulings)
+10. **THE BLOODS ARE CANON SPECIES** (author, verbatim): *"silver wolf or elemental
+    silver wolf (canon) golden wolf (canon, a gold, singular metal type go check."*
+    Checked and verified: SILVER = elemental silver wolf; GOLD = golden/diamond
+    **dragonwolf** — metal-gold dragonblooded wolf line, ore-cited canon ch 636.
+    Designer lesson recorded: I proposed invented aspects; the author's correction
+    stands as law — CHECK CANON FIRST, even for the premise's own vocabulary.
+11. **BIND = THE DEFECTIVE SHELF** (first option), and its REASON is canon-sourced
+    (author demand): her own declared weakness (ore ch 64, verbatim quote), the
+    Goldsong lesson she lived through (ore ch 130–131), private layer FW-2.
+    Canon form: **companion spirit soul** (ore ch 1331).
+12. **AWARENESS:** *"Of course she knows, what this even question"* — Gu Yue reads
+    him at first touch. Secrecy runs outward only; FW-2 inverts: HE holds the
+    not-knowing.
+13. **ENDGAME:** Natural-Ripple **fully in play, canon endgame included** — his
+    standing law "Nothing is absolute" applied to the finale itself; every bend
+    still owes a cause and a ledger row.
+
 ### THE AUTHOR'S STANDING LAWS (harvested from `SARA.md` §6 — his words preserved)
 These predate this serial and now bind it. They outrank every file except a NEW word
 from the author.

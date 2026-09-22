@@ -154,3 +154,24 @@ Armed proposals (canon-ore verified against `CANON_INDEX_23_600.txt`):
 *Next session: author says "start"/"so start" (or adjusts anything above) → draft
 `chapters/Chapter_01_*.md` (the binding) from ore ch 120–131 texture →
 `python3 checks/verify.py` → 0 → panel sync → present.*
+
+## SESSION-2 RESOLUTIONS (2026-09-22) — the author perfected the foundation
+
+Four open design rulings answered by the author and locked:
+- **THE BLOODS → RESOLVED to canon species** (verbatim): *"silver wolf or elemental
+  silver wolf (canon) golden wolf (canon, a gold, singular metal type go check"*.
+  Verified: silver = elemental silver wolf; gold = golden/diamond **dragonwolf**
+  (metal-singular, dragonblooded — ore ch 636 "Dragonwolf Martial Soul"). Recorded
+  in THE_WOLF_MODULE §2 with tags. (His correction — CHECK CANON BEFORE DESIGNING —
+  is logged as a designer lesson in RAILS ruling 10.)
+- **BIND SCENE → RESOLVED:** option 1 (the defective shelf at the Eastsea Pagoda)
+  with the reason-for-choice canon-sourced (his demand — "go check canon
+  information"): her verbatim weakness (ore ch 64) + the Goldsong lesson (ore 130–
+  131) + private FW-2 layer. Canon form: companion spirit soul (ore ch 1331).
+  Scene spec: THE_WOLF_MODULE §3.3.
+- **AWARENESS → RESOLVED:** *"of course she knows"* — full openness on her side
+  from chapter 1; secrecy outward only; FW-2 inverted (he holds the not-knowing).
+- **ENDGAME → RESOLVED:** **FULL Natural-Ripple — canon's frozen endgame is IN
+  PLAY.** Everything may bend, each bend priced, caused, and logged (R4). Locked.
+
+Nothing remains OPEN. The drafting door stands ready on the author's word.
