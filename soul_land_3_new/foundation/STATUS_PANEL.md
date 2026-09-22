@@ -32,14 +32,20 @@ Updated 2026-09-22 (session 3f: panel REPAIRED — duplicates + stale venue-math
   **350** · arrival at Eastsea = **~500 years** (deep yellow). **1,000-year purple
   crossing is a future, priced, measured event** (public-attention law: a nobody
   girl's first ring must not turn violet).
-- His own skills, possessed at Eastsea arrival `[design; mimicry precedent ore 1331]`:
-  **Six-Tongue Call** — one element spoken at a time (water/fire/earth/wind/light;
-  darkness shuttered with the sixth room); **Metal Hide / Silver Bone** — gold-line
-  body: hide defense + burst strength; **Pack Sense** — nose/ear-map field work.
-  Incipient (integration road, shown fumbled in ch-01): twin-tongue fusing.
-- Structural rule: her rings/skills are SELF-formed (ledger 40) — he grants her no
-  ring and no skill; what he is to her = the concealed sixth man + the link's
-  feeling-texture (FW-2). Companion-mimicry of her list arrives only on reveal (1331).
+- HER CARD (canon, no invention): shown at Eastsea = ONE yellow ring → ONE soul
+  skill; canon ring→skill mechanics (ch 64). **Skill #1: Elemental Tide** — sustain
+  + finer element strength control (canon ch 64, her verbatim). Rings are
+  self-formed `[design, ledger 40]`; she attaches NO ring to any element (canon ch 64).
+  Canon future line `[Baidu table, verified bloodline session]`: #2 Elemental
+  Control · #3 Elemental Fusion · #4 Elemental Staff · SL4-era #5 Light Control ·
+  #6 Dark Element Control · #7 Space Control + SDK True Body.
+- His abilities (canon language — beast innate abilities, NOT invented named
+  skills): SILVER side — six-element manipulation, one element at a time
+  (water, fire, earth, wind, light; darkness shuttered with the sixth room).
+  GOLD side — metal-frame body (hide/strength/burst). WOLF side — pack instinct,
+  nose/ear-map. Incipient (integration road): two elements answered one breath once,
+  fumbled (ch-01 Part Two). These are abilities, not ring-skills — he grants her
+  NO ring and NO skill (ledger 47); companion-mimicry only on reveal (ore 1331).
 
 ## 3. OPEN THREADS
 
