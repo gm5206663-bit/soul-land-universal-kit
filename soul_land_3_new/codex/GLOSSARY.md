@@ -21,8 +21,9 @@ and nowhere else, then fixing every chapter (two-copies law applied to words).
 | companion spirit soul | spirit soul merged early that grows with the master (canon ch 1331); OUR wolf's binding form |
 | inherited spirit soul | rare no-ring ability-granting soul (canon ch 743) |
 | genetic incompatibility | canon's term for a defective mixed-essence soul (canon ch 1331) — the wolf's shelf reading |
-| dragonwolf | dragonblooded wolf line; gold/diamond metal body (canon ch 636) — the wolf's GOLD blood |
-| elemental silver wolf | moon/elemental-aspected silver wolf line (franchise-canonical) — the wolf's SILVER blood |
+| dragonwolf | dragonblooded wolf line; gold/diamond metal body (canon ch 636) |
+| elemental silver wolf | six-element master species — Water, Fire, Earth, Wind, Light, Darkness, fluid at will (canon-franchise, author-cited) — the wolf's SILVER blood; identical six to Gu Yue's Elementalist |
+| golden wolf | metal-element soul beast; burly golden-furred physical power (canon-franchise, author-cited) — the wolf's GOLD blood |
 | Elementalist | Gu Yue's martial soul — six elements controlled, rings unable to strengthen them (canon ch 64) |
 | Elemental Tide | Gu Yue's first soul skill — sustain + control (canon ch 64) |
 | Goldsong ("Goldlight" in held ores) | Wulin's companion soul; defective→evolving precedent; NOT ours (NOT list) |

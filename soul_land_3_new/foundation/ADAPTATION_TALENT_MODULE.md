@@ -70,10 +70,14 @@ THE_WOLF_MODULE §3.2.)*
 ## M2. ROADS OF EXPRESSION (every genuinely connected layer — never four-boxed)
 
 1. **TWIN-BLOOD INTEGRATION** — the primary road: the Talent's refining/integrating
-   function works silver and gold toward one honest flowering. Pace: integration is
-   expressed as decades-priced states, never as a completed thing; author law
-   ("Nothing is absolute") means even complete integration is a dated state, not an
-   ending.
+   function works silver and gold toward one honest flowering. With the official
+   blood-law set (author-cited, session-3): **SILVER = six-element magic (Water,
+   Fire, Earth, Wind, Light, Darkness — Gu Yue's own set, element for element) ·
+   GOLD = metal-element body (physical metal, burly gold-frame power).** The
+   integration question is therefore concrete: one frame that can cast all six
+   AND hit like metal — never simultaneously at chapter one. Pace: decades-priced
+   states, never a completed thing; author law ("Nothing is absolute") means even
+   complete integration is a dated state, not an ending.
 2. **SELFHOOD PRESERVATION THROUGH THE BIND** — at the contract event (module §3 of
    THE_WOLF), the Talent's preserve function works on his selfhood with the contract
    process itself as substrate: what survives is exactly what §73's scope allows —

@@ -35,7 +35,9 @@ pass (spine §7) converts every `[verify]` the premise touches.
 | 25 | COMPANION SPIRIT SOUL: merged early, grows with master, mental link, can wield master's skills; "genetic incompatibility" is canon's defect vocabulary; Goldsong's cured by GDK-blood nourishment | [canon — cited ch 1331] | canon_ore/research/canon_1331_research.txt | 2026-09-22 |
 | 26 | Inherited spirit souls exist beyond Pagoda stock (grant ability, not rings) | [canon — cited ch 743] | canon_ore/research/canon_0743_research.txt | 2026-09-22 |
 | 27 | Gu Yue martial soul = Elementalist; six elements controlled, rings cannot strengthen them; first skill Elemental Tide; ONE ring carried into ch 131 | [canon — cited ch 64 + 131] | canon_ore/canon_064.txt, canon_131.txt | 2026-09-22 |
-| 28 | Silver-wolf line = elemental/moon-aspected franchise species (Silver Moon Wolf lineage into SL4) | [canon-franchise + user ruling; DD3-text ore-pending] | author session 2 | 2026-09-22 |
+| 28 | ELEMENTAL SILVER WOLF species law: six-element master — Water, Fire, Earth, Wind, Light, Darkness — fluid control; the SAME six as Gu Yue's Elementalist set (ch 64) | [canon-franchise, author-cited; DD3-text ore queued] | author session 3 | 2026-09-22 |
+| 28b | GOLDEN WOLF species law: metal-element soul beast; burly golden-furred physical power | [canon-franchise, author-cited] | author session 3 | 2026-09-22 |
+| 28c | Wolf-type lines reach Limit Douluo when the blood is true (Ferocious Wolf Douluo Dong Zian, silver-hue wolf martial soul) | [canon — cited ch 1896] | canon_ore/research/canon_1896_research.txt | 2026-09-22 |
 | 29 | Wolf = elemental silver wolf × golden dragonwolf companion soul; defect = genetic incompatibility (canon vocabulary §25) | [design on canon base] | THE_WOLF_MODULE §2/§3.2 | 2026-09-22 |
 | 30 | Dragon blood pressures: his gold blood FEELS Wulin's GDK suppression (per §24 mechanics) and Gu Yue's SDK sovereign pull (FW-2 feel-only) | [design on §24 mechanics] | THE_WOLF_MODULE §2 NOT-list | 2026-09-22 |
 

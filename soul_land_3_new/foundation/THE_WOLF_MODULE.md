@@ -41,20 +41,34 @@ double weight here.
 wolf (canon, a gold, singular metal type go check"* — and checked it was. The two
 bloods are now canon-anchored, NOT invented:
 
-- **SILVER BLOOD — ELEMENTAL SILVER WOLF.** Canon-franchise silver-wolf line
-  (moon/elemental-aspected; franchise-canonical: Silver Moon Wolf lineage carrying
-  into SL4 canon). Elemental natured — the side that answers to **her** element
-  mastery. Tag: `[canon-franchise + user ruling; DD3-text silver-wolf specifics
-  ore-pending → chapter-gated]`.
-- **GOLD BLOOD — GOLDEN/DIAMOND DRAGONWOLF.** DD3 canon, **verified by ore ch 636**
-  ("Dragonwolf Martial Soul" — Hua Lantang, the Star Luo Eight Heavenly Kings'
-  "Wolf King"): a dragon-blooded wolf line, gold-scaled with the sheen of *some
-  bizarre metal*; signature defense "Diamond Dragonwolf" — a gold/metal-singular
-  body line, exactly as the author said. Tag: `[canon — cited ch 636]`.
-- **WHY TWIN-READS AS DEFECTIVE:** dragon-trace + elemental silver in one frame =
-  *genetic incompatibility* in canon's OWN vocabulary (ore ch 1331 — Goldsong's
-  defect was literally a genetic incompatibility). Pagoda tests read an unstable
-  mixed essence and stamp it. The stamp is canon's own language, not our invention.
+- **SILVER BLOOD — ELEMENTAL SILVER WOLF, the six-element master.**
+  Official species law (author-cited franchise canon, 2026-09-22): unlike the Golden
+  Wolf's pure physical metal element, the **Elemental Silver Wolf is an absolute
+  master of multi-elemental magic — a standard Silver Wolf carries SIX elements:
+  Water, Fire, Earth, Wind, Light, Darkness — fluidly unleashing any at will,
+  nearly impossible to counter.** DD3-franchise supporting ores: silver-wolf-line
+  soul/martial-soul presence verified in-canon (the Ferocious Wolf, a *silver-hued*
+  wolf-type martial soul, reached **Limit Douluo** — ore ch 1896: wolf lines do
+  reach the ceiling when the blood is true; Silver Moon Wolf lineage carries into
+  SL4 canon). Tag: `[canon-franchise, author-cited — DD3-specific silver-wolf text
+  ore queued; chapter-gated before a fight scene turns on a specific element]`.
+  **THE PARITY THAT SEALS THE BIND:** her Elementalist set — per ore ch 64 — is
+  the SAME six: **Water, Fire, Earth, Wind, Light, Darkness.** The wolf's silver
+  blood is, element for element, *Gu Yue's own kit cast as a beast.* Of course she
+  stopped at the defective shelf: it was the first soul in the world whose blood
+  spoke her own language.
+- **GOLD BLOOD — GOLDEN WOLF, the metal-element body.** Official species law
+  (author-cited franchise canon): **a metal-element soul beast — burly, muscular
+  power under glowing golden fur; pure physical metal.** DD3-text anchor verified:
+  the Dragonwolf/Diamond Dragonwolf line (ore ch 636, metal-sheen scales, diamond
+  defense) — the wolf's gold side is the franchise's metal-wolf body engine, the
+  physical complement to silver's magic. Tag: `[canon-franchise, author-cited +
+  DD3-text (636) for the dragon-blooded branch]`.
+- **THE TWIN DIVIDE, official:** SILVER = six-element magic · GOLD = metal-element
+  body. Magic and body in one frame is precisely why Pagoda testing reads
+  *instability* — their assay expects one element per beast; a six-element silver
+  ALSO carrying a metal-body reads as a contradiction (genetic incompatibility,
+  canon vocabulary ch 1331).
 - **[design]** the twin bloods' exact surface expressions are working defaults
   until the author names them further (his word owns the vocabulary; silence =
   ours, replaceable).
