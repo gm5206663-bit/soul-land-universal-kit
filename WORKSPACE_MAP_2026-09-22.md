@@ -61,3 +61,10 @@ Author rejected the whole Pagoda-defective-shelf venue as canon-illogical for Gu
 Yue ("if she wants she choose in starting; who gives her first ring?"). Chapter 1
 rewritten as "The Choosing": Star Dou margins consent-bind, rings SHOWN self-formed,
 4-year skip onto canon ch 62–64 with a 4-year-deep butterfly. All ledgers re-synced.
+
+## Pass 5 (same date — WORKSHOP CLEANUP, author-ordered)
+Removed stale mirrors/dup archives: reference/ (300), arena_managed_uploads (652),
+sl4_foundation_v1 (subset), starter zip, uploads/ (folded into SL_ARCHIVE/inbox),
+root-dup SARA.md; old workspace maps to SL_ARCHIVE/workspace_maps_history/;
+scripts to .admin/. Full accounting: CLEANUP_2026-09-22_WORKSHOP.md. ~1,000 fewer
+tracked files. All live serials and libraries untouched.
