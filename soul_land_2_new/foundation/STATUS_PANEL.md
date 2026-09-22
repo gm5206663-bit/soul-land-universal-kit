@@ -1,5 +1,5 @@
 # STATUS PANEL — single-state truth
-Snapshot: **FOUNDATION v2** · 2026-09-22 · chapters live: **0**
+Snapshot: **FOUNDATION v3** · 2026-09-22 · chapters live: **1** (Ch 1 "The Road to Shrek")
 Rebuilt in full after every kill/rewrite. If a number isn't here, it doesn't exist yet.
 Skill cards follow CANON SKILL LAW (AUTHORS_LAW L-08) — no trait-poetry; measured effects only.
 
@@ -26,7 +26,7 @@ Skill cards follow CANON SKILL LAW (AUTHORS_LAW L-08) — no trait-poetry; measu
     signature tailored to his claws (L-08.2)
   - Output scales with soul power invested (L-08.3); base grade = 100y-band, reinforced by
     perfect absorption + same-species compatibility
-  - Cost: fixed soul power per strike — carded at first chapter use (measurement-first)
+  - **Cost: ≈1/20 (5%) of reserve per strike** — CARDED in combat, ch 1
   - Range: arm's reach at rank 23. Claw-light projection = growth window, **not yet granted**
 - **Absorption gains** (separate card per L-08.6):
   - Physique up proportional to an adult golden lion frame; claws steel-hard at rest
@@ -43,9 +43,8 @@ Skill cards follow CANON SKILL LAW (AUTHORS_LAW L-08) — no trait-poetry; measu
     amplification = White Tiger Vajra Transformation's band; ledger 016)
   - **EARTH secondary attribute expresses:** grounding — heavy resistance to knockback and
     knockdown; stance roots like the drake's ground-seat, worn as a lion's stance
-  - Duration: sustained window maintained by soul power; max window at rank 23 carded at
-    first chapter use (measurement-first)
-  - Cost: activation + upkeep drain per L-08.5
+  - Duration: **max window 12 minutes at full +100% amplitude (rank-23 measure)** — CARDED in
+    combat, ch 1; upkeep drain during window per L-08.5
 - **Absorption gains** (separate card per L-08.6):
   - Physique up proportional to a sub-dragon drake frame
   - **EARTH grafted as the martial soul's SECONDARY ATTRIBUTE** (law L-09, author-signed):
@@ -61,8 +60,11 @@ Skill cards follow CANON SKILL LAW (AUTHORS_LAW L-08) — no trait-poetry; measu
 - Ring ceiling ladder 423y/764y (ledger 004)
 
 ## OPEN / PENDING
-- Chapter 1 — UNWRITTEN. Venue: road to Shrek (ledger 012). Awaiting author's "start".
-- City/village names — `[design]`, settled at ch-1 writing
-- Skill costs/windows (Claw strike cost, Body max window) — pending first chapter use
+- Chapter 2 — the gate measure: rings revealed publicly; entrance sequence (ch-1 hook set)
 - Ring 3+ design — not opened; aspiration bank (Barrier / Avatar / All Beasts Bow Down / Death Roar)
 - Three-Eyed Golden Lion hook — held, unsigned (ledger 015)
+- Gold aspiration cones — cone 1 (terrorclaw donor) open, cones 2–4 priced/sealed (THE_GOLD_REGISTER)
+
+## SETTLED BY CH 1
+- Names: **Jinxi Village** · **White Birch City** · **Chu Shan** (Soul King, rank 56) — all `[design]`, live
+- Costs carded in combat: Claw = 5% reserve/strike · Body = 12-min full window (see chapter endnotes)
