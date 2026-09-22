@@ -114,3 +114,18 @@ Full atlas: `foundation/THE_GOLD_REGISTER.md` + ore `wiki_gold_atlas.txt`. Place
   Golden Tree (Tang San's planting, Shrek's heart — acknowledgment flavor free).
 - **Inside us:** earned metal, twice refined; EARTH graft. No divine blood, no fate, no domain.
 Lion doctrine: our gold is made, not born — every future ring is the mint.
+
+## §9 THE FORGE OF THE LION (added 2026-09-22, perfect-panel order)
+Why the smith road is not garnish but *structure*:
+- **Attribute logic:** metal is his primary. Five years of hammer + womb-gift + attribute
+  resonance woke the **metal-resonance sense** (grains/stress/heat-band through worked metal) —
+  the honest explanation for **grade 3 at 10¾**. Without metal-primary + adaptation, it's a myth;
+  with them, it's arithmetic.
+- **Conditioning logic:** the anvil builds exactly what a power-attack vanguard needs —
+  shoulders, wrists, core, tendon-bone base — years before ranks could (canon-logic echo of the
+  SL1 smith-hero road; no blood, no method claimed).
+- **Era logic (L-10):** no stipends in this age; coin is a cultivation input. The forge pays gold
+  for refined blanks the soul-tool workshops consume — while **the making of tools stays closed**:
+  he is a smith, not an engineer (era wall).
+- **Doctrine:** every grade is certified, every commission dated, every coin ledgered. The lion
+  doesn't eat talent; it eats work.

@@ -85,3 +85,15 @@ Canon adjacency: donor-element skills express through beast souls (White Tiger E
 Priced: graft requires perfect absorption; secondary never rivals primary; element conflicts
 per L-04.4. Primary/secondary line is carded in STATUS_PANEL and may only change by graft or
 author word.
+
+## L-10 — COIN & CRAFT LAW (author-signed 2026-09-22)
+> "of course he is a blacksmith 3rd grade, he learn to earn money of course this is soul land 2
+> not 1 where spirit hall give coins"
+
+1. **No stipend institution.** SL1's hall-issued soul-master subsidy died with that era. In this
+   era a soul master earns: academy duties, contracts, craft.
+2. **His road is the forge.** Apprenticed at 8; guild-certified **GRADE 3 blacksmith** at 10¾
+   (era-ladder `[design]`: grades 1–9; spec in STATUS_PANEL §6 / module §9).
+3. **Era wall:** smith ≠ soul engineer. Soul tools are the engineer track; he forges honest metal.
+4. Money and prices are carded like cultivation (purse, commissions, cost-of-training). No
+   poverty melodrama, no forgotten coin: the ledger of coppers is part of the ledger of costs.

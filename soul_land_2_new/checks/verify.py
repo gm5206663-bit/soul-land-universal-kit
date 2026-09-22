@@ -14,6 +14,7 @@ for path, why in [
     ("foundation/SERIAL_LOG.md", "serial log"),
     ("foundation/THE_LION_MODULE.md", "lion module"),
     ("foundation/THE_GOLD_REGISTER.md", "golden atlas"),
+    ("foundation/JIN_YANG_PAST.md", "past bible"),
     ("codex/GLOSSARY.md", "vocabulary"),
 ]:
     if not os.path.isfile(os.path.join(ROOT, path)):
