@@ -97,3 +97,15 @@ author word.
 3. **Era wall:** smith ≠ soul engineer. Soul tools are the engineer track; he forges honest metal.
 4. Money and prices are carded like cultivation (purse, commissions, cost-of-training). No
    poverty melodrama, no forgotten coin: the ledger of coppers is part of the ledger of costs.
+
+## L-11 — CANON-FIRST LAW (author-signed 2026-09-22)
+> "If you don't follow canon then of course you do such shits"
+
+1. **Canon lanes are followed BY DEFAULT** — rosters, classes, teachers, scene-beats, dates,
+   prices canon gives. Following canon never requires the author's nod. Ever.
+2. **`[design]` fills only genuine gaps** — the hero's off-camera life, canon-blank numbers,
+   his private measurements. It may never re-route a canon lane for convenience.
+3. **Divergence keeps its old price** — author signature, ripple pricing (L-05 for Huo Yuhao).
+   Asking permission to *follow* canon is itself a mistake; the machine does not do it again.
+4. When canon supplies a scene (e.g., Zhou Yi's first lesson), the hero lives **inside** it;
+   his POV adds, the canon does not bend — save the signed law zones (L-05, L-06).
