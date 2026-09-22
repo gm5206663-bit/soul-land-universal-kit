@@ -1,76 +1,68 @@
 # STATUS PANEL — SL3 New Serial (single live-state file)
 
-Gate-enforced sections. Figures live here and ONLY here (two-copies law).
-Updated 2026-09-22 (session 3e: CHAPTER 01 REVISED on author ruling — new venue).
+Figures live here and ONLY here (two-copies law).
+Updated 2026-09-22 (session 3f: panel REPAIRED — duplicates + stale venue-math removed).
 
 ## 1. LIVE EDGE
 
 - Stage: **SERIAL LIVE (revised).** Latest chapter: **Chapter 01 — "The Choosing"**
-  (2026-09-22, gate pending sync). Author killed the Pagoda-shelf venue ("everything
-  is nonsense complete" → ruling: choose him as FIRST soul spirit, show who gives
-  her rings, 4-year skip to Eastsea first-show, butterfly already happened).
-- Scene edge: she is admitted to 1st Year Class 5 (canon ch 62–64 day). The wolf
-  has been her concealed companion four years (real paper records = traceable
-  background — new wire). Wu Zhangkong holds an unvoiced question: he has never
-  seen her spirit soul. The dark seventh room on her side stays unshown by her own
-  law; his sixth room likewise shut.
-- Next planned: Chapter 2 — first days of Class 5 (canon ch 65–66 ore) with the
-  ripple already 4 years deep: she is less isolated than baseline Gu Yue; Wu
-  Zhangkong's concealed-soul question still open.
-
-## 3. OPEN THREADS
-
-- Wu Zhangkong's concealed-spirit-soul question (wire, replaces retired FW-9 note).
-- Her traceable 4-year records — the letter is real ink; anything written can be read.
-- The word "Moon." — his first ever; second word was "East." Voice stays priced (R8).
-- Her true realm/spiritual figure: deliberately UNMEASURED ("counted for nothing"
-  by her own rule); public face = one yellow ring (canon 63 fact, not our figure).
-- The thing on Tang Wulin the wolf flattened to (rank with no registry) — felt,
-  never learned (FW-2 texture; no fact crossed).
-- Nike queued ores: SL2 ch 163–165 (silver royal primary text) · Gu Yue
-  darkness-usage DD3 text · second-translation element cross-check.
-
-## 5. NEXT ACTIONS
-
-1. Author reviews revised Chapter 01 — his word retrofits same turn.
-2. Chapter 2 on his word ("continue"/"start"), canon 65–66 ore texture, ripple counted.
-3. Bank SL2 163–165 when a linear SL2 map exists.
+  (gate PASS, commit `1e09f7a`). Venue per author ruling: the choosing happens at
+  the Star Dou margins four years pre-canon; her rings are shown self-formed; a
+  4-year timeskip lands on the canon ch 62–64 day; the butterfly is already
+  4 years deep.
+- Scene edge: admitted to 1st Year Class 5. The wolf is her concealed companion
+  of four years. Real paper records make her past traceable (wire). Wu Zhangkong
+  has never been shown her spirit soul (wire).
+- Next planned: Chapter 2, on the author's word — first Class 5 days (ore 65–66).
 
 ## 2. POWER & NUMBERS
 
-- Holder: twin-line wolf (Silver × Golden) + AT holder; classed "defective" by
-  Pagoda taxonomy `[design]`; selfhood hidden (FW-7/FW-9); AT never named in prose.
-- Priced bind (ore-verified): fusing spends HER spiritual power (ore ch 120);
-  at ch 131 she has exactly ONE ring (ore) → Connection-class → one purple-tier
-  slot frames the bind `[canon-cited frame; exact tier chosen in-scene]`.
-- Growth pipe: platform kills = 1/10 cultivation, even split (undivided for one
-  ring) → 1,000y crossings (ore ch 130). Defective souls evolve easier (ore).
-- Substrate ledger: empty (ADAPTATION_TALENT_MODULE §M4 fills per chapter).
+- Holder: unnamed twin-line wolf (Elemental Silver × metal Golden), AT holder;
+  rejected by both blood-courts as "defective" `[design]`; FW-7 — selfhood and
+  the AT are never named in prose.
+- Her public face: one yellow ring (canon-ore 63 fact). True cultivation
+  UNMEASURED by her own rule ("grow, and be counted for nothing"). Rings
+  self-formed `[design, ledger 40]`. No spirit-soul utility is claimed for her.
+- Bind price shown on page: fusion spent HER — she slept till moonrise
+  (ore ch 120 law; one line, no tallying).
+- Wolf sustenance price: one coin of moon-pale metal per season, paid in the
+  length of her winter sleeves.
+- Arc law (not yet exercised): platform kills yield 1/10 cultivation, even split
+  (ore ch 130); defective souls evolve easier (ore 130–131); companion souls grow
+  via bearer's nourishment (ore 1331).
+- Substrate ledger (AT §M4): **EMPTY — defect flagged.** Ch-01 showed gains
+  (wound closure; the rotproof/lungs line) that were never retro-logged. Held
+  pending the author's AT ruling (open question, session 3f).
 
 ## 3. OPEN THREADS
 
-- Queued ores: 64–69 · 122–128 · 132–145 (complete the arrival + platform arc);
-  full-map Gu Yue black-box sweep; wolf-clan scan; contract ritual era-drift.
-- Long wires: FW-2 revelation arc (author-gated) · twin-blood integration road ·
-  contract-link deepening road · Pagoda research apparatus (FW-9) · the court's
-  judgment of Gu Yue's choice.
-- Relationship texture (unforced law): her one-ring loneliness vs his defective
-  shelf — the two half-truths meeting (module M1) is the ch-1 heart.
+- Wu Zhangkong's concealed-spirit-soul question (wire).
+- Traceable four-year records — real ink; anything written can be read (wire;
+  replaces the retired FW-9 note from the killed venue).
+- The name: "names are for later" — hers to give; withheld.
+- Voice pricing: "Moon." and "East." spent; every next word priced (R8).
+- The rank-without-registry on Tang Wulin — felt, never learned (FW-2 texture).
+- Disclosure calendar: the dark room unshown on both sides (his sixth, her seventh).
+- Queued ores: 65–66 (next chapter) · 122–145 platform arc · SL2 163–165 lineage
+  ore · Gu Yue darkness-usage DD3 text · second-translation element check.
 
 ## 4. FIREWALLS
 
-- FW-0..FW-9 registered (module added FW-9; FW-2 is central). Zero crossings; none
-  may occur (no chapters).
+- FW-0..FW-9 registered. Ch-01 crossings: ZERO.
+- FW-2 inverted, holding: she read him fully (six rooms, dark closed as found);
+  he reads her only as *royal*.
+- FW-7: never reader-scanned; he is concealed under her ring (canon-63 hook).
+- FW-8: zero Lin-Hao contact.
+- FW-9: RETIRED with the killed Pagoda venue (Pang/Kuang/note gone).
 
 ## 5. NEXT ACTIONS
 
-1. **Author says "start"** (or adjusts any lock) → draft `chapters/Chapter_01_*.md`.
-2. Draft from ore: opening inside the bind scene (no overview opening); Gu Yue-side
-   panel ≥1 (panel doctrine); SYNC footer; 2,400–3,200 words.
-3. `python3 checks/verify.py` → exit 0 → STATUS_PANEL/LOG/TIMELINE/CODEX sync in the
-   same turn → present the chapter.
+1. Author rules on the AT portrayal (open question — what the chapter showed vs.
+   what the module demands) → chapter line retrofits same turn.
+2. Author reviews Chapter 01 revised.
+3. Chapter 2 drafts only on his word ("continue"/"start").
 
 ## SECTION CONTRACT (for the gate)
 
-Sections 1–5 must keep these exact headings. §1 must mention the latest chapter
-number that exists in `chapters/` (currently: none).
+Sections 1–5 keep these exact headings. §1 mentions the latest chapter that
+exists in `chapters/` (currently: Chapter 01).
