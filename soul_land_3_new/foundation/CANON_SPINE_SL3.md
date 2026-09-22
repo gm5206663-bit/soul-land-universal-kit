@@ -154,6 +154,20 @@ by TITLE, mine, THEN write. Teasers and fan-wiki are forbidden ground.
 - No wolf titles exist in canon 23–600 → wolf clan lore beyond that range needs the
   full-map sweep (module §7 TODO-4); silence = `[design]`.
 
+## HARVEST §C — ORE BANKED (2026-09-22, `canon_ore/`, title-verified)
+
+Pipeline re-proven live end-to-end (fetch → title-verify → mine). Mirror offsets
+**drift** between ranges (60s range: URL = canon + 1; 119–131 range: URL = canon + 2)
+— the catch that vindicates the title-law; the index-verified titles for 62/63/120/
+129/130/131 all matched the verified 23–600 canon index. Banked: **canon_062,
+canon_063, canon_119, canon_120, canon_121, canon_129, canon_130, canon_131**
+(~12,400 words of ore). Mined mechanics (all `[canon — cited]`): platform entry
+~500k federal coins / 1,000 spots-monthly / ≤4-ring holders; kills → one-tenth
+cultivation → even split across rings; 1,000y → evolve; defective souls evolve
+easier; soul = part of the martial soul; **Gu Yue has exactly one ring at ch 131**;
+fusing spends the holder's spiritual power. Full notes: THE_WOLF_MODULE §3.1.
+Queued next ores: 64–69 · 122–128 · 132–145 (the rest of the arrival + platform arc).
+
 ## 7. PRE-DRAFT CANON TODO (before Chapter 1)
 
 - [ ] R1 premise chosen → list every `[verify]` row it touches; read those chapters.

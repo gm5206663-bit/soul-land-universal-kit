@@ -50,6 +50,13 @@ double weight here.
 - **Ceiling (lock 5, per the author's standing law "do not self-limit powers"):**
   NO ceiling is locked. What is locked instead: every gain carries an on-page price
   and a substrate scene. Numbers grow; boxes never appear free.
+- **ADAPTATION TALENT — author ruling 2026-09-22 (session 1b):** *"Of course oc
+  have adaption telent."* Full module: `foundation/ADAPTATION_TALENT_MODULE.md`.
+  Core law that shapes everything below: the twin-blood "defect" is the Talent's
+  longest substrate; the defect label and the whole future are BOTH true; the
+  distance between them is the plot. Talent discipline: non-sentient, never named
+  in prose, substrate-priced, holder-tier-mirroring, with §61.2/§61.4/§64.1 clauses
+  sworn for every holder before him.
 - **Voice (R8 default):** contract-link telepathy to Gu Yue only at first; silent
   beast exterior to the world; speech widens only through earned scenes.
 
@@ -64,6 +71,28 @@ double weight here.
   Connection → her ONE purple slot pays for the wolf. Her slot, her price — canon
   crowns stay with canon characters (harvested crown law: canon's bests are not
   ours to take; we may sit INSIDE a canon character's own abnormal, never exceed it).
+
+### §3.1 ORE-VERIFIED MECHANICS (mined 2026-09-22 from `canon_ore/`, title-verified)
+
+- **GU YUE HAS EXACTLY ONE RING at canon ch 131** (ore: "Apart from Tang Wulin and
+  Gu Yue, everyone else had two soul rings") — the binding's legal lane is not a
+  design hope, it is canon's own number. A second fusion for her is canon-natural.
+- **Evolution math (ore ch 130):** platform kills yield **one-tenth** of a beast's
+  cultivation energy, **split evenly across soul rings**; accumulate to **1,000
+  years → evolve**. A one-ring holder concentrates ALL energy into the single ring
+  (canon's own reason Wulin grew fastest). Gu Yue's one ring = the wolf's growth
+  pipe is undivided — her canon structure prices his ladder for free.
+- **Weak/defective souls evolve easier** (ore ch 130, Wu Zhangkong's reading of
+  Goldlight) — the defective stamp is canon's OWN accelerator for our defective wolf.
+- **The soul is part of the martial soul** (ore ch 131): evolution transforms the
+  holder's skills/body/cost — the wolf's growth visibly re-prices GU YUE's pages,
+  which is felt-progression law on her side of the contract too.
+- **Platform economics (ore ch 120–121):** ~500,000 federal coins/elementary entry,
+  1,000 spots/month, academy quotas; the platform began as research into upgrading
+  artificial spirit souls (Eighteen-Pillars murals) — the apparatus our "defective"
+  stock slips through.
+- **The price on her side (ore ch 120):** fusing a spirit soul spends spiritual
+  power; she pays to hold him — the price is on the page, not in a footer promise.
 
 ## 4. MODULE FIREWALLS (extends KNOWLEDGE_FIREWALLS.md)
 

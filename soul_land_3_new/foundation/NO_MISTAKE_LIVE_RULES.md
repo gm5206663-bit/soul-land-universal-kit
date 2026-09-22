@@ -25,9 +25,13 @@ is dormant — do not let prose imply an answer before the ruling.
                      research division, the cult, the remnant court's judgment of
                      Gu Yue's choice, and circumstance-personified Wulin.
  5. POWER CEILING  — LOCKED AS "AUTHOR-UNLOCKED" (his standing law: "do not
-                     self-limit powers — no ceiling unless he locks one"). What is
-                     locked: every gain PRICED on-page; contract tier capped by Gu
-                     Yue's canon spiritual-ladder numbers only.
+                     self-limit powers — no ceiling unless he locks one"). The
+                     holder carries the ADAPTATION TALENT (author, session 1b) —
+                     module law sworn in ADAPTATION_TALENT_MODULE.md: never named,
+                     substrate-priced, §61.2/§61.4/§64.1 clauses. What is locked:
+                     every gain PRICED on-page; contract tier capped by Gu Yue's
+                     canon spiritual-ladder numbers and the platform's ore-verified
+                     evolution math (one-tenth, even split, 1,000y crossings).
  6. IDENTITY       — LOCKED: public = Gu Yue's contracted soul spirit; true =
                      twin-line remnant wolf (FW-7/FW-9). Reveal must COST — module §2.
  7. ABSOLUTES      — LOCKED (universal): no meta-knowledge use; no canon-center

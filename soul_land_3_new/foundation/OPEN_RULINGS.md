@@ -136,8 +136,21 @@ Armed proposals (canon-ore verified against `CANON_INDEX_23_600.txt`):
 
 | Ruling | Question | Status |
 |---|---|---|
-| R8 | May the module's [design] lines stand as working defaults (twin-line instability, contract-link telepathy at first, silent beast exterior; name to emerge in-scene)? | **OPEN** — author may lock, tweak, or overrule with his own names |
+| R8 | May the module's [design] lines stand as working defaults (twin-line instability, contract-link telepathy at first, silent beast exterior; name to emerge in-scene)? | **RESOLVED (by recommendation) 2026-09-22** |
 
-*Next session: author answers R7/R8 (or says "so start" — then S1 + module defaults
-proceed), canon ore is fetched for the chosen slot, locks fill, Chapter_01 is drafted,
-gated, and presented.*
+## SESSION-1b CLOSURES (2026-09-22)
+
+- **R7/R8:** the author skipped both options and delegated with `approve`-class
+  non-answer — per his standing delegation (*"do what you think what you want to
+  do"*), **R7 → S1** (elementary Ascension Platform window, canon 120–145) and
+  **R8 → module defaults stand**. Both remain overrule-able by one author word.
+- **NEW AUTHOR RULING (session 1b), verbatim:** *"Of course oc have adaption telent
+  you can check everything about adaption telent."* → the wolf IS an Adaptation
+  Talent holder; every prior version of the talent was checked (blue_silver core,
+  seed_of_creation module, devouring-dragon module, Lin Hao codex spec) before
+  writing `ADAPTATION_TALENT_MODULE.md`. **Drafting door is now OPEN**: locks full,
+  slot set, ore banked; chapter 1 drafts on the author's word.
+
+*Next session: author says "start"/"so start" (or adjusts anything above) → draft
+`chapters/Chapter_01_*.md` (the binding) from ore ch 120–131 texture →
+`python3 checks/verify.py` → 0 → panel sync → present.*

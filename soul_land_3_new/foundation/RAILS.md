@@ -106,6 +106,20 @@ Standing author rulings are appended below this line, dated, verbatim where give
 5. **R4 RESOLVED:** Natural-Ripple divergence (formal selection).
 6. New blocking questions logged as R7/R8 in `OPEN_RULINGS.md`.
 
+### SESSION 1b — 2026-09-22 (talent ruling + closures)
+7. **ADAPTATION TALENT IS ON THE HOLD-ER** (author, verbatim): *"Of course oc have
+   adaption telent you can check everything about adaption telent."* Every extant
+   version of the talent was re-read (Master Foundation v2.0 core + all four holder
+   modules/specs) before `foundation/ADAPTATION_TALENT_MODULE.md` was written.
+   Binding for this serial: non-sentient · never named in prose · substrate-priced
+   (§61.2 provenance, §61.4 hard floor, §64.1 variety) · mirrors holder tier (§5) ·
+   holder-shaped (§8) · complete-holder scope.
+8. **R7/R8 closed by recommendation** under the author's standing delegation
+   ("do what you think what you want to do"): binding slot = **S1** (canon 120–145,
+   elementary Ascension Platform), module defaults stand. Overrule-able by one word.
+9. **Canon-ore pipeline re-proven live** (8 chapters banked, title-verified; the
+   +1→+2 mirror-offset drift caught by the title law — see spine HARVEST §C).
+
 ### THE AUTHOR'S STANDING LAWS (harvested from `SARA.md` §6 — his words preserved)
 These predate this serial and now bind it. They outrank every file except a NEW word
 from the author.
