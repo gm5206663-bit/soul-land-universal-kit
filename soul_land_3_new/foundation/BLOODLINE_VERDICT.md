@@ -26,28 +26,32 @@ primary chapter references; (4) logged variances instead of hiding them.
 | Twin blood in one Pagoda-stock defective = the wolf | **design on canon base** | THE_WOLF_MODULE | 🏷 design |
 | DD3-era Jing Yang remnant stock reaches an Eastsea shelf | **design on canon base** | THE_WOLF_MODULE §3.3 | 🏷 design |
 
-## 2. THE VARIANCE — recorded, not hidden (agent self-correction)
+## 2. THE PARITY — RESOLVED (2026-09-22, author correction verified)
 
-Earlier module text claimed the wolf's silver six are **"the SAME six as Gu
-Yue's Elementalist set. Identical — element for element."** Verification found
-this OVERCLAIMED:
+**Author word: *"No she have darkness check."* — CHECKED. The author is correct.**
+Three independent franchise sources converge (WebNovel official SDK profile lists
+her full seven — fire, water, earth, wind, light, **darkness**, **space** ·
+Baike soul-ring table: her SL4 sixth ring = **Dark Element Control**, seventh =
+Space · fandom: "Nine Elements Physique"). Resolution of the old tangle:
 
-- **Silver Wolf six (species law, author + SL2 refs):** water, fire, earth, wind,
-  light, **darkness**.
-- **Gu Yue's own report, our held translation (ore ch 64):** "*ice, fire, earth,
-  wind, light, and space*" — her sixth is **space**, not darkness.
-- And in her own late-canon hexagram (ch 1801, web-sourced pointer): **silver =
-  space, gold = light** among her six bloom.
-
-**Ruling recorded (translation-variance law of spine §6):** the parity is **five
-elements exact (water/ice, fire, earth, wind, light)** + a sixth that reads
-*darkness* in the wolf's species law and *space* in her self-report — and since
-canon makes HER silver element = space, the wolf's silver nature can honestly
-carry the space-adjacent royal register; which reading is used on-page is the
-author's word (default: follow THE HELD NOVEL TRANSLATION for her side, the
-SPECIES LAW for his side; the discrepancy is even writable as story — his
-"defective registry" recording darkness where her truth holds space). The earlier
-file's "identical" was corrected the same turn (ledger row 28 amended).
+- **ch 64 = her DISGUISE-ERA DISCLOSURE:** what the Eastsea test displayed and
+  what she reported to Wu Zhangkong (in our held translation: "ice, fire, earth,
+  wind, light, and space") — six SHOWN, not the true country's size.
+- **Gu Yue's TRUE element set: SEVEN** — water, fire, earth, wind, light,
+  **darkness**, **space** (god-tier adds Destruction/Creation/Life — fandom's
+  "Nine Elements Physique"; queued for DD3-text darkness-usage ore).
+- **THE PARITY, FINAL:** the wolf's silver six (water, fire, earth, wind, light,
+  darkness) sit ENTIRELY inside her documented seven. His blood speaks six of her
+  seven languages. **SPACE is the one tongue he does NOT have** — and space is
+  canon's own mark of HER silver nature (her Spatial Retreat, ore-636; ch-1801
+  hexagram marks silver = space). Design-lane [design — author overrule-able]:
+  the species ladder itself promises a royal seventh element at 10,000 years —
+  the day this wolf's blood earns *her most private color* is a built-in arc
+  horizon. Nothing is forced; the ladder is canon's.
+- (History: an earlier module line overclaimed "identical six"; corrected first
+  to "five + variance," and — on the author's correction — finally to the SEVEN-
+  set truth above. Both file fixes logged; the lesson is the same law: his word
+  outranks any file, and the file must then be brought to canon.)
 
 ## 3. WHAT THE TWIN ACTUALLY IS (verified synthesis)
 

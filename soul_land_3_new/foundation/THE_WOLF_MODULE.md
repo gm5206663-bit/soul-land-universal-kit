@@ -59,14 +59,15 @@ bloods are now canon-anchored, NOT invented:
   pack hunters, swifter than metal lion/tiger/panther/bear; three 10,000y Wolf
   Kings; +30% combat buff for any metal beast inside the Jing Yang country.
   DD3-text anchor: the Dragonwolf/Diamond Dragonwolf branch (ore ch 636).
-- **THE PARITY — five elements exact, one variance (VERDICT §2, corrected
-  2026-09-22):** her Elementalist six per held ore (ch 64): ice, fire, earth,
-  wind, light, **space** — the wolf's silver six end in **darkness**, hers in
-  space (canon also marks HER silver element as space, ch 1801 register). FIVE
-  are exact matches; the sixth is a translation-family royal register, logged as
-  variance, not forced. Still true and story-rich: in the whole world, his blood
-  is the *nearest thing to her own element-language* — and the gap between
-  darkness and space is exactly the kind of detail her eyes would catch.
+- **THE PARITY, FINAL (author-corrected 2026-09-22 — "she have darkness,"
+  verified against three franchise sources):** her TRUE element set is SEVEN —
+  water, fire, earth, wind, light, **darkness**, **space** (ch 64's six was her
+  disguise-era disclosure; her SL4 ring table literally carries Dark Element
+  Control). The wolf's silver six sit **entirely inside her seven** — his blood
+  speaks six of her seven languages; **space is the one tongue he lacks**, and
+  space is canon's mark of her private silver nature (Spatial Retreat). The
+  species ladder already promises a royal seventh at 10,000 years — the night his
+  blood earns *her color* is a built-in horizon, unforced.
 - **THE TWIN DIVIDE, official (upgraded post-verdict):** not a random hybrid —
   the TWO CLASSES OF ONE PACK-COUNTRY (Jing Yang's metal wolf-nation): royal
   silver (elemental, mithril-fed, guiding) × soldier gold (metal, pack-built,

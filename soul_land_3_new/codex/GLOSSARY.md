@@ -24,7 +24,7 @@ and nowhere else, then fixing every chapter (two-copies law applied to words).
 | dragonwolf | dragonblooded wolf line; gold/diamond metal body (canon ch 636) |
 | elemental silver wolf | six-element master species — Water, Fire, Earth, Wind, Light, Darkness, fluid at will (canon-franchise, author-cited) — the wolf's SILVER blood; identical six to Gu Yue's Elementalist |
 | golden wolf | metal-element soul beast; burly golden-furred physical power (canon-franchise, author-cited) — the wolf's GOLD blood |
-| Elementalist | Gu Yue's martial soul — six elements controlled, rings unable to strengthen them (canon ch 64) |
+| Elementalist | Gu Yue's martial soul — her ch-64 disclosure: six elements incl. space; her TRUE country: SEVEN (water, fire, earth, wind, light, darkness, space), god-tier +Destruction/Creation/Life |
 | Elemental Tide | Gu Yue's first soul skill — sustain + control (canon ch 64) |
 | Goldsong ("Goldlight" in held ores) | Wulin's companion soul; defective→evolving precedent; NOT ours (NOT list) |
 
