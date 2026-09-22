@@ -44,3 +44,10 @@ pass (spine §7) converts every `[verify]` the premise touches.
 | 30 | Dragon blood pressures: his gold blood FEELS Wulin's GDK suppression (per §24 mechanics) and Gu Yue's SDK sovereign pull (FW-2 feel-only) | [design on §24 mechanics] | THE_WOLF_MODULE §2 NOT-list | 2026-09-22 |
 
 Append below with chapters: `| n | claim | tag | chapter/source | date |`
+| 32 | Defective stock disposal "rotation" cycle (~30 days) | [design on shelf precedent] | ch 01 | 2026-09-22 |
+| 33 | Soul vault = numbered rows; Row Nine = defective shelf; reader device reads element-count + metal-body density | [design] | ch 01 | 2026-09-22 |
+| 34 | Clerk Pang; assay chief Kuang [names] | [design] | ch 01 | 2026-09-22 |
+| 35 | CH1 = three days after canon 131's evolution | [canon-cited anchor] | ore 131 | 2026-09-22 |
+| 36 | The link's first word: "Moon." (his crescent-memory/her name-shape — ambivalent by design) | [design] | ch 01 | 2026-09-22 |
+| 37 | Six-rooms image for his element-bearing soul-space; the sixth = darkness (her undisclosed tongue) | [design on species law] | ch 01 | 2026-09-22 |
+| 38 | Registry lie: disposed "no flags" + unsigned anomaly note to research floors | [design — FW-9 wire] | ch 01 | 2026-09-22 |

@@ -6,14 +6,24 @@
 
 ## OC
 
-(PENDING R1 — candidate list in `seeds/PREMISE_CANDIDATES.md`. Entry format when
-written: name / public identity vs true name (lock 6) / martial soul + rails /
-NOT list / first chapter of appearance / firewall state FW-7.)
+| Name | Identity (public / true) | Blood / nature | First appears | Firewall |
+|---|---|---|---|---|
+| *(unnamed — name emerges in-scene, hers to give)* | Gu Yue's defective companion soul / twin-line wolf: Elemental Silver Wolf × Golden Wolf (Jing Yang wolf-country, VERDICT §1) | AT holder (never named); six rooms incl. darkness; mithril-fed silver royal + metal soldier gold; NOT list: WOLF_MODULE §2 | ch 01 | FW-7 selfhood secret; FW-2 inverted (he doesn't know what she is); FW-9 dormant note |
 
 ## Canon cast consumed so far
 
-(None — zero chapters. First consumption logs here with chapter attribution and
-a `[canon]`/`[verify]` tag per spine §3.)
+| Name | Consumed as | Chapter | Tag |
+|---|---|---|---|
+| Gu Yue | the binder — second fusion of her soul-sea; keeps the wolf's secret instantly | ch 01 | [canon] |
+| Wu Zhangkong | "You are late" landing | ch 01 | [canon] |
+| (referenced) Tang Wulin / Goldsong | the defective-evolution lesson she cites | ch 01 | [canon — referenced ore 130–131] |
+
+## Design NPCs
+
+| Name | Role | Chapter |
+|---|---|---|
+| Clerk Pang | vault counter clerk, quota-cheer | ch 01 |
+| Assay chief Kuang | purge-flag authority; unsigned note writer | ch 01 |
 
 ## Era reference anchors (do not confuse with "our characters")
 

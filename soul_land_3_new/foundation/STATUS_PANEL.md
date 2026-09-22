@@ -1,20 +1,17 @@
 # STATUS PANEL — SL3 New Serial (single live-state file)
 
 Gate-enforced sections. Figures live here and ONLY here (two-copies law).
-Updated 2026-09-22 (session 1: rulings R1–R6 resolved; premise locked).
+Updated 2026-09-22 (session 3d: CHAPTER 01 live, bind done).
 
 ## 1. LIVE EDGE
 
-- Stage: **DRAFTING DOOR OPEN** — premise locked AND session-2/3-perfected:
-  **the Elemental Silver Wolf × Golden Wolf companion spirit soul of Gu Yue**
-  (species fully verified — BLOODLINE_VERDICT.md: royal silver six-element
-  mithril-fed × metal soldier gold of Jing Yang's wolf-country; parity with her
-  Elementalist six logged w/ honest variance), Adaptation-Talent holder; she
-  knows him at first touch; defective-shelf bind at the Eastsea Pagoda (scene
-  spec §3.3); endgame in full Natural-Ripple. 27 ores banked/maned. Awaiting
-  exactly one word from the author: **"start."** Latest chapter: **00** (none).
-- Scene spec ready: THE_WOLF_MODULE §3.3; ore texture on disk
-  (62–66 arrival/elements · 119–131 platform/evolution · 636/743/1331 mechanism).
+- Stage: **SERIAL LIVE.** Latest chapter: **Chapter 01 — "The Defective Shelf"**
+  (2026-09-22, gated PASS). Scene edge: the bind is done; the wolf sleeps spent in
+  her soul-sea; Kuang's unsigned note travels to the research floors (FW-9 dormant
+  wire); the class platform trip is tomorrow morning; Wu Zhangkong's "You are
+  late, Gu Yue" still hanging in the landing air.
+- Next planned: Chapter 2 — the platform trip IN (ore 122–129 banked): her first
+  day hiding a dreaming secret in a class taught by a man who misses nothing.
 
 ## 2. POWER & NUMBERS
 

@@ -12,7 +12,7 @@ verbatim, and propagate into the twelve locks (`NO_MISTAKE_LIVE_RULES.md`).
 
 | Ruling | Question | Status |
 |---|---|---|
-| R1 | Which protagonist carries this serial? | **OPEN** |
+| R1 | Which protagonist carries this serial? | **RESOLVED** 2026-09-22 — silver-golden wolf → Gu Yue's soul spirit (see bottom table) |
 
 Candidates are staged in `seeds/PREMISE_CANDIDATES.md` (P1–P6). The author may pick
 one, merge two, or overrule with their own concept. The answer must include the
@@ -24,7 +24,7 @@ author explicitly grants one).
 
 | Ruling | Question | Status |
 |---|---|---|
-| R2 | Same world/timeline as `Soul_Land_3_Project/`, or a fully separate serial? | **OPEN** |
+| R2 | Same world/timeline as `Soul_Land_3_Project/`, or a fully separate serial? | **RESOLVED** 2026-09-22 — separate universe |
 
 Options, in order of agent recommendation:
 - **(a) SEPARATE UNIVERSE (recommended, default).** Zero cross-reading. Two serials
@@ -43,7 +43,7 @@ Blocking context: `soul-land-projects/STATE.md` marks a Lin Hao REFERENCE copy
 
 | Ruling | Question | Status |
 |---|---|---|
-| R3 | Where in the SL3 canon timeline does chapter 1 land? | **OPEN** |
+| R3 | Where in the SL3 canon timeline does chapter 1 land? | **RESOLVED** 2026-09-22 — opens AT the binding event (S1, canon 120–145 window) |
 
 Candidates (see canon spine §TIMELINE-ANCHORS):
 - **E1 Pre-Shrek** — OC starts in the Eastsea/devil-isle era window, days to months
@@ -58,7 +58,7 @@ Default recommendation: **E1** for premises P1/P4/P6, premise-defined otherwise.
 
 | Ruling | Question | Status |
 |---|---|---|
-| R4 | Fixed canon spine, or Natural-Ripple? | **OPEN** |
+| R4 | Fixed canon spine, or Natural-Ripple? | **RESOLVED** 2026-09-22 — Natural-Ripple |
 
 - **Fixed spine:** canon events never bend; the OC's story lives in the gaps.
   Safest; lower drama ceiling.

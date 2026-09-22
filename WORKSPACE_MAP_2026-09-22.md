@@ -49,3 +49,8 @@ The author resolved the foundation rulings in-session; foundation updated in pla
   (Gu Yue ≈ ch 62; platform arc 120–145).
 - New rulings R7 (binding slot; S1 recommended) / R8 (voice & name) opened in
   `OPEN_RULINGS.md`; gate re-proven after edits (selftest 10/10, PASS).
+
+## Pass 3 (same date — Chapter 1 live)
+
+Author said "Start"; `soul_land_3_new/chapters/Chapter_01_The_Defective_Shelf.md`
+written from ore, gate PASS, all ledgers synced same-turn. The serial is LIVE.
