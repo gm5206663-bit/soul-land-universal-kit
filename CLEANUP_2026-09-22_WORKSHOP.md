@@ -12,7 +12,7 @@ byte-identical elsewhere or strictly superseded; every file with unique content 
 | `SL_ARCHIVE/sl4_foundation_v1` | ~90 | Strict subset of `sl4_foundation_v2` (0 unique) |
 | `soul_land_starter.zip` | 1 | Extracted dir `soul_land_starter/` sits beside it |
 | `uploads/` (whole dir) | 24 of 28 | 24 files byte-duplicated by `SL_ARCHIVE/inbox/` + `SOUL_LAND_UNIVERSAL_KIT/`; 4 kept moved to `SL_ARCHIVE/inbox/` (SARA.md, chapter_75.md, handoff_package.txt) / deleted as twin (`README (1).md` = `SL1_GU_YUAN/ARCHIVE_README.md`) |
-| Root `SARA.md` | 1 | Byte-twin of `SOUL_LAND_WORKSPACE/SARA.md` |
+| ~~Root `SARA.md`~~ | 0 | **MIS-CUT CAUGHT AND REVERSED in follow-on commit:** file is UNIQUE (three different SARA versions exist: root / SOUL_LAND_WORKSPACE / SL_ARCHIVE inbox). Restored to root. Lesson re-logged: byte-verify BEFORE git rm, never after. |
 | 4 old WORKSPACE_MAP_* (09-18, 09-19 ×2, 09-19 index) | 4 | Moved to `SL_ARCHIVE/workspace_maps_history/` (kept, root decluttered); current = 2026-09-22 |
 | push_to_github.sh + split_repos.sh | 2 | Moved to `.admin/` (kept, root decluttered) |
 
