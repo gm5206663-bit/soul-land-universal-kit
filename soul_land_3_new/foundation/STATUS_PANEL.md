@@ -1,39 +1,47 @@
 # STATUS PANEL — SL3 New Serial (single live-state file)
 
 Gate-enforced sections. Figures live here and ONLY here (two-copies law).
-Updated 2026-09-22 (foundation created).
+Updated 2026-09-22 (session 1: rulings R1–R6 resolved; premise locked).
 
 ## 1. LIVE EDGE
 
-- Stage: **FOUNDATION COMPLETE — drafting locked** (R1–R4 OPEN).
+- Stage: **FOUNDATION COMPLETE — premise LOCKED (the silver-golden wolf → Gu Yue's
+  soul spirit). Twelve locks filled. Drafting opens when R7/R8 close** (or on the
+  author's "so start," which proceeds on S1 + module defaults).
 - Chapters: **none**. Latest chapter tracked: **Chapter 00** (none).
-- Blocking action: author rulings R1–R4 (`OPEN_RULINGS.md`), then twelve locks fill,
-  then `[verify]` canon pass, then Chapter_01.
+- Blocking: R7 (binding slot — recommendation armed: S1, canon ch 120–145) ·
+  R8 (voice/name defaults) · canon-ore consumes per module §7 TODO.
 
 ## 2. POWER & NUMBERS
 
-- Protagonist: PENDING (R1). No figures exist yet — none may be invented in prose.
-- Era ceiling reference (not OC state): soul rank ladder, spirit-soul tiers,
-  craft ★1–9, armor words 1–4, mecha classes white→red → `POWER_LAW_SL3.md`.
+- Protagonist: the twin-line wolf — Silver Wolf × Golden Wolf `[design]`; public
+  face = Gu Yue's contracted soul spirit; selfhood hidden (FW-7/FW-9).
+- Priced bind (S1 draft, canon-cited): Gu Yue 119–153 spiritual (canon ch 69/114)
+  → Spirit Connection → her ONE purple slot pays for the wolf. His ceiling COUPLES
+  to her canon ladder (CANON_SPINE §HARVEST-A table; power law §2).
+- No further figures exist; none may be invented in prose.
 
 ## 3. OPEN THREADS
 
-- R1 protagonist · R2 Lin-Hao relation · R3 entry point · R4 divergence ·
-  R5 footer form (default keep) · R6 cadence (default 2,400–3,200).
-- Canon `[verify]` rows pending a premise (spine §7 todo).
+- R7 binding slot (S1/S2/S3) · R8 module defaults (voice, name emergent in-scene).
+- Ore TODOs: canon 62–69 · 120–145 · full-map Gu Yue black-box sweep · wolf clans
+  scan · contract ritual era-drift check.
+- Long wires planted: FW-2 revelation arc (author-gated) · twin-blood harmony
+  ladder · Pagoda research apparatus · the court's judgment of Gu Yue's choice.
 
 ## 4. FIREWALLS
 
-- FW-0..FW-8 registered in `foundation/KNOWLEDGE_FIREWALLS.md`. No crossings logged;
-  none may occur (no chapters).
+- FW-0..FW-9 registered (module added FW-9; FW-2 is central). Zero crossings; none
+  may occur (no chapters).
 
 ## 5. NEXT ACTIONS
 
-1. Author answers R1 (from `seeds/PREMISE_CANDIDATES.md` or overruling).
-2. Author answers R2 (default recommended: separate universe).
-3. R3 + R4 answered; locks 1–6, 8, 9 fill in `NO_MISTAKE_LIVE_RULES.md`.
-4. `[verify]` canon read pass on every row the chosen premise touches.
-5. Draft `chapters/Chapter_01_*.md` → `python3 checks/verify.py` → 0 → panel sync.
+1. Author answers R7 (default: S1) and R8 (default: module lines stand).
+2. Ore-fetches per `foundation/THE_WOLF_MODULE.md` §7 (mirrors + index held).
+3. Fill codex/TIMELINE.md row 1 from the chosen slot; convert `[design on canon
+   base]` rows in CANON_LEDGER.
+4. Draft `chapters/Chapter_01_*.md` (the binding) → `python3 checks/verify.py`
+   → exit 0 → panel sync → present.
 
 ## SECTION CONTRACT (for the gate)
 

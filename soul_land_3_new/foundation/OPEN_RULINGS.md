@@ -91,5 +91,53 @@ shows drifts into the explanation-layer defect (scope law, RAILS prose §4).
 
 ---
 
-*Created 2026-09-22. When all six are RESOLVED, update `STATUS_PANEL.md` §1 and §5,
-fill the twelve locks, and only then draft Chapter_01.*
+## SESSION-1 RESOLUTIONS (2026-09-22) — the author answered
+
+- **R1 → RESOLVED** verbatim: *"oc is silver golden wolf (silver wolf+golden wolf),
+  gu Yue soul spirit become."* Locked design module: `foundation/THE_WOLF_MODULE.md`.
+- **R2 → RESOLVED:** separate universe from the Lin Hao branch.
+- **R3 → RESOLVED** verbatim: *"We it's start from when he became gu Yue soul
+  spirit"* — chapter 1 IS the binding event.
+- **R4 → RESOLVED:** Natural-Ripple.
+- **R5 → RESOLVED (default stood):** keep the slim `SYNC:` footer.
+- **R6 → RESOLVED (default stood):** 2,400–3,200 words, gates at 900 / 3,400.
+
+| Ruling | Question | Status |
+|---|---|---|
+| R1 | Protagonist | **RESOLVED** 2026-09-22 — silver-golden wolf → Gu Yue's soul spirit |
+| R2 | Lin Hao relation | **RESOLVED** 2026-09-22 — separate universe |
+| R3 | Entry point | **RESOLVED** 2026-09-22 — opens AT the binding event |
+| R4 | Divergence | **RESOLVED** 2026-09-22 — Natural-Ripple |
+| R5 | Footer form | **RESOLVED** 2026-09-22 — keep slim SYNC footer |
+| R6 | Cadence | **RESOLVED** 2026-09-22 — defaults stand |
+
+## NEW RULINGS — opened by the resolution of R1
+
+### R7 — THE BINDING SLOT (which canon window is the binding?)
+
+| Ruling | Question | Status |
+|---|---|---|
+| R7 | Exact canon slot for "he became Gu Yue's soul spirit" | **OPEN** |
+
+Armed proposals (canon-ore verified against `CANON_INDEX_23_600.txt`):
+- **S1 (agent recommendation):** Eastsea-era **elementary Spirit Ascension Platform
+  window, canon ch 120–145** (incl. "Spirit Soul Evolution" ch130 / "Bind Post
+  Spirit Soul Evolution" ch131). Gu Yue is ~9–10, spiritual ~119–153 (canon
+  ch 69/114) → Spirit Connection → she can legally bear ONE purple-tier spirit
+  soul. The wolf = Pagoda "defective" dual-essence stock — the same shelf-class as
+  Wulin's Goldsong (canon ch — defective-stock precedent), priced by her single
+  purple slot. Maximum canon ore to ride.
+- **S2:** Star Dou fringe, WILD-contract fluke (rarer in canon, freer from ore,
+  weaker porch into canon density).
+- **S3:** Shrek examination era (canon ~250–340), Gu Yue older/stronger; binding
+  legal at a higher tier; less Eastsea runway consumed, more late-canon density.
+
+### R8 — THE WOLF'S VOICE AND NAME
+
+| Ruling | Question | Status |
+|---|---|---|
+| R8 | May the module's [design] lines stand as working defaults (twin-line instability, contract-link telepathy at first, silent beast exterior; name to emerge in-scene)? | **OPEN** — author may lock, tweak, or overrule with his own names |
+
+*Next session: author answers R7/R8 (or says "so start" — then S1 + module defaults
+proceed), canon ore is fetched for the chosen slot, locks fill, Chapter_01 is drafted,
+gated, and presented.*

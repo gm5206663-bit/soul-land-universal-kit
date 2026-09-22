@@ -111,6 +111,49 @@ Rank/armor/mechanism names vary between translations (Battle Armor vs Dou Kai;
 Spirit Pagoda vs Spirit Transmission Pagoda; spirit soul vs soul spirit). Pick this
 serial's vocabulary ONCE in `codex/GLOSSARY.md` and never drift (kit 01 note).
 
+## HARVEST §A — CANON-VERIFIED NUMBERS (from the author's own SL3 foundation branch)
+
+Harvested 2026-09-22 from `Soul_Land_3_Project/POWER_MODEL.md` — every figure below
+carries a canon chapter citation and was live-verified against the primary text in
+that project's 2026-08-30 audit (7/7 citations confirmed). Tags upgraded from
+`[verify]` to **[canon — cited]**. Re-verify before a CHAPTER turns on one, per the
+ore method.
+
+**The spiritual-power ladder (canon ch 134, verbatim ruler):**
+
+| Realm | Points | Spirit souls it can bear |
+|---|---|---|
+| Spirit Origin | 1–100 | one; up to one yellow |
+| Spirit Connection | 100+ | two yellow **or one purple** |
+| Spirit Sea | 500+ | five yellow / three purple / one black |
+| Spirit Abyss | 5,000+ | any, even orange and red |
+| Spirit Domain | 20,000+ | theoretical nine legendary |
+| Divine Origin | 50,000+ | primordial spirit |
+
+Canon anchors: Gu Yue **119** at ch 69 / **153** at ch 114 — canon calls her the
+continent-crowned spiritual prodigy of her age (**crown law: canon's crowns are not
+ours to take; we may price ourselves INSIDE a canon character's own abnormal, never
+exceed it**). Growth window: body until 40, Soul Masters until 60.
+
+**The Eastsea punch table (canon ch 114, age 9–10):** Zhang Yangzi 69 · Gu Yue 143 ·
+Xie Xie 164 · Wang Jinxi 468 · Wulin 1,348 (scaled 2,700). Spiritual readings ch 17 /
+69: Wulin 38→44 · Xie Xie 29 · testing Spirit Master (rank 28) 87.
+
+**CANON_ORE METHOD (harvested from `Soul_Land_3_Project/CANON_ACCESS.md`):** primary
+full-text mirrors + slug map for all 1,917 chapters are recorded there; working
+title index `canon_extract/CANON_INDEX_23_600.txt`. Rule: fetch full chapter, verify
+by TITLE, mine, THEN write. Teasers and fan-wiki are forbidden ground.
+
+## HARVEST §B — THE BINDING-SLOT BEATS (index-verified 2026-09-22)
+
+- Gu Yue enters on-page ≈ canon ch 62–63 ("Gu Yue" / "Gu Yue vs"), Eastsea era.
+- Elementary Spirit Ascension Platform arc: canon **120–143** (incl. "Spirit Soul
+  Evolution" 130, "Bind Post Spirit Soul Evolution" 131, "Rebellion" 134/137).
+- "Another Chance at Spirit Ascension" 145 · intermediate platform 168 · "Another
+  Spirit Soul Evolution" 179 · "Gu Yue's Decision" 159 · "Gu Yue Returns" 496.
+- No wolf titles exist in canon 23–600 → wolf clan lore beyond that range needs the
+  full-map sweep (module §7 TODO-4); silence = `[design]`.
+
 ## 7. PRE-DRAFT CANON TODO (before Chapter 1)
 
 - [ ] R1 premise chosen → list every `[verify]` row it touches; read those chapters.

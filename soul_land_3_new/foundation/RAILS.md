@@ -88,4 +88,56 @@ ruling on the devouring-dragon serial. Ruling R5 may restyle it; it may not dele
 ## RULINGS
 
 Standing author rulings are appended below this line, dated, verbatim where given.
-(None yet — see `OPEN_RULINGS.md`; foundation stage.)
+
+### SESSION 1 — 2026-09-22 (author answers, recorded)
+1. **THE "FORBIDDEN" FILES RULING (author override):** the old `FORBIDDEN — do not
+   restore/continue` flags (SL3 Lin Hao reference copies) were an agent's mistake,
+   NOT the author's word. Author's verbatim intent: *"you can touch even they are
+   FORBIDDEN … i actually don't FORBIDDEN anything, it was mistake of some agent."*
+   Corrected standing rule: NOTHING on this disk is forbidden to READ or HARVEST —
+   the author's law is *"use everything."* This does not relocate any live state,
+   and archives may still never be read **as current** (kit `_archive/` law stands).
+2. **R1 PROTAGONIST RESOLVED** (verbatim): *"oc is silver golden wolf (silver wolf+
+   golden wolf), gu Yue soul spirit become."* Locked module:
+   `foundation/THE_WOLF_MODULE.md`.
+3. **R2 RESOLVED:** separate universe from the Lin Hao branch (formal selection).
+4. **R3 RESOLVED** (verbatim): *"We it's start from when he became gu Yue soul
+   spirit"* — chapter 1 IS the binding event.
+5. **R4 RESOLVED:** Natural-Ripple divergence (formal selection).
+6. New blocking questions logged as R7/R8 in `OPEN_RULINGS.md`.
+
+### THE AUTHOR'S STANDING LAWS (harvested from `SARA.md` §6 — his words preserved)
+These predate this serial and now bind it. They outrank every file except a NEW word
+from the author.
+- *"I give everything… do what you think what you want to do… use everything."*
+- *"Check everything and do your things."* / *"So start."*
+- **"Nothing is absolute."** — including this rule, including my own past statements.
+- **"All things there is possible / do not self-limit powers"** — reliable mechanisms,
+  **no ceiling unless he locks one** (LOCK 5 in this project therefore reads
+  "ceiling: author-unlocked; every gain still priced").
+- *"You make complete mistakes complete"* — complete-holder design; commit fully.
+- Bloodline-eats-rings = **living threshold, NOT immunity** (never write absorption
+  as immunity).
+- No unearned praise (of the OC, or of ourselves); plain decision language.
+- Verify canon against novel/official sources; fan-wiki ≠ canon. Never write canon
+  from memory — fetch the canon chapter as ORE and title-verify first.
+- Romance unforced, no planned pairing.
+- The knowing circle stays small; no invented event reroutes canon.
+
+### HARVESTED LAW — Butterfly / Panels / Spectator (from the SL3 foundation branch,
+### adopted by the same author word: "learn from the foundation everything")
+- **BUTTERFLY LAW:** a butterfly is the REASON a canon scene reads different — if a
+  canon scene lands unchanged, the OC has been erased from his own story. Natural
+  divergence is an economy (dust/current/bend/break/storm): cause on the page,
+  horizon logged; no forced canon, no forced divergence.
+- **PERSPECTIVE PANEL DOCTRINE:** ≥1 panel per chapter belonging to someonewho is
+  NOT the protagonist, sourced from a canon scene, adapted from that character's own
+  eyes with butterflies applied. For this serial: GU YUE's side is the natural panel
+  mine (module §5).
+- **SPECTATOR TEST:** the OC never watches for a whole chapter — half a beat at
+  most. He acts, fails, and pays in every chapter he lives in.
+- **CANON ORE METHOD:** before consuming any canon chapter: fetch full text
+  (mirrors + slug map recorded in `Soul_Land_3_Project/CANON_ACCESS.md`), verify by
+  TITLE against the index (`canon_extract/CANON_INDEX_23_600.txt`, full map
+  1,917 chapters), mine, then write. Teasers are forbidden ground; fan-wiki is
+  forbidden ground.

@@ -1,4 +1,14 @@
-# PREMISE CANDIDATES — pick R1 here, merge, or overrule with your own
+# PREMISE CANDIDATES — R1 RESOLVED 2026-09-22 (kept as record)
+
+> **OUTCOME (author, verbatim):** *"oc is silver golden wolf (silver wolf+golden
+> wolf), gu Yue soul spirit become."* — closest to P5's family but bound DIRECTLY
+> to Gu Yue. The locked design module is `../foundation/THE_WOLF_MODULE.md`.
+> The six candidates below remain as record (never delete work), and their spine/
+> antagonist/rail notes still inform the module's ladders and firewall maps.
+
+## (archive) Original candidate set
+
+Each candidate is built to survive the five failures: a canon anchor (≥5 beats),
 
 Each candidate is built to survive the five failures: a canon anchor (≥5 beats),
 a named-face antagonist vector, a visible progression rail set (see POWER_LAW_SL3),

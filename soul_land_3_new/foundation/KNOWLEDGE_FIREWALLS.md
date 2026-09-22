@@ -14,7 +14,8 @@ canon) is FW-0 and may never leak into character behavior.
 | FW-5 | Tang Sect tech | hidden weapons/gray tech | Tang Sect only | membership + rank, never casual display |
 | FW-6 | Abyss passage | location/scale of the sealed passage, Blood God Legion mission | military high command | enlistment arcs; need-to-know grades |
 | FW-7 | OC's own secret | (fills at R1 — e.g., origin, seal, craft heirloom) | OC ± mentor | reveal COSTS something (lock 6); never accidental, chapter-forty style |
-| FW-8 | Separation wall | anything from the Lin Hao branch or other serials | other projects | never crosses (rail 7 / R2 default) |
+| FW-8 | Separation wall | anything from the Lin Hao branch or other serials (state/figures/characters — METHOD harvest is free per the author's 2026-09-22 use-everything ruling) | other projects | never crosses (rail 7 / R2 resolved: separate universe) |
+| FW-9 | Pagoda blind spot (module, 2026-09-22) | the twin-blood wolf's survival of the "defective" reading; his retained selfhood | Spirit Pagoda research division | on-page evidence chains only, each logged |
 
 Logging: every crossing is one line in `foundation/SERIAL_LOG.md` —
 `FW-x: <fact> crossed to <character> via <chapter/scene> (date)`. Undated or

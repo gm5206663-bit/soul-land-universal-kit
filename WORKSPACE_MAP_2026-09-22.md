@@ -33,3 +33,19 @@ kit repo, full foundation docset."
 ```
 cd soul_land_3_new && sh checks/run_all.sh   # selftest 10/10 + GATE PASS, exit 0
 ```
+
+## Pass 2 (same date, post-rulings)
+
+The author resolved the foundation rulings in-session; foundation updated in place
+(all add/edit, nothing deleted):
+- **Author override recorded:** every legacy "FORBIDDEN" flag was an agent's
+  mistake; nothing on disk is forbidden to read/harvest → recorded in
+  `soul_land_3_new/foundation/RAILS.md` (Session-1 rulings) + `SERIAL_LOG.md` 002.
+- Premise locked: `foundation/THE_WOLF_MODULE.md` (silver-golden wolf → Gu Yue's
+  soul spirit; opens AT the binding). Twelve-of-twelve locks filled.
+- Canon spine upgraded with the author's own SL3-foundation harvest: canon-cited
+  spiritual-power ladder (ch 134 ruler), Eastsea punch table (ch 114), Gu Yue crown
+  anchors (ch 69/114), CANON_ORE source/method, and index-verified binding beats
+  (Gu Yue ≈ ch 62; platform arc 120–145).
+- New rulings R7 (binding slot; S1 recommended) / R8 (voice & name) opened in
+  `OPEN_RULINGS.md`; gate re-proven after edits (selftest 10/10, PASS).
