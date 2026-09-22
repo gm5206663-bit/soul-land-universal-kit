@@ -44,10 +44,16 @@ pass (spine §7) converts every `[verify]` the premise touches.
 | 30 | Dragon blood pressures: his gold blood FEELS Wulin's GDK suppression (per §24 mechanics) and Gu Yue's SDK sovereign pull (FW-2 feel-only) | [design on §24 mechanics] | THE_WOLF_MODULE §2 NOT-list | 2026-09-22 |
 
 Append below with chapters: `| n | claim | tag | chapter/source | date |`
-| 32 | Defective stock disposal "rotation" cycle (~30 days) | [design on shelf precedent] | ch 01 | 2026-09-22 |
-| 33 | Soul vault = numbered rows; Row Nine = defective shelf; reader device reads element-count + metal-body density | [design] | ch 01 | 2026-09-22 |
-| 34 | Clerk Pang; assay chief Kuang [names] | [design] | ch 01 | 2026-09-22 |
-| 35 | CH1 = three days after canon 131's evolution | [canon-cited anchor] | ore 131 | 2026-09-22 |
-| 36 | The link's first word: "Moon." (his crescent-memory/her name-shape — ambivalent by design) | [design] | ch 01 | 2026-09-22 |
-| 37 | Six-rooms image for his element-bearing soul-space; the sixth = darkness (her undisclosed tongue) | [design on species law] | ch 01 | 2026-09-22 |
-| 38 | Registry lie: disposed "no flags" + unsigned anomaly note to research floors | [design — FW-9 wire] | ch 01 | 2026-09-22 |
+| 32 | ~~Defective stock disposal "rotation" cycle (~30 days)~~ **RETIRED — venue killed by author, see row 44** | [design on shelf precedent] | ch 01 | 2026-09-22 |
+| 33 | ~~Soul vault = numbered rows; Row Nine = defective shelf; reader device reads element-count + metal-body density~~ **RETIRED — venue killed by author, see row 44** | [design] | ch 01 | 2026-09-22 |
+| 34 | ~~Clerk Pang; assay chief Kuang [names]~~ **RETIRED — venue killed by author, see row 44** | [design] | ch 01 | 2026-09-22 |
+| 35 | ~~CH1 = three days after canon 131's evolution~~ **RETIRED — venue killed by author, see row 44** | [canon-cited anchor] | ore 131 | 2026-09-22 |
+| 36 | ~~The link's first word: "Moon." (his crescent-memory/her name-shape — ambivalent by design)~~ **RETIRED — venue killed by author, see row 44** | [design] | ch 01 | 2026-09-22 |
+| 37 | ~~Six-rooms image for his element-bearing soul-space; the sixth = darkness (her undisclosed tongue)~~ **RETIRED — venue killed by author, see row 44** | [design on species law] | ch 01 | 2026-09-22 |
+| 38 | ~~Registry lie: disposed "no flags" + unsigned anomaly note to research floors~~ **RETIRED — venue killed by author, see row 44** | [design — FW-9 wire] | ch 01 | 2026-09-22 |
+| 39 | Choosing venue = Star Dou margins, 4 yrs pre-canon 62; wolf = reject cub of both blood-courts | [design; author ruling: he is her FIRST soul spirit] | ch 01 (revised) | 2026-09-22 |
+| 40 | Her soul rings are self-formed ("mine are not taken"), not from spirit souls | [design, canon-consistent: canon never shows her ring source; self-formed fits Silver Dragon King] | ch 01 (revised) | 2026-09-22 |
+| 41 | Public face = one yellow ring only (canon 63); true cultivation deliberately uncounted ("nothing grows that can be counted") | [design + canon-anchored] | ch 01 (revised) | 2026-09-22 |
+| 42 | Four years of REAL records/letter = realistic background (vs canon's fog) — first logged butterfly: her past is traceable | [design — ripple consequence] | ch 01 (revised) | 2026-09-22 |
+| 43 | Canon ch 63 line "concealing her spirit soul" adopted as hook: the concealed soul IS the wolf; WZ's unread question = new FW-wire | [canon-cited anchor → wire] | ore 63 | 2026-09-22 |
+| 44 | AUTHOR RULING (session 3e): Pagoda-shelf venue killed; rows 32–38 retired; "requirement: write from where she chooses him as first soul spirit, show who gives first ring, 4-yr skip to eastern academy first-show, butterfly already happened" | [author ruling, verbatim-ish record] | session 3e | 2026-09-22 |

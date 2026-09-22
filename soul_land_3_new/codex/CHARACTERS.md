@@ -8,22 +8,21 @@
 
 | Name | Identity (public / true) | Blood / nature | First appears | Firewall |
 |---|---|---|---|---|
-| *(unnamed — name emerges in-scene, hers to give)* | Gu Yue's defective companion soul / twin-line wolf: Elemental Silver Wolf × Golden Wolf (Jing Yang wolf-country, VERDICT §1) | AT holder (never named); six rooms incl. darkness; mithril-fed silver royal + metal soldier gold; NOT list: WOLF_MODULE §2 | ch 01 | FW-7 selfhood secret; FW-2 inverted (he doesn't know what she is); FW-9 dormant note |
+| *(unnamed — she says "names are for later")* | Gu Yue's FIRST soul spirit / twin-line wolf: Elemental Silver Wolf × Golden Wolf (VERDICT §1), rejected by both blood-courts, chosen dying at the Star Dou margins | AT holder (never named); six rooms incl. darkness; season-fed moon-pale metal; NOT list: WOLF_MODULE §2 | ch 01 (revised) | FW-7 selfhood secret + never reader-scanned; FW-2 inverted (he feels only *royal*); concealed under her ring (canon 63) |
 
 ## Canon cast consumed so far
 
 | Name | Consumed as | Chapter | Tag |
 |---|---|---|---|
-| Gu Yue | the binder — second fusion of her soul-sea; keeps the wolf's secret instantly | ch 01 | [canon] |
-| Wu Zhangkong | "You are late" landing | ch 01 | [canon] |
-| (referenced) Tang Wulin / Goldsong | the defective-evolution lesson she cites | ch 01 | [canon — referenced ore 130–131] |
+| Gu Yue | the chooser — her ritual-free, ring-free consent bind; hides him inside the mask | ch 01 (revised) | [canon] |
+| Wu Zhangkong | admits her; CANNOT discern her martial soul, never sees her spirit soul (open question wire) | ch 01 (revised) | [canon] |
+| Xie Xie | the admission test — Light Dragon blade, rank-18 pride, mud-shocked pawn | ch 01 (revised) | [canon] |
+| Tang Wulin | metal-shirt runner; the *meaningful look* received uncomprehended; the wolf smells rank on him | ch 01 (revised) | [canon] |
 
 ## Design NPCs
 
-| Name | Role | Chapter |
-|---|---|---|
-| Clerk Pang | vault counter clerk, quota-cheer | ch 01 |
-| Assay chief Kuang | purge-flag authority; unsigned note writer | ch 01 |
+(None active. RETIRED with the killed venue 2026-09-22: Clerk Pang, assay chief
+Kuang — ledger row 44.)
 
 ## Era reference anchors (do not confuse with "our characters")
 

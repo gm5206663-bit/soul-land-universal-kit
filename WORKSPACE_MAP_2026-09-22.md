@@ -54,3 +54,10 @@ The author resolved the foundation rulings in-session; foundation updated in pla
 
 Author said "Start"; `soul_land_3_new/chapters/Chapter_01_The_Defective_Shelf.md`
 written from ore, gate PASS, all ledgers synced same-turn. The serial is LIVE.
+
+## Pass 4 (same date — Author venue-kill, Chapter 1 rebuilt)
+
+Author rejected the whole Pagoda-defective-shelf venue as canon-illogical for Gu
+Yue ("if she wants she choose in starting; who gives her first ring?"). Chapter 1
+rewritten as "The Choosing": Star Dou margins consent-bind, rings SHOWN self-formed,
+4-year skip onto canon ch 62–64 with a 4-year-deep butterfly. All ledgers re-synced.

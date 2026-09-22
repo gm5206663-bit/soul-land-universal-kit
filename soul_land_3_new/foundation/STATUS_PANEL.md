@@ -1,17 +1,40 @@
 # STATUS PANEL — SL3 New Serial (single live-state file)
 
 Gate-enforced sections. Figures live here and ONLY here (two-copies law).
-Updated 2026-09-22 (session 3d: CHAPTER 01 live, bind done).
+Updated 2026-09-22 (session 3e: CHAPTER 01 REVISED on author ruling — new venue).
 
 ## 1. LIVE EDGE
 
-- Stage: **SERIAL LIVE.** Latest chapter: **Chapter 01 — "The Defective Shelf"**
-  (2026-09-22, gated PASS). Scene edge: the bind is done; the wolf sleeps spent in
-  her soul-sea; Kuang's unsigned note travels to the research floors (FW-9 dormant
-  wire); the class platform trip is tomorrow morning; Wu Zhangkong's "You are
-  late, Gu Yue" still hanging in the landing air.
-- Next planned: Chapter 2 — the platform trip IN (ore 122–129 banked): her first
-  day hiding a dreaming secret in a class taught by a man who misses nothing.
+- Stage: **SERIAL LIVE (revised).** Latest chapter: **Chapter 01 — "The Choosing"**
+  (2026-09-22, gate pending sync). Author killed the Pagoda-shelf venue ("everything
+  is nonsense complete" → ruling: choose him as FIRST soul spirit, show who gives
+  her rings, 4-year skip to Eastsea first-show, butterfly already happened).
+- Scene edge: she is admitted to 1st Year Class 5 (canon ch 62–64 day). The wolf
+  has been her concealed companion four years (real paper records = traceable
+  background — new wire). Wu Zhangkong holds an unvoiced question: he has never
+  seen her spirit soul. The dark seventh room on her side stays unshown by her own
+  law; his sixth room likewise shut.
+- Next planned: Chapter 2 — first days of Class 5 (canon ch 65–66 ore) with the
+  ripple already 4 years deep: she is less isolated than baseline Gu Yue; Wu
+  Zhangkong's concealed-soul question still open.
+
+## 3. OPEN THREADS
+
+- Wu Zhangkong's concealed-spirit-soul question (wire, replaces retired FW-9 note).
+- Her traceable 4-year records — the letter is real ink; anything written can be read.
+- The word "Moon." — his first ever; second word was "East." Voice stays priced (R8).
+- Her true realm/spiritual figure: deliberately UNMEASURED ("counted for nothing"
+  by her own rule); public face = one yellow ring (canon 63 fact, not our figure).
+- The thing on Tang Wulin the wolf flattened to (rank with no registry) — felt,
+  never learned (FW-2 texture; no fact crossed).
+- Nike queued ores: SL2 ch 163–165 (silver royal primary text) · Gu Yue
+  darkness-usage DD3 text · second-translation element cross-check.
+
+## 5. NEXT ACTIONS
+
+1. Author reviews revised Chapter 01 — his word retrofits same turn.
+2. Chapter 2 on his word ("continue"/"start"), canon 65–66 ore texture, ripple counted.
+3. Bank SL2 163–165 when a linear SL2 map exists.
 
 ## 2. POWER & NUMBERS
 
