@@ -42,33 +42,39 @@ wolf (canon, a gold, singular metal type go check"* — and checked it was. The 
 bloods are now canon-anchored, NOT invented:
 
 - **SILVER BLOOD — ELEMENTAL SILVER WOLF, the six-element master.**
-  Official species law (author-cited franchise canon, 2026-09-22): unlike the Golden
-  Wolf's pure physical metal element, the **Elemental Silver Wolf is an absolute
-  master of multi-elemental magic — a standard Silver Wolf carries SIX elements:
-  Water, Fire, Earth, Wind, Light, Darkness — fluidly unleashing any at will,
-  nearly impossible to counter.** DD3-franchise supporting ores: silver-wolf-line
-  soul/martial-soul presence verified in-canon (the Ferocious Wolf, a *silver-hued*
-  wolf-type martial soul, reached **Limit Douluo** — ore ch 1896: wolf lines do
-  reach the ceiling when the blood is true; Silver Moon Wolf lineage carries into
-  SL4 canon). Tag: `[canon-franchise, author-cited — DD3-specific silver-wolf text
-  ore queued; chapter-gated before a fight scene turns on a specific element]`.
-  **THE PARITY THAT SEALS THE BIND:** her Elementalist set — per ore ch 64 — is
-  the SAME six: **Water, Fire, Earth, Wind, Light, Darkness.** The wolf's silver
-  blood is, element for element, *Gu Yue's own kit cast as a beast.* Of course she
-  stopped at the defective shelf: it was the first soul in the world whose blood
-  spoke her own language.
-- **GOLD BLOOD — GOLDEN WOLF, the metal-element body.** Official species law
-  (author-cited franchise canon): **a metal-element soul beast — burly, muscular
-  power under glowing golden fur; pure physical metal.** DD3-text anchor verified:
-  the Dragonwolf/Diamond Dragonwolf line (ore ch 636, metal-sheen scales, diamond
-  defense) — the wolf's gold side is the franchise's metal-wolf body engine, the
-  physical complement to silver's magic. Tag: `[canon-franchise, author-cited +
-  DD3-text (636) for the dragon-blooded branch]`.
-- **THE TWIN DIVIDE, official:** SILVER = six-element magic · GOLD = metal-element
-  body. Magic and body in one frame is precisely why Pagoda testing reads
-  *instability* — their assay expects one element per beast; a six-element silver
-  ALSO carrying a metal-body reads as a contradiction (genetic incompatibility,
-  canon vocabulary ch 1331).
+  Full verified species law (BLOODLINE_VERDICT.md §1 — author-cited + franchise
+  refs to SL2 ch 163–165): absolute multi-elemental master — **six elements:
+  Water, Fire, Earth, Wind, Light, Darkness** — fluid at will, practically
+  un-counterable, only basic attacks per element. **Metal-country's own royal:**
+  the Silver Wolf is ITSELF a metal-born beast that feeds on **Mithril** and
+  needs massive Mithril to break bottlenecks. **Race ladder:** Silver Wolf
+  (1,000y) → Silver Wolf King (10,000y: +1 rare advanced element — the royal
+  seventh) → Silver Wolf Emperor (100,000y: +1 again; never yet seen). Royal
+  gifts: enslaves wolf-kind; senses the best cultivation metals; pack guidance
+  **+20% cultivation**. Crescent silver-white forehead mark; slender frame.
+  *Silver Moon Wolf King* (20,000y, Jing Yang Mountain Range, Sun-Moon Empire) =
+  the royal exemplar, seventh element lightning.
+- **GOLD BLOOD — GOLDEN WOLF, the metal-element body.** Verified species law:
+  metal-element soul beast — burly golden-furred muscle, pure physical metal;
+  pack hunters, swifter than metal lion/tiger/panther/bear; three 10,000y Wolf
+  Kings; +30% combat buff for any metal beast inside the Jing Yang country.
+  DD3-text anchor: the Dragonwolf/Diamond Dragonwolf branch (ore ch 636).
+- **THE PARITY — five elements exact, one variance (VERDICT §2, corrected
+  2026-09-22):** her Elementalist six per held ore (ch 64): ice, fire, earth,
+  wind, light, **space** — the wolf's silver six end in **darkness**, hers in
+  space (canon also marks HER silver element as space, ch 1801 register). FIVE
+  are exact matches; the sixth is a translation-family royal register, logged as
+  variance, not forced. Still true and story-rich: in the whole world, his blood
+  is the *nearest thing to her own element-language* — and the gap between
+  darkness and space is exactly the kind of detail her eyes would catch.
+- **THE TWIN DIVIDE, official (upgraded post-verdict):** not a random hybrid —
+  the TWO CLASSES OF ONE PACK-COUNTRY (Jing Yang's metal wolf-nation): royal
+  silver (elemental, mithril-fed, guiding) × soldier gold (metal, pack-built,
+  buffed). His frame = **six-element magic + metal body** — and canon's own
+  royal rule (silver guides metal-wolf cultivation +20%) turned INWARD is his
+  most canon-legal growth substrate. Pagoda assay = genetic incompatibility
+  (ch 1331 vocabulary), because no tester believes a soldier-gold and a royal-
+  silver share one spine.
 - **[design]** the twin bloods' exact surface expressions are working defaults
   until the author names them further (his word owns the vocabulary; silence =
   ours, replaceable).

@@ -5,12 +5,14 @@ Updated 2026-09-22 (session 1: rulings R1–R6 resolved; premise locked).
 
 ## 1. LIVE EDGE
 
-- Stage: **DRAFTING DOOR OPEN** — premise locked AND session-2-perfected:
-  **the elemental-silver-wolf × golden-dragonwolf companion spirit soul of Gu
-  Yue**, Adaptation-Talent holder; she knows him at first touch; defective-shelf
-  bind at the Eastsea Pagoda (scene spec §3.3); endgame in full Natural-Ripple.
-  14 ores banked/maned. Awaiting exactly one word from the author: **"start."**
-  Latest chapter tracked: **Chapter 00** (none).
+- Stage: **DRAFTING DOOR OPEN** — premise locked AND session-2/3-perfected:
+  **the Elemental Silver Wolf × Golden Wolf companion spirit soul of Gu Yue**
+  (species fully verified — BLOODLINE_VERDICT.md: royal silver six-element
+  mithril-fed × metal soldier gold of Jing Yang's wolf-country; parity with her
+  Elementalist six logged w/ honest variance), Adaptation-Talent holder; she
+  knows him at first touch; defective-shelf bind at the Eastsea Pagoda (scene
+  spec §3.3); endgame in full Natural-Ripple. 27 ores banked/maned. Awaiting
+  exactly one word from the author: **"start."** Latest chapter: **00** (none).
 - Scene spec ready: THE_WOLF_MODULE §3.3; ore texture on disk
   (62–66 arrival/elements · 119–131 platform/evolution · 636/743/1331 mechanism).
 
