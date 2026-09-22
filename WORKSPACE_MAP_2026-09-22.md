@@ -76,3 +76,9 @@ holds only `soul_land_3_new/` (the live serial) + root docs. Every other project
 remains intact ON GITHUB (soul-land-universal-kit + soul-land-projects +
 storyos-site + storyline) and in local git objects — reachable anytime via
 `git show HEAD:path` (no re-clone, no mess). Nothing deleted from the remote.
+
+## Pass 7 — 2026-09-22 — SL2 FOUNDING + SPARSE SWAP
+- Author plan-change: SL3 serial frozen (remote-only, HEAD a0a6473); new fic **soul_land_2_new** founded (The Golden Lion).
+- Sparse view swapped: disk = soul_land_2_new + root docs only. SL3 reachable via `git show HEAD:soul_land_3_new/...` (do not re-materialize).
+- New GitHub token configured in remote URL (config excluded from snapshots — re-set per session).
+- Foundation v1: AUTHORS_LAW L-01..07, CANON_LEDGER 001..015, STATUS_PANEL v1, SERIAL_LOG 001, THE_LION_MODULE, GLOSSARY, 2 pointer ores, gate sl2-goldenv1.

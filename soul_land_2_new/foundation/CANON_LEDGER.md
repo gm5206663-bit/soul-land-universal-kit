@@ -1,0 +1,20 @@
+# CANON LEDGER — Soul Land 2 · The Golden Lion
+
+Numbered truth. Author word supreme; a signed word overrides any row (new row supersedes, old row struck).
+Pointer-class sources marked; they are never quoted as canon in chapters.
+
+001 METHOD — author word > files > wiki-pointer ore. (AUTHORS_LAW L-01)
+002 ERA — SL2, ~10,000 years after SL1. **No Spirit Hall** (author correction 2026-09-22). City awakening ceremonies under the empires.
+003 RING SOURCE — SL2 era: rings come from soul-beast kills. No mass spirit-souls yet; Huo Yuhao's anomalies are history's exception.
+004 RING CEILING — Yu Xiaogang's ladder: ring 1 ≈ 423y, ring 2 ≈ 764y. Colors: 10y white / 100y yellow / 1k purple / 10k black / 100k red.
+005 GOLDEN LION (species) — canon SL2 ch 148: **metal-type** soul beast; fur/mane turn to metal spikes at will; mane-spike volley (best ≤5 m); golden shoulder-spikes; extreme defense, physical-combat specialist; bad temper; "king of beasts" prestige; bloodline above-average among ordinary beasts; strongest of the four golden beasts (Bear/Tiger/Panther/Lion) at Shrek's Beast Dueling Area. ORE: canon_ore/research/wiki_golden_lion.txt (pointer-class).
+006 ADAPTATION TALENT — author law (womb-born), full text AUTHORS_LAW L-04. Signed justification for exceeding row 004.
+007 GOLDEN LION (martial soul) — the type is canon-proven: carrier **Mighty Lion Douluo** (SL1-era Spirit Hall priest, 96–97 Douluo, fell to Xiao Wu at the Battle of Two Gods). Canon ring-line precedent: initial effects = enhanced strength & defense; 5th **Mighty Lion Barrier** (flaming defensive barrier); 7th **Golden Lion Avatar** (>6 m golden lion, goat horns, all attributes surge); 8th **All Beasts Bow Down** (spiritual suppression of soul beasts & beast-type martial souls); 9th **Soul Shattering Death Roar**. ORE: canon_ore/research/wiki_mighty_lion_douluo.txt (pointer-class). Our line may diverge — author signs any break.
+008 HERO NUMBERS — age **11** at canon start (= Huo Yuhao, author-signed); innate soul power **rank 5**; cultivation at canon start **rank 23** (Soul Grandmaster); two rings, yellow·purple.
+009 RING 1 — **500y Golden Lion**, yellow. Species = his own soul's species → perfect compatibility; perfect absorption under L-04; bloodline strengthened & purified. **Skill 1: GOLDEN LION CLAW** (author-named). Gains package: STATUS_PANEL.
+010 RING 2 — **1,000y Earth Armoured Iron Dragon**, purple `[design species: sub-dragon drake, iron-scaled, earth-attribute]`. Traits re-expressed golden-lion-style under L-04. **Skill 2: GOLDEN LION BODY** (author-named).
+011 PROVENANCE — both parents ordinary villagers (author); home village in **Star Luo Empire**, southern reach near Star Dou margins `[design]`; awakening at city ceremony; junior academy graduate — **not a newbie** (author); mentor = the academy **headmaster, a Soul King** (51–60); his recommendation → Shrek.
+012 ENTRY — Chapter 1 opens on the road toward **Shrek Academy entrance** (author choice).
+013 ROMANCE — AUTHORS_LAW L-06: Tang Wutong line (Wang Dong → Dong'er) + Wang Qiu'er, fixed lanes, natural development.
+014 FORTUNE — AUTHORS_LAW L-05: Huo Yuhao stays son of luck; butterfly losses repaid with created opportunities. Queue in STATUS_PANEL.
+015 THREE-EYED GOLDEN LION — **distinct species, NOT our hero's soul**: Emperor Auspicious Beast of Star Dou, ~15,000y at canon start; primary spiritual power + extreme light & extreme fire; Golden Dragon bloodline; fate-carrier; human form Wang Qiu'er. Held as a LIVE HOOK only — no kinship claim unless the author signs one.
