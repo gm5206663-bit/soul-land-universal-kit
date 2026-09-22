@@ -1,5 +1,5 @@
 # STATUS PANEL — single-state truth
-Snapshot: **FOUNDATION v5 (POSSESSION CARDED)** · 2026-09-22 · chapters live: **1**
+Snapshot: **v6 (CH 2 SHIPPED)** · 2026-09-22 · chapters live: **2**
 Purpose: the whole living state of the hero and his world in one file. Rebuilt in full after
 every kill/rewrite. **If a number isn't here, it doesn't exist yet.**
 Registers follow the laws: skills per CANON SKILL LAW (L-08), attributes per GRAFT LAW (L-09),
@@ -19,8 +19,8 @@ coin per COIN & CRAFT LAW (L-10). No trait-poetry anywhere. Full history: JIN_YA
 | Talent | **ADAPTATION** — womb-born (full register §2) |
 | Craft | **Blacksmith, guild-certified GRADE 3** (L-10; §7) |
 | Mentors | **Chu Shan**, Soul King r56 (cultivation) · **Master Gongshu Yan**, grade-6 smith (forge) `[design]` |
-| Heading | inside the Shrek enrollment queue — the bell called "Next" (ch-2 starpoint) |
-| Purse | **31 gold, 4 silver** + copper string `[design]` |
+| Where now | **Shrek enrolled** — dossier certified, badge Jia-105, dorm **Room 105** (ch 2) |
+| Purse | **29 gold, 4 silver** `[design]` (paid 2-gold dossier fee, ch 2) |
 
 ## §2 TALENT REGISTER — 11 years of ADAPTATION (what the womb gift has done)
 *Every yield is stimulus-priced (hours, burns, ring-gambles). The gift gives capability, never
@@ -148,13 +148,13 @@ true self — see §9 irony). Natural development; nothing engineered; lanes are
 - Ring ceilings 423y/764y (004) · gold atlas tiers + walls (018–022) · laws L-08/09/10
 
 ## §13 OPEN / PENDING
-- Chapter 2 — the gate measure: rank certified, **yellow-purple reveal** the instant he possesses (§3);
-  coat-check on the doctrine-math; then written/practical entrance sequence (measured, not gifted)
-- Ring 3+ — not opened; aspiration bank (Barrier / Avatar / All Beasts Bow Down / Death Roar) + cone 1 (terrorclaw, era-legal)
+- Chapter 3 — rosters at dawn: freshman **class assignment** (top cohort lane = canon Class 1 with the Huo/Wang/Dai cohort) `[design, author nod requested]`; **Zhou Yi introduction** is canon territory — thread unsigned for our boy's scene
+- Strike-record trail: 2-cun stele reading + purple second ring now filed in Shrek's intake dossier; Wang Yan noted it — planted thread, unsigned
+- Ring 3+ — not opened; aspiration bank + cone 1 (terrorclaw, era-legal)
 - Life Gold cone — LOCKED (L-05) · Golden Tree acknowledgment — flavor free · 015 hook unsigned
 - The Standing Golden Lion needs a school-name in-world? — deferred (vanity, not canon)
 
 ## §14 SETTLED (archive hashes)
-- Ch 1 shipped `4f918bc`; names live: Jinxi, White Birch City, Chu Shan r56, Old Wei; costs carded
-- Foundation v1 `b157e41` · audit retrofit `0419bb5` · gold sweep `452e489` · perfect panel `f37f798`
-- **Possession card retrofit (this file, v5):** see push hash in SERIAL_LOG 006
+- Ch 1 `4f918bc` · **Ch 2 "The Measure"** — gate certified: age 11, rank 23, 2-cun stele, 2-gold fee, Room 105; names live: Qiu Yuan, badge Jia-105
+- Foundation v1 `b157e41` · audit `0419bb5` · gold sweep `452e489` · perfect panel `f37f798` · possession `f363f9f`
+- **Ch 2 push:** see hash in SERIAL_LOG 007
