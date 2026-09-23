@@ -245,6 +245,41 @@ logs may call him DD; a personal name, if the story ever earns one, remains the
 story's (ENDING LAW). THE ROLLOUT IS STAGED: chapters in order, each one gated
 before it ships; site indexes/recaps follow each batch; audio re-records last.
 
+## THE MANHUA LENS — "why don't you check manhua" (author word, session 54, 2026-09-23)
+
+The author pointed at the manhua. Checked the same session — receipts:
+- The manhua opens the whole story IN THE CHASE (the elders running Tang San
+  down), not at dawn meditation; the jump happens in episode one (fandom wiki,
+  Episode 001).
+- Geography is a labeled INTERVAL — one insert page: "Douluo Planet → Douluo
+  Continent → Heaven Dou Empire → Nuoding City → Holy Spirit Village" — then
+  back to the action.
+- World-rules arrive in ONE plain line mid-action, exactly when needed:
+  "when everyone grows up, there will be an awakened ability, called the
+  Martial Soul."
+- The manhua compresses hard ("Adaptation Distillation" — TV Tropes), and
+  readers report what that costs: "chapters feel disconnected… left guessing
+  the motivations and reasons" (MangaUpdates); "doesn't make justice to the
+  epicness of the novel" (fan consensus). 
+- THEREFORE the split: the manhua governs PACING and VISIBILITY; the novel's
+  explaining narrator (approved by the author, s53) STAYS. Manhua speed +
+  novel explanation. Rules:
+1. OPEN EVERY SCENE IN MOTION. No scene opens on stillness or summary; it
+   opens with something already happening to a body on ground.
+2. BEATS ARE PANELS. A scene paragraph must be drawable — a body, a motion, a
+   ground, a sound, a face. If nothing could be drawn, it becomes drawable or
+   it is cut.
+3. WORLD-NOTES ARE INTERVALS: one or two plain lines at a natural pause,
+   never inside the action (the manhua's insert page).
+4. ONE-LINE RULES MID-ACTION when the action needs one ("In this world, …"),
+   then the action resumes at once.
+5. EVERY SCENE ENDS ON A VISIBLE TURN — what the last panel would show — not
+   on a cadence or a summary line.
+6. LOUD WHERE IT COUNTS: the manhua spends its big panels on impact moments
+   (the roar, the taking, the first flight of an arrow). In prose: the
+   slow-motion beat at each impact, then move fast again.
+First application: Chapter 7, batch 3 (s54).
+
 ## PLAIN-SCENE LAW — "not some poetry not summery... like how actually written simple" (author strike, session 52, 2026-09-23)
 
 Author, verbatim: "Serious mistake complete writeing style is wrong, i need clear

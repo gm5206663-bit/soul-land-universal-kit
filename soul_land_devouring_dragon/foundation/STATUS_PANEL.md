@@ -7,12 +7,14 @@ max 54, panel held whole); Ch 3 rewritten (3,399w, avg 16.6, max 54, panel held
 whole — first full use of the law's narrator world-note channel at the ring).
 All three gated: retired zero, tics within cap, no sentence over 60, zero
 digits, floors and ceilings met (Ch 3 at the season-turn ceiling with reason in
-its footer). ROLLOUT TRACKER: 6 of 24 done — batch 2 (Ch 4 "The Weight of Blood"
-2,698w/16.6/52; Ch 5 "The Hunger That Has No Meal" 3,381w/15.6/55; Ch 6
-"Greater Than the Wall" 2,969w/15.7/45) shipped and site-synced; panels held
-whole, retired sweeps clean (easings recorded in footers). Next: batch 3, Ch 7
-"The Sense of Years" through Ch 9; audio re-records after the last chapter.
-Chapters 7–24 still carry the old literary voice until their turn.)
+its footer). ROLLOUT TRACKER: 7 of 24 done. Batch 3 OPENED under the MANHUA LENS (s54,
+author: "Why don't you check manhua" — checked: Episode-001 beat breakdown;
+lens in RAILS: open every scene in motion; beats are panels; world-notes are
+intervals; one-line rules mid-action; scenes end on visible turns; loud where
+it counts — manhua pacing + the novel's explaining narrator, which STAYS).
+Ch 7 "The Sense of Years" 2,973w/17.2/57, the first chapter written under
+both laws, shipped and site-synced. Next: Ch 8 "The Deep Country", Ch 9; audio
+re-records after the last chapter. Chapters 8–24 still carry the old voice.)
 
 Updated: 2026-09-23 (session 53 — AUTHOR STYLE STRIKE #3, verbatim: "Still very
 bad writing style, actually go see how soul land canon acutely written."
