@@ -19,7 +19,7 @@
 
 ## THE COUNT
 
-**146 distinct recorded mistakes (128 through §L, plus §M 8, §N 8, §O 2) · 11 author strikes that became standing law · 5 disasters · 23 still open or author-gated.**
+**147 distinct recorded mistakes (128 through §L, plus §M 8, §N 8, §O 2, §P 1) · 12 author strikes that became standing law · 5 disasters · 23 still open or author-gated.**
 
 ---
 
@@ -252,6 +252,16 @@ Chapter 24 shipped through the new tooling.
 **Sentinel after the layer: 23 checks — 23 pass / 0 warn / 0 fail** (the
 continuity linter is now a permanent check: timeline monotonicity, chapter
 coverage, place citations — negative-tested by breaking a copy).
+
+---
+
+## §P · THE 2026-09-23 PLAIN-SCENE STRIKE ("the style is wrong") — turn 15
+
+| # | Mistake | Correction | Receipt |
+|---|---|---|---|
+| P1 | **The delegated chapters had drifted back into the forbidden register.** Chapters 19–24 (the s46–s51 run) were written in metaphor-stacked, summary-montage prose — beat-labels, montage catalogues, poetry compressions — the s40 illness returned in a new form, this time under the pacing law's cover. Author, verbatim: "Serious mistake complete writeing style is wrong, i need clear and clean, that' can understand and read not some poetry not summery but like how actually written simple." | PLAIN-SCENE LAW written into RAILS (s52): real scenes, simple clear sentences, no poetry, no summary-chapters; time passes in one plain sentence, the kept moments written out fully. Chapters 19–24 rewritten in one session — facts, order, causes unchanged (the s34/s40 rule); every chapter re-gated through the ship script (which refused under-floor drafts five times during the rewrite — the gates doing their job on the author's side of the work too). New voices: avg 15.2–18.6, max 43–58 (was 18.8–22.0, max 56–59). Chapters 1–18 stand. The Ch 21 narration was re-recorded from the corrected text the same session. | kit 47c5399+; RAILS s52; SERIAL_LOG 52 |
+
+**Lesson, added to the meta-list:** the prose laws police words and sentences; nothing polices *register*. Poetry can be built from lawful words. The cure is the author's own definition of the reader's experience: clear, clean, understandable — a sentence that must be read twice is wrong no matter how lawful its words. The s44 pacing law compresses TIME, never SCENE.
 
 ---
 
