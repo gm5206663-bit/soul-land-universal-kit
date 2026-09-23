@@ -3,6 +3,16 @@
 Source of truth: the author's method repo `how-to-write-fanfiction` (2026-09-23) and the
 Lin Hao chapters (the 116-ch flagship, e.g. Soul_Land_3_Project/chapters/chapter_05.md).
 
+## R-0 HOUSE GRAMMAR (measured, binding, checked per chapter)
+From the author's s34 HOUSE_STYLE_AUDIT + RAILS (measured over his whole corpus):
+- Sentence average ≤ 25 words/chapter; NO sentence over 60 words.
+- Dialogue density ≥ 8 spoken lines per 1000 words (house norm 10–20).
+- **"the way X" construction: HARD BAN above 2 per chapter.** (My tic: 25 instances
+  found across ch1–3 and excised 2026-09-23, ledger 040. Never again.)
+- Chapter opens inside a scene; ≥2 small finished scenes per chapter; no chapter
+  closes by retelling its own events; no explain-after-dramatizing paragraphs.
+- Measure tool: `checks/measure_prose.py` — run per chapter before ship.
+
 ## R-1 PLAIN LANGUAGE LAW (lead law — author Law 7, born on devouring-dragon)
 **Plain words. Say the thing.** Direct, clean webnovel English.
 - Dialogue carries scenes; description serves the beat.

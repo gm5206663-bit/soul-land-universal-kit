@@ -1,5 +1,5 @@
 # STATUS PANEL — single-state truth
-Snapshot: **v12 (METHOD v4 PLAIN-LAW; ch 1–3 fourth-pass plain)** · 2026-09-23 · chapters live: **3**
+Snapshot: **v13 (method v4.1: house-grammar measured+bound)** · 2026-09-23 · chapters live: **3**
 Purpose: the whole living state of the hero and his world in one file. Rebuilt in full after
 every kill/rewrite. **If a number isn't here, it doesn't exist yet.**
 Registers follow the laws: skills per CANON SKILL LAW (L-08), attributes per GRAFT LAW (L-09),

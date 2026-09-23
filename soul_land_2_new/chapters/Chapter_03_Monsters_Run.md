@@ -103,7 +103,7 @@ He stood with both hands on his knees, face the color of old flour, and when Jin
 
 "I'm empty. I'm legally empty."
 
-"Then get up on the empty." Jin Yang took his wrist and pulled — not gently, the way you pull a bellows arm — and the ox came up swearing at nobody. "Nine laps left. You have an ox for a soul, Deng Wu. Oxen walk past mountains. Run like an ox, not like a sack of oxes."
+"Then get up on the empty." Jin Yang took his wrist and pulled — not gently, like a bellows arm — and the ox came up swearing at nobody. "Nine laps left. You have an ox for a soul, Deng Wu. Oxen walk past mountains. Run like an ox, not like a sack of oxes."
 
 "Other arm," Jin Yang said to Qiu Yuan, who had stopped a length ahead and was weighing his boots against his conscience.
 
@@ -145,7 +145,7 @@ Deng Wu watched the longest. "Almost me," he said finally, from his back. "I nea
 
 Lunch was ninety-one trays, where the morning had set a hundred.
 
-Nobody said *the nine*. Everybody's eyes went to the empty seats the way tongues go to a missing tooth. At the far table Wang Dong sat on the tabletop itself, ruling an empty kingdom of exhausted admirers. Huo Yuhao ate at the end of the same table, neatly, and twice boys came over to ask him if being carried like rice had hurt, and twice he said no, and once he said thank you for asking.
+Nobody said *the nine*. Everybody's eyes went to the empty seats like tongues to a missing tooth. At the far table Wang Dong sat on the tabletop itself, ruling an empty kingdom of exhausted admirers. Huo Yuhao ate at the end of the same table, neatly, and twice boys came over to ask him if being carried like rice had hurt, and twice he said no, and once he said thank you for asking.
 
 At second bell a cart stood in the plaza, and on it were black weighted vests, each one **thirty jin — fifteen kilos of plate** — that hung off the shoulders, and the vests all smelled, without exception and without favoritism, of the hundred classes of freshmen who had sweated in them first.
 
@@ -155,7 +155,7 @@ At second bell a cart stood in the plaza, and on it were black weighted vests, e
 
 "You have two hours to make peace with it."
 
-The drill went the way two iron hours go.
+The drill went how two iron hours go.
 
 By mid-way the vests had flattened the difference between the proud and the plain. Wang Dong still went past the world — once, twice, faster than anyone had any right to move wearing plate — but even he had started to run out of his borrowed morning. Jin Yang ran his hammer-count and banked minutes like a careful man; at the eastern turn he passed Qiu Yuan, sitting on the stone arranging his cuffs and claiming loudly to nobody that he was *strategizing*. At an hour and forty minutes, Deng Wu's knees and the ground signed a private agreement, and the ox went down slow, like cartage unloading.
 
@@ -207,7 +207,7 @@ It ended with Jin Yang. Beside the basin's lip, Huo Yuhao sat with his head down
 
 "Last of it. New legs drink first."
 
-Huo Yuhao drank, coughed, and gave the gourd back still half-full. "Half," he said. "For your ox friend." And then, plainly, the way another boy might offer a name at a market: "Huo Yuhao."
+Huo Yuhao drank, coughed, and gave the gourd back still half-full. "Half," he said. "For your ox friend." And then, plainly, like a boy offering a name at a market: "Huo Yuhao."
 
 "Jin Yang."
 
@@ -229,7 +229,7 @@ The plain boy looked at him a moment, then nodded once — quiet, like a fact fi
 
 ## Part 6: The Door with a Note
 
-Night came down the dormitory wing the way it came every night after a hard day: first aching and boasting through the walls, then lower talk, then lamps going out room by room until the corridor held only moonlight and somebody's forgotten candle.
+Night came down the dormitory wing how it came every night after a hard day: first aching and boasting through the walls, then lower talk, then lamps going out room by room until the corridor held only moonlight and somebody's forgotten candle.
 
 In Room 105, under the one oil lamp, Qiu Yuan was updating the clan notebook — the debt book of White Birch: *name, house, threat*. The day's page was long.
 

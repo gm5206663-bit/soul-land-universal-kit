@@ -17,7 +17,7 @@ His mother cried on him for as long as she needed to. He let her.
 
 "Yes, Ma."
 
-His father stood with his hat in his hands, turning it the way he turned hard bolts. He grew millet, and sharpened plough blades for anyone who brought one, and he had two pieces of advice on file for the whole world. He gave his son the first.
+His father stood with his hat in his hands, turning it slowly between work-worn hands. He grew millet, and sharpened plough blades for anyone who brought one, and he had two pieces of advice on file for the whole world. He gave his son the first.
 
 "Strike true, or don't strike." He put the hat back on. "The planting is in the tenth month. Write if the school lets you."
 
@@ -37,7 +37,7 @@ Then he faced the road and did not look back again.
 
 ## Part 2: Five Years at the Forge
 
-The story of his awakening, the way Jinxi told it, had a lion in the walls.
+The story of his awakening, as Jinxi told it, had a lion in the walls.
 
 He was six, standing in a line of village children in the ceremony hall of White Birch City, on a rainy morning. The awakening master — **Qiao Tong, a Soul Elder in his thirties**, a man who had awakened six thousand children and expected to forget all of them — put his palm on the boy's chest and sent the light in.
 
@@ -47,7 +47,7 @@ A lion, mane like poured metal, tall enough to look over every adult's head. Qia
 
 "Innate soul power. **Rank five.**"
 
-That autumn Jin Yang walked thirty li into White Birch City with a recommendation letter, and the headmaster of the city junior academy — **Chu Shan, a Soul King of the fifty-sixth rank**, a thin old man with a voice like a barn door — looked at the boy's thin arms, looked at the gold shape behind them, and said four words:
+That autumn Jin Yang walked thirty li into White Birch City with a recommendation letter. The headmaster of the city junior academy — **Chu Shan, a Soul King of the fifty-sixth rank**, a thin old man with a voice like a barn door — looked at the boy's thin arms, then at the gold shape behind them, and said four words:
 
 "You'll train with me."
 
@@ -73,7 +73,7 @@ The old man bowed to him in private, after.
 
 "Other academies will measure you small so you grade neatly," he said. "Shrek won't. Go to Shrek."
 
-The second ring's skill came out of the drake and got re-fitted by the boy's body the way Gongshu re-fitted old steel to a new haft: **Golden Lion Body** — strength doubled, defense doubled, while it ran. And under the metal of his soul, something quiet had taken root: the drake's earth, grafted deep by the clean absorption.
+The second ring's skill came out of the drake, and the boy's body re-fitted it like old steel on a new haft: **Golden Lion Body** — strength doubled, defense doubled, while it ran. And under the metal of his soul, something quiet had taken root: the drake's earth, grafted deep by the clean absorption.
 
 Metal for the kill. Earth for the standing. Chu Shan said it like a proverb and made him say it back before every cold morning drill until it sat in him next to breathing.
 
@@ -91,7 +91,7 @@ Six days later the road was in his sandals.
 
 Three days out of White Birch City he joined the tail of Old Wei's grain caravan — four canvas carts, spavined mules, six contract guards, and a guard captain of the fifteenth rank who chewed betel and told the same war story eight ways, each way kinder to the captain.
 
-Jin Yang said nothing about being a soul master. He walked in the dust of the rear cart and ate flatbread, and the mules, who should have hated him, watched him with wet eyes and stayed calm. Dumb beasts smell a predator the way grass feels weather. What the mules felt from the thin boy in the road dust was not what a lion smells like. It was what a lion smells like when it has already eaten.
+Jin Yang said nothing about being a soul master. He walked in the dust of the rear cart and ate flatbread, and the mules, who should have hated him, watched him with wet eyes and stayed calm. Dumb beasts smell a predator like grass feels weather. What the mules felt from the thin boy in the road dust was not what a lion smells like. It was what a lion smells like when it has already eaten.
 
 On the sixth night, at moonrise, the boar came out of the brush-line.
 
@@ -111,7 +111,7 @@ The purple one bloomed.
 
 **Golden Lion Body.**
 
-The amplification ran through him the way rain runs into a brook — strength up one hundred percent, defense up one hundred percent, his body's old honest accounting of the drake's gift. Gold sheen settled over his skin, following the lines of his arms and shoulders, and under his feet the earth rose and held like a loyal thing.
+The amplification ran through him like rain running into a brook — strength up one hundred percent, defense up one hundred percent, his body's old honest accounting of the drake's gift. Gold sheen settled over his skin, following the lines of his arms and shoulders, and under his feet the earth rose and held like a loyal thing.
 
 The boar hit him dead center at a full charge.
 
@@ -119,7 +119,7 @@ He did not move. Not a step. Three hundred years of iron bristle broke against a
 
 Behind the wagons the guards made one shared noise, the noise geese make when a shadow crosses the yard.
 
-Jin Yang raised his right arm. Soul power answered the way it always answered him — measured, counted, poured.
+Jin Yang raised his right arm. Soul power answered as it always answered — measured, counted, poured.
 
 **Golden Lion Claw.**
 
@@ -127,23 +127,23 @@ The claws lengthened into five blades of living gold. One rake — one — shoul
 
 A yellow-white ring lifted off the carcass, floated a moment, and faded.
 
-Jin Yang took his own count, the way Chu Shan had beaten into him. The claw: about a twentieth of his reserve. The amplification, still running: a steady sip. He closed it down. Twelve minutes at full spend, from full to dregs — he knew the number the way he knew his own pulse. *A soul master who doesn't know his costs is a soul master's funeral notice.*
+Jin Yang took his own count, as Chu Shan had beaten into him. The claw: about a twentieth of his reserve. The amplification, still running: a steady sip. He closed it down. Twelve minutes at full spend, from full to dregs — he knew the number like his own pulse. *A soul master who doesn't know his costs is a soul master's funeral notice.*
 
 Old Wei lowered the lantern.
 
-"Immortal young master," he said, the way village people talked when the world showed them a shape they had no word for.
+"Immortal young master," he said — how village people talked when the world showed them a shape with no word for it.
 
 "Jin Yang, of Jinxi village," the boy said. "Is any of that grain cooked?"
 
 The guards laughed so hard the captain swallowed his betel, which improved everyone's evening.
 
-At the parting they tried to pay him — Wei solemnly, the captain loudly — and he took one meal, two steamed rolls for the road, and one copper coin at the third insistence, because his mother had told him once that a man who takes nothing makes his helpers feel useless, and she was right about nearly everything except geese.
+At the parting they tried to pay him — Wei solemnly, the captain loudly — and he took one meal, two steamed rolls for the road, and one copper coin at the third insistence, because his mother had told him once that a man who takes nothing makes his helpers feel useless. She was right about nearly everything except geese.
 
 "Where does a boy of the twenty-third rank walk at eleven years old?" Wei asked him at the fork, half curious, half praying.
 
 "Shrek," Jin Yang said.
 
-Old Wei stepped back from the purse then, and pressed his palms together, and said, the way you speak to weather you have already decided to respect: "May the lion carry you, child of the gold brook."
+Old Wei stepped back from the purse then, and pressed his palms together, and said, as you speak to weather you have already decided to respect: "May the lion carry you, child of the gold brook."
 
 ---
 
@@ -163,7 +163,7 @@ He walked down the hill and found the end of the line, behind a candidate in gra
 
 He took the cake, because his mother had also had teachings about refusing food.
 
-And so it happened, on the same morning, on the same gray stones in the same sunlight — forty paces ahead of where a village boy finished a stranger's cake — that a thin, plain-faced boy with soft black hair bought roasted wheat cakes from a gate vendor with careful coppers, and was given directions to the end of the line by a kind-eyed young woman whose sect was very small. Twenty paces behind her, a boy with hair the color of a clear pink-blue dawn stood looking at the length of the line the way a general looks at a wall he intends to breach personally.
+And so it happened that on the same morning, on the same gray stones, in the same sunlight, a thin plain-faced boy with soft black hair bought roasted wheat cakes from a gate vendor with careful coppers — forty paces ahead of the village boy with the borrowed cake. A kind-eyed young woman pointed him to the end of the line. And twenty paces behind her, a boy with hair like a clear pink-blue dawn stood measuring the line like a wall he meant to breach personally.
 
 Jin Yang noticed none of them. The rope moved. A clerk's bell rang. Somewhere up at the tents a child flashed three rings and the crowd hummed like disturbed geese.
 

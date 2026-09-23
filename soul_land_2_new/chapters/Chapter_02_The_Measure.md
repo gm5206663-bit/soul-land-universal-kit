@@ -69,13 +69,13 @@ He laid his wrist on the bone-white stone. The slate lit up from underneath, lik
 
 "Crystal."
 
-He set his palm on it and sent a thread of soul power up his arm — the way Chu Shan had taught him, measured, like pouring from a kettle you plan to set down full.
+He set his palm on it and sent a thread of soul power up his arm, as Chu Shan had taught him — measured, like pouring from a kettle you plan to set down full.
 
 The crystal climbed. Ten. Fifteen. Nineteen — the place where prodigies usually stopped and the brush was already moving — twenty-one. Twenty-two.
 
 **Twenty-three.**
 
-The brush did not move. The registrar's eyes went from the crystal to the boy, and then to the crystal again, the way you check a scale for a thumb. The crystal stayed where it was.
+The brush did not move. The registrar's eyes went from the crystal to the boy, and then back to it, checking it for a thumbed pan. The crystal stayed where it was.
 
 "Twenty-three," she said, in a voice that had lost its professional warmth and found arithmetic instead. "Age eleven. Cultivation twenty-three. Star Luo provincial recommendation — verified." A short silence while procedure caught up. "Martial soul, please."
 
@@ -83,7 +83,7 @@ Under the awning, the tea-table teacher set his cup down.
 
 ---
 
-Jin Yang called it the way he had been taught: all of it, because Chu Shan's other lesson — the one after foundation — was that a lion you hide learns to hide.
+Jin Yang called it as he had been taught: all of it, because Chu Shan's other lesson — the one after foundation — was that a lion you hide learns to hide.
 
 Gold light stood up in the tent.
 
@@ -105,13 +105,13 @@ It was doing so.
 
 The tea-table teacher came around the awning, mug forgotten. He was a middle-aged man with quick pale eyes, the kind of face that read three questions into one scratch of a beard. A senior student murmured "Teacher Wang."
 
-"Golden Lion, metal type, king of the ground-cats," the teacher said, not as a question. He looked at the mane the way men look at rare books. "The dueling stockyards could tell me your species' temper without asking." He turned the full weight of the pale eyes onto Jin Yang. "First ring yellow — four, five hundred years by the depth of it. I'll not quarrel. But the second — a second ring cannot be purple. Yours is." A pause, perfectly pleasant. "Explain that, boy."
+"Golden Lion, metal type, king of the ground-cats," the teacher said, not as a question. He looked at the mane like men at rare books. "The dueling stockyards could tell me your species' temper without asking." He turned the full weight of the pale eyes onto Jin Yang. "First ring yellow — four, five hundred years by the depth of it. I'll not quarrel. But the second — a second ring cannot be purple. Yours is." A pause, perfectly pleasant. "Explain that, boy."
 
 The tent had gone so quiet you could hear the canvas creak.
 
 "My teacher paid my life into those hunts," Jin Yang said. "The price is mine to pay. It isn't mine to sell."
 
-Teacher Wang looked at him for a long, still moment. Then he smiled the way a man smiles when a morning turns into the kind he joined the profession for.
+Teacher Wang looked at him for a long, still moment. Then he smiled like a man whose favorite kind of morning had just walked in.
 
 "Good," he said. "Keep it. We've heavier doors at this school than a dossier. Shrek does not collect doctrine, young man. Shrek collects the possible." He gestured at the stele. "One strike. Your best. Solidly on the face, please. You will not hurt it — better arms than yours have tried with mo—" the claws extended the last notch "—more rings."
 
@@ -121,17 +121,17 @@ Teacher Wang looked at him for a long, still moment. Then he smiled the way a ma
 
 Jin Yang walked to the stele.
 
-In his head, the ledger opened by itself, the way it always did. Reserve: **one hundred hundredths**. Window available, twelve minutes at full pour; not needed, not opened. The stone asked for a strike, not a war. One claw. Full measure. Nothing else spent.
+In his head, the ledger opened by itself, as it always did. Reserve: **one hundred hundredths**. Window available, twelve minutes at full pour; not needed, not opened. The stone asked for a strike, not a war. One claw. Full measure. Nothing else spent.
 
 His father: *strike true or don't strike.* Gongshu: the stance sets itself, your job is to listen. Chu Shan: a strike is arithmetic before it is anything else.
 
-He drew the right arm all the way back and drove the morning's first **Golden Lion Claw** into the face of the soul-steel stele.
+He drew the right arm back and drove the morning's first **Golden Lion Claw** into the face of the soul-steel stele.
 
 The sound was a bell going off inside a mountain — and then stone itself shrieking, five furrows of chalk-white opening in one breath. When the gold light folded back into his knuckles, five parallel gouges stood faintly smoking on the old metal face.
 
 The registrar was on her feet. Teacher Wang was already crouched with his thumb in a furrow, pressing, and then — scholars — smelling it, like the stone was a letter in a difficult hand.
 
-"**Two cun**," he announced, thumb to knuckle, the way a man measures a fish. "Two clear cun of soul-steel face. One strike. A Grandmaster of the twenty-third rank." He straightened up. "Registrar. Your brush is dry."
+"**Two cun**," he announced, thumb to knuckle, like a man measuring a fish. "Two clear cun of soul-steel face. One strike. A Grandmaster of the twenty-third rank." He straightened up. "Registrar. Your brush is dry."
 
 "Approved," said the registrar faintly, dipping it at last. "Freshman dossier, class assignment at dawn. Certification and dossier fee — **two gold soul coins**."
 
@@ -159,7 +159,7 @@ He was gone back into the shade before Jin Yang could thank him.
 
 The freshmen's dormitory stood on the second court's east flank — old stone, wax-polished floors, sunlight in the corridors. At the foot of the second-floor stairs an old man in grey was sweeping with the patience of a monk, white beard against the broom handle, no hurry in the universe.
 
-Jin Yang set down his pack and bowed — one worker's bow to another, the way his father bowed to estate stewards. "Good morning, Elder."
+Jin Yang set down his pack and bowed — one worker's bow to another — his father's bow to estate stewards. "Good morning, Elder."
 
 "Morning," said the broom, agreeably, and swept on.
 
