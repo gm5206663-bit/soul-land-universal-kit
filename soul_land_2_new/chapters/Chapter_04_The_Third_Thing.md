@@ -57,7 +57,7 @@ The teacher had one piece of news for Class 1 in the first theory block, and she
 
 **NINE HUNDRED + . . . . . HALF**
 
-"Three months from today, this academy holds the freshman assessment," she said, turning to read the result she already knew she'd find in ninety-one faces. "Across all classes: more than nine hundred of you. After the assessment: no more than half that. Nothing about that is new — it is Shrek's oldest arithmetic, older than some of your clans, and it has broken better houses than yours. Half the students in this room will not be students here next term." She set the chalk down, precisely, the way other people close coffins. "Now you are frightened *formally*. Good. Frightened students pay attention."
+"Three months from today, this academy holds the freshman assessment," she said, turning to read the result she already knew she'd find in ninety-one faces. "Across all classes: more than nine hundred of you. After the assessment: no more than half that. Nothing about that is new — it is Shrek's oldest arithmetic, older than some of your clans, and it has broken better houses than yours. Half the students in this room will not be students here next term." She set the chalk down, precisely, like a coffin lid on a good fit. "Now you are frightened *formally*. Good. Frightened students pay attention."
 
 The room's fear did come up, then — something like a low tide in the stomach, audible only in the shifting of benches. Deng Wu, on Jin Yang's left, had gone very still in what was becoming a recognizable fashion.
 
@@ -89,7 +89,7 @@ A courtyard's hands went up. The boy he glanced at — a city-academy candidate 
 
 "Nineteen days for a full set," said Jin Yang, who did not raise his hand, and had anyway the only voice at his bench to say the words with the weight of experience. "Nineteen hundred-swing heats of bread-price labor, three gold for six, fair-rate per the guild route." He could feel, somewhere distant in his chest, the workshop's sweet old ember-heat darken a shade.
 
-The instructor caught the weight with a craftsman's ear, and his eyes came down rows and found the small country boy in the cheap shirt at mid-bench, and rested there the way a hawk rests on a chimneypot. "You count like you've paid it, student. What's your name?"
+The instructor caught the weight with a craftsman's ear, and his eyes came down rows and found the small country boy in the cheap shirt at mid-bench, and rested there like a hawk on a chimneypot. "You count like you've paid it, student. What's your name?"
 
 "Jin Yang. I was a smith — grade three, White Birch guild."
 
@@ -97,13 +97,13 @@ The instructor caught the weight with a craftsman's ear, and his eyes came down 
 
 It was a tidy thing, well meant. But it had not touched the plate, which sat in the lamp-light like a very well-dressed stranger who had moved into your childhood home.
 
-Deng Wu leaned over, cheerful and wrong in the way only hill boys could be: "Brother, your face looks like a man who saw a grave."
+Deng Wu leaned over, cheerful and wrong in as only hill boys could be: "Brother, your face looks like a man who saw a grave."
 
 "It looks like a *price*, child," said Qiu Yuan product-reviewingly, on the other side.
 
 "It looks like both," said Jin Yang, and closed his book over the table with the care of a man adjusting a load.
 
-*Third thing I know, brother,* something in his chest said to the plate, to the lamplight — the third thing being, after counting and stance: *that everything the world can't hear eventually answers to hands that can.* He filed it without heat, because a forge's keeper knows what to do with an ember: bank it, carry it, and don't waste it on the cold.
+*Third thing I know, brother,* something in his chest said to the plate and the lamplight. *After counting and stance, the third thing: everything the world cannot hear eventually answers to hands that can.* He filed it without heat, because a forge's keeper knows what to do with an ember: bank it, carry it, and don't waste it on the cold.
 
 That night he hammered at the dormitory window-bench until third bell, on a piece of scrap, until the piece of scrap told him the truth it had been shaped around. It wasn't about the blank, exactly. It was about who got to say what a smith was for.
 
@@ -125,15 +125,15 @@ The stew had gone luke at her elbow without her noticing, which was the year's f
 
 "He earned the room in front of my eyes, Fan Yu — that's worth more than a rating." She turned the page, and then another, and she stopped a third time, and that pause was a different animal altogether.
 
-The fifth file on the stack, the one her predecessor at the tents had annotated in the margin in a theory-teacher's meticulous hand — *Wang's note: strike two cun into steelface. Purple second. "Priced my life into the hunts. Won't sell the pricing."* — had nothing in it that should have stopped the reader cold. The boy's numbers were open as day, right there on the paper: eleven winters, rank twenty-three, a smith's boy from White Birch with a forehead like a plough horse's patience. No intrigue. Except that the number was wrong. In the way a smith's hammer lying on a felt-lit room floor is wrong.
+The fifth file on the stack, the one her predecessor at the tents had annotated in the margin in a theory-teacher's meticulous hand — *Wang's note: strike two cun into steelface. Purple second. "Priced my life into the hunts. Won't sell the pricing."* — had nothing in it that should have stopped the reader cold. The boy's numbers were open as day, right there on the paper: eleven winters, rank twenty-three, a smith's boy from White Birch with a forehead like a plough horse's patience. No intrigue. Except that the number was wrong. Wrong like a smith's hammer lying on a parlor carpet.
 
 "Wife. What."
 
-She realized Fan Yu had come halfway across the room, reading her face the way some men read blued diagrams. She closed the file, a little later than natural, the way women of very few weaknesses shut one.
+She realized Fan Yu had come halfway across the room, reading her face like men with blued diagrams. She closed the file, a little later than natural, as women of very few weaknesses shut one.
 
 "Eleven years old, ring two at the thousand-tier — impossible arithmetic. He's not bragging about it. He runs mid-pack with two friends and the lantern on his desk at night doing *workman's quizzes* in my class. All his exercises in at first bell, all scored low-ordinary, by a hand that cannot be ordinary. I watched him sit down with the fallen in the run — could've finished ahead of the prince. He's *investing* where he spends, Fan Yu. A boy of eleven, from a farm. Your presses are ready to explain away every genius except the ones who hold their fire. And what this class teacher does about such a boy—" She turned the file facedown, and the iron in her went where other people keep smiles. "—she will decide by winter. He is the kind of blade you do not draw until you know the sheath."
 
-"And that's what it is? The genius in a file." Her husband finished drying his hands, unimpressed in the way only wedding physics gets you to be. "You've found three in twenty years, and two of them tired you. Leave the boy his night-lamp, Wife. Let the blade be still, for once, hmm? The year is long; some of these children — " he picked up the cold stew and tasted it without complaint, resolute and forgiving — "some of them are homes in themselves. There is time to learn the boy before we teach the boy."
+"And that's what it is? The genius in a file." Her husband finished drying his hands, unimpressed as only wedding physics gets you to be. "You've found three in twenty years, and two of them tired you. Leave the boy his night-lamp, Wife. Let the blade be still, for once. The year is long." He picked up the cold stew and tasted it without complaint, resolute and forgiving. "Some of these children are homes in themselves. There is time to learn the boy before we teach the boy."
 
 "Fan Yu," said the monster of the freshmen, in the tone of a woman very much used to being right about such things, "this one is a smith that got folded somehow into a hands-and-back strongest-lion shape, and I will find out *where the heat goes*."
 
@@ -157,7 +157,7 @@ He delivered it over the treaty-page that night with the paper folded twice like
 
 "Everyone's people come from better than they presently are — and it is *cattle law* in the hills, the ox told us so himself," and that was so exactly the running room-argument of the whole first week that the lamp had to be pinched before it shook, because the settled treaty's unwritten rule-zero was: *no laughing at the signatory*.
 
-On Saturday, the whole wing had the stillness that came to Shrek's children when the week's boot-tread was let off for half a day — the muscles praising, the tongues conferring. Deng Wu slept against their corridor wall at the second bell with the unsubmission of a man holding a fort. Huo Yuhao and Wang Dong jogged their extra laps under the still sky, the way worth establishes itself in persons too young to name it yet. At the fourth bell, a rolled paper clapped down under Room 105's door, standard-issue ink —
+On Saturday, the whole wing had the quiet that came to Shrek's children when the week's boot-tread was let off for half a day — the muscles praising, the tongues conferring. Deng Wu slept against their corridor wall at the second bell with the unsubmission of a man holding a fort. Huo Yuhao and Wang Dong jogged their extra laps under the still sky, how worth establishes itself in persons too young to name it yet. At the fourth bell, a rolled paper clapped down under Room 105's door, standard-issue ink —
 
 **MONDAY, FIRST BELL: COMBAT BASICS. BRING SOUL, LEAVE PRIDE.**
 
