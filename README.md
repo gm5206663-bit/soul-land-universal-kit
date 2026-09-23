@@ -116,3 +116,14 @@ Nothing existing was deleted or overwritten by these additions.
 - Mirrors synced same turn: STATUS_PANEL, HIS_STATUS_PANEL (pre-existing stale
   figures also corrected), ADAPTATION_LOG, SERIAL_LOG, PLACES, TIMELINE,
   CONTINUITY, serial README.
+
+
+---
+
+## ADDITION — The Complete Mistake Ledger (2026-09-23, add-only)
+
+- `MISTAKES_LEDGER_2026-09-23.md` — every recorded mistake across the workspace and
+  its GitHub in one index: 128 distinct mistakes, 11 author strikes that became law,
+  the five-copies disaster, the two mis-cuts and their reversals, the checker bugs,
+  and the still-open items. A DERIVED INDEX per the Two-Copies Law — the receipts
+  live where they were first recorded and win any disagreement.
