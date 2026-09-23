@@ -1,5 +1,5 @@
 # HIS STATUS PANEL — clean sheet
-Live after Chapter 18 (DL 3667 — the men's thread closed: the watch struck, the line walked home, no fire came up the country again; the whole country is his, and nothing in it hunts him in return).
+Live after Chapter 19 "The North Road" (DL 3673 — six quiet years summarized: the men's marks taken back by the country, the packs and the map of habit, the pale beast's roar gone out of the south; the north road begun — the birdless hollow, the river-road, the far standing light, the pull nearer by exactly the road walked).
 DERIVED SHEET — mirrors foundation/STATUS_PANEL.md (the single status source,
 per kit 02) and ADAPTATION_LOG; updated each chapter. If this sheet and
 STATUS_PANEL ever disagree, STATUS_PANEL is right and this sheet is stale.
@@ -18,14 +18,19 @@ marked [design] and belong to the author to correct.
   every devouring (DS-10 the bloodline path).
 - Kin: NONE — the only egg (DS-09); kinless from the first breath.
 - Born: late summer DL 3661 — 1,000 years after Soul Land 1.
-- Real age now: ≈ 60–62 months.
-- Territory now: a new hollow in the DEEP COUNTRY (past the Black-Ravine Serpent's
-  ground); before: ravine den (outer forest) ← roots-house ← scree hollow.
+- Real age now: ≈ 162–170 months (six quiet years added in ch19; the panel's
+  OPEN hatch-year reconciliation stands).
+- Territory now: THE RAVINE DEN KEPT (outer forest; slept in the night before the
+  road) + the low country his + THE NORTH ROAD BEGUN (ch19: two days of new
+  country, the ridge of the first far view, the birdless hollow skirted, the
+  river-road given its whole hollow, the root-hollow night camp); before: the
+  new hollow past the Black-Ravine Serpent's ground ← roots-house ← scree hollow.
 
 ## 2. CULTIVATION
 - Tier: HUNDRED-YEAR CLASS (yellow-ring tier, 100–999 cultivation-yrs).
-- Cultivation-age estimate: ≈ 180–195 years (no clock — estimates move with
-  events; s7 ruling).
+- Cultivation-age estimate: ≈ 295–320 years (no clock — estimates move with
+  events; s7 ruling; ch19 substrate: the six quiet years' steady feeding +
+  two long sleeps, no leaps).
 - First barrier (cultivation-year 100): CROSSED — the second winter's long
   storm; event-shaped; written against master §29.
 - Ring of him if killed now: YELLOW (hundred-year class) — real worth to a

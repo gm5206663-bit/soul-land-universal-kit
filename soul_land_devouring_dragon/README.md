@@ -15,7 +15,7 @@ Authority order: author word > NO_MISTAKE_LIVE_RULES > FOUNDATION/CANON_LEDGER
   HIS_STATUS_PANEL (DERIVED clean sheet — author-facing)
 - codex/ — CREATURES, TIMELINE, PLACES, CHARACTERS, GLOSSARY,
   KNOWLEDGE_FIREWALLS
-- chapters/ — Chapter_01 … Chapter_18
+- chapters/ — Chapter_01 … Chapter_19
 - tools/measure_prose.py — the corrected prose measure (s43), used for every
   chapter footer
 
@@ -27,13 +27,17 @@ READ FIRST, in order:
 4. foundation/CONTINUITY.md — anchor table + forward references
 5. the last two chapters
 6. foundation/SERIAL_LOG.md — last three entries only
-LIVE EDGE: Chapter 18 — The Dry Country (DL 3667; the men's thread CLOSED — the
-watch struck and the line walked home; the country is his)
-NEXT BEAT: Chapter 19 — THE YEARS ON HIS BORDER, under the PACING LAW (s44) and
-the PANEL LAW RE-BOUND (s45): the seasons after the men told by summary where
-they repeat and by scene where they turn; the deep forest's edge and the pull
-growing; ONE anchored event where something is genuinely new, on the author's
-go. Author's fresh go required.
+LIVE EDGE: Chapter 19 — The North Road (DL 3673; the quiet years told as
+time-skip summary; the pale beast silent; the north road begun — the birdless
+hollow, the river-road, the far standing light, the pull nearer by exactly the
+road walked)
+NEXT BEAT: Chapter 20 — THE ROAD ITSELF, under the PACING LAW (s44): the deep
+forest's distances told by summary where the years repeat and by scene where
+they turn; the pull north walked, not leapt; overlord distance held (gravity,
+never cast); the barrier at cultivation-year 1,000 far and unfelt; panels only
+when needed (s45). Standing delegation recorded s46 (author, 2026-09-23:
+"Now work on my projects, I don't know anything just do everything I trust
+you").
 RULINGS IN FORCE (2026-09-18, session 27): the year-takers carry faces,
 names and dialogue in the parallel panel (the dragon never hears; firewall
 stands); DD chapter footers KEPT (registered exception to kit 07 §3); the

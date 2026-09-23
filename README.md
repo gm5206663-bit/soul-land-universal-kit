@@ -1,7 +1,7 @@
 # ═══ WORKSPACE MAP — read this first ═══
 **Every future chat/agent: the truth lives in exactly these places. Anything in `_archive/` is superseded — never read it as current.**
 
-🔴 **LIVE BUILD as of 2026-09-21:** `soul_land_devouring_dragon/` — the devouring-dragon serial (14 chapters, plain-language prose, all gates PASS). Start at its `HANDOFF.md`; laws in its `foundation/RAILS.md`; live edge in its `foundation/STATUS_PANEL.md`. See the 2026-09-21 addition at the end of this file.
+🔴 **LIVE BUILD:** `soul_land_devouring_dragon/` — the devouring-dragon serial (19 chapters, plain-language prose, all gates PASS; ch 19 *The North Road* shipped 2026-09-23 under the author's standing delegation). Start at its `HANDOFF.md`; laws in its `foundation/RAILS.md`; live edge in its `foundation/STATUS_PANEL.md`. See the 2026-09-21 addition at the end of this file.
 
 ## Authoritative trees (write here, read here)
 
@@ -80,7 +80,7 @@ Nothing existing was deleted or overwritten. See
 
 Nothing existing was deleted or overwritten by these additions.
 
-- **`soul_land_devouring_dragon/`** — the Soul Land **devouring-dragon serial** (14 chapters; plain words after the s40 PLAIN LANGUAGE LAW; every chapter passes `SOUL_LAND_WORKSPACE/kit/tools/verify.py`). This is the newest live build in the repository. Read order: `soul_land_devouring_dragon/HANDOFF.md` → `foundation/STATUS_PANEL.md` (live edge) → `foundation/RAILS.md` (laws of record).
+- **`soul_land_devouring_dragon/`** — the Soul Land **devouring-dragon serial** (19 chapters; plain words after the s40 PLAIN LANGUAGE LAW; every chapter passes `SOUL_LAND_WORKSPACE/kit/tools/verify.py`; the first s44 time-skip chapter shipped 2026-09-23). This is the newest live build in the repository. Read order: `soul_land_devouring_dragon/HANDOFF.md` → `foundation/STATUS_PANEL.md` (live edge) → `foundation/RAILS.md` (laws of record).
 - **Housekeeping, 2026-09-21 (every deletion receipted):** scratch scripts, same-directory duplicates and one redundant export were retired; the three unique files in it were kept in `_archive/2026-09-18_perfect_export_kept/`. Full receipt list: `HOUSEKEEPING_2026-09-21.md`. No project content was edited by the housekeeping pass.
 
 ---
@@ -94,3 +94,25 @@ Nothing existing was deleted or overwritten by these additions.
 - Profile README repository created: [`gm5206663-bit/gm5206663-bit`](https://github.com/gm5206663-bit/gm5206663-bit).
 - Sister repo `soul-land-projects` — which held byte-identical copies of `SARA.md`, `SOUL_LAND_NEW/`, `blue_silver/`, `soul_land_starter/`, and `SOUL_LAND_UNIVERSAL_KIT/` — was **archived read-only** this date (nothing deleted; this repository is the single live public workspace). It remains browsable at https://github.com/gm5206663-bit/soul-land-projects
 - Rename: `the-universal-storyline-creation-` → `the-universal-storyline-creation` (trailing dash removed; the old URL 301-redirects).
+
+
+---
+
+## ADDITION — Chapter 19, The North Road (2026-09-23, add-only)
+
+Nothing existing was deleted or overwritten by these additions.
+
+- `soul_land_devouring_dragon/chapters/Chapter_19_The_North_Road.md` — CHAPTER 19
+  "The North Road", written and gated under the author's standing delegation this
+  session (verbatim: "Now work on my projects, I don't know anything just do
+  everything I trust you"). The first s44 PACING-LAW chapter: six quiet years told
+  as time-skip summary — the packs and the map of habit, the country taking the
+  men's marks back, the two long sleeps, the pale beast's silence — and the north
+  road begun (the birdless hollow, the river-road, the far standing light).
+  2,000 words; PANEL: NONE; all gates PASS; sweep PASS 19/19.
+- `soul_land_devouring_dragon/HANDOFF.md` created as a pointer stub (the read
+  order's missing first step; the handoff itself stays in the serial README —
+  Two-Copies Law).
+- Mirrors synced same turn: STATUS_PANEL, HIS_STATUS_PANEL (pre-existing stale
+  figures also corrected), ADAPTATION_LOG, SERIAL_LOG, PLACES, TIMELINE,
+  CONTINUITY, serial README.

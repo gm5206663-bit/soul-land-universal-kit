@@ -790,3 +790,25 @@ body). The Talent is never named; deltas record its RESULTS.
   ESTIMATE ≈ 215–225. Next barrier at cultivation-year 1,000 — far, unfelt.
   No leaps. PACING (s44): from here sameness is skipped; the road to the barrier
   is told by time-skip summary.
+
+
+- s46 (2026-09-23) — CHAPTER 19 "THE NORTH ROAD" written and gated under the
+  author's standing delegation this session (verbatim: "Now work on my
+  projects, I don't know anything just do everything I trust you"). The s44
+  pacing law applied for the first time: six quiet years told as time-skip
+  summary, scenes only where genuinely new — the winter pack and the map of
+  habit (the noise the new writing; the meat left; kills never twice in a
+  year; the bank given up), the two long sleeps (harder armor, a longer
+  shadow), the pale beast's silence (nothing known of the why), and the north
+  road's first walk (the birdless hollow; the river-road and the weight like
+  weather — overlord distance held; the far standing light; the pull nearer by
+  exactly the road walked).
+- Measured: 2,000w; zero spoken lines (PANEL: NONE); average 18.5; longest 60;
+  no retired words; zero count-numbers; sweep PASS 19/19.
+- Cultivation (panel; no clock, s7): REAL AGE ≈ 162–170 months;
+  CULTIVATION-AGE ESTIMATE ≈ 295–320 (substrate above; no leaps). The barrier
+  at 1,000 stays unfelt; the road to it is begun.
+- Mirrors synced same turn: STATUS_PANEL, HIS_STATUS_PANEL, ADAPTATION_LOG,
+  SERIAL_LOG, PLACES, TIMELINE, CONTINUITY, the root workspace README, and
+  the serial's new HANDOFF.md (the file the read order always pointed at,
+  created this session).

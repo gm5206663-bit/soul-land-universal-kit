@@ -2,6 +2,20 @@
 CLEAN GLANCEABLE SHEET OF HIM (identity, cultivation, body/height, attributes,
 skills, combat power vs normal soul beasts): bible/HIS_STATUS_PANEL.md
 (author s23 request; updated each chapter).
+Updated: 2026-09-23 (session 46 — CHAPTER 19 "The North Road" WRITTEN AND GATED
+under the author's standing delegation this session (verbatim: "Now work on my
+projects, I don't know anything just do everything I trust you"): the first
+s44 PACING-LAW chapter — six quiet years told as time-skip summary (the packs
+and the map of habit: the winter pack at the bank kill, their noise the new
+writing, the meat left, the bank given up, kills never twice in a year; the
+two long sleeps of the hard deep snows — harder armor, a longer shadow), THE
+PALE BEAST SILENT (the sixth wet spring; the roar did not come; nothing known
+of the why), and THE NORTH ROAD BEGUN (the last walk of the low country; the
+ravine den slept in and kept; the forest from paths to distances; the birdless
+hollow and the river-road of something his blood does not press on — overlord
+distance held, gravity never cast; the far standing light; the pull nearer by
+exactly the road walked). 2,000w; zero spoken lines (PANEL: NONE); average
+18.5, longest 60; no retired words; zero count-numbers; sweep PASS 19/19.)
 Updated: 2026-09-21 (session 45 — THE AUTHOR'S PANEL CORRECTION EXECUTED: " they are nothing, there are nothing to do, oc is soul' beast not human, multiple panel when needed not necessary , no human remind on Forest to die like what you think whom stroy we writeing " — CHAPTERS 15-18 REBUILT as pure beast chapters (no panels, no voices; the men reach the page only as ground he reads) and THE KEEPER'S THREAD CLOSED: the watch struck at the end of the dry, the men walked home, no fire came up the country again. Measured before the fix: ch15 60% men, ch16 46%, ch17 64%, ch18 87%; after: 0% panels in all four. verify.py gate 4 amended (panel declaration in the footer governs voices) and ch1 given its auditable "PANEL: NONE" line. New counts: ch15 2,229w, ch16 2,319w, ch17 2,250w, ch18 2,360w; all gates PASS; sweep PASS (18/18 footers).)
 Session 44 — CHAPTER 18 "Two Lines" WRITTEN AND GATED: 2,867w / 49 spoken lines (17.1 per 1000w) / average 18.0 / longest 60; the low water watch delivered — the draw-down, the hound's nights, THE KILL WITH NO TRACKS, and Old Qin's ruling that gives the paper its TWO LINES; every mirror synced same turn. SESSION 44 ALSO BOUND THE AUTHOR'S PACING WORD INTO LAW: "don't make too much boring, skip when thing is same, skip when he reaches thousand years old with summary of time skip" → RAILS PACING LAW (sameness skipped; the road to cultivation-year 1,000 told by time-skip summary, never ground out); the panel's next-beats now carry the pacing state).
 Session 43 — CHAPTER 17 "The Long Wet" WRITTEN AND GATED: 2,967w / 50 spoken lines (16.9 per 1000w) / average 17.4 / longest 57; no sentence over 60; the watch by the pan delivered — the wet, the rain's hours, the wire's catch, Old Qin's ruling, and the low water watch set for the summer; every mirror synced same turn). SESSION 43 ALSO FOUND AND FIXED A MEASURE BUG: the old one-sentence-paragraph check could never fire, and footers s37–s42 claimed "no one-sentence paragraphs" while the serial carries short one-line beat paragraphs as house style — ruling recorded, wording corrected in place in RAILS, the panels, the logs (bracketed) and every footer; tools/measure_prose.py added as the corrected measure.
@@ -35,40 +49,48 @@ numbers.
 - Serial scope; natural length; NATURAL ENDING (none pre-chosen).
 
 ## Now
-LIVE EDGE: after Chapter 18 "The Dry Country" (DL 3667, the end of the dry and the
-seasons after it; real age ≈ 90–95 months). THE MEN'S THREAD IS CLOSED: the
-keepers' line kept its watch at the main pool through the dry (read by him from
-the rim: the wire, the fire, the hound), and at the end of the season the camp
-was struck for the last time and the men walked home down the south trail with
-heavy packs; no fire came up the country all autumn, the winter, or the spring
-after. THE COUNTRY IS HIS: the whole low country walked in six slow days at the
-edges; the low trail with no boots on it; the high ground with its pan and its
-four stones left to the grass and the crows. THE HOUND'S LAST WORD (unfinished,
-carried away): all season she stood pointed up the water at a smell that was
-not there — his smell, two summers old, held in her nose and never once made
-into a thing a man could see; she was old, and she went home with it. THE
-DRAGON'S STATE: his drinking moved to the runs and the rock bars; his kills
-taken standing in the current; the long way kept; prints off the page for a
-year and a half of seasons and counting. THE PALE BEAST sits on its own ground
-somewhere south with the roar unreturned. THE DEEP FOREST NORTH, UNCHANGED: the
-pull under the great beasts the same as it has been since his first summer. THE
-WALL at cultivation-year 1,000: far, unfelt. PACING (s44 law): sameness is
-skipped; the road from here to the barrier is told by time-skip summary, with
-scenes kept only where something is genuinely new. PANEL LAW (s45): panels
-only when needed — default none; the story is the beast's. Talent never named;
-no leaps.
+LIVE EDGE: after Chapter 19 "The North Road" (DL 3673 — the north road's first
+walk; real age ≈ 162–170 months). THE QUIET YEARS (ch19, s44 time-skip
+summary): the country spent six years taking the men's marks back — the south
+trail grassed to a seam of darker green, two of the four stones fell in a hard
+winter, the wire rusted to stains that fed the grass; no smoke ever came up
+the country again. THE PACKS AND THE MAP OF HABIT: a starving winter pack,
+held off by his presence at the bank kill, cried at the fern's edge all night
+— the noise the new writing (the ground no longer wrote him; the air did, in
+their voices); the meat left to buy the quiet back; the lesson lawed: kills
+never twice in a year, the bank given up and healed to ordinary bank. The
+packs yielded sooner every winter until the last only sang from a far ridge;
+the slow kind knew him without seeing him. THE LONG SLEEPS: twice in the
+quiet years the hard deep snows brought the long sleep — each waking to a
+thaw with harder armor and a longer shadow on the water (the years' only sign
+of themselves). THE PALE BEAST SILENT: from the sixth wet spring its roar did
+not come again — all his life before that it came in the wet; nothing known
+of the why (not pre-decided); its ground its own, never crossed. THE RAVINE
+DEN KEPT — slept in the night before the road; a road is not a leaving. THE
+NORTH ROAD BEGUN: past the den, two days of country only ever smelled; the
+ridge where the north showed no far side to it (the owned country the small
+thing on the edge of the map); the birdless hollow; the river-road of
+something his blood does not press on — its weight settling like weather, the
+road given its whole hollow, overlord distance held (gravity, never cast); a
+far standing light seen once by night, gone by morning; THE PULL nearer by
+exactly the road walked — no calling, no leap. THE DEEP FOREST NORTH
+otherwise unchanged. THE BARRIER at cultivation-year 1,000: far, unfelt.
+PACING (s44 law): the road is begun; the years between are told by time-skip
+summary, scenes only where genuinely new; the barrier arrives at the end of
+such a summary. PANEL LAW (s45): panels only when needed — default none; the
+story is the beast's. Talent never named; no leaps.
 
 ## Exact figures (panel law)
-- REAL AGE: ≈ 90–95 months (hatched late summer DL 3661; through DL 3663,
+- REAL AGE: ≈ 162–170 months (hatched late summer DL 3661; through DL 3663,
   DL 3664, the second winter, the thaw, the summer of DL 3665, the wet and dry
-  of DL 3666, and the seasons after the men left in DL 3667. OPEN: the stated
+  of DL 3666, and the seasons after the men left in DL 3667, and the six quiet years of DL 3667–3673 told as time-skip in ch19. OPEN: the stated
   hatch year and this month-count do not reconcile — see foundation/OPEN.md,
   "PANEL FIGURE" entry; the increments are the panel's law until the author
   rules).
-- CULTIVATION-AGE (SB-01 — NOT the same as real age): ESTIMATE ≈ 215–225
+- CULTIVATION-AGE (SB-01 — NOT the same as real age): ESTIMATE ≈ 295–320
   years — HUNDRED-YEAR CLASS; the drawn-water kills, the flood's gift and the
   years after the men left moved it; the lean wet weeks held it back some; the
-  aimed word's spend (ch14) is not a gain. FIRST BARRIER
+  aimed word's spend (ch14) is not a gain. ch19 SUBSTRATE (s46): the estimate moved by the six quiet years' steady feeding (the thaw's grazers every spring, the flood gifts in the wet, the drawn-water kills in the dry) and the two long sleeps' conversions; held honest by the twin law — no blood-price tests fell in the quiet years, so no leaps. FIRST BARRIER
   at cultivation-year 100: CROSSED. Next barrier at cultivation-year 1,000
   (SB-03), unaged, unfelt. NO clock (s7); estimates move with events. No
   leaps. (The duplicated tail this line carried since s34 was removed s41.)
@@ -130,7 +152,11 @@ no leaps.
   walked only at the edges; the flats dry again by the close) → THE RUNS OF
   THE DRY (ch18 — his summer water: the fast water at the head of each pool
   chain, drunk in the dark, clean of prints; the still pools and their long
-  soft edges left to the watched country).
+  soft edges left to the watched country) → THE NORTH ROAD BEGUN (ch19 — the road's
+  first walk: past the ravine den, two days of new country, the ridge with no
+  far side to the north, the birdless hollow skirted, the river-road given its
+  whole hollow, the root-hollow night camp; the den kept; the low country left
+  standing).
 
 - Ring-of-himself if killed now (SB-06): a YELLOW ring of hundred-year class
   — real worth to a hunter now; his worth to them grows with his years.

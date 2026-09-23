@@ -31,3 +31,9 @@ Law: a place gets its row when the story touches it.
 | The rock bars | the crossings on the upper streams where water runs over stone — his way over since he stopped printing (ch16) | [design, on page] |
 | The flooded low country | the spring flood of DL 3666 — the streams over their banks and the flats one brown sheet (ch17); he walks only its edges; dry again by the close, when the flats come out | [design, on page] |
 | The ravine den | high rock in the outer forest with the stream past the mouth — his wet ground while the low country was under water (ch17) | [design, on page] |
+
+| The ridge of the first far view | the second evening's ridge north of the ravine den — the forest going north past all seeing, the mountains east with snow on their shoulders; from it the owned country is the small thing on the edge of the map (ch19) | [design, on page] |
+| The birdless hollow | the deep forest's first word: a whole hollow of country with no birds and no small beasts, the wind in the high trees and nothing moving under them; the ground of something enormous (ch19) | [design, on page] |
+| The river-road | a path the width of a river pressed through the birdless hollow and beaten to bare clay, wider than any feet he knows; its smell deep water and old smoke together, and fresh; skirted whole — the road given its hollow (ch19) | [design, on page] |
+| The root-hollow camp | the north road's first night camp, far from the river-road; from it the far standing light was seen once by night, and gone by morning (ch19) | [design, on page] |
+| The north road | the road begun ch19: past the ravine den (kept), two days of country only ever smelled, the ridge, the birdless hollow skirted, his own line held north; the day's work now (ch19) | [design, on page] |
