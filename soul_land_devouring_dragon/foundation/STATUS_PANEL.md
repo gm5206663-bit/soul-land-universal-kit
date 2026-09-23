@@ -12,7 +12,7 @@ author: "Why don't you check manhua" — checked: Episode-001 beat breakdown;
 lens in RAILS: open every scene in motion; beats are panels; world-notes are
 intervals; one-line rules mid-action; scenes end on visible turns; loud where
 it counts — manhua pacing + the novel's explaining narrator, which STAYS).
-Ch 7 "The Sense of Years" 2,973w/17.2/57, the first chapter written under
+Ch 7 "The Sense of Years" 2,974w/17.1/57, the first chapter written under
 both laws, shipped and site-synced. Next: Ch 8 "The Deep Country", Ch 9; audio
 re-records after the last chapter. Chapters 8–24 still carry the old voice.)
 

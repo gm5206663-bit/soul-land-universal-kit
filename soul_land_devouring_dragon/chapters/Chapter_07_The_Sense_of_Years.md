@@ -152,7 +152,7 @@ He drove the post. The sound went up the slope to where the dragon lay in the hi
 
 ## Footer
 
-- Word count (body): 2,973 (measure_prose, s43; floor 2000, s45). Spoken dialogue: 30 lines (10.1 per 1000w — the line-builders' panel).
+- Word count (body): 2,974 (measure_prose, s43; floor 2000, s45). Spoken dialogue: 30 lines (10.1 per 1000w — the line-builders' panel).
 - Prose metrics (measure_prose): average 17.2w, median 16w, longest 57w; no sentence over 60w; retired words zero (full s40 list + literal 'the count' swept); the-way tic two (at the cap); zero count-numbers in prose; zero digits in body.
 - Chapter time: DL 3663 — the winter after the crossing into the spring (exact figures panel-only).
 - PANEL (one scene, pre-s45 and standing as canon content — s53/s54 change telling only): the new line in the east — the line here and at the second spring, the fence and the wire off the old water line, the granduncle's nine-year-old sign, the boy on the north ridge, the hound lying with its head toward the north. The dragon reads them from the high grass and never goes near (firewall stands).
