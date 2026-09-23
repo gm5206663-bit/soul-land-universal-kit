@@ -16,11 +16,13 @@ Ch 7 "The Sense of Years" 2,974w/17.1/57, first under both laws. LENS
 DEEPENED the same session (the full Episode-001 beat page pulled: action as
 call-and-response, named move vs named move with a reaction beat; the biggest
 panel first) — receipts in RAILS. Ch 8 "The Deep Country" 3,308w/17.5/55
-written under the deepened lens (the wallow fight call-and-response beat by
-beat; the serpent's attention the slow panel; opens in motion at the stream
-bend). Both shipped and site-synced. Next: Ch 9 "The Keeping Earned", then Ch
-10–12; audio re-records after the last chapter. Chapters 9–24 still carry the
-old voice.)
+(under the deepened lens). Ch 9 "The Keeping Earned" 3,400w/17.4/49 at the
+season ceiling (reason in footer) — the craft, the decoy, the voice's two
+lessons, the ledge hunt whole, the greatness, the red thing saved by the
+voice; a doubled-sentence copy defect in the old edition found and removed.
+All shipped and site-synced. Next: Ch 10 "The Cold Country", then 11–12;
+audio re-records after the last chapter. Chapters 10–24 still carry the old
+voice.)
 
 Updated: 2026-09-23 (session 53 — AUTHOR STYLE STRIKE #3, verbatim: "Still very
 bad writing style, actually go see how soul land canon acutely written."
