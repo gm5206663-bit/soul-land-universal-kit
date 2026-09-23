@@ -82,3 +82,15 @@ Nothing existing was deleted or overwritten by these additions.
 
 - **`soul_land_devouring_dragon/`** — the Soul Land **devouring-dragon serial** (14 chapters; plain words after the s40 PLAIN LANGUAGE LAW; every chapter passes `SOUL_LAND_WORKSPACE/kit/tools/verify.py`). This is the newest live build in the repository. Read order: `soul_land_devouring_dragon/HANDOFF.md` → `foundation/STATUS_PANEL.md` (live edge) → `foundation/RAILS.md` (laws of record).
 - **Housekeeping, 2026-09-21 (every deletion receipted):** scratch scripts, same-directory duplicates and one redundant export were retired; the three unique files in it were kept in `_archive/2026-09-18_perfect_export_kept/`. Full receipt list: `HOUSEKEEPING_2026-09-21.md`. No project content was edited by the housekeeping pass.
+
+---
+
+## ADDITION — LICENSE, NOTICE & workspace housekeeping (2026-09-23, add-only)
+
+Nothing existing was deleted or overwritten by these additions.
+
+- `LICENSE` (MIT) added for the **code** in this repository — tools, checkers, scripts.
+- `NOTICE.md` added: Soul Land (斗罗大陆) belongs to Tang Jia San Shao (唐家三少); everything here is non-commercial derivative fan work. Prose stays read-only; code is MIT.
+- Profile README repository created: [`gm5206663-bit/gm5206663-bit`](https://github.com/gm5206663-bit/gm5206663-bit).
+- Sister repo `soul-land-projects` — which held byte-identical copies of `SARA.md`, `SOUL_LAND_NEW/`, `blue_silver/`, `soul_land_starter/`, and `SOUL_LAND_UNIVERSAL_KIT/` — was **archived read-only** this date (nothing deleted; this repository is the single live public workspace). It remains browsable at https://github.com/gm5206663-bit/soul-land-projects
+- Rename: `the-universal-storyline-creation-` → `the-universal-storyline-creation` (trailing dash removed; the old URL 301-redirects).
