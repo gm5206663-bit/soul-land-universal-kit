@@ -143,3 +143,23 @@ Nothing existing was deleted or overwritten by these additions.
   found — the road's first true obstacle, under watch from the high seat.
   2,126 words; PANEL: NONE; all gates PASS; sweep PASS 20/20. Mirrors synced
   same turn.
+
+
+---
+
+## ADDITION — Soul Library, Blue Silver Book One release, revival queues (2026-09-23, add-only)
+
+Nothing existing was deleted or overwritten by these additions.
+
+- **THE SOUL LIBRARY is live**: https://gm5206663-bit.github.io/soul-library/ — five serials
+  published as one reading site (181 chapters, 766K+ words of chapter text measured from disk).
+  New repo `gm5206663-bit/soul-library`; chapter text copied unchanged; the workspace remains
+  the source of truth.
+- **Blue Silver — Book One v1.0 released**: tag `blue-silver-book-one-v1.0` on this repo, with
+  the complete Book One as an EPUB 3 (`blue_silver_book_one.epub`) + the live chapter archive.
+  `blue_silver/BOOK_TWO_OPTIONS.md` queues the Book Two ruling (three premises, canon-load-bearing).
+- **REVIVAL QUEUES**: `Soul_Land_2_Project/REVIVAL_QUEUE_2026-09-23.md` (paused at ch24; the
+  multi-panel law's home serial) and `soul_land_holy_spirit/REVIVAL_QUEUE_2026-09-23.md`
+  (paused at ch4; the cult arc barely opened). Both parked with engines warm.
+- Control Centre state refreshed same date: four serials registered, the stale SL4 edge fixed
+  (Ch31 -> Ch52), rebuilt via its own pipeline (selftest 102/102).
