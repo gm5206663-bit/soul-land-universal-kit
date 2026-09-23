@@ -15,7 +15,7 @@ Authority order: author word > NO_MISTAKE_LIVE_RULES > FOUNDATION/CANON_LEDGER
   HIS_STATUS_PANEL (DERIVED clean sheet — author-facing)
 - codex/ — CREATURES, TIMELINE, PLACES, CHARACTERS, GLOSSARY,
   KNOWLEDGE_FIREWALLS
-- chapters/ — Chapter_01 … Chapter_20
+- chapters/ — Chapter_01 … Chapter_21
 - tools/measure_prose.py — the corrected prose measure (s43), used for every
   chapter footer
 
@@ -27,16 +27,16 @@ READ FIRST, in order:
 4. foundation/CONTINUITY.md — anchor table + forward references
 5. the last two chapters
 6. foundation/SERIAL_LOG.md — last three entries only
-LIVE EDGE: Chapter 20 — The Road Itself (DL 3676; the road's first three
-years — the reversal, the first deep meal, the hunted week and the meat-tax;
-the pass country found, its held ground under watch from the high seat; the
-pull steady through the middle of it)
-NEXT BEAT: Chapter 21 — THE WATCH AND THE PASS, under the PACING LAW (s44):
-what the high seat teaches (the holder's habits, the edges' laws, the river's
-hours); the going-through only when earned by what the watch reads; overlord
-distance held (gravity, never cast; naming author-gated DS-06); the barrier at
-cultivation-year 1,000 far and unfelt; panels only when needed (s45). Standing
-delegation recorded s46, renewed s47 (author, 2026-09-23:
+LIVE EDGE: Chapter 21 — The Watch and the Pass (DL 3676–77; the pass crossed by
+the watch — inside the river at the south lip's bend; the reading: let go whole,
+beneath notice, not mercy; the road resumed north of the pass, in the deep
+forest proper)
+NEXT BEAT: Chapter 22 — THE DEEP FOREST PROPER, under the PACING LAW (s44): the
+new country read and walked (summary where the years repeat, scene where they
+turn); the pull north; overlord distance held (gravity, never cast; naming
+author-gated DS-06); the barrier at cultivation-year 1,000 far and unfelt;
+panels only when needed (s45). Standing delegation recorded s46, renewed s48
+(author, 2026-09-23:
 "Now work on my projects, I don't know anything just do everything I trust
 you").
 RULINGS IN FORCE (2026-09-18, session 27): the year-takers carry faces,

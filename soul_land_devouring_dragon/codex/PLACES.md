@@ -42,3 +42,7 @@ Law: a place gets its row when the story touches it.
 | The west ten days | the harder, colder country west of the road's line, where the whole line was moved for ten days to shake the hunter-kind off the rib's blood (ch20) | [design, on page] |
 | The pass | the road's first true obstacle: open grass and low wood for miles between two broken ranges, the river running north through the middle; no birds, no trails, the forest stopping at both lips; a weight in the ground, old and patient, LIVING there (overlord distance held; naming author-gated DS-06) (ch20) | [design, on page] |
 | The high seat | the shelf of rock on the south range, off the pass's ground, with the whole pass in view — the watch camp; from it the herd's turning ground, the bird's leaving line, and the river's voice are marked (ch20) | [design, on page] |
+
+| The south lip's bend | where the river runs closest to the south range — the quick kinds' moonset crossing road, and his: the pass crossed here, inside the river, at the black of night (ch21) | [design, on page] |
+| The swept place | the middle of the pass, where the old grazer was taken in one fogged breath — the grass pressed flat in one long place and springing back; no crows ever came; ground that decides about you (ch21) | [design, on page] |
+| The north-of-the-pass country | the new ground beyond the pass: wet stone, rot-sweet, the deep forest's smell thicker than the border ever carried; the first meal taken listening (ch21) | [design, on page] |

@@ -1,5 +1,5 @@
 # HIS STATUS PANEL — clean sheet
-Live after Chapter 20 "The Road Itself" (DL 3676 — the road's first three years: the reversal, the first deep meal, the hunted week and the meat-tax; the pass country found and the watch begun from the high seat; the pull steady through the middle of the held ground).
+Live after Chapter 21 "The Watch and the Pass" (DL 3676–77 — the watch taught the pass's hours; the old grazer's taking showed the middle; the crossing went by the watch, inside the river; the weight READ him and let him go — beneath notice, not mercy; the road resumed north of the pass).
 DERIVED SHEET — mirrors foundation/STATUS_PANEL.md (the single status source,
 per kit 02) and ADAPTATION_LOG; updated each chapter. If this sheet and
 STATUS_PANEL ever disagree, STATUS_PANEL is right and this sheet is stale.
@@ -18,8 +18,8 @@ marked [design] and belong to the author to correct.
   every devouring (DS-10 the bloodline path).
 - Kin: NONE — the only egg (DS-09); kinless from the first breath.
 - Born: late summer DL 3661 — 1,000 years after Soul Land 1.
-- Real age now: ≈ 198–206 months (six quiet years in ch19 + three road years in
-  ch20; the panel's OPEN hatch-year reconciliation stands).
+- Real age now: ≈ 204–212 months (+ the watch and crossing, ch21; the panel's
+  OPEN hatch-year reconciliation stands).
 - Territory now: THE RAVINE DEN KEPT (outer forest; slept in the night before the
   road) + the low country his + THE NORTH ROAD (begun ch19; three years deep in ch20: the birdless hollow and
   the river-road skirted, the cliff-spring rock country, the west ten days, the
@@ -29,9 +29,8 @@ marked [design] and belong to the author to correct.
 
 ## 2. CULTIVATION
 - Tier: HUNDRED-YEAR CLASS (yellow-ring tier, 100–999 cultivation-yrs).
-- Cultivation-age estimate: ≈ 340–375 years (no clock — estimates move with
-  events; s7 ruling; ch20 substrate: one deep meal of heavy years against real
-  costs — the rib-tear, the near-drowning, the meat-tax; no leaps).
+- Cultivation-age estimate: ≈ 350–390 years (no clock; ch21 claims no gain — a
+  moon of watching and one crossing).
 - First barrier (cultivation-year 100): CROSSED — the second winter's long
   storm; event-shaped; written against master §29.
 - Ring of him if killed now: YELLOW (hundred-year class) — real worth to a

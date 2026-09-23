@@ -830,3 +830,18 @@ body). The Talent is never named; deltas record its RESULTS.
   at 1,000 stays unfelt; the pass is the road's first true turn.
 - Mirrors synced same turn: STATUS_PANEL, HIS_STATUS_PANEL, ADAPTATION_LOG,
   SERIAL_LOG, PLACES, TIMELINE, CONTINUITY, serial README, root README.
+
+
+- s48 (2026-09-23) — CHAPTER 21 "THE WATCH AND THE PASS" written and gated under
+  the standing delegation (the advanced plan). The pass's whole arc in one
+  chapter: the watch (hours, edges, the quick kinds' moonset road, the storm
+  night's closed road), the old grazer's taking (no crows — the pass keeps
+  everything), the crossing by the watch (inside the river; the reading — the
+  weight like a hand over stones; the red thing rising under it and carried out
+  by the walking; let go whole: beneath notice, not mercy), and the road resumed
+  north of the pass.
+- Measured: 2,017w; zero spoken lines (PANEL: NONE); average 18.7; longest 56;
+  no retired words; zero count-numbers; sweep PASS 21/21.
+- Mirrors synced same turn: STATUS_PANEL, HIS_STATUS_PANEL, ADAPTATION_LOG,
+  SERIAL_LOG, PLACES, TIMELINE, CONTINUITY, serial README, root README, the
+  Soul Library snapshot, the profile.

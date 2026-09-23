@@ -1593,3 +1593,13 @@ One entry per working session. Newest at the bottom.
   the lip, a weight LIVING in the ground (overlord distance held); the watch
   begun from the high seat. 2,126w; PANEL: NONE; all gates PASS; sweep PASS
   20/20. Mirrors synced same turn.
+
+
+- s48 (2026-09-23, delegated agent; the advanced plan): ch21 "The Watch and the
+  Pass" — the watch (the holder's sun-rounds; the edges' laws; the quick kinds'
+  moonset crossings; the storm night closing the road), the old grazer's taking
+  (one breath, no sound, no crows), the crossing inside the river at the south
+  lip's bend, THE READING (the pressure like a hand over stones; the red thing
+  risen and carried out; let go whole — beneath notice, not mercy), and the road
+  resumed north of the pass. 2,017w; PANEL: NONE; all gates PASS; sweep PASS
+  21/21. Mirrors synced same turn.
