@@ -10,10 +10,10 @@ author-approved by this bible's signing.
 
 | Card | Value |
 |---|---|
-| Father | **JIN GEN (金根)** `[design]` — millet farmer; repairs plough blades on a stone anvil that never held soul steel. Quiet; measures a man by whether he finishes a furrow |
-| Mother | **LIU MAN (柳蔓)** `[design]` — goose-keeper; reads ~a hundred characters, all from seed sacks. Author of the family law: *"A man who takes nothing makes helpers feel useless."* (answers: take one coin) |
+| Father | **JIN GEN (Jin Gen)** `[design]` — millet farmer; repairs plough blades on a stone anvil that never held soul steel. Quiet; measures a man by whether he finishes a furrow |
+| Mother | **LIU MAN (Liu Man)** `[design]` — goose-keeper; reads ~a hundred characters, all from seed sacks. Author of the family law: *"A man who takes nothing makes helpers feel useless."* (answers: take one coin) |
 | Siblings | none — only child |
-| Home | brookside stone cottage, Jinxi Village (四十 roofs, no gate); brook runs gold at evening |
+| Home | brookside stone cottage, Jinxi Village (forty roofs, no gate); brook runs gold at evening |
 | Born | **spring**, healthy, loud; midwife's only note: he stopped crying when the sun touched him |
 
 ## YEAR-BAND TABLE

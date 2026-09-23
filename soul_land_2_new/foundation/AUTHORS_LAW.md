@@ -109,3 +109,6 @@ author word.
    Asking permission to *follow* canon is itself a mistake; the machine does not do it again.
 4. When canon supplies a scene (e.g., Zhou Yi's first lesson), the hero lives **inside** it;
    his POV adds, the canon does not bend — save the signed law zones (L-05, L-06).
+5. **When canon runs a SYSTEM** — dorms, roommates, classes, schedules, fees — the hero is
+   processed by it exactly like everyone else. No private exceptions invented for the OC
+   (the author-flagged dormitory case, SERIAL_LOG 009).

@@ -1,5 +1,5 @@
 # STATUS PANEL — single-state truth
-Snapshot: **v6 (CH 2 SHIPPED)** · 2026-09-22 · chapters live: **2**
+Snapshot: **v7 (DORM RETROFIT + PROSE LAW ADOPTED)** · 2026-09-22 · chapters live: **2**
 Purpose: the whole living state of the hero and his world in one file. Rebuilt in full after
 every kill/rewrite. **If a number isn't here, it doesn't exist yet.**
 Registers follow the laws: skills per CANON SKILL LAW (L-08), attributes per GRAFT LAW (L-09),
@@ -7,7 +7,7 @@ coin per COIN & CRAFT LAW (L-10). No trait-poetry anywhere. Full history: JIN_YA
 
 ---
 
-## §1 HERO — JIN YANG (金阳) · identity card
+## §1 HERO — JIN YANG (Jin Yang) · identity card
 | Card | Value |
 |---|---|
 | Age | **11** (spring-born; gate morning = same morning as Huo Yuhao's entry) |
@@ -19,7 +19,7 @@ coin per COIN & CRAFT LAW (L-10). No trait-poetry anywhere. Full history: JIN_YA
 | Talent | **ADAPTATION** — womb-born (full register §2) |
 | Craft | **Blacksmith, guild-certified GRADE 3** (L-10; §7) |
 | Mentors | **Chu Shan**, Soul King r56 (cultivation) · **Master Gongshu Yan**, grade-6 smith (forge) `[design]` |
-| Where now | **Shrek enrolled** — dossier certified, badge Jia-105, dorm **Room 105** (ch 2) |
+| Where now | **Shrek enrolled** — dossier certified, badge Jia-105, dorm **Room 105** — **roommate Qiu Yuan** (canon two-person administrative pairing, L-11.5; ch 2 retrofitted) |
 | Purse | **29 gold, 4 silver** `[design]` (paid 2-gold dossier fee, ch 2) |
 
 ## §2 TALENT REGISTER — 11 years of ADAPTATION (what the womb gift has done)
@@ -114,7 +114,7 @@ Power-attack vanguard, his own synthesis (Chu's drilling × lion instinct × for
 - **METAL-RESONANCE SENSE** `[design, author-signed via the 11-years register]`: while working
   metal he *feels* grain, stress, impurity, temperature-band through hammer and knuckle — metal-
   primary attribute + adaptation + repetition. Metal-only; coarse today; refines as soul power grows.
-- **Economics:** market runs on 百-copper silver gold soul coins (1 gold = 10 silver = 100 copper);
+- **Economics:** market runs on copper, silver, gold soul coins (1 gold = 10 silver = 100 copper);
   refined blanks for soul-tool workshops pay gold — his six-gold 19-day blank set at 10¾.
 - **ERA WALL:** he is a **smith, not a soul engineer** — soul tools are the engineer track; he
   forges honest metal. No tool-making; no blueprints.
@@ -148,13 +148,13 @@ true self — see §9 irony). Natural development; nothing engineered; lanes are
 - Ring ceilings 423y/764y (004) · gold atlas tiers + walls (018–022) · laws L-08/09/10
 
 ## §13 OPEN / PENDING
-- Chapter 3 — rosters at dawn: freshman **class assignment** (top cohort lane = canon Class 1 with the Huo/Wang/Dai cohort) `[design, author nod requested]`; **Zhou Yi introduction** is canon territory — thread unsigned for our boy's scene
+- Chapter 3 — rosters at dawn: freshman **Class 1** roster lane (canon cohort: Huo/Wang Dong/Xiao Xiao/Dai-e) — auto-signed by L-11; **Zhou Yi's canon first lesson** with our boy inside it, POV on top, canon bones unbent
 - Strike-record trail: 2-cun stele reading + purple second ring now filed in Shrek's intake dossier; Wang Yan noted it — planted thread, unsigned
 - Ring 3+ — not opened; aspiration bank + cone 1 (terrorclaw, era-legal)
 - Life Gold cone — LOCKED (L-05) · Golden Tree acknowledgment — flavor free · 015 hook unsigned
-- The Standing Golden Lion needs a school-name in-world? — deferred (vanity, not canon)
+- Chapters 1–2 under the new 2,800-word floor (2,536/2,277) — grandfathered, logged (P-5 law starts at ch 3)
 
 ## §14 SETTLED (archive hashes)
-- Ch 1 `4f918bc` · **Ch 2 "The Measure"** — gate certified: age 11, rank 23, 2-cun stele, 2-gold fee, Room 105; names live: Qiu Yuan, badge Jia-105
-- Foundation v1 `b157e41` · audit `0419bb5` · gold sweep `452e489` · perfect panel `f37f798` · possession `f363f9f`
-- **Ch 2 push:** see hash in SERIAL_LOG 007
+- Ch 1 `4f918bc` · **Ch 2 "The Measure"** `b60afce`; gate certified: age 11, rank 23, 2-cun stele, 2-gold fee, Room 105×Qiu Yuan
+- Foundation v1 `b157e41` · audit `0419bb5` · gold sweep `452e489` · perfect panel `f37f798` · possession `f363f9f` · L-11 `3bdaab9`
+- **Dorm retrofit + prose-law adoption + CJK purge + gate v2:** see push hash in SERIAL_LOG 009

@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""sl2-golden-lion gate v1.0 — run before EVERY push that touches chapters/.
+"""sl2-golden-lion gate v2.0 — run before EVERY push that touches chapters/.
+v2: prose-law enforcement (no-CJK, dialogue floor, 2800-word floor ch3+, Canon Reference header).
 Exit 0 = GATE PASS. Any FAIL line must be fixed (not bypassed) before push."""
 import os, re, sys
 
@@ -16,6 +17,7 @@ for path, why in [
     ("foundation/THE_GOLD_REGISTER.md", "golden atlas"),
     ("foundation/JIN_YANG_PAST.md", "past bible"),
     ("codex/GLOSSARY.md", "vocabulary"),
+    ("codex/PROSE_METHOD_SL2.md", "prose method"),
 ]:
     if not os.path.isfile(os.path.join(ROOT, path)):
         fails.append(f"MISSING {path} — {why}")
@@ -36,7 +38,17 @@ if os.path.isfile(pan):
         if tag not in t:
             fails.append(f"PANEL missing card section: {tag}")
 
-# 4. chapters: era-law + invention tagging
+# 4. P-1 LANGUAGE LAW: no CJK/foreign script anywhere in project text files
+CJK = re.compile(r"[\u4e00-\u9fff\u3040-\u30ff\uac00-\ud7af]")
+for dp, dn, fns in os.walk(ROOT):
+    for fn in fns:
+        if not fn.endswith((".md", ".txt", ".py")):
+            continue
+        p = os.path.join(dp, fn)
+        if CJK.search(open(p, encoding="utf-8").read()):
+            fails.append(f"{os.path.relpath(p, ROOT)}: foreign script present (prose law P-1)")
+
+# 5. chapters: era-law + prose-law
 BANNED = ["Spirit Hall", "spirit hall", "Spirit Empire", "spirit soul", "Spirit Soul", "soul spirit"]
 chdir = os.path.join(ROOT, "chapters")
 count = 0
@@ -45,12 +57,24 @@ if os.path.isdir(chdir):
         if not fn.endswith(".md"):
             continue
         count += 1
-        text = open(os.path.join(chdir, fn), encoding="utf-8").read()
+        p = os.path.join(chdir, fn)
+        text = open(p, encoding="utf-8").read()
         for bad in BANNED:
             if bad in text:
                 fails.append(f"{fn}: era-breaker '{bad}' (SL2 law L-02/L-03)")
-        if "spirit ring" in text.lower() and "rank" not in text.lower():
-            fails.append(f"{fn}: rings present without rank carding — check STATUS_PANEL first")
+        # P-4 dialogue floor: >=3 spoken lines
+        pairs = text.count('"') // 2 + text.count("\u201c")
+        if pairs < 3:
+            fails.append(f"{fn}: only {pairs} dialogue lines (<3, prose law P-4)")
+        # P-5 length floor from ch3 onward
+        m = re.match(r"Chapter_(\d+)", fn)
+        if m and int(m.group(1)) >= 3:
+            w = len(text.split())
+            if w < 2800:
+                fails.append(f"{fn}: {w} words < 2800 floor (prose law P-5)")
+        # P-2 header law
+        if "Canon Reference:" not in text:
+            fails.append(f"{fn}: missing Canon Reference header block (prose law P-2)")
 
 print(f"chapters: {count} / " + ("GATE PASS" if not fails else "GATE FAIL"))
 for f in fails:

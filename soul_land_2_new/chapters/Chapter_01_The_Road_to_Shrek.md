@@ -1,4 +1,8 @@
-# Chapter 1 — The Road to Shrek
+# Chapter 1: The Road to Shrek
+
+## Canon Reference: SL2 canon ch 1–5 AS ORE (entry-morning era texture; Huo Yuhao's parallel departure for Star Dou runs behind our boy's road; canon persons appear ONLY as background). Facts cited; trajectory OURS: the lion walks his own road to the same gate.
+
+---
 
 Dawn came up white over the Star Luo plain, and the boy met it walking.
 
@@ -122,7 +126,7 @@ Jin Yang noticed none of them. The line moved. A clerk's bell struck. Somewhere 
 - Predator aura, passive: caravan mules calm in his vicinity (bloodline card, used softly)
 
 **New names `[design]`:**
-- **Jinxi Village** (金溪,"golden brook"), his home · **White Birch City**, awakening + junior academy city · **Chu Shan**, headmaster-mentor, Soul King **rank 56** `[design]` · **Old Wei**, grain caravaneer · **Iron-bristle boar**, 300y road-beast `[design]`
+- **Jinxi Village** (Jinxi,"golden brook"), his home · **White Birch City**, awakening + junior academy city · **Chu Shan**, headmaster-mentor, Soul King **rank 56** `[design]` · **Old Wei**, grain caravaneer · **Iron-bristle boar**, 300y road-beast `[design]`
 - Road measure: 6 days White Birch City → Shrek region; 30 li village → city (age 6)
 
 **Canon anchors kept:** era law L-02 enforced (SL2, pre-Sp-attribute era institutions absent) · rank ladder titles · ring ceilings 423y/764y doctrine (L-03) · absorption-risk law (L-04 pricing, shown, not free) · queue cameo = canon-legal background only: plain black-haired boy (Huo Yuhao) + Tang Ya + pink-blue-haired boy (Wang Dong) at the same entry morning (SL2 ch ~4-5 timing) — **no interaction, nothing taken, L-05 queue untouched.**

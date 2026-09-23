@@ -4,7 +4,7 @@ A Soul Land 2 (Douluo Dalu II · The Unrivaled Tang Sect) fan fiction.
 
 **Founded:** 2026-09-22 · **Status:** FOUNDATION v1 (no chapters yet)
 
-- **Protagonist:** JIN YANG (金阳) — village-born OC, **Golden Lion** martial soul, womb-born **Adaptation Talent**
+- **Protagonist:** JIN YANG (Jin Yang) — village-born OC, **Golden Lion** martial soul, womb-born **Adaptation Talent**
 - **Timeline anchor:** canon start — he is Huo Yuhao's age (11), rank 23, walking toward Shrek Academy
 - **Romance lanes (author-fixed):** Tang Wutong line (Wang Dong → Dong'er) + Wang Qiu'er — natural development
 - **Huo Yuhao:** stays the son of luck; any butterfly he loses to is compensated (Fortune Compensation Law)

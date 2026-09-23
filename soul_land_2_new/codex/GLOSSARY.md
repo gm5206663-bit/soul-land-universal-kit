@@ -3,19 +3,19 @@
 Canon terms first, house tokens tagged. If a word isn't here or in canon, it doesn't go in a chapter.
 
 ## Ranks (soul power ladder, SL2 era)
-| Levels | Title (EN) | 中文 |
+| Levels | Title (EN) | Pinyin |
 |---|---|---|
-| 1–10 | Soul Scholar | 魂士 |
-| 11–20 | Soul Master | 魂师 |
-| 21–30 | **Soul Grandmaster** — Jin Yang is 23 → this tier | 大魂师 |
-| 31–40 | Soul Elder | 魂尊 |
-| 41–50 | Soul Ancestor | 魂宗 |
-| 51–60 | **Soul King** — the headmaster-mentor's tier | 魂王 |
-| 61–70 | Soul Emperor | 魂帝 |
-| 71–80 | Soul Saint | 魂圣 |
-| 81–90 | Soul Douluo | 魂斗罗 |
-| 91–99 | Titled Douluo | 封号斗罗 |
-| 99 | Limit Douluo | 极限斗罗 |
+| 1–10 | Soul Scholar | hunshi (scholar) |
+| 11–20 | Soul Master | hunshi (master) |
+| 21–30 | **Soul Grandmaster** — Jin Yang is 23 → this tier | da hunshi |
+| 31–40 | Soul Elder | hunzun |
+| 41–50 | Soul Ancestor | hunzong |
+| 51–60 | **Soul King** — the headmaster-mentor's tier | hunwang |
+| 61–70 | Soul Emperor | hundi |
+| 71–80 | Soul Saint | hunsheng |
+| 81–90 | Soul Douluo | hun-douluo |
+| 91–99 | Titled Douluo | titled douluo |
+| 99 | Limit Douluo | limit douluo |
 
 ## Ring ages & colors (canon)
 10y white · 100y yellow · 1,000y purple · 10,000y black · 100,000y red.
@@ -38,7 +38,7 @@ Absorption ceilings (Yu Xiaogang's ladder): ring 1 ≈ 423y, ring 2 ≈ 764y —
 ## House tokens `[design]`
 - **Adaptation Talent** — womb-born gift (AUTHORS_LAW L-04)
 - **Fortune Compensation Queue** — repayment ledger for Huo Yuhao's butterflies (L-05)
-- **Jin Yang (金阳)** — hero's name; surname Jin ("gold"), chosen by designer, author-delegated
+- **Jin Yang (Jin Yang)** — hero's name; surname Jin ("gold"), chosen by designer, author-delegated
 - **Golden Lion Claw** — skill 1, melee-burst attack technique (canon-register card in STATUS_PANEL)
 - **Golden Lion Body** — skill 2, amplification/enchantment technique, earth-grounded (STATUS_PANEL)
 - **Soul attribute (primary/secondary)** — the element core of a martial soul; hero line METAL + EARTH (L-09)
@@ -53,14 +53,14 @@ name → type → measured effect → cost → duration. Trait-poetry banned (L-
 - **Golden Dragon Spear** — GDK's 49th rib; only golden-dragon blood wields it; Qiu'er's lane
 - **Dark Gold Terrorclaw Bear** — METAL-element, behemoth-blooded; devour-evolution; in-era (SL2 ch 139)
 - **Golden Fur Lion Mastiff** — lion/canine progenitor legend; EXTINCT in our era (SL3 platform only)
-- **Life Gold (生灵之金)** — "mother of all metals"; evolves metals; Huo Yuhao's road (L-05 locked)
+- **Life Gold (Life Gold)** — "mother of all metals"; evolves metals; Huo Yuhao's road (L-05 locked)
 - **Ancient Golden Tree / Elder Gold** — Tang-San-planted heart of Shrek; Sea God Pavilion inside
 - **Ten Savage Beasts** — Star Dou's ranked lords (Di Tian #1, Bear Lord #6, Scarlet King #8)
 - **Golden Earth Dragon King** — golden NAME, light ELEMENT (teaching case)
 - **Di Tian** — Black Dragon King with golden eyes = NOT a gold bloodline
 
 ## Trade & era-economy (era-canon + house)
-- **Gold soul coin (金魂币) / silver / copper** — 1 gold = 10 silver = 100 copper (canon units)
+- **Gold soul coin (gold soul coin) / silver / copper** — 1 gold = 10 silver = 100 copper (canon units)
 - **No soul-master stipend institution** — SL2 era coin law L-10 (that subsidy died with SL1's hall)
 - **Blacksmith grade ladder 1–9** — house era-note `[design]`; grade 3 = cold-forged cold-measured journeyman-master; the great associations formalize it next era (SL3 context)
 - **Metal-resonance sense** `[design]` — feel grain/stress/temperature-band in metal while working it (panel §7, module §9)

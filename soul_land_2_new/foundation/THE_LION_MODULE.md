@@ -63,7 +63,7 @@ Our line = our rings (ledger 009/010 are author-named originals). The precedent 
   absorption survives L-04 pricing. Then await author sign.
 
 ## §5 THE EMPEROR-BEAST DISTINCTION (firewall)
-**Three-Eyed Golden Lion (三眼金猊) is a different order of being** — Star Dou's Emperor
+**Three-Eyed Golden Lion (Three-Eyed Golden Lion) is a different order of being** — Star Dou's Emperor
 Auspicious Beast: ~15,000y at canon start; primary spiritual power with extreme light AND
 extreme fire; Golden Dragon bloodline; fate-carrier; human form **Wang Qiu'er**.
 Our Golden Lion (species §1, martial soul §2) is an ordinary-kingly metal lion. **No kinship

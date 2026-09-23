@@ -53,7 +53,7 @@ traces to it one day, that is an author-signed revelation — not a given.
 
 ## GOLD OBJECTS & PLACES IN OUR ERA
 
-- **Life Gold (生灵之金)** — "mother of all metals": life-condensed metal that **evolves other
+- **Life Gold (Life Gold)** — "mother of all metals": life-condensed metal that **evolves other
   metals** and drains metal-life. Canonically Huo Yuhao's road (Eye of Life → Eye of Destiny;
   Life Guardian Blade). For a METAL-soul boy this is the single most resonant material in the
   era — therefore doubly locked: it is **Huo's canon fortune, and L-05 prices any touch.**

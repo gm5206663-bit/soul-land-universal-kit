@@ -1,4 +1,8 @@
-# Chapter 2 — The Measure
+# Chapter 2: The Measure
+
+## Canon Reference: SL2 canon ch 4–5 AS ORE (enrollment mechanics and rituals; canon's Room 108 two-person administrative pairing governs ALL freshman rooming — our Room 105 follows the same system law; the Room-108 rules-argument lives as background flavor only). Facts cited; trajectory OURS: the measure, the strike, the shared arithmetic.
+
+---
 
 The enrollment ground of Shrek was less a queue than a slow river, and by mid-morning its bank had grown the usual debris: clan banners planted by servants who then stood sweating in their shadow, mothers re-pinning the collars of sons who had not asked for it, and one young master of the Qiu clan of White Birch City who was telling a semi-circle of juniors precisely how his family's recommendation differed, in quality of paper alone, from *certain other documents* one might observe in the line.
 
@@ -86,15 +90,37 @@ He found it near midday — a long, sunlight-honeyed corridor that smelled of wa
 
 "Morning," said the broom, agreeably, and swept on.
 
-Room 105 took his key with a merchant's own oiled obedience. Inside: two beds, two desks, one window whose light had been rationed fairly, pine-everything, scrubbed to the grain. The second bed stood made but nameless; whatever boy belonged to it had not yet found this corridor, or had failed to. Jin Yang chose the bed nearer the window because the window framed an elm whose crown had decades of swallows' jurisdiction in it, unrolled his blanket, set the hammer of his second trade at the bedfoot like a loyal dog, and put the letter — Chu Shan's wax, broken now by registrars — into the desk's single drawer.
+Room 105 took his key with a merchant's own oiled obedience. And there, mounted beside the door on a bed of fresh paper, stood the room's plaque in the registrar's quick ink, two names in two columns:
+
+**JIN YANG — and, down the second line, QIU YUAN.**
+
+Two beds, then. Shrek did not ask freshmen whom they could stand; the Academy roomed them by list and province and let boys settle the arithmetic themselves. Jin Yang read the second name twice, and the morning supplied him the face that went with it: twelve years old, twenty-one ranks, an heirloom opinion about sleeves.
+
+Inside: two beds, two desks, one window whose light had been rationed fairly, pine-everything, scrubbed to the grain. He set down the pack, and after a weighing of perhaps three breaths, chose the window bed not because it was better but because a smith always knows where his hammer is — and the bedfoot nearest the window could hold one.
+
+It was, on reflection, no quarrel worth having. White Birch City had watched his awakening-hall lion years before the Qiu heir had; a roommate from home could steal no secret that was truly his, because the secrets that mattered did not live in dormitories. And there was a schoolboy's comfort in it that he would not have confessed for gold: a corridor full of strangers, and one face he already owed an answer to.
+
+He unrolled his blanket on the window bed, set the hammer of his second trade at the bedfoot like a loyal dog, and put the letter — Chu Shan's wax, broken now by registrars — into the desk's single drawer.
 
 On the notice board at the corridor's end, a clerk was pasting a long scroll, ink still breathing: **FRESHMAN CLASS ROSTERS — READ AT DAWN.**
 
 Somewhere down the hall, beyond several other closed doors, a boy was arguing in a pretty, exasperated voice about room rules with a roommate, enumerating them, it seemed, one through four. Jin Yang could not hear the rules. He did not need to. The morning had measured his rank, his years, his soul, and his strike, and the arithmetic was all filed with registrars now, and a smith who has delivered finished work sits down and waits for the next order.
 
-He lay back on the good pine bed. The money-clock in his head filed today's costs: two gold, one claw-strike — five hundredths — one walk, six days, one promise. Recovery until full: the afternoon. Tomorrow: a roster on a wall, and whatever class the roster named.
+The money-clock in his head filed the day's costs: two gold, one claw-strike — five hundredths — one walk, six days, one promise. Recovery until full: the afternoon.
 
-Outside Room 105's door, down the long honeyed corridor, the broom went shik, shik, shik, patient as an old foreman pacing an anvil, all the way to the stair.
+Then the corridor gave back boot-heels — quick ones, stopping outside 105 — and the door came open on the heir of the Qiu clan of White Birch, travel-dust on very good boots, a key already in hand and its grin dying out as it took in the window bed, the hammer at the bedfoot, and him.
+
+They regarded each other across the width of one scrubbed pine floor.
+
+"House Jin," said Qiu Yuan at last, with the expression of a man quoting scripture under duress.
+
+"House Qiu," said Jin Yang. "The rulers keep rooms two-by-two. The registrar keeps the names. The beds keep their own counsel." He turned back to the elm and its swallows. "Take the other one, then. I rise early, and when I rise, the forge-hour comes with me."
+
+There was a long, travelled silence — and then the sound of a traveling case being set down, and of one more worker's mattress receiving one more boy.
+
+Room 105 would be shared arithmetic after all.
+
+Outside the door, down the long honeyed corridor, the broom went shik, shik, shik, patient as an old foreman pacing an anvil, all the way to the stair.
 
 ---
 
@@ -106,7 +132,7 @@ Outside Room 105's door, down the long honeyed corridor, the broom went shik, sh
 - Age-slate reading: *eleven winters and a spring* ✓ (gate-verified) · rank crystal: **23** ✓
 - Claw vs soul-steel-faced stele: **5 furrows × 2 cun deep** (`cun` ≈ 3.3 cm; period unit; `[design]` instrument) — one strike, no Body used (window untouched) · cost 5% reserve, recovery by afternoon
 - Dossier fee: **2 gold** → purse now **29 gold, 4 silver** `[design]`
-- Dorm: **Room 105**, boys' hall 2nd storey `[design]` — three doors from canon's Room 108 (endnote wink only; no claim on canon roommates)
+- Dorm: **Room 105**, boys' hall 2nd storey `[design]` — three doors from canon's Room 108 (endnote wink only; no claim on canon roommates) · **Roommate: QIU YUAN** — CANON-LANE system followed (freshman rooms are two-person, administratively assigned, per canon's Room-108 precedent; pairing = registrar by list & province `[design pairing]`). The "empty second bed" exception struck as OC-centered invention — retrofit logged (SERIAL_LOG 009).
 
 **New names:**
 - **Wang Yan** — CANON person, `[design placement]` as intake tea-table teacher (his theory-nose on a purple second ring; files it away — thread planted, unsigned)
