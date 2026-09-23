@@ -104,7 +104,8 @@ def swap_serial_readme(kit, live_edge, next_beat):
     ok("serial README LIVE EDGE / NEXT BEAT swapped")
 
 def site_update(site, kit, chpath, n, title, news_text):
-    src = os.path.join(kit, "soul_land_devouring_dragon", chpath)
+    rel = chpath[len("soul_land_devouring_dragon/"):] if chpath.startswith("soul_land_devouring_dragon/") else chpath
+    src = os.path.join(kit, "soul_land_devouring_dragon", rel)
     dst = os.path.join(site, "chapters", "devouring_dragon", os.path.basename(chpath))
     shutil.copy(src, dst)
     if not os.path.exists(dst): die("chapter copy failed")

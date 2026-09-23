@@ -49,3 +49,6 @@ Douluo-calendar (DL) years. Rows are added as events are written or verified.
 
 
 | DL 3679–3681 the parting and the rising country | ~228–236 → ~252–260 months | CHAPTER 23 THE PARTING (s50): THE COMING-APART and the LAST ORDINARY DAY; THE FORD (the road and the pull part); THE WATER ROAD (absence instead of belonging; the swimmer-kind night); THE SINKING GORGE and THE BAD GROUND (the walker's two passes; the red thing held alone); THE RISING COUNTRY (the falls chain); THE MOUNTAINS SEEN (the pull pointing at the highest whiteness); THE SHOULDER OF STONE (unknown again; the first mountain meal) | written (ch23, s50) |
+
+
+| DL 3681–3683 the stone country and the first pass | ~252–260 → ~276–284 months | CHAPTER 24 THE STONE COUNTRY (s51): THE OPPOSITE COUNTRY and THE HIGH KINDS' TEACHING (the gray kind; the scree towns; the high watcher); THE WARMTH MAP and THE THIN BARGAIN; THE SCREE WRONG (the mountain's memory of noise); THE PASSES and THE FIRST CROSSING; THE FAR SIDE AND THE WINTER DEN (the warm spring; the pull under the snow) | written (ch24, s51) |

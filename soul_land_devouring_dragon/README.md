@@ -27,11 +27,8 @@ READ FIRST, in order:
 4. foundation/CONTINUITY.md — anchor table + forward references
 5. the last two chapters
 6. foundation/SERIAL_LOG.md — last three entries only
-LIVE EDGE: Chapter 23 — The Parting (DL 3679–3681; the road left at the ford;
-the water road walked; the bad ground crossed under the walker's attention; the
-mountains seen; the pull pointing at the highest whiteness; unknown again — the
-old way of being his)
-NEXT BEAT: Chapter 24 — THE STONE COUNTRY, under the PACING LAW (s44): the
+LIVE EDGE: Chapter 24 — The Stone Country (DL 3681–3683; the opposite country walked; the scree wrong paid; the first pass crossed; the mountain's winter denned at the warm spring)
+NEXT BEAT: Chapter 25 — THE SECOND RANGE, under the PACING LAW (s44): the far side's country toward the high snows; the high kinds of the inner mountains; overlord distance held (gravity, never cast; naming author-gated DS-06; the barrier at cultivation-year 1,000 far and unfelt); panels only when needed (s45). Standing delegation recorded s46, renewed s48–s51. Standing delegation recorded s46, renewed s48–s51.
 mountains' skirt walked toward the pull's pointing; the high kinds and the thin
 cold years; overlord distance held (gravity, never cast; naming author-gated
 DS-06; the barrier at cultivation-year 1,000 far and unfelt); panels only when

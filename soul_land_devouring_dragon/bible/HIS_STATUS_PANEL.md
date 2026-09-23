@@ -1,5 +1,5 @@
 # HIS STATUS PANEL — clean sheet
-Live after Chapter 23 "The Parting" (DL 3679–3681 — the road left at the ford; the water road walked; the bad ground crossed under the walker's attention; the mountains seen; the pull pointing at the highest whiteness).
+Live after Chapter 24 "The Stone Country" (DL 3681–3683 — the opposite country walked: distance the ruler, the high kinds' teaching, the warmth map, the thin bargain; the scree wrong paid (the mountain's memory of noise); the first pass crossed in the gray kind's company; the mountain's winter denned at the warm spring, the pull under the snow).
 per kit 02) and ADAPTATION_LOG; updated each chapter. If this sheet and
 STATUS_PANEL ever disagree, STATUS_PANEL is right and this sheet is stale.
 Law: numbers live in panel files only, never in prose. Design estimates are

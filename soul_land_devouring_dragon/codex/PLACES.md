@@ -58,3 +58,9 @@ Law: a place gets its row when the story touches it.
 | The bad ground | the day-wide reach of root-country between the sinking gorge and the next water — giant trees, moss to the knees, ground that says every step; crossed at gray light under the walker's attention; the moss hollow between two root-buttresses where the red thing was held alone (ch23) | [design, on page] |
 | The falls chain | the high-country ladder: white thread after white thread down gray stone steps, the black pools holding-kinds — ladders and pantries; his cover the loudness of the water all the way up (ch23) | [design, on page] |
 | The shoulder of stone | the bare rock viewpoint where the mountains first stood whole on the world's edge — the look back at the dark sea of the proper; the first mountain meal taken on it (ch23) | [design, on page] |
+
+| The stone country | the mountains' skirt and wall: gray stone, thin grass, cold constant wind, distance the ruler — no dark, no absence; the opposite of the deep forest proper (ch24) | [design, on page] |
+| The scree towns | the loose-rock colonies of the small alarm-voiced kinds — the country's bells: one sharp note running slope to slope; mapped like the watchers' camps, their silence his sentry (ch24) | [design, on page] |
+| The slide valley | the valley head whose loose scree woke under his weight — the wrong that taught the mountain's memory of noise; the watcher circled him there; never the straight line again (ch24) | [design, on page] |
+| The first pass | the low seam in the wall read by the ground's own evidence (polished stone, dung warmth, bad-crossing bones); crossed at gray light in the gray kind's company, the notch's wind a standing wall of noise (ch24) | [design, on page] |
+| The warm spring den | the hollow on the far side where a spring runs warm out of the rock, green-stoned, steaming in the cold — the first mountain winter's den; the pull running under the snow (ch24) | [design, on page] |

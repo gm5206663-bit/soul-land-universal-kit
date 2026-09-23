@@ -1,3 +1,33 @@
+Updated: 2026-09-23 (session 51 — CHAPTER 24 "THE STONE COUNTRY" WRITTEN AND
+GATED under the standing delegation, renewed by the author's word this session
+("Continue" → the advanced plan "Do all" — ship script, recaps, discoverability,
+linter, law-lines, and the first audio edition all shipped this session)): the
+mountains' skirt and the first pass (DL 3681–3683). THE OPPOSITE COUNTRY (no
+dark, no absence, distance the ruler; the trick that survived the forest is not
+the trick of the stone). THE HIGH KINDS' TEACHING (the gray kind — watching as
+being, the herd's sleep in shifts; the first taking inside the herd's own
+shadows, in the gap between one sentinel's lifting and the next; the scree
+towns — the country's bells, mapped like the watchers' camps, their silence his
+sentry; THE HIGH WATCHER — patient in the updrafts, never seen to hunt,
+everything beneath it living without looking up; he looked up). THE WARMTH MAP
+(warmth a place, not a time: lichen beds, lee ground, stone above the loud
+streams; the map moving with the seasons — the new dens). THE THIN BARGAIN (the
+meals thin; the growth slowed to the mountain's pace; the forest's fat burned
+off — a harder quieter animal; scales tightened, wind lengthened). THE SCREE
+WRONG (the straight line — the low country's choice; the slope waking; the
+ride; the noise running the valley like a flood; the watcher coming down the
+wind; lying as a thing the slide had made; the red thing spent into bare
+stone; THE MOUNTAIN'S MEMORY OF NOISE — a mistake in the stone country is a
+mark; never the straight line again). THE PASSES (the pull's plumb line vs the
+wall's seams; the first pass read by the ground's own evidence; the walked-road
+law at the top of the world). THE FIRST PASS CROSSED (in the gray kind's
+company, at gray light, the notch's wind a standing wall of noise; the watcher
+descending from none of them). THE FAR SIDE AND THE WINTER DEN (the warm
+spring's hollow; the mountain's winter slept low, slow, patient; the pull under
+the snow, straight as a plumb line toward the high snows). 2,198w; zero spoken
+lines (PANEL: NONE); average 21.3, longest 59; retired words zero; the-way tic
+one; zero count-numbers; sweep PASS 24/24.)
+
 Updated: 2026-09-23 (session 50 — CHAPTER 23 "THE PARTING" WRITTEN AND GATED
 under the standing delegation, renewed by the author's word this session
 ("Continue"); session 50 also reconciled the s49 parallel-agent figure conflict:
@@ -157,10 +187,10 @@ numbers.
 - Serial scope; natural length; NATURAL ENDING (none pre-chosen).
 
 ## Now
-LIVE EDGE: after Chapter 23 "The Parting" (DL 3679–3681 — the road left at the
-ford; the water road; the bad ground crossed under the walker's attention; the
-mountains seen; the pull pointing; real age ≈ 252–260 months; cultivation ≈
-380–420). THE PASS,
+LIVE EDGE: after Chapter 24 "The Stone Country" (DL 3681–3683 — the stone
+country read and walked; the scree wrong paid; the first pass crossed; the
+mountain's winter denned at the warm spring; real age ≈ 276–284 months;
+cultivation ≈ 390–430, the thin years). THE PASS,
 CROSSED (ch21): the watch taught its hours (the holder's sun-rounds as a tide of
 attention with no body; the edges' laws; the quick kinds' moonset road at the
 south lip's bend; the storm night's closed road — the river's noise is cover);

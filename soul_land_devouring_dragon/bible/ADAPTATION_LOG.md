@@ -893,3 +893,22 @@ body). The Talent is never named; deltas record its RESULTS.
 - Mirrors synced same turn: STATUS_PANEL, HIS_STATUS_PANEL, ADAPTATION_LOG,
   SERIAL_LOG, PLACES, TIMELINE, CONTINUITY, serial README, root README, the
   Soul Library snapshot, the profile.
+
+
+- s51 (2026-09-23) — CHAPTER 24 "THE STONE COUNTRY" written and gated under the
+  standing delegation (the advanced plan "Do all" session). The mountains'
+  skirt: the opposite country (distance the ruler); the high kinds' teaching
+  (the gray kind's watching-as-being; the scree towns as the country's bells;
+  the high watcher); the warmth map (warmth a place, not a time); THE THIN
+  BARGAIN (meals thin, growth slowed to the mountain's pace, the forest's fat
+  burned off — a harder quieter animal); THE SCREE WRONG (the slide, the noise,
+  the watcher's descent, the red thing spent into bare stone — the mountain's
+  memory of noise); the first pass crossed; the winter den at the warm spring.
+- Measured: 2,198w; zero spoken lines (PANEL: NONE); average 21.3; longest 59;
+  no retired words; the-way tic one; zero count-numbers; sweep PASS 24/24.
+- Cultivation (panel; no clock, s7): REAL AGE ≈ 276–284 months;
+  CULTIVATION-AGE ESTIMATE ≈ 390–430 (the thin years — the stone country's
+  small meals; no leaps; the barrier at 1,000 far and unfelt).
+- Mirrors synced same turn: STATUS_PANEL, HIS_STATUS_PANEL, ADAPTATION_LOG,
+  SERIAL_LOG, PLACES, TIMELINE, CONTINUITY, serial README, root README, the
+  Soul Library snapshot, the profile.
