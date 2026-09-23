@@ -1,66 +1,61 @@
-# PROSE_METHOD_SL2.md — HOUSE WRITING CONSTITUTION (v3)
+# PROSE_METHOD_SL2.md — HOUSE WRITING CONSTITUTION (v4, PLAIN-FIRST)
 
-Built from the author's own shipped objects, read line by line this time:
-- `Soul_Land_2_Project/chapters/chapter_01.md` ("The Two Hiders", 5,813 w)
-- `SOUL_LAND_NEW/chapters/chapter_01.md` (Yan Tianyu serial, 5,841 w)
-- `SL_ARCHIVE/sl4_foundation_v2/chapters/Chapter_01.md` (fire phoenix, 4,061 w)
-- `SL_ARCHIVE/inbox/chapter_75.md` (SL1 Gu Yuan, staccato flavor — a flavor, NOT the house register)
-- Kit `07_PROSE_LAW.md` (language law), Lin Hao STATUS (pipeline floors)
+Source of truth: the author's method repo `how-to-write-fanfiction` (2026-09-23) and the
+Lin Hao chapters (the 116-ch flagship, e.g. Soul_Land_3_Project/chapters/chapter_05.md).
 
-## R-1 THE HOUSE REGISTER (lead law — everything else serves it)
-**Warm, full, cinematic, plain.** Long flowing sentences allowed; each beat gets its FULL SPACE.
-Atmosphere is real (light, weather, food, smell) but images come ONE at a time, plainly
-("Soft light lay on the clouds like a mother's hand." — then move on). Canon people are PEOPLE:
-they banter, grieve, tease, eat. Emotion is direct and earned
-("His eyes stayed dry until the mansion was out of sight").
-BANNED, both directions, equal crimes:
-- **Jewelry-stacking** — metaphor-per-line, aphorism-storms, poet-voice showing off.
-- **Mercenar-clipping** — staccato fragments as a default, withholding warmth, summary-telling
-  what should be dramatized. (Gu Yuan ch 75 flavor is for masked-observer scenes only.)
-If a day's scenes could be summarized in five lines, the chapter is a report, not a chapter.
-Dramatize or cut.
+## R-1 PLAIN LANGUAGE LAW (lead law — author Law 7, born on devouring-dragon)
+**Plain words. Say the thing.** Direct, clean webnovel English.
+- Dialogue carries scenes; description serves the beat.
+- Ornament must earn its place: at most ONE short plain simile per scene
+  ("balanced so perfectly they hung on the rack like sleeping birds" — that is the ceiling).
+- **The verdict on my failures is written by the author himself:** early devouring-dragon
+  chapters "buried simple events under heavy prose and readers bounced." Every prior pass of
+  this serial (tally-glass ch2, jewelry ch3, warm-literary ch1–3) is that exact illness.
+  HEAVY PROSE = FAIL. No stacked figurative language, no poet-voice, no aphorism weaving,
+  no "the X was less a Y than a Z" constructions, no ornate British-inflected clauses.
+- Emotional beats land in one clean line ("Lin Hao's breath went still without his permission.")
+  then the scene moves on.
 
-## R-2 CHAPTER SHAPE
-Header: `# Chapter N: Title` + `## Canon Reference: <canon map + what is ours>`.
-Scene sections with `---` (### CAPS titles optional, phoenix/SL2 style).
-Chapter length: **target 4,000–5,800 words** (his three ch-1 samples: 5,813 / 5,841 / 4,061);
-hard gate floor stays 2,800. End each chapter on a HOOK line.
+## R-2 SCENE CRAFT (from Lin Hao ch5)
+- Canon mechanics **bolded** in prose: **Heavy Silver**, **three hundred kilograms**,
+  **One hour. Calcining counts.** — the reader must SEE the system.
+- Label canon scenes: section title suffix "(Canon Scene)" when a beat is canon's own.
+- Character interiority: plain reactions to concrete things; the OC notices what a boy
+  would notice (calloused hands, eight stars, a bell-clean strike).
+- Canon RE-lives at full size where consumed (Multi-Panel: shown, never summarized),
+  paced by Law 8: compress routine, expand what the butterfly changes.
 
-## R-3 CAST BEHAVIOR
-- **The hero lives INSIDE the scene.** Full warmth-of-interiority (senses, memory, feeling) —
-  but he observes more than he performs; canon characters react to him naturally
-  ("reading him, and staying kind"; Bei Bei filing the courier under *later*).
-- **Banter is structural.** Every chapter needs exchanges people would quote (Tang San/Xiao Wu
-  arrow; Lan Xiao/Nan Cheng office flirt; "You hold it better than I did at thirty").
-- **Canon silence lanes are for organic butterflies** — small, human, carded
-  `[design, canon-silent lane]` — texture only, never canon's big bones (L-11).
-- Humor, kindness, food, tiredness, family — the warmth-supply is mandatory.
+## R-3 CAST BEHAVIOR (unchanged standings)
+- The OC is the actor in every scene he's in (Prime Law) — beside canon, never on top
+  (Multi-Panel); canon characters react to him naturally and stay themselves.
+- L-01..L-11.5 hold. Huo's fortunes untouchable. Era law clean. Ring ladder doctrine clean.
+- Banter structural, simple, deadpan.
 
-## R-4 CANON LANE
-Canon beats are DRAMATIZED in full where the chapter touches them (his SL2 ch 1 replays the
-God Realm + the mansion exit at full scene size). Standings: L-01..L-11.5 hold (era law, ring
-ladder, absorption pricing, Huo's fortune untouched, canon systems process the hero, backstage
-bestiary, naming law). Divergences keep sign and price.
+## R-4 CHAPTER CONTRACT
+Header: `# Chapter N: Title` + `## Canon Reference: canon ch X–Y (<beat names>)`
++ `## Timeline: <age/date>` — house contract (Lin Hao shape).
+Footer: CHAPTER CARDS (canon consumed, butterflies `[design, canon-silent lane]`,
+numbers carded, queue state, next hook). Word floor **2,800** (gate). Target band 2,800–4,500.
+Hook line at the end.
 
-## R-5 LANGUAGE LAW (kept from kit 07)
-English/pinyin prose body; **no CJK text anywhere** in this project (name forms pinyin: Jin Yang,
-Qiu Yuan, Huo Yuhao); no literal backslash-n, no placeholders, no un-filled brackets. Hard gate.
-(Author samples mixed CJK/EN; this project's gate keeps the stricter bar set with his earlier kit
-law — flip only on his written word.)
+## R-5 LANGUAGE LAW (gate)
+English/pinyin prose; zero CJK anywhere; no placeholders; no broken artifacts.
+Readback before push — every line clean.
 
-## R-6 MEASURED FACT DISCIPLINE (kept)
-Rank/age/ring/cost numbers must match cards; skill displays keep canon register:
-name → type → effect → cost → duration. Months of the soul-power purse are spoken plainly
-("twelve minutes at the hundred"). No trait-poetry.
+## R-6 MEASURING (gate)
+Ranks/costs/numbers match the cards; skill register: name → type → effect → cost → duration.
+Costs said plainly ("twelve minutes at the hundred"). No trait-poetry.
 
-## R-7 DIALOGUE FLOOR (kept, hard gate)
-≥ 3 spoken lines per chapter — real chapters run far above it. Banter preferred to monologue.
+## R-7 DIALOGUE FLOOR (gate)
+≥3 spoken lines per chapter; real chapters run far above; ≥3 exchanges per scene is the aim.
 
-## R-8 SYNC LAW (kept, hard gate)
-Chapter ships with: cards endnote + ledger row + log row + panel bump + gate PASS + push.
-A chapter that isn't synced isn't written.
+## R-8 SYNC LAW (gate)
+Chapter + cards + ledger + log + panel + gate + push, same turn.
 
-## R-9 QUALITY AUTOPSY (new, hard habit)
-Full readback before push: no mid-edit artifacts, no doubled words, no broken similes,
-no apostrophe-addresses. Five clean lines chosen to be quoted aloud must survive the reading
-without flinching. If they flinch, they die.
+## R-9 SELF-AUDIT (pre-gate, by hand — template contract)
+- [ ] Every canon beat in range shown or consciously deferred (logged)
+- [ ] OC acts, never centers a canon moment
+- [ ] Numbers match the panel
+- [ ] Voice check: canon characters sound like themselves
+- [ ] Butterflies earned and logged
+- [ ] HEAVY-PROSE scan: no line exists to decorate; every line exists to say

@@ -1,5 +1,5 @@
 # STATUS PANEL — single-state truth
-Snapshot: **v11 (METHOD v3 warm register; ch 1–3 rebuilt)** · 2026-09-23 · chapters live: **3**
+Snapshot: **v12 (METHOD v4 PLAIN-LAW; ch 1–3 fourth-pass plain)** · 2026-09-23 · chapters live: **3**
 Purpose: the whole living state of the hero and his world in one file. Rebuilt in full after
 every kill/rewrite. **If a number isn't here, it doesn't exist yet.**
 Registers follow the laws: skills per CANON SKILL LAW (L-08), attributes per GRAFT LAW (L-09),
@@ -149,7 +149,7 @@ true self — see §9 irony). Natural development; nothing engineered; lanes are
 
 ## §13 OPEN / PENDING
 - Chapter 4+ — school-week runway: theory classes, soul-tools lecture texture, Deng Wu daily adherence (bun-note hook), presidential bickering, dorm economics; **season target: the 3-month freshman assessment** on canon rails (>900 freshmen, ~half stay `[canon-adjacent]`)
-- Ch 1–3 rebuilt under METHOD v3 (ledger 038) — DONE this turn; future chapters target 4,000+ warm full-space
+- Ch 1–3 plain-law rebuilds DONE (ledger 039); OPEN rulings awaiting author: R1 spine proposal, R2 amber-depth (currently un-ambered-social, fortunes-locked)
 - Strike-record trail: 2-cun stele + purple ring filed at intake; Wang Yan noted it — planted thread
 - Ring 3+ — not opened; aspiration bank + cone 1 (terrorclaw, era-legal)
 - Life Gold cone — LOCKED (L-05) · Golden Tree acknowledgment — flavor free · 015 hook unsigned

@@ -1,185 +1,175 @@
 # Chapter 1: The Road to Shrek
 
-## Canon Reference: SL2 canon ch 1–5 era texture AS ORE (Star Luo freshman season; enrollment-morning world; the ring-age doctrine ladder; Huo Yuhao's departure runs parallel to our road and stays backstage). Facts cited; trajectory OURS: a village lion leaves home, pays his road, and stands in the same sunlight as the boy the world was waiting for — without touching him.
-## Timeline: Spring — age 11, six days on the road.
+## Canon Reference: SL2 era texture as ore (Star Luo freshman season; ring-age doctrine; enrollment-morning world. Canon ch 1–4 runs parallel — Huo Yuhao walks his own road the same season. No canon scene consumed here; canon persons appear as background only.)
+## Timeline: Spring, age 11 — six days on the road.
 
 ---
 
-### DAYBREAK, JINXI
+## Part 1: The Gold Brook
 
-The brook ran gold an hour before the sun finished rising, and it was at the brook, as had happened every morning of his life that mattered, that they said goodbye.
+Jinxi Village had forty roofs and no gate. It had one stone anvil, one brook that turned gold at sunrise, and a family of geese that thought they ran the place.
 
-Jinxi Village did not own a gate. It owned forty roofs, one stone anvil, and a brook that turned to poured metal every dawn and dusk, and the old men said the name came from the brook, and the old men were right about that the way they were right about weather and wrong about everything else. The Jin family lived at the brook's elbow, in a stone cottage whose roof was new this year, because the new roof had cost two gold coins and their son had paid for it out of a smith's wages before he was old enough to be a smith.
+Jin Yang stood by the plank bridge in traveling clothes. His pack held flatbread, a waterskin, a change of shirt, and a letter in an oilskin sleeve. The letter was sealed in wax, and the wax carried his teacher's seal — a mountain, pressed by a ringed hand. He had not opened it. Nobody opened a letter like that except a registrar.
 
-That son stood by the plank bridge in traveling clothes, with a pack riding high and new sandals already sorry, and submitted to being cried on for exactly as long as his mother required.
+His mother cried on him for as long as she needed to. He let her.
 
-"Eat warm," said his mother, who kept geese and could read a hundred characters and all of them off seed sacks, and was therefore, by Jinxi's measure, a scholar. "Sleep inside your blanket, not on top of it, on the cold nights. Don't lend money. Don't borrow it either. And Yang-er —" she put both hands on his face and looked at him the way she looked at geese she had decided were clever — "when people at that school are cruel, remember that cruel people are frightened, and frightened people are usually right to be frightened, because the world is full of boys like you."
+"Eat warm things," she said. "Sleep inside the blanket, not on it. Don't lend money you need." She put both hands on his face and looked up at him, which she had only started doing this year. "And when the city people act proud — let them. Proud folk are frightened of something. You come from a kitchen that fed you eleven years. Behave like it."
 
-"Ma."
+"Yes, Ma."
 
-"I am finished," his mother said, which was her way of saying she was not. "I only want it said where it can be heard: whatever they write down about you in their big books, you came out of this kitchen, and this kitchen has fed you for eleven years, and we know what you are. Behave like someone we fed."
+His father stood with his hat in his hands, turning it the way he turned hard bolts. He grew millet, and sharpened plough blades for anyone who brought one, and he had two pieces of advice on file for the whole world. He gave his son the first.
 
-His father stood with his hat in both hands, turning it slowly, the way he turned difficult bolts. He grew millet. He fixed other men's plough blades on the stone anvil that had never in its existence held soul steel. His opinions about the world were few and heavy, and he now delivered the heaviest one, having saved it for the bridge.
-
-"Son. Strike true or don't strike." He put the hat back on, because he was done. "Everything else is noise. Your mother packed the flatbread. The oilskin's in the side pocket — the letter's in the oilskin, and the wax is Headmaster Chu's own, and nobody opens it till a registrar does."
+"Strike true, or don't strike." He put the hat back on. "The planting is in the tenth month. Write if the school lets you."
 
 "Yes, Pa."
 
-"And Yang-er." His father looked at the brook, because it was easier. "Come home when it's planting, if the school allows it. The plough don't care how many rings you've got."
+The old gander led the flock down the bank while they talked, thirty geese in single file, and lined them up beside the bridge like an honor guard. The gander had hissed at every strange thing in Jinxi for nine years — dogs, traders, the tax man's horse. It had never hissed at Jin Yang. From the year the boy was five, it had only followed him, slowly, like something guarding a small fire.
 
-It was the best leaving-speech either of them had in them, so the geese provided a third: the old gander led the whole flock down the brook bank in single file and formed up beside the bridge as if inspecting the departure, which he had done every day since Jin Yang was five years old. The goose king of Jinxi feared nothing on two legs and had feared Jin Yang before the boy was tall enough to reach the pump — and then, from his fifth year, had stopped fearing and started *escorting*. Dumb beasts feel a predator the way grass feels weather before the storm. What the ganders of Jinxi felt, standing beside a six-year-old with porridge on his face, was not a storm. It was a sun.
+"Walk him to the ash tree," his mother told it, seriously.
 
-"Walk him to the ash tree, then," Jin Yang's mother told the gander, in farewell's dead earnest, and the gander walked him to the ash tree, thirty strong in single file, honking once per tenth step like a cadence-keeper at a forge.
+It walked him to the ash tree, honking once every ten steps.
 
-At the ash, the boy looked back once. The cottage was smoke and his mother was a hand and the brook was still running its old hot gold, and the geese stood at attention around the plank bridge as though they expected to be counted. He bowed to them, because his mother had taught him that anything that escorts you deserves a bow, and then he faced the road and did not look back again, which was the last family skill he had left to practice.
+At the tree he looked back once. The cottage was small and the smoke from its chimney stood straight up in the still air. His mother was still watching. He bowed to her, and then — because his mother had taught him that anything that escorts you has earned a bow — he bowed to the geese as well.
 
----
-
-### FIVE YEARS, ONE POCKET
-
-People in Jinxi told the story of his awakening the way they told the story of the flood of '47 — closely, often, and with the good parts in the wrong order.
-
-He had been six, on a morning of rain-on-tile in White Birch City, standing third-to-last in a line of village children whose parents had paid coppers to have them touched by crystal. The ceremony master — Qiao Tong, a Soul Elder in his thirties who had awakened six thousand children and expected to sleepwalk through six thousand more — had set his palm on the stone and watched the light climb it like something climbing out of a well.
-
-Behind the boy, the air filled with a shadow of gold.
-
-A lion. Mane like poured metal, standing a head over every adult in the hall, looking at the ceremony master with the incurious eyes of weather. Qiao Tong went down on one knee without deciding to, which he would spend the rest of his life explaining at dinners.
-
-"Innate soul power," he whispered, as if afraid of waking the rest of the hall, "*rank five.*"
-
-The geese ate better that month than the family did. In autumn, on a recommendation written with a trembling brush, Jin Yang walked thirty li into the city academy, where Headmaster Chu Shan — a lank, bow-backed old Soul King of the fifty-sixth rank with a voice like a barn door — looked at the thin arms, looked at the gold shape coiled behind them, and said four words: "You'll train with me."
-
-Five years. From the fifth rank to the twenty-third. Jinxi said of that speed what it said of the river in flood: that it took houses sometimes. They were not wrong. Speed was never the miracle; the miracle was surviving what speed demanded, and Chu Shan's answering doctrine was carved into the boy before any skill was: *foundation first, or the lion eats its keeper.*
-
-So there were three years under the smith's bell first. Apprenticed at eight to Master Gongshu Yan's forge — a grade-6 smith with forearms like mooring rope — for two coppers a day and the right to be shouted at. Sweep. Bellows. Striker. Chu approved entirely: hammering built the tendon-bone base a power-attack soul must own, and besides, he said, a boy who earns his bread by swinging will not lie to himself about what a blow costs.
-
-The first hunt came in the autumn of his ninth year, and Jin Yang remembered it the way you remember the scar it left.
-
-A golden lion, five hundred winters grown — older, Chu said, than a first ring had any rightful business being, because the ladder every academy taught, measured out by ten thousand years of doctrine, put a first ring's ceiling near four hundred twenty-three years. Four hundred twenty-three was doctrine. Jin Yang was eight winters short of shaving and doctrine had never fed his family.
-
-"He's your own kind," Chu said, crouched in needle-grass two hundred paces off the den, breath fogging. "Same blood, same metal. Your soul will want him — the question is whether your body holds what your soul wants. Yang-er, understand me plain: if the ring tears you open, I can kill him afterwards. I cannot un-tear you. There is no second cast of this die."
-
-The lion nearly opened him twice — once through the ribs and once through the thigh — and the ring poured into him like the brook in flood, like the thing the village feared. And his body, his strange, quiet, womb-born body that had never once been fevered past morning or bruised past days, *held*. Held and made room. Held and sifted the beast's offering the way his mother sifted grain, and what came back out of the sifting was no longer the lion's gift: it was his. Purified. The dross burned away, the bloodline in his veins suddenly a shade closer to whatever golden ancestor had first made grown men kneel in awakening halls before small boys.
-
-The skill that settled in the ring was the lion's own killing blow, remade for his hands. **Golden Lion Claw.**
-
-The second hunt, two winters later, was worse the way deep water is worse than rapids. An earth-armored iron dragon — a drake, not a true dragon, patient as geology — measured at nine hundred seventy winters and shedding into its thousandth. Chu had tracked it a season and struck *on the crossing*, and the hunt ran from noon until the dark came down red over a ravine of wet clay, and Jin Yang still carried that animal's patience in his spine as one of the great lessons of a short life. Doctrine put a second ring's ceiling near seven hundred sixty-four. What went around his martial soul that evening, trembling like a struck string, was purple.
-
-A Soul King bowed to him in private, after. A gray-faced old man of the fifty-sixth rank, bowing to a boy of ten.
-
-"The academies will make you small so they can grade you comfortably," Chu Shan said, still bent. "Shrek won't. Go to Shrek."
-
-And out of that ring, besides the skill — **Golden Lion Body**, the drake's doubling strength and standing made his own — besides the earth-and-iron heaviness his body absorbed and re-wore the way Gongshu re-set an old haft onto new steel, something stranger had settled into the soul itself. A second ground under the metal. Earth. Grafted root-deep by the perfection of the thing.
-
-Metal for the kill. Earth for the standing.
-
-That spring he stood his grade-3 smith exam — three works, cold-forged and cold-measured, no soul power permitted — and the guild stamped it with the reluctance of men stamping a boy taller than the form. That summer he ran commission season: refined blanks for the soul-tool workshops, a nineteen-day set that paid six gold, his first gold-scale work. And on the first day of his twelfth spring of life, which was his eleventh year going from the calendar's point of view, Chu Shan handed him a letter sealed with the mountain ring, touched his forehead once with two fingers, and said: "Planting days, send word. Striking days, strike true."
-
-Six days later, the road was dust in his sandals, and the letter was a warm corner against his chest that he could feel with every step like a second heart.
+Then he faced the road and did not look back again.
 
 ---
 
-### THE BELL AND THE GOLD
+## Part 2: Five Years at the Forge
 
-Of the forge years it is enough to say this: they were the years that made his hands honest.
+The story of his awakening, the way Jinxi told it, had a lion in the walls.
 
-Master Gongshu Yan of White Birch City, a grade-6 smith with forearms like mooring rope and a mustache that had outlasted three apprentices, took him at eight the way you take a found bolt — with distrust and two eyebrows. Sweep for a season. Bellows for a year. The striker's hammer only when the metal in him had learned to listen, because Gongshu's whole religion could be said in one bench maxim: *the iron knows when you're lying.*
+He was six, standing in a line of village children in the ceremony hall of White Birch City, on a rainy morning. The awakening master — **Qiao Tong, a Soul Elder in his thirties**, a man who had awakened six thousand children and expected to forget all of them — put his palm on the boy's chest and sent the light in.
 
-"Again," was the first word Jin Yang learned from him. It was also the second through fortieth.
+The gold shadow filled the room behind the boy.
 
-But the boy had a strange womb-born body that mended bruises by morning, and five ranks of awakening-light warming his tendons, and — from the ninth autumn on, when the golden lion's ring had settled into his blood — a resonance that woke over the anvil and told him, through his two palms, what the metal was doing inside: grain, stress, temperature band, the exact tenth of a second when a strike would land *inside* the steel instead of on it. Gongshu never asked how the boy knew when to strike. He had worked beside gifted hands for forty years, and he had learned that some gifts only grow in the dark, and that a wise master waters without digging.
+A lion, mane like poured metal, tall enough to look over every adult's head. Qiao Tong went down on one knee before he knew he had decided to. His voice came out quieter than he meant it.
 
-"Watch," he would say instead, to the newer apprentices, pointing with the tongs at an eleven-year-old placing four blows exactly where four blows went. "That's not strength. That's *listening.* You can't buy it. I can barely teach it. He's going to out-hammer me before he's shaving, and when he does, I'll be in the front row drinking."
+"Innate soul power. **Rank five.**"
 
-The guild stamped his grade-1 at eight winters and change, grumbling; grade-2 at ten, complaining; grade-3 the spring he turned eleven, by examination rule — three works, cold-forged, cold-measured, no soul power permitted, two examiners watching his palms the whole way as if the world might be tricked by fingers. It was not tricked. The commission season that summer ran nineteen days on a set of refined blanks for the soul-tool workshops of the capital province, and it paid six gold, and when the foreman counted the coins the boy counted something else: the calluses his father would recognize on a handshake.
+That autumn Jin Yang walked thirty li into White Birch City with a recommendation letter, and the headmaster of the city junior academy — **Chu Shan, a Soul King of the fifty-sixth rank**, a thin old man with a voice like a barn door — looked at the boy's thin arms, looked at the gold shape behind them, and said four words:
 
-Two gold went home for the roof of his mother's goose-house, because the old one had learned to leak precisely over the nesting boxes. His mother wrote back in seed-sack characters: *roof holds, geese proud, father says plantings days if school allows. do not spend on us we are fed.* He read it at the forge on his lunch break and Gongshu, passing, saw his face and said, without stopping: "Good letter?"
+"You'll train with me."
 
-"Best in the world, Master."
+Five years. Rank five to **rank twenty-three**.
 
-"Then it's a good trade you're in." The tongs pointed at the anvil, at the gold count on the bench, at the boy. "Send the next one from inside that school. Tell them White Birch taught you the hammer. Tell them — " and here the old smith's mustache performed something uncommon — "tell them the lion learned it *listening.*"
+Chu Shan's whole method could be written on one hand: **foundation first**. Speed without base was a house on sand, he said, and sand was for children playing. So at eight, Jin Yang was sent to learn hammer-work at **Master Gongshu Yan's forge** — a grade-six smith with forearms like ship rope — for two coppers a day and the right to be shouted at.
 
-The letter from Chu Shan came the first day of his eleventh-year spring, sealed with the mountain ring, and said two sentences only. *Your name is in this season's lists at Shrek. Come and be measured.*
+Sweep for a season. Bellows for a year. Hammer when told.
 
-He was on the road by the fifth watch of the night, because that was the hour his body chose now — the way it chose everything, quietly, without asking him, and always a little better than he would have chosen himself.
+"Again," was the first word Gongshu taught him. It was also the second through the fortieth.
+
+But the boy had a body that mended bruises by morning, and — after his ninth autumn — something better. That year Chu Shan took him to the forest margins for his **first ring**: a golden lion, **five hundred years** grown, while every doctrine book in every academy said a first ring's ceiling stood near **four hundred twenty-three years**.
+
+"He is your kind," Chu Shan said, crouched in the needle-grass two hundred paces off the den. "Same blood, same metal. Your soul will want him. The question is whether your body can hold what your soul wants. Understand me, boy — if the ring tears you open, I can kill the beast after. I cannot un-tear you. There is no second cast of this die."
+
+The lion nearly killed him twice — once through the ribs, once through the thigh — and the ring poured into him like floodwater. His body held. Nobody could explain it cleanly and Jin Yang had long since stopped asking it to be explained: he had been born with something in him that took what the world offered and made it fit. The five hundred years of the lion came out of the sifting as his own.
+
+The skill that settled into the ring was the lion's killing blow, remade for hands. **Golden Lion Claw.**
+
+Two winters later the second hunt put doctrine out of business completely. An **earth-armored iron dragon — nine hundred seventy years old, shedding into its thousandth** — tracked for a season, met in a ravine of wet red clay, fought from noon to dark. When the purple ring rose off the carcass and settled onto the boy's martial soul, Chu Shan went white and stood in the rain for a long time without speaking. A second ring, at that age, should have stopped near seven hundred sixty-four years. The purple said otherwise.
+
+The old man bowed to him in private, after.
+
+"Other academies will measure you small so you grade neatly," he said. "Shrek won't. Go to Shrek."
+
+The second ring's skill came out of the drake and got re-fitted by the boy's body the way Gongshu re-fitted old steel to a new haft: **Golden Lion Body** — strength doubled, defense doubled, while it ran. And under the metal of his soul, something quiet had taken root: the drake's earth, grafted deep by the clean absorption.
+
+Metal for the kill. Earth for the standing. Chu Shan said it like a proverb and made him say it back before every cold morning drill until it sat in him next to breathing.
+
+That spring he stood his **grade-three smith** exam — three works, cold-forged, no soul power allowed, two examiners watching his hands the whole time like the world could be tricked through fingers. It could not. That summer he filled his first gold-scale commission: a nineteen-day set of refined blanks for a soul-tool workshop, **six gold coins** for the set. Two gold had gone home the month before to put a new roof over his mother's goose-house, on account of the old roof having learned to leak directly over the nesting boxes.
+
+On the first day of his eleventh spring, Chu Shan put the letter into his hand.
+
+"Your name is in this season's lists at Shrek," the old man said. "Come back a finished product, or don't come back telling me stories."
+
+Six days later the road was in his sandals.
 
 ---
 
-### THE ROAD
+## Part 3: The Caravan and the Boar
 
-Three days out of White Birch City, the road put him behind the canvas wagons of Old Wei's grain caravan, by chance and by Wei's kindness — four carts, spavined mules, six contract guards, and a leader of the fifteenth rank who chewed betel and told the same war story eight ways, each way more flattering to its teller.
+Three days out of White Birch City he joined the tail of Old Wei's grain caravan — four canvas carts, spavined mules, six contract guards, and a guard captain of the fifteenth rank who chewed betel and told the same war story eight ways, each way kinder to the captain.
 
-Jin Yang said nothing about what he was. He walked in the dust of the rearmost cart and ate flatbread, and the mules — who should have shied at him, could not shy, would not shy — watched him with wet dark eyes and stayed strangely, peacefully calm, as animals are calm in the sun of a king's pasture.
+Jin Yang said nothing about being a soul master. He walked in the dust of the rear cart and ate flatbread, and the mules, who should have hated him, watched him with wet eyes and stayed calm. Dumb beasts smell a predator the way grass feels weather. What the mules felt from the thin boy in the road dust was not what a lion smells like. It was what a lion smells like when it has already eaten.
 
-"You smell like my cousin's donkey," the fourth guard told him on the fifth night, conversationally, over beans.
+On the sixth night, at moonrise, the boar came out of the brush-line.
 
-"I've been walking six days," Jin Yang said. "In six days you'll smell like him too."
+An **iron-bristle boar — three hundred years**, rank-one soul beast, hide like studded mail, maddened by the smell of grain, and in a hurry. The captain wet his blade hand and shouted for a formation, and looked around to discover his five men had already made one — behind the wagons. Old Wei stood in the road with his lantern up, alone, like a man about to reason with a flood.
 
-"Boy has a point, Er-Zhu."
+Jin Yang put his flatbread down.
 
-"Boy has my *bean spoon*, is what boy has—"
+"Soul ring," he said, mostly to check in with himself, and called his martial soul.
 
-The boar came on the sixth night, at moonrise, out of the brush-line like a landslide with tusks.
+Gold light stood up in the dark.
 
-An iron-bristle boar — three hundred winters of bad temper packed into hide like studded mail, a rank-one soul beast maddened by the reek of grain, and all the more dangerous for having no idea what it was charging. The betel leader wet his blade-hand and shouted *formation*, and discovered five men had already formed one — behind the wagons. Old Wei stood in the boar's path with a lantern, gaping, like a man attempting to reason with weather.
+The mane came down across his shoulders and neck, near-solid, bright. His eyes went amber. The claws came out of his knuckles like drawn wire — twenty centimeters of gold-edged light. The boy's frame broadened a handspan, and the aura of the golden lion rolled out over the caravan once, a king's question asked quietly of every living thing in hearing: *will you kneel, or will you stand still?*
 
-Jin Yang put down his flatbread.
+The rings rose behind him. **Yellow. Purple.**
 
-"Soul ring," he said, mostly to himself, the way a man checks a latch. And called his martial soul.
-
-Gold light stood up out of the dark.
-
-The mane came first, crowning down his neck and shoulders in near-solid strands of poured light; the amber came into the eyes; the frame of him broadened a handspan against the wagon line, and the aura went out over the caravan like a king's old quiet question, put to every living thing in earshot at once: *will you kneel, or will you be counted?* The mules chose to be counted, and sighed, and were calm. The rings rose and took their orbits — one yellow, one purple, and the purple one bloomed.
+The purple one bloomed.
 
 **Golden Lion Body.**
 
-The amplification took him the way the brook takes the first rain: strength doubled, defense doubled, the hundred percent his body had itemized long ago in a cold ravine when the drake's ring first taught him the price of the word *hundred*. Gold luster ran over his skin and settled, not as scales — his soul wore no foreign scales — but as a forged sheen that followed the lines of arms and shoulders, and through the soles of his feet the earth came up like an old loyal dog and set itself beneath him.
+The amplification ran through him the way rain runs into a brook — strength up one hundred percent, defense up one hundred percent, his body's old honest accounting of the drake's gift. Gold sheen settled over his skin, following the lines of his arms and shoulders, and under his feet the earth rose and held like a loyal thing.
 
 The boar hit him dead center at a full charge.
 
-He did not move. Not a step, not a slide, not a span of dust pushed back. Three hundred winters of iron fury broke against an eleven-year-old standing in the road as against a gatepost of the earth itself, and the sound was a temple bell rung the wrong way. The boar reeled, squealing, tusks ringing. Behind the wagons, the guards made a single collective noise, the noise geese make when the hawk-shadow crosses the yard.
+He did not move. Not a step. Three hundred years of iron bristle broke against an eleven-year-old boy as against a gatepost, and the sound of it was a bell rung wrong. The boar staggered back, squealing, tusk-white.
 
-Jin Yang's arm came up. Soul power answered the way it always answered him — counted, measured, poured.
+Behind the wagons the guards made one shared noise, the noise geese make when a shadow crosses the yard.
+
+Jin Yang raised his right arm. Soul power answered the way it always answered him — measured, counted, poured.
 
 **Golden Lion Claw.**
 
-Light gathered into the five claws and lengthened them into blades of living gold, metal-forged and metal-hungry, and he put one rake — one — across the studded hide, shoulder to ham. Armor that had turned a dozen years of hunters' hacks opened like wet millet husk. The boar came apart out of its charge and was finished before Old Wei's lantern had stopped swinging.
+The claws lengthened into five blades of living gold. One rake — one — shoulder to ham, through armor that had turned a dozen years of hunters' blades. The boar came apart and was done before Old Wei's lantern stopped swinging.
 
-A yellow-white ring lifted off the carcass, drifted, faded. Jin Yang stood in the settling dust and took his own count, the way Chu had beaten into him to take it: the claw had drunk near a twentieth of his reserve; the amplification, running, was sipping steady, and he closed it down. Twelve minutes, the habit marked, from full pour to running on dregs. Cost known. Filed. *A soul master who doesn't know his costs is a soul master's funeral notice.*
+A yellow-white ring lifted off the carcass, floated a moment, and faded.
 
-Old Wei lowered the lantern. "Immortal young master," he said — what village people said when the world showed them a shape they owned no shelf for.
+Jin Yang took his own count, the way Chu Shan had beaten into him. The claw: about a twentieth of his reserve. The amplification, still running: a steady sip. He closed it down. Twelve minutes at full spend, from full to dregs — he knew the number the way he knew his own pulse. *A soul master who doesn't know his costs is a soul master's funeral notice.*
 
-"Jin Yang, of Jinxi," Jin Yang said. "Is any of the grain cooked?"
+Old Wei lowered the lantern.
 
-The guards laughed so hard the betel leader swallowed his quid, which improved conversation for the rest of the night.
+"Immortal young master," he said, the way village people talked when the world showed them a shape they had no word for.
 
----
+"Jin Yang, of Jinxi village," the boy said. "Is any of that grain cooked?"
 
-### THE GATE
+The guards laughed so hard the captain swallowed his betel, which improved everyone's evening.
 
-They tried to pay him at the parting — Wei most solemnly, the betel man most fervently — and he took one meal, two steamed rolls for the road, and, at the third press of the purse, one copper coin, because his mother had told him once that a man who accepts nothing makes his helpers feel useless, and his mother was right about nearly everything except geese.
+At the parting they tried to pay him — Wei solemnly, the captain loudly — and he took one meal, two steamed rolls for the road, and one copper coin at the third insistence, because his mother had told him once that a man who takes nothing makes his helpers feel useless, and she was right about nearly everything except geese.
 
-"Where does a young master of the twenty-third rank walk at eleven years of spring?" Wei asked at the fork, half-curious and half-praying, in the tone of a man inquiring the road of a magistrate.
+"Where does a boy of the twenty-third rank walk at eleven years old?" Wei asked him at the fork, half curious, half praying.
 
 "Shrek," Jin Yang said.
 
-Old Wei stopped pressing the purse then, and only looked at him the way men look at weather they have already decided to pray to. "May the lion carry you, child of the brook-gold."
+Old Wei stepped back from the purse then, and pressed his palms together, and said, the way you speak to weather you have already decided to respect: "May the lion carry you, child of the gold brook."
 
-He came in sight of Shrek City on the seventh morning.
+---
 
-It was not a city so much as an argument the world had had with the sky, and won. The walls ran beyond both edges of his view, and past them the roofs of the academy climbed in terraces toward some old heart where, if half the stories half the academies told were true, a god had once planted a golden tree with his own hands. Beneath the gate towers the enrollment press had already gathered: the hopefuls coiled down the switchback like a living rope, banners of city academies, clan pennons in every heraldic color, recommendation letters held aloft like passports to heaven.
+## Part 4: The Gate
 
-Jin Yang took the letter out of his shirt at last. The wax was warm from six days against his skin: Chu's mountain seal, unbroken.
+He saw Shrek City on the seventh morning, from the last rise of the plain.
 
-*Go to Shrek.* Done, then. He walked down the hill and took his place in the coiling rope, behind a clan-candidate in mourning-gray silk who was complaining about the queue to anyone in earshot, and ahead of two sisters sharing one parasol and four baskets of food, who offered him a savory cake within the first hundred steps because, the elder said gravely, he had the look of a boy whose mother lived far away.
+It was enormous. The walls ran past both edges of his sight. Beyond them the academy's roofs climbed in tiers toward the city's heart, where — if half the stories were half-true — a god had once planted a golden tree. Under the gate towers the enrollment crowd was already wound down the hill: a rope of a thousand people, academy banners, clan flags, mothers fixing collars, servants holding umbrellas over young masters' heads.
 
-He accepted the cake, because his mother had also taught him about refusing food.
+Jin Yang took the letter out of his shirt. The wax was warm from six days against his skin.
 
-And so it happened that on the same morning — same sunlight, same gray gate-stones, forty paces ahead of where a village boy chewed a stranger's cake in the line — a thin, plain-faced boy with soft black hair bought roasted wheat cakes from a gate vendor with careful coppers, and received, with them, directions to the queue's tail from a young woman whose eyes were kind and whose sect was very small; and so it likewise happened, twenty paces behind her, that a boy with hair the color of a clear dawn over water stood glaring at the length of the enrollment line as if length were a personal insult he intended to reduce personally.
+*Go to Shrek.* All right, then.
 
-Jin Yang noticed none of them. The rope moved. A clerk's bell rang. Somewhere up the line a child flared three rings — yellow, yellow, purple — and the crowd made its goose-sound, and the two parasol sisters clutched each other like it was weather.
+He walked down the hill and found the end of the line, behind a candidate in gray silk who was explaining queue reform to nobody, and ahead of two sisters with one parasol and four baskets of food. The elder sister looked at his dusty pack and his quiet face and pressed a savory cake into his hands before he had said a single word.
 
-"Next," the bell-man called, as the boy with the golden blood stepped up to be measured.
+"You have the look of a boy whose mother lives a long way off," she said, as if diagnosing an illness. "Eat. It's free. We're entering school to help people; we might as well start with you."
+
+He took the cake, because his mother had also had teachings about refusing food.
+
+And so it happened, on the same morning, on the same gray stones in the same sunlight — forty paces ahead of where a village boy finished a stranger's cake — that a thin, plain-faced boy with soft black hair bought roasted wheat cakes from a gate vendor with careful coppers, and was given directions to the end of the line by a kind-eyed young woman whose sect was very small. Twenty paces behind her, a boy with hair the color of a clear pink-blue dawn stood looking at the length of the line the way a general looks at a wall he intends to breach personally.
+
+Jin Yang noticed none of them. The rope moved. A clerk's bell rang. Somewhere up at the tents a child flashed three rings and the crowd hummed like disturbed geese.
+
+"Next," the bell-man called.
+
+The boy with the gold brook at his back stepped forward to be measured.
 
 ---
 
@@ -187,17 +177,19 @@ Jin Yang noticed none of them. The rope moved. A clerk's bell rang. Somewhere up
 
 # CHAPTER CARDS (ledger-sync · non-prose)
 
-**REBUILD NOTE (METHOD v3):** chapter re-carved warm-register per R-1..R-9 (long full beats, family foreground, banter, hook). All carded facts below unchanged — story canon continuous with log 001–013.
+**REBUILD NOTE (v4):** rewritten to METHOD v4 — plain language law (author Law 7). Every carded fact preserved.
 
-**Shipped numbers (unchanged, still carded):**
-- Golden Lion Claw cost: **≈1/20 of reserve per strike** (5%, rank-23 measure)
-- Golden Lion Body at rank 23, full +100% window: **12 minutes**, then dregs
-- Skill 1 register: melee-burst; Skill 2: +100% strength/+100% defense; earth-grounding (zero displacement vs 300 y charge)
-- Metal primary; earth graft secondary (L-09) — both in play, softly
-- Predator aura passive (geese escort; mules calm) — bloodline card, used softly
+**Carded facts (unchanged):**
+- Home: Jinxi Village, 40 roofs, no gate, gold brook · father millet/plough-smith, line: "Strike true, or don't strike" · mother geese + seed-sack education, line: "Behave like the kitchen that fed you" · gander honor-escort since age 5 (predator aura, passive card)
+- Awakening age 6, White Birch City: **Qiao Tong** (Soul Elder, 30s), golden lion, innate **rank 5**; autumn 30-li walk; **Chu Shan** (Soul King **rank 56**) master
+- Forge: age 8, **Gongshu Yan** (guild grade 6), 2 coppers/day; resonance sense post-lion (grain/stress/temp through palms) `[design]`; guild grades 1 (≈9), 2 (10), **3 (11, three works cold-forged, no soul power)**; 19-day commission = **6 gold**; goose-house roof **2 gold**; purse: **31 g 4 s**
+- First ring: 500-y golden lion; doctrine ceiling 423; wounded ribs/thigh; perfect absorption; **Skill 1: Golden Lion Claw** (melee-burst; ~1/20 reserve per strike)
+- Second ring: earth-armored iron dragon, **970 y crossing to 1000th**; noon-to-dark ravine; purple ring; doctrine ceiling 764; **Skill 2: Golden Lion Body** (+100% STR / +100% DEF; window **12 min** full spend) + **earth attribute grafted (L-09)**; Chu bows, names Shrek
+- Road: 6 days walk; Old Wei caravan (4 carts, 6 guards, captain rank 15) · iron-bristle boar 300 y kill: zero displacement (earth stand), one claw-rake through mail; accepts 1 meal + 2 rolls + 1 copper
+- Numbers carded: claws 20 cm; handspan broadening; aura silent ("kneel or be counted"); rings yellow + purple in public
 
-**Past-bible anchors restated:** Jinxi (40 roofs, gold brook) · father millet/plough-smith · mother geese+100 characters · midwife sun-note · awakening age 6, White Birch City, **Qiao Tong** kneels, innate **rank 5** · 30 li autumn walk · **Chu Shan** Soul King **56** disciple-master, foundation-first brake · smithy age 8 under **Gongshu Yan** (guild grade 6), 2 coppers/day · guild grade 1 (≈9) · **first hunt autumn-age-9: 500 y golden lion vs doctrine 423; ribs/thigh; perfect absorption; Skill 1** · bend 7.5 ranks/yr · grade 2 · **second hunt: Earth Armoured Iron Dragon, 970 winters shedding into thousandth, noon→red dark; purple 1000 y-tier ring; Skill 2 + earth graft** · Chu bows; names Shrek · grade 3 smith (three works, cold-forged, no soul power) · 19-day six-gold blank set · savings **31 g 4 s** + coppers (goose-house roof 2 g already spent) · spring-11 birthday · letter, mountain wax · six days on the road.
+**Canon anchors:** era law ✓ (no SH/Sp) · doctrine ceilings 423/764 (L-03) · absorption pricing (L-04) · queue cameo background-only: plain boy + kind woman (Huo/Tang Ya) + dawn-haired boy (Wang Dong) ~same entry morning — **no contact, L-05 queue: 0**.
 
-**Canon anchors kept:** era law L-02 · ring ceilings 423/764 doctrine (L-03) · absorption pricing shown (L-04) · queue cameo = background only — Huo + Tang Ya + Wang Dong same entry morning (SL2 ch ~4–5), **no interaction, nothing taken; L-05 queue: 0.**
+**Self-audit tick:** no stacked figuratives (max 1 plain simile/scene) · dialogue-scene density: 5 scenes, all talk-bearing · numbers verified vs panel.
 
-**Fortune Compensation Queue:** 0. **Open for ch 2:** the measure at the tents — rank, age, rings, strike; Teacher Wang's morning.
+**Fortune queue: 0. Next: ch 2 — the measure at the tents.**
