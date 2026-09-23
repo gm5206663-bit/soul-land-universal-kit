@@ -124,8 +124,9 @@ numbers.
 - Serial scope; natural length; NATURAL ENDING (none pre-chosen).
 
 ## Now
-LIVE EDGE: after Chapter 21 "The Watch and the Pass" (DL 3676–77 — the pass
-crossed; the road resumed north of it; real age ≈ 204–212 months). THE PASS,
+LIVE EDGE: after Chapter 22 "The Deep Forest Proper" (DL 3677–3679 — the forest
+proper read and walked; THE LEAN found; the road and the pull coming apart ahead;
+real age ≈ 228–236 months; cultivation ≈ 390–450). THE PASS,
 CROSSED (ch21): the watch taught its hours (the holder's sun-rounds as a tide of
 attention with no body; the edges' laws; the quick kinds' moonset road at the
 south lip's bend; the storm night's closed road — the river's noise is cover);
