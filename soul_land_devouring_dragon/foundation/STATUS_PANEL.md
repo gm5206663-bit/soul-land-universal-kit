@@ -36,9 +36,16 @@ panel first) — receipts in RAILS. Ch 8 "The Deep Country" 3,308w/17.5/55
 season ceiling (reason in footer) — the craft, the decoy, the voice's two
 lessons, the ledge hunt whole, the greatness, the red thing saved by the
 voice; a doubled-sentence copy defect in the old edition found and removed.
-All shipped and site-synced. Next: Ch 10 "The Cold Country", then 11–12;
-audio re-records after the last chapter. Chapters 10–24 still carry the old
-voice.)
+Ch 10 "The Cold Country" 3,287w/17.0/53 shipped under ALL THREE LENSES
+(canon voice + manhua + the DONGHUA LENS, s56, author: "Why don't you checking
+donghua" — receipts in RAILS: the donghua keeps the novel's explanations,
+merges 2–3 chapters per episode, opens on a complete mini-arc, expands
+ambiguities into flashback scenes; it reorders chapters — WE NEVER DO, the
+s34/s40/s52 rule stands). The opening is a mini-arc; the stag loss replays
+inside the proving hunt; the standing-lights night is the ceremonial beat;
+the old "smelt" copy-defect fixed to "smoke." All shipped and site-synced.
+Next: Ch 11 "The War of the Lists", then 12; audio re-records after the last
+chapter. Chapters 11–24 still carry the old voice.)
 
 Updated: 2026-09-23 (session 53 — AUTHOR STYLE STRIKE #3, verbatim: "Still very
 bad writing style, actually go see how soul land canon acutely written."

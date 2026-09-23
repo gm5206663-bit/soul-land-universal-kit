@@ -245,6 +245,40 @@ logs may call him DD; a personal name, if the story ever earns one, remains the
 story's (ENDING LAW). THE ROLLOUT IS STAGED: chapters in order, each one gated
 before it ships; site indexes/recaps follow each batch; audio re-records last.
 
+## THE DONGHUA LENS — "why don't you checking donghua" (author word, session 56, 2026-09-23)
+
+The author pointed at the animated series. Checked the same session — receipts:
+- FIDELITY: readers hold the donghua "more faithful to the novel than the
+  manhua" — it KEEPS the novel's explanations and expands what the novel left
+  ambiguous into full scenes (Reddit r/SoulLand).
+- PACING: 2–3 novel chapters per episode (Reddit; Baidu Baike's episode-to-
+  chapter map), with "narrative shortcuts to maintain pacing" (Grokipedia) —
+  achieved by MERGING scenes, not by cutting content.
+- EPISODE ONE'S SHAPE: a complete mini-arc in one episode — the chase, the
+  jump, the rebirth — with the world's fundamental mechanics introduced inside
+  the action (episode guide).
+- It also reorders some chapters for flow — THAT we never do (the s34/s40/s52
+  rule: facts, order, causes never change; only the telling).
+
+THE RULES (manhua pacing + novel explanation + the donghua's structure):
+1. THE OPENING IS A COMPLETE MINI-ARC. The chapter's first scene is a whole
+   small story — motion, turn, landing — and it carries the chapter's
+   world-rule inside the action (the episode-one shape).
+2. RE-ANCHOR INSIDE THE MOTION. One grounding clause (season, place, where the
+   last chapter left him) woven into the opening motion — the "previously-on"
+   as a line, never a summary block.
+3. MERGE, DON'T QUEUE. Where beats would queue (the lesson, then the proof),
+   run them inside one scene: the lesson learned in the doing, or the loss
+   replayed as a short memory-panel inside the proving scene (the donghua's
+   expanded flashbacks). The EVENTS keep their order; the TELLING interleaves.
+4. THE CEREMONIAL BEAT. Power moments get the slow panel AND a held beat of
+   stillness after — the country as witness, then quiet — before the pace
+   resumes.
+5. NO DEAD AIR. Every scene carries at least one of story, character, or
+   world; a scene carrying none merges into its neighbor or goes.
+
+First application: Chapter 10, batch 4 (s56).
+
 ## OC STATUS LAW — "a status list of him that continuously updates" (author word, session 55, 2026-09-23)
 
 Author, verbatim: "Create a perfect and current and clean and perfect oc stutas
