@@ -1,11 +1,38 @@
-# HIS STATUS PANEL — clean sheet
-Live after Chapter 24 "The Stone Country" (DL 3681–3683 — the opposite country walked: distance the ruler, the high kinds' teaching, the warmth map, the thin bargain; the scree wrong paid (the mountain's memory of noise); the first pass crossed in the gray kind's company; the mountain's winter denned at the warm spring, the pull under the snow).
-per kit 02) and ADAPTATION_LOG; updated each chapter. If this sheet and
-STATUS_PANEL ever disagree, STATUS_PANEL is right and this sheet is stale.
-Law: numbers live in panel files only, never in prose. Design estimates are
-marked [design] and belong to the author to correct.
+# OC STATUS — THE DEVOURING DRAGON (DD)
+
+> **The one clean sheet of everything about him. AUTO-GENERATED — never hand-edit.**
+> Sources, read fresh on every run: `bible/HIS_STATUS_PANEL.md` (the authority) · `foundation/CONTINUITY.md` (chapter recaps) · chapter footers (DL dates, measured counts).
+> Regenerated on every ship by `tools/build_oc_status.py`; the Sentinel fails the build if this sheet is stale.
+
+GENERATED: 2026-09-23 13:33 UTC
+LIVE AS OF: Chapter 24 "The Stone Country" (DL 3681–3683)
+NEXT: Chapter 25 "THE SECOND RANGE"
 
 ---
+
+## AT A GLANCE
+
+| Field | Status |
+|---|---|
+| **Name** | NONE (a name only if the world gives him one — DS-07). |
+| **Race** | DEVOURING DRAGON — a SUB-line of the dragon race (Earth Dragon line; Tyrant Dragon kinship; the Golden Dragon King's blood within; all dragonkind descends from the … |
+| **Born** | late summer DL 3661 — 1,000 years after Soul Land 1. |
+| **Real age now** | ≈ 22 years (DL 3683 − DL 3661; the panel's OPEN hatch-year reconciliation stands). |
+| **Cultivation class** | HUNDRED-YEAR CLASS (yellow-ring tier, 100–999 cultivation-yrs). |
+| **Cultivation-age** | ≈ 350–390 years (no clock; ch21 claims no gain — a moon of watching and one crossing). |
+| **Ring if killed now** | YELLOW (hundred-year class) — real worth to a hunter now; grows with his years. |
+| **First barrier** | CROSSED — the second winter's long storm; event-shaped; written against master §29. |
+| **Next barrier** | cultivation-year 1,000 — unaged, unfelt. |
+| **Length / weight** | ≈ 4 m [design]. · ≈ 400 kg, dense [design]. |
+| **Scales** | dark deep blue — the full DEEP LAYERING of his kind locked in at the first barrier (armor set into the truth of his race); darker and deeper after the deep-fringe … |
+| **Where he is now** | THE STONE COUNTRY (ch24 — the first mountain range: the high kinds' ground learned, THE FIRST PASS crossed in the gray kind's company at gray light |
+| **Next chapter** | Chapter 25 "THE SECOND RANGE" |
+
+---
+
+## THE FULL SHEET (from HIS_STATUS_PANEL — the single authority)
+
+*(sections carried verbatim from the panel — the panel is right if anything here reads oddly; design estimates are the author's to correct)*
 
 ## 1. IDENTITY
 - Name: NONE (a name only if the world gives him one — DS-07).
@@ -263,187 +290,43 @@ marked [design] and belong to the author to correct.
   each other's ground.
 - The country that made him: kept whole, past argument.
 
-## Chapter 13 close — the falling of the green (DL 3664; real age ≈ 64–66 months)
-- THE AFTER-COST PAID: the water bank relearned him through the season; the
-  stillness that ground remembers; his own bank his again.
-- THE WAR IN THE GROUND: his kill-word read as a SIGN; the counter (loud kills
-  left as lies in the far south and the low outer country); the first
-  watch-fold given up unentered.
-- THE VOICE: spent once at the edge of the deep place; read as a WORD by
-  anything deep enough (no going flat, no giving of ground: the silence of
-  being read). A name he cannot un-say.
-- THE WANT: wakened patient at the turning of the season — unhurried, wanting
-  the deep years (DS-08 uncured, ridden).
-- Counts (s40, after the plain-language rewrite): 2,564 body words; 32 spoken
-  lines, 12.5 per 1000w; average 17.7 words per sentence, longest 54. [clause reworded s43: the 60-word sentence cap is the rule; short one-line beats allowed]
 
-## Chapter 14 close — the deep country's second winter (DL 3664–65; real age ≈ 68–70 months)
-- THE SIGN'S SECOND EDGE: the pale beast of the deep fringe follows his lie-kills
-  (meat untouched at a written kill); his own craft grown a second edge.
-- THE AIMED WORD: the voice spent into a creature at four lengths (short, dense,
-  no roll over the country); the beast stopped and left the kill; the price —
-  two days of the country reading too warmly, the thread loud in the chest.
-- THE WANT'S QUESTION: a heavy beast eaten deep and the hunger unmoved; no meal
-  can answer it any more; it wants the standing itself; held like a current.
-- THE WATCH PULLED OFF HIS GROUND: the pale beast broke one of their folds and
-  killed a man; the keepers' line now carries a wrong face and walks south.
-- Counts (s40, after the plain-language rewrite): 3,169 body words; 38 spoken
-  lines, 12.0 per 1000w; average 17.2 words per sentence, longest 46. [clause reworded s43: the 60-word sentence cap is the rule; short one-line beats allowed]
+---
 
-## Chapter 15 close — the thaw on the taken low ground (DL 3665; real age ≈ 71–73 months)
-- THE SOUTH SEEN FROM THE RIDGE: the thaw; the camps on his ground down; one
-  smoke line still south, and he waits while it stands.
-- THE LOW COUNTRY TAKEN: the smoke gone; the emptied watch read in one walk
-  (bait eaten by the pale beast, wire and blind gone, the pale beast's tracks
-  south and not returning, the worn circle of a hound that would not leave one
-  patch of ground he cannot read); the ground open — no camp, no rival heavy
-  beast, the meat coming down to the new water, the road between the men's
-  country and the deep forest; his own quiet over it; first kill on it, the
-  rest dragged off the trail.
-- THE PAPER AND THE HOUND (parallel, not his): the pale beast walked the watch
-  wire, read the blind and ate the bait in the open in daylight — seen and
-  counted, no light for the box; the hound's third reading (it left a living
-  beast to stand over ground carrying his old scent); Old Qin's ruling and the
-  summer promise (walk where the hound points before writing a line).
-- THE HUNGER: patience asked again; the meal full and the hunger unmoved; he
-  only carries it now.
-- THE DEEP FOREST: unchanged all season; the pull toward the ground under the
-  greatnesses far off and the same.
-- Counts (s41): 2,686 body words; 51 spoken lines, 19.0 per 1000w; average 15.0
-  words per sentence, longest 53; no one-sentence paragraphs [clause reworded s43: the 60-word sentence cap is the rule; short one-line beat paragraphs are allowed].
+## LIFE LEDGER — every chapter, in order
 
-## Chapter 16 close — the summer on the taken ground (DL 3665; real age ≈ 74–76 months)
-- THE SUMMER: the low country hunted as his own; the water falling to pools and
-  holding the slow kind at it; kills kept off the trail; the hunger the same and
-  only carried.
-- THE LINE'S SUMMER WALK: four men and the hound came back north; he watched
-  them pass along his own trail without moving; on the high ground the hound
-  stopped at a dried pan and Xiao An read the ONE PRINT (the beast had stood in
-  the setting mud and looked down at the south where their fires had been);
-  Gao Tie cast both ends — stone and stream; the print is not the pale beast's.
-- THE PAN BECOMES THE WATCH: Old Qin would not write one print with no face and
-  no kill; four stones mark the place; next spring before the mud sets, the line
-  watches it (the younger man has the first watch).
-- HE PRINTS NO MORE (the turn): he read their stopped places and the hound's two
-  lines and the men's knees beside his own print, and gave up writing for them —
-  the pan untouched, the long way after (rock bars, bare stone, mud flats left
-  alone), two kills passed up and a day hungry twice; the cost paid.
-- THE STONES: men set a thing down in the open and walk away only to come back;
-  he does not know the whole of what they said.
-- THE SOUTH AND THE NORTH UNCHANGED; the hunger patient; the barrier unfelt.
-- Counts (s42): 2,791 body words; 48 spoken lines, 17.2 per 1000w; average 17.1
-  words per sentence, longest 57; no one-sentence paragraphs [clause reworded s43: the 60-word sentence cap is the rule; short one-line beat paragraphs are allowed].
+| # | DL | Title | Words | Where it left him |
+|---|---|---|---|---|
+| 1 | DL 3661 | The First Hunger | 3,211 | DL 3661 late summer — hatch (age 0) |
+| 2 | DL 3661–62 | The Law of the Snow | 3,259 | DL 3661 autumn (~2–4 mo) |
+| 3 | DL 3662 | The Ring of Light | 3,400 | DL 3661–62 first cold season (~5–9 mo) |
+| 4 | DL 3662 | The Weight of Blood | 2,698 | DL 3662 spring–summer (~10–18 mo) |
+| 5 | DL 3662 | The Hunger That Has No Meal | 3,381 | DL 3662 (~18–24 mo) |
+| 6 | DL 3662–63 | Greater Than the Wall | 2,969 | DL 3662–63 second cold season (~34 mo) |
+| 7 | DL 3663 | The Sense of Years | 2,974 | DL 3663 spring (~36–40 mo) |
+| 8 | DL 3663 | The Deep Country | 3,308 | DL 3663 first heat (~40–44 mo) |
+| 9 | DL 3663 | The Keeping Earned | 3,401 | DL 3663 deep summer (~44–48 mo) |
+| 10 | DL 3663–64 | The Cold Country | 3,432 | deep summer's height; keeping earned |
+| 11 | DL 3664 | The War of the Lists | 2,796 | the deep year turned; war of the lists opened |
+| 12 | DL 3664 | The Bull at the Water | 3,284 | the green season: the second line taken, the race's line won, the two reds met |
+| 13 | DL 3664 | The Keepers' Line | 2,564 | the green at its height: the bull taken, the crossing, the war's shape changed |
+| 14 | DL 3664–65 | The Wrong Face | 3,169 | the falling of the green: the after-cost paid, the keepers' line set, the voice at the deep edge |
+| 15 | DL 3665 | The Hound's Third Time | 2,229 | the wrong face on the keepers' line; the line turned south |
+| 16 | DL 3665 | The One Print | 2,319 | the line back north on the hound's read; the pan marked |
+| 17 | DL 3666 | The Long Wet | 2,250 | the pan marked; the low water watch set |
+| 18 | DL 3666–67 | The Dry Country | 2,360 | the men at the pool all dry |
+| 19 | DL 3667–3673 | The North Road | 2,018 | the country his; the men gone home; the prints off the page for years |
+| 20 | DL 3673–3676 | The Road Itself | 2,036 | the north road begun; the pull north by exactly the road walked |
+| 21 | DL 3676–77 | The Watch and the Pass | 2,017 | the pass country found; the watch begun from the high seat |
+| 22 | DL 3677–3679 | The Deep Forest Proper | 2,025 | the deep forest proper entered; the second law learned; the lean found |
+| 23 | DL 3679–3681 | The Parting | 2,039 | the road left at the ford; the mountains seen; the pull pointing |
+| 24 | DL 3681–3683 | The Stone Country | 2,058 | the stone country crossed to the first pass; the mountain's winter denned |
 
-## Chapter 17 close — the wet lived on stone (DL 3666; real age ≈ 83–85 months)
-- THE WET AND THE WATCH: the spring rain comes up the country and holds; the
-  line comes back to the marked pan before the mud sets (wire on both ways
-  onto it, the lean-to, the four stones standing); the pan is left alone to
-  take whatever walks.
-- THE FLOOD TAKES HIS GROUND: the streams over their banks; the low country
-  one brown sheet; the flood's first gift (two of the slow kind stranded on
-  the ridges, taken without a fight) and then the meat gone; he takes the
-  stone and the ravine den; hungry inside a week.
-- THE RAIN'S HOURS: open ground only in the heaviest rain, where his own
-  print slumps and fills inside the hour; the long way by the rock bars; two
-  kills passed up and one mud-island beast left standing; thin again; the
-  hunger using the thin weeks.
-- THE WIRE AND THE WHITE LIGHT (the line's night, read by him only as ground
-  afterwards): a young ox of the low country drowned out of the flats, come
-  up onto the high ground and dead in the wire in the dark; its white light
-  rose and stood in the rain; boxed and carried down to the tables.
-- OLD QIN'S RULING AND THE LOW WATER WATCH: the watch held the pan and no
-  line was gained for a season of rain; when the flats come out, the line
-  watches the LOW WATER — the net moves onto his summer ground.
-- HE READS THE STRUCK WATCH: ten days after; their whole season baked into
-  the pan (hound circles, poles, boots, the ox's smeared track) and NOT ONE
-  PRINT OF HIS; the trick's price paid for a whole wet; the bare-rock border
-  rule; the wet ends and the low country is his again.
-- Counts (s43): 2,967 body words; 50 spoken lines, 16.9 per 1000w; average
-  17.4 words per sentence, longest 57; one short one-line beat paragraph.
+---
 
-## Chapter 18 close — the dry, and the country his (DL 3667; real age ≈ 90–95 months)
-- THE DRAW-DOWN AND THE RUNS: his drinking moved to the fast water; kills taken
-  standing in the current; the summer's costs paid.
-- THE HOUND'S LAST WORD (carried away, unfinished): all season she stood pointed
-  up the water at a smell that was not there — his smell, two summers old, held
-  and never made into a thing a man could see.
-- THE WATCH GOES HOME: the camp struck at the end of the dry; the men walked
-  south with heavy packs; no fire came up the country again.
-- THE COUNTRY HIS: the low trail with no boots on it; the pan and the four
-  stones left to the grass and the crows; the whole country walked in six slow
-  days at the edges; nothing in it hunts him in return.
-- Counts (s45, after the beast-first rebuild): 2,360 body words; no panel; no
-  voices; average 23.4 words per sentence, longest 53.
+## LIVE EDGE — where the story stands
 
-## Chapters 19-22 close (derived; added 2026-09-23 by the second delegated agent of s49 after the s46-48 handoffs and the first s49 pass left this sheet at ch18)
-- CH 19 "The North Road" (DL 3667-73): six quiet years as time-skip summary —
-  the packs and the map of habit (the bank given up; kills never twice in a
-  year), the country taking the men's marks back, the two long sleeps (harder
-  armor, a longer shadow); the pale beast silent (the roar did not come); the
-  north road begun — the birdless hollow, the river-road, the far standing
-  light. 2,000w; no panel.
-- CH 20 "The Road Itself" (DL 3673-76): the road's first three years — the
-  giant's passing (the world does not lower its voice for him north of his
-  border); the tricks reborn at the world's new size; the first deep meal (the
-  rib-tear); the hunted week (the meat-tax lawed); the pass country found; the
-  watch begun from the high seat. 2,126w; no panel.
-- CH 21 "The Watch and the Pass" (DL 3676-77): the pass's hours learned; the old
-  grazer's taking (no crows — the pass keeps everything); the crossing inside
-  the river at the south lip's bend; the weight read him and let him go
-  (beneath notice, not mercy; the red thing risen and carried out by the
-  walking); the road resumed north. 2,017w; no panel.
-- CH 22 "The Deep Forest Proper" (DL 3677-79): two years inside the proper —
-  the reversal completed (blood-law in the low country, a scent on the road,
-  nothing here: a young thing in an old house); THE WALKED ROADS (pattern is
-  belonging); THE FERN HALL (the wrong: the perfect off-road take, the quiet
-  rising from the ground up, the unseen interested thing, the warm meat
-  abandoned — walking out, not running; the pressure stopping at the road's
-  edge); THE WATER (the one ground the forest cannot read — the first
-  stream-hunt; his oldest possession returned); the deep meals and the growth
-  (the line lengthened, the scales deepened; a local trouble, known and allowed
-  for); THE QUIET-SENSE (a whole ground's attention felt thinning, learned from
-  the pass, worth a kill a month); the road's manners (the bend around a darker
-  country; a standing light seen once at the black hour; the north wind); THE
-  PULL UNDERSTOOD (older than the forest's attention — a river under ice); THE
-  LEAN (on the rock spine: the pull settling a few points east of north toward
-  the far mountains; the road and the pull coming apart ahead). 2,367w; no
-  panel; no voices; average 18.8 words per sentence, longest 56. Next beat
-  registered: Ch 23 "The Parting".
+**LIVE AS OF: Chapter 24 "The Stone Country" (DL 3681–3683).** the opposite country walked: distance the ruler, the high kinds' teaching, the warmth map, the thin bargain; the scree wrong paid (the mountain's memory of noise); the first pass crossed in the gray kind's company; the mountain's winter denned at the warm spring, the pull under the snow).
 
-## Chapter 23 close — the parting and the shoulder of stone (DL 3679–81; real age ≈ 18–20 years)
-- THE PARTING: the road and the pull come apart for good at the ford (the
-  root-boar's flat look; no looking back — looking is a kind of going); the
-  water road (absence instead of belonging — eating in the current, sleeping on
-  the gravel spits; the swimmer-kind unbothered ten lengths away).
-- THE BAD GROUND: the walker's two passes (deep stone after rain); THE RED
-  THING HELD ALONE — no river to carry it out this time; spent breath by
-  breath against his own held will.
-- THE RISING COUNTRY: the falls chain (ladders and pantries); stone taking the
-  beds; the mountains seen — snow on the shoulders, THE PULL POINTING straight
-  at the highest whiteness; the shoulder of stone: unknown again, the old way
-  of being his; the first mountain meal (its years thin and cold and clean).
-- Counts (s52, plain edition): 2,039 body words; no panel; no voices; average
-  16.3 words per sentence, longest 56.
+**Next: Chapter 25 "THE SECOND RANGE"**
 
-## Chapter 24 close — the stone country and the first pass (DL 3681–83; real age ≈ 20–22 years)
-- THE OPPOSITE COUNTRY: no dark, no absence, distance the ruler; the trick
-  that survived the forest is not the trick of the stone.
-- THE HIGH KINDS' TEACHING: the gray kind (watching as being; the herd's sleep
-  in shifts); the scree towns (the country's bells, their silence his sentry);
-  THE HIGH WATCHER (patient in the updrafts, never seen to hunt; everything
-  beneath it living without looking up — and he looked up).
-- THE WARMTH MAP and THE THIN BARGAIN: warmth a place, not a time (lichen
-  beds, lee ground, stone above the loud streams); the meals thin; the growth
-  slowed to the mountain's pace — a harder, quieter animal; the forest's fat
-  burned off; scales tightened, wind lengthened.
-- THE SCREE WRONG: the straight line (the low country's choice); the slope
-  waking; the ride; the noise running the valley; the watcher coming down the
-  wind; lying as a thing the slide had made; the red thing spent into bare
-  stone — A MISTAKE IN THE STONE COUNTRY IS A MARK; never the straight line
-  again.
-- THE FIRST PASS CROSSED (in the gray kind's company, at gray light, the
-  notch's wind a standing wall of noise) and THE WINTER DEN at the warm
-  spring; the pull under the snow, straight as a plumb line toward the high
-  snows.
-- Counts (s52, plain edition): 2,058 body words; no panel; no voices; average
-  15.6 words per sentence, longest 43.

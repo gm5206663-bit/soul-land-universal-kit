@@ -178,7 +178,7 @@ But the first keeping was his.
 
 ## Footer
 
-- Word count (body): 3,400 (measure_prose, s43; floor 2000, s45) — at the s39 season ceiling, reason: a whole season's keeping in one chapter (the craft built and proven, the voice's lesson, the decoy, the hunt under the ledge, the greatness, the red thing ridden in the running). Spoken dialogue: 32 lines (9.4 per 1000w — the ledge panel).
+- Word count (body): 3,401 (measure_prose, s43; floor 2000, s45) — at the s39 season ceiling, reason: a whole season's keeping in one chapter (the craft built and proven, the voice's lesson, the decoy, the hunt under the ledge, the greatness, the red thing ridden in the running). Spoken dialogue: 32 lines (9.4 per 1000w — the ledge panel).
 - Prose metrics (measure_prose): average 17.4w, median 16w, longest 49w; no sentence over 60w; retired words zero (full s40 list swept; panel easings: "Fresh mark"→"Fresh sign", "what it can count"→"what it can tally" — meanings held; "the wallow" is the mud wallow, not the retired motif); the-way tic zero; zero count-numbers in prose; zero digits in body.
 - Chapter time: DL 3663 — the deep summer in the deep country (exact figures panel-only).
 - PANEL (one scene, pre-s45 and standing as canon content — s53/s54 change telling only): the hunt beneath the ledge — the print measured hand to hand, the trade of reading ground, the light that must be stood at, the hound's lifted head, the old reader's hand. They read their way to the bottom of his ledge and do not find him; every word reaches him as flat sound (firewall stands).

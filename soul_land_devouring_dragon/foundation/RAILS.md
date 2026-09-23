@@ -245,6 +245,34 @@ logs may call him DD; a personal name, if the story ever earns one, remains the
 story's (ENDING LAW). THE ROLLOUT IS STAGED: chapters in order, each one gated
 before it ships; site indexes/recaps follow each batch; audio re-records last.
 
+## OC STATUS LAW — "a status list of him that continuously updates" (author word, session 55, 2026-09-23)
+
+Author, verbatim: "Create a perfect and current and clean and perfect oc stutas
+list of file whom his everything include that continuously updates"
+
+THE OC STATUS SHEET is foundation/OC_STATUS.md (+ the library's dd-status.html):
+the one clean sheet of EVERYTHING about him — identity, cultivation (exact
+figures from the authority panel), body, attributes, skills, combat ledger,
+kept shapes, the full chapter-by-chapter life ledger, the live edge, and the
+next chapter.
+1. IT IS GENERATED, NEVER HAND-EDITED. tools/build_oc_status.py reads
+   bible/HIS_STATUS_PANEL.md (the authority), foundation/CONTINUITY.md,
+   the chapter footers, and the serial README's LIVE EDGE / NEXT BEAT lines —
+   fresh, on every run.
+2. IT REGENERATES ON EVERY SHIP. The ship script runs the builder in its full
+   mechanical path (after the serial README swap, before the site update).
+   Batch rewrites re-run it too. Nothing else keeps it current — nothing else
+   needs to.
+3. STALENESS IS A FAILING CHECK. The Sentinel compares the sheet's LIVE AS OF
+   stamp with the chapters on disk, and the site page's stamp with the
+   library's DD edge. A stale sheet fails the build.
+4. Cleanliness rules: AT A GLANCE carries the current facts in one table; THE
+   FULL SHEET carries the authority panel's sections verbatim; the LIFE LEDGER
+   carries every chapter with its DL span, measured words, and one-line recap;
+   footers must carry measured truth (the builder surfaced and the sweep fixed
+   four stale footer counts on installation, ch23 worst at 2,127 vs measured
+   2,039).
+
 ## THE MANHUA LENS — "why don't you check manhua" (author word, session 54, 2026-09-23)
 
 The author pointed at the manhua. Checked the same session — receipts:

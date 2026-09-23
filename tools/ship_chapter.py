@@ -202,6 +202,9 @@ def main():
         print("\nGates green. Now do the authored mirrors, then re-run with --mirrors-done:\n" + MIRRORS); return
     bump_root_readme(kit, n)
     swap_serial_readme(kit, a.live_edge, a.next_beat)
+    out, rc = run(f"python3 soul_land_devouring_dragon/tools/build_oc_status.py --site {a.site}", kit)
+    print("  " + out.strip().splitlines()[-1])
+    if rc != 0: die("OC status regeneration failed")
     words = site_update(a.site, kit, a.chapter, n, a.title, a.news_text)
     if a.cal_old and a.cal_new: calendar_bump(a.site, a.cal_old, a.cal_new)
     d = json.load(open(os.path.join(a.site, "data", "serials.json"), encoding='utf-8'))
