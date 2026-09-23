@@ -19,7 +19,7 @@
 
 ## THE COUNT
 
-**144 distinct recorded mistakes (128 through §L, plus the 8 of §M and the 8 of the §N deep sweep) · 11 author strikes that became standing law · 5 disasters · 23 still open or author-gated.**
+**146 distinct recorded mistakes (128 through §L, plus §M 8, §N 8, §O 2) · 11 author strikes that became standing law · 5 disasters · 23 still open or author-gated.**
 
 ---
 
@@ -234,6 +234,24 @@ guide, site pushes same session. All fixes verified against live state.
 
 **Sentinel after the sweep: 22 checks — 22 pass / 0 warn / 0 fail** (two new permanent
 checks: kit-trees byte-identity; Blue Silver under the unified gate).
+
+---
+
+## §O · THE 2026-09-23 ADVANCED LAYER ("Do all 7" — turn 14)
+
+The seven-part advanced plan executed in one session: the Ship Script
+(tools/ship_chapter.py), the Story-So-Far recaps, the discoverability pack, the
+continuity linter, the analytics law-lines, the first audio edition, and
+Chapter 24 shipped through the new tooling.
+
+| # | Mistake / lesson | Correction | Receipt |
+|---|---|---|---|
+| O1 | **The Chapter 24 draft carried four defect waves** — under floor (1,966w), four the-way tics, retired-word collisions ('the white' inside 'the whiteness' — the substring law the checker enforces; 'fold-lines'), and three over-60 sentences. Every wave was caught by the new ship script BEFORE the ship, in its first live cargo. The lesson lands twice over: the defect classes keep trying to return in fresh drafting, and the cure is a gate that cannot be skipped. | Fixed (plain 'high snows', 'seam-lines', 'camps'; sentences split; a real hunt scene added); shipped clean at 2,198w / avg 21.3 / max 59 / tic 1 / sweep PASS 24/24. | ship script log; kit commit |
+| O2 | **The release-asset metadata false alarm**: the API listed the DD and AP ebooks at their OLD pre-repair sizes hours after the repaired re-upload; two test deletes harmlessly 404'd on phantom cached IDs. Bytes verified md5-identical to the repaired editions — the listing was stale CDN metadata, not the files. | Lesson lawed: **verify bytes, not metadata** — download and checksum before believing a listing (or acting on it). | deep check, 2026-09-23 |
+
+**Sentinel after the layer: 23 checks — 23 pass / 0 warn / 0 fail** (the
+continuity linter is now a permanent check: timeline monotonicity, chapter
+coverage, place citations — negative-tested by breaking a copy).
 
 ---
 
