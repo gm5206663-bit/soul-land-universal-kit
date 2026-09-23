@@ -19,7 +19,7 @@
 
 ## THE COUNT
 
-**136 distinct recorded mistakes (128 through §L, plus the 8 of the §M correction sweep) · 11 author strikes that became standing law · 5 disasters · 23 still open or author-gated.**
+**144 distinct recorded mistakes (128 through §L, plus the 8 of §M and the 8 of the §N deep sweep) · 11 author strikes that became standing law · 5 disasters · 23 still open or author-gated.**
 
 ---
 
@@ -210,6 +210,30 @@ PASS (21/21) · Adaptive Prodigy run_all ALL GREEN · UT selftest **102/102** ·
 Sentinel **20/20** · all live URLs HTTP 200. §L re-checked line by line: every
 still-open item is accurately listed (nothing silently closed; the GL R2 amber
 flag remains held open for the assessment arc per GL log 020).
+
+---
+
+---
+## §N · THE 2026-09-23 DEEP SWEEP ("go deeper" — turn 11: beneath the documents, into the artifacts)
+
+Every row below was found by opening the artifacts themselves — running the gates,
+diffing the trees, unzipping the books, strict-parsing the feeds — not by reading
+the docs that describe them. Kit commit 89e030b + map/registry follow-ups; UT,
+guide, site pushes same session. All fixes verified against live state.
+
+| # | Mistake (the shape) | Correction | Receipt |
+|---|---|---|---|
+| N1 | **THE GATE ITSELF EXISTED IN TWO DRIFTED COPIES** (D1 at the deepest level). `SOUL_LAND_UNIVERSAL_KIT/` vs `SOUL_LAND_WORKSPACE/kit/` had diverged **in both directions**: the released kit's `verify.py` predated the author's s45 PANEL LAW — it **false-FAILED devouring-dragon Ch 21** (a lawful PANEL: NONE chapter; receipt: old gate FAIL, new gate PASS, same file) — while the working copy lacked the s41 law-doc ports, the README, and 12 templates. Anyone who downloaded the released kit got a gate that contradicted the author's own law. | Reconciled both ways (canonical gate -> released kit; canonical docs -> working copy); `diff -rq` now **empty**; a Sentinel check now FAILS on any future drift. Post-reconciliation gate matrix: **10/10 GREEN** (DD, GL, AP run_all, sl3-new, Miraculous, BS, Holy, DPY, Tide, SL5) + kit selftest both copies. | kit 89e030b |
+| N2 | **BLUE SILVER WAS NEVER ACTUALLY GATED.** The unified gate classified chapters by the path substring `/chapters/` — so it swept the **rejected first draft** (author-rejected as "nonsense", fails 29 gates) and never saw the live Book One (`chapters_rebuilt/` never matched). The gate's BS "failure" was the rejected draft correctly failing while the real text went unchecked. | Discovery generalized to `chapters*` dirs; the rejected draft archived to `archive_rejected_first_draft/` with a README_STALE marker (F1 pattern, byte-preserved). **The live Book One gated for the first time: PASS, all hard gates clean** — digits 0/15 (every figure lawfully inside its fenced STATUS panel), dialogue-report 0. | kit 89e030b |
+| N3 | **All three shipped EPUBs opened every chapter with the title twice** — the builder's generated `<h2>` plus the source's own title as a second `<h2>` (Blue Silver worst: "Chapter 1 — Chapter One — Awake"). **Blue Silver's STATUS panels leaked into the book as raw paragraphs, including a literal ``` line.** | Repair tool written and kept (`library-build/tools/fix_epub_headings.py`): 151 chapter titles deduplicated; 15 panels restyled as `pre.status-panel`. All three books re-verified (mimetype law, spine/nav counts, single titles, no stray fences, prose membership vs sources at first/middle/last chapters) and **re-published to the releases** (asset sizes byte-matched). | release assets replaced |
+| N4 | **feed.xml broke strict XML parsing** — the GL Ch 8 entry used `&rarr;`, which is not a predefined XML entity; strict feed readers would have failed the entire feed. Caught by parsing the feed as a reader, not by eye. | Fixed to the numeric `&#8594;`; both feed.xml and opds.xml now strict-parse clean (5 entries, unique IDs; 3 books); every external link 200. | site push |
+| N5 | **The Control Centre registry was six truths behind** (K5 class, in another repo): Tide "live at Ch 23" (paused at 24), devouring-dragon "after Ch 18" (Ch 21 shipped), AP "live" (complete), Holy Spirit "active" (paused), DPY "active" (blocked), Tianyu "active" (dropped post-mortem) — and **the Golden Lion, the most active serial, was not registered at all.** | All six corrected from a fresh clone; Golden Lion + frozen sl3-new registered (8 entries); sync event logged; selftest re-run 102/102. | UT push |
+| N6 | **Five trees were missing from the kit's authoritative map** — blue_silver (Book One complete), holy_spirit, Dragon Prince Yuan, **Miraculous_Project (zero mentions anywhere in the map despite its own GREEN gate)**, and soul_land_new (the dropped Tianyu post-mortem, unmarked — a resurrection hazard). | All five rows added with true states. | kit push |
+| N7 | **Second-order surfaces carried stale edges**: calendar (DD "live at Ch 20" -> 21 + DL-3677; GL Ch 7 -> 8; Tide "Ch 23" -> 24 incl. 8-B), guide case study (DD "18 chapters" -> 21), GL panel v18 -> v19 -> v20 — **the live agent shipped twice during the sweep itself** (Ch 7->8 mid-session; handled commit-then-rebase, both rebases clean). Library GL snapshot refreshed to Ch 8 (184 chapters / 774,875 words); profile GL row + count updated. | site/guide/profile pushes |
+| N8 | **The deep verification itself (all receipts green)**: 184 published chapters byte-identical to their kit sources after apparatus-strip; DD retired-word sweep clean across all 21 chapters (the one hit — Ch 1's "green thread" of seep-water — judged lawful literal language, not the retired house-word for the pull); GL "the way" tic clean; DD digits-in-prose 0/21; EPUB prose membership verified; release assets byte-matched; SL4's published StoryOS state current at Ch 52; AGENTS.md path references valid; no live doc depends on `_archive/`. | this section |
+
+**Sentinel after the sweep: 22 checks — 22 pass / 0 warn / 0 fail** (two new permanent
+checks: kit-trees byte-identity; Blue Silver under the unified gate).
 
 ---
 
