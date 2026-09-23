@@ -1,5 +1,5 @@
 # STATUS PANEL — single-state truth
-Snapshot: **v9 (P-9 NATURALNESS LAW; ch 3 re-carved)** · 2026-09-22 · chapters live: **3**
+Snapshot: **v10 (P-9a plain register; ch 3 third pass)** · 2026-09-22 · chapters live: **3**
 Purpose: the whole living state of the hero and his world in one file. Rebuilt in full after
 every kill/rewrite. **If a number isn't here, it doesn't exist yet.**
 Registers follow the laws: skills per CANON SKILL LAW (L-08), attributes per GRAFT LAW (L-09),

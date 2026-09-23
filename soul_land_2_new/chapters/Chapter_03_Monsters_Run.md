@@ -1,226 +1,274 @@
 # Chapter 3: Monsters Run
 
-## Canon Reference: SL2 canon ch 5–6 AS ORE (Zhou Yi's file: "I raise monsters" creed; the dorm-fight stand — Huo Yuhao first, Wang Dong second, BOTH canon's; hundred-lap morning, one hour, plaza measurement; nine lap-defrauders expelled BY NAME; afternoon thirty-jin weighted march, two hours, last-to-finish expelled; class office verdicts: Wang Dong by strength, Huo Yuhao by resolution — "no one expelled thanks to Yuhao"). Facts cited; trajectory OURS: the lion runs mid-pack, laughs, hauls a classmate up, and leaves three small ripples in the canon-silent water. RE-CARVED under P-9 naturalness law.
+## Canon Reference: SL2 canon ch 5–6 AS ORE (Zhou Yi: "I raise monsters" creed; dorm-fight stand — Huo Yuhao first, Wang Dong second; hundred laps, one hour; nine lap-liars expelled by name; afternoon thirty-jin drill, two hours, last-to-finish expelled; offices: Wang Dong by strength, Huo Yuhao by resolution — no one expelled because of him). Facts cited; trajectory ours. Rewritten under P-9 to house register: short sentences, plain canon dialogue, the OC quiet inside the scene.
 
 ---
 
-## Part 1: Boots, Blisters, Porridge
+## 1. Porridge
 
-The day began, as days at Shrek were apparently going to begin, with Qiu Yuan being tragic in a whisper.
+The class lists went up before breakfast.
 
-"I am ruined," he announced to the ceiling, lying exactly as he had fallen asleep. "My left heel is a ruin. My people have ridden horses across White Birch for four generations and my heel has surrendered to one afternoon of stone."
+Qiu Yuan read them with a spoon in his hand. He found his own name first, then Jin Yang's, then others, and put the spoon down.
 
-"We walked, yesterday. Once around the plaza. To look at the rosters."
+"Dai Huabin," he said. "The White Tiger Duke's son. Four lines from us."
 
-"A man can be ruined gently."
+"He eats porridge like everyone," Jin Yang said.
 
-"Your boots," said Jin Yang, who had seen the boots being bought in Morning Light City at a price he had deliberately not listened to, "are cavalry boots. You said so. Twice."
+"Prince's sons don't eat like everyone. You'll see."
 
-"That," said his roommate, sitting up with the dignity of a wounded heron, "is precisely my complaint. They were designed for cavalry. There is no cavalry here. There is *porridge* and *running*, and I was not informed."
+They ate. The dining hall was full of new students being loud at each other. Near the door, a boy with pink-blue hair finished early and left the way a fire leaves a room. At another table a plain black-haired boy ate fast, said thank you to the server, and had a fresh bruise on his cheekbone.
 
-They were not alone in their mourning. The whole freshmen dining hall attended breakfast as a parade of the newly fragile: boys limping on pride of varying denoms, girls braiding hair and grievances simultaneously — and over everything the rosters' after-gossip still circling the wall where a blackboard clerk had posted the class lists at dawn. CLASS 1, the placard said, and beneath it clerk-tight columns running with the surnames of the season's reckoning — DAI HUABIN near the top of one, in print no larger than anyone's and somehow larger, four girls pointing and not pretending otherwise.
+Jin Yang noticed both of them. Noted them the way his father noted weather. A boy who says thank you is usually carrying something. He didn't make it a speech.
 
-"Prince's house," Qiu Yuan said over porridge, because someone at every table was saying it. "The White Tiger Duke's second. They say the rank down south is —" He waved his spoon. "Never mind what they say. You're in, I'm in beside you."
+On the way out they were stopped twice by strangers asking whose sons they were. That's what classrooms were, before they were classrooms: country fairs of people pricing people. Qiu Yuan gave his house name with full ceremony both times. Jin Yang said "Star Luo" both times. The second asker actually looked disappointed, which Qiu Yuan found funnier than any joke told that morning.
 
-"Four lines apart," said Jin Yang, who had counted while Qiu Yuan was still reading the Ds.
+"No," he said, when Jin Yang asked. "It's fine. It's just going to be like this every day for six years."
 
-"You *finished* reading and you counted how far apart our names are?"
+A tray banged down next to them. The boy behind it was round, with broad shoulders and a hill accent thick enough to stand on. He had dropped his steamed bun, and he was looking at it on the floor like it had betrayed him.
 
-"It was four."
+"Eat this one," Jin Yang said, pushing his own bun over. "There's running today."
 
-"Normal people notice the prince, Jin Yang."
+"Running?" The boy took the bun in both hands. "Deng Wu. Ironhide Ox, rank nineteen. How much running?"
 
-"The prince was underlined already."
+"Nobody knows yet."
 
-A seat away, someone dropped a steamed bun, caught it off his own knee, lost it to the floor, and looked at it with the hollow eyes of a man watching a boat leave without him. He was round-framed and round-faced, with the broad-used shoulders of hill work and cheeks built to store provisions, and his first interaction with Shrek Academy was being robbed of breakfast by gravity.
+"I'm from the hills. I run hills." He ate like a man paying a debt. "You two are the ones with the rules paper on the door. Whole corridor talks about it."
 
-"Eat mine," Jin Yang said, sliding his second bun across before the thought could cost anything. "You'll need it more than I will. I'm told there's running."
+"The rules are reasonable," Qiu Yuan said.
 
-The boy blinked. "Deng Wu," he said, around half the bun — hill-boy manners, food first, ceremony later. "Ox-hide soul. Ironback. Rank nineteen and everyone keeps *telling* me about it." He swallowed. "You the pair with the treaty-castle at the end of the hall? The whole floor knows about your roommate's door schedule."
+"They're *numbered*, brother."
 
-"Item one is very reasonable," Qiu Yuan said, not looking up.
+First bell cut it short.
 
-"Item one is *laminated*, brother."
+---
 
-Three tables away, a plain black-haired boy ate quickly and neatly and thanked the server while doing it, a bruise high on one cheekbone still deciding what color to be. And near the door, finishing early — a boy with hair like a pink-edged dawn, laughing at something at the empty air, gorgeous enough that the porridge line parted around his seat as if by traffic law.
+## 2. The Old Woman
 
-"Dormitory brawl," Deng Wu diagnosed, buns gesturing, with the authority of a boy who had been in three. "See the plain one's cheek? And the sunrise one's knuckles. Roommates, I'd bet bread."
+The teacher was already there when Class 1 filed in.
 
-"Bread's scarce," said Jin Yang. "Don't bet wagons you haven't harvested."
+She was old, or dressed old: white hair pulled back hard, iron face, eyes that didn't rest on anyone. The blackboard behind her was empty. She let them sit before she moved.
 
-"Wise. Ugly, but wise."
+"Zhou Yi. Your class teacher." She spoke without hurry. "I'll be brief. I don't raise soul masters. I raise monsters. Anyone who can't become a monster by the end of the season is out of my class. On average, I throw out more than half."
 
-The first bell went through the hall like a cook rattling pans, and Shrek's freshmen rose in waves — and the wave, it turned out, moved with a slight limp.
+The room went very still. Deng Wu didn't move at all.
 
-## Part 2: The Old Woman With the Chalk
+"One question before we start." She walked once along the front row. "Who fought in the dormitories last night? Stand."
 
-Class 1's classroom was too bright, too new, and already afraid.
+Nobody stood. Then the black-haired boy from breakfast stood, mid-rows.
 
-She was waiting at the head of the room when they filed in: an old woman with a scholar's iron face, white hair drawn back hard enough to be an argument with the spine, eyes that did not inspect a hundred freshmen so much as weigh them against replacement value. Rumor had pre-instructed the class so thoroughly that nobody sat loudly.
+"Huo Yuhao. I fought my roommate."
 
-"Zhou Yi," she said. "Your class teacher. I will be brief, because teaching is brief in this room: I do not produce soul masters. I produce monsters. Any boy or girl in this class who cannot be made monstrous within the season will cease, with equal brevity, to be in this class. In my experience —" here the old eyes toured the rows, settling nowhere, sparing no one — "the cull is nearer half than none."
+A second later the pink-blue-haired boy stood too, unhurried.
 
-Somebody's gasp got betrayed by the room's acoustics and echoed. Deng Wu, directly left of Jin Yang, had gone still in the way of livestock before storms.
+"Wang Dong. Same room. For the record, he started it."
 
-"Prerequisite audit," said Zhou Yi. "Stand, those of you who fought in your dormitories before the enrollment ink was dry."
+"I did not—"
 
-Silence. Then — one boy stood, mid-rows: plain black hair, a bruise finishing its decision to be purple. The boy who thanked servers.
+"Sit down, both of you." Zhou Yi almost smiled. It was worse than the alternative. "A hundred of you. Two honest ones. The rest were scared, or sensible, or both." She turned and wrote on the board in a hard hand.
 
-"Huo Yuhao," he said, plainly, to the room and not to her. "I fought my roommate. In our room."
+**Shrek Plaza. One hundred laps. One hour.**
 
-A beat — and the sunrise-haired boy rose too, incandescent and entirely unrepentant. "Wang Dong. Same room." He delayed exactly one boyhood of insolence. "Same reason. I wish to confirm for the record that he started it."
+"Finished: you stay. Caught lying about your count: you're out before lunch. Go."
 
-"I did *not*—" Huo Yuhao began, scandalized, and the class burst open like a dropped basket — laughter, the first Class 1 had made as a class, one part nerves to two parts relief. Zhou Yi let it run three seconds and no more.
+On the stairs down, Deng Wu leaned toward Jin Yang.
 
-"Two of you fought," she said over the noise's tail, "and stand up about it. The other ninety-eight were also observed, assessed, and found watchable." Her chalk struck the board, once, a crack like a ration breaking. "I prefer honest legs to watchable ones. **Shrek Plaza. One hundred laps. One hour.** Your lap counts go in my book; false counts go in a different book. Completed the run — you remain. Caught lying about it — you are done at Shrek before lunch. Begin."
+"She's got no tally-rack. No rope list. She'll count a hundred runners in her *head*."
 
-They walked to the plaza very quietly, a hundred freshmen discovering in their own time that nobody had ruled out that she was joking, and everyone had concluded she was not.
+"She will."
 
-"She counts laps with her *memory*," Deng Wu whispered. "There's no tally-rack. Old woman, chalk, and memory. We're dead, brother. I am writing my mother."
+"That's not natural. I'm telling you, that woman is not natural."
 
-"Write her after the run," said Jin Yang. "Letters travel faster when the family remains enrolled."
+"Run."
 
-"That's bleak, man."
+---
 
-"That's arithmetic."
+## 3. The Hundred
 
-"That's *bleak.*"
+The plaza was three hundred meters to the lap. Flat stone, no shade, four sides of wind that couldn't make up its mind.
 
-## Part 3: One Hundred Laps of Morning
+The class went out like hounds. The fast ones made it a race from the first corner. Jin Yang set a pace in the fat middle and held it. Three years at a forge makes a pace out of you: blow, strike, blow, strike. He didn't think about the hundred. He thought about the lap.
 
-Shrek Plaza was a square of pale stone three hundred meters to the lap, flat as a measuring rule and exactly as merciful, and a hundred laps of it against the hour emptied the chat out of Class 1 by the fifteenth circuit.
+Qiu Yuan ran on his right, saving breath and losing the argument. Deng Wu ran on his left, slow and rolling, built like a cart that never fully stops.
 
-By the twentieth, the class had sorted itself by nature into weather. At the van, the ones born to wind: Dai Huabin running cold and mechanical as a siege engine on a road; and — arriving late to the run, to open mockery, then reeling the entire field in like laundry and passing it with a wave — Wang Dong, light-footed as grammar, visibly enjoying the whole morning more than was decent.
+By lap sixty the peacocks were walking. By seventy, the plaza had groups in it: runners, walkers, and boys practicing casual rest near the fountain, getting faces ready.
 
-"That one's not even *angry* about it," gasped Qiu Yuan, scandalized. They ran three abreast in the broad middle of the field — Qiu Yuan with his cavalry boots and his offended nobility, Deng Wu with the rolling, ground-eating plod of something cartbred, and Jin Yang setting the pace right where he'd planned it: fast enough to keep the hour bored, slow enough that the hour would never be a story. "He should at least have the courtesy to suffer."
+Wang Dong passed them at seventy-eight. He'd started the run late — Jin Yang had seen him come out after the count started — and he was catching the whole field like a rumor. He didn't look tired. He looked entertained.
 
-"He's twelve laps younger than the rest of us," said Jin Yang. "Save your breath for forty onward."
+"He's not even angry about it," Qiu Yuan said.
 
-"Forty." Deng Wu's laugh was half a wheeze. "Brother, at *forty* I'm going to start hallucinating my uncles."
+"Save your breath."
 
-By sixty, the athletic pretty ones were walking. By seventy, laps were negotiable currency — anxiety traded at higher prices the closer the sand ran out. They passed the tail, where a plain black-haired boy ran with modest stride and stubborn arithmetic and was plainly, visibly not going to make it, and passed also the first little clusters of boys practicing *casual restfulness* near the fountain, rehearsing faces for a hundred they hadn't run.
+"That one's not normal," Deng Wu said, watching Wang Dong go. "That one and the teacher. Same family."
 
-At the ninety-first, Deng Wu pulled up like gunshot-speared, hands on knees, wedding cake lungs.
+At ninety-one, Deng Wu stopped.
 
-"Done," he said. "Spent. Dead. Brother — I need a favor." He couldn't look at them; the words embarrassed him more than the stopping. "You two finish and tell the woman the ox cart came in at ninety-one and I *fainted*, and then you count me a hundred. She's old, she's already got nine, ten names to argue with — be a friend, be *brothers*, I'm from the hills the same as you—"
+He bent over his knees and didn't get up. His face had gone the color of old flour. When Jin Yang circled back for him, the hill boy spoke to the stone.
 
-"She counts," said Jin Yang.
+"Brother. Do me one favor. Tell the woman the ox made it. Tell her a hundred." He couldn't look up. "She's old. She's counting a hundred names in her head. One more or one less—"
 
-"I *know* she counts, that's the *problem*, she—"
+"Get up."
 
-"And your ironback counts too." Jin Yang didn't slow; he circled back the way you circle back for a dropped tool, hooked Deng Wu's wrist, and hauled him into a hideous, graceless, arm-towed trot. "Nine laps. An ox finishes nine laps standing in its sleep. Your beast soul has eaten hills for breakfast since you were six and you want to be expelled *lying about breakfast*? Run like something that pulls plows, not like something that loads them."
+"I've got nothing. I swear to you. Nothing left."
 
-"What is HAPPENING," Deng Wu demanded of heaven, running, "to the politeness of countryside people—"
+"Then get up on the nothing." Jin Yang took his wrist and pulled. "Nine laps. Your soul is an ox that walks mountains. Act like the ox."
 
-"Qiu Yuan, carriage drag. Other arm."
+Qiu Yuan swore, came back, and took the other arm. "If I lose these boots for you, hill boy, I'll bill your village."
 
-"Absolutely not, my leather—" Qiu Yuan began, and then swore in a northern dialect that would have cost him tea at home, and took the other arm, and the three of them went down the last stretch like the world's least elegant cartage. Around them the morning was coming apart and being remade elsewhere: Wang Dong finished first by a margin that was frankly insulting — and then, with a face like a boy headed to fight a bear, went back out of the finish shade, down the far straight toward the plain black-haired boy who was still running twelve laps out with six minutes to live; and the plaza held its breath and then roared as the dawn-haired boy took the plain boy's arm over his shoulder and dragged him home.
+They ran the last nine three-wide and ugly. Arms linked. Breathing in threes. The sun moved.
 
-Every boy in Class 1 screamed the last quarter-mile like it was a boat race.
+And at the front of the plaza, on the far side, the whole class started shouting.
 
-"IF HE CAN CARRY HIM," Deng Wu sobbed, with enormous conviction, legs going, arms locked between his two unpaid haulers, "I'M NOT STOPPING FOR ANYONE — MOVE, TOURISTS—"
+Wang Dong had finished first, and then gone back out. The plain boy — Huo Yuhao — was still twelve laps short with six minutes left, running on a pace that had stopped being legs and become something else. Wang Dong reached him, put the boy's arm over his own shoulders, and pulled him forward. A hundred freshmen screamed them home like a boat race.
 
-They crossed the hundredth-lap line with perhaps ninety seconds in the grave, all three of them, and Deng Wu lay down on the stone like a sacrifice that had survived its own altar and laughed up at the sky until he started wheezing again.
+The three of them crossed their hundred with maybe ninety seconds left. Deng Wu lay on his back on the stone and laughed up at nothing until he wheezed.
 
-Zhou Yi's chalk made its small sounds in the book, and the plaza quieted as she stood.
+"We're alive," he kept saying. "Ox, cavalry, weatherman. All alive."
 
-"Zhuge Yun," she read. "Cheng Cheng. Tang Dao. Lin Zeyu. Shangguan Chentian. Qiu Jianluo. Tang Ling. Yun Xiaopiao. Tailong."
+Zhou Yi stood up. The plaza quieted by itself.
 
-Nine boys rose with their rehearsed faces. None of the rehearsals survived contact.
+"Zhuge Yun. Cheng Cheng. Tang Dao. Lin Zeyu. Shangguan Chentian. Qiu Jianluo. Tang Ling. Yun Xiaopiao. Tailong."
 
-"You counted your laps to me," said Zhou Yi. "The plaza counts them to everyone. There are no arguments with arithmetic; the dishonest do not stay at Shrek, they are expunged. The rest of you — afternoon, second bell, this plaza, weighted drill. Bring what legs you have left."
+Nine boys stood. Some argued. She let them finish.
 
-Deng Wu, on his back, newly an ox again, watched the nine pack off under supervision with an expression approaching religious experience. "I nearly went with them," he told the sky. "Over buns. Over nothing. I nearly *went with them.*"
+"You lied to me about your laps," she said. "The plaza counted you. There's nothing to discuss. You are dismissed from Shrek Academy. The rest: this plaza, second bell, weighted drill. Bring legs."
 
-"You nearly made me carry ninety kilos of produce past lunch," said Qiu Yuan, re-lacing his murdered boots. "Never mind your soul's honor, think of my *leather.*"
+Nine boys left, walking. Nobody cheered. Nobody said anything for a while.
 
-"Your leather," said Deng Wu with feeling, "will receive my funeral."
+Deng Wu watched them the whole way out. "That was almost me," he said, finally. "I was going to lie to an old woman about laps. Over nothing."
 
-## Part 4: Iron Afternoons
+"Over pride," said Jin Yang.
 
-Second bell brought out a handcart of dull black plate vests, and the plaza's mood, briefly restored by lunch, filed for divorce again.
+"Same thing, where I'm from."
 
-"Thirty jin each," said Zhou Yi. "Wear it. Run. Two hours — class ends when the bell ends. The last boy or girl left running wishes they had been first: the last to finish in this drill is *expelled*. Begin."
+---
 
-The vests smelled, with appalling democracy, of every previous class that had worn them, and hung at thirty jin of fifteen-kilo insistence off shoulders that had already spent a morning becoming philosophical about pain.
+Lunch was quiet by Class 1's new standards.
 
-"I just — one question," Deng Wu said, voice already hoarse, raising his hand as if class were still indoors. "Teacher. Is there a *reason* the vest smells of pickled—"
+Ninety-one trays went down where a hundred had gone that morning. You could feel the empty nine the way you feel missing teeth: the tongue keeps going there. At the far table, Wang Dong ate sitting on the table itself, holding court over nothing. Huo Yuhao ate at the end of the same table, neatly, and twice boys from other tables came over to ask him if the carry had hurt, and twice he said no, and once he said thank you.
 
-"You have two hours to find peace with it."
+"He'll get asked that for a month," Qiu Yuan said.
 
-"Right. Right. That's yes."
+"He'll get asked until he's old," said Deng Wu, taking both salt cellars without asking anyone. "Being carried like a sack in front of everyone and everyone loves him for it. Where's the fairness in this country?"
 
-The drill went the way iron afternoons go. An hour in, the fleet's princes had all lapped the fleet's farmers at least once, and Wang Dong — who must have been born in weather rather than a house — was passing boys with fifteen borrowed meters of gold-brown light and a grin's memory, lapping the world twice over. Jin Yang ran his honest middle, breath cadence on hammer-count, eleven and a half mountains-worth of circuits banked by the time his legs first filed their objection at the foot of the hour's second hill. Qiu Yuan finished his year's enthusiasm by ninety minutes and sat down on the stone with all the grace of a toppled belfry. Deng Wu, ox to the bone, simply slowed to a trundle and *kept not stopping*, one falling-chop of a step at a time, until at an hour and forty his knees and the ground came to an agreement, and down went the cart.
+"It wasn't the sack they loved," Jin Yang said.
 
-The whole plaza was coming down in twos and threes. Firsts dried out and sat. Second-stringers folded like chairs. The second hour drained to its last quarter with only stain and staggering left in it — and a single boy still moving on the far side of the stone, slow enough for grief, unstopping as a litany: Huo Yuhao, the weakest rank in the class by every public measurement, running what was plainly no longer a body but a decision.
+Deng Wu thought about it over a full mouth. "Yeah," he said, quieter. "That's what's eating me too."
 
-The field watched him like weather.
+Nobody wanted dessert. That's how the afternoon started: rested, fed, and afraid.
 
-Even Wang Dong, crumpled at last of everyone, watch-glared from the ground where the final stretch had repossessed him — most laps of the whole afternoon, and the last five minutes spent trying to buy back five meters with nothing in the purse.
+---
 
-Somewhere behind Jin Yang, a girl's voice: "Oh, get *up*, he's lapping your sitting." A boy nobody knew stood swearing and got his vest back over his knees. And then the spell broke all the way — freshmen rising in twos, threes, one plodding renaissance at a time, to go be counted near the boy who would not stop.
+## 4. Thirty Jin
 
-Jin Yang hauled himself upright, walked the four dead meters to Deng Wu, took the ironback's vest strap in a smith's grip, and pulled.
+Second bell. A cart of black weighted vests. Thirty jin each — fifteen kilos of plate that hung off your shoulders and smelled, democratically, of every class that had ever worn them.
+
+"Two hours," Zhou Yi said. "Run until the bell. The last one to finish is out of my class. Begin."
+
+Nobody asked what "finish" meant. The bell was going to say.
+
+The first hour went like the morning, worse. Wang Dong lapped the field. Twice. Whatever else was true about the sunrise boy, his legs were a debt the rest of them owed to witness. Jin Yang ran his middle pace and counted hours like forge shifts. Qiu Yuan sat down at ninety minutes and gave every passing runner a look of deep personal injury. Deng Wu trundled on, getting slower by the degree, ox-stubborn, until an hour and forty minutes in, his knees and the ground agreed between themselves and he went down on the stone.
+
+By the last quarter-hour, the whole class was down. Sitting. Lying. Done.
+
+Except one.
+
+Huo Yuhao was still running. Last place by every count, weakest rank in the room by every list — and still moving. Slow as sleep. Not stopping. The vest hung on him like a sack of plate, and he kept carrying it around the square while a hundred students watched from the dirt.
+
+Nobody organized what happened next. A girl Jin Yang didn't know muttered, "Oh, get *up*," stood, and started jogging. Then a boy. Then three more. The field got back on its feet one ashamed soul at a time and went after the one who wouldn't sit down.
+
+Jin Yang stood, walked the few meters to Deng Wu, and took the vest strap.
 
 "Up."
 
-"Refused!" Deng Wu's eyes were closed. "Motion denied on the grounds of death—"
+"Dead. Legally dead. Carry the sad news to the hills—"
 
-"Your ox owes me two laps from this morning, and I do not carry village debt into a second day. The last one finished is *expelled*, Deng Wu, stand up, he'll carry you the way the sunrise carried — up — *legs*—"
+"You owe me nine laps from this morning. I don't lend across days. Last one finished is *out*, Deng Wu. Up."
 
-"LEG," Deng Wu confirmed with a sob, and found one, and the other; and the two of them rejoined the moving file of the resurrected, the whole class trudging mechanical laps in the wake of a boy who didn't know he'd just ended his entire cohort's need for excuses.
+"You're a hard man, weatherman." He groaned up. "Hard man, cold heart."
 
-When the bell finally released them, the plaza contained one hundred-minus-nine freshmen in various artisanal styles of collapse, two rows of dented pride, inclinations toward language the handbook had no page for — and one class teacher whose hard-old face held something that was not a smile but kept a smile's bones.
+"Both. Move."
 
-"Wang Dong," said Zhou Yi. "Front. You arrived first this morning and out-worked the field this afternoon; the office of class president is yours. Challenge stands — any boy or girl who defeats him takes the chair, and keeps it precisely as long as they can hold it." Her eyes toured the collapsed rows for ambition and found nothing but weather. "And the second office of the day is *not* mine to challenge. Huo Yuhao, attend me."
+They joined the file. The class shuffled around the square together, after the boy who didn't know he'd made all their sitting look like a choice.
 
-The plain boy came — wobbling — and stood.
+When the bell came, the plaza held ninety-one students and one old woman with iron hair, and something behind her face that wasn't a smile but had studied smiles.
 
-"This class had stopped being students and become audience," said Zhou Yi. "One boy held a stride and, because he held it, thirty of you found legs again and spent them running — which is the only miracle this academy is interested in grading. Because you would not stop, **no one is expelled today.** The verdict against the last to finish is set aside. You are my class president — the office your legs bought — henceforth the two of you will argue about it in the way of officers."
+"Wang Dong. Front." He went. "First home this morning. Most laps this afternoon. The class presidency is yours. Anyone who defeats him takes it — and holds it as long as they can." Her eyes crossed the rows. No one moved. "Now attend the second office, because it's the one I can't give.
 
-Half the plaza applauded before anyone's dignity could consult them. Wang Dong's face said he had not lost an office but acquired a phenomenon, and that he disliked the second more — until the applause pulled him smirk-first into it anyway.
+"Huo Yuhao. Stand."
 
-Later, at the plaza's fountain rim, Jin Yang ended up with the water gourd passing hand-to-hand through the ruins — and the hand it ended in was Huo Yuhao's. Up close the plain boy was almost laughably plain: washed-out eyes, sweat-flat hair, calm as bread.
+The plain boy stood, swaying.
 
-"Last of it's yours," Jin Yang said. "New legs drink first."
+"This class had stopped being students and become an audience. One boy wouldn't stop, and because he wouldn't stop, the rest of you got back up. Because of him, the drill finished with no one last — so today, no one is expelled. The rule is set aside. You are class president, Huo Yuhao. Bought with legs. Unarguable." She closed the book. "Both of you. Try to share the office without bleeding on it. Dismissed."
 
-Huo Yuhao drank, coughed, handed it back a quarter missing instead of none. "Half," he said. "The rest is for your ox friend. That was the funniest thing I've seen all year." The unpoliteness of it was cupboard-clean, an offer, not a fence. "Huo Yuhao."
+The applause started somewhere in the back and ran around the square.
+
+---
+
+## 5. Water First
+
+After, at the fountain, the water gourd passed hand to hand through the ruins.
+
+It ended with Jin Yang. Huo Yuhao sat on the rim with his head down, breathing like a bellows that had paid off a fire. Jin Yang held the gourd out to him.
+
+"Last of it. New legs drink first."
+
+Huo Yuhao drank, coughed, handed it back half-full. "Half. For your ox friend." He looked up, tired and square-faced and somehow amused. "Huo Yuhao."
 
 "Jin Yang."
 
-"Wang Dong," said Wang Dong, hovering, glowering, entirely effortless, and stole the gourd for the rest of its contents. "Of whom YOU lot may now request presidential favors."
+"Wang Dong," said Wang Dong, appearing, taking the gourd, and finishing it. "Class president. Both of us. Petitions accepted at reasonable hours."
 
-Croaks of protest from along the fountain. Someone threw a shoe. Class 1, day two, had arrived.
+Someone threw a shoe at him. He dodged without looking. The laughter made it halfway across the plaza and came back tired.
 
-## Part 5: Doors With Names
+Huo Yuhao watched the sunrise boy preen and, quietly, to no one in particular: "He's not so bad. He carried me twelve laps and complained about ten of them."
 
-At night the freshmen dormitory did its laughing and its groaning in equal measures through thin walls, and Room 105 balanced its books under the oil-shaded lamp: Qiu Yuan with the clan notebook out like a man decorating a battlefield, Jin Yang putting his boots in order and his notes in fewer.
+"That's friendship," Qiu Yuan said from the ground. "Where I'm from, complaining is half of it."
 
-"Dai Huabin," Qiu Yuan recited. "House: White Tiger. Note — underlined twice, mind — do not loan him anything you'd want back. Wang Dong. House: *unlisted* — who birthed that boy, the sky? — note: fastest legs in class, throne: challenged-office, personality: see sunrise, add jam." He dipped the pen. "Huo Yuhao. House: none. Rank: none you'd write down. Note: L—E—G—S." He admired the letters. "I'm starting a religion."
+"What's the other half?" Huo Yuhao asked.
 
-"Be at the run on time for it tomorrow, then."
+"Showing up," Jin Yang said.
 
-"That's why it's a *religion*, Jin Yang — time is a construct."
+The boy considered that, and nodded, and they sat with the fountain noise and didn't say anything for a while. It was a good silence. It had sweat in it and no one was expelled.
 
-They had the treaty between them by then, as real as furniture: a page of Qiu Yuan's best numbers — *no visitors past third bell, forge wake-hours declared a night in advance, questions of a man's cultivation are forfeit of tea* — half earnestly drawn and half the kind of joke boys make ceremony out of because ceremony is safety wearing a crown. Jin Yang read it twice and signed, then held for a beat, pen breath above paper.
+---
 
-"Item four," he said. "What's mine to keep, I keep off paper and out of the mouth. Nothing personal."
+## 6. The Door
 
-"Bold," Qiu Yuan approved, writing it in. "Signed into law. You're a strange villager, you know that?"
+105 at night. Two desks, one lamp, all the day's soreness reported in stereo.
 
-It was near lights-out when somebody shuffled up outside, hesitated, shuffled off. On the threshold, Qiu Yuan found a cloth bundle, damp with someone's best intentions: a steamed bun, misshapen, twice-wrapped, still warm. The note under it, in a hand that had never met a straight line, said only:
+Qiu Yuan had his clan notebook out — the debt book, name, house, threat — and was writing and grumbling by turns.
 
-**"for the strap. finish next time yourself. — Deng Wu"**
+"Dai Huabin. White Tiger. Underlined twice. Don't lend him anything you want back." Pen scratch. "Wang Dong. House unknown. Fastest legs in class. Personality: sunrise." Scratch. "Huo Yuhao. No house. No rank you'd respect on paper." He stopped, and wrote in large letters, with the care of a mason: **LEGS**. Then he looked at it and nodded. "That's the whole file. Legs."
 
-Qiu Yuan held the bun up to the lamplight the way examiners hold dubious jade. "The ox has declared an *alliance.* With grain."
+"You'll go far, Qiu Yuan."
 
-"With wheat."
+"I *know.* That's what's galling."
 
-"You realize he's going to run beside us every day now. Forever. As is the custom of oxen."
+Someone shuffled outside the door about then, hesitated, and shuffled off. Qiu Yuan opened it. On the stone sat a cloth bundle: a steamed bun, a little misshapen, wrapped twice, still warm. Under it a note in a hand that fought every line:
 
-Jin Yang banked the lamp. "Good," he said, to the dark and the door. "We'll need someone who doesn't stop."
+**"for the strap. and the arm. next time by myself. — Deng Wu"**
 
-Down the wing, the freshmen of Shrek Academy slept the unpriced sleep of the honestly exhausted, and the doors had names behind them now, which — for two boys out of Star Luo and one off an ox-cart in the hills — was the entire day's real measurement.
+Qiu Yuan held the bun up to the lamplight and examined it like dubious jade. "The ox has declared an alliance. In wheat."
+
+"In grain."
+
+"He'll run beside us every day now. Forever. That's what oxen do."
+
+"Good," Jin Yang said, and banked the lamp. "We'll want the ones who don't stop."
+
+From the dark: "Jin Yang. Six years is a long time to have you both."
+
+"Sleep, Qiu Yuan."
+
+"You sleep. You're the one who has to out-run the prince tomorrow at weighted drill."
+
+"Nobody out-runs the prince."
+
+"...See, *this* is the problem with villagers." A pause. The rustle of a boy losing an argument with sleep. "Wake me before your forge hour. Item two. It's the law."
+
+Outside, the wing went quiet a room at a time. Door, lamp, breathing. Ninety-one students where a hundred had been that morning, and behind every door, a name that had stayed.
+
+Tomorrow the old woman would weigh them again. Tonight, the buns were warm and the doors were theirs.
 
 ---
 
@@ -228,21 +276,15 @@ Down the wing, the freshmen of Shrek Academy slept the unpriced sleep of the hon
 
 # CHAPTER CARDS (ledger-sync · non-prose)
 
-**P-9 RE-CARVE NOTE:** canon spine untouched (below, ticked); bodies un-embalmed: banter, buns, blister comedy, vest-smell jokes, wrong-timed laughter, gourd theft. Motif audit: arithmetic/ledger images counted = 4 total across 5 Parts, ZERO in dialogue-units (one "that's arithmetic/bleak" beat is a boy's own word, kept), none repeated per scene.
+**REGISTER STRIKE (3rd pass) — author verdict "completely failing" diagnosed as VOICE, not plot:** previous passes embalmed canon in ornament (metaphor-per-line narration, aphorisms). Phoenix-register rules applied, read directly from author's ch 75 sample: short sentences/fragments; concrete verbs; canon dialogue plain and short ("You look the same." / "I'm getting old."); OC quiet inside the scene (hands, pockets, small acts) — no narrator aphorisms; deadpan humor only. Self-audit: metaphor count ≤ 1/scene, all deadpan or boy-speech ("built like a cart", "legs were a debt", "the door hung on him like a door" — plain similes); zero apostrophes-to-heaven; vocabulary at twelve-year-old level; no broken mid-edit artifacts (full readback done).
 
-**Canon spine — preserved and re-verified:**
-- Monsters creed speech ✓ · dorm-fight stand: Huo first, Wang Dong second ("he started it"/"I did NOT" — canon's comedic grain preserved, both standing, nobody else stands ✓)
-- Morning: 100 laps/1 hr, plaza ~300 m/lap `[canon-adjacent]` ✓ · Wang Dong late-to-run, first overall ✓ · final 6 minutes: Wang Dong CARRIES twelve-laps-out Huo home; plaza roars ✓
-- Nine expelled BY CANON NAME-LIST (Zhuge Yun · Cheng Cheng · Tang Dao · Lin Zeyu · Shangguan Chentian · Qiu Jianluo · Tang Ling · Yun Xiaopiao · Tailong) ✓; class 100→91 `[canon-adjacent]`
-- Afternoon: 30 jin (=15 kg) vests, 2 hours, last-to-finish-expelled rule ✓ (30kg/30jin wiki variance logged L-035)
-- Wang Dong most laps, collapses in final minutes ✓ · Huo LAST-ONE-MOVING; class rises and runs in his wake ✓ · verdicts: Wang Dong office by strength (challenge-open), Huo office by resolution, "no one expelled today because of him" — challenge-proof ✓
+**Canon spine — preserved, third verification:**
+- Monsters creed ✓ · dorm-fight stand: Huo first, Wang Dong second, "he started it / I did not" comedic grain ✓, nobody else stands ✓
+- 100 laps / 1 hr / ~300 m lap [canon-adjacent] ✓ · Wang Dong late-start, first ✓ · 12-laps-short Huo carried home by Wang Dong, class roars ✓
+- Nine expelled by canon name-list ✓ (class 100→91 [canon-adjacent])
+- 30 jin vests, 2 hours, last-to-finish-expelled ✓ · Wang Dong most laps ✓ · Huo last-one-moving; class rises one-by-one ✓ · offices: Wang Dong (strength, challenge-open) + Huo Yuhao (resolution; "no one expelled because of him"; verdict set aside) ✓
 
-**ORGANIC BUTTERFLIES (design, canon-silent lanes — texture only, zero canon consequence):**
-1. **Deng Wu** (OC classmate card: hill boy, ironback-ox soul, rank 19, bun-loss intro) tempted to cheat at lap 91 → hauled honest to a full 100 [canon silent — the nine remain the nine]
-2. The fountain **gourd pass**: two-line Jin Yang↔Huo exchange ("New legs drink first"/"Half") + Wang Dong gourd theft & shoe — friendship-web seed, no plot consequence
-3. Afternoon **strap-haul**: Deng Wu stands with the rising class (he was canon-silent population); his survival to the non-expulsion verdict now personally meaningful
-4. **Bun-note at 105's door** — butterfly made visible; ch-4 hook
+**Butterflies (design, canon-silent lanes — texture only):** Deng Wu tempted-to-cheat hauled honest (nine stay canon's) · strap-haul into the rising class · gourd pass: "New legs drink first" / "Half" + Wang Dong shoe beat · door bun-note → ch 4 hook. Friendship triangle (weatherman/cavalry/ox) now a live canon-silent web.
 
-**Wang Yan thread:** dormant (unneeded this day).
 **Fortune Compensation Queue:** 0. Huo kept the bruise, the carry, the stride, the office, and half the water.
-**Open for ch 4:** school-week runway (theory classes, soul-tools lecture texture; Deng Wu's daily adherence; presidential bickering; 3-month assessment season-frame on canon rails).
+**Open for ch 4:** school week begins on this web; 3-month assessment season-frame on canon rails.

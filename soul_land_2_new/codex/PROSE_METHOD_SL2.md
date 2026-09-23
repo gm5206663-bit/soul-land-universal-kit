@@ -65,3 +65,14 @@ the boy — are reclassified FAILURE, same class as canon-breaking.
   "[design, canon-silent lane]" butterflies: texture yes, canon bones never.
 - **Humor is structure.** A chapter where nobody likes anybody enough to laugh is rejected.
 Enforcement: judgment-gated at write-time; self-audited in every chapter's cards.
+
+### P-9a REGISTER (author's "completely failing" — read from phoenix ch 75 object)
+The house register is PHOENIX-PLAIN, enforced per chapter:
+- Sentences short; fragments welcome. Verb-forward, concrete nouns. Average sentence ≤ ~16 words.
+- Canon dialogue plain and short ("You look the same." / "I'm getting old."). No speeches.
+- The OC is QUIET INSIDE the scene: small acts, few thoughts. NO narrator aphorisms delivered in his voice.
+- Humor deadpan only. Similes plain and boy-level ("like a sack of plate"). Ornament budget:
+  at most ONE image per scene, and it must sound like something the character would notice.
+- BANNED: metaphor-per-line narration, apostrophe/poet-voice, adjective chains, "as X as grammar"
+  constructions of any nationality. If a line exists to show off the writer, it fails the autopsy.
+- Fill the word floor with MORE SCENES AND MORE DIALOGUE, never more description.
