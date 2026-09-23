@@ -59,7 +59,7 @@ Zhu Lu considered this with the seriousness it deserved; it sat fully inside her
 
 "And the softy-butterfly?"
 
-"Wang Dong." For the first time in the exchange, edge: a cold, collegial, genuinely unmet-yet edge, aristocrat sized. "Hooyuhao's friend. President-mannered." He considered. "He can stay reigning six months. Sunrise is paid for in *mornings*. It's a currency that runs out at noon."
+"Wang Dong." For the first time in the exchange, edge: a cold, collegial, genuinely unmet-yet edge, aristocrat sized. "Huo Yuhao's friend." He considered. "He can stay reigning six months. Sunrise is paid for in *mornings*. It's a currency that runs out at noon."
 
 Zhu Lu filed both, which was her whole education, and rose to leave. At the colonnade she paused — loyalty's last errand — "The gap line, from the first day? In the plaza. He's kept it unpaid, Huabin."
 

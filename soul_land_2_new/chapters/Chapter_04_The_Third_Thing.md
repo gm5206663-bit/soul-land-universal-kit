@@ -31,13 +31,13 @@ The dawn drills on the frost-cold plaza began that way, three boys in a loose li
 
 On the fourth morning, warming down by the fountain, they crossed the two boys from the run that mattered — the plain one and the sunrise one, still wearing thirty-jin vests, jogging around the plaza like the vests were part of breakfast. Huo Yuhao raised a hand when he saw them — the lifted-palm motion of people who have shared a water gourd. Wang Dong raised his eyebrows instead, which was somehow warmer.
 
-"Presidents train before the bell," Deng Wu observed, awed and aggrieved. He drank the fountain's coldest water and regretted it immediately.
+"The monitor and his monarch train before the bell," Deng Wu observed, awed and aggrieved. He drank the fountain's coldest water and regretted it immediately.
 
-"Presidents," said Qiu Yuan, "have something to prove."
+"Monarchs," said Qiu Yuan, "have something to prove."
 
-"Vice-president," said Wang Dong, passing, "of a class of *ninety-one*."
+"No office," said Wang Dong, passing, "in a class of *ninety-one*. Just the legs."
 
-"Co-president," said Huo Yuhao, breathing evenly, not breaking stride.
+"The monitor," said Huo Yuhao, breathing evenly, not breaking stride — plainly, like the word had always fit.
 
 "Whatever the sun says," said Wang Dong, and was gone around the turn, chasing light.
 
@@ -65,7 +65,7 @@ The room's fear did come up, then — something like a low tide in the stomach, 
 
 Nobody asked questions. They had known since the ninth-page rumor of the first morning; now the cull had a date, and somehow that made it worse than when it had only been a mood.
 
-On the way out, Qiu Yuan's face kept the even, self-possessed cast it wore on public benches, but his voice, down a notch, told the truth: "Three of three can be named already," he said. "The Duke's son, and the two presidents."
+On the way out, Qiu Yuan's face kept the even, self-possessed cast it wore on public benches, but his voice, down a notch, told the truth: "Three of three can be named already," he said. "The Duke's son, Wang Dong, and the littlest monitor in the school."
 
 "And the fourth through ninth names are not yet written," said Jin Yang. "So the arithmetic isn't the weather, House Qiu. It just does weather's job on the skin."
 
@@ -121,7 +121,7 @@ The stew had gone luke at her elbow without her noticing, which was the year's f
 
 "I did not ask them to lie, Fan Yu. They *arrived* lying. Cheating is a home-trained skill. I just graded it." She turned a leaf. "The Duke's has a pedigree you'd believe before you met him — cold work, top of intake. The blue-haired one will have every mother's child in this class by the ears before winter, and the plain-eyed one…" The pen stopped, it being the second file she'd stopped the pen at tonight, and the iron in her face unkinked a little, into something that the classrooms never got shown. "Lowest rank in the room. Twelfth-lap heart. He's not a monster, this one — I can't make that kind. It's born in."
 
-"And yet you have him marked *co-president*."
+"And yet you made him class president — the weakest rank you took."
 
 "He earned the room in front of my eyes, Fan Yu — that's worth more than a rating." She turned the page, and then another, and she stopped a third time, and that pause was a different animal altogether.
 
@@ -143,7 +143,7 @@ Down the hall, the last lamplight clicked out on the folder with the smith's mar
 
 ## Part 5: Warm Names
 
-Word moved around the freshmen wing by the old methods: over laundry lines and in the queue for hot water, inside shouted hallway jokes and quiet canteen corners. By the end of that first week, Class 1 had its small climate — the Duke's sons upwind of everything, the presidents in joint flight near the top of the flag, and a few other cold fronts and warm pockets that every new school year accumulates like sediment.
+Word moved around the freshmen wing by the old methods: over laundry lines and in the queue for hot water, inside shouted hallway jokes and quiet canteen corners. By the end of that first week, Class 1 had its small climate — the Duke's sons upwind of everything, the monitor and the blue-haired dawn in joint flight near the top of the flag, and a few other cold fronts and warm pockets that every new school year accumulates like sediment.
 
 The girls at the next-but-one laundry trough knew *of* the three. "Was it them? The ones latched together crossing on lap hundred?" "The ox, there's the honest one. Cried going over — I heard— " "—did NOT cry—" "The quiet one pushed his bun away for a stranger?" — and the quiet one's roommate from White Birch had to stand for several minutes of acute overhearing with the immobile patience of an eagle being talked about in its own nest, and by the end of it he had been gifted with the one piece of intelligence the day had been put together to yield.
 
@@ -182,7 +182,7 @@ On Saturday, the whole wing had the quiet that came to Shrek's children when the
 | Part 1 Ox O'clock (OC thread) | dorm-mornings, era texture `[canon-adjacent]` | G03 | ch3 strap-haul + bun → Deng Wu ADHERES daily unasked ("You feed one one time—"); attendance slate starts writing the three together (legend: outside voice) |
 | Part 2 The Cull (canon scene) | canon ch frame: >900 freshmen, ~half after ~3-month assessment | G01+G03 | assessment law announced → the trio is named-inside-fear as a bracket; Qiu's "three names" analysis is the class's own math, no OC-narration brag (N-3) |
 | Part 3 Two Kinds of Hammer | soul-tools division system (canon era system) `[design scene]` | **G05 (R1 spine, first payment)** | 19-day six-gold set vs the morning's ten machine blanks → the age's price-knife shown touching the boy's childhood trade; instructor's "the machine can't listen" gives the boy his spent-wisely banked ember; no speech, hammered at night = choice-is-character (N-5) |
-| **Part 4 The Teacher's File — NON-OC PANEL** | canon: Zhou Yi persona (ch5–6 verified) + spouse Fan Yu (wiki-canon) + her "class president earns the room" standard; AU pieces (folder contents, inked star) labelled `[design]` | G01, G02, G04 | teacher sees what the drills hid: a boy *spending deliberately* in a forge-class's eyes; the wall-note from Teacher Wang (ch2 wire paid) + her decision to learn the boy, not draw him; Fan Yu's presence keeps canon households alive; she gains a use for the bracket (winter teams horizon) — **the watcher gained something** (N-3) |
+| **Part 4 The Teacher's File — NON-OC PANEL** | canon-persona + spouse Fan Yu canonicity; **monitor-office honored per verified canon receipt (TOC + fandom wiki, this session): Huo Yuhao alone = class president, appointed for the run, weakest-rank wonder; Wang Dong officeless by canon**; AU pieces (folder contents, inked star) labelled `[design]` | G01, G02, G04 | teacher sees what the drills hid: a boy *spending deliberately* in a forge-class's eyes; the wall-note from Teacher Wang (ch2 wire paid) + her decision to learn the boy, not draw him; Fan Yu's presence keeps canon households alive; she gains a use for the bracket (winter teams horizon) — **the watcher gained something** (N-3) |
 | Part 5 Warm Names | laundry/block gossip, era texture `[canon-adjacent]` | G03, G06 | nickname-set spreads in strangers' mouths (legend, outside voices); treaty item-silent-zero ("no laughing at the signatory") — G06 paying off; combat-basics notice → next horizon hook |
 
 **Canon spine note:** Huo/Wang Dong dawn-training mirrored as background only (canon: they train together from these days); their arcs untouched, zero contact from our trio in canon-owned space.

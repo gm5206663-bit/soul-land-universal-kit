@@ -19,7 +19,7 @@ The square-assigning began in chalk-scratch order. The room did what rooms do th
 
 Dai Huabin's square was over in about four breaths, one white-gold blur of it, the other boy deposited respectfully and wholly on the floor. *Fast,* said the smith's habit in Jin Yang's head, *and cold, and already measuring the room.* The class made a collective small sound.
 
-"The presidents," said Deng Wu nervously.
+"The big two," said Deng Wu nervously.
 
 "Wang Dong," read Zhou Yi's chalk, harsh and level, "second square. Against — " her eyes ran the class, found the second name on some private register of balance, and lifted: "— does anyone object to my choice of **Huo Yuhao**?"
 
@@ -115,7 +115,7 @@ Night in Room 108 held, as usual, one plain boy still awake over some small work
 
 "Both of mine are better *than* his fast one," Wang Dong noted smugly, wings folded somewhere between the curtains of pride — and then ruined the preen with an honest small frown, the kind of boy-face he saved for after-second-bell in his own room and not on any field. "…He didn't buck. You saw that. No swallow, no hurry. Two touches down and he didn't spend *anything* getting angry about it. Who *is* that, at eleven, from a village?"
 
-"The same boy who passed me water and told your president work to earn its salary," said the plain boy placidly. "New legs drink first."
+"The same boy who passed me water down to half and asked nothing for it," said the plain boy placidly. "New legs drink first."
 
 "He was decent to my *roommate*, block—" Wang Dong raised one finger, with the gravity of a magistrate laying down law. "And THAT," he announced, in the voice of Titled princes conducting diplomacy, "is why I'm going to make him move."
 
