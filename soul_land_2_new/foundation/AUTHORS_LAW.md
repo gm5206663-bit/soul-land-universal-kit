@@ -112,3 +112,13 @@ author word.
 5. **When canon runs a SYSTEM** — dorms, roommates, classes, schedules, fees — the hero is
    processed by it exactly like everyone else. No private exceptions invented for the OC
    (the author-flagged dormitory case, SERIAL_LOG 009).
+
+---
+
+## P-13 · The MONTHS-AND-CANON LAW (2026-09-23, author strike: "where is months growth where is canon events where is natural butterfly effects")
+
+1. **TIME MUST PASS LIKE WEATHER.** A chapter must either (a) carry a canon-era signpost event or (b) compress ≥2 weeks of growth. Day-slice texture chapters are banned from production; ordinary-life beats (meals, dorm warmth, wash-lines) are *cargo*, never the voyage.
+2. **CANON EVENTS FIRST, INVENTED MACHINERY LAST.** Before inventing a school system, drill, or hall, check whether canon already has the machine (the weighted run; the lake-stall economy; the soul-guidance division; the assessment). If canon has it, walk it — the boy stands inside canon's events, and the event CHANGES PATH because he is there. Invented parallels beside a canon machine is the Tianyu disease.
+3. **BUTTERFLIES ARE FELT, NOT FOOTNOTED.** A divergence counts only if a reader would finish the chapter *feeling* the world went differently — moved shoulder, changed route, first touch taken. Footer tables are receipts of something that happened on-page, never the butterfly itself.
+4. **FILIGREE RATION.** Nicknames live; the treaty/House/toast-comedy register is rationed to one light beat per chapter maximum. The author's word: he read such texture as "nonsense" — it crowds months and canon off the page. Saved irreversibly: deadpan "softy", Block, ox-affection, Qiu's filing — at simmer heat only.
+5. Receipt: CANON_LEDGER 045 / SERIAL_LOG 020. This law outranks every stylistic preference the serial has accumulated.
