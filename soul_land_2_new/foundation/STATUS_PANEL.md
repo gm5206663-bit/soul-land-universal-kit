@@ -1,5 +1,5 @@
 # STATUS PANEL — single-state truth
-Snapshot: **v7 (DORM RETROFIT + PROSE LAW ADOPTED)** · 2026-09-22 · chapters live: **2**
+Snapshot: **v8 (CH 3 SHIPPED — first prose-law chapter)** · 2026-09-22 · chapters live: **3**
 Purpose: the whole living state of the hero and his world in one file. Rebuilt in full after
 every kill/rewrite. **If a number isn't here, it doesn't exist yet.**
 Registers follow the laws: skills per CANON SKILL LAW (L-08), attributes per GRAFT LAW (L-09),
@@ -148,13 +148,13 @@ true self — see §9 irony). Natural development; nothing engineered; lanes are
 - Ring ceilings 423y/764y (004) · gold atlas tiers + walls (018–022) · laws L-08/09/10
 
 ## §13 OPEN / PENDING
-- Chapter 3 — rosters at dawn: freshman **Class 1** roster lane (canon cohort: Huo/Wang Dong/Xiao Xiao/Dai-e) — auto-signed by L-11; **Zhou Yi's canon first lesson** with our boy inside it, POV on top, canon bones unbent
-- Strike-record trail: 2-cun stele reading + purple second ring now filed in Shrek's intake dossier; Wang Yan noted it — planted thread, unsigned
+- Chapter 4+ — school-week runway: theory classes, soul-tools lecture texture, dorm economics, roommate arithmetic; **season target: the 3-month freshman assessment** on canon rails (>900 freshmen, ~half stay `[canon-adjacent]`)
+- Strike-record trail: 2-cun stele + purple ring filed at intake; Wang Yan noted it — planted thread
 - Ring 3+ — not opened; aspiration bank + cone 1 (terrorclaw, era-legal)
 - Life Gold cone — LOCKED (L-05) · Golden Tree acknowledgment — flavor free · 015 hook unsigned
-- Chapters 1–2 under the new 2,800-word floor (2,536/2,277) — grandfathered, logged (P-5 law starts at ch 3)
+- Wang Dong office now canon-filed: challenge lane technically open in-world; our boy's standing order = declined (priced)
 
 ## §14 SETTLED (archive hashes)
-- Ch 1 `4f918bc` · **Ch 2 "The Measure"** `b60afce`; gate certified: age 11, rank 23, 2-cun stele, 2-gold fee, Room 105×Qiu Yuan
-- Foundation v1 `b157e41` · audit `0419bb5` · gold sweep `452e489` · perfect panel `f37f798` · possession `f363f9f` · L-11 `3bdaab9`
-- **Dorm retrofit + prose-law adoption + CJK purge + gate v2:** see push hash in SERIAL_LOG 009
+- Ch 1 `4f918bc` · Ch 2 "The Measure" `b60afce` + dorm retrofit/style adoption `3b1df06` · L-11 `3bdaab9`
+- **Ch 3 "Monsters Run"** — Zhou Yi canon-filed day: 100 laps, nine expelled, 30-jin march, twin offices canon's; see push hash in SERIAL_LOG 010
+- Foundation v1 `b157e41` · audit `0419bb5` · gold sweep `452e489` · perfect panel `f37f798` · possession `f363f9f`
