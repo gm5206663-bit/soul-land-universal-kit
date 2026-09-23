@@ -163,3 +163,14 @@ Nothing existing was deleted or overwritten by these additions.
   (paused at ch4; the cult arc barely opened). Both parked with engines warm.
 - Control Centre state refreshed same date: four serials registered, the stale SL4 edge fixed
   (Ch31 -> Ch52), rebuilt via its own pipeline (selftest 102/102).
+
+
+---
+
+## ADDITION — AGENTS.md (2026-09-23, add-only)
+
+- `AGENTS.md` created at the root: the machine-readable contract for any AI agent
+  arriving in this workspace — authority order, the eight non-negotiables, measured
+  style, boundaries (live serials, private repos, source-text rules), token hygiene,
+  and the read order. Formalizes the HANDOFF culture in the emerging AGENTS.md
+  convention. Author word still outranks it.
