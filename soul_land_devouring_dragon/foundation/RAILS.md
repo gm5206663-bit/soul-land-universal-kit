@@ -1,4 +1,49 @@
 # RAILS — story rails (what MUST hold, whatever the plot does)
+
+## INDEX OF LAWS (added s56 — navigation only; every law body stands unchanged below)
+
+THE TEN RAILS (the story's constitution) — beast truth, talent discipline,
+anti-nerf/anti-inflation, pacing, era truth, separation walls, knowledge
+firewall, overlord distance, record law, ending law.
+
+PROSE LAWS (how the locked story is told — facts/order/causes never change):
+- PROSE LAW "don't write boring" (s25) — scene-level tension; failure first.
+- STYLE LAW, second offence (s34) — short concrete sentences; hard scenes;
+  registers; abstraction limits; figures panel-only.
+- HOUSE GRAMMAR (s34, measured) — avg ≤ 25w, none over 60; scene-first;
+  ≥ 2 small finished scenes.
+- SCOPE LAW "write what needs to write" (s39) — 2,400–3,400w; write it once;
+  skip what changes nothing.
+- PACING LAW "skip when thing is same" (s44) — sameness gets one line; the
+  thousand-year road by time-skip summary.
+- PANEL LAW RE-BOUND "the story is the beast's" (s45) — panels only when
+  needed, default none; the footer declares it.
+- PLAIN LANGUAGE LAW "write clear that can be understood" (s40) — plain names;
+  the retired list; no invented code in prose.
+- PLAIN-SCENE LAW "not some poetry not summery" (s52) — real scenes, simple
+  sentences, no montage; time passes in one plain sentence.
+- CANON VOICE LAW "go see how soul land canon is written" (s53) — the narrator
+  explains, never implies; feelings named; world-notes once, plainly; chapters
+  end forward. Built from the source itself (see foundation/CANON_STUDY.md).
+
+ADAPTATION LENSES (how canon's own adaptations tell it — receipts in
+foundation/CANON_STUDY.md):
+- THE MANHUA LENS (s54, deepened same session) — open in motion; beats are
+  panels; world-notes as intervals; call-and-response action with reaction
+  beats; the biggest panel first.
+- THE DONGHUA LENS (s56) — complete mini-arc openings; re-anchor inside the
+  motion; merge, don't queue (memory-panels); the ceremonial beat; no dead
+  air. The donghua reorders chapters — WE NEVER DO.
+
+SYSTEM LAWS (how the serial is managed):
+- OC STATUS LAW (s55) — the OC status sheet is generated, never hand-edited;
+  regenerated on every ship; staleness fails the Sentinel.
+- KIT RULINGS (2026-09-18) — parallel panels may carry faces; footers kept;
+  the kit governs new fiction, this serial keeps its locked shape.
+
+---
+
+
 1. BEAST TRUTH: he is a Devouring Dragon — bloodthirst, devouring, deep sleep,
    the prey-web, men as danger. Never softened into a pet story, never prettified.
 2. TALENT DISCIPLINE: v2.0 — non-sentient, holder-dependent, no free output,

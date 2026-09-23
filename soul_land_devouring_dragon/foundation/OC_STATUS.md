@@ -4,7 +4,7 @@
 > Sources, read fresh on every run: `bible/HIS_STATUS_PANEL.md` (the authority) · `foundation/CONTINUITY.md` (chapter recaps) · chapter footers (DL dates, measured counts).
 > Regenerated on every ship by `tools/build_oc_status.py`; the Sentinel fails the build if this sheet is stale.
 
-GENERATED: 2026-09-23 13:41 UTC
+GENERATED: 2026-09-23 13:52 UTC
 LIVE AS OF: Chapter 24 "The Stone Country" (DL 3681–3683)
 NEXT: Chapter 25 "THE SECOND RANGE"
 

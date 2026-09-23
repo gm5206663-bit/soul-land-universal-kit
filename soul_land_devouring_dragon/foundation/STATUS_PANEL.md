@@ -1,3 +1,20 @@
+Updated: 2026-09-23 (session 57 — author word: "Now correct or add
+everything you learn or gain or anything to GitHub, and manage it perfectly,
+make it more better, make structure of everything better." CONSOLIDATION
+PASS: (1) foundation/CANON_STUDY.md created — every receipt from the three
+adaptation checks (novel s53, manhua s54, donghua s56) preserved as a
+first-class file with sources, quotes, and the law each became. (2) RAILS
+rebuilt with an INDEX OF LAWS at the top (prose laws / adaptation lenses /
+system laws; every body unchanged). (3) The serial README rebuilt clean —
+the stale NEXT-BEAT garbage (accumulated by the old phrase-anchored ship
+swap) removed; a machine-delimited LIVE-EDGE block installed; the file map
+and laws digest brought current (Ch 1–24, the lenses, the OC status system).
+(4) ship_chapter.py's README swap now replaces the whole marked block —
+nothing stale can survive a ship. (5) Kit root README's LIVE BUILD header
+brought current + the session-16 addition block appended. (6) Site: sitemap
+completed (audio.html, dd-status.html), site README numbers measured-current.
+All verification green after the restructure.)
+
 Updated: 2026-09-23 (session 55 — author word: "Create a perfect and current
 and clean and perfect oc stutas list of file whom his everything include that
 continuously updates." BUILT AND INSTALLED: the OC STATUS SHEET —

@@ -94,14 +94,22 @@ def bump_root_readme(kit, n):
 def swap_serial_readme(kit, live_edge, next_beat):
     p = os.path.join(kit, "soul_land_devouring_dragon", "README.md")
     t = open(p, encoding='utf-8').read()
-    i, j = t.index("LIVE EDGE:"), t.index("NEXT BEAT:")
-    k = t.index("\n", t.index("panels only when needed (s45)", j)) if "panels only when needed (s45)" in t[j:] else t.index("\n", j)
-    end = t.index("panels only when needed (s45)", j) + len("panels only when needed (s45).") if "panels only when needed (s45)" in t[j:] else k
-    t = t[:i] + live_edge + "\n" + next_beat + t[end:]
+    M0, M1 = "<!-- LIVE-EDGE-START", "<!-- LIVE-EDGE-END -->"
+    if M0 in t and M1 in t:
+        # machine block: swap everything between the markers, wholesale —
+        # nothing stale can survive the swap (s56 structure fix; the old
+        # phrase-anchored swap left trailing text behind and it accumulated)
+        i, j = t.index(M0), t.index(M1) + len(M1)
+        block = M0 + " (machine block: ship_chapter.py swaps between the markers; build_oc_status.py parses it) -->\n" + live_edge + "\n" + next_beat + "\n" + M1
+        t = t[:i] + block + t[j:]
+    else:
+        i, j = t.index("LIVE EDGE:"), t.index("NEXT BEAT:")
+        k = t.index("\n", j)
+        t = t[:i] + live_edge + "\n" + next_beat + t[k:]
     open(p, 'w', encoding='utf-8').write(t)
     if live_edge.splitlines()[0] not in open(p, encoding='utf-8').read():
         die("serial README swap did not verify")
-    ok("serial README LIVE EDGE / NEXT BEAT swapped")
+    ok("serial README LIVE EDGE / NEXT BEAT swapped (machine block)")
 
 def site_update(site, kit, chpath, n, title, news_text):
     rel = chpath[len("soul_land_devouring_dragon/"):] if chpath.startswith("soul_land_devouring_dragon/") else chpath
