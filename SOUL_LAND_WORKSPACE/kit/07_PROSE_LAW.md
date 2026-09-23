@@ -10,14 +10,19 @@ readable in sequence rather than one chapter at a time.
 **English only. No characters in a script the reader cannot read — CJK ideographs, kana,
 hangul — in any file: prose, panels, ledgers, notes.**
 
-Names are written in pinyin: A Yin, Tang San, Lan Xuanyu, Spirit Hall. Never in characters.
-
-This is *not* a blanket ban on non-ASCII. Em dashes, en dashes, curly quotes, the `≈` sign and
-the kit's `◆` panel marker are correct, portable typography and are explicitly allowed.
+This is *not* a blanket ban on non-ASCII. Em dashes, en dashes, curly quotes, the `≈` sign
+and this kit's `◆` panel marker are correct, portable typography and are explicitly allowed.
+The proven serial this kit was distilled from carries 289 em dashes and zero CJK characters.
 
 The distinction matters because an over-broad rule gets quietly ignored, and a rule that is
 ignored stops being a rule. Ban the thing that actually breaks — unreadable script — and the
-check stays honest, which is what `tools/verify.py` actually enforces.
+check stays honest.
+
+Names are written in pinyin: A Yin, Tang San, Lan Xuanyu, Spirit Hall. Never in characters.
+
+This is not stylistic. It is a portability law: files that contain mixed scripts break on
+transfer, render incorrectly in viewers, and fail automated checks. It also forces the
+discipline of naming things once, consistently, in the glossary.
 
 Two related artifacts to never emit:
 
@@ -74,6 +79,34 @@ never sees it.
 
 **A footer in the chapter file is apparatus outgrowing story.** It is failure mode five and
 it is revoked.
+
+### The marker law
+
+`◆` marks apparatus. It belongs to the panel and nowhere else in prose.
+
+The single exception is a **book-end card** — a fenced block closing a book, not a chapter.
+It must open with `◆ END OF ...`, there may be at most one per file, and it must be the last
+block in the file.
+
+```
+◆ END OF BOOK ONE — <BOOK TITLE>
+<chapter count>. <span>. <the one thing the book was about>.
+<any standing count the reader has been tracking>.
+```
+
+Three short lines. It states the shape of what was just finished and nothing else — no
+doctrine, no wires left open, no notes to self. If you need more than three lines, you are
+writing a footer and calling it a card.
+
+This is not a footer. A footer repeats every chapter and carries bookkeeping; a book-end card
+happens once and carries the shape of what the reader just finished. If you find yourself
+writing one every chapter, you are writing footers.
+
+Note that the card is a fenced block, so its contents are apparatus: exact figures are
+permitted there under the number law, exactly as in a panel.
+
+The gate enforces all of this. A `◆` in prose fails. Two cards fail. A card that does not
+open with `END OF` fails. A card that is not last fails.
 
 ---
 
@@ -154,6 +187,7 @@ Before shipping:
 - At least three spoken dialogue lines
 - At least three of the five registers present
 - No template or placeholder text
+- The `◆` marker appears only in the panel, or as a single book-end card
 - The chapter has a turn: something is true at the end that was not true at the start
 ```
 
@@ -209,7 +243,7 @@ clear that can be understood, why this poem type nonsenses"
 
 ---
 
-*Copy note (2026-09-21): this is the working copy used by the projects in this workspace.
-§9, §10 and §11 were written here during the devouring-dragon sessions and have been back-ported to the
-released kit (`SOUL_LAND_UNIVERSAL_KIT/07_PROSE_LAW.md`); §1 and the §8 audit line were aligned to
-`tools/verify.py`, which bans unreadable scripts rather than all non-ASCII.*
+*Provenance (2026-09-21): §9–§11 were added to the released kit from the workspace working copy
+(`SOUL_LAND_WORKSPACE/kit/07_PROSE_LAW.md`), where they were bound during the devouring-dragon
+sessions (HOUSE GRAMMAR s36–s38, SCOPE LAW s39, PLAIN LANGUAGE LAW s40). Law numbering is
+identical in both copies.*

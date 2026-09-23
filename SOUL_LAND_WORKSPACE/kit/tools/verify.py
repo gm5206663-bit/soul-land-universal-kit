@@ -452,7 +452,10 @@ def project_mode(root):
                 md.append(os.path.join(dp, f))
     md.sort()
 
-    chapters = [p for p in md if "/chapters/" in p.replace(os.sep, "/")]
+    # 2026-09-23: match any chapters* dir (chapters_rebuilt included) — the
+    # blue_silver live serial lives in chapters_rebuilt/ and was never swept,
+    # while its rejected first draft in chapters/ was swept instead.
+    chapters = [p for p in md if "/chapters" in p.replace(os.sep, "/")]
     docs = [p for p in md if p not in chapters]
 
     def rel(p):

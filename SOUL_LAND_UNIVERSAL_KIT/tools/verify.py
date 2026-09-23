@@ -342,12 +342,27 @@ def verify_file(path):
     if d:
         failures.append(f"digits in prose: {d[:8]}")
 
-    # Gate 4 - dialogue register. HARD: 07_PROSE_LAW and 09_AUDIT_LAW both list
-    # it as hard. The register silently disappears from introspective serials,
-    # so it must fail loudly.
+    # Gate 4 - dialogue register. HARD within a panel, per the author's s45
+    # PANEL LAW RE-BOUND (2026-09-21: " they are nothing, there are nothing to
+    # do, oc is soul' beast not human, multiple panel when needed not
+    # necessary "): panels are used only when needed and the story is the
+    # beast's, so a chapter with NO panel may carry no voices at all, and a
+    # chapter that DOES carry a panel must carry voices in it. The footer
+    # declares which: "PANEL: NONE" (no voices permitted) or a "PANEL (...)"
+    # line (three spoken lines required). An undeclared footer keeps the old
+    # hard rule. Auditable: the declaration sits in the shipped text.
     dlg = len(DIALOGUE.findall(prose))
-    if dlg < 3:
-        failures.append(f"only {dlg} spoken dialogue lines (need >=3)")
+    footer = text.split("## Footer", 1)[1] if "## Footer" in text else ""
+    panel_none = bool(re.search(r"PANEL:\s*NONE", footer, re.I))
+    panel_used = bool(re.search(r"PANEL\s*\(", footer, re.I))
+    if panel_none:
+        if dlg > 0:
+            failures.append(f"{dlg} spoken dialogue lines but the footer declares PANEL: NONE")
+    elif panel_used:
+        if dlg < 3:
+            failures.append(f"only {dlg} spoken dialogue lines (need >=3 in a panel chapter)")
+    elif dlg < 3:
+        failures.append(f"only {dlg} spoken dialogue lines (need >=3; declare PANEL: NONE if the chapter has no panel)")
 
     # Gate 6 - placeholders, whole file, templates exempt
     if not is_templateish(path):
@@ -437,7 +452,10 @@ def project_mode(root):
                 md.append(os.path.join(dp, f))
     md.sort()
 
-    chapters = [p for p in md if "/chapters/" in p.replace(os.sep, "/")]
+    # 2026-09-23: match any chapters* dir (chapters_rebuilt included) — the
+    # blue_silver live serial lives in chapters_rebuilt/ and was never swept,
+    # while its rejected first draft in chapters/ was swept instead.
+    chapters = [p for p in md if "/chapters" in p.replace(os.sep, "/")]
     docs = [p for p in md if p not in chapters]
 
     def rel(p):

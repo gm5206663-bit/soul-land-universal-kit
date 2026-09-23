@@ -19,6 +19,12 @@ anything.
 
 The rest (04–10) are reference. Read them when you hit the thing they govern.
 
+**Before you trust the gate, prove it works.** Run `python3 tools/selftest.py` once when you
+set the project up. It feeds the gate chapters containing known defects and confirms every
+one is caught. A gate that has only ever been seen to pass is a gate nobody has tested — and
+this kit's gate was once wrong in exactly that way, failing a correct serial fifteen times.
+Re-run it after any edit you make to `verify.py`.
+
 ---
 
 ## THE FIVE DECISIONS YOU CANNOT DEFER

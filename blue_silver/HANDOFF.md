@@ -70,7 +70,7 @@ replacements and the names are similar.
 | `bluesilver_foundation/FOUNDATION.md` | **LIVE** — footer rule REVOKED, slim panel |
 | `bluesilver_bible/BEAST_LAW.md` | **LIVE** — ring tiers, Titled Douluo |
 | `bluesilver_foundation/CANON_NOTES.md` | **LIVE** — canon receipts |
-| `chapters/` | **SUPERSEDED** — the rejected draft. Fails 29 gates. History only |
+| `archive_rejected_first_draft/` | **SUPERSEDED** — the rejected draft (moved out of `chapters/` 2026-09-23 so gates sweep the live text, not this). Fails 29 gates. History only |
 | `bluesilver_codex/*.md` (7 files) | **SUPERSEDED** — banners say so; do not read as continuity |
 | `README.md` | **SUPERSEDED** — bannered; its premise prose is still fine, its state is not |
 | `ADAPTATION_TALENT.md` | PARTIALLY SUPERSEDED — see its banner |

@@ -14,6 +14,31 @@ produce fiction that a Soul Land reader cannot read.
 Never present a `[fan]` or `[design]` claim as `[canon]` in prose or in a status file. The
 distinction is the whole discipline.
 
+### Provenance — what these claims were actually checked against
+
+`[canon]` in this file means *multiple independent secondary sources agree*, **not** *read in
+the original Chinese novel text.* That is a weaker guarantee and you should know it before
+you build a plot on one of these rows.
+
+| Section | Checked against | Strength |
+|---|---|---|
+| §1 The clock | SL1 timeline compendia; Tang San's birth/age cross-checked at two points | medium |
+| §2 Rank ladder | Baidu Baike EN (Soul Master, Titled Douluo), anime setting summaries, fandom rank tables — all agree on the ten bands | **strong** (4+ independent) |
+| §2 Translation variance | the same sources, which is *why* the variants exist | strong |
+| §3 Ring colours (first five) | Baidu Baike EN, fandom ranking tables, SL2/SL3 glossaries | **strong** |
+| §3 Orange / gold tiers | fandom and later-series material only | tagged `[fan]` |
+| §3 Beast law | a single project bible compiled earlier from novel + donghua | **weak — one source** |
+| §4 Blue Silver line | same project bible, plus a user ruling on the valley name | weak + `[user ruling]` |
+
+**The beast-law rows in §3 are the weakest thing in this file.** They come from one compiled
+bible, not from independent agreement, and several are load-bearing for any plant-beast or
+slow-cultivation protagonist. Re-verify them against the novel before your story depends on
+one.
+
+Nothing in this file was read in the original Chinese. If your project turns on a specific
+mechanic, find the chapter. A `[canon]` tag here means "safe to build on, worth re-checking,"
+not "settled beyond argument."
+
 ---
 
 ## 1. THE CLOCK
@@ -61,9 +86,29 @@ and rank titles change at every ten levels.
 | Soul Ancestor | 41–50 | [canon] |
 | Soul King | 51–60 | [canon] |
 | Soul Emperor | 61–70 | [canon] |
-| Soul Saint | 71–80 | [canon] |
+| Soul Sage | 71–80 | [canon] |
 | Soul Douluo | 81–90 | [canon] |
 | Titled Douluo | 91–99 | [canon] |
+
+**Titled Douluo subdivides:** 91–94 ordinary Titled Douluo, 95–98 Super Douluo, 99 Limit
+Douluo. Later series subdivide 99 further into Quasi-Demigod, Demigod and Quasi-God.
+
+### Translation variance — read this before "correcting" a rank name
+
+**The same rank has several English names depending on the translation.** This is the single
+most common way two agents end up "fixing" each other in circles. Pick one convention at
+project start, write it into the ledger, and never silently swap.
+
+| Soul power | Common variants |
+|---|---|
+| 1–10 | Soul Scholar · Soul Warrior · Spirit Scholar · Soul Apprentice |
+| 21–30 | Soul Grandmaster · Grand Soul Master · Spirit Grandmaster |
+| 31–40 | Soul Elder · Soul Honour · Spirit Venerable · Spirit Expert |
+| 71–80 | Soul Sage · Soul Saint · Spirit Saint |
+| 91–99 | Titled Douluo · Title Douluo · Grand Soul Land Master |
+
+None of these is wrong. They are different translations of the same Chinese terms. A project
+that mixes them looks careless even when every individual name is defensible.
 
 **Rank gates are not free.** You cannot advance past a multiple of ten without a new **soul
 ring**. A Soul Grandmaster at level 30 is stuck until they take a ring. This is the single
@@ -87,6 +132,16 @@ beast's age:**
 | Purple | 1,000+ years | [canon] |
 | Black | 10,000+ years | [canon] |
 | Red | 100,000+ years | [canon] |
+| Orange | 200,000+ years — special case | [fan] |
+| Gold | 1,000,000+ years — god-tier, attribute-coloured | [fan] |
+
+The first five rows are the ones that matter for any story below god tier. Orange and gold
+appear in later series and in wiki material rather than the original text, so they are tagged
+`[fan]` — do not treat them as load-bearing unless your project's era reaches that far.
+
+**Under-100,000 is where virtually all fan fiction lives.** A red ring is already a
+once-in-a-generation event. If your protagonist collects them casually, you have written
+yourself out of tension. See `05_POWER_LAW.md`.
 
 **This table is the spine of the world's economy.** Soul beasts die so humans can advance.
 Every forest in this franchise is a hunting ground, and every ancient beast knows it. If
