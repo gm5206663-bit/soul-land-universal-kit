@@ -87,6 +87,10 @@ As of ch18 (thread CLOSED): the line's watching ended. The men walked home with
   attention is author-gated. It must never act without the author's word.
 
 ## AUDIT (per chapter, kit 06 §6)
-- No character acts on a routeless knowledge — PASS through ch14.
-- No known thing fails to affect decisions — the ledger always changes him.
-- No private fact leaked without earning — PASS through ch14.
+- No character acts on a routeless knowledge — PASS through ch22: no human
+  acts on anything at all (the men's thread closed at ch18; no human appears
+  in ch19-22), and the forest proper's holders reach the page only as ground,
+  quiet and one standing light (ch22).
+- No known thing fails to affect decisions — the ledger always changes him
+  (ch22: the fern-hall lesson lawed — the roads are the camouflage).
+- No private fact leaked without earning — PASS through ch22.

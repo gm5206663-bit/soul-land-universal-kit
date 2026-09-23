@@ -1605,3 +1605,17 @@ One entry per working session. Newest at the bottom.
   21/21. Mirrors synced same turn.
 
 | 49 | 2026-09-23 | Arena agent (standing delegation, renewed "Continue") | **CHAPTER 22 "THE DEEP FOREST PROPER" SHIPPED.** Two years of the forest proper under the s44 pacing law (summary where the years repeated, scene where they turned): the reversal completed (nothing here); the walked roads (pattern is belonging — the second law); THE FERN HALL (the B1 wrong: the perfect off-road take, the quiet rising from the ground up, the unseen interested thing, the warm meat abandoned — walking out, not running; the pressure stopping at the road's edge like a man at a door); the water (the one unread ground; the first stream-hunt); the deep meals, the growth, and THE QUIET-SENSE; the road's manners (the bend, the standing light, the north wind); THE LEAN (the pull settling east of north toward the far mountains; the road and the pull coming apart ahead). 2,367w; PANEL: NONE; sweep PASS 22/22. Mirrors synced same turn. |
+
+- s49 ADDENDUM (2026-09-23, the SECOND delegated agent of the same session): a
+  second "Next chapter" answer was written in parallel with the one shipped
+  above and reached GitHub after it. RULING BY THE DELEGATION: the chapter that
+  shipped first is the live Chapter 22 and stands; a rewrite of a published
+  chapter is not a thing done without the author's word. The second draft is
+  kept whole, labelled ALTERNATE and not canon, in
+  `soul_land_devouring_dragon/_alt_drafts/` with its own README, and the author
+  can rule if he ever wants that shape instead (its beats: the high gouges, the
+  line at the root-ridge, the strips between the claimed grounds, the trespass
+  under the wide dark, and the line read back). The same pass also brought this
+  file's sister records current: HIS_STATUS_PANEL's closes for ch19-22 (missing
+  since the s46-48 handoffs), the KNOWLEDGE_FIREWALLS audit lines (stale at
+  ch14), and the panel's exact-figures line (stale at ch21).

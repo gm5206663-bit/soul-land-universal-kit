@@ -210,3 +210,10 @@ Nothing existing was deleted or overwritten by these additions.
   THE LEAN on the rock spine — the pull settling east of north toward the far
   mountains, the road and the pull coming apart ahead. 2,367w; PANEL: NONE; sweep
   PASS 22/22. Mirrors synced same turn.
+
+- NOTE (same date, second delegated agent, add-only): two agents answered "Next
+  chapter" in parallel; the first to ship is the live Chapter 22. The second
+  draft is kept whole and clearly marked as an alternate in
+  `soul_land_devouring_dragon/_alt_drafts/` (never a rewrite of a published
+  chapter without the author's word). Recorded in the serial's SERIAL_LOG
+  (s49 addendum) and at the control centre.

@@ -372,3 +372,38 @@ marked [design] and belong to the author to correct.
   days at the edges; nothing in it hunts him in return.
 - Counts (s45, after the beast-first rebuild): 2,360 body words; no panel; no
   voices; average 23.4 words per sentence, longest 53.
+
+## Chapters 19-22 close (derived; added 2026-09-23 by the second delegated agent of s49 after the s46-48 handoffs and the first s49 pass left this sheet at ch18)
+- CH 19 "The North Road" (DL 3667-73): six quiet years as time-skip summary —
+  the packs and the map of habit (the bank given up; kills never twice in a
+  year), the country taking the men's marks back, the two long sleeps (harder
+  armor, a longer shadow); the pale beast silent (the roar did not come); the
+  north road begun — the birdless hollow, the river-road, the far standing
+  light. 2,000w; no panel.
+- CH 20 "The Road Itself" (DL 3673-76): the road's first three years — the
+  giant's passing (the world does not lower its voice for him north of his
+  border); the tricks reborn at the world's new size; the first deep meal (the
+  rib-tear); the hunted week (the meat-tax lawed); the pass country found; the
+  watch begun from the high seat. 2,126w; no panel.
+- CH 21 "The Watch and the Pass" (DL 3676-77): the pass's hours learned; the old
+  grazer's taking (no crows — the pass keeps everything); the crossing inside
+  the river at the south lip's bend; the weight read him and let him go
+  (beneath notice, not mercy; the red thing risen and carried out by the
+  walking); the road resumed north. 2,017w; no panel.
+- CH 22 "The Deep Forest Proper" (DL 3677-79): two years inside the proper —
+  the reversal completed (blood-law in the low country, a scent on the road,
+  nothing here: a young thing in an old house); THE WALKED ROADS (pattern is
+  belonging); THE FERN HALL (the wrong: the perfect off-road take, the quiet
+  rising from the ground up, the unseen interested thing, the warm meat
+  abandoned — walking out, not running; the pressure stopping at the road's
+  edge); THE WATER (the one ground the forest cannot read — the first
+  stream-hunt; his oldest possession returned); the deep meals and the growth
+  (the line lengthened, the scales deepened; a local trouble, known and allowed
+  for); THE QUIET-SENSE (a whole ground's attention felt thinning, learned from
+  the pass, worth a kill a month); the road's manners (the bend around a darker
+  country; a standing light seen once at the black hour; the north wind); THE
+  PULL UNDERSTOOD (older than the forest's attention — a river under ice); THE
+  LEAN (on the rock spine: the pull settling a few points east of north toward
+  the far mountains; the road and the pull coming apart ahead). 2,367w; no
+  panel; no voices; average 18.8 words per sentence, longest 56. Next beat
+  registered: Ch 23 "The Parting".

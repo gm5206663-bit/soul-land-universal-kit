@@ -145,16 +145,16 @@ forest's own. PANEL LAW (s45): panels only when needed — default none. Talent
 never named; no leaps.
 
 ## Exact figures (panel law)
-- REAL AGE: ≈ 204–212 months (hatched late summer DL 3661; through DL 3663,
+- REAL AGE: ≈ 228–236 months (hatched late summer DL 3661; through DL 3663,
   DL 3664, the second winter, the thaw, the summer of DL 3665, the wet and dry
-  of DL 3666, and the seasons after the men left in DL 3667, the six quiet years of DL 3667–3673 (ch19), the road's first three years DL 3673–3676 (ch20), and the watch and crossing of the pass DL 3676–77 (ch21). OPEN: the stated
+  of DL 3666, and the seasons after the men left in DL 3667, the six quiet years of DL 3667–3673 (ch19), the road's first three years DL 3673–3676 (ch20), and the watch and crossing of the pass DL 3676–77 (ch21), and the deep forest proper's first two years DL 3677–3679 (ch22). OPEN: the stated
   hatch year and this month-count do not reconcile — see foundation/OPEN.md,
   "PANEL FIGURE" entry; the increments are the panel's law until the author
   rules).
-- CULTIVATION-AGE (SB-01 — NOT the same as real age): ESTIMATE ≈ 350–390
+- CULTIVATION-AGE (SB-01 — NOT the same as real age): ESTIMATE ≈ 360–400
   years — HUNDRED-YEAR CLASS; the drawn-water kills, the flood's gift and the
   years after the men left moved it; the lean wet weeks held it back some; the
-  aimed word's spend (ch14) is not a gain. ch19 SUBSTRATE (s46): the estimate moved by the six quiet years' steady feeding (the thaw's grazers every spring, the flood gifts in the wet, the drawn-water kills in the dry) and the two long sleeps' conversions; held honest by the twin law — no blood-price tests fell in the quiet years, so no leaps. ch20 SUBSTRATE (s47): one deep meal (the old pusher-kind, heavy years) plus the road seasons' small feeding, against real costs (the rib-tear, the near-drowning, the meat-tax, the hunted week's thinness); no leaps. ch21: no gain claimed — a moon of watching and one crossing; the feeding unchanged. FIRST BARRIER
+  aimed word's spend (ch14) is not a gain. ch19 SUBSTRATE (s46): the estimate moved by the six quiet years' steady feeding (the thaw's grazers every spring, the flood gifts in the wet, the drawn-water kills in the dry) and the two long sleeps' conversions; held honest by the twin law — no blood-price tests fell in the quiet years, so no leaps. ch20 SUBSTRATE (s47): one deep meal (the old pusher-kind, heavy years) plus the road seasons' small feeding, against real costs (the rib-tear, the near-drowning, the meat-tax, the hunted week's thinness); no leaps. ch21: no gain claimed — a moon of watching and one crossing; the feeding unchanged. ch22 SUBSTRATE (s49, second pass): two years of the proper — the deep meals and the deep sleeps moved the estimate (the line lengthened, the scales deepened), against real costs (the fern-hall meat abandoned, the lean on the rock spine, the thin seasons); the quiet-sense is a sense, not a gain — no leap. Figures line updated because it still stopped at ch21 after the first s49 pass. FIRST BARRIER
   at cultivation-year 100: CROSSED. Next barrier at cultivation-year 1,000
   (SB-03), unaged, unfelt. NO clock (s7); estimates move with events. No
   leaps. (The duplicated tail this line carried since s34 was removed s41.)
