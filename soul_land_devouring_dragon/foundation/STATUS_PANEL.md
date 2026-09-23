@@ -1,3 +1,17 @@
+Updated: 2026-09-23 (session 59 — rollout continues under the standing
+delegation: Ch 12 "The Bull at the Water" 3,288w/17.4/58 shipped under ALL
+THREE LENSES. Mini-arc opening (the bull's evening descent read from the high
+fern); the craft's cost discovered in motion; the fight call-and-response
+with a reaction beat after every exchange; the deep light the ceremonial beat
+("did not move until the water had stopped moving around him"); ends forward
+("It would come with eyes."). COPY DEFECTS FIXED: the old panel carried Old
+Qin's market speech twice nearly verbatim (duplication removed, content
+merged); the doubled-hound closing image eased; "the cry that guards" → "the
+sign that guards" (it is the scent-sign; both places); the fog line "he set
+his trap" replaced by the second word's plain purpose. Panel otherwise
+verbatim. Beats held exactly. Tracker 12/24. Next: Ch 13, then 14; audio
+re-records after the last chapter. Chapters 13–24 still carry the old voice.)
+
 Updated: 2026-09-23 (session 58 — rollout continues under the standing
 delegation: Ch 11 "The War of the Lists" 2,833w/16.5/52 shipped under ALL
 THREE LENSES. The opening is a complete mini-arc (descent in motion → the
