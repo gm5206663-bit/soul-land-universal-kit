@@ -177,6 +177,25 @@ thousand years old with summery of time skip"
 4. The panel's next-beats section carries the current pacing state so any
    session knows where the story is on the road.
 
+## PLAIN-SCENE LAW — "not some poetry not summery... like how actually written simple" (author strike, session 52, 2026-09-23)
+
+Author, verbatim: "Serious mistake complete writeing style is wrong, i need clear
+and clean, that' can understand and read not some poetry not summery but like how
+actually written simple"
+
+1. WRITE REAL SCENES. He does something, something happens, he reacts. The reader
+   watches it happen step by step. A chapter is made of scenes, not catalogues.
+2. SIMPLE, CLEAR SENTENCES. Subject, verb, object. If a sentence must be read
+   twice, it is wrong.
+3. NO POETRY. No stacked metaphors, no beat-labels ("THE FORD. THE WATER ROAD."),
+   no montage paragraphs that list what was learned instead of showing the
+   learning. One small everyday comparison per scene is the ceiling; none is fine.
+4. NO SUMMARY-CHAPTERS. Time passes in one plain sentence, then the next scene
+   begins. The s44 pacing law compresses TIME, not SCENE: the kept moments are
+   written out fully and plainly.
+5. The facts, order, and causes of what happened do not change — only the
+   telling. (Same rule as the s34/s40 rewrites.)
+
 ## PLAIN LANGUAGE LAW — "write clear that can be understood" (author correction, session 40, 2026-09-21)
 Author, verbatim: "What the hell even this writeing style what you can't write clear
 that can be understood, why this poem type nonsenses"

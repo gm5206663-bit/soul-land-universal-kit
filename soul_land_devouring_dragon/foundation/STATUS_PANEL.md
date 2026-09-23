@@ -1,3 +1,17 @@
+Updated: 2026-09-23 (session 52 — AUTHOR STYLE STRIKE, verbatim: "Serious mistake
+complete writeing style is wrong, i need clear and clean, that' can understand
+and read not some poetry not summery but like how actually written simple."
+Accepted in full. PLAIN-SCENE LAW written into RAILS: real scenes, simple clear
+sentences, no poetry, no summary-chapters; time passes in one plain sentence.
+CHAPTERS 19–24 REWRITTEN in the corrected style, facts/order/causes unchanged
+(the s34/s40 rule: keep what happened, change only the telling). New measured
+voices — Ch19 2,018w avg 18.6 max 56; Ch20 2,036w avg 17.3 max 58; Ch21 2,017w
+avg 15.4 max 56; Ch22 2,025w avg 15.2 max 48; Ch23 2,039w avg 16.3 max 56; Ch24
+2,058w avg 15.6 max 43 — all sweeps PASS, retired words zero, tics within cap.
+Chapters 1–18 stand (they already passed the author's s34/s40 strikes). The
+narrated audio of Ch 21 was recorded from the superseded text; re-recording
+follows.)
+
 Updated: 2026-09-23 (session 51 — CHAPTER 24 "THE STONE COUNTRY" WRITTEN AND
 GATED under the standing delegation, renewed by the author's word this session
 ("Continue" → the advanced plan "Do all" — ship script, recaps, discoverability,

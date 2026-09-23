@@ -1,87 +1,80 @@
 # Chapter 20: The Road Itself
 
-The ground told him before the trees did.
+The road taught him its first lesson on the morning of the second week, at gray light, and it taught it all at once.
 
-A weight was coming through the forest north of him, slow and enormous, each footfall a felt thing in the earth rather than a sound. He had crossed that ground at dark, meaning to hunt the small quick kinds at dawn, and now there was no time to be anywhere else. He slid under the trunk of a fallen giant, into the hollow its roots had left, and flattened himself into the cold leaf-mold with his chin in the dirt.
+He was crossing a stretch of open ground between two stands of trees when the ground began to carry a weight. He felt it before he heard anything: a pressure in the soil, slow and enormous, coming through the forest north of him. He did what he had always done — found cover, a fallen giant with a hollow under its roots, and slid in, and flattened, and made himself nothing.
 
-The giant came at gray light.
+The giant went by.
 
-He never saw all of it. The legs went by like standing trees walking, and above them the body was a wall that took the sky away, and the smell of it rolled over the hollow first and pressed everything down — the small voices, the birds, the insects, the whole morning. It was not hunting. It walked and fed as it walked, stripping the crowns of trees the way a river takes a bank, and where its feet came down the ground gave a slow deep note that he felt in his own chest.
+It was a beast of the deep forest, longer than any animal he had ever seen move, and its feet came down like the falling of trees. He lay in the root-hollow and felt every step arrive through the ground and go through him. It was not hunting. It walked as weather happens, without attention to anything, and its smell went past like a tide — deep water, old leaves, crushed green — and then it was gone, and the small sounds of the forest came back behind it.
 
-He lay still and let it pass. There was nothing else in him that could have answered it, and he knew that in his body before his mind said it: the holding still was not a trick this time. It was the truth of what he was on this ground.
+He lay in the hollow for a long time after it had gone, and took the lesson whole, because it was the biggest one the road had: the world did not lower its voice for him here. Back in the low country, his blood had been a law. Animals made their decisions at his smell. Here, in the deep forest, he was a smell on the wind, and not a strong one. He had walked out of the country where his blood meant anything. He was one more young animal on a road full of animals, and something that big did not even notice him.
 
-In the low country, his shadow crossing the water had been weather. Beasts had made their decisions at the mere shape of him. Here, in the deep forest's first miles, he was a scent on the wind and not a large one. That morning under the trunk was the first full lesson of the road, and it was given in one piece: the world did not lower its voice for him here. He had walked out of the country where his blood was a law.
+He walked differently from that morning on.
 
-When the giant was long gone, he backed out of the hollow and went on north, and he walked differently from that morning on.
+The road's own rules came back to him fast, because they were his old rules made larger. Cross on stone, not on soft ground. Move at gray light and after dark. Drink where the water was loud. Kill off the trails and never in the same ground twice. Leave no print, no pattern, no line anyone could read and wait on. The tricks he had learned as a small thing, hiding from men, worked on the road at the world's new size, and he worked them carefully, day after day.
 
----
+A day of it went like this. He moved at first gray light, while the night hunters were settling and the day ones were still stupid with sleep. Where the ground was soft he kept to the ridges and the rock. He crossed every stream in the loud water, never at the quiet pools where drinking animals came and waited for each other. At full morning he lay up in cover he had chosen the day before, always off the trails, always with a second way out. He slept through the heat of the day and moved again in the evening, and in the black of night he did his hunting, quick, small, and away from his own line of travel. No kill was ever made in ground he would walk through again. No two days looked alike. At the end of a week of it, no animal on the road could have said where he would be, and that was the point of all of it.
 
-The road's first season taught him the rest of it.
+The first deep meal of the road came at a cliff spring, and it nearly killed him.
 
-He had learned the small thing's tricks once already, ground by ground, in the years the watchers worked his country. He had learned to cross on stone and to drink at running water in the black of night. He had learned to leave no print, to keep off soft ground, to sleep high or deep where nothing could come at him without noise. The lessons were the same lessons. Only the size of the world around them had changed.
+The spring fell from a crack in a rock face into a shallow pool in bare stone, in rocky country north of the birdless hollow. Old animals came there to drink, because the pool was shallow and the rock around it held no cover at all for a hunter. He cased it for two days before doing anything. He lay in the rocks a slope away through both evenings, and watched: what came, and when, and from where, and how long it stayed. Most of what came was small and quick and not worth the risk of open stone. But both days, the same hour, the same animal came: a heavy old pusher-kind, one-eyed, alone, slow, and it drank for a long time with its head down, and its one eye was on the wrong side for where he would have to come from. He believed he understood the whole visit. He was wrong about one part of it.
 
-So the road made its rules and he paid them. He walked the rock and the ridges where the ground could not write him. He drank in the dark at the fast water. He ate small and quick and often — the quick kinds, the sleeping kinds, whatever a small hunter could take without a fight — because a small thing cannot be choosey, and because a real meal here drew real things. He kept his kills off the trails and his hours off the pattern. Twice in that first season a weight passed his ground in the night, and both times he was rock-still and high before it came, and both times it went by without slowing.
+He took it at the pool on the third evening. What he had not measured was what the old thing could still do in the water.
 
-The hunger stood up after every meal the same as it had always done, and the road did not answer it either. But the road fed him in the other way, the one that mattered to a body that was all there was of him: every mile north was new ground, read and held, and the map of his life was growing faster now than it had grown in all the quiet years.
+It did not run. It came for him, through the shallow pool, and its weight hit him like a bank of earth falling. The fight went into the deep part of the pool, and he went under. He learned in that black water what it means to fight an animal that has spent forty years pushing other animals off ledges: it pushed him down and stood on him, and the pool went over his nose, and his chest burned, and his jaws, which had never once let anything go, held.
 
-Seasons turned. He walked.
+He did not know afterward how long it lasted. The old thing pushed him through the pool and against the stones. The sky under the water went gray, then dark at the edges. His jaws held. Then the pushing weakened — not much, but enough. He got his feet under him on the pool floor and pushed back, and turned it, and the water went shallow, and the fight became a slow, kneeling thing, ending by degrees, in the noise of the spring.
 
----
+He ate the old one in the pool, because he could not walk. He had torn a rib somewhere in the black water. He lay up in the rocks above the spring for a week, licking it, unable to hunt, eating what was left of the kill in trips of a few steps at a time. Then the rib mended, and he went on, and the deep years of the old pusher-kind were in him. The deep meals of the road had begun.
 
-The first real meal of the road, he took in a rock country where a spring came down out of a cliff and made a shallow pool in bare stone.
+The hunted week came in the second year, on the blood of that rib.
 
-The kind that came to that water at dusk was nothing he had met — heavy through the shoulder, low on its legs, with a head made for pushing and one eye ruined and closed. Its years were heavy. He could read them standing in the dark of the trees, the deep slow weight of an old one of its line, and the read of it made his mouth run. He had eaten small for a season. His body wanted the deep years, and here they were, walking down to the water on four slow legs with one blind side.
+A quick hunter-kind, near his own weight and speed, cut his trail while the rib was still seeping, and followed him. He knew it was there as prey knows: birds going quiet wrong, a shape at the edge of seeing, always the same distance behind, patient.
 
-He took it at the shoulder, in the shallows, in the last of the light.
+Four times that week his old tricks saved him.
 
-It did not go as the low country's meals went. The old thing did not fall. It dropped its head and pushed, and the pool's whole skin of water broke over the two of them, and he learned in one slamming moment that a fight in shallow water is a fight in the other's weight. The bottom was smooth stone. His claws found no hold. The push took him under and along, rolled him against the pool's lip, and the world was water and pressure and his own breath going nowhere.
+The first time, he crossed a half-mile of bare rock and doubled back on his own line through a boulder field, and the hunter spent half a day working a trail that led nowhere.
 
-The jaw held. That was all he had, and it was the thing he had always had: take, and keep. He was under the old one's neck, dragged blind through its own red, and he kept the hold and worked it, and the push weakened before his breath did. It knelt down into the shallows by degrees, the way heavy things fall, and the water closed over it and went still.
+The second time saved him whole. He heard the thing coming while there was still a stream between them, and he slid into a dead log lying half in the water, through a crack at the root end, and lay in the wet dark with the current touching his flank. The hunter came down the far bank and stopped opposite the log. It stood there for a long time. He could hear it breathing — long, slow, even breaths, a patient animal reading the air. The water carried his smell away downstream, and the log held his shape, and at last the breathing moved on up the bank, and he lay in the log until dusk before he moved again.
 
-He lay half in the water a long time, getting his breath back, with a tear across his ribs where the stone lip had taken him. Then he ate, deep and long, in the pool, in the dark, and the years of the old one went into him like the flood goes into dry ground. It was the road's first real payment, and it had cost real blood to get, and he slept a week in the rocks above the spring while the rib-tear knit, and he did not leave the water running red below him until the crows had come and gone and the ground had stopped telling.
+He killed small that week, and never fed where he killed. The fifth time, in open country, his quiet failed him — the strain of the week came up in him, and the hiding broke in the open, and the hunter saw him whole.
 
----
+There was no cover. He ran, down a long ridge, with the hunter closing the whole way, and did the only thing left: he went into fast water, a half-mile of it, and let the river take him under and carry him, and came out bruised and cold two bends downstream, in the smell of his own blood thinned out into nothing.
 
-The hunter found him the week after.
+The hunter-kind did not find him again. But it cost him. Twice in the days after, things came to his kills and took from them, and he let them, because he was in no state to argue. Meat was the price of quiet. The lesson went into him plainly and stayed: when you are not the heaviest thing eating, the meat is never only yours. He moved his whole line west for ten days after that, and let the country forget him.
 
-It was a kind of the long low country he had left — no, it was of this forest, quick and rangy, a hunter-kind with a head like a wedge, and his blood pressed it not at all. It read near his own weight and years, and it had found the rib-tear's blood on his trail, and it meant to collect.
+Twice in the third year he saw the far light again.
 
-That week was the worst week the road gave him. He could not fight it — not with the rib half-knit, not on its terms, on ground it knew better than him. So he lived by the tricks, and the tricks saved him four times and failed him once.
+The first time was a bad night, low cloud, no moon, and he was moving along a ridge with the dark forest running black below him on both sides. The light stood up out of the country to the north — a still, cold point, like a star that had come down and landed. It was nearer than it had been on that first night years before. He stopped and watched it for a long time, and it did not move, and it did not flicker, and nothing about it suggested any fire he had ever seen. He went on. A light that stands still in a country like that is not a thing you walk toward.
 
-The once was the third night. He crossed a ridge in the dark and the hunter was upwind of him, which was wrong, which should not have happened — and in the open, for one breath, he did the thing he could do: went quiet, deep into himself, and stood in the low brush like a stone in a field of stones. The quiet held for most of a heartbeat. Then the strain of it, with the rib torn inside him and the hunter's whole attention sweeping past him like a lamp, broke the quiet — and the hunter's head came around, and its eyes found him standing there, found him whole, and it came.
+The second time he looked for it from the same ridge, a season later, in clear starlight, and there was nothing where it had been. Not dimmed. Gone.
 
-He went down the ridge in the dark with the hunter's breath on his heels, hit the stream at the bottom going full, and let the fast water take him down through the rock country half a mile before he crawled out on stone. It did not follow him into the current. Nothing of that kind had ever followed him into fast water.
+He did not chase either of them. He was learning what the road was, and what it was not, and the far lights were not his business yet.
 
-The rest of the week he paid meat. When he made a kill and the hunter found it, he walked away and let it have the blood and the body both, and took his share first and small. Twice more it happened. The third time he understood the price was not going down, and he moved his whole line west for ten days, into harder, colder country, and the hunter let him go. He had bought quiet with meat once before, in the low country, from the wolves. He had thought it a lesson of that ground. It was a lesson of every ground: when you are not the heaviest thing eating, the meat is never only yours.
+At the turn of the second year he found the pass country.
 
-The rib healed honest, as his wounds did. He went back to the north when the trail was cold, thinner than the road had made him yet, and slower about the ground, and better at it.
+The land opened between two broken ranges into miles of open grass and low wood, with a river running north through the middle of it. He came out of the trees onto the south lip and stood looking at it, and everything about it was wrong in a way he could feel in his skin before he could say it. No birds were crossing the open ground. No trails went into the grass. On both sides the forest came right down to the lip of the grass and stopped, as if the trees had walked up to the edge of a lake. And under everything, through the soles of his feet, was the strangest thing the road had yet shown him: a weight in the ground. Old. Patient. Not moving anywhere. Living there.
 
----
+He walked the edges for four days.
 
-The far light he saw twice more that year, always at night, always from high open rock, standing in the north like a lit window across a plain. Once it seemed nearer. Once it was gone before the moon set. He could make nothing of it and stopped trying; it was a thing of the deep forest's own, and the deep forest kept its own things.
+The first day he went west along the south range. The going was good for the morning, and then the mountains came down to meet each other, and the ground between them became a country of blind rock: walls, chimneys, and slides of loose stone, with nowhere soft to walk and nothing living on it bigger than insects. He climbed one wall to look, and saw the same again behind it, and the same behind that, range standing on range, into the far haze. Nothing his weight was getting through that country. He turned back before dark.
 
-What the road gave him instead, at the turn of the second year, was the pass.
+The second day he went east, and the land dropped away into wet, dark, low forest, still and steaming, that smelled of things he had no names for and did not care to meet on their own ground. He stood on the lip of it for a long time and then walked away from it too.
 
-The ground north had been rising for days, breaking into long ridges and deep cuts, when he came out on a shoulder of rock and saw the country whole. North went through a cut in the land, a wide pass between two broken ranges, and the pass was open ground — grass and low wood, miles of it, under the sky. He could see the far side of it from where he stood. He could see, in the pass's middle distance, the thin shine of the river that ran through it and went on north.
+There was no going around the pass. Whatever went north through this land went through that open grass, over that ground, with the weight underneath it.
 
-He could also see that nothing lived in it. No birds worked its grass. No trails crossed its floor. On both ranges, right up to the pass's edges, the forest stood thick and loud with its small life, and then it stopped, as water stops at a lip.
+He found a shelf of rock partway up the south range, off the pass's own ground, with the whole of it in view. He made a camp there. He had food cached and water within reach, and he was young and patient, and the pass was the first true wall the road had put in front of him.
 
-He did not need to go in. He read it from the shoulder, and what he read was enough: there was a weight in that pass. Old, deep, and patient, sitting in the ground itself just as the river-road's weight had sat — only this one was not passing through. It lived there. The whole pass was one held thing, and the road north ran through the middle of it.
+He lay down on the warm stone in the evening light, put his chin on his paws, and began the watch.
 
-He spent four days walking the edges, because the road had taught him to check what could be checked. West, the ridges stacked up into blind rock with no water and no way through. East, the cuts dropped into wet dark country that smelled of older things than he wanted to meet. There was no going around. The road went through the pass, or it did not go.
-
-On the fifth day he found the high seat — a shelf of rock on the south range, off the pass's ground, with the whole of it in view — and he made a camp there in the rocks, and lay in the thin grass, and watched.
-
-He had nothing but years. The ground could be learned; every ground he had ever owned, he had learned, one watch at a time, and this ground was only bigger than the others. He watched what came to the pass's edges at dusk and turned away. The first dusk taught him the edges' habits. A herd of the slow kind came down the south range's feet and fed to within a long stone's throw of the open grass, and then, all together, with nothing showing anywhere, they turned and went back up. A bird worked the wind over the pass, slid off its air at the middle distance as if the air itself ended, and beat away south. At full dark the river's sound carried whole across the quiet ground — the pass's one voice was water, going north when nothing else would. He marked the herd's turning ground and the bird's leaving line, and the country between them and the river, and lay still, and let the ground teach. He watched the river's shine go gray, then dark. Somewhere below, in the middle distance, under the grass and the silence, the weight sat in its ground and did not move at all.
-
-The road went through. First he would learn what the ground held.
+The road went through. What he would learn first was what the pass's own hours were.
 
 ## Footer
 
-- Word count (body): 2,126 (verify.py, s45 gate). Spoken dialogue: 0 — no panel in this chapter (the s45 law: panels only when needed; the story is the beast's). Prose metrics (tools/measure_prose.py): average 19.0w, median 17w, longest 56w; no sentence over 60w; one-line beat paragraphs: 9 (house style, allowed); retired words: zero.
-- Chapter time: DL 3673–3676 — the road's first three years: the reversal, the craft reborn, the first deep meal, the hunted week, and the pass country found. Exact figures panel-only.
-- Gate: standing delegation (2026-09-23, verbatim: "Now work on my projects, I don't know anything just do everything I trust you"; renewed "Continue", 2026-09-23), the s44 PACING LAW (sameness skipped; scenes only where genuinely new) and the s45 PANEL LAW RE-BOUND. PANEL: NONE — this chapter is entirely his; the giant, the hunter and the pass's holder reach the page only as ground he reads.
-- Beats held: THE REVERSAL — the giant's passing at gray light (the weight in the ground, the world that does not lower its voice for him; his blood a law in the low country, a scent on the wind here; the first full lesson of the road given in one piece). THE CRAFT REBORN — the road's rules paid (rock and ridges; the black of night at fast water; small quick meals; kills off trails; no print, no pattern; the craft learned in the watchers' years applied at the world's new size). THE FIRST DEEP MEAL — the old one-eyed pusher-kind at the cliff spring (heavy years read from the dark; the fight in its weight: the push, the smooth stone, the going-under, the near-drowning; THE JAW HELD — take, and keep; the kill kneeling by degrees; the deep eating in the pool; the rib-tear's week of rock and healing). THE HUNTED WEEK — the quick hunter-kind of his own class (the rib's blood on his trail; the craft saving him four times; THE VEILING'S FAILURE in the open — the strain breaking the quiet, the eyes finding him whole, the flight down the ridge and the half-mile in the fast water; the meat-tax paid twice; the whole line moved west ten days; the lesson lawed: when you are not the heaviest thing eating, the meat is never only yours). THE PASS COUNTRY — the far light seen twice more (nearer once, gone once); the pass found at the turn of the second year (the open miles between the broken ranges; the river's thin shine running north; no birds, no trails, the forest stopping at the lip like water; the weight in the ground, old and patient, LIVING there; four days of edges — the blind rock west, the wet dark east; no going around); THE HIGH SEAT — the south-range shelf, the camp, the watch begun; the patience of the choosing; "the road went through."
-- Anchors touched this chapter (mirrors updated same turn): (1) THE REVERSAL AND THE ROAD'S CRAFT; (2) THE FIRST DEEP MEAL OF THE ROAD; (3) THE HUNTED WEEK AND THE MEAT-TAX; (4) THE PASS COUNTRY AND THE WATCH.
-- Length note: a road-years chapter carrying three years' turns — within the SCOPE LAW's season-turn allowance, reason recorded here.
+- Word count (body): 2,036 (verify.py, s45 gate). Spoken dialogue: 0 — no panel in this chapter (the s45 law: panels only when needed; the story is the beast's). Prose metrics (tools/measure_prose.py): average 17.3w, median 14w, longest 58w; no sentence over 60w; one-line beat paragraphs: 5 (house style, allowed); retired words: zero; the-way tic: zero. REWRITTEN 2026-09-23 under the PLAIN-SCENE LAW (author strike s52) — facts, order, and causes unchanged; only the telling.
+- Chapter time: DL 3673–3676 — the road's first three years. Exact figures panel-only.
+- Gate: standing delegation, s44, s45, B1 (the near-drowning; the hunted week), s52 PLAIN-SCENE LAW. PANEL: NONE. The giant reaches the page only as ground-weight and a tide of smell; overlord distance held; naming author-gated DS-06.
+- Beats held (unchanged from the first edition): the giant's passing (the first full lesson); the road craft; the first deep meal (the cliff spring; the one-eyed pusher-kind; the going-under; the jaw held; the rib's week); the hunted week (the veiling's failure; the fast water; the meat-tax twice; the line moved west); the far light twice more; the pass country found; the edges walked; the high seat and the watch begun.
+- Anchors: unchanged — mirrors stand.
 - Figure audit: zero count-numbers in prose; figures panel-only.
