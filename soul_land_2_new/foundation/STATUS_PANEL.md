@@ -1,5 +1,5 @@
 # STATUS PANEL — single-state truth
-Snapshot: **v19 (SOURCE-FIRST canon map live; monitor-office surgery across ch 3–6 canon-true)** · 2026-09-23 · chapters live: **7**
+Snapshot: **v20 (G09 sect-join executed; ch 8 shipped — assessment-eve armed)** · 2026-09-23 · chapters live: **8**
 Purpose: the whole living state of the hero and his world in one file. Rebuilt in full after
 every kill/rewrite. **If a number isn't here, it doesn't exist yet.**
 Registers follow the laws: skills per CANON SKILL LAW (L-08), attributes per GRAFT LAW (L-09),

@@ -5,3 +5,8 @@
 - R2 (pending): canon-amber depth — PROVISIONAL: un-ambered social presence (friendships, rivals, teacher reactions) beside canon; Huo Yuhao's fortunes (rings, sect, romance, ice-silkworm) remain untouchable. Awaiting confirmation.
 - R3 (settled by case-study publication 2026-09-23): Jin Yang concept, era, adaptation, ring build — SANCTIONED (listed in README case studies as live "hottest serial").
 - R4 (pending): chapter-length law — current: floor 2,800 (gate), target 2,800–4,500. Confirm or retarget.
+
+---
+
+### R3 · ASSESSMENT CEILING — proposed, unruled (agent proposal 2026-09-23, awaiting author word)
+Proposal on the table: bracket exits to canon's fusion set-piece (the Net, ch19) one round before it meets canon's team; champions+finals all canon's. Agent proceeds on this as WORKING CEILING only because it bends nothing canon's — will re-cut the bow moment any author word arrives.
