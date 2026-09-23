@@ -23,9 +23,9 @@ Not because it changed the score — three to none, clean, chalked, done. The po
 
 "Oh, *when* the warranty expires!" Wang Dong announced to no one, and walked off the lime happy.
 
-Deng Wu learned to fall, the week's true curriculum. Teacher Zhou demonstrated it once — how a body meets lime without arguing — and then refused, by method, to demonstrate it ever again. "You'll have the ground whenever you like," she said, "for free." On Thursday the ox finally came down from Xiaoya's shifted hip-throw with all four limbs agreeable about it, sat up in the chalk, and announced to the sky, "**DEPOSIT**," which the girls' side of the room took up as a blessing.
+Deng Wu learned to fall, the week's true curriculum. Teacher Zhou demonstrated it once — how a body meets lime without arguing — and then refused, by method, to demonstrate it ever again. "You'll have the ground whenever you like," she said, "for free." On Thursday the ox finally came down from **Xiaolei**'s shifted hip-throw — Xiaolei across the hall, who had threatened this on day two and kept her accounts — with all four limbs agreeable about it, sat up in the chalk, and announced to the sky, "**DEPOSIT**," which the girls' side of the room took up as a blessing.
 
-Qiu Yuan, who fought by information, drew a second-week spar against the wing's notorious Long-limbed girl with the steel fan and lasted seven touches past his own expectation by the simple device of *having watched Tuesday*. The brackets' evening debriefs — instituted Wednesday, unplanned, at the usual wall — had acquired an unofficial title by Friday: *the filings*. File the butterfly's acceleration line. File how the Duke's son never feints high twice. File, and file, and file.
+Qiu Yuan, who fought by information, drew a second-week spar against the wing's long-limbed girl with the steel fan `[design: Fang Ruo, Class 1]` and lasted seven touches past his own expectation by the simple device of *having watched Tuesday*. The brackets' evening debriefs — instituted Wednesday, unplanned, at the usual wall — had acquired an unofficial title by Friday: *the filings*. File the butterfly's acceleration line. File how the Duke's son never feints high twice. File, and file, and file.
 
 The weatherman had become strange and small: properly their own, by then. Strangers said it about desk-gossip on Tuesdays — *storms earlier this year; the Block's line said so Tuesday* — and Jin Yang had stopped blinking at it by then, which Deng Wu said was growth, and Qiu Yuan said was *corridor citizenship*, and both were probably correct.
 
@@ -53,7 +53,7 @@ Dai Huabin finished the rotation of his turn — heel, center, the White Tiger b
 
 "Watch Square Two next week, Lu. Actually watch." He set to the next repetition, unhurried, not one syllable performing. "Three to nothing twice, and he'll be there for *three-to-nothing* every week until it isn't — because every week he isn't **spending** anything. Two years somebody taught that boy to cost every motion twice, and now he comes to a spar like a *receipt*." The turn completed, clean. "Butterfly's faster. Butterfly will stay faster six months. The other one — " and here the Duke's son did smile, faint and completely without humor, "the other one is filing **us**."
 
-Zhu Lu considered this with the seriousness it deserved; it sat fully inside her training. "He's sharp-clawed, the third-year aunties say — rings, and uncle Sun told Sala the measure-officer had teachers coming to look at a *pair* round his name—" then, with precision: "Strength to waste, White-Tiger-blood. Even so. Sharp is what sharp *does*."
+Zhu Lu considered this with the seriousness it deserved; it sat fully inside her training. "He's sharp-clawed, the third-year aunties say — rings, and they say the measure-officer had teachers coming to look at a *pair* round his name—" then, with precision: "Strength to waste, White-Tiger-blood. Even so. Sharp is what sharp *does*."
 
 "To waste," said Dai Huabin, evenly. "He's had a year of yellow and one of *nearly millennial ring* under this roof, and in ten days of drills he's spent a claw and a half, by my count. That's not waste, Lu. Something priced his strength for him before Shrek did. Find me his square-card changes and his Sundays, both." No malice anywhere in it — a prince's homework, assigned in the tone of a man ordering the weather. "'Storms earlier this year,' the wing quotes him now. Fine. The Duke's house reads weather too."
 
@@ -63,7 +63,7 @@ Zhu Lu considered this with the seriousness it deserved; it sat fully inside her
 
 Zhu Lu filed both, which was her whole education, and rose to leave. At the colonnade she paused — loyalty's last errand — "The gap line, from the first day? In the plaza. He's kept it unpaid, Huabin."
 
-"I know." White Tiger eyes, catching the court lamps like the old family portraits have lightning in them and calling it a smile. "That's why he's interesting."
+"I know." White Tiger eyes catching the court lamps. "That's why he's interesting."
 
 ---
 
@@ -111,7 +111,7 @@ The market, predictably, found them before the board did.
 
 The bracket had drifted to its usual wall — out of the negotiation crush, the three of them in surveyor's spacing — and it was exactly there that the offers arrived, in the order of everything else at Shrek: fastest first.
 
-"Jin Yang." A girl from the southern rows, ponytail fierce as a flag, two friends bracketed behind her like economic policy. "Team of three. We lack a front. One of any number of boys would answer; I'm asking you because you didn't fall in ten days and I keep accounts."
+"Jin Yang." A girl from the southern rows — House Zhe, Zhe Yun `[design, Class 1]` — ponytail fierce as a flag, two friends bracketed behind her like economic policy. "Team of three. We lack a front. One of any number of boys would answer; I'm asking you because you didn't fall in ten days and I keep accounts."
 
 The ox beside him was opening his mouth with the comprehensive wonder of a man watching lightning count.
 
@@ -121,7 +121,7 @@ Ponytail considered this without offense — Shrek bred them brisk — marked th
 
 "You won't last a week waiting," Qiu Yuan murmured behind his hand, delighted and appalled in practically equal shares; and Deng Wu said, still awed, "It counted *ten days*, brother. Nothing escapes these people."
 
-Two more inquiries before the morning bell — one from the twins with the staves (politely declined), one from a boy of the crafts rows whose entire pamphlet was *steady* (declined with regret) — and then the bracket stood alone again at the wall with nothing visibly achieved and everything, in fact, concluded.
+Two more inquiries before the morning bell — one from the twins with the staves `[design]`, politely declined; one from a boy of the crafts rows `[design]` whose entire pamphlet was *steady*, declined with regret — and then the bracket stood alone again at the wall with nothing visibly achieved and everything, in fact, concluded.
 
 The bracket didn't negotiate.
 
@@ -151,7 +151,7 @@ Zhou Yi watched the signatures come in from her sill above the plaza. Unreadable
 
 | Panel | canon source | divergence rows | cause → effect on-page |
 |---|---|---|---|
-| Part 1 the settling | combat basics rotation + canon: teacher economy `[canon-adjacent]` | G01, G07 | week-2 spar: score unchanged (canon win), our boy's variant = "warranty" beat; the filing habit born (weatherman matures from aphorism to method — G03 grows without proclamation); Deng Wu learns falling as curriculum (N-5: ordinary life carried) |
+| Part 1 the settling | combat rotation + teacher economy `[canon-adjacent]`; all non-named sparring partners `[design]`-declared | G01, G07 | week-2 spar: score unchanged (canon win), our boy's variant = "warranty" beat; the filing habit born (weatherman matures from aphorism to method — G03 grows without proclamation); Deng Wu learns falling as curriculum (N-5: ordinary life carried) |
 | **Part 2 prince's file — NON-OC PANEL** | canon: Dai Huabin persona (proud, strongest-by-effort, dignified) + Zhu Lu adjutant-role `(canon-adjacent venue: `evening extra practice`)`; subject `[design]` | G01, G03, **G07** | Long-delayed natural bill: his plaza debt ("Your sky" line, day 1) re-marked unpaid; his reading is CORRECT & dignified: "he isn't spending anything" = a peer poignantly decoding G02's same signal as Zhou Yi (two masters of method reading the same boy from opposite stations); horizon order "square-card changes and Sundays" = his homework, no villain-sneer, canon-protected; his rival line at Wang Dong (sunrise currency/noon) = the prince measuring the prince — canonicity untouched |
 | Part 3 hall week 2 | `[canon-era soul-tools system]`; Instructor He `[design]` | **G05 spine** | the boy's first natural era-question, asked as trade-economics, not lament: "why hands on the workbench?" — answer kept human, honest, non-authorial: machines stamp, hands remember (banked ember → the silver-fish drawer of kept words, character not speech) |
 | Part 4 teams board | canon: new-student term assessment, teams of three, ~3-month arc = canon spine of the fresh year `[canon event boldly used]` | G01, G02 | bracket signs itself unpaid-debt-free and nearly even — the school converts dorm warmth into official instrument; opposing team locked as canon's own (Wang Dong · Xiao Xiao · Huo Yuhao = canon team's shape honored); G07 rivalry insured for the season; Zhou Yi's winter-thread visibly alive (G02 payer) |

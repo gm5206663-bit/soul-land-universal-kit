@@ -27,7 +27,7 @@ From among the crowded rows, the dawn-haired boy leaned out into the lime-light 
 
 ---
 
-## Part 2: The Butterfly, Public (Canon Scene — his soul in sunlight)
+## Part 2: The Butterfly, Public (his soul's display: canon-true by this era; the bout itself + all banter `[design]`)
 
 Wang Dong fought like morning comes to a hill — fast, at angles, and prettier than should be legitimate.
 
@@ -35,7 +35,7 @@ His martial soul came up to a roar of half the class: wings of blue-gold light o
 
 "Wings," said Deng Wu, in the tone of a man having vindications. "The roommate got carried by *wings*. No justice, brothers. None anywhere."
 
-Huo Yuhao lost — approximately nobody expected otherwise — but he lost with the particular stubbornness of a boy who had spent the morning with his palms on dirt and knew exactly when Wang Dong planned to touch him, and made the touch take longer than it was supposed to take, twice. Wang Dong won the third touch overhead on momentum and said into the fallen boy's ear, loud enough for the first two rows, "And *chair*, sweetheart co-president," and got dust and two fingers to the ribs for the compliment, on a technical and wholly uncounted fourth point.
+Huo Yuhao lost — approximately nobody expected otherwise — but he lost with the particular stubbornness of a boy who had spent the morning with his palms on dirt and kept refusing, by a stubborn half-step, to be exactly where he'd been aimed — twice. Wang Dong won the third touch overhead on momentum and said, into the fallen boy's ear and loud enough for the first two rows, "Yield, sweetheart roommate," and got dust and two fingers to the ribs for the compliment, on a technical and wholly uncounted fourth point.
 
 The class's laughter had weather in it.
 
@@ -117,7 +117,7 @@ Night in Room 108 held, as usual, one plain boy still awake over some small work
 
 "The same boy who passed me water and told your president work to earn its salary," said the plain boy placidly. "New legs drink first."
 
-"He was nice to my *co-president*, block—" Wang Dong raised one finger, with the gravity of a magistrate laying down law. "And THAT," he announced, in the voice of Titled princes conducting diplomacy, "is why I'm going to make him move."
+"He was decent to my *roommate*, block—" Wang Dong raised one finger, with the gravity of a magistrate laying down law. "And THAT," he announced, in the voice of Titled princes conducting diplomacy, "is why I'm going to make him move."
 
 "You'll be on the square a long time, then."
 
@@ -175,11 +175,11 @@ There were two cards indeed: **CLASS 1 · COMBAT ROTATION · SQUARE TWO** in tha
 | Panel | canon source | divergence row | cause → effect on-page |
 |---|---|---|---|
 | Part 1 combat rules | Zhou Yi voice/OS combat basics `[canon-adjacent system]` | G01, G02 | the boy who *refuses to spend* in drills appears again in her private register — chalk keeps him vs the sunrise on purpose (her winter horizon, G02 from ch4 panel) |
-| Part 2 spar | canon: Wang Dong's soul is public from this era; co-president humor tone per canon ch6 | G01, G07 | watching Huo's touch-delayed defeat makes the sunrise PICK the watcher (cause!) — rivalry, not wonder |
+| Part 2 spar | canon-true fact used: the Radiant Butterfly Goddess is not secret in Wang Dong's school days (canon trait carried); the bout, the touch-rules, and all spoken banter = `[design]`, honestly labelled — **no page-cited canon claimed** | G01, G07 | watching Huo's touch-delayed defeat makes the sunrise PICK the watcher (cause!) — rivalry, not wonder |
 | Part 3 THE SPAR | canon-silent rival bout `[design]` | **G07 (author-ruled)** | wins are canon's (3-touch, Wang Dong takes the square) — our boy keeps the standing; **"fast, softy pretty boy."** said post-battle BY RULE; the class explosion makes G07 currency in strangers' mouths (N-3 legend); his counter-name: **Block** |
-| **Part 4 108 — NON-OC PANEL** | canon: Room-108 dynamic (ch5–6 verified: pace/banter/Huo-seamstress) + persona; AU: topic `[design]` | G07 | Organic growth of the legend INSIDE the rival's own room: the sunrise, once stung, DECIDES the rematch-cycle ("train more — forge will be hot by winter") — horizon payer for the season; Huo's fondness-amused observation gives the boy social weight in outside voices; Wang Dong's secret facet approached, never opened (Firewall) |
+| **Part 4 108 — NON-OC PANEL** | canon-true: the two roommates + their warm-needling register; the evening's specifics (the block as topic, the rematch decision) = `[design]` | G07 | Organic growth of the legend INSIDE the rival's own room: the sunrise, once stung, DECIDES the rematch-cycle ("train more — forge will be hot by winter") — horizon payer for the season; Huo's fondness-amused observation gives the boy social weight in outside voices; Wang Dong's secret facet approached, never opened (Firewall) |
 | Part 5 105-room | gossip economy of the wing `[canon-adjacent]` | G03, G06, G07 | treaty/nickname-business; Zhou Yi's official rotation cards (square two all month) — institutional conversion of G07 to school routine; the block is what the corridor calls him now, from strangers, and the room warms to it |
 
 **Author ruling receipt (verbatim):** "Jin Yang, I think they're rivals Wang Dong and Jin Yang — make it natural; Jin Yang call Wang Dong 'softy pretty boy'." Executed: the phrase is spoken on-page ONCE, post-spar, with natural cause (won-lost measure balance); it became currency only through CLASSMATE echo (N-3), never repeated by Jin Yang himself except "softy" once at sign-off — his deadpan brand, sparingly spent.
-**Canon protections verified:** Wang Dong's win / office / pride / Room-108 arc / Huo Yuhao's thread = untouched.
+**Canon protections verified:** Wang Dong's win / pride / Room-108 arc / Huo Yuhao's thread = untouched. **Correction struck same-turn (author-sent audit):** the post-audit removed an invented *office word* from canon mouths and retired a false page-citation; the audit receipt lives at ledger 044.
 **Fortune queue: 0. Next: ch 6 — combat rotation settles into the term; the prince's side (Dai Huabin's measure of the wing's news) + soul-tools hall week 2 (G05 horizon).**

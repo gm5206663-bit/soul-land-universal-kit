@@ -1,5 +1,5 @@
 # STATUS PANEL — single-state truth
-Snapshot: **v16 (ch 6 shipped; teams-of-three posted; Huabin horizon live)** · 2026-09-23 · chapters live: **6**
+Snapshot: **v17 (post-audit C16: citation-law live; ch 5–6 struck clean)** · 2026-09-23 · chapters live: **6**
 Purpose: the whole living state of the hero and his world in one file. Rebuilt in full after
 every kill/rewrite. **If a number isn't here, it doesn't exist yet.**
 Registers follow the laws: skills per CANON SKILL LAW (L-08), attributes per GRAFT LAW (L-09),
