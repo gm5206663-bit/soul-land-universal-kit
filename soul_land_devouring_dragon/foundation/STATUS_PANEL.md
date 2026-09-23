@@ -1,3 +1,20 @@
+Updated: 2026-09-23 (session 53 — AUTHOR STYLE STRIKE #3, verbatim: "Still very
+bad writing style, actually go see how soul land canon acutely written."
+Accepted in full — and for the first time the strike was executed literally: the
+official Soul Land translation (WebNovel, "Otherworldly Tang San", ch. 1–2) was
+fetched and studied this session, receipts quoted in RAILS. CANON VOICE LAW
+(s53) written: the narrator EXPLAINS (never imply what can be said); feelings
+named plainly; the plain recurring subject ("the little dragon", canon's "the
+boy"); world-rules stated once at first appearance (canon's "In this world, …"
+sentences); canon cadence and connectives; chapters end forward; canon's
+dialogue channel carried by the narrator (s45 stands, no invented voices).
+CHAPTER 1 REWRITTEN AS THE PILOT under the law — 3,209w, avg 13.7, median 12,
+longest 45, retired zero, tics zero, digits zero — facts, order, causes held
+exactly (the s34/s40/s52 rule). PILOT PENDING AUTHOR APPROVAL: the library site
+still carries the previous edition; on approval the voice rolls across the
+serial and only then do serials.json/search/recaps/audio follow. Chapters 2–24
+untouched this session.)
+
 Updated: 2026-09-23 (session 52 — AUTHOR STYLE STRIKE, verbatim: "Serious mistake
 complete writeing style is wrong, i need clear and clean, that' can understand
 and read not some poetry not summery but like how actually written simple."

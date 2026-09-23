@@ -177,6 +177,66 @@ thousand years old with summery of time skip"
 4. The panel's next-beats section carries the current pacing state so any
    session knows where the story is on the road.
 
+## CANON VOICE LAW — "actually go see how soul land canon is written" (author strike, session 53, 2026-09-23)
+
+Author, verbatim: "Still very bad writing style, actually go see how soul land canon
+acutely written"
+
+The s52 plain rewrite was still not the target. The target is how the source
+novels themselves read. THIS SESSION THE SOURCE WAS ACTUALLY FETCHED AND READ:
+the official Soul Land translation (WebNovel, "Otherworldly Tang San", ch. 1–2,
+fetched 2026-09-23). Receipts — how the source actually reads:
+- Geography opens chapters like stage directions, then explains the place:
+  "Douluo Continent, southwestern Heaven Dou Empire, Fasinuo province." … "The
+  reason why it was called Holy Spirit was because, in legend, a hundred years
+  ago a Spirit Sage ranked Spirit Master came from there."
+- The narrator EXPLAINS, always; reasons are stated openly: "It wasn't because
+  Tang Hao demanded it, but rather because if he didn't do it, Tang San would
+  practically never be able to eat his fill." "In this world, blacksmith could
+  be said to be the humblest of professions. This is because…"
+- Feelings are named flatly, not implied by rhythm: "Tang San carried no
+  resentment."
+- The narrator knows the future and says so: "Tang San wasn't clear on what was
+  going on until much later."
+- Numbers are carried freely: "three hundred households", "a five or six-year
+  old child", "almost six years old".
+- The plain subject is repeated constantly: "the boy", "Tang San", dozens of
+  times a chapter.
+- Similes are simple, concrete, rare: "White qi poured out through his mouth
+  like a bolt of unrolling silk."
+
+THE RULES (bind every chapter from here; rewrites keep facts/order/causes
+exactly — the s34/s40/s52 rule; telling only):
+1. THE NARRATOR EXPLAINS. Never imply what can be said. Every cause stated in
+   words; "the reason was" and "it was not because X, but because Y" are good
+   style. Elliptical aphorisms ("He learned the slope as water learns it.") are
+   banned — not for being poetry, but for leaving the reason unsaid, which the
+   source never does.
+2. NAME THE FEELING. "He was afraid." "He did not dare." "He did not understand
+   it yet." The forward note is allowed when earned: "Much later, he would
+   understand why."
+3. THE PLAIN RECURRING SUBJECT. He is "the little dragon" / "he", as canon's
+   "the boy" / "Tang San" — named often, never hidden in clauses. His true name
+   stays ungiven (ENDING LAW).
+4. WORLD-RULES STATED ONCE, PLAINLY, AT FIRST APPEARANCE — canon's "In this
+   world, …" sentences. The years-ladder, blue silver grass, smoke: one plain
+   sentence of what a thing is, then on with the scene.
+5. CANON CADENCE. Paragraphs of one to four sentences. Connectives do the
+   pacing: "in fact", "after all", "even so", "at once", "three days later",
+   "this time". Scene-setting fragment lines are allowed as openers.
+6. ONE SIMPLE SIMILE PER BEAT at most, of the checkable kind. Numbers written
+   as words; the figure law stands (his exact figures panel-only).
+7. CHAPTERS END FORWARD — the last line opens the next question.
+8. WHERE CANON USES DIALOGUE, THIS SERIAL USES THE NARRATOR (s45 stands: the
+   story is the beast's; no invented voices). Canon's teacher-lectures become
+   the narrator's plain world-notes; canon's self-talk becomes named feeling.
+   The plainness of the explanation is the same; only the channel differs.
+9. s52's no-poetry floor stands; this law sets the voice above it.
+
+First application: Chapter 1 rewritten as the PILOT this session (3,209w, avg
+13.7, longest 45, retired zero, tics zero) — pending author approval before the
+voice rolls across the serial.
+
 ## PLAIN-SCENE LAW — "not some poetry not summery... like how actually written simple" (author strike, session 52, 2026-09-23)
 
 Author, verbatim: "Serious mistake complete writeing style is wrong, i need clear

@@ -19,7 +19,7 @@
 
 ## THE COUNT
 
-**147 distinct recorded mistakes (128 through §L, plus §M 8, §N 8, §O 2, §P 1) · 12 author strikes that became standing law · 5 disasters · 23 still open or author-gated.**
+**148 distinct recorded mistakes (128 through §L, plus §M 8, §N 8, §O 2, §P 1, §Q 1) · 13 author strikes that became standing law · 5 disasters · 23 still open or author-gated.**
 
 ---
 
@@ -262,6 +262,16 @@ coverage, place citations — negative-tested by breaking a copy).
 | P1 | **The delegated chapters had drifted back into the forbidden register.** Chapters 19–24 (the s46–s51 run) were written in metaphor-stacked, summary-montage prose — beat-labels, montage catalogues, poetry compressions — the s40 illness returned in a new form, this time under the pacing law's cover. Author, verbatim: "Serious mistake complete writeing style is wrong, i need clear and clean, that' can understand and read not some poetry not summery but like how actually written simple." | PLAIN-SCENE LAW written into RAILS (s52): real scenes, simple clear sentences, no poetry, no summary-chapters; time passes in one plain sentence, the kept moments written out fully. Chapters 19–24 rewritten in one session — facts, order, causes unchanged (the s34/s40 rule); every chapter re-gated through the ship script (which refused under-floor drafts five times during the rewrite — the gates doing their job on the author's side of the work too). New voices: avg 15.2–18.6, max 43–58 (was 18.8–22.0, max 56–59). Chapters 1–18 stand. The Ch 21 narration was re-recorded from the corrected text the same session. | kit 47c5399+; RAILS s52; SERIAL_LOG 52 |
 
 **Lesson, added to the meta-list:** the prose laws police words and sentences; nothing polices *register*. Poetry can be built from lawful words. The cure is the author's own definition of the reader's experience: clear, clean, understandable — a sentence that must be read twice is wrong no matter how lawful its words. The s44 pacing law compresses TIME, never SCENE.
+
+---
+
+## §Q · THE 2026-09-23 CANON-VOICE STRIKE ("go see how soul land canon is written") — turn 16
+
+| # | Mistake | Correction | Receipt |
+|---|---|---|---|
+| Q1 | **Two style strikes in a row, and both times the fix was aimed at a guess.** The s52 "plain scene" rewrite produced clean, spare, literary prose — Hemingway-flavored minimalism ("He learned the slope as water learns it. By going down it many times."). The author struck it too, and this time named the target exactly: *"actually go see how soul land canon acutely written."* The target was never "plain" in the abstract. It was the source novels' own voice — which had never actually been fetched and studied in any of the three style strikes. | The source was fetched and read the same session (official Soul Land translation, "Otherworldly Tang San", ch. 1–2; receipts quoted in RAILS). The measured difference: canon EXPLAINS — every cause stated openly, feelings named flatly, numbers carried freely, the plain subject repeated constantly — while my prose implied, went elliptical, and hid the reason as texture. CANON VOICE LAW (s53) written; Chapter 1 rewritten as the pilot (3,209w, avg 13.7, longest 45, retired zero) with every fact, order, and cause held; pilot pending author approval before rolling across the serial. | kit s53 commit; RAILS s53; SERIAL_LOG 53 |
+
+**Lesson, added to the meta-list:** when the author says "go see how canon is written," GO SEE — fetch the source, quote it, derive the rules from receipts. Two strikes were spent guessing at a target that was one fetch away.
 
 ---
 
