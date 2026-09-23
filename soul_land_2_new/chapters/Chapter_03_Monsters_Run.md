@@ -116,6 +116,34 @@ Later, on the dormitory stair, the heir of the Qiu clan of White Birch looked si
 
 ---
 
+## Part 5: Night Ledger
+
+Shrek's freshmen dormitory did its accounts at night in every room at once: sore legs tallied by the groan, new enmities by the silence under the door. Room 105 balanced its own smaller books under a single oil-shaded lamp, two desks facing opposite walls in the approved manner of boys who had not yet decided whether the other was weather or landscape.
+
+Qiu Yuan had the clan habit out before his boots were off: a stiff-backed notebook, page ruled in three columns — *name, house, threat* — which was already longer than the visible class. "Dai Huabin, first column, first line, underlined twice," he recited, in the tone of a man reading tomorrow's obituary column. "Wang Dong, house unlisted — unlisted, where is he *from?* — ninety-lap finish while carrying a man. Huo Yuhao: no house, no known attribute, nothing except —" he touched the pen to the page and would not quite write the word — "— except *legs.*"
+
+"Write 'legs'," said Jin Yang, from his own desk, of whose own deliberately brief ledger more anon. "It's the true column today."
+
+"A clan debt book is not a diary, Jin Yang."
+
+"Everything a man carries is a debt book, Qiu Yuan. Some are just ruled in arithmetic."
+
+The heir of the White Birch Qius considered this, found one corner of it acceptable, and wrote *LEGS* with the flourish he reserved for insults that would outlive him. Then: "You'll sign the protocol, by the way. I drafted room terms after the stair." He slid a page across the lamplight — numbered, in triplicate of neatness. Item one: *no visitors after third bell.* Item two: *forge wake-time announced the previous night, never sprung.* Item three: *questions of a man's cultivation are forfeit of tea.* He had even left a signature line.
+
+Jin Yang read it twice — the second time slowly, because it deserved to be taken exactly as seriously as it had been written. "Agreed," he said, and signed, which formally constituted the entirety of the White Birch-Shrek treaty of the year, and was filed instantly in Qiu Yuan's notebook with the reverence of pedigree. "Add item four."
+
+"Item four."
+
+"Nothing that matters lives on paper, or in mouths, or in this room. What matters is getting up tomorrow at the same pace we ran today." He tilted his own small worksheet across the lamp — and Qiu Yuan saw three bare ruled lines: *roster, laps, office.* Nothing else. No attributes, no ranks past the publicly announced, no hometown detail beyond the registrar lists. Written plainly enough that the whole academy could read it and learn nothing it does not already sell at the gate.
+
+"That," Qiu Yuan said, with the pity of the lettered for the literal, "is the thinnest diary I have ever seen."
+
+"It is the only page of mine I'll ever sign."
+
+They banked the lamp before the night bell, and 105 quieted to two breathing rhythms learning to tolerate each other the way river stones do, while thirty kilometers of finished laps settled into young muscle down the whole freshman wing — the first night inside Shrek's walls when both doors answered to their own keys. A home, measured strictly, is any room whose arithmetic you agree to keep.
+
+---
+
 ---
 
 # CHAPTER CARDS (ledger-sync · non-prose)
@@ -134,7 +162,9 @@ Later, on the dormitory stair, the heir of the Qiu clan of White Birch looked si
 - Qiu Yuan: outrun by cadence; flags the office; receives the pricing lesson
 - **Office DECLINED without a challenge issued** — keep-half priced (canon silence respected; L-06/L-11 safe)
 
-**HOUSEKEEPING (author-flagged style):** four draft garbles self-caught pre-push and re-armed in the final text ("firsts And leaders" → "the fleet's firsts went by beyond"; "notconsole" → "not console"; "localrains" → "first of every province boy"; a two-character foreign-script slip in Part 4 struck to pure pinyin per P-1) — log 010 carries them raw for the record.
+**Dorm scene (Part 5, canon-silent night lane → design, L-11):** two-desk Room 105 economics; Qiu Yuan's clan book (*name/house/threat*, DAI HUABIN ×2 underline, WANG DONG "unlisted", HUO YUHAO "LEGS" — canon data only); **Room-105 Protocol signed** (items 1–3 Qiu-drafted: visitors/wake-warning/tea-forfeit; item 4 ours: *nothing that matters lives on paper* — secrets-guard card honored, diary contains gate-public facts only). Lights by night bell.
+
+**HOUSEKEEPING (author-flagged style):** four draft garbles self-caught pre-push per record; a dorm-scene retrofit garble ("before fourth bell behaved nothing") struck in the same pass. log 010 carries them raw for the record.
 
 **Fortune Compensation Queue:** untouched (0). Huo keeps the bruise, the carry, the stride, the prize.
 **Open for ch 4:** school-week runway (theory classes, soul-tools lecture per Zhou-Cai curriculum texture); season-frame: 3-month assessment arc approaches on canon rails.
