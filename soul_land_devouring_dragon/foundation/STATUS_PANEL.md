@@ -2,6 +2,30 @@
 CLEAN GLANCEABLE SHEET OF HIM (identity, cultivation, body/height, attributes,
 skills, combat power vs normal soul beasts): bible/HIS_STATUS_PANEL.md
 (author s23 request; updated each chapter).
+Updated: 2026-09-23 (session 47 — CHAPTER 20 "The Road Itself" WRITTEN AND GATED
+under the standing delegation, renewed by the author's word this session
+("Continue"): the road's first three years. THE REVERSAL — a giant's passing at
+gray light teaches the road's first full lesson in one piece (the world does not
+lower its voice for him north of his border; his blood a law in the low country,
+a scent on the wind here). THE CRAFT REBORN — the watchers'-years tricks applied
+at the world's new size (rock, ridges, the black of night at fast water, kills
+off trails, no print, no pattern). THE FIRST DEEP MEAL — the old one-eyed
+pusher-kind at the cliff spring: the fight in its weight, the going-under, the
+near-drowning; THE JAW HELD; the rib-tear's week; the deep years taken. THE
+HUNTED WEEK — a quick hunter-kind near his own weight and years on the
+rib's blood: the tricks saving him four times; THE VEILING'S FAILURE in the open
+(the strain breaking the quiet; found whole; the ridge-flight and the half-mile
+in the fast water); the MEAT-TAX paid (quiet bought with meat twice; the lesson
+lawed: when you are not the heaviest thing eating, the meat is never only
+yours); the line moved west ten days. THE PASS COUNTRY — the far light seen
+twice more (nearer once, gone once); the pass found at the turn of the second
+year: open miles between broken ranges, the river's thin shine running north, no
+birds, no trails, the forest stopping at the lip; a weight in the ground, old
+and patient, LIVING there (overlord distance held — gravity, never cast); the
+edges walked four days (blind rock west, wet dark east; no going around); THE
+HIGH SEAT — the south-range shelf; the watch begun; the patience of the
+choosing. 2,126w; zero spoken lines (PANEL: NONE); average 19.0, longest 56; no
+retired words; zero count-numbers; sweep PASS 20/20.)
 Updated: 2026-09-23 (session 46 — CHAPTER 19 "The North Road" WRITTEN AND GATED
 under the author's standing delegation this session (verbatim: "Now work on my
 projects, I don't know anything just do everything I trust you"): the first
@@ -49,48 +73,42 @@ numbers.
 - Serial scope; natural length; NATURAL ENDING (none pre-chosen).
 
 ## Now
-LIVE EDGE: after Chapter 19 "The North Road" (DL 3673 — the north road's first
-walk; real age ≈ 162–170 months). THE QUIET YEARS (ch19, s44 time-skip
-summary): the country spent six years taking the men's marks back — the south
-trail grassed to a seam of darker green, two of the four stones fell in a hard
-winter, the wire rusted to stains that fed the grass; no smoke ever came up
-the country again. THE PACKS AND THE MAP OF HABIT: a starving winter pack,
-held off by his presence at the bank kill, cried at the fern's edge all night
-— the noise the new writing (the ground no longer wrote him; the air did, in
-their voices); the meat left to buy the quiet back; the lesson lawed: kills
-never twice in a year, the bank given up and healed to ordinary bank. The
-packs yielded sooner every winter until the last only sang from a far ridge;
-the slow kind knew him without seeing him. THE LONG SLEEPS: twice in the
-quiet years the hard deep snows brought the long sleep — each waking to a
-thaw with harder armor and a longer shadow on the water (the years' only sign
-of themselves). THE PALE BEAST SILENT: from the sixth wet spring its roar did
-not come again — all his life before that it came in the wet; nothing known
-of the why (not pre-decided); its ground its own, never crossed. THE RAVINE
-DEN KEPT — slept in the night before the road; a road is not a leaving. THE
-NORTH ROAD BEGUN: past the den, two days of country only ever smelled; the
-ridge where the north showed no far side to it (the owned country the small
-thing on the edge of the map); the birdless hollow; the river-road of
-something his blood does not press on — its weight settling like weather, the
-road given its whole hollow, overlord distance held (gravity, never cast); a
-far standing light seen once by night, gone by morning; THE PULL nearer by
-exactly the road walked — no calling, no leap. THE DEEP FOREST NORTH
-otherwise unchanged. THE BARRIER at cultivation-year 1,000: far, unfelt.
-PACING (s44 law): the road is begun; the years between are told by time-skip
-summary, scenes only where genuinely new; the barrier arrives at the end of
-such a summary. PANEL LAW (s45): panels only when needed — default none; the
-story is the beast's. Talent never named; no leaps.
+LIVE EDGE: after Chapter 20 "The Road Itself" (DL 3676 — the pass country found
+and the watch begun; real age ≈ 198–206 months). THE ROAD'S FIRST THREE YEARS
+(ch20): the reversal — north of his border the world does not lower its voice
+for him; he is a scent on the wind and not a large one; the craft reborn at the
+world's new size (rock, dark, fast water, no print, no pattern). THE FIRST DEEP
+MEAL of the road — the old one-eyed pusher-kind at the cliff spring, taken in
+its own weight (the near-drowning; the jaw held; the rib-tear healed honest);
+the deep years in him. THE HUNTED WEEK — the quick hunter-kind near his own
+class, found on the rib's blood; the veiling FAILED once in the open (strain;
+found whole; saved by the ridge and the fast water); the MEAT-TAX lawed: when
+you are not the heaviest thing eating, the meat is never only yours. THE FAR
+LIGHT — seen twice more, nearer once, gone once; not his to read. THE PASS
+COUNTRY — the road's first true obstacle: the open pass between the broken
+ranges, the river running north through it, nothing living on its floor, the
+forest stopping at both lips; a weight in the ground, old and patient, LIVING
+there (overlord distance held — gravity, never cast; naming author-gated,
+DS-06); no going around (blind rock west, wet dark east). THE HIGH SEAT — the
+south-range shelf; the watch begun (the herd's turning ground, the bird's
+leaving line, the river the pass's one voice); the patience of the choosing.
+THE PULL — steady, north, unchanged, running through the middle of the held
+ground. THE BARRIER at cultivation-year 1,000: far, unfelt. PACING (s44 law):
+the road years go by summary; the pass is the road's first true turn — the
+watch, and then what the watch teaches. PANEL LAW (s45): panels only when
+needed — default none; the story is the beast's. Talent never named; no leaps.
 
 ## Exact figures (panel law)
-- REAL AGE: ≈ 162–170 months (hatched late summer DL 3661; through DL 3663,
+- REAL AGE: ≈ 198–206 months (hatched late summer DL 3661; through DL 3663,
   DL 3664, the second winter, the thaw, the summer of DL 3665, the wet and dry
-  of DL 3666, and the seasons after the men left in DL 3667, and the six quiet years of DL 3667–3673 told as time-skip in ch19. OPEN: the stated
+  of DL 3666, and the seasons after the men left in DL 3667, the six quiet years of DL 3667–3673 (ch19), and the road's first three years DL 3673–3676 (ch20). OPEN: the stated
   hatch year and this month-count do not reconcile — see foundation/OPEN.md,
   "PANEL FIGURE" entry; the increments are the panel's law until the author
   rules).
-- CULTIVATION-AGE (SB-01 — NOT the same as real age): ESTIMATE ≈ 295–320
+- CULTIVATION-AGE (SB-01 — NOT the same as real age): ESTIMATE ≈ 340–375
   years — HUNDRED-YEAR CLASS; the drawn-water kills, the flood's gift and the
   years after the men left moved it; the lean wet weeks held it back some; the
-  aimed word's spend (ch14) is not a gain. ch19 SUBSTRATE (s46): the estimate moved by the six quiet years' steady feeding (the thaw's grazers every spring, the flood gifts in the wet, the drawn-water kills in the dry) and the two long sleeps' conversions; held honest by the twin law — no blood-price tests fell in the quiet years, so no leaps. FIRST BARRIER
+  aimed word's spend (ch14) is not a gain. ch19 SUBSTRATE (s46): the estimate moved by the six quiet years' steady feeding (the thaw's grazers every spring, the flood gifts in the wet, the drawn-water kills in the dry) and the two long sleeps' conversions; held honest by the twin law — no blood-price tests fell in the quiet years, so no leaps. ch20 SUBSTRATE (s47): one deep meal (the old pusher-kind, heavy years) plus the road seasons' small feeding, against real costs (the rib-tear, the near-drowning, the meat-tax, the hunted week's thinness); no leaps. FIRST BARRIER
   at cultivation-year 100: CROSSED. Next barrier at cultivation-year 1,000
   (SB-03), unaged, unfelt. NO clock (s7); estimates move with events. No
   leaps. (The duplicated tail this line carried since s34 was removed s41.)
@@ -156,7 +174,10 @@ story is the beast's. Talent never named; no leaps.
   first walk: past the ravine den, two days of new country, the ridge with no
   far side to the north, the birdless hollow skirted, the river-road given its
   whole hollow, the root-hollow night camp; the den kept; the low country left
-  standing).
+  standing) → THE ROAD'S GROUND (ch20 — three years north: the rock country of
+  the cliff spring and its pool; the hunted week's west country, ten days deep;
+  the pass country between the broken ranges; THE HIGH SEAT, the south-range
+  shelf where the watch is kept).
 
 - Ring-of-himself if killed now (SB-06): a YELLOW ring of hundred-year class
   — real worth to a hunter now; his worth to them grows with his years.

@@ -1,7 +1,7 @@
 # ═══ WORKSPACE MAP — read this first ═══
 **Every future chat/agent: the truth lives in exactly these places. Anything in `_archive/` is superseded — never read it as current.**
 
-🔴 **LIVE BUILD:** `soul_land_devouring_dragon/` — the devouring-dragon serial (19 chapters, plain-language prose, all gates PASS; ch 19 *The North Road* shipped 2026-09-23 under the author's standing delegation). Start at its `HANDOFF.md`; laws in its `foundation/RAILS.md`; live edge in its `foundation/STATUS_PANEL.md`. See the 2026-09-21 addition at the end of this file.
+🔴 **LIVE BUILD:** `soul_land_devouring_dragon/` — the devouring-dragon serial (20 chapters, plain-language prose, all gates PASS; ch 20 *The Road Itself* shipped 2026-09-23 under the author's standing delegation). Start at its `HANDOFF.md`; laws in its `foundation/RAILS.md`; live edge in its `foundation/STATUS_PANEL.md`. See the 2026-09-21 addition at the end of this file.
 
 ## Authoritative trees (write here, read here)
 
@@ -80,7 +80,7 @@ Nothing existing was deleted or overwritten. See
 
 Nothing existing was deleted or overwritten by these additions.
 
-- **`soul_land_devouring_dragon/`** — the Soul Land **devouring-dragon serial** (19 chapters; plain words after the s40 PLAIN LANGUAGE LAW; every chapter passes `SOUL_LAND_WORKSPACE/kit/tools/verify.py`; the first s44 time-skip chapter shipped 2026-09-23). This is the newest live build in the repository. Read order: `soul_land_devouring_dragon/HANDOFF.md` → `foundation/STATUS_PANEL.md` (live edge) → `foundation/RAILS.md` (laws of record).
+- **`soul_land_devouring_dragon/`** — the Soul Land **devouring-dragon serial** (20 chapters; plain words after the s40 PLAIN LANGUAGE LAW; every chapter passes `SOUL_LAND_WORKSPACE/kit/tools/verify.py`; the s44 time-skip road chapters shipped 2026-09-23). This is the newest live build in the repository. Read order: `soul_land_devouring_dragon/HANDOFF.md` → `foundation/STATUS_PANEL.md` (live edge) → `foundation/RAILS.md` (laws of record).
 - **Housekeeping, 2026-09-21 (every deletion receipted):** scratch scripts, same-directory duplicates and one redundant export were retired; the three unique files in it were kept in `_archive/2026-09-18_perfect_export_kept/`. Full receipt list: `HOUSEKEEPING_2026-09-21.md`. No project content was edited by the housekeeping pass.
 
 ---
@@ -127,3 +127,19 @@ Nothing existing was deleted or overwritten by these additions.
   the five-copies disaster, the two mis-cuts and their reversals, the checker bugs,
   and the still-open items. A DERIVED INDEX per the Two-Copies Law — the receipts
   live where they were first recorded and win any disagreement.
+
+
+---
+
+## ADDITION — Chapter 20, The Road Itself (2026-09-23, add-only)
+
+Nothing existing was deleted or overwritten by these additions.
+
+- `soul_land_devouring_dragon/chapters/Chapter_20_The_Road_Itself.md` — CHAPTER 20,
+  written and gated under the standing delegation (renewed: "Continue"). The road's
+  first three years: the reversal, the craft reborn at the world's new size, the
+  first deep meal (the near-drowning; the jaw held; the rib-tear), the hunted week
+  (the veiling's failure in the open; the meat-tax lawed), and the pass country
+  found — the road's first true obstacle, under watch from the high seat.
+  2,126 words; PANEL: NONE; all gates PASS; sweep PASS 20/20. Mirrors synced
+  same turn.

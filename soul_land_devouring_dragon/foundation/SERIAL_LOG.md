@@ -1581,3 +1581,15 @@ One entry per working session. Newest at the bottom.
   receipt: the author's word this session, verbatim "Now work on my projects,
   I don't know anything just do everything I trust you". HANDOFF.md created
   (the read order's missing first step). Mirrors synced same turn.
+
+
+- s47 (2026-09-23, delegated agent; delegation renewed "Continue"): ch20 "The
+  Road Itself" — the road's first three years: the reversal (the giant's
+  passing; his blood a law in the low country, a scent on the wind here), the
+  craft reborn, the first deep meal (the near-drowning; the jaw held; the
+  rib-tear), the hunted week (the veiling's failure in the open; the meat-tax:
+  when you are not the heaviest thing eating, the meat is never only yours),
+  and the pass country found — open miles, no birds, the forest stopping at
+  the lip, a weight LIVING in the ground (overlord distance held); the watch
+  begun from the high seat. 2,126w; PANEL: NONE; all gates PASS; sweep PASS
+  20/20. Mirrors synced same turn.

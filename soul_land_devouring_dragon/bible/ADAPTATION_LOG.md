@@ -812,3 +812,21 @@ body). The Talent is never named; deltas record its RESULTS.
   SERIAL_LOG, PLACES, TIMELINE, CONTINUITY, the root workspace README, and
   the serial's new HANDOFF.md (the file the read order always pointed at,
   created this session).
+
+
+- s47 (2026-09-23) — CHAPTER 20 "THE ROAD ITSELF" written and gated under the
+  standing delegation (renewed: "Continue"). The road's first three years under
+  the s44 pacing law: the reversal (the giant's passing — the world does not
+  lower its voice for him here), the craft reborn at the world's new size, the
+  first deep meal (the old pusher-kind at the cliff spring: the near-drowning,
+  the jaw held, the rib-tear), the hunted week (the veiling's failure in the
+  open — the strain breaking the quiet; the meat-tax lawed), and the pass
+  country found (the held ground; overlord distance kept — gravity, never
+  cast; the watch begun from the high seat).
+- Measured: 2,126w; zero spoken lines (PANEL: NONE); average 19.0; longest 56;
+  no retired words; zero count-numbers; sweep PASS 20/20.
+- Cultivation (panel; no clock, s7): REAL AGE ≈ 198–206 months;
+  CULTIVATION-AGE ESTIMATE ≈ 340–375 (substrate above; no leaps). The barrier
+  at 1,000 stays unfelt; the pass is the road's first true turn.
+- Mirrors synced same turn: STATUS_PANEL, HIS_STATUS_PANEL, ADAPTATION_LOG,
+  SERIAL_LOG, PLACES, TIMELINE, CONTINUITY, serial README, root README.

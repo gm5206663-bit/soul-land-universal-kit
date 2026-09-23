@@ -1,5 +1,5 @@
 # HIS STATUS PANEL — clean sheet
-Live after Chapter 19 "The North Road" (DL 3673 — six quiet years summarized: the men's marks taken back by the country, the packs and the map of habit, the pale beast's roar gone out of the south; the north road begun — the birdless hollow, the river-road, the far standing light, the pull nearer by exactly the road walked).
+Live after Chapter 20 "The Road Itself" (DL 3676 — the road's first three years: the reversal, the first deep meal, the hunted week and the meat-tax; the pass country found and the watch begun from the high seat; the pull steady through the middle of the held ground).
 DERIVED SHEET — mirrors foundation/STATUS_PANEL.md (the single status source,
 per kit 02) and ADAPTATION_LOG; updated each chapter. If this sheet and
 STATUS_PANEL ever disagree, STATUS_PANEL is right and this sheet is stale.
@@ -18,19 +18,20 @@ marked [design] and belong to the author to correct.
   every devouring (DS-10 the bloodline path).
 - Kin: NONE — the only egg (DS-09); kinless from the first breath.
 - Born: late summer DL 3661 — 1,000 years after Soul Land 1.
-- Real age now: ≈ 162–170 months (six quiet years added in ch19; the panel's
-  OPEN hatch-year reconciliation stands).
+- Real age now: ≈ 198–206 months (six quiet years in ch19 + three road years in
+  ch20; the panel's OPEN hatch-year reconciliation stands).
 - Territory now: THE RAVINE DEN KEPT (outer forest; slept in the night before the
-  road) + the low country his + THE NORTH ROAD BEGUN (ch19: two days of new
-  country, the ridge of the first far view, the birdless hollow skirted, the
-  river-road given its whole hollow, the root-hollow night camp); before: the
-  new hollow past the Black-Ravine Serpent's ground ← roots-house ← scree hollow.
+  road) + the low country his + THE NORTH ROAD (begun ch19; three years deep in ch20: the birdless hollow and
+  the river-road skirted, the cliff-spring rock country, the west ten days, the
+  PASS COUNTRY — the road's first true obstacle, its held ground now under
+  watch from the high seat); the ravine den kept; the low country his; before:
+  the new hollow past the Black-Ravine Serpent's ground ← roots-house ← scree hollow.
 
 ## 2. CULTIVATION
 - Tier: HUNDRED-YEAR CLASS (yellow-ring tier, 100–999 cultivation-yrs).
-- Cultivation-age estimate: ≈ 295–320 years (no clock — estimates move with
-  events; s7 ruling; ch19 substrate: the six quiet years' steady feeding +
-  two long sleeps, no leaps).
+- Cultivation-age estimate: ≈ 340–375 years (no clock — estimates move with
+  events; s7 ruling; ch20 substrate: one deep meal of heavy years against real
+  costs — the rib-tear, the near-drowning, the meat-tax; no leaps).
 - First barrier (cultivation-year 100): CROSSED — the second winter's long
   storm; event-shaped; written against master §29.
 - Ring of him if killed now: YELLOW (hundred-year class) — real worth to a
