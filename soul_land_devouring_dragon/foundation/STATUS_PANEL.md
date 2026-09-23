@@ -7,10 +7,12 @@ max 54, panel held whole); Ch 3 rewritten (3,399w, avg 16.6, max 54, panel held
 whole — first full use of the law's narrator world-note channel at the ring).
 All three gated: retired zero, tics within cap, no sentence over 60, zero
 digits, floors and ceilings met (Ch 3 at the season-turn ceiling with reason in
-its footer). ROLLOUT TRACKER: 3 of 24 done — next Ch 4 "The Weight of Blood",
-then straight through to Ch 24; site indexes follow each batch; audio
-re-records after the last chapter. Chapters 4–24 still carry the old literary
-voice until their turn.)
+its footer). ROLLOUT TRACKER: 6 of 24 done — batch 2 (Ch 4 "The Weight of Blood"
+2,698w/16.6/52; Ch 5 "The Hunger That Has No Meal" 3,381w/15.6/55; Ch 6
+"Greater Than the Wall" 2,969w/15.7/45) shipped and site-synced; panels held
+whole, retired sweeps clean (easings recorded in footers). Next: batch 3, Ch 7
+"The Sense of Years" through Ch 9; audio re-records after the last chapter.
+Chapters 7–24 still carry the old literary voice until their turn.)
 
 Updated: 2026-09-23 (session 53 — AUTHOR STYLE STRIKE #3, verbatim: "Still very
 bad writing style, actually go see how soul land canon acutely written."
