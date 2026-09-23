@@ -237,6 +237,14 @@ First application: Chapter 1 rewritten as the PILOT this session (3,209w, avg
 13.7, longest 45, retired zero, tics zero) — pending author approval before the
 voice rolls across the serial.
 
+AUTHOR RULINGS ON THE PILOT (same session): (1) VOICE APPROVED — "Yes — roll it
+across all 24." (2) SCOPE: ALL CHAPTERS. (3) NAMING, author verbatim: "Just Said
+dd, Devouring dragon" — the recurring plain subject is "the little Devouring
+Dragon" (canon names its beasts by species: "the Forest King, Titan Giant Ape");
+logs may call him DD; a personal name, if the story ever earns one, remains the
+story's (ENDING LAW). THE ROLLOUT IS STAGED: chapters in order, each one gated
+before it ships; site indexes/recaps follow each batch; audio re-records last.
+
 ## PLAIN-SCENE LAW — "not some poetry not summery... like how actually written simple" (author strike, session 52, 2026-09-23)
 
 Author, verbatim: "Serious mistake complete writeing style is wrong, i need clear

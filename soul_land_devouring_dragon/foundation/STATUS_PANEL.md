@@ -1,3 +1,17 @@
+Updated: 2026-09-23 (session 53, ROLLOUT — the author approved the canon-voice
+pilot and ruled, on the three questions: voice "Yes — roll it across all 24";
+scope ALL CHAPTERS; naming "Just Said dd, Devouring dragon" — the recurring
+subject is "the little Devouring Dragon"). CANON-VOICE ROLLOUT BEGUN: Ch 1
+named and final (3,211w, avg 13.7, max 45); Ch 2 rewritten (3,259w, avg 14.6,
+max 54, panel held whole); Ch 3 rewritten (3,399w, avg 16.6, max 54, panel held
+whole — first full use of the law's narrator world-note channel at the ring).
+All three gated: retired zero, tics within cap, no sentence over 60, zero
+digits, floors and ceilings met (Ch 3 at the season-turn ceiling with reason in
+its footer). ROLLOUT TRACKER: 3 of 24 done — next Ch 4 "The Weight of Blood",
+then straight through to Ch 24; site indexes follow each batch; audio
+re-records after the last chapter. Chapters 4–24 still carry the old literary
+voice until their turn.)
+
 Updated: 2026-09-23 (session 53 — AUTHOR STYLE STRIKE #3, verbatim: "Still very
 bad writing style, actually go see how soul land canon acutely written."
 Accepted in full — and for the first time the strike was executed literally: the
