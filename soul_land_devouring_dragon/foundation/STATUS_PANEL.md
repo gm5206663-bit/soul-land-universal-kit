@@ -1,3 +1,33 @@
+Updated: 2026-09-23 (session 49 — CHAPTER 22 "THE DEEP FOREST PROPER" WRITTEN AND
+GATED under the standing delegation, renewed by the author's word this session
+("Continue")): two years of the deep forest proper (DL 3677–3679). THE DARK UNDER
+THE LEAVES (the forest proper defined — light like a rumor, trunks like towers,
+soil of rotted ages; a ground of many sleepers, attention layered like weather;
+the reversal completed: blood-law in the low country, scent on the road, nothing
+here — a young thing in an old house). THE WALKED ROADS (the small life's
+teaching: polished lines walked by every kind; pattern is belonging). THE FERN
+HALL (it goes wrong once, B1 law: a perfect off-road take; the quiet rising from
+the ground up — the roots say every step to the forest; the unseen interested
+thing at the kill; the warm meat abandoned; walking — not running — out to the
+road; the pressure stopping at the road's edge like a man at a door; THE SECOND
+LAW: the roads are the camouflage — ordinary or a question; the unmarked dark is
+where questions live). THE WATER (the one ground the forest cannot read — the
+first stream-hunt in the tail of a fallen giant; the old fat fish-kind taken in
+the current; his oldest possession returned). THE DEEP MEALS AND THE GROWTH (the
+deep sleeps; the line lengthened; scales with soil-depth; a local trouble, known
+and allowed for). THE QUIET-SENSE (the one thing that grew that was not body —
+the feel of a whole ground's attention thinning before the reason arrives;
+learned from the pass the day the pass read him; worth a kill a month). THE
+ROAD'S MANNERS (a road bending a day's walk around a darker country — taken; a
+standing light seen once at the black hour, looked at exactly as long as the
+pass's middle; the north wind of stone and snow that stopped every old thing —
+not-knowing the ordinary condition of the young). THE LEAN (on the rock spine,
+the country open: the pull settling a few points east of north toward the far
+haze his eyes called mountains — the road and the pull coming apart ahead; the
+road's next question carried). 2,367w; zero spoken lines (PANEL: NONE); average
+18.8, longest 56; retired words zero; the-way tic two (cap kept); zero
+count-numbers; sweep PASS 22/22.)
+
 # STATUS PANEL — the Devouring Dragon serial (single source of truth)
 CLEAN GLANCEABLE SHEET OF HIM (identity, cultivation, body/height, attributes,
 skills, combat power vs normal soul beasts): bible/HIS_STATUS_PANEL.md

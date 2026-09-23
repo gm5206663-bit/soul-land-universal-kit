@@ -1,7 +1,7 @@
 # ═══ WORKSPACE MAP — read this first ═══
 **Every future chat/agent: the truth lives in exactly these places. Anything in `_archive/` is superseded — never read it as current.**
 
-🔴 **LIVE BUILD:** `soul_land_devouring_dragon/` — the devouring-dragon serial (21 chapters, plain-language prose, all gates PASS; ch 21 *The Watch and the Pass* shipped 2026-09-23 under the author's standing delegation). Start at its `HANDOFF.md`; laws in its `foundation/RAILS.md`; live edge in its `foundation/STATUS_PANEL.md`. See the 2026-09-21 addition at the end of this file.
+🔴 **LIVE BUILD:** `soul_land_devouring_dragon/` — the devouring-dragon serial (22 chapters, plain-language prose, all gates PASS; ch 22 *The Deep Forest Proper* shipped 2026-09-23 under the author's standing delegation). Start at its `HANDOFF.md`; laws in its `foundation/RAILS.md`; live edge in its `foundation/STATUS_PANEL.md`. See the 2026-09-21 addition at the end of this file.
 
 ## Authoritative trees (write here, read here)
 
@@ -86,7 +86,7 @@ Nothing existing was deleted or overwritten. See
 
 Nothing existing was deleted or overwritten by these additions.
 
-- **`soul_land_devouring_dragon/`** — the Soul Land **devouring-dragon serial** (21 chapters; plain words after the s40 PLAIN LANGUAGE LAW; every chapter passes `SOUL_LAND_WORKSPACE/kit/tools/verify.py`; the s44 road chapters shipped 2026-09-23). This is the newest live build in the repository. Read order: `soul_land_devouring_dragon/HANDOFF.md` → `foundation/STATUS_PANEL.md` (live edge) → `foundation/RAILS.md` (laws of record).
+- **`soul_land_devouring_dragon/`** — the Soul Land **devouring-dragon serial** (22 chapters; plain words after the s40 PLAIN LANGUAGE LAW; every chapter passes `SOUL_LAND_WORKSPACE/kit/tools/verify.py`; the s44 road chapters shipped 2026-09-23). This is the newest live build in the repository. Read order: `soul_land_devouring_dragon/HANDOFF.md` → `foundation/STATUS_PANEL.md` (live edge) → `foundation/RAILS.md` (laws of record).
 - **Housekeeping, 2026-09-21 (every deletion receipted):** scratch scripts, same-directory duplicates and one redundant export were retired; the three unique files in it were kept in `_archive/2026-09-18_perfect_export_kept/`. Full receipt list: `HOUSEKEEPING_2026-09-21.md`. No project content was edited by the housekeeping pass.
 
 ---
@@ -193,3 +193,20 @@ Nothing existing was deleted or overwritten by these additions.
   beneath notice, not mercy), and the road resumed north of the pass. 2,017 words;
   PANEL: NONE; sweep PASS 21/21. Mirrors synced same turn; AGENTS.md added (see the
   same-date addition above).
+
+## ADDITION — Chapter 22, The Deep Forest Proper (2026-09-23, add-only)
+
+- `soul_land_devouring_dragon/chapters/Chapter_22_The_Deep_Forest_Proper.md` — CHAPTER 22
+  (s49): two years of the deep forest proper. The reversal completed (blood-law in
+  the low country, scent on the road, nothing here — a young thing in an old house);
+  THE WALKED ROADS (the second law: pattern is belonging — the roads are the
+  camouflage); THE FERN HALL (the chapter's wrong: a perfect off-road take, the
+  quiet rising from the ground up, the unseen interested thing, the warm meat
+  abandoned — walking out to the road, not running); THE WATER (the one ground the
+  forest cannot read; the stream-hunt in the tail of a fallen giant); THE DEEP
+  MEALS, THE GROWTH, and THE QUIET-SENSE (a whole ground's attention felt
+  thinning — paid for with a kill, worth a kill a month); THE ROAD'S MANNERS (the
+  bend country; a standing light; the north wind that stopped the old things); and
+  THE LEAN on the rock spine — the pull settling east of north toward the far
+  mountains, the road and the pull coming apart ahead. 2,367w; PANEL: NONE; sweep
+  PASS 22/22. Mirrors synced same turn.

@@ -1,6 +1,5 @@
 # HIS STATUS PANEL — clean sheet
-Live after Chapter 21 "The Watch and the Pass" (DL 3676–77 — the watch taught the pass's hours; the old grazer's taking showed the middle; the crossing went by the watch, inside the river; the weight READ him and let him go — beneath notice, not mercy; the road resumed north of the pass).
-DERIVED SHEET — mirrors foundation/STATUS_PANEL.md (the single status source,
+Live after Chapter 22 "The Deep Forest Proper" (DL 3677–3679 — the deep forest proper read and walked: the walked roads are the camouflage; the fern hall's price paid (the kill abandoned); the water the one unread ground; the deep meals and the growth; the quiet-sense born; and on the rock spine THE LEAN — the pull settling east of north toward the far mountains; the road and the pull coming apart ahead).
 per kit 02) and ADAPTATION_LOG; updated each chapter. If this sheet and
 STATUS_PANEL ever disagree, STATUS_PANEL is right and this sheet is stale.
 Law: numbers live in panel files only, never in prose. Design estimates are

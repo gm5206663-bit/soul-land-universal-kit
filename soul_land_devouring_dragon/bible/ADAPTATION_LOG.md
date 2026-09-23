@@ -845,3 +845,27 @@ body). The Talent is never named; deltas record its RESULTS.
 - Mirrors synced same turn: STATUS_PANEL, HIS_STATUS_PANEL, ADAPTATION_LOG,
   SERIAL_LOG, PLACES, TIMELINE, CONTINUITY, serial README, root README, the
   Soul Library snapshot, the profile.
+
+
+- s49 (2026-09-23) — CHAPTER 22 "THE DEEP FOREST PROPER" written and gated under
+  the standing delegation (renewed "Continue"). Two years of the deep forest
+  proper: the reversal completed (nothing here — a young thing in an old house);
+  the walked roads (pattern is belonging); the fern hall (the wrong that taught
+  the second law: the roots say steps to the forest; the kill abandoned; the
+  pressure stopping at the road's edge); the water (the one ground the forest
+  cannot read — the stream-hunt in the tail of a fallen giant); the deep meals
+  and the growth; THE QUIET-SENSE (the ground's whole attention readable —
+  learned from the pass, paid for with a kill; a sense the border never needed);
+  the road's manners (the bend around a sleeper's country; the standing light;
+  the north wind that stopped the old things); THE LEAN on the rock spine (the
+  pull settling a few points east of north toward the far mountains — the road
+  and the pull coming apart ahead).
+- Measured: 2,367w; zero spoken lines (PANEL: NONE); average 18.8; longest 56;
+  no retired words; the-way tic two; zero count-numbers; sweep PASS 22/22.
+- Cultivation (panel; no clock, s7): REAL AGE ≈ 228–236 months;
+  CULTIVATION-AGE ESTIMATE ≈ 390–450 (the deep forest's old meals; substrate
+  above; no leaps). The barrier at 1,000 stays unfelt; the lean is the road's
+  next turn.
+- Mirrors synced same turn: STATUS_PANEL, HIS_STATUS_PANEL, ADAPTATION_LOG,
+  SERIAL_LOG, PLACES, TIMELINE, CONTINUITY, serial README, root README, the
+  Soul Library snapshot, the profile.
