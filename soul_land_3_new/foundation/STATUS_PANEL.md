@@ -1,11 +1,15 @@
 # STATUS PANEL — SL3 New Serial (single live-state file)
 
 Figures live here and ONLY here (two-copies law).
-Updated 2026-09-22 (session 3f: panel REPAIRED — duplicates + stale venue-math removed).
+Updated 2026-09-23 (correction sweep: freeze recorded in-tree — see §1).
 
 ## 1. LIVE EDGE
 
-- Stage: **SERIAL LIVE (revised).** Latest chapter: **Chapter 01 — "The Choosing"**
+- Stage: **FROZEN 2026-09-22 — author plan-change.** The author switched to the
+  Soul Land 2 Golden Lion serial (`soul_land_2_new/`); this tree is archived
+  as-is at commit `a0a6473` (freeze receipt: `soul_land_2_new/foundation/SERIAL_LOG.md`
+  entry 001). **Do not continue this serial without the author's explicit word.**
+- State at freeze: **Chapter 01 — "The Choosing"** written and gated
   (gate PASS, commit `1e09f7a`). Venue per author ruling: the choosing happens at
   the Star Dou margins four years pre-canon; her rings come FROM the wolf
   (author ruling — she does not self-form in this fic, per canon mechanics); a

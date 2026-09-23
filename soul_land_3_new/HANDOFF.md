@@ -1,7 +1,10 @@
 # HANDOFF — Soul Land 3 New Serial
 
-**Live edge: FOUNDATION STAGE — no chapters. Next blocking action: the author answers
-Rulings R1–R4 in `foundation/OPEN_RULINGS.md`.**
+**FROZEN 2026-09-22 by author plan-change** — the author moved to the Golden Lion
+SL2 serial (`soul_land_2_new/`). State at freeze: rulings R1–R4 RESOLVED;
+Chapter 01 *The Choosing* written, gate PASS (`1e09f7a`); tree archived as-is at
+`a0a6473`. **Do not continue this serial without the author's explicit word.**
+(Receipt: `soul_land_2_new/foundation/SERIAL_LOG.md` entry 001.)
 
 Created 2026-09-22 by agent session (Arena), from the author's instruction:
 "new fan fiction of Soul Land 3 — everything that is useful, everything completely."

@@ -3,7 +3,11 @@
 A **brand-new fan serial** set in the *Legend of the Dragon King* era (Soul Land 3 /
 龙王传说 timeline — the era of Tang Wulin, spirit souls, battle armor, and mecha).
 
-**Status 2026-09-22: FOUNDATION COMPLETE — rulings pending, zero chapters.**
+**Status 2026-09-23: FROZEN by author plan-change (2026-09-22).** Rulings R1–R4 were
+RESOLVED; Chapter 01 *The Choosing* was written and gated (PASS, commit `1e09f7a`);
+then the author switched to the Soul Land 2 Golden Lion serial (`soul_land_2_new/`)
+— this tree is archived as-is at commit `a0a6473`. **Do not continue without the
+author's word.** Freeze receipt: `soul_land_2_new/foundation/SERIAL_LOG.md` entry 001.
 
 Everything here is derivative, non-commercial fan work. Soul Land / 斗罗大陆 and all
 characters, settings, and terms belong to Tang Jia San Shao (唐家三少) and the rights

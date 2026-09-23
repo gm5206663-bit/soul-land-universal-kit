@@ -1,5 +1,12 @@
 # WORKSPACE MAP — 2026-09-22 (add-only)
 
+> **ERRATUM 2026-09-23 (correction sweep):** the `soul_land_3_new/` section below
+> predates three events — rulings R1–R4 were RESOLVED, Chapter 01 *The Choosing*
+> was written (gate PASS), and the serial was then **FROZEN** by the author's
+> plan-change to the Golden Lion SL2 serial (`soul_land_2_new/`, not mapped in
+> this document). This map is a dated snapshot; the living truth is the root
+> `README.md`. No row below has been altered.
+
 Following the dated-map convention (2026-09-18, 2026-09-19): this note logs an
 addition. **Nothing existing was deleted or overwritten.**
 
