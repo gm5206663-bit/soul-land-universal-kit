@@ -12,9 +12,15 @@ author: "Why don't you check manhua" — checked: Episode-001 beat breakdown;
 lens in RAILS: open every scene in motion; beats are panels; world-notes are
 intervals; one-line rules mid-action; scenes end on visible turns; loud where
 it counts — manhua pacing + the novel's explaining narrator, which STAYS).
-Ch 7 "The Sense of Years" 2,974w/17.1/57, the first chapter written under
-both laws, shipped and site-synced. Next: Ch 8 "The Deep Country", Ch 9; audio
-re-records after the last chapter. Chapters 8–24 still carry the old voice.)
+Ch 7 "The Sense of Years" 2,974w/17.1/57, first under both laws. LENS
+DEEPENED the same session (the full Episode-001 beat page pulled: action as
+call-and-response, named move vs named move with a reaction beat; the biggest
+panel first) — receipts in RAILS. Ch 8 "The Deep Country" 3,308w/17.5/55
+written under the deepened lens (the wallow fight call-and-response beat by
+beat; the serpent's attention the slow panel; opens in motion at the stream
+bend). Both shipped and site-synced. Next: Ch 9 "The Keeping Earned", then Ch
+10–12; audio re-records after the last chapter. Chapters 9–24 still carry the
+old voice.)
 
 Updated: 2026-09-23 (session 53 — AUTHOR STYLE STRIKE #3, verbatim: "Still very
 bad writing style, actually go see how soul land canon acutely written."

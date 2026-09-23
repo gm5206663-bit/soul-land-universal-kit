@@ -280,6 +280,22 @@ The author pointed at the manhua. Checked the same session — receipts:
    slow-motion beat at each impact, then move fast again.
 First application: Chapter 7, batch 3 (s54).
 
+DEEPENED (s54, second pass — the full Episode-001 beat page pulled and read):
+- THE CHASE IS CALL-AND-RESPONSE. Every exchange is a named move meeting a
+  named move, in sequence: Shadowless Needles → Purple Demon Eye + Ghost
+  Shadow Perplexing Track → Torrential Pear Blossom Needle → Mysterious Jade
+  Hand. Attack named, defense named, then the reaction beat ("did he just
+  block the Torrential Pear Blossom Needle with his bare hands?"). In this
+  serial: each exchange in a fight is its own beat — his move, the enemy's
+  move, what it cost — and after every big exchange, one beat of the country
+  reacting (the herd lifting heads, the hound standing, the snow going
+  quiet). The Talent stays unnamed (RAILS 2); his plain-craft names (the
+  quiet, the voice, the jaw-hold, the wallow-work) are the serial's
+  equivalents and are used the way the manhua uses its captions.
+- THE COLD OPEN IS THE BIGGEST PANEL. Episode one opens on the jump — the
+  story's largest image — not on setup. Where a chapter holds a biggest
+  moment, it goes first or the scene opens as close to it as cause allows.
+
 ## PLAIN-SCENE LAW — "not some poetry not summery... like how actually written simple" (author strike, session 52, 2026-09-23)
 
 Author, verbatim: "Serious mistake complete writeing style is wrong, i need clear
