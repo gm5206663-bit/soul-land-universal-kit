@@ -1,7 +1,7 @@
 # ═══ WORKSPACE MAP — read this first ═══
 **Every future chat/agent: the truth lives in exactly these places. Anything in `_archive/` is superseded — never read it as current.**
 
-🔴 **LIVE BUILD:** `soul_land_devouring_dragon/` — the devouring-dragon serial (22 chapters, plain-language prose, all gates PASS; ch 22 *The Deep Forest Proper* shipped 2026-09-23 under the author's standing delegation). Start at its `HANDOFF.md`; laws in its `foundation/RAILS.md`; live edge in its `foundation/STATUS_PANEL.md`. See the 2026-09-21 addition at the end of this file.
+🔴 **LIVE BUILD:** `soul_land_devouring_dragon/` — the devouring-dragon serial (23 chapters, plain-language prose, all gates PASS; ch 23 *The Parting* shipped 2026-09-23 under the author's standing delegation). Start at its `HANDOFF.md`; laws in its `foundation/RAILS.md`; live edge in its `foundation/STATUS_PANEL.md`. See the 2026-09-21 addition at the end of this file.
 
 ## Authoritative trees (write here, read here)
 
@@ -86,7 +86,7 @@ Nothing existing was deleted or overwritten. See
 
 Nothing existing was deleted or overwritten by these additions.
 
-- **`soul_land_devouring_dragon/`** — the Soul Land **devouring-dragon serial** (22 chapters; plain words after the s40 PLAIN LANGUAGE LAW; every chapter passes `SOUL_LAND_WORKSPACE/kit/tools/verify.py`; the s44 road chapters shipped 2026-09-23). This is the newest live build in the repository. Read order: `soul_land_devouring_dragon/HANDOFF.md` → `foundation/STATUS_PANEL.md` (live edge) → `foundation/RAILS.md` (laws of record).
+- **`soul_land_devouring_dragon/`** — the Soul Land **devouring-dragon serial** (23 chapters; plain words after the s40 PLAIN LANGUAGE LAW; every chapter passes `SOUL_LAND_WORKSPACE/kit/tools/verify.py`; the s44 road chapters shipped 2026-09-23). This is the newest live build in the repository. Read order: `soul_land_devouring_dragon/HANDOFF.md` → `foundation/STATUS_PANEL.md` (live edge) → `foundation/RAILS.md` (laws of record).
 - **Housekeeping, 2026-09-21 (every deletion receipted):** scratch scripts, same-directory duplicates and one redundant export were retired; the three unique files in it were kept in `_archive/2026-09-18_perfect_export_kept/`. Full receipt list: `HOUSEKEEPING_2026-09-21.md`. No project content was edited by the housekeeping pass.
 
 ---
@@ -217,3 +217,20 @@ Nothing existing was deleted or overwritten by these additions.
   `soul_land_devouring_dragon/_alt_drafts/` (never a rewrite of a published
   chapter without the author's word). Recorded in the serial's SERIAL_LOG
   (s49 addendum) and at the control centre.
+
+## ADDITION — Chapter 23, The Parting (2026-09-23, add-only)
+
+- `soul_land_devouring_dragon/chapters/Chapter_23_The_Parting.md` — CHAPTER 23
+  (s50): the road and the pull come apart for good. THE LAST ORDINARY DAY (the
+  gold evening; the deer-kind indifferent to the furniture of him; the pull
+  under all of it like a wire under a field); THE FORD (the choice plain as two
+  directions); THE WATER ROAD (absence instead of belonging — in the stream,
+  sleeping on the gravel spits; the swimmer-kind unbothered); THE SINKING GORGE
+  and THE BAD GROUND (the walker's two passes — deep stone after rain; the red
+  thing held alone, breath by breath, what the river once carried out); THE
+  RISING COUNTRY (the falls chain — ladders and pantries); THE MOUNTAINS SEEN
+  (the pull pointing at the highest whiteness); and THE SHOULDER OF STONE —
+  unknown again, the old way of being his; the first mountain meal. 2,447w;
+  PANEL: NONE; sweep PASS 23/23. Session 50 also reconciled the s49
+  parallel-agent figure conflict (the panel's Exact-figures section is the
+  single cultivation authority; LIVE EDGE + ADAPTATION_LOG aligned).

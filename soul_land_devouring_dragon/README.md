@@ -27,18 +27,16 @@ READ FIRST, in order:
 4. foundation/CONTINUITY.md — anchor table + forward references
 5. the last two chapters
 6. foundation/SERIAL_LOG.md — last three entries only
-LIVE EDGE: Chapter 22 — The Deep Forest Proper (DL 3677–3679; two years of the
-forest proper: the walked roads are the camouflage — pattern is belonging; the
-fern hall's price (the kill abandoned; ordinary or a question); the water the
-one unread ground; the quiet-sense born; and on the rock spine THE LEAN — the
-pull settling east of north toward the far mountains, the road and the pull
-coming apart ahead)
-NEXT BEAT: Chapter 23 — THE PARTING, under the PACING LAW (s44): where the road
-and the pull come apart for good; leaving the ordinary; the first steps into the
-unmarked dark toward the mountains (overlord distance held — gravity, never
-cast; naming author-gated DS-06; the barrier at cultivation-year 1,000 far and
-unfelt); panels only when needed (s45). Standing delegation recorded s46, renewed
-s49Standing delegation recorded s46, renewed s48
+LIVE EDGE: Chapter 23 — The Parting (DL 3679–3681; the road left at the ford;
+the water road walked; the bad ground crossed under the walker's attention; the
+mountains seen; the pull pointing at the highest whiteness; unknown again — the
+old way of being his)
+NEXT BEAT: Chapter 24 — THE STONE COUNTRY, under the PACING LAW (s44): the
+mountains' skirt walked toward the pull's pointing; the high kinds and the thin
+cold years; overlord distance held (gravity, never cast; naming author-gated
+DS-06; the barrier at cultivation-year 1,000 far and unfelt); panels only when
+needed (s45). Standing delegation recorded s46, renewed s48, s49 (parallel-agent
+merge receipted in SERIAL_LOG s49 addendum) and s50.
 (author, 2026-09-23:
 "Now work on my projects, I don't know anything just do everything I trust
 you").

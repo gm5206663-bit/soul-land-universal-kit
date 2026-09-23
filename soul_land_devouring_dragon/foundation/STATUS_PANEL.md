@@ -1,3 +1,36 @@
+Updated: 2026-09-23 (session 50 — CHAPTER 23 "THE PARTING" WRITTEN AND GATED
+under the standing delegation, renewed by the author's word this session
+("Continue"); session 50 also reconciled the s49 parallel-agent figure conflict:
+the panel's Exact-figures section is the single cultivation authority, LIVE EDGE
+and ADAPTATION_LOG aligned to it): the road and the pull come apart for good
+(DL 3679–3681). THE COMING-APART (the lean grown into two countries; the
+tarrying — the ordinary's warmth; a belonging is a hard thing to walk out of).
+THE LAST ORDINARY DAY (the gold evening; the deer-kind string indifferent to the
+furniture of him; the ordinary meal; the pull under all of it like a wire under
+a field; the feet deciding in the night). THE FORD (the choice plain as two
+directions; the root-boar's flat measuring look; no looking back — looking is a
+kind of going). THE WATER ROAD (the oldest plan remade: where he could not be
+ordinary, he would be absent — in the stream, eating in the current, sleeping on
+the gravel spits; the swimmer-kind unbothered ten lengths away; the border life
+at the world's bigger size). THE SINKING GORGE (the second stream gone under
+the stone; the bad ground ahead — a day of root-country, dim and thick with
+roots). THE BAD GROUND (the gray-light crossing; the quiet felt coming; the moss
+hollow between root-buttresses; the border's tricks holding him; THE WALKER —
+not the pass's sleeping weight but a moving owner, steps spaced like ownership,
+smelling of deep stone after rain, standing off his left while the moss
+trembled; THE RED THING HELD — no river this time; spent breath by breath
+against his own held will; what the river once carried out for him, he carried
+out alone). THE RISING COUNTRY (the falls chain — ladders and pantries; stone
+taking the beds; the great trees falling back; the new dry cold; the air's
+weight changing). THE MOUNTAINS SEEN (the haze stopped being haze — stone
+ranges, snow on the shoulders, the north wind's home; THE PULL POINTING, straight
+at the highest whiteness). THE SHOULDER OF STONE (the look back at the dark sea
+of the proper — warm, far, nothing like regret; unknown again, the old way of
+being his; the first mountain meal, its years thin and cold and clean; the road
+behind, the pull ahead, nothing between but the world). 2,447w; zero spoken
+lines (PANEL: NONE); average 22.0, longest 56; retired words zero; the-way tic
+two; zero count-numbers; sweep PASS 23/23.)
+
 Updated: 2026-09-23 (session 49 — CHAPTER 22 "THE DEEP FOREST PROPER" WRITTEN AND
 GATED under the standing delegation, renewed by the author's word this session
 ("Continue")): two years of the deep forest proper (DL 3677–3679). THE DARK UNDER
@@ -124,9 +157,10 @@ numbers.
 - Serial scope; natural length; NATURAL ENDING (none pre-chosen).
 
 ## Now
-LIVE EDGE: after Chapter 22 "The Deep Forest Proper" (DL 3677–3679 — the forest
-proper read and walked; THE LEAN found; the road and the pull coming apart ahead;
-real age ≈ 228–236 months; cultivation ≈ 390–450). THE PASS,
+LIVE EDGE: after Chapter 23 "The Parting" (DL 3679–3681 — the road left at the
+ford; the water road; the bad ground crossed under the walker's attention; the
+mountains seen; the pull pointing; real age ≈ 252–260 months; cultivation ≈
+380–420). THE PASS,
 CROSSED (ch21): the watch taught its hours (the holder's sun-rounds as a tide of
 attention with no body; the edges' laws; the quick kinds' moonset road at the
 south lip's bend; the storm night's closed road — the river's noise is cover);

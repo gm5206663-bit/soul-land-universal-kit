@@ -1,5 +1,5 @@
 # HIS STATUS PANEL — clean sheet
-Live after Chapter 22 "The Deep Forest Proper" (DL 3677–3679 — the deep forest proper read and walked: the walked roads are the camouflage; the fern hall's price paid (the kill abandoned); the water the one unread ground; the deep meals and the growth; the quiet-sense born; and on the rock spine THE LEAN — the pull settling east of north toward the far mountains; the road and the pull coming apart ahead).
+Live after Chapter 23 "The Parting" (DL 3679–3681 — the road left at the ford; the water road walked; the bad ground crossed under the walker's attention; the mountains seen; the pull pointing at the highest whiteness).
 per kit 02) and ADAPTATION_LOG; updated each chapter. If this sheet and
 STATUS_PANEL ever disagree, STATUS_PANEL is right and this sheet is stale.
 Law: numbers live in panel files only, never in prose. Design estimates are

@@ -46,3 +46,6 @@ Douluo-calendar (DL) years. Rows are added as events are written or verified.
 
 
 | DL 3677–3679 the deep forest proper | ~204–212 → ~228–236 months | CHAPTER 22 THE DEEP FOREST PROPER (s49): THE DARK UNDER THE LEAVES (the reversal completed — a young thing in an old house); THE WALKED ROADS (pattern is belonging); THE FERN HALL (the second law paid for with a kill — the roots say steps; the pressure stopping at the road's edge); THE WATER (the one unread ground; the stream-hunt); THE DEEP MEALS AND THE QUIET-SENSE (the growth; a whole ground's attention felt thinning); THE ROAD'S MANNERS (the bend country; the standing light; the north wind); THE LEAN (the pull settling east of north toward the far mountains — the road and the pull coming apart ahead) | written (ch22, s49) |
+
+
+| DL 3679–3681 the parting and the rising country | ~228–236 → ~252–260 months | CHAPTER 23 THE PARTING (s50): THE COMING-APART and the LAST ORDINARY DAY; THE FORD (the road and the pull part); THE WATER ROAD (absence instead of belonging; the swimmer-kind night); THE SINKING GORGE and THE BAD GROUND (the walker's two passes; the red thing held alone); THE RISING COUNTRY (the falls chain); THE MOUNTAINS SEEN (the pull pointing at the highest whiteness); THE SHOULDER OF STONE (unknown again; the first mountain meal) | written (ch23, s50) |

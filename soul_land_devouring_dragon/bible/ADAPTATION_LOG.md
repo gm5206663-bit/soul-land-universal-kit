@@ -863,9 +863,33 @@ body). The Talent is never named; deltas record its RESULTS.
 - Measured: 2,367w; zero spoken lines (PANEL: NONE); average 18.8; longest 56;
   no retired words; the-way tic two; zero count-numbers; sweep PASS 22/22.
 - Cultivation (panel; no clock, s7): REAL AGE ≈ 228–236 months;
-  CULTIVATION-AGE ESTIMATE ≈ 390–450 (the deep forest's old meals; substrate
+  CULTIVATION-AGE ESTIMATE ≈ 360–400 (the deep forest's old meals at sliver-rate; no leaps; aligned to the panel's Exact-figures section after the s49 parallel-agent merge — the panel is authority)
   above; no leaps). The barrier at 1,000 stays unfelt; the lean is the road's
   next turn.
+- Mirrors synced same turn: STATUS_PANEL, HIS_STATUS_PANEL, ADAPTATION_LOG,
+  SERIAL_LOG, PLACES, TIMELINE, CONTINUITY, serial README, root README, the
+  Soul Library snapshot, the profile.
+
+
+- s50 (2026-09-23) — CHAPTER 23 "THE PARTING" written and gated under the
+  standing delegation (renewed "Continue"). The road and the pull come apart:
+  the tarrying (the ordinary's warmth), the last ordinary day, the ford (the
+  choice plain as two directions), the water road (absence instead of belonging;
+  the swimmer-kind unbothered), the sinking gorge and the bad ground (the
+  walker's two passes; the red thing held alone — what the river once carried
+  out, he carried out himself), the rising country (the falls chain; stone
+  taking the beds), the mountains seen (the pull pointing at the highest
+  whiteness), and the shoulder of stone (unknown again — the old way of being
+  his; the first mountain meal, thin cold clean years). Session 50 also
+  reconciled the s49 parallel-agent figure conflict: the panel's Exact-figures
+  section is the single cultivation authority (360-400 at ch22); LIVE EDGE and
+  this log aligned to it.
+- Measured: 2,447w; zero spoken lines (PANEL: NONE); average 22.0; longest 56;
+  no retired words; the-way tic two; zero count-numbers; sweep PASS 23/23.
+- Cultivation (panel; no clock, s7): REAL AGE ≈ 252–260 months;
+  CULTIVATION-AGE ESTIMATE ≈ 380–420 (the streams' and falls' meals; the first
+  mountain meal; substrate above; no leaps). The barrier at 1,000 stays unfelt;
+  the pull points into the mountains.
 - Mirrors synced same turn: STATUS_PANEL, HIS_STATUS_PANEL, ADAPTATION_LOG,
   SERIAL_LOG, PLACES, TIMELINE, CONTINUITY, serial README, root README, the
   Soul Library snapshot, the profile.
