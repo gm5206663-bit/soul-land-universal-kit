@@ -1,5 +1,5 @@
 # STATUS PANEL — single-state truth
-Snapshot: **v8 (CH 3 SHIPPED — first prose-law chapter)** · 2026-09-22 · chapters live: **3**
+Snapshot: **v9 (P-9 NATURALNESS LAW; ch 3 re-carved)** · 2026-09-22 · chapters live: **3**
 Purpose: the whole living state of the hero and his world in one file. Rebuilt in full after
 every kill/rewrite. **If a number isn't here, it doesn't exist yet.**
 Registers follow the laws: skills per CANON SKILL LAW (L-08), attributes per GRAFT LAW (L-09),
@@ -148,7 +148,8 @@ true self — see §9 irony). Natural development; nothing engineered; lanes are
 - Ring ceilings 423y/764y (004) · gold atlas tiers + walls (018–022) · laws L-08/09/10
 
 ## §13 OPEN / PENDING
-- Chapter 4+ — school-week runway: theory classes, soul-tools lecture texture, dorm economics, roommate arithmetic; **season target: the 3-month freshman assessment** on canon rails (>900 freshmen, ~half stay `[canon-adjacent]`)
+- Chapter 4+ — school-week runway: theory classes, soul-tools lecture texture, Deng Wu daily adherence (bun-note hook), presidential bickering, dorm economics; **season target: the 3-month freshman assessment** on canon rails (>900 freshmen, ~half stay `[canon-adjacent]`)
+- Ch 1–2 natural-pass (P-9 re-carve) — OFFERED, awaiting author order
 - Strike-record trail: 2-cun stele + purple ring filed at intake; Wang Yan noted it — planted thread
 - Ring 3+ — not opened; aspiration bank + cone 1 (terrorclaw, era-legal)
 - Life Gold cone — LOCKED (L-05) · Golden Tree acknowledgment — flavor free · 015 hook unsigned

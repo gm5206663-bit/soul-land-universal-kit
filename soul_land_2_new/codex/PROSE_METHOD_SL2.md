@@ -49,3 +49,19 @@ name → type → effect → cost → duration. No trait-poetry, ever.
 ## P-8 SYNC PATTERN (from phoenix)
 Every shipped chapter lands with: chapter file + CHAPTER CARDS endnote, CANON LEDGER row,
 SERIAL_LOG row, panel bump, gate run, push. Never prose without sync.
+
+## P-9 NATURALNESS LAW (author-ruled, lead law with P-4)
+Canon bones are necessary, NOT sufficient. Embalmed-time chapters — every thought
+measured/priced, hero frozen out of scenes he physically stands inside, no humor, no boy in
+the boy — are reclassified FAILURE, same class as canon-breaking.
+- **Scenes breathe.** Meals, jokes, blisters, lateness, dumb optimism. A day with no moment a
+  real eleven-year-old would notice is a report, not a chapter.
+- **People talk like their age.** Bragging, complaining, food bargains, laughing at wrong
+  times. Dialogue is the load-bearing wall, not a three-line floor.
+- **Motif hard-budget.** ONE signature image (ledger/arithmetic/etc.) per Part, thought-voice
+  only, never in dialogue, never twice per scene — earned by the moment, not by brand.
+- **Canon presence creates organic ripples.** Small natural effects of the hero standing
+  inside canon (a carried gourd, a hauled strap, a boy who finishes honestly) are carded as
+  "[design, canon-silent lane]" butterflies: texture yes, canon bones never.
+- **Humor is structure.** A chapter where nobody likes anybody enough to laugh is rejected.
+Enforcement: judgment-gated at write-time; self-audited in every chapter's cards.
