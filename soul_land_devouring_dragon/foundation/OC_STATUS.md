@@ -4,7 +4,7 @@
 > Sources, read fresh on every run: `bible/HIS_STATUS_PANEL.md` (the authority) · `foundation/CONTINUITY.md` (chapter recaps) · chapter footers (DL dates, measured counts).
 > Regenerated on every ship by `tools/build_oc_status.py`; the Sentinel fails the build if this sheet is stale.
 
-GENERATED: 2026-09-23 13:52 UTC
+GENERATED: 2026-09-23 14:10 UTC
 LIVE AS OF: Chapter 24 "The Stone Country" (DL 3681–3683)
 NEXT: Chapter 25 "THE SECOND RANGE"
 
@@ -307,7 +307,7 @@ NEXT: Chapter 25 "THE SECOND RANGE"
 | 8 | DL 3663 | The Deep Country | 3,308 | DL 3663 first heat (~40–44 mo) |
 | 9 | DL 3663 | The Keeping Earned | 3,401 | DL 3663 deep summer (~44–48 mo) |
 | 10 | DL 3663–64 | The Cold Country | 3,287 | deep summer's height; keeping earned |
-| 11 | DL 3664 | The War of the Lists | 2,796 | the deep year turned; war of the lists opened |
+| 11 | DL 3664 | The War of the Lists | 2,833 | the deep year turned; war of the lists opened |
 | 12 | DL 3664 | The Bull at the Water | 3,284 | the green season: the second line taken, the race's line won, the two reds met |
 | 13 | DL 3664 | The Keepers' Line | 2,564 | the green at its height: the bull taken, the crossing, the war's shape changed |
 | 14 | DL 3664–65 | The Wrong Face | 3,169 | the falling of the green: the after-cost paid, the keepers' line set, the voice at the deep edge |

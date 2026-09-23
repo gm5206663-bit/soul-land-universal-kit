@@ -1,3 +1,16 @@
+Updated: 2026-09-23 (session 58 — rollout continues under the standing
+delegation: Ch 11 "The War of the Lists" 2,833w/16.5/52 shipped under ALL
+THREE LENSES. The opening is a complete mini-arc (descent in motion → the
+empty run → the kill read → the pale color → "He wrote it down"); the
+grey-stag loss replays as a one-breath memory panel inside the finding; the
+pale color gets the ceremonial beat; the thick-paw fight runs
+call-and-response with a reaction beat after each exchange. COPY DEFECT
+FIXED: "the hunger is yours and the hunger is yours" → "the boil is yours and
+the hunger is yours" (the second red was misnamed). Panel verbatim. Beats
+held exactly. Tracker 11/24. Next: Ch 12 "The Bull at the Water", then 13;
+audio re-records after the last chapter. Chapters 12–24 still carry the old
+voice.)
+
 Updated: 2026-09-23 (session 57 — author word: "Now correct or add
 everything you learn or gain or anything to GitHub, and manage it perfectly,
 make it more better, make structure of everything better." CONSOLIDATION
