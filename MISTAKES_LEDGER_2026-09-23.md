@@ -19,7 +19,7 @@
 
 ## THE COUNT
 
-**128 distinct recorded mistakes · 11 author strikes that became standing law · 5 disasters · 23 still open or author-gated.**
+**136 distinct recorded mistakes (128 through §L, plus the 8 of the §M correction sweep) · 11 author strikes that became standing law · 5 disasters · 23 still open or author-gated.**
 
 ---
 
@@ -186,6 +186,30 @@ Covered by C2–C6 above (same tree, pre-chapter-1 era): venue kill, panel repai
 | L4 | Golden Lion: R2 amber-flag (full peer presence beside Class 1) provisional under the anti-stall rule — author confirmation pending | SERIAL_LOG 016 |
 | L5 | SL5 & Seed of Creation: protagonist/entry-point rulings unanswered; drafting locked | their OPEN_RULINGS files |
 | L6 | Dragon Prince Yuan: Chapter 2 blocked on source-novel text (not fetchable here); the four author-open items (realm, firewall bounds, wine-quirk, name) | kit README |
+
+---
+
+## §M · THE 2026-09-23 CORRECTION SWEEP ("correct all mistakes" — turn 10)
+
+Every mistake below was living at sweep start; every fix is verified live. Kit
+commit `afc6d0b`; library site, guide, and profile pushed same session.
+
+| # | Mistake (the shape) | Correction | Receipt |
+|---|---|---|---|
+| M1 | **The frozen tree that never learned its own freeze** (I2/J4 class — the sharpest catch). `soul_land_3_new/` was frozen by the author's plan-change on 2026-09-22 (receipt lived only in the Golden Lion's log), yet its own three state files told three different stories: panel said **SERIAL LIVE**, README said **"zero chapters, rulings pending"**, HANDOFF said **FOUNDATION STAGE** — and the rulings were long resolved and Chapter 01 *The Choosing* sat gated on disk. A returning agent could have resumed a dead serial from any of the three. | All three corrected to one truth (FROZEN @ `a0a6473`; freeze receipt cited); freeze recorded in-tree as SERIAL_LOG entry 017. | kit `afc6d0b` |
+| M2 | **The author's most-active serial was invisible in the kit's own map** (K5 class). `soul_land_2_new/` — the Golden Lion, live near-daily at Ch 7 — appeared **zero times** in the root README; the tree table had no row for it at all. | Row added + 🔴 ALSO-LIVE header beside the devouring-dragon LIVE BUILD line. | kit `afc6d0b` |
+| M3 | **The Tide row said "ACTIVE … ch-2 next"** while the serial is paused at 24 chapters with a revival queue written. | Row → PAUSED 2026-09-23 at 24 chapters (incl. 8-B), revival queued; CONTINUATION_PROMPT pointer replaced by REVIVAL_QUEUE pointer. | kit `afc6d0b` |
+| M4 | **Duplicate row 020 in the Golden Lion SERIAL_LOG** — the sanitized edit had been appended without removing the original. | Duplicate removed; the sanitized row kept; log verified single-rowed. | kit `afc6d0b` |
+| M5 | **The Ch 21 post-ship sync was incomplete** (this agent's own miss, turn 9): `news.html` and `feed.xml` never announced Chapter 21. | Both entries added (news + Atom, `urn:soul-library:dd:21`). | site push |
+| M6 | **Stale public counts** (two-copies class): library index placeholder said **181 chapters** (183), guide `07_share_kit.md` said **181** (183), profile said **181 chapters** + a **550K+** words badge (183 chapters; 771,765 words). | All three corrected; badge → 750K+. | site/guide/profile pushes |
+| M7 | **Dated snapshots that read as current**: WORKSPACE_MAP (2026-09-22) still described the SL3-new tree pre-rulings/pre-freeze; STATE.md's banner named one live build. | Erratum banner added to the map (no row altered); 2026-09-23 banner line added to STATE.md. | kit `afc6d0b` |
+| M8 | **Prevention hardened**: two new Sentinel checks born from M1 and M4 — frozen trees must *assert* FROZEN; serial logs must have unique row numbers. | Sentinel now **20 checks — 20 pass / 0 warn / 0 fail**. | `sentinel.html` |
+
+**Verified after the sweep:** sl3-new gate PASS · sl2-goldenv PASS · DD verify sweep
+PASS (21/21) · Adaptive Prodigy run_all ALL GREEN · UT selftest **102/102** ·
+Sentinel **20/20** · all live URLs HTTP 200. §L re-checked line by line: every
+still-open item is accurately listed (nothing silently closed; the GL R2 amber
+flag remains held open for the assessment arc per GL log 020).
 
 ---
 
