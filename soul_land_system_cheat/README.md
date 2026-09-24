@@ -3,10 +3,12 @@
 A Soul Land fanfiction serial built around a reborn transmigrator, an apple,
 and a silent System with slots that train while he sleeps.
 
-**Status: FOUNDATION BUILT (v1.1, 2026-09-24) — in author review.**
+**Status: FOUNDATION COMPLETE (v2.0, 2026-09-24).**
 The system was fully specified before the story (the author's ruling); the
-foundation (world, protagonist, apple design, arcs) is drafted on
-canon-verified food-type law. Chapter 1 has not been written.
+foundation — world, protagonist, apple design, mechanics, arcs — is ruled
+end to end on canon-verified law. One gift is held open for the author's own
+hand: **the System's name** ("I give system a name"). Chapter 1 has not been
+written; it is the next step.
 
 ## The author's spec (verbatim, 2026-09-24)
 
@@ -37,8 +39,16 @@ canon-verified food-type law. Chapter 1 has not been written.
 - **The era**: Soul Land 1, light cameos — his own path, own academies.
 - **The opening**: page 1 stands on the awakening day itself; the System
   wakes after the awakening; the panels print at key beats only; and
-  **"He join academy of course"** — the junior academy follows soon after
-  (the continental custom; Tang San entered Nuoding at six).
+  **"He join academy of course"** — **Yunxi Junior Spirit Academy** follows
+  soon after (the continental custom; Tang San entered Nuoding at six).
+- **The final sweep (SC2-R5)**: the apple's chant is spoken **in his mind**,
+  never shouted; the first cultivar **increases cultivation speed** (the
+  snowball engine); the mechanics law confirmed (stored-only aging,
+  rank-91 fused capstone; aging never changes skill identity; lost
+  techniques slottable); the progression law — **no fixed ladder, the world
+  itself defines each art's next stage**; the places locked (Fruit Creek ·
+  Yunxi Town · Yunxi Junior Spirit Academy); and the System's name is held
+  for the author to give.
 
 ## Read order
 

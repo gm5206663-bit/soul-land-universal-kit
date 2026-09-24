@@ -1,4 +1,4 @@
-# FOUNDATION — The System Cheat (v1.1, 2026-09-24)
+# FOUNDATION — The System Cheat (v2.0 COMPLETE, 2026-09-24)
 
 Built from the author's rulings SC1–SC2R4 (see `RULINGS_LOG.md`). Everything
 here is either **LOCKED** (author's word) or **PROPOSED** (agent default,
@@ -42,8 +42,22 @@ orchard.
 - The Panel law: **printed System panels at key beats only** (the awakening
   readout, slot choices, rank-ups, 100% completions, aging thresholds);
   prose between beats.
-- The System is **silent** — a readout, not a personality.
+- The System is **silent** — a readout, not a personality. **Its name is
+  the author's gift** ("I give system a name") — held open for his word.
 - The village truth: "Even having soul' power is big thing for a village."
+- The Incantation law: the apple's chant is **spoken in his mind, never
+  shouted** ("He doesn't shout, he said in mind").
+- The First cultivar: the first ring's apple **increases cultivation speed**
+  ("Coultivation speed increasing one") — the snowball engine.
+- The Mechanics law (confirmed): slots age STORED rings/bones only
+  (fused-aging = rank-91 capstone); bones age like rings; aging deepens
+  potency, never changes skill identity; lost techniques slottable if
+  learned enough; god-level ruled when the story reaches it.
+- The Progression law: **no fixed stage ladder** ("Complete not you
+  thinking, it's natural what logically not fixed, it's according to World")
+  — the world itself decides each art's next stage.
+- The places: **Fruit Creek (果溪)** village · **Yunxi Town (云溪)** ·
+  **Yunxi Junior Spirit Academy**.
 
 ## THE WORLD
 
@@ -59,10 +73,17 @@ orchard of apples no one buys. Its spirit children are born once a
 generation, if that. When one awakens — any soul, any power — the whole
 village stops work for the day.
 
-**The family (PROPOSED):** the Li family — fruit farmers for four
+**The family (PROPOSED):** the Su family — fruit farmers for four
 generations; father strong-backed and quiet, mother the village's midwife.
 The apple soul answers the village's own life: they grow fruit; the
 continent's one fruit-growing spirit child is theirs.
+
+**The town (LOCKED):** **Yunxi (云溪, cloud-creek)** — a market town in the
+Nuoding countryside's hill country, where the fruit carts go down to. Its
+**Yunxi Junior Spirit Academy** is the nearest spirit school: small, plain,
+honest — where a village's only spirit child is sent at six, like every
+spirit child on the continent. (Not Nuoding itself — the light-cameo
+distance is kept.)
 
 ## THE POWER STACK (how the three systems interlock)
 
@@ -87,11 +108,12 @@ training time is a siege engine wearing a boy.
    headman's line; the System waking after, in the dark; the first readout
    (1/1/1); the first slot choice; the village's decision — and the road to
    the town. *(The apple's true nature stays quiet here.)*
-2. **THE JUNIOR ACADEMY (6–12).** The town's junior spirit academy — six
-   years a boarding spirit child: first ring at rank 10 (the first
-   cultivar), classmates, first team, the mockery-to-indispensable turn
-   begun; the System compounding quietly under everything. The slot count
-   climbs with his ranks (2/2/2 at Spirit Master, 3/3/3 at Grandmaster).
+2. **THE JUNIOR ACADEMY — YUNXI (6–12).** Six years a boarding spirit
+   child at Yunxi Junior Spirit Academy: first ring at rank 10 — **the
+   cultivation-speed cultivar** (the snowball begins), classmates, first
+   team, the mockery-to-indispensable turn begun; the System compounding
+   quietly under everything. The slot count climbs with his ranks (2/2/2 at
+   Spirit Master, 3/3/3 at Grandmaster).
 3. **THE WIDE WORLD (12–20).** The advanced academy, tournaments, the
    continent's notice. Light-cameo era: one crossing of paths with canon's
    spine, no entanglement.
@@ -112,8 +134,10 @@ just numbers going up in the dark.** Printed panels appear at the key beats
 only (the Panel law, SC2-R4): the awakening readout, slot choices, rank-ups,
 100% completions, aging thresholds — between beats, the prose carries it.
 
-## WHAT IS STILL OPEN
+## STATUS: FOUNDATION COMPLETE (v2.0)
 
-`OPEN_RULINGS.md` — the apple's chant, the first-ring beast, the town and
-academy names, fused-aging, lost techniques, the System's in-story name, and
-the page-1 details. Nothing there is settled until the author's word.
+Everything structural is ruled. Held for the author's own hand: **the
+System's name** ("I give system a name"). Held for drafting: the chant's
+exact words, the first beast's identity, page-1 details. The full settled
+ledger stands in `OPEN_RULINGS.md`. Next step: **Chapter 1 — the awakening
+day.**

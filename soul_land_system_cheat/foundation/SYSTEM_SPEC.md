@@ -69,8 +69,15 @@ theory, languages, anything that is a skill or a method.
 - **The 100% upgrade (author spec):** at 100%, the stage is mastered —
   permanently — and the technique upgrades to the next stage at 0%, training
   on unless he pulls it. *Basic Swordsmanship* → *Advanced Swordsmanship* →
-  … The ladder (proposed) **[DIAL]**: Basic → Advanced → Master →
-  Grandmaster → Perfection → Origin.
+  …
+- **THE PROGRESSION LAW (SC2-R5, verbatim: "Complete not you thinking, it's
+  natural what logically not fixed, it's according to World"):** there is no
+  fixed stage ladder. Advancement is natural and world-logical — each
+  technique's next stage is what THE WORLD ITSELF calls the next level of
+  that art (swordsmanship's advanced forms, forging's master craft, the
+  ranks of every trade the continent names). Where the world names no next
+  stage, the System does not invent one: mastery simply deepens. The world
+  decides the rungs; the System only climbs them.
 - Mastery stacks: a Master-stage 40% swordsman is Basic 100% + Advanced
   100% + Master 40%, all of it real, all of it his.
 - Slotting requirement (proposed, OPEN S4): the technique must be genuinely

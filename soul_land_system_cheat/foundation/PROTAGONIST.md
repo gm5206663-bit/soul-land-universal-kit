@@ -1,4 +1,4 @@
-# PROTAGONIST — the boy, the apple, the System (v1.1, 2026-09-24)
+# PROTAGONIST — the boy, the apple, the System (v2.0 FINAL, 2026-09-24)
 
 LOCKED items carry the author's word. PROPOSED items are agent defaults for
 review.
@@ -49,15 +49,24 @@ in the endgame the Food God's inheritance).
   fruit that puts strength back into working bodies. The village treats him
   as its own small blessing — the headman's line at the ceremony: *"The
   mountain finally paid us back."*
-- Production laws (canon, held): costs soul power; needs a plain incantation
-  *(PROPOSED: he must give the apple honestly — "grown, not bought" — a
-  two-word village chant, exact wording author-gated)*; the fruit spoils
-  within a day of conjuring; the effect is fixed at conjuring time.
+- Production laws (canon, held, one author refinement): costs soul power;
+  needs an incantation — **spoken in his mind, never shouted** (THE
+  INCANTATION LAW, SC2-R5, verbatim: "He doesn't shout, he said in mind" —
+  an author-ruled refinement of canon's food-type law; conjuring is silent
+  to the world; the chant's exact words proposed at Arc 1 drafting); the
+  fruit spoils within a day of conjuring; the effect is fixed at conjuring
+  time.
 
 **The ring law (canon, held):** each ring absorbed shapes a NEW apple
-cultivar — the soul beast he takes determines the effect family. *(Each ring
-choice is a story decision: recovery, cleansing, body-strengthening,
-flight-feather, the golden line… all PROPOSED, chosen arc by arc.)* Ring
+cultivar — the soul beast he takes determines the effect family. **THE FIRST
+CULTIVAR IS LOCKED (SC2-R5, verbatim: "Coultivation speed increasing one"):
+the first ring's apple INCREASES CULTIVATION SPEED** — eaten, it quickens
+the eater's cultivation for a time. For him it stacks with the System: the
+snowball engine of the whole story (cultivation speed × compounding time).
+For anyone else it is a treasure kings would pay for — the story's economic
+engine and its danger. *(The beast that shapes it, and the exact mechanics,
+are Arc 2 design. Later cultivars — recovery, cleansing, body-strengthening,
+flight-feather, the golden line — chosen arc by arc.)* Ring
 **age** deepens potency, duration, and output per soul-power cost — which is
 where the System's ring slots turn a food-type soul into a siege engine:
 a hundred-year recovery apple heals; a ten-thousand-year one raises the
@@ -85,6 +94,8 @@ exactly what the System is for.
 - Wakes AFTER the martial soul awakening (THE REBIRTH RULING, SC2-R4) — the
   apple's manifestation is its trigger; the same night or within days, a
   Chapter-1 beat. Silent — a readout. *(LOCKED.)*
+- **Its name is the author's gift** (SC2-R5: "I give system a name") — held
+  open for his word; until then the prose calls it "the readout."
 - **Starting slots: 1/1/1** (Technique / Ring / Bone), unified schedule
   *(LOCKED)*: +1 to every list per rank-up — 2/2/2 at Spirit Master (11),
   …, **6/6/6 at Spirit King (51–60)**, 10/10/10 at Titled Douluo.
