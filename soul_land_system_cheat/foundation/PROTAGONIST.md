@@ -53,7 +53,7 @@ in the endgame the Food God's inheritance).
   fruit that puts strength back into working bodies. The village treats him
   as its own small blessing — the headman's line at the ceremony: *"The
   mountain finally paid us back."*
-- Production laws (canon, held, one author refinement): costs soul power;
+- Production laws (canon, held, author refinements): costs spirit power — **THE POOL LAW (SC5): the well, not a ration** — the apple draws it down, rest returns it, cultivation grows it; the day's count is well ÷ cost, discovered never prescribed;
   needs an incantation — **spoken in his mind, never shouted** (THE
   INCANTATION LAW, SC2-R5, verbatim: "He doesn't shout, he said in mind" —
   an author-ruled refinement of canon's food-type law; conjuring is silent
