@@ -3,12 +3,11 @@
 A Soul Land fanfiction serial built around a reborn transmigrator, an apple,
 and a silent System with slots that train while he sleeps.
 
-**Status: FOUNDATION COMPLETE (v2.0, 2026-09-24).**
-The system was fully specified before the story (the author's ruling); the
-foundation — world, protagonist, apple design, mechanics, arcs — is ruled
-end to end on canon-verified law. One gift is held open for the author's own
-hand: **the System's name** ("I give system a name"). Chapter 1 has not been
-written; it is the next step.
+**Status: CHAPTER 1 WRITTEN (2026-09-24, at the author's word "Now start").**
+Foundation complete and ruled end to end; **Chapter 1 — The Awakening Day**
+is in `chapters/` (the ceremony, the apple, the System waking in the dark,
+the first slot, the road to Yunxi). One gift is held open for the author's
+own hand: **the System's name** ("I give system a name").
 
 ## The author's spec (verbatim, 2026-09-24)
 
