@@ -1,4 +1,4 @@
-# OPEN RULINGS — FINAL LEDGER (v2.0, 2026-09-24)
+# OPEN RULINGS — FINAL LEDGER (v2.1, 2026-09-24)
 
 ## SETTLED BY THE AUTHOR (locked — full verbatim record in RULINGS_LOG.md)
 
@@ -19,6 +19,23 @@
 | The Progression law | "Complete not you thinking, it's natural what logically not fixed, it's according to World" — no fixed ladder; the world itself defines each art's next stage |
 | The places | **Fruit Creek (果溪) · Yunxi Town (云溪) · Yunxi Junior Spirit Academy** |
 | The village truth | "Even having soul' power is big thing for a village" |
+
+## SYSTEM-PERFECTION ROUNDS (SC3) — ALL LOCKED
+
+| Law | Ruling |
+|---|---|
+| THE AGING LAW | Never fixed — organic: the user's strength, the ring/beast's own potential, bloodline, and what the world weighs |
+| THE NO-CEILING LAW | Any ring can age onward without end; potential shapes the road, never the destination |
+| THE TENDING LAW | The System accepts nothing directly; the only lever is growing the man |
+| THE PRICE | Free — no cost at all |
+| SLOT RULES | Basics understood = slottable; free switching; progress always kept |
+| THE ACQUISITION LAW | Seeing once is enough — witnessed arts become slottable; every art still starts at 0% |
+| THE PASSIVE CULTIVATION LAW | A slotted cultivation method generates real spirit power 24/7 — ranks come with time itself |
+| THE RESONANCE LAW (+ scope) | Slotted things influence each other — across ALL categories; the loadout is one living formation |
+| STACKING | One thing, one slot — combos through resonance, never repetition |
+| NO INTELLIGENCE | The System is silent by nature — law, like weather; it cannot explain itself, ever |
+| PANEL STYLE | Minimal lines — 「Basic Swordsmanship — 34%」; sparse, cold, quiet |
+| THE FIRST SLOT | Basic Body Conditioning — everything grows on the root |
 
 ## HELD FOR THE AUTHOR'S OWN HAND
 

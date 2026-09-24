@@ -104,11 +104,11 @@ exactly what the System is for.
   completions, aging thresholds — and every panel prints as MINIMAL LINES:
   「Basic Body Conditioning — 12%」. Sparse, cold, quiet. Between beats, the
   prose carries it.
-- **The first slot (PROPOSED — Arc 1's first big beat):** at six years old,
-  with one technique slot and a village to draw on, what does he slot first?
-  Not a sword — he has never seen one used well. He slots **Basic Body
-  Conditioning**, the village's own plain truth: everything grows on the
-  root. *(The thematic law of the whole story in one early choice.)*
+- **The first slot (LOCKED, SC3-R3):** at six years old, with one
+  technique slot and a village to draw on, he slots **Basic Body
+  Conditioning** — not a sword (he has never seen one used well) but the
+  village's own plain truth: everything grows on the root. The thematic law
+  of the whole story in one early choice.
 - The compounding curve (honest, per the speed law): a six-year-old's best
   speed is a child's — the early years are small gains. As his body, rank,
   and talent grow, every slot accelerates. The story's patience is the
@@ -118,10 +118,15 @@ exactly what the System is for.
   cultivation method (learned-once), he slots it — and spirit power rises
   24 hours a day. The ranks come with time itself; the quiet boy advances
   without anyone seeing him try.
-- **The Resonance (SC3-R2):** arts that inform each other in the world
-  inform each other in the System — swordsmanship mastery beside sword
-  intent, footwork beside the blade. His loadout is a formation, not a
-  list.
+- **The Resonance (SC3-R2; scope ALL categories, SC3-R3):** arts that
+  inform each other in the world inform each other in the System —
+  swordsmanship mastery beside sword intent, footwork beside the blade, a
+  ring's skill mastery beside the aging ring itself. His loadout is a
+  formation, not a list.
+- **The Acquisition law (SC3-R3):** seeing once is enough — the basics
+  grasped from watching a master unlock slotting. Every witnessed art is
+  potential growth; the continent's masters are his unwitting teachers.
+  (Understanding opens the door; every art still starts at 0%.)
 - Ring slots age stored rings (canon absorption law untouched — an
   over-aged ring can still kill him; capacity is earned, not granted; aging
   itself is organic and unceilinged — SC3-R1/R2).

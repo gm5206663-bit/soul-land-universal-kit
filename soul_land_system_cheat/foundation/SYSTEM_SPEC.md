@@ -1,6 +1,6 @@
 # THE SYSTEM — complete design spec
 
-Design stage v1.2 · 2026-09-24 · status: AUTHOR REVIEW (SC3-R2: passive cultivation, no ceiling, tending, no-intelligence + resonance)
+Design stage v1.3 · 2026-09-24 · status: SYSTEM COMPLETE (SC3-R1/R2/R3 locked — one gift held for the author: the System's name)
 Author spec and session rulings: see `../README.md`. Numbers marked **[DIAL]**
 are proposed defaults — tunable by the author without breaking anything. The
 slot schedule (§3) is settled by the author's word (the unified slot law).
@@ -86,9 +86,15 @@ theory, languages, anything that is a skill or a method.
   decides the rungs; the System only climbs them.
 - Mastery stacks: a Master-stage 40% swordsman is Basic 100% + Advanced
   100% + Master 40%, all of it real, all of it his.
-- Slotting requirement (SC3-R1, locked — learned-once): the technique must
-  be genuinely his to train — learned once, understood at least in its
-  basics. The System trains what exists; it invents nothing.
+- **THE ACQUISITION LAW (SC3-R1 + SC3-R3):** a technique becomes his to
+  slot when its basics are UNDERSTOOD — and understanding can arrive any
+  way the world delivers it. **Seeing once is enough** (SC3-R3): watching a
+  master work, grasping the basics from observation, unlocks slotting.
+  Every witnessed art is potential growth; the continent's masters are his
+  unwitting teachers. A teacher's instruction, a manual's study, his own
+  drilling — all count. The System still starts every art at 0%:
+  understanding opens the door; the slots walk through it. The System
+  trains what exists; it invents nothing.
 - **THE PASSIVE CULTIVATION LAW (SC3-R2):** a slotted cultivation method
   generates REAL spirit power, 24 hours a day — the simulation meditates
   for him at his best pace, and the power lands in his real body. Ranks
@@ -102,7 +108,11 @@ theory, languages, anything that is a skill or a method.
   sword intent in another feed each other — the mastery grounds the intent,
   the intent deepens the mastery. Footwork speaks to the blade; body
   conditioning carries the sword. A loadout is a formation, not a list:
-  what sits beside what shapes how all of it grows.
+  what sits beside what shapes how all of it grows. And the scope is
+  EVERYTHING (SC3-R3): resonance runs across categories too — a ring's
+  skill mastery slotted as a technique resonates with that same ring aging
+  in a ring slot; the cultivation method resonates with body conditioning.
+  The whole loadout is one living formation.
 
 ### 2.2 SOUL RING
 
@@ -245,7 +255,9 @@ never praises, never explains, never hurries.
    bone owned. It spawns nothing, invents nothing, knows nothing he does not.
 6. **CANON CAPS STAND.** Nine rings on the body, six bones, absorption
    limits, rank requirements. The System bypasses none of them.
-7. **ONE OF A KIND.** A given thing occupies at most one slot. No stacking.
+7. **ONE OF A KIND** (SC3-R3, author-confirmed). A given thing occupies at
+    most one slot — the same technique never doubles. Different arts feeding
+    one goal stack freely through resonance: combos, never repetition.
 8. **HIDDEN BY NATURE.** It is not a martial soul; nothing in the world
    reads it in him.
 9. **THE CHOICE IS THE COST.** Every hour a slot trains one thing is an
