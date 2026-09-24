@@ -55,10 +55,11 @@ written; it is the next step.
 1. `foundation/FOUNDATION.md` — premise, world, arcs, tone
 2. `foundation/PROTAGONIST.md` — the boy, the apple (full design), the System applied
 3. `foundation/SYSTEM_SPEC.md` — the System, complete
-4. `foundation/CANON_STUDY_FOOD_TYPE.md` — the food-type receipts (why the apple works)
-5. `foundation/CANON_GROUND.md` — verified ranks / rings / bones
-6. `foundation/RULINGS_LOG.md` — every author word, verbatim
-7. `foundation/OPEN_RULINGS.md` — what's settled, what awaits the author
+4. `foundation/TIMELINE.md` — his life against canon (the comet and the orchard)
+5. `foundation/CANON_STUDY_FOOD_TYPE.md` — the food-type receipts (why the apple works)
+6. `foundation/CANON_GROUND.md` — verified ranks / rings / bones
+7. `foundation/RULINGS_LOG.md` — every author word, verbatim
+8. `foundation/OPEN_RULINGS.md` — what's settled, what awaits the author
 
 ## Laws for this project
 
