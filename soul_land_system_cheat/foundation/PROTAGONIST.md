@@ -1,38 +1,36 @@
-# PROTAGONIST — the boy, the apple, the System (v1.0, 2026-09-24)
+# PROTAGONIST — the boy, the apple, the System (v1.1, 2026-09-24)
 
 LOCKED items carry the author's word. PROPOSED items are agent defaults for
 review.
 
 ## THE BOY (LOCKED where marked)
 
+- **Name: Su Ping (苏平)** *(LOCKED, the author's pick, SC2-R4)* — "quiet
+  peace," and the apple hiding inside the pun (平 / 苹). The plainest name in
+  the village — the name itself is camouflage; the world will underestimate
+  the boy and the fruit both. He cannot carry his last life's name (the body
+  was born here and named at birth); the Earth name survives as private
+  memory — told aloud at most once, decades in, as a single story beat.
 - **Age at page 1:** six, at the awakening ceremony. *(LOCKED — author's
   opening ruling.)*
 - **Body:** village-born, healthy, ordinary — fruit-farmer's son. *(PROPOSED
   detail.)*
 - **Innate spirit power: average.** *(LOCKED.)* No genius reading, no
   tragedy reading — the village's pride simply because he is theirs.
-- **The transmigration:** the Earth soul arrives INTO him during the
-  awakening ceremony. The boy lives his first six years as himself; on the
-  village's one big day, he falters under the awakening's pressure — and
-  wakes as two lives in one body, with a quiet readout floating in the dark.
-  *(LOCKED: transmigrator + age-6 start; the faint detail PROPOSED.)*
-- **The name (answering the author's question — "How can he carry Last life
-  name"):** he cannot. The body was born here and the village named him at
-  birth; the Earth soul inherits the name along with the body, the family,
-  and the calluses. His Earth name survives as private memory — the world
-  never hears it (perhaps once, decades in, he tells one person what he was
-  once called: a single story beat). **Name proposals (author picks):**
-  1. **Li Mu (李木 — "plum tree")** — the tree name; village humor: the Li
-     family finally grew the right fruit.
-  2. **Su Ping (苏平 — "quiet peace"; 平 puns on 苹, apple)** — the plain,
-     village-quiet name with the apple hiding inside it.
-  3. **He Guo (何果 — "what fruit?")** — the village's own joke name, warm
-     and a little comic, very them.
+- **The rebirth (THE REBIRTH RULING, SC2-R4, verbatim: "He reborn from
+  start, system awaken after martial soul awakening"):** the Earth soul is
+  reborn into the body from the first breath. He has been Su Ping all six
+  years — a child of Fruit Creek with an Earth lifetime behind his eyes. No
+  second soul, no ghost, no passenger; the boy and he are one and always
+  were. *(LOCKED.)*
 - **The Earth life (PROPOSED, kept deliberately thin):** ordinary man,
-  ordinary death; what carries over is not knowledge of this world (he never
-  read Soul Land — the story is NOT a foreknowledge story) but habits of
-  mind: patience, lists, the habit of compound interest. He knows what
-  farming teaches: you do not hurry an orchard.
+  ordinary death — and then a second birth in Fruit Creek. Because he has
+  carried the memories from the first breath, the village has raised a
+  strangely steady child: an old patience in a small body, little surprised
+  by anything, good at waiting. What carries over is not knowledge of this
+  world (he never read Soul Land — the story is NOT a foreknowledge story)
+  but habits of mind: patience, lists, the habit of compound interest. He
+  knows what farming teaches: you do not hurry an orchard.
 
 ## THE APPLE (the martial soul — LOCKED as food-type; design PROPOSED on
 ## canon-verified food-spirit law, receipts in CANON_STUDY_FOOD_TYPE.md)
@@ -84,11 +82,15 @@ exactly what the System is for.
 
 ## THE SYSTEM (full spec: SYSTEM_SPEC.md — application here)
 
-- Wakes with the transmigration, at the awakening. Silent — a readout.
-  *(LOCKED.)*
+- Wakes AFTER the martial soul awakening (THE REBIRTH RULING, SC2-R4) — the
+  apple's manifestation is its trigger; the same night or within days, a
+  Chapter-1 beat. Silent — a readout. *(LOCKED.)*
 - **Starting slots: 1/1/1** (Technique / Ring / Bone), unified schedule
   *(LOCKED)*: +1 to every list per rank-up — 2/2/2 at Spirit Master (11),
   …, **6/6/6 at Spirit King (51–60)**, 10/10/10 at Titled Douluo.
+- **The Panel law (SC2-R4):** printed panels at the key beats only — the
+  awakening readout, slot choices, rank-ups, 100% completions, aging
+  thresholds. Between beats, the prose carries it.
 - **The first slot (PROPOSED — Arc 1's first big beat):** at six years old,
   with one technique slot and a village to draw on, what does he slot first?
   Not a sword — he has never seen one used well. He slots **Basic Body

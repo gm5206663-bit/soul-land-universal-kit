@@ -1,9 +1,9 @@
 # THE SYSTEM CHEAT — a Soul Land system-serial
 
-A Soul Land fanfiction serial built around a transmigrator, an apple, and a
-silent System with slots that train while he sleeps.
+A Soul Land fanfiction serial built around a reborn transmigrator, an apple,
+and a silent System with slots that train while he sleeps.
 
-**Status: FOUNDATION BUILT (v1.0, 2026-09-24) — in author review.**
+**Status: FOUNDATION BUILT (v1.1, 2026-09-24) — in author review.**
 The system was fully specified before the story (the author's ruling); the
 foundation (world, protagonist, apple design, arcs) is drafted on
 canon-verified food-type law. Chapter 1 has not been written.
@@ -29,12 +29,16 @@ canon-verified food-type law. Chapter 1 has not been written.
 - **The unified slot law** (the author's own correction): one number for
   every list — 1/1/1 at Spirit Scholar, +1 to all lists per rank-up,
   6/6/6 at Spirit King, 10/10/10 at Titled Douluo.
-- **The holder**: a fruit-farming village's only spirit child; **an apple
-  martial soul** (food-type tool spirit, designed on canon receipts —
-  Oscar's sausage precedent, the Food God ceiling); **average innate
-  power**; **transmigrator** (Earth soul arrives at the awakening, age six).
+- **The holder**: **Su Ping (苏平)** — a fruit-farming village's only spirit
+  child; an Earth soul **reborn from the first breath** ("He reborn from
+  start, system awaken after martial soul awakening"); **an apple martial
+  soul** (food-type tool spirit, designed on canon receipts — Oscar's
+  sausage precedent, the Food God ceiling); **average innate power**.
 - **The era**: Soul Land 1, light cameos — his own path, own academies.
-- **The opening**: page 1 stands on the awakening day itself.
+- **The opening**: page 1 stands on the awakening day itself; the System
+  wakes after the awakening; the panels print at key beats only; and
+  **"He join academy of course"** — the junior academy follows soon after
+  (the continental custom; Tang San entered Nuoding at six).
 
 ## Read order
 
