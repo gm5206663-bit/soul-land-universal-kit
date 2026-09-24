@@ -99,9 +99,11 @@ exactly what the System is for.
 - **Starting slots: 1/1/1** (Technique / Ring / Bone), unified schedule
   *(LOCKED)*: +1 to every list per rank-up — 2/2/2 at Spirit Master (11),
   …, **6/6/6 at Spirit King (51–60)**, 10/10/10 at Titled Douluo.
-- **The Panel law (SC2-R4):** printed panels at the key beats only — the
-  awakening readout, slot choices, rank-ups, 100% completions, aging
-  thresholds. Between beats, the prose carries it.
+- **The Panel law (SC2-R4) + style (SC3-R1):** printed panels at the key
+  beats only — the awakening readout, slot choices, rank-ups, 100%
+  completions, aging thresholds — and every panel prints as MINIMAL LINES:
+  「Basic Body Conditioning — 12%」. Sparse, cold, quiet. Between beats, the
+  prose carries it.
 - **The first slot (PROPOSED — Arc 1's first big beat):** at six years old,
   with one technique slot and a village to draw on, what does he slot first?
   Not a sword — he has never seen one used well. He slots **Basic Body

@@ -1,6 +1,6 @@
 # THE SYSTEM — complete design spec
 
-Design stage v1.0 · 2026-09-24 · status: AUTHOR REVIEW
+Design stage v1.1 · 2026-09-24 · status: AUTHOR REVIEW (aging law, price, slot rules, panel style locked)
 Author spec and session rulings: see `../README.md`. Numbers marked **[DIAL]**
 are proposed defaults — tunable by the author without breaking anything. The
 slot schedule (§3) is settled by the author's word (the unified slot law).
@@ -88,10 +88,20 @@ theory, languages, anything that is a skill or a method.
 
 - A soul ring placed in a ring slot **ages** — its year-count climbs 24/7
   (author spec: "automatically age increase accordingly to user").
-- Aging speed is a function of the holder (the user-scaling law, §4);
-  proposed ladder **[DIAL]**: 1 year/day at Spirit Scholar, doubling each
-  rank-up (2/day at Spirit Master, 4 at Grandmaster … 512/day at Titled
-  Douluo).
+- **THE AGING LAW (SC3-R1, verbatim: "No completely not like this, it's
+  never fix, it's depends on how strong user is, soul ring (soul' beast)
+  potential and bloodline and others things"):** the aging rate is NEVER
+  fixed. It is organic and emergent, read from the world itself —
+  - **how strong the user is** (a stronger holder ages his rings faster;
+    the cheat grows as he grows);
+  - **the ring's own potential** (the soul beast it was: a high-potential
+    beast's ring ages quicker and further than a feeble one's);
+  - **his bloodline**;
+  - **and other things the world weighs** (affinity, nurture, whatever the
+    story finds true).
+  No table exists. No number is promised. The rate is discovered, not
+  declared — the aging twin of the Progression law: the world decides, the
+  System only runs.
 - The ring's color and class re-evaluate as thresholds cross: 99→100 (white
   → yellow), 999→1,000 (yellow → purple), 9,999→10,000 (purple → black),
   99,999→100,000 (black → red), 999,999→1,000,000 (red → gold).
@@ -109,9 +119,9 @@ theory, languages, anything that is a skill or a method.
 
 ### 2.3 SOUL BONE
 
-- Bones placed in bone slots **age** like rings — year-count climbing,
-  effect and skill strength scaling with the years **[DIAL: aging proposed;
-  refinement alternative in OPEN S8]**.
+- Bones placed in bone slots **age by the same organic AGING LAW as
+  rings** (SC3-R1; uniform with the SC2-R5 mechanics law) — year-count
+  climbing, effect and skill strength scaling with the years.
 - Canon positions stand: head, torso, right arm, left arm, right leg, left
   leg — six, non-overlapping; external bones exist in canon and follow their
   own rules (OPEN S3 covers fused-bone aging with fused rings).
@@ -171,15 +181,24 @@ Notes:
    day, one slot ≈ four of his schedules — running on top of the holder's
    own live practice, and across every slotted thing at once.
 
-## 5. THE INTERFACE (proposed) **[DIAL, OPEN S6]**
+## 5. THE INTERFACE (LOCKED: silent; minimal lines — SC2-R4/R5 + SC3-R1)
 
 A quiet readout only the holder can open: categories, lists, slots, meters,
-aging counts, the rank-up schedule, and the current best-speed the System
-measures. Opens and closes at will; invisible to everyone and everything
-else (spirit sense, soul pressure, inspection — OPEN S10 for god-level
-exceptions). No sound unless he allows it. **The System is silent — no
-voice, no praise, no notifications beyond the plain numbers.** It is a
-readout, not a personality.
+aging counts, the rank-up schedule. Opens and closes at will; invisible to
+everyone and everything else (spirit sense, soul pressure, inspection —
+god-level exceptions OPEN S10). No sound unless he allows it. **The System
+is silent — no voice, no praise, no notifications beyond the plain
+numbers.** It is a readout, not a personality.
+
+**The style (SC3-R1): MINIMAL LINES.** Sparse, cold, quiet — one line per
+fact, nothing else prints:
+
+> 「Technique — Basic Body Conditioning: 12%」
+> 「Ring — 214 years」
+> 「Slots: 1/1/1」
+
+No headers, no boxes, no decoration. The coldness is the character: it
+never praises, never explains, never hurries.
 
 ## 6. THE BALANCE LOCKS (what keeps it honest)
 
