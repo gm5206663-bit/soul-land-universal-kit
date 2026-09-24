@@ -1,12 +1,12 @@
-# THE SYSTEM CHEAT — a Soul Land system-serial (DESIGN STAGE)
+# THE SYSTEM CHEAT — a Soul Land system-serial
 
-A Soul Land fanfiction project built around a single cheat: **the System** —
-a real-time training simulation with category slots that grow with the
-holder's spirit rank.
+A Soul Land fanfiction serial built around a transmigrator, an apple, and a
+silent System with slots that train while he sleeps.
 
-**Status: DESIGN STAGE.** The system is being fully specified BEFORE the
-story. No OC, no chapters, no era chosen yet. This folder holds the design;
-when the system is locked, the story grows out of it.
+**Status: FOUNDATION BUILT (v1.0, 2026-09-24) — in author review.**
+The system was fully specified before the story (the author's ruling); the
+foundation (world, protagonist, apple design, arcs) is drafted on
+canon-verified food-type law. Chapter 1 has not been written.
 
 ## The author's spec (verbatim, 2026-09-24)
 
@@ -21,35 +21,40 @@ when the system is locked, the story grows out of it.
 > automatically age increase accordingly to user 24 hour's, then other soul
 > bone list and slots"
 
-## The session rulings (2026-09-24, Q&A with the author)
+## What's locked so far (full record: foundation/RULINGS_LOG.md)
 
-1. **Design doc first** — the system is specified completely; story and hero
-   are decided after.
-2. **It is NOT a martial soul — it is a cheat.** How the OC gets it is a
-   story decision, to be made in-story. The spec stays origin-agnostic.
-3. **Slots grow by spirit rank** — a fixed schedule per rank-up. No shop, no
-   points, no quests.
-4. **Real-time simulation** — the author's own words: "System acutely
-   progress in real time, it's like simulation happening so you don't need to
-   reach 100% to get" — gains are real from the first percent, not unlocked
-   at completion.
+- **The System**: not a martial soul — a cheat; silent; real-time gains
+  from the first percent; techniques train 24/7 at his best speed and
+  upgrade stages at 100%; rings age in slots; bones age in slots.
+- **The unified slot law** (the author's own correction): one number for
+  every list — 1/1/1 at Spirit Scholar, +1 to all lists per rank-up,
+  6/6/6 at Spirit King, 10/10/10 at Titled Douluo.
+- **The holder**: a fruit-farming village's only spirit child; **an apple
+  martial soul** (food-type tool spirit, designed on canon receipts —
+  Oscar's sausage precedent, the Food God ceiling); **average innate
+  power**; **transmigrator** (Earth soul arrives at the awakening, age six).
+- **The era**: Soul Land 1, light cameos — his own path, own academies.
+- **The opening**: page 1 stands on the awakening day itself.
 
 ## Read order
 
-1. `foundation/SYSTEM_SPEC.md` — the system, complete
-2. `foundation/CANON_GROUND.md` — the verified Soul Land mechanics it plugs into
-3. `foundation/OPEN_RULINGS.md` — the author-gated dials and decisions
+1. `foundation/FOUNDATION.md` — premise, world, arcs, tone
+2. `foundation/PROTAGONIST.md` — the boy, the apple (full design), the System applied
+3. `foundation/SYSTEM_SPEC.md` — the System, complete
+4. `foundation/CANON_STUDY_FOOD_TYPE.md` — the food-type receipts (why the apple works)
+5. `foundation/CANON_GROUND.md` — verified ranks / rings / bones
+6. `foundation/RULINGS_LOG.md` — every author word, verbatim
+7. `foundation/OPEN_RULINGS.md` — what's settled, what awaits the author
 
 ## Laws for this project
 
-- Every number marked **[DIAL]** is a proposed default, tunable by the author
-  at any time without breaking the design.
-- Everything in `OPEN_RULINGS.md` is author-gated: nothing there is decided
-  by an agent.
-- Canon-first: the system must plug into real Soul Land mechanics (ranks,
-  rings, bones) without contradicting them. `CANON_GROUND.md` is the
-  reference; when canon and this design ever appear to conflict, canon wins
-  and the design adjusts.
-- This project is separate from every existing serial. The Devouring Dragon
-  keeps its locked beast-story shape; the system lives here, in its own
-  universe-of-play, under the kit's governance (kit ruling, 2026-09-18).
+- Every author word is recorded verbatim in RULINGS_LOG.md and outranks
+  everything in these files.
+- Canon-first: canon wins over design, always (CANON_GROUND.md is the
+  reference; food-type receipts in CANON_STUDY_FOOD_TYPE.md).
+- Numbers marked [DIAL] in SYSTEM_SPEC.md are tunable without breaking the
+  design. OPEN_RULINGS.md is author-gated: nothing there is decided by an
+  agent.
+- The Devouring Dragon and every other serial keep their own locked shapes;
+  this project is separate, under the kit's governance (kit ruling,
+  2026-09-18).

@@ -2,7 +2,8 @@
 
 Design stage v1.0 · 2026-09-24 · status: AUTHOR REVIEW
 Author spec and session rulings: see `../README.md`. Numbers marked **[DIAL]**
-are proposed defaults — tunable by the author without breaking anything.
+are proposed defaults — tunable by the author without breaking anything. The
+slot schedule (§3) is settled by the author's word (the unified slot law).
 Author-gated decisions live in `OPEN_RULINGS.md`; nothing there is settled
 until the author's word.
 
@@ -115,33 +116,38 @@ theory, languages, anything that is a skill or a method.
 The architecture is extensible (physique, item refinement, spiritual power,
 …), but **nothing is added without the author's word** (OPEN S13).
 
-## 3. SLOT GROWTH — the spirit-rank schedule (author ruling)
+## 3. SLOT GROWTH — THE UNIFIED SLOT LAW (author's correction, SC2-R2)
 
-Slots multiply with the holder's spirit rank — the fixed schedule below
-**[DIAL: the shape is ruled; the numbers are tunable]**. One rank-up =
-crossing into a new title (levels 11, 21, 31, 41, 51, 61, 71, 81, 91).
+The author's word, verbatim: **"No, slots number's always same in every
+list not different."** One number governs every category — the count is
+always the same in every list. One rank-up = crossing into a new title
+(levels 11, 21, 31, 41, 51, 61, 71, 81, 91), and every rank-up grants
+**+1 slot to ALL lists alike**.
 
-- **Technique:** +1 every rank-up.
-- **Ring:** +1 every rank-up.
-- **Bone:** +1 every second rank-up.
-- Base at system start (whenever the story grants it): 2 / 1 / 0.
+- **Base at system start (Spirit Scholar): 1 / 1 / 1** (confirmed by the
+  author, SC2-R3).
+- Growth: +1 to every list at every rank-up — no category ever outpaces
+  another.
 
-| Title (levels) | Technique | Ring | Bone |
-|---|---|---|---|
-| Spirit Scholar (1–10) — base | 2 | 1 | 0 |
-| Spirit Master (11–20) | 3 | 2 | 0 |
-| Spirit Grandmaster (21–30) | 4 | 3 | 1 |
-| Spirit Elder (31–40) | 5 | 4 | 1 |
-| Spirit Ancestor (41–50) | **6** | 5 | 2 |
-| Spirit King (51–60) | 7 | 6 | 2 |
-| Spirit Emperor (61–70) | 8 | 7 | 3 |
-| Spirit Sage (71–80) | 9 | 8 | 3 |
-| Spirit Douluo (81–90) | 10 | 9 | 4 |
-| Titled Douluo (91+) | 11 | 10 | 5 |
+| Rank-up (title) | Every list holds |
+|---|---|
+| Spirit Scholar (1–10) — base | 1 / 1 / 1 |
+| Spirit Master (11) | 2 / 2 / 2 |
+| Spirit Grandmaster (21) | 3 / 3 / 3 |
+| Spirit Elder (31) | 4 / 4 / 4 |
+| Spirit Ancestor (41) | 5 / 5 / 5 |
+| Spirit King (51) | **6 / 6 / 6** |
+| Spirit Emperor (61) | 7 / 7 / 7 |
+| Spirit Sage (71) | 8 / 8 / 8 |
+| Spirit Douluo (81) | 9 / 9 / 9 |
+| Titled Douluo (91) | 10 / 10 / 10 |
 
-(The author's example — "one who have 6 slots" for techniques — is the
-Spirit Ancestor era, deep mid-story. Ring slots reach ten: the nine the body
-can bear, plus one to age a spare.)
+Notes:
+- The author's original example — "one who have 6 slots" — lands at Spirit
+  King (levels 51–60): deep mid-story.
+- At the top: 10 ring slots to the body's nine (one spare aging at all
+  times); 10 bone slots to the body's six positions (four spares); 10
+  technique slots — the whole man, compounded.
 
 ## 4. THE SPEED LAW — "according to user best speed" (author spec)
 
