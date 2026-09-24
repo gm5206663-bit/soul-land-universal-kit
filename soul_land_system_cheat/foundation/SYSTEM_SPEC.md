@@ -1,6 +1,6 @@
 # THE SYSTEM — complete design spec
 
-Design stage v1.1 · 2026-09-24 · status: AUTHOR REVIEW (aging law, price, slot rules, panel style locked)
+Design stage v1.2 · 2026-09-24 · status: AUTHOR REVIEW (SC3-R2: passive cultivation, no ceiling, tending, no-intelligence + resonance)
 Author spec and session rulings: see `../README.md`. Numbers marked **[DIAL]**
 are proposed defaults — tunable by the author without breaking anything. The
 slot schedule (§3) is settled by the author's word (the unified slot law).
@@ -43,6 +43,12 @@ while he lives one life, the others never sleep.
    adaptation under pressure, killing intent, reading a live enemy, pain,
    fear, and everything else that only exists when something can cut you.
    The simulation has never bled. These are earned alive, or not at all.
+6. **The System has no intelligence** (SC3-R2, verbatim: "system have no
+   intelligence"). Not silent by policy — silent by NATURE. Nothing inside
+   it knows anything: it cannot explain itself, cannot be questioned, cannot
+   bargain, cannot care. It is law, like weather. The numbers are all that
+   exists; the laws behind them are learned the way weather is learned — by
+   living in them.
 
 ## 2. THE ARCHITECTURE — categories, lists, slots
 
@@ -80,9 +86,23 @@ theory, languages, anything that is a skill or a method.
   decides the rungs; the System only climbs them.
 - Mastery stacks: a Master-stage 40% swordsman is Basic 100% + Advanced
   100% + Master 40%, all of it real, all of it his.
-- Slotting requirement (proposed, OPEN S4): the technique must be genuinely
-  his to train — learned once, understood at least in its basics. The System
-  trains what exists; it invents nothing.
+- Slotting requirement (SC3-R1, locked — learned-once): the technique must
+  be genuinely his to train — learned once, understood at least in its
+  basics. The System trains what exists; it invents nothing.
+- **THE PASSIVE CULTIVATION LAW (SC3-R2):** a slotted cultivation method
+  generates REAL spirit power, 24 hours a day — the simulation meditates
+  for him at his best pace, and the power lands in his real body. Ranks
+  come with time itself. (He must still LEARN a method first — the
+  learned-once rule; and his capacity, bottlenecks, and breakthroughs
+  remain canon's own.)
+- **THE RESONANCE LAW (SC3-R2, verbatim: "one thing can influence other
+  like you put swordsmanship mastery in one slot and sword intent in other
+  so of course it's influence"):** slotted things influence each other, as
+  their arts would in the world. Swordsmanship mastery in one slot and
+  sword intent in another feed each other — the mastery grounds the intent,
+  the intent deepens the mastery. Footwork speaks to the blade; body
+  conditioning carries the sword. A loadout is a formation, not a list:
+  what sits beside what shapes how all of it grows.
 
 ### 2.2 SOUL RING
 
@@ -95,13 +115,22 @@ theory, languages, anything that is a skill or a method.
   - **how strong the user is** (a stronger holder ages his rings faster;
     the cheat grows as he grows);
   - **the ring's own potential** (the soul beast it was: a high-potential
-    beast's ring ages quicker and further than a feeble one's);
+    beast's ring ages quicker than a feeble one's);
   - **his bloodline**;
   - **and other things the world weighs** (affinity, nurture, whatever the
     story finds true).
   No table exists. No number is promised. The rate is discovered, not
   declared — the aging twin of the Progression law: the world decides, the
   System only runs.
+- **THE NO-CEILING LAW (SC3-R2):** aging has no cap. Any ring, given a
+  strong enough holder and enough years, ages onward without end — a white
+  ring could crawl to gold across a lifetime. The beast's potential shapes
+  the ROAD (how fast), never the destination (how far).
+- **THE TENDING LAW (SC3-R2, verbatim: "you can't influence like giving
+  resources to system you can't do this"):** the System accepts NOTHING
+  directly. No resources, no offerings, no spirit power poured in, no
+  herbs, no cores. The only lever is indirect — grow the man, and the aging
+  quickens with him.
 - The ring's color and class re-evaluate as thresholds cross: 99→100 (white
   → yellow), 999→1,000 (yellow → purple), 9,999→10,000 (purple → black),
   99,999→100,000 (black → red), 999,999→1,000,000 (red → gold).
@@ -188,7 +217,9 @@ aging counts, the rank-up schedule. Opens and closes at will; invisible to
 everyone and everything else (spirit sense, soul pressure, inspection —
 god-level exceptions OPEN S10). No sound unless he allows it. **The System
 is silent — no voice, no praise, no notifications beyond the plain
-numbers.** It is a readout, not a personality.
+numbers.** It is a readout, not a personality — and it has no intelligence
+at all (SC3-R2): it cannot explain itself, ever. The laws behind the
+numbers are learned by living in them.
 
 **The style (SC3-R1): MINIMAL LINES.** Sparse, cold, quiet — one line per
 fact, nothing else prints:
@@ -222,6 +253,10 @@ never praises, never explains, never hurries.
 10. **IT NEVER STOPS.** The System does not sleep, wait, or forgive. What he
     slots grows — forever. There is no pause button except his own choice of
     what deserves the slots.
+11. **THE SYSTEM IS NOBODY** (SC3-R2). No intelligence, no voice, no
+    memory of its own — law, like weather. And it accepts nothing: no
+    resource can be given to it. The only lever on any rate is the man
+    himself, grown.
 
 ## 7. WHAT THE SYSTEM IS NOT
 
@@ -235,3 +270,6 @@ never praises, never explains, never hurries.
 - **Not a second self** — the simulation is a training simulation, not a
   mind, not a person, not a voice.
 - **Not a time machine** — everything happens in real time, in his one life.
+- **Not a mind** — no intelligence; it cannot explain itself, ever.
+- **Not feedable** — nothing can be given to it directly; influence is
+  indirect only (grow the man).

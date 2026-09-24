@@ -114,8 +114,17 @@ exactly what the System is for.
   and talent grow, every slot accelerates. The story's patience is the
   power fantasy: **he is never suddenly strong; he is always, quietly,
   earlier than he should be.**
+- **Passive cultivation (SC3-R2):** once the academy teaches him a real
+  cultivation method (learned-once), he slots it — and spirit power rises
+  24 hours a day. The ranks come with time itself; the quiet boy advances
+  without anyone seeing him try.
+- **The Resonance (SC3-R2):** arts that inform each other in the world
+  inform each other in the System — swordsmanship mastery beside sword
+  intent, footwork beside the blade. His loadout is a formation, not a
+  list.
 - Ring slots age stored rings (canon absorption law untouched — an
-  over-aged ring can still kill him; capacity is earned, not granted).
+  over-aged ring can still kill him; capacity is earned, not granted; aging
+  itself is organic and unceilinged — SC3-R1/R2).
 - Soul-skill mastery slots as a technique line: each ring's cultivar has a
   mastery meter of its own, trainable 24/7 like any technique.
 
