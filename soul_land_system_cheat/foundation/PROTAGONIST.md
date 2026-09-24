@@ -29,8 +29,12 @@ review.
   strangely steady child: an old patience in a small body, little surprised
   by anything, good at waiting. What carries over is not knowledge of this
   world (he never read Soul Land — the story is NOT a foreknowledge story)
-  but habits of mind: patience, lists, the habit of compound interest. He
-  knows what farming teaches: you do not hurry an orchard.
+  but habits of mind — patience, lists, the habit of compound interest — and
+  one thing more (THE RECOGNITION LAW, SC4): he read stories, thousands of
+  them, the old world's kind, and when the System wakes he KNOWS what it is
+  at first glance — the genre word from a dead language. The specifics of
+  this bare one he must still test; never again is he mystified. He knows
+  what farming teaches: you do not hurry an orchard.
 
 ## THE APPLE (the martial soul — LOCKED as food-type; design PROPOSED on
 ## canon-verified food-spirit law, receipts in CANON_STUDY_FOOD_TYPE.md)

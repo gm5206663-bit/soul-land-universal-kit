@@ -52,3 +52,14 @@ WebNovel-common form is used. **Canon wins over design, always.**
 6. **Cultivation is the floor of everything:** spirit power, body, and soul
    are grown; the System accelerates the holder's growth only through the
    channels that already exist in canon (training, rings, bones).
+
+
+## CORRECTIONS FROM THE AUTHOR (SC4, 2026-09-24 — law, from the Chapter-1 strikes)
+
+1. **CANON SETTING:** the world's texture is canon's — horses and carriages, not donkeys; the awakening happens at the village's spirit hall, by a blue crystal ball.
+2. **THE SCALE:** innate spirit power runs one to ten and is spoken with awe. Nine is the holy maiden of the Hall herself. Ten is once a generation on the whole continent. A rural deacon reads power at all perhaps twice in a spring circuit.
+3. **THE RARITY LAW:** a village produces a power-child once in a generation at most. Village ceremonies test the whole cohort; almost all awaken a soul with innate ZERO (souls without power — the common lot, canon's own arithmetic: "8 villages, only 1 child").
+4. **TIMELINE PURITY:** no canon character may be referenced before their canon fame. (Oscar is years older than Su Ping and unknown at Su Ping's awakening.)
+5. **THE RECOGNITION LAW:** the reborn carry their whole past life and use it from the first breath (canon precedent: Tang San — complete memories, the Mysterious Heaven Skill from childhood). A reincarnator who has read the old world's stories KNOWS what a system is.
+
+*Receipts: fandom Su Yuntao / Soul Power / Qian Renxue / Episode 001 pages; WebNovel SL ch 1–2; fetched 2026-09-24.*
