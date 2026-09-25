@@ -49,6 +49,10 @@ era holds the orange bands, the soul tools, the gods to come.
   past the ring into his blood (vitality, resilience, plant-toughness,
   deepening as the ring ages): the branch and the root, and the root
   outgrows the branch.
+- **The pace laws (SC21)**: every art is its own clock (varied pace);
+  everything that grows feeds every open meter (the infusion law — the
+  draft at forty-seven, unworked); the life-skills list counts EVERYTHING
+  (incantation, summoning, senses, speech, and many others).
 
 ## THE SERIAL'S SPINE (three engines, one fuse)
 
@@ -93,8 +97,9 @@ Chapters 1–4 written (author editions in `chapters/`, readers in
 sitting at the second wall, the Still Well Method twenty-seven parts into
 its next stage (the upgrade fired the moment the basic touched 100% — SC19;
 a gate, not a finish line), the ring at 124 and yellow, the fourth list
-opened (the grass in his blood at eleven percent), every list growing to
-three slots at the second ring. **OPEN, the
+opened (the grass in his blood at eleven percent), the draft at
+forty-seven without an hour's work, the list grown by four more lines —
+and every list growing to three slots at the second ring. **OPEN, the
 author's own hand: the second beast; the System's name; the deferred
 trims.** The next turn's default: Chapter 5, the second hunt.
 

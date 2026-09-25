@@ -12,6 +12,12 @@
   「Bloodline — Blue Silver Grass: 11%」). + THE EFFECTS LEDGER
   (SYSTEM_SPEC §11): what the Still Well Method and every slotted thing
   does.
+- **SC21 — THE LOGIC STRIKE**: THE VARIED-PACE LAW (every art its own
+  clock) + THE INFUSION LAW (the body meter corrected: 14 → 29 → 47,
+  unworked — fed by growth, method, ring, bloodline) + THE LIFE-SKILLS
+  COMPLETENESS (Incantation, Summoning, Senses, Speech on the page) + THE
+  DERIVATION DUTY. New: foundation/METERS.md (the master ledger) and
+  tools/check_panels.py (the drift guard — in the pipeline).
 
 ## v1.0.0 — 2026-09-25
 - **Chapters 1–4 written** (The Awakening Day · The Gate at Yunxi · The

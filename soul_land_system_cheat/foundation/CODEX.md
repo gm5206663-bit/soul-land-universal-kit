@@ -57,6 +57,12 @@ One line each; every author word verbatim in RULINGS_LOG.
   meaning of mastered basics; the world's speed-sorted pyramid; the apple's
   value beyond the immortal herbs; the ring bands; stage crossings (identity
   kept, power deepened); the red apple's gains.
+- **SC21:** THE LOGIC STRIKE — THE VARIED-PACE LAW (every art different,
+  its own pace) + THE INFUSION LAW (everything that grows feeds every open
+  meter — the draft 14→29→47 unworked) + THE LIFE-SKILLS COMPLETENESS
+  (Incantation, Summoning, Senses, Speech, and many others) + THE
+  DERIVATION DUTY (derive the obvious consequences before the author must);
+  METERS.md + the panel drift guard created.
 - **SC20:** THE BLOODLINE LIST — the fourth category: bloodlines seat and
   deepen like rings; the list unlocks the moment a bloodline exists (his:
   Blue Silver Grass, rooted from the ring — "the branch and the root"); +
@@ -84,6 +90,9 @@ One line each; every author word verbatim in RULINGS_LOG.
   power around the clock.
 - **THE RESONANCE LAW:** slotted things influence each other, across all
   categories — the loadout is one living formation.
+- **THE PACE LAWS (SC21):** every art is its own clock; everything that
+  grows feeds every open meter; the life-skills list counts everything —
+  and the master ledger (`foundation/METERS.md`) tracks it all.
 - **THE BLOODLINE LIST (SC20):** a fourth category — bloodlines seat and
   deepen like rings; unlocks when a bloodline exists; his Blue Silver Grass
   line rooted from the ring (vitality, resilience, plant-toughness — feeds
@@ -132,8 +141,8 @@ yet"** (Lin's held letter to the Hall).
 |---|---|---|---|---|---|
 | Ch 1 (age 6, awakening day) | — (innate 3) | — | 14% | — | 1/1/1; the apple found |
 | Ch 2 (age 7, first year) | 7 | 39% | 14% (parked) | — | the economy open; the life-skills list |
-| Ch 3 (age 8, second year) | 15 | 100% → the UPGRADE: Still Well at 1% | awake, climbing | 99 → 111 | 2/2/2; the green apple live; first resonance |
-| Ch 4 (age 9, third year) | 20 (at the wall) | 1 → 27%, climbing | climbing | 124 (yellow) | the fourth list opened: bloodline 11% | the crossing seen; the treasure lesson; **the second seat OPEN** |
+| Ch 3 (age 8, second year) | 15 | 100% → the UPGRADE: Still Well at 1% | 29 (the unworked climb) | 99 → 111 | 2/2/2; the green apple live; first resonance |
+| Ch 4 (age 9, third year) | 20 (at the wall) | 1 → 27%, climbing | 47 (the infusions) | 124 (yellow) | bloodline 11%; the list +4: Incantation, Summoning, Senses, Speech | the crossing seen; the treasure lesson; **the second seat OPEN** |
 
 ## VII. THE FILE MAP (read order)
 

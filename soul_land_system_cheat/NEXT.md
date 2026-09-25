@@ -9,7 +9,7 @@ Updated 2026-09-25 · kit commit through `946f327` · chapters 1–4 written.
 | 1 | The Awakening Day | 3,600 | OVER (kept; trim = author's call) | 1/1/1 · body 14% · the road to Yunxi |
 | 2 | The Gate at Yunxi | 3,756 | OVER (author-ordered additions) | level 7 · method 39% · economy open |
 | 3 | The White Ring | 5,079 | OVER (three strike-passes) | level 15 · the UPGRADE: Still Well 1% begun · ring 111/yellow |
-| 4 | The Still Well | 2,634 | IN | level 20 at the wall · Still Well 27% · ring 124 · **the second seat OPEN** |
+| 4 | The Still Well | 3,071 | IN | level 20 at the wall · Still Well 27% · draft 47% · ring 124 · bloodline 11% · the list +4 · **the second seat OPEN** |
 
 ## OPEN — the author's own hand
 
@@ -45,6 +45,11 @@ apple's second cultivar — the ring decides, as always).
 
 ## The machinery (keep it running)
 
+- `tools/run_all.py` — the whole pipeline: manuscript sync → style gate →
+  site build → **panel check** (the drift guard: every 「...」 line diffed
+  against `foundation/PANELS.md`; a frozen meter fails the build).
+- `foundation/METERS.md` — the master ledger: every meter with its own pace
+  law; updated the same turn a number moves.
 - `tools/style_gate.py` — run on every chapter edit. Exceptions
   (kept-on-purpose constructions) live in `tools/style_gate_exceptions.txt`,
   each citing its footer. The CI draft (`tools/style_gate_ci_draft.yml`) is

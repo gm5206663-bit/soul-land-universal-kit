@@ -54,7 +54,12 @@ from this file.)
 | 「Writing: 15%」 | 〃 |
 | 「Body Control: 31%」 | 〃 |
 | 「Walking and Running: 35%」 | 〃 |
-| 「Technique — The Still Well Method: 27%」 | the closing cluster — the road and the ring, both counting |
+| 「Incantation: 34%」 | the list GROWN — the chant itself, taught by ten thousand pours |
+| 「Summoning: 31%」 | the bringing-up of the soul, done until it became a thing he was |
+| 「Senses: 27%」 | 〃 |
+| 「Speech: 22%」 | "a line, even, for speech" — everything is more things than he thought |
+| 「Technique — The Still Well Method: 27%」 | the closing cluster — the road, the draft, and the ring: all counting |
+| 「Technique — Basic Body Conditioning: 47%」 | the unworked climb — the infusions (growth, method, ring, bloodline) |
 | 「Soul Ring — Blue Silver Grass: 124 years」 | 〃 |
 
 **Formats (the grammar):** 「Slots: N / N / N」 · 「Technique — Name: NN%」 ·

@@ -167,6 +167,8 @@ The year's list came to Su Ping that night, as it always came, quietly and all a
 > 「Walking and Running: 28%」
 > 「Writing: 8%」
 
+And the draft had not slept either. He had not spent an hour on the old art since the choice, and it stood at twenty-nine parts anyway — a year of growing, the ring's vitality lying down in him like seed in a drill, and two stones grinding in the night doing the working. Nothing in him was only one thing's business anymore. Everything that grew was feeding everything else that could grow.
+
 The ring's line said a hundred and eleven, and yellow as young straw, and growing. And both fruits ran a shade deeper than the summer's — the red one's rest, the green one's quickening — because the years were the ring's now, and the ring was in the tree, and the tree was his.
 
 And on the last night of the school year — a year to the week since the gate had first taken him — he sat through the method hour as he had sat through a thousand of them, with the hitch at the left shoulder, half a breath, at the top of every turn.

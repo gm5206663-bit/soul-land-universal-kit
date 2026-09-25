@@ -1,6 +1,6 @@
 # THE SYSTEM — complete design spec
 
-Design stage v1.6 · 2026-09-25 · status: SYSTEM COMPLETE (SC3-R1/R2/R3 locked — one gift held for the author: the System's name; §8 the ring seats, SC14–SC18; §9 the Upgrade Law, SC19; §10 the Bloodline List, SC20; §11 the Effects Ledger)
+Design stage v1.7 · 2026-09-25 · status: SYSTEM COMPLETE (SC3-R1/R2/R3 locked — one gift held for the author: the System's name; §8 the ring seats, SC14–SC18; §9 the Upgrade Law, SC19; §10 the Bloodline List, SC20; §11 the Effects Ledger; §12 the Pace Laws, SC21)
 Author spec and session rulings: see `../README.md`. Numbers marked **[DIAL]**
 are proposed defaults — tunable by the author without breaking anything. The
 slot schedule (§3) is settled by the author's word (the unified slot law).
@@ -434,3 +434,28 @@ resilience, plant-toughness, deepening as the ring ages.
 
 **THE RESONANCE:** every seat leans on every other — the mill-stones;
 now across four lists.
+
+
+## 12. THE PACE LAWS (SC21 — the logic strike)
+
+- **THE VARIED-PACE LAW:** every skill and technique is different; each
+  takes its own time, moves at its own pace, for its own reasons. No two
+  meters alike. The method's parts get slower and heavier; the draft grows
+  without being worked; the ring ages on its own four factors; the
+  life-skills grow on plain living — each art is its own clock.
+- **THE INFUSION LAW:** everything that grows feeds everything that can
+  grow. Age, growth, mastery elsewhere, cleaner spirit power, the ring's
+  vitality, the bloodline — all of it infuses every open meter. A meter
+  never freezes while its feeders grow. Lived: the draft 14 → 29 → 47,
+  unworked both years.
+- **THE LIFE-SKILLS COMPLETENESS:** the list counts EVERYTHING — Soul Power
+  Control, Observation, Reading, Writing, Body Control, Walking and
+  Running, Incantation, Summoning, Senses, Speech, and many others; new
+  lines surface when the counting does.
+- **THE DERIVATION DUTY (the agent's law):** when a ruling lands, derive
+  its obvious consequences across every meter, list, and character BEFORE
+  the author must.
+- **The living ledger:** `foundation/METERS.md` (every meter, its own pace
+  law, its current readings — updated the same turn a number moves); **the
+  drift guard:** `tools/check_panels.py` (every panel line diffed against
+  the ledgers; a frozen or stale meter fails the build).

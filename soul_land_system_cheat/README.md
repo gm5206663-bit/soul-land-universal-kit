@@ -79,14 +79,14 @@ strikeable and clean to replace.
 13. `foundation/CANON_GROUND.md` — the 27 checked entries
 14. `foundation/RULINGS_LOG.md` — every author word, verbatim
 15. `foundation/OPEN_RULINGS.md` — what's settled, what awaits the author
-16. `foundation/PANELS.md` — the ledger of every line the readout ever printed
+16. `foundation/PANELS.md` — the ledger of every line the readout ever printed; `foundation/METERS.md` — the master ledger: every meter with its own pace law (SC21)
 17. `foundation/SERIAL_LOG.md` — the turn-by-turn history
 18. `NEXT.md` — **the state pointer**: the tracker, the open items, the next turn
 19. `CHANGELOG.md` — release-facing history
 20. `NOTICE.md` — attribution: Soul Land belongs to Tang Jia San Shuo
 21. `chapters/` — Chapters 1–4 (author editions, with footers)
 22. `manuscript/` — the reader editions (footer-free) + the one-file FULL edition
-23. `tools/` — the pipeline: `style_gate.py` (the style laws, self-enforcing; the CI draft awaits a workflow-scoped token), `build_site.py`, `run_all.py` (one command: manuscript sync → gate → site)
+23. `tools/` — the pipeline: `style_gate.py` (the style laws, self-enforcing; the CI draft awaits a workflow-scoped token), `build_site.py`, `run_all.py` (manuscript sync → gate → site → panel check), `check_panels.py` (the drift guard)
 24. `docs/` — **the reading site** (GitHub Pages): index + chapters, generated from `manuscript/`
 
 ## Laws for this project

@@ -62,7 +62,7 @@ Because he had a herb that was not a herb. He had a spring. Every night the gree
 
 Not yet.
 
-The year's list came at the year's end, quietly, all at once, as it always came.
+The year's list came at the year's end, quietly, all at once, as it always came — and it had grown again, because the system counted everything, and everything turned out to be more things than he had thought. There were new lines on it now. A line for the chant itself, the silent words and the pour behind them, which ten thousand apples had been teaching him all along. A line for the summoning, the bringing-up of the soul, which he had done so often it had stopped being a thing he did and become a thing he was. A line for the senses. A line, even, for speech.
 
 > 「Soul Power Control: 28%」
 > 「Observation: 40%」
@@ -70,8 +70,12 @@ The year's list came at the year's end, quietly, all at once, as it always came.
 > 「Writing: 15%」
 > 「Body Control: 31%」
 > 「Walking and Running: 35%」
+> 「Incantation: 34%」
+> 「Summoning: 31%」
+> 「Senses: 27%」
+> 「Speech: 22%」
 
-The letters had done that — a letter a month home, a letter a month to Wen Bo in the town, the reading of the second book with Lin's permission on long evenings. His father's reply that spring had been the longest letter the Su family had ever produced, four pages of a farmer's careful characters: the lower meadow was leased off Old Shi, the ditches were redug, the sapling stock was in the ground. *The trees take five years to bear,* his father wrote. *The village says I am a fool to wait on trees.*
+The letters had done the reading and the writing — and the pours had done the chant, and the summonings had done the summoning, and the yard had done the talking. Every line at its own pace, and every pace with its own reasons, and no two of them alike. A letter a month home, a letter a month to Wen Bo in the town, the reading of the second book with Lin's permission on long evenings. His father's reply that spring had been the longest letter the Su family had ever produced, four pages of a farmer's careful characters: the lower meadow was leased off Old Shi, the ditches were redug, the sapling stock was in the ground. *The trees take five years to bear,* his father wrote. *The village says I am a fool to wait on trees.*
 
 *Apple trees are patient,* Su Ping wrote back. *We are patient. It runs in the family.*
 
@@ -87,6 +91,8 @@ He found it in the spring, some weeks after the yard had seen the yellow — a l
 
 The ring had not only seated itself. Somewhere in the second year of its sitting, the grass's own line had rooted past the ring and into him — into the blood itself, a trace crossing over into a line. He had felt nothing arrive, and he had not needed to: the system had counted it, because the system counted everything, and when the trace had become a bloodline, the list had opened. An apple soul with a well and an engine — and now, quietly, a grass growing in his blood. Plant for a plant, all the way down. The ring was the branch. The bloodline was the root. And the root, he suspected, would outgrow the branch, because roots always do.
 
+And the oldest art of all had climbed the hardest without being worked at all. Two years parked, and the body's meter stood at forty-seven parts — a body three years older, fed by a method that wasted nothing, by a ring whose vitality lay down in him like seed in a drill, by a grass in his blood, by two stones grinding in the dark. He had not spent an hour on it since the choice. Everything that grew fed everything that could grow, and the draft was the thing everything fed.
+
 And at the end of the year, the office, the door shut, the crystal between the two teacups. Lin read the number and did not say it at once.
 
 "Twenty," he said, finally. "And sitting at the wall."
@@ -99,7 +105,8 @@ He closed the book, and folded his hands on it.
 
 "The question is never whether," said Headmaster Lin. "It is which."
 
-Outside, the yard was loud with summer, and the engine ran on — the road under him and the ring in its seat, both counting.
+Outside, the yard was loud with summer, and the engine ran on — the road under him, the draft under the road, the ring in its seat: all counting.
 
 > 「Technique — The Still Well Method: 27%」
+> 「Technique — Basic Body Conditioning: 47%」
 > 「Soul Ring — Blue Silver Grass: 124 years」
