@@ -3,13 +3,18 @@
 A Soul Land fanfiction serial built around a reborn transmigrator, an apple,
 and a silent System with slots that train while he sleeps.
 
-**Status: CHAPTERS 1–2 WRITTEN (2026-09-24/25).**
+**Status: CHAPTERS 1–3 WRITTEN (2026-09-24/25).**
 Foundation complete and ruled end to end. **Chapter 1 — The Awakening Day**
 (the ceremony, the apple, the System waking in the dark, the first slot; five
-author strikes made law) and **Chapter 2 — The Gate at Yunxi** (the academy,
-the method taught plainly, THE ONE-SLOT CHOICE, the first passive night,
-level 3→4) are in `chapters/`. One gift is held open for the author's own
-hand: **the System's name** ("I give system a name").
+author strikes made law), **Chapter 2 — The Gate at Yunxi** (the academy,
+the method taught plainly, THE ONE-SLOT CHOICE, the first passive night, the
+apple economy open, the term reading level 3→7) and **Chapter 3 — The White
+Ring** (the wall at ten; the hunt for the ruled 99-year Blue Silver Grass;
+the ring's four gifts; the first resonance; the method carried to 100% — the
+panel clears and begins to write a name) are in `chapters/`. Two gifts are
+held open for the author's own hand: **the System's name** ("I give system a
+name") and **the completed method's new name** (Chapter 3 ends on the panel
+writing it).
 
 ## The author's spec (verbatim, 2026-09-24)
 

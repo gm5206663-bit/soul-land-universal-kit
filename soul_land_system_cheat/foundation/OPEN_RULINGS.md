@@ -42,6 +42,7 @@
 | Topic | Status |
 |---|---|
 | **The System's name** | **"I give system a name"** — the author's gift, awaited. Working placeholder in all prose: "the readout." Give it whenever — even mid-drafting; it slots in without breaking anything. |
+| **The completed method's new name** | **Held for the author** — Chapter 3 ends as the panel, at 100%, clears and begins to write a name. The name is the author's to give (the standing precedent: names in this serial are the author's). Chapter 4 opens on it. Nothing in-world knows it; nobody can. |
 
 ## HELD FOR DRAFTING (agent proposes at the named arc; author strikes or keeps)
 
