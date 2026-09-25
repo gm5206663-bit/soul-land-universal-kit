@@ -101,6 +101,13 @@ theory, languages, anything that is a skill or a method.
   come with time itself. (He must still LEARN a method first — the
   learned-once rule; and his capacity, bottlenecks, and breakthroughs
   remain canon's own.)
+- **THE MASTERY LAW (SC10, verbatim: "many people's don't master besic
+  Fully before that they go to advance, mastering complete besic Big thing
+  in yourself"):** most practitioners never complete a stage — they advance
+  on a good-enough road. Completing a stage to 100% is rare, inwardly
+  transformative ("a big thing in yourself"), and every completion is an
+  EVENT in the story, never a formality. The stage upgrade is the visible
+  half; the inward change is the real one.
 - **THE INITIALIZATION LAW (SC8, author strike: "why it's start from 0%
   what he already don't do it before 6 years normal, there is already
   progress"):** a slotted technique's meter initializes at his CURRENT REAL
@@ -225,9 +232,15 @@ Notes:
 3. What the System sells is **perfect consistency**, not talent: 24/7 at
    best-speed — never tired, never sick, never sloppy, no off-days, no
    plateaus from bad practice.
-4. Scale, honestly stated: against a hard trainer's six focused hours a
-   day, one slot ≈ four of his schedules — running on top of the holder's
-   own live practice, and across every slotted thing at once.
+4. **THE ENGINE ARITHMETIC (SC10 — the author's own numbers, replacing
+   every invented scale):** a normal cultivator trains 3–5 hours a day.
+   The engine runs twenty-four, at his best — mastery and time both
+   multiplied. Months of school = ordinary YEARS of cultivation (five
+   months ≈ an ordinary person's year; the ratio improves as he grows).
+   Early levels climb easiest (canon's own curve), so the first terms show
+   it hardest — two levels in five months at the start — and the walls slow
+   it later as they slow everyone. Level pacing is honest to this
+   arithmetic forever.
 
 ## 5. THE INTERFACE (LOCKED: silent; minimal lines — SC2-R4/R5 + SC3-R1)
 
