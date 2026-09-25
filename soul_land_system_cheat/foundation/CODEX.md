@@ -137,6 +137,10 @@ yet"** (Lin's held letter to the Hall).
 10. `foundation/OPEN_RULINGS.md` — settled / open / author-gated
 11. `foundation/SERIAL_LOG.md` — the turn-by-turn history
 12. `chapters/` — Chapters 1–4
+13. `manuscript/` — the reader editions (footer-free)
+14. `foundation/PANELS.md` — the panel ledger; `foundation/GLOSSARY.md` / `ECONOMY.md` / `PLACES.md` — the continuity cards
+15. `tools/` + `docs/` — the style gate, the site generator, and the reading site
+16. `NEXT.md` — the state pointer, read first every turn
 
 ## VIII. THE PROTOCOL (how a turn runs)
 

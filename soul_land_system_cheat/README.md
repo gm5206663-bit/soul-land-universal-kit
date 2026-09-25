@@ -79,7 +79,9 @@ strikeable and clean to replace.
 13. `NEXT.md` — **the state pointer**: the tracker, the open items, the next turn
 14. `chapters/` — Chapters 1–4 (author editions, with footers)
 15. `manuscript/` — the same chapters, footer-free, for readers
-16. `tools/` — the style laws, self-enforcing: `style_gate.py` runs on every chapter edit (the CI draft `style_gate_ci_draft.yml` is ready to enable with a workflow-scoped token)
+16. `tools/` — the style laws, self-enforcing: `style_gate.py` runs on every chapter edit (the CI draft `style_gate_ci_draft.yml` is ready to enable with a workflow-scoped token); `build_site.py` regenerates the reading site
+17. `docs/` — **the reading site** (GitHub Pages): index + chapters, generated from `manuscript/`
+18. `foundation/PANELS.md` — the ledger of every line the readout ever printed
 
 ## Laws for this project
 
