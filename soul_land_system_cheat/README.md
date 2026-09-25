@@ -10,11 +10,12 @@ author strikes made law), **Chapter 2 — The Gate at Yunxi** (the academy,
 the method taught plainly, THE ONE-SLOT CHOICE, the first passive night, the
 apple economy open, the term reading level 3→7) and **Chapter 3 — The White
 Ring** (the wall at ten; the hunt for the ruled 99-year Blue Silver Grass;
-the ring's four gifts; the first resonance; the method carried to 100% — the
-panel clears and begins to write a name) are in `chapters/`. Two gifts are
-held open for the author's own hand: **the System's name** ("I give system a
-name") and **the completed method's new name** (Chapter 3 ends on the panel
-writing it).
+the ring's four gifts — the cultivation-speed cultivar LIVE from the first
+night, the snowball started; the first resonance; the method carried to 100%
+and becoming the named method) are in `chapters/`. One gift is held open for
+the author's own hand: **the System's name** ("I give system a name"). The
+completed method's name — The Still Well Method — is PROPOSED in Chapter 3,
+strikeable and clean to replace.
 
 ## The author's spec (verbatim, 2026-09-24)
 

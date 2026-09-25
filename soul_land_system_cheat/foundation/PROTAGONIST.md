@@ -81,8 +81,11 @@ under the aging law: a 99-year grass ring, aged for decades by the engine —
 the Blue Silver King line (10,000 years) and beyond. *(TAKEN, Chapter 3 —
 the hunt, the hoe, the absorption held; the ring seated in its slot at
 ninety-nine years and climbing: 104 by autumn, 111 at the year's end, white
-gone to young-straw yellow. The cultivar it shapes hangs unripe in the soul,
-small and hard and green — the ripening is Chapter 4's.)* Later cultivars —
+gone to young-straw yellow. THE CULTIVAR IS LIVE from the absorption hour (SC15): the green
+apple arrives awake, its use known with it, its own silent words come with it
+— eaten, it quickens cultivation, and for him it lifts the engine's best (the
+snowball started: well → fruit → engine → well). Not sold — the closed hand;
+the green apple's market is a later arc's question.)* Later cultivars —
 recovery, cleansing, body-strengthening, flight-feather, the golden line —
 chosen arc by arc. Ring
 **age** deepens potency, duration, and output per soul-power cost — which is
