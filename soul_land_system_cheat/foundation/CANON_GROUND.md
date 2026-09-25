@@ -64,3 +64,5 @@ WebNovel-common form is used. **Canon wins over design, always.**
 5. **THE RECOGNITION LAW:** the reborn carry their whole past life and use it from the first breath (canon precedent: Tang San — complete memories, the Mysterious Heaven Skill from childhood). A reincarnator who has read the old world's stories KNOWS what a system is.
 
 *Receipts: fandom Su Yuntao / Soul Power / Qian Renxue / Episode 001 pages; WebNovel SL ch 1–2; fetched 2026-09-24.*
+
+7. **THE IGNORANCE LAW (SC6):** no character explains what they cannot know. Speeches carry observed facts, admitted ignorance, and the world's common knowledge (the rank-and-ring road) — nothing more. Mechanics are discovered on the page or learned from those who truly hold the knowledge (an academy teacher, a manual), never lectured by strangers. *Canon anchor: soul skills come from spirit rings — "It can produce various kinds of abilities depending on the Spirit Ring absorbed" (Sausage, fandom) — the ring road is common knowledge; a food-type's specifics are known to no one in this region.*
