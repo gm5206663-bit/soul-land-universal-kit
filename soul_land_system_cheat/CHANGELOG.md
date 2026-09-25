@@ -6,6 +6,12 @@
   strike — "it's should happen the moment it reache 100%"). Chapters 3–4
   re-cut: the named method opens at 1% and climbs (9% at first frost, 27%
   by Chapter 4's end). 100% is a gate, not a finish line.
+- **SC20 — THE BLOODLINE LIST**: the fourth System category — bloodlines
+  seat and deepen like rings; the list unlocks when a bloodline exists.
+  His: Blue Silver Grass, rooted from the ring (Chapter 4's spring,
+  「Bloodline — Blue Silver Grass: 11%」). + THE EFFECTS LEDGER
+  (SYSTEM_SPEC §11): what the Still Well Method and every slotted thing
+  does.
 
 ## v1.0.0 — 2026-09-25
 - **Chapters 1–4 written** (The Awakening Day · The Gate at Yunxi · The

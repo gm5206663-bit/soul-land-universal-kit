@@ -79,6 +79,14 @@ Wen Bo's tenth of every queue was a purse of its own by then, and he counted it 
 
 The method's line stood at twenty-seven by then — twenty-six parts of the deeper road in one school year, slower parts than the basic's, and every one of them heavier.
 
+And there was a fourth list that year.
+
+He found it in the spring, some weeks after the yard had seen the yellow — a list where there had been three, two slots in it like all the others, one seat filled, and the name of the entry was the name of the grass.
+
+> 「Bloodline — Blue Silver Grass: 11%」
+
+The ring had not only seated itself. Somewhere in the second year of its sitting, the grass's own line had rooted past the ring and into him — into the blood itself, a trace crossing over into a line. He had felt nothing arrive, and he had not needed to: the system had counted it, because the system counted everything, and when the trace had become a bloodline, the list had opened. An apple soul with a well and an engine — and now, quietly, a grass growing in his blood. Plant for a plant, all the way down. The ring was the branch. The bloodline was the root. And the root, he suspected, would outgrow the branch, because roots always do.
+
 And at the end of the year, the office, the door shut, the crystal between the two teacups. Lin read the number and did not say it at once.
 
 "Twenty," he said, finally. "And sitting at the wall."

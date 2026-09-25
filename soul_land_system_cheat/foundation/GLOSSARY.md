@@ -21,6 +21,12 @@ uses it. Era-true (SL1 only).
 - **The laundry line** — where the apple queue stands (Ch 2).
 - **The small cold stone** — the arithmetic feelings he files away (Ch 4).
 - **"Not yet"** — Lin's held letter to the Hall (Ch 3).
+- **The fourth list / the grass in the blood** — the bloodline list,
+  unlocked when the ring's essence rooted into his blood (Ch 4); "the ring
+  was the branch. The bloodline was the root."
+- **Bloodline** — a line of power in the blood, inherited in canon; his is
+  ROOTED — grown from the Blue Silver Grass ring's essence, the System's
+  fourth category (SC20).
 - **The panels** — 「...」 printed at key beats only, cold and quiet.
 
 ## The world's terms as the story uses them

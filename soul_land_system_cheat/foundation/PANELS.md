@@ -47,6 +47,7 @@ from this file.)
 | Panel | Beat |
 |---|---|
 | 「Technique — The Still Well Method: 9%」 | the begun-again meter — the upgrade was not an ending; 9 by the first frost |
+| 「Bloodline — Blue Silver Grass: 11%」 | THE FOURTH LIST — the grass in his blood; a trace crossing into a line; the branch and the root |
 | 「Soul Power Control: 28%」 | the year list — six lines, all grown on living |
 | 「Observation: 40%」 | 〃 |
 | 「Reading: 24%」 | 〃 |
@@ -57,6 +58,7 @@ from this file.)
 | 「Soul Ring — Blue Silver Grass: 124 years」 | 〃 |
 
 **Formats (the grammar):** 「Slots: N / N / N」 · 「Technique — Name: NN%」 ·
-「Soul Ring — Beast: N years」 · 「Skill — Name: NN%」 (the life-skills lines).
+「Soul Ring — Beast: N years」 · 「Bloodline — Line: NN%」 · 「Skill — Name: NN%」
+(the life-skills lines).
 **Rule held:** no panel ever in bare prose (style gate, hard check); the
 rare quoted 「...」 inside footer prose is record-keeping, never narration.

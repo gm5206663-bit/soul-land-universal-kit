@@ -57,6 +57,10 @@ One line each; every author word verbatim in RULINGS_LOG.
   meaning of mastered basics; the world's speed-sorted pyramid; the apple's
   value beyond the immortal herbs; the ring bands; stage crossings (identity
   kept, power deepened); the red apple's gains.
+- **SC20:** THE BLOODLINE LIST — the fourth category: bloodlines seat and
+  deepen like rings; the list unlocks the moment a bloodline exists (his:
+  Blue Silver Grass, rooted from the ring — "the branch and the root"); +
+  THE EFFECTS LEDGER (SYSTEM_SPEC §11: what every slotted thing does).
 - **SC19:** THE UPGRADE LAW — the moment a meter touches 100%, the
   technique upgrades to its next stage, immediately, in place; the named
   method IS the next stage; the new meter opens honestly and the engine
@@ -80,6 +84,10 @@ One line each; every author word verbatim in RULINGS_LOG.
   power around the clock.
 - **THE RESONANCE LAW:** slotted things influence each other, across all
   categories — the loadout is one living formation.
+- **THE BLOODLINE LIST (SC20):** a fourth category — bloodlines seat and
+  deepen like rings; unlocks when a bloodline exists; his Blue Silver Grass
+  line rooted from the ring (vitality, resilience, plant-toughness — feeds
+  the blood and body as the ring feeds the soul and tree).
 - **THE AGING LAW (rings and bones):** stored-only aging, organic — the
   user's strength, the ring's own potential, bloodline, and what the world
   weigh; NO CEILING; aging never changes skill identity, only depth.
@@ -125,7 +133,7 @@ yet"** (Lin's held letter to the Hall).
 | Ch 1 (age 6, awakening day) | — (innate 3) | — | 14% | — | 1/1/1; the apple found |
 | Ch 2 (age 7, first year) | 7 | 39% | 14% (parked) | — | the economy open; the life-skills list |
 | Ch 3 (age 8, second year) | 15 | 100% → the UPGRADE: Still Well at 1% | awake, climbing | 99 → 111 | 2/2/2; the green apple live; first resonance |
-| Ch 4 (age 9, third year) | 20 (at the wall) | 1 → 27%, climbing | climbing | 124 (yellow) | the crossing seen; the treasure lesson; **the second seat OPEN** |
+| Ch 4 (age 9, third year) | 20 (at the wall) | 1 → 27%, climbing | climbing | 124 (yellow) | the fourth list opened: bloodline 11% | the crossing seen; the treasure lesson; **the second seat OPEN** |
 
 ## VII. THE FILE MAP (read order)
 

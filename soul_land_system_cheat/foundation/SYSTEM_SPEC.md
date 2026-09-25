@@ -1,6 +1,6 @@
 # THE SYSTEM — complete design spec
 
-Design stage v1.5 · 2026-09-25 · status: SYSTEM COMPLETE (SC3-R1/R2/R3 locked — one gift held for the author: the System's name; §8 the ring seats live, SC14–SC18; §9 the Upgrade Law, SC19)
+Design stage v1.6 · 2026-09-25 · status: SYSTEM COMPLETE (SC3-R1/R2/R3 locked — one gift held for the author: the System's name; §8 the ring seats, SC14–SC18; §9 the Upgrade Law, SC19; §10 the Bloodline List, SC20; §11 the Effects Ledger)
 Author spec and session rulings: see `../README.md`. Numbers marked **[DIAL]**
 are proposed defaults — tunable by the author without breaking anything. The
 slot schedule (§3) is settled by the author's word (the unified slot law).
@@ -376,3 +376,61 @@ and the engine runs on without a pause, 24/7 at his best, into the deeper
 country. Lived: Basic Spirit Power Cultivation 100% → The Still Well Method
 1% (Ch 3's last night) → 9% at first frost → 27% by Ch 4's year-end
 (current readings, nothing fixed).
+
+
+## 10. THE BLOODLINE LIST (SC20 — the author's ruling, verbatim: "there is should bloodline list also unlock because he got a bloodline, blue silver grass bloodline")
+
+**The fourth category.** Bloodlines seat and deepen like rings; the list
+unlocks THE MOMENT A BLOODLINE EXISTS; slots follow the unified slot law
+(two at his current rank — one seat filled).
+
+**His: the Blue Silver Grass bloodline.** The ring's essence, seated and
+aging, rooted past the ring and into the blood — the properties taken
+(SC16) compounding until "a trace crossed over into a line." Born of the
+hill; formed around the ring's crossing into yellow; revealed in Chapter
+4's spring at 「Bloodline — Blue Silver Grass: 11%」 (a current reading).
+
+**The effect family (PROPOSED):** vitality, resilience, slow plant-toughness
+— the bloodline feeds the BLOOD and the body, as the ring feeds the soul
+and the tree. Tires slower, mends quicker, sickens never; over years, the
+body toughens toward what grass knows how to be.
+
+**The growth:** on the ring's aging (the linked pair — branch and root) and
+on lived vitality (work, wounds, seasons); never purchasable (the Tending
+Law); NO CEILING. **The long game (design doc only):** what a grass-line
+can become is the King-line question — the root outgrowing the branch.
+
+## 11. THE EFFECTS LEDGER — what each slotted thing DOES (SC20; the author's question, answered)
+
+**THE STILL WELL METHOD (the named stage-2, his, cut to his measure)** —
+six effects, each deepening with the meter, all running 24/7 (the Passive
+Law) and lifting every other seat (the Resonance Law):
+1. **Deeper draw** — more spirit power drawn per sitting hour than the
+   basic ever drew. The well grows faster, at a deeper pace.
+2. **Cleaner water** — purity and density up: the concentration law, the
+   ceiling-raiser. No crystal weighs it; the treasury cannot buy it.
+3. **Less loss** — every spend costs marginally less (the apple pours
+   cheaper; the skills waste less).
+4. **Quicker refill** — the well returns from empty faster (sleep and
+   sitting both).
+5. **The widening vessel** — capacity grows: more skills sustained, bigger
+   pours held — and the older ring the body can carry. The second seat's
+   true ceiling is partly THIS.
+6. **The upgrade at 100%** (SC19) — the next stage opens in the same
+   breath; the ladder continues, each stage his.
+
+**BASIC BODY CONDITIONING (the draft):** strength, speed, endurance,
+injury-recovery — and body strength feeds cultivation speed (the
+Body-Draft Law: the one headwind his class owns, cut).
+
+**THE RING SEAT:** the ring ages; all ten ring-gains deepen with it
+(CANON_GROUND 17) — the skill, the well, the soul's nature, the
+properties, the vitality.
+
+**THE BLOODLINE SEAT (§10):** the grass in the blood — vitality,
+resilience, plant-toughness, deepening as the ring ages.
+
+**THE LIFE-SKILLS LIST:** grows on plain living; influences everything.
+
+**THE RESONANCE:** every seat leans on every other — the mill-stones;
+now across four lists.

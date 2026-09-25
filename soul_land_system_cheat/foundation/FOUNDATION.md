@@ -45,6 +45,10 @@ era holds the orange bands, the soul tools, the gods to come.
   the ceiling of the white class, plant for a plant, life for a food soul.
   In its seat it has crossed to yellow (124 and climbing): the aging law
   made visible, the serial's deepest secret after the System itself.
+- **The bloodline (SC20)**: the fourth list — the grass's essence rooted
+  past the ring into his blood (vitality, resilience, plant-toughness,
+  deepening as the ring ages): the branch and the root, and the root
+  outgrows the branch.
 
 ## THE SERIAL'S SPINE (three engines, one fuse)
 
@@ -88,8 +92,9 @@ Chapters 1–4 written (author editions in `chapters/`, readers in
 `manuscript/`, the site live). Su Ping: nine years old, level twenty and
 sitting at the second wall, the Still Well Method twenty-seven parts into
 its next stage (the upgrade fired the moment the basic touched 100% — SC19;
-a gate, not a finish line), the ring at 124 and yellow, three slots coming
-with the second ring. **OPEN, the
+a gate, not a finish line), the ring at 124 and yellow, the fourth list
+opened (the grass in his blood at eleven percent), every list growing to
+three slots at the second ring. **OPEN, the
 author's own hand: the second beast; the System's name; the deferred
 trims.** The next turn's default: Chapter 5, the second hunt.
 
