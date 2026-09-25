@@ -79,7 +79,7 @@ strikeable and clean to replace.
 13. `foundation/CANON_GROUND.md` — the 27 checked entries
 14. `foundation/RULINGS_LOG.md` — every author word, verbatim
 15. `foundation/OPEN_RULINGS.md` — what's settled, what awaits the author
-16. `foundation/PANELS.md` — the ledger of every line the readout ever printed; `foundation/METERS.md` — the master ledger: every meter with its own pace law (SC21)
+16. `foundation/PANELS.md` — the ledger of every line the readout ever printed; `foundation/METERS.md` — the master ledger: every meter with its own pace law (SC21); `foundation/SKILLS.md` — the soul's skills: each seated, named, metered, its own incantation and pace (SC22)
 17. `foundation/SERIAL_LOG.md` — the turn-by-turn history
 18. `NEXT.md` — **the state pointer**: the tracker, the open items, the next turn
 19. `CHANGELOG.md` — release-facing history

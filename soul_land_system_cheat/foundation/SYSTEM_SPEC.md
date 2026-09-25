@@ -1,6 +1,6 @@
 # THE SYSTEM — complete design spec
 
-Design stage v1.7 · 2026-09-25 · status: SYSTEM COMPLETE (SC3-R1/R2/R3 locked — one gift held for the author: the System's name; §8 the ring seats, SC14–SC18; §9 the Upgrade Law, SC19; §10 the Bloodline List, SC20; §11 the Effects Ledger; §12 the Pace Laws, SC21)
+Design stage v1.8 · 2026-09-25 · status: SYSTEM COMPLETE (SC3-R1/R2/R3 locked — one gift held for the author: the System's name; §8 the ring seats, SC14–SC18; §9 the Upgrade Law, SC19; §10 the Bloodline List, SC20; §11 the Effects Ledger; §12 the Pace Laws, SC21; §13 the Skills Law, SC22)
 Author spec and session rulings: see `../README.md`. Numbers marked **[DIAL]**
 are proposed defaults — tunable by the author without breaking anything. The
 slot schedule (§3) is settled by the author's word (the unified slot law).
@@ -459,3 +459,25 @@ now across four lists.
   law, its current readings — updated the same turn a number moves); **the
   drift guard:** `tools/check_panels.py` (every panel line diffed against
   the ledgers; a frozen or stale meter fails the build).
+
+
+## 13. THE SKILLS LAW (SC22 — the first skill)
+
+- The spirit's own ability is the FIRST skill — seated, named, and counted
+  (「Skill — Name: NN%」, the fifth panel form, live from Ch 1's first
+  night). The apple's own work counted before any ring: The Rest.
+- Every ring seats exactly one new skill — the cultivar lock restated as
+  law: each ring = one new cultivar, its own incantation with it (SC15),
+  usable from the moment of absorption.
+- Skills are not slotted: the spirit is his; a ring's skill rides its
+  ring's seat.
+- Each skill moves at its own pace (SC21) — The Rest pours daily, The
+  Quickening once a night; no two clocks alike.
+- Aging deepens a ring's skill — more power, longer sustain, lower cost —
+  and never changes what it is [DIAL, OPEN S9].
+- At 100% the Upgrade Law's gate applies (§9): the next stage opens,
+  nothing fixed.
+- The green apple is never sold (the design lock).
+- The living ledger: `foundation/SKILLS.md` — each skill's source,
+  incantation, effect, meter, and pace law; the drift guard covers the
+  panel lines.

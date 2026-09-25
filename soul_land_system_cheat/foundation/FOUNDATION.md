@@ -53,6 +53,11 @@ era holds the orange bands, the soul tools, the gods to come.
   everything that grows feeds every open meter (the infusion law — the
   draft at forty-seven, unworked); the life-skills list counts EVERYTHING
   (incantation, summoning, senses, speech, and many others).
+- **The skills (SC22)**: the spirit's own ability is the FIRST skill —
+  「The Rest」 (innate; the red apple; *ripe, and given*); every ring seats
+  exactly one more — 「The Quickening」 (the first ring's; the green apple;
+  *grow, and given*); names PROPOSED, strikeable; each skill its own
+  incantation, its own pace, never slotted; the green apple never sold.
 
 ## THE SERIAL'S SPINE (three engines, one fuse)
 

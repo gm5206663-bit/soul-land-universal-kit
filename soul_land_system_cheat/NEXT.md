@@ -6,10 +6,10 @@ Updated 2026-09-25 · kit commit through `946f327` · chapters 1–4 written.
 
 | # | Chapter | Words | Band | End state |
 |---|---|---|---|---|
-| 1 | The Awakening Day | 3,600 | OVER (kept; trim = author's call) | 1/1/1 · body 14% · the road to Yunxi |
+| 1 | The Awakening Day | 3,724 | OVER (kept; trim = author's call) | 1/1/1 · body 14% · the road to Yunxi |
 | 2 | The Gate at Yunxi | 3,756 | OVER (author-ordered additions) | level 7 · method 39% · economy open |
-| 3 | The White Ring | 5,079 | OVER (three strike-passes) | level 15 · the UPGRADE: Still Well 1% begun · ring 111/yellow |
-| 4 | The Still Well | 3,071 | IN | level 20 at the wall · Still Well 27% · draft 47% · ring 124 · bloodline 11% · the list +4 · **the second seat OPEN** |
+| 3 | The White Ring | 5,237 | OVER (three strike-passes) | level 15 · the UPGRADE: Still Well 1% begun · ring 111/yellow |
+| 4 | The Still Well | 3,089 | IN | level 20 at the wall · Still Well 27% · draft 47% · ring 124 · bloodline 11% · the list +4 · The Rest 68 / The Quickening 36 · **the second seat OPEN** |
 
 ## OPEN — the author's own hand
 

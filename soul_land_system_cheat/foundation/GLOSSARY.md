@@ -33,6 +33,11 @@ uses it. Era-true (SL1 only).
 - **The life-skills list** — the System counting plain living: control,
   observation, reading, writing, body control, walking and running,
   incantation, summoning, senses, speech — and many others (SC21).
+- **The skills list** — the spirit's own work and every ring's gift, each
+  seated, named, and metered (SC22): **The Rest** — the first skill, the
+  apple's own (the red apple: stamina, fatigue, minor hurts, hunger);
+  **The Quickening** — the first ring's skill (the green apple: his best
+  made better; never sold).
 
 ## The world's terms as the story uses them
 
@@ -59,5 +64,6 @@ uses it. Era-true (SL1 only).
 - **Soul beast** — the continent's other cultivator; the forests are theirs.
 - **The Spirit Hall** — the church of spirit masters: the awakenings, the
   registry, the tests, the licensed grounds, the strongest force alive.
-- **The chant** — spoken in his mind, never aloud ("ripe, and given"; the
-  green apple's own words came with it).
+- **The chant** — each skill's own incantation, spoken in his mind, never
+  aloud: The Rest's *ripe, and given*; The Quickening's *grow, and
+  given* (wording PROPOSED, strikeable).

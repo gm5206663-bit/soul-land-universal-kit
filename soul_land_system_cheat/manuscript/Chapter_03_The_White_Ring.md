@@ -110,7 +110,13 @@ Two slots in every list, and two plantings done before dark: the old parked art 
 
 That night, back in his own bed at the school, he did the new thing first.
 
-He held his palm open and set the new words in his mind — they had come with the fruit, as the use had come with it — and the green apple fell into his hand. Small, hard, the color of a leaf before it turns. The first of its kind anywhere in the world. He ate it to the core, and lay back, and the method hour came, and it was not the hour he had sat through a thousand times.
+He held his palm open and set the new words in his mind — *grow, and given*; they had come with the fruit, as the use had come with it — and the green apple fell into his hand. Small, hard, the color of a leaf before it turns. The first of its kind anywhere in the world. He ate it to the core, and lay back, and the method hour came, and it was not the hour he had sat through a thousand times.
+
+And behind his eyes, with no occasion and no voice, the readout counted the new thing.
+
+> 「Skill — The Quickening: 1%」
+
+The quickening. Named by what it did, like the rest before it — the red apple had always been the rest, and this one was the speed of him. The second line on a list he had thought held only one. One part in a hundred, born the same night as the ring, and everything starting where it honestly was.
 
 Nothing hurt. Nothing shone. The hour was the same length it had always been, and the water that moved in it moved quicker — his best day had gotten better, and the engine, which ran at nothing except his best, ran at that. And under that, faint and steady, two slotted things ran together for the first time since the awakening day — the method in one slot, the old body art waking in the other — turning like the mill he had grown up in sight of, the grain between the stones moving faster than either stone could account for.
 

@@ -10,6 +10,7 @@ from this file.)
 | Panel | Beat |
 |---|---|
 | 「Slots: 1 / 1 / 1」 | the System waking in the dark, the first screen |
+| 「Skill — The Rest: 1%」 | THE FIRST SKILL seated and named — the apple's own work, counted |
 | 「Technique — Basic Body Conditioning: 9%」 | THE INITIALIZATION: six lived years counted, never zero |
 | 「Technique — Basic Body Conditioning: 10%」 | the third morning of the honest curve |
 | 「Technique — Basic Body Conditioning: 14%」 | the road down to Yunxi — the chapter's close |
@@ -33,6 +34,7 @@ from this file.)
 | 「Slots: 2 / 2 / 2」 | the rank-up cluster — the second seat, every list |
 | 「Technique — Basic Body Conditioning: 14%」 | the parked art waking where it slept |
 | 「Soul Ring — Blue Silver Grass: 99 years」 | the ring seated, its years under it like water under ice |
+| 「Skill — The Quickening: 1%」 | the ring's skill seated and named — the same night, the first green apple eaten |
 | 「Technique — Basic Spirit Power Cultivation: 99%」 | the vigil — the last part stood a winter |
 | 「Soul Power Control: 19%」 | the year list — the System counting the letters too |
 | 「Observation: 33%」 | 〃 |
@@ -60,6 +62,8 @@ from this file.)
 | 「Speech: 22%」 | "a line, even, for speech" — everything is more things than he thought |
 | 「Technique — The Still Well Method: 27%」 | the closing cluster — the road, the draft, and the ring: all counting |
 | 「Technique — Basic Body Conditioning: 47%」 | the unworked climb — the infusions (growth, method, ring, bloodline) |
+| 「Skill — The Rest: 68%」 | three years of daily pouring — the most-practiced thing in his life |
+| 「Skill — The Quickening: 36%」 | one apple a night — each skill its own clock |
 | 「Soul Ring — Blue Silver Grass: 124 years」 | 〃 |
 
 **Formats (the grammar):** 「Slots: N / N / N」 · 「Technique — Name: NN%」 ·

@@ -105,8 +105,10 @@ He closed the book, and folded his hands on it.
 
 "The question is never whether," said Headmaster Lin. "It is which."
 
-Outside, the yard was loud with summer, and the engine ran on — the road under him, the draft under the road, the ring in its seat: all counting.
+Outside, the yard was loud with summer, and the engine ran on — the road under him, the draft under the road, the ring in its seat, the two skills in his hands: all counting.
 
 > 「Technique — The Still Well Method: 27%」
 > 「Technique — Basic Body Conditioning: 47%」
 > 「Soul Ring — Blue Silver Grass: 124 years」
+> 「Skill — The Rest: 68%」
+> 「Skill — The Quickening: 36%」

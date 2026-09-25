@@ -18,6 +18,12 @@
   COMPLETENESS (Incantation, Summoning, Senses, Speech on the page) + THE
   DERIVATION DUTY. New: foundation/METERS.md (the master ledger) and
   tools/check_panels.py (the drift guard — in the pipeline).
+- **SC22 — THE FIRST SKILL**: the apple's soul skills were never seated,
+  named, or counted — now law: the spirit's own ability is the FIRST skill
+  (「The Rest」, innate, from Ch 1's first night), every ring seats one more
+  (「The Quickening」, Ch 3), each with its own incantation (*ripe, and
+  given* / *grow, and given*, PROPOSED) and its own pace (68/36 at Ch 4).
+  New: foundation/SKILLS.md; SYSTEM_SPEC §13 (v1.8).
 
 ## v1.0.0 — 2026-09-25
 - **Chapters 1–4 written** (The Awakening Day · The Gate at Yunxi · The

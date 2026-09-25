@@ -57,6 +57,12 @@ One line each; every author word verbatim in RULINGS_LOG.
   meaning of mastered basics; the world's speed-sorted pyramid; the apple's
   value beyond the immortal herbs; the ring bands; stage crossings (identity
   kept, power deepened); the red apple's gains.
+- **SC22:** THE FIRST SKILL — the apple's soul skills were never seated,
+  named, or counted; now law: the spirit's own ability is the FIRST skill
+  (「The Rest」, innate, from Ch 1's first night), every ring seats one more
+  (「The Quickening」, Ch 3), each with its own incantation (*ripe, and
+  given* / *grow, and given*, PROPOSED), each at its own pace (68/36 at
+  Ch 4); foundation/SKILLS.md created.
 - **SC21:** THE LOGIC STRIKE — THE VARIED-PACE LAW (every art different,
   its own pace) + THE INFUSION LAW (everything that grows feeds every open
   meter — the draft 14→29→47 unworked) + THE LIFE-SKILLS COMPLETENESS
@@ -90,6 +96,8 @@ One line each; every author word verbatim in RULINGS_LOG.
   power around the clock.
 - **THE RESONANCE LAW:** slotted things influence each other, across all
   categories — the loadout is one living formation.
+- **THE SKILLS LAW (SC22):** the spirit's own work and every ring's gift —
+  seated, named, metered; the ledger is foundation/SKILLS.md.
 - **THE PACE LAWS (SC21):** every art is its own clock; everything that
   grows feeds every open meter; the life-skills list counts everything —
   and the master ledger (`foundation/METERS.md`) tracks it all.
@@ -139,10 +147,10 @@ yet"** (Lin's held letter to the Hall).
 
 | End of | Level | Method | Body | Ring | Notable |
 |---|---|---|---|---|---|
-| Ch 1 (age 6, awakening day) | — (innate 3) | — | 14% | — | 1/1/1; the apple found |
+| Ch 1 (age 6, awakening day) | — (innate 3) | — | 14% | — | 1/1/1; the apple found; the FIRST SKILL seated — 「The Rest: 1%」 |
 | Ch 2 (age 7, first year) | 7 | 39% | 14% (parked) | — | the economy open; the life-skills list |
-| Ch 3 (age 8, second year) | 15 | 100% → the UPGRADE: Still Well at 1% | 29 (the unworked climb) | 99 → 111 | 2/2/2; the green apple live; first resonance |
-| Ch 4 (age 9, third year) | 20 (at the wall) | 1 → 27%, climbing | 47 (the infusions) | 124 (yellow) | bloodline 11%; the list +4: Incantation, Summoning, Senses, Speech | the crossing seen; the treasure lesson; **the second seat OPEN** |
+| Ch 3 (age 8, second year) | 15 | 100% → the UPGRADE: Still Well at 1% | 29 (the unworked climb) | 99 → 111 | 2/2/2; the green apple live — 「The Quickening: 1%」; first resonance |
+| Ch 4 (age 9, third year) | 20 (at the wall) | 1 → 27%, climbing | 47 (the infusions) | 124 (yellow) | bloodline 11%; the list +4: Incantation, Summoning, Senses, Speech; the skills 68/36 | the crossing seen; the treasure lesson; **the second seat OPEN** |
 
 ## VII. THE FILE MAP (read order)
 

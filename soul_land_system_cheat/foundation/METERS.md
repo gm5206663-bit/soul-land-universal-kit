@@ -22,6 +22,16 @@ chapters so a frozen meter can never survive a turn again.
 |---|---|---|---|
 | Blue Silver Grass | the Aging Law: his strength, the ring's own potential, the bloodline, what the world weighs | 99 → 104 → 111 (yellow at ~104) | 111 → 124 |
 
+## THE SKILLS (SC22 — the spirit's own work and every ring's gift)
+
+| Skill | Its own pace law (what feeds it) | Ch 1 | Ch 2 | Ch 3 | Ch 4 |
+|---|---|---|---|---|---|
+| The Rest (innate — the FIRST skill) | daily pouring, many a day — the most-practiced thing in his life; plus the infusions | 1 | 26 | 52 | 68 |
+| The Quickening (the first ring's skill) | one apple a night, every night — slower, and worth more; deepens as the ring ages | — | — | 1 | 36 |
+
+(Intermediate readings ledger-only — panels stay at key beats. Ledger of
+names, incantations, effects: foundation/SKILLS.md.)
+
 ## THE BLOODLINE (SC20 — the fourth list)
 
 | Line | Its own pace law | Ch 4 |
