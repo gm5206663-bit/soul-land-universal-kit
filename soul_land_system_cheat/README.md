@@ -65,23 +65,29 @@ strikeable and clean to replace.
 ## Read order
 
 1. `foundation/CODEX.md` — **the working bible**: every law, lock, term, and number in one file
-2. `foundation/FOUNDATION.md` — premise, world, arcs, tone
-3. `foundation/PROTAGONIST.md` — the boy, the apple (full design), the System applied
-4. `foundation/SYSTEM_SPEC.md` — the System, complete
-5. `foundation/TIMELINE.md` — his life against canon (the comet and the orchard; actuals through Ch 4)
-6. `foundation/RELATIONSHIPS.md` — the web and WHO KNOWS WHAT (the Ignorance matrix)
-7. `foundation/CANON_STUDY_FOOD_TYPE.md` — the food-type receipts (why the apple works)
-8. `foundation/CANON_GROUND.md` — the 27 checked entries
-9. `foundation/RULINGS_LOG.md` — every author word, verbatim
-10. `foundation/OPEN_RULINGS.md` — what's settled, what awaits the author
-11. `foundation/GLOSSARY.md` · `foundation/ECONOMY.md` · `foundation/PLACES.md` — the continuity cards (words, money, geography)
-12. `foundation/SERIAL_LOG.md` — the turn-by-turn history
-13. `NEXT.md` — **the state pointer**: the tracker, the open items, the next turn
-14. `chapters/` — Chapters 1–4 (author editions, with footers)
-15. `manuscript/` — the same chapters, footer-free, for readers
-16. `tools/` — the style laws, self-enforcing: `style_gate.py` runs on every chapter edit (the CI draft `style_gate_ci_draft.yml` is ready to enable with a workflow-scoped token); `build_site.py` regenerates the reading site
-17. `docs/` — **the reading site** (GitHub Pages): index + chapters, generated from `manuscript/`
-18. `foundation/PANELS.md` — the ledger of every line the readout ever printed
+2. `foundation/FOUNDATION.md` — premise, world, arcs, tone (v3.0, current through SC18)
+3. `foundation/STORY_ARCS.md` — the plan of the whole serial: five arcs, the long fuses
+4. `foundation/CHARACTERS.md` — the cast cards: voice, want, knows, arc
+5. `foundation/PROTAGONIST.md` — the boy, the apple (full design), the System applied
+6. `foundation/SYSTEM_SPEC.md` — the System, complete (v1.4, the ring seats live)
+7. `foundation/TIMELINE.md` — his life against canon (the comet and the orchard; actuals through Ch 4)
+8. `foundation/RELATIONSHIPS.md` — the web and WHO KNOWS WHAT (the Ignorance matrix)
+9. `foundation/GLOSSARY.md` — the serial's words and the world's, plain
+10. `foundation/ECONOMY.md` — the money card: prices, flows, principles
+11. `foundation/PLACES.md` — the small atlas: nine rows, distances as walked
+12. `foundation/CANON_STUDY_FOOD_TYPE.md` — the food-type receipts (why the apple works)
+13. `foundation/CANON_GROUND.md` — the 27 checked entries
+14. `foundation/RULINGS_LOG.md` — every author word, verbatim
+15. `foundation/OPEN_RULINGS.md` — what's settled, what awaits the author
+16. `foundation/PANELS.md` — the ledger of every line the readout ever printed
+17. `foundation/SERIAL_LOG.md` — the turn-by-turn history
+18. `NEXT.md` — **the state pointer**: the tracker, the open items, the next turn
+19. `CHANGELOG.md` — release-facing history
+20. `NOTICE.md` — attribution: Soul Land belongs to Tang Jia San Shuo
+21. `chapters/` — Chapters 1–4 (author editions, with footers)
+22. `manuscript/` — the reader editions (footer-free) + the one-file FULL edition
+23. `tools/` — the pipeline: `style_gate.py` (the style laws, self-enforcing; the CI draft awaits a workflow-scoped token), `build_site.py`, `run_all.py` (one command: manuscript sync → gate → site)
+24. `docs/` — **the reading site** (GitHub Pages): index + chapters, generated from `manuscript/`
 
 ## Laws for this project
 

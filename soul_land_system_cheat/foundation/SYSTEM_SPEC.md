@@ -1,6 +1,6 @@
 # THE SYSTEM — complete design spec
 
-Design stage v1.3 · 2026-09-24 · status: SYSTEM COMPLETE (SC3-R1/R2/R3 locked — one gift held for the author: the System's name)
+Design stage v1.4 · 2026-09-25 · status: SYSTEM COMPLETE (SC3-R1/R2/R3 locked — one gift held for the author: the System's name; §8 added: the ring seats live, SC14–SC18)
 Author spec and session rulings: see `../README.md`. Numbers marked **[DIAL]**
 are proposed defaults — tunable by the author without breaking anything. The
 slot schedule (§3) is settled by the author's word (the unified slot law).
@@ -331,3 +331,33 @@ never praises, never explains, never hurries.
 - **Not a mind** — no intelligence; it cannot explain itself, ever.
 - **Not feedable** — nothing can be given to it directly; influence is
   indirect only (grow the man).
+
+
+## 8. THE RING SEATS, LIVE (SC14–SC18 — the first ring ruled and corrected)
+
+- **The ruled ring (SC14):** a Blue Silver Grass at ~99 years — the ceiling
+  of the white class; plant for a plant, life for a food soul. Seated at
+  the rank-up to Spirit Master (Ch 3); the second seat opens at the wall at
+  twenty (Ch 4 ends on the choice — the author's).
+- **What a seated ring does (the full gains, CANON_GROUND 17):** the skill,
+  immediate and usable in the absorption hour, its use known with it, its
+  own silent words for a food-type; the gate broken; the beast's own
+  cultivating poured into the well; the soul's own nature raised BY THE
+  RING'S YEARS (year for year); the beast's properties taken (the grass's
+  resilience — the keeping apple); vitality and constitution fed; and every
+  gain deepening as the seat ages the ring.
+- **The seat's pacing (current readings, NOTHING FIXED):** 99 at the taking
+  → 111 by the school year's end → 124 a year later — organic, set by the
+  Aging Law's four factors (the user's strength, the ring's potential, the
+  bloodline, what the world weighs). The crossing of a band (white →
+  yellow, seen in Ch 4) steps the arithmetic an order; the skill keeps its
+  identity forever, deepening only (SC2-R5).
+- **The canon kinship (SC18):** aged rings exist in canon — god trials,
+  the Sumeru re-forging, origin energy, the Ascension Platform — and
+  canon's own law (Huo Yuhao's finding) is that the true limit of ring age
+  is the master's own spiritual power: the author's SC3 law stated by canon
+  ten thousand years later. The System's seats are this family's cleanest
+  mechanism: no gods, no seals — just the seat and the user's pace.
+- **The slots' arithmetic:** ring slots follow the unified slot law (1/1/1
+  → +1 per rank-up); one ring, one seat; the loadout resonates across all
+  categories (the mill-stones of Ch 3).

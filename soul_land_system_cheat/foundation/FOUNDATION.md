@@ -1,143 +1,97 @@
-# FOUNDATION — The System Cheat (v2.0 COMPLETE, 2026-09-24)
+# FOUNDATION — The System Cheat (v3.0 COMPLETE, 2026-09-25)
 
-Built from the author's rulings SC1–SC2R4 (see `RULINGS_LOG.md`). Everything
-here is either **LOCKED** (author's word) or **PROPOSED** (agent default,
-author may strike any of it).
+Built from the author's rulings SC1–SC18 and the written chapters 1–4
+(`RULINGS_LOG.md` holds every word verbatim). Everything here is either
+**LOCKED** (the author's word) or **PROPOSED** (agent default; the author
+strikes freely). The one-file digest of all law: `CODEX.md`.
 
-## THE PREMISE (one line)
+## THE PREMISE
 
-A fruit-farming village's only spirit child — an Earth soul **reborn from
-the first breath**, six years old, an old patience in a small body — awakens
-an **apple**: a top-class food-type tool soul the world will underestimate
-for twenty years. With the awakening, a silent **System** wakes in him:
-slots that train, age, and compound while he sleeps. Sent on to the town's
-junior spirit academy like every spirit child on the continent, this is the
-story of the slowest godhood in the Douluo Continent, grown like an
-orchard.
+**A reincarnated farmer's son wakes an apple in a world that measures
+everyone by speed — and behind his eyes, something quietly counts.**
 
-## LOCKED BY THE AUTHOR
+Su Ping, Fruit Creek's only spirit child: average innate (three), a
+food-type tool soul, and — woken the night of the awakening — a silent
+System whose slots train while he sleeps. The thesis: **Tang San is the
+comet; Su Ping is the orchard.** Behind the monsters at every age, passing
+everyone in the long game the comet leaves behind — because his advantage
+is the one thing the world cannot buy: a spring, not lightning.
 
-- The cheat: the System (not a martial soul) — slots by category; real-time
-  gains; user's best speed; stage upgrades at 100%; rings age; bones age.
-- The unified slot law (verbatim: "slots number's always same in every list
-  not different") — one number, every list: 1/1/1 at Scholar, +1 to all
-  lists per rank-up, 6/6/6 at Spirit King, 10/10/10 at Titled Douluo.
-- The holder: **Su Ping (苏平)** — the author's pick; quiet peace, the apple
-  hidden in the pun. Average innate spirit power, village-born.
-- **The Rebirth Ruling** (verbatim: "He reborn from start, system awaken
-  after martial soul awakening") — the Earth soul in the body from the first
-  breath; no second soul, no ghost. The System wakes AFTER the martial soul
-  awakening (the apple's manifestation is its trigger).
-- The martial soul: **an apple** (verbatim: "A apple as martial soul") —
-  food-type tool spirit, designed on canon receipts (Oscar's sausage
-  precedent, the Food God ceiling; receipts in CANON_STUDY_FOOD_TYPE.md).
-- The era: **Soul Land 1** — Tang San's generation as background.
-- Canon proximity: **light cameos** — his own path, own academies; canon cast
-  in the world's background; paths may cross once or twice, fate not
-  entangled.
-- Page 1: **the awakening day, age six** — and the story goes to the
-  academy: **"He join academy of course"** — the junior academy soon after
-  the awakening (the continental custom; Tang San himself entered Nuoding at
-  six). No six-year village grind.
-- The Panel law: **printed System panels at key beats only** (the awakening
-  readout, slot choices, rank-ups, 100% completions, aging thresholds);
-  prose between beats.
-- The System is **silent** — a readout, not a personality. **Its name is
-  the author's gift** ("I give system a name") — held open for his word.
-- The village truth: "Even having soul' power is big thing for a village."
-- The Incantation law: the apple's chant is **spoken in his mind, never
-  shouted** ("He doesn't shout, he said in mind").
-- The First cultivar: the first ring's apple **increases cultivation speed**
-  ("Coultivation speed increasing one") — the snowball engine.
-- The Mechanics law (confirmed): slots age STORED rings/bones only
-  (fused-aging = rank-91 capstone); bones age like rings; aging deepens
-  potency, never changes skill identity; lost techniques slottable if
-  learned enough; god-level ruled when the story reaches it.
-- The Progression law: **no fixed stage ladder** ("Complete not you
-  thinking, it's natural what logically not fixed, it's according to World")
-  — the world itself decides each art's next stage.
-- The places: **Fruit Creek (果溪)** village · **Yunxi Town (云溪)** ·
-  **Yunxi Junior Spirit Academy**.
+## THE WORLD (checked; receipts in CANON_GROUND 18–27)
 
-## THE WORLD
+The Douluo continent, Soul Land 1's era: two empires under the Spirit Hall;
+sects, academies, villages; the title ladder 1–100 with a ring at every
+tenth level; the whole pyramid sorted by one currency — cultivation speed.
+Most souls wake zero. A ringed master is a town's notable. Titled Douluo
+are a handful alive. God is once an era. **Everything past SL1 is
+design-doc knowledge only** (the Future-Knowledge Law): no mouth in this
+era holds the orange bands, the soul tools, the gods to come.
 
-**Era:** SL1 canon era — Heaven Dou Empire, the continent as Tang Jia San
-Shao wrote it. Spirit Hall rising, academies, sects, the Shrek generation
-being born in cities far away. Canon events happen; he watches most of them
-from far off, if at all.
+## THE SOUL AND THE SYSTEM (LOCKED)
 
-**The village (PROPOSED):** **Fruit Creek (果溪, Guo Xi)** — an orchard and
-terrace-farming village in the Nuoding countryside's hill country, a long
-cart-day from the city. Fruit Creek grows plums, pears, walnuts — and one
-orchard of apples no one buys. Its spirit children are born once a
-generation, if that. When one awakens — any soul, any power — the whole
-village stops work for the day.
+- **The apple**: food-type tool spirit, support-only. The red apple restores
+  stamina and fights fatigue (works on anyone; costs soul power; the chant
+  spoken in his mind). Each ring grows a new cultivar. Ring one — the
+  cultivation-speed apple, the green fruit, live from the absorption hour,
+  **never sold** (the closed hand).
+- **The System**: not a martial soul. Silent — a readout, not a
+  personality; it can never explain itself. Slots 1/1/1 → +1 per rank-up →
+  10/10/10 at Titled, one number for every list. Techniques train 24/7 at
+  his best speed; rings age in their seats (organic, no ceiling, never
+  changing identity); seeing once is enough to slot; slotted things
+  resonate. Free. No shop, no quests, no intelligence. Its **name is the
+  author's gift, still awaited**.
+- **The ring (taken, SC14)**: a Blue Silver Grass at ninety-nine years —
+  the ceiling of the white class, plant for a plant, life for a food soul.
+  In its seat it has crossed to yellow (124 and climbing): the aging law
+  made visible, the serial's deepest secret after the System itself.
 
-**The family (PROPOSED):** the Su family — fruit farmers for four
-generations; father strong-backed and quiet, mother the village's midwife.
-The apple soul answers the village's own life: they grow fruit; the
-continent's one fruit-growing spirit child is theirs.
+## THE SERIAL'S SPINE (three engines, one fuse)
 
-**The town (LOCKED):** **Yunxi (云溪, cloud-creek)** — a market town in the
-Nuoding countryside's hill country, where the fruit carts go down to. Its
-**Yunxi Junior Spirit Academy** is the nearest spirit school: small, plain,
-honest — where a village's only spirit child is sent at six, like every
-spirit child on the continent. (Not Nuoding itself — the light-cameo
-distance is kept.)
+1. **The economy** — the red apple sold from the first weeks (Lin's
+   sanction, the porters' street name, Wen Bo's one-in-ten): money become
+   land, land become trees, a village's fortunes turned by a fruit. The
+   honest engine, visible to everyone.
+2. **The mastery** — the meters, the walls, the sanding: 100% as the rare
+   inward event; the named method as its payoff. The Still Well Method runs
+   purer than any crystal can weigh. The hidden engine, visible to no one.
+3. **The snowball** — well → fruit → engine → well: the green apple lifting
+   his own best, the ring deepening in its seat, the body built first. The
+   compounding engine, visible only in the levels, and the levels have a
+   cover story ("I sit still well").
+4. **The fuse** — the closed hand. The world's treasures buy ranks, once;
+   his fruit sells speed, forever. The day the world learns what the green
+   apple is, the world comes for it — politely at first, with the Hall's
+   seal on the politeness. The long arc's promise.
 
-## THE POWER STACK (how the three systems interlock)
+## THE ARCS (detail in STORY_ARCS.md)
 
-1. **The apple (soul):** support-class food-type. It heals, restores, buffs
-   — it never itself strikes. (Full design: `PROTAGONIST.md`.)
-2. **The System (cheat):** turns his TIME into compound interest — technique
-   mastery 24/7, rings aging in slots, bones aging in slots. It never adds
-   power he did not earn a channel for.
-3. **Canon cultivation (floor):** spirit power rank by rank, ring by ring,
-   the nine-ring ladder to Titled Douluo and beyond. The System accelerates
-   only through canon's own channels.
+1. **The Awakening Day** — written (Ch 1).
+2. **Yunxi Junior Academy** — written through Ch 4; the second seat OPEN.
+3. **The Wide World** — the advanced years; the seed law; the cameo.
+4. **The Attrition Years** — the war as weather; the support master's war.
+5. **The Orchard** — the world after canon; the climb to Titled; the
+   Golden Apple question.
 
-The fight identity (PROPOSED): the System makes him a **swordsman of
-compounding skill** (his technique slots), the apple makes him **the man who
-never runs dry** (stamina, soul power, healing) — and the long game is the
-orchard. Support souls win attrition wars; a support soul with infinite
-training time is a siege engine wearing a boy.
+## THE TONE
 
-## THE ARCS (PROPOSED — five-season shape, restructured SC2-R4)
+Plain speech (the Plain-Speech Law): professionals explain plainly, in Soul
+Land's own terms; no invented metaphors, no false ignorance. Cold quiet
+panels at key beats only; the digits live in the panels. Numbers in prose
+carried freely. Chapter band 2,400–3,400 words; no sentence over 60; the
+"the way [clause]" simile banned. The serial's own terms — the well, the
+engine, the orchard, the draft, the closed hand — are in `GLOSSARY.md`.
 
-1. **THE AWAKENING — FRUIT CREEK (age 6).** The ceremony; the apple; the
-   headman's line; the System waking after, in the dark; the first readout
-   (1/1/1); the first slot choice; the village's decision — and the road to
-   the town. *(The apple's true nature stays quiet here.)*
-2. **THE JUNIOR ACADEMY — YUNXI (6–12).** Six years a boarding spirit
-   child at Yunxi Junior Spirit Academy: first ring at rank 10 — **the
-   cultivation-speed cultivar** (the snowball begins), classmates, first
-   team, the mockery-to-indispensable turn begun; the System compounding
-   quietly under everything. The slot count climbs with his ranks (2/2/2 at
-   Spirit Master, 3/3/3 at Grandmaster).
-3. **THE WIDE WORLD (12–20).** The advanced academy, tournaments, the
-   continent's notice. Light-cameo era: one crossing of paths with canon's
-   spine, no entanglement.
-4. **THE ATTRITION YEARS (20–30).** The wars of the continent in the
-   background; his ring slots aging; the orchard's first tree. What a
-   support master is worth, proven at scale.
-5. **THE ORCHARD (30+).** The climb to Titled Douluo; the Golden Apple
-   question; the endgame the food-type line points at (canon's Food God
-   precedent).
+## THE STATE (2026-09-25)
 
-## THE TONE (PROPOSED)
+Chapters 1–4 written (author editions in `chapters/`, readers in
+`manuscript/`, the site live). Su Ping: nine years old, level twenty and
+sitting at the second wall, the Still Well Method held at 100%, the ring at
+124 and yellow, three slots coming with the second ring. **OPEN, the
+author's own hand: the second beast; the System's name; the deferred
+trims.** The next turn's default: Chapter 5, the second hunt.
 
-Carried over from the author's style law (the DD strikes are author-wide in
-spirit, not DD-only): canon voice — the narrator explains plainly, feelings
-named, world-rules in one plain line; scenes open in motion; real scenes, no
-montage. The System is written as a quiet readout: **no voice, no praise —
-just numbers going up in the dark.** Printed panels appear at the key beats
-only (the Panel law, SC2-R4): the awakening readout, slot choices, rank-ups,
-100% completions, aging thresholds — between beats, the prose carries it.
+## READ NEXT
 
-## STATUS: FOUNDATION COMPLETE (v2.0)
-
-Everything structural is ruled. Held for the author's own hand: **the
-System's name** ("I give system a name"). Held for drafting: the chant's
-exact words, the first beast's identity, page-1 details. The full settled
-ledger stands in `OPEN_RULINGS.md`. Next step: **Chapter 1 — the awakening
-day.**
+`CODEX.md` (the bible) → `STORY_ARCS.md` (the plan) → `CHARACTERS.md`
+(the cast) → `RELATIONSHIPS.md` (who knows what) → `NEXT.md` (the pointer).

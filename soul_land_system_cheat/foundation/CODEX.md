@@ -127,20 +127,22 @@ yet"** (Lin's held letter to the Hall).
 
 1. `README.md` — status and the author's spec
 2. `foundation/CODEX.md` — this file
-3. `foundation/PROTAGONIST.md` — the boy, the apple, the System applied
-4. `foundation/SYSTEM_SPEC.md` — the System, complete
-5. `foundation/TIMELINE.md` — the comet and the orchard
-6. `foundation/RELATIONSHIPS.md` — the web; WHO KNOWS WHAT
-7. `foundation/CANON_GROUND.md` — the 27 checked entries
-8. `foundation/CANON_STUDY_FOOD_TYPE.md` — the food-type receipts
-9. `foundation/RULINGS_LOG.md` — every author word, verbatim
-10. `foundation/OPEN_RULINGS.md` — settled / open / author-gated
-11. `foundation/SERIAL_LOG.md` — the turn-by-turn history
-12. `chapters/` — Chapters 1–4
-13. `manuscript/` — the reader editions (footer-free)
-14. `foundation/PANELS.md` — the panel ledger; `foundation/GLOSSARY.md` / `ECONOMY.md` / `PLACES.md` — the continuity cards
-15. `tools/` + `docs/` — the style gate, the site generator, and the reading site
-16. `NEXT.md` — the state pointer, read first every turn
+3. `foundation/FOUNDATION.md` — premise, world, arcs, tone (v3.0)
+4. `foundation/STORY_ARCS.md` — the five arcs and the long fuses
+5. `foundation/CHARACTERS.md` — the cast cards
+6. `foundation/PROTAGONIST.md` — the boy, the apple, the System applied
+7. `foundation/SYSTEM_SPEC.md` — the System, complete (v1.4, §8 the ring seats)
+8. `foundation/TIMELINE.md` — the comet and the orchard (actuals through Ch 4)
+9. `foundation/RELATIONSHIPS.md` — the web; WHO KNOWS WHAT
+10. `foundation/GLOSSARY.md` / `ECONOMY.md` / `PLACES.md` — the continuity cards
+11. `foundation/CANON_STUDY_FOOD_TYPE.md` — the food-type receipts
+12. `foundation/CANON_GROUND.md` — the 27 checked entries
+13. `foundation/RULINGS_LOG.md` — every author word, verbatim
+14. `foundation/OPEN_RULINGS.md` — settled / open / author-gated
+15. `foundation/PANELS.md` — the panel ledger
+16. `foundation/SERIAL_LOG.md` — the turn-by-turn history
+17. `NEXT.md` — the state pointer; `CHANGELOG.md`; `NOTICE.md`
+18. `chapters/` + `manuscript/` + `tools/` + `docs/` — the author editions, the reader editions, the pipeline, the site
 
 ## VIII. THE PROTOCOL (how a turn runs)
 
