@@ -101,6 +101,13 @@ theory, languages, anything that is a skill or a method.
   come with time itself. (He must still LEARN a method first — the
   learned-once rule; and his capacity, bottlenecks, and breakthroughs
   remain canon's own.)
+- **THE LIFE-SKILLS LAW (SC13):** the list holds everything a life
+  teaches — soul power control, observation, walking and running, reading,
+  body control, and the rest — not merely formal techniques. Unslotted,
+  they increase normally through living (living is their only engine);
+  slotted, they take the engine like anything else. And they resonate:
+  each leans on the others and on every art (the watching feeds the
+  learning, the letters feed the books, the control feeds the cost).
 - **THE NAMED-METHOD LAW (SC12, verbatim: "after besic this besic method
   become named method, that was perfectly bulit for him... system give
   upgrade was for him perfectly, like he created himself that"):** when a

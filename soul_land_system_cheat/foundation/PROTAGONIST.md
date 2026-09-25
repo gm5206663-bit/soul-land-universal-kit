@@ -123,6 +123,8 @@ exactly what the System is for.
   24 hours a day. The ranks come with time itself; the quiet boy advances
   without anyone seeing him try.
 - **The named-method prize (SC12):** when the basic method completes at 100%, it will not become "the advanced method" — it becomes a NAMED method, his own, perfectly built for him, as if he created it himself. The one-slot sacrifice and the finished-basic resolve now aim at a concrete prize: the first art on the continent that is HIS.
+- **The apple economy (SC13):** he sells from the first weeks at the academy — the base apple works on anyone; the only cost is soul power, refilled by the method hour; "a food soul master, not a joke." Wen Bo the partner (one apple in ten); Lin's sanction ("price like one"); the New Year purse home. The economy funds his own fees and Fruit Creek's — from month one.
+- **The life skills (SC13):** soul power control, observation, walking and running, reading, body control — real list entries, growing on living alone, influencing everything: "One slot, and under it a hundred small engines, all of them running on plain life."
 - **The headwind cut (SC11):** food-types cultivate slowest — the body is the draft on the furnace and theirs run thin; his does not. The soil built first (farm childhood, yard work, the ticking meter) cut the one disadvantage of his class before it ever touched him.
 - **The Resonance (SC3-R2; scope ALL categories, SC3-R3):** arts that
   inform each other in the world inform each other in the System —
