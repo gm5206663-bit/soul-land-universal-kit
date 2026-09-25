@@ -232,15 +232,18 @@ Notes:
 3. What the System sells is **perfect consistency**, not talent: 24/7 at
    best-speed — never tired, never sick, never sloppy, no off-days, no
    plateaus from bad practice.
-4. **THE ENGINE ARITHMETIC (SC10 — the author's own numbers, replacing
-   every invented scale):** a normal cultivator trains 3–5 hours a day.
-   The engine runs twenty-four, at his best — mastery and time both
-   multiplied. Months of school = ordinary YEARS of cultivation (five
-   months ≈ an ordinary person's year; the ratio improves as he grows).
-   Early levels climb easiest (canon's own curve), so the first terms show
-   it hardest — two levels in five months at the start — and the walls slow
-   it later as they slow everyone. Level pacing is honest to this
-   arithmetic forever.
+4. **THE ENGINE ARITHMETIC (SC10 + SC11 — the author's own numbers,
+   replacing every invented scale):** a normal cultivator trains 3–5 hours
+   a day. The engine runs twenty-four, at his best — mastery and time both
+   multiplied. **One month of the engine = an ordinary person's year**
+   (SC11's sharpening); five months = five ordinary years. Early levels
+   climb easiest (canon's own curve), so the first term shows it hardest —
+   level 3 → 7, four levels in five months — and the walls slow it later
+   as they slow everyone. Level pacing is honest to this arithmetic
+   forever. And per the Body-Draft Law (SC11, CANON_GROUND 10): food-types
+   cultivate slowest of all classes — the body is the draft on the furnace
+   and theirs run thin — but his system-built body cuts that headwind
+   entirely.
 
 ## 5. THE INTERFACE (LOCKED: silent; minimal lines — SC2-R4/R5 + SC3-R1)
 
