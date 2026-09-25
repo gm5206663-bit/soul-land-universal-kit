@@ -49,7 +49,7 @@
 |---|---|
 | The chant's exact words | Arc 1 (Chapter 1) |
 | Page-1 details (the ceremony's cast, the day's shape) | Arc 1 |
-| The first beast (whose ring shapes the cultivation-speed cultivar) | Arc 2 |
+| The first beast | **SETTLED (SC14): a Blue Silver Grass at ~99 years** — the white-class peak, plant-for-plant, life-for-food; the cultivar it shapes is the cultivation-speed apple |
 | The first team, the first rivals | Arc 2 |
 | Later cultivars (recovery, cleansing, body, flight, the golden line) | Arc by arc |
 | Future System categories (S13) | Author's word only, ever |

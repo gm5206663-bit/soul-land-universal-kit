@@ -62,15 +62,25 @@ in the endgame the Food God's inheritance).
   time.
 
 **The ring law (canon, held):** each ring absorbed shapes a NEW apple
-cultivar — the soul beast he takes determines the effect family. **THE FIRST
-CULTIVAR IS LOCKED (SC2-R5, verbatim: "Coultivation speed increasing one"):
-the first ring's apple INCREASES CULTIVATION SPEED** — eaten, it quickens
-the eater's cultivation for a time. For him it stacks with the System: the
-snowball engine of the whole story (cultivation speed × compounding time).
-For anyone else it is a treasure kings would pay for — the story's economic
-engine and its danger. *(The beast that shapes it, and the exact mechanics,
-are Arc 2 design. Later cultivars — recovery, cleansing, body-strengthening,
-flight-feather, the golden line — chosen arc by arc.)* Ring
+cultivar — the soul beast he takes determines the effect family.
+
+**THE FIRST RING + CULTIVAR (RULED, SC14 + SC2-R5):** the beast is a **Blue
+Silver Grass at ~99 years — the peak of the ten-year class** ("the best for
+him, how much it can"). Plant for a plant; life attribute for a food soul;
+the humblest grass on the continent for the humblest fruit — and the
+overlooked maximum: whites run 10–99, "soul masters with the means would not
+choose" them, so the strongest white waits unclaimed at the class ceiling.
+The ring gives what rings give (the skill, the bottleneck broken, the power
+boost, the body fed), and the cultivar it shapes is the one the author ruled
+in SC2-R5: **the cultivation-speed apple** — the grass's "most prosperous
+life energy among plant-types," expressed through a food soul: a fruit that
+quickens the eater's cultivation for a time. For him it stacks with the
+engine (the snowball's true start). For anyone else it is a treasure kings
+would queue for — the economic engine and the danger. And the long game
+under the aging law: a 99-year grass ring, aged for decades by the engine —
+the Blue Silver King line (10,000 years) and beyond. Later cultivars —
+recovery, cleansing, body-strengthening, flight-feather, the golden line —
+chosen arc by arc. Ring
 **age** deepens potency, duration, and output per soul-power cost — which is
 where the System's ring slots turn a food-type soul into a siege engine:
 a hundred-year recovery apple heals; a ten-thousand-year one raises the
