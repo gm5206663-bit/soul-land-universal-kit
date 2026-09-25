@@ -85,7 +85,15 @@ gone to young-straw yellow. THE CULTIVAR IS LIVE from the absorption hour (SC15)
 apple arrives awake, its use known with it, its own silent words come with it
 — eaten, it quickens cultivation, and for him it lifts the engine's best (the
 snowball started: well → fruit → engine → well). Not sold — the closed hand;
-the green apple's market is a later arc's question.)* Later cultivars —
+the green apple's market is a later arc's question. AND THE FULL GAINS (SC16)
+in the same hour: the ring is the grass's own cultivating poured into his
+well; the apple's own nature raised BY THE RING'S YEARS — the red apple
+transformed, its restorative nature deepened ~99 years' worth (same locked
+effect family: stamina and fatigue; no new effect types — those come ring by
+ring as the author rules), the fruit keeping a day and a night now (the
+resilience of the most resilient plant — PROPOSED); vitality and constitution
+fed under the draft; and every one of these gains deepening as the System
+ages the ring (99 → 111 by the school year's end, climbing).* Later cultivars —
 recovery, cleansing, body-strengthening, flight-feather, the golden line —
 chosen arc by arc. Ring
 **age** deepens potency, duration, and output per soul-power cost — which is
