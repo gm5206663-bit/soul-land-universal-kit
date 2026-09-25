@@ -51,6 +51,7 @@
 | The chant's exact words | Arc 1 (Chapter 1) |
 | Page-1 details (the ceremony's cast, the day's shape) | Arc 1 |
 | The first beast | **SETTLED (SC14): a Blue Silver Grass at ~99 years** — the white-class peak, plant-for-plant, life-for-food; the cultivar it shapes is the cultivation-speed apple |
+| **The second beast (ring two)** | **OPEN — Chapter 4 ends on the question** ("The question is never whether. It is which."). The second seat: under 764 years by the Hall's rule of thumb; the true limit the body, the soul, the spirit; the east-of-the-river licensed stands on the page. The author rules it, as he ruled the first (SC14). |
 | The first team, the first rivals | Arc 2 |
 | Later cultivars (recovery, cleansing, body, flight, the golden line) | Arc by arc |
 | Future System categories (S13) | Author's word only, ever |

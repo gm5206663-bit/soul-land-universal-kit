@@ -3,7 +3,7 @@
 A Soul Land fanfiction serial built around a reborn transmigrator, an apple,
 and a silent System with slots that train while he sleeps.
 
-**Status: CHAPTERS 1–3 WRITTEN (2026-09-24/25).**
+**Status: CHAPTERS 1–4 WRITTEN (2026-09-24/25).**
 Foundation complete and ruled end to end. **Chapter 1 — The Awakening Day**
 (the ceremony, the apple, the System waking in the dark, the first slot; five
 author strikes made law), **Chapter 2 — The Gate at Yunxi** (the academy,
@@ -13,7 +13,11 @@ Ring** (the wall at ten; the hunt for the ruled 99-year Blue Silver Grass;
 the ring's FULL gains — the cultivation-speed cultivar LIVE from the first
 night, the snowball started; the soul's own nature raised by the ring's
 years, the red apple transformed; the first resonance; the method carried to
-100% and becoming the named method) are in `chapters/`. One gift is held open for
+100% and becoming the named method), and **Chapter 4 — The Still Well**
+(the purer water; the ring crossing to yellow before the yard's eyes and
+Lin's protection; the treasure lesson and the closed hand; Ma Fei's first
+ring; the wall at twenty at nine — ending on the second-ring question, the
+author's to rule) are in `chapters/`. One gift is held open for
 the author's own hand: **the System's name** ("I give system a name"). The
 completed method's name — The Still Well Method — is PROPOSED in Chapter 3,
 strikeable and clean to replace.

@@ -93,7 +93,13 @@ effect family: stamina and fatigue; no new effect types — those come ring by
 ring as the author rules), the fruit keeping a day and a night now (the
 resilience of the most resilient plant — PROPOSED); vitality and constitution
 fed under the draft; and every one of these gains deepening as the System
-ages the ring (99 → 111 by the school year's end, climbing).
+ages the ring (99 → 111 by the school year's end, climbing; 124 by the end of
+the third school year — and the crossing was PUBLIC: the ring went
+young-straw yellow in its seat before the yard's eyes, "Rings do not age,"
+said Lin, and chose silence and protection — no more public displays of the
+soul; the Hall must not see it. The intermediate method's first page was
+shown to the wall-class and held by the Acquisition law — seen, filed,
+SEATLESS until the third slot comes with ring two).
 
 **THE VALUE OF WHAT HE HOLDS (SC17, author-facing):** the green apple is
 beyond every treasure canon shows — the immortal herbs that raise five or ten
