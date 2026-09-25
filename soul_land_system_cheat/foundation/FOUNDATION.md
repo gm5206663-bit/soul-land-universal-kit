@@ -86,8 +86,10 @@ engine, the orchard, the draft, the closed hand — are in `GLOSSARY.md`.
 
 Chapters 1–4 written (author editions in `chapters/`, readers in
 `manuscript/`, the site live). Su Ping: nine years old, level twenty and
-sitting at the second wall, the Still Well Method held at 100%, the ring at
-124 and yellow, three slots coming with the second ring. **OPEN, the
+sitting at the second wall, the Still Well Method twenty-seven parts into
+its next stage (the upgrade fired the moment the basic touched 100% — SC19;
+a gate, not a finish line), the ring at 124 and yellow, three slots coming
+with the second ring. **OPEN, the
 author's own hand: the second beast; the System's name; the deferred
 trims.** The next turn's default: Chapter 5, the second hunt.
 

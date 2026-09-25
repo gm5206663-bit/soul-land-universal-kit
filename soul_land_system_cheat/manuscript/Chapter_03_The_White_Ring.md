@@ -187,8 +187,12 @@ He sat very still and watched the panel.
 
 The line did not close, and it did not fade. It changed. The old words — Basic Spirit Power Cultivation, the Hall's name for it, the school's name, the whole continent's name for the first road — were simply not there anymore, and other words stood in their place, quiet and plain, as a man's own name stands in a ledger after a lifetime of being somebody's son.
 
-> 「Technique — The Still Well Method: 100%」
+> 「Technique — The Still Well Method: 1%」
 
 The Still Well Method. He said it once, in his mind, where the words lived, and it fit as the breath had fit — exactly, because it was his. He had not chosen it. He had only sat still, and sat still, and sat still, and somewhere in the ten thousandth turn the choosing had quietly been done for him out of everything he was. The headmaster's stories were true, then, and had not gone far enough: the road gives a finished man back a method with his own name in it — and the name is not a reward. It is a description.
 
-He was seven years old, and he had finished a thing almost nobody finishes, and the finishing had a name, and the name was his. In the dark the engine ran on — two fields and an orchard now — and the water, still and deep, climbed on toward whatever came next.
+And the meter had begun again. One part in a hundred — and the one part was the hundred he had already earned. The finished basic was the first step of the larger road, stood on and paid for, and the System had counted it so, because the System measured what existed. What existed now was a man standing at the beginning of a road with the whole of another road in his legs.
+
+The engine, which had never once stopped, ran on into the new country at the same even pace, and the new road's first hour was deeper than the old road's last.
+
+He was seven years old, and he had finished a thing almost nobody finishes, and the finishing had not closed anything. It had opened. The big thing in himself was a gate, and it stood wide, and the water, still and deep, climbed on.

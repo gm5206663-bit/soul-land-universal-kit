@@ -57,6 +57,10 @@ One line each; every author word verbatim in RULINGS_LOG.
   meaning of mastered basics; the world's speed-sorted pyramid; the apple's
   value beyond the immortal herbs; the ring bands; stage crossings (identity
   kept, power deepened); the red apple's gains.
+- **SC19:** THE UPGRADE LAW — the moment a meter touches 100%, the
+  technique upgrades to its next stage, immediately, in place; the named
+  method IS the next stage; the new meter opens honestly and the engine
+  runs on. **100% is a gate, not a finish line.**
 - **SC18:** THE WHOLE-UNIVERSE STRIKE — ground 25–27: the complete ring
   taxonomy (orange 200,000+ included); age ascension (canon's own aged
   rings; the true limit is the master's spiritual power); the SL1–SL5 map —
@@ -68,7 +72,7 @@ One line each; every author word verbatim in RULINGS_LOG.
   ever explain itself. No shop, no quests, no points, no intelligence.
 - **Slots:** 1/1/1 at Scholar → +1 per rank-up → 10/10/10 at Titled — one
   number, every list (techniques, rings, bones, and the categories to come).
-- Slotted techniques train **24/7 at his best speed**; progress always kept;
+- Slotted techniques train **24/7 at his best speed**; progress always kept; **at 100% a technique upgrades to its next stage in the same breath** (SC19 — never a resting state);
   free switching; stages upgrade at 100%.
 - **THE ACQUISITION LAW:** seeing once is enough — witnessed arts become
   slottable; every art still opens at its true current mastery.
@@ -120,8 +124,8 @@ yet"** (Lin's held letter to the Hall).
 |---|---|---|---|---|---|
 | Ch 1 (age 6, awakening day) | — (innate 3) | — | 14% | — | 1/1/1; the apple found |
 | Ch 2 (age 7, first year) | 7 | 39% | 14% (parked) | — | the economy open; the life-skills list |
-| Ch 3 (age 8, second year) | 15 | 100% → The Still Well Method | awake, climbing | 99 → 111 | 2/2/2; the green apple live; first resonance |
-| Ch 4 (age 9, third year) | 20 (at the wall) | 100% held | climbing | 124 (yellow) | the crossing seen; the treasure lesson; **the second seat OPEN** |
+| Ch 3 (age 8, second year) | 15 | 100% → the UPGRADE: Still Well at 1% | awake, climbing | 99 → 111 | 2/2/2; the green apple live; first resonance |
+| Ch 4 (age 9, third year) | 20 (at the wall) | 1 → 27%, climbing | climbing | 124 (yellow) | the crossing seen; the treasure lesson; **the second seat OPEN** |
 
 ## VII. THE FILE MAP (read order)
 

@@ -41,19 +41,20 @@ from this file.)
 | 「Walking and Running: 28%」 | 〃 |
 | 「Writing: 8%」 | the grown line — counted from four crooked characters |
 | 「Technique — Basic Spirit Power Cultivation: 100%」 | the number, held one breath |
-| 「Technique — The Still Well Method: 100%」 | THE NAMED METHOD — the line changes; the name is a description |
+| 「Technique — The Still Well Method: 1%」 | THE UPGRADE — the named NEXT STAGE opens; the name is a description; the meter begun again |
 
 ## Chapter 4 — The Still Well (age 9)
 | Panel | Beat |
 |---|---|
-| 「Technique — The Still Well Method: 100%」 | the held line, all summer — finished does not move |
+| 「Technique — The Still Well Method: 9%」 | the begun-again meter — the upgrade was not an ending; 9 by the first frost |
 | 「Soul Power Control: 28%」 | the year list — six lines, all grown on living |
 | 「Observation: 40%」 | 〃 |
 | 「Reading: 24%」 | 〃 |
 | 「Writing: 15%」 | 〃 |
 | 「Body Control: 31%」 | 〃 |
 | 「Walking and Running: 35%」 | 〃 |
-| 「Soul Ring — Blue Silver Grass: 124 years」 | the ring counting on — the chapter's last line |
+| 「Technique — The Still Well Method: 27%」 | the closing cluster — the road and the ring, both counting |
+| 「Soul Ring — Blue Silver Grass: 124 years」 | 〃 |
 
 **Formats (the grammar):** 「Slots: N / N / N」 · 「Technique — Name: NN%」 ·
 「Soul Ring — Beast: N years」 · 「Skill — Name: NN%」 (the life-skills lines).

@@ -2,15 +2,15 @@
 
 Morning came, and the world was the same world, and the water in him ran cleaner.
 
-That was the whole of it, and it took him a week to trust it. The Still Well Method was not faster than the road before it. It was deeper. The same hour of sitting drew more water, and drew it cleaner, and lost less of it on the way up, and no panel announced any of that, because there was nothing to count. The crystal in the headmaster's office counted levels. It could not weigh.
+That was the whole of it, and it took him a week to trust it. The Still Well Method was not faster than the road before it. It was deeper. The new road's first parts, barely begun, drew more water than the finished basic ever had, and drew it cleaner, and lost less of it on the way up — the next country begins where the last one ends, and his was cut to his measure. The crystal in the headmaster's office counted levels. It could not weigh.
 
 But the costs knew. An apple poured cheaper than it had in the autumn, the same rest in it for less of the well. The method hour ended with the well fuller behind it than the hour before. He had spent a year learning that a method has seams, and where every seam had been, there was now just water, going down and coming up, and the seams were what the missing parts had turned out to be for.
 
-The panel said one thing all summer, and said it at dawn, and said it in the dark.
+And the meter that had finished was moving again — the upgrade had not been an ending. The panel climbed all summer, and said so at dawn, and said so in the dark. The new road gave up its parts slower than the basic ever had, and every part was worth more, and by the first frost the line stood at nine.
 
-> 「Technique — The Still Well Method: 100%」
+> 「Technique — The Still Well Method: 9%」
 
-The meters that still moved were the ring's, quietly, and the lists', on plain life, and the level, which was not the system's number and had never been. Sixteen by the first frost. Eighteen at New Year, read in private, kept off every list. Nineteen by the thaw. Twenty between the spring planting and the first mowing, and this time, when the water stood, he was not afraid of it. He knew the shape of a wall now. A wall was a door that cost something.
+The meters that moved with it were the ring's, quietly, and the lists', on plain life, and the level, which was not the system's number and had never been. Sixteen by the first frost. Eighteen at New Year, read in private, kept off every list. Nineteen by the thaw. Twenty between the spring planting and the first mowing, and this time, when the water stood, he was not afraid of it. He knew the shape of a wall now. A wall was a door that cost something.
 
 The autumn term brought the displays, and the yard gathered for the first soul-class as it always did, and Su Ping brought the apple up over his palm with the ring turning above it, as he had done the year before.
 
@@ -48,7 +48,7 @@ The wall-class met in the evenings now, the two of them, Ma Fei recovering from 
 
 "The method you were taught is the first road, and the first road is the same everywhere — the Hall prints it, and the villages hand it down. It will carry a man to the tenth level, and no further, with any honesty." He stood at the front of the room as he stood at assemblies, and his voice was the plain one. "Above it there is a second road. Every academy keeps one. They differ in small ways and agree in the large one: the second road draws deeper water, and it does it by a different turn of the breath. Here is the turn. Watch once."
 
-And he showed them the turn. Once, slow, in the lamplight, a half-turn of the breath that bent the water in the room as a stone bends a stream — and Su Ping felt the system take it in, silently, as it took in everything: seen, filed, held. He had a full technique seat and no second one, and the new road had nowhere to sit, and he could feel that it did not care, and would wait. One ring from now, there would be three seats.
+And he showed them the turn. Once, slow, in the lamplight, a half-turn of the breath that bent the water in the room as a stone bends a stream — and Su Ping felt the system take it in, silently, as it took in everything: seen, filed, held. And he knew the country in the turn: his own road's early foothills were there, in the world's plain version of them. The world defined the next stage as it always had; his was the same country, cut to his measure. He had a full technique seat and no second one, and the new road had nowhere to sit, and he could feel that it did not care, and would wait. One ring from now, there would be three seats.
 
 "You will both learn it properly when your walls are broken," said Lin, and closed the second book. "The world above the tenth level is a wider country than this one. It has more roads in it, and none of them are free."
 
@@ -77,6 +77,8 @@ The letters had done that — a letter a month home, a letter a month to Wen Bo 
 
 Wen Bo's tenth of every queue was a purse of its own by then, and he counted it with the ox-calf patience he brought to everything, and in the spring he said — out of nowhere, over the second basket — that a man could carry fruit to the prefecture city and come home with the price of a shop. He said it carefully: the shape of a plan, not a dream. Su Ping, who had watched the porters take apples over the hill for two years, said nothing at the time. But he thought: the orchard is growing a merchant.
 
+The method's line stood at twenty-seven by then — twenty-six parts of the deeper road in one school year, slower parts than the basic's, and every one of them heavier.
+
 And at the end of the year, the office, the door shut, the crystal between the two teacups. Lin read the number and did not say it at once.
 
 "Twenty," he said, finally. "And sitting at the wall."
@@ -89,6 +91,7 @@ He closed the book, and folded his hands on it.
 
 "The question is never whether," said Headmaster Lin. "It is which."
 
-Outside, the yard was loud with summer, and in its seat the ring counted quietly on.
+Outside, the yard was loud with summer, and the engine ran on — the road under him and the ring in its seat, both counting.
 
+> 「Technique — The Still Well Method: 27%」
 > 「Soul Ring — Blue Silver Grass: 124 years」

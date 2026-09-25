@@ -1,6 +1,6 @@
 # THE SYSTEM — complete design spec
 
-Design stage v1.4 · 2026-09-25 · status: SYSTEM COMPLETE (SC3-R1/R2/R3 locked — one gift held for the author: the System's name; §8 added: the ring seats live, SC14–SC18)
+Design stage v1.5 · 2026-09-25 · status: SYSTEM COMPLETE (SC3-R1/R2/R3 locked — one gift held for the author: the System's name; §8 the ring seats live, SC14–SC18; §9 the Upgrade Law, SC19)
 Author spec and session rulings: see `../README.md`. Numbers marked **[DIAL]**
 are proposed defaults — tunable by the author without breaking anything. The
 slot schedule (§3) is settled by the author's word (the unified slot law).
@@ -361,3 +361,18 @@ never praises, never explains, never hurries.
 - **The slots' arithmetic:** ring slots follow the unified slot law (1/1/1
   → +1 per rank-up); one ring, one seat; the loadout resonates across all
   categories (the mill-stones of Ch 3).
+
+
+## 9. THE UPGRADE LAW (SC19 — the author's strike, verbatim: "it's should happen the moment it reache 100%"; the founding spec's own words: "after reaching 100% mastering full basic, it's upgrade to next stage")
+
+The moment a slotted technique's meter touches 100%, the technique
+UPGRADES to its next stage — immediately, in place. No resting state, ever:
+**100% is a gate, not a finish line.** The next stage is the world-defined
+continuation (the Progression Law); for a finished basic it arrives as the
+NAMED method (SC12) — the upgrade and the naming are one event. The new
+stage's meter opens at its honest current mastery (the Initialization Law —
+the finished stage beneath it is the first stood-on step of the new road),
+and the engine runs on without a pause, 24/7 at his best, into the deeper
+country. Lived: Basic Spirit Power Cultivation 100% → The Still Well Method
+1% (Ch 3's last night) → 9% at first frost → 27% by Ch 4's year-end
+(current readings, nothing fixed).

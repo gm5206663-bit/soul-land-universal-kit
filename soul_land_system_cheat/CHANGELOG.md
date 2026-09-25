@@ -1,5 +1,12 @@
 # CHANGELOG — release-facing
 
+## Unreleased
+- **SC19 — THE UPGRADE LAW**: at 100% a technique upgrades to its next
+  stage immediately (the founding spec's own law, restored at the author's
+  strike — "it's should happen the moment it reache 100%"). Chapters 3–4
+  re-cut: the named method opens at 1% and climbs (9% at first frost, 27%
+  by Chapter 4's end). 100% is a gate, not a finish line.
+
 ## v1.0.0 — 2026-09-25
 - **Chapters 1–4 written** (The Awakening Day · The Gate at Yunxi · The
   White Ring · The Still Well): Su Ping from the awakening at six to level
