@@ -101,6 +101,18 @@ theory, languages, anything that is a skill or a method.
   come with time itself. (He must still LEARN a method first — the
   learned-once rule; and his capacity, bottlenecks, and breakthroughs
   remain canon's own.)
+- **THE NAMED-METHOD LAW (SC12, verbatim: "after besic this besic method
+  become named method, that was perfectly bulit for him... system give
+  upgrade was for him perfectly, like he created himself that"):** when a
+  foundational stage completes at 100%, the upgrade is NOT the generic
+  next stage. The method becomes a NAMED method — his own name on it,
+  perfectly built for him, as if he had created it himself. The system's
+  upgrade is personalized to the man who finished the road: his body, his
+  soul, his apple, his way of walking. THIS is the Mastery Law's payoff
+  and the reason "mastering complete besic [is a] Big thing in yourself":
+  most practitioners advance on good-enough and climb generic stages
+  forever; the one who finishes the basic receives a road that is HIS —
+  and every stage of a finished art thereafter compounds on it.
 - **THE MASTERY LAW (SC10, verbatim: "many people's don't master besic
   Fully before that they go to advance, mastering complete besic Big thing
   in yourself"):** most practitioners never complete a stage — they advance
@@ -232,18 +244,20 @@ Notes:
 3. What the System sells is **perfect consistency**, not talent: 24/7 at
    best-speed — never tired, never sick, never sloppy, no off-days, no
    plateaus from bad practice.
-4. **THE ENGINE ARITHMETIC (SC10 + SC11 — the author's own numbers,
-   replacing every invented scale):** a normal cultivator trains 3–5 hours
-   a day. The engine runs twenty-four, at his best — mastery and time both
-   multiplied. **One month of the engine = an ordinary person's year**
-   (SC11's sharpening); five months = five ordinary years. Early levels
-   climb easiest (canon's own curve), so the first term shows it hardest —
-   level 3 → 7, four levels in five months — and the walls slow it later
-   as they slow everyone. Level pacing is honest to this arithmetic
-   forever. And per the Body-Draft Law (SC11, CANON_GROUND 10): food-types
-   cultivate slowest of all classes — the body is the draft on the furnace
-   and theirs run thin — but his system-built body cuts that headwind
-   entirely.
+4. **THE ENGINE ARITHMETIC (SC10 + SC11 + SC12 — the author's own
+   numbers, replacing every invented scale):** a normal cultivator trains
+   3–5 hours a day. The engine runs twenty-four, at his best — mastery and
+   time both multiplied. At the opening era, one month of the engine ≈ an
+   ordinary person's year (five months = five ordinary years; the first
+   term reads level 3 → 7). **THE NOTHING-FIXED LAW (SC12, verbatim:
+   "this is just for now not fix things, there is no fix things"): that
+   ratio is the CURRENT reading only, never a constant** — it moves as he
+   moves (best speed, body, rank, resonance) and is re-read fresh in every
+   era of the story; level pacing is honest to whatever the current
+   reading is, never to a remembered number. And per the Body-Draft Law
+   (SC11, CANON_GROUND 10): food-types cultivate slowest of all classes —
+   the body is the draft on the furnace and theirs run thin — but his
+   system-built body cuts that headwind entirely.
 
 ## 5. THE INTERFACE (LOCKED: silent; minimal lines — SC2-R4/R5 + SC3-R1)
 

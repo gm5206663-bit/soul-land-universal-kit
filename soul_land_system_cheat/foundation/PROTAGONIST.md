@@ -122,6 +122,7 @@ exactly what the System is for.
   cultivation method (learned-once), he slots it — and spirit power rises
   24 hours a day. The ranks come with time itself; the quiet boy advances
   without anyone seeing him try.
+- **The named-method prize (SC12):** when the basic method completes at 100%, it will not become "the advanced method" — it becomes a NAMED method, his own, perfectly built for him, as if he created it himself. The one-slot sacrifice and the finished-basic resolve now aim at a concrete prize: the first art on the continent that is HIS.
 - **The headwind cut (SC11):** food-types cultivate slowest — the body is the draft on the furnace and theirs run thin; his does not. The soil built first (farm childhood, yard work, the ticking meter) cut the one disadvantage of his class before it ever touched him.
 - **The Resonance (SC3-R2; scope ALL categories, SC3-R3):** arts that
   inform each other in the world inform each other in the System —
