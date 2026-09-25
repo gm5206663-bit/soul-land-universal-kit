@@ -1,4 +1,4 @@
-# TIMELINE — the story's place in Soul Land history (v1.0, 2026-09-24)
+# TIMELINE — the story's place in Soul Land history (v1.1, 2026-09-25 — the actuals through Chapter 4 written in)
 
 Era LOCKED (author ruling: Soul Land 1, light cameos). Alignment and pacing
 below are PROPOSED for the author's eye — every line can be shifted without
@@ -24,8 +24,11 @@ flowering — and the story keeps growing into the years canon never wrote.
 | His age | Su Ping (the arcs) | The world (canon, background) |
 |---|---|---|
 | 0 | Born in Fruit Creek, the Su family's son — an old patience in a small body from the first breath | Tang San born in Holy Spirit Village |
-| 6 | **Arc 1 — THE AWAKENING DAY**: the ceremony, the apple, the headman's line; the System wakes after, in the dark (1/1/1); first slot: Basic Body Conditioning; the road to Yunxi Town | Tang San awakens Blue Silver Grass (innate full power), enters Nuoding Academy |
-| 6–12 | **Arc 2 — YUNXI JUNIOR ACADEMY**: six years a boarding spirit child; the first cultivation method learned and slotted (passive cultivation begins); rank 10 ≈ age 7–8 (the engine arithmetic, SC10) → the first ring (the cultivation-speed cultivar; the snowball starts); rank 30 by 12 with the walls slowing him as they slow everyone (SC10 arithmetic); the second and third rings; the first team; the mockery-to-indispensable turn begun | Tang San's Nuoding years with Xiao Wu; at 12 he enters Shrek Academy — the Seven Devils form (distant news, if that) |
+| 6 | **Arc 1 — WRITTEN (Ch 1)**: the ceremony, the apple, the System waking in the dark (1/1/1); first slot Basic Body Conditioning (9% → 14%); the road to Yunxi | Tang San awakens Blue Silver Grass (innate full power), enters Nuoding Academy |
+| 6–7 | **WRITTEN (Ch 2)**: first school year — the method slotted; THE ONE-SLOT CHOICE; level 3 → 7; the apple economy open; the life-skills list | Tang San's Nuoding years with Xiao Wu |
+| 7–8 | **WRITTEN (Ch 3)**: the wall at ten; THE FIRST RING (a 99-year Blue Silver Grass, SC14); 2/2/2; the green apple live; 100% → THE STILL WELL METHOD; level 15; the ring at 111 and gone yellow | |
+| 8–9 | **WRITTEN (Ch 4)**: the purer water; the yellow crossing seen by the yard; Ma Fei ringed; the wall at TWENTY at nine; the ring at 124; **the second beast OPEN — the author's to rule** | |
+| 9–12 | Arc 2 continues: rings 2–3 (the second seat's question open); the intermediate academies testing at twelve; rank 30 by 12 with the walls slowing him as they slow everyone; the first team; the mockery-to-indispensable turn | at 12 Tang San enters Shrek Academy — the Seven Devils form (distant news, if that) |
 | 12–16 | **Arc 3 — THE WIDE WORLD**: the advanced academy in the city; ranks 20s–30s; rings 3–4; the seed law discovered (end of Arc 2 / Arc 3); his name begins to travel in small circles | The Shrek years; Star Dou Forest hunts; the continent's academies all point at the elite competition |
 | ~15–16 | **THE CAMEO (one crossing, no entanglement)**: the continental elite competition — his team shares a field with the era's monsters. He watches masters work (the Acquisition law's quiet feast — public soul skills only; hidden arts stay hidden). Names known from across a field; no word passed; fate not entangled | The Shrek Seven Devils' era on the big stage |
 | 16–20 | Ranks 30s–40s; rings 4–5; the first seed sprouts — the orchard's first tree; Spirit Hall's shadow lengthening over everything, weather not yet his war | The Sea God Island years; the continent darkens |

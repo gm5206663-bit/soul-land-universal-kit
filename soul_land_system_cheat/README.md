@@ -64,14 +64,16 @@ strikeable and clean to replace.
 
 ## Read order
 
-1. `foundation/FOUNDATION.md` — premise, world, arcs, tone
-2. `foundation/PROTAGONIST.md` — the boy, the apple (full design), the System applied
-3. `foundation/SYSTEM_SPEC.md` — the System, complete
-4. `foundation/TIMELINE.md` — his life against canon (the comet and the orchard)
-5. `foundation/CANON_STUDY_FOOD_TYPE.md` — the food-type receipts (why the apple works)
-6. `foundation/CANON_GROUND.md` — verified ranks / rings / bones
-7. `foundation/RULINGS_LOG.md` — every author word, verbatim
-8. `foundation/OPEN_RULINGS.md` — what's settled, what awaits the author
+1. `foundation/CODEX.md` — **the working bible**: every law, lock, term, and number in one file
+2. `foundation/FOUNDATION.md` — premise, world, arcs, tone
+3. `foundation/PROTAGONIST.md` — the boy, the apple (full design), the System applied
+4. `foundation/SYSTEM_SPEC.md` — the System, complete
+5. `foundation/TIMELINE.md` — his life against canon (the comet and the orchard; actuals through Ch 4)
+6. `foundation/RELATIONSHIPS.md` — the web and WHO KNOWS WHAT (the Ignorance matrix)
+7. `foundation/CANON_STUDY_FOOD_TYPE.md` — the food-type receipts (why the apple works)
+8. `foundation/CANON_GROUND.md` — the 27 checked entries
+9. `foundation/RULINGS_LOG.md` — every author word, verbatim
+10. `foundation/OPEN_RULINGS.md` — what's settled, what awaits the author
 
 ## Laws for this project
 
