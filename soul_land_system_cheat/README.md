@@ -74,6 +74,12 @@ strikeable and clean to replace.
 8. `foundation/CANON_GROUND.md` — the 27 checked entries
 9. `foundation/RULINGS_LOG.md` — every author word, verbatim
 10. `foundation/OPEN_RULINGS.md` — what's settled, what awaits the author
+11. `foundation/GLOSSARY.md` · `foundation/ECONOMY.md` · `foundation/PLACES.md` — the continuity cards (words, money, geography)
+12. `foundation/SERIAL_LOG.md` — the turn-by-turn history
+13. `NEXT.md` — **the state pointer**: the tracker, the open items, the next turn
+14. `chapters/` — Chapters 1–4 (author editions, with footers)
+15. `manuscript/` — the same chapters, footer-free, for readers
+16. `tools/` — the style laws, self-enforcing: `style_gate.py` runs on every chapter edit (the CI draft `style_gate_ci_draft.yml` is ready to enable with a workflow-scoped token)
 
 ## Laws for this project
 

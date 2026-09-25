@@ -1,0 +1,43 @@
+# NEXT — the state of the serial (read this first every turn)
+
+Updated 2026-09-25 · kit commit through `946f327` · chapters 1–4 written.
+
+## The tracker
+
+| # | Chapter | Words | Band | End state |
+|---|---|---|---|---|
+| 1 | The Awakening Day | 3,600 | OVER (kept; trim = author's call) | 1/1/1 · body 14% · the road to Yunxi |
+| 2 | The Gate at Yunxi | 3,756 | OVER (author-ordered additions) | level 7 · method 39% · economy open |
+| 3 | The White Ring | 4,982 | OVER (two strike-passes) | level 15 · THE STILL WELL METHOD · ring 111/yellow |
+| 4 | The Still Well | 2,489 | IN | level 20 at the wall · ring 124 · **the second seat OPEN** |
+
+## OPEN — the author's own hand
+
+1. **THE SECOND BEAST** (Chapter 4 ends on the question). The seat: under
+   764 years by the Hall's rule of thumb; the true limit the body, the
+   soul, the spirit; the east-of-the-river stands on the page. Rule the
+   beast and its years, and Chapter 5 hunts it.
+2. **THE SYSTEM'S NAME** — the standing gift. Give it whenever; it slots in
+   clean ("the readout" is the placeholder).
+3. **The deferred trims** — Chapters 1–3 sit over the band on the author's
+   orders (strike-passes and additions, recorded in each footer). Say the
+   word and a trim pass runs; otherwise they stand.
+
+## The next turn, by default
+
+The author's word — a ruling, a strike, or "Next." Next with a beast ruled
+= **Chapter 5: the second hunt** (the deep stands, the escort, the wager at
+a higher table, the third slot, the intermediate method seated, and the
+apple's second cultivar — the ring decides, as always).
+
+## The machinery (keep it running)
+
+- `tools/style_gate.py` — run on every chapter edit. Exceptions
+  (kept-on-purpose constructions) live in `tools/style_gate_exceptions.txt`,
+  each citing its footer. The CI draft (`tools/style_gate_ci_draft.yml`) is
+  ready to enable — it needs a token with `workflow` scope; the current one
+  is rejected by GitHub for workflow files. Until then: local runs only.
+- `manuscript/` — the reader editions, footer-free; regenerate after every
+  chapter change.
+- The footer contract, the Ignorance matrix (RELATIONSHIPS), the economy
+  card, the atlas — update the same turn the chapter lands.
