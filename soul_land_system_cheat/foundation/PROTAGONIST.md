@@ -93,7 +93,19 @@ effect family: stamina and fatigue; no new effect types — those come ring by
 ring as the author rules), the fruit keeping a day and a night now (the
 resilience of the most resilient plant — PROPOSED); vitality and constitution
 fed under the draft; and every one of these gains deepening as the System
-ages the ring (99 → 111 by the school year's end, climbing).* Later cultivars —
+ages the ring (99 → 111 by the school year's end, climbing).
+
+**THE VALUE OF WHAT HE HOLDS (SC17, author-facing):** the green apple is
+beyond every treasure canon shows — the immortal herbs that raise five or ten
+ranks at a stroke are one-time finds "Heaven yearns for," and they only buy
+ranks; his fruit is renewable and sells SPEED itself, the resource the whole
+world's pyramid is sorted by. The Hall, the sects, and the empires would all
+move for it the day it is known. **DESIGN LOCK: the green apple is not sold
+in Arc 2** — the closed hand held; the market for a share of speed is a later
+arc's question and the author's. And the quiet crown: soul power built on a
+finished, named basic runs PURER than the same levels on a good-enough road
+(canonical concentration law) — an advantage no crystal reads, compounding
+forever.* Later cultivars —
 recovery, cleansing, body-strengthening, flight-feather, the golden line —
 chosen arc by arc. Ring
 **age** deepens potency, duration, and output per soul-power cost — which is
