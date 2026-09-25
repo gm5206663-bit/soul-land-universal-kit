@@ -101,6 +101,15 @@ theory, languages, anything that is a skill or a method.
   come with time itself. (He must still LEARN a method first — the
   learned-once rule; and his capacity, bottlenecks, and breakthroughs
   remain canon's own.)
+- **THE INITIALIZATION LAW (SC8, author strike: "why it's start from 0%
+  what he already don't do it before 6 years normal, there is already
+  progress"):** a slotted technique's meter initializes at his CURRENT REAL
+  MASTERY the moment it enters the slot — the System measures what exists
+  and starts there, never at zero. Six years of carrying water and walking
+  terraces IS basic body conditioning; the meter said so (it opened at 9%).
+  Corollary of the core law: the meter IS his mastery — it cannot erase what
+  life already built. A never-practiced art initializes near zero; a lived
+  skill initializes where life put it.
 - **THE RESONANCE LAW (SC3-R2, verbatim: "one thing can influence other
   like you put swordsmanship mastery in one slot and sword intent in other
   so of course it's influence"):** slotted things influence each other, as
