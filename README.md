@@ -293,3 +293,24 @@ STATUS_PANEL, SERIAL_LOG, CANON_STUDY); this block is the map.
 - **The Soul Library** (https://gm5206663-bit.github.io/soul-library/) carries
   every rewritten chapter live, the OC status page, the audio edition (Ch 21
   re-recorded from the corrected text), recaps, analytics, and the Sentinel.
+
+## ADDITION — Full GitHub Audit 2026-09-26 (add-only)
+
+**12 repos audited, 9 public cloned, 1 private, 1 profile, 1 primary grey-wolf. 6 repos fixed, 6 verified OK.**
+
+- **lan_shen:** README 1->2 chapters live 8779w V1/V2 split, status_gen registered Chapter_02, gates 9 layers ALL GREEN
+- **soul-library:** Added Grey Wolf perfect rebuild 6ch 15.8Kw to library, total 187->193 chapters 781K->796K, meta 186->193, cover grey_wolf.png, rebuilt search_data 193 entries + analytics (grey_wolf avg 16.4 clean vs old 6.8), badges CH21->CH24 devouring_dragon, CH8 golden_lion
+- **soul-land-universal-kit:** STATE.md refreshed 2026-09-26 full audit live builds 24+8+6 Grey Wolf external, README golden_lion 7->8, blue_silver HANDOFF 33,100->34,711 words + rebuild_codex CODEX 33,100->34,711
+- **how-to-write-fanfiction:** case studies Devouring Dragon 21->24, Golden Lion 3+->8, add Grey Wolf perfect rebuild F0-F22 clean-and-clear, add Lan Shen V2, scoreboard 400K->796K 193ch, README 10+->12+ serials, share_kit 181->193ch 5->6 serials 766K->796K 183->193 550K->796K
+- **the-universal-storyline-creation:** projects_registry.json add Grey Wolf perfect rebuild 6ch v0.7.0 + Golden Lion 8ch + Lan Shen V2 2ch, devouring_dragon Ch22->Ch24, golden_lion.json Ch6->Ch8, devouring_dragon.json Ch20->Ch24, rebuild index.html+bootstrap 13 projects
+- **gm5206663-bit profile:** 5->6 serials 187->193ch 750K->796K 10+->12+ serials, add Grey Wolf + Lan Shen + Stark Heir + MCU Eternal to serials table, currently writing + toolchain
+- **mcu_eternal_fanfic:** STATUS_PANEL post-Ch2->post-Ch3 First Shore c5000BC Mesopotamia HOLD-BUBBLE 3 breaths bleed law on sand ANCHOR-FEET 3 breaths shell-bead pair
+- **stark_heir:** STATUS_PANEL next deliverable Ch4->Ch5 Gulmira sortie jets tank-punch board lockout
+- **soul-library deep:** badges fixed, sentinel 25 PASS
+- **Verified OK:** soul-land-projects archived true, soul_land_4_fire_phoenix private Ch52, stark_heir 4ch PASS, mcu_eternal_fanfic 3ch PASS, storyos-site generic, grey-wolf primary perfect rebuild v0.7.0
+
+**Open issues:** soul-land-universal-kit #2 second beast <764y Hall thumb, #3 System name placeholder "readout" author's gift, #4 Ch5 second hunt awaiting #2 — all author-gated, not bugs.
+
+**PAT leak scan:** clean (only intentional patterns in BANNED_TOKENS.json and run_all.sh, plus warning in mcu_eternal_fanfic README about revoking tokens).
+
+**Next:** Grey Wolf Ch7 ship → update soul-library + profile, Golden Lion Ch9 → update universal-kit + library + control centre + profile, resolve System Cheat beast ruling <764y to close #2 #4, System name gift to close #3.

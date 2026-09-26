@@ -101,7 +101,7 @@ Run before calling any chapter or codex file done:
 python3 SOUL_LAND_UNIVERSAL_KIT/tools/verify.py blue_silver/chapters_rebuilt/
 ```
 
-**Current result: 15 files, 33,100 prose words, 0 failures, 0 warnings.**
+**Current result: 15 files, 34,711 prose words, 0 failures, 0 warnings.**
 
 The three codex files with prose-facing constraints (`CHARACTERS.md`, `TIMELINE.md`,
 `PLACES.md`, `GLOSSARY.md`) were checked for unreadable script, literal backslash-n and
