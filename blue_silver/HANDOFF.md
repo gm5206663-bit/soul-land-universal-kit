@@ -12,7 +12,7 @@ session.
 Blue Silver is a Soul Land pre-canon serial about a Blue Silver Emperor grass named **Home**.
 The first draft (`chapters/`, 15 chapters, ~80,700 words) was **rejected by the user as
 "nonsense"** and has been fully rebuilt. The live serial is `chapters_rebuilt/` — 15
-chapters, 33,100 prose words, spanning year 0 to 775 (≈1837–2612 DC), passing every gate.
+chapters, 34,711 prose words, spanning year 0 to 775 (≈1837–2612 DC), passing every gate.
 Kill count is zero and permanent. Book One is complete and ends with A Yin naming him.
 
 ## 2. Authority order
@@ -115,7 +115,7 @@ python3 SOUL_LAND_UNIVERSAL_KIT/tools/verify.py blue_silver/chapters_rebuilt/
 
 | Suite | Result |
 |---|---|
-| Rebuilt serial | **PASS** — 15 files, 33,100 prose words, 0 failures, 0 warnings |
+| Rebuilt serial | **PASS** — 15 files, 34,711 prose words, 0 failures, 0 warnings |
 | Live codex (6 files) | **PASS** — 0 unreadable script, 0 backslash-n, 0 placeholders |
 | Rejected draft `chapters/` | **FAIL** — 29 failures (expected; it is the negative control) |
 
