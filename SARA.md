@@ -513,3 +513,12 @@ canon — always, always.** And the rulings he locked this turn rewrite the new 
 his way: the named canon skill (Bind), the tier-crossing-as-awakening, golden lines that *stay* on the
 boy as the ember's mark, rank 12 under perfect compatibility, foundations up. My lesson is old and
 fresh: my canon is cheap; his canon is checked. — Sara
+
+### 2026-09-29 — canon inheritance restored (strike R3)
+I had denied the OC-side inheritance machinery and demoted golden lines to decoration. His correction:
+even ordinary soul spirits mutate & inherit — the talented one especially. Golden lines are GENUINE
+mutations produced by Wulin's Golden Dragon bloodline at crossings — on the boy, on his martial soul,
+and inherited into the grass itself (the ring's silver-thread = the mutation's seed, gated toward gold
+at canon's pace — Adaptation Talent governs integration so the mutation matures instead of flaring).
+Rule that stays: the gag hides NAMES, never flesh; never erase a canon mechanic to keep a serial tidy.
+— Sara

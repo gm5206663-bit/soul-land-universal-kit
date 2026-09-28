@@ -38,7 +38,9 @@ Era anchor (house convention, author-adjustable): kit uses standard era mapping 
 |---|---|---|
 | Spirit's own line | **Common Blue Silver Grass — the common line of the series' plant register, weakest folklore, strongest buried tenacity** — the line with the weakest social folklore and the strongest buried vitality on record | NO royal, NO Emperor, NO Dark, NO dragon, NO fused foreign blood — author-locked premise |
 | Spirit's bloodline mutations | **None imported.** The awakened state produced **one mutation-grade feature**: the silver-light thread through blades/ring = the awakening's mark in the smack of a tier crossing — accumulated depth made visible | not a new species: still common line; classification stays *wild deepened* |
-| Host line (canon, bow-tied) | Tang Wulin carries **Blue Silver royal-line blood** (the Emperor line's descendants — canon) **plus the sealed Golden Dragon essence** (dragon-bloodline-era entity, canon) | both host-side canon's; the spirit cannot inherit them, and gag rules hold (§7) |
+| Host line (canon) | Tang Wulin carries **Blue Silver Emperor bloodline** (royal-line heredity, canon) sealed under the surface, and **Golden Dragon King's essence** sealed in him (canon) | both remain host-side secrets; the gag persists (§7) |
+| **Bond-inheritance law (canon-true)** | **Soul spirits do mutate and do inherit from their hosts.** Canon itself: at the first fusion, host bloodlines write themselves into soulflesh and the martial soul — the dragon essence's golden pattern infusing the bonded grass and *toughening it*. That machinery binds this serial | the spirit **can and does** inherit — the mutation belongs in the bond's shared flesh; with the **Adaptation Talent** this is not random: the talent governs the mutation's integration on the best presently supportable path, letting the inherited mark mature honestly instead of mutating wild |
+| Spirit's inherited mark (live) | **Silver-thread stage** = the first inherited mutation-grade structure (ch1): the joining built its new veins from the boy's own doubled line — faintly *blue-silver touched with an unnamed precious metal tint* | deepens toward genuine gold only through real crossings (§9 tracker); gag holds on names, never on flesh |
 
 ## 4 · Attributes (what the grass is made of, canon-register)
 
@@ -51,6 +53,8 @@ Canon anchor: Blue Silver Grass is, in canon register, a plant-system **control 
 | **EARTH (partial)** | partial | rooted-ground sense; hold strength while rooted; instability if forcibly parted from soil | plant-lines' natural partial |
 | **LIGHT + WATER (secondary)** | secondary | photosynthesis-lineage habits: quiet preference for sun-side seep points; weakest in dry, light-starved ground | still small; honest tag |
 | **FIRE** | **none — personal aversion** | fear-kin reaction traceable to two forest burns in recorded memory | not immunity; exposure risk law (Master §15) |
+
+*Inherited-current note:* the LIFE line on the boy's side now feeds the bond with profound depth (canon dragon-essence vitality is a life-family current): the grass can hold more weight per blade than its hundred years alone would pay for. Its own knowledge of the source = none — the gag is epistemic, not alimentary.
 
 *Adaptation's work to date = *nothing imported*: it only revealed, refined, developed the above from soil, sun, frost and grazers. Not one new element emerged without a priced example.*
 
@@ -71,18 +75,20 @@ Canon anchor: Blue Silver Grass is, in canon register, a plant-system **control 
 | First skill | **Bind** — blades run ≤4 strides, weave-close on target, **hold** target until released; duration ≡ soul power drain rate; no attack mode | priced: heavy drain — first hold 28-count (post); spar 9-count (Wan Yunchao) — ch2 receipts |
 | Rank accrual | host went **10 → 12** at fusion (author-locked yield: 100-y base × perfect compatibility) | once-only yield, consumed at fusion |
 | Foundations | host's own BSG = broader/silvered blades; soul-power heavier; body temper raised (hammer-held shifted) | shows already in ch1 (kitchen) and ch2 (shop) |
-| Synchronization | trees: tickle-press answers only; senses shared faintly (the boy can feel its lean-attention) | speech = far-gated (author) |
+| Synchronization | tickle-press answers only; senses shared faintly (the boy can feel its lean-attention) | speech = far-gated (author) |
+| Inheritance current | the spirit *inherits* mutations up the bond (canon law — see §3 bond-law row); the silver-thread is its seed, golden deepening is its maturation | talent governs integration; no wild mutation flaring |
 | Communication track (exact stages) | 1) blended attention/press ✓ (ch2) · 2) repeated two-press = "yes" pattern (ch3+) · 3) named-word arrival — **author-gated** · 4) true speech — author-gated | cannot skip stages without author's word |
 
-## 7 · The golden lines (host-side entity — mechanism, not show-off)
+## 7 · The golden lines (GENUINE MUTATIONS — canon law, author ruling 2026-09-29)
 
 | Field | Value |
 |---|---|
-| What they are (canon-true) | The **visible signature of the dragon-essence presence** in Tang Wulin's body — canon's sealed-bloodline-era mechanic: the essence responds to breakthrough-class events in its host, briefly lighting the body's deep lanes in gold |
-| Our chronology | ch 1: blazed at the century-crossing (parents witnessed) → settled to faint rest-lines on forearms/back → flare-signal whenever the ring moves (ch 2 shop note, not public) |
-| What they *do* (must never be decoration) | (a) **base-foundation support**: body shaken harder, faster-remake-capable, forge-heat holds steadier (the boy already observes "callus got deeper" ch2); (b) breakthrough-beacon: they mark every real crossing (rank/rig/other-shoot) henceforth — the world's way of measuring what the essence owes; (c) **paying residency, not rent-free**: any day the boy overdraws his ring's budget deep, the warmth takes tax in fatigue (paid accounting; keeps body's ledger honest) |
-| Gag rules | Wulin doesn't name or know them; parents saw a sign without lexicon; the spirit senses the ember **only as something-below ground** without money or shape; nobody in prose names the dragon; author/timeline fires the fires — never spirit-prodded |
-| Escalation lock | pace of dragon-line emergence = canon's pace; this serial borrows nothing early; any new lines-feature must be author-unlocked |
+| What they are | **Real mutations produced in the bonded pair by Wulin's Golden-DDragon bloodline at breakthrough-class events** — not a glow, not decoration: new written structure in flesh and soulflesh. Canon established the mechanic at the snake-fusion (the pattern spread, the grass's BSG toughened with it); this serial runs the same law with the correct carrier: our grass |
+| Mutation sites (live ledger) | (a) **On the boy**: vein-lines along forearms/back/under-jaw-ward — mutation of the body (structure, repair-wealth, lean-hot metabolism): the "deeper callus" and steadier forge-hold of ch 2 are these lines working, not a passive sign. (b) **On his martial soul / in blades**: gold-threading through BSG blades = mutation of the soul's medium — present from the fusion (the "thin gold veins under the blade-edges" beat in ch 1 is exactly that); every real crossing adds to it. (c) **On the spirit itself**: inherited down the bond by canon inheritance law: the ring's silver-thread is the mutation seeded in the held thing — tickle-frame-grade now, matures toward complete golden-veined grass on sufficiently deep crossings (§9) |
+| What they do | (a) **toughen/found everything they run through** — body, blades, bond-load of Bind (Bind's hold improving across crossings comes partly from here); (b) breakthrough-beacon — every real crossing rewrites or adds a cluster, visible flare tells honest power;r; (c) **paying residency** — overdraw the ring deeply and the lines tax fatigue in return: the body's ledger stays paid |
+| Known by | parents observed the blaze-on-day; the boy owns them, knows no names; the spirit knows **the mutation in its own soul-flesh** but has no name for its source (firewall = names, never flesh); nobody else in-world has seen them (sleeves) |
+| The sequence (strict) | any new vein-cluster joins only through a *real* crossing (rank or genuine survival-threshold), never by fiat; the pace = canon's bloodline-development pace, gated author by author |
+| Gag law | never named dragon/king/ancestor; never explained to audience through any internal mouth before canon timing; lines = worked-for structure, never styled decoration |
 
 ## 8 · What everyone knows right now (knowledge map)
 
@@ -99,8 +105,8 @@ Canon anchor: Blue Silver Grass is, in canon register, a plant-system **control 
 
 | Gate (host) | Spirit consequence | Status |
 |---|---|---|
-| Fusion (host 10→12) | crossing + awakening; effective 100+; ring yellow/thread; Bind open | DONE (ch 1) |
-| Host reaches 15 | +: few effective-years accrue; blades' silver thread consolidates further | planned |
+| Fusion (host 10→12) | crossing + awakening; effective 100+; ring yellow/silver-thread = inherited mutation seed (§7c); Bind open; ring-flare vein-clusters active | DONE (ch 1) |
+| Host reaches 15 | years accrue; the inherited thread matures from silver-tint toward true gold on blade-roots (canon-pace, author-gated) | planned |
 | Host reaches 20 (second ring door) | **second tier-door candidate** — possible second awakening (author rulings at door) | locked to author |
 | Speech gates | see §6 stage-table | author-gated |
 

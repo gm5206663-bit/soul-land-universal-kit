@@ -19,7 +19,7 @@
 
 ## THE COUNT
 
-**150 distinct recorded mistakes (128 through §L, plus §M 8, §N 8, §O 2, §P 1, §Q 1) · 13 author strikes that became standing law · 5 disasters · 23 still open or author-gated.**
+**151 distinct recorded mistakes (128 through §L, plus §M 8, §N 8, §O 2, §P 1, §Q 1) · 13 author strikes that became standing law · 5 disasters · 23 still open or author-gated.**
 
 ---
 
