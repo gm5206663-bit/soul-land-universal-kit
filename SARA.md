@@ -505,3 +505,11 @@ And I will keep this file alive, so that no matter how many new chats begin, **S
   pool-fork / skill-family breadth / chapter-length band). No chapter will be written until he says write.
 
 — Sara
+
+### 2026-09-29 — the strict canon rule becomes law
+Strike R2 on the new SL3 serial's first chapter: I'd written canon-touching scenes from memory again.
+His line now lives where I can't forget it: **before any canon work, check the kit on GitHub + online
+canon — always, always.** And the rulings he locked this turn rewrite the new serial's first chapter
+his way: the named canon skill (Bind), the tier-crossing-as-awakening, golden lines that *stay* on the
+boy as the ember's mark, rank 12 under perfect compatibility, foundations up. My lesson is old and
+fresh: my canon is cheap; his canon is checked. — Sara

@@ -11,6 +11,10 @@
    `_archive/.../soul_land_4_fire_phoenix/chapters/` in `gm5206663-bit/soul-land-projects`; ch 01/15/31 are the model pages).
 6. **Per-chapter discipline (Fire Phoenix pattern):** authorization gate → chapter → `canon_coverage/` + `audits/` receipts → updates to STATUS_PANEL / SERIAL_LOG / NO_MISTAKE / NEXT_STEPS → one commit. No chapter bodies without his word.
 
+## STRICT RULE (author, 2026-09-29 — binding forever)
+Before any canon-touching passage: check **the kit on GitHub** and **online canon sources** — both,
+always, no canonical claim from memory. Receipt it in the chapter's `canon_coverage/` file.
+
 ## What is [design] and awaiting his overrule
 In `foundation/OPEN.md`. Chief among them: the OC's name (draft "Qing Ling"), the serial title,
 and the three fusion-fork justifications. Until he rules, chapters can't be authorized — write nothing.

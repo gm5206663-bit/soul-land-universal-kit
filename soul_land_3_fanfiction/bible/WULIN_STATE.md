@@ -6,11 +6,20 @@ Tang Ziran & Lang Yue at home, sister Na'er in the household arc (canon timing w
 pressure and the 30k note family debt [era-flavored, canon machinery] · Aolai City · the Spirit
 Pagoda's cheapest pool is all they can afford.
 
-## The one difference (root)
-His first soul spirit is a 99→100-y same-kind plant with a mind. Everything marked "butterfly candidate"
-flows from it and only it: ring tier, skill shape, certificate-file (the clerk's face at yellow), teacher
-readings at Eastsea, team-math, and the money arithmetic shrinking a hair — never to zero (canon pressure
-stays canon).
+## The one difference (root — UPDATED by author ruling 2026-09-29, LOCKED)
+His first soul spirit is a 99→100-y same-kind plant with a mind. The fusion is *perfect compatibility*
+(same family, both parties true: the world almost never schedules this because you can't sell it on a
+timer), and per author ruling the crossing carries the tier breakthrough's AWAKENING:
+- **Rank 12 at nine** (fused yield: ring's hundred-year base + perfect-compatibility yield; not a gift alone — the bond's full load).
+- **Martial soul quality + soul-power quality + body foundation all rose** (blades broader, silver-edged;
+  power heavier "nearer the bone"; the ring's endurance patterns now his).
+- **Golden lines: alive and sealed** — blazed visibly during fusion, faint at rest, brighten when the ring
+  moves (the dragon-ember's witness-mark; gag law: never named, never exploited, only seen).
+- **First skill: BIND** (canon family, ring-taught name arrival): BSG blades run from ground near his
+  feet, weave-close on target, HOLD while soul power feeds (honest drain; twenty-eight-count first hold
+  vs anchored post); control-system family; no attack variant.
+Butterfly candidates = still only what the fracture plausibly causes: ring tier/color, the public math of
+yellow+12 at nine, Eastsea's readings; canon pressure (money, invisible ranks-that-matter) stays canon.
 
 ## Atcanon people, present-tense-before-we-meet-them (firewall)
 Na'er, Gu Yue, Xie Xie, Wu Zhangkong, Xu Xiaoyan, Mang Tian, the certification office, the Pagoda

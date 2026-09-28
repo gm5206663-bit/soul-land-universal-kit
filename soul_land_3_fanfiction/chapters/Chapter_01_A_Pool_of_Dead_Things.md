@@ -113,73 +113,78 @@ His soul power stirred. His own tired spirit — the old broad-bladed thin littl
 
 He took a breath, and opened his hands the rest of the way.
 
-The covenant, in this world, is not complicated when a boy means it. He put the two together — his own small grass against the sleeping other — and held his soul open the way you hold a door. He offered a share of himself the way you offer food: you give what you have and mean it. A soul tests an offering against the truth in the offerer's slowest places, and this boy's slow places had hammer-stamps in them.
+The covenant, in this world, is not complicated when a boy means it. He set his own small grass beside the sleeping other and held his soul open the way you hold a door — you offer a share of yourself the way you offer food: you give what you have and mean it. A soul tests an offer against the truth in the offerer's slowest places, and this boy's slow places had hammer-stamps in them.
 
-Tang Wulin's slower places had hammer-stamps in them. They had the stubbed fingers of an apprentice smith. They had the patient courtesy of a boy who had for three years absorbed the lesson, in the only school that mattered to Mang Tian's students, that a thing made of metal could only be expected to keep its shape if your own discipline kept it. He offered them without pride, without screens, and with the small steady kindness of a boy who had been told, at the dinner table — by the father — that whoever you were was what you did for something else.
+And the grass, in the deep of its century of sleeping — through ninety-nine winters of being cut, stepped on, eaten, and growing back — felt something it had never once been offered: warmth with a purpose held inside it. Forge-warmth. Table-warmth. The warmth of a boy who had spent three years being hammered into shape and found that the shape under the hammer was one that shared. Somewhere past the warmth lay something else — old wind under older ground, a sleeping stillness deeper than its longest knowing — but the warmth itself was neither old nor still. The warmth was nine years old, and it was asking.
 
-And the grass, in the deep of its sleep, after ninety-nine winters of being fought over by seasons and being eaten and growing back and keeping its smallest part whole — suddenly felt something that had not, in ninety-nine years, happened to it.
+The grass forgot the filing. The grass forgot the dark. Ninety-nine years of the careful art of surviving — and it chose, the way a root chooses at the end of a very long hill: this ground.
 
-Warmth. Not the careless warmth of a passing summer. The purpose-held warmth of something that built things. The heat of the forge was in this warmth, the heat of a small dinner-table's cleanness, the heat of three years of being hammered into a shape and finding that the shape underneath was a boy the shape liked being.
+What happened next, the Spirit Pagoda's handbooks have a table for, and the table has warnings printed around it. Soul spirit and martial soul of the exact same family almost never meet, because so few plant martial souls live long enough to be offered a plant soul spirit. But when they do meet — when the ring-bond closes grass to grass, and both sides speak truly — the pairing is called *perfect compatibility*, and the fusion gives everything it can give: base, quality, depth, yield. Wulin's little common Blue Silver Grass and the one under his hands were the same blade grown in two different centuries, and when the ring-bond closed there was no seam anywhere in it. It was not a fusion of two things. It was a rejoining of one thing that had been cut apart.
 
-It was a small warmth. It was a boy's warmth, so it was also a hot fright, something dangerous for a plant to grow too close to. It smelled of old wind buried so deep the grass's longest root-thoughts couldn't reach to count the years, and beneath that there was a stillness, immense and humid and patient, that the grass's filing business had never seen.
+The hundredth year crossed — and it didn't creep across the way years walk into each other across ordinary nights. A tier crossing in this world is not arithmetic. It is a door slamming open, and on the far side of the door the thing that passed through is not the same thing that entered. The crossing carried the grass's *awakening* — the same word the old guides use when evolution moves at the speed of breakthrough — and the joined body lit with it, and the first place the light arrived was not the ring.
 
-The grass forgot the filing. The grass forgot the darkness. The grass became — for ninety-nine years it had been nothing else — the careful part of a forest morning, and the forest morning was a boy, kneeling at a kitchen table, holding out everything he had on his poor open palms.
+It arrived in the boy.
 
-The soul spirit Blue Silver accepted its own name being pronounced at last by choosing — the way, at the end of a very long hill, a root chooses at last where to fix one root-hair — one place out of all the worlds there are to grow.
+Gold moved under Wulin's skin. It came up along the deep lines of him, bright and unmistakable: golden lines threading from his chest toward his throat, down his arms into his palms, and down his back in one straight written column the length of a smith's spine. Lang Yue cried out. Tang Ziran took one step with a father's whole body in it and stopped — because whatever this was, it was not breaking his son. He knew the color of breaking. This was something being *signed*.
 
-And the years did what they always do when a genuine crossing is made: they marked themselves.
+The grass knew the lines before the boy's own mother finished her cry. It knew them as *the mountain underneath the ground in this body*: not summoned, not aimed — merely roused for one instant by a door being slammed open in its soil, rising far enough in the boy's beneath to look once through his skin, and then subsiding. The grass did what it did for every winter river of its long life: recorded, respected, went around.
 
-The hundredth year came across, and the ring came.
+The ring came. Light gathered at the boy's young wrist and set into a band — not the wan half-color the thirty-thousand shelf was premised to produce. Yellow. The full coin-yellow of a hundred-year soul spirit that had crossed its century whole, and more: pierced through with the fine silver light of the awakening that still moved in the joined fabric, so that for a few breaths the ring shone like the ring in a better student's textbook.
 
-The boy made one small surprised sound — not pain, only the shock of being *met* halfway by something he had offered to from nothing — and then light the color of old coin moved once through the room, quietly, and was over. For one moment, thin golden lines stirred beneath the skin of his palm — something vast stirring at the bottom of a well, too deep to see, without waking. Then his hand was a boy's brown hand again. Nobody in the world but a blade of grass felt the stirring at all, and the blade of grass did what it did for every mountain it had ever grown beside: it went carefully around it.
+And with the ring came the ring's teaching — the old way of such gifts, given, not invented. The name arrived on the boy's tongue ahead of his thought, because that is how rings speak: not in words but in a knowing laid down into the hands.
 
-Wulin opened his eyes. The ring was there: around his outstretched hand a single band, yellow — the ordinary hundred-year yellow of a spirit that had truly lived its years — and his own small Blue Silver martial soul lay twined with another grass exactly like itself and not like itself at all, two blades of the same family that had chosen each other. The room was the kitchen again: table, chairs, the geranium, his parents' faces. For the first time in his nine-year life, the breath beneath him was not only his own.
+"Bind," Wulin said, blinking.
 
----
+His martial soul's grass lay across the mat beside the fused one, and they were no longer two. His own blades were broader now, richer at the root-line, edged with the faint silver line the other grass had brought out of its century. Same family in every way the family is same — and another creature entirely in every way ninety-nine winters make different. The smell of after-rain had settled into the kitchen and made itself at home. And his soul power — his modest, politely crouching soul power, three years of hammer-smoke in every thread — *weighed* differently in his chest: heavier, steadier, nearer the bone. Twelve. He knew it the way he had known the grass was answering him: because the knowing was not a thought, it was the ground he stood on.
 
-"He's all right," the grass's deepest part kept insisting to itself, blade by blade, in the deepening light of the boy's opened soul-space.
+"Twelve," Lang Yue said across the room, in the flat and careful voice of a mother who has watched the air change count. "Did he say — was that — "
 
-It had never, in ninety-nine years of being deeply and deliberately asleep, shared a space like this. Its whole nature had only known the privacy of its own long dark, and now it was someplace, and someplace was enormous in a way he had no surviving feeling for: brown-warm, full of slow rivers of a small boy's life, every river running the same honest direction. Down under the rivers — far lower than any root of his had ever reached — the ground was not ground. It was something coiled and warm and immense and deeply asleep: mountain-sized, patient, protected, very old by any year-count a grass chose, and wrapped so completely in the boy's own ground that it belonged there the way a mountain belongs under its plain. The grass looked at it the way grass looks at winter rivers — recorded it, respected it, and kept no digging habit for it.
+"Fusion yield," Tang Ziran said hoarsely, already checking — arms, jaw, the small of the back — with the craft-father's whole attention. "Same-line fusion, hundred-year base, near-perfect match: the ring gives what the match allows. The guides bury it in footnotes and the merchants don't sell it because you can't schedule it. And the lines — the golden lines, Ziran, did you see the lines in his — "
 
-*"What are you?"* the boy whispered to himself, not unbelievingly, holding his hands around the sleeping blade. "What are you called, little sleeping thing on my left-hand shelf?"
+He stopped himself, because the golden lines were no longer blazing. They had folded themselves, done with what they came to do. They rested now as faint branch-veins of lingering warmth under the skin of the boy's arms and along the turn of his back — visible when you looked, quiet when he breathed evenly, brightening only when the ring's light stirred. Marks put onto him by whatever had woken long enough to be a witness. Not an illness. Not a wound. Only a signature, written once and left.
 
----
+"Dad," Wulin said, dazed and bright, flexing his hands around the strange heavier weight of himself. "Mom. The ring taught me the name. Bind. I can feel what it does — not in my head, in my grass, like remembering what hands are for. And the gauge — " he laughed once, disbelieving. "I'm twelve. I'm level twelve now."
 
-"He's all right," the grass's deepest part kept insisting to itself, blade by blade, in the deepening light of the boy's opened soul-space.
-
-It had never, in the course of being asleep a hundred years, shared anywhere near this kind of presence. It was surrounded, and it noticed surrounded now in more detail. Now the overwhelm sagged like rain suddenly on the soil. The boy's soul-body was nothing like the dark it had slept in. Warm lanes ran through it like the lanes of a slow fire, and all of them ran in one honest direction — the particular slowness of this particular boy, that had spent three years being hammered into shape. Beneath the lanes, far below the deepest root it had ever grown, the ground was not ground at all. It was something coiled, and warm, and immense, and deeply asleep: mountain-sized, patient, protected, older than any count a grass could build. It belonged to the boy's ground the way a mountain belongs under its plain. The grass looked at it the way it looked at winter rivers: it recorded it, it respected it, and it kept no digging habit for it.
-
-The grass did not try to find out what the warmth was called. The warmth was older than its ninety-nine years by a way of reckoning; if its study could not hope to hold a shape around the mountain, so what; it was what it was, the ground of this boy, and the ground was to be worked around respectfully, with the skill grass had spent nearly a century acquiring: around, under, beside.
-
-This had always been grass's accommodation for soil with something below it: you did not dig up on the thing that belonged under a hill.
-
-"What are you?" the boy whispered aloud to himself, more startled than anything else, to the ring around his foreacre finger. "What are you called, little sleep-snake-thing on my left shelf?"
-
-The thing in his lap's grass-form had not slept in the meadow-noble sleep the way his filings had assumed. It stirred, faintly — leftward a little, the way grass bends for wind that favors the understory against the wind's larger pull — not far up the arm, a foot or so: the tickle, slight as grass-feet.
-
-"Oh," said the boy, surprised and pleased at once. "You're real. You don't look like much," he added honestly, deciding in the same breath to be the kind of person who says nice things to what he has chosen. "That's all right. Come on. We'll grow together."
-
-It was the first time anything had called the grass *real* the way a person speaks to a person. It answered the only way blade can: it put the whole weight of its ninety-nine years into the smallest bow a blade can give — toward, and quiet, and yours — and pressed, once, against the boy's open palm.
-
-The boy felt the taking land: a root-seal of a yes, small as a seed, done as a fist. Around his wrist, the ring settled deeper and held: the yellow band quiet, the warmth below it unbound but not wild. The boy breathed out — nine years old, half terrified, entirely decided. The joined thing in his lap shifted one blade's-width closer. It was, all at once and forever after, exactly where it belonged.
+"Come," said Tang Ziran, only the barest quarter-beat late, in the workshop-voice that means decisions. "The fence. We verify before we celebrate."
 
 ---
 
+The workshop had a practice post out back — curb-topped, unvarnished, beaten into a small philosophy of stubbornness by three years of an apprentice's hammer-training — and it stood in the yard of Master Mang Tian's smithy with the dignity of things that do not mind being used.
 
+Wulin faced it the way his master had set him facing anvils from the beginning: feet planted, shoulder squared, the first discipline of the body being to give what you send somewhere to come from. He took one breath. He called the ring.
 
-Outside the boy's window, the evening came down off Aolai's small roofs as the moon and the family's lamps took over the long honest work of the next few hundred nights.
+The fusion answered in his grass before it answered in his eyes. Blades of Blue Silver came off the yard's thin soil around his feet — not a whip, not showy. Broad blades, silver-edged, straight as a good foundation, that ran three full strides forward with the steadiness of things that have outlived forty real winters apiece. The blades took the fence-post from all sides at once and closed. The grip was total: every blade laid itself against its neighbor until the post was swallowed in woven grass from the ground to where a man's chest would be. They pulled — not yanked, pulled — and the post, which had been curbed into the earth by a year of hammer-builders' training for knuckles and pack-fittings, creaked.
 
-In the small kitchen, with the soup gone cold uneaten and the envelope worn soft from its three pockets, the parents of the boy with the once-called-waste martial soul traded the whole day in a few breaths: the clerk's sleep-file, the second draw, the smell of rain, the color of the ring. The yellow.
+Ring-light ran the knot like gold-hearted dew along a branch: every blade stayed exactly as the price said. It cost soul power, and the cost was honest: he felt it like warmth leaving his hands — steady, sizeable, fair for the grip that shifted an anchored post sideways in the ground. Hold. Control — the ring's own system, the same one the guides called his grass's best home before the fusion: control the situation, do not try to burn it. Without him asking, the blades did not slip, fray, or go racing. They held. Twenty counts of his breath; twenty-eight; and then he told them stop with the small inward word of a boy who knew better than to get cheek-proud. The blades loosened, thinned, and settled back into the yard's soil like rain done with its rain.
 
-"Yellow," Tang Ziran said at last, tasting the word the way a smith tastes an edge that came out truer than his own hand expected. "The cheap drawer doesn't make yellow. Every filing guide I have ever read says white, or nothing. You cannot draw a hundred-year soul spirit out of the thirty-thousand shelf. It's not a thing that *happens*."
+Bind had a shape because the boy understood *hold*.
 
-"Then perhaps the filing was the wrong thing," Lang Yue said. She said it evenly, folding the dishtowel with the correctness of a woman who had watched the boy's face at the door and drawn her conclusion there, not in the guides. "Perhaps the grass was the real draw, and the file that called it defective was the defective one. Wulin has not yet met the living thing he is prepared to call broken. He is nine. May he have that in him for years yet."
+The parents, standing in the yard's evening triangle, watched his quiet demeanor while he rested on the fence's break. Tang Ziran picked up the post's loosened end with his full smith's arm and put it back where the ground wanted it: one breath, two — that alone measured the strength of Bind for a hundred years of hardwood under his fingertips.
 
-She paused, and the kitchen's small lamp put her age in her eyes and her youth in her smile at once.
+"It isn't an aggression-skill," he said lastly, with the interruptive care of a blacksmith who just found out his own anvil answers to his boy's given name. "Nothing of the throwing kind, no cutting, no power to hurt if you do not hold you down. Control of the opponent. The strongest soul skill family the guides give to a Blue Silver system — in the footnotes with no yield tables, because a common grass almost never finds its compatible fusion."
 
-"I don't care what the file says, Ziran. I care that our son stood in front of a shelf full of things the world had already judged, and chose the one that was asleep, and brought it home, and was right."
+"He held it twenty-eight breaths," said Lang Yue.
 
-"So do I," Tang Ziran said. He meant every word of it — through the washing up, the locking of doors, a craft-father's evening rounds. Upstairs, in the boy's warming, settling sleep, the new-joined spirit rested in a soul-space wider and kinder than any hill it had ever woken on. And the grass, in the deep place where grass keeps its knowing, set one small root-hair in this ground's good soil: the way, across ninety-nine winters, it had learned to set a first root. Then, at the proper pace of living things, it began to grow.
+"He held it until he stopped. That's an eternity on a first skill, new fused, at — " Tang Ziran stopped himself regarding the country's quiet knowledge: the PLAIN fact, the one that does not travel: a nine-year-old boy, with one yellow ring, first rank, first skill, twelve. "We won against the file's whole staff," he finished, with the same definiteness a craftsman finishes a made thing and sets down the last hammer of it — "and against what the file's own nature said could be made in it. Wulin."
 
-*The ring was yellow; what rooted in the soul-space that first night was green.*
+"Yes, Dad."
 
+"You will go to school and you will do exactly as much as rank twelve fused-same-line means you can: you'll train, you'll mend, you'll climb, and you will stay the boy I know, who chose a sleeping grass when everyone was saying there was nothing. Is that right?"
+
+"Yes, Dad."
+
+"That's the whole classroom, except for sleeping and eating. Bed."
+
+They walked him back through the yard's settled quiet, past the lamplight strung over the small roofs. The faint gold of his new lines moved once at the backs of his arms, settled, and was only the boy again. Upstairs, the city would start its small morning motions soon, and the boy slept through the noise of new rooms opening in him. He would know Bind again when he needed it — it was not his fascination; it was one skill he had been handed the same way hands are handed. Its prices were his now. Celebrate afterwards — that was the house rule, and the house kept its own ledger.
+
+---
+
+In the small kitchen, with the soup cold uneaten and the envelope worn soft from its three pockets, the parents of the boy with what the file had called a waste martial soul exchanged the whole day in a few breaths: the clerk's sleep-file, the second draw, the smell of rain. The yellow ring. The twelve walking up out of the fusion like it had already been there waiting for respect. The skill that had named itself at the same instant the boy learned it — Bind, plain as smith's speech, the control family, the one the footnotes said a true Blue Silver kept.
+
+"Yellow," Tang Ziran said finally, tasting the word the way a smith tastes an edge that came out truer than his own hand expected. "Level twelve at nine. Rank-ten common grass — that was our prepayment for the anvil of learning the first lesson. Golden lines in the boy's skin during fusion, faint after, there when the ring moves. A first soul skill called in plain words twice before we reached the yard. The thirty-thousand tier doesn't make this, Lang Yue. It has never made this."
+
+"Then the filing was the wrong thing," she answered, in her usual level correctness, with one eyebrow lifted toward the stairs. "I don't care about filed information. I care that our son stood in front of a shelf the world had judged, from a drawer the clerk had been kind enough to warn us off, chose the thing asleep, brought it home, and was right."
+
+"So do I," Tang Ziran said. He meant every word of it — through the washing up, the locking of doors, a craft-father's evening rounds. Upstairs, in the boy's warming, settling sleep, the new-joined spirit's hundred-and-first year had already begun the way all its years had: quietly, with intention, at the correct pace of paid seasons. And the grass, in the deep place where grass keeps its knowing, set one small root-hair in this ground's good soil. Then, at the pace living things choose when no one is hurrying them, it began to grow.
+
+*The ring was yellow, and the level that came calling the next morning to every register in the city was twelve; what rooted in the soul-space that first night was green.*

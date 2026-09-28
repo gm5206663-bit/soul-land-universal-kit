@@ -1,12 +1,21 @@
 # FUSION AND GROWTH MECHANICS (binding law — corrected per the Master Foundation)
 
-## The fusion (canon machinery + licensed butterfly)
-- Wulin's martial soul = Blue Silver Grass; a same-kind soul spirit binds at the ring level with full
-  natural resonance. Same-kind pairing deepens the ring's quality — that's canon logic, not cheat.
-- Age at contact: 99 (file: dormant scrap [design pending]); the hundredth year crosses IN the fusion —
-  the bond's living warmth carries him over the century line. Ring = **yellow** from day one.
-- Cost law (Master §resource economy): the crossing is not free — both are spent for days; rank 11 is
-  earned in training AFTER, never granted by the ring alone (talent grants capacity, the boy grants rank).
+## The fusion (AUTHOR-LOCKED ruling of 2026-09-29; supersedes all earlier sketches)
+- Same-kind pairing (BSG martial soul × BSG soul spirit, both parties genuine) = **perfect compatibility**.
+  The guides bury it in footnotes because it can't be scheduled; the book's whole job is not cheating it.
+- Age at contact: 99 → crossed **100** IN the fusion. A tier crossing is not arithmetic: it is a
+  breakthrough door — and a breakthrough carries the **chance of awakening** (canon: evolution events are
+  'awakenings' — second-awakening doctrine applies by family). Our fusion carries the grass's first
+  awakening: the joined thing's quality step (silver-lined blades, richer life-presence).
+- **Golden lines** appear on Wulin during fusion and remain faint after / flare when the ring moves —
+  the ember's witness-mark, never explained (gag sealed).
+- **Fusion yield = rank 12** at nine (ring's hundred-year base × perfect compat); foundations all rise:
+  martial-soul quality, soul-power quality, body/temper.
+- Official ring skill = **Bind** (canon family name; ring-teaching arrival), control system: blades run,
+  weave-close, HOLD while power feeds; priced drain; no attack variant; no second skill on one ring (§C1
+  sibling law stays binding).
+- Cost law stands: afterglow fatigue is real, and future ranks cost training as always — the yield is
+  the once, not the habit.
 
 ## The first SKILL — canon rule now governs (strikes §C1 applied)
 The ring's official skill comes from WHAT THE GRASS ACTUALLY IS: a hundred-year control-family Blue
