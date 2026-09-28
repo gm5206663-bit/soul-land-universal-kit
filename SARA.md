@@ -522,3 +522,12 @@ and inherited into the grass itself (the ring's silver-thread = the mutation's s
 at canon's pace — Adaptation Talent governs integration so the mutation matures instead of flaring).
 Rule that stays: the gag hides NAMES, never flesh; never erase a canon mechanic to keep a serial tidy.
 — Sara
+
+### 2026-09-29 (late) — the color law and the strength law
+Two rulings today. One: the mark of the inheritance is GOLDEN (silver belongs to the grass's own
+name — Blue Silver); I had painted the mutation silver and was corrected. Canon check confirmed the
+official article exists: Golden-Veined Blue Silver Grass, and canon's benchmark that Mang Tian cannot
+bare-hand snap the fused strand. Two: mutation is never a brand — it carries good strength from the
+dragon-essence current, the grass is not weak, and with that + own-line regeneration + 100-y base +
+perfect compatibility, OUR Bind is now expressly stronger than canon's equivalent, consequence-priced.
+Verify first, always. — Sara

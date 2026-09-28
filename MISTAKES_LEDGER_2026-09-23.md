@@ -19,15 +19,17 @@
 
 ## THE COUNT
 
-**151 distinct recorded mistakes (128 through §L, plus §M 8, §N 8, §O 2, §P 1, §Q 1) · 13 author strikes that became standing law · 5 disasters · 23 still open or author-gated.**
+**152 distinct recorded mistakes (128 through §L, plus §M 8, §N 8, §O 2, §P 1, §Q 1) · 13 author strikes that became standing law · 5 disasters · 23 still open or author-gated.**
 
 ---
 
-## §R · FOUNDING-STRIKE acquires its row (2026-09-28)
+ acquires its row (2026-09-28)
 
 | # | Mistake | Correction & law born | Receipt |
 |---|---|---|---|
 | R2 | **Canon-touching prose written without the canon check.** Author: *"Problem many... you don't check canon information completely... one strick rule: you always check my GitHub and online canon always always."* — ch 1 shipped a fusion without the named canon skill, under-tiered the breakthrough (no awakening), hid the golden lines, and gave the wrong rank. | The **STRICT RULE**: before any canon-touching passage, check the kit + online canon, always. Plus his immediate rulings locked: Bind (canon skill name, ring-taught), tier-crossing = awakening event, golden lines on the boy after breakthrough, rank 12 at nine (perfect-compat yield), all foundations raised.; ch 1 ver.B rebuilt same-turn; measure re-gated. | `soul_land_3_fanfiction/` ch 1 ver.B; `NO_MISTAKE_LIVE_RULES.md` STRICT RULE; HANDOFF.md law section; SERIAL_LOG 004 |
+| R4 | **Color-collapse + strength-nerf on the inheritance** (2026-09-29 high-strike). Author: *golden lines or aura, not silver — silver's already the grass's name-color; the mutation must effect 'good strength from the Golden Dragon essence', not be a brand; our Bind is then stronger than canon, plus BSG's own regeneration — verify first, always.* | Retcon: mutation-mark = GOLD everywhere (STATUS v4, ch1/ch2 retconned); ch: golden veins + aura included for the spirit; canon article Goldline-Veined verified (Mang-Tian-can't-snap benchmark); licensed divergence law logged: OUR Bind = remarkably stronger than canon's, consequence-priced. Ruling kept: color law — *silver belongs to the grass's name; gold to the mutation.* | OC_STATUS v4 §3/§4/§6/§7/§7.5; ch1-2 silver→gold retcon |
+
 | R1 | **The Adaptation Talent re-invented blind.** Author: *"What the hell you make Adaptation talent, go check my GitHub... understand everything completely."* — the new SL3 project's foundation had presented an invented effect-list as "the talent" without reading the house's locked system. | Full-corpus study before any mechanism claims. Law: NO MECHANISM is invented where the author has an established system — read the established file first; then write a §76 module under the locked core. | `soul_land_3_fanfiction/foundation/NO_MISTAKE_LIVE_RULES.md` (banned-inventions), `bible/PROTAGONIST.md` (M1–M3-QL), SARA.md 2026-09-28 |
 
 ---

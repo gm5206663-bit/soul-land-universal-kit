@@ -45,7 +45,7 @@ The noise moved through the desks the way a wind moves through a reed bed — on
 
 He released the ring.
 
-It came out across his knuckles: yellow — full, steady, unembarrassed — with the fine thread of silver light turning inside its mild rotation the way a clock's finer movement shows beneath a clean face. The class went so quiet the dust in the sun-beams through the windows seemed louder than the students.
+It came out across his knuckles: yellow — full, steady, unembarrassed — with the faint golden vein-light turning inside its mild rotation the way a clock's finer movement shows beneath a clean face. The class went so quiet the dust in the sun-beams through the windows seemed louder than the students.
 
 The color was correct for a hundred-year soul spirit. At the price tier that ring had been drawn at, it did not belong. The class's forty small hearts did their arithmetic very quickly, and it came out in their young nostrils like the required answer of an absolutely different problem.
 
