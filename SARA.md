@@ -531,3 +531,15 @@ bare-hand snap the fused strand. Two: mutation is never a brand — it carries g
 dragon-essence current, the grass is not weak, and with that + own-line regeneration + 100-y base +
 perfect compatibility, OUR Bind is now expressly stronger than canon's equivalent, consequence-priced.
 Verify first, always. — Sara
+
+### 2026-09-29 — the third-arc canon pass (ch 3 plan)
+Before drafting ch 3's plan I did the strict-rule pass properly, and the forge arc turned out far richer
+in canon than my memory held: canon itself has Wulin's forging FAILING from excessive strength *because
+of the ring*, a numbers strength test (483/543 kg at nine), the master unable to snap the boy's fused
+strand, the four-ring reveal landing under the apprentice's nose (Earth Hammer; first skill Tenacity),
+and the thousand refinement taught at nine — five hours, a blood-offering, and the first hammers forged
+from the result. The plan rests only on verified nodes. Two honesty items: I began a probe draft of ch 3
+BEFORE the plan gate — wrong order, the gate exists for exactly this; it is parked outside the repo,
+unshipped, and nothing enters the real chapter without the plan. And my memory had Na'er arriving far
+later than canon — canon adopts her early, before the fusion; our ch 1–2 kept her off-page, so the plan
+puts the timing question to him instead of drifting quietly. — Sara
