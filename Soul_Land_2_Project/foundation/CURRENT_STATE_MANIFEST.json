@@ -1,0 +1,123 @@
+{
+  "schema_version": "1.0-rerail",
+  "updated": "2026-09-20",
+  "project": "soul_land_2_unraveled_tide",
+  "purpose": "Machine-readable current-state manifest. The STATUS_PANEL.md is the human source of truth; this file is what a checker reads. If the two disagree, the panel wins and this file is a defect.",
+  "live_edge": {
+    "fic_chapter": 23,
+    "fic_title": "The Watching",
+    "fic_file": "chapters/chapter_23.md",
+    "state": "after Chapter 23, 'The Watching'"
+  },
+  "canon_consumed_through": {
+    "chapter": "17-4",
+    "note": "canon ch 17-4 held whole in ch22 (bracket's posting; Ma Xiaotao at the venue; ring-hunt setup: prize, window, shape); ch23 claimed no canon beat of 17-5 (no clean primary text obtainable in-session; the match is a designed ensemble, flagged — see coverage receipt)"
+  },
+  "next": {
+    "fic_chapter": 24,
+    "source": "canon ch 17-5 (research at Ch24 writing — do not write from memory; the second line of the bracket — the name on the board the year has not yet earned; the prize's standing at the top of the tree)"
+  },
+  "ranks_live": {
+    "huo_yuhao": "17-peak (verging 18)",
+    "wang_dong": "23",
+    "jiang_che": "29 (wall at thirty; third-ring hunt planned, not triggered)",
+    "note": "codex per-chapter 'Ranks:' lines are the source of truth, in the order 17-peak / 23 / 29 = Yuhao / Wang Dong / Jiang Che (Ch15-16 records + ch15/16 prose); unchanged Ch17-23"
+  },
+  "group_one": {
+    "members": [
+      "Huo Yuhao",
+      "Wang Dong",
+      "Xiao Xiao",
+      "Jiang Che (the courier)"
+    ],
+    "record": "4-0 first round; knockout first line BENT (the watching gone — a first loss, no description); second line on the board, unread (a line not yet earned stays on the board)",
+    "rumor": "Group One rearranges the ground and the ground wins"
+  },
+  "rings_jiang_che": [
+    {
+      "n": 1,
+      "beast": "Overlord Vine",
+      "age": "~400",
+      "color": "yellow",
+      "skill": "Tide Bind"
+    },
+    {
+      "n": 2,
+      "beast": "Sun Flower",
+      "age": "~740",
+      "color": "yellow",
+      "skill": "Photosynthetic Renewal"
+    },
+    {
+      "n": 3,
+      "beast": "RESERVED",
+      "note": "ruled 2026-09-20 (R5 closed): the third-ring event is the wall at thirty — the serialization's prose is the live wording (ch15: 'the thirty-bottleneck ahead — the rank-wall where the third ring must come'; ch16: 'the wall at thirty, the hunt planned'); the design-era '20-wall' wording is SUPERSEDED, kept for provenance only, reversible; hunt planned, not triggered; ring-config law says purple (3–4); a story, not a stat"
+    }
+  ],
+  "required_status_patterns": [
+    "Live edge: after Chapter 23",
+    "chapters/chapter_23\\.md",
+    "The Watching",
+    "17-peak / 23 / 29",
+    "Group One.*4-0|4-0.*Group One",
+    "Canon consumed through.*canon ch 17-4",
+    "the wall at thirty|thirty-bottleneck",
+    "rank 25.*superseded|SUPERSEDED.*rank 25|design-era.*superseded",
+    "foundation/STATUS_PANEL.md"
+  ],
+  "known_superseded": [
+    {
+      "field": "quick_reference_rank",
+      "was": "arrives already BUILT (rank ~25, two rings) at the canon convergence",
+      "now": "rank 10 at Chapter 1 (two yellow rings); 29 at the Ch21 edge (wall at thirty)",
+      "source": "serialized chapters + codex per-chapter Ranks lines",
+      "ruled": "2026-09-20, re-rail"
+    },
+    {
+      "field": "dossier_current_through",
+      "was": "JIANG_CHE_STATUS v4.1: 'End of Chapter 15'",
+      "now": "End of Chapter 21 (v4.2 sync)",
+      "source": "the chapter files themselves",
+      "ruled": "2026-09-20, re-rail"
+    }
+  ],
+  "key_support_files": [
+    "README.md",
+    "foundation/STATUS_PANEL.md",
+    "foundation/NO_MISTAKE_LIVE_RULES.md",
+    "foundation/KNOWLEDGE_FIREWALLS.md",
+    "foundation/CANON_LEDGER.md",
+    "foundation/CONTINUITY.md",
+    "foundation/OPEN.md",
+    "foundation/SERIAL_LOG.md",
+    "THE_CODEX.md",
+    "JIANG_CHE_STATUS.md",
+    "CONTINUATION_PROMPT.md",
+    "../CODEX/06_PROJECT_SOUL_LAND_2.md"
+  ],
+  "gate": {
+    "verify": "v2 (unified, 2026-09-20)",
+    "chapter_gate": "23/23 PASS 2026-09-20",
+    "project_sweep": "hard gates clean 2026-09-20",
+    "selftest": "22/22"
+  },
+  "open_rulings": [
+    "R1 name-digits",
+    "R2 CJK dialogue translations",
+    "R3 corpus-wide mark convention"
+  ],
+  "known_corrections": [
+    {
+      "field": "ranks_live_mapping",
+      "was": "jiang_che=17-peak, huo_yuhao=23, wang_dong=29",
+      "now": "huo_yuhao=17-peak (verging 18), wang_dong=23, jiang_che=29",
+      "source": "codex Ch15-16 records + ch15/16 prose (on-page dialogue)",
+      "ruled": "2026-09-20, same-day correction after author flag",
+      "receipts": [
+        "foundation/SERIAL_LOG.md",
+        "audits/2026-09-20_RE_RAIL_RECEIPT.md (addendum)",
+        "foundation/STATUS_PANEL.md §0"
+      ]
+    }
+  ]
+}

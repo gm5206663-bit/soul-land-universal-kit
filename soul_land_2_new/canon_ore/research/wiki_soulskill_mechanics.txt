@@ -1,0 +1,41 @@
+ORE: wiki_soulskill_mechanics · POINTER-CLASS (never quoted as canon in chapters)
+Fetched 2026-09-22, author-ordered audit ("go check how work's")
+
+== SOURCES ==
+A. soulland.fandom.com/wiki/Soul_Skills
+B. soulland.fandom.com/wiki/White_Tiger
+C. soulland.fandom.com/wiki/Dai_Weisi/Abilities
+D. baike.baidu.com/en/item/Dai_Mubai (Dai Mubai full skill table)
+E. r/SoulLand community notes (COMMUNITY-CLASS, soft)
+
+== THE MECHANICS LAW (A) ==
+1. ONE skill per soul ring / soul bone. Exception: 100,000y+ carries TWO; a 1,000,000y
+   ring may carry up to FOUR.
+2. Skill originates from the soul beast — tied to ring age; pattern tailored to the master.
+3. SKILLS SCALE: the granted effect is proportional to ring age (base grade) and can grow with
+   the user's soul power. Canon yardstick (their doppelgänger example):
+   10y → 10% · 100y → 30% · 1,000y → 50% · 10,000y → 80% (→90% w/ matching bone) · 100,000y → 100%.
+4. Skills can MUTATE (e.g. Tang San's Blue Silver Cage) — mutations ≠ the second skill of a 100k ring.
+5. Ring-merging exists: superimposing rings raises output (Huo Wu; Xu Sanshi's Xuanwu Roar).
+6. At rank 70 + 7th ring: Martial Soul True Body / Avatar — qualitative step, huge general buff (E).
+
+== THE WHITE TIGER LINE (B, C, D) — beast-soul measuring stick ==
+Type family shown in canon: barrier · wave · transformation · AOE · nuke · avatar.
+- Initial: constitution of the white tiger; claws, muscle expansion, strength up
+- 1st WHITE TIGER BARRIER/Shield Body Barrier (yellow): white-light layer; strength & defense up;
+  classed "self-enhancement/amplification", one of the line's three great enchantment skills
+- 2nd WHITE TIGER INTENSE LIGHT WAVE (yellow): ranged light blast from mouth/body
+- 3rd WHITE TIGER VAJRA TRANSFORMATION (purple, donor: VAJRA TIGER): body grows, stripes/king-mark;
+  +100% physical strength, attack, defense; ~30-minute window; one of the three enchantments
+- 4th METEOR SHOWER (purple): AOE light spheres, EACH = one-tenth of user's soul power
+- 5th WHITE TIGER DEVIL GOD TRANSFORMATION (black): +150% str/atk/def; STACKS with Vajra Transformation
+- 6th ANNIHILATION/DESTRUCTION KILL (black): huge finisher; manhua note: uses 50% of total soul power
+- 7th WHITE TIGER TRUE BODY: avatar transformation
+KEY PRECEDENT (C): Dai Weisi's 4th = WHITE TIGER EARTHQUAKE + derivative GROUND SEAL —
+  donor/expressed EARTH-type control skills worn by a White Tiger ⇒ element expression flows
+  through the beast soul from the donor. (Supports L-09 attribute-graft adjacency.)
+== ABSORPTION EXTRAS (D/E, soft) ==
+Ring absorption raises physique/stats proportional to the beast's own (separate from the skill).
+== FANFICTION WARNING ==
+The "soul power shell / soul skill pattern" essay (webnovel 'Peerless Gu Master' ch 207) is
+FANFICTION — useful intuition only, NOT banked as canon.

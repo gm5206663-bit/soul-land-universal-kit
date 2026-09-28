@@ -1,0 +1,33 @@
+{
+  "project": "Miraculous Ladybug — Tight S1 AU (working title: The Chameleon)",
+  "spine": "canon_extract/SEASON1_INDEX.txt — 26 slots, production order 101–126",
+  "oc": {
+    "name": "Keal Walker",
+    "names": ["Keal Walker", "Keal"],
+    "aliases": ["the Walker kid", "the new kid"],
+    "hero_form": "Chameleon",
+    "kwami_name": "Kamé",
+    "kwami_alias": "Kame",
+    "jewel": "Chameleon Cuff",
+    "transform_phrase": "Kamé, blend in!",
+    "detransform_phrase": "Kamé, stand out.",
+    "ultimate": "Evolution!",
+    "weapon": "Versa-Staff"
+  },
+  "identity_lock_note": "Until a footer State Line reads Cuff: BOUND, prose must NOT contain the hero identity 'Chameleon' (capital C), 'Versa-Staff', or 'Evolution!'. Lowercase 'chameleon' as animal/metaphor is legal. Until the Kwami arrives (Kamé footer state != 'not arrived'), prose must NOT contain 'Kamé' or the transform phrases.",
+  "resonance_start": 20,
+  "resonance_max": 100,
+  "voice_min_turns": 4,
+  "butterflies_min": 3,
+  "presence_fail_after": 3,
+  "banned_meta": ["the author", "dear reader", "as the reader", "next chapter", "to be continued", "the narrator", "this story is", "as we will see"],
+  "voice_tics": ["on the record", "as a chameleon i", "naturally, as", "as one might expect", "it should be noted", "let us be clear", "i would like you to notice", "it's worth noting", "it is worth noting", "the answer arrived fully formed", "his body computed", "a picture assembled itself", "the certainty came before", "nothing would be the same", "everything was about to change"],
+  "hawkmoth_body_verbs": ["walked", "stood", "sat", "stepped", "nodded", "smiled", "gestured", "leaned", "pointed", "stroked", "clapped"],
+  "reveal_locks": {
+    "HAWKMOTH_IDENTITY": "prose must never state/link the identity behind Hawk Moth unless a D-row id REVEAL-HM with status ACTIVE exists in DIVERGENCE_LEDGER.md",
+    "LADYBUG_IDENTITY": "prose must never state/link Marinette = Ladybug unless D-row REVEAL-LB is ACTIVE",
+    "CATNOIR_IDENTITY": "prose must never state/link Adrien = Cat Noir unless D-row REVEAL-CN is ACTIVE"
+  },
+  "talent_vocab": ["read the room", "mirrored", "matched", "fit in", "eighty percent", "the dial", "strongest", "top of the class", "everyone's eyes", "kept his head", "reflex", "tuned", "steady", "the talent", "adapted around", "three moves ahead", "his nature", "every single part of him", "every part of him"],
+  "talent_vocab_note": "CORRECTED 2026-09-04 (user ruling, FINAL): the ADAPTATION TALENT (innate) is the OC's OWN NATURE — part of him, not an external tuner; because it is him, it DEPENDS ON HIM, and its effect works on EVERY SINGLE PART of him — body, mind, voice, reflexes, coordination, emotions, instincts, social sense — every function, comprehensive. Concretely (user-specified): very strong, handsome, intelligent, and 'all things' — as his nature, human-level, never a superpower. The 'human ceiling' framing is REPLACED — do not frame the talent as a ceiling or 'the peak of every human attribute'. The talent is USER-GOVERNED — its specifics are decided by the user, not invented. The ADAPTABILITY ABILITY (the Miraculous of Adaptability: active camouflage, Versa-Staff, Evolution!) is COMPLETELY A DIFFERENT THING — not the talent amplified, and the talent not its base; the Cuff adds a different thing, it does not make the talent 'more'. The talent must be written as witnessed excellence + adaptation under pressure (the crowd notices, the camera finds him, the crisis shows his steadiest/strongest self), NEVER as invisibility or backgrounding. PROSE LAW: in every 3-chapter window, at least one chapter in which the OC is present must show talent vocabulary."
+}

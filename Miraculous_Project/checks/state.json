@@ -1,0 +1,100 @@
+{
+  "chapter": 4,
+  "position": "end of chapter 4",
+  "canon_slot": 5,
+  "canon_title": "Dark Cupid",
+  "resonance": 38,
+  "cuff": "BOUND",
+  "kwami": "BOUND (arrived slot 1)",
+  "evolution": "unused",
+  "camouflage": "active (hero form bound; public in three fights — the storm anchor + the green hand + the green gap; the green hand rested in the slot-4 fight — absent from the video)",
+  "oc": {
+    "name": "Keal Walker",
+    "age": 13,
+    "class": "same year as Marinette & Adrien (the college)"
+  },
+  "akumatized_total": 4,
+  "butterflies_total": 24,
+  "hawks_knows": [
+    "there was a third presence in the park (sensed during the fight; not identified)",
+    "the storm vlog (the face in the ice + the 4:12 blur)",
+    "the new kid's frustration at Dupont (the science classroom marked)",
+    "the city is hunting Ladybug for him (Lady Wifi's deal + the projector broadcast: show all of Paris who Ladybug is)",
+    "the green one is named-to-himself",
+    "the torn letter (the new kid's face marked at the classroom and the limo curb — sensed)",
+    "the voice's own question: the green hand and the new kid — same face, or two"
+  ],
+  "layout_note": "top-level fields = CURRENT values (mirror the newest chapter's footer); per-chapter history lives in top-level string keys \"1\", \"2\", ...",
+  "1": {
+    "resonance": 26,
+    "cuff": "BOUND",
+    "evolution": "unused (limit per POWER_MODEL: hard de-transform 5 min after use)",
+    "kame": "BOUND (arrived in the ice, slot 1; demands candy)",
+    "akuma": 1,
+    "butterflies": 6,
+    "oc_turns": 6,
+    "d_rows": [
+      "D-001",
+      "D-002",
+      "D-003",
+      "D-004",
+      "D-005"
+    ],
+    "anchors": "S1 slot 1 (Stormy Weather): 18%/82% loss, parasol, the deal, frozen elevator, windstorm + railings, carousel frozen whole, yo-yo fails on ice, Cat Noir through four cars, lamppost tail-grab, synchronized jump, bus, all-of-France forecast, TVi dark chase, towel, billboard + Cataclysm + lightning hole, boot-wrap + crane fall, parasol drop/catch/snap, purification, full repair, Manon shoot denouement, the sigh, the Alya-is-Ladybug joke",
+    "canon_slot": 1
+  },
+  "2": {
+    "resonance": 31,
+    "cuff": "BOUND",
+    "evolution": "unused (limit per POWER_MODEL: hard de-transform 5 min after use)",
+    "kame": "BOUND (arrived in the ice, slot 1; demands candy; has now tasted the Seine)",
+    "akuma": 1,
+    "butterflies": 6,
+    "oc_turns": 12,
+    "d_rows": [
+      "D-001",
+      "D-002",
+      "D-003",
+      "D-004",
+      "D-005"
+    ],
+    "anchors": "S1 slot 2 (The Evillustrator): Super Nathan fantasy, comic in Ms. Mendeleiev's science class, Mylène's backpack trip, Chloé reads it aloud + rips the last page, akuma on the stylus, the deal (both Miraculouses), form = his own drawing, groups (Nino-Adrien-Alya + Keal; Chloé-Sabrina-Marinette), Chloé's complaint + deal with it, Alya's wingwoman offer, the locker confrontation, Sabrina's new best friend, the library fight (Gabriel berets, giant hairdryer, the ride, the bad-hair-day pun, the staff smash, the barrier escape), the Seine party (the ship, the moon clouded, the illuminated globe, the miniature Eiffel Tower, the bench, the notes), the exclamation-mark invitation, the betrayal (the cube, the hole, the sinking, the promise broken), the escape (the baton angle), the final fight (crying practice, door/closet/bed erased, the giant heel broken, the monologue, the three gloves, the glass barrier, the saw blade, the staff in two, the light broken, Cataclysm on the switch, the switch pre-erased, the ball-and-chain, the Cat Miraculous demand), Lucky Charm = bouncy ball, all lights out, the stylus broken, the one-minute ring, de-evilize, full repair, denouement (Alya interviews Chloé, the complaints, Marinette's laugh, Sabrina in the beret, the project), the locker (Adrien's startle, the most awesome of awesome, the pat, Tikki's control-your-emotions), the end-card comic",
+    "canon_slot": 2
+  },
+  "3": {
+    "resonance": 35,
+    "cuff": "BOUND",
+    "evolution": "unused (limit per POWER_MODEL: hard de-transform 5 min after use)",
+    "kame": "BOUND (arrived in the ice, slot 1; demands candy; keeping a count)",
+    "akuma": 1,
+    "butterflies": 6,
+    "oc_turns": 6,
+    "d_rows": [
+      "D-001",
+      "D-002",
+      "D-003",
+      "D-004",
+      "D-005"
+    ],
+    "anchors": "S1 slot 3 (Lady Wifi): literature classroom photo cut-out (Alya cuts Ladybug's face out, holds it to faces, stops on Chloé, Chloé points at Miss Bustier) + Marinette absent in the girls' room · after school: Alya's voicemail, Chloé's Ladybug items (costume + yo-yo) in her locker · Nino's skepticism (Chloé too narcissistic) + the Adrien-disappears detail · TVi news (Nadja) with the recognizable yo-yo · the note at the bakery ('Call me. I know who the REAL Ladybug is!!'), no signal / the roof workman, Marinette asleep at her desk · the hour-late morning + the stumble (the red-haired girl trips into the new kid at the gate at eight fifty) · Nino distracting Chloé, Sabrina + Kim catching Alya, the Principal's office, detention → the week's suspension via Mayor André Bourgeois · the akuma on Alya's cellphone + the deal (Hawk Moth: 'seeking to unmask Ladybug... I'd like to help you if you agree to help me too'; Alya: 'I will expose the lies of anyone who tries to cover up the truth. Sign me up!') · the projector broadcast ('the deliverer of truth') · Damoclès frozen (pink pause icon) · Adrien transforming (reasoning Lady Wifi will visit Chloé) · Cat Noir on all fours, rooftop across from Le Grand Paris · Chloé in the Ladybug costume practicing her yo-yo (the huge-fan reveal) · the teleport into the room, Chloé frozen, the recording opened, the mistake realized · the lure to the basement (no signal) · the lock icons on every floor · Cat Noir's 'know each other outside the costume' + Ladybug brushing it off · the dining area phone-on-every-table, smashing the phones · the kitchen lock, the service elevator · the hands locked, the mask magically glued · the ring knocked off in the freezer, the forced de-transform, Plagg too cold · Hawk Moth advising (force Lucky Charm) · the rooftop broadcast to all of Paris · Lucky Charm = the frozen meal, the non-microwaveable icon + microwave, the signal diffused, the doors unlock · Adrien finding the ring, nearly frozen, passing out on Ladybug, waking, the shortened time · the pot over the camera, the food elevator, the staff thrown, Cataclysm on the signal receiver, the earrings' two spots, the phone yanked + smashed, the akuma caught, Miraculous Ladybug · the closet ('nobody must know who we really are, not even us') · Adrien/Plagg ('the love of his life', 'I can't think when I'm with Ladybug') · the next day's balcony (the secret-identity talk, the new phone, the Adrien-costume drawing, Marinette offended, the phone-grab chase)",
+    "canon_slot": 3
+  },
+  "4": {
+    "resonance": 38,
+    "cuff": "BOUND",
+    "evolution": "unused (limit per POWER_MODEL: hard de-transform 5 min after use)",
+    "kame": "BOUND (arrived in the ice, slot 1; demands candy; sang in the fog — the harmony)",
+    "akuma": 1,
+    "butterflies": 6,
+    "oc_turns": 9,
+    "d_rows": [
+      "D-001",
+      "D-002",
+      "D-003",
+      "D-004",
+      "D-005"
+    ],
+    "anchors": "Kept from S1 slot 4 (Princess Fragrance): the TVi cold open (last week's off-camera Eiffel-Tower akuma + the hotel/signal/pause icon) · the week's preferred wrong (Chloé is Ladybug) · the sick kwami (Tikki's flu; the healer held; the promise to take her after class) · the science class (Rose on her phone, the prince, the toy drive, the letter, the perfume, Ms. Mendeleiev's flammability demo) · Adrien's arrival + the notes push + the trip + the launch + Adrien's catch · the lost kwami (the red blur; Chloé's \"toy\"; the limo) · the torn letter (Chloé mocks + tears; Rose's heartbreak) · the bench under the Seine (the second letter, the tears, the akuma on the perfume, the deal, the transformation) · the hotel (the doorman's \"no friends,\" the pizza-box disguise, the elevator, Chloé's door-slam, the stairwell) · the event (the prince, the mayor, the fireworks-boat line, Chloé's \"toy\" gift, Tikki in the pocket, Nadja's interview) · the green spray on Chloé + the stink · the bowing paparazzi · the introduction + the threat · the confetti (Marinette, the synthesizer) · Adrien's transform (the broadcast, the prince in danger, Plagg) · FIGHT 1 (the hideout, the reinforced door, the perfume under the door, the vacuum, the unplug, the mayor's bolt, the fog, the waiter, the mayor brainwashed, the kitchen peek, Cat Noir's entrance, the quick battle, the staff-slide evacuation, the car chase, the rocket spray, the car spray, the cat caught mid-leap) · FIGHT 2 (the car floor, Tikki escaped, Fu's, the transform despite the sick kwami, the bridge, the love lock, the controlled Cat Noir + the earrings, the sky spray, the flammability memory, the fireworks boat, the trick-shove, the staff-pull, the Cataclysm on the panel, the fireworks launch, the fog burns, the balloon Lucky Charm, the straw + the gun, the break, the akuma caught, the balloon toss, the cleanse) · the denouement (the prince, the biggest fan, the confession, Chloé's shove, the refusal, the hospital, the new friend Rose, the fireworks at the Pont des Arts) · the no-\"Pound it!\" truce.",
+    "canon_slot": 4
+  }
+}

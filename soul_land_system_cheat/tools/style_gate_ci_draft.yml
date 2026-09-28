@@ -1,0 +1,21 @@
+# CI DRAFT — the style gate as a GitHub Action.
+# The current token lacks `workflow` scope, so GitHub rejects pushes that
+# create files under .github/workflows/. To enable: copy this file to
+# .github/workflows/style-gate.yml (kit root) and push with a token that
+# has the workflow scope (Settings -> Developer settings -> PAT -> scopes).
+# Until then the gate runs locally on every chapter edit — same checks.
+name: style-gate
+on:
+  push:
+    paths:
+      - 'soul_land_system_cheat/chapters/**'
+      - 'soul_land_system_cheat/tools/style_gate.py'
+jobs:
+  gate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python3 soul_land_system_cheat/tools/style_gate.py

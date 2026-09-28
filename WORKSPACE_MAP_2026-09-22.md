@@ -1,0 +1,91 @@
+# WORKSPACE MAP — 2026-09-22 (add-only)
+
+> **ERRATUM 2026-09-23 (correction sweep):** the `soul_land_3_new/` section below
+> predates three events — rulings R1–R4 were RESOLVED, Chapter 01 *The Choosing*
+> was written (gate PASS), and the serial was then **FROZEN** by the author's
+> plan-change to the Golden Lion SL2 serial (`soul_land_2_new/`, not mapped in
+> this document). This map is a dated snapshot; the living truth is the root
+> `README.md`. No row below has been altered.
+
+Following the dated-map convention (2026-09-18, 2026-09-19): this note logs an
+addition. **Nothing existing was deleted or overwritten.**
+
+## What was added
+
+**`soul_land_3_new/`** — a NEW Soul Land 3 (Legend of the Dragon King era) fan
+serial at FOUNDATION stage. Created at the author's direct instruction (2026-09-22):
+"New fen fiction of soul land 3 — everything that is helpful, inside the universal
+kit repo, full foundation docset."
+
+- Law merged from three sources: `SOUL_LAND_UNIVERSAL_KIT/` laws 00–10 + the Fire
+  Phoenix private apparatus (lock discipline, hard bans) + the devouring-dragon
+  `RAILS.md` (lean rails, measured house grammar).
+- Ships with its own gate: `soul_land_3_new/checks/verify.py` — selftest 10/10
+  defect classes correct; real gate exit 0 at foundation stage.
+- **Zero chapters. Drafting is LOCKED** until the author answers Rulings R1–R4
+  (`soul_land_3_new/foundation/OPEN_RULINGS.md`): R1 protagonist (six candidates
+  staged in `seeds/PREMISE_CANDIDATES.md`), R2 relation to the Lin Hao branch
+  (default: separate universe), R3 canon entry point, R4 divergence policy.
+
+## Relationship notes
+
+- Does NOT touch `Soul_Land_3_Project/` (Lin Hao, live branch) and does not read
+  `reference/sl3_lin_hao/` (marked FORBIDDEN in soul-land-projects STATE.md).
+  Separation walls are locked in `soul_land_3_new/foundation/RAILS.md` rail 7 and
+  firewall FW-8.
+- Registered in this repo's `README.md` authoritative-trees table (2026-09-22).
+
+## Verified state at commit
+
+```
+cd soul_land_3_new && sh checks/run_all.sh   # selftest 10/10 + GATE PASS, exit 0
+```
+
+## Pass 2 (same date, post-rulings)
+
+The author resolved the foundation rulings in-session; foundation updated in place
+(all add/edit, nothing deleted):
+- **Author override recorded:** every legacy "FORBIDDEN" flag was an agent's
+  mistake; nothing on disk is forbidden to read/harvest → recorded in
+  `soul_land_3_new/foundation/RAILS.md` (Session-1 rulings) + `SERIAL_LOG.md` 002.
+- Premise locked: `foundation/THE_WOLF_MODULE.md` (silver-golden wolf → Gu Yue's
+  soul spirit; opens AT the binding). Twelve-of-twelve locks filled.
+- Canon spine upgraded with the author's own SL3-foundation harvest: canon-cited
+  spiritual-power ladder (ch 134 ruler), Eastsea punch table (ch 114), Gu Yue crown
+  anchors (ch 69/114), CANON_ORE source/method, and index-verified binding beats
+  (Gu Yue ≈ ch 62; platform arc 120–145).
+- New rulings R7 (binding slot; S1 recommended) / R8 (voice & name) opened in
+  `OPEN_RULINGS.md`; gate re-proven after edits (selftest 10/10, PASS).
+
+## Pass 3 (same date — Chapter 1 live)
+
+Author said "Start"; `soul_land_3_new/chapters/Chapter_01_The_Defective_Shelf.md`
+written from ore, gate PASS, all ledgers synced same-turn. The serial is LIVE.
+
+## Pass 4 (same date — Author venue-kill, Chapter 1 rebuilt)
+
+Author rejected the whole Pagoda-defective-shelf venue as canon-illogical for Gu
+Yue ("if she wants she choose in starting; who gives her first ring?"). Chapter 1
+rewritten as "The Choosing": Star Dou margins consent-bind, rings SHOWN self-formed,
+4-year skip onto canon ch 62–64 with a 4-year-deep butterfly. All ledgers re-synced.
+
+## Pass 5 (same date — WORKSHOP CLEANUP, author-ordered)
+Removed stale mirrors/dup archives: reference/ (300), arena_managed_uploads (652),
+sl4_foundation_v1 (subset), starter zip, uploads/ (folded into SL_ARCHIVE/inbox),
+root-dup SARA.md; old workspace maps to SL_ARCHIVE/workspace_maps_history/;
+scripts to .admin/. Full accounting: CLEANUP_2026-09-22_WORKSHOP.md. ~1,000 fewer
+tracked files. All live serials and libraries untouched.
+
+## Pass 6 (same date — WORKSHOP SPARSENED, author-ordered)
+Author: "why have my projects in your workshop — you have a token, access them
+anytime." Correct. Repo converted to SPARSE CHECKOUT: the on-disk workspace now
+holds only `soul_land_3_new/` (the live serial) + root docs. Every other project
+remains intact ON GITHUB (soul-land-universal-kit + soul-land-projects +
+storyos-site + storyline) and in local git objects — reachable anytime via
+`git show HEAD:path` (no re-clone, no mess). Nothing deleted from the remote.
+
+## Pass 7 — 2026-09-22 — SL2 FOUNDING + SPARSE SWAP
+- Author plan-change: SL3 serial frozen (remote-only, HEAD a0a6473); new fic **soul_land_2_new** founded (The Golden Lion).
+- Sparse view swapped: disk = soul_land_2_new + root docs only. SL3 reachable via `git show HEAD:soul_land_3_new/...` (do not re-materialize).
+- New GitHub token configured in remote URL (config excluded from snapshots — re-set per session).
+- Foundation v1: AUTHORS_LAW L-01..07, CANON_LEDGER 001..015, STATUS_PANEL v1, SERIAL_LOG 001, THE_LION_MODULE, GLOSSARY, 2 pointer ores, gate sl2-goldenv1.

@@ -1,0 +1,141 @@
+{
+ "schema_version": "1.0-dpy-derived",
+ "updated": "2026-09-19",
+ "purpose": "Machine-readable current-state manifest for Dragon Prince Yuan Native OC. Derived from this project's own files; see derived_from for every source. This project previously shipped no manifest, so the live edge was not machine-readable and external tooling could not gate it.",
+ "provenance": {
+  "generated": true,
+  "generated_by": "StoryOS assistant scan, 2026-09-19",
+  "authority_rule": "This file is an INDEX of the project's own sources, not a new source of truth. On any conflict, the file named in derived_from wins and this file is wrong.",
+  "derived_from": {
+   "latest_fic_chapter": "codex/CHAPTER_PROGRESS.md 'Live edge: after Chapter 1.'",
+   "latest_fic_title": "foundation/STATUS_PANEL.md, codex/CHAPTER_PROGRESS.md, audits/CHAPTER_01_VALIDATION_2026-09-13.md",
+   "latest_coverage_file": "exists on disk; referenced by foundation/STATUS_PANEL.md",
+   "validation_audit": "audits/CHAPTER_01_VALIDATION_2026-09-13.md Metrics table (4140 full words / 3794 body words / 424 lines / 23242 chars)",
+   "canon_consumed_through": "canon_coverage/Canon_Coverage_Chapter_01.md (Wuxiaworld novel Chapter 1 `Python and Sparrow Swallow the Dragon` as detailed spine)",
+   "next_source": "foundation/CANON_SOURCE_MAP.md line 30, codex/TIMELINE.md line 10, codex/CHAPTER_PROGRESS.md line 8, canon_coverage/Canon_Coverage_Chapter_01.md line 84",
+   "current_locks": "foundation/STATUS_PANEL.md 'Current protagonist / OC' table",
+   "forbidden": "foundation/STATUS_PANEL.md 'Current forbidden assumptions'",
+   "firewalls": "foundation/KNOWLEDGE_FIREWALLS.md"
+  },
+  "nothing_invented": "No realm, title, source chapter, metric or lock in this file was created. Unresolved items are recorded as TBD exactly as the project states them."
+ },
+ "latest_fic_chapter": 1,
+ "latest_fic_title": "The Second Son in the Green Smoke",
+ "latest_fic_file": "chapters/Chapter_01.md",
+ "latest_coverage_file": "canon_coverage/Canon_Coverage_Chapter_01.md",
+ "validation_audit_glob": "audits/CHAPTER_01_VALIDATION_*.md",
+ "chapter_metrics": {
+  "full_characters": 23242,
+  "full_lines": 424,
+  "full_words": 4140,
+  "body_characters_before_footer": 21038,
+  "body_words_before_footer": 3794,
+  "cjk_characters": 0
+ },
+ "canon_consumed_through": {
+  "chapter": 1,
+  "title": "Python and Sparrow Swallow the Dragon",
+  "source": "wuxiaworld novel",
+  "url": "https://www.wuxiaworld.com/novel/dragon-prince-yuan/yz-chapter-1",
+  "source_policy": "Novel Chapter 1 is the detailed spine. Donghua EP1 synopsis confirms broad premise only. Manhua not used for specific beats yet. Hybrid-with-user-approval is the overall policy.",
+  "early_novel_order_confirmed": {
+   "1": "Python and Sparrow Swallow the Dragon",
+   "2": "Genesis Runes",
+   "3": "Su Youwei"
+  }
+ },
+ "next_fic_chapter": 2,
+ "next_source": {
+  "chapter": 2,
+  "title": "Genesis Runes",
+  "status": "NOT FETCHED — must fetch/read/check novel Chapter 2 and compare donghua/manhua differences before drafting",
+  "blocking": true
+ },
+ "current_state": {
+  "zhou_xu": "Male native-born OC, same age/generation as Zhou Yuan, orphan officially adopted as a prince by the Yuan/Zhou royal family; brother-like best friend of Zhou Yuan; no canon future knowledge; Dragon Prince Yuan-world Adaptation Talent from the mother's womb; innate pure body / no impurities / natural talent; Clear Origin Eyes at limited perception level; likes watered palace/plum wine as personality quirk only; exact cultivation realm NOT STATED YET; cannot cure Zhou Yuan, cannot restore the sacred dragon blessing, does not steal Zhou Yuan's protagonist wound.",
+  "zhou_yuan": "Now knows the truth of his Dragon's Resentment Poison and stolen sacred dragon blessing. Vows to live, find his meridians, remove the poison, and take back what was stolen.",
+  "zhou_qing": "Revealed Great Zhou's fall, Great Wu's betrayal, the prophecy, King Wu's scheme, his severed arm, and Qin Yu's lifespan cost."
+ },
+ "current_locks": {
+  "name": "Zhou Xu",
+  "gender_pronouns": "Male / he",
+  "type": "Native-born OC",
+  "origin": "Great Zhou side",
+  "family_status": "Orphan officially adopted as prince by Yuan/Zhou royal family",
+  "age": "Same age/generation as Zhou Yuan",
+  "relationship_to_zhou_yuan": "Brother-like best friend",
+  "canon_knowledge": "None; no meta/canon memory",
+  "core_talent": "Dragon Prince Yuan world-version Adaptation Talent from mother's womb",
+  "body": "Innate body / naturally talented / no impurities / pure foundation",
+  "eyes": "Clear Origin Eyes — limited perception of origin flow, impurity, strain, and foundation flaws",
+  "quirk": "Likes watered palace/plum wine from very early age; personality flavor, not a power source by default",
+  "romance": "Natural only; do not force romance to happen or not happen",
+  "exact_cultivation_realm": "TBD — not stated yet, do not invent"
+ },
+ "power_boundaries": {
+  "clear_origin_eyes": "Can perceive poison/impurity/life-force strain/flow. Cannot cure, cannot predict the future, cannot solve realm gaps.",
+  "adaptation_talent": "Passively records pressure and supports bodily/cultivation compatibility. Not a system, not free victory.",
+  "body_foundation": "Pure, healthy, promising, responsive; not blocked like Zhou Yuan."
+ },
+ "forbidden": [
+  "Do not cure Zhou Yuan early.",
+  "Do not steal Zhou Yuan's sacred dragon destiny.",
+  "Do not give Zhou Xu canon future knowledge.",
+  "Do not make Clear Origin Eyes omniscient/future sight/cure-all.",
+  "Do not copy Soul Land mechanics.",
+  "Do not force romance.",
+  "Do not make Zhou Xu invisible in Yuan-family/public scenes where his adopted-prince status matters."
+ ],
+ "knowledge_firewalls": {
+  "source_file": "foundation/KNOWLEDGE_FIREWALLS.md",
+  "status": "PARTIAL — categories locked, project-specific boundaries TBD",
+  "native_born_oc_default": [
+   "No canon memory.",
+   "No meta knowledge.",
+   "No future event knowledge unless learned naturally.",
+   "Knowledge must come from family, teachers, public rumors, observed events, books, secret inheritances, or earned encounters."
+  ],
+  "categories": {
+   "Public": "Known broadly; characters may react.",
+   "Private": "Known only to specific people.",
+   "Reader-only": "Narrator may show; characters do not know.",
+   "Secret inheritance / hidden power": "Requires careful reveal rules.",
+   "Future spoiler": "Not usable until naturally reached."
+  },
+  "unresolved": "foundation/KNOWLEDGE_FIREWALLS.md states: 'TBD after user locks OC background and relationship to canon cast.' Requires user input; not assistant-resolvable."
+ },
+ "open_items_requiring_user": [
+  "Exact cultivation realm for Zhou Xu — deliberately not stated yet.",
+  "Project-specific knowledge firewall boundaries — foundation/KNOWLEDGE_FIREWALLS.md is still TBD.",
+  "Wine quirk exact handling — HANDOFF.md records 'exact handling TBD'.",
+  "Name confirmation — HANDOFF.md records Zhou Xu as assistant-created, changeable by user."
+ ],
+ "active_markdown_dirs": [
+  "foundation",
+  "bible",
+  "codex",
+  "chapters",
+  "canon_coverage"
+ ],
+ "top_level_active_files": [
+  "HANDOFF.md",
+  "README.md"
+ ],
+ "receipt_dirs_excluded_from_active_scan": [
+  "audits"
+ ],
+ "validator": {
+  "shipped_in_this_project": false,
+  "note": "This project ships no tools/ directory, so no project-local checker consumes this manifest. It exists to make the live edge machine-readable for external indexing and for any future checker. If a checker is added, adopt soul_land_4_fire_phoenix/tools/perfect_continuation_skill_check.py, which reads this same schema."
+ },
+ "stale_directive_repair_2026_09_19": {
+  "defect": "Two root files carried a stale pre-prose header above a later-appended correct live-edge section, so a reader who stopped at the top got the wrong state.",
+  "files_corrected": [
+   "HANDOFF.md — 'Status: foundation initialized, no prose yet.' superseded by its own 'Latest live edge after Chapter 1' section",
+   "foundation/START_HERE.md — 'Do not write Chapter 1 yet' superseded by Chapter 1 existing and by its own 'Latest live edge after Chapter 1' section"
+  ],
+  "method": "Headers marked SUPERSEDED with a pointer to the authoritative live edge. No instruction text deleted; the startup lock sequence and the do-not-write-prose-until-confirmed rule were preserved as historical.",
+  "details": "audits/STALE_HEADER_AND_MANIFEST_REPAIR_2026-09-19.md"
+ },
+ "canon_state_after_chapter_1": "Zhou Xu knows the same truth as Zhou Yuan, as adopted prince and brother witness."
+}

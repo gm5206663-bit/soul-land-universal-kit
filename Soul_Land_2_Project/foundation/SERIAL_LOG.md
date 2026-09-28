@@ -1,0 +1,158 @@
+# SERIAL LOG — dated, append-only
+### Soul Land 2 · The Unraveled Tide.
+
+## 2026-08-26 — v15.0 / v15.1 (from the codex FOUNDATION CHANGELOG)
+- **v15.0** (user: "rebuild all chapters perfectly, not create new, in one
+  time"): THE TOTAL REBUILD — Chapters 1–20 rebuilt under the full law stack
+  in a single systematic pass. No new chapters, no patches; each rewritten
+  from its canon spine with all laws running simultaneously (Engine,
+  Presence-Balance, Triangle, Person Law, Physicality Canon, Anti-Nerf,
+  Fox-Limit, Cascade, Craft-Visibility, Canon-First, Coverage, Frame Rule,
+  Dominance Guard, Group-Shape, the 2500-word floor).
+- **v15.1**: Chapter 21 "Round One" WRITTEN — the corrected-shape first fight
+  (canon 17-2/3 held; the floor; the bear team; Group One 4-0).
+- **v14.0** (user: "OC doesn't feel real…"): THE PERSON LAW locked (petty
+  opinions, preferences, a laugh; the fox has not stolen his personality).
+
+## 2026-09-20 — RE-RAIL (corpus audit + governance rebuild)
+**Trigger:** full-corpus audit of the author's five repos found this project
+carrying **four different live edges** (codex header ch21/"pre-Chapter 1";
+codex chapter list "ch21 NEXT"; dossier "through ch15"; continuation prompt
+"through ch8") and failing its own gate for apparatus misclassified as prose.
+**Author's instruction:** Size 2 re-rail — keep the story, re-lay the
+governance; fix the gate's scope.
+**Done (this entry is the receipt of record; the full receipt is
+`audits/2026-09-20_RE_RAIL_RECEIPT.md`):**
+1. **Gate unified and fixed** (kit): two different `verify.py` files with the
+   same name reconciled into one (v2.1); the apparatus boundary (title,
+   metadata head, bookkeeping tail, fences) is now explicit and *announced*;
+   name-digits exempt, measurement digits still fatal; CJK file-wide still
+   fatal. Selftest 22/22 — every defect still caught, red-tested both ways.
+   Installed in all three kit locations; both old gate files archived, not
+   deleted.
+2. **Governance layer built:** `README.md`, `foundation/STATUS_PANEL.md`
+   (single live-edge source), `CURRENT_STATE_MANIFEST.json` (machine-readable
+   edge), `NO_MISTAKE_LIVE_RULES.md` (twelve locks), `KNOWLEDGE_FIREWALLS.md`
+   (L1–L4), `CANON_LEDGER.md` (receipts + the CJK glossary), `CONTINUITY.md`
+   (anchors + debts), `OPEN.md` (rulings R1–R3 + canon checks), this log.
+3. **Live edge resolved to Chapter 21** in all four files; the stale
+   "write Chapter 2" instruction removed; the codex Quick-Reference "rank
+   ~25" design line flagged SUPERSEDED (serialized truth: rank 10 at ch1,
+   17-peak at the ch21 edge); ghost `/home/user/...` paths in the
+   continuation prompt fixed.
+4. **Chapter hygiene (22 files):** 62 CJK characters moved to the canon
+   ledger glossary (chapter titles + the two dialogue translations, flagged
+   R2); 169 bookkeeping marks removed (test assertions kept as text); 6
+   measurement numerals converted to words (rank ten / twenty-nine /
+   twenty-three, six-forty, two against one) — Room 108 kept as a name (R1).
+5. **Mirror synced:** `../CODEX/06_PROJECT_SOUL_LAND_2.md` == `THE_CODEX.md`.
+**Verified:** `verify.py chapters/` → 22/22 PASS; `verify.py --project .` →
+hard gates clean; `selftest.py` → 22/22.
+**Open:** rulings R1–R3 in `OPEN.md`; canon checks 2–5.
+**Live edge after this entry:** after Chapter 21 "Round One." Next: Chapter 22
+(canon 17-3/4), on the author's go.
+
+**Push (2026-09-20, on the author's go):** the re-rail is committed and pushed to
+GitHub — `soul-land-universal-kit` @ ee9969d (re-rail + gate + archives, 45 files)
+and `soul-land-projects` @ 4e1370a (gate install, 2 files). Verified on GitHub:
+STATUS_PANEL, receipt and the unified verify.py all live. Ruling R2 (the two
+dialogue translations) accepted by the author and is final; R1, R3, R4 remain
+open in `OPEN.md`.
+
+**Correction entry (2026-09-20, same day as the re-rail, after the author flagged
+the pushed panel):** the re-rail's rank-line mapping was wrong. The codex
+shorthand "17-peak / 23 / 29" was read as (Jiang Che / Yuhao / Wang Dong); the
+serialization assigns it **(Yuhao / Wang Dong / Jiang Che)** — ch15 record
+"Yuhao climbing past the teens · Wang Dong 23 · Jiang Che 29"; the ch16 pill
+ledger is Yuhao's grind to 17-peak while the third bed holds "29 and the
+planned hunt"; ch15 dialogue on-page: "You're rank twenty-three, and I passed
+twenty-nine last week. The wall's at thirty." Repaired in the same turn,
+receipted: `STATUS_PANEL.md` (rewrite + dated correction note in §0), manifest
+(`ranks_live` corrected + `known_corrections` record), `CONTINUITY.md` anchors,
+`JIANG_CHE_STATUS.md` v4.2 note, `THE_CODEX.md` v15.2 note + mirror resync,
+`OPEN.md` (new R5: 20-wall vs 30-wall wording, awaiting author), canon ledger
+ring-3 row and lock 5 (dated notes, original wording untouched). Also corrected
+the same turn: the panel's opaque character-state lines (fabricated "sect's
+third" and ungrounded "dragon of blue lightning" / "gentlest dangerous"
+removed; Wang Dong's "butterfly named" was a stale Ch8 event — replaced with
+states the chapters carry); the continuation prompt's stale "Rank ~25 /
+~800-yr" line (flagged SUPERSEDED; ~740 yr per the closed ring-cap check); the
+gate version (the file says v2, not v2.1); the next-source notation (canon ch
+17-4, not "17-3/4"). Gate re-run after the repair: chapter gate 22/22 + project
+sweep + selftest 22/22 (receipt below). *Lesson, appended to lock 9: the
+shorthand inherits the author's order — verify the name-mapping against the
+prose before it becomes the source of truth.*
+
+**Chapter 22 — "Knockout Brackets" (2026-09-20, on the author's "next chapter").**
+Can 17-4 held whole: the bracket's posting (one hundred fifty to the top
+sixty-four, the eighty-six crossed out), the champion's prize re-read
+("extremely rare" — contents left two words, a forward debt), Ma Xiaotao at
+the venue (the red line, the brazier's quiet, the whisper grown a day of
+venue; no interaction with the room — the Ch18 blink stays a blink; L3/L4
+held), and the ring-hunt setup (the prize, the window, the shape). OURS:
+Group Forty-Seven "the watching" (the unshown dangerous team the fox's Ch21
+beat owed; first match tomorrow — designed canon-lawful ensemble, no canon
+fate), the stall's coal to the forge (the year's little closed loop), the
+word *the watching* (the Ch21 "we need more words" beat paid). Research
+record: no clean primary translation of 17-4 obtainable in-session (2 search
+passes surveyed; the codex's own receipts govern per Branch 06) — receipted
+in `audits/2026-09-20_CH22_CANON_COVERAGE.md`, written before prose. Gate:
+23/23 chapter + project sweep + selftest 22/22. State synced same turn: panel
+(after Ch22), codex Ch22 record, manifest, continuity debts, dossier v4.3,
+mirror resynced.
+
+**Self-audit of Chapter 22 (2026-09-20, on the author's order: compare against
+the other projects, learn their good).** Compared Ch22 against SL4's footer
+standard (the strongest discipline in the corpus), SL3, the small serials and
+SL2 chapters 1–21. Found and fixed in the same turn, receipted:
+`audits/CHAPTER_22_VALIDATION_2026-09-20.md` — (1) "the room — all four of it"
+conflated the room (three) with Group One (four); (2) "the year would need a
+word for" used 3× (a tic vs the Ch21 baseline) → cut to 1 deliberate; (3) the
+market simile paralleled Ch21's too closely → varied; (4) "the brazier at the
+stall's coals" garbled → "the stall's brazier"; (5) "from yesterday's draw" —
+chronology error (the draw was Ch17) → "carried over from the first round";
+(6) "went under" → "went out"; (7) the closing paragraph reused three Ch21
+signature sentences near-verbatim back-to-back → rewritten (the "Same time"
+refrain kept, deliberate). Adopted from SL4 (disciplines, not formats): the
+per-chapter **validation receipt** with canon-beat table, twelve-lock
+checklist, **provenance audit** (what is receipt-sourced, what is OURS, what
+was checked-and-not-used — zero leakage from the later-canon material the
+research surfaced), **forbidden-future list**, and the **next-chapter guard
+line** in the tail; panel §7.6 now requires it for every chapter. Gate
+re-run: 23/23 + project sweep + selftest 22/22.
+
+**R5 ruled + sweep applied (2026-09-20).** The third-ring wall question
+(closed the day it opened): the serialization's own prose wins — **the wall
+at thirty** is the live wording (ch15 "the thirty-bottleneck ahead"; ch16
+"the wall at thirty, the hunt planned"). The design-era "20-wall" shorthand
+is SUPERSEDED, kept for provenance only, reversible. Sweep applied in one
+pass: OPEN.md (R5 entry now ruled), CANON_LEDGER (ring-3 row),
+NO_MISTAKE_LIVE_RULES (lock 5), CONTINUITY (the wall's debt line),
+STATUS_PANEL (ranks-line note), CURRENT_STATE_MANIFEST (ring-3 note +
+required pattern flipped to "the wall at thirty|thirty-bottleneck"). No
+prose touched; no checker touched. Re-verified: every remaining "20-wall"
+mention in the project is flagged SUPERSEDED; all manifest required patterns
+still match the panel.
+
+**Chapter 23 — The Watching (2026-09-20).** Research-first per the Ch22 guard:
+canon ch 17-5 researched; no clean primary text obtainable in-session (the
+fresh pass surfaced a fandom-wiki one-line semifinal claim — ruled NOT usable:
+non-primary, would consume the bracket's second line, collides with the Ch17
+structural fix); receipt written BEFORE prose:
+`audits/2026-09-20_CH23_CANON_COVERAGE.md`. The chapter is the designed
+canon-lawful ensemble match (flagged; the same discipline as the Ch6 trial
+and the Ch20 rehearsal): Group One vs Group Forty-Seven, the first line of
+the knockout. The room's four-part machine closes into a system (the sharing
+as a fence; the floor holds — a floor with no map; the cauldron, the still
+point; the wings, the answer); the watching rendered strictly as its record
+and its word (no souls, no names, no fate; the middle one = a position); the
+needle's fact filed (L3: where they stand, the reading is empty — the
+reading, not the ground); the honest cost (the needle spent; Wang Dong
+edited and mended); the year's word paid (the match itself becomes "the
+watching"); the ledger's first empty entry ("Forty-Seven: no description.");
+the hunt's page untouched (NOT YET); the red held at the venue's edge
+(unchanged); the second line on the board, unread. canon_consumed_through
+stays 17-4. Gate: 24/24 chapter + project sweep + selftest 22/22. State
+synced same turn: panel (after Ch23), codex v15.3, manifest, continuity
+debts, dossier v4.4, mirror resynced. Validation receipt:
+`audits/CHAPTER_23_VALIDATION_2026-09-20.md`.

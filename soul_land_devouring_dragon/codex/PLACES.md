@@ -1,0 +1,66 @@
+# PLACES — the Devouring Dragon serial
+Law: a place gets its row when the story touches it.
+
+## Locked at foundation
+| Place | What it is | Status |
+|---|---|---|
+| The Star Dou Great Forest | the continent's great spirit-beast country; ancient overlords rule the deep (ER-06) | canon |
+| The mountain border country | outer slopes: passes, hunter lodges, no farms; the hatchling ground (DS-02); STAR LUO EMPIRE's border (author ruling s2) | locked |
+| The hatch-slope | his first territory — unnamed, his | [design — to detail in Chapter 1] |
+
+## To name/verify before use
+- The nearest lodge, the nearest pass, the nearest market town — at Chapter 1's
+  need, then logged here.
+
+## Touched since foundation
+| Place | What it is | Status |
+|---|---|---|
+| The winter place | the hunting line's winter camp in the breaks of the deep country (ch10: smoke standing day after day; ch11: struck at the thaw, the smoke-line gone) | [design, on page] |
+| The deep camp | the hunting line's green-season camp in the country of the giants (ch12: two fires; the line splits, one half working the water line with the hound ahead) | [design, on page] |
+| The water's edge (the water of the warm breaks) | the water where the old bull comes at the edge of the hour (ch12: the taking, the crossing, the sign of the seen set) | [design, on page] |
+| The watch-folds (the keepers' line) | the folds the hunting line works one at a time with a kill left standing and a blind over it (ch13: the first watch-fold, four days; the kill carried north a day's walk and set again) | [design, on page] |
+| The edge of the deep place | the last ground before the unreadable country north of the giants' trees, where nothing that makes trails lives and the standings stand (ch13: walked between, the voice spent there once) | [design, on page] |
+| The broken watch-fold (the west fringe) | the line's fold the pale beast walked through (ch14: wire stood and never touched, blind knocked apart, the hound's stake torn out, one man down at the water) | [design, on page] |
+| The camp of black stone | where the line carried its dead and Old Qin wrote the wrong face into the list (ch14) | [design, on page] |
+| The killing ground of the pale beast | the shelf of old rock in the low fringe where the dragon read the beast and spent one aimed word (ch14) | [design, on page] |
+| The south watch ground | the low trail below the shelf of old rock, where the line set its watch on the pale beast's chosen ground and the beast came to the bait in daylight (ch15: wire stepped, blind read, no light for the box) | [design, on page] |
+| The low country (his taken ground) | the ground the line left at the thaw; taken by him (ch15) — no camp, no rival heavy beast, the meat coming down to the new water, the road between the men's country and the deep forest | [design, on page] |
+| The main pool (the water watch) | the low country's biggest pool; the line's dry-season camp and the water made the snare (ch18): the wire in its low neck on both sides, the blind, the hound staked at the water | [design, on page] |
+| The head of the run | where the first of the chains still runs over stone; the kill with no tracks took place there (ch18) and the hound will not enter the fast water | [design, on page] |
+| The high ground and the marked pan | stone, dry grass and baked pans above the low country; the pan took his one print in the wet and was marked with four stones by the line (ch16) — the watch for the next spring | [design, on page] |
+| The rock bars | the crossings on the upper streams where water runs over stone — his way over since he stopped printing (ch16) | [design, on page] |
+| The flooded low country | the spring flood of DL 3666 — the streams over their banks and the flats one brown sheet (ch17); he walks only its edges; dry again by the close, when the flats come out | [design, on page] |
+| The ravine den | high rock in the outer forest with the stream past the mouth — his wet ground while the low country was under water (ch17) | [design, on page] |
+
+| The ridge of the first far view | the second evening's ridge north of the ravine den — the forest going north past all seeing, the mountains east with snow on their shoulders; from it the owned country is the small thing on the edge of the map (ch19) | [design, on page] |
+| The birdless hollow | the deep forest's first word: a whole hollow of country with no birds and no small beasts, the wind in the high trees and nothing moving under them; the ground of something enormous (ch19) | [design, on page] |
+| The river-road | a path the width of a river pressed through the birdless hollow and beaten to bare clay, wider than any feet he knows; its smell deep water and old smoke together, and fresh; skirted whole — the road given its hollow (ch19) | [design, on page] |
+| The root-hollow camp | the north road's first night camp, far from the river-road; from it the far standing light was seen once by night, and gone by morning (ch19) | [design, on page] |
+| The north road | the road begun ch19: past the ravine den (kept), two days of country only ever smelled, the ridge, the birdless hollow skirted, his own line held north; the day's work now (ch19) | [design, on page] |
+
+| The cliff spring | a spring falling from a cliff into a shallow pool in bare stone, in the rock country north of the birdless hollow — the first deep meal of the road taken there (the old one-eyed pusher-kind; the near-drowning; the week of healing in the rocks above) (ch20) | [design, on page] |
+| The west ten days | the harder, colder country west of the road's line, where the whole line was moved for ten days to shake the hunter-kind off the rib's blood (ch20) | [design, on page] |
+| The pass | the road's first true obstacle: open grass and low wood for miles between two broken ranges, the river running north through the middle; no birds, no trails, the forest stopping at both lips; a weight in the ground, old and patient, LIVING there (overlord distance held; naming author-gated DS-06) (ch20) | [design, on page] |
+| The high seat | the shelf of rock on the south range, off the pass's ground, with the whole pass in view — the watch camp; from it the herd's turning ground, the bird's leaving line, and the river's voice are marked (ch20) | [design, on page] |
+
+| The south lip's bend | where the river runs closest to the south range — the quick kinds' moonset crossing road, and his: the pass crossed here, inside the river, at the black of night (ch21) | [design, on page] |
+| The swept place | the middle of the pass, where the old grazer was taken in one fogged breath — the grass pressed flat in one long place and springing back; no crows ever came; ground that decides about you (ch21) | [design, on page] |
+| The north-of-the-pass country | the new ground beyond the pass: wet stone, rot-sweet, the deep forest's smell thicker than the border ever carried; the first meal taken listening (ch21) | [design, on page] |
+
+| The walked roads | the deep forest's polished lines, beaten by every kind's feet — the deer-kinds', the root-boar-kinds', the small quick kinds' at dusk and dawn; his camouflage after the fern hall: pattern is belonging, everyone beneath notice together (ch22) | [design, on page] |
+| The fern hall | the acre of ferns off the road where the second law was paid for: the perfect off-road take, the quiet rising from the ground up, the unseen interested thing, the warm meat abandoned in the ferns (ch22) | [design, on page] |
+| The streams | the cold dark water under the leaves — the one ground the deep forest cannot read (the current says nothing to roots); his hunting country: the first take in the tail of a fallen giant, the old fat fish-kinds, the drinking beasts at dusk (ch22) | [design, on page] |
+| The bend country | the darker trees the walked road swings a day's walk around, for no reason eyes can find; far in, once, at the black hour, a light standing on the land — looked at exactly as long as the pass's middle, and walked past (ch22; naming author-gated DS-06) | [design, on page] |
+| The rock spine | the bare stone the road climbs to cross, where the country opened and THE LEAN was found: the pull settling a few points east of north toward the far haze his eyes called mountains — the road and the pull coming apart ahead (ch22) | [design, on page] |
+
+| The ford | where the road crossed the east-coming stream and the pull ran upstream: the parting — the road north to the low passes, the water east-north-east toward stone country; the root-boar's flat measuring look across the water, the ordinary's whole farewell (ch23) | [design, on page] |
+| The sinking gorge | where the second stream narrowed, dropped, and went under a shelf of stone without coming out — the water road's one betrayal, forcing the bad-ground crossing (ch23) | [design, on page] |
+| The bad ground | the day-wide reach of root-country between the sinking gorge and the next water — giant trees, moss to the knees, ground that says every step; crossed at gray light under the walker's attention; the moss hollow between two root-buttresses where the red thing was held alone (ch23) | [design, on page] |
+| The falls chain | the high-country ladder: white thread after white thread down gray stone steps, the black pools holding-kinds — ladders and pantries; his cover the loudness of the water all the way up (ch23) | [design, on page] |
+| The shoulder of stone | the bare rock viewpoint where the mountains first stood whole on the world's edge — the look back at the dark sea of the proper; the first mountain meal taken on it (ch23) | [design, on page] |
+
+| The stone country | the mountains' skirt and wall: gray stone, thin grass, cold constant wind, distance the ruler — no dark, no absence; the opposite of the deep forest proper (ch24) | [design, on page] |
+| The scree towns | the loose-rock colonies of the small alarm-voiced kinds — the country's bells: one sharp note running slope to slope; mapped like the watchers' camps, their silence his sentry (ch24) | [design, on page] |
+| The slide valley | the valley head whose loose scree woke under his weight — the wrong that taught the mountain's memory of noise; the watcher circled him there; never the straight line again (ch24) | [design, on page] |
+| The first pass | the low seam in the wall read by the ground's own evidence (polished stone, dung warmth, bad-crossing bones); crossed at gray light in the gray kind's company, the notch's wind a standing wall of noise (ch24) | [design, on page] |
+| The warm spring den | the hollow on the far side where a spring runs warm out of the rock, green-stoned, steaming in the cold — the first mountain winter's den; the pull running under the snow (ch24) | [design, on page] |
