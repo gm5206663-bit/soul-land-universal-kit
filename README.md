@@ -1,6 +1,8 @@
 # ═══ WORKSPACE MAP — read this first ═══
 
-📖 **READ THE GOLDEN LION (Soul Land 2 fanfic): [`THE_GOLDEN_LION.md`](THE_GOLDEN_LION.md)** — chapter list with direct links.
+📖 **READ THE GOLDEN LION
+🌱 **NEW — QING LING (Soul Land 3 fanfic, foundation phase): [`soul_land_3_fanfiction/README.md`](soul_land_3_fanfiction/README.md)**
+ (Soul Land 2 fanfic): [`THE_GOLDEN_LION.md`](THE_GOLDEN_LION.md)** — chapter list with direct links.
 
 **Every future chat/agent: the truth lives in exactly these places. Anything in `_archive/` is superseded — never read it as current.**
 
