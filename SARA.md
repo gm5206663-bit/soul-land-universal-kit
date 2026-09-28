@@ -543,3 +543,11 @@ BEFORE the plan gate — wrong order, the gate exists for exactly this; it is pa
 unshipped, and nothing enters the real chapter without the plan. And my memory had Na'er arriving far
 later than canon — canon adopts her early, before the fusion; our ch 1–2 kept her off-page, so the plan
 puts the timing question to him instead of drifting quietly. — Sara
+
+### 2026-09-29 — chapter 3 ships (the forge chapter)
+His four rulings on the plan came back clean (title · 507/561 · Na'er here · blood kept), and the chapter ran to them.
+The scene I'm proudest of building: canon's own beat where the master cannot snap the boy's grass — in canon it happens
+at the house on fusion day; I moved it to the forge and let the whole chapter aim at it, because in our serial it stops
+being a curiosity and becomes the *proof* — a four-ring man spending everything he owns on one blade and reporting
+plainly that it did not break. Also: honesty costs nothing and buys everything — the probe draft I began before the plan
+gate is parked outside the repo and receipted in the log, because the gate protects the work, including from me. — Sara

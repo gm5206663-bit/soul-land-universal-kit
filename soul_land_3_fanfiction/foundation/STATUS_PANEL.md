@@ -1,26 +1,29 @@
 # STATUS PANEL — "Qing Ling" single current-truth source
 
-> **Snapshot: v3 (CH 2 LIVE — public math paid off: school measurement, grove Bind, clerk flag, guild letter; recommendation issued)** · 2026-09-29 · chapters live: **2**
+> **Snapshot: v4 (CH 3 LIVE — title ruled "The Wrong Strength"; gauge 507/561; the strand test passed; Na'er adopted this chapter; the door to thousand refinement open)** · 2026-09-29 · chapters live: **3**
 
 ## Window
-Live edge: evening of Draw-Day + workshop fence, Glorybound City. Wulin: age 9, **rank 12** (yield law,
-author-locked). First soul spirit = the 99→100-y BSG grass, fused, awake through the tier crossing;
-ring yellow/silver-threaded. First skill **Bind** demonstrated (fence-post, 28-count). Golden lines
-on the boy: fusion-blaze, rest-faint, ring-flare; gag sealed. Witnesses: Tang Ziran + Lang Yue (full
-event incl. lines + rank); workshop yard = fenced test (Mang Tian not yet informed — ch 2). The grass's
-public math begins at school — ch 2 opens there; the money pressure remains canon.
+Live edge: the night of ch 3 — the household grown by one (Na'er asleep in Wulin's room, truckle bed, silver hair, pale amethyst eyes, no remembered family); glorybound forge district, Glorybound City. Wulin: age 9, **rank 12** (unchanged; growth gates intact). First spirit = the century grass, awake, quiet in the bond; contact still wordless (tickle-press answers). Ring yellow, faint gold vein-light at its rotation.
 
-## Locked (author, 2026-09-28)
-- OC = the soul spirit itself (99-y BSG), replaces canon's defective snake; adaptation talent; crosses 100 at fusion · yellow ring from day one.
-- Entry at Wulin's beginning; canon-true wall + licensed tracked butterflies; home = this folder; voice = Fire Phoenix register; anti-nerf + warm-bounded integration; reveal-gag on the dragon.
+## CH 3 receipts (now canon in-house)
+- **The ruin:** three blanks spoiled in a day from grown strength riding an apprentice's method; cost booked to Wulin's pay (melt-down by his own hand).
+- **The gauge:** shop pressing frame (secondhand, [design] furniture): **left 507 kg / right 561 kg**, entered in the shop ledger's wage column — above canon's 483/543 (anti-nerf, author-ruled). Gold lines come up at full effort; Mang Tian reads them like a heat-color and says nothing.
+- **The pull:** Mang Tian fails to part Wulin's strand by muscle, then by **four rings** (white / yellow / yellow / purple) and **Tenacity**; the strand only straightens. The reveal is his own: **Earth Hammer**, three spirit souls (pair of hammers; the bear; one left undescribed), "soul master, registered and filed." Verdict spoken plain: *I could not break it.*
+- **The door:** **thousand refinement** named (canon method: 1,000 strikes, soul power in the metal, immersion); **heavy silver** set for the morning; terms: school then forge, half wage while learning, full rate when the work comes clean, failure allowed, quitting not.
+- **Na'er:** adopted, licensed timing shift (canon pre-fusion; ours two weeks after the measure), receipted in coverage ch 3.
+- **The count-screen:** age-six object (canon-derived) hangs in the shop; carries one old thousand.
+
+## Held / pending (canon placement, do not rush)
+- The first thousand refinement + the blood-offering (author ruled: keep, written plain) → **ch 4**.
+- Pagoda verification visit (observation-phase; audit window from ch 2 must close) → ch 4.
+- Graduation; Wan Yun's provocation (canon order) → next arcs.
+- Eastsea: Mang Tian's plan + the coastal branch's answer to his letter → after graduation material.
+- OPEN.md items (name/title/skill-breadth/length band) remain author-gated; ch-length band still unruled (live chapters: 4,378 / 3,806 / 4,980).
 
 ## OC ledger
-The Spirit's perfect status: `bible/OC_STATUS.md` (single source; refreshed every chapter).
-
-## Pending (OPEN.md — each has candidates)
-1. OC name · 2. serial title · 3. pool-fork justification (3a/3b/3c) · 4. first-ring skill (4a/4b/4c) · 5. chapter-length band
+The Spirit's perfect status: `bible/OC_STATUS.md` (single source; refresh after every chapter — v4.1 live).
 
 ## Residue (next 3 real moves)
-- Author rules OPEN items → move onto NO_MISTAKE + bible entries
-- CH 1 plan drafted on his word → authorized → written → receipts → commit
-- Canon verification of nodes 1–5 at write-time (sources listed in CANON_SPINE)
+- Author rules ch 4 plan (see NEXT_STEPS: refinement-forward vs audit-forward; the Pagoda visit's shape; graduation placement; the letter's reply timing).
+- On his word: ch 4 → receipts → one commit.
+- Keep the file-refresh cadence: after ch 4, OC_STATUS touch-up only if a gate actually moves (it should not).
