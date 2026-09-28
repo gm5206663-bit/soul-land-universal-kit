@@ -1,29 +1,45 @@
 # PROTAGONIST — the Spirit (draft name: Qing Ling)
+*adaptation-talent edition, corrected after full GitHub study (author strike 2026-09-28: my first draft invented its own "adaptation talent" — deleted. The real system lives at `blue_silver/ADAPTATION_TALENT.md`, the Definitive Master Foundation v2.0 = the universal core, LOCKED. This file is the §76 module for THIS holder.)*
 
-## Voice discipline
-- Interior register: **season-thought.** Long quiet clauses; verbs of root and weather.
-  Never snappy before its voice is grown. Humor arrives late and dry, earned.
-- Outer register (post-growth): sparse short sentences with Wulin; warmth without softness.
-  It never narrates the boy the way a teacher would; it learns alongside him, always honest,
-  always slightly older than the moment.
+## M1-QL. The identity truth — hold BOTH truths at once
+- **Truth 1 — he is a real soul-being with adapted depth, not a pop-up kit.** Ninety-nine years of a
+  common Blue Silver Grass worked by the talent is NOT a filing error story only: it produced a grass
+  that is *more than its file* — vitality deepened toward LIFE-keeping, wood/earth-lodged, centuries of
+  priced survivals written into his blades. Not royal, not Emperor, not Dark, not dragon — nothing fused
+  into him, every depth EARNED record of adaptation on real material.
+- **Truth 2 — the Adaptation Talent effects everything in him.** It is the all-effecting engine — why a
+  common grass woke, why his file age reads 99 while his living depth runs deeper, why inside the bond he
+  keeps developing. Nothing in him stands outside its working. It grants nothing from thin air:
+  **it reveals, refines, and develops what already exists** (Master §2).
+- Both are one. He is what the talent MADE of a real grass through real years. A mutant the talent merely
+  watches = false. A pop-up "junk that was secretly OP" = false. Priced record = true.
 
-## Character truths (immutable)
-1. It lived 99 years of being *small and stepped-on* — its legend is endurance, not conquest.
-2. It chose. Sentience under the dormancy: the draw only ever woke it when a BSG breathed in the pool.
-3. Loyalty-shape = root-and-ground: it binds itself to Wulin as *place*, not as master or pet.
-4. It fears fire and sharp things personally; it faces both when the boy stands behind it.
-5. It will not be worshipped or envied for long — its first lesson to the boy, over and over:
-   *a hundred years is just grass that landed lucky and got up on time, every year, for a thousand days thirty times.*
+## M2-QL. Soul Land translation (Master §2/§72 applied to a plant soul beast bound as a soul spirit)
+- The talent may refine: body/energy pathways/spiritual self/recovery/ring-integration, the common-line
+  blood nature — toward **best presently supportable path**, never toward free powers.
+- A **soul ring supplies its own official skill** (canon). The talent does NOT add a second skill, does
+  NOT tint elements on the fly, does NOT copy threats. What a cut ring would show = his real carried
+  depth (100+ years at fusion — the file's 99 plus the joined crossing), never granted.
+- Growth rides Wulin's cultivation: talent scope mirrors holder tier (Master §M3 pattern) — never lags,
+  never exceeds; class gates stay gates until crossed.
+- Interface-domain law (Master §10.2): inside the bond he adapts compatibility/synchronization/protection
+  of the pair; Wulin keeps absolute agency; the spirit keeps his own — neither optimizes the OTHER without
+  real connection and real time.
 
-## Power law (binding; detail in FUSION_AND_GROWTH)
-- 100+ years at fusion. First ring yellow. Gifts: binding vigor + the grass's vitality feedback.
-- **Adaptation** is a habit, not a switch: it must have DAYS of contact with a threat's trace before
-  the blades tint counter-colored; always +tax on Wulin's power; never immunity, never new element.
-- Growth rides the boy's cultivation (canon spirit-growth principle), each gain logged; never
-  a circle ahead of the boy's own rings.
-- Speech and presence in the soul-space are timeline-locked (NEXT_STEPS: Chapter-growth plan).
+## M3-QL. What the talent is NOT (Master §4, bound here as rails for THIS serial)
+Not a system window/voice/adviser — **and the SPIRIT must not be written as those either** (risk law:
+Qing Ling as character vs talent as principle — he is the HOLDER of the talent, never its voice; in prose
+the talent appears as sensation/instinct/corrective pull in the boy and refinement in the spirit's own
+body, never as a narrator). Not omniscience, not canon-knowledge, not instant immunity, not copying, not
+a reward engine, not free energy. First overwhelming exposure can still kill (§10.4).
 
-## Prohibited portrayals
-No omniscience; no battle-projecting beyond the ring's reach; no jealousy of canon's people;
-no "old master" voice; no romance with anything; no knowledge of the boy's bloodline or the world
-beyond its forest memories; no sacrificial-death bait in the first arc.
+## Voice discipline (kept, now fused with the above)
+- Interior = season-thought; verbs of root and weather. Humor late and dry. Speech grows through the bond.
+- Character truths: endured 99 small years; chose Wulin (scent of his own kind); root-and-ground loyalty;
+  fears fire and edges and stands anyway; never worships his own depth — *"a hundred years is just grass
+  that got up on time, every year, for a thousand days thirty times."*
+
+## Prohibited portrayals (extended)
+No invented talent-effects (the strike's lesson, death-listed): no threat-tinting, no counter-weaving,
+no borrowed elements, no emergency power-ups. No omniscience; no canon-knowledge; no projecting beyond
+the ring's reach; no jealousy of canon people; no "old master" voice; the dragon-ember = sense-only gag.

@@ -19,10 +19,17 @@
 
 ## THE COUNT
 
-**148 distinct recorded mistakes (128 through §L, plus §M 8, §N 8, §O 2, §P 1, §Q 1) · 13 author strikes that became standing law · 5 disasters · 23 still open or author-gated.**
+**149 distinct recorded mistakes (128 through §L, plus §M 8, §N 8, §O 2, §P 1, §Q 1) · 13 author strikes that became standing law · 5 disasters · 23 still open or author-gated.**
 
 ---
 
+## §R · FOUNDING-STRIKE acquires its row (2026-09-28)
+
+| # | Mistake | Correction & law born | Receipt |
+|---|---|---|---|
+| R1 | **The Adaptation Talent re-invented blind.** Author: *"What the hell you make Adaptation talent, go check my GitHub... understand everything completely."* — the new SL3 project's foundation had presented an invented effect-list as "the talent" without reading the house's locked system. | Full-corpus study before any mechanism claims. Law: NO MECHANISM is invented where the author has an established system — read the established file first; then write a §76 module under the locked core. | `soul_land_3_fanfiction/foundation/NO_MISTAKE_LIVE_RULES.md` (banned-inventions), `bible/PROTAGONIST.md` (M1–M3-QL), SARA.md 2026-09-28 |
+
+---
 ## §A · THE ORIGIN MISTAKE — the 90,000-word serial that died
 
 | # | Mistake | Receipt |

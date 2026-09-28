@@ -15,10 +15,15 @@ light, feed the ground you're in, survive what kills softer things. Personality:
 solemn, unexpectedly dry humor; grows a voice through the bond over the early chapters — first
 sensations, then single borrowed words, then full speech with the house banter.
 
-**Gift — Adaptation [author-locked]:** Qing Ling copies soil. Against flame it tints toward cold-grown
-blades; against weight, toward weave. *Costs and limits are law* (see FUSION_AND_GROWTH): adaptation
-is slow, small-place, and paid in the host's soul power. It can never grant an enemy's specialty,
-never a second element, never outright immunity — only *a little less dying, a little more holding.*
+**Gift — Adaptation Talent [author-locked]:** NOT my earlier invented effect-list (strike of
+2026-09-28, corrected). The real system = the AUTHOR'S Definitive Master Foundation v2.0 (locked core
+at `blue_silver/ADAPTATION_TALENT.md`): *"it reveals, refines, and develops what already exists"* —
+an innate, non-sentient existential principle working through the holder's whole being on best
+presently supportable path with real years, never granting anything from thin air. Qing Ling is that
+talent's holder: 99 years of a common BSG worked into living depth (LIFE-keeping vitality,
+wood/earth lodging — nothing royal/dark/dragon, everything EARNED). The §76 module for this holder
+lives in `bible/PROTAGONIST.md` (M1–M3-QL). In prose the talent shows as sensation/instinct/refinement
+— never as a voice or tactician.
 
 **What it knows:** its forest century — rain, hoof, root, fire, the blue fragrance once carried on
 the wind that made all grasses bow [foreshadow, never explained aloud]. It knows NOTHING of gates,
