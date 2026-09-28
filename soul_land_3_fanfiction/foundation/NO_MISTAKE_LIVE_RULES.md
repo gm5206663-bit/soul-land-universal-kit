@@ -1,7 +1,15 @@
 # NO-MISTAKE LIVE RULES — refresh after EVERY chapter
 *(pattern: author's Fire Phoenix project)*
 
-## Phase 0 (foundation; before ch 1 authorization)
+## Phase 0 (superseded by Phase 1 block; kept as founding record)
+
+## Phase 1 — LIVE after Chapter 1 (2026-09-28)
+- Wulin: 9, rank 10 (ring fused; rank 11 NOT yet — earned-in-training, ch 2+).
+- Spirit: fused; 100+ years effective; ring yellow; bind-family skill instinct-known but un-exercised (breadth = OPEN #4).
+- Spirits' name never spoken in prose; the spirit = 'the grass'/'it' only. Draft name Qing Ling = writer-side.
+- Golden-ember status: stirred-under-palm during fusion; sealed sense-only; never re-staged without cause.
+- Public state: family knows yellow; Pagoda processed a cheap-tier draw with an anomalous outcome — consequences MUST surface in ch 2 (anti-nerf law).
+- Banned-value watch for ch 2: no Eastsea characters yet; no rank 11 gift; no skill-power beyond single-bind family; no pagoda lore beyond an Aolai clerk's scope.
 - Live edge: **pre-canon-opening**; book starts AT the Spirit Pagoda selection, Wulin age 9, rank 10.
 - The OC (draft name **Qing Ling**) exists ONLY as: 99-year BSG spirit, misfiled scrap in Pagoda pool.
 - Fusion mechanic locked: **crossing 100 at fusion; first ring yellow; adaptation gift.**

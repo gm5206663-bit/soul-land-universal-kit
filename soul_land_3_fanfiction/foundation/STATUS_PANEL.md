@@ -1,10 +1,15 @@
 # STATUS PANEL — "Qing Ling" single current-truth source
 
-> **Snapshot: v0 (FOUNDATION BUILT — awaiting author rulings, no chapter authorized)** · 2026-09-28 · chapters live: **0**
+> **Snapshot: v1 (CH 1 LIVE — the fusion is done; ring yellow; skill un-exercised; public consequence pending)** · 2026-09-28 · chapters live: **1**
 
 ## Window
-Pre-canon-opening. Book opens at the Spirit Pagoda draw, Wulin age 9 → storm window covers novel's
-early arc toward Eastsea Academy entry and class zero (see CANON_SPINE).
+Live edge: evening of Draw-Day, Tang house, Aolai City. Wulin: age 9, rank 10 (ring fused — rank 11
+NOT granted; earned-in-training law). First soul spirit = the 99→100-y BSG grass, fused; ring yellow;
+first skill = bind-family (breadth 4a/4b/4c pending author), instinct-known, un-exercised. Witnesses
+of yellow: Tang Ziran, Lang Yue (+ the line of Pagoda staff who processed the thirty-thousand tier).
+Dragon-ember: stir-under-palm during fusion — sense-only, sealed. The grass's name: UNSAID in prose
+(draft Qing Ling writer-side only). OPEN public-consequence thread: a yellow ring from the cheap shelf
+will be seen again by Pagoda files, schools, and money-math — ch 2 territory.
 
 ## Locked (author, 2026-09-28)
 - OC = the soul spirit itself (99-y BSG), replaces canon's defective snake; adaptation talent; crosses 100 at fusion · yellow ring from day one.
