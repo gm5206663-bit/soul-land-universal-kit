@@ -14,6 +14,9 @@ public math begins at school — ch 2 opens there; the money pressure remains ca
 - OC = the soul spirit itself (99-y BSG), replaces canon's defective snake; adaptation talent; crosses 100 at fusion · yellow ring from day one.
 - Entry at Wulin's beginning; canon-true wall + licensed tracked butterflies; home = this folder; voice = Fire Phoenix register; anti-nerf + warm-bounded integration; reveal-gag on the dragon.
 
+## OC ledger
+The Spirit's perfect status: `bible/OC_STATUS.md` (single source; refreshed every chapter).
+
 ## Pending (OPEN.md — each has candidates)
 1. OC name · 2. serial title · 3. pool-fork justification (3a/3b/3c) · 4. first-ring skill (4a/4b/4c) · 5. chapter-length band
 

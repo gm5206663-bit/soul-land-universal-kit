@@ -5,7 +5,7 @@
 ## Law, in order of bindingness
 1. **The author's word** overrides everything, always (see `foundation/` locks; his 2026-09-28 answers are locked at `foundation/SERIAL_LOG.md` §001).
 2. **`MASTER_PROJECT_BIBLE.md`** — premise, the OC, fusion mechanics, firewalls.
-3. **`NO_MISTAKE_LIVE_RULES.md`** — current facts + banned-wrong values. Refresh after every chapter.
+3. **`NO_MISTAKE_LIVE_RULES.md`**. The OC's single state file: **`bible/OC_STATUS.md`** (perfect-status ledger; cite it, never duplicate it). — current facts + banned-wrong values. Refresh after every chapter.
 4. **Canon tiers discipline** — VERIFIED (external source URL) vs canon-true vs [design]; see `foundation/CANON_SPINE.md`. Never blur upward.
 5. **Style:** `foundation/STYLE_CARD.md` = the author's Fire Phoenix register. Anchor text: his own SL4 serial (
    `_archive/.../soul_land_4_fire_phoenix/chapters/` in `gm5206663-bit/soul-land-projects`; ch 01/15/31 are the model pages).
