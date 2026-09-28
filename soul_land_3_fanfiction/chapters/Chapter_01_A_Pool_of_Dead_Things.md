@@ -1,7 +1,7 @@
 # Chapter 1: A Pool of Dead Things
 
 > **Canon reference:** Soul Land 3, early canon — the "defective soul spirit" event (novel ch ~10–16 window)
-> **Timeline:** Tang Wulin, age 9 · rank 10, earned at the forge over three years · Aolai City · the year he has been saving for since he was six
+> **Timeline:** Tang Wulin, age 9 · rank 10, earned at the forge over three years · Glorybound City · the year he has been saving for since he was six
 
 ---
 
@@ -47,7 +47,7 @@ Tang Ziran, in the kitchen's small weary light, picked it up. He held it the way
 
 "The Pagoda also told everyone their cheap tier contained the future Lord of somewhere or other," Tang Ziran said, carefully amused, "which is what a salesman tells you when he has already sold the expensive tier to everyone he can find." He put his large, smith-warm hand on his wife's thin shoulder and then on his son's tidy head. "Hey. We are who we are. Eat."
 
-Wulin ate, and held the inside pocket of his jacket while he ate it, feeling the envelope's edges against his ribs through the cloth. Future lords of somewhere didn't live in pockets. He knew that. But thirty thousand coins lived in one pocket, and three years of swinging lived in his shoulders. Somewhere up the seven floors of the Aolai Spirit Pagoda, there had to be a soul spirit small and solid enough to fit the kind of boy he knew he was. He hoped it quietly, so the hope didn't take up the room where luck was sitting.
+Wulin ate, and held the inside pocket of his jacket while he ate it, feeling the envelope's edges against his ribs through the cloth. Future lords of somewhere didn't live in pockets. He knew that. But thirty thousand coins lived in one pocket, and three years of swinging lived in his shoulders. Somewhere up the seven floors of the Glorybound City Spirit Pagoda, there had to be a soul spirit small and solid enough to fit the kind of boy he knew he was. He hoped it quietly, so the hope didn't take up the room where luck was sitting.
 
 Ordinary was fine. Ordinary was earned. Ordinary could train.
 
@@ -55,7 +55,7 @@ Not every key is gold; the lock doesn't care.
 
 ---
 
-The Aolai Spirit Pagoda was the only building in the city whose ceilings didn't fit anyone's mood.
+The Glorybound City Spirit Pagoda was the only building in the city whose ceilings didn't fit anyone's mood.
 
 Its atrium was round, tall, and lined with the kind of murals that depicted the profession of soul spirits in the oldest established manner: a series of improbably muscled soul masters receiving improbably splendid beasts beneath improbably golden rays, in colors their guardians would have found expensive to bleed. Beneath the murals, between the information kiosks and the seated rows of hopeful families, the floor was mirrored stone, and it threw back every hopeful face a second time, which did remarkable work toward making everyone feel twice as nervous.
 
@@ -65,7 +65,7 @@ The cheapest tier had its own counter, as though the Pagoda had built that, too,
 
 Tang Ziran slid their receipts forward. Wulin swallowed and gave his name, and the clerk — who had read hundreds of proud names and hundreds of sheaf-tags — said nothing else about that, and typed.
 
-"Age nine, rank ten." He said the facts the way you re-read an order. "Aolai branch, third floor. Self-service draw. The room lets a family of three in." He finished typing and pushed a numbered hand-set across the counter. "The mechanisms work by the number: you insert, you draw, the ball disgorges, unless it doesn't, in which case — " he looked, for the first time, at the small anxious family, noting the father's work-handsmith hands, and something in his tone softened by about a tenth of a degree — " — you re-insert and draw again. The room advises drawing twice if the first one doesn't meet nothing at all of your liking, not more. Returns are drawn back; fusing is binding; a split ticket opens a mediating room." He straightened the sheaf. "The thirty-thousand tier's pool is mixed stock. Most of it is what it is. There is some genuine history in there. The file's the file."
+"Age nine, rank ten." He said the facts the way you re-read an order. "Glorybound branch, third floor. Self-service draw. The room lets a family of three in." He finished typing and pushed a numbered hand-set across the counter. "The mechanisms work by the number: you insert, you draw, the ball disgorges, unless it doesn't, in which case — " he looked, for the first time, at the small anxious family, noting the father's work-handsmith hands, and something in his tone softened by about a tenth of a degree — " — you re-insert and draw again. The room advises drawing twice if the first one doesn't meet nothing at all of your liking, not more. Returns are drawn back; fusing is binding; a split ticket opens a mediating room." He straightened the sheaf. "The thirty-thousand tier's pool is mixed stock. Most of it is what it is. There is some genuine history in there. The file's the file."
 
 He turned away to his next client, and then — in the manner of a man who had done many kinds of this task, and owed the queue at least this much — turned back.
 

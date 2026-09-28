@@ -1,9 +1,9 @@
 # STATUS PANEL — "Qing Ling" single current-truth source
 
-> **Snapshot: v2 (CH 1 ver.B AUTHOR-CORRECTED — rank 12 / Bind live / awakening carried / golden lines sealed)** · 2026-09-29 · chapters live: **1**
+> **Snapshot: v3 (CH 2 LIVE — public math paid off: school measurement, grove Bind, clerk flag, guild letter; recommendation issued)** · 2026-09-29 · chapters live: **2**
 
 ## Window
-Live edge: evening of Draw-Day + workshop fence, Aolai City. Wulin: age 9, **rank 12** (yield law,
+Live edge: evening of Draw-Day + workshop fence, Glorybound City. Wulin: age 9, **rank 12** (yield law,
 author-locked). First soul spirit = the 99→100-y BSG grass, fused, awake through the tier crossing;
 ring yellow/silver-threaded. First skill **Bind** demonstrated (fence-post, 28-count). Golden lines
 on the boy: fusion-blaze, rest-faint, ring-flare; gag sealed. Witnesses: Tang Ziran + Lang Yue (full

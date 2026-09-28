@@ -3,7 +3,7 @@
 ## Canon-true at start (do not move)
 Age 9 · rank 10 · BSG martial soul · forge-apprentice under Mang Tian, hardworking to a fault,
 Tang Ziran & Lang Yue at home, sister Na'er in the household arc (canon timing window) · the money
-pressure and the 30k note family debt [era-flavored, canon machinery] · Aolai City · the Spirit
+pressure and the 30k note family debt [era-flavored, canon machinery] · Glorybound City · the Spirit
 Pagoda's cheapest pool is all they can afford.
 
 ## The one difference (root — UPDATED by author ruling 2026-09-29, LOCKED)

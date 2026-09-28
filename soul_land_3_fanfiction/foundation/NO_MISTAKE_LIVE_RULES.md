@@ -11,7 +11,7 @@
 - Spirits' name never spoken in prose; draft name Qing Ling = writer-side; author may rule the in-world naming arc.
 - Public state: family + Pagoda process know yellow; school's instrument of administration learns next (ch 2 must pay that consequence — anti-nerf law).
 - STRICT RULE (author 2026-09-29, in effect forever): before any canon-touching passage, CHECK the kit on GitHub + online canon sources. No canon claims from memory. (Mirror: see HANDOFF §law; receipts live in canon_coverage*.)
-- Banned-value watch for ch 2: no Eastsea characters staged yet; no additional level gifts; Bind shape may broaden with training only in-family; no pagoda lore beyond Aolai clerk scope.
+- Banned-value watch for ch 2: no Eastsea characters staged yet; no additional level gifts; Bind shape may broaden with training only in-family; no pagoda lore beyond Glorybound clerk scope.
 - Live edge: **pre-canon-opening**; book starts AT the Spirit Pagoda selection, Wulin age 9, rank 10.
 - The OC (draft name **Qing Ling**) exists ONLY as: 99-year BSG spirit, misfiled scrap in Pagoda pool.
 - Fusion mechanic locked: **crossing 100 at fusion; first ring yellow; adaptation gift.**
@@ -29,4 +29,4 @@ process = cut it.
 ## Banned as current until events arrive (the usual wrong-values list)
 - No: Emperor awakening, dragon lore named, gold song/snake references (erased timeline: we don't mention
   the canon snake even as joke), no rank-11 before the natural beat lands, no Eastsea people pre-arrival,
-  no Spirit Pagoda internal lore beyond what an Aolai clerk would say.
+  no Spirit Pagoda internal lore beyond what a Glorybound clerk would say.
