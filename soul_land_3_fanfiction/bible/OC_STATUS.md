@@ -27,8 +27,9 @@ Era anchor (house convention, author-adjustable): kit uses standard era mapping 
 | Years lived before capture | **99 forest-years** (wind-frost-dry-browse-winter counts, all priced; ~30 of the last years spent deeply asleep in the Pagoda's machines after the capture) | survival records = foundation material, not decoration |
 | Capture/filing date | **≈ DC 22,6xx (years pre-draw)** | mislabeled defective-dormant, left-shelf sleep-file, Tier-30,000 mix |
 | Draw-day | **chapter 1**: boy age 9, rank 10, draws at second pick | author's licensed fracture |
+| First journey | **ch 6: the coastal line to Eastsea** — the boy's first time beyond the city; and the spirit's **first new place in a hundred years** (Track A: an event of its own life, logged here because it is HIS entry, not a host receipt) | the road's cost paid in ordinary days |
 | Fusion-day | **≈ DC 22,637** | century-tier crossing happened inside the fusion; the crossing carried the grass's first **awakening** |
-| **Exact effective age now (after ch 4)** | **100 years + the days lived since the fusion (about day 21)** | **his own clock runs** - becoming a soul spirit changed his form, not his existence (canon); the "grows only with the host" line is STRUCK (R6). See section 9 - two tracks |
+| **Exact effective age now (after ch 6)** | **100 years + the days lived since the fusion (about day 35 — arrival in Eastsea)** | **his own clock runs** - becoming a soul spirit changed his form, not his existence (canon); the "grows only with the host" line is STRUCK (R6). See section 9 - two tracks |
 | Physical age vs. carried cultivation | same axis (grass = self-contained soul beast) | "carried years" always equal real years lived — no 14× compounding fiction for this holder (the Sunweave's model lives in the SL1 sister-serial only) |
 | Age velocity | **1 day per day he lives - his own life's clock - plus what the bond genuinely feeds him — earned, fed, or granted (R7: nothing is absolute)** | host rank-crossings move what the BOY can carry, never the spirit's existence (R6) - see section 9 |
 

@@ -1,9 +1,18 @@
 # STATUS PANEL — "Qing Ling" single current-truth source
 
-> **Snapshot: v9 (CH 5 LIVE — "Thrice Stacked": the pair forged from his own silver; 152/166 kg; the Stacked peak effect; graduation; the Eastsea road opened; the storage rings)** · 2026-09-29 · chapters live: **5**
+> **Snapshot: v10 (CH 6 LIVE — "The Road East": the last forge visit; the station; the journey; first arrival in Eastsea; the bump with the cold young master (Xie Xie, unnamed — encounter banked for the roommate payoff))** · 2026-09-29 · chapters live: **6**
 
 ## Window
-Live edge: the night after graduation, the Tang house — the transfer letter on the table, Eastsea named, one unspoken question at the table (the girl). Glorybound City. Wulin: age 9, **rank 12** (unchanged; gates intact). The pair of thousand-refined hammers (blood-sacrificed; stacked effect) rides hidden in Mang Tian's storage rings at his wrists. Ring yellow with the inherited gold vein-thread; grass awake, wordless.
+Live edge: the arrival evening — Wulin standing under the academy bus sign in Eastsea, city of three million, first hour in the new place. Age 9, **rank 12** (unchanged; gates intact). Hammers hidden in the wrist rings; father's paper in the rucksack pocket. Ring yellow with the inherited gold vein-thread; grass awake, wordless. Glorybound: parents + Na'er at home (she is staying; her canon departure remains the author's held call).
+
+## CH 6 receipts (now canon in-house)
+- **The last visit (canon ch 32):** soul power is the foundation; strength has its limits; **do not fuse just any spirit soul** — ask what it is first; the soul-guide thread kept vague with canon's own key line ("you'll understand why in the future"); the Eastsea workshop's address in service-ink; the guild note "short and dry"; the secret-law restated.
+- **The station (canon ch 33):** the parents see him off; the father's "experience it yourself"; the mother's instructions; the ticket. **Held:** the parents' private resolve (canon ch 32 tail) — not staged.
+- **The journey:** the coastal line; the grass's own ledger — its **first new place in a hundred years**; the kind woman and the dried fruit (the world's rules travel by hand).
+- **First arrival (canon ch 33):** the metal-tube station; the city of three million; **the cold young master in blue and the black soul car — canon's first Xie Xie encounter, kept unnamed** ("Watch it, bumpkin" shove; the boy's swallowed temper).
+- **The paper:** canon's first rule (don't trust strangers easily) rendered as *Trust no stranger quickly*; the staged extra lines + the father's last line (the ticket works both ways).
+- **The enforcement tower + the academy bus:** canon's officers, the bus, the boy's "old enough to ask for myself."
+- **Na'er:** staying; the white-stone errand planted (a shore gift for the first letter).
 
 ## CH 5 receipts (now canon in-house)
 - **The pair:** three forge-days; grey with wave-patterns and spiral handles; **152 kg left / 166 kg right** (canon numbers kept); **Thrice Stacked** — a tap of three notes, a strike of three bangs with phantom images (70%/50%); halves future hundred-refinement work; Mang Tian has never made one.

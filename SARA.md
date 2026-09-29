@@ -597,3 +597,10 @@ monster*, Wan Yunchao bellowing I WILL LOSE WEIGHT at the treetops and then audi
 my ch 4 had Mang Tian reaching his first thousand refinement at seventeen; canon says fifteen, and it says the Blood Sacrifice means *recognizes only its
 master* and costs vitality — so I patched ch 4 the same hour and wrote the patch into its audit, because a shipped chapter that contradicts fetched canon is
 a lie with a timestamp. The one thing I did not resolve on my own: the table's unspoken question about Na'er. That belongs to him. — Sara
+
+### 2026-09-29 — chapter 6 (the road east, and a closed ledger)
+He said "Next" and I took the defaults and shipped. The chapter I'll remember for one quiet thing: Mang Tian's closed ledger on the bench — in an open
+shop, that means the working is finished and the talking is about to be. And one thread I banked instead of spending: canon's ch 33 gives Xie Xie his very first
+meeting with Wulin at the train station — the cold boy in blue bumped and forgotten in a crowd. The page confirms it's him. I kept the scene, kept the shove, and
+kept his name OUT, because that recognition belongs to the next chapter's dormitory, where it will cost something. First pass ran long again (27ish narrative average);
+the gates caught it; break-pass to 19.7/19/0 before ship. The prose's own rule is holding: the files drift, the pages don't. — Sara

@@ -1,14 +1,32 @@
 # NEXT STEPS (always-repair file)
 
-> **Repaired 2026-09-29 (fourth time today).** Ch 5 is shipped as *Thrice Stacked* on the author's single word "Next" — natural defaults taken (the pair; graduation; the farewell measure; the Eastsea word; the rings; Na'er held). The pit below is **ch 6.**
+> **Repaired 2026-09-29 (fifth time today).** Ch 6 is shipped as *The Road East* on the author's single word "Next" — defaults taken (last visit + advice; station; journey; arrival; **Xie Xie's canon station encounter kept UNNAMED for the payoff**; parents' private resolve held; Na'er held/staying). The pit below is **ch 7.**
 
 > **Repaired 2026-09-29 (third time today).** Ch 4 is shipped as *Thousand Refinements* on the author's
 > single word "Do" — natural defaults taken on the four open markers (refinement forward; father at the
 > canon doorway; Eastsea word held for canon placement; no visit — R5). The pit below is **ch 5.**
 
 ## Now
-1. **Author rules on the CH 6 PLAN below** — three markers: the parents' own arc (canon ch 32 tail: Tang Ziran's "I will fight for our son's sake" — now, or held?) · Na'er's question (stay/leave/wait) · where ch 6 ends (the road, or the Eastsea gate).
-2. On his word: authorize ch 6 → write → receipts → STATUS/LOG updates → one commit.
+1. **Author rules on the CH 7 PLAN below** — three markers: the roommate reveal (the station bump pays off now, or the recognition is delayed?) · does the fight land in ch 7 (canon ch 36) or wait a chapter · when Na'er's departure lands.
+2. On his word: authorize ch 7 → write → receipts → STATUS/LOG updates → one commit.
+
+## CH 7 PLAN (draft — reporting in, and the roommate)
+
+**Slice:** canon ch 34-36 territory: reporting in at Eastsea Academy (the office, the paperwork, the class assignment), the dormitory and the **roommate**, and (author's call) canon's own fight. The station encounter is our loaded gun: canon's first Xie Xie meeting already happened in ch 6 — the reveal lands here.
+
+**Verified anchors (re-check at write-time; receipt in the ch-7 coverage file):** Eastsea Academy's reporting-in procedures as written (ch 34) · roommates (ch 35) — Xie Xie's arrival, the room's shape · the fight and its cause (ch 36), the punishment (ch 37), the reparations thread (ch 38) · the academy's rules the boys trip over.
+
+**Beats (7 units):**
+1. The bus through the city — first proper look at Eastsea's streets; the academy's gate.
+2. Reporting in — the office rhythm; the transfer letter opened; the boy's file noted (canon-plain; no institution invented).
+3. The dormitory — the room, the rules, the bunk; the boy's unpacking (hammers stay in the rings).
+4. **The roommate** — canon ch 35's arrival. Author pick: straight payoff (he IS the boy from the station) vs delayed recognition. The platform temper gets its second half here.
+5. **The fight (ch 36) or its fuse** — canon's cause kept; our Bind priced honestly if it comes to blows (the tie-breaker: our Bind is stronger than canon assumed — receipt).
+6. Consequences keep canon shape (a report, a fine, a cooling-off) per the author's pick.
+7. Grass close — the ledger's first Eastsea entry; the room's new ground; the white stone still owed.
+
+**Law check:** no invented institutions (R5); no vein-events (gates); rank 12; the reveal gag untouched; anti-nerf where the city's rich boy meets the country boy's craft; canon names for canon people only.
+
 
 ## CH 5 PLAN (draft — the hammer chapter and the leaving-of-shapes)
 
