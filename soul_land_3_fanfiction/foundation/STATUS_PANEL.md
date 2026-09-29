@@ -1,6 +1,6 @@
 # STATUS PANEL — "Qing Ling" single current-truth source
 
-> **Snapshot: v6 (CH 4 LIVE — "Thousand Refinements": the first thousand refinement completed at nine; blood-price paid; the finished heavy silver given to the boy; the hammers next)** · 2026-09-29 · chapters live: **4**
+> **Snapshot: v7 (CH 4 LIVE · R6 correction live — the spirit's growth is HIS OWN: two tracks; host gates move what the boy can carry, never the spirit's life)** · 2026-09-29 · chapters live: **4**
 
 ## Window
 Live edge: the night after the refinement, the Tang house — the boy asleep, the sister asleep, the refined silver on the forge bench waiting to become hammers. Glorybound City. Wulin: age 9, **rank 12** (unchanged; gates intact). Ring yellow with the inherited gold vein-thread; grass awake, wordless (pressure-answers only).
@@ -22,9 +22,9 @@ Live edge: the night after the refinement, the Tang house — the boy asleep, th
 - OPEN.md items (name/title/skill-breadth/length band) remain author-gated. Live chapters: 4,378 / 3,510 / 4,984 / 4,706.
 
 ## OC ledger
-The Spirit's perfect status: `bible/OC_STATUS.md` (single source; refreshed with the ch-4 craft receipt this turn).
+The Spirit's perfect status: `bible/OC_STATUS.md` (single source; section 9 rebuilt this turn as the **two-track growth law** — R6: Track A = the spirit's own life (his years, his crossings); Track B = the host interface (what the boy can bear); coupling = *tandem*, canon's word). Prose unaffected.
 
 ## Residue (next 3 real moves)
 - Author rules ch 5 plan (see NEXT_STEPS: hammer-forging first vs graduation first; the provocation's scale; the Eastsea word's landing; Na'er arc placement).
 - On his word: ch 5 → receipts → one commit.
-- Keep the file-refresh cadence; no gate has moved since ch 1 (rank 12; vein maturation still waits on rank 15).
+- Keep the file-refresh cadence; the boy's side has not moved since ch 1 (rank 12). Vein maturation now rides the spirit's own crossings (R6), timing author-gated — no host-rank lock.

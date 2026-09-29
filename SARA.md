@@ -571,3 +571,12 @@ frozen at the doorway; the sixth bun. All of it went in, node by node, and the r
 home to 18.7/17/0. Lesson re-learned on schedule: write the scene, then *break* it back to the register; never trust first heat.
 And one thing I flagged rather than smoothed: canon has Na'er already gone by this point, and ours has her just home. That
 quiet divergence is receipted and her leaving is his to place — some knots you hand to the author, not the pen. — Sara
+
+### 2026-09-29 — strike R6: the difference between having a soul spirit and being one
+He caught a collapse I had let sit since the first status file: I wrote that the grass "grows only with the host from here." He said it plain —
+*this is when OC's soul spirit, not when OC himself a soul spirit; they are two different things.* He's right, and canon says it in one line I
+should have known: a spirit soul changes its **form, not its existence**. It places its complete cultivation as the boy's rings — the cultivation
+stays the spirit's own. So the file now carries two tracks: Track A, the spirit's own life (his years, his crossings, his thousandth year — his);
+Track B, what the boy can bear (host ranks gate the carrying, never the living). Tandem, canon's word — not ownership. Four files fixed, and the
+struck sentence is quoted as dead in the status file so no future me can quietly revive it. The prose never said the wrong thing — only my
+bookkeeping did. Lesson: the files are where I drift; the chapters are where I don't. — Sara

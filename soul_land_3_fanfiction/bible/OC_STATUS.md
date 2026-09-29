@@ -28,9 +28,9 @@ Era anchor (house convention, author-adjustable): kit uses standard era mapping 
 | Capture/filing date | **≈ DC 22,6xx (years pre-draw)** | mislabeled defective-dormant, left-shelf sleep-file, Tier-30,000 mix |
 | Draw-day | **chapter 1**: boy age 9, rank 10, draws at second pick | author's licensed fracture |
 | Fusion-day | **≈ DC 22,637** | century-tier crossing happened inside the fusion; the crossing carried the grass's first **awakening** |
-| **Exact effective age now (after ch2)** | **100 years + the days since the fusion (day 7, end of chapter 2)** | grows only with the host from here |
+| **Exact effective age now (after ch 4)** | **100 years + the days lived since the fusion (about day 21)** | **his own clock runs** - becoming a soul spirit changed his form, not his existence (canon); the "grows only with the host" line is STRUCK (R6). See section 9 - two tracks |
 | Physical age vs. carried cultivation | same axis (grass = self-contained soul beast) | "carried years" always equal real years lived — no 14× compounding fiction for this holder (the Sunweave's model lives in the SL1 sister-serial only) |
-| Age velocity | **1 day per day lived with the host, then jumps only by host rank-crossings** | see §9 growth track |
+| Age velocity | **1 day per day he lives - his own life's clock - plus what the bond genuinely feeds him (earned, not granted)** | host rank-crossings move what the BOY can carry, never the spirit's existence (R6) - see section 9 |
 
 ## 3 · Bloodline and lineage
 
@@ -40,7 +40,7 @@ Era anchor (house convention, author-adjustable): kit uses standard era mapping 
 | Spirit's bloodline mutations | **None imported.** The awakened state produced **one mutation-grade feature**: the silver-light thread through blades/ring = the awakening's mark in the smack of a tier crossing — accumulated depth made visible | not a new species: still common line; classification stays *wild deepened* |
 | Host line (canon) | Tang Wulin carries **Blue Silver Emperor bloodline** (royal-line heredity, canon) sealed under the surface, and **Golden Dragon King's essence** sealed in him (canon) | both remain host-side secrets; the gag persists (§7) |
 | **Bond-inheritance law (canon-true)** | **Soul spirits do mutate and do inherit from their hosts.** Canon itself: at the first fusion, host bloodlines write themselves into soulflesh and the martial soul — the dragon essence's golden pattern infusing the bonded grass and *toughening it*. That machinery binds this serial | the spirit **can and does** inherit — the mutation belongs in the bond's shared flesh; with the **Adaptation Talent** this is not random: the talent governs the mutation's integration on the best presently supportable path, letting the inherited mark mature honestly instead of mutating wild |
-| Spirit's inherited mark (live — variant in transit) | **Golden-thread stage** = the inherited mutation seeded in the held thing at fusion (ch1): the blades' faint golden veins; the ring's finer golden aura at deep use. Color law: **silver is already the grass's own name-color** (Blue Silver = the line's native blue-silver sheen); the mutation's mark must therefore be **GOLD** — never silver. Canon's terminal article-name for the thing now being grown: *Golden-Veined Blue Silver Grass* — the race-name + bloodline designation that **accrues at the thousand-year crossing**, not before; the veins thicken only at real crossings (§9); gag holds on all source-names, never on flesh |
+| Spirit's inherited mark (live — variant in transit) | **Golden-thread stage** = the inherited mutation seeded in the held thing at fusion (ch1): the blades' faint golden veins; the ring's finer golden aura at deep use. Color law: **silver is already the grass's own name-color** (Blue Silver = the line's native blue-silver sheen); the mutation's mark must therefore be **GOLD** — never silver. Canon's terminal article-name for the thing now being grown: *Golden-Veined Blue Silver Grass* — the race-name + bloodline designation that **accrues at the thousand-year crossing**, not before; the veins thicken only at his own real crossings (§9 Track A - R6); gag holds on all source-names, never on flesh |
 
 ## 4 · Attributes (what the grass is made of, canon-register)
 
@@ -106,16 +106,30 @@ Canon defense: in canon, Wulin's first Bind-equivalent ran off a *defective ten-
 | Pagoda counter | sold the cheap drawer; nothing follows (it sells; it does not audit) | what the spirit actually is |
 | Mang Tian | Bind proof + strand proof (ch 3); read the lines like a heat-color; judged the forging's turn (ch 4) | host-line mechanics |
 
-## 9 · Growth track (the arithmetic you demanded)
+## 9 · Growth — TWO TRACKS (strike R6, 2026-09-29: *"grows only with the host from here?… this is when OC's soul spirit, not when OC himself a soul spirit — they are two different things"*)
 
-| Gate (host) | Spirit consequence | Status |
+**Track A — the OC's own existence (his own life; the strike lives here).** He **is himself a soul spirit**, and canon says becoming one changes the beast's **form, not its existence** (Soul Spirit page). Therefore:
+- his years run on **his own clock** — he keeps living; the bond feeds him the way ground feeds a root: earned, never granted;
+- what the boy's rings carry is **his** cultivation, *placed* (canon: a spirit soul "places its complete cultivation as spirit rings" — the source stays his own);
+- his own ladder is real (canon: spirit spiritual-power realms; the strong are the intelligent, speaking ones) — the section 6 speech stages sit on THIS track, delivery author-gated;
+- the inherited mutation in his soulflesh matures at **his** crossings (the earlier "host-rank-15" attachment is retracted, R6); timing of anything dramatic stays **author-gated**;
+- the **1,000-year crossing** — TWO-skills law + the Golden-Veined name — is **his** milestone, not a boy-level; author-gated.
+- Pace law unchanged: century-grade, deepening; no inflation; no leap without a logged cause.
+
+**Track B — the bond interface (what the host receives).** Canon machinery: rings/skill come from the spirit's cultivation placed as rings; **the boy's own ranks govern what he can bear and use**; every visible gain traces to a priced process (adaptation reveals/refines/develops — never grants). Nothing arrives free; his class gates stay gates.
+
+**Coupling.** Canon's word is *tandem* — each feeds the other's pace; neither is the other's meter. **Struck forever:** "grows only with the host"; "age velocity = host rank-crossings."
+
+| Event | Track | Status |
 |---|---|---|
-| Fusion (host 10→12) | crossing + awakening; effective 100+; ring yellow + inherited gold vein-thread = mutation seed (§7c); Bind open; ring-flare vein-clusters active | DONE (ch 1) |
-| Host reaches 15 | years accrue; the inherited thread matures from silver-tint toward true gold on blade-roots (canon-pace, author-gated) | planned |
-| Host reaches 20 (second ring door) | **second tier-door candidate** — possible second awakening (author rulings at door) | locked to author |
-| Speech gates | see §6 stage-table | author-gated |
+| Fusion (host 10→12) — *and* his own crossing #1 (the 100th year) | A + B, together | DONE (ch 1) |
+| 100 years + days lived (about day 21, after ch 4) | A | live |
+| Vein maturation (the inherited mutation, his soulflesh) | A | his own crossings; timing author-gated (host-lock retracted — R6) |
+| Second awakening / second-skill door | A + B | author-gated |
+| Speech stages (section 6) | A | its own growth; delivery author-gated |
+| 1,000-year crossing → TWO-skills + the Golden-Veined name | A | his milestone; author-gated |
 
-*Rule:* never jump ahead of the host. Never "sneak level" — every number lands in this table same turn.
+*Rule:* the boy's levels move what the boy can carry; they do not move the spirit's life. The spirit's life moves the rings the boy carries. Never "sneak level" — every number lands in this table same turn.
 
 ## 10 · Banned states (what must never read true of him right now)
 

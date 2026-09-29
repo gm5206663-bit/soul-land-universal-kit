@@ -32,8 +32,14 @@ skill shape from OPEN.md #4; whichever is chosen must satisfy this rule.
   him from first-exposure damage; copy or tint anything; add skills to rings (see §C1 sibling serials).
 - Every visible "gift" must trace to a priced, shown process — or be cut (M5 test).
 
-## Growth law (anti-bloat, anti-nerf)
-- Spirit's effective age grows WITH Wulin's rank; each step logged in STATUS_PANEL same-turn.
+## Growth law — two tracks (anti-bloat, anti-nerf; strike R6, 2026-09-29)
+- **The spirit's own existence is NOT host-locked.** He is himself a soul spirit; canon says becoming one
+  changes a beast's form, not its existence. His years accrue on his own clock (the bond feeds him -
+  earned, never granted); his crossings are his own (the 1,000-year among them). *(Was wrongly written
+  "Spirit's effective age grows WITH Wulin's rank" - struck.)*
+- **The host side stays canon-gated:** the boy's ranks govern what he can bear/use; his rings are the
+  spirit's cultivation placed; canon's word is *tandem* - never ownership. Each side logged in
+  STATUS_PANEL same-turn.
 - Never leaps tiers without a logged cause. No second ring effect/hidden ring/organ traits/independent
   materialization beyond a blade-of-grass avatar until natural canon-time doors open.
 - Verifiable ceiling language: "hundred-year tier, deepening" — no secret-grade inflation.

@@ -33,6 +33,12 @@ Canon (Spirit Pagoda + Soul Spirit pages; spoilers ch 1-20): the Pagoda SELLS sp
 - **Live law:** consequences arrive through PEOPLE (district talk, teachers, smiths, family), PRICES (money stays canon-true), and the machinery canon actually has (school ledgers, the recommendation rule, the Blacksmith Association). When a consequence wants an office — ask canon first; if canon has no office, the consequence travels by mouth.
 - **The wound under the strike:** this rule already existed (Phase 1: "no Spirit Pagoda internal lore beyond what a Glorybound clerk would say") and ch 2 broke it anyway. It is re-armed here at strike strength so it cannot be missed again.
 
+## Strike R6 — the OC's growth is HIS OWN (2026-09-29)
+Author: *"grows only with the host from here?, what the hell?, this is when oc's soul spirit not when oc himself a soul spirit, they are two different thing"* — OC_STATUS section 2 had chained the spirit's AGE to the host ("grows only with the host"; "age velocity = 1 day per day, then jumps only by host rank-crossings"), and section 9 chained every spirit-side event to host gates. FUSION_AND_GROWTH said "spirit's effective age grows WITH Wulin's rank"; PROTAGONIST's talent line read "Growth rides Wulin's cultivation."
+Canon (Soul Spirit page + the SL3 glossary): a spirit soul **"changes its form, not its existence"**; it **"places its complete cultivation as spirit rings"** with the host — the cultivation stays its own; spirits **"evolve in tandem"** with the master; spirit spiritual-power realms are their own ladder; the strong ones are the intelligent, speaking ones.
+- **Two different things, never collapsed again:** (a) *an OC's soul spirit* — a fused spirit belonging to a host, growing as the host's complement; (b) **the OC himself a soul spirit** — ours: a living being whose growth is **his own**. Host gates move what the BOY can carry; they do not move the spirit's life.
+- **Banned from this serial:** "grows only with the host"; "age velocity = host rank-crossings"; any spirit-side milestone chained solely to a host rank. The earlier "host reaches 15 → vein maturation" attachment is **retracted** — maturation rides **his own crossings**, timing author-gated.
+
 ## Banned as current until events arrive (the usual wrong-values list)
 - No: Emperor awakening, dragon lore named, gold song/snake references (erased timeline: we don't mention
   the canon snake even as joke), no rank-11 before the natural beat lands, no Eastsea people pre-arrival,
