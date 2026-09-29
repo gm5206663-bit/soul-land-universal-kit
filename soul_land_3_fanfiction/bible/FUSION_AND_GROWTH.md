@@ -35,7 +35,7 @@ skill shape from OPEN.md #4; whichever is chosen must satisfy this rule.
 ## Growth law — two tracks (anti-bloat, anti-nerf; strike R6, 2026-09-29)
 - **The spirit's own existence is NOT host-locked.** He is himself a soul spirit; canon says becoming one
   changes a beast's form, not its existence. His years accrue on his own clock (the bond feeds him -
-  earned, never granted); his crossings are his own (the 1,000-year among them). *(Was wrongly written
+  and grants are possible too, R7: nothing is absolute); his crossings are his own (the 1,000-year among them). *(Was wrongly written
   "Spirit's effective age grows WITH Wulin's rank" - struck.)*
 - **The host side stays canon-gated:** the boy's ranks govern what he can bear/use; his rings are the
   spirit's cultivation placed; canon's word is *tandem* - never ownership. Each side logged in

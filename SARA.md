@@ -580,3 +580,12 @@ stays the spirit's own. So the file now carries two tracks: Track A, the spirit'
 Track B, what the boy can bear (host ranks gate the carrying, never the living). Tandem, canon's word — not ownership. Four files fixed, and the
 struck sentence is quoted as dead in the status file so no future me can quietly revive it. The prose never said the wrong thing — only my
 bookkeeping did. Lesson: the files are where I drift; the chapters are where I don't. — Sara
+
+### 2026-09-29 — strike R7: I built a wall where a door should be
+Minutes after R6, he read my fix and caught the opposite sin: to close a wrong absolute I had written a new one —
+"earned, never granted." His ruling: not necessary, completely not; growth can be **granted**; everything possible; nothing is absolute.
+So the gain-law family now reads open — earned, fed, inherited, or granted — and the rails themselves ("always priced",
+"no free power-ups") are annotated as defaults and house taste, not physics. What stays firm is the one thing that is
+mine and not the world's: the bookkeeping — every real movement lands in the files with its cause logged. The Adaptation
+Talent's own locked definition stands exactly as he wrote it; I touched nothing of his core. Two strikes in one hour,
+both of them mine, both of them the same shape: me confusing my taste for the world's law. — Sara

@@ -39,6 +39,12 @@ Canon (Soul Spirit page + the SL3 glossary): a spirit soul **"changes its form, 
 - **Two different things, never collapsed again:** (a) *an OC's soul spirit* — a fused spirit belonging to a host, growing as the host's complement; (b) **the OC himself a soul spirit** — ours: a living being whose growth is **his own**. Host gates move what the BOY can carry; they do not move the spirit's life.
 - **Banned from this serial:** "grows only with the host"; "age velocity = host rank-crossings"; any spirit-side milestone chained solely to a host rank. The earlier "host reaches 15 → vein maturation" attachment is **retracted** — maturation rides **his own crossings**, timing author-gated.
 
+## Strike R7 — nothing is absolute; grants are possible (2026-09-29)
+Author: *"'earned, not granted' not necessary completely not it can granted, everything possible, nothing is absolute"* — the same-day R6 fix had replaced one absolute ("grows only with the host") with a fresh one ("earned, never granted"). Wrong in the other direction. A spirit's growth may be **granted**: by fortune, by a boon, by causes outside the pair, by powers unknown.
+- **Fixed phrasing:** growth may be **earned, fed, inherited, or granted** — everything possible. What stays firm is the bookkeeping: every real movement lands in the files with its cause logged. (That is procedure, not metaphysics.)
+- **Scope:** this governs the gain/growth-law family in this serial — "always priced", "never free", "never granted" are now written as **defaults and house taste**, not cosmic walls, and the same courtesy extends to every house rail: the author's word amends any of them at any time.
+- **Untouched:** the Adaptation Talent's own locked definition (reveals/refines/develops what already exists — the author's core in blue_silver/ADAPTATION_TALENT.md) stands exactly as the author wrote it; R7 enriches the spirit's life, it does not rewrite the talent.
+
 ## Banned as current until events arrive (the usual wrong-values list)
 - No: Emperor awakening, dragon lore named, gold song/snake references (erased timeline: we don't mention
   the canon snake even as joke), no rank-11 before the natural beat lands, no Eastsea people pre-arrival,

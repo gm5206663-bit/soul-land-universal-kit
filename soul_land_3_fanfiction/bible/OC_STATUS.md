@@ -30,7 +30,7 @@ Era anchor (house convention, author-adjustable): kit uses standard era mapping 
 | Fusion-day | **≈ DC 22,637** | century-tier crossing happened inside the fusion; the crossing carried the grass's first **awakening** |
 | **Exact effective age now (after ch 4)** | **100 years + the days lived since the fusion (about day 21)** | **his own clock runs** - becoming a soul spirit changed his form, not his existence (canon); the "grows only with the host" line is STRUCK (R6). See section 9 - two tracks |
 | Physical age vs. carried cultivation | same axis (grass = self-contained soul beast) | "carried years" always equal real years lived — no 14× compounding fiction for this holder (the Sunweave's model lives in the SL1 sister-serial only) |
-| Age velocity | **1 day per day he lives - his own life's clock - plus what the bond genuinely feeds him (earned, not granted)** | host rank-crossings move what the BOY can carry, never the spirit's existence (R6) - see section 9 |
+| Age velocity | **1 day per day he lives - his own life's clock - plus what the bond genuinely feeds him — earned, fed, or granted (R7: nothing is absolute)** | host rank-crossings move what the BOY can carry, never the spirit's existence (R6) - see section 9 |
 
 ## 3 · Bloodline and lineage
 
@@ -109,7 +109,7 @@ Canon defense: in canon, Wulin's first Bind-equivalent ran off a *defective ten-
 ## 9 · Growth — TWO TRACKS (strike R6, 2026-09-29: *"grows only with the host from here?… this is when OC's soul spirit, not when OC himself a soul spirit — they are two different things"*)
 
 **Track A — the OC's own existence (his own life; the strike lives here).** He **is himself a soul spirit**, and canon says becoming one changes the beast's **form, not its existence** (Soul Spirit page). Therefore:
-- his years run on **his own clock** — he keeps living; the bond feeds him the way ground feeds a root: earned, never granted;
+- his years run on **his own clock** — he keeps living; the bond feeds him the way ground feeds a root. **R7 (2026-09-29): not "earned only"** — growth can be earned, fed, inherited, or **granted** outright; boons and fortune are possible. Nothing here is absolute;
 - what the boy's rings carry is **his** cultivation, *placed* (canon: a spirit soul "places its complete cultivation as spirit rings" — the source stays his own);
 - his own ladder is real (canon: spirit spiritual-power realms; the strong are the intelligent, speaking ones) — the section 6 speech stages sit on THIS track, delivery author-gated;
 - the inherited mutation in his soulflesh matures at **his** crossings (the earlier "host-rank-15" attachment is retracted, R6); timing of anything dramatic stays **author-gated**;
@@ -129,7 +129,7 @@ Canon defense: in canon, Wulin's first Bind-equivalent ran off a *defective ten-
 | Speech stages (section 6) | A | its own growth; delivery author-gated |
 | 1,000-year crossing → TWO-skills + the Golden-Veined name | A | his milestone; author-gated |
 
-*Rule:* the boy's levels move what the boy can carry; they do not move the spirit's life. The spirit's life moves the rings the boy carries. Never "sneak level" — every number lands in this table same turn.
+*Rule:* the boy's levels move what the boy can carry; they do not move the spirit's life. The spirit's life moves the rings the boy carries. Never "sneak level" — every number lands in this table same turn. **Anti-absolute (R7, 2026-09-29):** none of these rules is absolute — "always priced", "never granted", "never free" are defaults, not walls; grants and fortune can arrive. What stays firm is the bookkeeping: every real movement lands here with its cause logged.
 
 ## 10 · Banned states (what must never read true of him right now)
 

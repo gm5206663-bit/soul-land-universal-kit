@@ -1,6 +1,6 @@
 # STATUS PANEL — "Qing Ling" single current-truth source
 
-> **Snapshot: v7 (CH 4 LIVE · R6 correction live — the spirit's growth is HIS OWN: two tracks; host gates move what the boy can carry, never the spirit's life)** · 2026-09-29 · chapters live: **4**
+> **Snapshot: v8 (CH 4 LIVE · R6+R7 live — the spirit's growth is HIS OWN (two tracks) and nothing is absolute: growth may be earned, fed, inherited, or GRANTED)** · 2026-09-29 · chapters live: **4**
 
 ## Window
 Live edge: the night after the refinement, the Tang house — the boy asleep, the sister asleep, the refined silver on the forge bench waiting to become hammers. Glorybound City. Wulin: age 9, **rank 12** (unchanged; gates intact). Ring yellow with the inherited gold vein-thread; grass awake, wordless (pressure-answers only).
@@ -22,7 +22,7 @@ Live edge: the night after the refinement, the Tang house — the boy asleep, th
 - OPEN.md items (name/title/skill-breadth/length band) remain author-gated. Live chapters: 4,378 / 3,510 / 4,984 / 4,706.
 
 ## OC ledger
-The Spirit's perfect status: `bible/OC_STATUS.md` (single source; section 9 rebuilt this turn as the **two-track growth law** — R6: Track A = the spirit's own life (his years, his crossings); Track B = the host interface (what the boy can bear); coupling = *tandem*, canon's word). Prose unaffected.
+The Spirit's perfect status: `bible/OC_STATUS.md` (single source; section 9 rebuilt this turn as the **two-track growth law** — R6: Track A = the spirit's own life (his years, his crossings); Track B = the host interface (what the boy can bear); coupling = *tandem*, canon's word). R7 same day: the R6 wording "earned, never granted" struck as a new absolute — grants are possible; what stays firm is the logging. Prose unaffected.
 
 ## Residue (next 3 real moves)
 - Author rules ch 5 plan (see NEXT_STEPS: hammer-forging first vs graduation first; the provocation's scale; the Eastsea word's landing; Na'er arc placement).

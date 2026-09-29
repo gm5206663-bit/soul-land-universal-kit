@@ -58,5 +58,5 @@ the world in the boy's senses. No system screens. Numbers only when the number I
 
 ## 7. What must never happen (quick list; NO_MISTAKE is the binding file)
 No knowledge leaks (spirit of canon future; Wulin of Qing Ling's nature beyond lived experience);
-no free power-ups; no Emperor-title early; no canon duel-swap; no killing canonical agents; no
+no free power-ups [R7, 2026-09-29: a default, not an absolute — grants are possible; the author rules each case and it gets logged]; no Emperor-title early; no canon duel-swap; no killing canonical agents; no
 "explaining the dragon"; no second spirit before its natural canon-time.

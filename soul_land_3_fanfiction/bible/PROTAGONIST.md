@@ -19,7 +19,7 @@
   blood nature — toward **best presently supportable path**, never toward free powers.
 - A **soul ring supplies its own official skill** (canon). The talent does NOT add a second skill, does
   NOT tint elements on the fly, does NOT copy threats. What a cut ring would show = his real carried
-  depth (100+ years at fusion — the file's 99 plus the joined crossing), never granted.
+  depth (100+ years at fusion — the file's 99 plus the joined crossing), shown as it is; grants, if they come, come by the author's rule and get logged.
 - The TALENT's scope mirrors the holder's tier (Master §M3 pattern) — never lags, never exceeds; class
   gates stay gates until crossed. *(R6 note: this is the talent's reach in the HOLDER — the spirit's own
   life and years are HIS OWN track, not host-locked; see OC_STATUS section 9.)*
