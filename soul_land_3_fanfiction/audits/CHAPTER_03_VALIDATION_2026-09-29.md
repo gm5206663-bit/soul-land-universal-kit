@@ -24,9 +24,11 @@
 
 ## Residual / ch 4 door-openers
 - **The first thousand refinement** — heavy silver on the bench, blood-offering ruled KEEP (written plain).
-- **Pagoda verification visit** — still observation-phase; the audit window opened in ch 2 has to close on the page.
+- ~~Pagoda verification visit~~ — STRUCK (R5): canon's Pagoda sells and does not chase; no visit is coming. The ch-2 window was an invention and closes with it.
 - **Graduation & Wan Yun's provocation** — canon's own order; the door out of the Red Mountain arc.
 - **Eastsea** — the coastal letter crossing; the Association's answer and Mang Tian's plan.
 - The boy's wage arithmetic (half rate learning) riding alongside the family's canon money pressure.
+
+**Correction addendum (R5, 2026-09-29):** one body line rebuilt street-scale ("the file at the Pagoda..." -> "the story had walked the district..."). Body now **4,987 words**; narrative-only avg **20.4** / median **19** / over-60 **0** / CJK **0**.
 
 **Verdict: GATE-PASS, ON-ANCHOR. Author's read outranks — corrections become law.**

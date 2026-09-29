@@ -5,7 +5,7 @@
 
 ## Phase 1 — LIVE after Chapter 1 ver.B (author-ruled 2026-09-29)
 - Wulin: 9, **RANK 12** post-fusion (yield: hundred-year ring × perfect compatibility). Quality/foundations up (blades, power-weight, body).
-- Spirit: fused; 100+ years effective; ring yellow w/ silver-thread; awakening carried (grass's first awakening at the tier door).
+- Spirit: fused; 100+ years effective; ring yellow w/ gold vein-thread; awakening carried (grass's first awakening at the tier door).
 - First skill **Bind** LIVE and demonstrated (fence-post, 28-count first hold; honest drain). Canon family name, control system; no attack/second skill.
 - Golden lines: blaze-in-fusion (witnessed by parents), faint at rest, flare when ring moves. Gag sealed (never name/exploit/dig).
 - Spirits' name never spoken in prose; draft name Qing Ling = writer-side; author may rule the in-world naming arc.
@@ -25,6 +25,13 @@ specialties, held-back "little less dying"-style shorthands, UI-style talent voi
 = the author's Definitive Master Foundation v2.0 at `blue_silver/ADAPTATION_TALENT.md` (locked core;
 module M1–M3-QL in bible/PROTAGONIST.md). Any talent-effect sentence that cannot cite a priced real
 process = cut it.
+
+## Strike R5 — the Pagoda does not audit (2026-09-29)
+Author: *"What the hell wrong with spirit Pagoda file's what all this nonsense happene in canon so much unnatural"* — ch 2 had built verification clerks, a supervisor, a pressed-priority docket, three official inquiries, an observation phase, and a ch-4 visit; ch 3 kept the thread alive.
+Canon (Spirit Pagoda + Soul Spirit pages; spoilers ch 1-20): the Pagoda SELLS spirit souls. The 30,000 random tier explicitly sells risk (defective or unsuitable possible — caveat emptor). After a draw, canon shows NO follow-up: no clerks, no dockets, no inquiries, no visits. Kind staff exist (canon's fee exemption for Wulin) — institution-scale compliance machinery does not.
+- **Banned from this serial:** post-sale audit / inquiry / docket / observation-phase / pressed-priority / verification-visit machinery; any Spirit Pagoda interior beyond what a counter clerk says out loud.
+- **Live law:** consequences arrive through PEOPLE (district talk, teachers, smiths, family), PRICES (money stays canon-true), and the machinery canon actually has (school ledgers, the recommendation rule, the Blacksmith Association). When a consequence wants an office — ask canon first; if canon has no office, the consequence travels by mouth.
+- **The wound under the strike:** this rule already existed (Phase 1: "no Spirit Pagoda internal lore beyond what a Glorybound clerk would say") and ch 2 broke it anyway. It is re-armed here at strike strength so it cannot be missed again.
 
 ## Banned as current until events arrive (the usual wrong-values list)
 - No: Emperor awakening, dragon lore named, gold song/snake references (erased timeline: we don't mention

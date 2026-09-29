@@ -1,6 +1,6 @@
 # STATUS PANEL — "Qing Ling" single current-truth source
 
-> **Snapshot: v4 (CH 3 LIVE — title ruled "The Wrong Strength"; gauge 507/561; the strand test passed; Na'er adopted this chapter; the door to thousand refinement open)** · 2026-09-29 · chapters live: **3**
+> **Snapshot: v5 (CH 3 LIVE · R5 correction live — the invented Spirit Pagoda audit thread is STRUCK from ch 2/ch 3 and all plans; consequences travel by mouth)** · 2026-09-29 · chapters live: **3**
 
 ## Window
 Live edge: the night of ch 3 — the household grown by one (Na'er asleep in Wulin's room, truckle bed, silver hair, pale amethyst eyes, no remembered family); glorybound forge district, Glorybound City. Wulin: age 9, **rank 12** (unchanged; growth gates intact). First spirit = the century grass, awake, quiet in the bond; contact still wordless (tickle-press answers). Ring yellow, faint gold vein-light at its rotation.
@@ -15,7 +15,7 @@ Live edge: the night of ch 3 — the household grown by one (Na'er asleep in Wul
 
 ## Held / pending (canon placement, do not rush)
 - The first thousand refinement + the blood-offering (author ruled: keep, written plain) → **ch 4**.
-- Pagoda verification visit (observation-phase; audit window from ch 2 must close) → ch 4.
+- ~~Pagoda verification visit~~ — STRUCK (R5): canon's Pagoda sells and does not audit; no visit exists. The street's story talks, the school files, the smith writes the coast — that is the whole consequence surface.
 - Graduation; Wan Yun's provocation (canon order) → next arcs.
 - Eastsea: Mang Tian's plan + the coastal branch's answer to his letter → after graduation material.
 - OPEN.md items (name/title/skill-breadth/length band) remain author-gated; ch-length band still unruled (live chapters: 4,378 / 3,806 / 4,980).

@@ -23,7 +23,7 @@ At the table, his mother set two bowls instead of one and said, in the voice she
 
 Outside, the street had grown a new season. It was not the cold that told him. It was the eyes. Twice on the walk to the forge, a stranger's gaze went to his right wrist and stopped there a half-beat longer than a glance should stop — the sleeve covered nothing that could be seen, but the whole city had been told what it was covering. The clerk at the grain stand, who had known him for years, said, "The Tang boy," in a tone that had changed somewhere in the last month, the way a price changes; and then, being a decent man, he pretended he hadn't said it that way. Wulin walked on with his hands in his pockets and his shoulders making the shape his father's shoulders made when a customer asked about a debt too loudly.
 
-Two weeks. The file at the Pagoda was still moving, somewhere, at the speed of files. The school's recommendation letter sat on the shelf at home, sealed for the season ahead. And in the forge district, on a lane where the coal smoke kept the cold at shoulder height, the day's work was already stacked and waiting, the way it was every morning.
+Two weeks. The story had walked the district twice by then and crossed the canal once, growing a new detail at every stall. The school's recommendation letter sat on the shelf at home, sealed for the season ahead. And in the forge district, on a lane where the coal smoke kept the cold at shoulder height, the day's work was already stacked and waiting, the way it was every morning.
 
 He turned in at the smell of hot iron, and the bell over the shop door sang the small song it always sang, and the day began.
 

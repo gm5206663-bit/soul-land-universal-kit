@@ -9,6 +9,8 @@ Sources consulted 2026-09-29: soulland.fandom.com Tang_Wulin → Plot (Volume 1:
 | 4 | Rank-10 recommendation rule for intermediate academies | canon-true (fandom: Wan Yunchao quote) | drives the parents + school beat | none |
 | 5 | Fusion yield the canon way | canon-true machinery (ring grants skill + level; the bond's quality gates yield) | author-ruled 12 under perfect compat; logging as licensed higher-yield vs canon's rank 11 (fracture consequence) | none |
 | 6 | Mang Tian & the eventual Eastsea guild call | canon-true (fandom: Wulin's forging career moves to Eastsea w/ academy; Mang Tian arrangement) | letter written, no names invented | none |
-| 7 | Spirit Pagoda internal machinery | [design] (our clerk/supervisor figures; agency scope only: from books) | anomaly-inquiry seeded for ch 3+ | none |
+| 7 | ~~Spirit Pagoda internal machinery~~ | **STRUCK (R5, 2026-09-29)** | the invented office stack (verification clerks, supervisor, pressed-priority docket, three inquiries, observation phase) was un-canon and unnatural; canon shows NO post-sale audit — the Pagoda sells and nothing follows. Blocks rebuilt street-side: the district's talk, the counter's plain answers, the clerk's private unwritten memory | none |
+
+Correction note (R5): source added — Spirit Pagoda + Soul Spirit pages (prices 70k white / 1M yellow / 30k random; the random tier sells risk explicitly; staff may be kind, per canon's fee exemption — no audit machinery exists at any scale shown). The chapter's Pagoda consequence is now people-scale only.
 
 Outcome: canon skeleton intact; butterflies flow only from the ch-1 fracture (yellow/rank 12/Bind) through public machinery; nothing canon-secret staged.

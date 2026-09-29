@@ -71,7 +71,7 @@ Canon anchor: Blue Silver Grass is, in canon register, a plant-system **control 
 
 | Item | Effect | Cost/arithmetic |
 |---|---|---|
-| First soul ring (hosted) | **Ring: yellow, silver-thread** — split-second license entry valid as hundred-year fusion product | one ring holds one skill (§C1 law) |
+| First soul ring (hosted) | **Ring: yellow with the inherited gold vein-thread** — split-second license entry valid as hundred-year fusion product | one ring holds one skill (§C1 law) |
 | First skill | **Bind** — canon family; blades run ≤4 strides, weave-close on target, **hold** until released; duration ≡ soul power drain; no attack mode; deep-use adds a fine golden aura to ring + blades | priced: heavy drain — first hold 28-count (post); spar 9-count (Wan Yunchao). **This Bind is stronger than canon's equivalent** (licensed, shown below) |
 | Rank accrual | host went **10 → 12** at fusion (author-locked yield: 100-y base × perfect compatibility) | once-only yield, consumed at fusion |
 | Foundations | host's own BSG = broader/silvered blades; soul-power heavier; body temper raised (hammer-held shifted) | shows already in ch1 (kitchen) and ch2 (shop) |
@@ -92,7 +92,7 @@ Canon anchor: Blue Silver Grass is, in canon register, a plant-system **control 
 
 ## 7.5 · Why this Bind is stronger than canon (licensed divergence, author-ruled 2026-09-29)
 
-Canon defense: in canon, Wulin's first Bind-equivalent ran off a *defective ten-year snake start* incl. yellowing residuals and kicked in only with the snake's golden-infused strand's toughness (then still topped by Mang Tian ≈ bare-handing tests peri-fused state). **Here**, Bind runs on: (a) a 99→100-y genuine same-kind base with awaked hundred-year response from day one; (b) perfect compatibility = full synchronization efficiency; (c) the own-line BSG regeneration holding edges under strain; (d) the inherited golden-vein strength above all. Therefore the grip lasts longer, drags more weight, and breaches never but by count-out — all receipts logged in §6. **Consequence-price (anti-nerf):** witnesses register it as anomalous-grade strength — the school's note, the clerk's file, the grove's crowd geometry are already moving in ch 2.
+Canon defense: in canon, Wulin's first Bind-equivalent ran off a *defective ten-year snake start* incl. yellowing residuals and kicked in only with the snake's golden-infused strand's toughness (then still topped by Mang Tian ≈ bare-handing tests peri-fused state). **Here**, Bind runs on: (a) a 99→100-y genuine same-kind base with awaked hundred-year response from day one; (b) perfect compatibility = full synchronization efficiency; (c) the own-line BSG regeneration holding edges under strain; (d) the inherited golden-vein strength above all. Therefore the grip lasts longer, drags more weight, and breaches never but by count-out — all receipts logged in §6. **Consequence-price (anti-nerf):** witnesses register it as anomalous-grade strength — the school's note, the district's talk, and the grove's crowd geometry are already moving in ch 2.
 
 ## 8 · What everyone knows right now (knowledge map)
 
@@ -100,16 +100,16 @@ Canon defense: in canon, Wulin's first Bind-equivalent ran off a *defective ten-
 |---|---|---|
 | The spirit | forests + sleeping + the boy's day; the mountain-presence's *existence-only* | host secrets' contents; human social meaning beyond spoken voice; future |
 | Wulin | grass answered him; yellow ring; Bind; lines are his (unexplained) | spirit has a mind; spirit's 99 years are priced memories; the ember |
-| Parents | lines, rank 12, Bind | the spirit's interior; the draw's official-clerk trail widening |
-| School | rank 12, yellow, Bind-in-grove | file trail; private anything |
-| Pagoda drip | anomaly docket live; clerk on loop | what the spirit actually is |
+| Parents | lines, rank 12, Bind | the spirit's interior; how far the town's talk will travel |
+| School | rank 12, yellow, Bind-in-grove | private anything; how far the story has run |
+| Pagoda counter | sold the cheap drawer; nothing follows (it sells; it does not audit) | what the spirit actually is |
 | Mang Tian | initial Bind proof; body-shift | host-line mechanics |
 
 ## 9 · Growth track (the arithmetic you demanded)
 
 | Gate (host) | Spirit consequence | Status |
 |---|---|---|
-| Fusion (host 10→12) | crossing + awakening; effective 100+; ring yellow/silver-thread = inherited mutation seed (§7c); Bind open; ring-flare vein-clusters active | DONE (ch 1) |
+| Fusion (host 10→12) | crossing + awakening; effective 100+; ring yellow + inherited gold vein-thread = mutation seed (§7c); Bind open; ring-flare vein-clusters active | DONE (ch 1) |
 | Host reaches 15 | years accrue; the inherited thread matures from silver-tint toward true gold on blade-roots (canon-pace, author-gated) | planned |
 | Host reaches 20 (second ring door) | **second tier-door candidate** — possible second awakening (author rulings at door) | locked to author |
 | Speech gates | see §6 stage-table | author-gated |

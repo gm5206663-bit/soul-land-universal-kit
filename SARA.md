@@ -551,3 +551,13 @@ at the house on fusion day; I moved it to the forge and let the whole chapter ai
 being a curiosity and becomes the *proof* — a four-ring man spending everything he owns on one blade and reporting
 plainly that it did not break. Also: honesty costs nothing and buys everything — the probe draft I began before the plan
 gate is parked outside the repo and receipted in the log, because the gate protects the work, including from me. — Sara
+
+### 2026-09-29 — strike R5: the Pagoda does not audit
+He was right and it stung: I put office machinery into canon's Spirit Pagoda — verification clerks, a supervisor, a pressed-priority
+docket, three inquiries, a coming visit — and it was all mine, none of it canon's. Canon's Pagoda sells spirit souls, the cheap tier
+sells risk, and after the sale canon shows nothing: no clerks, no chase, no file. The worst of it: our own live rules had already banned
+Pagoda interiors, and I walked past my own ban. Struck it all — ch 2 rebuilt street-side (the district's talk, the counter's plain
+answers, the clerk keeping one private thing he never writes down), Mang Tian's speech re-based on a name that travels, ch 3's line
+replaced, plans and receipts corrected, ledger R5. (While in there I also caught stale "silver-thread" ring wording from before the
+color law and fixed it to the inherited gold vein-thread — two-copies rot hiding in my own status file.) The law I keep relearning:
+canon gives me the machinery; I don't get to build additions. — Sara
