@@ -29,4 +29,6 @@ First draft ran long-claused — narrative avg **27.1** / median 24 / **10 sente
 - **Mang Tian's Eastsea word** — canon places it after the provocation; held for its window.
 - **Na'er's arc** — her departure waits on the author's word for placement.
 
+**Canon-fidelity patch (same day, LDK ch 30/31 fetched in full):** (a) Mang Tian's own first thousand refinement was at **fifteen** — canon's line; "at seventeen" corrected, with the guild's "that's a talent" framing added. (b) The Blood Sacrifice explanation expanded to canon's full content: the metal becomes one with the smith's vessels; it recognizes only its master and no other man's hammering; the offering costs vitality, so the tradition is kept to first works and rare proud pieces; "Hundred refinements purify; the thousand refinements bestow life" retained (ch 5 uses it). Body now **4,793 words**; whole-text avg 18.8 / over-60 0 / CJK 0.
+
 **Verdict: GATE-PASS, ON-ANCHOR. Author's read outranks — corrections become law.**

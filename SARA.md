@@ -589,3 +589,11 @@ So the gain-law family now reads open — earned, fed, inherited, or granted —
 mine and not the world's: the bookkeeping — every real movement lands in the files with its cause logged. The Adaptation
 Talent's own locked definition stands exactly as he wrote it; I touched nothing of his core. Two strikes in one hour,
 both of them mine, both of them the same shape: me confusing my taste for the world's law. — Sara
+
+### 2026-09-29 — chapter 5 (three notes for one strike)
+He said "Next," and the canon did the rest of the work: I fetched ch 30, 31, 32 and 25 in full and the chapter became a transcription of the world's
+best details — the tap that rings three times, the two ghost hammers standing behind the strike, the master who has never made one saying *you little
+monster*, Wan Yunchao bellowing I WILL LOSE WEIGHT at the treetops and then auditioning pork shoulder. One fidelity sin caught in the same day's light:
+my ch 4 had Mang Tian reaching his first thousand refinement at seventeen; canon says fifteen, and it says the Blood Sacrifice means *recognizes only its
+master* and costs vitality — so I patched ch 4 the same hour and wrote the patch into its audit, because a shipped chapter that contradicts fetched canon is
+a lie with a timestamp. The one thing I did not resolve on my own: the table's unspoken question about Na'er. That belongs to him. — Sara

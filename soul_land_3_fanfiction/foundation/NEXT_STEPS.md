@@ -1,12 +1,14 @@
 # NEXT STEPS (always-repair file)
 
+> **Repaired 2026-09-29 (fourth time today).** Ch 5 is shipped as *Thrice Stacked* on the author's single word "Next" — natural defaults taken (the pair; graduation; the farewell measure; the Eastsea word; the rings; Na'er held). The pit below is **ch 6.**
+
 > **Repaired 2026-09-29 (third time today).** Ch 4 is shipped as *Thousand Refinements* on the author's
 > single word "Do" — natural defaults taken on the four open markers (refinement forward; father at the
 > canon doorway; Eastsea word held for canon placement; no visit — R5). The pit below is **ch 5.**
 
 ## Now
-1. **Author rules on the CH 5 PLAN below** — four picks: hammer-forging first or graduation first · the provocation's scale · when Mang Tian's Eastsea word lands · Na'er arc placement.
-2. On his word: authorize ch 5 → write → receipts → STATUS/LOG updates → one commit.
+1. **Author rules on the CH 6 PLAN below** — three markers: the parents' own arc (canon ch 32 tail: Tang Ziran's "I will fight for our son's sake" — now, or held?) · Na'er's question (stay/leave/wait) · where ch 6 ends (the road, or the Eastsea gate).
+2. On his word: authorize ch 6 → write → receipts → STATUS/LOG updates → one commit.
 
 ## CH 5 PLAN (draft — the hammer chapter and the leaving-of-shapes)
 
