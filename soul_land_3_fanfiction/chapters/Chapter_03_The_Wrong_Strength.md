@@ -237,4 +237,3 @@ It had waited ninety-nine years for weather worth standing in. It could wait for
 
 It could wait.
 
-End of Chapter.

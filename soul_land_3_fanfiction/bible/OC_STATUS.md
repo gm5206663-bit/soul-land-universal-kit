@@ -77,6 +77,7 @@ Canon anchor: Blue Silver Grass is, in canon register, a plant-system **control 
 | Foundations | host's own BSG = broader/silvered blades; soul-power heavier; body temper raised (hammer-held shifted) | shows already in ch1 (kitchen) and ch2 (shop) |
 | Synchronization | tickle-press answers only; senses shared faintly (the boy can feel its lean-attention) | speech = far-gated (author) |
 | Inheritance current | the spirit *inherits* mutations up the bond (canon law — see §3 bond-law row): strength from the essence, golden threads, and the variant-arc toward Golden-Veined state | talent governs integration; the gains show in Bind first (see below) |
+| Craft receipt (ch 4) | **first thousand refinement at nine** — the bond's strength driven through the tungsten pair into heavy silver for five hours; the metal **answered** (canon: breathing in unison, relief-notes) and carries the boy's blood-price (first-refinement tradition) | drain honest for five hours; wage → full rate; the bar is the boy's (canon gift); **the hammers to come** |
 | Communication track (exact stages) | 1) blended attention/press ✓ (ch2) · 2) repeated two-press = "yes" pattern (ch3+) · 3) named-word arrival — **author-gated** · 4) true speech — author-gated | cannot skip stages without author's word |
 
 ## 7 · The golden lines (GENUINE MUTATIONS — author ruling 2026-09-29, canon-verified; naming law: effects live now, race-name only at 1,000 years)
@@ -100,10 +101,10 @@ Canon defense: in canon, Wulin's first Bind-equivalent ran off a *defective ten-
 |---|---|---|
 | The spirit | forests + sleeping + the boy's day; the mountain-presence's *existence-only* | host secrets' contents; human social meaning beyond spoken voice; future |
 | Wulin | grass answered him; yellow ring; Bind; lines are his (unexplained) | spirit has a mind; spirit's 99 years are priced memories; the ember |
-| Parents | lines, rank 12, Bind | the spirit's interior; how far the town's talk will travel |
+| Parents | lines, rank 12, Bind; the wrist healed overnight (unexplained, unasked) | the spirit's interior; how far the town's talk will travel |
 | School | rank 12, yellow, Bind-in-grove | private anything; how far the story has run |
 | Pagoda counter | sold the cheap drawer; nothing follows (it sells; it does not audit) | what the spirit actually is |
-| Mang Tian | initial Bind proof; body-shift | host-line mechanics |
+| Mang Tian | Bind proof + strand proof (ch 3); read the lines like a heat-color; judged the forging's turn (ch 4) | host-line mechanics |
 
 ## 9 · Growth track (the arithmetic you demanded)
 

@@ -148,5 +148,3 @@ Above the roofs where the city was deciding, again, what it thought of the day, 
 *Grow where the boy grows.*
 
 What the day had moved, in the plain arithmetic the grass kept: rank twelve at nine, said out loud in a classroom; a recommendation sealed with transfer-forward under the school's stamp; a district with the story in its mouth; a smith's letter due on the coast.
-
-The text was finished.

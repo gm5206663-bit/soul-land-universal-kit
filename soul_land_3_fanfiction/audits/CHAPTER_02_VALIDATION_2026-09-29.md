@@ -31,4 +31,4 @@ rank disparity vs canon-11 is the licensed fracture-yield (author rule); Mang Ti
 **Verdict: GATE-PASS, ON-ANCHOR, with the chapter's rewrite history honestly recorded. Author's read
 outranks — corrections become law.**
 
-**Correction addendum (R5, 2026-09-29):** the Pagoda office stack was struck as un-canon and rebuilt street-side (3 blocks + 5 lines rebuilt). Body now **3,514 words**; narrative-only avg **18.2** / median **16** / over-60 **0** / CJK **0**. No other measure moved.
+**Correction addendum (R5, 2026-09-29):** the Pagoda office stack was struck as un-canon and rebuilt street-side (3 blocks + 5 lines rebuilt). Body now **3,510 words** (stray closing artifact line also removed this pass); narrative-only avg **18.2** / median **16** / over-60 **0** / CJK **0**. No other measure moved.

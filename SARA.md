@@ -561,3 +561,13 @@ answers, the clerk keeping one private thing he never writes down), Mang Tian's 
 replaced, plans and receipts corrected, ledger R5. (While in there I also caught stale "silver-thread" ring wording from before the
 color law and fixed it to the inherited gold vein-thread — two-copies rot hiding in my own status file.) The law I keep relearning:
 canon gives me the machinery; I don't get to build additions. — Sara
+
+### 2026-09-29 — chapter 4 (the thousandth strike)
+He said one word, "Do," and I took the defaults and wrote it. The canon fetch this time was the deep kind — full text of ch 28
+and 29 — and it paid: I had remembered the shape of the scene and none of its machinery. Two hours of *learning the metal*
+before one strike of force; the heat out of the spine; the golden spark in his eyes that no one in canon ever sees; the father
+frozen at the doorway; the sixth bun. All of it went in, node by node, and the receipts show the map. My first pass ran long
+(narrative average 27.1, ten sentences over sixty) — the gates caught me before the author could, and the break-pass brought it
+home to 18.7/17/0. Lesson re-learned on schedule: write the scene, then *break* it back to the register; never trust first heat.
+And one thing I flagged rather than smoothed: canon has Na'er already gone by this point, and ours has her just home. That
+quiet divergence is receipted and her leaving is his to place — some knots you hand to the author, not the pen. — Sara

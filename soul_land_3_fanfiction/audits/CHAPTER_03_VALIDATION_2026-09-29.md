@@ -29,6 +29,6 @@
 - **Eastsea** — the coastal letter crossing; the Association's answer and Mang Tian's plan.
 - The boy's wage arithmetic (half rate learning) riding alongside the family's canon money pressure.
 
-**Correction addendum (R5, 2026-09-29):** one body line rebuilt street-scale ("the file at the Pagoda..." -> "the story had walked the district..."). Body now **4,987 words**; narrative-only avg **20.4** / median **19** / over-60 **0** / CJK **0**.
+**Correction addendum (R5, 2026-09-29):** one body line rebuilt street-scale ("the file at the Pagoda..." -> "the story had walked the district..."). Body now **4,984 words** ("End of Chapter." closer removed for cross-chapter consistency); narrative-only avg **20.4** / median **19** / over-60 **0** / CJK **0**.
 
 **Verdict: GATE-PASS, ON-ANCHOR. Author's read outranks — corrections become law.**
