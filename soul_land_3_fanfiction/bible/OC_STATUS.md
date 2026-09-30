@@ -29,7 +29,7 @@ Era anchor (house convention, author-adjustable): kit uses standard era mapping 
 | Draw-day | **chapter 1**: boy age 9, rank 10, draws at second pick | author's licensed fracture |
 | First journey | **ch 6: the coastal line to Eastsea** — the boy's first time beyond the city; and the spirit's **first new place in a hundred years** (Track A: an event of its own life, logged here because it is HIS entry, not a host receipt) | the road's cost paid in ordinary days |
 | Fusion-day | **≈ DC 22,637** | century-tier crossing happened inside the fusion; the crossing carried the grass's first **awakening** |
-| **Exact effective age now (after ch 6)** | **100 years + the days lived since the fusion (about day 35 — arrival in Eastsea)** | **his own clock runs** - becoming a soul spirit changed his form, not his existence (canon); the "grows only with the host" line is STRUCK (R6). See section 9 - two tracks |
+| **Exact effective age now (after ch 7)** | **100 years + the days lived since the fusion (about day 36 — the reporting day and the fight day)** | **his own clock runs** - becoming a soul spirit changed his form, not his existence (canon); the "grows only with the host" line is STRUCK (R6). See section 9 - two tracks |
 | Physical age vs. carried cultivation | same axis (grass = self-contained soul beast) | "carried years" always equal real years lived — no 14× compounding fiction for this holder (the Sunweave's model lives in the SL1 sister-serial only) |
 | Age velocity | **1 day per day he lives - his own life's clock - plus what the bond genuinely feeds him — earned, fed, or granted (R7: nothing is absolute)** | host rank-crossings move what the BOY can carry, never the spirit's existence (R6) - see section 9 |
 
@@ -94,16 +94,18 @@ Canon anchor: Blue Silver Grass is, in canon register, a plant-system **control 
 
 ## 7.5 · Why this Bind is stronger than canon (licensed divergence, author-ruled 2026-09-29)
 
-Canon defense: in canon, Wulin's first Bind-equivalent ran off a *defective ten-year snake start* incl. yellowing residuals and kicked in only with the snake's golden-infused strand's toughness (then still topped by Mang Tian ≈ bare-handing tests peri-fused state). **Here**, Bind runs on: (a) a 99→100-y genuine same-kind base with awaked hundred-year response from day one; (b) perfect compatibility = full synchronization efficiency; (c) the own-line BSG regeneration holding edges under strain; (d) the inherited golden-vein strength above all. Therefore the grip lasts longer, drags more weight, and breaches never but by count-out — all receipts logged in §6. **Consequence-price (anti-nerf):** witnesses register it as anomalous-grade strength — the school's note, the district's talk, and the grove's crowd geometry are already moving in ch 2.
+Canon defense: in canon, Wulin's first Bind-equivalent ran off a *defective ten-year snake start* incl. yellowing residuals and kicked in only with the snake's golden-infused strand's toughness (then still topped by Mang Tian ≈ bare-handing tests peri-fused state). **Here**, Bind runs on: (a) a 99→100-y genuine same-kind base with awaked hundred-year response from day one; (b) perfect compatibility = full synchronization efficiency; (c) the own-line BSG regeneration holding edges under strain; (d) the inherited golden-vein strength above all. Therefore the grip lasts longer, drags more weight, and breaches never but by count-out — all receipts logged in §6. **Consequence-price (anti-nerf):** witnesses register it as anomalous-grade strength — the school's note, the district's talk, and the grove's crowd geometry are already moving in ch 2. **Demonstration receipt (ch 7, 2026-09-30):** in Room 205 the bind took a nine-year-old speed-type carrying a yellow ring and a **golden dagger** (a family soul-skill) — the dagger chopped twice at the thickest strands and could not cut them; the bind held to a leaf-width and did not let go until its binder chose to. Three students witnessed it; the director read it in the report and asked for the full file. **Nothing was granted by this** — a proof, not a gain.
 
 ## 8 · What everyone knows right now (knowledge map)
 
 | Who | Knows | Doesn't know |
 |---|---|---|
 | The spirit | forests + sleeping + the boy's day; the mountain-presence's *existence-only* | host secrets' contents; human social meaning beyond spoken voice; future |
-| Wulin | grass answered him; yellow ring; Bind; lines are his (unexplained) | spirit has a mind; spirit's 99 years are priced memories; the ember |
+| Wulin | grass answered him; yellow ring; Bind; lines are his (unexplained); the room's four names (Xie Xie's among them, not connected to the station boy) | spirit has a mind; spirit's 99 years are priced memories; the ember; why the station youth and his roommate look alike to nobody but the reader |
 | Parents | lines, rank 12, Bind; the wrist healed overnight (unexplained, unasked) | the spirit's interior; how far the town's talk will travel |
-| School | rank 12, yellow, Bind-in-grove | private anything; how far the story has run |
+| School (Red Mountain, legacy) | rank 12, yellow, Bind-in-grove | private anything; how far the story has run |
+| Eastsea Academy — the room (Zhou Zhangxi, Yun Xiao, Xie Xie) | that the new boy punched Zhou through a second-floor window **with no soul power**, and that his grass cannot be cut by a yellow ring and a golden dagger | the spirit inside the grass; his rank 12's source; anything about his teachers or his town |
+| Eastsea Academy — the office (Long Hengxu + one secretary) | the fight's full account; rank 12 on a trash martial soul at nine; a golden-dagger boy from the **Xie family** in the same room; **two dull grey rings** on the new boy's wrists, contents unknown | nothing of the spirit's nature; nothing of the hammers' provenance (the director is *careful*, not informed — the file is his next move) |
 | Pagoda counter | sold the cheap drawer; nothing follows (it sells; it does not audit) | what the spirit actually is |
 | Mang Tian | Bind proof + strand proof (ch 3); read the lines like a heat-color; judged the forging's turn (ch 4) | host-line mechanics |
 
@@ -145,6 +147,8 @@ from the bloodline lock. No free levels to the host — yield was once, consumed
 Refreshed same turn as every chapter by the writing agent; anything new must declare its receipts
 (cause + cost) on the row itself. **History:** v1 2026-09-29 created on author complaint; v2 rebuilt
 same day under author strike (attributes, bloodline, exact-age accounting, golden-lines mechanism,
-growth arithmetic added; skeleton superseded — struck from serving status).
+growth arithmetic added; skeleton superseded — struck from serving status); v3 2026-09-30 after ch 7
+— age row advanced (day ~36), knowledge map widened (the room; the director's office), §7.5 gained its
+first public **demonstration receipt** (nothing granted — a proof).
 
 ---

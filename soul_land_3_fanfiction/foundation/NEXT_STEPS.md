@@ -1,15 +1,20 @@
 # NEXT STEPS (always-repair file)
 
-> **Repaired 2026-09-29 (fifth time today).** Ch 6 is shipped as *The Road East* on the author's single word "Next" — defaults taken (last visit + advice; station; journey; arrival; **Xie Xie's canon station encounter kept UNNAMED for the payoff**; parents' private resolve held; Na'er held/staying). The pit below is **ch 7.**
+> **Repaired 2026-09-30 (sixth time).** Ch 7 is shipped as *Room 205* on the author's single word "Next" — defaults taken (**roommate reveal = straight payoff**; **the fight lands in ch 7**; Na'er still held; parents' private resolve still held). The pit below is **ch 8.**
 
 > **Repaired 2026-09-29 (third time today).** Ch 4 is shipped as *Thousand Refinements* on the author's
 > single word "Do" — natural defaults taken on the four open markers (refinement forward; father at the
 > canon doorway; Eastsea word held for canon placement; no visit — R5). The pit below is **ch 5.**
 
 ## Now
-1. **Author rules on the CH 7 PLAN below** — three markers: the roommate reveal (the station bump pays off now, or the recognition is delayed?) · does the fight land in ch 7 (canon ch 36) or wait a chapter · when Na'er's departure lands.
-2. On his word: authorize ch 7 → write → receipts → STATUS/LOG updates → one commit.
+1. **Author rules on the CH 8 PLAN below** — three markers: the shape of class life (canon's school-day material vs our forging track as the spine) · Na'er's departure placement (now, or held again?) · whether canon's quiet dragon-note window opens this chapter or stays shut.
+2. On his word: authorize ch 8 → write → receipts → STATUS/LOG updates → one commit.
 
+## CH 7 PLAN — EXECUTED (shipped 2026-09-30 as *Room 205*; defaults on all three markers: straight payoff, fight in-chapter, Na'er held)
+
+**As written:** canon ch 34–37 node-by-node in one chapter — reporting in, the two-halves academy, class five, Room 205, the roommates, the quilt, the window punch, the youth in black, Bind's public proof, Long Hengxu's verdicts and private word, the dorm evening, the roster reveal, the letter home. Receipts: coverage ch 7 (18 nodes), validation ch 7, STATUS v11, SERIAL_LOG 014, SARA.
+
+### (plan as drafted, kept for the record)
 ## CH 7 PLAN (draft — reporting in, and the roommate)
 
 **Slice:** canon ch 34-36 territory: reporting in at Eastsea Academy (the office, the paperwork, the class assignment), the dormitory and the **roommate**, and (author's call) canon's own fight. The station encounter is our loaded gun: canon's first Xie Xie meeting already happened in ch 6 — the reveal lands here.
@@ -26,6 +31,28 @@
 7. Grass close — the ledger's first Eastsea entry; the room's new ground; the white stone still owed.
 
 **Law check:** no invented institutions (R5); no vein-events (gates); rank 12; the reveal gag untouched; anti-nerf where the city's rich boy meets the country boy's craft; canon names for canon people only.
+
+---
+
+## CH 8 PLAN (draft — class five, a bill, and a boy who does not say his name)
+
+**Slice:** canon ch 37's tail and ch 38+ school-life territory (the reparation thread, class life inside the intermediate academy, the first weeks of the room). **Verify at write-time — do not draft from memory:** canon ch 38's actual contents (the class's teacher, the class's first lessons, the boarding-and-food rules), the reparations thread as canon handles it, and the Xie Xie page's aftermath note (the "little brother" thread and when his family's influence first shows).
+
+**Three author markers:**
+1. **The spine of the chapter** — (a) canon's school-day material (class, teacher, the academy's ordinary machinery), or (b) our forging track (the coast workshop, the guild's address he owes a visit), or (c) both interleaved.
+2. **Na'er's departure** — now, or held again? (Every chapter that holds her pays a small interest; the letter home is already carrying her in ink.)
+3. **The dragon-note window** (canon ch 36's quiet hint, held at ch 7) — open it here in a scene the boy cannot decode, or keep it shut one more chapter.
+
+**Beats (7 units, adaptable):**
+1. The first school morning in class five — the room's four boys arriving as a unit whether they like it or not; the advanced division's door visible from a distance.
+2. The class's day as canon gives it — teacher, lesson, the ordinary humiliation of being new; Zhou Zhangxi's file quietly following him; Yun Xiao's usefulness.
+3. The bill's first installment — the coast shop, the forge bench, the wage honestly carried back; the guild's address still in his pocket (a debt of a different kind).
+4. Xie Xie — one scene from the boy's side of the bunk: the cold, well-kept silence, and one crack in it visible only to the reader.
+5. Na'er's thread — the letter arrives from Glorybound, or her question finally lands (per marker 2).
+6. The director's file moves one step (canon-plain; no institution invented; the grey rings still unexplained).
+7. Grass close — the new ground's first ordinary day; the ledger's second Eastsea entry.
+
+**Law check:** no invented institutions (R5); no vein-events (gates); rank 12; the reveal gag untouched; anti-nerf (every canon-side character keeps their canon competence); canon names for canon people only; no dragon-note naming even if the window opens (gag law).
 
 
 ## CH 5 PLAN (draft — the hammer chapter and the leaving-of-shapes)
