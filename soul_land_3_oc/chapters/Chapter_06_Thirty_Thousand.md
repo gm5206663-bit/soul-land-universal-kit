@@ -1,7 +1,5 @@
 # Chapter 6: Thirty Thousand
 
-> **Canon reference:** Soul Land 3, chapters **16–19** (*The Starry Sky and the Vast Sea* · *Spiritual Power Test* · *Random Draw* · *Spirit Soul*) — fetched live 2026-10-02 (`ldk-chapter-16` … `-19`), adapted on page, in order, unskipped. **Canon on page:** the beach's last question answered · the Spirit Pagoda (the three-layer branch, the ashen-robed master, *"Do you have enough money?"*, the price wall — 73 ten-year whites, 11 hundred-year yellows, the random draw) · the spiritual-power test (the six realms; the number 38) · the random draw and the white ball · the Grass Snake, the defect, the twenty-four hours, and the tears. **Dual track:** Su Yan's side — the spring tests and the printed ten · the wall learned in daylight · the tin counted out loud · the trade's first coin. **Seals:** LSP-10 · R13/DRG-01 · NAE-02 · R5 · WUL-01/04 (canon's own traces only) · no spiritual-power print (Q-2) · no futures spent for the OC's line. **Timeline:** the same spring week, both houses — age nine. Receipts: `canon_coverage/Canon_Coverage_Chapter_06.md`; register rows 43–46.
-
 ## One
 
 He gave her his answer on the sand, before the lanterns went out along the harbor road.

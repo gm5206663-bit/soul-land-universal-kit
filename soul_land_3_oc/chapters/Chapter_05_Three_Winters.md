@@ -1,7 +1,5 @@
 # Chapter 5: Three Winters
 
-> **Canon reference:** Soul Land 3, chapters **12–15** (*Three Years Later* · *Thousand Refined Tungsten Hammer* · *Enough Money at Last* · *10th Rank*) — fetched live 2026-10-02 (`ldk-chapter-12` … `-15`), adapted on page, in order, unskipped. **Canon on page:** the classroom whisper and the exit arithmetic · the boy who changed · six of the dozen at rank ten · Lin Ximeng's last year · Na'er at the gates and the Awakening's marvel · the fights and the fame · Brother Long and the Tungsten Hammers · ten ankle-joints and the wage · the counting to thirty thousand and two hundred · the seven-colored ring (canon's own scene — unseen, no name, no witness) · the breakthrough · the rank-ten test · the seventh through the door · the stipend · the beach. **Dual track:** Su Yan's three winters — the wrong read · the contested trade · the tin, the letter, and the office; the tracks touch at the wall, the market, and the water tap. **Seals:** LSP-10 (no gold on the soul) · R13/DRG-01 (no resonance beat) · NAE-02 (the ring exactly as canon shows it; no name, no theory, no witness) · R5 (the Talent unnamed) · no spiritual-power print (Q-2) · no spirit-soul prices (canon's next block keeps them). **Timeline:** the boys' seventh, eighth, and ninth years — Age seven. Age eight. Age nine. Receipts: `canon_coverage/Canon_Coverage_Chapter_05.md`; register rows 39–42.
-
 ## One
 
 The first winter after the sickness, the house stopped counting his breaths.

@@ -1,11 +1,5 @@
 # Chapter 1: The Reading
 
-> **Canon reference:** Soul Land 3, **chapter 1 (Awakening Day)** and **chapter 2 (Martial Soul Awakening)** — both adapted on page, in order, unskipped. Fetched and verified 2026-10-02 (wuxiaworld `ldk-chapter-1`, `ldk-chapter-2`). Canon beats carried: Glorybound City; the annual Awakening Day; *"only one in a thousand people might possess soul power"*; Tang Wulin and his father Tang Ziran in the queue; the teacher with the list; Red Mountain Academy (two thousand students, white roofs and red walls, clean grounds); the circular Awakening Chamber building; the parent waits outside; the third floor; the inscriptions; the middle-aged Spirit Master in the simple orange robe; *"Come here child. Stand in the middle."*; the awakening light; the pain; the golden lines seen by no one but the master; the Bluesilver Grass; rank 3 innate soul power; the Tang Sect and the Bluesilver Emperor. **Dual-track:** Su Yan's own line runs parallel — same town, same academy, same morning, his own chamber and his own reading — touching canon's track only where the morning itself touches it. Canon rows: `foundation/CANON_SPINE.md` LSP-01..LSP-10, AW-01..AW-08; `canon_coverage/Canon_Coverage_Chapter_01.md`.
-> **Rewrite note (v5, 2026-10-02):** rebuilt on the author's strikes. v1–v4 told an OC-only chapter with canon outside the window — the same mistake the deleted prequel was struck for. v5 puts the canon story on the page, complete, and writes it all in the register of the Fire Phoenix chapters (short declaratives, scenes over essays, dialogue-forward). v1–v4 remain in git history.
-> **Timeline:** the boys' sixth year. Glorybound City. Tang Wulin's Awakening Day is today. So is Su Yan's.
-
----
-
 Glorybound City was a small town sitting on the border between the ocean and the eastern coast of the Sun Moon Federation, and on Awakening Day it woke with the whole continent.
 
 Everyone on the continent had a martial soul. The soul was part of the body, and at six years old, every child went to the academy and woke it up. A farmer with a hoe for a soul could till like three men. A boy with a bird could carry the bird's speed, or its eyes, or its voice, for life.

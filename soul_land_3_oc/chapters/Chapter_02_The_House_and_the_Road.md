@@ -1,11 +1,5 @@
 # Chapter 2: The House and the Road
 
-> **Canon reference:** Soul Land 3, **chapter 3 (*Little Wulin's Family*)** and **chapter 4 (*Entering the Academy*)** — both adapted on page, in order, unskipped. Fetched and verified 2026-10-02 (wuxiaworld `ldk-chapter-3`, `ldk-chapter-4`). Canon beats carried: every soul-power child invited to the Soul Master class; the walk home and Tang Ziran's *"one in a million"*; the machine repairman's household in the commoner's district; the tiny home; Lang Yue's hug and the lunch; *"He has soul power, but I wish he didn't."*; the normal-class fallback; the afternoon fever; the gold lines walking his body three full cycles; the dream of the bluesilver prairie, the golden sky and the golden-mouthed colossus; the oily sweat; the growling belly and the fourth bowl; *"Mom, it's delicious. I still want more…"*; the class decision and the dragon-and-phoenix line; the Federation's school law; the first day at Red Mountain Academy; the little fatty and the knife; the faint gold at the grass's roots; homeroom teacher Lin Ximeng; the introductions; the classifications lesson; the afternoon meditation. **Dual track:** Su Yan's line runs parallel — the term settled standing up (chapter 1's promise kept), the feeding economy opened, kitchen and clinic hands, his own first day in the same room — touching canon's track only where a shared town and a shared classroom touch it. **Seals kept:** the soul's gold stays sealed (LSP-10); the dragon resonance stays invisible (R13, DRG-01); Na'er is not foreshadowed (NAE-02). Canon rows: `foundation/CANON_SPINE.md`. Receipts: `canon_coverage/Canon_Coverage_Chapter_02.md`.
-> **Status:** v1 — first draft, awaiting the author's read.
-> **Timeline:** the Awakening Day evening, and the first day of the new term. Glorybound City.
-
----
-
 Even after he had left the gates of Red Mountain Academy behind him, Tang Wulin was flummoxed.
 
 Like every year, the children who had awakened soul power along with their martial souls were invited to join the academy's Soul Master class. In every elementary academy on the continent, that class was the important one. It was the reason the gates were crowded this morning. It was the reason parents counted their children's worth in soul power before they could count to ten.
