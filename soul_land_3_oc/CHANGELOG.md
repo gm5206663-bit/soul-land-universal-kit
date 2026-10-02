@@ -4,6 +4,8 @@
 
 ## 2026-10-02 (in one long day)
 
+- **READING-FILE CLEANUP (2026-10-02, late):** the six chapters’ title-block receipts (canon reference / rewrite note / stale status) moved verbatim into the coverage docs; chapters open title → prose; **body measures identical** (4,263/5,677/6,881/9,788/13,704/11,275). Shelf recopied; raw shelf count now 51,963.
+
 - **PUSH RECEIPT (2026-10-02):** the workspace — Chapters 1–6 and every receipt — is on GitHub (`soul-land-universal-kit`, 39 commits, fast-forward), and ***One in a Thousand* is live on the Soul Library shelf** (`soul-library` `6d0d5d8`: 6 chapters, 54.3K words, cover, search index, recaps, Atom feed, news, sitemap). Workspace lightened: `scratch` 9.3 MB → 0.2 MB; push helper at `soul_land_3_oc/tools/push_kit.sh`.
 
 - **Chapter 6 — *Thirty Thousand* — shipped** on the author's *"Next"*: canon SL3 **ch16–ch19** on page in full (the beach's answer · the Pagoda and its price wall 70,000 / 1,000,000 / 30,000 · the spiritual-power test, the six realms and **38** · the random draw · the **Grass Snake** and the twenty-four hours), with Su Yan's same spring week underneath — **the tests print ten**; the counter's wall written into the clinic's book; the tin counted out loud (**382** coppers) and the week's first coins earned by a night read at pier four (**five coins eighty-one coppers** in the tin at the close). Rebuilt on a safe clause-splitter after the first assembly pass produced fragment heads; then a final read-through pass (seven catches — the arithmetics set true, the machine sentence rebuilt, a dangling line before the reveal cut); "the way" cut to the cap of 2. Receipts: coverage6 + audit6 + LOG 029. (ch20–22 fetched the same day and held for ch 7.)
