@@ -19,7 +19,7 @@
 
 *"Luo Sanpao true bloodline you know, adaption telent is stronger now', so of course it's work on it … su yan of course give good food's and hearbs and others All things to ..Luo Sanpao how much he can to grow, of course su yan learn things from his mother and father like cocking and medical and others things."*
 
-In law: the freed Talent's work begins with **his own bloodline and all things**, which includes the soul's **failed higher-dragon line** (module v2 §1); the boy's share is **feed, herbs, medicine, care — everything he can afford**; growth is what those inputs buy under the Talent's conversion. Nothing here is a gift.
+In law: the freed Talent works on **every part of the entire existence — every single part** — which includes his own bloodline and the soul's **failed higher-dragon line** (module v3 §1); the boy's share is **feed, herbs, medicine, care — everything he can afford**; growth is what those inputs buy under the Talent's conversion. Nothing here is a gift.
 
 ## 3 · Legal record vs private maturity (the house pattern)
 
