@@ -46,6 +46,15 @@ Growth may be earned, fed, inherited, or granted — "priced" is the house taste
 ## R12 · THE DUAL-TRACK LAW **(FIREWALL — earned 2026-10-02, the four strikes on Chapter 1)**
 **Canon runs on the page. Complete. Unskipped. In order. The OC runs parallel in the same streets and the same clock, and the tracks touch only where the day itself touches them.** For this serial: **Tang Wulin's story is the spine** — adapted chapter by chapter (SL3 ch1, ch2, ch3 …), every canon beat carried, no canon scene summarized away or moved, no canon result changed, no canon figure imported early. The OC never replaces, rewrites, or outranks a canon beat. Canon dialogue beats are carried faithfully in plain prose (short famous lines kept as-is). **A chapter that keeps canon outside the window is not a chapter of this serial** — v1–v4 of Chapter 1 made exactly that mistake and were struck four times; it is also the reason the previous serial was deleted. Read the canon text before drafting, and receipt every beat in `canon_coverage/`.
 
+## R13 · THE SEALED BLOODLINE LAW **(FIREWALL — armed 2026-10-02, the author's dragon directives)**
+Three bloodlines run through this era's children, and **none may be named before canon names it**:
+
+1. **Luo Sanpao's true bloodline** (the stalled higher-dragon line; the sealed gold — LSP-10). The Adaptation Talent's main project (D-05), the boy's feeding (D-07), and the soul's growth are all real — but the *name and nature* stay closed. The prose shows effects only: appetite, maturation, weight, presence, calm; never gold as a promise, never a dragon named.
+2. **Tang Wulin's bloodline** (WUL-01) — on page at this era: **the golden lines and the hunger, nothing else**. No names, no theories, no adult explanations.
+3. **Na'er's nature** (NAE-02) — sealed deepest of all. She is a silver-haired, amethyst-eyed child; the resonance (DRG-01) reads only as pull and comfort. No character suspects or explains; no narration winks.
+
+**And every growth stays paid for** (feeding from D-07, bloodline work from §1b of the Adaptation module): bowls counted, herbs costed, months spent. No free dragon. No free day.
+
 ## R10 · THE SISTER LAW
 The author reads the chapters; the files never argue with him. Veto = one word = the files change the same turn, receipts written, no silent edits.
 

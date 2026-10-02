@@ -32,12 +32,21 @@
 
 Six years old, undersized for his age and embarrassed about it, with a reader's hands and his father's habit of asking why. He grew up inside two rooms and a sickroom window, so the world he knows best is the one he was told about — and he wants all of it, greedily, the way only a boy who almost didn't get it can. He is not timid and not tragic; he is **hungry**. His parents rebuilt a normal life around him with crooked care. He keeps a stick by his bed he uses as a sword. He does not know — no one knows — that he is carrying the second of two things: a soul the world laughs at, and the engine that spent six years saving him and has now, for the first time, nothing else to do.
 
+## 4b · The second job, and the hands he brings to it (author directives, 2026-10-02)
+
+- **He feeds the soul.** From the first night, Su Yan treats Luo Sanpao as a project: **good food, herbs, and everything he can get his hands on, as much as he can afford.** Canon already says this creature needs real nourishment (and canon's own feeders used humble white radishes); the author's directive is that this boy does it **seriously, from day one** — a lit stove, a full bowl, and a boy doing sums about what he can buy.
+- **Where the skills come from.** **Cooking, from his mother** (Zhou Hui runs the grain house's books and the family's kitchen; she taught him knife-work, broth, and the arithmetic of a pantry). **Medicine and herbs, from his father** (Su Heng is the city's physician; the clinic's shelves were the boy's first library, and six years as a patient made him fluent in the language of doses and roots — he can tell a warming root from a cooling one, and he knows that medicine is prices and patience as much as knowledge).
+- **What that money costs.** The household is **good**, not rich; the six sick years bled the cushion. Feeding a growing soul eats into what a physician's family can spare, and the ledger of that is part of the story's bookkeeping — every bowl, every root, every month.
+- **Spiritual power (author directive).** Because of the past — six years of the hidden engine holding his body and soul-veins together while he read, watched, and learned patience — **his spiritual power is unusually good for his age.** Until the academy measures it, it shows as quality: long focus, quick study, a mind that stays level when other children panic. Never a readout, never named.
+
 ## 5 · Firewalls (standing)
 
 - The **Talent** appears as quality and consequence only: never named, never voiced, never a readout.
 - The **Creed** (LSP-09) is not his to say — or even to know — until the story earns it.
-- **Canon people stay at the far edge** (G1 governs; default: Wulin's story is a parallel one until the author says otherwise). No canon event is spent early.
+- **Canon runs on the page** (R12): Wulin's story is the spine, adapted in canon's order; canon figures enter when canon reaches them — never early, never reordered. The added resonance to Su Yan (DRG-01) never changes a canon outcome and never becomes knowledge.
 - **The horizon (LSP-08: the soul's old, unfinished, and recorded completion)** is never named in his head, never foreshadowed aloud, never promised. He starts with a pig, a number, and a family — nothing else.
+- **The true bloodline (LSP-10 = D-05) is the Talent's quiet project — and the boy does not know it.** In his head it is simply: I feed my soul well, it grows. No names, no gold, no dragon, no horizon.
+- **Na'er's nature (NAE-02) and Wulin's bloodline (WUL-01) are sealed at this era** — the resonance (DRG-01) reads only as pull, attention, comfort; never as knowledge for anyone, himself included.
 
 ## 6 · Open gates
 

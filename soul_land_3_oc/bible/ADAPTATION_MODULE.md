@@ -17,10 +17,20 @@
   1. **Innate soul power 1** — a thin foundation (canon: body condition and nourishment affect soul-power development — AW/D-02).
   2. **The soul came out half-finished — Luo Sanpao** (LSP-01: canon's own diagnosis of this soul is *benign mutation, halted halfway*). The connection (the illness years as the "unknown factor" that halted this boy's flowering) is [design], author-gated; the deeper why stays OPEN (D-03).
 
+## 1b · Tier 1's main project — the true bloodline (author directive, 2026-10-02)
+
+The author's word: **Luo Sanpao's true bloodline — the Adaptation Talent is stronger now, so of course it works on it.** The engine that spent six years keeping a failing body alive is now free — and its chosen project is the **stalled higher-dragon mutation inside Luo Sanpao** (canon's own benign-but-halted mutation; the sealed gold of LSP-10). Consequences, enforced:
+
+- **Slow, priced, evidence-based.** The bloodline strengthens the way the master foundation demands — every movement through its gate (possibility → input → substrate → resources → construction → integration → evidence → scope). Inputs the boy can actually give: **feeding (good food, herbs), training, rest, recovery, study**; the Talent converts those into progress no ordinary keeper could get from the same bowl.
+- **Never named in prose** while the window is closed (LSP-10). The reader may one day see gold; the story, for now, sees only a soul that grows better than it should and a boy who keeps feeding it.
+- **What it does NOT do:** no instant dragon, no revealed inheritance, no power without substrate, no speech from the soul, no skipping ranks. The creature's canon faculties (nose, endurance, the three-shot ceiling) stay the baseline; growth past them is earned, chapter by chapter.
+- **The appetite parallel (canon WUL-02):** canon's own protagonist shows a sealed great bloodline first as enormous hunger (the Rice Bucket day). Here the same law shows through the soul: **as the bloodline strengthens, the creature's needs rise — more food, better food, more recovery** — and the household ledger feels it. Growth and cost travel together, always.
+
 ## 2 · Tier 1 — after the awakening (the stronger version; the story's engine)
 
 - **The hinge:** the master foundation's own words (§6.1) — the awakening **reveals or expands expression that has already been developing.** For the first time in his life the Talent has no emergency; the illness is finished; the body holds. What it was spending on survival becomes available for the climb — **this is the escalation the author ruled.** It is not a new power; it is the same engine, freed.
-- **What it works on now (roads, not promises):** body–soul fit and breath rhythm; recovery from food and sleep; the refining of what the academy teaches; correction of every mistake (a Talent-shaped student is a *correcting* student); the slow strengthening of a thin foundation toward the ladder.
+- **What it works on now (roads, not promises):** body–soul fit and breath rhythm; recovery from food and sleep; the refining of what the academy teaches; correction of every mistake (a Talent-shaped student is a *correcting* student); the slow strengthening of a thin foundation toward the ladder; and — per §1b — **the true bloodline of Luo Sanpao**.
+- **The spiritual-power dividend (author directive):** Tier 0 was not only survival — six years of an engine working on a soul-vein system under constant strain left the **mind and the spirit-veins reinforced**: his spiritual power is unusually good for his age (D-06). It shows as quality first; the academy's tests will one day put a number in front of it.
 - **What it cannot do (the master's limits, enforced):**
   - **No free output** (master: every gain needs substrate; §22.2 gate runs on every real movement — possibility → input → substrate → resources → construction → integration → evidence → scope).
   - **No implausible compensation** (master §23.1 forbids the exact story-error our premise could fall into: *"Start extremely low and then compensate with implausibly fast growth."* His early ranks must be **earned and honestly paced**; the Talent makes him *efficient*, not *fast beyond reason*.)
