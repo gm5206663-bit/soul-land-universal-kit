@@ -43,6 +43,9 @@ Growth may be earned, fed, inherited, or granted — "priced" is the house taste
 
 **Both Chapter-1 strikes on this serial were register strikes — v2 (literary polish) and v3 (still ornate-lite) passed the number gates and were still wrong.** The numbers are necessary; the voice is the point.
 
+## R12 · THE DUAL-TRACK LAW **(FIREWALL — earned 2026-10-02, the four strikes on Chapter 1)**
+**Canon runs on the page. Complete. Unskipped. In order. The OC runs parallel in the same streets and the same clock, and the tracks touch only where the day itself touches them.** For this serial: **Tang Wulin's story is the spine** — adapted chapter by chapter (SL3 ch1, ch2, ch3 …), every canon beat carried, no canon scene summarized away or moved, no canon result changed, no canon figure imported early. The OC never replaces, rewrites, or outranks a canon beat. Canon dialogue beats are carried faithfully in plain prose (short famous lines kept as-is). **A chapter that keeps canon outside the window is not a chapter of this serial** — v1–v4 of Chapter 1 made exactly that mistake and were struck four times; it is also the reason the previous serial was deleted. Read the canon text before drafting, and receipt every beat in `canon_coverage/`.
+
 ## R10 · THE SISTER LAW
 The author reads the chapters; the files never argue with him. Veto = one word = the files change the same turn, receipts written, no silent edits.
 
