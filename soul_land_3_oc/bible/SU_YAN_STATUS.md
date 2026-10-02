@@ -97,7 +97,7 @@ The last month of the graduation year. The record check has printed his **nine**
 | **The class / the room** | the machine's blue screen; the number **nine**; the room going completely quiet; the class's sentence now *"the pig boy is at nine"* | the file is cracked; the older boys' sentence hangs between the joke and respect |
 | **The town** | the market's sentence *"the physician's boy is at nine"*; the tea stand improving it twice; the patients asking how the physician *made* him | the old story (*he grew out of it*) is true of the illness and false of everything else; the new story is a number |
 | **Tang Wulin** | canon state: rank 10, 30,200 saved, at the Pagoda's door | **UNKNOWN** — adjacent roads; no contact beyond canon's own order |
-| **Na'er** | canon's own page: the ring between her brows unseen | **UNKNOWN / HIDDEN** — sealed (NAE-02) |
+| **Na'er** | canon's own page: the ring between her brows unseen · **v2: three on-page meetings across the years (the wall · the market · the water tap); she knows the pig by name and the reading trade by the fishwife's sentence** | **UNKNOWN / HIDDEN** — sealed (NAE-02) |
 
 *Full web — wants, last movements, histories — lives in `bible/RELATIONSHIPS.md`; where the two files overlap, this panel's current states win.*
 

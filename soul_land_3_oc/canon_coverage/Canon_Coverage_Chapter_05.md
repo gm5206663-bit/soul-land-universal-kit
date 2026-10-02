@@ -98,3 +98,17 @@ The chapter walks the **three-year skip** in three movements (One · Two · Thre
 **New lines born (with obligations named):** **C-01 the number nine** (the world now measures him; next: the tests paper, the price, and the day the machine is beaten or not) · **C-02 the teacher's letter** (what the office does with it) · **C-03 the father's page** (*The boy* — the record must grow or be forced to close) · **C-04 the small read trade** (a service now depended on; its first failure is owed) · **C-05 the girl by the window** (she has spoken for him once; her name comes when a scene earns it) · **C-06 the tin and the promise** (the day the price is spoken) · **C-07 his next step** (rank 10's purchase and the intermediate road wait on canon's own block and the author's word).
 
 **Deletion test — what is different because he is in it (on the page):** delete him and the school's list closes with **no ninth name**, the room never gets its blue screen surprise, the fishwife never says *"Nine, is it"*, no letter is written at that gate, and the physician's book keeps its last page unwritten — the chapter's whole last month loses its second voice. Every item is on the page.
+
+## 9. The v2 rebuild (2026-10-02) — the author's strike, answered in the prose
+
+**His words:** *"Light Wyrm / Light Dragon Lizard, don't mistake it … What he just sleep three years and do nothing and coultivate … What su yan even ever meet na'er in years, natural butterfly, Nerfing and tooo many others things."*
+
+**What the page now carries (receipts read from the pages):**
+- **Three costed OC events, one per winter:** the **wrong read** (winter one — the pig's no read wrong by the boy; the man's loss; the tin paying; the fishwife's law) · the **contested trade** (winter two — the Hand, the chalk crate, the escrow, the raised rate, the whisper) · the **tin's decision + the letter** (winter three — Lin's gate and letter; the office entry signed in his own name; the family's promise in daylight; the father's page).
+- **Su Yan × Na'er, on the page, across the years — three times:** the wall (year one: the pig's name, the lollipop, the chin on the shoe) · the market (year two: the ends, the list, the joke) · the water tap (year three: the bucket carried, the gate, the scolding taken).
+- **Butterflies felt, none footnoted:** Wulin says his name at the wall; Na'er quotes her brother about the pig; Lang Yue's apron line at the packing; the fishwife's rate and sentence; Lin's letter and its lateness; the room's file moving at the blue screen; the Hand's whisper; the crate men's escrow.
+- **No idle stretch:** no winter is meditation-only; the count moves as arithmetic, the winters move as events.
+- **Seals unchanged:** LSP-10 (the soul never named; no gold) · R13/DRG-01 · NAE-02 (the ring exactly as canon shows it — unseen, no name, no theory, no witness) · R5 (Talent unnamed) · no spiritual-power print (Q-2) · no spirit-soul prices.
+- **Canon:** ch12–ch15 complete, in order, unskipped; canon ≈ 37% of the chapter's words — under the R21 §3.3 half ceiling.
+- **Metrics (measure tool, final):** **13,721 w · ALL 11.1 / 8 / 0 over 60 · NARR 12.4 / 9 / 0 · dialogue paras 152 · CJK 0 · "the way" 1.** (v1: 12,602 w · 17.3 / 13 / 0.)
+- Audit: `audits/Chapter_05_audit.md` §8 (the v2 addendum).

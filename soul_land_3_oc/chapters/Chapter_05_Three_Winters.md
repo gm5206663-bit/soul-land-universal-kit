@@ -1,410 +1,518 @@
 # Chapter 5: Three Winters
 
-> **Canon reference:** Soul Land 3, **chapter 12 (*Three Years Later*)**, **chapter 13 (*Thousand Refined Tungsten Hammer*)**, **chapter 14 (*Enough Money at Last*)** and **chapter 15 (*10th Rank*)** — all four adapted on page, in order, unskipped. Fetched and verified 2026-10-02 (wuxiaworld `legend-of-the-dragon-king`, `ldk-chapter-12` … `-15`). Canon beats carried: **ch12** — *"Three years later"*; the classroom whisper (Zhou Shao Long through rank 10 and buying a spirit soul tonight; *"Didn't you say you're already at rank 9?"*; the graduation arithmetic — rank 10 before graduation earns the recommendation letter, not reaching it before ten means several tests, and an intermediate academy will not open its gate without a spirit soul, and this small city has no intermediate school to open); the change in the boy (1.2 to 1.4 meters, the handsomeness, the popularity); the fat boy's history (the first-year fight, the single-arm lift, the *wah wah* crying, the shadow he became); six of the dozen at rank 10; Lin Ximeng's last-year attention and the plain arithmetic of her interest; the teacher's own discovery (a gift for meditation, and behind it a spiritual power far ahead of his peers); *"You can slowly dream on."*; the gates, the silver hair, the lollipop, *"Na'er, slow down, you're going to trip,"* the siblings the whole school had stopped being surprised by; the second-year marvel at the Awakening — a child with no martial soul at all, and the ordinary section that took her; her prettiness and the fights it cost — one boy against a group, his body over hers, the cuts, the daily return visits until the fear stuck, and the fame; *"Since he was eight years old, Tang Wulin had acted like a young man"*; the oil-soaked work clothes; **ch13** — Brother Long at the door (*"Wulin's here!"*), the workload envy, the reason the large components still waited (*"so you can have a stronger foundation"*), the workshop of exactly three; the second disciple and the word *Teacher*; the stricter teaching and the honest comparison (*more learned at the workshop than at the academy*); the weekly personal instruction day; the tidy little forging room against the cluttered reception; the first three months of nothing but pounding iron — two hours a day, an abyss — and the hammers that grew with him; metal extraction, then the small components, then the promotion to medium ones; not one complaint in three years; the task that day — ten machine-armored ankle-joints, spherical, trivial in a mold and demanding by hand; **Hundred Refined and Thousand Refined**, and why a thousand demands better metal than a boy could yet afford to spoil; the workbench's furnace and the two **Thousand Refined Tungsten Hammers** — a gift after his first year, forty kilograms each, weightless in his hands; the two-hammer rhythm, the *dings*, and the doctrine underneath it — a smith works with his brain, feeling the vibrations and the vein-lines of living metal; his excellence in exactly that; the monthly wage split three ways — saved, a portion for his little sister, a portion to the house; the state he fell into at the anvil — hammer and metal answering each other — and the especially fine work it left behind, and the cold man's rare praise; *"I've saved up enough money to buy a spirit soul!"*; *"Good luck."*; and the private thought of a six-star smith watching a nine-year-old leave (the pity for the grass, and the admission: *this child's talent in forging far surpasses my own*); **ch14** — the whole way home a bounce; three years of swings under it; **thirty thousand Federation Coins**; *diligence compensating for dullness* kept in the heart for three years and finally come due; *"Mom, dad, I've earned enough money now!"*; Na'er with her lollipop; the iron case under the bed; the counting out loud — one hundred, two hundred, twenty-nine thousand seven hundred — **thirty thousand and two hundred**, two hundred more than the goal, and a hundred of it given to his sister for food; the parents' tears and the shoulder-thump, *"You're a very capable son,"* the thumbs-up; *"Then I'll accompany you — our whole family will go"*; the night that meditating could not enter; Na'er asleep; the blanket pulled straight; the mother's rule about turning ten and what it will mean for the room; the moonlight; **the seven-colored ring that rose from the sleeping girl — yellow, green, red, blue, purple, gold, silver — one by one, and fused in between her brows, and left her breathing normally, brows knit, a little taller** (seen by no one; the boy was already out the door); the cool air; the garden; the strand of Bluesilver Grass that pulled at him; the sweet scent; the cross-legged calm; **ch15** — the breakthrough: the blue specks gathering and boring in, the ocean of tiny voices, the Bluesilver fragrance in every cell, the soul power unfurling warm from the dantian, the **faint golden lines lighting his forehead** in the old pattern, spreading, withdrawing, unseen; dawn and the dew; Lang Yue's call down the streets — *"Lin Lin, Lin Lin!"* — and the boy answering from the lawn; *"I think I've broken through to the 10th rank"*; the kiss on the head and *"Your safety is the most important thing"*; the father's joy — test first, then the Pagoda; *"Long live dad!"*; Na'er's blank breakfast and the smile that came late; the academy's **soul power test** showing rank 10; the rule underneath it (every ten ranks, a ring; beasts too rare, so the manufactured spirit souls of the Spirit Pagoda); **the seventh student in the class to break through**; Lin Ximeng's urging — go buy a spirit soul, an official Soul Master draws a **thousand coins a month**, enough for an intermediate academy's fees — and the leave of absence she promised; the steadiness three years of forging had hammered into him; the workshop that evening, the assignments finished before he went home; the father's day off; the mother's request refused; Na'er distracted all day, *"big brother will protect you for your whole life. All right?"*; the ten-minute walk to the beach — the city that was really a village with no walls, the gravel and shells, the old legend of the ocean's wrath, the moon like snow and the stars like gems, the waves and the seabirds; *"There sure are a lot of stars tonight, big brother!"*; *"Maybe they've all come out tonight to congratulate me"*; *"are you sad that you're unable to become a Soul Master?"*; the shake of the head; and the question that closes canon's block — **"Would you miss me if I left one day, big brother?"** **Dual track:** Su Yan's line runs the same three winters — the wage rhythm, the pot's third stage, the two hours that become a habit, the classes, the breakwater, the small market trade that grows out of an apology, the winter he did not cough twice more, and — in the last month — the school's own test, a number, and a teacher who finally looks up. The tracks touch where a shared town, a shared classroom, and one shared water tap touch them, and nowhere else. **Seals kept:** the soul's gold stays sealed (LSP-10); no resonance beat this chapter (R13/DRG-01); Na'er is shown exactly as canon shows her, and the seven-colored ring is canon's own scene, shown as canon shows it, with no name, no theory, and no witness (NAE-02); the Talent stays unnamed (R5); the golden traces on Wulin are canon's own, unseen (WUL-01/WUL-04); **no spiritual-power value is printed** (Q-2 holds); **no spirit-soul price appears** (the Pagoda's numbers stay in canon's next block). Canon rows: `foundation/CANON_SPINE.md` §J (SKIP-01…SKIP-07); register rows 39–42. Receipts: `canon_coverage/Canon_Coverage_Chapter_05.md`.
-
-**Timeline:** the three winters between the boys' seventh and ninth years — Age seven. Age eight. Age nine. Glorybound City, from the end of the first school year to the eve of the Spirit Pagoda's door.
-
----
+> **Canon reference:** Soul Land 3, chapters **12–15** (*Three Years Later* · *Thousand Refined Tungsten Hammer* · *Enough Money at Last* · *10th Rank*) — fetched live 2026-10-02 (`ldk-chapter-12` … `-15`), adapted on page, in order, unskipped. **Canon on page:** the classroom whisper and the exit arithmetic · the boy who changed · six of the dozen at rank ten · Lin Ximeng's last year · Na'er at the gates and the Awakening's marvel · the fights and the fame · Brother Long and the Tungsten Hammers · ten ankle-joints and the wage · the counting to thirty thousand and two hundred · the seven-colored ring (canon's own scene — unseen, no name, no witness) · the breakthrough · the rank-ten test · the seventh through the door · the stipend · the beach. **Dual track:** Su Yan's three winters — the wrong read · the contested trade · the tin, the letter, and the office; the tracks touch at the wall, the market, and the water tap. **Seals:** LSP-10 (no gold on the soul) · R13/DRG-01 (no resonance beat) · NAE-02 (the ring exactly as canon shows it; no name, no theory, no witness) · R5 (the Talent unnamed) · no spiritual-power print (Q-2) · no spirit-soul prices (canon's next block keeps them). **Timeline:** the boys' seventh, eighth, and ninth years — Age seven. Age eight. Age nine. Receipts: `canon_coverage/Canon_Coverage_Chapter_05.md`; register rows 39–42.
 
 ## One
 
-The first winter after the sickness was the winter the house stopped counting his breaths.
+The first winter after the sickness, the house stopped counting his breaths.
 
-Nobody said so. The house did it without a meeting, as it did everything. The jar that had stood by his mat was washed and put on the shelf with the other jars. The cough syrup that had lived on the kitchen sill since before the boy could read was moved, not thrown away, into the back of the clinic's stores. His mother's hand stopped checking the back of his neck on cold mornings — stopped for a week, then two, then long enough that the stopping became the new rule.
+That was the winter the boy started doing the day himself. Up before the lamp. The stove lit before his mother came down. The wall run before school, the creature behind him at its own speed. Then the school hours. Then the clinic's outer room. The counter when his father was out on a call. Then the pot. Then his two hours.
 
-His father noticed the rule before anyone said it out loud, because noticing was the thing he was paid for. He put his hand on the boy's forehead at the table one evening, as he had ten thousand times, and then took it away and did not do it again for the rest of the winter.
+His mother watched all of it for a month and said nothing. Then one morning she set his bowl down with both hands, as she served guests.
 
-The boy watched all of it, and he watched most things. He knew what the shelf and the sill and the hands meant. He was six. He had spent six years learning exactly one subject, which was what a house looks like when it is afraid, and now the house was teaching him the other one.
+"Eat first," she said. "Then be useful. In that order."
 
----
+"Yes, Mother."
 
-The school year had a shape, and the shape held.
+"And feed the pig before you feed the page. He's been useful longer than you have."
 
-The morning bell, the hours, the walk home with the list in his pocket. The class had its dozen children and its two famous files: the grass boy, whose family fed him like a war, and the pig boy, who answered to his name in four words and no one asked more. The room was not cruel to Su Yan, which he had learned a long time ago was the kindest thing a room like that had in its pocket. It was settled. A file that has been written does not get opened again for no reason.
+The creature in question lifted its chin off the boy's shoe and considered her. It did not move, and got fed where it lay. Nobody could prove when that arrangement had been agreed. It had simply held, every morning, like the house's other laws.
 
-The meditation hour came every afternoon, weather with a bell. The teacher said the same sentences. The children sat and breathed and mostly reached nothing, which was the lesson. Four rows back, the physician's boy went down into it like a stone into a well and came up when the hour ended with his hands warm.
+The clinic's law came that winter too. A woman paid for a tincture and left too much on the counter. The boy's hand went to the change before his head had a thought in it. His father's hand came down flat over both.
 
-The teacher stopped at his mat the first week of the year, as she had stopped last year. She said nothing. The second week she said nothing. The third week she said one thing.
+"The till is not yours," Su Heng said, in the voice he used for prices. "Neither is the money. The habit is yours."
 
-"Keep those hands," Teacher Lin said, and moved on to the next mat.
+He counted the change back himself, in front of the woman, slow, like a lesson being served to two people. The woman left with her correct change and her eyebrows up. The boy went and found a tin in the storeroom, the small dented one that had held cough drops. He set it by his bed that night. The change he did not take went in. It was a thin start. It was his.
 
-Su Yan kept the hands and said nothing about it to anyone, which made two of them.
+At school, Teacher Lin ran the room as she ran it every year.
 
----
+"Hands. Straight back. Breathe down and in. Now hold it."
 
-The wage had begun as a day.
+The room held it. The room always held it for a count of ten and then wobbled. The boy four rows back held it past the count, the way he had held it since the third week of his first year. He came up with his face quiet and his hands warm. Teacher Lin looked at him one moment longer than the moment needed and moved on. A room needs feeding.
 
-The first rest day in the clinic had paid five coppers and a sentence — *for the day's work, not for being the son* — and the sentence had changed the work, the difference between a named thing and an unnamed one. After that, his father paid him by the week. The week had a page in the back of the practice book, three columns wide, and the columns were honest, because the boy's mother had shown him what happens to columns that are not.
+She had said one true sentence to him in three years. She had said it in his first winter, walking past his desk: *Keep those hands.*
 
-Earned. Spent. Left.
+She had never explained. He had never asked. It was filed, in his book of her, under the things that were true.
 
-What he earned came from the clinic: counting, grinding, packets folded square, the outer room swept, the shelves dusted in the order the shelves wanted, which his father had explained once and the boy had kept forever. What he spent was mostly one thing, and the one thing had a bowl.
+The girl at the window said her one sentence to him that winter, too. A big boy had called the boy four rows back a name over nothing. The girl at the window, without turning her head, said, "He taught me," and the big boy found the whole desk behind him looking at *him*, and shut up. Nobody asked what had been taught. The room's arithmetic simply lost a line that day. It gained a longer one.
 
-The bowl had reached its third stage.
+Wan Yunchao, who talked for the room, leaned his bulk back over his chair. "Pig boy. Two hours a day on the wall, all year. You'll still be here next spring, huh."
 
-Stage one had been milk and scraps when the creature first came home. Stage two had been the pot with a cracked lid and the hour a bone turns from giving to holding. Stage three was this: a pot the boy could make the whole way down now, without his mother's eye on his hands. Two ladles, then three as the creature's needs grew — bones and fish ends, the grey skimmed, the lid cracked, the pinch of dried herb at the very end, so what came off the fire was smell and not just soup.
+The boy considered the question with the seriousness he gave all questions.
 
-"The pot is yours now," his mother said one evening, watching him work. "I am only allowed to taste it."
+"Maybe," he said. "But the pig walks back."
 
-She tasted it, and said nothing about the taste, and put the spoon down. From the stove she watched the creature eat, which was a sight worth watching — a barrel of a creature four legs wide of the floor, a dog's face gone gentle over a bowl, eating with the dignity of a magistrate.
-
-"The pig eats better than the clinic's patients," Su Heng said from the doorway, without complaint in it. "I have checked my books. It is true."
-
-"Then raise your fees," said Zhou Hui.
-
-The boy wrote the week's totals in the back of the practice book, and the column called Spent grew a line, and the column called Left grew anyway.
+The fat boy opened his mouth for the next thing. The next thing was not there. The desk behind him laughed at *him* for the first time in three years. He turned around red-faced and loud. The moment closed over itself like water.
 
 ---
 
-The creature had a shape of its own by then, and the shape was this: wherever the boy was going, it had already decided to come.
+At the second break the wall had its usual four: the Tang boy, the lollipop girl the Tang house had taken in, and the two of them together, which counted as one shape on the wall and two shadows.
 
-It followed him to the breakwater in every weather, a sack of rice with opinions, arriving in its own time. It waited at the clinic's outer door on rest days, and the patients had gotten used to it — a purple thing the size of a barrel, nose working the air, standing where the light was best and stepping aside for the old women, which it had learned to do without being taught. His father had stopped pretending it was not there. That was the winter's other lesson in this house: things did not have to be explained to be allowed.
+The boy came past on his way to the pump with the creature walking beside him, and the creature stopped. It had opinions. It always had opinions.
 
-At night, the boy practiced.
+The girl looked at it upside down, hair hanging off the wall.
 
-The hour on his own floor had begun the previous spring, when the first circle had closed and would not stop closing. By this winter the hour was two hours, and the second hour was not asked of him by anyone. He had simply found one evening that his body went to the mat on its own, as a hand goes to a shelf it knows, and after that the second hour was part of the day, like eating.
+"What's his name?"
 
-What he did in it was not complicated. He sat, and he held the thread of warmth, and he let it walk. Down his right side, up his left, over his heart, back to where it started. One round. Then another. The circles had begun as a single path closing on itself; by this winter there were two rounds running, the second inside the first, close and quiet, and in the spring a third arrived behind those, unhurried, like a younger brother who has decided to keep up.
+"Luo Sanpao."
 
-He did not know how to name any of it. Nobody had given him a word for it, and the academy's recitations were about other things — the kinds of souls, the names of ranks, the door at rank ten that every child in the room had heard about since they could walk. What he knew was what he could feel: the warmth was widening, and where it widened, his body answered. His hands did more without being told. His legs went longer without complaint. In the fog he ran, and came home warm; the lane's other children came home with a cough they would carry until spring, and the cough did not come to this house.
+"He's purple."
 
-That was the winter's arithmetic, and he wrote it down in no book at all, because a boy who has been ill for a long time has an instinct for things that must be carried unspoken.
+"He knows."
 
-Each night before he slept he did the last sum of the day, the same one he had done since the chamber. The ceremony had said one, so there were nine ranks between the boy and the door at ten — that was the count he kept, because it was the only number the world had ever handed him.
+She slid off the wall and came over, one slow step at a time. Children approach things that might have opinions about them. The creature watched her as it watched weather. She held out the lollipop — the whole lollipop. From her was not a small offer.
 
-At the end of the first winter, he was down to seven.
+"He doesn't eat sweets," the boy said.
 
-He had no way of knowing if that was true. There was no machine in the house, no teacher had tested him since the chamber, and the number was his own arithmetic on his own warmth. But he kept it as his mother kept her columns, and the keeping was the point.
+She looked at the pig. The pig looked at her.
 
-Seven ranks to go. The nights cooled and went on. The pig slept by the stove with its chin on his shoe, and the boy slept above it, and the sea worked at the harbor wall the way it had when his grandmother was a girl.
+"Then why does he look at me like that?"
 
-## Two
+"Because he's deciding something," the boy said. "It takes him a while. He's thorough."
 
-The second year began with the town talking about the Tang house.
+She nodded as if that were the most reasonable thing anyone had said all day, and sat down on the ground next to the creature, and stayed there. The creature, after its while, put its chin on her shoe.
 
-The girl they had taken in — the silver-haired one, the foundling, the little sister the whole town had a story about — had gone up to the Awakening Chamber in her turn and come down without a single thing to register. Not a weak martial soul. Not a strange one. No martial soul at all.
+The Tang boy watched this from the wall. His eyes went from the pig, to the girl, to the boy holding the pump handle.
 
-The teacher at the list had made her stand in the middle twice. The Spirit Master had read the room twice, as a physician reads a page of notes that must be wrong because the patient is standing there breathing. Then he had written the one word the ceremony had for it, and the word went out the door and spread through Glorybound in two days.
+"Su Yan," he said, which was, in this town. A whole sentence by itself.
 
-The town did not know what to do with a child like that, so it did what towns do. It made her interesting. The girls watched her hair. The boys watched her face, which had gone past pretty like the harbor went past water — you stopped noticing the parts and started noticing the whole. And the story of the foundling that the black-market men had lost grew a new floor, as stories do.
+"Wulin."
 
-At the Su house, the news arrived over the pot.
-
-"No soul at all," Zhou Hui said. "The examiner wrote one word and put his brush down."
-
-"That is not a small thing," Su Heng said. "In the old histories it is a thing that means something. In a small city it means the child goes into the ordinary class and the town forgets by spring."
-
-"It won't forget," said Zhou Hui. "The hair is silver."
-
-Su Yan listened as he listened to the clinic's patients from behind the counter, and put no floor of his own on the story, and went back to the pot. It was not his to think about. He had a pig with opinions about dinner and a column of sums that wanted balancing, and the evening was the evening.
+Then the bell went, and the morning went. That was the whole of it. The wall had one more shape on it after that day. It never had one fewer.
 
 ---
 
-That was the year the class found out about his memory.
+The fog came in the second month. It was the bad kind — the wet, low fog that settled into the lanes and sat there like something waiting to be paid.
 
-It started with the recitations, because everything at the academy started with recitations. The ten kinds of the lower classifications. The three rules of the meditation hour. The names of the ranks and the door every ten of them guarded. The other children carried the lists home and lost pieces of them overnight, as children do, and came back and chewed the same three words until they stuck.
+The lane's children coughed. The clinic filled. Su Heng went out on calls and came back with wet shoulders and wrote things in the front room's book, and the boy ran the counter, and made the packets, and learned to tell the *pay later* cough from the *come now* cough by how the door knocked.
 
-Su Yan read the page twice and said it once.
+On the fourth night his father did not come back by dark.
 
-The room had seen it before. The room had a file for him and the file said one word and a pig, and for a long time the room explained the recitations some other way — the boy got lucky, the list was short, the teacher liked him. Then the teacher put up a list of thirty words for the harvest festival, the whole room groaned, and the physician's boy read it twice and said it once, in order, without hurrying, and sat back down.
+There was a house at the lane's end with a lamp burning. A boy from the school in it, coughing the kind of cough that empties a household's pockets. The medicine had been made and set on the counter in its packet, waiting for a hand that was out on the other side of town.
 
-One of the older boys at the back laughed and said what the room was holding: "The pig boy knows everything. What a waste."
+The boy looked at the packet for a while.
 
-It was not even cruel. It was worse than cruel; it was certain. The room waited for the boy to do what the room's files did when they were touched, which was to look down.
+Then he took it, and the creature, and he went. The fog closed behind them like a door with no hinge. The lane's end was fifteen minutes at his fastest walk, and he did it in ten with the creature at his heel. He stood in the lamplight and held the packet out until someone opened. Then he came home and found out what he had done.
 
-The girl by the window spoke.
+His mother was in the doorway. Her face had gone the color of the fog.
 
-"He taught me," she said.
+Nothing about the next twenty minutes was a story. The town would later make it one — *the physician's boy who walked the packets through the worst fog in ten years and never once got wet-cough* — but what actually happened was a mother's hands, and a sentence she said once, quiet, and did not repeat.
 
-The room turned and looked at her, because the girl by the window almost never spoke, and what she had said did not sound like a joke. "The chart," she said. "In the first year. I had seven and my face closed and he told me to put them in my hands. I got all ten. He taught me. So it's not a waste."
+"Where does it say that you're allowed to be the one who goes?"
 
-She said it flatly, with her chin on her fist, and then she looked out the window again, done. The word *waste* went out of the room without a funeral. The older boy found something else to do.
+Nowhere. He had no answer. He stood in his own doorway, seven years old, and understood for the first time that being needed and being given permission were two different doors, and that he had walked through the wrong one.
 
-Teacher Lin looked up from her page for a moment longer than the moment needed. Then she called the class to the next line.
+His father came home an hour later, and looked at the packet gone, and at his wife's face, and at his son.
 
-Su Yan sat with his hands flat on the table and did not look at the girl by the window, because a boy who tells people things knows exactly what it costs to be spoken for, and he did not want to hand her a bigger bill. But he remembered the sentence the way he remembered everything, and it went into the ledger with the rest.
+In the morning, when the fog was still there and the house was still quiet, Su Heng sat the boy on the stool by the counter and stood over him, and said the thing the boy had been waiting all night for, and said it without any heat in it at all.
 
-At the end of the week he left a small paper twist on her desk, folded square, as packets were folded at the clinic. Inside were three of the dried plum sweets his mother made for the new year. He did not sign it and did not look over when she found it. She did not sign her thanks either. They were even. That was how the town kept its accounts, and it turned out two children could keep them the same way.
+"You did the thing that needed doing. Good. Next time, wake the house first. Being useful is not the same as being invisible. Write that somewhere."
 
----
+The boy wrote it in the back of his practice book that night, in the sums page, above the columns.
 
-The clinic changed in the second year, which was to say the clinic stopped being a place he visited and became a place he worked.
+*Useful is not the same as invisible. Wake the house first.*
 
-He knew the counter now, and the counter knew him. He could find the tinctures' shelf in the dark and knew which two bottles must never stand next to each other. He could grind a dried root the whole way to powder and have his father check it with one glance, then stand there while the glance decided whether to say anything, and mostly it did not. He could take the money for the small things and put the change in the tin before his own, because his father had said once, in the flat voice he used for prices, "The till is not yours. Neither is the money. The habit is yours."
+The fog stayed eleven days. The lane's children coughed; the lanes' parents learned a new way of counting the hours. The clinic's front room ran out of chairs. The school boy at the lane's end lived. His family paid the clinic in dried fish, in small amounts, over two years. The physician's ledger kept the line as it kept all lines, in the flat hand of a man who believed arithmetic and mistrusted predictions.
 
-The patients taught him the town.
+And when the fog lifted, the town put away its winter and added one more sentence to its store: *the physician's boy never fell.*
 
-There was no other school in Glorybound that taught it. Sick people talk to a boy as they talk to a stove: freely, because he is part of the room. He learned which fisherman's wife was expecting, which boat had had a bad season, which two houses had stopped speaking. He learned the three stories of the town as a physician's son learns a diagnosis: as a thing that is moving.
-
-The grass boy, the repairman's son, was at the top of the class and famous in his own way and worked at Mang Tian's forge after school, two hours a day, and his family was feeding him like a war. Everyone knew it. The story had settled into the town's mouth and turned into a kind of weather.
-
-The foundling girl was the second story. Silver hair, no martial soul, a face that had gone past pretty. The girls watched her and the boys watched her and she walked the Tang boy to school in the morning and sat on the wall at every break, close enough to hear his voice and far enough to be forgotten.
-
-The third story was not a person. The third story was the winter before, when the fog had come and the lane's children had coughed and one house in the commoners' district had not.
-
-By the second year, that story had grown its own small tail: the physician's boy who never fell ill.
-
-It was not said cruelly, either.
+It was not even said cruelly. That was the thing. It was said as weather was said.
 
 ---
 
-The small trade began with an apology.
+The pig's trade began with an apology.
 
-The restock man came to the clinic near the end of the winter — a wide, weathered man who smelled of dried everything, and he stood at the counter with his hat in his hands, which in that town was the formal sign that a man had come to say a thing he had rehearsed on the walk over.
+The restock man came to the clinic near the end of the winter — a wide, weathered man who smelled of dried everything, and he stood at the counter with his hat in both hands. In that town was the formal sign that a man had come to say a thing he had rehearsed on the walk over.
 
 "Doctor. The smoke-roots."
 
 "My son found it," Su Heng said. "The pig found it."
 
-"That is the other thing." The man turned his hat. "The boys at the market say it reads. I am not a man who believes the boys at the market. But the boys at the market also say the jar was caught before the burn test, and a man was saved the price of his name next to a bad delivery. So I came to look at the pig and owe the pig."
+"That is the other thing."
 
-The pig, informed that it was being discussed, came in from the outer room as it came everywhere — in its own time, with the gravity of a magistrate — and stood in the light and looked at the man, and the man, without meaning to, looked away first.
+The man turned his hat. "The boys at the market say it reads. I am not a man who believes the boys at the market. But the boys at the market also say the jar was caught before the burn test. A man was saved the price of his name. So I came to look at the pig. And to owe the pig."
 
-"Fine," the restock man said. "Fine. Next week I bring the new roots through the fish row. Let the pig walk past the crates before I settle with the sellers."
+The creature came in from the outer room as it came everywhere — in its own time. The gravity of a magistrate — and stood in the light and looked at the man. The man, without meaning to, looked away first.
 
-"And what does the pig get for his walk?" Su Heng asked.
+"Fine," the restock man said. "Next week I bring the new roots through the fish row. Let the pig walk past the crates before I settle."
 
-"The ends," said the restock man. "What a pig gets anywhere. It's not wages. It's manners."
+"And what does the pig get for his walk?"
 
-So the pig walked past the crates the next week, and stopped at the third one from the end and stood with one ear forward. The restock man opened that crate and found the middle of it gone soft against the sides. He stood over it as men stand over money. Then he set a small sack of dried fish ends on the ground and said, to the pig, "Thank you," and left with a face that was trying to decide how to feel.
+"The ends," the man said. "What a pig gets anywhere. It's not wages. It's manners."
 
-That was how it started.
+So the pig walked past the crates the next week, and stopped at the third one from the end, one ear forward. The man opened that crate and found the middle of it gone soft against the sides. He stood over it as men stand over money. Then he set a small sack of dried fish ends on the ground and said, to the pig, "Thank you," and left with a face that was trying to decide how to feel.
 
-By the summer, the fishwife had a question ready, which she asked him the day he came for the family basket.
+That was how it started. By the end of the winter the fish row knew the shape of the boy and the pig at their evening pace. The fishwife was watching from behind her scale as she watched everything that moved money in her street.
 
-"Does the pig read for money?"
+And the boy, walking home with the socks of dried fish and the creature at his heel, did the thing he was going to have to learn not to do.
 
-"His pot, mostly," Su Yan said.
-
-"Then tell the crate men to bring their crates past the wall in the evening." She weighed the fish and looked at him over the scale with the flat patience of a woman who had watched every kind of trade in that street for thirty years. "You do not put out a sign, and you do not become a thing. You walk your pig. Understand me?"
-
-He understood the whole sentence at once, which was one of the things the town would never make a story out of. She was telling him the difference between a read and a performance. That night he told the pig, who did not need telling, and gave it an extra ladle. The ledger gained a new kind of line then: not money, or not only money, but a row of small chores the creature had been born able to do.
+He began to want the walks.
 
 ---
 
-The year's real lesson came at the fish row, on a market morning in the spring, and it came as a refusal.
+The turn came in the last week of the winter.
 
-A crate man had brought a load of fish ends, and the boy had money in his pocket and the family's need in his head, and the pig would not go near it. Not the alert stance. Not the working nose. It simply stopped two steps short, put its ears back, and sat down in the middle of the street with its face turned away, and stayed there while the crate man laughed and the fishwife watched from her stall with her arms folded.
+A crate man off the harbor road flagged him down at the row — a thin, worried man with five crates of smoked fish and a boat to pay for by the end of the month. He had heard the stories. He wanted one question answered.
 
-Su Yan bought nothing from that crate. He could not have told anyone why. The pig's no was not like its yes — the no had no smell in it that a boy could name, no forward lean of interest, nothing he could write in the ledger as a reason. He simply walked home with an empty hook and got asked about it at the table and answered honestly, "He said no," and his mother looked at him for a moment and did not ask the next question.
+"Is this one sound?"
 
-Two days later the crate man was at the market with a different load and a burned thumb, and the story came out. The first lot had been carried up the coast in the heat and had gone wrong in a way the eye could not see and the nose could — some fisherfolk's quiet plague that ruins a catch but not its look. Two boats' worth of it went into the ground. The crate man put it about the market that the physician's boy had known.
+He put his hand on the middle crate. "I bought the lot off a man I don't know, and I don't like his face in my memory."
 
-"No," Su Yan said, when the fishwife asked him, because the fishwife was the only one in the row he was honest with. "He did not know. He just said no."
+The boy looked at the crate. The crate man. The fee in the man's other hand — two coppers. An evening saved on the wall.
 
-She looked at him over the scale for a long moment, and then she said the sentence that made the whole year, "A read that tells you when not to trust your own money is worth more than the ones that find you food."
+The pig walked the row. It went slowly, past the first crate, past the second. Then it stopped. Two steps short of the third crate it sat down with its ears back and its face turned away.
 
-He carried that sentence home and thought about it at night with the circles turning. It rhymed with a lesson he had paid two coppers for in a previous year, except backwards, and the two lessons together made a door he had not had before.
+The no-shape. The boy knew it. He had seen it twice.
 
-The nose knows smells. The no knows more. The sums are his own.
+A read that tells you when not to trust your own money: that was a sentence the fishwife would say at her scale on another day. What the boy had was smaller than the sentence. What he had was a crate man waiting. A fee in a hand. A pig refusing.
+
+"He says no," the boy said. "That one."
+
+The man's face came apart with relief. He hauled the third crate off the row and sold it off cheap to a fish-cake stand two streets down, at a loss, gladly, spitting like a man who had dodged a snake.
+
+Two days later, three of the other four crates went bad in the man's own storeroom, all at once, from the inside out.
+
+The man came back up the fish row with a face like a dropped plate. He did not shout. That was worse. He stood in front of the boy and the row and said, quietly, "The one I threw away was the good one. Your pig said no to the good one. I listened to it, and it cost me."
+
+The boy's ears rang.
+
+He understood it all at once, standing there: the pig had stood in front of the wrong part of the sentence. The boy had opened his mouth around it and closed it into a fact. The nose knew smells. The no knew more. Neither of them had said *the third crate.* That had been the boy.
+
+He took the man to the clinic. He did not know where else a debt was paid. He brought out his tin — three months of it — and set it on the counter between them. His father, from the doorway of the back room, said nothing at all, which was his way of standing behind the boy.
+
+The crate man looked at the tin for a long moment. Then he took half. He said, "I sell to the fish-cake stand on Tuesdays. The other half is a Tuesday held back."
+
+He shook his head slowly, like a man doing sums he did not like. "Boy. Tell your pig to walk the whole row before you open your mouth again."
+
+He left. The fishwife, who had watched the whole thing from the start to the end without pretending once that she was not, looked at the boy over her scale.
+
+"The nose is honest," she said. "You are the one who reads him. Learn your half of the trade, or the pig's half will get sold for you."
+
+That night the boy did his sums page in the back of the practice book. Under the fog week's line he wrote the winter's last entry.
+
+*The no is not a crate. The no is bigger than that. Do not shrink it to fit my mouth.*
+
+And that was winter one.
+
+In the last arithmetic of the year, by his own count, done on his own warmth in his own head, where nobody had ever put a machine. He had come to seven.
+
+Seven ranks between him and the door.
+
+The house slept. The pig slept by the stove with its chin on his shoe. Nobody in the town had any idea that anything had happened that year except fog. A thin man's bad luck. A physician's boy who had not coughed.
+
+## Two
+
+Winter two. Age eight.
+
+The winter the trade grew up, the fishwife gave the boy its law.
+
+She gave it at her scale, in the flat voice of a woman who had watched every kind of trade in that street for thirty years. She gave it the day he came for the family basket with a crate man's copper already in his pocket.
+
+"Does the pig read for money now?"
+
+"His pot, mostly."
+
+"Then hear me. You do not put out a sign. You do not stand at the corner. You do not become a thing this street talks about. You walk your pig. The crates come to you. The crates come because the work is good. Understand me?"
+
+He understood the whole sentence at once. It was one of the things the town would never make a story out of. She was telling him the difference between a read and a performance.
+
+He told the pig about it that night, walking home. The pig did not need telling. It got an extra ladle anyway.
+
+The rules of the house he got from his father, at the counter, written on the slate and then said out loud so that both ends of the sentence were on the record.
+
+"Reads end at dark. The counter comes first, and the pot comes second. The pig comes third. If you ever make me choose, you will not like which one I choose. And no strangers. Before any read for a man I don't know, I want his name and his business. Then we will talk about it."
+
+"Yes, Father."
+
+"Say the last part back."
+
+"No strangers. You know his name first."
+
+"Good. Now grind these."
+
+In the practice book's sums page, the boy ruled a new column that winter. The old columns were the clinic's. The household's, and his own thin one. The new column had no name at the top for two weeks. Then he wrote, small, because small was how he wrote the things that mattered: *the pig's column.*
+
+The pig's column earned a copper a walk that winter, and sometimes two. The walks arrived as the fishwife had said they would, by their own feet. The crates' owners did the asking.
+
+The pot went to its third stage that winter. The base stayed the same — the grain, the ends, the bowl that was his to fill — and the change was the bones: boiled down to nothing over the whole afternoon, until the water went thick and pale and cost nothing at all. The creature's coat came up under the boy's hand like something brushed, and the boy wrote the change in the sums page under the pot's column, and that was the whole ceremony.
+
+One of them arrived with a rope-handed old dockman, who stopped the boy one evening at the wall with his hat already in his hands, which was the town's way of showing a man had rehearsed.
+
+"You and the pig. Can you walk the near pier on an evening a boat comes in that I don't trust the manifest of?"
+
+The boy asked his father first, which the dockman liked, and got the name and the business. The read took an hour and ended with a boat that had written flour on its papers and carried salt in its aft hold. Mattered to the dockman because the dockman had money in the load.
+
+The dockman paid the boy in nothing. He paid him in a sentence, said at the clinic's door with his hat on.
+
+"Your pig has better manners than most men I owe money to."
+
+"That's not wages," the boy said. He had learned where wages came from.
+
+"No," the dockman said. "It's better. Wages forget. Manners keep."
 
 ---
 
-That was also the year the town's picture of him grew up.
+The trouble came in the spring. It had a name in the row. The name was the Hand.
 
-For two years the purple pig and the physician's boy on the breakwater at dusk had been a joke with a soft floor to it, the kind of joke nobody defended because nobody needed to. In the second year the floor changed. The older boys at the academy stopped making jokes about it, which is a different thing from stopping. And one dockman — a rope-handed old man with a bad hip who had watched the boy run the wall in every weather since the sickness stopped — asked him, in the spring, whether he and the pig could walk the near pier on an evening a boat came in that he did not trust the manifest of.
+The Hand was an old crate reader — forty years in the trade, hands like knotted rope, ears that could hear a crate's wood when he knocked it. He read for the crate men the honest old way: knuckles on the planks, nose at the seams. A palm flat on the lid to feel the weight sitting wrong. He had kept men out of bad loads for two decades. He was, in the row's arithmetic, a column.
 
-The boy said yes. He asked his father first, which the dockman liked, and the read took an hour, and the boat turned out to be carrying salt in the aft hold instead of the flour that had been written down, which mattered to the man because the man had money in the load.
+The boy and his pig were, in the same arithmetic, a rumor.
 
-The dockman paid him in nothing. He paid the boy in a sentence, which he said at the door to the clinic with his hat on, "Your pig has better manners than most men I owe money to."
+That was the season the crate men split. Half of them still came to the boy. Half went back to the Hand, and said so loudly, and the row listened as rows listen: with everything.
 
-Three years old, the joke. It had grown up into a habit now, and habits are heavier.
+And then a settlement went wrong twice in one week — a boat from the south with crates that weighed right and knocked right — and the crate men did what trades do when they cannot agree. They made a test of it.
+
+They put one crate on the stones in front of the whole row, at dusk, with the Hand on one side and the boy and the pig on the other. Money on the table between them, not as a bet but as an escrow: whichever of the two readers was wrong that evening would lose the row's custom for a season.
+
+The Hand went first. Forty years goes first.
+
+*Knock. Knock. Ear to the seam. Palm flat on the lid.*
+
+"Sound," he said. "Good wood, good salt, good seam. I'd buy it myself and sleep on it."
+
+The row looked at the boy.
+
+The boy looked at the pig. The pig had walked the crate twice while the Hand worked. Now it sat down two steps short of it with its ears back and its face turned away.
+
+The no-shape.
+
+The boy heard himself breathe. He thought of a tin, and a Tuesday. A man's quiet words at the fish row. He thought of his father's slate. The seven days' totalling. The sums page with its new column. He thought about the fee. Then he did the thing he had taught himself in the fog: he wrote the sentence first, in his head, before his mouth could spend it.
+
+*The no is not a crate. The no is bigger.*
+
+"He says no," he said. "I can't tell you which part. He says the load."
+
+There was a silence with money in it.
+
+"Boy," the Hand said, not unkindly, "the load is one crate. Look at it. It's the last crate of the boat."
+
+"He says the load," the boy said again. "I'm sorry. That's all he says. I don't read past him. That's the trade."
+
+The crate men argued. The fishwife watched with her arms folded and said nothing, which was louder than the arguing. In the end the escrow stood, the crate was set aside with chalk on it. The row went home, and the boy went home with his heart going like a bird in a hand.
+
+Three days later the chalk crate was opened.
+
+The salt was good on the outside, and the wood was good, and the seam was good. Under the good everything, from the middle out, the fish had turned. The Hand had read the crate's clothes. The pig had read the crate.
+
+The crate men paid the boy the escrow. The fishwife looked at the boy over the scale and said the sentence that made the season.
+
+"A read that tells you when not to trust your own money is worth more than the ones that find you food."
+
+Then she raised his rate, without being asked, and told him why, flatly, so that the whole row heard it.
+
+"Half of them think you're lucky. Lucky is a thing that runs out. A street that is waiting for you to run out will squeeze you a copper at a time. A man's rate for a man's work. Now they can't say luck has a price. Luck is free. You are not."
 
 ---
 
-The boy grew too, in the plain ways that do not need a machine.
+The cost of that spring was not paid in coppers.
 
-The runs went out further: the wall twice, and then three times on the days the tide was low, and the creature coming behind him at its own speed, which had stopped being slow because it had learned to leave early. The hands did more at the counter and more at the stove, and the sums page in the back of the practice book filled and was totalled every seventh day and never once fudged, because his mother would know, and worse, he would.
+It came in small coins, all season, out of the town's pockets.
 
-The warmth kept widening, the rounds going wider behind each other like rings in water from a stone nobody threw. Two circles, then three, then a third that walked so quietly he only found it by counting one evening and coming out one high. He stopped being able to find the top of his own practice hour; the stove's heat would come up through the floor and find him still sitting.
+The Hand did not leave the row. He was forty years in the trade. Four decades do not move for a boy and a pig. But his custom halved, and his season was ruined, and he was old enough that everybody knew what a ruined season was worth to a man his age. He said his pieces about it where the crate men could hear.
 
-And the count came down. Seven at the end of the first winter. Four when the second winter closed, by his own arithmetic on his own warmth, in his own head, where the world had never put a machine.
+"A pig that reads," he said. "There's a trick under it somewhere. Find it, and the boy's nothing. One day this town will find it."
 
-Three winters stood between the boy and the sick years now, and only one of them had been cold.
+Most of the row shrugged. Some of it did not. That was the coin: the shrugs and the not-shrugs.
+
+A mother at the market pulled her daughter around the pig one evening, quickly, by the sleeve. You pull a child past a dog that has not done anything. The girl looked back over her shoulder at the boy the whole way down the row. It was not fear in her face. It was arithmetic. Every child in that town had learned the winter's sentence by then — *the physician's boy never fell* — and the sentence had grown a shadow in the spring. The shadow was: *and his pig reads what a man cannot.*
+
+Nothing about it was said cruelly, either. It was said as weather is said.
+
+At school, the room's file on him moved a line for the first time since the brass plate. Wan Yunchao tried a new version, testing it on a Tuesday.
+
+"Hey. Everyone says your pig's got a demon in it. Two coppers to look?"
+
+Su Yan considered the question with the seriousness he gave all questions.
+
+"He doesn't do looks," he said. "He does work. It's in the column."
+
+The desk behind Wan Yunchao laughed at *him* again, which was becoming a habit, and Wan Yunchao, who was not a bad boy, only a loud one, grinned despite himself and said, "Well. Keep your column, pig boy," and that was that.
+
+Teacher Lin, standing at the board with her back to the room, had heard all of it. She did not turn around.
+
+At home, the boy asked his father the question that had been sitting in him since the market mother pulled her daughter past.
+
+"Should I stop? The walks. Because of as they look at it now."
+
+Su Heng was grinding bark and did not stop grinding. "Do you want to stop?"
+
+"No. It's the column."
+
+"Then here is the law of this house, and I will say it once."
+
+He poured the powder out and set the mortar down. "They are starting to tell the pig's fortune. That is not the trade we agreed. You walk crates. You do not sell wonder. The day you sell wonder, the town is right about you, and wonder runs out. Do you understand the difference?"
+
+"Reads are work," the boy said.
+
+"Reads are work. And you are a son in this house. A son does his work. A thing does tricks. Are you a thing?"
+
+"No, Father."
+
+"Grind these."
+
+That night the boy lay in the dark and did the last sum of the day, and the sum had a new shape in it, because the season had put it there: the column was growing. The shadow on the column was growing with it. Both were his now. He could keep both, if he could keep them apart.
+
+He kept them apart in his head as he kept tinctures apart on the shelf: which two things must never stand next to each other.
+
+*The work is the work. The wonder is not mine to sell.*
+
+---
+
+The market was where it went wrong, which is to say: the market was where it went right, one afternoon in the last week of spring, when the fishwife had the Tang house's basket on her scale.
+
+The girl was carrying the basket that day. The lollipop was there. The town could not remember her without it. Neither could the town try — and she was counting the fishwife's change back with a diligence that made the fishwife's mouth do something it rarely did.
+
+The creature came around the corner at its own pace and arrived at the girl before the boy did. It had, at some point that nobody could date, put her on its list. The list was short. The list had the boy, and the house. The wall the girl sat on, and one shoe.
+
+She took a dried fish end out of the sack he had brought and held it out to it, doing it wrong — flat hand, high, like feeding a bird — and the pig corrected her as it corrected everyone. It simply waited until she did it right.
+
+"He keeps the ends," the boy said. "It's his wage. He walks for the ends."
+
+"Does he know I live here now?"
+
+"He knows."
+
+"He can't know. He's a pig."
+
+"He's thorough," the boy said, which was as far as he had ever gone with anyone who was not his own house. He was a little surprised to hear his own sentence. Then her face cleared, as faces do when a thing lands.
+
+"Big brother says you have the pig that reads," she said. "I told him: everyone knows that. Everyone in the whole school knows that."
+
+"Does everyone in the whole school know something else?"
+
+She looked at him with her head tilted, the lollipop handle making a small circle in the air.
+
+"Then the whole school doesn't know the list," she said.
+
+"What list?"
+
+"His."
+
+She pointed the lollipop at the pig. "I'm on it. I asked him the right way. That's the whole joke."
+
+The boy looked at the pig. The pig looked at the fish. Two of the three of them understood. It was not the two the row would have picked.
+
+Which was, on the walk home in the dark with the pig at his heel, the first time anyone had tried a joke on him. It had been a good one.
+
+That was the spring the trade and the shadow came in together, one at each hand. The boy carried both home and put them in the sums page, one column each, where they could not touch.
+
+And in the last arithmetic of the year, at night, on his own warmth, in his own head, three circles turning now. The third one quieter than the other two. He had come to four.
+
+Four ranks between him and the door.
+
+The stove ticked as it cooled, the small patient clock of the week. The house slept. Out over the water the moon went on laying its light down. It did not care who was counting.
 
 ## Three
 
-The third year, the town talked about a door.
+The last year. Age nine.
 
-Every child in the martial soul class had heard about the door since they could walk, because it was the door every ten ranks, the one that needed a ring to open, and a ring in this era did not come off a beast. It came off a shelf. The beasts were gone — not all of them, not the ones in the far forests that nobody in Glorybound would ever see — but gone enough that the old trade of hunting a ring in the hills had turned into something men told stories about. What a child did now, at the door, was buy.
+The last year, the town talked about a door.
 
-That was the arithmetic the class carried into its last year, and the arithmetic had names in it.
+Every child in the martial soul class had heard about the door since they could walk, because it was the door every ten ranks. A ring opened it, and a ring in this era did not come off a beast. It came off a shelf. The beasts were gone — not all of them, not the ones in the far forests that nobody in Glorybound would ever see — but gone enough that the old trade of hunting a ring in the hills had shrunk into something men told stories about. At the door, a child bought.
 
-Wulin's name was not at the top of it. The class had a dozen children and six of them had already reached rank ten, which meant six of them were standing at the door with their hands in their family's pockets. Zhou Shao Long was one of the six, and the talk in the room that autumn was that Zhou Shao Long's family had already found the money, and that a spirit soul would be bought before the frost.
+That was the arithmetic the class carried into its final year. The arithmetic had names in it.
 
-The fat boy, Wan Yunchao, did the room's talking for it, because that was his one office.
+Six of the dozen children had already reached rank ten. Six of them stood at the door with their hands in their family's pockets. Zhou Shao Long was one of the six. The autumn talk in the room was that his family had already found the money and that a spirit soul would be bought before the frost.
 
-"Wulin." He twisted his bulk around in the desk and pitched his voice at the one volume that meant *everyone may listen.* "I heard that Zhou Shao Long broke through rank ten, and he's buying a spirit soul tonight. How about you? Didn't you tell me you were already at rank nine? We're about to graduate, you know. If you're not rank ten when we go, there's no recommendation letter, and without the letter, it's tests. Tests!" He said the word as the town said *funeral.* "Do you know how hard it is to get into an intermediate academy without the letter?"
+Wan Yunchao did the room's talking for it. That was his one office.
+
+"Wulin."
+
+He twisted his bulk around in the desk and pitched his voice at the one volume that meant *everyone may listen.* "I heard Zhou Shao Long broke through rank ten. He's buying a spirit soul tonight. How about you? Didn't you tell me you were already at rank nine? We're about to graduate. If you're not rank ten when we go, there's no recommendation letter. Without the letter, it's tests. *Tests.*" He said the word as the town said *funeral.*
 
 "I should be nearly there," Wulin said. "I think I've hit the bottleneck."
 
 "You *think.*"
 
-"You can slowly dream on," Wulin said, and put his schoolbag over his shoulder, and the room laughed, and Wan Yunchao laughed loudest of all, because being the room's mouth was the one job he had never had to fight anyone for.
+"You can slowly dream on," Wulin said, and put his schoolbag over his shoulder, and the room laughed. Wan Yunchao laughed loudest of all. Being the room's mouth was the one job he had never had to fight anyone for.
 
-Su Yan sat four rows back and heard all of it and wrote none of it down anywhere, because it was not his.
+The boy four rows back heard all of it and wrote none of it down anywhere. It was not his.
 
-The room had a file for him too, of course. It was four years old now, in the room's arithmetic, and it had not been opened since the first day: Su Yan, the pig, one. The room did not say it out loud often — the girl by the window had spent that coin two years ago — but a file does not need to be said to be used. Boys who want to pick the bottom of a line reach for the bottom of a line. Su Yan had learned to be the bottom of a line as he had learned to be a jar on a shelf: by not being the thing worth reaching for.
+There was a change in the Tang boy that year, everybody could see it. He had gone from small to not-small as grass goes up in a wet summer — a head taller than he had been. The handsomeness arriving on him early, the popularity arriving with it as it arrives for children who are strong and do not use it. He was popular as the sun is popular. Nobody had to decide anything.
 
-Wan Yunchao reached anyway, because Wan Yunchao reached for everything, and because he was, under the fat and the mouth, not a bad boy, only a loud one.
+He still wore the oil-soaked work clothes. That never changed. Three years of the forge had gone into his shoulders, his grip, and his stance. The town had stopped reading the clothes as poverty and started reading them as *that boy who works.*
 
-"Hey. Pig boy. Two hours a day on the wall, three hundred days a year, and you'll still be here next spring, huh."
+And the whole school had long since stopped being surprised by the two of them at the gates: the grass boy and the silver-haired girl. The lollipop and the schoolbag, morning and evening, every single day.
 
-Su Yan considered the question with the seriousness he gave all questions, including this one.
+"Na'er, slow down, you're going to trip."
 
-"Maybe," he said. "But the pig walks back."
+"I won't."
 
-The fat boy opened his mouth for the next thing and found the next thing was not there, and the desk behind him laughed at *him* for the first time in three years, and he turned around red-faced and loud, and the moment closed over itself.
+"You almost did."
 
-Teacher Lin called the room to order and began the hour.
+"I almost did *before,*" she said. Settled it in her mind. The two of them went through the gate. Behind them the school went on with its day.
+
+Her story had settled into the school the same way. In the year of the Awakenings, when every child in her class put a hand on the crystal and walked out with something — a soul. A spark, a tool, a blade of grass — the Tang house's silver-haired girl had walked out with nothing at all.
+
+No martial soul. Nothing. In a town where the same ceremony gave everyone something, even if the something was small.
+
+The examining master had looked twice. Then three times. The class had gone quiet in the particular way children go quiet when the adults have stopped talking. And then the ordinary section had taken her, and the school had put the little one-sentence wonder of it away in its file. The years had done what years do: they made the wonder ordinary, and kept the girl.
+
+She got pretty, too. That came a year later, all at once. It comes — the face that had been a face now something a room turned to look at. The town being the town, the pretty cost her: the jealous ones. The ones who thought a foundling with no martial soul and no family name had a debt to the room. And one afternoon a group of them found her at the wall before the boys got there.
+
+What happened at the wall happened once. The grass boy came around the corner and did not shout, did not warn, did not count the odds. He went into the group alone and he came out of it with her behind him and his body over hers and more cuts on him than the school's physician would write down. Then he walked her home.
+
+He walked her home every day after that. There were more fights. The town's boys learned the shape of it as boys learn everything on that side of town — one beating at a time. The fear stuck. The fighting stopped. And the town's sentence came out of it and stayed: *since he was eight years old, Tang Wulin had acted like a young man.*
+
+The boy four rows back had watched all of it from the school's arithmetic like everyone else. He had one page on the Tang boy, kept where he kept the rest. The page had one word in it. The word was *heavy.*
 
 ---
 
-She had been watching the class's last year as a farmer watches a field in its last month.
+In the last year, Teacher Lin became interested in Tang Wulin as a farmer becomes interested in a field in its last month.
 
-It was ordinary arithmetic and everyone in the trade knew it: a child who broke through before graduation earned the academy a mark, and the marks were her bread. So she kept the child who was closest to the door closest to her — tested him, timed him, gave him the two hours of her own afternoon a week that cost her the most and paid the academy best.
-
-That was Wulin, and the whole room could read the reason, and Wulin himself was too busy to notice, and none of it was shameful. Teachers are people; the world pays people for fields.
+It was ordinary and everyone in the trade knew it. A child who broke through before graduation earned the academy a mark. The marks were her bread. So she kept the child closest to the door closest to her — tested him, timed him, gave him the two hours of her own afternoon a week that cost her the most and paid the academy best. The room could read the reason. Wulin himself was too busy to notice. None of it was shameful. Teachers are people. The world pays people for fields.
 
 What she had never been able to file was the boy four rows back.
 
-She had taught him the same sentence for three years. Hands. Straight back. Breathe down and in. And every year, four rows back, there was a boy who went down into it like a stone into a well and came up with his hands warm and his face quiet, and every year the rest of the room went down like children and came up like children. She had said one true sentence to him in three years — *keep those hands* — and had then walked on, because a room needs feeding, and there is a kind of child a teacher's arithmetic has no column for.
+She had taught him the same sentence for three years. Hands. Straight back. Breathe down and in. And every year, four rows back, there was a boy who went down into it like a stone into a well and came up with his hands warm and his face quiet. The rest of the room went down like children and came up like children. She had said one true sentence to him in three years — *keep those hands* — and then walked on. A room needs feeding, and there is a kind of child a teacher's arithmetic has no column for.
 
-She noticed that too. She was not a fool. She simply had a hundred and forty children a week, and a bonus, and a part of her that had learned, in fourteen years of this, not to look too long at the children whose column did not exist.
+She noticed that, too. She was not a fool. She simply had a hundred and forty children a week, and a bonus. A part of her that had learned, in fourteen years of this, not to look too long at the children whose column did not exist.
 
-She looked at him longer anyway, that last year, some weeks. He was growing as the physician's boy had always grown since the sickness — plainly, quietly, without any of the winter's marks the town kept a story about. His answers were the same answers he had always given: read twice, said once. His file said one. Something in her, older than the arithmetic, kept the sentence *keep those hands* on the shelf where she kept the things her trade would not let her use.
+In the last autumn she looked anyway.
 
-She did not have a word for what she was watching. There was no word for it in the room's recitations.
+She came back to his row one day during the practice hour and stood over him with her hands folded, and watched him breathe, and said nothing for the length of a whole breath.
 
----
+"Four rows back," she said at last. "Three years."
 
-That winter the forge taught the other boy what a thousand blows could be.
+"Teacher."
 
-Glorybound's trades kept their houses on one lane, and the lane had one forge, and the forge had a sign cut by hand, and inside it, by the third year, everyone knew the shape of the days.
+"You are going to be tested with the class on the new machine," she said. "The academy wants a number on everyone this year. Not the little cuff we lend. The examination cuff. It takes ten minutes and it hurts nobody. I am telling you because I am not going to have you hear about it from the room."
 
-"Wulin's here!" Brother Long called, from the cluttered reception room where the deliveries came. He was in his twenties, six feet of forearms and good humor, and he had been Mang Tian's first disciple long enough to be chief of everything that did not need a master's hand.
-
-"What's today, Brother Long?"
-
-"There's plenty. Go and look." The older man grinned as the boy went by. "Honestly, I'm jealous. You're nine and your heap is bigger than mine. Do you know what I had at nine? A broom."
-
-"I could fetch a broom."
-
-"Get in there."
-
-Mang Tian's workshop had exactly three people in it. The master had taken one disciple in his life and had sworn off the business, and then a boy had stood in this room and hit a lump of iron a thousand times in half an hour, and the workshop had become a place with two disciples and a second chair at the corner of the bench.
-
-Su Yan's path crossed this door in exactly one place, which was the town's talk. The forge made hinges and hoops and hooks, the bands on water barrels, the shoes on the runners of boats, the frames that held the machines that fixed the machines. The whole lane smelled of it and the whole town priced it, and the physician's boy knew the smell from the far end of the street. What happened inside the door stayed inside the door. Some doors are like that. A town can have two boys in it and keep them in two stories and never once mix the pages, and Glorybound kept its pages clean.
-
-Inside, the day's task lay on a bench in a tidy little room that the boy kept cleaner than anyone else in the trade thought a forge should be.
-
-Ten ankle-joints for machine armor. Spherical, each one. A mold could press them out in two moves and a machine could do a hundred before noon. By hand, they were ten small arguments with a ball of metal, and the argument had to be won in the vein-lines, which no mold could read.
-
-He looked over the blueprint once, all of it, which was how he looked over everything now, and put it down and knew the day.
-
-The hammers waited on their rack. They had come to him at the end of his first year: a pair of black-finished hammers the size of the ones he had started with and nothing at all like them. Forty kilograms each, forged by the master's own hands, thousand-refined tungsten — folded and beaten a thousand times until what was left had no argument in it anywhere. An ordinary man could not swing one of them for a minute. In the boy's hands they felt like two good apples.
-
-He had not known, when they were given, what the gift meant. The workshop's law was that a boy pounded iron for three months before he was allowed to touch a task, and that a boy who had been given a master's own set of hammers had stopped being a boy in the trade. He learned the meaning later, from a sentence Mang Tian let fall about something else, as the old man let fall everything.
-
-The furnace opened. The metal blushed and went deep red, and the boy took it out onto the block with the left hammer and turned it with the right, and then the rhythm began, and the rhythm was the whole trade.
-
-*Ding. Ding. Ding.*
-
-Three years ago those two hours a day had been an abyss of suffering. The master had said then that the first thing a smith learned was not how to strike but how to *not* strike — how to take a blow in the shoulders and give it back through the elbow, how to let the iron eat what it needed and keep the rest, how to be a channel instead of a body. The boy had gone home each night with arms that belonged to someone else, and had eaten like a wolf, and had come back the next day, and had not once complained, and three years of that had made him something the workshop stopped noticing, which in that trade was the highest compliment available.
-
-Somewhere in the second hour, the day's work became the other thing.
-
-It could not be summoned. It arrived, when it arrived, like a good dream — and when it did, the boy was not swinging a hammer at a ball of iron anymore. He was listening to a conversation. The hammer went *ding* and the iron answered in a voice the boy could feel in his wrists, and the answer had a shape: here the metal was dense and honest, here it was lazy, here two seams had never properly married and would hold a grudge for the life of the part. He struck where the grudge was. He struck until the answer came back clean, and the clean place spread, and then the piece was not ten arguments anymore but one still thing with a job to do.
-
-The master called it nothing. The master had seen it in his own hands maybe five times in forty years.
-
-The boy had it more often than that, and neither of them ever once said a word about the difference, because the workshop's other law was that a good thing gets used, not discussed.
-
-Two hours. The tenth joint came off the block and went into the box with its nine brothers, and the boy wiped his face with a towel and stood there a moment with his heart going, tired and entirely happy, which was a combination the forge had taught him and no other room in his life had.
-
-"That's this month's wages," Mang Tian said from the doorway. He had come in to watch the last ten minutes without saying so. "Your work is good."
-
-It was a great deal of praise, from him, and the boy received it by going slightly red and cramming the paper bills into his pocket, which made the master's eyebrows go up half a line.
-
-"You're cheerful about money today."
-
-The boy took a breath and said the sentence he had been carrying since the morning.
-
-"Teacher. I've saved up enough to buy a spirit soul."
-
-The room went quiet in the particular way rooms go quiet when a thing has just been said that the room has to price.
-
-Mang Tian looked at him for a moment. He was not a man whose face did much, but there was a thing that happened in it when he was surprised, which was that everything stopped.
-
-"Your martial soul is at rank ten?"
-
-"Nearly. I think this is the door."
-
-"Let me see the joints."
-
-The boy showed him the joints again. The master inspected them, one at a time, as he inspected everything, and set the last one down and stood with his hand flat on the bench.
-
-Then he said, in a voice that had run out of gruff somewhere in the middle: "Good luck."
-
-"And take this week's wage as it stands. You earned it in the first hour."
-
-The boy thanked him and went out into the lane, and the smell of the world came back into his nose — the sea at the end of the street, the fish row, somebody's dinner on a stove. Behind him the workshop's door stayed open, and the master stood at it a while, watching the small figure go.
-
-Mang Tian was a six-star smith. He had made machines that went into battle armor; he had turned down commissions other men would have bragged about for the rest of their lives; he had a name in a city he had never visited. He watched the boy disappear into the market crowd, and thought about the trash soul and the road it would have to climb, and about money, which he understood better than most.
-
-Then he thought the other thing, which he said to nobody, and went inside to bank the furnace.
-
-*That child's hands will be better than mine.*
+The room heard about it from her anyway. Rooms always do.
 
 ---
 
-In the Su house, the third winter was the quiet one.
+The examination day came at the end of the harvest month. The class went in by the alphabet, which put the boy nowhere he could hide.
 
-That was the shape of it, if anyone had asked. Winter one had been watched. Winter two had been noticed. Winter three went by with the boy in it as the stove went by in the kitchen — a thing that worked, that nobody stood over anymore. He ran the wall in fog and rain and came home breathing hard and warm; he took the clinic's counter when his father was out on a call and wrote the day's takings on the slate; he put three ladles into the pot and the creature's coat came up under his hand like something brushed.
+The machine was new that year — the academy's one purchase it could not stop bragging about: a black chair. A cuff for the wrist, a screen the size of two hands. A bell for the levels. The gym teacher ran it. Teacher Lin stood at the window with the great list, which was the plain wooden board that carried the class in a column, each name and its number, and it had carried Su Yan at number one since the first day, four years old and unopened.
 
-By the last month he had counted himself to eight — two ranks to go, by his own arithmetic on his own warmth. The tin by his bed had a weight in it now that made noise when it moved. The sums page had run out of its columns twice and been ruled again, and the family had stopped asking what it was for.
+The class went down the alphabet. Numbers arrived at the screen. Some were what everyone expected. Some were not. The room priced both aloud. That was the room.
 
-One Tuesday in the last month of the school year, Teacher Lin took the class's remaining children through the test one by one.
+Wulin's turn came and his screen went blue and the room said the number before the teacher did, which is how rooms confirm a fact they had already decided: ten.
 
-It happened in the small side room off the training hall, where the academy kept the apparatus. The apparatus was not much to look at — a metal chair with a cuff for the arm, a dial, and a screen that lit the color of what it read. The school used it twice a year for the children who needed a number on their record: once in the first week, to write the year's starting line, and once at the end for the ones with business to do — the ones the offices would be writing about, the ones whose families were going to need papers.
+He was the seventh in the class through the door. Teacher Lin wrote it herself, and the room cheered as it had not cheered for the first six. The first six were arithmetic and this one had been a question. Questions getting their answers is the only thing rooms ever really cheer for.
 
-The children with the letter already didn't need it. Six of them had carried their tens out of that room months ago, one after another, and the room had a ceremony for it that everyone knew: the dial went up, the screen went blue, and the teacher wrote the number on the great list over her arm, and the child walked out a different weight.
+Then the alphabet came down to the fourth row.
 
-What was left, in the last month, was the rest of the class, and the rest of the class went through with the special hush children keep for hospital rooms.
+Su Yan sat in the chair. The cuff went on. The gym teacher turned the dial and the room talked over the first numbers as it had talked over all of them. Then the screen came up.
 
-The first boy in went through and came out with a nine and a look of pure spite at the ceiling, because nine was one short of the only number that mattered. Two others came out with eights. A boy the room had forgotten came out with a four and took it like a sentence.
+Nine.
 
-Then it was Su Yan's turn.
+The room stopped.
 
-He had known the room would get to him. The teacher had read the names off the great list that morning, and the room's attention had run out long before the end, as it always did, because the end of a list is where a room keeps the names it has already finished pricing. He stood up when his name came, and walked to the door, and heard Wan Yunchao say, to nobody, at exactly the volume that is meant to be heard, "I hope the pig gets a certificate."
+It was not a big stop. It was the kind a room makes when a column it has been reading for four years turns out to have been holding a different number underneath. The girl at the window said nothing. She had spent that sentence two years ago. Wan Yunchao said nothing. For once he was doing the arithmetic. And the gym teacher, who had run this machine for a hundred children and knew exactly how rare a late number was, looked at the boy as a man looks at a page he has been turning past for years.
 
-He sat in the chair. The cuff went around his arm. The teacher set the dial and told him to breathe out slowly, and the room's door stayed open where the others were watching, because the teacher had learned a long time ago that children behave better when they can see.
+"Move along," Teacher Lin said. The window, in the voice that meant it.
 
-The screen lit up.
+The boy stood up. His ears rang, and his hands were warm. The room's file on him had, in the space of one blue screen, been torn up and started again.
 
-It lit blue — the same blue as the six who had earned the letter, and before the dial had even settled, before the teacher's pen had moved, the watching children had gone completely quiet in the particular way children go quiet when the world has just done something in front of them that their files forbid.
-
-The teacher read the dial. She wrote the number on the great list. Then she read it again, which is a thing a teacher only does once a career.
-
-"Nine," she said.
-
-Nobody in the doorway moved. In the room's arithmetic it was a number that did not exist: the pig's boy, the four words, the bottom of every line, the file that nobody had opened since the first day. Nine was the number of the cousin. Nine was one short of the letter. Nine was the number of children whose families had money and hammers and older brothers who had gone before them, and the number belonged to a boy whose whole school career had been priced at one.
-
-Wan Yunchao's mouth was open. The girl by the window, who read rooms better than she read lists, looked at Su Yan with an expression that had something in it that was not surprise at all, because she had been watching him for two years with her chin on her fist, and had done her own arithmetic, and had never once said so.
-
-Su Yan sat in the chair with the cuff on his arm and did the only thing his head offered him, which was a sum.
-
-He had counted himself to eight, somewhere in the last few weeks, on his own warmth, in his own head, at night, as he had counted every rank since the chamber. The machine said nine. In three years no one in the world had ever checked one of his sums, and the first check had come back one rank past his own bookkeeping. He understood, standing up, that he had been getting something right all along and hadn't been sure. Being sure and being right were going to be two different rooms for him for the rest of his life.
-
-"Yes, Teacher," he said, because she was waiting for something.
-
-"You may go," she said, and then, in a voice the room had never heard her use about that particular chair, "Wait. Wait outside for me."
+Teacher Lin's pen did not move for a long moment. Then she wrote the *nine* on the great list with the rest, and put the cap back on the pen, and looked at the column she had been reading for three years.
 
 ---
 
-She kept him waiting half an hour and made him hold her bag, which was her way.
+She kept him waiting half an hour after school and made him hold her bag, which was her manner.
 
-Then she walked him to the school's gate herself — a thing she did for no one — and stood there looking down the lane at the fish row, where the boy's evening was already waiting for him in some form: a list from his mother, a pot at home, a pig with a nose.
+Then she walked him to the school's gate herself — a thing she did for no one — and stood there looking down the lane at the fish row, where the boy's evening was already waiting for him in some form: a list from his mother. A pot at home, a pig with a nose.
 
 "Nine," she said.
 
@@ -416,95 +524,173 @@ Then she walked him to the school's gate herself — a thing she did for no one 
 
 "And your hands have been right since the third week."
 
-He had no answer for that, because it was not a question.
+He had no answer for that. It was not a question.
 
-She looked at the lane for a while longer. It was not a kind face, Teacher Lin's — a teacher's face gets worn into the shape of the room it manages — but it was not unkind either, and at the gate, that evening, it was doing something that it did very rarely, which was thinking past the list on her arm.
-
-"I am going to put your name down," she said, "for the intermediate tests in the spring. You will need a number on your record that isn't four years old, and you will need it written by someone who has seen you, and there is an office that keeps that kind of paper."
+"I am going to put your name down for the intermediate tests in the spring," she said. "You will need a number on your record that isn't four years old, and you will need it written by someone who has seen you. There is an office by the market that keeps that kind of paper. I will write the letter tonight."
 
 "Thank you, Teacher."
 
-"Don't thank me yet. The tests cost money, and the academy will not pay them, and there is a thing called the recommendations list that you are one rank short of." She said all of it flatly, as teachers say the prices of the world, and then she said the last part, which was not flat at all. "I have looked at your chair for three years and said one useful sentence to you, and I am not going to spend this evening telling you why. I am late. That is mine to carry. Write it down somewhere, if you keep such a book. When you are a teacher, look up earlier."
+"Don't thank me yet."
+
+She said it flatly, as teachers say prices. "The tests cost money, and the academy will not pay them, and there is a thing called the recommendations list that you are one rank short of."
+
+He nodded. One rank. The count, said by someone else for once, in the daylight, on the street.
+
+She looked down the lane a while longer. It was not a kind face, Teacher Lin's — a teacher's face gets worn into the shape of the room it manages — but at the gate that evening it was doing something it did very rarely: thinking past the list on her arm.
+
+"I have looked at your chair for three years," she said, "and said one useful sentence to you. I am not going to spend this evening telling you why. I am late. That is mine to carry. Write it down somewhere, if you keep such a book. When you are a teacher, look up earlier."
 
 She turned and went back up the path.
 
-He watched her go, and then he went home by way of the market because the list said fish, and it was on the walk — between the school gate and the fishwife's scale — that he understood the other half of the day, the half the room had not been able to price.
+He watched her go, and then he went home by way of the market, because the list said fish. It was on the walk — between the school gate and the fishwife's scale — that he understood the other half of the day. The half the room had not been able to price.
 
-He had been *noticed.* Not by the machine. The machine was furniture, and furniture can be beaten by anyone with a stronger arm and a better soul and three more years of a teacher's afternoon. The machine had only told the room a number. What had happened at the gate was different, and it had happened to him for the first time in his life outside his own house: a person who had watched him for three years had decided he was worth a piece of paper and a walk to the gate and an evening of her own conscience, and had said so.
+He had been *noticed.* Not by the machine. The machine was furniture; furniture can be beaten by anyone with a stronger arm and a better soul and three more years of a teacher's afternoon. The machine had only told the room a number. What had happened at the gate was different. It had happened to him for the first time in his life outside his own house: a person who had watched him for three years had decided he was worth a piece of paper and a walk to the gate and an evening of her own conscience, and had said so.
 
-He did not have a word for the feeling, and the fish did not care about it, and the fishwife looked at his face over her scale and said, "Nine, is it."
+He did not have a word for the feeling, and the fish did not care about it. The fishwife looked at his face over her scale and said, "Nine, is it."
 
-It was not a question. By the time he reached the fish row the number had gone ahead of him, as numbers do in a town, and the fishwife was the one who understood exactly what she was looking at. She had watched him and the pig for two years, and since the spring she had bought her own crates on his nose.
+It was not a question. By the time he reached the fish row the number had gone ahead of him. Numbers do in a town. The fishwife was the one who understood exactly what she was looking at. She had watched him and the pig for two years. Since the spring she had bought her own crates on his nose.
 
 "The whole lane will know by supper," she said.
 
 "Not the whole lane."
 
-"The whole lane." She weighed his fish and did not charge him for the ends. "Let it. A number like that, and the town has to move a boy from one story to another. You will not enjoy the moving. Boys never do. But you have been at the bottom of the market's arithmetic for four years, and the bottom is not where you live." She tied the parcel. "Eat."
+"The whole lane."
 
----
+She weighed his fish and did not charge him for the ends. "Let it. A number like that, and the town has to move a boy from one story to another. You will not enjoy the moving. Boys never do. But you have been at the bottom of the market's arithmetic for four years. The bottom is not where you live."
+
+She tied the parcel. "Eat."
 
 That evening, his father did something he had never done.
 
-He came home from the clinic, and did not wash, and did not eat, and did not ask about the fish. He took the boy into the front room where the good chair was and the lamp was, and sat him down, and took his hands, and turned them over, and did the whole examination.
+He came home from the clinic. He did not wash. He did not eat. He did not ask about the fish. He took the boy into the front room where the good chair was and the lamp was, and sat him down. He took his hands, and turned them over, and did the whole examination.
 
-The back of the hand to the neck, the back of the hand to the chest. The palms — the palms lie, the back of the hand never lies. The pulse under the fingers, two fingers, not the thumb. The ribs, the spine, the long bones of the arms, the breath in and out through a chest that had spent six years being a war.
+The back of the hand to the neck. The back of the hand to the chest. The palms — the palms lie, the back of the hand never lies. The pulse under two fingers, not the thumb. The ribs, the spine, the long bones of the arms. The breath going in and out of a chest that had spent six years being a war.
 
-Then he sat back in the other chair, and Su Heng did a thing that the boy had only seen him do once before, which was to look at his own son without any bedside in his face at all.
+Then he sat back in the other chair, and Su Heng did a thing the boy had seen him do once before: he looked at his own son with no bedside in his face at all. Just the eyes of the man who had carried him up the lane, who had kept the count, and never once said the number out loud.
 
-"Teacher Lin sent a runner to the clinic," he said. "She wanted me to hear it from her before the lane got there, which was kind of her, and I have come from her feeling two things at once, and I am going to say both of them before I ask you anything."
+"Nine," he said. "On a machine. In front of the room."
 
-"Nine is not a number this family was promised. I will say the first thing first: I am proud of you in a way that I do not have a scale for. I have watched you practice for two hours a night for three years and I have told your mother, more than once, that it is a boy's play, and I have known both times that I was lying."
+"Yes."
 
-The boy's hands stayed still. In this house, care was shown and never announced, and here was the announcement, and both of them knew what it was: the last wall coming down.
+"Then you beat my arithmetic, which said five, and your mother's, which said six, and the town's, which said never."
 
-"The second thing is a question. I am the city's physician, and I have examined every child on this lane, and my own son is the one record I have never written down. You fell ill before you could speak, and you rose out of it the spring before your awakening. I have told a hundred families the sentence about the books that say some children grow out of it. There is no page in any of my books that says *into what.* So."
+He looked at his own hands a while. "I am going to ask you the question I have not asked you. Does it ever hurt?"
 
-He looked at the boy across the lamplight.
+The boy thought about it. In this house, care was shown and never announced. Here was the announcement. Both of them knew what it was: the last wall coming down.
 
-"Does it ever hurt? Any of it. The sickness, the hole it left, the thing you do at night. Anywhere. Ever."
+"Sometimes. In the cold. It is smaller every year."
 
-The boy thought about the question as he thought about all questions, with everything.
+He held his hands still. The hands wanted to do something and he had taught them not to. "I can carry more than the year before. Every year."
 
-"No," he said.
+"Good."
 
-"Do you know why it doesn't?"
+His father nodded slowly. Then said the rest of it. He had clearly rehearsed on the walk home. Which came out anyway like something breaking quietly. "I have lied to your mother, which she knows, and to the lane, which it doesn't, and to the boy a little, which was the worst of it. Three years I have told myself it was the spring that fixed you. It was not the spring. It was you."
 
-"No."
-
-His father sat back with an expression that was, unexpectedly, closer to peace than worry. "Then we are two of us," he said. "Now. Make me one promise and I will make you one."
-
-"Yes, father."
-
-"You feel anything change in your body that you do not understand — anything at all — you come to me the same night. Not the next morning. Not when it is convenient. The same night. I do not promise to have an answer. I promise to write the page."
-
-"Then I promise."
-
-"Good." Su Heng got up and went to the shelf. He took down the big clinic book of the year — the one that lived in the clinic and never came home — and set it on the table. He opened it to a fresh page near the back where the loose things went, and wrote two words at the top, which the boy could read upside down, because the whole lane could read the physician's hand.
+He stood up, and went to the shelf, and took down the book — the practice's second ledger, the one the clinic used for the month's accounts — and opened it to a clean page, and wrote one line at the top with the flat steadiness of a man signing a delivery.
 
 *The boy.*
 
-Then he looked at the doorway, where the pig had been standing for the last ten minutes with the tact of something that had decided the room's business did not concern it.
+"I am going to write the page," he said. "The whole of it. From the beginning — every winter, every hour, every dose we guessed at and every one we got right. What the machine said. What the town says. You will not read it until I say it is done. That is the promise. I do not make the other kind."
 
-"Three years of my stores have gone into that bowl," he said. "I told myself the leaves were for the taste. I am a physician, and my son is nine, and a physician who lies to his own book is a page away from lying to his patients. Put the creature down in the month's book, under the compounding costs, written plain. If anyone reads the book for the season's sum, let them read it."
+The boy looked at the page for a long time. It was one line. It was the biggest thing in the house.
 
-"And what do I write him down as?" his wife asked from the stove, where she had been, as ever, in the room without being in it.
+"Does Mother know?"
 
-"A patient," Su Heng said. "The only patient of mine who has never once paid, and the only one whose fees I have ever resented, because I have never been able to find out what he has."
+"Your mother has known since the fog," his father said. "She is the one who told me to write it. She said, and I quote: *Somebody in this house has to be keeping the real number.*"
 
-Zhou Hui tasted the pot one last time and put the spoon down.
+Which was, the boy would understand later, exactly true, and exactly like her, and also the kindest lie his father had ever told. The real number had been kept in her head for six years. She had never once made him carry it.
 
-"Then we are finished pretending it was the spring," she said.
+---
 
-Her husband, whose own books had been checked against the world for thirty years, did not pretend otherwise. He closed the big book with the two words in it and stood by the shelf with his hand flat on the cover.
+The office by the market kept the town's paper as the clinic kept its tinctures: in order, in the dark, exactly.
 
-"Not in writing for anyone else," he said. "In here, we are finished."
+Teacher Lin gave him the letter the next morning in a sealed envelope, and gave it to him as she gave everything: with a warning attached.
+
+"The office is on your way home. You do not open it, you do not fold it, you do not put it inside your schoolbag where the practice book will press on it. You hand it to the clerk with both hands and you wait while it is entered. Then you come and tell me it was entered. Do you understand?"
+
+"Yes, Teacher."
+
+"Why do you wait while it is entered?"
+
+"Because a letter that goes into a desk is not entered," the boy said, "and a letter that isn't entered doesn't exist."
+
+She looked at him for a moment with the expression of a woman deciding, for the hundredth time, whether the fourth row would ever make sense to her.
+
+"Go," she said.
+
+The office smelled of paste and cold ash. The clerk was a small, exact man who read the letter twice, and looked over it at the boy once — the kind of look a man gives a page when the page and the person do not match — and then wrote in his ledger, and turned the ledger, and had the boy sign his own name under the entry. It was the first time in nine years that Su Yan had signed anything.
+
+*Su Yan. Su Heng's son. The tests, spring.*
+
+The paper went into a folder. The folder went into a drawer. The drawer closed, and the clerk looked at him and said, "Next," which there was nobody for. It was just the clerk's way of saying the sentence was over.
+
+The boy walked home along the row. The fishwife looked up from her scale and looked at him a moment longer than the fish needed, and said nothing, and went back to her fish.
+
+There was a weight in his chest that had nothing to do with the warming hour, and he carried it home with the bread, and did not say anything about it. That night he wrote in the sums page the only line he ever wrote about the day: *It is in the book now.*
+
+---
+
+That winter the forge taught the other boy what a thousand blows could be. The town watched it happen on one lane.
+
+Glorybound's trades kept their houses on one lane. The lane had one forge. The forge had a sign cut by hand. Inside it, by the third year, everyone knew the shape of the days.
+
+"Wulin's here!"
+
+Brother Long called out, from the cluttered reception room where the deliveries came. He was in his twenties, six feet of forearms and good humor. He had been Mang Tian's first disciple long enough to be chief of everything that did not need a master's hand.
+
+"What's today, Brother Long?"
+
+"There's plenty. Go and look."
+
+The older man grinned as the boy went by. "Honestly, I'm jealous. You're nine and your heap is bigger than mine. Do you know what I had at nine? A broom."
+
+"I could fetch a broom."
+
+"Get in there."
+
+The workshop had exactly three people in it. The master had taken one disciple in his life and had sworn off the business, and then a boy had stood in this room and hit a lump of iron a thousand times in half an hour. The workshop had become a place with two disciples and a second chair at the corner of the bench.
+
+Su Yan's path crossed this door in exactly one place, which was the town's talk. The forge made hinges and hoops and hooks, the bands on water barrels. The shoes on the runners of boats. The frames that held the machines that fixed the machines. The whole lane smelled of it and the whole town priced it. What happened inside the door stayed inside the door. A town can have two boys in it and keep them in two stories and never once mix the pages. Glorybound kept its pages clean.
+
+Inside, on that last day of the old year's work, ten ankle-joints waited on a bench in a tidy little room: spherical, each one, meant for machine armor. A mold could press them out in two moves. By hand, they were ten small arguments with a ball of metal. The argument had to be won in the vein-lines. No mold could read.
+
+The hammers waited on their rack. They had come at the end of the first year — forty kilograms each, thousand-refined tungsten, folded and beaten until nothing was left in them that argued. A gift from the master's own hands. An ordinary man could not swing one of them for a minute. In the boy's hands they felt like two good apples.
+
+The furnace opened. The metal went deep red. *Ding. Ding. Ding.* Three years of that rhythm had made the boy something the workshop had stopped noticing. In that trade was the highest compliment available. And somewhere in the second hour, the day's work became the other thing — the state the master called nothing, where the hammer asked and the iron answered. The answer came up through the wrists and had a shape. The boy struck where the shape said *grudge* until the shape said *clean.*
+
+The tenth joint went into the box with its nine brothers.
+
+"That's this month's wages," Mang Tian said from the doorway. He had come in to watch the last ten minutes without saying so. "Your work is good."
+
+It was a great deal of praise, from him. The boy received it by going slightly red and cramming the paper bills into his pocket.
+
+"You're cheerful about money today."
+
+The boy took a breath and said the sentence he had been carrying since morning.
+
+"Teacher. I've saved up enough to buy a spirit soul."
+
+Mang Tian looked at him for a moment. He was not a man whose face did much. There was a thing that happened in it when he was surprised: everything stopped.
+
+"Your martial soul is at rank ten?"
+
+"Nearly. I think this is the door."
+
+"Let me see the joints."
+
+The boy showed him the joints again. The master inspected them, one at a time, as he inspected everything, and set the last one down, and stood with his hand flat on the bench.
+
+Then he said, in a voice that had run out of gruff somewhere in the middle: "Good luck. And take this week's wage as it stands. You earned it in the first hour."
+
+And after the boy had gone, the six-star smith stood in his tidy room for a while with his hand still on the bench and looked at the door the boy had gone out of, and had the thought that men in his trade have about a young one maybe twice in a life. The grass martial soul was a pity. But what had just walked out of his shop could read living metal as other children read a page, and it was nine. It was far beyond his own, at nine.
+
+He put the thought away where smiths keep such thoughts, which is nowhere he ever says. Banked the furnace. The sign creaked on its hinge. The lane went on being the lane.
 
 ---
 
 The money came home on a Thursday, in a boy who could not walk straight for happiness.
 
-They heard him coming down the lane, which was itself a story the neighbors would tell for a month. The repairman's son burst through the door of the small house shouting for his parents, and the shouting was the loudest sound that house had made since the night a girl was carried in from the roadside.
+They heard him coming down the lane, which was itself a story the neighbors would tell for a month. The repairman's son burst through the door shouting for his parents. The shouting was the loudest sound that house had made since the night a girl was carried in from the roadside.
 
 "Mom! Dad! I've earned enough money now! I have enough now!"
 
@@ -514,9 +700,9 @@ The girl was in the living room with a lollipop, which was the standing proof of
 
 "I have all thirty thousand."
 
-He said it as a boy says a number he has added in the dark a thousand times. Then he ran to his room and pulled the iron case out from under the bed and carried it to the table and tipped it out, and the table went silver and bronze and noise.
+He said it as a boy says a number he has added in the dark a thousand times. Then he ran to his room and pulled the iron case out from under the bed and carried it to the table and tipped it out. The table went silver and bronze and noise.
 
-The counting took a long time, because the counting was the ceremony.
+The counting took a long time. The counting was the ceremony.
 
 "One hundred. Two hundred. Two hundred and twenty. Twenty-nine thousand six hundred. Twenty-nine thousand seven hundred. Thirty thousand. Thirty thousand and two hundred."
 
@@ -524,9 +710,9 @@ He looked at the last two hundred coins of it with his face going red.
 
 "There's two hundred extra. Na'er — here. A hundred. Buy something good to eat."
 
-His mother came in from the kitchen with her hands still in her apron, because even from the stove she had heard the cheer. His father came in from the door with his work bag still on his shoulder. Neither of them said anything for a moment. The table had a small mountain on it that a nine-year-old boy had made with his own arms.
+His mother came in from the kitchen with her hands still in her apron. His father came in from the door with his work bag still on his shoulder. Neither of them said anything for a moment. The table had a small mountain on it that a nine-year-old boy had made with his own arms.
 
-The mother turned away first. She stood with her back to the room and put a hand on her husband's shoulder and thumped it once, and did not turn around for a while. A mother is allowed exactly one such minute, and she had been saving hers since a boy first went out of that door in oil-stained clothes, his small hands wrapped around hammers nobody could believe he could lift.
+The mother turned away first. She stood with her back to the room and put a hand on her husband's shoulder and thumped it once, and did not turn around for a while. A mother is allowed exactly one such minute. She had been saving hers since a boy first went out of that door in oil-stained clothes. His small hands wrapped around hammers nobody could believe he could lift.
 
 His father came around the table and put a hand on the boy's shoulder and hugged him from the side, one-armed, as men in that town hugged, and gave him the thumbs-up.
 
@@ -534,103 +720,215 @@ His father came around the table and put a hand on the boy's shoulder and hugged
 
 "Once I've broken through into the tenth rank, I can go buy my spirit soul, right, dad?"
 
-"Once you've broken through, we will test it, and when the test says ten, the whole family goes." He looked at the little mountain on the table, and at the daughter with her lollipop, and at the coin still in his wife's hand. "No — one correction. Half of this family has been counting to this day for three years, and the other half can carry a basket."
+"Once you've broken through, we will test it, and when the test says ten, the whole family goes."
+
+He looked at the little mountain on the table. At the daughter with her lollipop. At the coin still in his wife's hand. "No — one correction. Half of this family has been counting to this day for three years. The other half can carry a basket."
 
 The boy's happiness was, that night, too big to meditate in.
 
-He lay on his mat with the two rounds turning and a third thing bouncing in his chest that would not go down into the well, and after an hour he gave the hour up. The room was dark. The girl was asleep on her side of the divider with her blanket sliding off, as it always slid, and he pulled it straight, which was now one of the small customs of the house.
+He lay on his mat with the rounds turning and a third thing bouncing in his chest that would not go down into the well. After an hour he gave the hour up. The room was dark. The girl was asleep on her side of the divider with her blanket sliding off, as it always slid. He pulled it straight, which was now one of the small customs of the house.
 
 He looked at the ceiling as you look at the top of a page you have finished.
 
-His mother had told him, a month ago, the rule about turning ten: no brother and sister of the same room after ten. He had turned it over for a month and still did not know the floor it stood on, and there was nobody to ask who would not make it into a bigger thing, so the question sat in the dark beside him, being a question. He liked the room he had. He liked waking up in the middle of the night and hearing his sister breathe. He did not know how to say so, and there was no one to say it to, and this was the first thing in his life he had ever been able to call unfair.
+His mother had told him, a month ago. The rule about turning ten: no brother and sister of the same room after ten. He had turned it over for a month and still did not know the floor it stood on. There was nobody to ask who would not make it into a bigger thing. The question sat in the dark beside him, being a question. He liked the room he had. He liked waking in the middle of the night and hearing his sister breathe. He did not know how to say so, and there was no one to say it to. This was the first thing in his life he had ever been able to call unfair.
 
-He got up and went out, quiet, because he could be quiet now; the whole house had taught him stillness for six years and he had, without deciding to, become good at it. He did not wake them. He went out into the cool air because he wanted to walk his happiness down, as you walk a dog.
+He got up and went out, quiet. He could be quiet now. The whole house had taught him stillness for six years. He had, without deciding to, become good at it. He did not wake them. He went out into the cool air because he wanted to walk his happiness down. You walk a dog.
 
-Above the commoners' district the moon was doing the thing, that month, where it looks too clean to be free.
+Above the commoners' district the moon was doing the thing. That month, where it looks too clean to be free.
 
-In the small house he had left, the moonlight came in sideways through the shutter gap and lay down across the room in a long pale bar, and it fell on the girl in her blanket, and on her silver hair, which drank it.
+In the small house he had left, the moonlight came in sideways through the shutter gap and lay down across the room in a long pale bar. It fell on the girl in her blanket. On her silver hair, which drank it.
 
 And the girl, who was asleep and dreaming a dream that was knitting her brows, put out a ring of light.
 
-It came up off the small body slowly, unhurried, like steam off a pot. Yellow first. Then green, then red, then blue, then purple, then gold, then silver, seven colors turning in a ring that stood up out of a sleeping child and cast no shadow anywhere in the room. It twinkled there for a long moment, one color and then the next, like a sentence in a language no one in the house spoke. Her body trembled once. Then the ring drew in and folded, color by color, into the space between her eyes, and was gone, and the moonlight lay where it had lain.
+It came up off the small body slowly, unhurried, like steam off a pot. Yellow first. Then green, then red, then blue, then purple, then gold. Silver, seven colors turning in a ring that stood up out of a sleeping child and cast no shadow anywhere in the room. It twinkled there for a long moment, one color and then the next, like a sentence in a language no one in the house spoke. Her body trembled once. Then the ring drew in and folded, color by color, into the space between her eyes, and was gone. The moonlight lay where it had lain.
 
 You would have said she had grown a little. Not like the growth at the table. Some other way, which had its own calendar and had just turned a page.
 
-She slept on. Her breath went in and out, ordinary as a kettle, and her eyebrows stayed knit over her dream, and nothing else happened in that room until her brother came back and slept.
+She slept on. Her breath went in and out, ordinary as a kettle, and her eyebrows stayed knit over her dream. Nothing else happened in that room until her brother came back and slept.
 
 The boy, out in the cool, had gone to the garden.
 
-It was the commoners' garden, three streets over, a square of trodden green with a well and two benches, where the town's children played on school holidays. He had come to walk off his own happiness and he was doing a poor job of it, and then, at the garden's edge, he felt something pull at him — a line of attention, nothing more, like a smell, except it was not smell.
+It was the commoners' garden, three streets over. A square of trodden green with a well and two benches, where the town's children played on school holidays. He had come to walk off his own happiness and he was doing a poor job of it. Then, at the garden's edge, he felt something pull at him — a line of attention, nothing more, like a smell, except it was not smell.
 
-It was a strand of Bluesilver Grass, gone wild between the well and the wall, gleaming faintly in the low light with the white dew on it, and when the boy came near it, he breathed in.
+It was a strand of Bluesilver Grass, gone wild between the well and the wall, gleaming faintly in the low light with the white dew on it. When the boy came near it, he breathed in.
 
-Sweet. That was the whole of the smell. Sweet like crushed stems, sweet like the white part of a growing thing, sweet in a way that went past the nose and sat down somewhere behind his eyes. The night air was cold and clean and full of the moon, and the boy stood at the edge of the grass with the pull lying on him like a hand on a shoulder, and found that his anger about the rooms had gone quiet, and that his chest had more room in it than it had carried all day.
+Sweet. That was the whole of the smell. Sweet like crushed stems, sweet like the white part of a growing thing, sweet in a way that went past the nose and sat down somewhere behind his eyes. The night air was cold and clean and full of the moon, and the boy stood at the edge of the grass with the pull lying on him like a hand on a shoulder. He found that his anger about the rooms had gone quiet. That his chest had more room in it than it had carried all day.
 
-He had no word for it, and it was not his business, and it was late.
+He had no word for it. It was not his business. It was late.
 
-He sat down on the cold ground by the wild grass, cross-legged, as the school taught, and let the rounds come up. There in the open air the well under his ribs went deeper and quieter than it ever went indoors. He did not think about the rooms or the money or the door at rank ten, and the night went on over him, unhurried and enormous and kind.
+He sat down on the cold ground by the wild grass, cross-legged. The school taught. Let the rounds come up. There in the open air the well under his ribs went deeper and quieter than it ever went indoors. He did not think about the rooms or the money or the door at rank ten. The night went on over him, unhurried and enormous and kind.
 
 Somewhere across the town, in another house, another boy lay awake under the same moon with the same door in front of him and the same number in his pocket.
 
 Two streets apart, two beds, two files, two sums.
 
-And under the floorboards of both houses, the sea kept working at the harbor wall.
+And under the floorboards of both houses. The sea kept working at the harbor wall.
 
 ---
 
-In the morning, the boy in the Tang house was patient enough to wait until he had eaten before he told them.
+The family meeting happened the next evening. His mother was a woman who let a sum sit overnight to make sure it was a sum. Then did it out loud.
 
-It was a small breakfast by his standards, and he ate it fast, and the shine in him was doing all the talking, and his father looked at him over the rice bowl with the corner of his mouth already going up.
+She sat down across from the boy at the table with the household book, and did not waste the evening.
 
-"You are in an awful hurry for a house that is not open yet."
+"Nine," she said.
 
-"Dad. What kind of spirit soul do you think I'll be able to buy?"
+"Yes."
 
-"How would I know?" Tang Ziran set his bowl down. "But whatever it is, it moves you from a soul scholar to a soul master, and the gap between you and ordinary people grows a little wider. That is the whole promise, son. It is enough."
+"Then here is where this family stands, and I will say it once, because we are not a house that says things twice."
 
-The girl watched him pull his father out of the door. Her hair was still silver, her lollipop was gone, and there was a look on her face that a boy of nine had no equipment to read — a small perplexity, the look of someone checking a sum of her own.
+She put her two hands flat on the table, on either side of the open book. She did when the household's books were about to move a row. "The last rank to ten is not the same as the others. The others were arithmetic. The last one is a purchase, and it has a price, and the price is not a thing this house has ever had to say out loud. The day we say it is the day we start paying it. So: when your turn comes, the tin is yours. We are yours. Your father and I have agreed that the day gets counted like any other day. In the daylight. With the door open."
 
-At the academy, the boy went to his teacher and told her his feeling. She took him to the small side room with the chair and the cuff and the dial, and set the dial, and he sat, and the screen came up blue.
+Su Heng, in the doorway. His sleeves rolled, said his half.
 
-Rank ten.
+"There will be a number. It will be larger than the tin. There is not a page in any book of mine that says where it will come from. That is the truth. You can hold it. But a physician's house that has kept a boy alive through six years of the worst thing I have ever watched is not a house that gets frightened by a price list. We will get there as we got here. One row at a time."
 
-She wrote it on the great list herself, and then she told him the whole story of his own future, as teachers do when they are genuinely pleased, in one long breath.
+Then, because he was who he was. He ruined the speech on purpose by adding the practical half.
 
-"Have your family take you to the Spirit Pagoda to buy a spirit soul. Once you've fused with it, you will be a soul master. An official soul master draws a stipend of a thousand Federation coins every month, and that will cover your fees at an intermediate academy and leave you a little for the rest."
+"Also, the pig is on the book now. If the price is bad, we sell the pig."
 
-"I already have the money, Teacher Lin. I've been saving for three years. I'll go tomorrow."
+From the doorway came a snort from the creature in question, which had opinions about jokes at its expense. The table broke and laughed, the good kind of laugh. The kind a house earns.
 
-"Good." She granted the leave of absence on the spot. "Tomorrow, then. And Wulin — you are the seventh in this class through the door. The letter will be written for you, and the academy will be glad, and I want you to remember one thing while everyone is glad. You did the three years, not the door."
+The boy looked at the three of them — the book, the tin's sentence. The joke — and understood the thing that would take him the most years to be able to say: that this was the moment the price had been spoken in the only way this family spoke prices. It had not been said as a number. It had been said as a promise, with the door open.
 
-That evening he went to the workshop and finished his assignments, because they were his, and then he went home, and at home his sister was strange.
+He wrote one line in the sums page that night.
 
-Not sad. Distracted. She ate, and she watched him, and twice he caught her checking the room, and when he asked what she was looking at she said, "Nothing, big brother," and smiled her small smile, and the smile arrived a half breath late both times.
+*The day is counted in daylight.*
 
-He let her have her weather, because there was a day to prepare.
+---
 
-His father had asked for the morning off, and turned down two calls for it, which the lane noticed. His mother had asked too and had been refused, this being the sick season, and she gave her son a look over the packing that said, more clearly than any sentence, *be careful with the family's money and prouder than any sentence could, all the same.*
+The tap was where the last of the three winters' meetings happened, and it happened as most things in that town happened: by an accident that had been waiting a long time to be one.
 
-"Keep an eye on your sister while we're out," she said, which was the closest Lang Yue could come to hugging anyone in an apron, and two houses in that town could have said the same sentence, being women with the same vocabulary.
+The public tap stood on the corner of the Tangs' lane and his own, one spout. A stone basin, a queue in the mornings. On the market day at the end of the month, the queue cleared early. The girl was at it alone with the house's big bucket, doing the thing she did with everything: trying to do a two-person job with two hands and no height.
 
-That night, with the work all done and the house quiet, the boy took the girl to the beach, because she had asked him to, and because he had never once in his life been able to say no to the two sentences she used most: *big brother* and *please.*
+She had the bucket under the spout and one heel braced on the stone. The water was winning.
 
-Glorybound had no city walls, and the commoners' district stood close enough to the sea that you could be at the water inside ten minutes' walk, and the walk was one of the streets the boy knew with his feet.
+"Wait," the boy said, and took the handle.
 
-The beach was not the pretty kind. It was rough, gravelly sand and shells, the sea's leftover table. The town's older people said the roughness was the sea's grudge — that the ocean's beasts had been hunted too hard in the old days, and the shore had never forgotten. It was a story the children got told with supper and never took seriously until the night wind came up.
+The bucket filled. He lifted it — one arm, the half-crate arm, the arm that had been growing since a fog winter — and the water walked with him and did not spill. The girl walked beside him and watched the water the whole way. Children watch a thing they have decided is magic.
+
+At the Tang gate she stopped him and looked up at his face with the flat, careful attention she gave everything. The lollipop stick moving from one side of her mouth to the other.
+
+"You're the pig boy," she said.
+
+"I'm Su Yan."
+
+"Big brother says the pig reads crates. He reads for money now. I heard the fishwife say it."
+
+"He reads," the boy said. "It's work."
+
+"Everyone in the whole school knows that."
+
+She looked at the bucket, and at the door. Then at him, with the expression of a person making a decision about a permanent thing. "If I need water again, is it allowed to be you?"
+
+"Ask your big brother," the boy said, "and then yes."
+
+"Good," she said, and went in with the water, and her heels drummed up the boards, and the boy went to the clinic and was late. He took the scolding standing up, because he had earned it, and because the counter was his to lose and not his to give away.
+
+The week would turn over, before it was out, into the week the town would remember as the week both boys' doors opened: a rank, a test, a road. But that morning it was only a boy carrying a bucket and a girl with a lollipop. Nobody in either house knew the day was worth noticing.
+
+---
+
+The night it happened, the town's older people were out on their benches and the moon was up over the commoners' district. Somewhere in a small house in the sleeping rows. The boy who had counted to thirty thousand and two hundred did not sleep at all.
+
+He lay with the rounds turning, and the rounds would not settle. The well under his ribs was doing something new — pulling at the dark as the garden's grass had pulled, opening down instead of around. It was as if the warmth had found a drain in the floor of him, and everything wanted to go down it and come back changed. He got up, and went out into the small yard, and sat in the cold grass. The house was too small for whatever the night was doing.
+
+What happened in the yard, the house did not see and the town did not know and the story never found out. It would be written, years later, in the only book that wrote things down for him. One line in a father's flat hand. The line would be two words long. The words would be *it came.*
+
+Blue specks came first, small as dust, gathering out of the night air as the merchants' lanterns gather on the harbor road. Where they touched him the skin went warm. Then more, until the air of the yard was full of them, and then they were not in the air anymore but on him and under his skin, boring in like rain into dry ground, and there was an ocean under the ground — that was the only word his mind would give him — an ocean of tiny voices. Many that no single voice could be found in them, and every voice was saying something to him in the language of stems and weather. The fragrance of bluesilver went through him from his head to his feet in one long draught.
+
+The warmth in his dantian unfurled like a thing that had been folded for years, and rose, and the rising had nowhere to stop. And for one breath, faint lines lit on the boy's forehead — gold, in an old pattern he did not know he knew, spreading, holding. Then withdrawing, slow, as a name withdraws from the front of a dream.
+
+Then it was only the yard. Cold grass, a shed, the night, dew.
+
+He sat there until his legs went from cold to nothing and his heart had come back down to the ground. Then he got up, and went in, and slept like something landed. He never told anyone it had happened at night. He said what a boy in that town said: he woke up and knew.
+
+At dawn the call came up the street — his mother's voice, out of her, at a volume nobody had heard her use since a certain night years before, when the shout had been for a physician.
+
+"Lin Lin! Lin Lin!"
+
+He was on the lawn. He had been on the lawn since before the birds, without knowing how he had got there, sitting with his legs under him in the wet grass of the yard.
+
+"I'm here, Mom."
+
+"*Where?*" She was in the doorway, hair loose, and then she was across the yard, and then she was holding his head in both hands. Then, in the manner of mothers who have been frightened once before and never intend to be frightened again. She was angry in the middle of being glad.
+
+"You did not come to the house."
+
+"I'm here, Mom, I'm fine, listen —" and he told her, standing there in the wet grass: "I think I've broken through to the 10th rank."
+
+She held him by the head for a moment longer. Then she pulled him against her, and kissed the top of his head, and said the sentence that was the actual mother's sentence. The one under all the others.
+
+"Your safety is the most important thing."
+
+Then she stepped back and looked at him, all of him, her son standing in a wet yard at dawn having done the thing the town's arithmetic had spent three years declaring impossible. Her face did the thing it did: it kept absolutely still.
+
+His father was in the doorway with his shoes half on. He listened to it all — the breakthrough, the rank, the older boy's certainty — and the joy came up in him so fast that it went the other way, into being a repairman about it.
+
+"Test first," he said. "Then the Pagoda. We do not spend the family's money on a feeling. We test, and when the machine says ten, we go."
+
+"Long live dad!" the boy said, and the whole yard laughed, and that laugh was the sound the house would carry out of those three years. Whenever anything came up after that, about the money, or the door, or the road, somebody at that table would say *test first,* and the table would grin, and know.
+
+The girl came out last, with her blanket still around her shoulders, and stood in the doorway with her hair in her face, and looked at the boy in the wet grass like a person re-doing a sum.
+
+"Big brother," she said, eventually. "You broke through?"
+
+"It looks like it."
+
+She nodded, once, small. Then the smile came — late, as her smiles came that month, a half-beat behind the world — and she turned and went in to help with breakfast. Her blanket dragged down the boards like a small cape. That was the last morning of the old shape of things. Nobody in the house knew it either.
+
+---
+
+At the academy the test took ten minutes and the machine took no side.
+
+The teacher set the dial. The screen came up. The number sat there for the room to see. Ten.
+
+The rule under the number was older than the school: every ten ranks, a ring. And the rings did not come off beasts anymore. The beasts were gone. They came off the Spirit Pagoda's shelves, out of the manufactured souls that were the era's whole economy. The class had recited all of it for years. It was the class's ABC: rank ten. A soul, a ring, a road.
+
+Teacher Lin wrote the number on the great list. Then told the boy what teachers tell a boy when they are genuinely pleased, in one long breath.
+
+"Have your family take you to the Spirit Pagoda to buy a spirit soul. Once you've fused with it, you will be a soul master. An official soul master draws a stipend of a thousand Federation coins every month. That will cover your fees at an intermediate academy and leave you a little over."
+
+He was the seventh in the class through the door. The letter would be written for him. The academy would be glad. She said that too. Then she said the part he would keep.
+
+"You did the three years, not the door."
+
+The room had done its arithmetic around him all morning — the number, the seventh, the letter, the road — and Su Yan, four rows back, had his own five seconds of the day: the teacher with the great list in her hands, writing a *ten* that no longer belonged to anybody's surprise.
+
+Four years ago, on the first day. The brass plate had given him a one. That autumn a machine had given him a nine. She had written it. Now the column she had carried for three years was two names richer. The office by the market had a paper with his name on it. A clerk's ledger. A drawer that opened in the dark.
+
+Files were moving in Glorybound. Nobody could see them yet. That was the whole point of files.
+
+He went to the workshop that evening and finished his assignments, because they were his. Then he went home. At home his sister was strange.
+
+Not sad. Distracted. She ate, and she watched him. Twice he caught her checking the room. When he asked what she was looking at she said, "Nothing, big brother," and smiled her small smile. The smile arrived a half breath late both times.
+
+He let her have her weather. There was a day to prepare.
+
+His father had asked for the morning off, and turned down two calls for it, which the lane noticed. His mother had asked too and had been refused, this being the sick season. She gave her son a look over the packing that said, more clearly than any sentence, *be careful with the family's money,* and prouder than any sentence could, all the same.
+
+"Keep an eye on your sister while we're out," she said, which was as close as Lang Yue ever came to hugging anyone in an apron. Two houses in that town could have said the same sentence, being women with the same vocabulary.
+
+That night, with the work all done and the house quiet, the boy took the girl to the beach, because she had asked him to. Because he had never once in his life been able to say no to the two sentences she used most: *big brother* and *please.*
+
+Glorybound had no city walls, and the commoners' district stood close enough to the sea that you could be at the water inside ten minutes' walk. The walk was one of the streets the boy knew with his feet.
+
+The beach was not the pretty kind. It was rough, gravelly sand and shells, the sea's leftover table. The town's older people said the roughness was the sea's grudge — that the ocean's beasts had been hunted too hard in the old days. The shore had never forgotten. It was a story the children got told with supper and never took seriously until the night wind came up.
 
 That night the wind was down and the sky was doing its full work.
 
-The moon was up, pure white, and the stars were out in their hundreds like a field of small lamps, and the sea took both of them and poured the light back up in long broken pieces that kept moving. Waves came in, and seabirds talked over them, and the two figures on the shingle were small and very nearly the only moving things in the world.
+The moon was up, pure white, and the stars were out in their hundreds like a field of small lamps. The sea took both of them and poured the light back up in long broken pieces that kept moving. Waves came in, and seabirds talked over them. The two figures on the shingle were small and very nearly the only moving things in the world.
 
 "There sure are a lot of stars tonight, big brother."
 
 "Maybe they all came out to congratulate me."
 
-She looked at the sea for a while. Then she looked at him, and the question she had been carrying all day came out of her in the small flat voice children use for the things they have rehearsed.
+She looked at the sea for a while. Then she looked at him. The question she had been carrying all day came out of her in the small flat voice children use for the things they have rehearsed.
 
 "Big brother. Are you sad that I don't have a martial soul?"
 
-"Sad?" He turned her around by the shoulders to make sure she could see his whole face. "You're my little sister. The strongest man in this town is a repairman whose soul is no legend, and he has a wife and two children and the loudest table in the district, Why would I be sad? I'm going to be a soul master, and you're going to come with me when I go, and I'll protect you my whole life. All right?"
+"Sad?"
+
+He turned her around by the shoulders so she could see his whole face. "You're my little sister. The strongest man in this town is a repairman whose soul is no legend. He has a wife and two children and the loudest table in the district. Why would I be sad? I'm going to be a soul master, and you're going to come with me when I go. I'll protect you my whole life. All right?"
 
 "All right," she said.
 
@@ -642,58 +940,18 @@ The waves filled the quiet after it.
 
 ---
 
-Three streets and one left turn away, the number arrived at the Su house the same evening, on foot, as most things arrived in that town.
+That same night, two streets and one left turn away, Su Yan did his hour and wrote nothing down and told no one anything. There was nothing yet to tell and he was not a boy who spent sentences early.
 
-The lane had it by supper, as the fishwife had promised. The older boys at the academy had it before their dinners. The man who kept the tea stand had it from the man who kept the salt, and had already improved it twice. By morning, two patients at the clinic had found a way to bring the physician's son into their own complaints — the first asking whether a strong boy could carry a mother's firewood, the second asking, with the whole town's curiosity in his throat, how the physician had *made* him.
+The house ticked and settled around him. His mother turned a page in the grain book. His father banked the stove and stood a moment over the book with *The boy* at the top of its page, and added three lines, and closed it, and looked at the closed cover as a man looks at a road he has agreed to walk.
 
-"Nobody makes a rank," Su Heng said, in the flat voice of a price board, and wrote out the second man's powder, and did not explain.
+The pig slept in the front room with its chin on his shoe, having won the argument about where it slept several years before anyone else noticed the argument was over.
 
-The boy himself heard the new sentences from inside them, which is where a number lives once a town has it. There was the sentence the market used: *the physician's boy is at nine.* Said with the same wonder the town used for weather that arrived early. There was the sentence the class used, which was shorter because children price things faster: *the pig boy is at nine.* And there was the sentence the older boys used, which had stopped being a joke and had not quite turned into respect yet, so it hung in the air between the two like a crate on a rope.
-
-One day that week the dockman with the bad hip stopped him at the wall and asked him outright the question the whole town was chewing.
-
-"So is it true?"
-
-"It's on the list," Su Yan said.
-
-"That's not what I asked."
-
-The boy thought about it. He was careful with answers, and he was careful with this one for a reason the man could not see: he did not have the sentence the man wanted. What he had was the page in the back of the practice book, and two hours an evening, and a pot, and a pig, and three winters he had not coughed, and none of those things added up in any language a dockman would take from a boy.
-
-"They wrote a number," he said at last.
-
-"So they did," said the dockman, and looked at him for a while as men look at a boat that came in heavy, and went back to his ropes, and that was that.
-
-The town had carried him for four years in a kind and slightly insulting way — a town carries a jar by not picking it up. Now it had picked him up, and sighted him against the light, and there was no putting him back down, which was the whole cost of the thing, and the boy was old enough to weigh it.
-
-His mother found him at the sums page that night and sat down across the table and did not waste the evening.
-
-"Nine," she said.
-
-"Yes."
-
-"Then here is where this family stands, and I will say it once, because we are not a house that says things twice." She put her two hands flat on the table, on either side of the open book, as she did when the household's books were about to move a row. "The last rank to ten is not the same as the others. The others were arithmetic. The last one is a purchase, and it has a price, and the price is not a thing this house has ever had to say out loud, because the day we say it is the day we start paying it. So: when your turn comes, the tin is yours, and we are yours, and your father and I have agreed that the day gets counted like any other day, in the daylight, with the door open."
-
-Su Heng, in the doorway, with his sleeves rolled, said his half.
-
-"There will be a number, and it will be larger than the tin, and there is not a page in any book of mine that says where it will come from. That is the truth, and you can hold it. But a physician's house that has kept a boy alive through six years of the worst thing I have ever watched is not a house that gets frightened by a price list. We will get there as we got here. One row at a time."
-
-Then, because he was who he was, he ruined the speech on purpose by adding the practical half: "Also, the pig is on the book now. If the price is bad, we sell the pig."
-
-From the doorway came a snort from the creature in question, which had opinions about jokes at its expense, and the table broke and laughed, the good kind of laugh, the kind a house earns.
-
----
-
-That night the boy did his hour.
-
-Two rounds, and the third walking quiet behind them, and the well under his ribs going deeper with every week, and his body not asking him for anything and giving him more than it had the week before. The house ticked and settled around him. His mother turned a page in the grain book. His father banked the stove. Somewhere in the front of the house the pig slept with its chin on his shoe, having won the argument about where it slept several years before anyone else noticed the argument was over.
-
-When the boy lay down at last, the sea came through the floorboards as it always did, working at the harbor wall, taking nothing and answering no one.
-
-He lay in the dark and did the last sum of the day, which he had done since the chamber, and which the world had finally checked and found nearly true.
+The boy lay in the dark and did the last sum of the day, which he had done since the chamber, and which the world had checked once and found nearly true.
 
 The number was nine. The doorway was ten.
 
 *One rank to go.*
+
+Under him, through the boards, the sea went on working at the harbor wall, taking nothing, answering no one.
 
 *End of Chapter 5.*

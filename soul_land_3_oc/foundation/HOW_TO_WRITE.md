@@ -35,6 +35,8 @@ From `_archive/…/FRAMEWORK/FANFICTION_FRAMEWORK.md` §2 — the framework dist
 2. **Event quota.** At least **two OC events that change a value** (goal · knowledge · relationship · resource · safety · standing · promise · skill · position · debt). At least one **costs something real** — money, trust, standing, a loss, a price paid.
 3. **Canon complete, told tight.** Every canon beat keeps its scene, its outcome, its order — **unskipped** — but rendered at load-bearing length. No double-description; no narrating what the dialogue already did. Canon is **≤ half the chapter's words**; its full beat list stands in the coverage doc.
 4. **Reaction.** At least one canon character behaves differently **because he is there**. Witnessing is not reacting; a nod is not reacting.
+4b. **Contact.** The chapter must show the OC *with* canon's people **on the page** — not adjacent, not heard-of: a name from a canon mouth, a word to him, a hand, at least one per stretch. (Ch 5 v2 owed this to Na'er; paid three times across the years.)
+4c. **No idle stretch.** No winter, arc, or block where the OC only cultivates, waits, or is summarized. Every stretch carries an act with a stake.
 5. **Lines.** The six lines move — or the receipts say why one held, and the chapter still moves *standing* or *knowledge*.
 6. **Failure exists.** Reads can be wrong; trades can be refused; promises can cost him. No plot armor; the failure state is written down before the success.
 7. **Momentum.** No three chapters without a gain or a fired gun.
@@ -62,6 +64,6 @@ Canon complete, in order, unskipped (R12) · fetched live (R1) · receipts per c
 
 ## 7 · Standing consequences in the files
 
-- **Chapter 5 v1 stands** until the author's word. Its rebuild (if ordered) follows §3: canon compressed to its load-bearing beats; Su Yan carries three costed events — **the wrong read** (winter one), **the contested trade** (winter two), **the tin's decision + the letter one rank short** (winter three).
+- **Chapter 5 v2 stands** (2026-10-02): the §3 rebuild executed — canon compressed to its load-bearing beats (≈37% of words); Su Yan's three costed events landed — **the wrong read** (winter one) · **the contested trade** (winter two) · **the tin's decision + the letter one rank short** (winter three); **Na'er met on the page three times across the years**; butterflies felt; voice back in band (11.1/8/0). The next written thing: **Chapter 6 — only on the author's word.**
 - **Chapter 6's plan** is rebuilt on this engine before any prose.
 - The miss is logged: `MISTAKES_LEDGER` **H11**; the receipt: `SERIAL_LOG` **LOG 023**.

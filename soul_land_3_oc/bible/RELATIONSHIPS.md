@@ -34,7 +34,7 @@
 
 ## 4 · Absent but standing (canon cast he has not met)
 
-**Mang Tian** · **Brother Long** · the **Tang parents** (Tang Ziran, Lang Yue) — **UNKNOWN** to him personally; they exist in his household's talk (`WORLD_UNDERSTANDING` rows 38–41). **Na'er** — the foundling; the Tang house's daughter — never met; what reaches him is the town's story of the silver-haired girl with no martial soul (ch 3). Author-only: **HIDDEN** — the dragon layer, the ring (NAE-02). No meeting until a scene earns it (R12: the tracks touch only where a scene does).
+**Mang Tian** · **Brother Long** · the **Tang parents** (Tang Ziran, Lang Yue) — **UNKNOWN** to him personally; they exist in his household's talk (`WORLD_UNDERSTANDING` rows 38–41). **Na'er** — the foundling; the Tang house's daughter — **met on the page (v2): the wall (year one: the pig's name, the lollipop), the market (year two: the fish ends, the list), the water tap (year three: the bucket, the gate)**. What she knows of him: the pig's name, the reading trade, the queue at the tap. Author-only: **HIDDEN** — the dragon layer, the ring (NAE-02); the meetings carry no touch of it.
 
 ## 5 · What no one knows (the standing firewalls)
 

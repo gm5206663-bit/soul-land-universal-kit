@@ -41,3 +41,15 @@ LSP-10 (no gold on the soul) · R13/DRG-01 (no resonance beat spent) · NAE-02 (
 ## 7 · Verdict
 
 **PASS.** Canon complete, in order, on the page; the three-year skip paid in the same chapter (R19); the OC's parallel lands a real, receipted movement (nine, and a page opened in his father's book); the butterfly obligations owed from ch1–ch4 fire on the page (ledger §ch5); every seal intact. Ready for the author's read.
+
+## 8. v2 addendum (2026-10-02) — the rebuild, tested
+
+**The actor test, run per stretch:** winter one — he takes the packet into the fog (cost paid: the mother's sentence, the rule), then takes the fee walk and *misreads* (cost paid: the tin, the man's trust, the row's law). Winter two — he keeps the fishwife's law, asks his father first before the pier read, stands the escrow (cost: the Hand's whisper, the mother at the market, the *thing* risk named by his father). Winter three — he carries the letter, signs the office entry himself, holds the sums, asks at the table. **No stretch is passive.**
+
+**The reaction test:** Teacher Lin (the gate; the letter; *"I am late. That is mine to carry."*) · the fishwife (*"Nine, is it."*; the rate raise) · Wulin (his name at the wall — *"Su Yan."*) · Na'er (three meetings; the list) · Lang Yue (the packing line) · Wan Yunchao (jab, and the room's laugh at him) · the clerk (the entry) · the Hand (the whisper) · the crate men (the escrow). Behaviours change because he is there.
+
+**The event count:** ≥2 value-changes per winter; ≥1 real cost per winter (winter one: the tin; winter two: the standing and the whisper; winter three: the price spoken, the office). The failure state is written before the success (the wrong read precedes the contested trade; the whisper precedes the rate raise).
+
+**Six lines moved:** standing (public nine; the office paper) · knowledge (the trade's law; the Hand's method vs the nose) · resource (the tin's columns; the pig's column) · relationship (Na'er · Wulin · Lin · the fishwife · the Tangs) · promise (the father's page; the family's daylight rule) · position (the tests list; *one rank short*).
+
+**Seals:** LSP-10 · R13/DRG-01 · NAE-02 · R5 · Q-2 · no prices — all re-checked in the final text. **Verdict: PASS.**
