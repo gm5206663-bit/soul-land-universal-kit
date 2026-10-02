@@ -13,6 +13,6 @@ knowledge he hasn't earned.
 
 **Voice:** the author's Fire Phoenix register — clear and clean, scenes played in full.
 
-**Status:** foundation built; no chapter authorized yet (`foundation/CHAPTER_TEMPLATE.md` — the gate).
+**Status:** **PARKED 2026-09-30 — seven chapters shipped** (ch 1–7, every gate green; live edge = ch 7 *Room 205*). Closed on the author's call to open the prequel serial; the resume kit lives in `foundation/PARKED_2026-09-30.md` and `foundation/NEXT_STEPS.md` (ch 8 plan, three author markers).
 
 Agents: start at **HANDOFF.md**. Author-AI memory lives in this repo; local copies are disposable.

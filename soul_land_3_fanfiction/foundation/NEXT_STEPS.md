@@ -1,5 +1,7 @@
 # NEXT STEPS (always-repair file)
 
+> **PARKED 2026-09-30** — resume starts here: rule on the CH 8 PLAN below (three markers), authorize, write, receipts, commit. Nothing below is void; it is the exact resume kit.
+
 > **Repaired 2026-09-30 (sixth time).** Ch 7 is shipped as *Room 205* on the author's single word "Next" — defaults taken (**roommate reveal = straight payoff**; **the fight lands in ch 7**; Na'er still held; parents' private resolve still held). The pit below is **ch 8.**
 
 > **Repaired 2026-09-29 (third time today).** Ch 4 is shipped as *Thousand Refinements* on the author's

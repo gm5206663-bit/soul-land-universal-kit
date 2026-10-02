@@ -1,5 +1,9 @@
 # HANDOFF — SL3 "Qing Ling" project
 
+> **PARKED 2026-09-30** — closed on the author's call (new prequel serial: 30 years before SL3). Start with `foundation/PARKED_2026-09-30.md`; resume kit = `NEXT_STEPS.md` (ch 8 plan) + `STATUS_PANEL.md` (v11 receipts).
+
+> **One snag on any resume:** ch 7's commit is local-only; re-add the token remote and push (chain on GitHub ends at `1b2ac8a`, ch 6).
+
 **Start here.** You inherit a foundation, not a draft. The author ordered a clean restart (2026-09-28): old workshop wiped; GitHub is the only permanent memory; this folder is the whole project.
 
 ## Law, in order of bindingness

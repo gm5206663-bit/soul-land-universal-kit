@@ -1,6 +1,8 @@
 # STATUS PANEL — "Qing Ling" single current-truth source
 
-> **Snapshot: v11 (CH 7 LIVE — "Room 205": reporting in; class five; the roommates; the quilt; the window punch; the youth in black; Bind's first public proof; Long Hengxu's verdicts and his private file; the roster card pays the ch 6 bank — XIE XIE named to the reader, not to the boy)** · 2026-09-30 · chapters live: **7**
+> **PARKED (v12) · 2026-09-30** — the serial is closed on the author's call (a new prequel serial opens at thirty years before Soul Land 3). Resumable from `NEXT_STEPS.md` (ch 8 plan ready) + `PARKED_2026-09-30.md`. Chapters live: **7**; gates green; ch 7's commit is local-only until the remote is re-added (see the park note).
+
+> **Last live snapshot — v11 (CH 7 LIVE — "Room 205": reporting in; class five; the roommates; the quilt; the window punch; the youth in black; Bind's first public proof; Long Hengxu's verdicts and his private file; the roster card pays the ch 6 bank — XIE XIE named to the reader, not to the boy)** · 2026-09-30 · chapters live: **7**
 
 ## Window
 Live edge: the fight evening — Room 205 with a canvas over the broken window; the quilt on the top bunk; the letter home written and sealed; Xie Xie awake below on the lower bunk, his eyes open in the dark. Age 9, **rank 12** (unchanged; gates intact — nothing granted, nothing spent this chapter but a window, a wall, and a first name). Class five, intermediate academy. Both hammer pairs in the wrist rings. Ring yellow with the inherited gold vein-thread; grass awake, wordless, its ledger one rough stone for the day. Glorybound: parents + Na'er at home (she is staying; her canon departure remains the author's held call).
