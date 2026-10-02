@@ -4,6 +4,8 @@
 
 ## 2026-10-02 (in one long day)
 
+- **Chapter 5 — *Three Winters* — shipped** on the author's *"Next"*: canon SL3 **ch12–ch15** on page in full (the classroom and the exit rules · the tungsten hammers · the thirty thousand · the tenth rank and the beach), with Su Yan's three winters underneath — the wage rhythm, the small market trade born of an apology, the girl who spoke for him, and **the school's own check, and nine**. Receipts: coverage5 + audit5 + LOG 022.
+
 - **The rebuild begins.** Prior attempt deleted on the author's word (*"you completely can't create fen fiction without following canon"*); this serial founded as a canon-first dual-track story — **canon complete on the page, OC parallel** (R12). Repo `kit`, arena-agent identity, sparse checkout.
 - **Ch 1 v1–v4 struck** (register + canon failures); **v5 accepted "Good."** — *The Reading*: 4,263 w, canon SL3 ch1–ch2 on page. Commit `315292a` → `0909873` → `05c8543`.
 - **Foundations raised:** `CANON_SPINE` (§E + R13), LOG 007 (`ad6779a`); spiritual-power ledger v1 + Luo Sanpao ledger + R14/R15 (`5b2c364`); the **Talent renamed and rescoped — whole-existence** module v3, interface = Luo Sanpao (`b0ac5a1`); SP-doctrine meaning pass (`05905e6`); register rows + whole-existence propagation (`675e2ed`).

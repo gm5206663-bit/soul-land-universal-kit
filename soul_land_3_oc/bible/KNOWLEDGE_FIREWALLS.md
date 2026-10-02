@@ -27,6 +27,8 @@
 4. **The name line:** is a sealed name spoken in dialogue, thought, or narration? → cut.
 5. **The token line:** does a sealed *symbol* (gold) appear near the soul's business at all? → cut (F3 hygiene, caught once already — `MISTAKES_LEDGER` row H3).
 
+**Ch 5 check (2026-10-02):** PASS — NAE-02 (the seven-colored ring exactly as canon shows it: no witness, no name, no theory, and our line never touches it), WUL-01/04 (the traces canon-own, unseen), LSP-10, R5. The page's only sealed-adjacent number is **nine** (the record check); no spiritual-power value appears; no price of a spirit soul appears.
+
 ## 3 · Standing references
 
 `foundation/CANON_SPINE.md` (NAE-01/02, WUL-01, DRG-01, LSP-07/08/10) · `bible/PAIR_LEDGER.md` §7 (pair seals) · `bible/ADAPTATION_MODULE.md` §5 (what the Talent never does) · `NO_MISTAKE_LIVE_RULES.md` R13 · `OPEN_RULINGS.md` G7/G9.

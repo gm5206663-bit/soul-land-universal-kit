@@ -41,6 +41,8 @@ Chapters draw **two or three** of these. Never the list.
 - A chapter may hold the rank and still carry a hard gain elsewhere (R14); every crossing — the first ring first of all — is an **earned scene** with an aftermath.
 - Early speed is real (freed Talent + feed + medicine + training + the mind) and never fast beyond reason: each step gets page time and a price. The author's dial overrides pace with one word.
 
+**Ch 5 receipt (2026-10-02, *Three Winters*):** the three-year skip paid. Hard movement: the record check — **nine** (the school's apparatus; the first machine check of his own arithmetic). Soft movement: the memory answering the room's lists; a method taught and stuck; the teacher's late letter; the pair's read turned to small trade. Prices on the page: the weekly wage page; the pot to three ladles; the evenings; the tin. No crossing staged beyond the skip's own arithmetic — the band-60 crossing and the first ring stay reserved (`GROWTH_LOCKS` §3).
+
 ## 6 · The receipts (where the ledgers live)
 | Ledger | Tracks |
 |---|---|

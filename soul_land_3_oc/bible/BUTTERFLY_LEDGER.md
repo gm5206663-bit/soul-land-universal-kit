@@ -53,6 +53,24 @@
 
 **Felt-density, honestly counted (dust / current / bend):** ch 1 — 4 · ch 2 — 5 (incl. the town's two stories) · ch 3 — 6 (incl. the standing picture) · ch 4 — 8 (incl. the third story, the tap file, the wage doctrine). **No bends** (no shared canon outcome has changed) — correct for a quiet six-year-old; bends only on his word and with the cause chain on the page.
 
-**Deletion-test answers** ("what is different because he is in it — on the page"): one per chapter, in `canon_coverage/` — ch 1 §8 · ch 2 §8 · ch 3 §8 · ch 4 §8. The rule: **if the answer needs this ledger to be believed, the page has failed.**
+**Deletion-test answers** ("what is different because he is in it — on the page"): one per chapter, in `canon_coverage/` — ch 1 §6 · ch 2 §4 · ch 3 §5 · ch 4 §8 · ch 5 §8. The rule: **if the answer needs this ledger to be believed, the page has failed.**
 
-**Open strong lines, in priority order for ch 5:** B-23 (a story understood / not-understanding costs) · B-20 + B-04 + B-15 (the un-asked question) · B-13 · B-07 (the town asks) · B-18 + B-12 (the room's file · the teacher's letter) · B-16 (the tin toward the soul's price). *Nothing here authorizes prose: ch 5 waits on the author's word (G12).*
+**Open strong lines, in priority order for ch 5:** B-23 (a story understood / not-understanding costs) · B-20 + B-04 + B-15 (the un-asked question) · B-13 · B-07 (the town asks) · B-18 + B-12 (the room's file · the teacher's letter) · B-16 (the tin toward the soul's price). ## ch 5 — *Three Winters* (shipped 2026-10-02, LOG 022) — the fires, and the new lines
+
+**Fired (the priority list, paid on the page):** **B-23** → *"The physician's boy is at nine"*: the market's sentence, the class's shorter one, the older boys' un-joked crate on a rope — and the cost of four years of not-understanding spoken by the teacher herself (*"I am late. That is mine to carry."*). · **B-20 + B-04 + B-15** → **the un-asked question, asked**: the father's examination, *"Does it ever hurt?"*, the promise (*"the same night… I promise to write the page"*), the page opened — ***The boy*** — the pig entered in the month's book as a patient, *"Then we are finished pretending it was the spring."* · **B-12** → the late letter for the spring tests. · **B-18** → the room's file breaks on the machine's blue screen before the town's. · **B-13 · B-07** → the picture moves and the town asks (*"So is it true?" / "Nine, is it."*). · **B-16** → the tin counted, the promise made with the door open. · **B-17 · B-19** → the read works **for others' money** for the first time. · **B-05 · B-08 · B-09/B-11** → three winters paid; the term carried; the tap kept.
+
+**Born (each with its obligation named):**
+
+| # | The cause (on the page) | What it now is | Obligation |
+|---|---|---|---|
+| **C-01** | The record check: **nine**, the blue screen, the room stopped | His public record has moved for the first time since the brass plate's *one* | The tests paper, the price, and the day the machine is beaten or not — owed |
+| **C-02** | Teacher Lin's late letter to the office | An institution now holds his name on paper | What the office does with it; the spring tests |
+| **C-03** | The father's page — *The boy* — opened; *"I promise to write the page."* | The household's physician keeps a record he promised to keep | The page must grow — or be forced closed |
+| **C-04** | The small read trade (the crate walk · the refusal · the fishwife's row · the dockman's pier) | A service other people's money now depends on | Its **first failure** is owed (a read wrong, and its price) |
+| **C-05** | The girl by the window speaks for him (*"He taught me."*) | The first person outside the family to defend him in public | Her name arrives only when a scene earns it |
+| **C-06** | The tin and the parents' promise (the day counted in daylight, the door open) | The day the price is spoken is a date the story owes | Canon's ch16 price wall is next door; the family's arithmetic meets it |
+| **C-07** | *One rank to go.* | The count motif closes its second loop | Rank 10 → the ring door (years; author lock) |
+
+**Felt density, ch 5: 8 (dust/current only — no bends).** **Open strong lines for ch 6, in priority order:** **C-01** (the number nine meets the exit machinery) · **C-03** (the page) · **C-06** (money meets the price) · **C-02** (the letter) · **C-04** (the trade's first failure) · **C-05** (the girl's name) · plus B-05 · B-08 · B-09/B-11 standing.
+
+*Ch 6 waits on the author's word; the default lives in `OPEN_RULINGS.md` G12.*

@@ -23,6 +23,10 @@
 | ch 4 | **The first wage** — a rest day in the clinic: counting, grinding, packets; *"For the day's work. Not for being the son."* | 5 coppers, paid by the father | ch 4 text |
 | ch 4 | **The basket bought with his own wage** — fish heads and fins for the pot; counted in the new page column (earned · spent · left); the bowl now pays part of itself | 3 coppers, once and weekly-ish | ch 4 text |
 | ch 4 | **The broth at two ladles** — the pot's second stage (skim, cracked lid, the bone's hour, the herb at the end) | weekly | ch 4 text |
+| ch 5 | **The weekly wage page** — the father pays by the week now; three columns in the back of the practice book (*earned · spent · left*), kept honest | weekly; figures not printed | ch 5 text |
+| ch 5 | **The read's first earnings** — the crate walk's fish ends, the fishwife's standing question, the dockman's pier; the creature's labour enters the household's food line | in kind, then small coin; not printed | ch 5 text |
+| ch 5 | **The pot's third stage** — two ladles, then three when the need asks; *"The pot is yours now."* | weekly | ch 5 text |
+| ch 5 | **The father's page** — *The boy*, opened in the big clinic book (the promise: *"the same night… I promise to write the page"*); the pig entered under the month's compounding costs | unpriced | ch 5 text |
 
 ## 3 · The shapes the ledger keeps (for future chapters)
 

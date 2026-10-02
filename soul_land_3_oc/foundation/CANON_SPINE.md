@@ -117,6 +117,17 @@
 
 **Standing check closed this pass:** WUL-02 exists in §G (row verified; the ch3 header's citation holds).
 
+## J · SL3 ch 12–ch 15 — the three winters (canon; fetched 2026-10-02: wuxiaworld `ldk-chapter-12`…`-15`; `-16` read for the block's edge)
+
+- **SKIP-01** — canon's own three-year jump opens the block (*"Three years later"*): the class's last year, the change in the boy, the exit arithmetic (rank 10 before graduation → the recommendation letter; else the tests; an intermediate academy requires a spirit soul, and this small city has none), Wan Yunchao's whisper and *"You can slowly dream on."*
+- **SKIP-02** — the teacher's last-year turn: Lin Ximeng's extra attention and its arithmetic; her own discovery (the gift for meditation; a spiritual power far ahead of his peers).
+- **SKIP-03** — Na'er across the three years: the second-year Awakening marvel (**no martial soul at all**), the ordinary section, the lollipop, the fights Wulin won for her, the eight-year-old's pick-ups; the siblings the school stopped being surprised by.
+- **SKIP-04** — the forge: Brother Long; the workshop of exactly three; the second disciple; the hammers that grew; **the Thousand Refined Tungsten Hammers** (forty kilograms each, gifted after the first year); metal extraction → small → medium components; not one complaint in three years; the state where hammer and metal answer each other; the wage split three ways.
+- **SKIP-05** — the count: **thirty thousand Federation coins**, the iron case, the counting to **thirty thousand two hundred**, the hundred to Na'er, the parents' tears, *"our whole family will go"*, the turning-ten room rule.
+- **SKIP-06** — the moonlit night: the garden, the strand of Bluesilver Grass, the pull, the cross-legged calm — and, three streets away, **the seven-colored ring** rising off a sleeping girl and folding between her brows (canon's own scene; no witness; NAE-02).
+- **SKIP-07** — the tenth rank: the breakthrough and the unseen golden lines; the test at the academy; **1,000 coins a month** for an official Soul Master; the leave of absence; the beach; the close — *"Would you miss me if I left one day, big brother?"*
+- **OC receipts (ch 5):** the graduation-year record check (**nine** printed — the first movement of his public record since the brass plate's *one*); Teacher Lin's late letter for the spring tests; **the father's page — *The boy* — opened, the pig entered in the month's book as a patient**; the town's new sentences in three sizes; the tin and the parents' promise (the day counted in daylight, the door open). Register rows 39–42; receipts `canon_coverage/Canon_Coverage_Chapter_05.md`.
+
 ## Sources (fetched 2026-10-02)
 
 soulland.fandom.com — `Luo_Sanpao` · `Yu_Xiaogang` · `Yu_Xiaogang/Abilities` · `Blue_Lightning_Tyrant_Dragon` · `Soul_Power` · `Martial_Soul_Awakening` · `Soul_Master` (spirit-soul realm notes) · baike.baidu.com (EN) — `Luo Sanpao` · novgo.net — SL3 ch 1 full text (mirror) · wuxiaworld.com — `legend-of-the-dragon-king/ldk-chapter-1` (re-verification pass, 2026-10-02; cited for facts only, no text copied).
