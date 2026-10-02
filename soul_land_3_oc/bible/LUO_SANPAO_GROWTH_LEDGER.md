@@ -41,6 +41,8 @@ In law: the freed Talent works on **every part of the entire existence — every
 
 **Rule:** every entry above needs its scene and its receipt — who saw, what it cost, what the world recorded. **Any movement in the private column without a paid input in the same chapter is a violation.**
 
+**Addendum (2026-10-02 — CH 2 shipped, *The House and the Road*):** the stage opens on page. The creature's first week in the house: the radish basket becomes the boy's evening broth (bones, fish ends, a long low simmer, lid cracked); **appetite up**; coat from dry to glossed; deeper sleep, snoring, a small-hours pacing; it answers the boy's voice faster; it keeps out of the father's path. Cost ledgered in the house's week — kitchen sums, grain-house seconds, clinic trimmings (D-07). Private index: the ledgered **first-months band (1.05–1.15×)**, opening at its low end. **No gold on page** (LSP-10 held).
+
 ## 5 · The appetite law (canon WUL-02, applied)
 
 A great bloodline shows first as **need**: more food, better food, deeper sleep, longer recovery — canon's own protagonist proves it (the "Rice Bucket" day, hunger as the first bill of what is sealed inside). Here the same law runs through the soul: **as the private maturity rises, the creature's needs rise first**, and the household feels it in money and in the kitchen. Growth and cost travel together, always.

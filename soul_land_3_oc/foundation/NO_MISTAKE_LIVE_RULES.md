@@ -88,9 +88,16 @@ Before any system term is used in prose or plans — spiritual power, soul power
 5. **Growth is shown.** Every chapter moves development (R14 · R16); no dead chapters, no nerfing early speed.
 6. **Luo Sanpao is a special martial soul (canon).** It manifests **outside the body** — canon calls it "particularly unusual," distinct from Projection/Mimicry; it has **its own consciousness**, transfers its injuries and poisons, smells what no one else does, costs almost nothing to keep out, and **needs nourishment after three shots**; gold appears in its fur as it grows (sealed). Handle it by its full card (`bible/LUO_SANPAO_GROWTH_LEDGER.md`).
 
+## R19 · THE DEVELOPMENT LAW — training is the engine, shown not narrated **(armed 2026-10-02, after *"There training and development and others many things"*)**
+1. **Every chapter moves development** — a hard gain or a soft gain (control, correction, knowledge, recovery, relationship), named in its log entry; a chapter that moves neither is not written (R16 · house ledger E11).
+2. **Methods are canon-shaped, never invented vibes:** the speed-factor stack (R18 · BODY-01), the era's own methods (meditation — canon ch4's *"only way to temper and improve"* — academy instruction, feeding, medicine, body work), and the household disciplines the boy actually owns (kitchen, clinic, sickroom stillness, the lane). Full doctrine: `bible/TRAINING_AND_DEVELOPMENT.md`.
+3. **Shown as behavior and consequence, never narrated as a mechanic** (the author's own corrections): appetite, coat, sleep, sums, the pot, the run, the first stillness — the reader sees the engine by its effects.
+4. **Priced and receipted:** every movement logs cause and price in the ledgers (`LUO_SANPAO_GROWTH_LEDGER.md`, `SPIRITUAL_POWER_LEDGER.md`, the household sums). No free growth; no nerfed speed (R14).
+5. **No dead chapters, no futures spent:** the seals stand — the Talent unnamed; bloodline sealed (R13 / DRG-01); the soul's gold (LSP-10); the Wyrm unspent; Na'er (NAE-02).
+
 ## R10 · THE SISTER LAW
 The author reads the chapters; the files never argue with him. Veto = one word = the files change the same turn, receipts written, no silent edits.
 
 ## Armed flags (current)
-- **G1–G3, G5, G6** open with defaults (see `OPEN_RULINGS.md`) — Chapter 1 waits on the author's go.
+- **G0–G12** resolved or executed (see `OPEN_RULINGS.md`) — updated 2026-10-02: **Chapter 1 v5 accepted** by the author (*"Good"*); **Chapter 2 shipped** on his *"Next"* (receipt: LOG 016).
 - **Held beats:** the recovery's unexplained timing (the family's unanswered question) · the soul's three-shot ceiling and its nose (canon faculties, spent slowly) · the horizon (LSP-08) · Wulin.

@@ -54,6 +54,7 @@
 - **Natural growth is the floor** (canon: ordinary people to ≈40; Soul Masters to ≈60). On top of it: meditation (canon-taught), sleep and food, the house's sea-nourishing materials, and the Talent's integrative work — early gains run faster than ordinary (R14 never-nerf) — on the order of **+1.5 to +2 points a month**, easing as each band's top nears (canon: higher levels progressively harder; receipts get reasons — tired weeks, illness echoes, overtraining — never quiet rounding).
 - **Crossings are events:** 60 (advanced) inside the first academy stretch; **100 — Spirit Connection — a written scene** in the early academy arc: where control begins. First printed public number comes with a test that earns it (academy route / Spirit Pagoda on first fusion), and the Pagoda keeps the record from then on.
 - **The design tie:** his first spirit soul is the **Sun-Branded Wyrm** (author lock, G7) — canon says the soul's grade is gated by spiritual power. His road to that soul runs through this ledger. Nobody connects the dots in-world yet.
+- **Ch 2 receipt (2026-10-02):** the first voluntary hour — the spoonful that went out twice and then stayed. No crossing, no print; the curve continues private inside the run from 33 toward 60 (natural floor + meditation + the mind's own work; the page shows behavior only).
 
 ## 6 · Guards
 

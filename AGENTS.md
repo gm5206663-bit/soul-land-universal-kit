@@ -83,3 +83,9 @@ Protocol is law, and the coldest catches are the ones greps can't see.
 - **New serial founded:** `soul_land_3_prequel/` — Soul Land 3 era, **thirty years before canon** (author-locked). Foundation phase; premise candidates P1–P4 await the author's pick. Read its `README.md` first.
 - On-disk view now: root docs + `soul_land_2_new/` (live; its own agent owns it) + `_archive/2026-09-30_park/` + `soul_land_3_prequel/`.
 
+## AMENDMENT — 2026-10-02 (add-only): the prequel was struck; the live serial is *One in a Thousand*
+
+- The author deleted the prequel serial (*The Sixth Kilometer*, `soul_land_3_prequel/`), verbatim: *"Delete it we create another because you completely can't create fen fiction without following canon."* It is gone from the live tree; its commits stay in history; **do not revive it.**
+- Its replacement, founded the same day on the author's full spec: **`soul_land_3_oc/` — *One in a Thousand*** (SL3 era; same town as Tang Wulin; dual track — canon on the page, complete and in order, with the OC parallel). Start at its `README.md`.
+- Where the 2026-09-30 note above says `soul_land_3_prequel/`, read `soul_land_3_oc/`.
+
