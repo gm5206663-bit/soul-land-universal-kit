@@ -1,6 +1,6 @@
 # FIRST RING ACQUISITION — the rank-10 plan (fenced)
 
-> **Status: years away in-story. Nothing here is spent early.** This file exists so the serial arrives at rank 10 with its locks already drawn: the era's mechanics, the author's lock (the **Sun-Branded Wyrm**), the gates that decide the route, and the scenes the arc will owe. **Prose law until the window opens: the Wyrm is never named, never foreshadowed, never "waited for."** (LSP-10 family; register row 29.)
+> **Status: years away in-story. Nothing here is spent early.** This file exists so the serial arrives at rank 10 with its locks already drawn: the era's mechanics, the author's lock (**the Light Wyrm** — a Light Dragon Lizard), the gates that decide the route, and the scenes the arc will owe. **Prose law until the window opens: the Wyrm is never named, never foreshadowed, never "waited for."** (LSP-10 family; register row 29.)
 
 ## 1 · The threshold (canon, as this era runs it)
 
@@ -10,7 +10,7 @@
 
 ## 2 · The author's lock
 
-- **The soul: the Sun-Branded Wyrm** — the author's own creation (no canon record; verified 2026-10-02). Mechanics stay the era's canon path; **the design belongs to him.**
+- **The soul: the Light Wyrm** — a **Light Dragon Lizard**; the author's own creation, given in his own words (2026-10-02): *"Light Wyrm / Light Dragon Lizard, don't mistake it."* (No canon record; verified 2026-10-02.) Mechanics stay the era's canon path; **the design belongs to him.**
 - **Never early:** no name, no hint, no dream, no "something in the deep" line, no shop-window foreshadow — the window opens when the author opens it (G7), and the acquisition is *years* of story away.
 
 ## 3 · The route gates (open questions for the author)

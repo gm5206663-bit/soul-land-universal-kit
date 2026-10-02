@@ -115,7 +115,7 @@ The last month of the graduation year. The record check has printed his **nine**
 
 ## §14 · Held / locked — not yet, whatever the pressure
 
-- **Rank 10 and the first spirit soul** — years away; canon path re-verified at write-time; **the Sun-Branded Wyrm** is the author's lock (`FIRST_RING_ACQUISITION`), never rushed, never named early. The Pagoda's price wall stands at **70,000 white · 1,000,000 yellow · 30,000 draw** — canon's numbers; the family has said it plainly: the last one *is a purchase*, and the number will be *larger than the tin*.
+- **Rank 10 and the first spirit soul** — years away; canon path re-verified at write-time; **the Light Wyrm (Light Dragon Lizard)** is the author's lock (`FIRST_RING_ACQUISITION`), never rushed, never named early. The Pagoda's price wall stands at **70,000 white · 1,000,000 yellow · 30,000 draw** — canon's numbers; the family has said it plainly: the last one *is a purchase*, and the number will be *larger than the tin*.
 - **The horizon** (the soul's old, unfinished, recorded completion) — sealed; never named in his head, never foreshadowed aloud.
 - **The appearance line** — not yet stated in a scene of its own (the framework names it the most-dropped line; the first earned statement opens it).
 - **Ch 5 v2 — the author's order (pending, next to write):** the canon block told tight; **his climb 6 → 7 → 8 → 9 on the page**; the soul's growth *shown* (the feed's cost, the coat, the speed, the nose at distance, the refusal); the mind at a scale that is not normal; the three costed turns — the wrong read · the contested trade · the tin's decision — and the letter one rank short.

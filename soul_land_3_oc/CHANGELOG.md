@@ -26,7 +26,7 @@
 
 - **Shipped:** ch 1 · ch 2 · ch 3 · ch 4 — all committed, receipted, audited, delivered.
 - **Next canon default (G12):** ch 5 = SL3 ch12+ (the three-year skip); plan file in `NEXT_STEPS`.
-- **The open road:** the first academy stretch (ranks 1→10), the development layer in motion, the first ring years off in-story and locked to the author's design (Sun-Branded Wyrm, G7).
+- **The open road:** the first academy stretch (ranks 1→10), the development layer in motion, the first ring years off in-story and locked to the author's design (Light Wyrm — a Light Dragon Lizard, G7).
 - **Seals standing:** LSP-10 · R13/DRG-01 · NAE-02 · the Wyrm · Talent unnamed.
 
 *Anything not in this file that claims to be history is not history — check the commits.*

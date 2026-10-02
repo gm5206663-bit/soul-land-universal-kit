@@ -12,7 +12,7 @@
 | **Martial soul** | **Luo Sanpao** | Canon rows LSP-01..LSP-09. In-story at the start: the creature itself, manifesting outside the body, no rings, **no skills** (Yu Xiaogang's named skills are HIS acquisitions — firewall LSP-07). The world will call it trash; the sources' own record says its mutation was **benign and unfinished**. |
 | **Innate soul power** | **1** | Measured at the ceremony. **Rank one at six** (AW-07: the reading is the starting rank). **Nine ranks to the first ring** — and canon says only one in a thousand children have the power to climb at all (AW-02). |
 | **Talent** | **Adaptation Talent, from the womb** | Unnamed in prose. The weak pre-awakening version was spent entirely on the illness; the author has ruled the post-awakening mode **stronger** (`bible/ADAPTATION_MODULE.md`). |
-| **First spirit soul (forward lock)** | **Sun-Branded Wyrm** (author, 2026-10-02) | His rank-ten spirit soul — **an original creation of the author's** (no canon record; verified 2026-10-02). Mechanics stay the era's canon path (G3; re-verified at write-time). **Years away in-story; never rushed, never named early.** |
+| **First spirit soul (forward lock)** | **Light Wyrm** — a **Light Dragon Lizard** (author's naming, 2026-10-02: *"Light Wyrm / Light Dragon Lizard, don't mistake it"*) | His rank-ten spirit soul — **an original creation of the author's** (no canon record; verified 2026-10-02). Mechanics stay the era's canon path (G3; re-verified at write-time). **Years away in-story; never rushed, never named early.** |
 
 ## 2 · The boy and his people ([design], author-gated)
 
@@ -56,4 +56,4 @@ Six years old, undersized for his age and embarrassed about it, with a reader's 
 | G2 | **The illness's flavor** | **RESOLVED (author, 2026-10-02): both — one problem, two faces.** Soul-veins never took root; the body paid; the soul woke half-finished. |
 | G3 | **The first spirit soul** (rank-ten problem, years from now) | **Canon path, re-verified at write-time** (ERA-02); no invention |
 | G4 | **Working title** | ***One in a Thousand*** — canon line AW-02 + his reading + the door. Override = one word. |
-| G7 | **The first spirit soul** | **LOCKED (author, 2026-10-02): the Sun-Branded Wyrm** — original creation; canon-path mechanics; years away. |
+| G7 | **The first spirit soul** | **LOCKED (author, 2026-10-02): the Light Wyrm** (a Light Dragon Lizard) — *"don't mistake it"*; original creation; canon-path mechanics; years away. |

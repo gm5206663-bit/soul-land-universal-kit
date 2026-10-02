@@ -38,4 +38,4 @@
 
 ## 5 · What no one knows (the standing firewalls)
 
-**HIDDEN (author-only):** the Adaptation Talent · the spiritual-power curve · the dragon bloodline and the resonance (R13/DRG-01) · the seven-colored ring and what Na'er is (NAE-02) · the Sun-Branded Wyrm (LSP-10/LSP-08) · the father's page's true size (the family holds it; the world does not).
+**HIDDEN (author-only):** the Adaptation Talent · the spiritual-power curve · the dragon bloodline and the resonance (R13/DRG-01) · the seven-colored ring and what Na'er is (NAE-02) · the Light Wyrm (LSP-10/LSP-08) · the father's page's true size (the family holds it; the world does not).

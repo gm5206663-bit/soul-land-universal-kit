@@ -32,6 +32,7 @@
 | **Luo Sanpao** | Luo San Pao, Luo_San_Pao | the fandom's live page is `Luo_Sanpao`; "Sanpao" = *three shots* — **never explained on page** (no character knows why) |
 | **the pig** / **the creature** | the beast (for it) | the house's dry usage (Zhou Hui: "the pig"); narration: "the creature"; its own name only when a character says it |
 | **"luo luo"** | any other sound | the canon sound it makes; lowercase, quoted, rare |
+| **the Light Wyrm** (the first-spirit-soul lock — a **Light Dragon Lizard**) | "Sun-Branded Wyrm" (retired); any dragon-king confusion | The author's own creation, given in his own words (2026-10-02): *"Light Wyrm / Light Dragon Lizard, don't mistake it."* Never named or foreshadowed in prose (LSP-10); never conflated with canon's Light Dragon Dagger (Xie Xie), the Dragon Clan's Light Dragon King, or the Golden Dragon King. |
 
 ## 3 · Places and institutions
 
