@@ -65,12 +65,12 @@
 |---|---|---|---|
 | **C-01** | The record check: **nine**, the blue screen, the room stopped | His public record has moved for the first time since the brass plate's *one* | The tests paper, the price, and the day the machine is beaten or not — owed |
 | **C-02** | Teacher Lin's late letter to the office | An institution now holds his name on paper | What the office does with it; the spring tests |
-| **C-03** | The father's page — *The boy* — opened; *"I promise to write the page."* | The household's physician keeps a record he promised to keep | The page must grow — or be forced closed |
+| **C-03** | The father's page — *The boy* — opened; *"I am going to write the page. The whole of it. From the beginning."* | The household's physician keeps a record he promised to keep | The page must grow — or be forced closed |
 | **C-04** | The small read trade (the crate walk · **the wrong read (v2)** · **the contested trade (v2)** · the fishwife's row · the dockman's pier) | A service other people's money now depends on | **First failure PAID in v2** (winter one: the boy misread the pig's no and the tin paid the man; the fishwife's law); next owed: a read that goes wrong with no cause he can check |
 | **C-05** | The girl by the window speaks for him (*"He taught me."*) | The first person outside the family to defend him in public | Her name arrives only when a scene earns it |
 | **C-06** | The tin and the parents' promise (the day counted in daylight, the door open) | The day the price is spoken is a date the story owes | Canon's ch16 price wall is next door; the family's arithmetic meets it |
 | **C-07** | *One rank to go.* | The count motif closes its second loop | Rank 10 → the ring door (years; author lock) |
 
-**Felt density, ch 5 (v2): 11 (dust/current only — no bends)** — the wall · the market · the tap · the fishwife's rate · the blue screen · Lin's gate · the office · the Hand's whisper · Wulin's name · Na'er quoting her brother · the Tangs' gate. **Open strong lines for ch 6, in priority order:** **C-01** (the number nine meets the exit machinery) · **C-03** (the page) · **C-06** (money meets the price) · **C-02** (the letter) · **C-04** (the trade's first failure) · **C-05** (the girl's name) · plus B-05 · B-08 · B-09/B-11 standing.
+**Felt density, ch 5 (v2): 11 (dust/current only — no bends)** — the wall · the market · the tap · the fishwife's rate · the blue screen · Lin's gate · the office · the raised rate · Wulin's name · Na'er quoting her brother · the Tangs' gate. **Open strong lines for ch 6, in priority order:** **C-01** (the number nine meets the exit machinery) · **C-03** (the page) · **C-06** (money meets the price) · **C-02** (the letter) · **C-04** (the trade's first failure) · **C-05** (the girl's name) · plus B-05 · B-08 · B-09/B-11 standing.
 
 *Ch 6 waits on the author's word; the default lives in `OPEN_RULINGS.md` G12.*

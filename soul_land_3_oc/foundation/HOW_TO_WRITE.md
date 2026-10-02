@@ -64,6 +64,6 @@ Canon complete, in order, unskipped (R12) · fetched live (R1) · receipts per c
 
 ## 7 · Standing consequences in the files
 
-- **Chapter 5 v2 stands** (2026-10-02): the §3 rebuild executed — canon compressed to its load-bearing beats (≈37% of words); Su Yan's three costed events landed — **the wrong read** (winter one) · **the contested trade** (winter two) · **the tin's decision + the letter one rank short** (winter three); **Na'er met on the page three times across the years**; butterflies felt; voice back in band (11.1/8/0). The next written thing: **Chapter 6 — only on the author's word.**
+- **Chapter 5 v2 stands** (2026-10-02): the §3 rebuild executed — canon compressed to its load-bearing beats (canon-dedicated ≈ 26% of words, scene-level count); Su Yan's three costed events landed — **the wrong read** (winter one) · **the contested trade** (winter two) · **the tin's decision + the letter one rank short** (winter three); **Na'er met on the page three times across the years**; butterflies felt; voice back in band (11.1/8/0). The next written thing: **Chapter 6 — only on the author's word.**
 - **Chapter 6's plan** is rebuilt on this engine before any prose.
 - The miss is logged: `MISTAKES_LEDGER` **H11**; the receipt: `SERIAL_LOG` **LOG 023**.
