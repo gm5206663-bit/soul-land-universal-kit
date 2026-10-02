@@ -441,7 +441,7 @@ His sums page was filling. Radish basket, fish ends, grain-house seconds, the we
 
 The pig's coat had gone past glossy into something that caught the light at the hip. It slept deeper and longer and woke in the small hours and paced twice around the stove, and it answered the boy's voice the moment he spoke, from any room in the house, like a thing that had decided the question of whose it was.
 
-One evening the boy came to the pot and found a small paper twist sitting on the counter beside it. Inside were dried slices of something brown-gold and warm-smelling.
+One evening the boy came to the pot and found a small paper twist sitting on the counter beside it. Inside were dried slices of something brown and warm-smelling.
 
 His father was in the clinic doorway with his sleeves rolled, watching the bowl.
 
