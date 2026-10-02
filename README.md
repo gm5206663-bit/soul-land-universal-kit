@@ -1,7 +1,7 @@
 # ═══ WORKSPACE MAP — read this first ═══
 
 📖 **READ THE GOLDEN LION
-🆕 **NEW — SL3 PREQUEL (thirty years before canon; foundation phase): [`soul_land_3_prequel/README.md`](soul_land_3_prequel/README.md)** — premise candidates P1–P4 await the author's pick.
+🆕 **NEW — SL3 PREQUEL (thirty years before canon; foundation phase): [`soul_land_3_prequel/README.md`](soul_land_3_prequel/README.md)** — OC ruled (Devouring Dragon · womb-born Adaptation Talent · innate soul power 7); premise standing default P1 (the Blood God Army's hidden base).
 🌱 **PARKED — QING LING (Soul Land 3 fanfic; ch 1–7 shipped, gates green): [`_archive/2026-09-30_park/soul_land_3_fanfiction/`](_archive/2026-09-30_park/soul_land_3_fanfiction/) — resume via its `foundation/PARKED_2026-09-30.md`**
  (Soul Land 2 fanfic): [`THE_GOLDEN_LION.md`](THE_GOLDEN_LION.md)** — chapter list with direct links.
 
@@ -331,6 +331,6 @@ The author closed the SL3 serial **"Qing Ling"** and ordered the workshop cleane
 - **`Soul_Land_3_Project/` → `_archive/2026-09-30_park/Soul_Land_3_Project/`** — "The Adaptive Prodigy" (OC Lin Hao; 116 ch / 354,685 words), frozen reference since 2026-09-18; its own `THE_CODEX.md` remains its single source of truth.
 - **`blue_silver/` → `_archive/2026-09-30_park/blue_silver/`** — Book One complete (15 ch / 34,711 words); Book Two awaits author rulings.
 - **Five root docs → `_archive/2026-09-30_park/_root_docs/`** — `CLEANUP_2026-09-22_WORKSHOP.md`, `HOUSEKEEPING_2026-09-21.md`, `WORKSPACE_MAP_2026-09-22.md`, `DRAGON_PRINCE_YUAN_FANFICTION_HANDOFF.md` (pointer; project at `/home/user/dragon_prince_yuan_native_oc_fanfiction/`), `SOUL_LAND_4_FIRE_PHOENIX_NEXT_STEPS_FOR_CONTINUATION.md` (entry point; its own §0 law stands — STATUS_PANEL beats it).
-- **New serial founded: `soul_land_3_prequel/`** — Soul Land 3 era, **thirty years before canon begins** (author-locked 2026-09-30). Foundation phase: era dossier (verified, sourced), premise candidates P1–P4, open rulings. **No chapter until the author picks the premise.**
+- **New serial founded: `soul_land_3_prequel/`** — Soul Land 3 era, **thirty years before canon begins** (author-locked 2026-09-30). Foundation phase: era dossier (verified, sourced), premise candidates P1–P4, open rulings. **OC ruled same day:** Adaptation Talent from the womb · Devouring Dragon martial soul · innate soul power 7; premise standing default P1. **No chapter until the premise + gates are ruled.**
 - **On-disk view now:** root docs + `soul_land_2_new/` (live; its own agent owns it) + `_archive/2026-09-30_park/` + `soul_land_3_prequel/`. All other branches stay intact in git (sparse view), reachable via `git show HEAD:<path>`.
 
