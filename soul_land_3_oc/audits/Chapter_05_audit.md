@@ -52,4 +52,6 @@ LSP-10 (no gold on the soul) · R13/DRG-01 (no resonance beat spent) · NAE-02 (
 
 **Six lines moved:** standing (public nine; the office paper) · knowledge (the trade's law; the Hand's method vs the nose) · resource (the tin's columns; the pig's column) · relationship (Na'er · Wulin · Lin · the fishwife · the Tangs) · promise (the father's page; the family's daylight rule) · position (the tests list; *one rank short*).
 
+**Continuity repair (same day):** the harvest check no longer prints Wulin's ten — canon keeps him at the bottleneck until the graduation-year confirmation, which the chapter carries in full (the tenth, the seventh through the door, the letter, the stipend). The harvest exam now shows the same number twice with two meanings: his bottleneck holding; Su Yan's nine landing. Nothing else moved.
+
 **Seals:** LSP-10 · R13/DRG-01 · NAE-02 · R5 · Q-2 · no prices — all re-checked in the final text. **Verdict: PASS.**

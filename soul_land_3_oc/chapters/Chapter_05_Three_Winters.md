@@ -488,9 +488,7 @@ The machine was new that year — the academy's one purchase it could not stop b
 
 The class went down the alphabet. Numbers arrived at the screen. Some were what everyone expected. Some were not. The room priced both aloud. That was the room.
 
-Wulin's turn came and his screen went blue and the room said the number before the teacher did, which is how rooms confirm a fact they had already decided: ten.
-
-He was the seventh in the class through the door. Teacher Lin wrote it herself, and the room cheered as it had not cheered for the first six. The first six were arithmetic and this one had been a question. Questions getting their answers is the only thing rooms ever really cheer for.
+Wulin's turn came and his screen went blue and the number came up nine — the knot he had named in the classroom in the first weeks of the year, still tied. Nobody cheered and nobody was unkind. Questions getting their answers is the only thing rooms ever really cheer for, and this room had not stopped waiting on the answer; it had learned to wait quietly.
 
 Then the alphabet came down to the fourth row.
 
