@@ -1,0 +1,42 @@
+# MISTAKES LEDGER — *One in a Thousand* (serial-local)
+
+> **Purpose:** every strike, every correction, every house-caught error — what was wrong, what fixed it, and which law it became. **The author's word outranks every line here.** Nothing in this ledger excuses a repeat; each row ends in the file or rule that now prevents it. Read this before any pass.
+
+## 1 · The strikes (author's word) and their laws
+
+| # | Date | The strike (author, verbatim or near) | What was wrong | The fix | Where it lives now |
+|---|---|---|---|---|---|
+| 1 | 2026-10-02 | *"Delete it we create another because you completely can't create fen fiction without following canon"* | The deleted predecessor told an OC story with canon outside the window | Serial deleted; replaced by this one; **canon runs on the page, complete, in order** | **R12 · THE DUAL-TRACK LAW**; `OPEN_RULINGS.md` G0–G6 |
+| 2 | 2026-10-02 | ch 1 v1 *"This is pure nonsense…"* | Canon absent from the page | v5 rebuild: canon SL3 ch1+ch2 adapted on page | **R12**; `chapters/Chapter_01_The_Reading.md` |
+| 3 | 2026-10-02 | ch 1 v2 *"what the hell…"* / v3 *"What?, Same mistake you don't correct…"* / v4 *"Same"* | Register strikes — v2–v3 were polished-literary but not the house voice | Rebuilt in the FP register (short declaratives, scenes, dialogue-forward) | **R11 · THE FIRE PHOENIX REGISTER LAW**; `foundation/REGISTER_AND_STYLE.md` |
+| 4 | 2026-10-02 | *"you don't checking canon things and examples and reference others things fully… understand meaning and work and effects of everything"* | Terms used without canon-checked meaning, work, and effects | Every element gets a register row: *is · work · gates · costs · canon example · here* | **R17 · THE MEANING LAW**; `bible/WORLD_UNDERSTANDING.md` |
+| 5 | 2026-10-02 | *"Again, spritual power is one' thing a explan, one thing among all, i said you to understand"* | One term answered with one deep file; the whole missing | The register became the standing answer; spiritual power is one row | **R17**; `WORLD_UNDERSTANDING.md` |
+| 6 | 2026-10-02 | *"Spiritual power, you completely wrong, Spiritual power effect memory , intelligence and comprehension and others things"* | The effects were ordered wrong | Rewrote the doctrine: **memory · intelligence · comprehension first**, then the others | `bible/SPIRITUAL_POWER_LEDGER.md`; register row 3; receipt `580b7ac` |
+| 7 | 2026-10-02 | *"Adaption telent effect every part entire existence every single part… Luo Sanpao is also part, adaption telent is not just refiner it's more than that"* | The module called the Talent "the refiner" — one job instead of a whole-existence law | Module v3: preserve · maintain · refine · integrate · personalize · evolve; Luo Sanpao among the parts | **R16 · THE WHOLE-EXISTENCE LAW**; `bible/ADAPTATION_MODULE.md` v3; receipt `b0ac5a1` |
+| 8 | 2026-10-02 | *"…specially adaption telent you completely Nerfing… There training and development and others many things"* + *"Frist adaption telent refine his bloodline and others All things…"* | Growth under-modeled; no training layer; the early speed too small | Never-nerf armed; training and development became a layer with receipts | **R14** (receipts, never nerf) · **R19** (development law); `bible/TRAINING_AND_DEVELOPMENT.md`; ledger lines live |
+| 9 | 2026-10-02 | *"Body effect coultivation speed, meridians, affinity, before 40 years old, spritual power increases naturally, adaption telent is also there, bloodline is very important, and growth, Lou san pao is special martial soul, check everything"* | The body's role (speed, meridians, affinity, natural SP growth, bloodline) under-modeled | Body law armed; the speed-factor list made the spine of the training table | **R18 · THE BODY LAW**; spine BODY-01; receipt `9443023` |
+| 10 | 2026-10-02 | *"Luo Sanpao and su yan compatibility and Synergy and understanding and many things grow"* (order, not strike) | The pair had no doctrine — fit, work-together, and read were unstated | Pair ledger: compatibility · synergy · understanding · the three clocks; the read-ladder | **R20 · THE PAIR LAW**; `bible/PAIR_LEDGER.md`; receipt `06e2552` |
+| 11 | 2026-10-02 | *"Next"* — twice, both read as the go signal | n/a (recorded for rhythm: his *"Next"* = proceed on the named default) | G12 defaults executed (ch2, then ch3); the defaults live in OPEN_RULINGS so the go never needs re-explaining | `OPEN_RULINGS.md` G12; LOG 016, 018 |
+| 12 | 2026-10-02 | *"Create others All file's and others"* | The operating set was incomplete — referenced-but-missing files (audits, locks, firewalls, money) | This pass: the full file set built, each file citing the law it serves | this ledger; `canon_coverage/INDEX.md`; `audits/`; README |
+
+## 2 · Caught in-house (no author hit — fixed before ship)
+
+| # | When | The error | The fix | The rule now |
+|---|---|---|---|---|
+| H1 | ch2 → ch3 | ch2's closing evening clause (Wulin *"went to bed before dark"*) conflicted with canon ch5–ch7's evening — the foundling night happens the same day | One clause softened; the reconciliation receipted | LOG 018; coverage ch2/ch3 notes; **canon's clock wins** |
+| H2 | ch3 pre-ship | First draft: **12 sentences over 60 words, 19× "the way", one broken paragraph** | Style pass to 0 / 0; paragraph repaired | `measure_sl3p.py` **before every commit**; caps: 0 over 60, ≤2 "the way" |
+| H3 | ch3 pre-ship | The dried herb described "brown-gold" beside the pig's broth — a gold token near the soul's page business | Plain "brown" | No gold token anywhere near the soul (LSP-10 hygiene) |
+| H4 | any script pass | Sequential-replacement scripts stop at the first MISS; a chained commit silently skips when a script exits 1 | Anchor-grep before writing edits; verify `git log` + `git status` after every chained commit | `REGISTER_AND_STYLE.md` §5; never re-run an applied script |
+| H5 | tooling | bash from `/home/user` with bare relative paths fails (cwd trap) | Always `cd /home/user/kit` first | §5 |
+| H6 | sources | Dead slugs: `Luo_San_Pao` (fandom) empty; `Spirit_Souls` redirects to `Soul_Spirit`; wuxiaworld `duoluo-dalu` dead — working slug `legend-of-the-dragon-king/ldk-chapter-N` | Use the live slugs; record alternates | `CANON_SPINE.md` sources notes |
+| H7 | ch3 land | The author's *"Next"* arrived before ch3's own receipts were written (pipeline order risk) | Receipts written the same turn, before commit; the commit chain verified | Pipeline: write → receipts → one commit → verify → present |
+
+## 3 · Standing rules written in blood (the compressed form)
+
+1. **Fetch before claim** (R1) — never canon from memory.
+2. **Canon on the page, complete, in order** (R12) — the OC runs parallel, never instead.
+3. **Measure before commit** — 0 over 60, ≤2 "the way", CJK 0, dialogue-forward.
+4. **Receipts the same turn** — coverage, ledgers, log; no silent edits.
+5. **Never nerf; never fiat** (R14/R18) — growth is paid and shown.
+6. **Seals hold** — LSP-10 · R13/DRG-01 · NAE-02 · the Wyrm; the audits check them.
+7. **The author's word outranks every file.**

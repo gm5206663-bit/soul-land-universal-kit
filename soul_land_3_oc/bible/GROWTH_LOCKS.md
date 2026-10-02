@@ -1,0 +1,52 @@
+# GROWTH LOCKS — the numbers that must not drift
+
+> **Purpose:** the serial's arithmetic, in one place: what is public, what is private, what each crossing must cost, and where every current number is recorded. **Rule zero (R14):** numbers are receipts, not decoration — printed only where a scene earns them, and never vague where a scene *does* measure. **The author's dial overrides pace with one word.**
+
+## 1 · The public record (what the world holds)
+
+| Item | Value | Where it first stood | Notes |
+|---|---|---|---|
+| Su Yan — name, soul, innate | **SU YAN · Luo Sanpao · one** (brass plate) | ch 1, the Chamber | the ceremony registers innate soul power only; **no spiritual power reading exists anywhere public** (exact absence reason, R14) |
+| Su Yan — the state's file | *one, Luo Sanpao* | ch 3 (the records beat) | the same machinery that protected Wulin in ch5; a file can armor and a missing file can orphan |
+| Wulin — public | Bluesilver Grass, **rank 3** (canon) | canon ch2–ch4 | ours carries it as canon does |
+| The soul — the world's view | *trash pig; slow; three shots; not battle-worthy* | ch 1–3 | the legal record never moves on its own (LSP §3) |
+| The family's story | "the physician's boy who walked out with a pig" | ch 2 | the town's story #2 of three |
+
+## 2 · The private locks (bible-only, kept moving)
+
+| Item | Current value | Band/meaning | Recorded in |
+|---|---|---|---|
+| **Spiritual power** — Su Yan | **33** at the reading (rising on page) | Spirit Origin; **intermediate band (31–60)**; the band canon says can already carry a yellow soul | `SPIRITUAL_POWER_LEDGER.md` §5 |
+| **Soul-power rank** — private reality vs public | public **1**; the warmth's **first closed circulation** achieved by ch 3 | nine ranks to the first threshold (rank 10) | `SPIRITUAL_POWER_LEDGER` §5 · `TRAINING_AND_DEVELOPMENT` §5 · ch 3 text |
+| **The soul's practical-maturity index** | inside the **first-months band (1.05–1.15× canon baseline)**, upper end | baseline 1.00× = canon Luo Sanpao at the same cultivation | `LUO_SANPAO_GROWTH_LEDGER.md` §4 |
+| **The feed** | standing evening broth + basket; appetite rising a stage every few arcs | costs logged with the boy's sums page | `HOUSEHOLD_LEDGER.md` · LSP §4 |
+| **The pair's read-ladder** | rungs 1–2 receipted; **rung 3 opened** (ch 3: wrong once, then right) | six rungs; rung 6 sealed | `PAIR_LEDGER.md` §4 |
+
+## 3 · The crossings (each one is a scene, with a price)
+
+| Crossing | Gate | The scene must carry |
+|---|---|---|
+| **Rank 2** (soul power) | somewhere in the first academy stretch; author's dial sets the week | cause (feed · body · training · the mind), price (money, hours, sleep), behavior (a run longer, a recovery faster, the warmth steadier) — **no announcement** |
+| **First public spiritual-power number** | a measurement scene (academy route; the Pagoda records on first fusion) | parity: the exact value the private curve holds at that date; the scene itself states it (R14) |
+| **Band crossing 60** (advanced Spirit Origin) | written scene, first academy stretch per the plan | the deed that shows it before the number |
+| **The first ring → rank 10** | years away; **Sun-Branded Wyrm** (author lock) | the full earned arc — `bible/FIRST_RING_ACQUISITION.md` |
+| **The soul's step changes** | ruled by the author's tempo (G8) | a paid input the same chapter (feed/medicine/training); visible behavior, **never gold** |
+
+## 4 · The world's anchor prices (canon — the pressure table)
+
+| Item | Price | Source |
+|---|---|---|
+| Spirit soul — ten-year white | **70,000** | Spirit Pagoda branch, Glorybound (register row 18) |
+| Spirit soul — hundred-year yellow | **1,000,000** | same |
+| Spirit soul — random draw | **30,000** (may be defective/unsuitable) | same |
+| Spirit Ascension Platform entry | **≈500,000** per run; ~1,000 elementary spots a month | same |
+| Soul Master stipend | **1,000/month** at registration; rises at Grandmaster | register row 16 |
+| School | elementary + intermediate **free and compulsory** (Federation law); the family pays books, coat, the noon-meal line | canon ch4; `HOUSEHOLD_LEDGER.md` |
+
+## 5 · Drift checks (run when any number is printed)
+
+1. Does the printed number **match the ledger that holds it** (below)? If not, one of the two is wrong — fix before commit.
+2. If a scene **measures** and Su Yan is logically in it — is his value **exact, absent-with-reason, or a locked private note** (R14.1)?
+3. If a chapter **holds every number** — does it still say, in the log and on the page, **what did grow** (R14.4)?
+4. Did any crossing happen **without** its scene and price? → stop; it hasn't happened yet.
+5. Did any public record change **without** the world doing it on page? → stop; the record never moves on its own (LSP §3).
