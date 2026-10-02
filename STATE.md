@@ -99,4 +99,4 @@ Star Dou Forest, deep era). This was the live build at time of original STATE.md
 - **Chapter 1 written: `soul_land_3_oc/chapters/Chapter_01_The_Reading.md`** — his Awakening Day; 4,489 w; ALL 17.3/12/0 · NARR 18.6/14/0 · CJK 0; coverage filed. Awaiting his read; **chapter 2 only on his word.** **Push pending a fresh token.**
 
 ### 2026-10-02 (late)
-- Fire Phoenix deep check done — learned, not copied. Live edge after ch52; next fic ch53 / source ch178. No project files touched.
+- Fire Phoenix full check done live from GitHub (storyos-site mirror = ch1–52 + panel/rules/bans; kit copies are pre-rebuild for ch26–31). Live edge after ch52 *Amiable Beasts*; next fic ch53 / source ch178 `Collaborate` (source text not held → must be fetched, never paraphrased). Yan Rank39/SP962/Spirit Sea, 3 purple rings, Ultimate Fire active (high output restricted), true flight training-stable; Kite 3,100 / Roc 3,950 / Eidolon 6,400; Dorm333 champion 20,341, Dorm336 second 9,846; D001/D002 binding. No project files touched.
