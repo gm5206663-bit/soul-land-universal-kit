@@ -55,6 +55,23 @@ Three bloodlines run through this era's children, and **none may be named before
 
 **And every growth stays paid for** (feeding from D-07, bloodline work from §1b of the Adaptation module): bowls counted, herbs costed, months spent. No free dragon. No free day.
 
+## R14 · THE RECEIPT LAW — numbers, growth, never-nerf **(armed 2026-10-02, after the deep pass on the author's own operating system)**
+Learned from the author's corrections inside his SL4 project (do not nerf the early speed · exact measurement parity · living growth kept in ledgers):
+
+1. **Exact numbers at measurement contexts.** Where canon measures a category (soul-power rank; spiritual power; later ring / soul-spirit / medical / registration data) in a scene where Su Yan is present or logically processed, he receives **an exact value, an exact absence reason, or a locked private-record note** — never "about the same," "higher," "improved."
+2. **Ledgers stay live:** `bible/SPIRITUAL_POWER_LEDGER.md` and `bible/LUO_SANPAO_GROWTH_LEDGER.md` update with every chapter — cause and price recorded. Numbers are bible-visible; prose prints them only when a scene earns them.
+3. **No nerfing the speed; no fiat leaps.** Su Yan's early growth is **real and faster than ordinary** — the stack (freed Talent + feed + medicine + training + a reinforced mind) pays for it — and it is **never fast beyond reason**: every stage gets an earned scene, a real cost, a receipt. No dead seasons; no free growth.
+4. **A chapter may hold rank / SP while still giving real growth** (control, correction, recovery, knowledge, relationships). When it does, say what grew — never write a bare "no upgrade" claim.
+5. **Never framed as ordinary.** A peer's higher raw value in one category never makes Su Yan plain, stalled, or small. His path is a wider stack; the prose must not use poetry that shrinks him.
+
+## R15 · THE BUTTERFLY LAW — canon on the page, residue in the world **(armed 2026-10-02)**
+From the author's own correction of his SL4 project (canon shown properly; presence must leave natural traces):
+
+1. **Canon runs complete and in order** (R12) — and canon scenes are written with their **causes, pressures, and consequences**, never as checklist summary.
+2. **Where Su Yan is publicly or plausibly present, his existence leaves believable residue:** a record, a teacher's second look, queue talk, the town's two stories, a family's changed habit. Presence-, record-, relationship-, and resource-butterflies — small, causal, permanent.
+3. **Where canon's scene is private, the reader may see it in parallel; Su Yan must not learn it** without an earned route. Canon outcomes stay canon's: his existence may change reactions, records, timing, and mood — **never a canon event's essential result, never a canon secret for free.**
+4. **No forcing:** he is never bent into rooms, trips, or scenes where logistics say he would not be. The butterfly is his locked life touching the shared world — not the world rearranging around him.
+
 ## R10 · THE SISTER LAW
 The author reads the chapters; the files never argue with him. Veto = one word = the files change the same turn, receipts written, no silent edits.
 
