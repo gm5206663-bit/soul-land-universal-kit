@@ -1,9 +1,9 @@
 # TOP-LEVEL STATE — read this first (updated 2026-09-30)
 
-> **UPDATE 2026-09-30 (Qing Ling parked · workshop park · new SL3 prequel founded):**
+> **UPDATE 2026-09-30 (Qing Ling parked · workshop park · new SL3 prequel founded) + 2026-10-02 (prequel CH 1 LIVE):**
 > - **"Qing Ling" (`soul_land_3_fanfiction/`) — PARKED at ch 7** (every gate green; ch 7 *Room 205* was the last ship; receipts complete through SERIAL_LOG 015). Moved to `_archive/2026-09-30_park/soul_land_3_fanfiction/`; resumable — start at its `foundation/PARKED_2026-09-30.md`. **PUSHED 2026-09-30.** The whole local chain is now on GitHub: `1b2ac8a..9c77343` = ch 7 (`2ea1ef6`) + the Qing Ling park (`018ec1f`) + the workshop park (`647dad0`) + the OC ruling (`7bc10bb`) + the prequel foundation v1 (`9c77343`). Snag closed.
 > - **Workshop park:** `Soul_Land_3_Project/` (frozen reference), `blue_silver/` (Book One complete) and five dated root docs moved by `git mv` into `_archive/2026-09-30_park/` — zero content changes, nothing deleted. Map: that folder's `README.md`.
-> - **New serial founded: `soul_land_3_prequel/`** — Soul Land 3 era, **thirty years before canon start** (author-locked). Foundation phase: era dossier + premise candidates P1–P4 + open rulings. **OC ruled 2026-09-30:** womb-born Adaptation · **Devouring Dragon** martial soul · innate 7; **premise confirmed: the Blood God Army's hidden base at the Abyssal Passage** (born-in child; awakening-day opening at ~6); working title: ***The Sixth Kilometer***. Bible v1 + canon spine filed. No chapter until the last gates (name R7, devouring R10, ring path R12, venue R13) are ruled.
+> - **`soul_land_3_prequel/` — *The Sixth Kilometer* — CH 1 LIVE (2026-10-02).** Thirty years before SL3. Author's word *"Give name yourself and others things, Next"* → name **Cen Zhen** chosen by delegation; gates R3/R5/R6/R7/R10/R11/R12/R13 resolved; **Chapter 1 *The Windless Day*** shipped — 4,994w · ALL 16.9/15/0 · NARR 16.2/14/0 · CJK 0 — with receipts (coverage, audit, STATUS v1, OC_STATUS v1, NO_MISTAKE armed; ch 2 pit + three markers in `foundation/NEXT_STEPS.md`). Canon re-verified live 2026-10-02; spine row AR-12 added.
 > - **On-disk view now:** root docs + `soul_land_2_new/` + `_archive/2026-09-30_park/` + `soul_land_3_prequel/`.
 
 > **UPDATE 2026-09-26 (full account audit — 12 repos, 9 public cloned):**

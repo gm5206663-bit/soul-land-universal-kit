@@ -1,7 +1,7 @@
 # ═══ WORKSPACE MAP — read this first ═══
 
 📖 **READ THE GOLDEN LION
-🆕 **NEW — *The Sixth Kilometer* (SL3 prequel, thirty years before canon; foundation phase): [`soul_land_3_prequel/README.md`](soul_land_3_prequel/README.md)** — OC ruled (Devouring Dragon · womb-born Adaptation · innate 7); premise **confirmed: the Blood God Army's hidden base at the Abyssal Passage**; bible v1 + canon spine filed.
+🆕 **NEW — *The Sixth Kilometer* (SL3 prequel, thirty years before canon): [`soul_land_3_prequel/README.md`](soul_land_3_prequel/README.md)** — **Chapter 1 LIVE: *The Windless Day* (4,994w; gates green)**. OC: **Cen Zhen** (name chosen by delegation 2026-10-02) — Devouring Dragon · womb-born Adaptation · innate 7 · born-in child; premise confirmed: the Blood God Army's hidden base at the Abyssal Passage.
 🌱 **PARKED — QING LING (Soul Land 3 fanfic; ch 1–7 shipped, gates green): [`_archive/2026-09-30_park/soul_land_3_fanfiction/`](_archive/2026-09-30_park/soul_land_3_fanfiction/) — resume via its `foundation/PARKED_2026-09-30.md`**
  (Soul Land 2 fanfic): [`THE_GOLDEN_LION.md`](THE_GOLDEN_LION.md)** — chapter list with direct links.
 
@@ -331,6 +331,6 @@ The author closed the SL3 serial **"Qing Ling"** and ordered the workshop cleane
 - **`Soul_Land_3_Project/` → `_archive/2026-09-30_park/Soul_Land_3_Project/`** — "The Adaptive Prodigy" (OC Lin Hao; 116 ch / 354,685 words), frozen reference since 2026-09-18; its own `THE_CODEX.md` remains its single source of truth.
 - **`blue_silver/` → `_archive/2026-09-30_park/blue_silver/`** — Book One complete (15 ch / 34,711 words); Book Two awaits author rulings.
 - **Five root docs → `_archive/2026-09-30_park/_root_docs/`** — `CLEANUP_2026-09-22_WORKSHOP.md`, `HOUSEKEEPING_2026-09-21.md`, `WORKSPACE_MAP_2026-09-22.md`, `DRAGON_PRINCE_YUAN_FANFICTION_HANDOFF.md` (pointer; project at `/home/user/dragon_prince_yuan_native_oc_fanfiction/`), `SOUL_LAND_4_FIRE_PHOENIX_NEXT_STEPS_FOR_CONTINUATION.md` (entry point; its own §0 law stands — STATUS_PANEL beats it).
-- **New serial founded: `soul_land_3_prequel/`** — Soul Land 3 era, **thirty years before canon begins** (author-locked 2026-09-30). Foundation phase: era dossier (verified, sourced), premise candidates P1–P4, open rulings. **OC ruled same day:** womb-born Adaptation · **Devouring Dragon** martial soul · innate 7; **premise confirmed:** the Blood God Army's base at the Abyssal Passage; working title chosen: ***The Sixth Kilometer***; bible v1 + canon spine filed. **No chapter until the last gates are ruled.**
+- **New serial LIVE: `soul_land_3_prequel/`** — Soul Land 3 era, **thirty years before canon begins** (author-locked 2026-09-30). **Ch 1 *The Windless Day* shipped 2026-10-02** on the author's *"Give name yourself and others things, Next"*: name **Cen Zhen**; all gates resolved; chapter gated (4,994w · ALL 16.9/15/0 · CJK 0); receipts `canon_coverage/` + `audits/` + STATUS v1 + NO_MISTAKE live rules armed; ch 2 pit sits in `foundation/NEXT_STEPS.md` with three markers.
 - **On-disk view now:** root docs + `soul_land_2_new/` (live; its own agent owns it) + `_archive/2026-09-30_park/` + `soul_land_3_prequel/`. All other branches stay intact in git (sparse view), reachable via `git show HEAD:<path>`.
 
