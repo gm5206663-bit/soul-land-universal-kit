@@ -33,4 +33,6 @@
 
 ## Status — 2026-10-02
 
-**Chapter 1 shipped: `chapters/Chapter_01_The_Reading.md`** (the author's answers folded in: Glorybound; the illness as both; the Sun-Branded Wyrm held as the far-forward lock). Gate run: body 4,513 w · avg 17.6 / median 12.0 · **0 sentences over 60** · CJK 0. Coverage: `canon_coverage/Canon_Coverage_Chapter_01.md`. Awaiting the author's read before any work on chapter 2.
+**Chapter 1 shipped, then rewritten to v2 on the author's word the same day: `chapters/Chapter_01_The_Reading.md`** (v2 body: 4,645 w · avg 16.0 / median 12.0 · **0 sentences over 60** · NARR 17.4/14.5/0 · dialogue paragraphs 38 · CJK 0 · "the way" tic 2). What v2 added: the era's furniture on page one (soul communicator, Federation custom), canon's two world lines verbatim (*"only one in a thousand people might possess soul power"*; *"Come here child. Stand in the middle."*), the canon radish feeding as soft texture, and a full tic/register pass. Coverage: `canon_coverage/Canon_Coverage_Chapter_01.md` (rewritten to v2, rewrite receipt inside). v1 remains in git history.
+
+**Awaiting the author's read of v2. Chapter 2 only on his word.**

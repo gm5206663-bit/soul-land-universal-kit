@@ -2,7 +2,7 @@
 
 > **The lock (author's word, 2026-10-02, verbatim):** *"Oc same age as Tang wulin, his family is good, he Awaken his martial soul is Luo Sanpao with innate soul power 1, he have adaption telent but he have illness so adaption telent working on that' that's why innate soul power low and martial souls like this, because you know Frist adaption telent is pre awakening version is not that' strong it becomes stronger after awakening after more you can check information, although he recovers from illness just before awakening"* — and the same message's other half: **the previous serial (*The Sixth Kilometer*) was deleted by that word. This serial replaces it.**
 >
-> **Status:** **foundation v1 — founded 2026-10-02**, all canon verified live the same day (see `foundation/CANON_SPINE.md`; sources fetched 2026-10-02). **No chapter yet** — Chapter 1 is planned in `foundation/NEXT_STEPS.md` and waits on the author.
+> **Status:** **foundation v1 — founded 2026-10-02**, all canon verified live the same day (see `foundation/CANON_SPINE.md`; sources fetched 2026-10-02). **Chapter 1 shipped and rewritten to v2 the same day on the author's word** — `chapters/Chapter_01_The_Reading.md`; **awaits the author's read; chapter 2 only on his word.**
 
 ## The premise in one breath
 
