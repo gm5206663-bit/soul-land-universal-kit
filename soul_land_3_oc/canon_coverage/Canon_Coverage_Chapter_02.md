@@ -77,5 +77,5 @@ What this chapter puts **on the page** from the canon records, and what is ours.
 ## 7. Seals and metrics
 
 **Seals held:** no gold on the soul (LSP-10); no bloodline or resonance (R13 / DRG-01); no Na'er foreshadow (NAE-02); no spiritual-power number printed; the Talent unnamed.
-**Metrics (measure tool):** body words **5,688** · ALL avg 14.0 / median 11 / **0 over 60** · NARR 15.8 / 13 / **0 over 60** · dialogue paragraphs **60** · CJK **0** · "the way" **2** (house cap).
+**Metrics (measure tool):** body words **5,688** · ALL avg 14.0 / median 11 / **0 over 60** · NARR 15.8 / 13 / **0 over 60** · dialogue paragraphs **60** · CJK **0** · "the way" **2** (house cap). **(Reconciled 2026-10-02, LOG 018: one evening clause softened for the canon ch5–ch7 timeline — now 5,677 w · 13.9/11/0; the beat tables above unchanged.)**
 **Ledgers updated:** `bible/LUO_SANPAO_GROWTH_LEDGER.md` (addendum — the stage opened) · `bible/SPIRITUAL_POWER_LEDGER.md` (ch-2 receipt — no crossing) · `foundation/SERIAL_LOG.md` (LOG 016).

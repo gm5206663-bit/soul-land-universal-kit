@@ -91,5 +91,5 @@ What this chapter puts **on the page** from the canon records, and what is ours.
 ## 8. Seals and metrics
 
 **Seals held:** no gold on the soul (LSP-10); no bloodline named, no resonance explained (R13 / DRG-01 — one wordless turn only); Na'er's nature never named, hinted, or suspected (NAE-02); no numbers printed; the Talent unnamed; no futures spent (no ring, no spirit soul, no platform, no forging).
-**Metrics (measure tool):** body words **6,834** · ALL avg 13.7 / median 9 / **0 over 60** · NARR 15.7 / 12 / **0 over 60** · dialogue paragraphs **70** · CJK **0** · "the way" **0**.
+**Metrics (measure tool):** body words **6,885** · ALL avg 13.6 / median 9 / **0 over 60** · NARR 15.6 / 12 / **0 over 60** · dialogue paragraphs **70** · CJK **0** · "the way" **0**.
 **Ledgers updated:** `bible/LUO_SANPAO_GROWTH_LEDGER.md` (§4 addendum — second stage) · `bible/SPIRITUAL_POWER_LEDGER.md` (§5 receipt — the first circle) · `bible/PAIR_LEDGER.md` (§4 rungs 2–3 receipts) · `foundation/SERIAL_LOG.md` (LOG 018).

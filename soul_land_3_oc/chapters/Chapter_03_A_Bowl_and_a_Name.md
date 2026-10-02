@@ -21,7 +21,7 @@ That settled, he noticed the next thing.
 
 He was starving.
 
-The academy gave the Soul Master class one meal, and that meal had no limit woven into it. At noon Wulin had eaten enough for half a dozen students. By the end of the lunch hour the room had a name for him, and by the end of the afternoon the name had stuck. Rice Bucket. Now it was the middle of the afternoon, and his body had put in a new order.
+The academy gave the Soul Master class one meal, and that meal had no limit woven into it. At noon Wulin had eaten enough for half a dozen students. By the end of the lunch hour the room had a name for him, and the name had stuck for good. Rice Bucket. Now it was the middle of the afternoon, and his body had put in a new order.
 
 Hunger was new to him. He had always loved food. This week he had started to need it. He walked a little faster, because there was food at home.
 
