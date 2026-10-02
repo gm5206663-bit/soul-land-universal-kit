@@ -4,7 +4,7 @@
 
 ## 1 · The register objects
 
-- **Primary:** the Fire Phoenix corpus — the author's own serial, read as law (living mirror: `scratch/repos/storyos-site/` — read-only; the `_archive/2026-09-30_park/` copies; `SL_ARCHIVE/sl4_foundation_v2/` notes). Measured signature: avg 8–9 / median 6–7, fragments and one-line paragraphs carrying rhythm, dialogue-forward.
+- **Primary:** the Fire Phoenix corpus — the author's own serial, read as law (in-repo copies: `_archive/2026-09-30_park/`; `SL_ARCHIVE/sl4_foundation_v2/` notes; fresh pages from the public `gm5206663-bit/storyos-site` when needed — read-only. The workspace's local mirror was pruned 2026-10-02 for weight; nothing in-repo depends on it). Measured signature: avg 8–9 / median 6–7, fragments and one-line paragraphs carrying rhythm, dialogue-forward.
 - **Sibling:** *The Golden Lion* ch 1.
 - **Method, never copy:** from the corpus we take voice, structure, and discipline — never text, never scenes. Receipts of what was learned live in `SERIAL_LOG` and the ledgers.
 
