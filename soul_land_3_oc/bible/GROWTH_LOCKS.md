@@ -23,6 +23,8 @@
 | **The feed** | standing evening broth + basket; appetite rising a stage every few arcs | costs logged with the boy's sums page | `HOUSEHOLD_LEDGER.md` · LSP §4 |
 | **The pair's read-ladder** | rungs 1–3 receipted (rung 3 deepened ch 5: reads for others' money); **rung 4 opened** — the shot still unspent | six rungs; rung 6 sealed | `PAIR_LEDGER.md` §4 |
 
+> **Win-copy note:** the *current* values (rank · spiritual power · the pair's ladder · the soul's index) stand in `bible/SU_YAN_STATUS.md`; among files that panel wins — this table keeps the locks, the bands, and the prices.
+
 ## 3 · The crossings (each one is a scene, with a price)
 
 | Crossing | Gate | The scene must carry |

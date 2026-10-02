@@ -44,6 +44,8 @@
 
 ## 5 · Su Yan's ledger (locked; SL3 scale)
 
+> **Win-copy note:** the *current* value restates in `bible/SU_YAN_STATUS.md` §4 — among files that panel wins; this ledger keeps the curve, the bands, and the receipts.
+
 | When | Soul power (public record) | Spiritual power | Realm / band | Source / reason |
 |---|---:|---:|---|---|
 | Wake-up call (ch 1–2 era, age six) | **Innate rank 1** — measured at the ceremony, brass plate, public | **not measured** | — | exact absence reason: the ceremony registers innate soul power only; spiritual power is tested later (academy channels / Spirit Pagoda on fusion) |
