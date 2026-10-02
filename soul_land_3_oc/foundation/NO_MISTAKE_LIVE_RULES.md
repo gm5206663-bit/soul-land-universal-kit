@@ -72,6 +72,11 @@ From the author's own correction of his SL4 project (canon shown properly; prese
 3. **Where canon's scene is private, the reader may see it in parallel; Su Yan must not learn it** without an earned route. Canon outcomes stay canon's: his existence may change reactions, records, timing, and mood — **never a canon event's essential result, never a canon secret for free.**
 4. **No forcing:** he is never bent into rooms, trips, or scenes where logistics say he would not be. The butterfly is his locked life touching the shared world — not the world rearranging around him.
 
+## R16 · THE REFINER LAW — never nerf the Talent **(armed 2026-10-02, after "specially adaption telent you completely Nerfing")**
+Three projects, one law. **In his SL2 serial the author's own card reads: "Bloodline refinement: each compatible donor purifies/strengthens the … bloodline" (L-04.3), with a live efficiency figure (L-04.4). In the SL4 serial the corrections read: "do not nerf… early cultivation speed" and a growth engine that outruns increased demand. The Master Foundation §23.1 requires the pre-opening baseline to be extraordinary in every area the holder's history and world genuinely support, bans invented walls (§24.2), forced stagnation (§24.4), and arbitrary weakness (§75.27), and rules that "cannot create from nothing" must never be read as "can only improve old things" (§75.13).**
+
+Here: **the Talent's first work is Su Yan's bloodline, then all things** (author correction, 2026-10-02). The low measured rank is a receipt, not a verdict on the child; the refinement of body, mind, spirit-veins, senses, bloodline, and soul-layer never stopped during the illness and does not stop in the story. Training and development are the story's moving parts — shown on the page, cause and price receipted. **No shrink passes** (house ledger E11: always add development); **no baseline nerf** (E12); **no dead chapters.**
+
 ## R10 · THE SISTER LAW
 The author reads the chapters; the files never argue with him. Veto = one word = the files change the same turn, receipts written, no silent edits.
 

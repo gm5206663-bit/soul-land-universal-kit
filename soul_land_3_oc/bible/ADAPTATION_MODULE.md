@@ -1,48 +1,54 @@
-# ADAPTATION MODULE — Su Yan, human holder, the Sixth Year
+# ADAPTATION MODULE — Su Yan (苏晏), the Sixth Year
 
-> **Application of the Definitive Master Foundation v2.0** (controlling text: `SL_ARCHIVE/inbox/Adaptation-Talent-Definitive-Master-Foundation.md`, v2.0 consolidated 30 July 2026 — present in the kit's git tree; quoted short and cited by section). **Sibling receipts:** `SL_ARCHIVE/sl4_foundation_v2/bible/ADAPTATION_TALENT_LOCAL.md` §8.5A + `YAN_SHUO_AWAKENING_FOUNDATION.md` §5 (the author's earlier ruling of the same law) · `soul_land_devouring_dragon/bible/ADAPTATION_MODULE.md` (beast) · `soul_land_2_new/foundation/THE_LION_MODULE.md` (womb-born).
+> **v2 — rewritten 2026-10-02 after the author's correction:** *"First adaption telent refine his bloodline and others All things … specially adaption telent you completely Nerfing."* The v1 module (git history) framed the Talent as a survival engine that spent everything on the illness and had *"nothing left."* **That was a baseline nerf.** The corrected law below is checked against: the **Master Foundation v2.0** (kit text, §§ cited below) · the author's own law in the SL2 serial (`soul_land_2_new/foundation/AUTHORS_LAW.md` **L-04.3: "Bloodline refinement: each compatible donor purifies/strengthens the … bloodline"**; L-04.4, a live early efficiency figure) · the SL4 serial's corrections (**"do not nerf… early cultivation speed"**, `ADAPTATION_TALENT_LOCAL.md` §8.5A) · and the author's verbatim rulings quoted in §0.
 
-## 0 · The author's ruling this serial is built on (verbatim, 2026-10-02)
+## 0 · The author's rulings (verbatim)
 
-*"he have adaption telent but he have illness so adaption telent working on that' that's why innate soul power low and martial souls like this, because you know Frist adaption telent is pre awakening version is not that' strong it becomes stronger after awakening after more."*
+- **Founding, 2026-10-02:** *"he have adaption telent but he have illness so adaption telent working on that' that's why innate soul power low and martial souls like this, because you know Frist adaption telent is pre awakening version is not that' strong it becomes stronger after awakening after more."*
+- **Correction, 2026-10-02:** *"First adaption telent refine his bloodline and others All things, Tang wulin and na'er bloodline influence, and many others things, specially adaption telent you completely Nerfing, please i advice you check my projects all and also canon, There training and development and others many things."*
 
-**Confirmed against the house's own records the same day:** §8.5A of the SL4 local module carries the earlier correction of the same law — *"Adaptation Talent has worked passively for six years before awakening and enters a stronger post-awakening mode."* The master foundation says it structurally: the Talent is present from conception; **"an awakening reveals or expands expression that has already been developing"** (§6.1). There is no contradiction between the two versions — only staging:
+## 1 · What the Talent is (the definition this serial runs)
 
-## 1 · Tier 0 — from the womb to age six (the weak version; this boy's whole childhood)
+Master §2: an innate, pure, inseparable, non-sentient existential principle, present from conception, that "continuously uses the holder's real existence, experience, information, resources, intentions, recovery, relationships, and accessible reality to **preserve, refine, integrate, personalize, and evolve** the holder's complete being." It is not a system, AI, voice, or automatic-training cheat (IATS is separate, §28). It is the **refiner**: it takes what is real and perfects it.
 
-- **Master §6.1:** a Talent-holder's childhood is real developmental time, and a child cannot be written as ordinary *"unless a verified cause explains severe deprivation, suppression, incompatibility, **damaged embodiment**, or an unusually limited world pathway."* **This holder has the carve-out: damaged embodiment.** The illness is the verified cause — author's G2: the soul-veins and the body, one problem wearing two faces; the soul itself came out half-finished.
-- **What the Talent did for six years (house precedent, §5 of the Yan Shuo foundation):** *"its first job is not power fantasy. Its first job is viability."* Here it is the same law at maximum intensity: the fetus and the newborn were failing; the Talent treated **the boy's continued existence** as the project — organs, breath rhythm, warmth, the war against the fading — and spent its entire budget there.
-- **Output of Tier 0 (visible, priced):** a child who survived an illness he should not have, and **nothing else**. No catch-up foundation (the "always operating, not always escalating" clause — §6.3 — covers illness: it kept working, it had nothing left to escalate with). No social or mental showcase either: the master's identity-protection tendency is why the boy is a **person** and not a phenomenon — he reads, he sulks, he plays, he is loved.
-- **Consequences stamped at the awakening (the author's lock):**
-  1. **Innate soul power 1** — a thin foundation (canon: body condition and nourishment affect soul-power development — AW/D-02).
-  2. **The soul came out half-finished — Luo Sanpao** (LSP-01: canon's own diagnosis of this soul is *benign mutation, halted halfway*). The connection (the illness years as the "unknown factor" that halted this boy's flowering) is [design], author-gated; the deeper why stays OPEN (D-03).
+**Its first work in this serial, by the author's order: his bloodline — then all things.** "All things" runs the master's complete scope: body and organs, breath, senses, mind, spirit-veins, instincts, emotions, recovery — and every genuinely connected layer, including **the soul-layer** (Luo Sanpao is a real interacting layer; the Talent may refine it) and, in time, **training, development, compatibility, environment fit**.
 
-## 1b · Tier 1's main project — the true bloodline (author directive, 2026-10-02)
+## 2 · The six years (Tier 0) — receipts, not excuses
 
-The author's word: **Luo Sanpao's true bloodline — the Adaptation Talent is stronger now, so of course it works on it.** The engine that spent six years keeping a failing body alive is now free — and its chosen project is the **stalled higher-dragon mutation inside Luo Sanpao** (canon's own benign-but-halted mutation; the sealed gold of LSP-10). Consequences, enforced:
+The illness is real (author lock: soul-veins and body, one problem; innate 1; the soul came out half-finished). But the master's own law stands: **suppression reduces current expression; it never erases the underlying work** (§6.5). Survival was the priority (§75.8) — *and the refinement never stopped.* What six years actually bought, quietly:
 
-- **Slow, priced, evidence-based.** The bloodline strengthens the way the master foundation demands — every movement through its gate (possibility → input → substrate → resources → construction → integration → evidence → scope). Inputs the boy can actually give: **feeding (good food, herbs), training, rest, recovery, study**; the Talent converts those into progress no ordinary keeper could get from the same bowl.
-- **Never named in prose** while the window is closed (LSP-10). The reader may one day see gold; the story, for now, sees only a soul that grows better than it should and a boy who keeps feeding it.
-- **What it does NOT do:** no instant dragon, no revealed inheritance, no power without substrate, no speech from the soul, no skipping ranks. The creature's canon faculties (nose, endurance, the three-shot ceiling) stay the baseline; growth past them is earned, chapter by chapter.
-- **The appetite parallel (canon WUL-02):** canon's own protagonist shows a sealed great bloodline first as enormous hunger (the Rice Bucket day). Here the same law shows through the soul: **as the bloodline strengthens, the creature's needs rise — more food, better food, more recovery** — and the household ledger feels it. Growth and cost travel together, always.
+1. **The bloodline, refined.** The thin old dragon line in him kept clean and alive, strengthened a little at a time. This is why his bloodline is *real* now — and why, as it grows stronger ("su yan dragon bloodline become stronger"), its influence can reach the other two dragon-blooded children. [Author spec; staging [design], author-gated — spine D-08.]
+2. **Mind and spirit-veins — reinforced.** The engine worked a soul-vein system under constant strain; the pressure trained what it did not break. Receipt: **spiritual power very good for his age** (spine D-06; exact values in `bible/SPIRITUAL_POWER_LEDGER.md`).
+3. **Body harmony and recovery.** Organs, breath, warmth, sleep — the reason the recovery in the last winter came out clean, and the reason he runs the lanes weeks after a childhood spent in bed.
+4. **Senses and instincts.** Two rooms, a clinic, a grain house, six years of watching adults work with their hands: weather, weights, voices, pain, seasons.
+5. **The adaptive method itself** (recursive refinement, §§16, 29) — the engine adapts him better now than it could six years ago.
 
-## 2 · Tier 1 — after the awakening (the stronger version; the story's engine)
+**The bill is the measured thing the world reads:** innate 1; a soul out of the old jokes. The world reads the bill. **The receipts are the story.**
 
-- **The hinge:** the master foundation's own words (§6.1) — the awakening **reveals or expands expression that has already been developing.** For the first time in his life the Talent has no emergency; the illness is finished; the body holds. What it was spending on survival becomes available for the climb — **this is the escalation the author ruled.** It is not a new power; it is the same engine, freed.
-- **What it works on now (roads, not promises):** body–soul fit and breath rhythm; recovery from food and sleep; the refining of what the academy teaches; correction of every mistake (a Talent-shaped student is a *correcting* student); the slow strengthening of a thin foundation toward the ladder; and — per §1b — **the true bloodline of Luo Sanpao**.
-- **The spiritual-power dividend (author directive):** Tier 0 was not only survival — six years of an engine working on a soul-vein system under constant strain left the **mind and the spirit-veins reinforced**: his spiritual power is unusually good for his age (D-06). It shows as quality first; the academy's tests will one day put a number in front of it — and **receipts stay live** (`bible/SPIRITUAL_POWER_LEDGER.md`, `bible/LUO_SANPAO_GROWTH_LEDGER.md`, R14): every real movement of state is ledgered with cause and price, chapter by chapter.
-- **What it cannot do (the master's limits, enforced):**
-  - **No free output** (master: every gain needs substrate; §22.2 gate runs on every real movement — possibility → input → substrate → resources → construction → integration → evidence → scope).
-  - **No implausible compensation** (master §23.1 forbids the exact story-error our premise could fall into: *"Start extremely low and then compensate with implausibly fast growth."* His early ranks must be **earned and honestly paced**; the Talent makes him *efficient*, not *fast beyond reason*.)
-  - No knowledge without a source; no sentience; no readout; no plan.
-- **Tier 2+ (later arcs):** expression continues to deepen with the holder's development (the author's "after more") — always event-shaped, always receipted, never a formula.
+## 3 · Tier 1 (after the awakening) — the stronger mode
 
-## 3 · House laws binding this module
+- The awakening "reveals or expands expression that has already been developing" (§6.1). The emergency is over; **refinement becomes the plan.**
+- **His bloodline first:** it strengthens continuously — slow, priced, seen by nobody (R13 sealed). As it strengthens, the influence runs between him and the two other dragon-children — **Wulin, the golden line carried low; Na'er, the silver line hidden**: pull, warmth, attention, comfort. Canon's order and outcomes stay canon's; never knowledge, never a reveal (DRG-01).
+- **The soul-layer (Luo Sanpao):** the Talent works the stalled higher-dragon line (author: *"of course it's work on it"*), fed by the boy's own hands (`bible/LUO_SANPAO_GROWTH_LEDGER.md`).
+- **All things:** body–soul fit; breath rhythm; senses; instincts; recovery; the refining of whatever real training contains.
+- **Training and development are the story's moving parts** (author: *"There training and development and others many things"*). The Talent performs **no automatic training** — it multiplies *real* work. Every chapter shows development on the page: drills, breathing, control, study, feeding discipline, clinic and kitchen hands, school — and every gain is receipted with its cause and its price.
 
-- **Unnamed in prose.** The boy knows only what a boy knows: his body fits the world, he learns quickly, he recovers well, and he has no idea why.
-- **Anti-nerf / anti-inflation twin law.** No dead seasons; no fiat leaps. The thin foundation is real; the engine is real; the bookkeeping is absolute.
-- **Causal record.** Every real movement of state (rank, skill, body, knowledge) is ledgered with its cause and its price, chapter by chapter, in the coverage receipts.
+## 4 · The anti-nerf laws (binding — the master text's own, plus the house ledgers)
 
-## 4 · One consequence to write with open eyes (recorded for the author)
+1. **No baseline nerf** — §23.1: *"The baseline should be extraordinary in the areas genuinely supported by the holder and world."* A low measured rank is a receipt, never a verdict on the whole child.
+2. **No invented walls** — §24.2: *"No arbitrary ninety-nine-percent wall."* Real bottlenecks exist (canon's own: the rank-ten first bottleneck, ring acquisitions); invented stalls do not.
+3. **No forced stagnation** — §24.4.
+4. **No arbitrary weakness** — §75.27: no invented overload, fatigue, instability, or weakness may be written in.
+5. **Gains never vanish** — §75.25–26: stable gains do not disappear between chapters; suppressed, dormant, or restrained is not forgotten.
+6. **"Cannot create from nothing" ≠ "can only improve old things"** — §75.13: genuinely new ability grows through valid adaptation, construction, synthesis, evolution.
+7. **Growth is nonlinear** — §16.1: quiet building · stepwise consolidation · breakthrough jumps · plateaus caused by a missing condition and rapid release once it is met. *"Starting too low and then accelerating implausibly is as incorrect as starting correctly and then refusing to show growth."*
+8. **Corrections must move the story** — house ledger E11, the author's own strike (*"where is your development and growth and others — all things — why even decreasing?"*): never a correction pass that shrinks the story. Every pass adds.
+9. **Never narrated as a mechanic** — the Talent shows as quality and consequence only; never named in prose.
 
-Tier 1 does not erase Tier 0's bill. The boy's **start is low and stays low for a while**: rank 1 at six; the ladder's first bottleneck is at ten; the world will have years to say *"the Grandmaster's soul, and he's not even the Grandmaster."* The engine's job is to make every single step **honest and visible** — and to make the reader feel the difference between a one who quits and a one who is being **adapted upward**. If the author wants the climb faster or slower, that is his dial; the defaults here are the conservative, canon-safe settings.
+## 5 · What it never does (seals — unchanged)
+
+No system, screen, or voice · no canon knowledge · no futures · no automatic training · no free output · no speech from the soul · no unsealing of the three bloodlines (R13) · no printed numbers before their scenes (R14).
+
+## 6 · Ledgers (live)
+
+`bible/SPIRITUAL_POWER_LEDGER.md` · `bible/LUO_SANPAO_GROWTH_LEDGER.md` — truth and receipts. This module is the law; **R14 · R15 · R16** are the enforcement.

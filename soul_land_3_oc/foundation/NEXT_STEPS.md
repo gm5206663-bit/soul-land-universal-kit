@@ -22,3 +22,5 @@
 **Chapter 1 at v5 — the dual-track rebuild.** Struck four times (v1–v4) for one shared mistake: canon was never on the page. v5 adapts **SL3 ch1 + ch2 in full** with Su Yan's parallel morning, touches the tracks exactly twice, and keeps the Fire Phoenix register. (v5 body: 4,263 w · avg 11.1 / median 8 · **0 over 60** · NARR 11.6/8/0 · dialogue paragraphs 58 · CJK 0.) **Laws: R11 (register objects) and R12 (dual track).** Coverage: two-track beat tables. v1–v4 in git history.
 
 **Awaiting the author's read of v5. Chapter 2 only on his word.**
+
+**Every chapter moves development (R16 / house ledger E11).** Training, refinement, growth visible on the page — drills, breathing, study, feeding discipline, clinic and kitchen hands, school routines; each gain receipted with cause and price. No correction pass that shrinks the story; no dead chapters.
