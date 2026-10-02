@@ -73,3 +73,13 @@ Read **everything** you will touch before you touch it: the Use Everything
 Protocol is law, and the coldest catches are the ones greps can't see.
 
 *Added 2026-09-23 (add-only). If this file and the author disagree, the author wins.*
+
+---
+
+## AMENDMENT — 2026-09-30 (add-only): the park and the prequel
+
+- **Qing Ling (SL3) is PARKED** (ch 1–7 shipped, gates green). Its folder lives at `_archive/2026-09-30_park/soul_land_3_fanfiction/` and is the **one resumable exception** to the archive law — start at its `foundation/PARKED_2026-09-30.md`. Its ch 7 commit is local-only; on any push, restore the remote first.
+- **Workshop park:** `Soul_Land_3_Project/`, `blue_silver/`, and five dated root docs moved (git mv, zero content changes) into `_archive/2026-09-30_park/` — see that folder's README for the map.
+- **New serial founded:** `soul_land_3_prequel/` — Soul Land 3 era, **thirty years before canon** (author-locked). Foundation phase; premise candidates P1–P4 await the author's pick. Read its `README.md` first.
+- On-disk view now: root docs + `soul_land_2_new/` (live; its own agent owns it) + `_archive/2026-09-30_park/` + `soul_land_3_prequel/`.
+

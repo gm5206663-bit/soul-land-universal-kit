@@ -1,4 +1,10 @@
-# TOP-LEVEL STATE — read this first (updated 2026-09-26, full GitHub audit)
+# TOP-LEVEL STATE — read this first (updated 2026-09-30)
+
+> **UPDATE 2026-09-30 (Qing Ling parked · workshop park · new SL3 prequel founded):**
+> - **"Qing Ling" (`soul_land_3_fanfiction/`) — PARKED at ch 7** (every gate green; ch 7 *Room 205* was the last ship; receipts complete through SERIAL_LOG 015). Moved to `_archive/2026-09-30_park/soul_land_3_fanfiction/`; resumable — start at its `foundation/PARKED_2026-09-30.md`. **Snag: ch 7's commit `2ea1ef6` is local-only** (GitHub chain ends at `1b2ac8a`, ch 6 — this checkout lost its `.git/config`; re-add the token remote, then push).
+> - **Workshop park:** `Soul_Land_3_Project/` (frozen reference), `blue_silver/` (Book One complete) and five dated root docs moved by `git mv` into `_archive/2026-09-30_park/` — zero content changes, nothing deleted. Map: that folder's `README.md`.
+> - **New serial founded: `soul_land_3_prequel/`** — Soul Land 3 era, **thirty years before canon start** (author-locked). Foundation phase: era dossier + premise candidates P1–P4 + open rulings. No chapter until the premise is ruled.
+> - **On-disk view now:** root docs + `soul_land_2_new/` + `_archive/2026-09-30_park/` + `soul_land_3_prequel/`.
 
 > **UPDATE 2026-09-26 (full account audit — 12 repos, 9 public cloned):**
 > This workspace is the live public authoring kit. Largest repos: soul-land-universal-kit (21,657), soul-library (21,517). 
