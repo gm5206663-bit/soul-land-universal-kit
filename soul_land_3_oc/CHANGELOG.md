@@ -5,6 +5,7 @@
 ## 2026-10-02 (in one long day)
 
 - **The how-to-write pass** — his *"check everything and understand"* executed in the system: `foundation/HOW_TO_WRITE.md` + **R21 (the actor law)** — the OC carries, canon is complete but told tight, the six lines, failure states, the voice target; drill/audit updated. Ch 5 v1 stands; its rebuild is drafted, pending his word (`Q-9`).
+- **The standard panels** — the missing standing files created on the author's word: `SU_YAN_STATUS` (single-status panel) · `RELATIONSHIPS` (the seven knowledge states) · `TIMELINE` (both tracks) · `CANON_CHARACTER_STATE` (the canon cast, cited); the drill now refreshes them every chapter. Receipt: LOG 024.
 - **Chapter 5 — *Three Winters* — shipped** on the author's *"Next"*: canon SL3 **ch12–ch15** on page in full (the classroom and the exit rules · the tungsten hammers · the thirty thousand · the tenth rank and the beach), with Su Yan's three winters underneath — the wage rhythm, the small market trade born of an apology, the girl who spoke for him, and **the school's own check, and nine**. Receipts: coverage5 + audit5 + LOG 022.
 
 - **The rebuild begins.** Prior attempt deleted on the author's word (*"you completely can't create fen fiction without following canon"*); this serial founded as a canon-first dual-track story — **canon complete on the page, OC parallel** (R12). Repo `kit`, arena-agent identity, sparse checkout.
