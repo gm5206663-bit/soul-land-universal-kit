@@ -63,10 +63,13 @@ One moment, deliberately undefined: a boy his own size in a many-times-patched c
 4. **The examiners' ledger** — the reading is official and permanent: the brass plate + the character for one. No mulligan, no rewrite.
 5. **The radish stays texture** — no feeding rules, no counts, no mechanics in prose.
 
-## 6. Rewrite receipt (v2, 2026-10-02)
+## 6. Rewrite record (v1 → v2 → v3, 2026-10-02)
 
-- **Author's order, verbatim:** *"Rewrite chapter 1"* — executed same day; no lock, ruling, spec line, or receipt was changed by the rewrite.
-- **Gate (v2 body):** 4,645 words · ALL avg 16.0 / median 12 / **0 sentences over 60** · NARR avg 17.4 / median 14.5 / 0 · dialogue paragraphs 38 · **CJK 0** · "the way" tic **2** (house cap ≤2) · register spot-checks clean.
-- **What changed:** era furniture on page one (communicator, Federation custom line); the two canon world lines carried verbatim; the child-fragments at the gate and chamber (quiet families / overjoyed families) staged; the canon radish feeding seeded; tic and sentence-length repairs; v1's overlong inscription sentence split; plainer carry throughout. **What did not change:** every canon row, every firewall, the spec, the staging of the Wulin glimpse, and the chapter's close.
+- **v1** shipped; **the author ordered a rewrite ("Rewrite chapter 1")**.
+- **v2** was a polish pass — world-texture additions, the two canon world lines on the page, tics cut (the-way 24→2, over-60 1→0). **The author struck it anyway: *"😡😡😡😡 what the hell even you learn when you doing this nonsense."*** Correctly — v2 still carried a quiet literary narrator, mood-dwelling, aphorisms, and twee inventions; it passed the numbers and failed the voice.
+- **v3 (current) — the register rebuild.** Rebuilt on the author's own chapters as register objects (*The Golden Lion* ch 1, *Fire Phoenix* ch 1): plain, bright, forward, concrete, dialogue-forward, humor as texture, sentiment straight, numbers on the page, no literary-narrator habits. The illness compressed to three short paragraphs; the family bright, not hushed; the ceremony given its wonder and a dry human master; the close drives forward instead of drifting. Twee cuts: "offering for a household ghost," the loose-tooth simile, "small official."
+- **Unchanged through every version:** every canon row, every firewall (Creed unquoted; sealed gold untouched; completion horizon untouched; Wulin wordless and unnamed), the spec, and the chapter's spine.
+- **Gate (v3 body):** 4,048 words · ALL avg 14.9 / median 11 / **0 over 60** · NARR avg 16.3 / median 13.5 / 0 · dialogue paragraphs 35 · **CJK 0** · the-way simile tic **2**.
+- **Law armed from this strike:** **R11 — the register object law** (`foundation/NO_MISTAKE_LIVE_RULES.md`). v1 and v2 remain in git history.
 
 *Filed alongside: `chapters/Chapter_01_The_Reading.md`; the plan is `foundation/NEXT_STEPS.md`; the rulings are `foundation/OPEN_RULINGS.md`.*

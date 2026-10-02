@@ -29,6 +29,9 @@ Plain language; measured (avg ≤ 25, **no sentence over 60**, dialogue-forward 
 ## R9 · THE LEDGER LAW
 Growth may be earned, fed, inherited, or granted — "priced" is the house taste and the default, not physics (author, 2026-09-29: *"everything possible, nothing is absolute"*). What is absolute: **the bookkeeping** — every real movement of state logs its cause and its price.
 
+## R11 · THE REGISTER OBJECT LAW **(FIREWALL — earned 2026-10-02, the strike on Chapter 1 v2)**
+A chapter can pass every number gate and still be **nonsense** if it is written in the wrong voice. **The register objects are the author's own chapters — Soul Land 2 *The Golden Lion* ch 1, *Fire Phoenix* ch 1.** What they sound like: plain, bright, forward-moving, concrete; dialogue-forward; humor as texture; sentiment stated straight ("He let her."); numbers on the page; short beats that run. What they never sound like: a quiet literary narrator; aphorism-stacking; twee inventions ("an offering for a household ghost"); dwelling on mood or illness; soft drifting closes. **If a paragraph could belong to a quiet English novel instead of a Soul Land serial, it fails** — whatever its averages say. Read the register object before writing a word; measure the voice, not only the sentence.
+
 ## R10 · THE SISTER LAW
 The author reads the chapters; the files never argue with him. Veto = one word = the files change the same turn, receipts written, no silent edits.
 

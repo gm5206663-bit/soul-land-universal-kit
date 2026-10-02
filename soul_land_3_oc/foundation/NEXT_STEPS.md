@@ -33,6 +33,6 @@
 
 ## Status — 2026-10-02
 
-**Chapter 1 shipped, then rewritten to v2 on the author's word the same day: `chapters/Chapter_01_The_Reading.md`** (v2 body: 4,645 w · avg 16.0 / median 12.0 · **0 sentences over 60** · NARR 17.4/14.5/0 · dialogue paragraphs 38 · CJK 0 · "the way" tic 2). What v2 added: the era's furniture on page one (soul communicator, Federation custom), canon's two world lines verbatim (*"only one in a thousand people might possess soul power"*; *"Come here child. Stand in the middle."*), the canon radish feeding as soft texture, and a full tic/register pass. Coverage: `canon_coverage/Canon_Coverage_Chapter_01.md` (rewritten to v2, rewrite receipt inside). v1 remains in git history.
+**Chapter 1 at v3.** Shipped → author ordered a rewrite → v2 polished → **author struck it ("what the hell even you learn when you doing this nonsense")** → **v3 rebuilt in the author's own register** (register objects: *The Golden Lion* ch 1, *Fire Phoenix* ch 1): plain, bright, forward, concrete, dialogue-forward, funny where it can be, illness compressed, ceremony carrying the wonder, close driving forward. (v3 body: 4,048 w · avg 14.9 / median 11 · **0 over 60** · NARR 16.3/13.5/0 · dialogue paragraphs 35 · CJK 0 · the-way tic 2.) **Law armed: R11 — the register object law.** Coverage: `canon_coverage/Canon_Coverage_Chapter_01.md` (§6 rewrite record). v1/v2 remain in git history.
 
-**Awaiting the author's read of v2. Chapter 2 only on his word.**
+**Awaiting the author's read of v3. Chapter 2 only on his word.**
