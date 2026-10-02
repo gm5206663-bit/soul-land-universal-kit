@@ -36,6 +36,7 @@
 | Ch 1 — *The Reading* (v5) | 4,263 | 11.1 / 8 / 0 | 11.6 / 8 / 0 | 58 | 0 | 2 |
 | Ch 2 — *The House and the Road* | 5,677 | 13.9 / 11 / 0 | 15.8 / 13 / 0 | 60 | 0 | 2 |
 | Ch 3 — *A Bowl and a Name* | 6,881 | 13.6 / 9 / 0 | 15.6 / 12 / 0 | 70 | 0 | 0 |
+| Ch 4 — *A Thousand Times* | 9,788 | 12.3 / 10 / 0 | 14.4 / 12 / 0 | 101 | 0 | 0 |
 
 ## 4 · The header block (every chapter)
 

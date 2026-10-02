@@ -56,6 +56,7 @@
 - **The design tie:** his first spirit soul is the **Sun-Branded Wyrm** (author lock, G7) — canon says the soul's grade is gated by spiritual power. His road to that soul runs through this ledger. Nobody connects the dots in-world yet.
 - **Ch 2 receipt (2026-10-02):** the first voluntary hour — the spoonful that went out twice and then stayed. No crossing, no print; the curve continues private inside the run from 33 toward 60 (natural floor + meditation + the mind's own work; the page shows behavior only).
 - **Ch 3 receipt (2026-10-02):** the circle closed — the evening hour found the thread of warmth returning to itself, once, and then keeping on. No crossing, no print; the curve continues private inside the run from 33 toward 60. Behavioral receipts this chapter: the sums page kept weekly; the misread learned and corrected; the teacher's one sentence held for later.
+**Ch 4 receipt (2026-10-02):** no crossing, no print. Behavior only — the recitation read twice and said once; a classmate taught the body/hand trick and it stuck on the first pass; the sums page kept honest (earned · spent · left). The curve continues private inside the run from 33 toward 60; natural floor + meditation + the mind's own work.
 
 ## 6 · Guards
 

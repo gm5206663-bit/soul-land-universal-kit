@@ -28,7 +28,7 @@
 | **Ch 1 — The Reading** | SL3 ch1–ch2 (awakening · the walk home · the four bowls) | `Canon_Coverage_Chapter_01.md` | `audits/Chapter_01_audit.md` | **shipped, receipted** |
 | **Ch 2 — The House and the Road** | SL3 ch3–ch4 (the hundred-thousand answers · the class decision · first day · the nine ranks named) | `Canon_Coverage_Chapter_02.md` (+ reconciliation note, LOG 018) | `audits/Chapter_02_audit.md` | **shipped, receipted** |
 | **Ch 3 — A Bowl and a Name** | SL3 ch5–ch7 (the Rice-Bucket day · the roadside child · *"My name is Na'er"* · the office · the meditation · the wisdom lesson · *"stay and be my little sister"*) | `Canon_Coverage_Chapter_03.md` | `audits/Chapter_03_audit.md` | **shipped, receipted (6,881 w)** |
-| **Ch 4 — (planned)** | SL3 ch8+ | to be written with the chapter | — | **default set** (G12) |
+| **Ch 4 — A Thousand Times** | SL3 ch8–ch11 (the forge arc: the spirit-soul talk · the trial · the disciple · the astonishing recovery) | `Canon_Coverage_Chapter_04.md` | `audits/Chapter_04_audit.md` | **shipped, receipted (9,788 w)** |
 
 ## 4 · Standing fidelity notes
 

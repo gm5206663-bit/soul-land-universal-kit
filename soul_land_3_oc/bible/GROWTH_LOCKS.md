@@ -50,3 +50,8 @@
 3. If a chapter **holds every number** — does it still say, in the log and on the page, **what did grow** (R14.4)?
 4. Did any crossing happen **without** its scene and price? → stop; it hasn't happened yet.
 5. Did any public record change **without** the world doing it on page? → stop; the record never moves on its own (LSP §3).
+
+
+## 6 · Chapter receipts (running)
+
+- **Ch 4 (2026-10-02, *A Thousand Times*):** **rank held** — the first stair worn smoother, no crossing, no print (*nine ranks to go*, motif intact); the private curves keep moving off-page. Feeding: **stage three** — two-ladle nights, the coat up, the waits at the hour; paid (the 5-copper wage, the 3-copper heads basket, the clinic's bone, the herb twist). Body: the fog season passed without the cough; the half-crate under one arm; the stair did not slow. Pair: the read worked on purpose twice (the wrong jar; the fog mooring) and checked after like a sum. **No fiat; every line priced** (LOG 020; coverage4).

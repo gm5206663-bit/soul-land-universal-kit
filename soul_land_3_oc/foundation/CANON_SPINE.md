@@ -103,6 +103,20 @@
 | FND-06 | **ch7 — the adoption:** Na'er docile at the table; *"We can only send her to the orphanage"*; **"No!"** — arms spread, *"at worst, I'll eat a little less"*; her tears; **Lang Yue: ask Na'er herself**; the little speech (mom's cooking; dad is nice; I'll definitely protect you; always wanted a little sister; **stay and be my little sister**); her nod; the celebration. | canon (ch7) |
 | FND-07 | **ch7 — the night after:** extra food made, still not enough — **two bottomless eaters** (even Tang Ziran's next-day lunch goes); the house's two rooms; the **divider** raised in the middle; Na'er asleep fast; *"Dad, I'm going to meditate now"* — the resolve: a Soul Master, money, food — and now **a little sister to protect.** | canon (ch7) |
 
+## I · The forge arc (SL3 ch8–ch11, fetched 2026-10-02, all four read)
+
+| # | Row | Source |
+|---|---|---|
+| FORGE-01 | **The economics on the page (ch8):** rank ten needs a ring; spirit souls are superior to rings — growable, artificially manufacturable; one soul can carry one or more rings; commoners buy at the Spirit Pagoda; **two roads** — the gifted climb free, purchase is everyone else's; *Bluesilver Grass will never be the free road*; the wage and *"the two of you eat like the sea."* **PROSE LAW: the numbers of the economy stay canon's; our page prints prices only where a scene earns them (R14).** | canon (SL3 ch8) |
+| FORGE-02 | **The trial (ch9):** the workshop and the inner room; *"Do you know what forging is?"*; the task built to decline him — a thousand sufficient-strength strikes, two five-kilo hammers, a soul-machine screen that cannot be cheated; **the golden veined trace in the spine accompanies the numbness — unseen by the boy, unseen by anyone**; the thousand in half an hour; *"Hammer it a few more times."* | canon (SL3 ch9) |
+| FORGE-03 | **The acceptance and the doctrine (ch10):** the second round to the edge of collapse; the worn palms; *"I'll accept him as my disciple"*; **forging vs casting — a machine cannot read the veins of living metal; first-rate parts are made by hand; a good smith stands as high as a Spirit Master.** | canon (SL3 ch10) |
+| FORGE-04 | **The astonishing recovery (ch11):** no bruise, palms clean as jade; the father's suspicion kept canon-shaped (*could the soul heal him? · Bluesilver Grass never heard of it* — never answered); **the dim golden veined pattern under the boy's hair, fading, unnoticed**; the morning's *"dad smeared some"* — he smeared none. **PROSE LAW: no theory, no name; the question stays open as canon leaves it (WUL-04).** | canon (SL3 ch11) |
+| NAE-03 | **The girl, as canon shows her (ch10–ch11):** the news poured out and her listening; *"Big Brother Lin, am I stupid?"*; *"You're my little sister"*; **her first smile since she came**; the secret — *"big brother will protect you in the future," "Yes."*; the spoon-feeding; the adoption mutter. **PROSE LAW: NAE-02 stands — nothing beyond what canon shows; no name, no hint, no suspicion, no narration wink.** | canon (SL3 ch10–ch11) |
+| WUL-04 | **The parent's near-knowledge (ch11):** Tang Ziran's deep-night inspection; the healing he cannot explain; the suspicion of a self-restoring soul; the open question kept open; **the golden trace he does not see.** | canon (SL3 ch11) |
+| FAM-05 | **The household's arithmetic (ch8, ch11):** the wage, the two appetites, the mutter-adoption, the mother's decision to find work; the smith's trade read as the family's insurance against *"next time."* | canon (SL3 ch8/ch11) |
+
+**Standing check closed this pass:** WUL-02 exists in §G (row verified; the ch3 header's citation holds).
+
 ## Sources (fetched 2026-10-02)
 
 soulland.fandom.com — `Luo_Sanpao` · `Yu_Xiaogang` · `Yu_Xiaogang/Abilities` · `Blue_Lightning_Tyrant_Dragon` · `Soul_Power` · `Martial_Soul_Awakening` · `Soul_Master` (spirit-soul realm notes) · baike.baidu.com (EN) — `Luo Sanpao` · novgo.net — SL3 ch 1 full text (mirror) · wuxiaworld.com — `legend-of-the-dragon-king/ldk-chapter-1` (re-verification pass, 2026-10-02; cited for facts only, no text copied).

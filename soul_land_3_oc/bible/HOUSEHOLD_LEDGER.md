@@ -20,6 +20,9 @@
 | ch 3 | **Two coppers** — the fish ends bought on the nose alone; the smell that was the worst crate; the loss paid | 2 coppers, once; margin note kept | ch 3 text |
 | ch 3 | **The herb twist** — dried slices left by the pot; *"Half in the broth. It won't keep."* | drawn from the clinic's stores, uncosted on page | ch 3 text |
 | ch 3 | **Half a bowl of milk, unprompted** — the father's vote, after the grain house | per event, unpriced | ch 3 text |
+| ch 4 | **The first wage** — a rest day in the clinic: counting, grinding, packets; *"For the day's work. Not for being the son."* | 5 coppers, paid by the father | ch 4 text |
+| ch 4 | **The basket bought with his own wage** — fish heads and fins for the pot; counted in the new page column (earned · spent · left); the bowl now pays part of itself | 3 coppers, once and weekly-ish | ch 4 text |
+| ch 4 | **The broth at two ladles** — the pot's second stage (skim, cracked lid, the bone's hour, the herb at the end) | weekly | ch 4 text |
 
 ## 3 · The shapes the ledger keeps (for future chapters)
 

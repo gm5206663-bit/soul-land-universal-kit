@@ -106,5 +106,5 @@ Before any system term is used in prose or plans — spiritual power, soul power
 The author reads the chapters; the files never argue with him. Veto = one word = the files change the same turn, receipts written, no silent edits.
 
 ## Armed flags (current)
-- **G0–G12** resolved or executed (see `OPEN_RULINGS.md`) — updated 2026-10-02: **Chapter 1 v5 accepted** by the author (*"Good"*); **Chapter 2 shipped** on his *"Next"* (receipt: LOG 016); **Chapter 3 — *A Bowl and a Name* — shipped** on his *"Next"* (receipt: LOG 018).
+- **G0–G12** resolved or executed (see `OPEN_RULINGS.md`) — updated 2026-10-02: **Chapter 1 v5 accepted** by the author (*"Good"*); **Chapter 2 shipped** on his *"Next"* (receipt: LOG 016); **Chapter 3 — *A Bowl and a Name* — shipped** on his *"Next"* (receipt: LOG 018). **Chapter 4 — *A Thousand Times* — shipped** on his *"Next"* (receipt: LOG 020).
 - **Held beats:** the recovery's unexplained timing (the family's unanswered question) · the soul's three-shot ceiling and its nose (canon faculties, spent slowly) · the horizon (LSP-08) · Wulin.

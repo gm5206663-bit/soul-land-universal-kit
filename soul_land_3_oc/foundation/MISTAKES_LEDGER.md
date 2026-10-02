@@ -30,6 +30,7 @@
 | H5 | tooling | bash from `/home/user` with bare relative paths fails (cwd trap) | Always `cd /home/user/kit` first | §5 |
 | H6 | sources | Dead slugs: `Luo_San_Pao` (fandom) empty; `Spirit_Souls` redirects to `Soul_Spirit`; wuxiaworld `duoluo-dalu` dead — working slug `legend-of-the-dragon-king/ldk-chapter-N` | Use the live slugs; record alternates | `CANON_SPINE.md` sources notes |
 | H7 | ch3 land | The author's *"Next"* arrived before ch3's own receipts were written (pipeline order risk) | Receipts written the same turn, before commit; the commit chain verified | Pipeline: write → receipts → one commit → verify → present |
+| H8 | ch 4 pre-ship | v1 draft ran over-capped: **10,433 w · 4 over-60 · "the way" ×30** (cap 2) — long and tic-heavy | one scripted pass (74 edits): every tic cut, over-60s split, prose tightened — final **9,788 w · 0/0**, re-measured after the last edit | measure after every edit; caps enforced before commit (drill step 7) |
 
 ## 3 · Standing rules written in blood (the compressed form)
 

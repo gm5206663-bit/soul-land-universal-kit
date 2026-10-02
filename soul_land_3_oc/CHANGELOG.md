@@ -11,6 +11,7 @@
 - **Ch 2 shipped** — *The House and the Road*: 5,677 w, canon SL3 ch3–ch4 complete; receipts + training/development layer (R19); commit `2404626`.
 - **The pair doctrine** — compatibility · synergy · understanding · the three clocks, each faculty priced (R20); `bible/PAIR_LEDGER.md`; commit `06e2552`.
 - **Ch 3 shipped** — *A Bowl and a Name*: canon SL3 ch5–ch7 complete (the foundling day); 6,881 w; style parity + fixes; commits `01db791` → `93f7617` → `62b779f` → `a218a60`.
+- **Ch 4 shipped** — *A Thousand Times*: canon SL3 ch8–ch11 complete (the forge arc — the spirit-soul talk; Mang Tian's workshop and the thousand strikes; the disciple; the astonishing recovery); 9,788 w · 0 over 60; and in the Su house the season turns — the first wage, the basket, the second circle.
 - **The operating set completed (this commit):** `audits/` (ch1–ch3) · `canon_coverage/INDEX.md` · `foundation/` additions: `MISTAKES_LEDGER` · `POWER_LAW` · `TERMINOLOGY` · `REGISTER_AND_STYLE` · `ISSUES_LEDGER` · `bible/` additions: `KNOWLEDGE_FIREWALLS` · `GROWTH_LOCKS` · `FIRST_RING_ACQUISITION` · `HOUSEHOLD_LEDGER` · `CHANGELOG.md` (this file) · README refreshed.
 
 ## What stands now
