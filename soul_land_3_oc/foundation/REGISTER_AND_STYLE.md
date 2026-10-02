@@ -27,6 +27,7 @@
 | CJK characters in prose | **0** | same tool |
 | Dialogue-forward | yes — dialogue paragraphs in the 50s–70s for a full chapter (our range so far) | same tool |
 | Average sentence length | SOFT — house range 11–14 so far; the number is necessary, the voice is the point (R11) | same tool |
+| Voice target (new chapters, R21) | **ALL avg ≤ 12 (aim 8–10), median ≤ 8** — the register object's own band (the author's serial, measured live 2026-10-02: 8.6–9.8 / med 6–7; ch1–ch5 drifted 11.1 → 17.3) | same tool |
 | Numbers as stat-speak | none | read-through; R8 |
 
 **Measured history (final bodies):**
@@ -45,10 +46,10 @@
 ## 5 · The pre-ship drill (in order — no skips)
 
 1. **Fetch** the canon block live; read it fully (R1). Record the beat list.
-2. **Write** (R11 register; R12 dual track; **R15 — mark each canon beat public · private · parallel · butterfly-touchable, choose the felt butterflies *before* prose (`foundation/CANON_BUTTERFLY_PROTOCOL.md` §2/§6), and read the open obligations in `bible/BUTTERFLY_LEDGER.md` for this window**; seals from `KNOWLEDGE_FIREWALLS`).
+2. **Write** (R11 register; R12 dual track; **R15 — mark each canon beat public · private · parallel · butterfly-touchable, choose the felt butterflies *before* prose (`foundation/CANON_BUTTERFLY_PROTOCOL.md` §2/§6), and read the open obligations in `bible/BUTTERFLY_LEDGER.md` for this window**; seals from `KNOWLEDGE_FIREWALLS`). **2b. The two-engine blueprint (R21 — `foundation/HOW_TO_WRITE.md`):** canon beats marked public/private/parallel/touchable; **the OC beats written as events** (want · obstacle · cost · outcome); the collision seams named; the lock-4 sentence written — *Su Yan wants ___, and ___ stands in the way, and it will cost ___.*
 3. **Measure:** `python3 /home/user/scratch/measure_sl3p.py <chapter>` — fix every over-60 and every "the way" past 2.
 4. **Style pass script** (if needed): exact old strings only; anchor-grep before writing; a MISS exits and **the chained commit silently skips** — verify `git log` after any chain.
-5. **Receipts:** `canon_coverage/Canon_Coverage_Chapter_0N.md` (beat tables, handling notes, seals, metrics) + ledger updates (`LSP`, `SP`, `PAIR`, `HOUSEHOLD`) + `SERIAL_LOG` entry + `audits/Chapter_0N_audit.md` + **the butterfly pass:** every touched ledger line's *last echo* updated, new lines entered **with their obligations named at birth**, what fell due paid (or closed dated **Quiet**), and the chapter's **deletion-test answer** written into the coverage doc.
+5. **Receipts:** `canon_coverage/Canon_Coverage_Chapter_0N.md` (beat tables, handling notes, seals, metrics) + ledger updates (`LSP`, `SP`, `PAIR`, `HOUSEHOLD`) + `SERIAL_LOG` entry + `audits/Chapter_0N_audit.md` + **the butterfly pass:** every touched ledger line's *last echo* updated, new lines entered **with their obligations named at birth**, what fell due paid (or closed dated **Quiet**), and the chapter's **deletion-test answer** written into the coverage doc. **5b. The R21 tests (into `audits/Chapter_0N_audit.md`):** **the actor test** (in his scenes: doing, or watching/filing/noting?) · **the reaction test** (name the canon character whose behavior changed because he was there) · **the event count** (≥ 2 value-changes, ≥ 1 costing something real).
 6. **One commit**, chained: `cd /home/user/kit && python3 <script> && git add --sparse -A && git commit -m "…"`.
 7. **Verify:** `git log --oneline -2`, `git status --porcelain` clean, greps for each new artifact, re-measure if any chapter text changed after the last measure.
 8. **Present** the chapter; report in the author's register: canon carried, OC parallel, seals, metrics, receipts. Never claim more than the files show.

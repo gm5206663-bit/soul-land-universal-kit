@@ -103,9 +103,20 @@ Before any system term is used in prose or plans — spiritual power, soul power
 4. **Understanding grows as read, never as speech** — sound, posture, gaze, nose, rhythm, refusals; the six-rung ladder in `bible/PAIR_LEDGER.md` §4; each rung an earned scene. No telepathy, no dialogue, no system voice — *resonance requires a real mechanism* (Foundation §45.5).
 5. **Many things grow — three clocks:** the soul's maturity (LSP), the boy's stack (R18/R19), and **the fit itself** (*kept → fed → read → worked → trusted*); nothing grows alone; everything receipted. Seals stand: LSP-10 · R13 · NAE-02 · the three-shot ceiling.
 
+## R21 · THE ACTOR LAW — the OC carries; canon is complete, told tight **(armed 2026-10-02, after the author's *"entire chapter mostly canon there is nothing oc what the hell oc things just two' Lines"* and *"Frist check everything and understand. Understand how to write Frist"* — built from his own prime law, checked at source)**
+1. **The OC is the actor** (his own prime law: *"the OC is the ACTOR, never the SPECTATOR. Verb-count test: if he only watches, files and notes, the chapter is broken"*). He wants, tries, meets resistance, pays or wins — scenes, not receipts.
+2. **Event quota:** ≥ 2 OC events that change a value (goal · knowledge · relationship · resource · safety · standing · promise · skill · position · debt); ≥ 1 costs something real.
+3. **Canon complete, told tight:** every beat keeps its scene, outcome and order — unskipped — at load-bearing length; canon ≤ half the chapter's words.
+4. **Reaction:** ≥ 1 canon character behaves differently **because he is there** (his butterfly-integration law).
+5. **Six lines move** (rank · SP · body · skill/read · trade · companion) or the receipts say why one held — and standing/knowledge still moves.
+6. **Failure exists:** reads can be wrong; trades refused; promises cost. Write the failure state before the success.
+7. **Momentum:** no three chapters without a gain or a fired gun.
+8. **Voice:** ALL avg ≤ 12 (aim 8–10), median ≤ 8 — the register object's band (his own serial, measured live 2026-10-02).
+*The engine, the tests, and the drill additions live in `foundation/HOW_TO_WRITE.md`.*
+
 ## R10 · THE SISTER LAW
 The author reads the chapters; the files never argue with him. Veto = one word = the files change the same turn, receipts written, no silent edits.
 
 ## Armed flags (current)
-- **G0–G12** resolved or executed (see `OPEN_RULINGS.md`) — updated 2026-10-02: **Chapter 1 v5 accepted** by the author (*"Good"*); **Chapter 2 shipped** on his *"Next"* (receipt: LOG 016); **Chapter 3 — *A Bowl and a Name* — shipped** on his *"Next"* (receipt: LOG 018). **Chapter 4 — *A Thousand Times* — shipped** on his *"Next"* (receipt: LOG 020). **Chapter 5 — *Three Winters* — shipped** on his *"Next"* (receipt: LOG 022); new default: **Chapter 6 = SL3 ch16 onward**.
+- **G0–G12** resolved or executed (see `OPEN_RULINGS.md`) — updated 2026-10-02: **Chapter 1 v5 accepted** by the author (*"Good"*); **Chapter 2 shipped** on his *"Next"* (receipt: LOG 016); **Chapter 3 — *A Bowl and a Name* — shipped** on his *"Next"* (receipt: LOG 018). **Chapter 4 — *A Thousand Times* — shipped** on his *"Next"* (receipt: LOG 020). **Chapter 5 — *Three Winters* — shipped** on his *"Next"* (receipt: LOG 022); new default: **Chapter 6 = SL3 ch16 onward**. **Correction logged (2026-10-02, LOG 023):** the author's read of ch5 — *"entire chapter mostly canon there is nothing oc"* — became **R21 · THE ACTOR LAW** and `foundation/HOW_TO_WRITE.md`; ch5 v1 stands, its rebuild pending his word.
 - **Held beats:** the recovery's unexplained timing (the family's unanswered question) · the soul's three-shot ceiling and its nose (canon faculties, spent slowly) · the horizon (LSP-08) · Wulin.
