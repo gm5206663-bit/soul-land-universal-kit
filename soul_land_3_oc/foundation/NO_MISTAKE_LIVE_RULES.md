@@ -29,8 +29,19 @@ Plain language; measured (avg ≤ 25, **no sentence over 60**, dialogue-forward 
 ## R9 · THE LEDGER LAW
 Growth may be earned, fed, inherited, or granted — "priced" is the house taste and the default, not physics (author, 2026-09-29: *"everything possible, nothing is absolute"*). What is absolute: **the bookkeeping** — every real movement of state logs its cause and its price.
 
-## R11 · THE REGISTER OBJECT LAW **(FIREWALL — earned 2026-10-02, the strike on Chapter 1 v2)**
-A chapter can pass every number gate and still be **nonsense** if it is written in the wrong voice. **The register objects are the author's own chapters — Soul Land 2 *The Golden Lion* ch 1, *Fire Phoenix* ch 1.** What they sound like: plain, bright, forward-moving, concrete; dialogue-forward; humor as texture; sentiment stated straight ("He let her."); numbers on the page; short beats that run. What they never sound like: a quiet literary narrator; aphorism-stacking; twee inventions ("an offering for a household ghost"); dwelling on mood or illness; soft drifting closes. **If a paragraph could belong to a quiet English novel instead of a Soul Land serial, it fails** — whatever its averages say. Read the register object before writing a word; measure the voice, not only the sentence.
+## R11 · THE FIRE PHOENIX REGISTER LAW **(FIREWALL — earned 2026-10-02, two strikes on Chapter 1)**
+**The register objects are the Fire Phoenix project's own 52 chapters (all of them) — the author's proved voice — with *The Golden Lion* ch 1 as sibling.** Read them before writing; write in that voice or do not write. What that voice does, measured from FP ch 1/2/3/6/21:
+
+- **Short declarative sentences. Beat by beat.** FP runs avg 8–9 / median 6–7; fragments and one-line paragraphs carry rhythm ("Gold." / "Ten." / "A turn. A small adjustment."). Chapter register gate: avg ≤ 12, **0 sentences over 60**, dialogue-forward.
+- **Scenes, not essays.** Open on the child or the day, not on the world. World facts arrive in short plain paragraphs as needed, then get out of the way.
+- **Dialogue-forward; kid-logic humor; dry adults.** Children talk like children; adults answer deadpan ("Discipline has declined in modern textiles."). Humor and warmth are texture, not decoration.
+- **Emotion stated plainly, one line at a time.** "He did not blame the child." "He stayed." No literary narrator, no aphorism stacking, no mood-dwelling.
+- **Motifs repeat verbatim as structure** ("Breathe." / "Whatever answers, we meet it properly." / "Together after?"). 
+- **Plain similes only, used sparingly.** No ornate metaphor chains, no "as if the house were a book" writing.
+- **No twee inventions, no precious images.** If a line sounds like a quiet English novel instead of a Soul Land serial, it fails whatever its numbers say.
+- **Endings: short, warm, forward.** ("He breathed until the warmth did not shake.")
+
+**Both Chapter-1 strikes on this serial were register strikes — v2 (literary polish) and v3 (still ornate-lite) passed the number gates and were still wrong.** The numbers are necessary; the voice is the point.
 
 ## R10 · THE SISTER LAW
 The author reads the chapters; the files never argue with him. Veto = one word = the files change the same turn, receipts written, no silent edits.

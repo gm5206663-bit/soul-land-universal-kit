@@ -63,13 +63,11 @@ One moment, deliberately undefined: a boy his own size in a many-times-patched c
 4. **The examiners' ledger** — the reading is official and permanent: the brass plate + the character for one. No mulligan, no rewrite.
 5. **The radish stays texture** — no feeding rules, no counts, no mechanics in prose.
 
-## 6. Rewrite record (v1 → v2 → v3, 2026-10-02)
+## 6. Rewrite record (v1 → v4, 2026-10-02)
 
-- **v1** shipped; **the author ordered a rewrite ("Rewrite chapter 1")**.
-- **v2** was a polish pass — world-texture additions, the two canon world lines on the page, tics cut (the-way 24→2, over-60 1→0). **The author struck it anyway: *"😡😡😡😡 what the hell even you learn when you doing this nonsense."*** Correctly — v2 still carried a quiet literary narrator, mood-dwelling, aphorisms, and twee inventions; it passed the numbers and failed the voice.
-- **v3 (current) — the register rebuild.** Rebuilt on the author's own chapters as register objects (*The Golden Lion* ch 1, *Fire Phoenix* ch 1): plain, bright, forward, concrete, dialogue-forward, humor as texture, sentiment straight, numbers on the page, no literary-narrator habits. The illness compressed to three short paragraphs; the family bright, not hushed; the ceremony given its wonder and a dry human master; the close drives forward instead of drifting. Twee cuts: "offering for a household ghost," the loose-tooth simile, "small official."
-- **Unchanged through every version:** every canon row, every firewall (Creed unquoted; sealed gold untouched; completion horizon untouched; Wulin wordless and unnamed), the spec, and the chapter's spine.
-- **Gate (v3 body):** 4,048 words · ALL avg 14.9 / median 11 / **0 over 60** · NARR avg 16.3 / median 13.5 / 0 · dialogue paragraphs 35 · **CJK 0** · the-way simile tic **2**.
-- **Law armed from this strike:** **R11 — the register object law** (`foundation/NO_MISTAKE_LIVE_RULES.md`). v1 and v2 remain in git history.
+- **v1** shipped. **v2** was a surface polish; **struck:** *"what the hell even you learn when you doing this nonsense."* **v3** rebuilt "in the author's voice" from two chapters — **struck again:** *"Same mistake you don't correct… check complete fire phonixe project completely everything every single details, you completely wrong writeing."*
+- **v4 (current) — read the objects, then wrote like them.** The full Fire Phoenix run (ch 1–52) read as prose, not metadata; the register measured (avg 8.0–9.0 / median 6–7 / 0–2 over-60 / dialogue paragraphs 44–68); Chapter 1 rebuilt to match: short declaratives, beat rhythm, scenes over essays, dialogue-forward, kid-logic humor, dry adults, emotion stated plainly, motifs, no literary narrator, no twee images, short warm forward close.
+- **v4 gate:** 3,756 words · ALL avg **9.5** / median 8 / **0 over 60** · NARR 9.8/8/0 · dialogue paragraphs **44** · **CJK 0** · the-way simile tic 3.
+- **Unchanged through every version:** every canon row; every firewall (Creed unquoted; sealed gold untouched; completion horizon untouched; Wulin wordless and unnamed); the spec; the chapter's spine. **Law: R11 — the Fire Phoenix register law.** v1–v3 remain in git history.
 
 *Filed alongside: `chapters/Chapter_01_The_Reading.md`; the plan is `foundation/NEXT_STEPS.md`; the rulings are `foundation/OPEN_RULINGS.md`.*

@@ -33,6 +33,6 @@
 
 ## Status — 2026-10-02
 
-**Chapter 1 at v3.** Shipped → author ordered a rewrite → v2 polished → **author struck it ("what the hell even you learn when you doing this nonsense")** → **v3 rebuilt in the author's own register** (register objects: *The Golden Lion* ch 1, *Fire Phoenix* ch 1): plain, bright, forward, concrete, dialogue-forward, funny where it can be, illness compressed, ceremony carrying the wonder, close driving forward. (v3 body: 4,048 w · avg 14.9 / median 11 · **0 over 60** · NARR 16.3/13.5/0 · dialogue paragraphs 35 · CJK 0 · the-way tic 2.) **Law armed: R11 — the register object law.** Coverage: `canon_coverage/Canon_Coverage_Chapter_01.md` (§6 rewrite record). v1/v2 remain in git history.
+**Chapter 1 at v4 — the register rebuild, done right.** Shipped → v2 (struck) → v3 (struck: *"Same mistake you don't correct"*) → **v4**: the full Fire Phoenix run (ch 1–52) read as the register objects, and the chapter rebuilt in that measured voice — short declaratives beat by beat, scenes not essays, dialogue-forward, kid-logic humor, plain emotion, motifs, short warm forward close. (v4 body: 3,756 w · avg **9.5** / median 8 · **0 over 60** · NARR 9.8/8/0 · dialogue paragraphs **44** · CJK 0 — against the FP objects' 8.0–9.0 / 6–7 / 44–68.) **Law: R11 — the Fire Phoenix register law** (ruleset inside). Coverage: §6 rewrite record. v1–v3 in git history.
 
-**Awaiting the author's read of v3. Chapter 2 only on his word.**
+**Awaiting the author's read of v4. Chapter 2 only on his word.**
