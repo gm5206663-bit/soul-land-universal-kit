@@ -1,6 +1,7 @@
 # LUO SANPAO GROWTH LEDGER — the soul, and the boy who feeds it
 
 > **Purpose:** track the true bloodline's slow strengthening (author directive 2026-10-02; spine D-05) the house's way — **legal record vs private practical maturity**, inputs and prices, every change scene-earned. **LSP-10 stands on top of everything here:** in the prose none of this is named, hinted, or shown as gold. This file is bible-private.
+> **Pair doctrine (2026-10-02, R20):** the two of them as one system — compatibility · synergy · understanding · growth — `bible/PAIR_LEDGER.md`; register row 34. This file remains the soul's own clock.
 
 ## 1 · Canon base (verified 2026-10-02 — fandom `Luo_Sanpao`; SL1 ch 65, ch 83; spine LSP-01..LSP-10)
 
@@ -55,4 +56,4 @@ A great bloodline shows first as **need**: more food, better food, deeper sleep,
 
 ## 7 · Seals standing over this ledger
 
-**LSP-10** (never named, never foreshadowed, no gold on page until the author opens the window) · **R13** (all three bloodlines sealed) · no speech from the soul · no skipped rank or ring · the **three-shot ceiling** holds its canon baseline until the story earns otherwise · the creature stays a creature — canon gives it its own **consciousness**; it is a partner, never a tool, never a cartoon.
+**LSP-10** (never named, never foreshadowed, no gold on page until the author opens the window) · **R13** (all three bloodlines sealed) · no speech from the soul · no skipped rank or ring · the **three-shot ceiling** holds its canon baseline until the story earns otherwise · the creature stays a creature — canon gives it its own **consciousness**; it is a partner, never a tool, never a cartoon. **Pair doctrine:** `bible/PAIR_LEDGER.md` (**R20**) — the fit, the work-together, and the read live there; the seals are shared.

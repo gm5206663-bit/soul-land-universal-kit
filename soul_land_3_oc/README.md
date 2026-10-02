@@ -16,6 +16,7 @@ The world knows this soul. History wrote down what it cost the last man who carr
 2. `bible/PROTAGONIST.md` — the spec lock: the boy, the family, the illness, the recovery, the reading.
 3. `bible/ADAPTATION_MODULE.md` — the Talent's pre-awakening version (weak, spent on viability — the author's ruling, confirmed against the house's own master foundation and prior serial receipts), and the stronger post-awakening mode.
 3b. `bible/TRAINING_AND_DEVELOPMENT.md` — the training and development layer (the author's order): the canon speed stack, the household's real methods, the week's shape, and the chapter engine (R19).
+3c. `bible/PAIR_LEDGER.md` — the pair (Su Yan · Luo Sanpao): compatibility · synergy · understanding · growth, with the read-ladder and the three clocks (R20).
 4. `foundation/OPEN_RULINGS.md` — the author gates, with defaults.
 5. `foundation/NEXT_STEPS.md` — the plan (Ch 1 shipped and accepted; Ch 2 shipped; Ch 3 next).
 6. `foundation/NO_MISTAKE_LIVE_RULES.md` — the armed rails (including the world-texture law earned from the previous strike).

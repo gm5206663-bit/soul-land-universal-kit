@@ -95,6 +95,13 @@ Before any system term is used in prose or plans — spiritual power, soul power
 4. **Priced and receipted:** every movement logs cause and price in the ledgers (`LUO_SANPAO_GROWTH_LEDGER.md`, `SPIRITUAL_POWER_LEDGER.md`, the household sums). No free growth; no nerfed speed (R14).
 5. **No dead chapters, no futures spent:** the seals stand — the Talent unnamed; bloodline sealed (R13 / DRG-01); the soul's gold (LSP-10); the Wyrm unspent; Na'er (NAE-02).
 
+## R20 · THE PAIR LAW — compatibility · synergy · understanding; many things grow **(armed 2026-10-02, after *"Luo Sanpao and su yan compatibility and Synergy and understanding and many things grow,"*)**
+1. **One system, two addresses:** Luo Sanpao is his own-line martial soul — *part of him* (R16) **and** a creature with its own consciousness. Partner, never puppet; never a tool; never a cartoon.
+2. **Compatibility is native and grows** — no fusion gate, no purchase, no contract; the fit rides body (R18), mind (SP ledger), the feed (LSP), the bloodline (sealed), and the Talent's interface work (module §1). Spirit-soul law (`Soul_Spirit`) is *shape only* — **never conflate the pair with a spirit soul** (R6 discipline).
+3. **Synergy is earned and priced** — canon faculties (nose · low upkeep · three shots + nourishment · the injury/poison transfer) × the boy's hands, kitchen, clinic, and mind; outputs are behaviors, never "bond powers." The transfer's cost is shown when it happens.
+4. **Understanding grows as read, never as speech** — sound, posture, gaze, nose, rhythm, refusals; the six-rung ladder in `bible/PAIR_LEDGER.md` §4; each rung an earned scene. No telepathy, no dialogue, no system voice — *resonance requires a real mechanism* (Foundation §45.5).
+5. **Many things grow — three clocks:** the soul's maturity (LSP), the boy's stack (R18/R19), and **the fit itself** (*kept → fed → read → worked → trusted*); nothing grows alone; everything receipted. Seals stand: LSP-10 · R13 · NAE-02 · the three-shot ceiling.
+
 ## R10 · THE SISTER LAW
 The author reads the chapters; the files never argue with him. Veto = one word = the files change the same turn, receipts written, no silent edits.
 
