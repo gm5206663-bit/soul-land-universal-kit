@@ -19,7 +19,7 @@
 | Line | Value | Source |
 |---|---|---|
 | Martial soul | **none at all** — the Awakening marvel; the ordinary section | [SL3 ch12] |
-| Age | ~5½ at the foundling (Su Yan's year minus ~½) → ~8½ now | [SL3 ch6] |
+| Age | **"Five and a half"** at the foundling — her own answer, against Wulin's six; canon's narration rounds the two to about a year apart → ~8½ now | [SL3 ch7] |
 | Appearance | silver hair; **purple eyes** (ch 15); unchanged smallness | [SL3 ch12], [ch15] |
 | The ring | the **seven-colored ring** rose and fused between her brows — **seen by no one** | [SL3 ch14]; NAE-02 |
 | Now | the beach question: *"Would you miss me if I left one day, big brother?"* | [SL3 ch15] close |
@@ -30,7 +30,7 @@
 |---|---|---|
 | **Tang Ziran** — father | the city's machine repairman; took a day off for the Pagoda trip; the tone that worried Wulin | [SL3 ch15], [ch16] |
 | **Lang Yue** — mother | asked for the day off, **refused** (the sick season); *"your safety is the most important thing"* | [SL3 ch15] |
-| **Mang Tian** | **a six-star blacksmith**; the sign cut by hand; one disciple taken in his life, then a second; the **40-kg thousand-refined tungsten hammers**, made and gifted after Wulin's first year; *"your work is pretty good"*; private: *"this child's talent in forging far surpasses my own"* | [SL3 ch13] |
+| **Mang Tian** | **a six-star blacksmith**; one disciple taken in his life, then a second; the **40-kg thousand-refined tungsten hammers**, made and gifted after Wulin's first year; *"your work is pretty good"*; private: *"this child's talent in forging far surpasses my own"* | [SL3 ch13] |
 | **Brother Long** | Mang Tian's **first disciple**; in his twenties; the reception room and the day's list | [SL3 ch13] |
 | **Lin Ximeng** | the class's teacher; last-year attention with its arithmetic; the urging, the **1,000-coin stipend** line, the leave of absence | [SL3 ch12], [ch15] |
 

@@ -18,22 +18,23 @@ The world knows this soul. History wrote down what it cost the last man who carr
 3b. `bible/TRAINING_AND_DEVELOPMENT.md` — the training and development layer (the author's order): the canon speed stack, the household's real methods, the week's shape, and the chapter engine (R19).
 3c. `bible/PAIR_LEDGER.md` — the pair (Su Yan · Luo Sanpao): compatibility · synergy · understanding · growth, with the read-ladder and the three clocks (R20).
 3e. `foundation/HOW_TO_WRITE.md` — the chapter engine (**R21 — the actor law**): the OC carries; canon is complete, told tight; the six lines; the failure state; the voice target. Built 2026-10-02 from the author's own method files, checked at source.
-3f. `bible/SU_YAN_STATUS.md` — **the OC's single current-truth file**, at the author's own angle (SL2 `STATUS_PANEL` *"single-state truth"* / parked `OC_STATUS` *"this file wins"*): the whole living state in one file — identity card · the window · the four lines · the companion · the pair · the hands · money · the live relation states · receipts · seals · held · residue — **among files this one wins**; refreshed from the chapters every chapter, same turn (H13: the status file is the state, never a pointer sheet) · `bible/RELATIONSHIPS.md` — the full relation web, seven knowledge states · `bible/TIMELINE.md` — the clock, both tracks, with ages · `bible/CANON_CHARACTER_STATE.md` — the canon cast's numbers, each cited.
+3f. `bible/SU_YAN_STATUS.md` — **the OC's single current-truth file**, at the author's own angle (SL2 `STATUS_PANEL` *"single-state truth"* / parked `OC_STATUS` *"this file wins"*): the whole living state in one file — identity card · the window · the four lines · the companion · the pair · the hands · money · the live relation states · receipts · seals · held · residue — **among files this one wins**; refreshed from the chapters every chapter, same turn, every claim line-checked against the page it cites (H13 · H14) · `bible/RELATIONSHIPS.md` — the full relation web, seven knowledge states · `bible/TIMELINE.md` — the clock, both tracks, with ages · `bible/CANON_CHARACTER_STATE.md` — the canon cast's numbers, each cited.
 3d. `foundation/CANON_BUTTERFLY_PROTOCOL.md` — the butterfly system (R15, deepened 2026-10-02): the seven categories, the public·private·parallel·touchable marking, the magnitude economy, the must-not list, and **the deletion test**; tracker: `bible/BUTTERFLY_LEDGER.md` — every cause born with its open obligation; **butterflies are felt, not footnoted.**
 4. `foundation/OPEN_RULINGS.md` — the author gates, with defaults.
 5. `foundation/NEXT_STEPS.md` — the plan (Ch 1 accepted; Ch 2–Ch 5 shipped; Ch 6 default).
 6. `foundation/NO_MISTAKE_LIVE_RULES.md` — the armed rails (including the world-texture law earned from the previous strike).
 7. `canon_coverage/INDEX.md` — how fidelity is proved, chapter by chapter.
 8. `foundation/ISSUES_LEDGER.md` — what waits on the author's word, with the default in force.
-9. `CHANGELOG.md` — the whole road, compressed.
+9. `foundation/CHAPTER_TEMPLATE.md` — the bones every chapter is built on. · 10. `tools/measure_sl3p.py` — the serial's own measure tool. · 11. `CHANGELOG.md` — the whole road, compressed.
 
 ## The file set
 
 - **`chapters/`** — the story: Ch 1 *The Reading* · Ch 2 *The House and the Road* · Ch 3 *A Bowl and a Name* · Ch 4 *A Thousand Times* · Ch 5 *Three Winters* (all shipped, receipted).
 - **`canon_coverage/`** — the fidelity receipts: `INDEX.md` (method + index) plus one coverage doc per chapter (canon source, beat tables, handling notes, seals, metrics).
-- **`audits/`** — one post-ship audit per chapter: fidelity table, register numbers, seals, parity, verdict.
+- **`audits/`** — one post-ship audit per chapter (fidelity table, register numbers, seals, parity, verdict) plus `SELF_AUDIT_2026-10-02.md` — the line-check of the panels (H14).
 - **`bible/`** — the story's own law: `SU_YAN_STATUS` · `PROTAGONIST` · `RELATIONSHIPS` · `TIMELINE` · `CANON_CHARACTER_STATE` · `ADAPTATION_MODULE` · `SPIRITUAL_POWER_LEDGER` · `LUO_SANPAO_GROWTH_LEDGER` · `TRAINING_AND_DEVELOPMENT` · `PAIR_LEDGER` · `BUTTERFLY_LEDGER` · `WORLD_UNDERSTANDING` · `KNOWLEDGE_FIREWALLS` · `GROWTH_LOCKS` · `FIRST_RING_ACQUISITION` · `HOUSEHOLD_LEDGER`.
-- **`foundation/`** — the rails: `CANON_SPINE` · `HOW_TO_WRITE` · `CANON_BUTTERFLY_PROTOCOL` · `OPEN_RULINGS` · `NO_MISTAKE_LIVE_RULES` · `NEXT_STEPS` · `SERIAL_LOG` · `MISTAKES_LEDGER` · `POWER_LAW` · `TERMINOLOGY` · `REGISTER_AND_STYLE` · `ISSUES_LEDGER`.
+- **`foundation/`** — the rails: `CANON_SPINE` · `HOW_TO_WRITE` · `CHAPTER_TEMPLATE` · `CANON_BUTTERFLY_PROTOCOL` · `OPEN_RULINGS` · `NO_MISTAKE_LIVE_RULES` · `NEXT_STEPS` · `SERIAL_LOG` · `MISTAKES_LEDGER` · `POWER_LAW` · `TERMINOLOGY` · `REGISTER_AND_STYLE` · `ISSUES_LEDGER`.
+- **`tools/`** — the serial's own measure tool: `measure_sl3p.py` (the register gate; ships with the serial).
 - **`CHANGELOG.md`** — the whole road, compressed.
 
 ## House law (inherited, non-negotiable)

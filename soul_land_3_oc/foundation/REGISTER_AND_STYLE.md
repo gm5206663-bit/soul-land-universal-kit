@@ -22,7 +22,7 @@
 
 | Gate | Cap | Tool |
 |---|---|---|
-| Sentences over 60 words | **0** | `/home/user/scratch/measure_sl3p.py <chapter>` |
+| Sentences over 60 words | **0** | `tools/measure_sl3p.py <chapter>` |
 | "the way" per chapter | **≤ 2** | `grep -o "the way"` |
 | CJK characters in prose | **0** | same tool |
 | Dialogue-forward | yes — dialogue paragraphs in the 50s–70s for a full chapter (our range so far) | same tool |
@@ -47,15 +47,15 @@
 
 1. **Fetch** the canon block live; read it fully (R1). Record the beat list.
 2. **Write** (R11 register; R12 dual track; **R15 — mark each canon beat public · private · parallel · butterfly-touchable, choose the felt butterflies *before* prose (`foundation/CANON_BUTTERFLY_PROTOCOL.md` §2/§6), and read the open obligations in `bible/BUTTERFLY_LEDGER.md` for this window**; seals from `KNOWLEDGE_FIREWALLS`). **2b. The two-engine blueprint (R21 — `foundation/HOW_TO_WRITE.md`):** canon beats marked public/private/parallel/touchable; **the OC beats written as events** (want · obstacle · cost · outcome); the collision seams named; the lock-4 sentence written — *Su Yan wants ___, and ___ stands in the way, and it will cost ___.*
-3. **Measure:** `python3 /home/user/scratch/measure_sl3p.py <chapter>` — fix every over-60 and every "the way" past 2.
+3. **Measure:** `python3 tools/measure_sl3p.py <chapter>` — fix every over-60 and every "the way" past 2.
 4. **Style pass script** (if needed): exact old strings only; anchor-grep before writing; a MISS exits and **the chained commit silently skips** — verify `git log` after any chain.
-5. **Receipts:** `canon_coverage/Canon_Coverage_Chapter_0N.md` (beat tables, handling notes, seals, metrics) + ledger updates (`LSP`, `SP`, `PAIR`, `HOUSEHOLD`) + `SERIAL_LOG` entry + `audits/Chapter_0N_audit.md` + **the butterfly pass:** every touched ledger line's *last echo* updated, new lines entered **with their obligations named at birth**, what fell due paid (or closed dated **Quiet**), and the chapter's **deletion-test answer** written into the coverage doc. **5b. The R21 tests (into `audits/Chapter_0N_audit.md`):** **the actor test** (in his scenes: doing, or watching/filing/noting?) · **the reaction test** (name the canon character whose behavior changed because he was there) · **the event count** (≥ 2 value-changes, ≥ 1 costing something real). **5c. The panels:** `SU_YAN_STATUS` (**the win-copy — rebuilt from the chapter itself, same turn; H13: the status file is the state, never a pointer sheet**) · `RELATIONSHIPS` · `TIMELINE` · `CANON_CHARACTER_STATE` — refreshed the same turn (the author's own directive: *"update everything, everytime"*).
+5. **Receipts:** `canon_coverage/Canon_Coverage_Chapter_0N.md` (beat tables, handling notes, seals, metrics) + ledger updates (`LSP`, `SP`, `PAIR`, `HOUSEHOLD`) + `SERIAL_LOG` entry + `audits/Chapter_0N_audit.md` + **the butterfly pass:** every touched ledger line's *last echo* updated, new lines entered **with their obligations named at birth**, what fell due paid (or closed dated **Quiet**), and the chapter's **deletion-test answer** written into the coverage doc. **5b. The R21 tests (into `audits/Chapter_0N_audit.md`):** **the actor test** (in his scenes: doing, or watching/filing/noting?) · **the reaction test** (name the canon character whose behavior changed because he was there) · **the event count** (≥ 2 value-changes, ≥ 1 costing something real). **5c. The panels:** `SU_YAN_STATUS` (**the win-copy — rebuilt from the chapter itself, same turn; H13: the status file is the state, never a pointer sheet**) · `RELATIONSHIPS` · `TIMELINE` · `CANON_CHARACTER_STATE` — refreshed the same turn (the author's own directive: *"update everything, everytime"*). **H14:** every claim in them is line-checked against the page it cites before delivery.
 6. **One commit**, chained: `cd /home/user/kit && python3 <script> && git add --sparse -A && git commit -m "…"`.
 7. **Verify:** `git log --oneline -2`, `git status --porcelain` clean, greps for each new artifact, re-measure if any chapter text changed after the last measure.
 8. **Present** the chapter; report in the author's register: canon carried, OC parallel, seals, metrics, receipts. Never claim more than the files show.
 
 ## 6 · The standing tooling
 
-- Measure tool: `/home/user/scratch/measure_sl3p.py`.
+- Measure tool: `tools/measure_sl3p.py` — ships with the serial (the build-time working copy was `/home/user/scratch/measure_sl3p.py`, same tool).
 - Applied scripts live in `/home/user/scratch/` — **never re-run an applied script.**
 - Sparse checkout; stage with `git add --sparse -A`; repo identity `arena-agent`.

@@ -2,7 +2,7 @@
 
 > **The angle (the author's question, 2026-10-02 — *"which angle"*):** this file is written the way the house writes status files — **single-state truth, writer-side**: the whole living state of the original character in one file, at the live edge. In the author's own projects: `soul_land_2_new/foundation/STATUS_PANEL.md` — *"the whole living state of the hero and his world in one file… if a number isn't here, it doesn't exist yet"* — and the parked serial's `bible/OC_STATUS.md` — *"the single perfect state file… this file wins — until the author's word wins."* **Not a pointer sheet.** A status file that sends you to other files for the numbers is not a status file. *(The mistake it replaces: MISTAKES H13.)*
 >
-> **Rank among files:** for anything about Su Yan — numbers, standing, current state — **this file wins.** Ledgers and bibles keep *history, mechanism, and receipts*; where a current value is needed they cite this file, never mirror it. The chapters are its source of record: refreshed from them **every chapter, same turn**; where this file and a chapter disagree, the chapter is right and this file is corrected. **The author's word outranks everything.**
+> **Rank among files:** for anything about Su Yan — numbers, standing, current state — **this file wins.** Ledgers and bibles keep *history, mechanism, and receipts*; where a current value is needed they cite this file, never mirror it. The chapters are its source of record: refreshed from them **every chapter, same turn**; where this file and a chapter disagree, the chapter is right and this file is corrected. **The author's word outranks everything.** Every claim in this file is line-checked against the chapter it cites before delivery (H14).
 >
 > **Snapshot:** end of **Chapter 5 — *Three Winters*** · 2026-10-02 · age **9** · the graduation year's last month · public rank **nine** · the door at **ten**. Bookkeeping: R14 (numbers are receipts) · Q-2 (no spiritual-power print) · LSP-10 (no gold).
 
@@ -28,19 +28,19 @@
 
 ## §2 · The window — the live edge
 
-The last month of the graduation year. The record check has printed his **nine** — a boy the file calls *the pig, one* is five places off the class's fastest and one rank short of the letter that matters. Teacher Lin wrote the office for the spring tests and paid her own late bill in front of him (*"I am late. That is mine to carry."*). The pot is his now; the pig reads for money and refused a rotten crate; the girl by the window spoke for him again; the father opened a page called ***The boy*** in the big clinic book. The tin on the shelf has not been counted aloud. Ahead: the tests, the graduation, and the door at rank ten — **the first spirit soul he cannot afford and is not ready for.** He is nine.
+The last month of the graduation year. The record check has printed his **nine** — the machine's number, one rank past his own count, and the first number set beside his name since the plate's *one*; the recommendations list is one rank away. Teacher Lin puts his name down for the intermediate tests in the spring, and pays her own late bill to his face (*"I am late. That is mine to carry."*). The pot is his now; the pig reads for money and refused a rotten crate; the girl by the window has watched him for two years and was not surprised by the number; the father opened a page called ***The boy*** in the big clinic book. The tin by his bed has weight in it and has not been counted out loud. Ahead: the tests, the graduation, and the door at rank ten — **the first spirit soul, the price on it, and the family's promise about the day the price gets said.** He is nine.
 
 ## §3 · Line 1 — soul power and rank
 
 - **Public record: nine.** Printed by the school's apparatus in the graduation-year check; the record's first movement since the ceremony's *one* (ch 5).
 - **The correction that stands as a life-line:** his private count read **eight** and the machine said **nine** — *being sure and being right are two different rooms*, and he learned it young (ch 5).
 - **The skip's arithmetic (compression ruling):** ranks **2–9 accrued across the three winters**, paid year by year — the two-hour night held, the feed to three ladles, the body's fog seasons without the cough, the mind answering the room. **Nothing skipped silently; nothing announced.**
-- **The gate: ten.** Needs the ring (and a spirit soul to give it) — and the recommendation letter he is one rank short of; Teacher Lin's letter to the office is in. Not yet staged beyond that.
+- **The gate: ten.** Needs the ring (and a spirit soul to give it) — and the recommendations list he is one rank short of; Teacher Lin is putting his name down for the spring tests, and said the prices flatly. Not yet staged beyond that.
 - **Next crossing rule:** every rank crossing is a scene with *cause · price · behavior* — no announcement, no fiat; the author's dial sets the week.
 
 ## §4 · Line 2 — spiritual power and the mind (the three first effects)
 
-- **Value: 33** at the reading (age six, private, Tier-0 — six years of the whole-existence law working under strain) → **high 50s** now (private; **unprinted**; Q-2 holds; the **band-60 crossing reserved** for a written scene). Intermediate Spirit Origin — the band canon says can already carry a yellow soul. Nobody in-world knows; the ceremony measures innate soul power only.
+- **Value: 33** private, locked at the ch 1–2 era (age six; **never measured anywhere** — the ceremony registers innate soul power only; the six survival years' work under strain) → **high 50s** now (private; **unprinted**; Q-2 holds; the **band-60 crossing reserved** for a written scene). Intermediate Spirit Origin — the band canon says can already carry a yellow soul. Nobody in-world knows; the ceremony measures innate soul power only.
 - **What shows — behavior only, never narration, never named:** **memory** (the room's lists, the sums page kept weekly, a teacher's one sentence held for years); **intelligence** (the misread learned and corrected; a method taught on the first pass and kept; the sums); **comprehension** (three years of a two-hour night; the circles closing); and quality — long focus, a mind that stays level where other children panic. No inner-system talk; no self-praise in his head; **he does not know what he is.**
 - **The design tie (sealed):** canon says the soul's grade is gated by spiritual power. His road to the Wyrm runs through this line. Nobody connects the dots in-world. *This is how a rank-one record could one day hold what the record denies.*
 
@@ -58,7 +58,7 @@ The last month of the graduation year. The record check has printed his **nine**
 
 ## §7 · The companion — Luo Sanpao
 
-- **Current state:** bowl at **three ladles** when the need asks; the coat comes up under the hand; waits at the hour the boy comes home; sleeps at the clinic's outer door; **unhurried in fog** where the lane's dogs are not; the **refusal** (it will not walk a bad crate); the nose sharp enough that the fishwife pays in a standing question.
+- **Current state:** bowl at **three ladles** when the need asks; the coat comes up under the hand; waits at the hour the boy comes home; sleeps at the clinic's outer door; **unhurried in fog** where the lane's dogs are not; the **refusal** (it will not walk a bad crate); the nose that the street's trade now brings its crates past before settling.
 - **Private practical-maturity index: ≈1.3×** — inside the **first academy year band (1.2–1.4)**, middle. Baseline 1.00× = canon Luo Sanpao at the same cultivation. **Every point above baseline is bought** — food, herbs, recovery, patience; no free movement.
 - **The appetite law:** as the private rises, the creature's needs rise first — the household feels growth in money and in the kitchen; growth and cost travel together.
 - **The legal record never moves on its own:** *trash pig; slow; three shots; not battle-worthy.* The world's word stands until the world is made to watch.
@@ -74,14 +74,14 @@ The last month of the graduation year. The record check has printed his **nine**
 
 - **Kitchen (mother's craft):** the pot's **third stage** — two ladles, three when the need asks; *"The pot is yours now."* Knife-work, broth, the arithmetic of a pantry.
 - **Clinic (father's craft):** the counter, grinding, the smoke test, the back of the hand, the fingers for the pulse. The first wage — **5 coppers**, *"For the day's work. Not for being the son."*
-- **Grain house (mother's family):** the back stair; seconds; the day he found the going sack the machine had missed.
+- **Grain house (mother's family):** the back stair and the half-crate under one arm (ch 4); seconds; the going sack found in the back row (ch 3).
 - **Market:** the read trade — in kind, then small coin; the household's food line now has the creature's labour in it.
-- **School:** the room's arithmetic is four years old — *Su Yan, the pig, one* — and the file has been open since the first day; a file does not need to be said to be used. **Teacher Lin Ximeng** kept him in his chair and wrote the office for the spring tests; her late bill, said to his face: *"I am late. That is mine to carry."* **The girl by the window** stands for him when it costs her — *"He taught me. So it's not a waste."* **Wan Yunchao's** jab answered once, quietly: *"But the pig walks back."*
+- **School:** the room's file is four years old — *Su Yan, the pig, one* — and has not been opened since the first day; a file does not need to be said to be used. **Teacher Lin Ximeng** put his name down for the spring tests and owned her late bill to his face: *"I am late. That is mine to carry."* **The girl by the window** — once, in the second year: *"He taught me. So it's not a waste."* **Wan Yunchao's** room-jab answered quietly: *"But the pig walks back."*
 
 ## §10 · Money
 
 - **Printed on pages so far:** **2 coppers** lost on the nose alone (ch 3) · **5 coppers** first wage (ch 4) · **3 coppers** fish heads and fins, counted in his own columns (ch 4). **Nothing else is printed anywhere** — the weekly wage, the trade's takings, and the tin's contents have no figures on a page yet.
-- **The page in the back of the practice book** — **earned · spent · left** — kept honest weekly, in his hand; no total is ever printed; the tin on the shelf has never been counted aloud.
+- **The page in the back of the practice book** — **earned · spent · left** — kept honest weekly, in his hand; no total is ever printed; the tin by his bed (a weight in it that makes noise when it moves) has never been counted out loud.
 - **The father's page** — ***The boy*** — opened in the big clinic book; the pig entered under the month's compounding costs; the promise: the day the price is spoken is counted in daylight, with the door open.
 - **The house:** good, not rich; six sick years bled the cushion; the recovery season spent what was left into hope. **Standing line:** *"We are still richer than most."*
 
@@ -89,13 +89,13 @@ The last month of the graduation year. The record check has printed his **nine**
 
 | Who | State now | What they hold |
 |---|---|---|
-| **Su Heng** — father | the page *The boy* open; writes the sums; has never said the price aloud | **SUSPICION** — he has watched the pig's coat catch light and knows something is being fed that money alone does not explain |
-| **Zhou Hui** — mother | the pot handed over; the market line stretched and managed | **SUSPICION** — she counted the winter's radishes; she does not ask the question her face asks |
-| **Teacher Lin Ximeng** | left the chair turned toward the back of the room; wrote the office for the spring tests | **KNOWS PARTLY** — she has read the file and something in the boy's sums; she has said one useful sentence in three years, and it was about being late |
-| **The girl by the window** | spoke for him again in the room | **KNOWS** — she was taught once and never forgot; she spends her own coin on him twice now |
-| **Wan Yunchao** | answered once; the class heard it | bruised certainty — the bottom of the line answered back |
-| **The class / the room** | the file cracked on the blue screen; the number nine on the great list | **FALSE BELIEF** — still mostly *the pig*; the correction is printed but not yet believed |
-| **The town** | third story running: *"the physician's boy who had not been seen coughing once all year"*; the market's *"he is at nine"* | **FALSE BELIEF** — *he grew out of it* — which is true of the illness and false about everything else |
+| **Su Heng** — father | the examination and the question (*"Does it ever hurt?"* — *"No."*); the promise (*"I do not promise to have an answer. I promise to write the page."*); the page ***The boy*** opened; the pig entered under the month's compounding costs | **KNOWS PARTLY** — the recovery is his one unwritten record; *"there is no page in any of my books that says into what"*; the practice hours known, the why not |
+| **Zhou Hui** — mother | the pot handed over; the sums page read; the stand spoken once (*"the tin is yours, and we are yours"* — the day counted in daylight, the door open); *"we are finished pretending it was the spring"* | **SUSPICION** — the arithmetic and the feed line are hers to see; she says the family's position, not her own question |
+| **Teacher Lin Ximeng** | three years of the chair; one useful sentence in them (*"Keep those hands"*); at the gate — the name put down for the spring tests, the prices said flatly (*the tests cost money; one rank short of the recommendations list*), and her own late bill owned | **KNOWS PARTLY** — the hands, the practice, the number; not the why |
+| **The girl by the window** | spoke for him once, in the second year — *"He taught me. So it's not a waste."*; at the check, an expression with nothing of surprise in it | **KNOWS** — the method; and the arithmetic she did herself, two years before the machine |
+| **Wan Yunchao** | the room's jab (*"you'll still be here next spring, huh"* — answered with *"But the pig walks back."*); the test doorway's *"I hope the pig gets a certificate."* | the certainty is cracked; the desk behind him laughed at him for the first time in three years |
+| **The class / the room** | the machine's blue screen; the number **nine**; the room going completely quiet; the class's sentence now *"the pig boy is at nine"* | the file is cracked; the older boys' sentence hangs between the joke and respect |
+| **The town** | the market's sentence *"the physician's boy is at nine"*; the tea stand improving it twice; the patients asking how the physician *made* him | the old story (*he grew out of it*) is true of the illness and false of everything else; the new story is a number |
 | **Tang Wulin** | canon state: rank 10, 30,200 saved, at the Pagoda's door | **UNKNOWN** — adjacent roads; no contact beyond canon's own order |
 | **Na'er** | canon's own page: the ring between her brows unseen | **UNKNOWN / HIDDEN** — sealed (NAE-02) |
 
@@ -105,9 +105,9 @@ The last month of the graduation year. The record check has printed his **nine**
 
 - **Ch 1 — *The Reading*:** canon ch 1–2 on page; his ceremony — **the plate: Luo Sanpao · one**; the recovery; the family's hope gutted by a number.
 - **Ch 2 — *The House and the Road*:** canon ch 3–4; the first term paid; the feeding economy begins; the first cultivation hour; the first day of school.
-- **Ch 3 — *A Bowl and a Name*:** canon ch 5–7; the foundling day (the girl enters the world); the bowl grows; the nose tested and wrong once (two coppers) and vindicated in the grain house; the circle closes.
+- **Ch 3 — *A Bowl and a Name*:** canon ch 5–7 (the foundling day — canon's own; Na'er sealed, NAE-02); the bowl grows; the nose tested and wrong once (two coppers) and vindicated in the grain house; the circle closes.
 - **Ch 4 — *A Thousand Times*:** canon ch 8–11; the forge arc beside his own winter — the wage (five coppers), the basket bought with it, the wrong jar sent back, the mooring read in fog; the second circle found.
-- **Ch 5 — *Three Winters*:** canon ch 12–15; the skip rendered honestly — **the record check prints nine**; the pot is his; the read becomes a trade (the crate walk, the refusal, the fishwife, the pier); Teacher Lin's letter and her late bill; the girl speaks; the father's page; the tin; two fog seasons without the cough.
+- **Ch 5 — *Three Winters*:** canon ch 12–15; the skip rendered honestly — **the record check prints nine**; the pot is his; the read becomes a trade (the crate walk, the refusal, the fishwife, the pier); Teacher Lin's letter and her late bill; the girl by the window has her say; the father's page; the tin; three winters without the cough.
 
 ## §13 · Seals standing (what may not be said or shown)
 
@@ -115,7 +115,7 @@ The last month of the graduation year. The record check has printed his **nine**
 
 ## §14 · Held / locked — not yet, whatever the pressure
 
-- **Rank 10 and the first spirit soul** — years away; canon path re-verified at write-time; **the Sun-Branded Wyrm** is the author's lock (`FIRST_RING_ACQUISITION`), never rushed, never named early. The Pagoda's price wall stands at **70,000 white · 1,000,000 yellow · 30,000 draw** — canon's numbers, and his family cannot pay them.
+- **Rank 10 and the first spirit soul** — years away; canon path re-verified at write-time; **the Sun-Branded Wyrm** is the author's lock (`FIRST_RING_ACQUISITION`), never rushed, never named early. The Pagoda's price wall stands at **70,000 white · 1,000,000 yellow · 30,000 draw** — canon's numbers; the family has said it plainly: the last one *is a purchase*, and the number will be *larger than the tin*.
 - **The horizon** (the soul's old, unfinished, recorded completion) — sealed; never named in his head, never foreshadowed aloud.
 - **The appearance line** — not yet stated in a scene of its own (the framework names it the most-dropped line; the first earned statement opens it).
 - **Ch 5 v2 — the author's order (pending, next to write):** the canon block told tight; **his climb 6 → 7 → 8 → 9 on the page**; the soul's growth *shown* (the feed's cost, the coat, the speed, the nose at distance, the refusal); the mind at a scale that is not normal; the three costed turns — the wrong read · the contested trade · the tin's decision — and the letter one rank short.
