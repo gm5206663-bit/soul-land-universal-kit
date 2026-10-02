@@ -82,4 +82,13 @@ What this chapter puts **on the page** from the canon records, and what is ours.
 - **v5 gate:** 4,263 words · ALL avg **11.1** / median 8 / **0 over 60** · NARR 11.6/8/0 · dialogue paragraphs **58** · **CJK 0** · the-way simile tic **2**. Register objects: Fire Phoenix ch 1/2/3/6/21 = avg 8.0–9.0, median 6–7, dialogue paragraphs 44–68.
 - **Law armed:** **R12 — the dual-track law** (`foundation/NO_MISTAKE_LIVE_RULES.md`). v1–v4 remain in git history.
 
+## 6. Butterflies and the deletion test (R15 — deepened 2026-10-02)
+
+**Felt on the page (receipts):**
+- The queue four families back: the two fathers' small talk (Su Heng / Tang Ziran), the boys' handshake, and the call-order joke that lands true — *"Teacher will call us by family name. So you only get called after me if we're in the same line."* / *"We're in the same line."* — before **"Su Yan!"** actually carries over the wall and **"Tang Wulin!"** follows it.
+- The chamber's second reading, same script, same master — and the script's flatness meeting *"Luo Sanpao"*; *"That is the whole of it. One."*
+- The house's evening: four sharp questions and not the fifth; **the father's left hand** — *"the hand of a physician who had spent the evening not looking at his instruments"*; the radish on the saucer, *"no note, no mention."*
+
+**Deletion test — what is different because he is in it:** with him deleted, Awakening Day yields **one** story instead of the two the town will tell from chapter 2 on; the Chamber's morning has one child in it instead of two; and the two-families/two-readings mirror this chapter is built on does not exist. Full lines and open obligations: `bible/BUTTERFLY_LEDGER.md` B-01…B-04.
+
 *Filed alongside: `chapters/Chapter_01_The_Reading.md`; the plan is `foundation/NEXT_STEPS.md`; the rulings are `foundation/OPEN_RULINGS.md`.*

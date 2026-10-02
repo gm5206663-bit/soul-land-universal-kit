@@ -67,12 +67,17 @@ What this chapter puts **on the page** from the canon records, and what is ours.
 | **The breakwater walks** — the pig's country; the harbor read by nose (crates, wind, which mooring held animals); the town's standing picture of the two of them | Staged | R20 (rung 2); R15 |
 | **The town's story at the Su table** — the repairman's boy, the silver-haired girl, the men, the office's silence, the family that kept her; the family's dry verdicts | Staged | R15; NAE-02 (a rumor only) |
 
-## 5. Butterflies (R15) — small, causal, permanent
+## 5. Butterflies (R15, deepened 2026-10-02) — and the deletion test
 
-- The town now tells **three stories** at once (the grass boy, the pig boy, the silver girl) and gets a little of each wrong.
-- The academy has filed Na'er (*the little sister*) and Su Yan has watched her from across the yard — a recognition he puts away and builds nothing on.
-- The grain house's men have learned the physician's boy's pig is right about a sack more often than a pig should be; it is already a joke that keeps coming back true.
-- The Su household's money curve has its second-stage cost written into it (the bigger basket, the standing pot).
+**Felt on the page (receipts):**
+- Teacher Lin's first sentence to him, three weeks in — *"Your hands are right." … "Keep them there."* — *"the longest sentence a teacher had spent on Su Yan."*
+- The noon tap neither boy arranged: *"You have a lot of friends." / "I have a pig." … "Mine's called Na'er." / "Mine's called Luo Sanpao."* (the one place both names are said aloud to another child; NAE-02 untouched — a habit, not a fact).
+- The breakwater habit becomes **"one of the town's standing pictures"** — the physician's boy and the purple pig at dusk — with the older boys' jokes running off him *"as he let the weather be weather."*
+- The nose's lesson, priced: the trusted crate, *"the fish went into the pot gray and came out gray, and two coppers went down the drain"*; his mother asked one question.
+- The physician's paper twist on the counter — *"Half in the broth. It won't keep."* — medicine from a father who says nothing about why, and *"the pig ate that night with unusual ceremony."*
+- He passes the fish-row crowd on his errand (*"his feet stopped on their own"*) and carries nothing from it — deliberately closed (B-10): no witness role, no future claim.
+
+**Deletion test — what is different because he is in it:** without him the breakwater has one walker instead of a town picture; the noon tap does not exist, so Wulin's *"Mine's called Na'er"* is never said aloud to another child; the academy's week has no third file being quietly rewritten (*"the pig boy"* beginning to stop being all of it); and *"two noses on the breakwater, one of them better"* — the chapter's second engine — is gone. Full lines: `bible/BUTTERFLY_LEDGER.md` B-10…B-15.
 
 ## 6. Handling notes (divergences and how they are kept)
 

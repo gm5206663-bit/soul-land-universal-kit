@@ -107,4 +107,17 @@ What this chapter puts **on the page** from the canon records, and what is ours.
 
 **Seals kept:** LSP-10 (no gold on the soul) · R13/DRG-01 (no resonance beat) · NAE-02 · R5 (Talent unnamed) · WUL-01/04 (golden traces canon-own) · no numbers printed (money is the house's own; the count motif) · no futures spent.
 **Metrics:** **9,788 w · ALL 12.3 / 10 / 0 over 60 · NARR 14.4 / 12 / 0 · dialogue paras 101 · CJK 0 · "the way" 0.** Measured after the final edit (the mother's refusal line added, then re-measured; the number corrected across receipts in the same turn).
-**Receipts:** spine §I (FORGE-01..04 · NAE-03 · WUL-04); register row 38; `GROWTH_LOCKS` §6; SP ledger ch-4 receipt; LSP ch-4 addendum (stage three, first-academy-year band opening); PAIR §4 rung-3 deepening; `HOUSEHOLD_LEDGER` rows; `SERIAL_LOG` LOG 020; audit `audits/Chapter_04_audit.md`.
+**Receipts:** spine §I (FORGE-01..04 · NAE-03 · WUL-04); register row 38; `GROWTH_LOCKS` §6; SP ledger ch-4 receipt; LSP ch-4 addendum (stage three, first-academy-year band opening); PAIR §4 rung-3 deepening; `HOUSEHOLD_LEDGER` rows; `SERIAL_LOG` LOG 020; audit `audits/Chapter_04_audit.md`; **`bible/BUTTERFLY_LEDGER.md` (B-16…B-23, opened 2026-10-02).**
+
+## 8. Butterflies and the deletion test (R15 — deepened 2026-10-02)
+
+**Felt on the page (receipts):**
+- The wage doctrine: *"For the day's work… Not for being the son."*; the chipped tea tin; the new column — **Earned · Spent · Left.**
+- **The pig on the clinic's payroll:** the mislabeled jar caught at the shelf before it reached a patient; the father's burn test, twice; *"Your pig is welcome at work any time. Tell him his wages will be a bone."*
+- The memorization hour: read twice, said once — **the room turned its head** — and the girl by the window leaving with all ten and a method that came from him; **Teacher Lin's look, *"a moment longer than the answer needed."***
+- Three coppers of his own for the fish heads — *"The pig earns its bowl"* — and his mother's one laugh and her silence, *"which was how she gave the boy his right to stand behind what he had said."*
+- The fog: *"the boy did not cough"*; his mother stopping over the folding; the parents' **coin put aside** — *"neither of them could find the page that said into what, exactly."*
+- The grain-house stair: the half-crate under one arm, *"the stair did not slow him,"* and **his mother's pen stopping for exactly one line.**
+- The close makes the count visible to the reader: **"Three stories, one small city, and not one of them understood."**
+
+**Deletion test — what is different because he is in it:** delete him and the town keeps **two** stories instead of three; the clinic keeps a mislabeled jar on its shelf; the girl by the window keeps seven kinds and a closed drawer; the noon tap stays un-answered; the fog keeps one more coughing child in the lane; and the last line of the chapter — the three-stories instrument — does not exist. Every item is on the page. Full lines and open obligations: `bible/BUTTERFLY_LEDGER.md` B-16…B-23.

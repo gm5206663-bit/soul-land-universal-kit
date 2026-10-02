@@ -14,10 +14,12 @@
 - **Ch 4 shipped** — *A Thousand Times*: canon SL3 ch8–ch11 complete (the forge arc — the spirit-soul talk; Mang Tian's workshop and the thousand strikes; the disciple; the astonishing recovery); 9,788 w · 0 over 60; and in the Su house the season turns — the first wage, the basket, the second circle.
 - **The operating set completed (this commit):** `audits/` (ch1–ch3) · `canon_coverage/INDEX.md` · `foundation/` additions: `MISTAKES_LEDGER` · `POWER_LAW` · `TERMINOLOGY` · `REGISTER_AND_STYLE` · `ISSUES_LEDGER` · `bible/` additions: `KNOWLEDGE_FIREWALLS` · `GROWTH_LOCKS` · `FIRST_RING_ACQUISITION` · `HOUSEHOLD_LEDGER` · `CHANGELOG.md` (this file) · README refreshed.
 
+- **The author's fifth correction answered — the butterfly system (this commit):** *"Where is natural butterfly effects, please check my projects and others All things and understand many things."* His own doctrine swept at the source (three of his projects + the master foundation: the canon-butterfly protocol, the registry that demands obligations **named at birth**, the consequence rules where *silence is not a decision*, and the line that names this whole pass — *"butterflies are felt, not footnoted"*). Shipped: `foundation/CANON_BUTTERFLY_PROTOCOL.md` + `bible/BUTTERFLY_LEDGER.md` (B-01…B-23), **R15 deepened**, the four coverage docs answering the deletion test, and the ch-5 plan carrying the marking drill. **No chapter text changed.**
+
 ## What stands now
 
-- **Shipped:** ch 1 · ch 2 · ch 3 — all committed, receipted, audited, delivered.
-- **Next canon default (G12):** ch 4 = SL3 ch8+; plan file in `NEXT_STEPS`.
+- **Shipped:** ch 1 · ch 2 · ch 3 · ch 4 — all committed, receipted, audited, delivered.
+- **Next canon default (G12):** ch 5 = SL3 ch12+ (the three-year skip); plan file in `NEXT_STEPS`.
 - **The open road:** the first academy stretch (ranks 1→10), the development layer in motion, the first ring years off in-story and locked to the author's design (Sun-Branded Wyrm, G7).
 - **Seals standing:** LSP-10 · R13/DRG-01 · NAE-02 · the Wyrm · Talent unnamed.
 

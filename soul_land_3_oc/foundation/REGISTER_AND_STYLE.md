@@ -45,10 +45,10 @@
 ## 5 · The pre-ship drill (in order — no skips)
 
 1. **Fetch** the canon block live; read it fully (R1). Record the beat list.
-2. **Write** (R11 register; R12 dual track; seals from `KNOWLEDGE_FIREWALLS`).
+2. **Write** (R11 register; R12 dual track; **R15 — mark each canon beat public · private · parallel · butterfly-touchable, choose the felt butterflies *before* prose (`foundation/CANON_BUTTERFLY_PROTOCOL.md` §2/§6), and read the open obligations in `bible/BUTTERFLY_LEDGER.md` for this window**; seals from `KNOWLEDGE_FIREWALLS`).
 3. **Measure:** `python3 /home/user/scratch/measure_sl3p.py <chapter>` — fix every over-60 and every "the way" past 2.
 4. **Style pass script** (if needed): exact old strings only; anchor-grep before writing; a MISS exits and **the chained commit silently skips** — verify `git log` after any chain.
-5. **Receipts:** `canon_coverage/Canon_Coverage_Chapter_0N.md` (beat tables, handling notes, seals, metrics) + ledger updates (`LSP`, `SP`, `PAIR`, `HOUSEHOLD`) + `SERIAL_LOG` entry + `audits/Chapter_0N_audit.md`.
+5. **Receipts:** `canon_coverage/Canon_Coverage_Chapter_0N.md` (beat tables, handling notes, seals, metrics) + ledger updates (`LSP`, `SP`, `PAIR`, `HOUSEHOLD`) + `SERIAL_LOG` entry + `audits/Chapter_0N_audit.md` + **the butterfly pass:** every touched ledger line's *last echo* updated, new lines entered **with their obligations named at birth**, what fell due paid (or closed dated **Quiet**), and the chapter's **deletion-test answer** written into the coverage doc.
 6. **One commit**, chained: `cd /home/user/kit && python3 <script> && git add --sparse -A && git commit -m "…"`.
 7. **Verify:** `git log --oneline -2`, `git status --porcelain` clean, greps for each new artifact, re-measure if any chapter text changed after the last measure.
 8. **Present** the chapter; report in the author's register: canon carried, OC parallel, seals, metrics, receipts. Never claim more than the files show.

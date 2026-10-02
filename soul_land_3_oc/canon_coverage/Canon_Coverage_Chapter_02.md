@@ -55,11 +55,15 @@ What this chapter puts **on the page** from the canon records, and what is ours.
 | **The first day** — his introduction (four words); the classification lesson's hole (a beast that stands outside — reader-irony only, never taught by any character); the water-tap exchange; *"The habit."* | Staged | R12 dual track; firewall |
 | **Two kitchens braid** — Lang Yue's emptied pots and the week's money moved; Zhou Hui's broth pot and her ledger; both houses asleep | Staged | R15 motif; D-07 |
 
-## 4. Butterflies (R15) — small, causal, permanent
+## 4. Butterflies (R15, deepened 2026-10-02) — and the deletion test
 
-- The classroom which hears two unusual readings instead of one; the teacher has two names to mutter side by side.
-- The town's two stories that night (the grass boy and the pig boy) — gossip as weather, no canon result touched.
-- The Su household's money: a real cost curve now opened (the term + the feed).
+**Felt on the page (receipts):**
+- The academy's first week holds **two** unusual children, and the room's two files open side by side — his introduction is four words (*"Su Yan. Luo Sanpao. One."*), and *"It had filed him in the pig column and moved on to the boy with the grass."*
+- **The town's two stories** that night — the grass boy (*rank 3*, the grass, the grocery bill) and the physician's boy (*"with a pig"*) — *"and nobody in either story had asked either boy a single question."* Gossip as weather; no canon result touched.
+- The Su household's money: the term paid **standing up** (ch 1's promise executed) and the feeding curve opened; Zhou Hui closes the ledger — *"We are still richer than most."* / *"That is not the question,"* says Su Heng.
+- **"Nine ranks to go."** — the private count begins, between the boy and the reader.
+
+**Deletion test — what is different because he is in it:** delete him and the town tells **one** story that year instead of two, and the chapter's closing instrument — two houses, two stories, two appetites, *"two kitchens were scraped clean"* — does not exist. The answer is on the page, not in this file. Full lines and obligations: `bible/BUTTERFLY_LEDGER.md` B-05…B-09.
 
 ## 5. Handling notes (divergences and how they are kept)
 
