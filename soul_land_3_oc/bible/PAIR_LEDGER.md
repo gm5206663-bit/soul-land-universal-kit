@@ -36,8 +36,8 @@ Understanding is **read**, not spoken: the sound low in its chest, the ear set, 
 
 **The ladder (bible-only; every rung an earned scene; nothing named in prose):**
 1. **The bowl and the hour** (ch 1–2, receipted): it eats; it answers the boy's voice faster than in the first days; the house learns the hour. The first thing understood is *appetite*.
-2. **The house's rules** (early academy weeks): it learns the father's boots, the stove's edge, the market's noise; the boy learns its weather — when the nose is working, when it wants the dark. Behavior: it stands aside; he stops calling it when it refuses.
-3. **The working read** (first academy year): the nose becomes a tool used *deliberately* — a scene where the boy tests a read against the world and is right, or wrong, and learns. Understanding turns operational.
+2. **The house's rules** (early academy weeks): it learns the father's boots, the stove's edge, the market's noise; the boy learns its weather — when the nose is working, when it wants the dark. Behavior: it stands aside; he stops calling it when it refuses. **(receipted, ch 3: the stove hour holds; the creature now travels the boy's day with him and reads the harbor beside him.)**
+3. **The working read** (first academy year): the nose becomes a tool used *deliberately* — a scene where the boy tests a read against the world and is right, or wrong, and learns. Understanding turns operational. **(opened, ch 3: wrong once on the nose alone — two coppers, the margin-note lesson; right in the grain house — a going sack.)**
 4. **The first real use** (before the first ring): one earned scene where the pair's canon faculties (nose · upkeep · the three shots held in reserve) change an outcome at household scale. Priced: the shot is spent and the nourishment paid.
 5. **Under load** (after the first ring — author-gated timing): shot → recovery → feed, scripted by both; the rhythm shows in the aftermath scene.
 6. **Horizon — sealed.** LSP-08 stays unspent; this ladder stops here in this file.

@@ -408,7 +408,7 @@ That night, two kitchens were scraped clean.
 
 In the Tang house, the pot that had held the stewed ribs came back empty, and the rice pot came back worse than empty. Lang Yue stood in the middle of it with her hands on her hips. Then she quietly put an extra measure into tomorrow's plan, and moved the rest of that week's money around like a captain moving cargo.
 
-Wulin went to bed before dark, hungrier than he had ever been, and thirstier, and sleepier, and all three together put him under in the time it takes to drop a stone.
+Wulin came in from his first day hungrier than he had ever been, and thirstier, and sleepier, all three at once.
 
 In the house above the clinic, the broth pot came off the stove and went into a bowl, and the bowl went under the table where the creature took its meals with the dignity of a magistrate, and the pig ate like the day had earned it, and then went to the stove and lay down.
 

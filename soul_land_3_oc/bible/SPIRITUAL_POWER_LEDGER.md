@@ -55,6 +55,7 @@
 - **Crossings are events:** 60 (advanced) inside the first academy stretch; **100 — Spirit Connection — a written scene** in the early academy arc: where control begins. First printed public number comes with a test that earns it (academy route / Spirit Pagoda on first fusion), and the Pagoda keeps the record from then on.
 - **The design tie:** his first spirit soul is the **Sun-Branded Wyrm** (author lock, G7) — canon says the soul's grade is gated by spiritual power. His road to that soul runs through this ledger. Nobody connects the dots in-world yet.
 - **Ch 2 receipt (2026-10-02):** the first voluntary hour — the spoonful that went out twice and then stayed. No crossing, no print; the curve continues private inside the run from 33 toward 60 (natural floor + meditation + the mind's own work; the page shows behavior only).
+- **Ch 3 receipt (2026-10-02):** the circle closed — the evening hour found the thread of warmth returning to itself, once, and then keeping on. No crossing, no print; the curve continues private inside the run from 33 toward 60. Behavioral receipts this chapter: the sums page kept weekly; the misread learned and corrected; the teacher's one sentence held for later.
 
 ## 6 · Guards
 
