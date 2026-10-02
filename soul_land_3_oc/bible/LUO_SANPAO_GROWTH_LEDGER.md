@@ -7,6 +7,7 @@
 | Fact | Detail |
 |---|---|
 | Origin line | A mutation of the **Blue Lightning Tyrant Dragon**, hit twice: down toward a low-level form **and** up toward a higher dragon — **the higher attempt failed to complete**. |
+| Manifestation | **A Beast Martial Soul that manifests *outside* the body** — canon calls Luo Sanpao "particularly unusual," explicitly distinct from the standard Projection (Mimicry) route. **Special martial soul** (author's word, same day); the world still files it as "trash." Both records stand. |
 | Consciousness | The soul is **its own creature**, with awareness of its own; **its injuries and poisons transfer to its master.** |
 | Body | Dog-faced, hog-bulked; over 1.5 m; a bulging dome on the head; pale-purple fur (yellow in the manhua); small drooping ears; large, gentle, deep-blue eyes; slow and waddling. |
 | Senses | **Extremely keen smell** — it can find spirit-beast tracks and judge their strength. |
@@ -20,6 +21,8 @@
 *"Luo Sanpao true bloodline you know, adaption telent is stronger now', so of course it's work on it … su yan of course give good food's and hearbs and others All things to ..Luo Sanpao how much he can to grow, of course su yan learn things from his mother and father like cocking and medical and others things."*
 
 In law: the freed Talent works on **every part of the entire existence — every single part** — which includes his own bloodline and the soul's **failed higher-dragon line** (module v3 §1); the boy's share is **feed, herbs, medicine, care — everything he can afford**; growth is what those inputs buy under the Talent's conversion. Nothing here is a gift.
+
+**Add, same day:** *"…Lou san pao is special martial soul, check everything."* — the full card (§1) stands: outside-body manifestation, own consciousness, transfer, nose, low upkeep, three shots + nourishment; the gold stays sealed.
 
 ## 3 · Legal record vs private maturity (the house pattern)
 

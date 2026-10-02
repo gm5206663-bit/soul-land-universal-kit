@@ -51,7 +51,7 @@
 
 **Growth guidance (draft — author dials G8/G10):**
 - The **three first** effects move first: his memory, intelligence, and comprehension receipts are already on page as behavior (a kitchen and a clinic absorbed by six; teaching that sticks on the first pass) — never as narration.
-- With meditation (canon-taught), sleep and food, the house's sea-nourishing materials, and the Talent's integrative work: early gains run faster than ordinary (R14 never-nerf) — on the order of **+1.5 to +2 points a month**, easing as each band's top nears (canon: higher levels progressively harder; receipts get reasons — tired weeks, illness echoes, overtraining — never quiet rounding).
+- **Natural growth is the floor** (canon: ordinary people to ≈40; Soul Masters to ≈60). On top of it: meditation (canon-taught), sleep and food, the house's sea-nourishing materials, and the Talent's integrative work — early gains run faster than ordinary (R14 never-nerf) — on the order of **+1.5 to +2 points a month**, easing as each band's top nears (canon: higher levels progressively harder; receipts get reasons — tired weeks, illness echoes, overtraining — never quiet rounding).
 - **Crossings are events:** 60 (advanced) inside the first academy stretch; **100 — Spirit Connection — a written scene** in the early academy arc: where control begins. First printed public number comes with a test that earns it (academy route / Spirit Pagoda on first fusion), and the Pagoda keeps the record from then on.
 - **The design tie:** his first spirit soul is the **Sun-Branded Wyrm** (author lock, G7) — canon says the soul's grade is gated by spiritual power. His road to that soul runs through this ledger. Nobody connects the dots in-world yet.
 
@@ -61,3 +61,4 @@
 - **Never nerf:** a peer's higher raw value in one category never makes him ordinary; his stack is broader (mind + Talent efficiency + feed + medicine + study). Canon itself says same rank ≠ same mind.
 - **Never inflate:** no realm named before a scene earns it; no numbers without scenes; no self-praise in his head — he does not know what he is.
 - **Never mix scales:** SL3 uses 1–99/100+; the SL4 project's variant never appears in our prose. **Never preach:** the number is a receipt; the story sells it as quality — and lets the tests do the talking.
+- **Never static:** spiritual power rises naturally before forty; the Talent and training stack on top. Prints are earned; the curve keeps moving off-page.

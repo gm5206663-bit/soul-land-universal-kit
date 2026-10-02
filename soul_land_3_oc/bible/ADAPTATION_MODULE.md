@@ -32,6 +32,7 @@ The illness is real (author lock: soul-veins and body; innate 1; the soul came o
 3. **Body harmony and recovery** — organs, breath, warmth, sleep; the reason the last winter's recovery came out clean and he runs the lanes now.
 4. **Senses and instincts** — two rooms, a clinic, a grain house; weather, weights, voices, pain, seasons.
 5. **The adaptive method itself** (§12.12 recursive) — it adapts him better now than six years ago.
+6. **Body, meridians, affinity — rebuilt as the speed engine** (R18; canon-checked): canon's cultivation-speed list names **physical condition** and **the condition of the meridians**; the soul-veins that failed are the channels now running clean; **affinity** — what he can take in — rides the body. When training opens, the speed is these receipts converting. Never nerfed.
 
 **The bill is the measured thing the world reads:** innate 1; a soul out of the old jokes. The world reads the bill. **The receipts are the story.**
 
@@ -40,6 +41,7 @@ The illness is real (author lock: soul-veins and body; innate 1; the soul came o
 - "An awakening reveals or expands expression that has already been developing" (§6.1). The emergency is over; the whole law turns toward growth.
 - **His bloodline** (the author's set focus): strengthening continuously — slow, priced, seen by nobody (R13 sealed). As it strengthens, influence runs between him and the two other dragon-children — **Wulin, the golden line carried low; Na'er, the silver line hidden**: pull, warmth, attention, comfort. Canon order and outcomes stay canon's; never knowledge (DRG-01).
 - **The soul-layer (Luo Sanpao)** — one part among all parts: grown by feed, care, and time (author: *"of course it's work on it"*); `bible/LUO_SANPAO_GROWTH_LEDGER.md`. Its canon three-shot ceiling and faculties hold until the story earns change.
+- **The speed engine (R18)** — physique → **cultivation speed**; meridians → flow; affinity → what he can take in. Training converts it; every receipt lands in the ledgers.
 - **Every other part, as life supplies material:** body–soul fit; breath; senses; instincts; emotions' regulation; recovery; compatibility with teachers, classmates, institutions; the refining of whatever real training contains.
 - **Training and development are the story's moving parts** (author: *"There training and development and others many things"*). No automatic training — the Talent multiplies *real* work. Every chapter shows development on the page: drills, breathing, control, study, feeding discipline, clinic and kitchen hands, school — every gain receipted with cause and price.
 
