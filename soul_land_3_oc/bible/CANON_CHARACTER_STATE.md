@@ -12,7 +12,9 @@
 | Trade | **Mang Tian's second disciple**; forging two hours a day for three years; ~**half an hour for ten hand-forged ankle-joints** | [SL3 ch13] |
 | Money | **30,000 (+200) Federation coins** saved; 1,000/month coming at registration | [SL3 ch14]; stipend [ch15] |
 | Sealed line | the **faint golden lines** on his forehead — canon's own, **unseen by anyone** | [SL3 ch11], [ch15]; WUL-01/04 |
-| Now | **about to buy a spirit soul** at the Spirit Pagoda | [SL3 ch16] edge |
+| Spiritual power | **38** — measured at the Pagoda's test; *"the best spiritual power of every Soul Scholar I have tested in the past several years"*; **advanced band** of Spirit Origin | [SL3 ch18] |
+| Spirit soul | drew a **pure white ten-year ball** → a **defective Grass Snake** (ten centimeters, earthen yellow; genes never from a soul beast; the drum's **hundredth slot**); **twenty-four hours to fuse or it dies** — the window open | [SL3 ch18–19] |
+| Now | at home with the ball, one day inside the window; Na'er beside him; the tears dried | [SL3 ch19] edge |
 
 ## Na'er *(the Tang house's daughter)*
 

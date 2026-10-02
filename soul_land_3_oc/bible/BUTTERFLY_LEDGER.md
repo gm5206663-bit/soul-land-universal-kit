@@ -74,3 +74,23 @@
 **Felt density, ch 5 (v2): 11 (dust/current only — no bends)** — the wall · the market · the tap · the fishwife's rate · the blue screen · Lin's gate · the office · the raised rate · Wulin's name · Na'er quoting her brother · the Tangs' gate. **Open strong lines for ch 6, in priority order:** **C-01** (the number nine meets the exit machinery) · **C-03** (the page) · **C-06** (money meets the price) · **C-02** (the letter) · **C-04** (the trade's first failure) · **C-05** (the girl's name) · plus B-05 · B-08 · B-09/B-11 standing.
 
 *Ch 6 waits on the author's word; the default lives in `OPEN_RULINGS.md` G12.*
+
+## Ch 6 — *Thirty Thousand* (2026-10-02)
+
+| Line | Cause on the page (ch 6) | What moved | Obligation |
+|---|---|---|---|
+| **C-01** | The spring tests: the office's paper, the machine, the clerk — **"Ten," Su Heng said**, in daylight; and in the same week the wall (30,000 the draw) written into the clinic's book | **PAID**: the number nine meets the exit machinery and the machinery agrees; the price now has a date and a place in the house's arithmetic | The door itself (rank 10's purchase) — canon's own block; the day the machine is beaten or not |
+| **C-02** | The office's paper *"had said so all winter"* → the machine's record, the card signed in his own hand, the academy's list | **PAID**: the institution now holds the name on paper — and the teacher's late letter is answered by the room's own machine | The record's next movement (the list, the fee, the road out) |
+| **C-03** | The father's page takes in the wall: *"The price list of the door. The machine agrees with our number. The machine has no opinion about the price."* | **PAID**: the page grows past the boy to the family's road | The page must be re-read when the door's number moves; the page *"for years"* promise kept |
+| **C-06** | The tin counted out loud with the door open (382 coppers → 3 coins 82); the new law of the sums page; **Then find it.** | **PAID**: the promise about the day the price gets said is kept — the price was said, and the tin was counted | The tin's column (now 5 coins 81); the first loss, when it comes |
+| **C-04** | The trade's first **paid night-job**: pier four, the hold walked, *"The fifth row is the line… It is two grades"*, the dawn graders confirming, two coins | The read goes to strangers' money under night conditions and comes out true | A read that goes wrong with no cause he can check (owed) |
+| **C-05** | The girl by the window at the tests: *"I'm on the list over you now… There is a lot of room between one line and the next. I looked."* | She moves from spectator to **a name on the same list — *Mu Yun***, read off the posted sheet | Her name arrives only when a scene earns it (paid in ch 6); the next meeting is owed a scene |
+| **C-07** | *Ten. On the machine, in the hall, read aloud by his father in the daylight, one rank short of nothing now.* | The count motif closes its second loop **as a printed number** | Rank 10's door → the ring (canon; author lock) |
+| **B-08** | *"We are still richer than most."* — said again, in company, over the week the sentence's weight is finally named | The old claim now stands against a real price | A season, a price, or a loss must put weight on the sentence (still standing; ch 6 put the first real weight on it) |
+| **B-09** | The private count becomes a public number — and the story prints it first (the machine, the clerk, the father), **not the town** | The motif moves on its own receipt | The count moves only when the story earns it |
+
+**Felt density, ch 6: 10 (dust/current only — no bends)** — the fishwife's *"Ten, is it."* · Teacher Lin's line · the girl's list · the master's *"Do not fight the machine"* · the wall in the clinic's book · the counter's *"For yours, I would ask"* · the dockman's second coin · the tea stand's version · the clinic's three questioners · the mother's sentence in company.
+
+**New lines born (with obligations named):** **D-01 the tin's column** (the first figures the page carries; next: the next entry, and the first loss) · **D-02 the dockman's custom** (*"Bring the beast again"* — a returned trade now; a wrong read would cost a man a season of face) · **D-03 the girl's list** (**Mu Yun** — named on the sheet one line above him; the next meeting is owed a scene) · **D-04 the father's three lines** (the clinic's book holds the door's price; re-read when the number moves).
+
+**Open strong lines for ch 7, in priority order:** **D-02** (the trade's next night, and the read's first uncovered failure) · **C-04** · **C-05** (the name, when earned) · **C-07** (the door) · **D-01** · **D-03** · plus **B-05 · B-08 · B-09/B-11** standing.
