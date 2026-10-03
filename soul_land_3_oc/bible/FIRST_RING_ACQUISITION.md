@@ -1,6 +1,6 @@
 # FIRST RING ACQUISITION — the rank-10 plan (fenced)
 
-> **Status: years away in-story. Nothing here is spent early.** This file exists so the serial arrives at rank 10 with its locks already drawn: the era's mechanics, the author's lock (**the Light Wyrm** — a Light Dragon Lizard), the gates that decide the route, and the scenes the arc will owe. **Prose law until the window opens: the Wyrm is never named, never foreshadowed, never "waited for."** (LSP-10 family; register row 29.)
+> **Status: the door is reached — rank 10 printed at the spring tests (ch 6); the purchase (a spirit soul) is the next real move, and nothing here is spent early.** This file exists so the serial arrives at the door with its locks already drawn: the era's mechanics, the author's lock (**the Light Wyrm** — a Light Dragon Lizard), the gates that decide the route, and the scenes the arc will owe. **Prose law until the window opens: the Wyrm is never named, never foreshadowed, never "waited for."** (LSP-10 family; register row 29.)
 
 ## 1 · The threshold (canon, as this era runs it)
 

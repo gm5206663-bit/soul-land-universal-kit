@@ -34,7 +34,7 @@
 | *(compression ruling — ch 5)* | the three-year skip | ranks **2–9 accrued across the skip**, paid year by year (hours · feed · body · mind; receipts §6) and counted privately; **nothing skipped silently** — the machine's check at the skip's end is the scene that confirms the band |
 | **First public spiritual-power number** | a measurement scene (academy route; the Pagoda records on first fusion) | parity: the exact value the private curve holds at that date; the scene itself states it (R14) |
 | **Band crossing 60** (advanced Spirit Origin) | written scene, first academy stretch per the plan | the deed that shows it before the number |
-| **The first ring → rank 10** | years away; **Light Wyrm** (a Light Dragon Lizard — author lock) | the full earned arc — `bible/FIRST_RING_ACQUISITION.md` |
+| **The spirit soul → the first ring** (rank 10 reached, ch 6) | the purchase is the next move; **Light Wyrm** (a Light Dragon Lizard — author lock) | the full earned arc — `bible/FIRST_RING_ACQUISITION.md` |
 | **The soul's step changes** | ruled by the author's tempo (G8) | a paid input the same chapter (feed/medicine/training); visible behavior, **never gold** |
 
 ## 4 · The world's anchor prices (canon — the pressure table)

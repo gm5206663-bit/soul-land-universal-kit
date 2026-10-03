@@ -11,7 +11,7 @@
 | **Family** | **Good.** Respected, comfortable, no clan treasures, no elite backing. | [design] staged below. |
 | **Martial soul** | **Luo Sanpao** | Canon rows LSP-01..LSP-09. In-story at the start: the creature itself, manifesting outside the body, no rings, **no skills** (Yu Xiaogang's named skills are HIS acquisitions — firewall LSP-07). The world will call it trash; the sources' own record says its mutation was **benign and unfinished**. |
 | **Innate soul power** | **1** | Measured at the ceremony. **Rank one at six** (AW-07: the reading is the starting rank). **Nine ranks to the first ring** — and canon says only one in a thousand children have the power to climb at all (AW-02). |
-| **Talent** | **Adaptation Talent, from the womb** | Unnamed in prose. The weak pre-awakening version was spent entirely on the illness; the author has ruled the post-awakening mode **stronger** (`bible/ADAPTATION_MODULE.md`). |
+| **Talent** | **Adaptation Talent, from the womb** | Unnamed in prose, shown as work. **Strong (author's ruling, G15):** it is what kept him alive six years while his soul-veins failed, and after the awakening it is stronger still; it takes what it meets. **He is never written as Yu Xiaogang's road** (`bible/ADAPTATION_MODULE.md` §7). |
 | **First spirit soul (forward lock)** | **Light Wyrm** — a **Light Dragon Lizard** (author's naming, 2026-10-02: *"Light Wyrm / Light Dragon Lizard, don't mistake it"*) | His rank-ten spirit soul — **an original creation of the author's** (no canon record; verified 2026-10-02). Mechanics stay the era's canon path (G3; re-verified at write-time). **Years away in-story; never rushed, never named early.** |
 
 ## 2 · The boy and his people ([design], author-gated)
