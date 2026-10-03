@@ -1,50 +1,66 @@
 # Chapter 2: The House and the Road
 
-Even after he had left the gates of Red Mountain Academy behind him, Tang Wulin was flummoxed.
+Tang Wulin walked out of the academy gates with two things: rank 3, and a blade of grass.
 
-Like every year, the children who had awakened soul power along with their martial souls were invited to join the academy's Soul Master class. In every elementary academy on the continent, that class was the important one. It was the reason the gates were crowded this morning. It was the reason parents counted their children's worth in soul power before they could count to ten.
+The two facts would not sit next to each other in his head.
 
-Wulin walked out of the gates with a rank of three and a blade of grass, and the two facts would not sit quietly next to each other in his head.
+Rank 3 was a gift. One person in a thousand woke with soul power.
+
+But his martial soul was the common grass that grew in every ditch between here and the sea.
+
+He had learned the rules that morning, standing in a room full of carved lines. Every child who woke with soul power was invited into the academy's Soul Master class. Every elementary school on the continent kept one. That class was the important one.
+
+That class crowded the gates today. It was the reason parents counted their children's worth in soul power before the children could count to ten.
+
+The day was still bright. None of it fit him yet.
 
 "Son, you really are one in a million!"
 
-His father's gentle voice came down to him and broke the knot. Wulin looked up. Tang Ziran was smiling, and his smile was the same as it had been at the door this morning.
+His father's voice came down the road. Tang Ziran stood at the corner where he had promised to wait, smiling with his whole face.
 
-"Dad, is the bluesilver grass a trash martial soul?" Wulin asked.
+Wulin went to him and asked it straight.
 
-Tang Ziran answered him seriously.
+"Dad, is the bluesilver grass a trash martial soul?"
 
-"How could it be a trash martial soul? You need to know that only one in a thousand people have soul power. You have a trash martial soul and soul power both — doesn't that make you one in a million? My son is unique. My son is unmatched by definition." He put a hand on Wulin's head and steered him around a cart. "Haven't I told you the story of the founding ancestor of the Tang Sect? Tang San. It was with his bluesilver grass that he —"
+His father answered him seriously. That was how his father answered everything.
+
+"How could it be a trash martial soul? You need to know that only one in a thousand people have soul power. You have a trash martial soul and soul power both — doesn't that make you one in a million? My son is unique. My son is unmatched by definition." He put a hand on Wulin's head and steered him around a cart of pots. "Haven't I told you the story of the founding ancestor of the Tang Sect? Tang San. It was with his bluesilver grass that he —"
 
 "I know, dad."
 
-"Then you know everything you need to know," his father said, and did not say the rest, which was that a story that had carried one man to heaven had been carrying a great many ordinary men to bed without supper ever since.
+"Then you know everything you need to know."
 
-They walked home through the commoner's district, where the streets smelled of frying oil and the sea.
+His father did not say the rest. The story had carried one man very high. It had been asked to carry a great many ordinary men ever since. It put most of them to bed hungry.
 
-The Tang family lived in it, like most families there. His father repaired soul machines. He was good with his hands and ordinary with his luck, and the two together meant a meager wage and steady work, in that order. His mother, Lang Yue, kept the house and had raised Wulin with both hands. She was not a beauty, but she was charming, and she could cook like a woman born humming.
+Glorybound City was small. The Tang family lived on the poor side of it, in the commoner's district. The streets smelled of frying oil by day. At night they smelled of the sea.
 
-The house was small in a way that no one in it called small. A living room about a dozen paces square, a kitchen, a washroom, and two little rooms under the same narrow roof.
+His father repaired soul machines. He was clever with his hands. He was unlucky in everything else. Together they paid a meager wage.
 
-That roof was home, and it took him in as it always did.
+His mother, Lang Yue, kept the house and had raised Wulin with both hands. She was not a great beauty. She was better than that. Her face warmed a room. She could cook with her eyes shut.
+
+The house was small. Nobody in it ever called it small.
+
+One room for living, a dozen paces across. A kitchen. A washroom. Two little rooms under one narrow roof. The roof had been patched more than once.
+
+That roof was home. It took him back without asking questions.
 
 "Son, you're home! You must be hungry. Mom will cook up something delicious for you."
 
-Lang Yue came out of the kitchen wiping her hands and crouched down, and Wulin hugged her neck like a duck going to water.
+Lang Yue came out of the kitchen wiping her hands on her apron. Wulin hugged her neck and hung on it.
 
 "I'm not hungry, mom. Just sleepy. I want to go take a nap."
 
-He was gone into his room before she could look at his face properly.
+He was through his door before she got a good look at his face.
 
-Lang Yue stayed crouched a moment longer than she needed to, and then stood up and sighed, quietly, at no one.
+His mother stayed where she was a moment, hands still in the apron. Then she sighed at the empty room, quietly.
 
 "This child has wanted to become a Soul Master since he could walk," she said. "We need to go comfort him."
 
-Tang Ziran hung up his coat without saying anything.
+Tang Ziran hung his coat and said nothing.
 
-Lunch was on the table when he sat down at it. Sautéed vegetables. Stewed pork ribs. A salad. A bowl of three-vegetable soup. For the Tang family, this was a luxurious table, and both of them had known it would be before they cooked it.
+They ate lunch alone. The table had been cooked for good news: sautéed vegetables, stewed pork ribs, a salad, and a bowl of three-vegetable soup. For the Tang family that was a feast. They had both known it was a feast while they were cooking it.
 
-They ate without their son, whose door stayed shut, and it was the silence over that door that finally made Tang Ziran lay his chopsticks down.
+They ate with his door shut. It was the shut door that finally made Tang Ziran set his chopsticks down.
 
 "He has soul power," he said, "but I wish he didn't."
 
@@ -56,81 +72,95 @@ Her husband's smile came out crooked.
 
 "How could it be that easy? His martial soul is bluesilver grass, and his innate soul power is only rank 3. Becoming a Soul Master is easier said than done. He can enter the Soul Master class — that part is settled — but I fear the pressure will be too much for him."
 
-Lang Yue took a moment to understand the shape of that.
+Lang Yue needed a moment to see its shape.
 
 "Then Wulin, he…"
 
-"He was in shock walking home. He didn't say a word." Tang Ziran looked at the closed door like a man looking at a machine he cannot open. "Our family's little man is going to meet some setbacks growing up. It's best to leave him with this one for now."
+"He was in shock walking home. He didn't say a word." Tang Ziran looked at the closed door as a man looks at a machine he has no key for. "Our family's little man is going to meet some setbacks growing up. It's best to leave him with this one for now."
 
-Lang Yue looked at her son's door with worried eyes. Then she sighed, loud enough to settle the room, and refilled her husband's bowl.
+Lang Yue looked at her son's door. Then she sighed loud enough to settle the room and refilled her husband's bowl.
 
 "Let's eat first, then. We won't disturb him." She sat back down. "He's always been an obedient child. If it doesn't work out, we'll transfer him to the normal class."
 
 "En."
 
-Neither of them knew the truth, which was that their son had not eaten lunch because of a setback at all. He was simply too tired to eat.
-
-In his little room, Tang Wulin had fallen face-first onto his bed.
-
-And immediately after that, he began to burn.
+They did not know the one thing the reader of this day knows. Their son had not skipped lunch from a setback. He had skipped it because he could not stay awake long enough to lift a spoon.
 
 ---
 
-Across town, the Su family's house stood over the clinic, and that afternoon it was loud in the manner of a kitchen where a family has decided something.
+On the other side of town, the Su house stood over the clinic. It had been loud since morning, in the manner of a kitchen where a decision has been made.
 
-Zhou Hui had gone to the school office at first light and settled the term standing up, which was what she had said from the beginning she would do.
+Zhou Hui had walked to the school office at first light, before the shutters came up. She had settled the term standing up. That was what she had told the table she would do, and that woman did what she told the table.
 
-The Federation had made the schooling free. The law had made it compulsory, which was a different thing, and one that the office clerk explained twice in a bored voice. Free was free and compulsory was compulsory, and neither word paid for books, or a coat for winter, or the noon meal account at the academy, which the clerk's ledger called, in small gray letters, the boarding line.
+The Federation had made schooling free. The law had made it compulsory. The clerk explained, twice, that the words differed. Free was one thing. Compulsory was another.
 
-"Books. Coat. Boarding line." Zhou Hui counted the receipts back onto the counter like she was closing the grain house at night, which she had seen her own father do for thirty years. "Point out anything on this list that feeds my son, and I will pay for it twice."
+Neither word paid for books. Neither paid for a winter coat. Neither paid for the noon meal the academy served the children who stayed all day. The clerk's ledger carried that charge in small gray letters: *the boarding line*.
 
-Nothing on the list fed her son. She paid for everything on it once.
+Zhou Hui read the list twice.
 
-At home, over the breakfast bowls, she had said the sentence she said at all doors.
+She had kept the grain house books. Six years of them. She could read a list faster than most people could read a name.
+
+"Which of these lines feeds my son?" she asked.
+
+"None of them, ma'am."
+
+"Then I am not paying for soup." She put the money on the counter in a counted stack. "I am paying for books, and a coat, and the noon meal. I will pay for each of them exactly once."
+
+At home she said it over the bowls. It was her sentence for all doors.
 
 "We are still richer than most."
 
-That evening she said it again at her own table, because the sums had gone through the house like weather through a house.
+That evening she said it at her own table. The week's sums had gone through like weather. She said it anyway, to the pot and to the two of them. A house that stops saying a thing stops being able to say it.
 
-Because there was another mouth in the place now, and it did not sit at the table.
+A new mouth lived in the house now. That mouth did not sit at the table.
 
-The creature had eaten a white radish on its first night, slow and serious, like a thing eating something it meant to remember. It had eaten two the second night. On the third night it stood by the stove at feeding time without being called, as a dog stands, except that no one had ever once said the word *come* to it out loud. It knew the room. It knew the hour. It had opinions about the pot.
+The creature had eaten a washed radish on its first night, in slow serious bites. On the second night it ate two. By the third night it stood by the stove at feeding hour with nobody calling it. It waited like a regular customer. It knew the room. It knew the hour. It had opinions about the pot.
 
-The boy fed it himself. That was not a decision anyone in the house had made out loud either. It was simply what happened: the creature was his, so the bowl was his, and the boy had learned his mother's kitchen the way some children learn a language, by being left in it.
+The boy fed it himself. Nobody had voted on that either. It was the shape the house had taken. The creature was his, so the bowl was his, and a boy left in a kitchen learns the kitchen.
 
-He did the broth properly. Bones and the ends of the fish, water to cover, a long low simmer with the lid cracked. His mother watched from the doorway the first time and corrected two things and then never watched again, which from her was a medal.
+He made the broth properly. Bones. The ends of the fish. Water to cover them. A long low simmer with the lid cracked. The first evening his mother watched from the doorway and corrected two things, and never watched again. From her, that was a medal.
 
-The creature drank it and sat back on its thick little legs and looked at the pot with an expression the boy was learning to read. That expression cost the house money. He knew it, because he did the same sums his mother did. He kept a page in the back of his own practice book, where the school exercises were supposed to go. On it he wrote what went into the pot, and what the radish basket cost at market, and what the grain house would sell them as seconds if his mother asked her family. At the end of each week he added it up and looked at the number.
+The creature drank it dry. Then it sat back on its little legs. It looked at the pot with a face the boy was learning to read. That face cost money.
 
-Then he did the next sum, which was not written down anywhere. What the creature was made of was going up. He could see it in small things. Its coat had gone from dry to glossed. It slept deeper now, and snored like a kettle, and woke in the small hours and paced the room twice and lay back down. It answered his voice faster than it had in the first days. It had learned the sound of his father's boots and stood aside for them, which was more courtesy than most of the patients managed.
+He did the same sums his mother did. He had begun to keep his own.
 
-His mother called it *the pig*, dryly, the way she called the weather *the weather*.
+He kept a page in the back of his practice book, behind the school exercises. Nobody who mattered would ever find it. On that page he wrote the pot's costs. He wrote what radishes cost at market. He wrote what the grain house would sell the family as seconds, if his mother asked her own brother. At week's end he added it up. Then he looked at the number.
 
-His father called it nothing at all, and gave it the clinic trimmings, and watched it eat, and said nothing.
+Then he did the other sum, the one that lived nowhere but in his head. The creature was growing. He could see it in small things.
 
-Su Yan fed it, and washed the bowl, and watched it go down into the warm place under his ribs like a cat going in off the street. Then he went out and ran the lane to the breakwater, as he had every evening since the winter the sickness stopped. His legs worked now, and he intended to keep them.
+Its coat had gone from dry to glossed. It slept deeper. It snored like a loose pot lid. Twice a night it woke and paced the room and lay back down. It came when he spoke, sooner than it had in the first days. It had learned the sound of his father's boots and stood out of their road. That beat half the patients for manners.
 
-It was toward the end of that evening, when the lamps were going on along the harbor and the house was quiet, that the boy sat down in the middle of his own floor and tried the thing the whole town had been waiting for since his reading.
+His mother called it *the pig*, in the flat voice she used for the weather.
+
+His father called it nothing at all. He fed it the clinic's clean trimmings. He watched it eat. He had his own thoughts about it.
+
+Su Yan fed it and washed the bowl. He watched it fold down under his ribs. Then he went out and ran the lane to the breakwater, as he had every evening since the winter the sickness let go of him. His legs worked now. He intended to keep them working.
+
+It was late that evening. Lamps were going on along the harbor. The house was quiet. That was when the boy did the thing the whole town had been waiting for him to do.
 
 He tried his soul power.
 
-He did it with no method at all, because no one teaches a rank-one child in a village house on a Thursday. He did it as he had once learned to lie still while a fever walked around inside him: knees down, hands loose, eyes shut, and every part of him told to wait.
+He had no method. Nobody teaches a rank-one child in a small house with a stove in it. So he sat down on his own floor. He borrowed the only discipline he owned.
+
+It came from the physician's chair. He had learned to lie still while something inside him decided whether it wanted to stay.
+
+Knees down. Hands loose on them. Eyes shut. Every part of him told to wait.
 
 Nothing happened.
 
-He stayed there anyway. The room breathed. The stove ticked as it cooled. Somewhere in the house his mother's knife went through vegetables for tomorrow with a rhythm like a clock, and his father's voice came once from the clinic, low, telling a patient the price and the reason, which was how that man always sold things.
+He stayed anyway. The room breathed around him. The stove ticked as it cooled. Below, his mother's knife went through tomorrow's vegetables, keeping time like a clock. His father's voice came once through the floor. He was telling a patient the price, and why. That was how the man sold things.
 
-Warmth gathered slowly under the boy's ribs, where the creature had folded itself up.
+Then warmth gathered under his ribs.
 
-It was not much. It was the size of a spoonful of tea, and it did not move, and it went out twice before it stayed.
+It was not much. It was the size of a spoonful of tea. It did not move. It went out twice. The third time it stayed.
 
-Su Yan sat with it until his feet went numb, watching it like a boy watching the first coal he has ever carried across a room without dropping.
+He sat with it. His feet went numb. He guarded it from every draft.
 
 When he got up at last and put himself to bed, the whole house was asleep.
 
 He wrote one line in the back of his practice book before he blew the lamp out.
 
-*First day of the rest.*
+*It went out twice. Then it stayed.*
 
 His handwriting was terrible.
 
@@ -138,141 +168,159 @@ His handwriting was terrible.
 
 In the little house in the commoner's district, the door stayed shut all afternoon.
 
-If Tang Ziran or Lang Yue had looked in, they would have found their son twisting and turning on the bed with his skin flushed crimson. They would have found his temperature climbing at a rate that had no business in a child. They would have run for a doctor. None of it would have helped, because none of it was illness.
+If Tang Ziran or Lang Yue had opened it, they would have found their son turning on the bed, his skin flushed a deep, wrong red. They would have found his temperature climbing at a rate no child's should. They would have run for a physician.
 
-The deep red under his skin was sinking, layer by layer, until the channels of his body showed faint and fine beneath it, and under those, the blood of him, moving.
+None of it would have helped. None of it was an illness.
 
-His heart had gone to three times its own speed and was holding there, steady as a drum with a whole village dancing on it.
+The flush was sinking. Layer by layer it went down through him. The channels of his body showed beneath it. Under those, his blood, running.
 
-And then the lines came back.
+His heart ran at three times its speed. It held there, steady as a drum with a village dancing on it.
 
-They had appeared once already, in the awakening chamber, seen by one man and no one else. Now they rose again on his forehead, gold, and ran the whole length of him from his head to his toes and turned and came back as a river does when the land tilts the other way.
+Then the lines came back.
 
-Three times, they walked the full length of the boy.
+They had shown once, in the awakening chamber. One man had seen them. Now they rose again on Wulin's forehead, gold. They ran his whole length, crown to toes. Then they turned and came back, as rivers do when the land tilts.
 
-Then they went quietly back down into him, wherever they lived, and left the room to the small creaking sounds his body made, like a house settling in the cold.
+Three times the gold walked the boy.
 
-His temperature came down. His breathing evened out. He slept deeper than he had ever slept in his life.
+Then it went down into him again. It left the room to the small creaking sounds his body made, like a house settling in cold weather.
+
+His temperature came down. His breathing evened. He slept deeper than he had ever slept.
 
 And he dreamed.
 
-He dreamed he stood on a prairie, and the prairie was bluesilver grass, out to anywhere and back, the commonest plant on the continent, growing like it had never heard a single person say a word against it. The sky above it was gold. Not sunset gold. Sky gold, floor to ceiling, the color of a thing that had decided.
+He dreamed of a prairie. The prairie was bluesilver grass, out to anywhere. It was the commonest plant on the continent, growing as if it had never heard a single bad word about itself. The sky over it was gold. Not sunset gold. Sky gold, floor to ceiling. The color of something that had decided.
 
-In the middle of that gold stood something enormous, and its mouth was gold, and it was a mouth like a door standing open.
+In the middle stood something enormous. Its mouth was gold. The mouth was a door standing open.
 
-In the next moment, the door took him.
+Then the door took him.
 
-He cried out and sat up in a borderless world that was all the same gold, and then he woke, hard, in his own bed, covered head to heel in sweat, an oily sticky sweat that he had no words for at all.
+He cried out and sat up. The world had no borders. It was all the same gold. Then he woke hard in his own bed, soaked from head to heel in a sweat as oily as soup.
 
-Tang Wulin had grown up in a poor house, and poor houses raise their children sensible. He did not call for his mother. He peeled his clothes off, went to the washroom, and washed himself, and found out while he scrubbed that the sweat smelled of something gone by the time it hit the water, and that his own skin was clean in a way it had not been that morning.
+Wulin had grown up poor. Poor houses raise their children sensible. He did not shout for his mother.
+
+He got up. He peeled his clothes off. He went to the washroom and washed himself. The sweat came off in the water. It smelled of something that stayed behind. When he climbed out, his own skin was cleaner than it had been that morning. It was softer too. He could not have told anyone why.
 
 "Ah, where are you?"
 
-His mother's voice came through the house and found him. Wulin grabbed a cloth, dashed out to answer in nothing but his skin and panic, and was caught instantly by the scruff and the ear.
+His mother's voice came through the house.
 
-"Put on clothes! You're going to freeze!" Lang Yue marched him into his room and pinched his cheek, and then stood in the hallway a moment with her own hand, muttering at no one. "His skin is even more tender and elastic now. Mom is really jealous."
+Wulin grabbed a cloth. He dashed out to answer with nothing on but the cloth and his panic. She caught him by the ear.
 
-Inside his room, Wulin dressed, smiling without knowing why, because the day had been heavier than he was and his body had decided to carry it anyway.
+"Put on clothes! You're going to freeze!"
 
-He came out to find the sky dark through the window and his father at the table.
+Lang Yue marched him into his room. She pinched his cheek as he went in. Then she stood in the corridor a moment, hand on her own face, muttering at nobody.
+
+"His skin is even more tender and elastic now. Mom is really jealous."
+
+Inside his room, Wulin got dressed. He was smiling without knowing why. The day had been heavier than he was. His body had decided to carry it anyway.
+
+He came out and found the window dark and his father at the table.
 
 He had slept the whole afternoon away.
 
 ---
 
-It was the belly that spoke first.
+His belly spoke first.
 
 *Gugu.*
 
-Tang Ziran burst out laughing, and Lang Yue laughed with him, and the sound of the two of them filled the little room, and Wulin stood in the middle of it smiling his crooked smile, already most of himself again.
+Tang Ziran burst out laughing. Lang Yue laughed with him. The room filled with the two of them. Wulin stood in the middle of it, grinning his crooked grin, most of himself again.
 
 "Mom, can I go eat? I'm really hungry."
 
 "Go eat."
 
-Lang Yue served him rice, and shot her husband a look across the table that said what both of them were thinking, which was that the boy needed to be watched tonight, gently, and given room.
+Lang Yue served him rice. She glanced at her husband. It said what they were both thinking. The boy needed watching tonight, gently.
 
 The boy did not need room. The boy needed food.
 
-He raised his bowl a second time, a third time, a fourth, and by the fourth, his parents had stopped pretending to eat and were simply watching him. Even a boy who had missed lunch could not put away this much. He ate like the food was a hill and he was a tunnel, and when the table was bare except for the dishes, he looked around with the honest, searching face of someone who had not yet found the meal.
+He held up his bowl for more. Then a third. Then a fourth. By the fourth, his parents stopped pretending. They were simply watching him.
+
+No boy who missed lunch ate like this. He ate as if digging a tunnel. When the table was bare to the dishes, he looked around it with the honest, searching face of someone who has not yet found the meal.
 
 "Mom, it's delicious. I still want more…"
 
 Lang Yue put her foot down, which is how mothers close kitchens. "No more. You'll make yourself ill."
 
-"Son," Tang Ziran said, in the tone of a man addressing a legend, "are you the indignant food devourer of legend?"
+"Son," said Tang Ziran, in the voice of a man addressing a legend, "are you the indignant food devourer of legend?"
 
 Wulin looked at his father, puzzled.
 
 "Dad, why am I indignant?"
 
-"Never mind." Tang Ziran set down his chopsticks. "Dad really wants to ask you one thing. Do you plan on entering the Soul Master class, or do you want dad to help you enter the ordinary class?"
+"Never mind." Tang Ziran set his chopsticks down. "Dad wants to ask you one thing, and then we'll all go to bed. Do you plan on entering the Soul Master class? Or would you rather dad help you enter the ordinary class?"
 
 "Of course the Soul Master class!" said Wulin. "I want to become a famous Soul Master!"
 
 His father did not smile at that.
 
-"Your martial soul is bluesilver grass," he said. "Even in the legends about the Tang Sect's ancestor, bluesilver grass was an ordinary soul. Cultivating it will be difficult, and you will meet a great many challenges. Do you really wish to walk down this path?"
+"Your martial soul is bluesilver grass," he said. "Even in the legends about the Tang Sect's ancestor, bluesilver grass was an ordinary soul. Cultivating it will be difficult. You will meet a great many challenges. Do you really wish to walk down this path?"
 
-"I do. I want to become a Soul Master." Wulin said it with his chest out and his chin up, and then the rest of it came out of him in a rush. "After I become a Soul Master, I can make lots of money, and I can buy mom and dad lots of delicious food."
+"I do. I want to become a Soul Master." Wulin said it with his chest out. Then the rest of it came out of him in a rush. "After I become a Soul Master, I can make lots of money, and I can buy mom and dad lots of delicious food."
 
-Across the table, Lang Yue lowered her eyes, and the lamplight was kind enough not to show everything.
+Across the table, Lang Yue lowered her eyes. The lamplight was kind enough to hide it.
 
-"Good." Tang Ziran nodded slowly. "Since you're set on this, then mom and dad will support you. But if you regret this choice in the future, tell dad, and I'll help you transfer classes. Just remember one thing." He leaned forward until his son could see the whole of his face. "Dad and mom have never wanted you to become a dragon or a phoenix. We only want you to be happy. As long as you're happy, that's enough for the two of us. There is nothing more important in our hearts. Do you understand?"
+"Good." Tang Ziran nodded slowly. "Since you're set on it, then mom and dad will support you. If you ever regret this choice, tell dad, and I'll help you transfer classes. Just remember one thing." He leaned forward until his son could see the whole of his face. "Dad and mom have never wanted you to become a dragon or a phoenix. We only want you to be happy. As long as you're happy, that's enough for the two of us. There is nothing more important in our hearts. Do you understand?"
 
 Wulin beamed.
 
 "I'm already really happy right now!"
 
-They put him to bed early, and he went under like a stone. His parents lay awake for a while in the next room listening to a small boy breathe, and the house creaked, and the sea worked at the harbor wall under the floorboards of the whole town.
+They put him to bed early. He went under like a stone. In the next room his parents lay awake a while, listening to a small boy breathe. The house creaked around them. Under the floorboards of the whole town, the sea kept working at the harbor wall.
 
-The next morning his father woke him before the first light.
+Before first light, his father woke him.
 
 ---
 
 Today he was a student.
 
-According to the regulations of the Sun Moon Federation, elementary and intermediate academies were free and compulsory, which meant the gates opened for every child in the Federation whether the family had money or not. That was the country he lived in. Elementary ran three years; intermediate ran six. An advanced academy was another thing entirely, and a family reached one of those three ways: with outstanding results, with a great deal of money, or with a narrow and promising specialty.
+The Federation's school law was simple. Elementary and intermediate academies were free and compulsory. The gates opened for every child in the country, whether the family had money or not.
 
-Tang Ziran walked his son to the gates, because the academy was very close to home, and left him there with his hands in his pockets.
+Elementary ran three years. Intermediate ran six. An advanced academy was another thing entirely. A family reached one by three roads. Outstanding results. A great deal of money. One narrow and promising specialty.
 
-"Come straight home after school," he said for the third time.
+Tang Ziran walked his son to the gates, because the academy stood close to home. He stopped him at the gate.
+
+"Come straight home after school," he said. It was the third time he had said it.
 
 "I will, dad."
 
-There was a teacher at the front doors of the Soul Master class, welcoming the new students, because the Soul Master class was treated better than the ordinary students and everyone there that morning knew it. The ordinary class would learn to read and count and behave. The Soul Master class would do all of it and also learn the use of the power inside them, and the knowledge a soul master needed, and how to be ready for an intermediate academy three years from now.
+At the front doors of the Soul Master class stood a teacher, welcoming the new students. The Soul Master class was treated better than the ordinary students, and every family on that yard knew it. The ordinary class would learn to read, and to count, and to behave.
 
-The children gathered. There were not many. In a small city like Glorybound, a year's soul-power children could have fit in a cart, and some years they had, and the whole town knew it.
+The Soul Master class would do all of that and more. It would teach the use of the thing waking inside them. It would teach the knowledge a soul master needs, and how to stand ready for an intermediate academy three years from now.
+
+The children gathered slowly. There were not many of them. In a city like Glorybound, a year's soul-power children could have been carried in one cart. In some years they had been. The whole town had known about it.
 
 "Hey, what's your martial soul?"
 
-The voice belonged to a chubby boy who was not tall, and who had come to a stop beside Wulin with the air of a person inspecting property.
+The voice belonged to a chubby boy who was not tall. He had come to a stop beside Wulin like a man inspecting property he did not intend to buy.
 
-Wulin puffed up.
+Wulin's chest came up.
 
 "It's the same as the Tang Sect's founding ancestor's," he said. "The bluesilver grass!"
 
-He turned his palm up. Blue light flickered in it, and a single strand of grass stood and swayed, green and real.
+He turned his palm up. Blue light flickered over it, and a single blade of grass stood there and swayed, green and real.
 
-He did not notice that this grass was not quite the grass of yesterday. Near its roots, in the deepest part of it, the color had turned faintly gold. It was so indistinct that a person would have to look for it to find it, and no one that morning was looking.
+He did not see that this grass was not quite yesterday's grass. Down near its roots, in the deepest part of it, the color had gone faintly gold. It was faint enough that anyone would have had to hunt for it. Nobody on that yard was hunting.
 
 "Pff." The chubby boy's whole face made the sound. "Bluesilver Grass! That's a trash martial soul."
 
 He turned and walked off coldly, which is a thing only children do that cleanly.
 
-Wulin's mouth came open.
+Wulin's mouth fell open.
 
 "You — then what about you? What's your martial soul?"
 
-With a snort, the little fatty raised his right hand. Cold light gathered in it, and a small knife was simply there, lying in his palm like it had always been there.
+The little fatty raised his right hand with a snort. Cold light gathered there. A small knife lay in his palm, as if it had always been lying there.
 
-"Did you get a good look? My martial soul is a knife." He weighed it. "If I cultivate to the rank of a Titled Douluo, I'll be the Knife God Douluo. I have rank 5 innate soul power. I can chop your bluesilver grass into tatters without even trying."
+"Did you get a good look? My martial soul is a knife." He weighed it in his hand. "If I cultivate to the rank of a Titled Douluo, I'll be the Knife God Douluo. I have rank 5 innate soul power. I can chop your bluesilver grass into tatters without even trying."
 
-Wulin looked at the knife, and then at the single weak strand of grass in his own palm, and his father's voice from last night came back to him in pieces.
+Wulin looked at the knife. Then he looked at the single weak blade in his own palm. His father's voice from last night came back to him in pieces.
 
-*Cultivating it will be difficult, and you will meet a great many challenges.*
+*Cultivating it will be difficult. You will meet a great many challenges.*
 
-Around the yard, the other children were doing what children do at the start of the world: showing off. Soul after soul came out and stood in palms and behind shoulders and over heads, and each one was compared, and boasted over, and ranked by its owner's voice. Not one of them was grass. Because of this — because of grass — none of them had anything to say to Tang Wulin at all, and the groups closed without him, as water does.
+All around the yard, the other children were showing off. Soul after soul came out and stood in palms and over shoulders. Each one was measured, and boasted over, and ranked by the loudest owner.
+
+Not one of them was grass. Because of the grass, none of them had anything to say to Tang Wulin. The groups closed over the space where he stood, as water closes over a stone.
 
 *Will cultivating the bluesilver grass as a Soul Master really be that difficult?*
 
@@ -280,67 +328,79 @@ Wulin's fists came together at his sides.
 
 *I'll definitely become a Soul Master!*
 
-The door of the classroom opened and the day began.
+The door of the classroom opened, and the day began.
 
 "Hello, everyone. I'm your homeroom teacher, Lin Ximeng. I'll be teaching you the basic knowledge you need over the next three years."
 
-The teacher was a man with a patient face and the kind of voice that was used to being heard the second time. He looked over the room and found it small.
+The teacher was a man with a patient face. His voice expected to be heard the second time. He looked over the room and found it small.
 
 "Let's have everyone introduce themselves. Your name, your martial soul, and your innate soul power rank."
 
-It did not take long. There were few enough children that the whole room learned every name in it before the sun had moved.
+It did not take long. There were few enough children that the room learned every name before the sun had moved an inch.
 
-When the introductions reached Tang Wulin, he stood up and said his name and his soul, and something in the room changed temperature.
+When the introductions reached Tang Wulin, he stood and said his name and his soul. Something in the room changed temperature.
 
 "Bluesilver Grass?"
 
-The teacher's astonishment was small, correct, and over in a breath — but it was real, and the room heard it, and a laugh went around the desks like wind through wheat until every child in the room had joined it, and it was not even entirely cruel. It was worse than cruel. It was certain.
+The teacher's astonishment was small and correct and over in a breath. It was also real, and the room heard it. A laugh went around the desks like wind through wheat. Every child in the room joined it. It was not even entirely cruel.
 
-Wulin's face went red to the tips of his ears, and something in his chest pulled tight like a wire, and he sat down inside a ball of fire and stared at his own hands.
+It was worse than cruel. It was certain.
+
+Wulin's face went red to the tips of his ears. Something in his chest pulled tight as a wire. He sat down inside a small ball of fire and stared at his own hands.
 
 *Were these the challenges you spoke of, dad?*
 
 "Quiet," Lin Ximeng said, without raising his voice. "Thank you, Wulin."
 
-And he moved on, and when the room had settled, he kept his promise to the first day and taught.
+He moved on. When the room had settled, he kept his promise to the first day and taught.
 
-"Today, I'll explain the classifications of martial souls," he said. "In the afternoon, I'll teach you how to meditate. Meditation is the only way to temper and improve your soul power. If you want to become a true Soul Master, then all of you must strive your hardest."
+"Today, I'll explain the classifications of martial souls," he said. "In the afternoon, I'll teach you how to meditate. Meditation is the one road there is. Nothing else tempers soul power and grows it. If you want to become a true Soul Master, then all of you must strive your hardest."
 
 Then he asked the room the question he asked every year.
 
-"As you all know, everyone in our world has a martial soul. It awakens at six. It can be anything. If you also awaken soul power, then you can cultivate to become a Soul Master. Now — a question for all of you. What classifications are there for martial souls?"
+"As you all know, everyone in our world has a martial soul. It awakens at six. It can be anything. If you also awaken soul power, then you can cultivate and become a Soul Master. Now — a question for all of you. What classifications are there for martial souls?"
 
 The room offered answers, and the teacher sorted them.
 
 "First of all, the two main classes are tool souls and beast souls. All of the martial souls that appear on the body are beast souls. If a soul appears separately from the body, it is a tool soul."
 
-He turned and began to draw a chart on the board, and his voice went on, even and unhurried, over the business of the world.
+He turned and began to draw a chart on the board. His voice went on, even and unhurried, over the business of the world.
 
 "By cultivating your soul power, you are able to upgrade your martial soul. After your soul power reaches rank ten, you are able to become a Soul Master. There are also two main classes of Soul Master — Battle Soul Masters and Utility Soul Masters — and regardless of what someone's martial soul is, they are still a Soul Master. There are also many minor classifications…"
 
-In his place by the window, Tang Wulin forgot the morning entirely.
+In his place by the window, Tang Wulin forgot the whole morning.
 
-This was the world. This was the door. Every word the teacher said was a key in it, and his face, which had been a red knot a minute ago, came up and opened like a lamp being lit.
+This was the world. This was the door. Every word from the front of the room was a key in it. His face, which had been a red knot a minute before, came up and opened like a lamp being lit.
 
 ---
 
-Four rows back, another boy had a chart of his own to hold up against the lesson, and his chart did not fit.
+Four rows back, another boy was holding a chart of his own up against the lesson. His chart did not fit.
 
 *All of the martial souls that appear on the body are beast souls. If a soul appears separately from the body, it is a tool soul.*
 
-Su Yan sat with his hands on the desk and looked at that sentence. Then he looked — because it was his own body, and no one in the room could see what he could see — at the creature asleep in the warm place under his ribs. It was a beast, and it came out and stood on the floor when it was called. A meter and a half and more of dog-faced pig, with a gentle eye.
+Su Yan kept his hands folded on the desk and looked at the sentence. Then he looked at the animal asleep in the warm place under his ribs. It was his own body. Nobody else in the room could see what he could see.
+
+It was a beast. It came out and stood on the floor when it was called. It had a dog's face, a pig's body, and a gentle eye.
 
 The beast that stood outside.
 
-His own introduction had taken four words. Su Yan. Luo Sanpao. One. The room had taken the name, the soul, and the one, and moved on to the next desk. The day the world had already written down that this could not happen had been kind about it. It had used the word the ledger used. It had filed him in the pig column and moved on to the boy with the grass, because children's cruelty, like the town's, had an order, and he was used to his place in it from a long way back.
+His own introduction had been the shortest in the room. He had stood, given the room three answers, and sat back down. His name. His soul's name. His rank.
 
-It did not matter. He had a page in the back of his book and a pot on the stove and nine ranks to walk, and a chart with a hole in it was still a chart. He wrote one small line in the margin, in his terrible handwriting, where no teacher would ever look.
+*Su Yan. Luo Sanpao. One.*
 
-*Ask later.*
+The room had taken all three and moved on to the next desk. That was the kindness of rooms. The world's chart had already written down that a boy like him could not happen. So the room wrote him down where such boys went, and turned to the boy with the grass. A room's cruelty, like a town's, has an order. He had known his place in that order for a long time.
+
+It did not matter. He had a page in the back of his book, a pot on the stove, and nine ranks to walk. A chart with a hole in it was still a chart.
+
+He wrote one small line in the margin, in his terrible handwriting, where no teacher would ever look.
+
+*Mine stands outside.*
 
 Then he put his pencil down and listened, because the teacher was still handing out keys.
 
-At the noon break, the two of them ended up at the water tap, because the water tap was where the yard put people who stood alone.
+---
+
+At noon the two of them ended up at the water tap, which was where the yard put people who stood alone.
 
 Wulin was still burning.
 
@@ -348,45 +408,47 @@ Wulin was still burning.
 
 "Show them what?" said Su Yan.
 
-"That grass can — " Wulin stopped, because saying it out loud had never once worked. "Never mind. What's your soul power?"
+"That grass can —" Wulin stopped, because saying it out loud had never once worked. "Never mind. What's your soul power?"
 
 "One," said Su Yan.
 
-Wulin turned his head. "One?"
+Wulin's head turned. "One?"
 
-"One." Su Yan drank from his hand and shook it dry. "I heard they might put me in the ordinary class for it, but my mother talked to the office. You're three. The pig is a pig. And yours is grass. So." He shrugged with one shoulder, exactly as his mother shrugged at a price she had decided not to argue about. "First and second place."
+"One." Su Yan drank from his hand and shook it dry. "I heard the office might put me in the ordinary class for it. My mother went and had a talk with them instead." He shrugged with one shoulder, exactly as his mother shrugged at a price she had decided not to argue about. "You're three. Mine's one. Yours is grass. So we're the top two of the bottom."
 
-"Second place of what?"
+"The bottom of what?"
 
-"Second place of the trash class." Su Yan went back toward the door. "I'm not being sad about it. It's arithmetic."
+"The bottom of the list they read out." Su Yan started back toward the door. "It's arithmetic. I'm not sad about arithmetic."
 
-Wulin stood at the tap a moment longer, and then — because he was six, and because arithmetic had never yet beaten him at anything — he laughed.
+Wulin stood at the tap a moment longer. Then he laughed, because he was six, and because arithmetic had never beaten him at anything yet.
 
 "I'm going to be famous anyway," he called after the other boy. "You can be second."
 
-"Good," said Su Yan, without turning around. "I'd have been second anyway."
+"Good," said Su Yan, without turning around. "I was going to be second anyway."
 
 ---
 
 In the afternoon, Lin Ximeng taught them to meditate.
 
-He did it as a man teaches a thing he loves: badly at first on purpose, to get the laughing out of the room, and then simply, and then seriously. Sit on the mat. Back straight but not stiff, which is a sentence children make faces at. Hands on the knees. Eyes shut. Breathe down and in, and then down and in again, and let the soul power in you find its level, like water in a bowl that someone has stopped carrying.
+He did it as a man teaches a thing he loves. First he did it badly on purpose, to get the laughing out of the room. Then he did it simply. Then he did it seriously.
 
-"Nothing is going to happen today," the teacher said. "If something happens, it is a bonus. What is being built is the habit. Meditation is the only way to temper and improve your soul power. Everything else in a Soul Master's life stands on this hour."
+Sit on the mat. Back straight but not stiff, which is a sentence children make faces at. Hands on the knees. Eyes shut. Breathe down and in, and then down and in again. Let the soul power in you find its level, like water in a bowl that somebody has set down at last.
 
-The room sat. The room itched, and peeked, and snickered at the boy who fell over. Lin Ximeng corrected postures like a gardener correcting branches, and the light moved across the floor.
+"Nothing is going to happen today," the teacher said. "If something happens, it is a bonus. What is being built is the habit. Everything else in a Soul Master's life stands on this hour."
 
-Four rows back, one small boy sat down on his mat and went into it like a stone into a well, because he had spent six years of his short life learning exactly this from a physician's chair: how to be still while something inside you was deciding whether it wanted to stay.
+The room sat. The room itched, and peeked, and snickered at the boy who fell over sideways. Lin Ximeng walked the rows and corrected postures like a gardener among young branches. The light moved across the floor.
 
-Warmth gathered under his ribs. The creature breathed slow and even, folded up like a hot cloth, and the boy's mind went down and in and found, at the bottom, the spoonful of tea from last night, still there.
+Four rows back, one small boy sat down on his mat and went into it like a stone into a well. He had spent six years of his short life learning exactly this in a physician's chair. He knew how to be still while something inside him decided whether it wanted to stay.
+
+Warmth gathered under his ribs. The creature breathed slow and even, folded up like a hot cloth. The boy's mind went down and in. At the very bottom it found last night's spoonful of tea, still there.
 
 It was not a miracle.
 
-It was the smallest possible amount of soul power, going round and round in a small boy in a small town, doing its small work on him as the sea does on the harbor wall.
+It was the smallest amount of soul power there is. It went round and round in a small boy in a small town. It did its small work on him as the sea does on the harbor wall.
 
-But it was his, and it was happening, and there was no one in the room to tell it to, so he simply sat and let it happen, for the whole hour, until the teacher's voice called them up.
+But it was his. It was happening. There was nobody in that room he could tell. So he sat and let it happen for the whole hour, until the teacher's voice called them up.
 
-At the door, when the day ended and the two of them came out with the crowd, Su Yan fell in beside Wulin for a few steps without either of them deciding to.
+At the gate, when the day ended and the class came out with the crowd, the two of them fell in beside each other for a few steps. Neither of them decided to.
 
 "What did you get?" Wulin asked.
 
@@ -394,39 +456,41 @@ At the door, when the day ended and the two of them came out with the crowd, Su 
 
 They walked as far as the gate together.
 
-Then one boy turned down the lane toward the harbor, and one turned toward the commoner's district, and both of them were carrying homework in a language neither of them could speak yet, in a class the town did not think very much of.
+Then one boy turned down the lane toward the harbor, and one turned toward the commoner's district. Each of them was carrying homework in a language neither of them could speak yet, from a class the town did not think very much of.
 
 ---
 
 That night, two kitchens were scraped clean.
 
-In the Tang house, the pot that had held the stewed ribs came back empty, and the rice pot came back worse than empty. Lang Yue stood in the middle of it with her hands on her hips. Then she quietly put an extra measure into tomorrow's plan, and moved the rest of that week's money around like a captain moving cargo.
+In the Tang house, the pot that had held the ribs came back empty. The rice pot came back worse than empty. Lang Yue stood in the middle of it with her hands on her hips and looked at the wreckage. Then she added an extra measure to tomorrow's plan.
 
-Wulin came in from his first day hungrier than he had ever been, and thirstier, and sleepier, all three at once.
+She moved the rest of the week's money around, one small pile at a time, like a woman rebuilding a wall out of its own stones.
 
-In the house above the clinic, the broth pot came off the stove and went into a bowl, and the bowl went under the table where the creature took its meals with the dignity of a magistrate, and the pig ate like the day had earned it, and then went to the stove and lay down.
+Wulin came in from his first day hungrier than he had ever been. He was thirstier too, and sleepier. All three at once. The day had taken more out of him than he had brought to it.
 
-Zhou Hui closed her ledger and said her sentence, and it had changed shape this week without any of them voting on it.
+In the house above the clinic, the broth pot came off the stove and went into a bowl. The bowl went down on the floor where the creature took its meals with the gravity of a magistrate taking his seat. The pig emptied it, licked the rim, and went to the stove and lay down.
+
+Zhou Hui closed her ledger and said her sentence. It had changed shape this week without anyone voting on it.
 
 "We are still richer than most."
 
-"That is not the question," said Su Heng, from the clinic door, watching his son feed the bowl to the fire like a proper apprentice.
+"That is not the question," said Su Heng from the clinic door. He was watching his son carry the pot to the sink like a proper apprentice.
 
 "It is exactly the question," said Zhou Hui, "and it is the only one I am taking."
 
-The boy wiped the pot, and hung it, and wrote his one line in the back of his book, and blew out the lamp.
+The boy wiped the pot and hung it on its nail. He wrote his one line in the back of his book and blew out the lamp.
 
-Outside, the town went to its own beds with the day's gossip, which came in two colors that year.
+Outside, the town carried the day's gossip to its beds. That year the gossip came in two colors.
 
-In one story, the Tang boy — the pretty one, the repairman's son — had read rank 3, and turned up at the academy with a blade of bluesilver grass for a soul, and his family was going to feed him until he was an expert or die of the grocery bill.
+In one story, the Tang boy — the pretty one, the repairman's son — had read rank 3. He had turned up at the academy with a blade of common grass for a soul. His family was going to feed him until he became an expert or died of the grocery bill.
 
-In the other story, the physician's boy — the one who was so ill for six years, the one everyone had been polite about — had walked out of the same chamber with a pig.
+In the other story, the physician's boy — the one who had been ill for six years, the one everyone had been polite about — had walked out of the same chamber with a pig.
 
-The town told both stories on the walk home, and laughed in the market, and nobody in either story had asked either boy a single question about it.
+The town told both stories on the walk home and laughed about them in the market. Not one person in either story had asked either boy a single question.
 
 Under the floorboards of one house, the sea worked at the harbor wall.
 
-In the other, higher up, safe above the tide line, a pig slept by a warm stove, and a boy slept above it, and in two rooms of that small bright house the first day of the rest of a life was over.
+In the other house, higher up, safe above the tide line, a pig slept by a warm stove and a boy slept above it. The first day of the rest of it was over in two rooms of one small bright house.
 
 Nine ranks to go.
 

@@ -125,7 +125,7 @@ His week cost him money and taught him the trade. The dockman took him to pier f
 ## §12 · Chapter receipts (in order)
 
 - **Ch 1 — *The Reading*:** canon ch 1–2; his ceremony — **the plate: Luo Sanpao · one**; the recovery; the family's hope gutted by a number. **Rebuilt whole 2026-10-03 (v6): 5,159 body · ALL 10.2 / 8 / 0 · "the way" 0;** the mother's term sentence (*counted standing up*) and the count's birth on the page again.
-- **Ch 2 — *The House and the Road*:** canon ch 3–4; the first term paid; the feeding economy begins; the first cultivation hour; the first day of school.
+- **Ch 2 — *The House and the Road*:** canon ch 3–4; the first term paid; the feeding economy begins; the first cultivation hour; the first day of school. **Rebuilt whole 2026-10-03 (v2): 5,570 body · ALL 9.0 / 7.5 / 0 · "the way" 0.**
 - **Ch 3 — *A Bowl and a Name*:** canon ch 5–7 (the foundling day — canon's own; Na'er sealed); the bowl grows; the nose tested and wrong once (**2 coins**) and vindicated in the grain house; the first circle closes.
 - **Ch 4 — *A Thousand Times*:** canon ch 8–11; the forge arc beside his own winter — the wage (**5 coins**), the basket (**3 coins**), the wrong jar sent back, the mooring read in fog; the second circle found.
 - **Ch 5 — *Three Winters*:** canon ch 12–15; the skip rendered honestly — the record check prints **nine**; the pot is his; the read becomes a trade (the crate walk, the refusal, the fishwife, the pier); Teacher Lin's letter and her late bill; the tin; three winters without the cough. **Re-passed 2026-10-03 (G18):** the years now carry what he learned and what the Talent did — the kitchen, the cabinet, the day-book, the room's lists, the mind's two hours.

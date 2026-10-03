@@ -1,4 +1,4 @@
-# Canon Coverage — Chapter 2: The House and the Road
+# Canon Coverage — Chapter 2: The House and the Road (v1 → **v2 rebuild**, 2026-10-03)
 
 What this chapter puts **on the page** from the canon records, and what is ours. Canon chapters fetched live **2026-10-02** (wuxiaworld `ldk-chapter-3` *Little Wulin's Family*, `ldk-chapter-4` *Entering the Academy*) — every beat below traces to them. No long canon passages are copied; short canon lines are carried as this house carries them (chapter 1 precedent). Canon rows: `foundation/CANON_SPINE.md` FAM-01..FAM-04, ACA-01..ACA-02, BLK-01, GEO-01; register rows 17–21, 31–33.
 
@@ -78,6 +78,8 @@ What this chapter puts **on the page** from the canon records, and what is ours.
 
 *"Son, you really are one in a million!"* · *"Son, you're home! You must be hungry…"* · *"I'm not hungry, mom. Just sleepy…"* · *"He has soul power, but I wish he didn't."* · *"What did you say? Wulin has soul power?"* · *"Mom, can I go eat? I'm really hungry."* · *"Mom, it's delicious. I still want more…"* · *"Dad, why am I indignant?"* · *"Of course the Soul Master class!"* · *"I'm already really happy right now!"* · *"Hey, what's your martial soul?"* · *"Bluesilver Grass! That's a trash martial soul."* · *"I have rank 5 innate soul power."* · *"Meditation is the only way to temper and improve your soul power."* — all carried within a line or two of the source translation.
 
+**Rebuild note (2026-10-03):** the meditation line is carried as *"Meditation is the one road there is. Nothing else tempers soul power and grows it."* — the house tic law (R11/W) bans the phrase "the way" even inside a carried line; the beat and the meaning are canon's.
+
 ## 7. Seals and metrics
 
 **Seals held:** no gold on the soul (LSP-10); no bloodline or resonance (R13 / DRG-01); no Na'er foreshadow (NAE-02); no spiritual-power number printed; the Talent unnamed.
@@ -91,3 +93,14 @@ These lines stood under the chapter title in the reading file. They are working 
 > **Canon reference:** Soul Land 3, **chapter 3 (*Little Wulin's Family*)** and **chapter 4 (*Entering the Academy*)** — both adapted on page, in order, unskipped. Fetched and verified 2026-10-02 (wuxiaworld `ldk-chapter-3`, `ldk-chapter-4`). Canon beats carried: every soul-power child invited to the Soul Master class; the walk home and Tang Ziran's *"one in a million"*; the machine repairman's household in the commoner's district; the tiny home; Lang Yue's hug and the lunch; *"He has soul power, but I wish he didn't."*; the normal-class fallback; the afternoon fever; the gold lines walking his body three full cycles; the dream of the bluesilver prairie, the golden sky and the golden-mouthed colossus; the oily sweat; the growling belly and the fourth bowl; *"Mom, it's delicious. I still want more…"*; the class decision and the dragon-and-phoenix line; the Federation's school law; the first day at Red Mountain Academy; the little fatty and the knife; the faint gold at the grass's roots; homeroom teacher Lin Ximeng; the introductions; the classifications lesson; the afternoon meditation. **Dual track:** Su Yan's line runs parallel — the term settled standing up (chapter 1's promise kept), the feeding economy opened, kitchen and clinic hands, his own first day in the same room — touching canon's track only where a shared town and a shared classroom touch it. **Seals kept:** the soul's gold stays sealed (LSP-10); the dragon resonance stays invisible (R13, DRG-01); Na'er is not foreshadowed (NAE-02). Canon rows: `foundation/CANON_SPINE.md`. Receipts: `canon_coverage/Canon_Coverage_Chapter_02.md`.
 > **Status:** v1 — first draft, awaiting the author's read.
 > **Timeline:** the Awakening Day evening, and the first day of the new term. Glorybound City.
+
+
+## 8. Rebuild record — v2, 2026-10-03 (complete rewrite)
+
+The rebuild law (author): *"Rebuild all chapters completely new and perfectly…"* Chapter 2 was written again from its first sentence. No line of v1 was carried; canon's short lines (§6) were kept as the house keeps them.
+
+- **Measured (final body, v2):** 5,570 words · ALL avg **9.0** / median **7.5** / **0 over 60** · NARR 9.0 / 7.0 / 0 · dialogue paragraphs **63** · CJK **0** · **"the way" 0**.
+- **Spine kept:** every ch 3 and ch 4 beat of §1–§2, in order, unskipped; the crossings, firewalls and seals of §4–§5 held.
+- **Track anchors re-verified on the page after the rewrite:** *"the habit"* (ch 3 leans on it) · the water-tap noon break (ch 3) · the practice book and its sums page (ch 3–5) · last night's **spoonful of tea** (ch 3) · *"We are still richer than most."* / *"That is not the question."* (ch 6) · the two town stories (ch 3–4) · *"Nine ranks to go."* (the close).
+- **New in v2:** the office morning staged at the counter with the boarding line; the feeding week written as behavior; the first hour written as the smallest possible thing; the close rebuilt whole.
+- **v1's numbers stay as history:** 5,677 · 13.9 / 11 / 0 · 60 dialogue paras · "the way" 2 (§7 above).

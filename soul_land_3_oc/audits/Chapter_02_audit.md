@@ -51,3 +51,10 @@ Header block complete. Motifs added: *"We are still richer than most."*; the sum
 **PASS** — shipped, receipted, no veto. Standing note: ch2's receipt discrepancy (5,688 → 5,677) was caught and corrected in `93f7617`/`62b779f` — **measure after the last edit** (drill §5, step 7).
 
 *Receipt: final body re-measured post-ship; matches `canon_coverage/Canon_Coverage_Chapter_02.md` and LOG 016/018.*
+
+
+## 7 · Rebuild record (v2, 2026-10-03)
+
+Rebuilt whole under the rebuild law — new prose throughout, no copied sentences; canon's short lines kept per coverage §6. Measured final: **5,570 body words · ALL 9.0 / 7.5 / 0 · NARR 9.0 / 7.0 / 0 · 63 dialogue paras · CJK 0 · "the way" 0** (v1 was 5,677 · 13.9 / 11 / 0). The v1 measures and verdict in §1–§6 above stand as that version's history. Continuity re-verified against ch 3–7 the same turn: the habit, the water tap, the practice book and its sums, the spoonful, the house sentences, the two stories, the count. Seals held: no gold on the boy's soul, no bloodline named, no Na'er, no printed spiritual power.
+
+*Receipt: `tools/measure_sl3p.py` on the final body; coverage §8.*
