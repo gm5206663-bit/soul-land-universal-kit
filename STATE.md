@@ -15,7 +15,7 @@
 > - `soul_land_2_new/` — **The Golden Lion** — **8 chapters** live (Ch8 shipped 2026-09-23, G09 sect-join executed, assessment-eve armed, panel v20), agent-driven near-daily, STATUS_PANEL is truth
 > - **External live:** `soul-land-2-the-grey-wolf/` — **The Grey Wolf** — **6 chapters perfect rebuild v0.7.0** (2026-09-26, Arc1 Grey Ridge complete, Arc2 hem-road craft, 2400-3400w band, over60 0, the-way 0, clean and clear, no nonsense spam, Spirit Sea 850, body 500kg, Storm Frost Ghost Wolf ice+wind High, Ring Veil hides purple as yellow). Now ingested into soul-library (193 chapters total).
 > - `blue_silver/` — **Book One COMPLETE: 15 rebuilt chapters / 34,711 words, gates green** (Book Two awaits author rulings)
-> - `Soul_Land_3_Project/` — **Adaptive Prodigy** — 116 chapters / 354,685 words, full-spectrum repair pass green (frozen, reference)
+> - `Soul_Land_3_Project/` — **Adaptive Prodigy** — 116 chapters / 354,685 words, full-spectrum repair pass green (frozen, reference) — **deleted from this repository 2026-10-03 (see the DELETE wave bullet above)**
 > - `Soul_Land_2_Project/` — **Unraveled Tide** — 24 chapters, PAUSED 2026-09-23 revival queued
 > - `soul_land_system_cheat/` — **THE SYSTEM CHEAT** — DESIGN STAGE (2026-09-24), system fully specified, 3 open issues (#2 second beast <764y, #3 System name placeholder "readout", #4 Chapter 5 second hunt awaiting beast ruling)
 > - `soul_land_3_new/` — FROZEN 2026-09-22 by author plan-change (Ch1 gated)
