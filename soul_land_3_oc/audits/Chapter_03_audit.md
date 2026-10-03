@@ -57,3 +57,10 @@ Receipts: `Canon_Coverage_Chapter_03.md` (6,881 w) · LOG 018 · NEXT_STEPS (ch3
 **PASS** — shipped, receipted, presented to the author. No veto to date.
 
 *Receipt: final body re-measured post-ship at 6,881 w; matches coverage3 / NEXT_STEPS / LOG 018.*
+
+
+## 7 · Rebuild record (v2, 2026-10-03)
+
+Rebuilt whole under the rebuild law — new prose throughout, no copied sentences; canon's short lines kept per coverage §7. Measured final: **6,700 body words · ALL 9.2 / 8 / 0 · NARR 9.8 / 9 / 0 · 74 dialogue paras · CJK 0 · "the way" 0** (v1: 6,881 · 13.6 / 9 / 0). The v1 measures and verdict above stand as that version's history. **Open check closed:** WUL-02 is verified present in `foundation/CANON_SPINE.md` §G (the spine's own standing note already records the closure; the ch3 header's citation holds). Continuity re-verified against ch 4–7 the same turn: the pig's bowl line, the sums page, Na'er at the gate, the nose's habit, the three stories. Seals held: gold sealed, resonance wordless, Na'er's nature untouched.
+
+*Receipt: `tools/measure_sl3p.py` on the final body; coverage §9.*

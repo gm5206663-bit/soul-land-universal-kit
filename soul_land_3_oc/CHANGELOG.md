@@ -2,6 +2,11 @@
 
 > **Purpose:** the readable history of this serial — what shipped, when, and where its receipts live. The serial's working log is `foundation/SERIAL_LOG.md`; this file is the whole road from the start of the rebuild, newest first. **The author's strikes are history, not shame** — kept because each one became a law (`foundation/MISTAKES_LEDGER.md`).
 
+## 2026-10-03 (the rebuild — Chapter 3 rewritten whole)
+
+- **Chapter 3 — *A Bowl and a Name* — rebuilt (v2):** every sentence new; the ch 5 + ch 6 + ch 7 canon spine unskipped (the foundling day: the roadside girl, the delinquents and the record, *"My name is Na'er."*, the wash, the biscuits, *"Five and a half."*, the office's empty record, the first meditation and *"It's already night."*, brave versus wise, the orphanage line and *"No!"*, Lang Yue's law, the divider); the OC track rebuilt too (the corner's wordless turn, the first closed circle, *"Your hands are right."*, the tap, the feeding economy's second stage, the nose priced and vindicated, *"The pig earns its bowl."*, three stories). **6,700 body · ALL 9.2 / 8 / 0 · NARR 9.8 / 9 / 0 · 74 dialogue paras · CJK 0 · "the way" 0.**
+- **Next:** ch 4 → ch 7, same drill. Ch 8 remains on the author's word.
+
 ## 2026-10-03 (the rebuild — Chapter 2 rewritten whole)
 
 - **Chapter 2 — *The House and the Road* — rebuilt (v2):** every sentence new; the ch 3 + ch 4 canon spine unskipped (the household, the fever and the gold cycles, the dream, the fourth bowl, the class choice, the school law, the fatty and the knife, the hidden gold at the grass's roots, Lin Ximeng, the classification lesson, the meditation hour); the OC track rebuilt too (the term settled standing up, the feeding economy as behavior, the sums page, the first hour's spoonful, the water tap, *"The habit."*). **5,570 body · ALL 9.0 / 7.5 / 0 · NARR 9.0 / 7.0 / 0 · 63 dialogue paras · CJK 0 · "the way" 0.**
