@@ -7,6 +7,7 @@
 - **THE HOUSE RULING (the author):** his words on the father, the mother, and the missing relatives → `bible/FAMILY_AND_HOUSE.md` written; every panel corrected. The house of Su is a soul-master house: **Su Heng — four rings, Soul Ancestor, the city's physician**; **Zhou Hui — two rings, the Zhou grain house**; the web of grandparents, uncles, aunts, cousins and friends on the page from ch 7. (MISTAKES **H17**.)
 - **R22 — canon-clear prose armed** (the author: *"write clear and clean that can understand like canon"*): one idea per sentence; first-pass clarity; no riddles (`REGISTER_AND_STYLE` §7 · `HOW_TO_WRITE`).
 - **Chapter 7 — *The Refusal* — shipped** (LOG 032): canon SL3 ch20–22 whole; the trade's second night and its first **loss**, diagnosed and paid; the two columns at the family table. **10,308 body · ALL 11.5 / median 8 / 0 over 60 · "the way" 0.**
+- **Shelf recopy + counts (same day):** *One in a Thousand* now **Chapter 7 live** on the Soul Library — serials.json badge **LIVE · CH 7 · GATE-PASS**, **51,963 → 62,294 words (62K)**, library **896K+ → 906K+**, 214 chapters; search index 199 → **200 entries**; recaps, feed, news, sitemap refreshed. Shelf commit **`164aa31`** (kit `03c43bf` + the follow-up).
 
 ## 2026-10-02 (in one long day)
 
