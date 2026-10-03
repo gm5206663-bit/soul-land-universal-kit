@@ -132,7 +132,7 @@
 ## Sources (fetched 2026-10-02)
 
 soulland.fandom.com — `Luo_Sanpao` · `Yu_Xiaogang` · `Yu_Xiaogang/Abilities` · `Blue_Lightning_Tyrant_Dragon` · `Soul_Power` · `Martial_Soul_Awakening` · `Soul_Master` (spirit-soul realm notes) · baike.baidu.com (EN) — `Luo Sanpao` · novgo.net — SL3 ch 1 full text (mirror) · wuxiaworld.com — `legend-of-the-dragon-king/ldk-chapter-1` (re-verification pass, 2026-10-02; cited for facts only, no text copied).
-Workspace receipts — `SL_ARCHIVE/inbox/Adaptation-Talent-Definitive-Master-Foundation.md` (v2.0; §6.1, §6.3, §23.1) · `SL_ARCHIVE/sl4_foundation_v2/bible/ADAPTATION_TALENT_LOCAL.md` §8.5A (the author's earlier pre/post-awakening ruling, same law).
+Workspace receipts — `SL_ARCHIVE/Adaptation-Talent-Definitive-Master-Foundation.md` (v2.0; §6.1, §6.3, §23.1; moved out of the retired `inbox/` 2026-10-03) · `SL_ARCHIVE/sl4_foundation_v2/bible/ADAPTATION_TALENT_LOCAL.md` §8.5A (the author's earlier pre/post-awakening ruling, same law).
 
 **Sources added 2026-10-02 (Chapter-3 fetch, evening):** wuxiaworld `ldk-chapter-5` (full text re-confirmed), `ldk-chapter-6`, `ldk-chapter-7` — the foundling arc (FND-01..FND-07).
 

@@ -37,7 +37,7 @@
 ## `_archive/` — DO NOT USE
 `_archive/2026-08-25_uploads/` holds the original uploads from earlier sessions (pre-v2.26 SL3 snapshots, the Chapter-4-era fossil codex, the stale continuation). Kept for provenance only; every file there is superseded by the trees above.
 `_archive/2026-09-18_workspace_uploads/` (added 2026-09-18) holds an agent-workspace snapshot of the SL3 docset from the chapter-01 audit era — also fully superseded by `Soul_Land_3_Project/`.
-`_archive/2026-09-19_stale_sl4_copies_at_ch31/` (added 2026-09-19) holds the **two stale top-level Soul Land 4 copies** (`soul_land_4_fire_phoenix/`, `sl4_fire_phoenix/`), both frozen at **Chapter 31** while the project is now at **Chapter 52**. Moved by `git mv` — 345 renames, all `R100`, zero deletions, zero content changes. `sl4_fire_phoenix/`'s nested 168-file tree was verified a **byte-identical subset** of the other copy. Each has a `README_STALE_ARCHIVED.md`. **The archived `sl4_fire_phoenix/…/SOUL_LAND_4_FIRE_PHOENIX_NEXT_STEPS_FOR_CONTINUATION.md` is actively dangerous**: it presents `Dawnflame 1,120` and `Dawn-Iron 2,040` as current, two values `STATUS_PANEL.md` §9 explicitly bans. Never read it as state.
+`_archive/2026-09-19_stale_sl4_copies_at_ch31/` (added 2026-09-19; **set aside 2026-10-03** — the folder is off this repository, nothing lost) held the **two stale top-level Soul Land 4 copies** (`soul_land_4_fire_phoenix/`, `sl4_fire_phoenix/`), both frozen at **Chapter 31** while the project is now at **Chapter 52**. Moved by `git mv` — 345 renames, all `R100`, zero deletions, zero content changes. `sl4_fire_phoenix/`'s nested 168-file tree was verified a **byte-identical subset** of the other copy. Each has a `README_STALE_ARCHIVED.md`. **The archived `sl4_fire_phoenix/…/SOUL_LAND_4_FIRE_PHOENIX_NEXT_STEPS_FOR_CONTINUATION.md` is actively dangerous**: it presents `Dawnflame 1,120` and `Dawn-Iron 2,040` as current, two values `STATUS_PANEL.md` §9 explicitly bans. Never read it as state.
 `_archive/2026-09-21_superseded_arena_readme/` (added 2026-09-21) holds the old root file `README_ARENA_WORKSPACE.md` —
 a second, unreferenced README for this repository whose content duplicated (and had gone stale against)
 the soul-land-projects README and this file, including a Chapter-51 live-edge claim. Kept, not erased;
@@ -63,7 +63,7 @@ Nothing existing was deleted or overwritten. See
 - **the Soul Land 4 five-copies finding** — the live edge is after **Chapter 52**, and two
   top-level directories (`soul_land_4_fire_phoenix/`, `sl4_fire_phoenix/`) were **stale at
   Chapter 31**. 🔴 **Both archived 2026-09-19** to
-  `_archive/2026-09-19_stale_sl4_copies_at_ch31/` (see the `_archive/` section above). The
+  `_archive/2026-09-19_stale_sl4_copies_at_ch31/` (set aside 2026-10-03, see the `_archive/` section above). The
   most recent copy held in this repository is
   `arena_managed_uploads/2026-09-18_chapter51_managed_snapshot/soul_land_4_fire_phoenix/`.
   This was SL3's TWO-COPIES LAW applying to SL4, which had five places; it now has three,
@@ -298,6 +298,10 @@ STATUS_PANEL, SERIAL_LOG, CANON_STUDY); this block is the map.
 - **The Soul Library** (https://gm5206663-bit.github.io/soul-library/) carries
   every rewritten chapter live, the OC status page, the audio edition (Ch 21
   re-recorded from the corrected text), recaps, analytics, and the Sentinel.
+
+## ADDITION — Cleanup 2026-10-03 (put aside, nothing lost)
+
+**The author: *"clean up seriously, delete things… only useful things, others put aside."* Set aside out of this public repository (kept on the working disk under `_attic/2026-10-03_cleanup/`):** the raw upload inbox `SL_ARCHIVE/inbox/` (duplicate handoffs, `CONTINUE_PACK.txt`, `CORRECTIONS.md`, `NEW_CHAT.md`, a 2.2 MB workspace handoff, a 2.4 MB package, the base64 blob, duplicate READMEs and a duplicate `SARA.md`, the superseded single-file Fire Phoenix foundation and its ` .md` copy) · the Fire Phoenix packaging `soul_land_4_fire_phoenix_foundation_v1.zip` / `_v2.zip` / `_ZIP_AS_BASE64.md` (content lives uncompressed in `sl4_foundation_v2/`) · the **stale SL4 copies at ch31** · the deleted prequel's `Soul_Land_3_Project_handoff_2026-09-03.zip`. **One thing was kept and moved into place rather than aside:** `SL_ARCHIVE/Adaptation-Talent-Definitive-Master-Foundation.md` (a receipt the canon spine cites) — out of the retired `inbox/` folder, citation swept. **Nothing else moved.** The parked projects, the live Fire Phoenix tree, `soul_land_2_new/`, `THE_GOLDEN_LION.md`, `SARA.md`, `MISTAKES_LEDGER_2026-09-23.md` all stay.
 
 ## ADDITION — Full GitHub Audit 2026-09-26 (add-only)
 
