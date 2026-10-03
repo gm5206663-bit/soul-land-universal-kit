@@ -1,4 +1,4 @@
-# Canon Coverage — Chapter 1: The Reading (v5)
+# Canon Coverage — Chapter 1: The Reading (v5 → **v6 rebuild**, 2026-10-03)
 
 What this chapter puts **on the page** from the canon records, and what is ours. Every canon row has a source in `foundation/CANON_SPINE.md`; the canon chapters were fetched live on 2026-10-02 (STRICT RULE) and every beat below traces to them. Nothing in this chapter is asserted from memory.
 
@@ -100,3 +100,14 @@ These lines stood under the chapter title in the reading file. They are working 
 > **Canon reference:** Soul Land 3, **chapter 1 (Awakening Day)** and **chapter 2 (Martial Soul Awakening)** — both adapted on page, in order, unskipped. Fetched and verified 2026-10-02 (wuxiaworld `ldk-chapter-1`, `ldk-chapter-2`). Canon beats carried: Glorybound City; the annual Awakening Day; *"only one in a thousand people might possess soul power"*; Tang Wulin and his father Tang Ziran in the queue; the teacher with the list; Red Mountain Academy (two thousand students, white roofs and red walls, clean grounds); the circular Awakening Chamber building; the parent waits outside; the third floor; the inscriptions; the middle-aged Spirit Master in the simple orange robe; *"Come here child. Stand in the middle."*; the awakening light; the pain; the golden lines seen by no one but the master; the Bluesilver Grass; rank 3 innate soul power; the Tang Sect and the Bluesilver Emperor. **Dual-track:** Su Yan's own line runs parallel — same town, same academy, same morning, his own chamber and his own reading — touching canon's track only where the morning itself touches it. Canon rows: `foundation/CANON_SPINE.md` LSP-01..LSP-10, AW-01..AW-08; `canon_coverage/Canon_Coverage_Chapter_01.md`.
 > **Rewrite note (v5, 2026-10-02):** rebuilt on the author's strikes. v1–v4 told an OC-only chapter with canon outside the window — the same mistake the deleted prequel was struck for. v5 puts the canon story on the page, complete, and writes it all in the register of the Fire Phoenix chapters (short declaratives, scenes over essays, dialogue-forward). v1–v4 remain in git history.
 > **Timeline:** the boys' sixth year. Glorybound City. Tang Wulin's Awakening Day is today. So is Su Yan's.
+
+
+## 7. Rebuild record — v6, 2026-10-03 (complete rewrite)
+
+The rebuild law (author, verbatim): *"Rebuild all chapters completely new and perfectly, i don't want you copy with just little bit adjustment, completely rebuilt and rewrite completely everything."* Chapter 1 was written again from its first sentence. No line of v5 was carried over; the only kept sentences are the mandated canon verbatim (*"Come here child. Stand in the middle."* — both boys) and the house motifs (*"We are still richer than most."* · the sea working at the harbor wall · the saucer radish · *"The boy in the bed was warm."*).
+
+- **Measured (final body, v6):** 5,159 words · ALL avg **10.2** / median **8** / **0 over 60** · NARR 10.5 / 8 / 0 · dialogue paragraphs **66** · CJK **0** · **"the way" 0** (v5 sat at the cap of 2).
+- **Spine kept:** the queue → Su Yan's chamber (*"One"*, the brass plate) → the father's right hand → *"Tang Wulin!"* → Wulin's chamber (the golden lines sealed, Bluesilver Grass, rank 3) → the mirrored close in two houses. Canon beats per §1–§2 above, unskipped; seals per §4 held.
+- **New on the page in v6:** Su Yan waking before the house; the illness told as six winters; the family's web and the physician's standing; the mother's term sentence re-planted (*the school office · paid in advance · counted standing up* — ch 2's echo now stands on a planted line again); the count motif born in the close, spoken in the dark — **"One," he said. "Nine ranks to go."**
+- **House rule settled:** chapters end `*End of Chapter N.*` (REGISTER §4) — ch 1 now carries `*End of Chapter 1.*` like ch 2–7.
+- **v5's numbers stay as history:** 4,263 · 11.1 / 8 / 0 · 58 dialogue paras · "the way" 2 (§5 above).

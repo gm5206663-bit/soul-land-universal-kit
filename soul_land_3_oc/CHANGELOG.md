@@ -2,6 +2,13 @@
 
 > **Purpose:** the readable history of this serial — what shipped, when, and where its receipts live. The serial's working log is `foundation/SERIAL_LOG.md`; this file is the whole road from the start of the rebuild, newest first. **The author's strikes are history, not shame** — kept because each one became a law (`foundation/MISTAKES_LEDGER.md`).
 
+## 2026-10-03 (the rebuild — Chapter 1 rewritten whole)
+
+- **THE REBUILD LAW (author):** *"Rebuild all chapters completely new and perfectly, i don't want you copy with just little bit adjustment, completely rebuilt and rewrite completely everything."* A copied-and-adjusted pass is a strike; the seven chapters are rebuilt whole, one at a time.
+- **Chapter 1 — *The Reading* — rebuilt (v6):** every sentence new; canon spine unskipped; mandates and motifs kept; the mother's term sentence (*counted standing up*) and the count's birth (*"One," he said. "Nine ranks to go."*) on the page. **5,159 body · ALL 10.2 / 8 / 0 · NARR 10.5 / 8 / 0 · 66 dialogue paras · CJK 0 · "the way" 0.**
+- **End-of-chapter marker now uniform:** ch 1 gains `*End of Chapter 1.*` (REGISTER §4).
+- **Next:** ch 2 → ch 7, same drill (write whole → measure → sweep → receipts → commit). Ch 8 remains on the author's word.
+
 ## 2026-10-03 (second half — the strike, executed)
 
 - **THE SECOND STRIKE (H18):** *"Why you don't update others All file… status panel still showing him level 9… Where is soul spirits… what is he doing three years and what adaption telent three years… his adaption telent is should stronger but you extremely Nerfed… that' have golden holy dragon bloodline… three attributes, fire, light/holy and thunder… Who saying to create so much original nonsense without reason… canon say coins… You completely make joke of three years to only level growth."*

@@ -48,3 +48,10 @@ Header block carries canon ref, beats, dual track, seals, receipts — complete 
 **PASS** — shipped, receipted, accepted *"Good"* by the author. Standing note: this chapter's "the way" count sits at the cap; new chapters keep it under.
 
 *Receipt: final body re-measured post-ship; matches `canon_coverage/Canon_Coverage_Chapter_01.md` and LOG 007.*
+
+
+## 7 · Rebuild record (v6, 2026-10-03)
+
+The chapter on disk was rebuilt whole under the rebuild law — new prose throughout, no copied sentences. Measured final: **5,159 body words · ALL 10.2 / 8 / 0 · NARR 10.5 / 8 / 0 · 66 dialogue paras · CJK 0 · "the way" 0**. The v5 measures and verdict in §1–§6 above stand as that version's history. Continuity re-verified against later chapters this turn: the mother's term sentence (ch 2 line 81's echo), the radish on its saucer (ch 2), *"Nine ranks to go."* (ch 2 · ch 4), the sea at the harbor wall, *"The boy in the bed was warm."* (ch 4's founding echo). Seals held: no spirit soul for Su Yan, no ring, no bloodline named, Na'er absent.
+
+*Receipt: measures from `tools/measure_sl3p.py` on the final body; coverage §7.*

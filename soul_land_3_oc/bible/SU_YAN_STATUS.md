@@ -40,7 +40,7 @@ His week cost him money and taught him the trade. The dockman took him to pier f
 ## §3 · Line 1 — soul power and rank
 
 - **Public record: ten** — printed by the school's apparatus at the spring tests (ch 6), read back by the clerk, said out loud by his father in daylight. The graduation list went up on the office wall that week: **six names of the year**, Mu Yun's line one above his.
-- **The record's history, in order:** the plate's **one** (ch 1) → **nine** at the graduation-year check (ch 5) → **ten** at the spring tests (ch 6). *Nine ranks to go* was ch 3–5's count; it reached zero in ch 6, and the count motif moved to the wall's number.
+- **The record's history, in order:** the plate's **one** (ch 1) → **nine** at the graduation-year check (ch 5) → **ten** at the spring tests (ch 6). *Nine ranks to go* is born in ch 1's close (spoken in the dark) and carried verbatim at ch 2's and ch 4's closes; it reached zero in ch 6, and the count motif moved to the wall's number.
 - **The correction that stands as a life-line:** his private count read **eight** and the machine said **nine** — *being sure and being right were going to be two different rooms* (ch 5).
 - **How the ten was paid (the skip's arithmetic):** ranks 2–9 accrued across the three winters, then the tenth in the graduation year — the two-hour night held, the feed to three ladles, the fog seasons without the cough, the mind answering the room (ch 5; `bible/THREE_YEARS_LEDGER.md`).
 - **The gate now:** rank ten opens the purchase — a spirit soul first, then the ring. The school's machinery (the list, the letter, the office) is doing what school machinery does; Teacher Lin has said her own piece about what a list is worth (*"a list of ten ranks… not one of them is worth a cup of tea by itself"*).
@@ -124,7 +124,7 @@ His week cost him money and taught him the trade. The dockman took him to pier f
 
 ## §12 · Chapter receipts (in order)
 
-- **Ch 1 — *The Reading*:** canon ch 1–2; his ceremony — **the plate: Luo Sanpao · one**; the recovery; the family's hope gutted by a number.
+- **Ch 1 — *The Reading*:** canon ch 1–2; his ceremony — **the plate: Luo Sanpao · one**; the recovery; the family's hope gutted by a number. **Rebuilt whole 2026-10-03 (v6): 5,159 body · ALL 10.2 / 8 / 0 · "the way" 0;** the mother's term sentence (*counted standing up*) and the count's birth on the page again.
 - **Ch 2 — *The House and the Road*:** canon ch 3–4; the first term paid; the feeding economy begins; the first cultivation hour; the first day of school.
 - **Ch 3 — *A Bowl and a Name*:** canon ch 5–7 (the foundling day — canon's own; Na'er sealed); the bowl grows; the nose tested and wrong once (**2 coins**) and vindicated in the grain house; the first circle closes.
 - **Ch 4 — *A Thousand Times*:** canon ch 8–11; the forge arc beside his own winter — the wage (**5 coins**), the basket (**3 coins**), the wrong jar sent back, the mooring read in fog; the second circle found.

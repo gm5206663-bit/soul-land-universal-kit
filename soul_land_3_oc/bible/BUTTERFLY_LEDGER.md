@@ -6,7 +6,7 @@
 
 ---
 
-## Chapter 1 — *The Reading* (4,263 w)
+## Chapter 1 — *The Reading* (5,159 w — rebuilt 2026-10-03)
 
 | # | Cause (on the page) | State it created | Last echo | Obligation |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@
 | B-06 | His class introduction, four words: *"Su Yan. Luo Sanpao. One."* — *"It had filed him in the pig column and moved on to the boy with the grass."* | The room's **fixed idea of him**, settled on the first day of class (and the cruelty was *kind* about it — the ledger's word). | Ch 3 — *"the pig boy"*; ch 4 — the room **turning its head** at his recitation. | **OPEN** — a file this old must visibly update again: one more on-page moment where the room's idea of him changes (ch 5's first tests are the natural window). |
 | B-07 | **THE TOWN'S TWO STORIES.** The chapter's close: one story for the Tang boy (*rank 3*, the grass, the grocery bill), one for *"the physician's boy… with a pig"* — *"nobody in either story had asked either boy a single question."* | The town now **runs his story #2**; the two-story figure (he and Wulin, told in parallel) becomes the town's standing shape of that year. | Ch 3 — *"the town's newest story"* (Na'er) + the breakwater *"standing picture"*; ch 4 — **"Three stories, one small city."** | **OPEN (strong, the spine of it)** — the story count is live (2 → 3 already). Next: the town must **ask a question** — the un-asked question is now a standing debt (see B-23). |
 | B-08 | Both kitchens scoured: Lang Yue reallocating the week's money *"like a captain moving cargo"*; Zhou Hui closing the ledger — *"We are still richer than most."* / *"That is not the question."* | The two houses' feeding economies are now **visible side by side**; the Su house is the rich one, and says so out loud. | Ch 3 — the pig's coat, the paper twist; ch 4 — two ladles, the fish heads. | **OPEN** — *"richer than most"* is a claim a story can test: a season, a price, or a loss must one day put weight on that sentence. |
-| B-09 | His private count begins: **"Nine ranks to go."** (chapter's last line). | A **motif** — carried to ch 4's close identically; the reader owns the count his family doesn't. | Ch 3 (kept doing it), ch 4 (*"the thought he thought every night"*). | **OPEN** — the count moves only when the story earns a number; when it finally changes, **the town must not see it first.** |
+| B-09 | His private count begins: **"Nine ranks to go."** — ch 1's close, spoken in the dark (*"One," he said. "Nine ranks to go."*); ch 2's close and ch 4's close carry it verbatim. | A **motif** — the reader owns the count his family doesn't. | Ch 3 (kept doing it), ch 4 (*"the thought he thought every night"*). | **OPEN** — the count moves only when the story earns a number; when it finally changes, **the town must not see it first.** |
 
 ## Chapter 3 — *A Bowl and a Name* (6,881 w)
 
