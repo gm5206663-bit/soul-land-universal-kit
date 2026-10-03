@@ -59,3 +59,22 @@
 - Measure tool: `tools/measure_sl3p.py` — ships with the serial (the build-time working copy was `/home/user/scratch/measure_sl3p.py`, same tool).
 - Applied scripts live in `/home/user/scratch/` — **never re-run an applied script.**
 - Sparse checkout; stage with `git add --sparse -A`; repo identity `arena-agent`.
+
+## 7 · R22 — CANON-CLEAR PROSE (armed 2026-10-03 — the author's word)
+
+> **The author, verbatim:** *"Why you can't write clear and clean that can understand like canon what the hell you do nonsense."*
+
+**The law:** every paragraph must be understood **on the first pass**, the way canon's chapters read. Canon translations are plain: short declaratives, one idea per sentence, concrete actors, concrete things.
+
+**The rules:**
+1. **One idea per sentence.** Subject–verb–object. If a sentence carries two ideas, make it two sentences.
+2. **Name the actor.** No chains of "it"; a reader must always know who did what.
+3. **Say the fact.** Important things are said, not hinted. Withholding is for secrets (the seals), never for style.
+4. **No riddles.** Cut inverted aphorisms, fragment-poems, and sentences whose meaning is not in the sentence. *(Banned precedent, from our own pages: "The sea did what the sea does." "The light that lived behind her eyes went quiet as a lamp goes when a door somewhere else is opened.")*
+5. **Metaphor:** at most one plain simile per scene, and only where it clarifies. Prefer the plain fact.
+6. **Dialogue says what people say; narration says what happened.** Do not blur the two.
+7. **Every scene answers: who, where, what happened, what changed.**
+8. **The 'the way' tic stays at zero** unless it is literally the only phrasing; cap 2 stands.
+9. **The self-test:** read the paragraph aloud. If any sentence needs a second read to parse, rewrite it before ship.
+
+**The gate stays numeric** (§3: ALL avg ≤ 12, median ≤ 8, 0 over 60, dialogue-forward) — R22 is the *reason* behind the numbers, not a replacement for them.

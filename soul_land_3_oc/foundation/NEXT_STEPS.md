@@ -48,3 +48,16 @@
 **Chapter 7:** default = canon **SL3 ch20–22** (*Fusion* · *Rank 11 Soul Master* · *Teacher is also a Soul Master?*) — **fetched live 2026-10-02 and held** (the fusion's gold; Na'er at the door; Tang Ziran's too-late money; rank 11; Mang Tian's four rings and the Earth Hammer; the abnormally heavy Bluesilver Grass). The 24-hour clock from ch19 runs into it. **On his word only.**
 
 **Every chapter moves development (R16 / house ledger E11).** Training, refinement, growth visible on the page — drills, breathing, study, feeding discipline, clinic and kitchen hands, school routines; each gain receipted with cause and price. No correction pass that shrinks the story; no dead chapters. Doctrine: **`bible/TRAINING_AND_DEVELOPMENT.md` (R19)** — the canon speed stack applied to this household, with the chapter engine and the seals list.
+
+
+## CH 7 PLAN (SHIPPED 2026-10-03 — LOG 032; kept for the record)
+
+**Spine:** canon **SL3 ch20–22** (*Fusion* · *Rank 11 Soul Master* · *Teacher is also a Soul Master?*) — fetched live, on page whole, in order. **OC parallel:** the trade's second night (six-coin harbor; the refusal; the fee refused; the dockman's standard) · the reason found on the boat's own boards · the family table's two columns. **Rulings executed the same day:** the **house ruling** (`FAMILY_AND_HOUSE`) and **R22** (canon-clear prose). Ship: `chapters/Chapter_07_The_Refusal.md` — **10,308 · 11.5/8/0 · "the way" 0**; coverage7 · audit7.
+
+## CH 8 PLAN (draft — awaiting the author's go)
+
+**Spine:** canon **SL3 ch23 onward** — fetched live at write-time; nothing pulled early; the arc's own block mapped from the fetch (the next chapters after the shine). **OC parallel (candidates):** **E-01** — the trade's first delivery **with row and reason** (the dockman's standard paid on the page); **E-02** — a hire from a man who says he does not believe; **E-04** — a relative's page (the grandmother's packet · the uncle's harbor weighings · the Zhou counter); the school term's turn (the recommendation season; Teacher Lin's office); the tin's column kept honest. **Butterflies (R15):** fire **E-01/E-02/E-04**, carry **C-05/D-03** (Mu Yun's next meeting, already owed), keep **B-05 · B-09/B-11** standing; every new line born with its obligation. **Seals:** LSP-10 · R13/DRG-01 · NAE-02 · R5 · Q-2; **no futures spent** (no ring, no soul, no fusion for Su Yan; the Wyrm sealed). **Register:** R22 — first-pass clear, one idea per sentence; gate ≤12 avg / median ≤8 / 0 over 60 / dialogue-forward.
+
+## Status — 2026-10-03
+
+**The house ruling (author, 2026-10-03):** *"What is his father, a 4 ring soul' master and physician and only one son what you think he is like what, his mother is also not be normal, also there is can't be just mother and father and there is many more family and friends and relative, so what you thinking"* → `bible/FAMILY_AND_HOUSE.md` written; every panel corrected; the standing and the web on the page from ch 7. **R22 — canon-clear prose** armed (the same message's second half). **Chapter 7 — *The Refusal* — shipped** (LOG 032). **Chapter 8 on his word only.**

@@ -36,6 +36,10 @@
 
 **Mang Tian** · **Brother Long** · the **Tang parents** (Tang Ziran, Lang Yue) — **UNKNOWN** to him personally; they exist in his household's talk (`WORLD_UNDERSTANDING` rows 38–41). **Na'er** — the foundling; the Tang house's daughter — **met on the page (v2): the wall (year one: the pig's name, the lollipop), the market (year two: the fish ends, the list), the water tap (year three: the bucket, the gate)**. What she knows of him: the pig's name, the reading trade, the queue at the tap. Author-only: **HIDDEN** — the dragon layer, the ring (NAE-02); the meetings carry no touch of it.
 
+## 4b · The house web (the author's ruling, 2026-10-03 — on the page from ch 7)
+
+**Grandmother Su (Su Xianglan)** — the packet of combings; *"The roots are thicker."* (KNOWS the body's history by hand) · **Uncle Su Rong** — two rings; the harbor's weighing station (KNOWS PARTLY: the water's paperwork) · **Aunt He Lan** — the Su table's sharpest tongue · **Cousin Su Ran (7)** — believes the pig can talk · **Grandfather Zhou Dehai** — the coin-law; reads the boy's page with a finger under the columns (KNOWS: the page) · **Grandmother Zhou (née Ma)** — pickles and the family's favors roster · **Uncle Zhou Anmin** — the grain counter; *"The physician's boy, at ten."* (KNOWS PARTLY) · **Aunt Zhou (née Qin)** — the warehouse keys · **Cousin Zhou Yuan (13, rank 6)** — the normal road, working (FALSE BELIEF, friendly) · **Fang Zheng (16)** — the clinic's apprentice (KNOWS PARTLY). Source of record: `bible/FAMILY_AND_HOUSE.md`.
+
 ## 5 · What no one knows (the standing firewalls)
 
 **HIDDEN (author-only):** the Adaptation Talent · the spiritual-power curve · the dragon bloodline and the resonance (R13/DRG-01) · the seven-colored ring and what Na'er is (NAE-02) · the Light Wyrm (LSP-10/LSP-08) · the father's page's true size (the family holds it; the world does not).

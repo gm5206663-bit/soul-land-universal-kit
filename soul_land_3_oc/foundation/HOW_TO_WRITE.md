@@ -67,3 +67,6 @@ Canon complete, in order, unskipped (R12) · fetched live (R1) · receipts per c
 - **Chapter 5 v2 stands** (2026-10-02): the §3 rebuild executed — canon compressed to its load-bearing beats (canon-dedicated ≈ 26% of words, scene-level count); Su Yan's three costed events landed — **the wrong read** (winter one) · **the contested trade** (winter two) · **the tin's decision + the letter one rank short** (winter three); **Na'er met on the page three times across the years**; butterflies felt; voice back in band (11.1/8/0). The next written thing: **Chapter 6 — only on the author's word.**
 - **Chapter 6's plan** is rebuilt on this engine before any prose.
 - The miss is logged: `MISTAKES_LEDGER` **H11**; the receipt: `SERIAL_LOG` **LOG 023**.
+
+- **R22 — canon-clear prose (2026-10-03):** the author's *"write clear and clean that can understand like canon."* Every paragraph readable on one pass; one idea per sentence; no riddles; the `"the way"` tic at zero. Full law: `REGISTER_AND_STYLE` §7. Chapter 7 was written under it (tic 28 → 0; median 9 → 8) — **all chapters from 8 forward are written under it.**
+- **The house ruling (2026-10-03):** the house's scale and web live in `bible/FAMILY_AND_HOUSE.md` (wins over older notes): a four-ring father, a two-ring mother, relatives and friends on the page.

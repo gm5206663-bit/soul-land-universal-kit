@@ -94,3 +94,21 @@
 **New lines born (with obligations named):** **D-01 the tin's column** (the first figures the page carries; next: the next entry, and the first loss) · **D-02 the dockman's custom** (*"Bring the beast again"* — a returned trade now; a wrong read would cost a man a season of face) · **D-03 the girl's list** (**Mu Yun** — named on the sheet one line above him; the next meeting is owed a scene) · **D-04 the father's three lines** (the clinic's book holds the door's price; re-read when the number moves).
 
 **Open strong lines for ch 7, in priority order:** **D-02** (the trade's next night, and the read's first uncovered failure) · **C-04** · **C-05** (the name, when earned) · **C-07** (the door) · **D-01** · **D-03** · plus **B-05 · B-08 · B-09/B-11** standing.
+
+
+## Ch 7 — *The Refusal* (2026-10-03)
+
+**Fired (the standing list, paid on the page):** **D-02** — the dockman's custom becomes a **stated law**: the second night, the refusal, the harbor's doubt named out loud, and the standard accepted (*"walk it twice… bring me the row and the reason"*). · **C-04** — the trade's first failure with no cause he can check at the time: **diagnosed** (the boat's own wood; old blood under the tar; the watchman's hides) and **paid** (the fee refused, the name taxed, the case written). · **C-07 · D-01** — the count motif at the right scale: the tin **5 coins 80**, the first loss line. · **B-08** — *"We are still richer than most."* re-stands over a wall that is decades of the practice (the house ruling's money, `FAMILY_AND_HOUSE` §7).
+
+**Born — each with its obligation named:**
+
+| # | Cause on the page | What it now is | Obligation |
+|---|---|---|---|
+| **E-01** | The dockman's law: *"When he refuses, walk it twice. Bring me the row and the reason."* | A professional standard for the read — and a debt the boy accepted before a witness | The first reading delivered **with its row and reason** — owed on the page |
+| **E-02** | The harbor's doubt, said aloud: *"Men will still hire you. They will just watch the pig instead of trusting it."* | The trade's next price is reputation, not coin | A hire offered by someone who says he does not believe — owed |
+| **E-03** | The father's two columns; *"not one coin of it on a gamble"* | The house's road to the door declared at the table | The day the second column must be proved — canon's own block |
+| **E-04** | The family web on the page (Su and Zhou sides, the apprentice) | The house has people other than the parents | Each named relative owes at least one page of story |
+
+**Felt density, ch 7: 9 (dust/current only — no bends)** — the market's two halves · the room's quieter sentence · the girl's question · the father's rings in the clinic · the mother's two rings · the grandfather's coin-law · the cousin's normal road · the dockman's tax · the fishwife's *"Or the start of it."*
+
+**Open strong lines for ch 8, in priority order:** **E-01** (the first delivery with row and reason) · **E-02** (the hire from a doubter) · **E-03** (the second column) · **E-04** (a relative's page: the grandmother's packet, the uncle's harbor, or the Zhou counter) · **C-05 / D-03** (Mu Yun — the next meeting already owed) · plus **B-05 · B-09/B-11** standing.

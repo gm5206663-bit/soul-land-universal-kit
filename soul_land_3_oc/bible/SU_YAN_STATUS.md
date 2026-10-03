@@ -4,7 +4,7 @@
 >
 > **Rank among files:** for anything about Su Yan — numbers, standing, current state — **this file wins.** Ledgers and bibles keep *history, mechanism, and receipts*; where a current value is needed they cite this file, never mirror it. The chapters are its source of record: refreshed from them **every chapter, same turn**; where this file and a chapter disagree, the chapter is right and this file is corrected. **The author's word outranks everything.** Every claim in this file is line-checked against the chapter it cites before delivery (H14).
 >
-> **Snapshot:** end of **Chapter 6 — *Thirty Thousand*** · 2026-10-02 · age **9** · the spring week · public rank **ten** (the tests' machine, read aloud in daylight) · the door priced at **thirty thousand** · the tin at **five coins and eighty-one coppers**. Bookkeeping: R14 (numbers are receipts) · Q-2 (no spiritual-power print) · LSP-10 (no gold).
+> **Snapshot:** end of **Chapter 7 — *The Refusal*** · 2026-10-03 · age **9** · the fusion week · public rank **ten** · the door priced at **thirty thousand** · the tin at **five coins and eighty coppers** (one copper down; the first loss line in the column) · the trade's first failure **diagnosed and paid**; the dockman's standard accepted (*walk it twice*). Bookkeeping: R14 (numbers are receipts) · Q-2 (no spiritual-power print) · LSP-10 (no gold).
 
 ---
 
@@ -21,7 +21,8 @@
 | Rank now (public) | **nine** — the school's record check (ch 5); the first movement of his record since the plate's *one* |
 | Path ahead | rank **10** → the first spirit soul → the first ring. He is **one rank short** of the recommendation line |
 | Talent | **the Adaptation Talent** — from the womb; never named, never voiced, never a readout |
-| Family | **Su Heng** (father — city physician, silver-needle soul, four rings) · **Zhou Hui** (mother — no soul power; the grain house's books; the kitchen and the family's arithmetic) |
+| Family | **Su Heng** (father — the city's physician; **Silver Needle**; **four rings — Soul Ancestor, rank 46**; the first man of his trade in Glorybound) · **Zhou Hui** (mother — **two rings — Soul Grandmaster**; Golden Millet; daughter of the **Zhou grain house**; the ledgers and the law) · **only child** |
+| The web | Grandmother Su · Uncle Su Rong (harbor weighing station) · Aunt He Lan · Cousin Su Ran · Grandfather Zhou Dehai · Grandmother Zhou · Uncle Zhou Anmin (the grain counter) · Aunt Zhou · Cousin Zhou Yuan (rank 6, the normal road) · the apprentice **Fang Zheng** — full file: `bible/FAMILY_AND_HOUSE.md` (wins over older notes) |
 | Companion | **Luo Sanpao** — fed daily since the first night; sleeps at the clinic's outer door |
 | Trades now | kitchen · clinic · grain-house back stair · the market read trade |
 | Where he is | the eve of the spring tests — the last month of the graduation year |
@@ -85,7 +86,7 @@ The spring week. The tests have printed his **ten** — *"Ten," Su Heng said*, o
 - **The page in the back of the practice book** — **earned · spent · left** — kept honest weekly, in his hand; no total is ever printed; the tin by his bed (a weight in it that makes noise when it moves) has never been counted out loud.
 - **The father's page** — ***The boy*** — opened in the big clinic book; the pig entered under the month's compounding costs; the promise: the day the price is spoken is counted in daylight, with the door open.
 - **Ch 6 adds the only figures the pages now carry:** the tests' fee — **30 coppers**, set aside in a twist of paper (*"That money is bought and paid and not to be thought about again."*); the tin counted out loud at the table — **three hundred and eighty-two coppers**, named **three coins and eighty-two coppers** by the coin-count of the town (*"A hundred coppers makes a coin in this town"*); the night-job's **two coins** and the feed's **one copper**; the close — **five coins and eighty-one coppers** in the tin by his bed, the first column to move for a reason worth the ink.
-- **The house:** good, not rich; six sick years bled the cushion; the recovery season spent what was left into hope. **Standing line:** *"We are still richer than most."* (said again in ch 6, in company, over the week that finally put a weight on the sentence — canon's wall.)
+- **The house (corrected 2026-10-03, the author's ruling):** a four-ring physician's practice — comfortable, respected, savings eaten by the six sick years; **30–40 coins a month** in a good year. The wall (30,000 draw · 70,000 white · 1,000,000 yellow) stays **decades** of this house even so; the tin is **the boy's own road**, not the family's last copper (`bible/FAMILY_AND_HOUSE.md` §7). **Standing line:** *"We are still richer than most."* (said again in ch 6, in company, over the week that finally put a weight on the sentence — canon's wall.)
 
 ## §11 · The world's current states (live)
 
@@ -103,6 +104,14 @@ The spring week. The tests have printed his **ten** — *"Ten," Su Heng said*, o
 | **The dockman** | a night boat, a hold the papers called one grade, and a pig that walks the row: the commission relayed through the father; the fee named by the boy; **two coins** and *"the first time I have ever seen a hold read to the row. Bring the beast again."* | **KNOWS PARTLY** — the nose, the numbers, the nerve; not the how |
 | **The ashen-robed master (the Pagoda counter)** | two counter-visits of one family in one week: the boy's week and the father's errand; the wall explained plainly to a physician with a pencil; *"The ones who carry a strong soul run hotter… For yours, I would ask."* | **KNOWS PARTLY** — the record, the rank, the arithmetic of the family; not the why |
 
+| **Grandmother Su (Su Xianglan)** | came by on wash days all six sick years; keeps the paper packet of combings, one lock per season | **SUSPICION → WONDER** — *"The roots are thicker. That is the whole of my medicine."* |
+| **Uncle Su Rong** | two rings; the harbor's weighing station; back like a door; the New Year table's loudest laugh | **KNOWS PARTLY** — the family's face on the water; not the trade's numbers |
+| **Grandfather Zhou Dehai** | read the boy's practice page at the counter, finger under the columns; owns the coin-law the town uses | **KNOWS** — the page's arithmetic and the boy's hand; not the wall's size |
+| **Uncle Zhou Anmin** | the grain-house counter; *"The physician's boy, at ten."*; took the season's page and read it twice | **KNOWS PARTLY** — the family's pride and the page's honesty |
+| **Cousin Zhou Yuan** | rank 6, second-year academy, the family's benchmark boy; never unkind, never understanding | **FALSE BELIEF (friendly)** — the normal road will work for him; the pig stays a joke he is polite about |
+| **Fang Zheng** | the clinic's apprentice; opens the shutters, grinds bark, counts coins | **KNOWS PARTLY** — the house from the inside; not the boy's books |
+| **Mang Tian (acquaintance of the house)** | the city's master smith; the father has treated his hands; tea twice a year | **UNKNOWN, for now** — canon's business with the Tang house is canon's own |
+
 *Full web — wants, last movements, histories — lives in `bible/RELATIONSHIPS.md`; where the two files overlap, this panel's current states win.*
 
 ## §12 · Chapter receipts (what is in-house now)
@@ -112,6 +121,7 @@ The spring week. The tests have printed his **ten** — *"Ten," Su Heng said*, o
 - **Ch 3 — *A Bowl and a Name*:** canon ch 5–7 (the foundling day — canon's own; Na'er sealed, NAE-02); the bowl grows; the nose tested and wrong once (two coppers) and vindicated in the grain house; the circle closes.
 - **Ch 4 — *A Thousand Times*:** canon ch 8–11; the forge arc beside his own winter — the wage (five coppers), the basket bought with it, the wrong jar sent back, the mooring read in fog; the second circle found.
 - **Ch 5 — *Three Winters*:** canon ch 12–15; the skip rendered honestly — **the record check prints nine**; the pot is his; the read becomes a trade (the crate walk, the refusal, the fishwife, the pier); Teacher Lin's letter and her late bill; the girl by the window has her say; the father's page; the tin; three winters without the cough. **(v2, same day: the three costed events and the three Na'er meetings landed; the numbers unchanged — LOG 028.)**
+- **Ch 7 — *The Refusal*:** canon ch 20–22 whole (the fusion; rank 11; Mang Tian — the ring, the vine, the four rings, the shine); the trade's **second night** — the pig refuses a clean hold in the second row, the dockman loses the buy, the fee is refused, and the standard lands (*walk it twice; bring the row and the reason*); the **reason found** on the boat's own boards (old blood under the tar; the watchman's hides); the family table's **two columns**; the tin **5 coins 80**, first loss line; the house's standing and web now on the page.
 - **Ch 6 — *Thirty Thousand*:** canon ch 16–19; **the spring tests print ten**; the fee from the tin; his father's errand to the same counter and the wall written into the clinic's book; the tin counted out loud (382) and the sums page's new law (*Then find it.*); the trade's first paid night-job at pier four — the hold read, the two grades, **two coins**, *"Bring the beast again."*; the week closes at **five coins and eighty-one coppers**.
 
 ## §13 · Seals standing (what may not be said or shown)
@@ -127,8 +137,8 @@ The spring week. The tests have printed his **ten** — *"Ten," Su Heng said*, o
 
 ## §15 · Residue — the next real moves
 
-1. **Ch 7 on his word only.** Default: canon SL3 **ch 20–22** (*Fusion* · *Rank 11 Soul Master* · *Teacher is also a Soul Master?*) — fetched live 2026-10-02 and held: the 24-hour clock, the fusion's gold (canon-own; unseen), rank 11, Mang Tian's four rings. Su Yan's side of that week unplanned until the word comes.
-2. **Obligations carried** (`BUTTERFLY_LEDGER`): ch 6 landed **C-01 · C-02 · C-03 · C-06**; standing **C-04 · C-05 · C-07** and the new **D-01…D-04** (the tin's column · the dockman's custom · the girl's list · the father's three lines).
+1. **Ch 7 shipped 2026-10-03** (LOG 032) — canon ch 20–22 whole; the OC week built on the day's two rulings (the house; R22). **Next: Chapter 8 on his word only** — default canon **SL3 ch23 onward**, fetched live at write-time.
+2. **Obligations carried** (`BUTTERFLY_LEDGER`): ch 7 advanced **D-02 · C-04 · C-07 · D-01 · B-08** and bore **E-01…E-04** (the dockman's standard · the taxed name · the two columns · the family web); standing **C-05 · D-03** and **E-01**'s first delivery-with-reason (owed on the page).
 3. **Refresh law:** this file is rebuilt from the chapter **the same turn the chapter ships** (drill 5c). No chapter ships with a stale panel.
 
 *End of the current truth. Everything above is the state as the pages left it; everything not above has not happened.*

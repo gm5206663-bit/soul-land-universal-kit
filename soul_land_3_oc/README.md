@@ -13,7 +13,7 @@ The world knows this soul. History wrote down what it cost the last man who carr
 ## Reading order
 
 1. `foundation/CANON_SPINE.md` — every canon fact this serial stands on, with sources (Luo Sanpao · Yu Xiaogang · the SL3 awakening · the ladder · the era).
-2. `bible/PROTAGONIST.md` — the spec lock: the boy, the family, the illness, the recovery, the reading.
+2. `bible/PROTAGONIST.md` — the spec lock: the boy, the family, the illness, the recovery, the reading · `bible/FAMILY_AND_HOUSE.md` — **the house of Su at its right scale (the author's ruling, 2026-10-03): the father's four rings, the mother's two, the web of relatives and friends, the money told honestly** (wins over older notes).
 3. `bible/ADAPTATION_MODULE.md` — the Talent's pre-awakening version (weak, spent on viability — the author's ruling, confirmed against the house's own master foundation and prior serial receipts), and the stronger post-awakening mode.
 3b. `bible/TRAINING_AND_DEVELOPMENT.md` — the training and development layer (the author's order): the canon speed stack, the household's real methods, the week's shape, and the chapter engine (R19).
 3c. `bible/PAIR_LEDGER.md` — the pair (Su Yan · Luo Sanpao): compatibility · synergy · understanding · growth, with the read-ladder and the three clocks (R20).
@@ -29,7 +29,7 @@ The world knows this soul. History wrote down what it cost the last man who carr
 
 ## The file set
 
-- **`chapters/`** — the story: Ch 1 *The Reading* · Ch 2 *The House and the Road* · Ch 3 *A Bowl and a Name* · Ch 4 *A Thousand Times* · Ch 5 *Three Winters* · Ch 6 *Thirty Thousand* (all shipped, receipted).
+- **`chapters/`** — the story: Ch 1 *The Reading* · Ch 2 *The House and the Road* · Ch 3 *A Bowl and a Name* · Ch 4 *A Thousand Times* · Ch 5 *Three Winters* · Ch 6 *Thirty Thousand* · Ch 7 *The Refusal* (all shipped, receipted).
 - **`canon_coverage/`** — the fidelity receipts: `INDEX.md` (method + index) plus one coverage doc per chapter (canon source, beat tables, handling notes, seals, metrics).
 - **`audits/`** — one post-ship audit per chapter (fidelity table, register numbers, seals, parity, verdict) plus `SELF_AUDIT_2026-10-02.md` — the line-check of the panels (H14).
 - **`bible/`** — the story's own law: `SU_YAN_STATUS` · `PROTAGONIST` · `RELATIONSHIPS` · `TIMELINE` · `CANON_CHARACTER_STATE` · `ADAPTATION_MODULE` · `SPIRITUAL_POWER_LEDGER` · `LUO_SANPAO_GROWTH_LEDGER` · `TRAINING_AND_DEVELOPMENT` · `PAIR_LEDGER` · `BUTTERFLY_LEDGER` · `WORLD_UNDERSTANDING` · `KNOWLEDGE_FIREWALLS` · `GROWTH_LOCKS` · `FIRST_RING_ACQUISITION` · `HOUSEHOLD_LEDGER`.
