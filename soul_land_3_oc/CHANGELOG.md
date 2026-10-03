@@ -2,6 +2,12 @@
 
 > **Purpose:** the readable history of this serial — what shipped, when, and where its receipts live. The serial's working log is `foundation/SERIAL_LOG.md`; this file is the whole road from the start of the rebuild, newest first. **The author's strikes are history, not shame** — kept because each one became a law (`foundation/MISTAKES_LEDGER.md`).
 
+## 2026-10-03 (the rebuild — Chapter 5 rewritten whole)
+
+- **Chapter 5 — *Three Winters* — rebuilt (v3):** every sentence of all three movements new; the ch 12–15 canon spine unskipped end to end (the classroom whisper and the exit rules, the changed boy, Lin Ximeng's last year, the examination chair's **nine**, the gate and the letter — *"I am late. That is mine to carry."*, the fishwife's *"Nine, is it."*, the father's examination and *The boy.* page, the office entry, the forge and the tungsten hammers, the counting to thirty thousand and two hundred, Na'er's seven-colored ring, the garden, the breakthrough, *"Test first. Then the Pagoda."*, the academy's ten, the beach); the OC track rebuilt whole (the house's trades, the tin's law, the fog run, the wrong read paid, the fishwife's law, the Hand and the escrow, the wonder law, the dockman's pier, the family meeting, the tap, the count ladder seven · four · *One rank to go.*). **14,226 body · ALL 10.1 / 8 / 0 · NARR 10.9 / 9 / 0 · 161 dialogue paras · CJK 0 · "the way" 0.**
+- **REGISTER §3 gained the ch 5 rows** (they were missing; now history + rebuild, as with ch 1–4).
+- **Next:** ch 6 and ch 7, same drill. Ch 8 remains on the author's word.
+
 ## 2026-10-03 (the rebuild — Chapter 4 rewritten whole)
 
 - **Chapter 4 — *A Thousand Times* — rebuilt (v2):** every sentence new; the ch 8 + 9 + 10 + 11 canon spine unskipped (the father's talk and the two roads, the trial of a thousand strikes and the golden trace unseen, the second round, the disciple's acceptance, the forging taught, the mother's tears, the girl's first smile and the promise, the adoption and the door-talk, the deep-of-night inspection, the morning's vow); the OC track rebuilt too (the first wage and its doctrine, the tin and the columns, the wrong jar, the pot's second stage, the three coins, the memorization hour, the forge story, the fog, the mooring read, the half-crate, the second circle, three stories). **9,819 body · ALL 9.3 / 8 / 0 · NARR 9.9 / 9 / 0 · 112 dialogue paras · CJK 0 · "the way" 0.**

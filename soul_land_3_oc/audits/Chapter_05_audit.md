@@ -57,3 +57,10 @@ LSP-10 (no gold on the soul) · R13/DRG-01 (no resonance beat spent) · NAE-02 (
 **Continuity repair (same day):** the harvest check no longer prints Wulin's ten — canon keeps him at the bottleneck until the graduation-year confirmation, which the chapter carries in full (the tenth, the seventh through the door, the letter, the stipend). The harvest exam now shows the same number twice with two meanings: his bottleneck holding; Su Yan's nine landing. Nothing else moved.
 
 **Seals:** LSP-10 · R13/DRG-01 · NAE-02 · R5 · Q-2 · no prices — all re-checked in the final text. **Verdict: PASS.**
+
+
+## 10 · Rebuild record (v3, 2026-10-03)
+
+Rebuilt whole under the rebuild law — all three movements new prose, no copied sentences; canon's short lines and the motif sentences kept, every other fact re-planted in fresh words. Measured final: **14,226 body words · ALL 10.1 / 8 / 0 · NARR 10.9 / 9 / 0 · 161 dialogue paras · CJK 0 · "the way" 0** (v2: 14,205 · 11.2 / 8 / 0). The verdicts above stand as that version's history. Continuity re-verified against ch 6 and ch 7 the same turn: the dockman sentence, the fishwife's law, *"the pig walks back"*, the tin and its columns, the father's page (*The boy*), the office entry, the tap line, *One rank to go.* Seals re-checked in the final text: LSP-10 · R13/DRG-01 · NAE-02 · R5 · Q-2 · no prices. **Verdict: PASS.**
+
+*Receipt: `tools/measure_sl3p.py` on the final body; coverage §10.*

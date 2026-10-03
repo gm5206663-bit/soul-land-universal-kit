@@ -42,6 +42,10 @@
 | Ch 3 — *A Bowl and a Name* (**v2 rebuild**, 2026-10-03) | 6,700 | 9.2 / 8 / 0 | 9.8 / 9 / 0 | 74 | 0 | 0 |
 | Ch 4 — *A Thousand Times* (v1, history) | 9,788 | 12.3 / 10 / 0 | 14.4 / 12 / 0 | 101 | 0 | 0 |
 | Ch 4 — *A Thousand Times* (**v2 rebuild**, 2026-10-03) | 9,819 | 9.3 / 8 / 0 | 9.9 / 9 / 0 | 112 | 0 | 0 |
+| Ch 5 — *Three Winters* (v2, history) | 14,205 | 11.2 / 8 / 0 | 12.4 / 9 / 0 | 152 | 0 | 1 |
+| Ch 5 — *Three Winters* (**v3 rebuild**, 2026-10-03) | 14,226 | 10.1 / 8 / 0 | 10.9 / 9 / 0 | 161 | 0 | 0 |
+| Ch 4 — *A Thousand Times* (v1, history) | 9,788 | 12.3 / 10 / 0 | 14.4 / 12 / 0 | 101 | 0 | 0 |
+| Ch 4 — *A Thousand Times* (**v2 rebuild**, 2026-10-03) | 9,819 | 9.3 / 8 / 0 | 9.9 / 9 / 0 | 112 | 0 | 0 |
 
 ## 4 · The header block (every chapter)
 
