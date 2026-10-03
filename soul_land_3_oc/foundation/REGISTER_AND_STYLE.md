@@ -40,7 +40,8 @@
 | Ch 2 — *The House and the Road* (**v2 rebuild**, 2026-10-03) | 5,570 | 9.0 / 7.5 / 0 | 9.0 / 7.0 / 0 | 63 | 0 | 0 |
 | Ch 3 — *A Bowl and a Name* (v1, history) | 6,881 | 13.6 / 9 / 0 | 15.6 / 12 / 0 | 70 | 0 | 0 |
 | Ch 3 — *A Bowl and a Name* (**v2 rebuild**, 2026-10-03) | 6,700 | 9.2 / 8 / 0 | 9.8 / 9 / 0 | 74 | 0 | 0 |
-| Ch 4 — *A Thousand Times* | 9,788 | 12.3 / 10 / 0 | 14.4 / 12 / 0 | 101 | 0 | 0 |
+| Ch 4 — *A Thousand Times* (v1, history) | 9,788 | 12.3 / 10 / 0 | 14.4 / 12 / 0 | 101 | 0 | 0 |
+| Ch 4 — *A Thousand Times* (**v2 rebuild**, 2026-10-03) | 9,819 | 9.3 / 8 / 0 | 9.9 / 9 / 0 | 112 | 0 | 0 |
 
 ## 4 · The header block (every chapter)
 

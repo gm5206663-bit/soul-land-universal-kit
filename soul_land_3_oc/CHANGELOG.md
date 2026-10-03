@@ -2,6 +2,12 @@
 
 > **Purpose:** the readable history of this serial — what shipped, when, and where its receipts live. The serial's working log is `foundation/SERIAL_LOG.md`; this file is the whole road from the start of the rebuild, newest first. **The author's strikes are history, not shame** — kept because each one became a law (`foundation/MISTAKES_LEDGER.md`).
 
+## 2026-10-03 (the rebuild — Chapter 4 rewritten whole)
+
+- **Chapter 4 — *A Thousand Times* — rebuilt (v2):** every sentence new; the ch 8 + 9 + 10 + 11 canon spine unskipped (the father's talk and the two roads, the trial of a thousand strikes and the golden trace unseen, the second round, the disciple's acceptance, the forging taught, the mother's tears, the girl's first smile and the promise, the adoption and the door-talk, the deep-of-night inspection, the morning's vow); the OC track rebuilt too (the first wage and its doctrine, the tin and the columns, the wrong jar, the pot's second stage, the three coins, the memorization hour, the forge story, the fog, the mooring read, the half-crate, the second circle, three stories). **9,819 body · ALL 9.3 / 8 / 0 · NARR 9.9 / 9 / 0 · 112 dialogue paras · CJK 0 · "the way" 0.**
+- **Ledger quotes refreshed** where v1's own wording had been the record (B-16/B-20/B-23 and coverage §9) — the facts are unchanged.
+- **Next:** ch 5 → ch 7, same drill. Ch 8 remains on the author's word.
+
 ## 2026-10-03 (the rebuild — Chapter 3 rewritten whole)
 
 - **Chapter 3 — *A Bowl and a Name* — rebuilt (v2):** every sentence new; the ch 5 + ch 6 + ch 7 canon spine unskipped (the foundling day: the roadside girl, the delinquents and the record, *"My name is Na'er."*, the wash, the biscuits, *"Five and a half."*, the office's empty record, the first meditation and *"It's already night."*, brave versus wise, the orphanage line and *"No!"*, Lang Yue's law, the divider); the OC track rebuilt too (the corner's wordless turn, the first closed circle, *"Your hands are right."*, the tap, the feeding economy's second stage, the nose priced and vindicated, *"The pig earns its bowl."*, three stories). **6,700 body · ALL 9.2 / 8 / 0 · NARR 9.8 / 9 / 0 · 74 dialogue paras · CJK 0 · "the way" 0.**

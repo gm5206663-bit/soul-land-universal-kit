@@ -44,3 +44,10 @@ Header block complete (canon ref, beats, dual track, seals, rows, receipts). Rec
 **PASS** — shipped, receipted, delivered to the author. Standing notes: (1) this chapter is the longest so far (four canon chapters; density consistent); (2) the first public measurement scene remains reserved for canon's own test chapters — the private curves keep moving off-page until then.
 
 *Receipt: final body measured post-edit at 9,788 w; matches coverage4 / LOG 020 / README / G12.*
+
+
+## 7 · Rebuild record (v2, 2026-10-03)
+
+Rebuilt whole under the rebuild law — new prose throughout, no copied sentences; the mandated canon lines and the motif sentences kept, all other v1 phrasings re-planted with their facts intact. Measured final: **9,819 body words · ALL 9.3 / 8 / 0 · NARR 9.9 / 9 / 0 · 112 dialogue paras · CJK 0 · "the way" 0** (v1: 9,788 · 12.3 / 10 / 0). The v1 measures and verdict above stand as that version's history. Continuity re-verified against ch 5–7 the same turn: the workshop and Mang Tian's disciple line (ch 5, ch 7), the tin and the columns (ch 5, ch 6, ch 7), the fog (ch 5), the memorization hour and Teacher Lin (ch 5), the second circle and the count (the close). Seals held: gold shown and unnamed, Na'er untouched, no print.
+
+*Receipt: `tools/measure_sl3p.py` on the final body; coverage §9.*
