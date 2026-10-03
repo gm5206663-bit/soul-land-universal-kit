@@ -462,7 +462,7 @@ The town noticed. The town noticed everything; it was the one talent it truly ha
 
 The nose also cost him money, once, which was the lesson he kept.
 
-Out of curiosity, on a market morning, he had let the pig's nose decide a purchase at the fish row. Two crates of fish ends. The pig's attention went to the left crate fast and hard, and the boy paid, feeling clever. The crate had been stored badly for two days, and it smelled the strongest because it was the worst. The fish went into the pot gray and came out gray, and two coppers went down the drain with it. His mother asked one question and did not need to ask two.
+Out of curiosity, on a market morning, he had let the pig's nose decide a purchase at the fish row. Two crates of fish ends. The pig's attention went to the left crate fast and hard, and the boy paid, feeling clever. The crate had been stored badly for two days, and it smelled the strongest because it was the worst. The fish went into the pot gray and came out gray, and two coins went down the drain with it. His mother asked one question and did not need to ask two.
 
 *The nose knows smells,* he wrote in the back of the book that night, in the terrible handwriting. *It doesn't know sums. The sums are mine.*
 

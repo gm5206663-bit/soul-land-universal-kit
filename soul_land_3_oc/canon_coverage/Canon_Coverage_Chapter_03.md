@@ -1,4 +1,6 @@
-# Canon Coverage — Chapter 3: A Bowl and a Name
+# Canon Coverage — Chapter 3
+
+> **Money (2026-10-03, G17):** re-denominated to **coins** — canon's own word; no copper tier.: A Bowl and a Name
 
 What this chapter puts **on the page** from the canon records, and what is ours. Canon chapters fetched live **2026-10-02** (wuxiaworld `ldk-chapter-5` *Na'er*, `ldk-chapter-6` *Bringing Her Home*, `ldk-chapter-7` *Stay here and be my little sister*) — every beat below traces to them. No long canon passages are copied; short canon lines are carried as this house carries them (chapters 1–2 precedent). Canon rows: `foundation/CANON_SPINE.md` FND-01..FND-07, NAE-01, WUL-02; register rows 32, 35.
 
@@ -62,7 +64,7 @@ What this chapter puts **on the page** from the canon records, and what is ours.
 | **The first closed circle** — the evening hour; the thread of warmth returns to itself, once, and then again; it keeps closing when he opens his eyes; he does not tell anyone | Staged; no print, no crossing | SP ledger §5 receipt; R19 |
 | **The tap exchange** — *"I have a pig."* / *"Mine's called Na'er."* / *"Luo Sanpao… that's a funny name."* / *"It's an old word."* | Staged | R12; motif (the tap, chapters 2–3) |
 | **The feeding economy's second stage** — the bigger bowl, the sums page filling, the broth as standing work; the coat catching the light; the small-hours pacing; the father's paper twist (half in the broth; it won't keep) | Staged, costed | D-07; LSP §4 addendum; R18/R19 |
-| **The nose tested** — the fish-row misread: two coppers lost to a crate that smelled strongest because it was worst; the margin-note lesson (*the nose knows smells; the sums are mine*) | Staged; the price paid on page | R20 (rung 3 opened); R14 |
+| **The nose tested** — the fish-row misread: two coins lost to a crate that smelled strongest because it was worst; the margin-note lesson (*the nose knows smells; the sums are mine*) | Staged; the price paid on page | R20 (rung 3 opened); R14 |
 | **The nose vindicated** — the grain house: the going sack in the back row; the second one found; a half bowl of milk by the stove, unprompted, from the father; **"The pig earns its bowl."** | Staged | R20; R15 (the grain house's own record) |
 | **The breakwater walks** — the pig's country; the harbor read by nose (crates, wind, which mooring held animals); the town's standing picture of the two of them | Staged | R20 (rung 2); R15 |
 | **The town's story at the Su table** — the repairman's boy, the silver-haired girl, the men, the office's silence, the family that kept her; the family's dry verdicts | Staged | R15; NAE-02 (a rumor only) |
@@ -73,7 +75,7 @@ What this chapter puts **on the page** from the canon records, and what is ours.
 - Teacher Lin's first sentence to him, three weeks in — *"Your hands are right." … "Keep them there."* — *"the longest sentence a teacher had spent on Su Yan."*
 - The noon tap neither boy arranged: *"You have a lot of friends." / "I have a pig." … "Mine's called Na'er." / "Mine's called Luo Sanpao."* (the one place both names are said aloud to another child; NAE-02 untouched — a habit, not a fact).
 - The breakwater habit becomes **"one of the town's standing pictures"** — the physician's boy and the purple pig at dusk — with the older boys' jokes running off him *"as he let the weather be weather."*
-- The nose's lesson, priced: the trusted crate, *"the fish went into the pot gray and came out gray, and two coppers went down the drain"*; his mother asked one question.
+- The nose's lesson, priced: the trusted crate, *"the fish went into the pot gray and came out gray, and two coins went down the drain"*; his mother asked one question.
 - The physician's paper twist on the counter — *"Half in the broth. It won't keep."* — medicine from a father who says nothing about why, and *"the pig ate that night with unusual ceremony."*
 - He passes the fish-row crowd on his errand (*"his feet stopped on their own"*) and carries nothing from it — deliberately closed (B-10): no witness role, no future claim.
 

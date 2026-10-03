@@ -49,7 +49,11 @@
 ## 4 · Word rules (short form)
 
 - **CJK 0 in prose.** Pinyin only ("Su Yan," "Luo Sanpao," "luo luo"). Annotations carry characters, prose never does. The brass plate reads **SU YAN** (ch1).
-- **Numbers:** game numbers (ranks, prices, ages, counts of things bought) take numerals — "rank 3," "two coppers," "five and a half"; lyric beats may spell small counts — "the fourth bowl." No stat-speak (see `POWER_LAW.md` §4).
+- **Numbers:** game numbers (ranks, prices, ages, counts of things bought) take numerals — "rank 3," "thirty coins," "five and a half"; lyric beats may spell small counts — "the fourth bowl." No stat-speak (see `POWER_LAW.md` §4).
 - **No modern register:** no "okay guys," no contractions-heavy modern slang beyond what the house voice already uses; children talk like children of this world.
 - **No invented era furniture:** communicators, cars, soul machines, mechas exist (canon); do not import anything the era lacks — and do not explain what it has.
 - **Capitalization of the world's titles** follows canon usage in the source text, once pinned here.
+
+- **Money (G17, 2026-10-03):** the unit is the **coin** — canon says coins (and *federal coins* at the Pagoda's counter: canon's own term). **No copper coins, no silver, no gold coins, and no invented exchange law.** Amounts are canon's own where canon prices them (30,000 / 70,000 / 1,000,000; the 1,000-coin stipend).
+- **Spirit souls (G16, 2026-10-03):** canon's institution — a spirit soul is what a Soul Master buys or gains, one soul can carry one ring or more, tool souls can be artificial, and every soul master of standing is written **with theirs** (Mang Tian: three, ch 22; the father: three; the mother: one).
+- **The bloodline (G14, 2026-10-03, sealed):** Luo Sanpao's bloodline is the **Golden Holy Dragon**; its three attributes are **fire · light (holy) · thunder**. **The words never appear in prose** until the author opens the window (LSP-10/11): on the page it is only ever felt.

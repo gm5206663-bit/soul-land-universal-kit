@@ -73,13 +73,13 @@
 ## 4. OC track — Su Yan's week ([design] on canon's ground)
 
 **Events that change values (R21):**
-1. **The trade's second night and its first loss.** The dockman's six-coin harbor; the pig refuses the whole hold in the second row; the hold is clean; the dockman loses the buy; the boy refuses the two-coin fee; the dockman's law lands: *"When he refuses, walk it twice. Bring me the row and the reason."* Cost: a copper of feed, a fee surrendered, and a **name taxed** — the harbor's doubt, stated on the page.
+1. **The trade's second night and its first loss.** The dockman's six-coin harbor; the pig refuses the whole hold in the second row; the hold is clean; the dockman loses the buy; the boy refuses the two-coin fee; the dockman's law lands: *"When he refuses, walk it twice. Bring me the row and the reason."* Cost: a coin of feed, a fee surrendered, and a **name taxed** — the harbor's doubt, stated on the page.
 2. **The reason found.** The father takes him back to the boat; the boards come up; old blood years in the wood under the tar; the watchman names the hides; the father's physician's law — *"A sign with no place is a rumor. A sign with a place is a case."* The boy's words: *"The name this time: hides. The wood keeps what happened in it."*
 3. **The two columns of the door.** The family table: the price column (town's) and the carry column (his); the house's law — the boy's road is the boy's, and no gamble ever buys his soul. The mother's season law and the tin's new law.
 
 **Reactions to him (canon people / the city):** the fishwife's two halves of the week's news; the room's sentence settling quieter; Wan Yunchao's *pig boy* retiring from use where the room can laugh; Teacher Lin's flat defense of the list; Mu Yun's question the whole corridor hears — *"So what was the pig telling you?"* — and her gift.
 
-**The house shown at standing (the author's ruling, executed):** the father's four rings and soul-vein practice in the clinic; the mother's two rings and the grain house; the relatives on the page — Grandmother Su and her packet; Uncle Su Rong on the harbor; Cousin Su Ran; the Zhou side at the counter — Grandfather Zhou Dehai, Uncle Zhou Anmin and the coin-law, Cousin Zhou Yuan's normal road; Fang Zheng the apprentice; Mang Tian as the house's old acquaintance.
+**The house shown at standing (the author's rulings, executed):** the father's four rings, **three spirit souls** and soul-vein practice in the clinic; **the mother's two rings and her one spirit soul**; the mother's two rings and the grain house; the relatives on the page — Grandmother Su and her packet; Uncle Su Rong on the harbor; Cousin Su Ran; the Zhou side at the counter — Grandfather Zhou Dehai, Uncle Zhou Anmin and the coin-law, Cousin Zhou Yuan's normal road; Fang Zheng the apprentice; Mang Tian as the house's old acquaintance.
 
 ## 5. Handling notes (the deliberate choices)
 
@@ -91,7 +91,7 @@
 
 ## 6. Seals, metrics, receipts
 
-- **File:** `chapters/Chapter_07_The_Refusal.md` — **10,308 body · ALL 11.5 / median 8 / 0 over 60 · NARR 12.1 / 11 / 0 · 130 dialogue paragraphs · CJK 0 · "the way" 0.**
+- **File:** `chapters/Chapter_07_The_Refusal.md` — **10,719 body · ALL 11.5 / median 8 / 0 over 60 · NARR 12.0 / 9 / 0 · 130 dialogue paragraphs · CJK 0 · "the way" 0.** *(Second pass, 2026-10-03: G14–G18 — the father's **three spirit souls** and the mother's **one** on the page (G16); money re-denominated to **coins** (G17); the pig's **felt** bloodline signs (fire-warmth, the lamp, the storm smell — never named, G14/LSP-11); the Talent shown as work (G15).)*
 - Receipts: `audits/Chapter_07_Audit.md` · `SERIAL_LOG` LOG 032 · `bible/SU_YAN_STATUS.md` · `bible/RELATIONSHIPS.md` · `bible/TIMELINE.md` · `bible/CANON_CHARACTER_STATE.md` · `bible/BUTTERFLY_LEDGER.md` · `bible/GROWTH_LOCKS.md` §6 · `foundation/MISTAKES_LEDGER.md` H17 · `README.md`.
 - **Canon share (parity, measured by segment):** canon **3,608** · OC **6,719** → **canon 34.9%** of the body.
 

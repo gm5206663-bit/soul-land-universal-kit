@@ -2,6 +2,18 @@
 
 > **Purpose:** the readable history of this serial — what shipped, when, and where its receipts live. The serial's working log is `foundation/SERIAL_LOG.md`; this file is the whole road from the start of the rebuild, newest first. **The author's strikes are history, not shame** — kept because each one became a law (`foundation/MISTAKES_LEDGER.md`).
 
+## 2026-10-03 (second half — the strike, executed)
+
+- **THE SECOND STRIKE (H18):** *"Why you don't update others All file… status panel still showing him level 9… Where is soul spirits… what is he doing three years and what adaption telent three years… his adaption telent is should stronger but you extremely Nerfed… that' have golden holy dragon bloodline… three attributes, fire, light/holy and thunder… Who saying to create so much original nonsense without reason… canon say coins… You completely make joke of three years to only level growth."*
+- **The state sweep:** rank **ten** everywhere it now stands (the panel contradicted itself: §1 said nine, §3 said ten — H13's cousin, fixed). `SU_YAN_STATUS` rebuilt at the fusion week: spiritual power **92** (unprinted), the tin at **five hundred and eighty coins**, the fusion week closed, the house's standing and web on the page.
+- **The bloodline (G14):** Luo Sanpao carries the **Golden Holy Dragon** bloodline; three attributes — **fire · light (holy) · thunder**; sealed in prose, filed in `CANON_SPINE` LSP-11.
+- **The Talent (G15):** strong, shown as work, never a mechanic — **and the boy is never written as Yu Xiaogang's road** (canon's numbers: Wulin's test 38 · the boy 92 · the counter's Soul Grandmaster 87).
+- **Spirit souls (G16):** canon's own shape — the father's **three** (two artificial needle-souls + a live water-snake) and the mother's **one**, on the page in ch 7.
+- **The three years (G18):** `bible/THREE_YEARS_LEDGER.md`; **ch 5 re-passed** — the kitchen, the cabinet, the day-book, the room's lists, the mind's two hours, the trade's laws.
+- **Money (G17):** **coins** only — copper, silver and gold tiers cut; ch 3–7 re-denominated; the invented coin-law gone.
+- **Re-denomination to canon's coins (G17) + the three-years pass (G18) + spirit souls on the page (G16), all recopied the same day:** ch 3–7 re-versioned; shelf recopy **62,294 → 63,209 words (63K)**, library **907K+**; search index + recaps + analytics refreshed; shelf commit **`e87d4f3`**. Chapter measures now: **4,263 / 5,677 / 6,881 / 9,788 / 14,205 / 11,278 / 10,719**.
+- **Grounding (G19/R23):** `bible/OC_ELEMENT_AUDIT.md` — every element filed under canon / author lock / house law / engine; the reasonless ones cut.
+
 ## 2026-10-03
 
 - **THE HOUSE RULING (the author):** his words on the father, the mother, and the missing relatives → `bible/FAMILY_AND_HOUSE.md` written; every panel corrected. The house of Su is a soul-master house: **Su Heng — four rings, Soul Ancestor, the city's physician**; **Zhou Hui — two rings, the Zhou grain house**; the web of grandparents, uncles, aunts, cousins and friends on the page from ch 7. (MISTAKES **H17**.)

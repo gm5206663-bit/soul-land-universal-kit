@@ -64,3 +64,13 @@ No system, screen, or voice · no canon knowledge · no futures · no automatic 
 ## 6 · Ledgers (live)
 
 `bible/SPIRITUAL_POWER_LEDGER.md` · `bible/LUO_SANPAO_GROWTH_LEDGER.md` — truth and receipts. This module is the law; **R14 · R15 · R16** are the enforcement.
+
+## 7 · THE AUTHOR'S RULING (2026-10-03) — the Talent stands STRONG (G15)
+
+> Verbatim: *"his adaption telent is should stronger but you extremely Nerfed, what the hell and angle you comparing to yu xiao zeng there is heaven and earth difference."*
+
+1. **The Talent is not a footnote, and it is not weak.** The "spent on survival / not that strong before the awakening" framing is **retired** as a register. What actually happened is the opposite reading of the same facts: **it kept a child alive for six years while his soul-veins failed** — which is a feat, not a deficit. Nothing else in the story does that.
+2. **After the awakening it is stronger still** (the author's founding lock), and it does not announce itself: it takes what it meets. The kitchen, the cabinet, the ledger, the pot, the day-book, the room's lists, the hold — one meeting each (`bible/THREE_YEARS_LEDGER.md` is its receipt file).
+3. **The Yu Xiaogang rule:** this boy is **never written as that road.** Yu Xiaogang is canon's scholar who stalled at 29 for thirty years; the difference here is **heaven and earth**, grounded on canon's own numbers — the canon test printed **38** for Wulin at ten; the boy stands at **92**; the counter's Soul Grandmaster at **87**. The pair's ceiling was historical, not fated (`PAIR_LEDGER`), and the prose must never frame the boy as history repeating.
+4. **How it shows:** as **work and consequence**, never as a mechanic, never as a readout, never as a voice. Behaviour-is-the-receipt (R16). Every chapter must show at least one thing the Talent made possible — a page learned once, a hand that does a professional's work, a body that answers.
+5. **Nothing about it may be nerfed to keep canon comfortable.** Where canon's people are slower, the difference is shown in **their** reactions, not in his speed being cut.

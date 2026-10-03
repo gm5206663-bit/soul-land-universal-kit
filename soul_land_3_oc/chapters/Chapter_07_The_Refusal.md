@@ -4,7 +4,7 @@
 
 The Su house woke before the sun did.
 
-Fang Zheng opened the clinic shutters before dawn. He was sixteen, the clinic's apprentice, and he had been opening those shutters for two years. He swept the counter, set out the mortar, and put the small stove under the water pot. By the time the lane was grey, the clinic was ready, and the house behind it was awake.
+Fang Zheng opened the clinic shutters before dawn. He was sixteen, the clinic's apprentice. He had been opening those shutters for two years. He swept the counter, set out the mortar, and put the small stove under the water pot. By the time the lane was grey, the clinic was ready, and the house behind it was awake.
 
 Su Heng came down with his sleeves rolled. He was forty-seven years old. He was the city's physician, and he was a Soul Ancestor with four rings, which in Glorybound meant two things: he was the first man of his trade, and he was one of the strongest people in the city. He never said either fact out loud. He did not need to.
 
@@ -18,7 +18,7 @@ Su Heng put two fingers on the inside of the wrist. Then he let out his soul pow
 
 Four rings of light came up around him and turned slowly. One white, two yellow, and a purple. The room did not become loud. It became still, which is what real power does in a small room.
 
-The four rings were not for show. His martial soul came with them: a long, bright silver needle that appeared between two fingers of his right hand, thin as a splinter of ice.
+The four rings were not for show, and neither was what came out with them. Three spirit souls sat in the room like three small patients. Two of them were needles: made to order, artificial, a tool-soul pair a craftsman had grown for him the way a cabinetmaker makes a chair. The third was alive. It was a long grey water-snake out of the harbor's own ditches, a hundred years old and patient as a ledger. It hunted what it liked and came back when it liked. His martial soul came with the rings: a long, bright silver needle that appeared between two fingers of his right hand, thin as a splinter of ice.
 
 "Hold still," he said. "This will be warm."
 
@@ -26,7 +26,7 @@ The needle went in at the wrist. The old man flinched and then let his breath go
 
 At the back table, Su Yan stood at the mortar and watched the whole thing. He had watched it a hundred times. He still came to the doorway every time his father released his rings.
 
-His father had done the same work on him, six years ago. That was the whole story of the house, and nobody told it out loud. The boy's soul-veins had failed at birth. For six years, this room and this needle had fought for him, and the needle had lost again and again.
+His father had done the same work on him, six years ago. That was the whole story of the house. Nobody told it out loud. The boy's soul-veins had failed at birth. For six years, this room and this needle had fought for him, and the needle had lost again and again.
 
 "Open and close the fingers," Su Heng said.
 
@@ -44,7 +44,7 @@ Su Heng did not answer that. He looked at his son, who was nine, and who had bee
 
 The house behind the clinic was already running.
 
-Zhou Hui sat at the long table with the ledger open and the morning light on it. She was forty-four. She was the daughter of the Zhou grain house, whose warehouses had fed this city for three generations. She had also been a soul master once: two rings, earned before she was nineteen.
+Zhou Hui sat at the long table with the ledger open and the morning light on it. She was forty-four. She was the daughter of the Zhou grain house, whose warehouses had fed this city for three generations. She had also been a soul master once: two rings, earned before she was nineteen, and one spirit soul of her own, a small yellow-crested bird she had bought with her first year's wage at the counter. It slept on the ledger's corner and woke whenever money moved.
 
 The lane still remembered those two rings. The lane also remembered the winter she stood in her own doorway with the ledger under her arm and read a cheating delivery man off the street with one sentence, and it never tried her twice. When she chose the ledger over the ladder, her family had not complained. She was the best pair of eyes the grain house had ever grown.
 
@@ -56,7 +56,9 @@ The pig came in from the yard on its own time, which was always late. Luo Sanpao
 
 "Three ladles," the boy said. "You worked the market yesterday. Today you walked nothing, so it is two. Two, and the fish ends from last night."
 
-The pig made the small noise it made for the number three. Nobody in the family had ever worked out how it knew numbers. The boy gave it three. The pig's labor was real, and the house paid its staff.
+The pig made the small noise it made for the number three. Nobody in the family had ever worked out how it knew numbers. The boy gave it three. The pig's labor was real. The house paid its staff.
+
+There were other things about the pig that the house had long ago agreed to live with. It stayed warm through the fog seasons, when the air off the water was cold enough to crack the wash basin, and the second winter of the sickness the boy had slept against its back and needed one blanket instead of three. It would not go near an open lamp, and once, when a pot lid fell flat and the stove spat, the fur along its spine stood up and the room smelled briefly of a storm that was three days off. And in four years it never once put a foot on the herb rows, though the rows were the softest ground in that yard and a snout is a snout. The house called that manners. The boy, who had watched it longer than anyone, had stopped calling it anything at all.
 
 Two lanes over, his father's mother kept the old Su house with the boy's uncle and aunt. Grandmother Su came by on wash days. She had kept a paper packet of the boy's combings through all six sick years, one lock for every season, and she still brought it out to check his hair against it. "The roots are thicker," she said every time. "That is the whole of my medicine."
 
@@ -64,7 +66,11 @@ The boy had an uncle on his father's side too: Su Rong, who worked the harbor's 
 
 Then the boy went out to the yard and did his practice set, the one his father had built from four years of watching him. Breath, slow. Hold, down to the count. Then the wall: three lengths, twice, the second one without stopping at the end. Then the crock: a half-full water jar carried from the yard wall to the kitchen door and back, eight times, with no noise from the water. His mother could hear it from the kitchen. She had ears like an abacus.
 
-When he finished, he stood in the yard and looked at the sky over the harbor. He was nine years old and at rank ten, and the door those two facts opened cost thirty thousand coins.
+When he finished, he stood in the yard and looked at the sky over the harbor.
+
+The practice set had taken him one season. The herb cabinet had taken one season more, and by the end of it he could stand at the counter with his eyes shut and name every jar on the wall by the smell it kept when the lid came off. The ledger took a winter: three columns, the clinic's and the household's and the one with his own name at the top of it. He read a page once and kept it, and after that his father handed him the book at the counter the way a man hands a tool to another man. Nobody in the house had ever said the word for what that was. They had decided the year he turned seven that they were not going to, and they had kept to it.
+
+He was nine years old and at rank ten, and the door those two facts opened cost thirty thousand coins.
 
 ---
 
@@ -76,7 +82,7 @@ He had cried on Na'er's shoulder a long time. When it was over, he lifted his he
 
 She shook her head hard. Twice.
 
-He looked down at the spirit soul ball in his hands. Inside it, the little Grass Snake was turning slowly in the light. Its eyes were cloudy, and there was fear in them that it could not name.
+He looked down at the spirit soul ball in his hands. Inside it, the little Grass Snake was turning slowly in the light. Its eyes were cloudy. There was fear in them that it could not name.
 
 "Go out first, Na'er," he said. "I want to fuse with this one."
 
@@ -98,11 +104,11 @@ She went out, because he asked her to. The door closed softly behind her.
 
 A spirit soul in its shell is not much of a body. Wulin's finger went right through the shell's wall. The Grass Snake felt the touch and uncoiled and wound itself once around his finger. It put out its little forked tongue, as if to lick him.
 
-He lifted it to his face. It was ten centimeters long and no thicker than his little finger. Its eyes were cloudy and unfocused, and the fear in them was simple and animal. It did not want to die.
+He lifted it to his face. It was ten centimeters long and no thicker than his little finger. Its eyes were cloudy and unfocused. The fear in them was simple and animal. It did not want to die.
 
 In twenty-four hours, if nobody fused with it, that was exactly what would happen. It would die as a creature dies. It would not be a thing put away on a shelf.
 
-He released his soul power into his palm. The faint blue halo came, and the Bluesilver Grass slid out into his hand. It was a thin, dark blade, the thickness of a hair.
+He released his soul power into his palm. The faint blue halo came. The Bluesilver Grass slid out into his hand. It was a thin, dark blade, the thickness of a hair.
 
 The Grass Snake climbed onto the grass. The soft blue light of the blade met it, and a faint earthen ring of light rose out of the snake's small body and hung in the air.
 
@@ -110,7 +116,7 @@ Then something touched his mind. It was small and warm and frightened, and under
 
 He opened his soul and let it in.
 
-The snake's mind was too weak to fight him. Wulin's spiritual power had reached the intermediate level of the Spirit Origin realm, and that was more than enough for a creature like this. The fusion took hold at once, and he closed his eyes and went into it.
+The snake's mind was too weak to fight him. Wulin's spiritual power had reached the intermediate level of the Spirit Origin realm, and that was more than enough for a creature like this. The fusion took hold at once. He closed his eyes and went into it.
 
 He did not notice his knees give way. He did not notice the floor.
 
@@ -134,7 +140,7 @@ The gold spread out of his back and through his skin. It ran over his arms and l
 
 The grass changed where the line ran. It had been soft. It gained a spine. Its dull surface took on a gloss, like water on stone in the evening, and a faint blue halo moved under the skin of it, and through the middle went the gold.
 
-The heat changed after a while. It left his bones and turned into a numbness that crawled. It ran down his four limbs and through every bone of him, as if a thousand small insects were walking inside his body. He could not move. He could not make a sound. His mind stayed clear through all of it, and the clearness made every minute worse. At the worst of it, he wished for the furnace back.
+The heat changed after a while. It left his bones and turned into a numbness that crawled. It ran down his four limbs and through every bone of him, as if a thousand small insects were walking inside his body. He could not move. He could not make a sound. His mind stayed clear through all of it. The clearness made every minute worse. At the worst of it, he wished for the furnace back.
 
 If the Soul Master at the Pagoda had put the helmet over his head in that hour, the cabinet would have written down something worth a paper. His spiritual power was rising the whole time. It climbed under the pain as a man's voice climbs when he holds a door shut.
 
@@ -142,7 +148,7 @@ Then that passed too. The cloudiness left the Grass Snake's small eyes, and they
 
 Later, the sweat dried on him. Under his shirt, the gold pattern had gone past the skin and into his body, and it lay there, thin and patient, where no one would see it for a long time.
 
-Nobody had seen any of it. He was alone on the floor of his room, face down, breathing slowly. He slept where he lay. Outside the window the morning market opened, and the town went on with its day.
+Nobody had seen any of it. He was alone on the floor of his room, face down, breathing slowly. He slept where he lay. Outside the window the morning market opened. The town went on with its day.
 
 ---
 
@@ -180,7 +186,7 @@ He lifted his head suddenly. "Na'er. How long has he been at it?"
 
 Na'er thought for a moment, then nodded, and stepped out of the doorway.
 
-The spirit soul ball lay on the floor beside the bed, open and empty. Wulin was asleep on his back with his clothes soaked in sweat, and his face was calm. Tang Ziran put two fingers on his son's wrist out of pure habit, and counted, and the count came back normal, and he let out the breath he had been holding for four hours.
+The spirit soul ball lay on the floor beside the bed, open and empty. Wulin was asleep on his back with his clothes soaked in sweat. His face was calm. Tang Ziran put two fingers on his son's wrist out of pure habit, and counted, and the count came back normal, and he let out the breath he had been holding for four hours.
 
 Then he gathered his son up against his shoulder and cried without making any noise. "I am sorry," he said into his hair. "Your father is sorry. Nine years old, and you already carry this house, and today I sat you down in front of a counter and showed you a wall."
 
@@ -190,7 +196,7 @@ Na'er stood beside the bed and watched. Her pretty purple eyes went strange for 
 
 Wulin woke in the evening.
 
-He sat up before he was fully back in the world. The first thing he noticed was that his body was light. His clothes were clean; someone had changed him without waking him. When he breathed, the breathing felt good, as if his chest had been widened while he slept.
+He sat up before he was fully back in the world. The first thing he noticed was that his body was light. His clothes were clean. Someone had changed him without waking him. When he breathed, the breathing felt good, as if his chest had been widened while he slept.
 
 He put a thought to his soul power and it answered at once, like a full well answering a rope. He knew the feeling from the night he crossed into rank ten, and this was bigger. He sat still and let it be true.
 
@@ -202,11 +208,11 @@ He threw both arms out to feel himself.
 
 *Pa!*
 
-The sound came out of the air of the room like a small balloon popping. It was not a clap. It was the room itself, and it had not been there yesterday.
+The sound came out of the air of the room like a small balloon popping. It was not a clap. It was the room itself. It had not been there yesterday.
 
 He stared at his hands.
 
-The door opened before he could do it again, and the room filled with people.
+The door opened before he could do it again. The room filled with people.
 
 "Son! Son, are you all right?"
 
@@ -228,7 +234,7 @@ Lang Yue's tears came again. Her son had learned to talk like a man who comforts
 
 Tang Ziran let out a long breath. The money was on the table behind him, under a bowl. It would stay there. Telling the boy now would only make the wound worse. Some arithmetic a man learns late, and keeps to himself.
 
-Mang Tian had listened to all of it without moving. Now he spoke, and his voice filled the room as his arms filled his sleeves.
+Mang Tian had listened to all of it without moving. Now he spoke. His voice filled the room as his arms filled his sleeves.
 
 "Rank eleven," he said. "Bring out your martial soul. I want to see it."
 
@@ -247,7 +253,7 @@ The yellow light of the snake showed first. The little Grass Snake rode the air 
 
 It came out as a vine.
 
-It was as thick as a boy's finger and it did not stop. It unrolled off his hand and looped around the lamp and came back down to the floor and spread. In a moment the little room had a grey-green net in it, and the net was him. He could feel every centimeter of it, as he could his own fingers. Where the vine touched the wall, the wall came back to him. Where it touched his mother's coat, the coat came back to him. And along the whole length of it came a small, bright feeling of happiness that was not his, which was the snake's, glad to be out of the dark and out in the world on the end of his arm.
+It was as thick as a boy's finger and it did not stop. It unrolled off his hand and looped around the lamp and came back down to the floor and spread. In a moment the little room had a grey-green net in it. The net was him. He could feel every centimeter of it, as he could his own fingers. Where the vine touched the wall, the wall came back to him. Where it touched his mother's coat, the coat came back to him. And along the whole length of it came a small, bright feeling of happiness that was not his, which was the snake's, glad to be out of the dark and out in the world on the end of his arm.
 
 He stood in the middle of it and understood something for the first time. This was what people meant when they said a Soul Master was not like other men.
 
@@ -257,7 +263,7 @@ Mang Tian walked forward and took hold of a length of the vine.
 
 He pulled it out straight, as a man tests a rope. His hands had been in iron thirty years. They had bent cold metal with grip alone.
 
-The grass came out of his hands straight and smooth and fine, and it did not snap.
+The grass came out of his hands straight and smooth and fine. It did not snap.
 
 Mang Tian held the length up to the lamp and read it as he read metal. "Don't be discouraged," he said. "The soul is nothing much. But you are a real Soul Master now, and that means your soul power has room to grow. Soul power is useful in every trade. Ten thousand years ago the first soul tools came out, and the first people who bought them were the Soul Masters whose martial souls were not worth much. It was soul power that drove them. It is the same way with mechas now. A smith with soul power can feel the metal down in his fingers and strike twice as true. A Mecha Master with a weak martial soul and a steady arm is not a joke."
 
@@ -271,7 +277,7 @@ Mang Tian stopped. He looked down at his own feet. Then he reached down and pick
 
 He did not speak. He took a fresh length of the vine in both fists and pulled.
 
-Thirty years of iron came down the vine, and the vine straightened and held.
+Thirty years of iron came down the vine. The vine straightened and held.
 
 "Your Bluesilver Grass is a bit abnormal."
 
@@ -291,7 +297,7 @@ Wulin stared with his back against the vine.
 
 The ladder he had climbed did not end where he had thought it ended. Rank zero to ten were Scholars. Eleven to twenty were Masters. After that, every ten ranks had its own name and its own country: Soul Grandmaster, Soul Elder, Soul Ancestor, Soul King, Soul Emperor, Soul Sage, and Soul Douluo at the top of the world. And at the very top, with nine rings, stood the Titled Douluo.
 
-His forging master had four rings. He was a Soul Ancestor, and the little room in the repairman's lane was holding him.
+His forging master had four rings. He was a Soul Ancestor. The little room in the repairman's lane was holding him.
 
 Three spirit souls appeared on Mang Tian's shoulders.
 
@@ -299,7 +305,7 @@ The first was small and weak: a tiny white rabbit, crawling around his shoulder 
 
 The third was purple. It was a brown bear about a meter tall, with two arms thicker than a man's leg. It bared its teeth and jumped up onto the master's shoulder and looked around the room as if it wanted a job.
 
-Then Mang Tian called his martial soul, and a hammer appeared in his hand.
+Then Mang Tian called his martial soul. A hammer appeared in his hand.
 
 It had a dim white glow and it looked exactly like the hammer he worked with every day, with deep brown vein lines running over it like roots.
 
@@ -343,7 +349,7 @@ Su Yan looked up from his book.
 
 "The counter costs thirty thousand coins." "That is the draw. The shelf above it is seventy thousand, and the shelf above that is a million. My house has the numbers written in a clinic book. I have seen the page."
 
-The room went still. It was the wrong answer for winning, and the right one for everything else.
+The room went still. It was the wrong answer for winning. The right one for everything else.
 
 "So the pig boy stays a pig boy," Wan Yunchao said, and his grin had gone thin at the edges.
 
@@ -427,7 +433,7 @@ He took the page and read it as the family read pages, top to bottom, twice.
 
 The uncle grunted, which in that family was a compliment. Then he called back through the doorway. "Father. The boy is here with a page."
 
-Grandfather Zhou came out of the back room. He was seventy-two and moved like a man who had once carried sacks and now carried nothing heavier than the ledger he had run for forty years. He had made the rule the town still used: a hundred coppers makes a coin.
+Grandfather Zhou came out of the back room. He was seventy-two and moved like a man who had once carried sacks and now carried nothing heavier than the ledger he had run for forty years. He had run the grain house's book for forty years, and he had one rule for a page: it is worth only what a second pair of eyes can read.
 
 "Show me," he said.
 
@@ -439,7 +445,7 @@ The boy put the page on the counter. The grandfather read it slowly, moving one 
 
 "And what does the column say now, at the bottom?"
 
-"Five coins, eighty coppers," the boy said. "It went down a copper this month. There is a line for it."
+"Five hundred and eighty coins," the boy said. "It went down one coin this month. There is a line for it."
 
 The grandfather looked at him for a long moment, and his eyes were not soft and were not unkind. "The page of a man goes up and down, boy. The book of a house only goes down when something is learned. Your mother taught you that too, I think."
 
@@ -461,21 +467,21 @@ He stood at the counter with his hat in his hands, as he had stood there once be
 
 "You came to me last time with a night boat as well," Su Heng said.
 
-"This one stands to lose me six coins," the dockman said. "And how the pier watches, more than the coins."
+"This one stands to lose me six hundred coins," the dockman said. "And how the pier watches, more than the coins."
 
 The boy had come to the counter. He did not say anything, because his father had not looked at him yet. But the dockman had. The dockman's eyes went to him once, briefly, as a man checks that his best tool is still on the shelf.
 
-"Six coins," the boy said. "And what do you make if the hold is clean?"
+"Six hundred coins," the boy said. "And what do you make if the hold is clean?"
 
 "Twelve, and my name, which is worth more."
 
 The boy did the arithmetic slowly, as his father taught: once in his head, and then again.
 
-"Then two coins," he said.
+"Then two hundred coins," he said.
 
 The dockman put his hat on.
 
-"Two coins," he said. "Pier four. Be there when the lanterns go up."
+"Two hundred coins," he said. "Pier four. Be there when the lanterns go up."
 
 When the man had gone, Su Heng looked at his son for a while. Then he opened the small book and wrote the day down, and the boy knew the entry had gone under the page that said *The boy*, and that he might read it one day or might not, and either was the same.
 
@@ -513,7 +519,7 @@ The salt boat sat low and full at the end of the boards. Two of the seller's men
 
 The dockman hung his lantern on the same hook as last time.
 
-"Same job as the other night," he said. "The whole hold, papers say one grade. The man wants thirty coins for it. One grade, and it is worth fifty."
+"Same job as the other night," he said. "The whole hold, papers say one grade. The man wants three thousand coins for it. One grade, and it is worth five thousand."
 
 "And if it is not?"
 
@@ -543,7 +549,7 @@ The dockman waited.
 
 The seller's man took the cigarette out of his mouth. He looked down the pier at the dockman, at a boy, at a fat grey pig sitting on a shoe, and he laughed the honest laugh of a man who has just been handed a gift.
 
-"Two coppers off the price for the entertainment," he said. "Well? Do you still want thirty? Or does the animal carry your purse now?"
+"Two hundred coins off the price for the entertainment," he said. "Well? Do you still want three thousand? Or does the animal carry your purse now?"
 
 The other side of the water's clerk watched from the rail and did not smile. He was doing the arithmetic of an event his morning had not planned for.
 
@@ -589,13 +595,13 @@ The boy stood at the end of the boards with his hands at his sides and did not l
 
 Then he walked to the middle of the pier, where the dockman was standing with his purse already out.
 
-"Two coins was the fee," the dockman said.
+"Two hundred coins was the fee," the dockman said.
 
 "No."
 
 "It was agreed."
 
-"A coin was agreed for a walk," the boy said. His voice held steady. He had not expected that. "The walk bought you nothing. You lost the hold because of what I told you, and if I cannot pay you twelve coins, then I pay the only coin I have, which is that you keep yours."
+"A hundred coins was agreed for a walk," the boy said. His voice held steady. He had not expected that. "The walk bought you nothing. You lost the hold because of what I told you, and if I cannot pay you twelve hundred coins, then I pay the only coin I have, which is that you keep yours."
 
 The dockman looked at him a long time.
 
@@ -605,7 +611,7 @@ Then he put the purse away, slowly, and stood with his hands on his hips and loo
 
 "Sir."
 
-"Listen now, because I will say this once." The dockman turned and looked down at him. There was no kindness being wasted and no cruelty being saved. "Half this pier came down to watch your pig last night. That is what a name is. Last week your name was worth a coin and a good sentence from me. Last night your name cost me a buy, and the whole harbor watched it. The harbor will tell that story at the auction house and in the chandlery and at the fish row by supper. Men will still hire you. They will just watch the pig instead of trusting it, and the money will come slower. That is the tax on a wrong reading, and every name in this harbor has paid it once."
+"Listen now, because I will say this once." The dockman turned and looked down at him. There was no kindness being wasted and no cruelty being saved. "Half this pier came down to watch your pig last night. That is what a name is. Last week your name was worth a hundred coins and a good sentence from me. Last night your name cost me a buy, and the whole harbor watched it. The harbor will tell that story at the auction house and in the chandlery and at the fish row by supper. Men will still hire you. They will just watch the pig instead of trusting it, and the money will come slower. That is the tax on a wrong reading, and every name in this harbor has paid it once."
 
 "So here is the one thing I want out of last night. When he refuses, walk it twice. Bring me the row and the reason. A no with a place and a name is a reading. A no with nothing behind it is a priest's word, and I do not pay priests to walk my holds. Can you do that?"
 
@@ -625,15 +631,15 @@ Then she looked at his face, which had learned something in the night, and she d
 
 That morning, before the market, the boy wrote in the back of his practice book, in the page that held the columns earned, spent, and left:
 
-*Night walk, refused. Fee unpaid by my own refusal. Feed, one copper.*
+*Night walk, refused. Fee unpaid by my own refusal. Feed, one coin.*
 
-*Left: five coins, eighty coppers.*
+*Left: five hundred and eighty coins.*
 
 Under that he wrote, because the page did not lie and he did not lie to it:
 
 *The reason: unknown.*
 
-Then he washed his face and ate his breakfast and went to school like any other boy on any other day, with one copper less in a tin and a question riding on his back.
+Then he washed his face and ate his breakfast and went to school like any other boy on any other day, with one coin less in a tin and a question riding on his back.
 
 ---
 
@@ -707,7 +713,7 @@ The boy read the page. He read the columns as his mother had taught him, earned 
 
 His father read the page twice, top to bottom, as he read everything. Then he put it down flat.
 
-"Five coins, eighty coppers," he said. "The page went down a copper this month, and the reason column went up by a whole case. Sit down, both of you. The table has two more things on it, and I will say them once each."
+"Five hundred and eighty coins," he said. "The page went down one coin this month, and the reason column went up by a whole case. Sit down, both of you. The table has two more things on it, and I will say them once each."
 
 The boy sat. His mother did not move, because she had been sitting as a fact for an hour.
 
@@ -729,7 +735,7 @@ The mother reached over and drew the practice book to her side of the table. She
 
 She closed the book. She pushed it back across the table to her son, square, with her two hands, as she pushed the ledger when a season's sum had been stood on and was finished.
 
-"Good," she said. "The tin went down a copper and the house is standing. Show me the season's page at the turn, and I will tell you whether the craft is worth more than the arithmetic. That is all I will say about it."
+"Good," she said. "The tin went down one coin and the house is standing. Show me the season's page at the turn, and I will tell you whether the craft is worth more than the arithmetic. That is all I will say about it."
 
 Later that night, when the boy had gone up and the pig had gone to the clinic's outer door, Su Heng stayed at the table with the big book open at the page that began with the two words.
 
@@ -759,7 +765,7 @@ By the end of the week the two sentences were traveling the same lanes and had b
 
 At school, the six names stayed on the wall, and the room's sentence about Su Yan settled into its next shape, which was quieter than the last one and had more listening in it. Wan Yunchao stopped saying pig boy where the room could laugh. Teacher Lin's class kept its hour. Mu Yun's name stayed one line above his, and neither of them moved it.
 
-And in the tin by the bed of a nine-year-old reader of holds, the money sat at five coins and eighty coppers, one copper fewer than the week before. In the back of the practice book the column of losses had its first line, written small and clean, and next to it a case, and next to that a new law.
+And in the tin by the bed of a nine-year-old reader of holds, the money sat at five hundred and eighty coins, one coin fewer than the week before. In the back of the practice book the column of losses had its first line, written small and clean, and next to it a case, and next to that a new law.
 
 The walk was refused. The boat was clean. The reason was not for sale.
 

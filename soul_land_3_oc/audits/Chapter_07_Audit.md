@@ -1,5 +1,7 @@
 # Chapter 7 — Post-Ship Audit — *The Refusal*
 
+> **Second pass, 2026-10-03 (G14–G18 · H18):** measures now **10,719 body · ALL 11.5 / median 8 / 0 over 60**; the father's **three spirit souls** and the mother's **one** on the page (G16); all money in **coins** (G17); the Talent shown as work (G15); the pig's bloodline felt, never named (G14/LSP-11); the state panels swept (rank **ten**).
+
 > **Shipped:** 2026-10-03 · `chapters/Chapter_07_The_Refusal.md` · receipts: coverage7 · LOG 032 · the panel set refreshed the same turn. **Two author rulings of the same day are executed here:** the **house ruling** (*"What is his father, a 4 ring soul' master and physician and only one son… his mother is also not be normal… many more family and friends and relative"*) and the **clear-prose ruling** (*"Why you can't write clear and clean that can understand like canon"* → **R22**).
 
 ## 1 · Fidelity — canon ch20–22
@@ -27,7 +29,7 @@
 - **Father:** four rings, Soul Ancestor, rank 46, Silver Needle — **shown on the page in the clinic scene**, plus one plain narrated line of standing. Nothing in chapters 1–6 contradicts it (his rings were never shown there).
 - **Mother:** two rings, Soul Grandmaster, Golden Millet, the Zhou grain house — **stated plainly**; her law and her ledger as before.
 - **Relatives:** Grandmother Su and the combings packet · Uncle Su Rong at the harbor's weighing station · Cousin Su Ran · Grandfather Zhou Dehai and the coin-law · Uncle Zhou Anmin at the counter · Cousin Zhou Yuan's normal road · the apprentice Fang Zheng · Mang Tian and Physician Qiu as the working circle (`bible/FAMILY_AND_HOUSE.md` is the source file; it wins over older notes).
-- **Money:** re-scaled — a four-ring physician's practice, savings eaten by six sick years; the wall (30,000/70,000/1,000,000) still decades of this house; **the tin is the boy's own road, not the family's last copper.**
+- **Money (G17, re-denominated 2026-10-03):** one unit — **coins** (copper/silver/gold tiers and the invented exchange law cut). A four-ring physician's practice grosses ~3,000–4,000 coins a month and saves a few hundred; the wall (30,000/70,000/1,000,000) is most of a year of the practice's whole income and years of what the house can put by; **the tin is the boy's own road, not the family's last coin.**
 
 ## 4 · Seals
 

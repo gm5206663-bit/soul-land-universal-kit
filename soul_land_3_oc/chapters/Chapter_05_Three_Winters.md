@@ -22,6 +22,14 @@ The clinic's law came that winter too. A woman paid for a tincture and left too 
 
 He counted the change back himself, in front of the woman, slow, like a lesson being served to two people. The woman left with her correct change and her eyebrows up. The boy went and found a tin in the storeroom, the small dented one that had held cough drops. He set it by his bed that night. The change he did not take went in. It was a thin start. It was his.
 
+That winter the house taught him its trades, the way a working house teaches anything: by having work in it and handing him some.
+
+His mother taught him the kitchen first. He learned the pot, and then the other pots. He learned which cut of the fish row was worth a coin and which cut was a coin thrown away, and he learned it in one market morning, which she never mentioned again. By the end of the winter he could feed four people out of what the lane called nothing.
+
+His father taught him the outer room of the clinic. The cleaning of the tools. The grinding. The boiling of the bark. The order the jars went back on the wall, which was never an accident. By the end of that winter the boy could name the whole cabinet with his eyes shut. Put a jar under his nose in a dark room and he could tell you what it was for and what it cost.
+
+Nobody in the house made a story out of it. The house had one word for the whole of it, and the word was *useful*.
+
 At school, Teacher Lin ran the room as she ran it every year.
 
 "Hands. Straight back. Breathe down and in. Now hold it."
@@ -156,7 +164,7 @@ A crate man off the harbor road flagged him down at the row — a thin, worried 
 
 He put his hand on the middle crate. "I bought the lot off a man I don't know, and I don't like his face in my memory."
 
-The boy looked at the crate. The crate man. The fee in the man's other hand — two coppers. An evening saved on the wall.
+The boy looked at the crate. The crate man. The fee in the man's other hand — two coins. An evening saved on the wall.
 
 The pig walked the row. It went slowly, past the first crate, past the second. Then it stopped. Two steps short of the third crate it sat down with its ears back and its face turned away.
 
@@ -204,7 +212,7 @@ Winter two. Age eight.
 
 The winter the trade grew up, the fishwife gave the boy its law.
 
-She gave it at her scale, in the flat voice of a woman who had watched every kind of trade in that street for thirty years. She gave it the day he came for the family basket with a crate man's copper already in his pocket.
+She gave it at her scale, in the flat voice of a woman who had watched every kind of trade in that street for thirty years. She gave it the day he came for the family basket with a crate man's coin already in his pocket.
 
 "Does the pig read for money now?"
 
@@ -230,7 +238,11 @@ The rules of the house he got from his father, at the counter, written on the sl
 
 In the practice book's sums page, the boy ruled a new column that winter. The old columns were the clinic's. The household's, and his own thin one. The new column had no name at the top for two weeks. Then he wrote, small, because small was how he wrote the things that mattered: *the pig's column.*
 
-The pig's column earned a copper a walk that winter, and sometimes two. The walks arrived as the fishwife had said they would, by their own feet. The crates' owners did the asking.
+The pig's column earned a coin a walk that winter, and sometimes two. The walks arrived as the fishwife had said they would, by their own feet. The crates' owners did the asking.
+
+He kept the clinic's day-book that winter, for a week at first, when his father was out on the calls; and when the week was good, the book stayed his, which is how the house had always promoted people.
+
+The other change that winter was quieter, because it had no name. The room's lessons stopped being a matter of listening. When Teacher Lin read out a thing, once, it was his: the whole of it, in the place he would need it later. She noticed in the second month and began to check him first. By the spring she had stopped checking him at all, because the checking took time away from the children who still needed it.
 
 The pot went to its third stage that winter. The base stayed the same — the grain, the ends, the bowl that was his to fill — and the change was the bones: boiled down to nothing over the whole afternoon, until the water went thick and pale and cost nothing at all. The creature's coat came up under the boy's hand like something brushed, and the boy wrote the change in the sums page under the pot's column, and that was the whole ceremony.
 
@@ -298,11 +310,11 @@ The crate men paid the boy the escrow. The fishwife looked at the boy over the s
 
 Then she raised his rate, without being asked, and told him why, flatly, so that the whole row heard it.
 
-"Half of them think you're lucky. Lucky is a thing that runs out. A street that is waiting for you to run out will squeeze you a copper at a time. A man's rate for a man's work. Now they can't say luck has a price. Luck is free. You are not."
+"Half of them think you're lucky. Lucky is a thing that runs out. A street that is waiting for you to run out will squeeze you a coin at a time. A man's rate for a man's work. Now they can't say luck has a price. Luck is free. You are not."
 
 ---
 
-The cost of that spring was not paid in coppers.
+The cost of that spring was not paid in coins.
 
 It came in small coins, all season, out of the town's pockets.
 
@@ -318,7 +330,7 @@ Nothing about it was said cruelly, either. It was said as weather is said.
 
 At school, the room's file on him moved a line for the first time since the brass plate. Wan Yunchao tried a new version, testing it on a Tuesday.
 
-"Hey. Everyone says your pig's got a demon in it. Two coppers to look?"
+"Hey. Everyone says your pig's got a demon in it. Two coins to look?"
 
 Su Yan considered the question with the seriousness he gave all questions.
 
@@ -429,6 +441,12 @@ The boy four rows back heard all of it and wrote none of it down anywhere. It wa
 There was a change in the Tang boy that year, everybody could see it. He had gone from small to not-small as grass goes up in a wet summer — a head taller than he had been. The handsomeness arriving on him early, the popularity arriving with it as it arrives for children who are strong and do not use it. He was popular as the sun is popular. Nobody had to decide anything.
 
 He still wore the oil-soaked work clothes. That never changed. Three years of the forge had gone into his shoulders, his grip, and his stance. The town had stopped reading the clothes as poverty and started reading them as *that boy who works.*
+
+That was also the winter he stopped pretending the two hours were like other children's two hours, though he never once said so out loud to anyone.
+
+When he sat the circle, the noise of the day went quiet. The hour went where he aimed it. A page he had read in the afternoon was still in his hand at night, whole, word for word, and it did not cost him anything to hold it there. His body answered the work faster than the work deserved: the run to three lengths, the crate under one arm, the fever winters behind him that had never once come back.
+
+He did not have a word for why, and the house had agreed not to go looking for one. His father's medicine and his mother's pot and the two hours a night were enough of an explanation for a lane that had watched him die slowly for six years and had then watched him not die. Whatever the rest of it was, he paid it the same respect he paid his father's trade. He kept it honest, and he did not brag with it.
 
 And the whole school had long since stopped being surprised by the two of them at the gates: the grass boy and the silver-haired girl. The lollipop and the schoolbag, morning and evening, every single day.
 

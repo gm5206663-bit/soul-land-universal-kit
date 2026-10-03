@@ -1,4 +1,6 @@
-# Chapter 5 audit — *Three Winters*
+# Chapter 5
+
+> **Second pass, 2026-10-03 (G17 money · G18 three years · R22):** the skip re-passed — the learning and the Talent's work now on the page (the kitchen, the cabinet, the day-book, the room's lists, the two hours); every copper re-denominated to **coins**; body **14,205** · ALL 11.2 / median 8 / 0 over 60. audit — *Three Winters*
 
 > **Post-ship audit (2026-10-02).** Sources: `chapters/Chapter_05_Three_Winters.md`; `canon_coverage/Canon_Coverage_Chapter_05.md`; canon fetched live the same day (`legend-of-the-dragon-king/ldk-chapter-12…15`); the ledgers as committed with this chapter.
 

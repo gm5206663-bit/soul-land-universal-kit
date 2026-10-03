@@ -25,13 +25,13 @@
 
 | Chapter (ours) | Canon block | Coverage doc | Audit | Status |
 |---|---|---|---|---|
-| **Ch 1 — The Reading** | SL3 ch1–ch2 (awakening · the walk home · the four bowls) | `Canon_Coverage_Chapter_01.md` | `audits/Chapter_01_audit.md` | **shipped, receipted** |
-| **Ch 2 — The House and the Road** | SL3 ch3–ch4 (the hundred-thousand answers · the class decision · first day · the nine ranks named) | `Canon_Coverage_Chapter_02.md` (+ reconciliation note, LOG 018) | `audits/Chapter_02_audit.md` | **shipped, receipted** |
-| **Ch 3 — A Bowl and a Name** | SL3 ch5–ch7 (the Rice-Bucket day · the roadside child · *"My name is Na'er"* · the office · the meditation · the wisdom lesson · *"stay and be my little sister"*) | `Canon_Coverage_Chapter_03.md` | `audits/Chapter_03_audit.md` | **shipped, receipted (6,881 w)** |
-| **Ch 4 — A Thousand Times** | SL3 ch8–ch11 (the forge arc: the spirit-soul talk · the trial · the disciple · the astonishing recovery) | `Canon_Coverage_Chapter_04.md` | `audits/Chapter_04_audit.md` | **shipped, receipted (9,788 w)** |
-| **Ch 5 — Three Winters** | SL3 ch12–ch15 (the three-year skip: the classroom · the tungsten hammers · the thirty thousand · the tenth rank · the beach) | `Canon_Coverage_Chapter_05.md` | `audits/Chapter_05_audit.md` | **shipped, receipted (12,602 w)** |
-| **Ch 6 — Thirty Thousand** | SL3 ch16–ch19 (the beach's answer · the Pagoda's wall · the spiritual-power test · the random draw · the Grass Snake and the twenty-four hours) | `Canon_Coverage_Chapter_06.md` | `audits/Chapter_06_audit.md` | **shipped, receipted (11,275 w)** |
-| **Ch 7 — The Refusal** | SL3 ch20–ch22 (the fusion · the gold that no one sees · rank 11 · Mang Tian's four rings · the grass that will not tear) | `Canon_Coverage_Chapter_07.md` | `audits/Chapter_07_Audit.md` | **shipped, receipted (10,308 w)** |
+| **Ch 1 — The Reading** | SL3 ch1–ch2 (awakening · the walk home · the four bowls) | `Canon_Coverage_Chapter_01.md` | `audits/Chapter_01_audit.md` | **shipped, receipted** — **4,263 w** |
+| **Ch 2 — The House and the Road** | SL3 ch3–ch4 (the hundred-thousand answers · the class decision · first day · the nine ranks named) | `Canon_Coverage_Chapter_02.md` (+ reconciliation note, LOG 018) | `audits/Chapter_02_audit.md` | **shipped, receipted** — **5,677 w** |
+| **Ch 3 — A Bowl and a Name** | SL3 ch5–ch7 (the Rice-Bucket day · the roadside child · *"My name is Na'er"* · the office · the meditation · the wisdom lesson · *"stay and be my little sister"*) | `Canon_Coverage_Chapter_03.md` | `audits/Chapter_03_audit.md` | **shipped, receipted (6,881 w)** — **6,881 w** |
+| **Ch 4 — A Thousand Times** | SL3 ch8–ch11 (the forge arc: the spirit-soul talk · the trial · the disciple · the astonishing recovery) | `Canon_Coverage_Chapter_04.md` | `audits/Chapter_04_audit.md` | **shipped, receipted (9,788 w)** — **9,788 w** |
+| **Ch 5 — Three Winters** | SL3 ch12–ch15 (the three-year skip: the classroom · the tungsten hammers · the thirty thousand · the tenth rank · the beach) | `Canon_Coverage_Chapter_05.md` | `audits/Chapter_05_audit.md` | **shipped, receipted (14,205 w)** |
+| **Ch 6 — Thirty Thousand** | SL3 ch16–ch19 (the beach's answer · the Pagoda's wall · the spiritual-power test · the random draw · the Grass Snake and the twenty-four hours) | `Canon_Coverage_Chapter_06.md` | `audits/Chapter_06_audit.md` | **shipped, receipted (11,270 w)** |
+| **Ch 7 — The Refusal** | SL3 ch20–ch22 (the fusion · the gold that no one sees · rank 11 · Mang Tian's four rings · the grass that will not tear) | `Canon_Coverage_Chapter_07.md` | `audits/Chapter_07_Audit.md` | **shipped, receipted (10,719 w)** |
 
 ## 4 · Standing fidelity notes
 

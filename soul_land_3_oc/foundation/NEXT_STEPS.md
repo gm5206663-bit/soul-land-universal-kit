@@ -52,7 +52,7 @@
 
 ## CH 7 PLAN (SHIPPED 2026-10-03 — LOG 032; kept for the record)
 
-**Spine:** canon **SL3 ch20–22** (*Fusion* · *Rank 11 Soul Master* · *Teacher is also a Soul Master?*) — fetched live, on page whole, in order. **OC parallel:** the trade's second night (six-coin harbor; the refusal; the fee refused; the dockman's standard) · the reason found on the boat's own boards · the family table's two columns. **Rulings executed the same day:** the **house ruling** (`FAMILY_AND_HOUSE`) and **R22** (canon-clear prose). Ship: `chapters/Chapter_07_The_Refusal.md` — **10,308 · 11.5/8/0 · "the way" 0**; coverage7 · audit7.
+**Spine:** canon **SL3 ch20–22** (*Fusion* · *Rank 11 Soul Master* · *Teacher is also a Soul Master?*) — fetched live, on page whole, in order. **OC parallel:** the trade's second night (six-coin harbor; the refusal; the fee refused; the dockman's standard) · the reason found on the boat's own boards · the family table's two columns. **Rulings executed the same day:** the **house ruling** (`FAMILY_AND_HOUSE`) and **R22** (canon-clear prose). Ship: `chapters/Chapter_07_The_Refusal.md` — **10,719 · 11.5/8/0 · "the way" 0**; coverage7 · audit7. **Second pass the same day (G14–G19 · H18):** the father's three spirit souls and the mother's one (G16); money in coins (G17); the Talent shown as work (G15); the bloodline felt, never named (G14); the state panels swept to rank **ten**.
 
 ## CH 8 PLAN (draft — awaiting the author's go)
 

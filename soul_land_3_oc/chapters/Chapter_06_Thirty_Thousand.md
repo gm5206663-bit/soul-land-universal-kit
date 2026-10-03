@@ -34,7 +34,7 @@ Na'er watched them from the doorstep. Her pretty face was doing something that d
 
 The other boy's morning started with a count.
 
-The tin sat between the bowls. His mother had set it there herself. It was a thing she did once a year. The household's arithmetic needed to be touched with hands and not with a pen. She took the lid off and turned the tin over on the cloth. The coins came out in one copper waterfall, and then she did not count them. She looked at the boy.
+The tin sat between the bowls. His mother had set it there herself. It was a thing she did once a year. The household's arithmetic needed to be touched with hands and not with a pen. She took the lid off and turned the tin over on the cloth. The coins came out in one clattering waterfall, and then she did not count them. She looked at the boy.
 
 "Count it," Zhou Hui said.
 
@@ -44,7 +44,7 @@ He counted. He counted twice. Then he said the number, because in this house the
 
 "Good."
 
-She reached over and took thirty back from the pile, and laid the rest into the tin again. She set the thirty aside in a little twist of paper. "The tests cost money. Thirty coppers is what they cost. That money is bought and paid and not to be thought about again."
+She reached over and took thirty back from the pile, and laid the rest into the tin again. She set the thirty aside in a little twist of paper. "The tests cost money. Thirty coins is what they cost. That money is bought and paid and not to be thought about again."
 
 "Yes, Mother."
 
@@ -556,7 +556,7 @@ His mother brought the ledger of the house. She sat with her two hands flat on e
 
 He emptied the tin on the cloth. He counted it once. Then he counted it again, out loud, in a voice that did not hurry. His mother had taught him years ago that the second count was the honest one.
 
-"Three hundred and eighty-two coppers."
+"Three hundred and eighty-two coins."
 
 "Good."
 
@@ -576,9 +576,9 @@ Su Heng turned the little book around so that the table could read it. The three
 
 He did the sum as his father had taught him to do sums. Slowly, in his head. Then out loud, in the daylight. A number said out loud in this house was a number that could be stood on.
 
-"A hundred coppers makes a coin in this town, and has since Grandfather's time. So the tin is three coins. Three coins, and eighty-two coppers left over."
+"Three hundred and eighty-two coins. Counted twice, then said out loud."
 
-"Three coins," his mother said, and let the table hold the number for a moment, as she let the pot hold a boil. "Against seventy thousand for a bought soul, or thirty for the gamble. Well. There it is."
+"Three hundred and eighty-two," his mother said, and let the table hold the number for a moment, as she let the pot hold a boil. "Against seventy thousand for a bought soul, or thirty thousand for the gamble. Well. There it is."
 
 Nobody at the table said anything for a while. Outside, a cart went past. Somebody's chickens complained, and the sun went on doing its rounds of the afternoon with its usual indifference to the market.
 
@@ -586,7 +586,7 @@ Then the boy did the thing that made the room take his weight. It was the reason
 
 He picked up the pencil and wrote one more line under his father's three, in his own hand, in his own page:
 
-*30,000 ÷ one year of the tin = the whole of my life. So the tin is not the road. Find the road.*
+*30,000 ÷ one year of the tin = a hundred and fifty years. So the tin is not the road. Find the road.*
 
 His mother read it upside down, which was how she read most things. She did not smile, because she never did, and her eyes did anyway.
 
@@ -594,13 +594,13 @@ Su Heng looked at the line for a long time. Then he took the pencil and added th
 
 *Then find it.*
 
-"The sum is wrong somewhere," he said, to the table. "I have been sitting with it since the Pagoda. A coin a week would be thirty thousand weeks of this house. Thirty thousand weeks is not a road, it is a joke. This house does not pay the wall in jokes. So the wrong part of the sum is what we think a read is worth. What did the dockman pay you for one night's walk of a manifest?"
+"The sum is wrong somewhere," he said, to the table. "I have been sitting with it since the Pagoda. The tin gains two hundred coins in a good year. Thirty thousand coins is a hundred and fifty good years. A hundred and fifty years is not a road, it is a joke. This house does not pay the wall in jokes. So the wrong part of the sum is what we think a read is worth. What did the dockman pay you for one night's walk of a manifest?"
 
 "Nothing. He paid me in a sentence. He said his pig had better manners than most men he owes money to."
 
 "Then he paid you in the wrong currency, and you were too young to know it, and now you are ten."
 
-His father closed the little book and tapped it once, flat, like a man closing a case. "The harbor's money is not in coppers, boy. Tonight a man paid you nothing for a read that saved him a boat's worth of trust. Tomorrow a man who stands to lose three of your coins for one bad crate will pay you one of them for a night of your pig. And he will think himself lucky. And a man who stands to lose three hundred will pay thirty. There are a hundred such men within a day's walk of this table."
+His father closed the little book and tapped it once, flat, like a man closing a case. "The harbor's money is not the kind you carry, boy. Tonight a man paid you nothing for a read that saved him a boat's worth of trust. Tomorrow a man who stands to lose three of your coins for one bad crate will pay you one of them for a night of your pig. And he will think himself lucky. And a man who stands to lose three hundred will pay thirty. There are a hundred such men within a day's walk of this table."
 
 "And the wall costs thirty thousand," the boy said.
 
@@ -656,9 +656,9 @@ The father looked at his son. The son looked at his father. He understood. The n
 
 "What does the load stand to lose you?" the boy asked the dockman, "if it is wrong?"
 
-The dockman looked at him a while. "Truth? If I buy that hold on the seller's word and it is a wrong hold, I lose three coins. And a season of face, which is worse. If it is right and I buy right, I make six."
+The dockman looked at him a while. "Truth? If I buy that hold on the seller's word and it is a wrong hold, I lose three hundred coins. And a season of face, which is worse. If it is right and I buy right, I make six hundred."
 
-"Then a coin," the boy said.
+"Then a hundred coins," the boy said.
 
 The man put his hat on.
 
@@ -734,13 +734,13 @@ The smell came out of it and stood in the morning like a verdict read aloud.
 
 The seller talked, and the dockman let him talk, and then paid for the front four rows and not one crate behind them. The seller's face went through the arithmetic and arrived at the truth. He looked down the pier and found the boy at the end of it, with the pig beside him. He gave them both a long, level look that boys remember and men keep.
 
-"You said it would be two grades," the dockman said, counting coins out of his purse into the boy's hand. "It is two grades. That is a coin for the walk."
+"You said it would be two grades," the dockman said, counting coins out of his purse into the boy's hand. "It is two grades. That is a hundred coins for the walk."
 
-The coin went across, warm from the purse. Then the dockman did something the pier did not expect, which was to add a second coin on top of it. "And that one is not for the walk. That one is for the first time I have ever seen a hold read to the row. Bring the beast again."
+The coins went across, warm from the purse. Then the dockman did something the pier did not expect, which was to add another hundred on top of it. "And that one is not for the walk. That one is for the first time I have ever seen a hold read to the row. Bring the beast again."
 
-The boy looked at the two coins in his hand. He thought, briefly and hard, as his father had taught him. Then he did the honest thing.
+The boy looked at the two hundred coins in his hand. He thought, briefly and hard, as his father had taught him. Then he did the honest thing.
 
-"A coin was agreed. The second one was not."
+"A hundred coins was agreed. The second one was not."
 
 "No," the dockman said, "it wasn't. Keep it anyway. The day I start paying boys only what I agreed, boys stop telling me what I need to hear."
 
@@ -758,13 +758,13 @@ His mother looked at him for a long moment. She had stood in this doorway once b
 
 The pig ate like a magistrate, twice, as the law required. Before he slept, the boy wrote two lines in the sums page, in a hand that had spent the night learning a trade.
 
-*Night boat, hold read — two coins.*
+*Night boat, hold read — two hundred coins.*
 
-Then, under it, honest as his father had taught him: *Feed, two extra ladles — one copper.*
+Then, under it, honest as his father had taught him: *Feed, two extra ladles — one coin.*
 
-Then the total, which was the thing the page existed for: *Left: five coins, eighty-one coppers.*
+Then the total, which was the thing the page existed for: *Left: five hundred and eighty-one coins.*
 
-Two hundred coppers of the road, in the tin.
+Two hundred coins of the road, in the tin.
 
 ---
 
@@ -774,7 +774,7 @@ The market said it over the fish: the physician's boy was at ten. The tea stand 
 
 "We are still richer than most."
 
-And the tin went to five coins and eighty-one coppers inside one market week. It had held three coins and a table of change on the afternoon the price was spoken. It was the first time in the history of that page that the column had moved for a reason worth the ink.
+And the tin went to five hundred and eighty-one coins inside one market week. It had held three hundred and eighty-two on the afternoon the price was spoken. It was the first time in the history of that page that the column had moved for a reason worth the ink.
 
 The number was ten. The door was thirty thousand. The first coins were in the tin.
 

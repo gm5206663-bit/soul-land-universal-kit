@@ -24,7 +24,7 @@
 
 ## 4 · What the arc will owe (when it comes)
 
-1. **The nine ranks first** — each with its scene; no skips (R14/GROWTH_LOCKS §3).
+1. **The nine ranks first — DONE** (ch 3–6: the plate's one → nine at the graduation check → ten at the spring tests; each rank with its scene, no skips — R14/`GROWTH_LOCKS` §3). **The road now stands at the door:** a spirit soul first (bought; the wall is written into the clinic's book), then the ring.
 2. **The threshold scene** — the bottleneck at rank 10 rendered as the era renders it, not as a stat tick.
 3. **The choice and the price** — route chosen on page; the household's arithmetic shown; nothing free.
 4. **The acquisition scene** — per canon mechanics (re-verified at write-time), with the aftermath canon demands.

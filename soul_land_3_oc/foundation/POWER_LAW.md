@@ -15,7 +15,8 @@
 
 - Rank is counted in tens; **rank 10 = the era's first threshold** — a soul ring / spirit soul (canon ch4: *rank 10 → Soul Master*). Every tenth rank after that is a bottleneck.
 - **Titles:** the era's ladder runs in the canon's own names; **write "Titled Douluo"**, never "Title Douluo" (canon ch4 spelling). Fuller title table pins at first use from the source.
-- **This boy's current step:** innate **1** — nine ranks to the first threshold. Nine ranks is the whole early road; each rank earns its scene.
+- **This boy's current step:** innate **1**; **rank ten reached** (the spring tests, ch 6). The count that began *nine ranks to go* (ch 3–5) reached zero. The next step is a **spirit soul** — canon's own institution, bought, priced, and refused to be rushed — and then the first ring. Each rank still earns its scene.
+- **The Talent (author's ruling, G15, 2026-10-03):** the **Adaptation Talent stands strong** — it is not a footnote and not a slow study. It kept a failing body alive six years, and it takes what it meets: the kitchen, the cabinet, the ledger, the page, the hold. **Shown as work, never as a mechanic.** And the comparison is banned: **this boy is not Yu Xiaogang's road.** Grounded on canon's own numbers — the canon test printed **38** at ten; the boy stands at **92**; the counter's Soul Grandmaster at **87** — the difference is heaven and earth, and it is *earned* (six years of strain, three winters of the two-hour night).
 
 ## 3 · Measurement doctrine (R14, in force)
 

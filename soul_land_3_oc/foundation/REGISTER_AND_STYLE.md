@@ -78,3 +78,12 @@
 9. **The self-test:** read the paragraph aloud. If any sentence needs a second read to parse, rewrite it before ship.
 
 **The gate stays numeric** (§3: ALL avg ≤ 12, median ≤ 8, 0 over 60, dialogue-forward) — R22 is the *reason* behind the numbers, not a replacement for them.
+
+## 8 · R22-b — the housekeeping laws that came with the 2026-10-03 strike (H18)
+
+1. **A state row is not narrative.** When a chapter ships, **every current-state number in every file is re-checked against the page the same turn** — the panel that wins most obviously (`SU_YAN_STATUS`), then `GROWTH_LOCKS`, `POWER_LAW`, `PAIR_LEDGER`, `FIRST_RING_ACQUISITION`, `TRAINING_AND_DEVELOPMENT`, `SPIRITUAL_POWER_LEDGER`, `TIMELINE`, `CANON_CHARACTER_STATE`. A file that contradicts itself on a rank is a **strike waiting to happen**.
+2. **Money speaks canon's word: coins.** No copper, silver, or gold tiers; no invented exchange laws (G17).
+3. **A soul master is written with their spirit souls** (G16).
+4. **A skip is never only a rank line** (G18): show what was learned and what the Talent did.
+5. **The Talent is shown as work** — and the boy is never written as Yu Xiaogang's road (G15).
+6. **No original element without a stated reason** (R23 · `bible/OC_ELEMENT_AUDIT.md`).

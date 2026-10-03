@@ -1,4 +1,6 @@
-# Canon Coverage — Chapter 5, *Three Winters*
+# Canon Coverage — Chapter 5
+
+> **Re-passed 2026-10-03 (the author's three-years ruling, G18; H18):** the skip now carries **what the boy learned and what the Talent did** — the kitchen and the throw-away lesson, the whole herb cabinet by nose, the clinic's day-book, the room's lists answered once and kept, the mind's two hours at night, the trade's laws from the fishwife, the father and the pier. Money re-denominated to **coins** (G17). Body now **14,205** · ALL 11.2 / median 8 / 0 over 60., *Three Winters*
 
 > **Chapter:** `chapters/Chapter_05_Three_Winters.md` (12,602 w body · ALL 17.3/13/**0 over 60** · NARR 19.2/16/0 · dialogue paras 97 · CJK 0 · "the way" 2 at cap). **Canon:** SL3 **ch12 (*Three Years Later*)**, **ch13 (*Thousand Refined Tungsten Hammer*)**, **ch14 (*Enough Money at Last*)**, **ch15 (*10th Rank*)** — fetched live and read in full 2026-10-02 (`wuxiaworld.com/novel/legend-of-the-dragon-king/ldk-chapter-12…15`; slug note: the novel slug is `legend-of-the-dragon-king`, not `soul-land-3-…`). **Adapted on page, in order, unskipped.**
 

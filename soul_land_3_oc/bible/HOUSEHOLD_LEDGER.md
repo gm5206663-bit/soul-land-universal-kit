@@ -17,11 +17,11 @@
 | ch 2 → | **The broth** — bones, fish ends, water, a long low simmer; the boy's standing evening work | weekly | ch 2–3 text |
 | ch 2 → | **Grain-house seconds** — sold to the family at the counter (the mother's line) | weekly | ch 2 text; register row 36 |
 | ch 2 → | **Clinic trimmings** — the father's offering to the bowl; never discussed | as the clinic produces them | ch 2–3 text |
-| ch 3 | **Two coppers** — the fish ends bought on the nose alone; the smell that was the worst crate; the loss paid | 2 coppers, once; margin note kept | ch 3 text |
+| ch 3 | **Two coins** — the fish ends bought on the nose alone; the smell that was the worst crate; the loss paid | 2 coins, once; margin note kept | ch 3 text |
 | ch 3 | **The herb twist** — dried slices left by the pot; *"Half in the broth. It won't keep."* | drawn from the clinic's stores, uncosted on page | ch 3 text |
 | ch 3 | **Half a bowl of milk, unprompted** — the father's vote, after the grain house | per event, unpriced | ch 3 text |
-| ch 4 | **The first wage** — a rest day in the clinic: counting, grinding, packets; *"For the day's work. Not for being the son."* | 5 coppers, paid by the father | ch 4 text |
-| ch 4 | **The basket bought with his own wage** — fish heads and fins for the pot; counted in the new page column (earned · spent · left); the bowl now pays part of itself | 3 coppers, once and weekly-ish | ch 4 text |
+| ch 4 | **The first wage** — a rest day in the clinic: counting, grinding, packets; *"For the day's work. Not for being the son."* | 5 coins, paid by the father | ch 4 text |
+| ch 4 | **The basket bought with his own wage** — fish heads and fins for the pot; counted in the new page column (earned · spent · left); the bowl now pays part of itself | 3 coins, once and weekly-ish | ch 4 text |
 | ch 4 | **The broth at two ladles** — the pot's second stage (skim, cracked lid, the bone's hour, the herb at the end) | weekly | ch 4 text |
 | ch 5 | **The weekly wage page** — the father pays by the week now; three columns in the back of the practice book (*earned · spent · left*), kept honest | weekly; figures not printed | ch 5 text |
 | ch 5 | **The read's first earnings** — the crate walk's fish ends, the fishwife's standing question, the dockman's pier; the creature's labour enters the household's food line | in kind, then small coin; not printed | ch 5 text |

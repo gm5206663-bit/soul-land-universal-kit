@@ -13,6 +13,7 @@ That is the house Su Yan was born into: **a good name, a real income, a father t
 ## 2 · Su Heng — the father
 
 - **Age** 47 · **martial soul** Silver Needle (tool-type, support line) · **rings**: white · yellow · yellow · purple · **rank 46 — Soul Ancestor**.
+- **Spirit souls — three (G16; canon's own shape: Mang Tian, ch 22, carries three with four rings).** Two **needles, made to order, artificial** — canon's rule that tool-souls can be artificial ("made to order, like a chair from a cabinetmaker") — and one **live thing**: a hundred-year grey water-snake out of the harbor's own ditches, patient as a ledger, which hunts what it likes and comes back when it likes. Shown on the page in ch 7, at work in his own clinic.
 - **Trade:** the city's physician. Souls, bodies, deliveries, poisons, harbor work, academy fees. His specialty is **soul-vein injury** — the trade's own hard cases. He is called to the Pagoda, to the academy, and to boats.
 - **Manner:** quiet, exact, unhurried. He says one sentence where others say five, and the sentence lands. He keeps records instead of making promises. He bows once, correctly, and never twice.
 - **Standing in the room:** when Su Heng releases his rings, rooms get quiet. He does it for work, not for show.
@@ -23,6 +24,7 @@ That is the house Su Yan was born into: **a good name, a real income, a father t
 ## 3 · Zhou Hui — the mother
 
 - **Age** 44 · **martial soul** Golden Millet (plant-type, growth/support) · **rings**: two — **rank 23, Soul Grandmaster**; innate power 3; she stopped climbing at nineteen, on purpose.
+- **Spirit soul — one (G16):** a small yellow-crested bird she bought with her first year's wage at the counter; it sleeps on the ledger's corner and wakes whenever money moves. On the page in ch 7.
 - **House:** daughter of the **Zhou grain house**, whose warehouses have fed the city for three generations. She was the sharpest ledger her family ever kept, and the grain house's accounts passed to her hands before she was twenty. She chose the counter over the ladder. The family has never once complained.
 - **She is not an ordinary woman and the lane knows it.** The lane remembers the winter she stood in her own doorway with the ledger under one arm and read a cheating delivery man off the street in one flat sentence. Nobody has cheated the Su house twice. Two rings, a ledger, and eyes like an abacus.
 - **Manner:** flat, total, sparing. Her silence does the work other people's shouting does. She says the family's one sentence about the outside world — *"We are still richer than most."* — in company, on purpose.
@@ -41,7 +43,7 @@ That is the house Su Yan was born into: **a good name, a real income, a father t
 ### Mother's side — the Zhou grain house, on the market square
 | Who | What they are | What they carry |
 |---|---|---|
-| **Grandfather Zhou Dehai, 72** | Zhou Hui's father; the grain house's old head, retired to the back room with forty years of ledgers. | **The coin-law**: *"A hundred coppers makes a coin, and has since my time."* Reads the boy's practice page like a season report. |
+| **Grandfather Zhou Dehai, 72** | Zhou Hui's father; the grain house's old head, retired to the back room with forty years of ledgers. | **The book**: forty years of the grain house's ledgers; *"A page is worth only what a second pair of eyes can read."* Reads the boy's practice page like a season report. |
 | **Grandmother Zhou (née Ma), 69** | Zhou Hui's mother. | Pickles, and a mental roster of who in the family owes what to whom. |
 | **Uncle Zhou Anmin, 50** | Zhou Hui's elder brother; runs the grain-house counter (the "uncle's counter" of chapter 3). Wide laugh, memory for every farmer's debt. | The family's public face at the square. |
 | **Aunt Zhou (née Qin), 48** | Anmin's wife. | Runs the warehouse keys. |
@@ -67,14 +69,15 @@ That is the house Su Yan was born into: **a good name, a real income, a father t
 
 The house stands on the physician's lane: **front room, the clinic** — counter, the big book, the wall of drawers, the waiting bench. **Behind it, the home** — the stoves room, the long table, the yard with the practice set, the herb rows, the pig's corner. **Upstairs**, two bedrooms; the boy's has the tin by his bed. Two lanes over stands the old Su house (grandmother, uncle, aunt, cousin). The Zhou grain house is on the market square.
 
-## 7 · Money, honestly (so no writer has to guess again)
+## 7 · Money, honestly (canon's own word: **coins** — G17)
 
-- A border-city physician with four rings earns well: **roughly 30–40 coins a month** in a good year, more with soul-vein work.
-- **Six sick years ate the savings** — every herb, every commission, every second opinion. The house is comfortable again, not rich; it saves slowly.
-- **The wall is real even for this house.** The Pagoda's shelf: white ten-year soul **70,000**; yellow hundred-year **1,000,000**; the random draw **30,000**. Thirty thousand coins is **decades** of this house's saving. Canon's prices are built to be brutal; a Soul Ancestor in a small city still stands under them.
-- **Therefore the house's plan is patience, not poverty:** save, learn the market, and put the right soul in the boy when he can carry it. The father has said the sentence in prose: *"the day this house walks into that marble hall, the boy who walks in will hold a soul that suits what he is."* No gamble. Ever.
-- **The boy's tin is his own road**, not the family's last copper: he works because the house's law is that a road you buy is a road you do not know.
+> **The author, 2026-10-03:** *"When canon even tale or introduce copper coins and golds, canon say coins."* **There are no copper coins, no silver, and no gold coins in this story's money.** The unit is the **coin** (canon also says *federal coins* at the Pagoda's counter). The invented "a hundred coppers makes a coin" law is **cut**, and so are all copper figures (ch 3–7 re-denominated 2026-10-03).
 
+- **The practice:** a four-ring physician with the city's best name **grosses ~3,000–4,000 coins in a month**; the apprentice's keep, the materials, the household, and the six sick years' debts take almost everything back. **What the house can actually put by is a few hundred coins in a good month.**
+- **Canon's anchors (kept exactly):** the Pagoda's shelf — **30,000** the random draw · **70,000** a white ten-year soul · **1,000,000** the yellow; and an official Soul Master's stipend of **1,000 coins a month**.
+- **The wall, honestly:** 30,000 coins is **most of a year of the practice's whole income** — and years of what this house can actually save. The right soul (70,000 white, 1,000,000 yellow) stands further out. **Six sick years ate the savings that would have been standing there.**
+- **The boy's own numbers (all on the page):** wage **5 coins a week** at the forge · the pig's column **1–2 coins a walk** · a night's specialist work at the pier **200 coins** · the tin **580 coins** at the fusion week (three winters of saving, and canon's wall still a hundred-and-fifty-year walk at his own rate).
+- **The house's law:** no gamble ever buys his soul; the tin is the boy's own road; the door is paid for with a soul that suits.
 ## 8 · What this fixes in the prose
 
 - **Chapters 1–6 stand as written.** Nothing in them contradicts this file: the mother is never called powerless in the chapters; the father's rings are never shown; the uncle's counter and the grandfather's coin-law already exist in the text. What changes is everything **forward**: relatives on the page, the parents' standing shown plainly, and the money read at the right scale.

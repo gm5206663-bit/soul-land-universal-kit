@@ -504,7 +504,7 @@ The work was less simple than it looked. "The back of the hand for heat," his fa
 
 The boy learned all of it at the first pass and remembered all of it forever, which pleased the father no more than it pleased him to find his own tools where he meant to look.
 
-He was paid in the evening: five coppers, counted into his hand with both of them serious about it.
+He was paid in the evening: five coins, counted into his hand with both of them serious about it.
 
 "For the day's work," Su Heng said. "Not for being the son. Those are different wages, and you should know which one you're being paid."
 
@@ -526,7 +526,7 @@ The pot had work too. His mother was teaching him the broth now, properly. Skim 
 
 The broth had gone to two ladles a night, and the creature had stopped being thin in the lantern light. Its coat came up under the boy's hand. It slept deeper — and woke, always, at the hour he came home, and waited by his step.
 
-On the fourth day of the week, the boy bought the heads himself. The fish row sold heads and fins cheap to the boiling houses, and the boy put down three coppers of his own and came home with a basket that smelled like everything the sea had ever discussed. His father looked at the basket, then at his son.
+On the fourth day of the week, the boy bought the heads himself. The fish row sold heads and fins cheap to the boiling houses, and the boy put down three coins of his own and came home with a basket that smelled like everything the sea had ever discussed. His father looked at the basket, then at his son.
 
 "So the pig gets your first wage."
 
@@ -580,7 +580,7 @@ His father considered the question seriously, which he did with all questions, i
 
 Su Yan turned that over. He looked at his own hands, which that week had ground medicine, skimmed a pot, and carried the flat of seconds up the grain house's back stair. Small hands, getting stronger on a schedule the town's price boards knew nothing about.
 
-He did not have a forge, or a hammer, or a master. He had a chipped tea tin with five coppers in it, and a column in a book, and a pot that was owed to him every night, and a pig with a wage.
+He did not have a forge, or a hammer, or a master. He had a chipped tea tin with five coins in it, and a column in a book, and a pot that was owed to him every night, and a pig with a wage.
 
 It was a road too, he decided. A quieter one.
 

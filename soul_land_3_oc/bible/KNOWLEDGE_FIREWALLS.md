@@ -32,3 +32,5 @@
 ## 3 · Standing references
 
 `foundation/CANON_SPINE.md` (NAE-01/02, WUL-01, DRG-01, LSP-07/08/10) · `bible/PAIR_LEDGER.md` §7 (pair seals) · `bible/ADAPTATION_MODULE.md` §5 (what the Talent never does) · `NO_MISTAKE_LIVE_RULES.md` R13 · `OPEN_RULINGS.md` G7/G9.
+
+**Ch 7 check (2026-10-03; re-checked after the G14–G18 pass):** PASS — **LSP-10/11** (the bloodline is *never named*: the page shows only felt things — the pig's warmth through the fog, its refusal of open lamps, the storm smell when the stove spat, its four years off the herb rows) · **R13/DRG-01** (no resonance beat; Na'er exactly as canon shows her) · **NAE-02** (unbroken) · **R5** (the Talent unnamed) · **Q-2** (no spiritual-power print; the boy's 92 lives in the panels and never in prose) · **WUL-01/04** (canon's own gold shown only as canon shows it, unseen) · **the three-shot ceiling** (no speech from the soul) · **no futures spent** (no ring, no soul, no fusion for Su Yan). **New in the file set:** the father's three spirit souls and the mother's one (G16) — canon-legal, on the page, and they disclose nothing sealed.
