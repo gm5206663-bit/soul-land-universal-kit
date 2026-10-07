@@ -20,7 +20,8 @@ If HIS_STATUS_PANEL and STATUS_PANEL ever disagree, STATUS_PANEL is right.
 - codex/ — CREATURES · TIMELINE · PLACES · CHARACTERS · GLOSSARY (the retired
   list) · KNOWLEDGE_FIREWALLS
 - chapters/ — Chapter_01 … Chapter_24 (the canon-voice rollout has rewritten
-  1–10 so far; 11–24 carry the earlier plain edition until their turn)
+  1–12 so far; the s52 plain-scene pass has already redone 19–24; 13–18 carry
+  their s45 rebuild and are next in the lane)
 - tools/measure_prose.py — the corrected prose measure (s43), used for every
   chapter footer
 - tools/build_oc_status.py — generates foundation/OC_STATUS.md + the library's

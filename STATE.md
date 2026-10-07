@@ -15,7 +15,7 @@
 > **UPDATE 2026-09-26 (full account audit — 12 repos, 9 public cloned):**
 > This workspace is the live public authoring kit. Largest repos: soul-land-universal-kit (21,657), soul-library (21,517). 
 > **Live builds NOW:**
-> - `soul_land_devouring_dragon/` — **24 chapters**, all gates PASS, canon-voice rollout Ch1-10 rewritten (see `foundation/STATUS_PANEL.md`)
+> - `soul_land_devouring_dragon/` — **24 chapters**, all gates PASS, canon-voice rollout Ch1-12 rewritten, s52 plain-scene pass already redone Ch19-24, 13-18 next in the lane (see `foundation/STATUS_PANEL.md`)
 > - `soul_land_2_new/` — **The Golden Lion** — **8 chapters** live (Ch8 shipped 2026-09-23, G09 sect-join executed, assessment-eve armed, panel v20), agent-driven near-daily, STATUS_PANEL is truth
 > - **External live:** `soul-land-2-the-grey-wolf/` — **The Grey Wolf** — **6 chapters perfect rebuild v0.7.0** (2026-09-26, Arc1 Grey Ridge complete, Arc2 hem-road craft, 2400-3400w band, over60 0, the-way 0, clean and clear, no nonsense spam, Spirit Sea 850, body 500kg, Storm Frost Ghost Wolf ice+wind High, Ring Veil hides purple as yellow). Now ingested into soul-library (193 chapters total).
 > - `blue_silver/` — **Book One COMPLETE: 15 rebuilt chapters / 34,711 words, gates green** (Book Two awaits author rulings)
@@ -51,7 +51,7 @@ Star Dou Forest, deep era). This was the live build at time of original STATE.md
 | Path | What it is | Status |
 |---|---|---|
 | `blue_silver/` | The live serial (chapters 1–10 draft + bibles/codex/foundation) — now Book One COMPLETE 15 chapters | **COMPLETE Book One** |
-| `soul_land_devouring_dragon/` | Devouring Dragon — 24 chapters, gates PASS, canon-voice rollout Ch1-10 | **LIVE** |
+| `soul_land_devouring_dragon/` | Devouring Dragon — 24 chapters, gates PASS, canon-voice rollout Ch1-12 (s52 pass redid Ch19-24; 13-18 next) | **LIVE** |
 | `soul_land_2_new/` | Golden Lion — 8 chapters, agent-driven near-daily | **LIVE** |
 | `soul_land_system_cheat/` | System Cheat — design stage, system fully specified | **DESIGN** |
 | `uploads/` | 搭档's SL1 Gu Yuan (顾渊) handoff packs | Kept on disk. NOT current build |
