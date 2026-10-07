@@ -1647,3 +1647,14 @@ One entry per working session. Newest at the bottom.
 | 58 | 2026-09-23 | standing delegation + Arena agent | **Ch 11 "The War of the Lists" 2,833w/16.5/52 — ALL THREE LENSES (s53/s54/s56).** Mini-arc opening (the descent in motion, the re-anchor riding inside it); the grey-stag loss replayed as a one-breath memory panel inside the finding; the ceremonial beat over the pale gold; the thick-paw fight call-and-response with reaction beats; the scent-ring's meaning in one plain line; the old bull's years explained plainly. COPY DEFECT FIXED: the choosing-line's second red was misnamed ("the hunger is yours and the hunger is yours" → "the boil is yours and the hunger is yours"). Panel verbatim (Old Qin, Gao Tie, Xiao An; the beast becomes a line on the list; the old bull chosen; the retreat rule). Beats held exactly. OC status regenerated; site synced. Tracker 11/24. |
 
 | 59 | 2026-09-23 | standing delegation + Arena agent | **Ch 12 "The Bull at the Water" 3,288w/17.4/58 — ALL THREE LENSES (s53/s54/s56).** Mini-arc opening (the descent read, the re-anchor inside the motion); the craft's cost found in motion on the empty feed lines; the second word's purpose stated plainly; the fight call-and-response with reaction beats; the deep light the ceremonial beat with the held stillness after; the crossing moment to moment; ends forward ("It would come with eyes."). FOUR COPY DEFECTS FIXED (the panel's duplicated market speech chief among them — Old Qin's "bull goes down the road" block appeared twice; merged into one; plus the doubled-hound image, the "cry"→"sign" motif easing, and the "he set his trap" fog line). Beats held exactly; the crossing whole. OC status regenerated; site synced. Tracker 12/24. |
+
+- s50 note (2026-10-07, the full sweep — no prose changed): the workspace-wide
+  "check everything completely" pass reached this serial too. Measured state:
+  24 chapters, project sweep PASS 24/24 (0 digits, 0 CJK, footers 24/24; the
+  no-panel list ch1 + ch15-24 by design), canon-voice rollout Ch1-10 current.
+  ONE TRIAGE, RECORDED SO NOBODY "FIXES" IT LATER: the measure tool flags the
+  retired word "the deep country" in ch13 — it is inside the hunters' DIALOGUE
+  (Gao Tie and Old Qin speaking), and the retired table bans the word in
+  NARRATION only ("the deep country (narration) -> the deep forest"); in-world
+  names in speech are lawful under the PLAIN LANGUAGE LAW. No change made; the
+  flag is lawful by design, not drift.

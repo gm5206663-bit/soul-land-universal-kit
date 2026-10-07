@@ -78,10 +78,12 @@
 
 - **The author's fifth correction answered — the butterfly system (this commit):** *"Where is natural butterfly effects, please check my projects and others All things and understand many things."* His own doctrine swept at the source (three of his projects + the master foundation: the canon-butterfly protocol, the registry that demands obligations **named at birth**, the consequence rules where *silence is not a decision*, and the line that names this whole pass — *"butterflies are felt, not footnoted"*). Shipped: `foundation/CANON_BUTTERFLY_PROTOCOL.md` + `bible/BUTTERFLY_LEDGER.md` (B-01…B-23), **R15 deepened**, the four coverage docs answering the deletion test, and the ch-5 plan carrying the marking drill. **No chapter text changed.**
 
-## What stands now
+## What stands now (refreshed 2026-10-07 — this block had stopped at "ch 1-4" while ch 5-7 were long shipped and ch 1-5 were rebuilt whole)
 
-- **Shipped:** ch 1 · ch 2 · ch 3 · ch 4 — all committed, receipted, audited, delivered.
-- **Next canon default (G12):** ch 5 = SL3 ch12+ (the three-year skip); plan file in `NEXT_STEPS`.
+- **Shipped:** ch 1 · ch 2 · ch 3 · ch 4 · ch 5 · ch 6 · ch 7 — all committed, receipted, audited, delivered (ch 7 *The Refusal*, 2026-10-03).
+- **Rebuilt whole:** ch 1 (v6) · ch 2 (v2) · ch 3 (v2) · ch 4 (v2) · ch 5 (v3) — every sentence new on 2026-10-03, in the Fire Phoenix register (R11), gates clean.
+- **Shelf:** *One in a Thousand* is live on the Soul Library — **7 chapters · 63,209 words**, shelf edge refreshed with the rebuilds.
+- **Next canon default (G12):** ch 8 = SL3 ch23 onward, fetched live at write-time; Chapter 8 remains on **the author's word only**.
 - **The open road:** the first academy stretch (ranks 1→10), the development layer in motion, the first ring years off in-story and locked to the author's design (Light Wyrm — a Light Dragon Lizard, G7).
 - **Seals standing:** LSP-10 · R13/DRG-01 · NAE-02 · the Wyrm · Talent unnamed.
 
