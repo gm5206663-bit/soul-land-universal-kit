@@ -1,4 +1,8 @@
-# TOP-LEVEL STATE — read this first (updated 2026-09-30)
+# TOP-LEVEL STATE — read this first (swept 2026-10-07)
+
+> **2026-10-07 FULL SWEEP (the author: "Check everything completely"):** every repo and tree was re-cloned, every gate re-run, every edge checked against the project's own receipts. Repairs shipped the same day, each in its own repo with its own gates re-run: the **library sentinel** (it crashed on the deleted Adaptive-Prodigy tree and the parked blue_silver — repaired, now 26/26 green); the **Control Centre** (registry 18→20 projects, four stale edges and all lifecycle rows corrected from fresh clones; extract_state.py re-measures reality — 994 files / 1.69M words); **Grey Wolf** (five unreceipted Ch7-11 draft fragments found inside chapters/ — archived with a marker, counts now measure the six shipped chapters); **Fire Dragon Lizard** (STATUS + README brought current to Ch5); **Supergirl** (stale generated STATUS.md regenerated — run_all 53/53); the **profile README** (8 serials / 214 chapters / 903K+); this kit (sl3_oc CHANGELOG "What stands now" refreshed; DD sweep note with the ch13 dialogue triage recorded). All pushes receipted.
+
+# HISTORY below (earlier top-level states)
 
 > **UPDATE 2026-09-30 (Qing Ling parked · workshop park · SL3 prequel founded) + 2026-10-02 (prequel deleted; *One in a Thousand* founded):**
 > - **"Qing Ling" (`soul_land_3_fanfiction/`) — PARKED at ch 7** (every gate green; ch 7 *Room 205* was the last ship; receipts complete through SERIAL_LOG 015). Moved to `_archive/2026-09-30_park/soul_land_3_fanfiction/`; resumable — start at its `foundation/PARKED_2026-09-30.md`. **PUSHED 2026-09-30.** The whole local chain is now on GitHub: `1b2ac8a..9c77343` = ch 7 (`2ea1ef6`) + the Qing Ling park (`018ec1f`) + the workshop park (`647dad0`) + the OC ruling (`7bc10bb`) + the prequel foundation v1 (`9c77343`). Snag closed.
