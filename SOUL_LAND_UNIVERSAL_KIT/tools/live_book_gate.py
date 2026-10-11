@@ -49,7 +49,18 @@ DEAD_PATH_RX = re.compile(r'(^|/)(_archive|archive|archives|_attic|attic|audit|a
 # Lines that look like sentences but are planning furniture: beats, spines and
 # status dumps use "·" as a separator and "LABEL:" openings. Measuring them as
 # prose invents sixty-word sentences that nobody wrote.
-PLAN_LINE_RX = re.compile(r'·|^[A-Z][A-Za-z /()\-]{2,24}:(\s|$)|^\s*\||^\s*[-*]\s')
+PLAN_LINE_RX = re.compile(r'·|^[A-Z][A-Za-z /()\-]{2,24}:\s|^\s*\||^\s*[-*]\s?')
+
+#: Paths that are never the live book: historical snapshots, promotion staging,
+#: reference copies kept beside the work. ONE definition — the gate and the
+#: control centre both call is_out_of_scope(), because two copies of a scope
+#: rule drift exactly like two copies of a text.
+OUT_OF_SCOPE_RX = re.compile(r'(/reference/|promotion_proposal|staging|_kit_reference'
+                             r'|sources/)', re.I)
+
+
+def is_out_of_scope(rel):
+    return bool(DEAD_PATH_RX.search(rel) or OUT_OF_SCOPE_RX.search(rel))
 DEAD_MARK = re.compile(r'(superseded|do not use|rejected|first draft|historical|'
                        r'archived|not authoritative|never read it as current)', re.I)
 STATUS_FILES = ('HANDOFF.md', 'README.md', 'STATUS.md', 'STATE.md', 'NEXT.md')
@@ -172,15 +183,30 @@ def dialogue_spans(text):
 
 SENT_SPLIT = re.compile(r'(?<=[.!?])["\u2019\u201d\'\u2019]?\s+')
 
+#: Where the author's text ends and the production record begins.
+FOOTER_SPLIT = re.compile(r'\n---\n\n## Footer|\n## Footer|\n## Production')
+
 
 def sentences(text):
     """Split prose into sentences. Handles a closing quote after the stop."""
     return [s.strip() for s in SENT_SPLIT.split(text) if s.strip()]
 
+def body_of(path):
+    """The author's text only: the production block is a record, not prose."""
+    return FOOTER_SPLIT.split(open(path, encoding='utf-8').read())[0]
+
+
+def prose_sentences(path):
+    """Prose sentences: no headings, no blockquote panels, no planning lines."""
+    lines = [l for l in body_of(path).split('\n')
+             if l.strip() and not re.match(r'#+\s', l)]
+    prose = [l for l in lines if not l.startswith('>') and not PLAN_LINE_RX.search(l)]
+    return [s for l in prose for s in sentences(l)]
+
+
 def measure(path):
-    t = open(path, encoding='utf-8').read()
-    body = re.split(r'\n---\n\n## Footer|\n## Footer|\n## Production', t)[0]
-    lines = [l for l in body.split('\n') if l.strip() and not l.startswith('# ')]
+    body = body_of(path)
+    lines = [l for l in body.split('\n') if l.strip() and not re.match(r'#+\s', l)]
     prose = [l for l in lines if not l.startswith('>') and not PLAN_LINE_RX.search(l)]
     words = len('\n'.join(lines).split())
     sent = [s for l in prose for s in sentences(l)]
@@ -395,9 +421,8 @@ def main():
         live_books = 0
         for proj in projects:
             rel = os.path.relpath(proj, root)
-            if DEAD_PATH_RX.search(rel) or re.search(r'(/reference/|promotion_proposal|'
-                                                     r'staging|_kit_reference)', rel, re.I):
-                warnings.append(f'archived, not gated: {rel}')
+            if is_out_of_scope(rel):
+                warnings.append(f'out of scope, not gated: {rel}')
                 continue
             live_books += 1
             p, w, n, e, note = gate_book(proj)
@@ -406,7 +431,7 @@ def main():
             warnings += [f'[{rel}] {x}' for x in w]
         print('\n' + '=' * 64)
         print(f'COVERAGE: {books} live book(s) gated · '
-              f'{len([w for w in warnings if w.startswith("archived")])} archived path(s) skipped ')
+              f'{len([w for w in warnings if w.startswith("out of scope")])} out-of-scope path(s) skipped ')
     else:
         path = next((a for a in args if not a.startswith('-')), None)
         if not path:

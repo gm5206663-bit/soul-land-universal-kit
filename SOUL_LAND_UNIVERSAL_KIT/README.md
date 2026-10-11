@@ -80,6 +80,8 @@ SOUL_LAND_UNIVERSAL_KIT/
 ├── 08_CONTINUITY_LAW.md       the date-endpoints-first rule and one-source-of-truth
 ├── 09_AUDIT_LAW.md            the audit loop and the hard gates
 ├── 10_HANDOFF_LAW.md          handing off without regressing
+├── 11_CONTROL_CENTER.md       the account layer: every book, one run, with
+│                              coverage declared and evidence carried
 ├── templates/                 copy these into your project — destination in brackets
 │   ├── PROJECT_README.md          [project root]
 │   ├── HANDOFF.md                 [project root]
@@ -100,8 +102,23 @@ SOUL_LAND_UNIVERSAL_KIT/
     ├── live_book_gate.py      the house gate — any book, any repo: finds the live
     │                          chapter directory by content and by what the status
     │                          files say, refuses when it cannot tell
-    └── gate_selftest.sh       proves the house gate notices a shrunken SCOPE
+    ├── gate_selftest.sh       proves the house gate notices a shrunken SCOPE
+    ├── account.py             the CONTROL CENTRE — every book on the account in
+    │                          one run: gate, repeated prose, two-home texts,
+    │                          status receipts, publication, live Pages sites,
+    │                          with baselines so runs can be diffed
+    ├── account_checks.py      the detectors behind it, each declaring coverage
+    ├── account_selftest.py    14 cases — every detector seen to fail
+    └── account_baseline.json  today's frozen state, fingerprinted with the code
 ```
+
+**Above the chapter: the Control Centre.** `python3 tools/account.py report --root DIR`
+runs every detector over every book and writes JSON, Markdown and an HTML
+dashboard; `freeze` records the state and `diff` then reports NEW / FIXED /
+STILL OPEN by stable id instead of re-printing the same numbers. Read
+[`11_CONTROL_CENTER.md`](11_CONTROL_CENTER.md) before trusting any count in it —
+it records the seven bugs the system found in itself, because a number that has
+not been checked is a rumour with a decimal point.
 
 **Run `python3 tools/selftest.py` after any edit to `verify.py`.** It builds throwaway
 chapters containing one known defect each, and confirms every one is caught. A gate that
