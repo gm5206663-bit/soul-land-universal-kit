@@ -329,6 +329,13 @@ def diff(rep, path):
     fixed = [old[i] for i in old if i not in now]
     still = [f for i, f in now.items() if i in old]
     out = [f"vs baseline frozen {base['frozen']} ({len(old)} finding(s), code {base.get('code', '?')})"]
+    if base.get('root') and os.path.abspath(base['root']) != os.path.abspath(rep['root']):
+        # A 10-book root diffed against a 24-book baseline reported "875 fixed"
+        # the first time this was tried. Different roots are different accounts;
+        # the comparison is meaningless and has to say so.
+        out.append(f"  WARNING: this baseline was frozen against {base['root']}, you are diffing "
+                   f"{rep['root']} — different roots are different accounts. "
+                   f"NEW/FIXED here mean nothing until the roots match.")
     if base.get('code') and base['code'] != code_hash():
         out.append('  WARNING: the detectors changed since this baseline was frozen — '
                    'NEW/FIXED are not comparable. Re-freeze after any change to a detector.')
