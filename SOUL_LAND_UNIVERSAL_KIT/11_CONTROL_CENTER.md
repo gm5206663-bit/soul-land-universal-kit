@@ -119,28 +119,75 @@ Recorded because they are the reason the account numbers can be quoted at all:
 6. **A book and its own published copy are one home.** Counting them as two made
    54 twin groups look like duplication; one independent pair remains.
 7. **The list could hide the defect.** See §4, twice.
+8. **A published copy is not a second place either.** The same rule as bug 6,
+   applied to the dupes detector: it was reporting every shared sentence between
+   a book and its own published snapshot — 61 of 66 NEW findings in a single run
+   were one book pairing with its own stage copy. A sentence whose source
+   carries it is now the snapshot doing its job; a sentence **only** a copy
+   carries is drift and still fires. 7,608 such occurrences were ignored in the
+   live account and the note says so.
 
 ## 6 · Current state
 
-**2026-10-11 · 24 books · 274 chapters · 1,159,282 words · 21,735 spoken lines.**
+**2026-10-11 (evening, after the repair sweep) · 24 books · 274 chapters ·
+1,151,458 words · 21,726 spoken lines.**
 
-**553 hard · 322 advisory**, every class sample-verified against the text:
+**138 hard · 73 advisory**, every class sample-verified against the text:
 
 | kind | count | severity | note |
 |---|---|---|---|
-| over 60 words | 468 sentences in 64 files, 8 repos | hard | real run-ons; one of 154 words, one of 650 in an outline that was correctly excluded as out of scope |
-| repeated inside one file | 83 | hard | accidental duplicates, incl. Grey Wolf Ch10's re-appended ending |
-| dialogue under the floor | 2 | hard | two 20-word stub chapters (`soul_land_starter`, `soul_land_new`) |
-| repeated across chapters | 317 | advisory | the house refrain style; the author decides |
+| over 60 words | 119 sentences in 15 files, 3 repos | hard | 70 in `supergirl-adrian-vale` (a beat-style voice question, see below), 48 in the archived `SOUL_LAND_NEW` scaffold, 1 unsplittable sentence in the kit |
+| repeated inside one file | 17 | hard | one sentence twice inside otherwise-different paragraphs; the author's echo style — reported, not cut |
+| dialogue under the floor | 2 | hard | two 20-word stub chapters (`soul_land_starter`, `soul_land_new`), author's call |
+| repeated across chapters | 69 | advisory | the house refrain style; the author decides |
 | receipt drift | 2 | advisory | Grey Wolf `NEXT.md` says 6, book has 10; Soul Land 2 README says edge 21, book has 23 |
 | one text, two homes | 1 | advisory | a 20-word stub in two repositories |
-| list truncated | 1 | advisory | 7,745 repeats found, 400 listed |
 | dialogue exempt | 1 | advisory | Devouring Dragon, by law |
 
 Live sites: 3 repositories publish; **1 compared to its book and it agrees**
 (Grey Wolf, 10 chapter links = 10 chapters); 2 are declared *uncompared* because
 those repositories hold several books — "I could not compare this" is reported,
 never counted as a pass.
+
+### What the repair sweep changed (measured, not claimed)
+
+The sweep was measured twice against the 10:08 baseline (875 findings, code
+`948038a6`).
+
+*Under the detector as it stood at the freeze:* **415 FIXED · 66 NEW · 460 STILL
+OPEN.** Read by kind, the 415 are 349 over-60 sentences split at boundaries their
+own prose already had (kit 295, `stark_heir` 29, `mcu_eternal_fanfic` 8,
+`supergirl` 8 removed with its padding, `lan_shen` 3,
+`soul_land_4_fire_phoenix` 3, the storyos stage 3) and 66 duplicate-passage
+clusters removed from `supergirl`. All 66 NEW were advisory refrains; **61 of
+them were the published-copy artifact that self-bug 8 records**, and 5 were real
+new echoes (three in `supergirl`, two in the kit).
+
+*After self-bug 8 was fixed:* the same account reads **717 FIXED · 53 NEW · 158
+STILL OPEN** — and the diff itself refuses to call that a comparison, because the
+detector code changed under the baseline. The reshuffle is why: a cluster that
+loses its published-copy place can reclassify from `repeat-across` to
+`repeat-in-file`, which changes the finding's kind and therefore its stable id —
+one defect, two ids, one counted FIXED and one counted NEW. That is exactly the
+mismatch the fingerprint warning exists to expose, so the baseline was re-frozen
+rather than the numbers massaged.
+
+Two different things happened to the words on disk, and they should not be
+blurred: **a sentence split moves no word at all** (punctuation only), while
+**removing duplicate passages removes 7,702 repeated words** from
+`supergirl-adrian-vale` — which is why the account total falls by exactly that
+kind of amount (1,159,282 → 1,151,458) and why five of its chapters now sit
+below the `Full 3000+ Words` their own headers claim. That is recorded as an open
+author's question, not dressed up as a repair.
+
+Baselines: `account_baseline_2026-10-11T1008_pre-repair.json` keeps the 875-finding
+pre-repair freeze; `account_baseline.json` is the new living freeze (211 findings,
+code `e88acf85de8a`) taken after the detector change, because a baseline frozen
+under different detector code cannot honestly report NEW/FIXED — the diff says so
+itself when it detects the mismatch.
+
+The truncation note is gone: after the published-copy rule, 86 repeated sentences
+were found and all 86 are listed.
 
 ## 7 · What it will not do
 

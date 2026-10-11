@@ -109,12 +109,18 @@ SOUL_LAND_UNIVERSAL_KIT/
     │                          as a last resort a bare conjunction. It moves no
     │                          word, never splits inside speech, and refuses —
     │                          loudly — to leave a fragment or part-fix a line
+    ├── dedupe_paragraphs.py   the block repair — removes a paragraph that appears
+    │                          more than once in one file and keeps its first
+    │                          instance. Short beats ("***", "Yes.") and distant
+    │                          echoes are left alone; every other byte is copied
+    │                          through; the rebuild must prove itself before it
+    │                          writes
     ├── account.py             the CONTROL CENTRE — every book on the account in
     │                          one run: gate, repeated prose, two-home texts,
     │                          status receipts, publication, live Pages sites,
     │                          with baselines so runs can be diffed
     ├── account_checks.py      the detectors behind it, each declaring coverage
-    ├── account_selftest.py    14 cases — every detector seen to fail
+    ├── account_selftest.py    19 cases — every detector seen to fail
     └── account_baseline.json  today's frozen state, fingerprinted with the code
 ```
 

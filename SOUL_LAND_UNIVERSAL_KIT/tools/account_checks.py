@@ -239,6 +239,22 @@ def check_dupes(books, min_words=12, limit=400):
                     continue
                 sentences += 1
                 index.setdefault(normalise(s), []).append((b, os.path.basename(p), s.strip()))
+    # A published snapshot is a derived copy, not a second home — the rule
+    # two-homes learned the hard way. If the source carries the sentence, the
+    # copy carrying it too is the snapshot doing its job, not a duplicate: this
+    # detector was reporting every shared sentence between a book and its own
+    # published copy (61 of 66 NEW findings in one run were exactly that).
+    # If ONLY a copy carries the sentence, that is drift and it stays a finding.
+    # Whatever is ignored is declared in the note, never silently dropped.
+    at_source = {k for k, hits in index.items()
+                 if any(not is_published_copy(b['book']) for b, _, _ in hits)}
+    skipped_copies = 0
+    for k in list(index):
+        if k not in at_source:
+            continue
+        keep = [h for h in index[k] if not is_published_copy(h[0]['book'])]
+        skipped_copies += len(index[k]) - len(keep)
+        index[k] = keep
     clusters = {k: v for k, v in index.items() if len(v) > 1}
     # Deterministic order AND no silent truncation. Sorting only by size left
     # ties in os.walk order, so two runs over the same tree reported 874 and
@@ -284,7 +300,9 @@ def check_dupes(books, min_words=12, limit=400):
               note=(f'{len(clusters)} repeated sentence(s) of {min_words}+ words found; '
                     f'sentences under {min_words} words are not candidates'
                     + (f'; the {limit} largest by occurrence are listed'
-                       if len(clusters) > limit else '')))
+                       if len(clusters) > limit else '')
+                    + (f'; {skipped_copies} published-copy occurrence(s) ignored because '
+                       f'their source carries the sentence' if skipped_copies else '')))
     listed = len(hard) + len(soft[:max(0, limit - len(hard))])
     if listed < len(clusters):                     # never a silent truncation
         out['truncated'] = dict(listed=listed, found=len(clusters))

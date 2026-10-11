@@ -1,0 +1,86 @@
+{
+ "tool": "account-control-centre",
+ "version": "1.0",
+ "generated": "2026-10-11 11:34",
+ "root": "/tmp/all/soul-land-universal-kit/SOUL_LAND_UNIVERSAL_KIT/tools",
+ "books": [],
+ "facts": [],
+ "coverage": [
+  {
+   "detector": "discovery",
+   "note": "discovery found nothing; the run is not evidence of health",
+   "checks": 0,
+   "total": 0,
+   "unit": "book(s)",
+   "text": "0 of 0 books \u2014 nothing was examined"
+  },
+  {
+   "detector": "gate",
+   "note": "the gate laws: 60-word ceiling, three spoken lines, parity of both copies",
+   "checked": 0,
+   "total": 0,
+   "unit": "book(s) with a determined live directory",
+   "text": "0 of 0 book(s) with a determined live directory"
+  },
+  {
+   "detector": "dupes",
+   "note": "0 repeated sentence(s) of 12+ words found; sentences under 12 words are not candidates",
+   "checked": 0,
+   "total": 0,
+   "unit": "prose sentence(s) indexed (12+ words) of all prose sentences, across 0 book(s)",
+   "text": "0 of 0 prose sentence(s) indexed (12+ words) of all prose sentences, across 0 book(s)"
+  },
+  {
+   "detector": "two-homes",
+   "note": "0 text(s) shared by two independent books; 0 twin group(s) are a book and its own published copy, which is what publishing does",
+   "checked": 0,
+   "total": 0,
+   "unit": "chapter file(s) hashed",
+   "text": "0 of 0 chapter file(s) hashed"
+  },
+  {
+   "detector": "receipts",
+   "note": "claims in README/HANDOFF/STATUS/CHANGELOG against the text on disk",
+   "checked": 0,
+   "total": 0,
+   "unit": "book(s) with a chapter numbering",
+   "text": "0 of 0 book(s) with a chapter numbering"
+  },
+  {
+   "detector": "publication",
+   "note": "in-tree chapter html against the source; the LIVE site is the pages detector",
+   "checked": 0,
+   "total": 0,
+   "unit": "book(s) with a published site",
+   "text": "0 of 0 book(s) with a published site"
+  }
+ ],
+ "findings": [
+  {
+   "id": "48c2e22e15f8",
+   "kind": "scope-refusal",
+   "severity": "hard",
+   "repo": "-",
+   "book": "-",
+   "file": "/tmp/all/soul-land-universal-kit/SOUL_LAND_UNIVERSAL_KIT/tools",
+   "subject": "root",
+   "detail": "no book found anywhere under /tmp/all/soul-land-universal-kit/SOUL_LAND_UNIVERSAL_KIT/tools \u2014 a report over nothing is not a clean report",
+   "evidence": "walked /tmp/all/soul-land-universal-kit/SOUL_LAND_UNIVERSAL_KIT/tools and found no chapter directory",
+   "law": "a gate that checks the wrong directory reports success over text nobody wrote"
+  }
+ ],
+ "summary": {
+  "books": 0,
+  "chapters": 0,
+  "words": 0,
+  "spoken": 0,
+  "hard": 1,
+  "advisory": 0,
+  "by_kind": {
+   "scope-refusal": 1
+  },
+  "by_repo": {
+   "-": 1
+  }
+ }
+}

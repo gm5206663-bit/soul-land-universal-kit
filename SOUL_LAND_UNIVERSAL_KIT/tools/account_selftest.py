@@ -157,6 +157,21 @@ case('a book and its own published copy are one home, not two',
                                   'chapters', 'Chapter_01.md'), chapter(1)),
      'two-homes', want=False, only=['two-homes'])
 
+# ---------------------------------------------------------------- 8d duplicates
+case('a published copy repeating its source is one home, not a duplicate',
+     lambda r: write(os.path.join(r, 'beta-repo', 'published-site', 'Book_Two',
+                                  'chapters', 'Chapter_01.md'), chapter(1, 'ochre', 'warm')),
+     'repeat-across', want=False, only=['dupes'])
+
+case('text only a published copy carries is still a duplicate',
+     lambda r: write(os.path.join(r, 'beta-repo', 'published-site', 'Book_Two',
+                                  'chapters', 'Chapter_01.md'),
+                     chapter(1, 'ochre', 'warm') + '\nA line that lives only in the '
+                     'published copy and nowhere in the author source today.\n\n'
+                     'A line that lives only in the published copy and nowhere in '
+                     'the author source today.\n'),
+     'repeat-in-file', only=['dupes'])
+
 # ---------------------------------------------------------------- 8c history
 case('a historical note is not a claim about the live book',
      lambda r: write(os.path.join(r, 'alpha-repo', 'Book_One', 'README.md'),
