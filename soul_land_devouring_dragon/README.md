@@ -64,6 +64,8 @@ author-gated (§L of the mistakes ledger).
   action; the biggest panel first.
 - THE DONGHUA LENS (s56): mini-arc openings; merge, don't queue (memory
   panels); the ceremonial beat; no dead air.
+
+**GATE EXEMPTION: dialogue-floor — law, not defect: RAILS s45 (chapters with no panel carry no voices) + CANON VOICE LAW s53 (foundation/RAILS.md, foundation/CANON_STUDY.md). One line, receipts on it, printed by the house gate on every run.**
 - OC STATUS LAW (s55): the status sheet is generated on every ship; staleness
   fails the Sentinel.
 - Events' facts, order, and causes NEVER change — only the telling (s34/s40/s52).

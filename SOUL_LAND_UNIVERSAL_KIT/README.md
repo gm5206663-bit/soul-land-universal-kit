@@ -96,7 +96,11 @@ SOUL_LAND_UNIVERSAL_KIT/
 │   └── SERIAL_LOG.md              [audits/]
 └── tools/
     ├── verify.py              the gate script — run it on every chapter
-    └── selftest.py            proves the gate has teeth — run after editing verify.py
+    ├── selftest.py            proves the gate has teeth — run after editing verify.py
+    ├── live_book_gate.py      the house gate — any book, any repo: finds the live
+    │                          chapter directory by content and by what the status
+    │                          files say, refuses when it cannot tell
+    └── gate_selftest.sh       proves the house gate notices a shrunken SCOPE
 ```
 
 **Run `python3 tools/selftest.py` after any edit to `verify.py`.** It builds throwaway
