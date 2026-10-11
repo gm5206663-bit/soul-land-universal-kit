@@ -7,7 +7,7 @@ docs/index.html + docs/chapter_NN.html. Self-contained pages: inline CSS
 only, no external fonts, scripts, or images. Regenerate after every chapter
 change, then commit and push (GitHub Pages serves /docs on main).
 """
-import glob, os, re, html, datetime
+import glob, os, re, sys, html, datetime
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 SERIAL = os.path.dirname(HERE)
@@ -142,6 +142,15 @@ the long game.</p>
     open(os.path.join(DOCS, "index.html"), "w", encoding="utf-8").write(
         page("The System Cheat — a Soul Land serial", body))
     print(f"site built: {total} chapters + index -> {DOCS}")
+    # SCOPE LAW — publish only what was gated, and say how much that was.
+    n_src = len(glob.glob(os.path.join(SERIAL, "manuscript", "Chapter_*.md")))
+    fulls = sorted(glob.glob(os.path.join(SERIAL, "manuscript", "*FULL*.md")))
+    full_ch = len(re.findall(r"(?m)^# Chapter \d+", open(fulls[0], encoding="utf-8").read())) if fulls else 0
+    print(f"COVERAGE: manuscript/ {n_src} of {n_src} reader editions -> docs/ {total} chapter pages "
+          f"+ index \u00b7 FULL {full_ch} of {n_src} chapters")
+    if total != n_src or (n_src and full_ch != n_src):
+        print("SCOPE \u2014 the site, the reader editions and the FULL edition disagree")
+        sys.exit(1)
 
 if __name__ == "__main__":
     build()

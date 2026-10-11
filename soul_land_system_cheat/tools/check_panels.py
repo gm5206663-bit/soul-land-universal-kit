@@ -48,7 +48,16 @@ stale_in_ledger = sorted(led - allch)
 for name, lines in ch.items():
     print(f"{name:44s} {len(lines)} panel lines")
 print(f"ledger rows: {len(led)}")
+# SCOPE LAW — declare what was actually read, and fail if it is not everything.
+n_author = len(glob.glob(os.path.join(SERIAL, "chapters", "Chapter_*.md")))
+print(f"COVERAGE: chapters/ {len(ch)} of {n_author} author editions \u00b7 ledger rows {len(led)}")
 ok = True
+if len(ch) != n_author:
+    ok = False
+    print(f"\nSCOPE — the ledger was checked against {len(ch)} chapters but {n_author} exist")
+if n_author == 0:
+    ok = False
+    print("\nSCOPE — 0 author editions found: a check that executes nothing verifies nothing")
 if missing_in_ledger:
     ok = False
     print("\nDRIFT — in chapters but NOT in PANELS.md (update the ledger):")

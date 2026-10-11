@@ -12,7 +12,7 @@
 Run from anywhere:  python3 soul_land_system_cheat/tools/run_all.py
 After it: commit and push (Pages serves /docs on main).
 """
-import glob, os, re, subprocess, sys
+import glob, os, re, shutil, subprocess, sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 SERIAL = os.path.dirname(HERE)
@@ -28,29 +28,45 @@ def sync_manuscript():
         out = os.path.join(dst_dir, os.path.basename(s))
         open(out, "w", encoding="utf-8").write(body)
         n += 1
-    print(f"[1/4] manuscript synced: {n} reader editions")
+    print(f"[2/5] manuscript synced: {n} reader editions")
+
+def scope_fixture():
+    """Step 1 — break the tree seven ways and confirm the gate notices."""
+    script = os.path.join(HERE, "gate_selftest.sh")
+    if not os.path.exists(script) or shutil.which("bash") is None:
+        print("[1/5] scope fixture skipped (no bash)")
+        return
+    r = subprocess.run(["bash", script], cwd=SERIAL, capture_output=True, text=True)
+    tail = [l.strip() for l in r.stdout.strip().split(chr(10)) if l.strip()]
+    if r.returncode != 0:
+        print(r.stdout)
+        print("[1/5] SCOPE FIXTURE FAILED — the gate is not trustworthy, nothing built")
+        sys.exit(1)
+    print("[1/5] scope fixture passed — " + (tail[-1] if tail else ""))
+
 
 def run_gate():
     r = subprocess.run([sys.executable, os.path.join(HERE, "style_gate.py")])
     if r.returncode != 0:
-        print("[2/3] STYLE GATE FAILED — pipeline stopped (nothing built on a failing gate)")
+        print("[3/5] STYLE GATE FAILED — pipeline stopped (nothing built on a failing gate)")
         sys.exit(1)
-    print("[2/4] style gate passed")
+    print("[3/5] style gate passed")
 
 def check_panels():
     r = subprocess.run([sys.executable, os.path.join(HERE, "check_panels.py")])
     if r.returncode != 0:
-        print("[4/4] PANEL LEDGER OUT OF SYNC — pipeline stopped")
+        print("[5/5] PANEL LEDGER OUT OF SYNC — pipeline stopped")
         sys.exit(1)
-    print("[4/4] panel ledger in sync")
+    print("[5/5] panel ledger in sync")
 
 def build_site():
     r = subprocess.run([sys.executable, os.path.join(HERE, "build_site.py")])
     if r.returncode != 0:
         sys.exit(1)
-    print("[3/4] site built")
+    print("[4/5] site built")
 
 if __name__ == "__main__":
+    scope_fixture()
     sync_manuscript()
     run_gate()
     build_site()
