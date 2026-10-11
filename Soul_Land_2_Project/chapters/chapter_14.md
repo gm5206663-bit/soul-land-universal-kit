@@ -7,7 +7,7 @@
 
 ### ╱╱ THE LAKE ╲╲ *(Huo Yuhao)*
 
-Breakfast was Yuhao's treat and Wang Dong ate double, and then — because the pill could wait for evening and bodies could not — they walked off breakfast along the lakeside path, and the Sea God Lake opened before them like a held breath: man-made, vast, blue as a rumor, mist standing over the far water where the inner court's roofs sat on the island like a secret inside a secret.
+Breakfast was Yuhao's treat and Wang Dong ate double, and then — because the pill could wait for evening and bodies could not — they walked off breakfast along the lakeside path. And the Sea God Lake opened before them like a held breath: man-made, vast, blue as a rumor, mist standing over the far water where the inner court's roofs sat on the island like a secret inside a secret.
 
 The red dot came out of that mist.
 
@@ -29,7 +29,7 @@ The boy's eyes went white — ten-thousand-year-ice white. The ring at his feet 
 
 "**You dare touch the one brother chose. You dare wake brother from his nap. Then die.**"
 
-One finger. One line of ice-blue light. The red figure answered from the floor of her fall — six rings rising, **two yellow, two purple, two black**, a great **Evil Fire Phoenix** screaming up behind her, a fire-thread no thicker than a finger meeting the light — and the phoenix threw its own body between them, and the collision howled steam, and the red figure trailed ice-blue into the lake and vanished under.
+One finger. One line of ice-blue light. The red figure answered from the floor of her fall — six rings rising, **two yellow, two purple, two black**, a great **Evil Fire Phoenix** screaming up behind her, a fire-thread no thicker than a finger meeting the light. And the phoenix threw its own body between them, and the collision howled steam, and the red figure trailed ice-blue into the lake and vanished under.
 
 The boy's body turned to pursue — and stopped, and yawned from somewhere beneath its own skeleton. "*Annoying. Someone's coming. Hmm — this little fellow's body has improved nicely. Brother can spare a bit more strength then. I dodge.*" Gold faded to white, white to nothing, cold folded away like a fan; and Huo Yuhao fell beside Wang Dong like a cut puppet as figures came flashing over the water — fast beyond fast, led by a white-robed old man who crossed the last thirty meters between one step and the next.
 
@@ -83,13 +83,13 @@ The elder sighed the sigh of teachers everywhere and did not press — and so th
 
 They were returned to the white dormitory by a teacher who healed them, sealed them with silence under pain of expulsion, and left each a green pill as an apology from the powerful to the small.
 
-Wang Dong woke first, furious with the holes in his morning; Yuhao woke second, with a black-out where a fire-god should be and the taste of impossible cold on his teeth; and Jiang Che — who had signed off the path repairs early and come straight up — was third in the room, and the triangle did what the triangle now did: both boys turned to the third bed before they turned to each other.
+Wang Dong woke first, furious with the holes in his morning; Yuhao woke second, with a black-out where a fire-god should be and the taste of impossible cold on his teeth; and Jiang Che. Who had signed off the path repairs early and come straight up — was third in the room, and the triangle did what the triangle now did: both boys turned to the third bed before they turned to each other.
 
 "You were on the shore path," Yuhao said.
 
 "Behind the stones. I saw steam, and then I saw the inner court carry two boys away. That's the official version." He looked at them, one and then the other, and did not spend one question of the hundred he had. "It's also mine. Lunch is on the sect. Both of you — you look like boiled laundry."
 
-And it was on that walk — the three of them, and Wang Dong explaining what a **Soul-Raising Pill** was with the bounce of a boy whose near-death had been converted by adult economics into treasure (a rank's worth of soul power; one per lifetime; fewer than twenty a year — "we are the luckiest people to almost die, *historically*") — that Yuhao, digging out his whole fortune to fund lunch, said the plain thing: he was an orphan; this was the entire estate; bedding cost money, and that was why his bed had none.
+And it was on that walk — the three of them, and Wang Dong explaining what a **Soul-Raising Pill** was with the bounce of a boy whose near-death had been converted by adult economics into treasure (a rank's worth of soul power. One per lifetime; fewer than twenty a year — "we are the luckiest people to almost die, *historically*") — that Yuhao, digging out his whole fortune to fund lunch, said the plain thing: he was an orphan; this was the entire estate; bedding cost money, and that was why his bed had none.
 
 Wang Dong stopped walking. Weather crossed the prince's face.
 
@@ -137,13 +137,13 @@ The blind fool had already tried it. There were thirty-odd customers waiting at 
 
 "…The fish is not for her. The fish is for me. I simply chose to purchase it in an orderly fashion—"
 
-The fish was for Jiang Nannan. Everyone knew the fish was for Jiang Nannan — everyone had known since yesterday — and the mountain took his two fish (fifth and sixth off the grill: Wang Dong's silver had come first, then the Sect Master's *quality control*, then the mountain's), paid, and left with the stiffness of a man who had queued forty minutes for a girl who would not say his name.
+The fish was for Jiang Nannan. Everyone knew the fish was for Jiang Nannan — everyone had known since yesterday — and the mountain took his two fish (fifth and sixth off the grill: Wang Dong's silver had come first. Then the Sect Master's *quality control*, then the mountain's), paid, and left with the stiffness of a man who had queued forty minutes for a girl who would not say his name.
 
-The stall sold out again. The sect's ledger fattened again. And at the table beside the grill — where a courier, off shift, ate his own packed lunch and kept the Sect Master's books balanced in a small neat hand — three boys sat shoulder to shoulder without arranging to, the way they now did: the gray one in the middle because he was the middle, and the other two on either side because that was simply where their nights lived.
+The stall sold out again. The sect's ledger fattened again. And at the table beside the grill — where a courier, off shift, ate his own packed lunch and kept the Sect Master's books balanced in a small neat hand. Three boys sat shoulder to shoulder without arranging to, the way they now did: the gray one in the middle because he was the middle, and the other two on either side because that was simply where their nights lived.
 
 From inside a coat, one word, for one ear, at the sight of the sold-out ledger: "*Adequate.*"
 
-And when the stall was packed and the coals were drowned and the five of them - six, counting the mountain, who had lingered to help carry the table for reasons he declined to explain - walked back through the gate together, the lake lay to their left, dark and flat and keeping its secrets, and under the dark flat water an island held a sealed room, and in the room a girl with pink eyes sat awake, pressing her own fire down with nothing but stubbornness, and not one of the six knew she existed.
+And when the stall was packed and the coals were drowned and the five of them - six, counting the mountain, who had lingered to help carry the table for reasons he declined to explain - walked back through the gate together, the lake lay to their left, dark and flat and keeping its secrets. And under the dark flat water an island held a sealed room, and in the room a girl with pink eyes sat awake, pressing her own fire down with nothing but stubbornness, and not one of the six knew she existed.
 
 The jar held its lid. The year had begun.
 

@@ -9,7 +9,7 @@
 
 They had been walking north along the forest's rim for a day when Tang Ya killed a baboon out of a tree without breaking stride.
 
-One moment the canopy; the next, a flicker of cold light and a thud, and a Wind Baboon lay on the verge with a needle-thin line across its throat, and Tang Ya said "*annoying*" with the personal offense of a woman whose morning had been critique'd by a monkey, and the party's newest members learned something about the Sect Master's sleeves.
+One moment the canopy; the next, a flicker of cold light and a thud, and a Wind Baboon lay on the verge with a needle-thin line across its throat. And Tang Ya said "*annoying*" with the personal offense of a woman whose morning had been critique'd by a monkey, and the party's newest members learned something about the Sect Master's sleeves.
 
 "How—" Yuhao began.
 
@@ -29,17 +29,17 @@ What happened to Bei Bei next, Yuhao would try to describe for years. Blue light
 
 "Xiao Ya. Guard the brothers. This one's mine."
 
-And Jiang Che — who had spent the ambush's first second moving, because a courier whose party is attacked does not wait for assignments — had the grass out and the perimeter seeded before the sentence ended: Trip-Lines at the ankles of the dark, anchors pre-set at the two trees worth anchoring, his vines holding dew that read the whole fight like a map. Not the hero of it. The *floor* of it.
+And Jiang Che — who had spent the ambush's first second moving, because a courier whose party is attacked does not wait for assignments. Had the grass out and the perimeter seeded before the sentence ended: Trip-Lines at the ankles of the dark, anchors pre-set at the two trees worth anchoring, his vines holding dew that read the whole fight like a map. Not the hero of it. The *floor* of it.
 
-The snake was fast in the way rumors are fast and armored in the way grudges are armored. Its scales turned the first Thunder Dragon Claw the way a cathedral turns weather — and it *learned*, between strikes, the way old things learn: the second claw it dodged, the third it answered with a tail-lash that cracked two of the roadside saplings into kindling, and the pink fog it breathed got thicker each time, a musk-sweetness that sat on the sinuses and made the world's edges go soft and treacherous.
+The snake was fast in the way rumors are fast and armored in the way grudges are armored. Its scales turned the first Thunder Dragon Claw the way a cathedral turns weather — and it *learned*, between strikes, the way old things learn: the second claw it dodged, the third it answered with a tail-lash that cracked two of the roadside saplings into kindling. And the pink fog it breathed got thicker each time, a musk-sweetness that sat on the sinuses and made the world's edges go soft and treacherous.
 
-The pills cut through — whatever Bei Bei carried in that porcelain vial, it tasted like bile and pine and worked like a slammed window — but the fog kept coming, and the fight settled into the specific rhythm of a strong man versus a patient one: the lightning probing, the armor holding, the snake waiting for the drug-fog to do its slow work while the first disciple's soul power ticked down in increments only the sharing could see. Bei Bei's Thunder Dragon Claw herded it; his lightning-net met the Datura's pink fog and *sleeted*; the pills came out — porcelain, one each, pushed into mouths by the first disciple's efficient hands — and through it all the gold rose in Yuhao's eyes, and the sharing poured into Bei Bei and Tang Ya like cold water into empty cups, and both of them flinched, and both of them *understood at once*: distance, weight, the coil-loading in the tail, the half-breath tell before every strike.
+The pills cut through — whatever Bei Bei carried in that porcelain vial, it tasted like bile and pine and worked like a slammed window — but the fog kept coming. And the fight settled into the specific rhythm of a strong man versus a patient one: the lightning probing, the armor holding, the snake waiting for the drug-fog to do its slow work while the first disciple's soul power ticked down in increments only the sharing could see. Bei Bei's Thunder Dragon Claw herded it; his lightning-net met the Datura's pink fog and *sleeted*; the pills came out — porcelain, one each, pushed into mouths by the first disciple's efficient hands — and through it all the gold rose in Yuhao's eyes. And the sharing poured into Bei Bei and Tang Ya like cold water into empty cups, and both of them flinched, and both of them *understood at once*: distance, weight, the coil-loading in the tail, the half-breath tell before every strike.
 
 "What—" Tang Ya began.
 
 "Later," said Bei Bei — and the purple ring lit, and *Thunder Fury* took him, and he walked in.
 
-The fight's end was the sharing's: the snake broke and fled into the pull Bei Bei had pre-placed on its escape line, and the flower-crown burst — a pink blood-arrow, venom in the blood itself — and the shared world showed the crown *lighting up under the skin* before it opened, and the doubled Thunder Dragon Claw was already moving, and the arrow died in thunder, and Bei Bei's hand closed on seven inches of snake.
+The fight's end was the sharing's: the snake broke and fled into the pull Bei Bei had pre-placed on its escape line, and the flower-crown burst — a pink blood-arrow, venom in the blood itself. And the shared world showed the crown *lighting up under the skin* before it opened, and the doubled Thunder Dragon Claw was already moving, and the arrow died in thunder, and Bei Bei's hand closed on seven inches of snake.
 
 "Xiao Ya."
 
@@ -61,7 +61,7 @@ Jiang Che, who had been cleaning snake-gore off a vine with the absent thoroughn
 
 "I'm saying," said Bei Bei, with the lazy warmth gone and the whetstone underneath, "that when she wakes — and you will tell no one I predicted this — she is going to look at your soul, and at her sect of three days' growth, and something behind her eyes is going to light up like the ancestor's own furnace. She has wanted, her whole life, for the grass to *matter.* And the road, in thanks for her fish, has delivered her a boy with two rings and a mutated life-core and the patience of a river." The first disciple looked at the third bed that did not exist yet, and saw it. "I only ask you to know what you'd be walking into. Think about it *after* she's awake."
 
-But the courier was not listening with his whole attention. He was listening with the part of him that the AT had been training since conception — and the part of him that had heard, in the last hour, the way Bei Bei's arm rang when the lightning hit it, and the way the snake's armor had *sounded* under the claw, and the way Tang Ya's flying knife had whistled at a pitch his forge-ear had already filed. And he asked, apropos of nothing, with a smith's pure covetousness:
+But the courier was not listening with his whole attention. He was listening with the part of him that the AT had been training since conception — and the part of him that had heard, in the last hour, the way Bei Bei's arm rang when the lightning hit it. And the way the snake's armor had *sounded* under the claw, and the way Tang Ya's flying knife had whistled at a pitch his forge-ear had already filed. And he asked, apropos of nothing, with a smith's pure covetousness:
 
 "Your arm. When the lightning's on it. Does the bone *sing?*"
 
@@ -89,7 +89,7 @@ And then, because she was Tang Ya, she wiped her face with the wrist that wasn't
 
 "Copy that," said the courier, who had learned the words from his brother two days ago and liked the taste of them, and the fox, in his coat, against his chest, said — so low only one boy heard — "*Adequate.*"
 
-The waiting hour had its own life, too — the hour between the snake's death and Tang Ya's waking, when the party sat on roots and did the things people do after nearly dying: Tang Ya, meditating, glowed faintly; Bei Bei cleaned his arm's scales down with an oiled cloth from nowhere, a soldier's maintenance; and the two boys — the brothers — discovered that they had never once, in three days of road, simply sat and argued about nothing.
+The waiting hour had its own life, too — the hour between the snake's death and Tang Ya's waking, when the party sat on roots and did the things people do after nearly dying: Tang Ya, meditating, glowed faintly. Bei Bei cleaned his arm's scales down with an oiled cloth from nowhere, a soldier's maintenance; and the two boys — the brothers — discovered that they had never once, in three days of road, simply sat and argued about nothing.
 
 "You had the last of the dried plums," said Yuhao.
 
@@ -103,7 +103,7 @@ The waiting hour had its own life, too — the hour between the snake's death an
 
 "The plum is gone, brother. Let the plum go."
 
-And Huo Yuhao, who had never had a brother, and never had a plum argument, and never had someone to be *annoyed* at who was also *safe* — discovered, somewhere between outrage and laughter, that this was what it was: that the plum didn't matter and the arguing *did,* and that the fox across the fire was watching them both with her chin on her paws and an expression that in a lesser creature would have been called a smile.
+And Huo Yuhao, who had never had a brother, and never had a plum argument, and never had someone to be *annoyed* at who was also *safe* — discovered, somewhere between outrage and laughter. That this was what it was: that the plum didn't matter and the arguing *did,* and that the fox across the fire was watching them both with her chin on her paws and an expression that in a lesser creature would have been called a smile.
 
 
 
@@ -115,10 +115,10 @@ And Huo Yuhao, who had never had a brother, and never had a plum argument, and n
 
 "Ask him," said the courier, simply. "When he wakes up. Ask him. You're the house. The house gets to ask."
 
-And the boy with a god in his chest nodded, slowly, against the same bark, and the fire burned down, and the fox did not say anything at all — because the moment was the boys', and she was, tonight, only the warmest thing in a coat on the biggest night of two lives that were learning, day by day, to be *shared.*
+And the boy with a god in his chest nodded, slowly, against the same bark, and the fire burned down, and the fox did not say anything at all. Because the moment was the boys', and she was, tonight, only the warmest thing in a coat on the biggest night of two lives that were learning, day by day, to be *shared.*
 
 
-The dusk came slowly. Tang Ya's breathing changed — the deep end of a two-year bottleneck surfacing at last — and Bei Bei moved to her shoulder without being asked, and the boys moved to the fire's far side without being asked, and the camp arranged itself around the woman it was built to guard the way a river arranges itself around a stone: naturally, and without discussion.
+The dusk came slowly. Tang Ya's breathing changed — the deep end of a two-year bottleneck surfacing at last — and Bei Bei moved to her shoulder without being asked. And the boys moved to the fire's far side without being asked, and the camp arranged itself around the woman it was built to guard the way a river arranges itself around a stone: naturally, and without discussion.
 
 The forest's rim had its own night-sounds — not the deep-wood silences that made dogs lie flat, but the ordinary tick and sigh of an edge-land: insects, small wind, something with wings crossing the dark high up. Jiang Che listened to it the way he had listened to every night since the stream: with the moisture-sense spread thin, reading the water in the air, the water in the ground, the water in the breathing shapes around him. It was, he was discovering, a way of being *alone with people* — present in every breath they took, asking nothing of any of them. His father had a version of it with a patrol-route. His mother had a version of it with a ward. The courier's version was a campfire and two soul-mates and a snake-skull and the first night of the rest of his life, and he sat in the middle of it being exactly, adequately, boringly himself.
 

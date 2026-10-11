@@ -9,7 +9,7 @@
 
 The spar's first minute taught everyone what the year would learn to fear.
 
-Wang Dong at thirty meters, wings lit, one yellow ring and one *purple* — and then he moved, and "moved" was the wrong word: the Light Goddess Butterfly's **instinct** — no soul skill, just the martial soul's own gift — threw him forward on jets of gold from the wing-V, and he crossed ten meters in the time it takes to be surprised.
+Wang Dong at thirty meters, wings lit, one yellow ring and one *purple* — and then he moved, and "moved" was the wrong word: the Light Goddess Butterfly's **instinct**. No soul skill, just the martial soul's own gift — threw him forward on jets of gold from the wing-V, and he crossed ten meters in the time it takes to be surprised.
 
 And the field went gold.
 
@@ -21,13 +21,13 @@ The sharing poured into Xiao Xiao — fifty meters of forest standing up in her 
 
 The cauldron moved left. The prince, mid-bank, found the sky full of bell.
 
-And the courier — the third of the room, the third of the team — stood at the field's edge and did the thing the class would spend the year describing badly: **nothing, at volume.** His vines were out — had been out since "begin" — but they were not attacking, not binding, not even visible for the most part: they were the *floor*, threaded through the grass and the roots at ankle height across the whole dueling ground, dew-beaded, reading every footfall, every shift of weight, every landing the prince was going to need. He had not told anyone he was doing it. It was not a trick. It was the Captain's first form: *before the fight, own the ground.*
+And the courier — the third of the room, the third of the team — stood at the field's edge and did the thing the class would spend the year describing badly: **nothing, at volume.** His vines were out — had been out since "begin". But they were not attacking, not binding, not even visible for the most part: they were the *floor*, threaded through the grass and the roots at ankle height across the whole dueling ground, dew-beaded, reading every footfall, every shift of weight, every landing the prince was going to need. He had not told anyone he was doing it. It was not a trick. It was the Captain's first form: *before the fight, own the ground.*
 
 So when the prince — frustrated, brilliant, proud — finally did the inevitable and committed his first soul skill, the golden wing-V blazing as soul power flooded his forewings for the piercing dash that would go *through* the bell instead of around it—
 
 —the ground itself reached up and took his ankles.
 
-Not hard. Not cruel. *Exactly* enough: one stride's worth of deceleration, one heartbeat of geometry — and in that one heartbeat the cauldron arrived, gently, like a temple bell being introduced to a fly, and the prince sat down in midair with his eyes crossed and his wings folding around him like a dropped curtain, and the fox, from her stump, said "*Adequate*" to nobody, which from her was a parade.
+Not hard. Not cruel. *Exactly* enough: one stride's worth of deceleration, one heartbeat of geometry — and in that one heartbeat the cauldron arrived, gently, like a temple bell being introduced to a fly. And the prince sat down in midair with his eyes crossed and his wings folding around him like a dropped curtain, and the fox, from her stump, said "*Adequate*" to nobody, which from her was a parade.
 
 "...Again," said Wang Dong, from inside the wings, with terrible dignity.
 
@@ -67,7 +67,7 @@ The bell-note rang across the square. The bear sat down in a daze, and the refer
 
 **—and the spear-girl, to her eternal credit, was faster than the stumble.** She had flanked hard, low, along the rope-line, and her spear came at Xiao Xiao's blind side with real speed — a good strike, a clean line, the kind that ends fights — and the Light Goddess Butterfly met it in the open air.
 
-Wang Dong did not kill beautifully, quite. He killed *correctly:* one pass, one golden wing-strike carrying his full soul skill, and the spear left her hand at a distance of three meters and she left her feet at a distance of two, and landed — precisely, deliberately, *gently* — in a vine-cushion the courier had placed at the landing spot before she had chosen to fall into it.
+Wang Dong did not kill beautifully, quite. He killed *correctly:* one pass, one golden wing-strike carrying his full soul skill, and the spear left her hand at a distance of three meters and she left her feet at a distance of two. And landed — precisely, deliberately, *gently* — in a vine-cushion the courier had placed at the landing spot before she had chosen to fall into it.
 
 **Second forty:** the support surrendered with his shield-array still glowing, because his entire team was on the ground being *not-died at* and he had done this math before.
 
@@ -77,7 +77,7 @@ Wang Dong did not kill beautifully, quite. He killed *correctly:* one pass, one 
 
 ### THE SECOND-ROUND-BEAT *(the afternoon's middle - the routine establishes)*
 
-The second fight was a spear-trio - all agility, all angles - and it lasted three minutes because the spear-trio was clever: they kept their distance, probed the edges, and tried, with real intelligence, to split the team - one spear for the girl, two for the wings, nothing at all for the boy with no visible soul skill, which was the correct read and the fatal one.
+The second fight was a spear-trio - all agility, all angles - and it lasted three minutes because the spear-trio was clever: they kept their distance, probed the edges. And tried, with real intelligence, to split the team - one spear for the girl, two for the wings, nothing at all for the boy with no visible soul skill, which was the correct read and the fatal one.
 
 You do not send *nothing* at the floor.
 
@@ -117,7 +117,7 @@ The prince, arriving at the medics' corner with the laundry settlement glowing o
 
 ### THE TEN *(the day's arithmetic — ensemble)*
 
-By the dusk bell, Group One had fought four times, and the four fights had taken eleven minutes total, and the boards had them at four wins and a rumor-column all their own — and the courier had mended nineteen children in the medics' corner, fourteen of them from other teams' matches, five of them from his own team's, all of them filed in a ledger whose real subject was the year's damage-profiles.
+By the dusk bell, Group One had fought four times, and the four fights had taken eleven minutes total, and the boards had them at four wins and a rumor-column all their own. And the courier had mended nineteen children in the medics' corner, fourteen of them from other teams' matches, five of them from his own team's, all of them filed in a ledger whose real subject was the year's damage-profiles.
 
 The night's debrief, at the drowned grill: the fox on the table, the team around it, the year's first day cut into the boards behind them.
 
@@ -145,7 +145,7 @@ And the courier - the weather, the hammer, the boring one, the floor - closed th
 
 "Same time tomorrow."
 
-"Same time tomorrow," said the room - all of it, in stereo, in the cadence that was theirs - and the year's first day of cutting ended not in chalk or glory but in fish and arithmetic and the specific, unremarkable, load-bearing comfort of people who had decided, months ago, to be a team, and were now, finally, being allowed to prove it.
+"Same time tomorrow," said the room - all of it, in stereo, in the cadence that was theirs - and the year's first day of cutting ended not in chalk or glory but in fish and arithmetic and the specific. Unremarkable, load-bearing comfort of people who had decided, months ago, to be a team, and were now, finally, being allowed to prove it.
 
 ---
 

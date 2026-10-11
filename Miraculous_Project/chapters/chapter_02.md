@@ -12,7 +12,7 @@ Kamé was sitting on the rim of a cereal bowl.
 
 "About the cuff I already told her about the carousel. She cried. It was very effective."
 
-Keal opened the box labeled with his name, in four colors of marker as well, because it was his mother's kitchen and her rules, and under a jumper and a pair of socks there was a bar of candy in a wrapper the color of the sea, and he put it in his pocket the way you do a thing that has to be done quietly, and Kamé, who had been keeping a count, kept a count of that too.
+Keal opened the box labeled with his name, in four colors of marker as well, because it was his mother's kitchen and her rules, and under a jumper and a pair of socks there was a bar of candy in a wrapper the color of the sea. And he put it in his pocket the way you do a thing that has to be done quietly, and Kamé, who had been keeping a count, kept a count of that too.
 
 On his wrist the cuff was matte grey. Nothing. For the first time since the storm it was only a bracelet, and he wore it the way he had worn it for seven years, as a thing that did not exist. That was the trick of the band, he had come to understand: it had been hiding in plain sight for seven years, and plain sight, it turned out, was a very good place to hide.
 
@@ -26,7 +26,7 @@ Today was the first full day at school since the storm, and Paris had opinions a
 
 ---
 
-The hallway at Collège Françoise Dupont at eight forty was a newsroom. Every phone was a television. The storm vlog was playing on six of them at once, at six different moments, and the park's morning had become the city's morning — the ice, the mask, the toddler, the roof, and at four minutes and twelve seconds the place where the eye was sure it had seen something, which was exactly the place the eye could not find.
+The hallway at Collège Françoise Dupont at eight forty was a newsroom. Every phone was a television. The storm vlog was playing on six of them at once, at six different moments, and the park's morning had become the city's morning. The ice, the mask, the toddler, the roof, and at four minutes and twelve seconds the place where the eye was sure it had seen something, which was exactly the place the eye could not find.
 
 Alya had her phone out like a shield, which was her natural posture, and she was running the clip for a cluster of four that had formed around it without deciding to.
 
@@ -66,7 +66,7 @@ The stylus stopped. The room's attention, which had been asleep, opened one eye.
 
 "I will not ask you twice. The office."
 
-Nathaniel got up, and his chair went with him, and he tripped over Mylène's backpack — the backpack was on the floor because backpacks are on the floor, and Mylène had not yet decided where it was going — and his bag opened its mouth in the middle of the aisle and gave back everything it had: the notebook, the stylus, the comic.
+Nathaniel got up, and his chair went with him, and he tripped over Mylène's backpack — the backpack was on the floor because backpacks are on the floor. And Mylène had not yet decided where it was going — and his bag opened its mouth in the middle of the aisle and gave back everything it had: the notebook, the stylus, the comic.
 
 The comic hit the floor open.
 
@@ -84,13 +84,13 @@ The room was quiet the way a room is quiet when it is deciding whether to laugh.
 
 "Office," said Olga Mendeleiev, picking Nathaniel up off the floor by the elbow the way you pick up a cat, gently and with no apology.
 
-Nathaniel walked to Chloé. He held out his hand. The comic was in Chloé's hand, and he took it back the way you take back a thing that was never yours to lose, and then Chloé's thumb found the last page, and the last page came off the book, and the exclamation mark went onto the floor, and the room's four voices, which had been deciding, stopped deciding, because something in the room's temperature had gone down by one degree, and Keal, in the third row by the window, felt it the way he felt weather: a hairline, a tension, a wrong that was already walking toward the door.
+Nathaniel walked to Chloé. He held out his hand. The comic was in Chloé's hand, and he took it back the way you take back a thing that was never yours to lose, and then Chloé's thumb found the last page, and the last page came off the book, and the exclamation mark went onto the floor. And the room's four voices, which had been deciding, stopped deciding, because something in the room's temperature had gone down by one degree, and Keal, in the third row by the window, felt it the way he felt weather: a hairline, a tension, a wrong that was already walking toward the door.
 
 He got up, and walked to the aisle, and stopped a step behind the boy who was holding a book with a torn spine.
 
 "A last page isn't the whole book," Keal said.
 
-Nathaniel stopped. The hallway was behind him, the office was in front of him, and the new kid was standing in the middle of it with the calm of a person who had just been in the ice and come out of it, and for one second — one second, the exact second the air in the classroom did something it had no right to do — Nathaniel looked at him.
+Nathaniel stopped. The hallway was behind him, the office was in front of him, and the new kid was standing in the middle of it with the calm of a person who had just been in the ice and come out of it. And for one second — one second, the exact second the air in the classroom did something it had no right to do — Nathaniel looked at him.
 
 Then he walked to the office, and the door closed, and the hairline in the air stayed.
 
@@ -116,7 +116,7 @@ Nathaniel looked at the stylus. The stylus looked back the way a thing looks bac
 
 "Deal," he said.
 
-The transformation that followed was the kind of thing a comic book would not believe: the drawing of a boy became the boy the drawing had always been — the one on the last page, the one in the panel that had not been drawn yet — in a coat that was a sketch come loose from the page, in a face that was an ink line with a pulse in it. The Evillustrator stood in the hallway with a tablet in one hand and a stylus in the other, and the hallway, which had been holding its breath, let it go, and the wall he was standing in front of was, for one second, a wall that had been drawn: the paint a little too flat, the molding a little too perfect, and then it was a wall again.
+The transformation that followed was the kind of thing a comic book would not believe: the drawing of a boy became the boy the drawing had always been. The one on the last page, the one in the panel that had not been drawn yet — in a coat that was a sketch come loose from the page, in a face that was an ink line with a pulse in it. The Evillustrator stood in the hallway with a tablet in one hand and a stylus in the other, and the hallway, which had been holding its breath, let it go. And the wall he was standing in front of was, for one second, a wall that had been drawn: the paint a little too flat, the molding a little too perfect, and then it was a wall again.
 
 He went out the window.
 
@@ -148,7 +148,7 @@ The lockers at the east end of the corridor were Chloé's jurisdiction, the park
 
 Chloé was not going to help. This was announced in the first sentence. Sabrina, who had agreed in the second, was the one who did the work — had been the one who did the work since grade school, the way the river had been doing the work since the mountain, and everyone had agreed that this was just how rivers and girls worked.
 
-Marinette, who was standing in the aisle with her bag on one shoulder and the calm of a person who had made a decision, said the thing: what the two of them had was not a friendship; best friends did not do homework for each other the way one hand did not wash the other; Chloé was taking advantage; she would rather have no friends at all.
+Marinette, who was standing in the aisle with her bag on one shoulder and the calm of a person who had made a decision, said the thing: what the two of them had was not a friendship. Best friends did not do homework for each other the way one hand did not wash the other; Chloé was taking advantage; she would rather have no friends at all.
 
 The room heard the room.
 
@@ -158,7 +158,7 @@ Marinette, who did not know what to do with a new best friend, took her to the l
 
 ---
 
-Keal's group was at a table on the library's second floor — the good table, the one by the window, the one the particle physics presentations were going to be built at, four chairs, and Nino Lahiffe, who was already in one of them, looked at the new kid the way he looked at everything: deciding, in real time, what you were.
+Keal's group was at a table on the library's second floor — the good table, the one by the window, the one the particle physics presentations were going to be built at, four chairs. And Nino Lahiffe, who was already in one of them, looked at the new kid the way he looked at everything: deciding, in real time, what you were.
 
 "You're the ice kid, right?" Nino said. "I've seen the video. Forty seconds."
 
@@ -172,7 +172,7 @@ Adrien, who had been at the far end of the table doing his homework, looked up, 
 
 Keal took the seat. This had already happened with the bench under the old tree, with the croissant vendor's second croissant, twelve days running: the city, in the way the city did things, made a place, and then gave him the seat, and he took it, and the taking was the eighty percent.
 
-The library went quiet at two fourteen, in the specific way a library goes quiet when something is about to happen: the pencils stopped, the pages stopped turning, and in the aisle by the good table a small avalanche of black felt with a gold A on it came off the shelves — one, two, four, a hat, four hats, a hat that was a hat that was a hat — and then the hairdryer, the size of a car, the color of a hairdresser's, on legs that were not legs, came out of the dark of the shelves, and Chloé Bourgeois came out after it, doing the run of a person who had been chasing the hairdryer for two laps of the library and had decided, at this precise second, that the run was a thing that had been done to her.
+The library went quiet at two fourteen, in the specific way a library goes quiet when something is about to happen: the pencils stopped, the pages stopped turning. And in the aisle by the good table a small avalanche of black felt with a gold A on it came off the shelves — one, two, four, a hat, four hats, a hat that was a hat that was a hat. And then the hairdryer, the size of a car, the color of a hairdresser's, on legs that were not legs, came out of the dark of the shelves. And Chloé Bourgeois came out after it, doing the run of a person who had been chasing the hairdryer for two laps of the library and had decided, at this precise second, that the run was a thing that had been done to her.
 
 Adrien was at the window, watching the hairdryer. Then he wasn't — at the far end of the shelf stood a black mask with a staff in his hand.
 
@@ -180,7 +180,7 @@ The red-haired girl was gone too. The mask was already on the second floor, yo-y
 
 The lady in red lassoed the hairdryer and rode it, and the library, which had been a library, was now a library on fire with hair, and the black mask punned the way other people breathed: "I guess this is what they mean by a bad hair day."
 
-The girl with the yo-yo knocked the hairdryer down, and the boy with the staff smashed it, and the two of them went after the thing on the second floor — the coat that was a sketch come loose from the page, the tablet, the stylus — and the thing drew a wall, and ran, and the wall went with it, and the library, which had been holding its breath, let it go.
+The girl with the yo-yo knocked the hairdryer down, and the boy with the staff smashed it, and the two of them went after the thing on the second floor. The coat that was a sketch come loose from the page, the tablet, the stylus — and the thing drew a wall, and ran, and the wall went with it, and the library, which had been holding its breath, let it go.
 
 The class did what the class does: it looked at Keal.
 
@@ -190,7 +190,7 @@ The lady in red was on the railing of the second floor, looking for the exit, an
 
 "He's not fighting," Keal said. "He's erasing. The drawings are the things that hurt him — the beret, the dryer, the things that got mocked. Watch what he draws next, not what he's holding."
 
-The lady in red stopped on the railing. She looked at him the way you look at a word you have seen before in a sentence you do not understand: the face in the ice, the rim of the ice, the voice that had said *not the top, the rim, the thin one*, and now this — the same voice, in the open, with a face the vlog can prove, saying a thing that was true.
+The lady in red stopped on the railing. She looked at him the way you look at a word you have seen before in a sentence you do not understand: the face in the ice, the rim of the ice, the voice that had said *not the top, the rim, the thin one*. And now this — the same voice, in the open, with a face the vlog can prove, saying a thing that was true.
 
 She went after the wall.
 
@@ -200,15 +200,15 @@ Keal went after the wall's direction.
 
 By the time the sirens came, Keal had already read the direction of the thing: the library's second floor, the wall's exit, the drawing's ink running off the wall — toward the east, toward the water, the way the river runs, the way a wronged person runs: back toward the light.
 
-The watermark on the railing of the Pont de l'Archevêché was an exclamation mark — the same mark in the corner of the torn page, the same mark on the margins of Dupont's walls — and next to it, drawn in a line that was still wet, was the moon, and next to the moon, the Seine, and next to the Seine, a ship.
+The watermark on the railing of the Pont de l'Archevêché was an exclamation mark — the same mark in the corner of the torn page, the same mark on the margins of Dupont's walls. And next to it, drawn in a line that was still wet, was the moon, and next to the moon, the Seine, and next to the Seine, a ship.
 
 In the stairwell of a barge three streets from the water, the cuff pulsed.
 
 "Kamé, blend in," Keal said.
 
-The world folded. The suit came over him the way it had come the day before — the scales, the light, the bench and the hedges and the grey sky reading him and him reading them back — and the barge, and the rail, and the wet line of the moon on the water, all of it went the color of the water, and the new kid was gone, and the Seine was one thing more that was not in the water.
+The world folded. The suit came over him the way it had come the day before — the scales, the light, the bench and the hedges and the grey sky reading him and him reading them back — and the barge. And the rail, and the wet line of the moon on the water, all of it went the color of the water, and the new kid was gone, and the Seine was one thing more that was not in the water.
 
-Across the river, three streets from the bakery, the black mask came down off the rooftops to a doorstep in the light of the doorway, and the girl on the doorstep was red-haired, and the black mask did the hand, and the words, and the bow, and the girl did the face, and Keal, on the barge, watched for thirty seconds without deciding, without touching, just holding the shape of it in the mind's hand.
+Across the river, three streets from the bakery, the black mask came down off the rooftops to a doorstep in the light of the doorway, and the girl on the doorstep was red-haired. And the black mask did the hand, and the words, and the bow, and the girl did the face, and Keal, on the barge, watched for thirty seconds without deciding, without touching, just holding the shape of it in the mind's hand.
 
 The black mask left. The girl stood on the doorstep with the face of a person who has just been kissed on the hand by a cat, and Keal turned back to the Seine, and the shape went into the drawer.
 
@@ -228,13 +228,13 @@ Keal watched from the rigging, where the rigging was the color of the rigging. T
 
 The black mask was on the rooftops. Two nameless presences, on two nameless rooftops — the half-second look that was not a look, and then both of them moved, because that is what the two of them did: they moved.
 
-The girl reached for the stylus. The black mask's shoe made a sound. The girl grabbed the stylus and ran, and the black mask came out of the dark, and the Evillustrator's face went the color of a person who has just learned that the girl he drew the party for was the girl who drew the trap — hurt, and comparing her to the other girl the way people do, and she said, out loud, that everyone was comparing her to that girl tonight.
+The girl reached for the stylus. The black mask's shoe made a sound. The girl grabbed the stylus and ran, and the black mask came out of the dark, and the Evillustrator's face went the color of a person who has just learned that the girl he drew the party for was the girl who drew the trap. Hurt, and comparing her to the other girl the way people do, and she said, out loud, that everyone was comparing her to that girl tonight.
 
-The staff went across the deck and the stylus went out of the girl's hand. The villain caught it on the illuminated globe and drew a cube, and the cube came down, and the black mask and the girl were in the cube, and the villain erased part of the ship, and the hole let the river in, and the promise he had made on the bench — the promise to the girl — was broken at the exact second the water rose.
+The staff went across the deck and the stylus went out of the girl's hand. The villain caught it on the illuminated globe and drew a cube, and the cube came down, and the black mask and the girl were in the cube. And the villain erased part of the ship, and the hole let the river in, and the promise he had made on the bench — the promise to the girl — was broken at the exact second the water rose.
 
 Keal was in the water.
 
-He had been in the water since the cube came down: the barge was on a line, the line was on the mooring ring, and he was reeling the barge clear of the sinking ship, one turn at a time, while the ship drew its hole and the river did the rest. The cube went up onto the street and the street held the two of them, and behind them the ship went under, and the water was the color of the water, and Keal, in the water, was the color of the water, and no one on the bank saw a barge that no one owned move itself a hundred meters away from a sinking ship, because the bank had the two masks, and the two masks were the whole of the bank.
+He had been in the water since the cube came down: the barge was on a line, the line was on the mooring ring, and he was reeling the barge clear of the sinking ship, one turn at a time, while the ship drew its hole and the river did the rest. The cube went up onto the street and the street held the two of them, and behind them the ship went under, and the water was the color of the water, and Keal, in the water, was the color of the water. And no one on the bank saw a barge that no one owned move itself a hundred meters away from a sinking ship, because the bank had the two masks, and the two masks were the whole of the bank.
 
 Keal followed the flight. The villain flew the way a drawn thing flies — a line being put down and coming up out of the line — east, over the rooftops, toward the tall building, the gold building, the one whose resident had torn a page out of a boy's book and read it to the room. Keal followed three moves ahead: where it is going, where it is not, where it is going to be done.
 
@@ -246,7 +246,7 @@ Chloé Bourgeois was practicing her crying in front of the mirror. She had a scr
 
 The door was erased.
 
-She was under the bed. The closet was erased, and the clothes inside it with it, and the shriek came out of her the way the clothes had gone, all at once, and the bed was erased next, and the villain stood in the middle of the room with the stylus and said he had won, in the tone of a person who had just finished a sentence he had been saving all day. The giant heel came out of the stylus after that — the size of a car tire, aimed at the floor where nothing was left to stand on. The lady in red broke the heel before it got there, with both hands, the way you break a thing you have already decided to break.
+She was under the bed. The closet was erased, and the clothes inside it with it, and the shriek came out of her the way the clothes had gone, all at once, and the bed was erased next. And the villain stood in the middle of the room with the stylus and said he had won, in the tone of a person who had just finished a sentence he had been saving all day. The giant heel came out of the stylus after that — the size of a car tire, aimed at the floor where nothing was left to stand on. The lady in red broke the heel before it got there, with both hands, the way you break a thing you have already decided to break.
 
 The monologue came next, and the monologue was the best part, the way monologues are the best part: the villain was on the side of the person who had been wronged — the page, the mockery, the room that had decided for him — and the side was about to collect its Miraculouses. Chloé, under no furniture at all by now, refuted him with the delusion she had been carrying since grade school: everyone adores me. He let her have it. He had time.
 
@@ -270,7 +270,7 @@ It was the color of water, with a green edge at the wrist, and it held his ankle
 
 The chain went. The ball went. The floor came back the way a floor comes back, all at once, and the black mask climbed, and the hand was gone.
 
-The Lucky Charm came out of the yo-yo: a small bouncy ball. The lady in red threw it, and the ball did what a bouncy ball does in a room full of lamps — it went everywhere, and all the lights in the room went out at once, and the villain put his arm up over his face, because the villain had spent the whole night needing the light, and the yo-yo took him while he was open, and the stylus dropped, and she caught it, and broke it, and the ring on the black mask's hand said one minute, and the butterfly came out of the broken stylus with the sound of a match being blown out, and the lady in red caught it, and the de-evilization came, and the room on the seventh floor was a room again, and the window in the other girl's room was a window again, and the city, which had been holding its breath since two fourteen, exhaled.
+The Lucky Charm came out of the yo-yo: a small bouncy ball. The lady in red threw it, and the ball did what a bouncy ball does in a room full of lamps — it went everywhere, and all the lights in the room went out at once. And the villain put his arm up over his face, because the villain had spent the whole night needing the light, and the yo-yo took him while he was open, and the stylus dropped. And she caught it, and broke it, and the ring on the black mask's hand said one minute, and the butterfly came out of the broken stylus with the sound of a match being blown out. And the lady in red caught it, and the de-evilization came, and the room on the seventh floor was a room again, and the window in the other girl's room was a window again, and the city, which had been holding its breath since two fourteen, exhaled.
 
 ---
 
@@ -294,7 +294,7 @@ The next morning at Collège Françoise Dupont, the library clip was on six phon
 
 *the new kid from Dupont. twelve days. three times on the school feed. I'm done.*
 
-Alya was interviewing Chloé at the east-end lockers, phone out, and Chloé was complaining, loud enough for the corridor: the heroes had made everything worse, they'd broken the door, they'd broken the heel, they'd broken everything, and Marinette, who was standing in the aisle with her bag on one shoulder, heard it, and laughed — the laugh of a person who has been waiting a year for that sentence to be true — and Sabrina, wearing the Gabriel beret like a crown, walked over and took Chloé's side, because the beret had made her Chloé's side, and said the project would be done, and the project would be done by one person, and she meant herself.
+Alya was interviewing Chloé at the east-end lockers, phone out, and Chloé was complaining, loud enough for the corridor: the heroes had made everything worse, they'd broken the door, they'd broken the heel, they'd broken everything, and Marinette, who was standing in the aisle with her bag on one shoulder, heard it. And laughed — the laugh of a person who has been waiting a year for that sentence to be true — and Sabrina, wearing the Gabriel beret like a crown, walked over and took Chloé's side. Because the beret had made her Chloé's side, and said the project would be done, and the project would be done by one person, and she meant herself.
 
 The locker.
 
@@ -302,7 +302,7 @@ Marinette closed her locker, and Adrien Agreste was behind her, the way he had b
 
 "About Cat Noir," Adrien said. "The way he was. The hand."
 
-Marinette stammered. The stammer did the thing the stammer does; it called Adrien Agreste dreamy, and then, because the stammer had momentum, it called him the most awesome of awesome, and Adrien Agreste took it the way he took everything — as if it were about someone else — patted her shoulder, and left, and the school bell rang on schedule, and the schedule did not care.
+Marinette stammered. The stammer did the thing the stammer does; it called Adrien Agreste dreamy, and then, because the stammer had momentum, it called him the most awesome of awesome. And Adrien Agreste took it the way he took everything — as if it were about someone else — patted her shoulder, and left, and the school bell rang on schedule, and the schedule did not care.
 
 Tikki, out of the bag, said, "You just called Adrien awesome. To his face." Marinette, who had been a Marinette, was now a person who needed better control over her emotions, and she ignored Tikki, the way you ignore a thing that has just been proven to you.
 
@@ -349,7 +349,7 @@ Hawk Moth: akumatized this chapter: **1** (Nathaniel Kurtzberg / Evillustrator) 
 Butterflies shown: **6**
 
 ### Spectator Test
-A stranger with the library clip and the storm vlog can report: the new kid from Dupont is the calm one in the middle of the panic (a clear face, in-crisis); he was calling the heroes' plays ("watch what he draws next"); the same build as the 4:12 blur; and a comment section that has finally stopped arguing about whether the green one exists and started arguing about whether the new kid IS the green one.
+A stranger with the library clip and the storm vlog can report: the new kid from Dupont is the calm one in the middle of the panic (a clear face, in-crisis). He was calling the heroes' plays ("watch what he draws next"); the same build as the 4:12 blur; and a comment section that has finally stopped arguing about whether the green one exists and started arguing about whether the new kid IS the green one.
 
 ### OC Voice
 12 turns

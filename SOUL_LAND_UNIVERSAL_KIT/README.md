@@ -103,6 +103,12 @@ SOUL_LAND_UNIVERSAL_KIT/
     │                          chapter directory by content and by what the status
     │                          files say, refuses when it cannot tell
     ├── gate_selftest.sh       proves the house gate notices a shrunken SCOPE
+    ├── fix_sentences.py       the sentence repair — splits a sentence over the
+    │                          60-word cap at a boundary the prose already has:
+    │                          dash, semicolon, ", and/but/because…", a comma, and
+    │                          as a last resort a bare conjunction. It moves no
+    │                          word, never splits inside speech, and refuses —
+    │                          loudly — to leave a fragment or part-fix a line
     ├── account.py             the CONTROL CENTRE — every book on the account in
     │                          one run: gate, repeated prose, two-home texts,
     │                          status receipts, publication, live Pages sites,

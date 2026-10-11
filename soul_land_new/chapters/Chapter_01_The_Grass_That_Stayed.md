@@ -68,7 +68,7 @@ It was an ordinary cart with an extraordinary passenger, which is the way of suc
 
 The attendant from Nuoding was a dry man in Spirit Hall grey, neither young nor old, with the patient look of someone who had unpacked the same black stones in village after village. He greeted Old Tao with two fingers at his brow, accepted a cup of hot water and no tea, and set up on the raised boards of the fair platform, because the hall had learned long ago that ceremonies ran better when children had to climb up to them.
 
-The stones were the color of night and round as fists, and he laid them out in a pattern without measuring, the way a woman lays out dumplings. Then, from a cloth, he took the crystal ball, and a sound went through the square that was not quite a whisper — because the crystal ball was blue the way the sky is blue on the one good week of the year, and it was the most beautiful thing most of the children had ever seen that did not belong to them.
+The stones were the color of night and round as fists, and he laid them out in a pattern without measuring, the way a woman lays out dumplings. Then, from a cloth, he took the crystal ball, and a sound went through the square that was not quite a whisper. Because the crystal ball was blue the way the sky is blue on the one good week of the year, and it was the most beautiful thing most of the children had ever seen that did not belong to them.
 
 "Children of Qingni," said Old Tao, in his ceremony voice. "Today the hall opens your souls. Whatever comes, you bow. Whatever comes, you remember your manners."
 
@@ -88,7 +88,7 @@ The first child went up.
 
 Lan Shen watched every one of them, because watching was what he did, and because the thing being done was going to be done to him, and he wanted to know its shape.
 
-The boy with the blacksmith's nephew's face stood in the stones and shut his eyes hard, and a little hammer came out of his hand, the size of a sparrow, and hung there grey and trembling while the attendant watched it, and then the light behind the attendant's palm went out and the hammer vanished and the attendant said, in the voice he used for most of them, "No soul power. Cannot cultivate." The boy came down red-faced, and his father put a hand on his head, and that was the shape of most of them.
+The boy with the blacksmith's nephew's face stood in the stones and shut his eyes hard, and a little hammer came out of his hand, the size of a sparrow. And hung there grey and trembling while the attendant watched it, and then the light behind the attendant's palm went out and the hammer vanished and the attendant said, in the voice he used for most of them, "No soul power. Cannot cultivate." The boy came down red-faced, and his father put a hand on his head, and that was the shape of most of them.
 
 A bowl. No soul power. A length of rope, thin as a worm. No soul power. A girl whose soul turned out to be her own two hands, doubled and shining, which the attendant studied for a long moment before he said no, and she came down crying with pride anyway.
 
@@ -154,7 +154,7 @@ That was the small thing, and it was the only thing about the morning that was n
 
 Lan Shen put his hand on the ball.
 
-The ball lit the way a coal lights when the fire has mostly gone out — not dark, not bright. A small, steady, honest ember, no bigger than the hollow of his hand, and steady was the word for it, because it did not flicker, and the attendant watched it for a moment longer than the light deserved, and felt something he would not have been able to name: the sense of having weighed a thing and found the scale wrong, though he could not say which side of it was wrong.
+The ball lit the way a coal lights when the fire has mostly gone out — not dark, not bright. A small, steady, honest ember, no bigger than the hollow of his hand, and steady was the word for it, because it did not flicker, and the attendant watched it for a moment longer than the light deserved. And felt something he would not have been able to name: the sense of having weighed a thing and found the scale wrong, though he could not say which side of it was wrong.
 
 Then he set the ball down, and did his duty, which was the truth.
 
@@ -172,7 +172,7 @@ And whatever had come out of that hall, he came home.
 
 ---
 
-That night, after the lamps were out and the house had settled into its sleeping shape, Lan Shen stood at the edge of the field behind the house, where the creek road bends, in the habit that had been his grandmother's before it was his — watching the treeline before sleep, the way she had taught him to do, though she had never told him why.
+That night, after the lamps were out and the house had settled into its sleeping shape, Lan Shen stood at the edge of the field behind the house. Where the creek road bends, in the habit that had been his grandmother's before it was his — watching the treeline before sleep, the way she had taught him to do, though she had never told him why.
 
 It was too dark to see the grass. He did not need to see it. It was there in every direction, along the field edges, down the creek banks, up through the broken wall of the old shrine — the thing the world had most of and prized least, the same everywhere, going quietly about its business of holding the soil together, and nobody thanked it, and it held the soil together anyway.
 

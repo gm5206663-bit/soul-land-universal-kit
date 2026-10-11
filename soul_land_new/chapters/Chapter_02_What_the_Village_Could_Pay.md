@@ -78,7 +78,7 @@ His father looked at the elder, and at the lanterns, and at the folded arms of t
 
 He put his hat back on. That was the speech.
 
-And something moved in the dark beside the wall where the women stood, small and quick, as Zhou Shi turned her face away; and Lan Shen, watching from the edge with the other children, felt the warm place in his palm go very still, and understood — in the way of that evening, without words, the way everything that mattered that year came to him without words — that his father had not given him up. His father had looked at what the village could pay, and what the family could not, and had spent his own pride like a man paying a debt, so that the debt would not come to his son.
+And something moved in the dark beside the wall where the women stood, small and quick, as Zhou Shi turned her face away. And Lan Shen, watching from the edge with the other children, felt the warm place in his palm go very still, and understood — in the way of that evening, without words, the way everything that mattered that year came to him without words — that his father had not given him up. His father had looked at what the village could pay, and what the family could not, and had spent his own pride like a man paying a debt, so that the debt would not come to his son.
 
 "Then it's Tao Wu," said Old Tao, gently, the way you close a book. "The road goes to Tao Wu, and the village will carry it, and the boy will make us proud, or we'll know the reason." He looked at Tao Wu, and his face did the thing that faces do when they are proud and frightened at once. "You hear me, boy? You go for all of us."
 

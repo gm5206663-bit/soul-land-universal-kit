@@ -51,7 +51,7 @@ The room's ambient dignity dropped ten degrees. Somewhere in her ancestry, a hun
 
 "Once per night," he said, turning a page with the hand that was not committing treason.
 
-The fox considered the amendment. The fox, who had spent four years training this human in the precise mechanics of what she would and would not endure, and who had watched him grow from a seven-year-old with burned hands into whatever he was now — this boy who had stopped a mountain that afternoon and given a fortune away without blinking and kept another boy's secret in his chest like a stone he had no intention of showing anyone — the fox let out a breath through her nose, the smallest concession ever granted by her line, and leaned one half-degree into the ruffling hand.
+The fox considered the amendment. The fox, who had spent four years training this human in the precise mechanics of what she would and would not endure, and who had watched him grow from a seven-year-old with burned hands into whatever he was now. This boy who had stopped a mountain that afternoon and given a fortune away without blinking and kept another boy's secret in his chest like a stone he had no intention of showing anyone — the fox let out a breath through her nose, the smallest concession ever granted by her line, and leaned one half-degree into the ruffling hand.
 
 "*Once per night,*" she allowed, to the candle. "*While the candle burns. Do not tell anyone.*"
 
@@ -77,13 +77,13 @@ Soul power — thick, clean, water-adjacent — was breathing off the third bed 
 
 Jiang Che was awake too — had been awake, had felt the soul-power tide shift through his moisture-sense a full minute before Wang Dong's cruder instruments registered it. He watched the mist work with a healer's son's eyes and said nothing, because the night had already taught him what was his to say.
 
-But the fox sat up on his knee. The gold eyes were open all the way now, and they were not lazy at all. She looked at the sleeping boy wrapped in blue — the boy who had nearly fainted in the stands spending three soul skills and a secret art to turn a fight — and she looked at the mist doing what mist does to a body that has finally been *given* something instead of asked for something, and what she said, to her human alone, in the voice of a creature who had eaten treasures that could buy cities, was a single word of professional assessment:
+But the fox sat up on his knee. The gold eyes were open all the way now, and they were not lazy at all. She looked at the sleeping boy wrapped in blue — the boy who had nearly fainted in the stands spending three soul skills and a secret art to turn a fight. And she looked at the mist doing what mist does to a body that has finally been *given* something instead of asked for something, and what she said, to her human alone, in the voice of a creature who had eaten treasures that could buy cities, was a single word of professional assessment:
 
 "*Wasted on the young.*"
 
 Which was, from her, a blessing.
 
-Wang Dong held out as long as an eleven-year-old aristocrat could — about twenty minutes — and then crossed the room, sat on his heels by the third bed, and watched the mist with the hunger of a boy who had just realized that the sect he had asked to join that evening kept *medicine like this* in a senior brother's pocket like loose change. He looked across the sleeping boy at Jiang Che.
+Wang Dong held out as long as an eleven-year-old aristocrat could — about twenty minutes — and then crossed the room, sat on his heels by the third bed. And watched the mist with the hunger of a boy who had just realized that the sect he had asked to join that evening kept *medicine like this* in a senior brother's pocket like loose change. He looked across the sleeping boy at Jiang Che.
 
 "...This is normal for your sect?"
 
@@ -93,7 +93,7 @@ Wang Dong looked at the mist. Looked at Jiang Che. Looked, last and longest, at 
 
 "Good," he said, quietly, with a prince's whole authority. "I want in."
 
-And then — because he was Wang Dong, and feelings were for rooms with locked doors — he went back to his furs, gathered his bedding into his storage soul tool with the decisive movements of a boy executing a decision already made, and left the room entirely to find somewhere else to sleep, because the room currently smelled like a riverbed and his standards had limits.
+And then — because he was Wang Dong, and feelings were for rooms with locked doors — he went back to his furs, gathered his bedding into his storage soul tool with the decisive movements of a boy executing a decision already made. And left the room entirely to find somewhere else to sleep, because the room currently smelled like a riverbed and his standards had limits.
 
 The door clicked shut behind him, and the fox said: "*He will be the fifth.*"
 
@@ -141,7 +141,7 @@ In the corridor, half-asleep against the wall, sat Wang Dong — who had returne
 
 Which he did, at first light, through a door left ajar: a sneeze, a splash of foul language, the frantic scrape of a window thrown open, and the sound of a boy discovering that his own bed had become a swamp overnight. The smell that left room 108 in a cloud was indescribable and also, to a healer's son's education passing by on the stairs, deeply encouraging: it was the smell of a body discarding its whole past. Wang Dong, in the corridor, listened to the frantic washing-up and the scrubbing of a bed-board, and smiled once, alone, where no one could see him - and then rearranged his face into indifference.
 
-And at dawn - as the east went shell-pale and the first purple breath of it stood over the academy's roofs - the boy who had been reborn stood at the window facing it, and did not know he was being watched from the stairwell by two people: a courier on his way to the forge, and a fox who had been awake all night. Neither of them knew the name of what he was doing. Both of them saw what it did. The gray boy's eyes drank the purple like a man drinking after a fever, and the world around him - the air, the dust, the morning itself - leaned subtly toward him, and when it was done his eyes were brighter than they had been the day before by a margin that had nothing to do with reflection and everything to do with what was behind them.
+And at dawn - as the east went shell-pale and the first purple breath of it stood over the academy's roofs - the boy who had been reborn stood at the window facing it. And did not know he was being watched from the stairwell by two people: a courier on his way to the forge, and a fox who had been awake all night. Neither of them knew the name of what he was doing. Both of them saw what it did. The gray boy's eyes drank the purple like a man drinking after a fever, and the world around him - the air, the dust, the morning itself - leaned subtly toward him. And when it was done his eyes were brighter than they had been the day before by a margin that had nothing to do with reflection and everything to do with what was behind them.
 
 The fox, from the coat pocket, on the way down the stairs, delivered her morning address:
 

@@ -31,11 +31,11 @@ From the coat on the nail, a small sleepy weight said: "*Adequate.*" And went ba
 
 ### THE TWO WHITES *(the waystation — the baboon story lands)*
 
-Tang Ya had heard it from Bei Bei, who had assembled it from the evidence, and she heard it again now from Yuhao himself — *the ring flared when the baboon died; the shock took me; it's a ten-year ring* — and she bought it the way kind people buy kind stories, with her whole heart, and held it, and never once pulled the thread.
+Tang Ya had heard it from Bei Bei, who had assembled it from the evidence, and she heard it again now from Yuhao himself — *the ring flared when the baboon died. The shock took me; it's a ten-year ring* — and she bought it the way kind people buy kind stories, with her whole heart, and held it, and never once pulled the thread.
 
 What she did instead was feed him. What Bei Bei did instead was assess him — quietly, professionally, the file growing pages — and what they both did, by the time the party reached the forest's southern rim two days later, was *decide.* The decision happened the way all Tang Ya's decisions happened: at speed, out loud, and centered on food.
 
-They had stopped at the tree-line to eat — the last safe ground before the deep woods, a place with a bench and a spring and a view of the green wall going up forever — and Yuhao had grilled the fish (fourteen; the courier ate two; the arithmetic held), and Tang Ya had eaten five and was working on the accounting of everyone else's portions when she put down her fish and said, with no preamble at all:
+They had stopped at the tree-line to eat — the last safe ground before the deep woods, a place with a bench and a spring and a view of the green wall going up forever. And Yuhao had grilled the fish (fourteen; the courier ate two; the arithmetic held), and Tang Ya had eaten five and was working on the accounting of everyone else's portions when she put down her fish and said, with no preamble at all:
 
 "Xiao Yuhao. Do you have anyone in the world?"
 
@@ -77,13 +77,13 @@ The rings rose first: two yellows, bright as struck coins. And then the grass ca
 
 Tang Ya did not gasp. Later, everyone agreed; she was proud of it.
 
-She walked into the vines the way you walk into a relative's house, and put her hand flat against the nearest strand, and her own rings answered — two yellow, one purple, rising unbidden — and her grass came out to meet his grass, blue-glowing vines winding curious and gentle among the blue-silver ones, and the two souls stood in the light holding hands.
+She walked into the vines the way you walk into a relative's house, and put her hand flat against the nearest strand, and her own rings answered. Two yellow, one purple, rising unbidden — and her grass came out to meet his grass, blue-glowing vines winding curious and gentle among the blue-silver ones, and the two souls stood in the light holding hands.
 
 "Blue Silver," she said, and her voice had gone somewhere else. "It's Blue Silver. You *mutated* it. Water in it. There's — what is that, *life?* The whole thing is full of—" She looked up, and what was behind her eyes was a furnace lighting: ten thousand years of the master line's stubborn honor, and the girl who had carried it alone since her teacher died, and the road, in its infinite comedy, delivering to her fire — *days after her sect became three* — a courier boy with the heirloom soul in a form nobody had ever seen.
 
 "Show me the binding," she commanded, wrecked and imperial at once. "*Show me.*"
 
-So he showed her. The Captain's Forms, one by one: the Trip-Line, the Two-Point Anchor, the Pressure-Seal — *hold without harm*, the Hall's rule, and Tang Ya made a sound like a woman finding extra dumplings — and she matched him form for form with her own vines, correcting one thing, stealing three, teaching two back, and the two grasses wove a fence in the clearing that no monkey in the forest could have explained.
+So he showed her. The Captain's Forms, one by one: the Trip-Line, the Two-Point Anchor, the Pressure-Seal — *hold without harm*, the Hall's rule, and Tang Ya made a sound like a woman finding extra dumplings. And she matched him form for form with her own vines, correcting one thing, stealing three, teaching two back, and the two grasses wove a fence in the clearing that no monkey in the forest could have explained.
 
 Then she stopped. Sat down on the bench, rather suddenly, with his vine still in her hand.
 
@@ -121,7 +121,7 @@ And Yuhao — who had owned seven silver coins and a dagger at this time last we
 
 ### THE SECOND BROTHER'S NIGHT *(room-mates at the waystation)*
 
-They walked north through the afternoon, and the walk was *different* now — a sect of three (and a fox), a sect-brother pair riding at its center — and by evening the party had made the forest's rim-camp, and the two boys ended the day as they would end every day for the next year: sitting against the same tree, because the tree was big enough and nobody had said otherwise.
+They walked north through the afternoon, and the walk was *different* now — a sect of three (and a fox), a sect-brother pair riding at its center — and by evening the party had made the forest's rim-camp. And the two boys ended the day as they would end every day for the next year: sitting against the same tree, because the tree was big enough and nobody had said otherwise.
 
 "Can I ask you something," Yuhao said, into the dark. "About the — the thing you know. About me."
 

@@ -57,7 +57,7 @@ Jiang Che ran in the pack — not the front, not the back — and beside him, fo
 
 Wang Dong, passing them both for the ninth time with the offended majesty of a hawk being overtaken by traffic, looked down at the exchange from a height of moral and physical superiority, and *nearly* smiled.
 
-The courier ran at the pace of a man who had walked sixty li before breakfast since he was eight. Jiang Che had learned his trade's central secret young: *distance is not conquered, it is administered.* His feet fell the way his father's fell on patrol; his breath ran the Hall's four-count; and where the sun lay on his shoulders and the back of his neck, something in him drank it — light feeding life, life feeding stride — so that the laps went by beneath him like ledger-lines, counted without counting.
+The courier ran at the pace of a man who had walked sixty li before breakfast since he was eight. Jiang Che had learned his trade's central secret young: *distance is not conquered, it is administered.* His feet fell the way his father's fell on patrol; his breath ran the Hall's four-count. And where the sun lay on his shoulders and the back of his neck, something in him drank it — light feeding life, life feeding stride — so that the laps went by beneath him like ledger-lines, counted without counting.
 
 *Forty-one. Forty-two.*
 
@@ -97,7 +97,7 @@ Wang Dong ran a full lap on that, jaw working. "In my whole life," he said at la
 
 "Then you've been running in a small yard," said Huo Yuhao, and — because the woodshed had taught him exactly one form of luxury — put on speed, and left a genius staring at his dust.
 
-"Not even half a sentence is worth saying!" Wang Dong announced to the sky, offended to his roots, and then, being who he was, *blazed* past the entire complaining hundred — a quarter-hour's deficit erased in half an hour of legs like whips — and finished first of all one hundred, barely breathing, so angry that he was almost happy, which is the exact temperature at which friendships set.
+"Not even half a sentence is worth saying!" Wang Dong announced to the sky, offended to his roots, and then, being who he was, *blazed* past the entire complaining hundred. A quarter-hour's deficit erased in half an hour of legs like whips — and finished first of all one hundred, barely breathing, so angry that he was almost happy, which is the exact temperature at which friendships set.
 
 ---
 
@@ -186,9 +186,9 @@ Fifteen minutes to change clothes — ninety-one students did it in ten, terror 
 
 "...Eleven, teacher."
 
-The class's disbelief was a weather system; Wang Dong covered his eyes outright — *eleven?* — and then did arithmetic backwards and arrived at *how was he even ADMITTED?*, which was precisely the question Zhou Yi answered, once, finally, on the first morning so that it would never be asked again: **a special invitation of the academy, exempt from the entrance examination — and from nothing else.** "Anyone who questions him on it again answers to me." It was, though no one in the room had the experience to notice, protection — the whetstone's other face, sharpening the small gray swordsman against the class's contempt before it could dull him.
+The class's disbelief was a weather system; Wang Dong covered his eyes outright — *eleven?* — and then did arithmetic backwards and arrived at *how was he even ADMITTED?*. Which was precisely the question Zhou Yi answered, once, finally, on the first morning so that it would never be asked again: **a special invitation of the academy, exempt from the entrance examination — and from nothing else.** "Anyone who questions him on it again answers to me." It was, though no one in the room had the experience to notice, protection — the whetstone's other face, sharpening the small gray swordsman against the class's contempt before it could dull him.
 
-Then she taught. Two characters on the board: **Attack. Defense.** Wang Dong, invited, gave the textbook answer — assault, agility and control attack; support, food, defense defend — and was told, before the whole class, that he had answered like a fool: correct four thousand years ago, wrong on the day the Sun-Moon continent arrived. **The soul tool has blurred the line** — a food-system tool master with a strong enough weapon strikes like an assault soul master; an agility fighter with a fortress shield *becomes* a wall. The age chases soul power and lets the rings rust, and "past rank fifty, they are all garbage," because a man whose body is weak dies first no matter what he carries — the enemy picks the soft one, always — and a man whose body is a weapon *plus* the age's tools is the only thing the word *strong* actually means. "Your bodies," she told ninety-one of the continent's proudest children, "are the syllabus. Three months. Fail me and follow the nine."
+Then she taught. Two characters on the board: **Attack. Defense.** Wang Dong, invited, gave the textbook answer — assault, agility and control attack; support, food, defense defend — and was told, before the whole class, that he had answered like a fool: correct four thousand years ago, wrong on the day the Sun-Moon continent arrived. **The soul tool has blurred the line** — a food-system tool master with a strong enough weapon strikes like an assault soul master; an agility fighter with a fortress shield *becomes* a wall. The age chases soul power and lets the rings rust, and "past rank fifty, they are all garbage," because a man whose body is weak dies first no matter what he carries. The enemy picks the soft one, always — and a man whose body is a weapon *plus* the age's tools is the only thing the word *strong* actually means. "Your bodies," she told ninety-one of the continent's proudest children, "are the syllabus. Three months. Fail me and follow the nine."
 
 And the class — brilliant, furious, alive — took notes.
 
@@ -212,7 +212,7 @@ For a full minute the monster teacher of Class One stood inside an eleven-year-o
 
 What happened next, Hu Yuhao would tell his sect brothers that evening in a dormitory room with the awe still leaking out of him: the monster teacher *took him by the shoulder* — and the academy went away.
 
-West, then north; the white halls, the green squares, the lake's rim all pouring past like water off a lock-gate, a Soul Emperor's speed wearing a courier's economy, the world blurred and barrier-calm around a boy too busy being carried to be frightened — until the movement stopped, and before them stood a building the size of a small mountain's opinion of itself: long, gray, half metal, humming. The ground buzzed faintly underfoot. A sign: **SOUL TOOL TESTING GROUND.**
+West, then north; the white halls, the green squares, the lake's rim all pouring past like water off a lock-gate, a Soul Emperor's speed wearing a courier's economy, the world blurred and barrier-calm around a boy too busy being carried to be frightened. Until the movement stopped, and before them stood a building the size of a small mountain's opinion of itself: long, gray, half metal, humming. The ground buzzed faintly underfoot. A sign: **SOUL TOOL TESTING GROUND.**
 
 Inside: all metal, a dark bronze he had no name for; a corridor of enormous doors; a hexagonal silver token pressed to a slot; a door — two *feet* thick — grinding sideways on rails. Beyond it, caverns divided by metal walls, and at the heart of the greatest of them, a two-thousand-square-meter field where men and women shaped the age into being, and the air tasted of ozone and purpose.
 
@@ -222,7 +222,7 @@ Out of the ozone came a mountain in simple cloth — a head and shoulders over o
 
 "You remember what you said to me last time?" — and it was said with the enthusiasm of a woman about to win an argument that had been running for years —
 
-— and this is where the evening's telling always stopped, in room 108, because the rest belonged to the next day, and the age, and a gray building whose doors knew a teacher's token; and three boys sat in the lamplight of the only triple room in the white hall, and the smallest of them said, quietly, to no one: "*soul tools,*" as a man says the name of a country he has just learned he will one day live in.
+— and this is where the evening's telling always stopped, in room 108, because the rest belonged to the next day, and the age, and a gray building whose doors knew a teacher's token. And three boys sat in the lamplight of the only triple room in the white hall, and the smallest of them said, quietly, to no one: "*soul tools,*" as a man says the name of a country he has just learned he will one day live in.
 
 ---
 
@@ -232,7 +232,7 @@ Evening, after the telling: the work-board's forge shift, an hour's walk from so
 
 "Come back tomorrow. Bring your own hammer."
 
-He had brought his own hammer. It sat on the desk of room 108 beside a page titled **the Jade Hand**, in a corner room with three beds and two roommates already breathing — one aristocratic and fur-swaddled, one somewhere deep in a white-ringed meditation — and in the pocket of a coat on the third nail, an empress who had listened all evening to a tale of gray buildings and thundering doors permitted herself one footnote:
+He had brought his own hammer. It sat on the desk of room 108 beside a page titled **the Jade Hand**, in a corner room with three beds and two roommates already breathing. One aristocratic and fur-swaddled, one somewhere deep in a white-ringed meditation — and in the pocket of a coat on the third nail, an empress who had listened all evening to a tale of gray buildings and thundering doors permitted herself one footnote:
 
 "*Little tide. The age you mean to upgrade is bigger than the one you were told about.*"
 

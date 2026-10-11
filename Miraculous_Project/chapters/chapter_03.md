@@ -18,11 +18,11 @@ The cut-out was held up next to his face for a second — close enough that he c
 
 "If I'm the lady in red," Keal said, "I've got a lot to explain to my mother."
 
-The room laughed. It was a good laugh, a real one, the kind that comes out before you decide it's rude, and Keal let it land, and he turned back to the window, and the scissor cut went on to the next face, and the next, and it stopped, in the end, on Chloé Bourgeois, and Chloé Bourgeois pointed at Miss Bustier, who was standing there, and the room laughed again, and Alya put the scissors away.
+The room laughed. It was a good laugh, a real one, the kind that comes out before you decide it's rude, and Keal let it land, and he turned back to the window. And the scissor cut went on to the next face, and the next, and it stopped, in the end, on Chloé Bourgeois, and Chloé Bourgeois pointed at Miss Bustier, who was standing there, and the room laughed again, and Alya put the scissors away.
 
 And in the middle of all of it, Keal noticed that the seat across the aisle was empty.
 
-Marinette's seat. The red-haired girl. She was not in the girls' room yet, because Miss Bustier, who had been reading to the window, had stopped, and looked at the empty seat, and said her name, in the specific voice of a teacher who has already decided the answer. And the room, which had been a room full of a joke, was now a room full of a question, and Keal, who had his back half-turned to the window and his sleeves down to his knuckles and a half-guessed bridge folded in his jacket, was in the middle of it, the way you are in the middle of a thing when you are in the room where it is happening.
+Marinette's seat. The red-haired girl. She was not in the girls' room yet, because Miss Bustier, who had been reading to the window, had stopped, and looked at the empty seat, and said her name, in the specific voice of a teacher who has already decided the answer. And the room, which had been a room full of a joke, was now a room full of a question, and Keal. Who had his back half-turned to the window and his sleeves down to his knuckles and a half-guessed bridge folded in his jacket, was in the middle of it, the way you are in the middle of a thing when you are in the room where it is happening.
 
 He filed it away. The empty seat. The red-haired girl who was not in the room. The cut-out face. The whole class, deciding, in real time, who the lady in red was.
 
@@ -38,7 +38,7 @@ He had added the street the hotel was on, and the park, and a little more of the
 
 "Always," he said.
 
-She put a blanket on the back of his chair, the way she did, and went back to the decision, and the tea went on, and the city went on, and the cuff on his wrist was matte grey, nothing, the seven-year hiding place, and he did not look at it, because he had decided, the other night, not to, not yet.
+She put a blanket on the back of his chair, the way she did, and went back to the decision, and the tea went on, and the city went on. And the cuff on his wrist was matte grey, nothing, the seven-year hiding place, and he did not look at it, because he had decided, the other night, not to, not yet.
 
 In his pocket, under his hand, a bar of candy in a wrapper the color of the sea. He did not eat it. He had been not eating it for two days, because of the thing in his other pocket, the small thing that had been sitting on a carousel and was now sitting in his jacket, keeping a count, and asking, in a voice like a bell wrapped in taffy, for candy, and getting, so far, only the quiet.
 
@@ -56,7 +56,7 @@ She came around the corner of the street doing a thing that was not running so m
 
 She tripped.
 
-Not hard. The small, complete trip, the one where the feet swap and the body leans and the day goes quiet for a second. She came straight for him, and he put a hand out — not to catch her so much as to give the morning something to land on — and her elbow found his forearm, and she didn't fall, and the tablet went, and the pencil went, and the bag opened its mouth and gave back a book, and a half-eaten biscuit, and a sketchbook that opened on the way down to a page full of half-finished designs: a dress, a bug, a dress again.
+Not hard. The small, complete trip, the one where the feet swap and the body leans and the day goes quiet for a second. She came straight for him, and he put a hand out — not to catch her so much as to give the morning something to land on — and her elbow found his forearm, and she didn't fall. And the tablet went, and the pencil went, and the bag opened its mouth and gave back a book, and a half-eaten biscuit, and a sketchbook that opened on the way down to a page full of half-finished designs: a dress, a bug, a dress again.
 
 "Oh, I'm so sorry, I'm so sorry, I'm late, I'm so late, I'm—"
 
@@ -72,7 +72,7 @@ She looked at him. He could tell, in the exact second, that she had been bracing
 
 She ran.
 
-He stood there for a second, in the cold, with the morning pouring in around him, and he picked up the pencil, and he put the biscuit back in the bag the way you put a thing back for someone who is going to need it, and he held the sketchbook, the page with the dress and the bug still open, and he did not look at it for long, because that was not the kind of looking he did, and then he put it back on the step where she had dropped it, and he did not run after her, because he knew, the way you know these things, that she would make it or she would not, and either way it was hers.
+He stood there for a second, in the cold, with the morning pouring in around him, and he picked up the pencil. And he put the biscuit back in the bag the way you put a thing back for someone who is going to need it, and he held the sketchbook, the page with the dress and the bug still open. And he did not look at it for long, because that was not the kind of looking he did, and then he put it back on the step where she had dropped it. And he did not run after her, because he knew, the way you know these things, that she would make it or she would not, and either way it was hers.
 
 The cuff pulsed once, under his sleeve. Not green, not blue. A small, warm, specific pulse, the color of a thing that had just been noticed.
 
@@ -84,7 +84,7 @@ He snorted, and then coughed over the snort, and turned, and went in, and the da
 
 By the second period the whole school knew, because the whole school is a thing that knows things by the second period, that Alya Césaire had been suspended for a week.
 
-Keal knew because he was in the building, and the building knew things, and because Nino, who was at the center table, who had become, in nine days, the first real thing at the center table, was explaining it to no one in particular with the specific energy of a person who had been asked to explain it four times and was on the fifth.
+Keal knew because he was in the building, and the building knew things, and because Nino, who was at the center table. Who had become, in nine days, the first real thing at the center table, was explaining it to no one in particular with the specific energy of a person who had been asked to explain it four times and was on the fifth.
 
 "She thought Chloé was the lady in red," Nino said. "Just. Thought. Her. And then she got caught in the locker, and then the principal, and then the suspension, and now she's not here, and now the building knows, and now we are all doing the thing where we are not looking at the door."
 
@@ -112,7 +112,7 @@ Alya Césaire, suspended, and with the specific fury of a person who has been to
 
 The voice found the anger, and the anger found the phone, and the phone became a thing that was not a phone.
 
-And in the dark, the voice was amused — the way a thing is amused when work it was doing by itself starts being done by the whole city. The class was going to decide. The city was going to watch. And somewhere, in a classroom the voice had marked, the new kid was going to be in the room when the face was held up, and the new kid was going to be the person the city could point at, and the green one, the one the voice had named to itself the other night, was going to be the person the city could not.
+And in the dark, the voice was amused — the way a thing is amused when work it was doing by itself starts being done by the whole city. The class was going to decide. The city was going to watch. And somewhere, in a classroom the voice had marked, the new kid was going to be in the room when the face was held up. And the new kid was going to be the person the city could point at, and the green one, the one the voice had named to itself the other night, was going to be the person the city could not.
 
 The voice did the work. The city did the rest.
 
@@ -120,11 +120,11 @@ The voice did the work. The city did the rest.
 
 It was on the projector that he heard her voice.
 
-He was in Miss Bustier's room — he had a free second period, and the room was empty, and he was at his seat by the window, adding a little more of the city to the notebook, the bridge still bent, the districts still swapped, the not-finished part still the city's — when the light went up, and the screen went up, and a face went up, and a voice went up, and the voice was a voice he knew.
+He was in Miss Bustier's room — he had a free second period, and the room was empty, and he was at his seat by the window, adding a little more of the city to the notebook, the bridge still bent, the districts still swapped, the not-finished part still the city's. When the light went up, and the screen went up, and a face went up, and a voice went up, and the voice was a voice he knew.
 
-Alya Césaire, on the wall of Miss Bustier's empty classroom, in a mask that was made of a phone screen, saying she was the deliverer of truth, saying she would show all of Paris who the lady in red really was, saying the words the way Alya Césaire said words, which was to say loudly, and with a phone, and with the specific conviction of a person who has been suspended for a week and has decided that the suspension was a thing that had been done to her.
+Alya Césaire, on the wall of Miss Bustier's empty classroom, in a mask that was made of a phone screen, saying she was the deliverer of truth, saying she would show all of Paris who the lady in red really was, saying the words the way Alya Césaire said words. Which was to say loudly, and with a phone, and with the specific conviction of a person who has been suspended for a week and has decided that the suspension was a thing that had been done to her.
 
-Keal stood up, and went to the door, and the hallway was full, and he went out into it, and he was, for a second, a kid in a hallway, sleeves to the knuckles, notebook in his jacket, listening to his best-friend's-best-friend's voice on every screen in the building, and he thought, in the quiet, that the city was a thing that did this, that the city took a voice and put it on a wall, and that the voice was a voice he knew, and that he was not going to ask it questions yet.
+Keal stood up, and went to the door, and the hallway was full, and he went out into it, and he was, for a second, a kid in a hallway, sleeves to the knuckles, notebook in his jacket, listening to his best-friend's-best-friend's voice on every screen in the building. And he thought, in the quiet, that the city was a thing that did this, that the city took a voice and put it on a wall, and that the voice was a voice he knew, and that he was not going to ask it questions yet.
 
 The cuff pulsed, under his sleeve. Small, warm, specific.
 
@@ -132,11 +132,11 @@ He went to his next class. The day went on.
 
 ---
 
-In the stairwell of the hotel, Keal said, "Kamé, blend in," to the stairwell, to the dark, to the hallway he had just been a kid in. The world folded. The suit came over him the way it had come the other two times — the scales, the light, the water and the bench and the grey sky reading him and him reading them back — and the stairwell, and the stone, and the dark, all of it went the color of the stairwell, and the kid was gone, and the hotel was one thing more that was not in the hotel.
+In the stairwell of the hotel, Keal said, "Kamé, blend in," to the stairwell, to the dark, to the hallway he had just been a kid in. The world folded. The suit came over him the way it had come the other two times — the scales, the light, the water and the bench and the grey sky reading him and him reading them back. And the stairwell, and the stone, and the dark, all of it went the color of the stairwell, and the kid was gone, and the hotel was one thing more that was not in the hotel.
 
-He knew where he was going, because the map was in his jacket, and the map had the hotel on it, and the map had the river on it, and the map had the bent bridge on it, and the map was a thing he was doing, and the hotel was a thing he had added that evening, and the not-finished part was still the city's.
+He knew where he was going, because the map was in his jacket, and the map had the hotel on it, and the map had the river on it. And the map had the bent bridge on it, and the map was a thing he was doing, and the hotel was a thing he had added that evening, and the not-finished part was still the city's.
 
-He went down to the coldest floor, to the freezer, to the locked door, and on the other side of it there was a boy who was not a mask anymore, who was just a boy, who was cold, and very cold, and nearly frozen, and whose ring was not on his finger, and whose kwami was too small, and whose cold was not going to go away.
+He went down to the coldest floor, to the freezer, to the locked door, and on the other side of it there was a boy who was not a mask anymore. Who was just a boy, who was cold, and very cold, and nearly frozen, and whose ring was not on his finger, and whose kwami was too small, and whose cold was not going to go away.
 
 Keal knew the face, the way you know a face: the blond kid, Adrien, the one from the center table, the one who had said *the seat's yours tomorrow*. The drawer kept the two of them in separate sections — the blond kid in the table section, the black mask in the other — and Keal kept them there too, and the boy on the other side of the door was a boy, and not a mask, and that was the whole of it.
 
@@ -152,7 +152,7 @@ He held the gap, and the air came in, and the boy on the other side of the door 
 
 The rest of it, Keal watched from the wall.
 
-He was on the wall, in the color of the wall, his breath slowed to the rhythm of the plaster, the way you watch a thing you are not part of: from the side, and without being anywhere. The two masks were in the kitchen. The kitchen was locked. The phones were on every table in the dining room beyond it, and the lady in red was going through them one by one with her yo-yo, the way you go through a list, and the black mask was in the service elevator, coming up, and the boy in the freezer was a gap, and the gap was held, and the air was coming in.
+He was on the wall, in the color of the wall, his breath slowed to the rhythm of the plaster, the way you watch a thing you are not part of: from the side, and without being anywhere. The two masks were in the kitchen. The kitchen was locked. The phones were on every table in the dining room beyond it, and the lady in red was going through them one by one with her yo-yo, the way you go through a list. And the black mask was in the service elevator, coming up, and the boy in the freezer was a gap, and the gap was held, and the air was coming in.
 
 He did not go in. He had held the gap. The gap was held. The two masks knew what they were doing, the way you can tell by the speed of them, and the kitchen was theirs, and the wall was a good place to be, because the wall did not have to be anywhere.
 
@@ -160,7 +160,7 @@ Then the microwave went.
 
 A small, domestic sound, and the loudest thing in the hotel. The signal went with it, the way a thing goes when the thing it is leaning on is gone, and the lock icons went with the signal, and the doors were doors again. The boy in the freezer found the ring, and the ring was a ring again, and the boy was a boy again, and the boy passed out, and the lady in red caught the boy, and the boy woke up, and the two of them were on the floor of the kitchen, and the hotel went on without them.
 
-Keal went up to the roof, because the last of it was on the roof. He was in the color of the roof, the way he had been in the color of the wall: watching, without being anywhere. The black mask was at the receiver, and the lady in red was on the line, and the green one, in the color of the roof, threw the staff — a half-second of the wrong kind of attention, a distraction — and the black mask put his hand on the receiver, and the receiver went, the way a thing goes when the word is said, the word no one in the city had said out loud, and the phone went to the ground, and the butterfly came out of the screen, and the lady in red caught the butterfly, and the city, all of it, exhaled.
+Keal went up to the roof, because the last of it was on the roof. He was in the color of the roof, the way he had been in the color of the wall: watching, without being anywhere. The black mask was at the receiver, and the lady in red was on the line, and the green one, in the color of the roof, threw the staff — a half-second of the wrong kind of attention, a distraction — and the black mask put his hand on the receiver. And the receiver went, the way a thing goes when the word is said, the word no one in the city had said out loud, and the phone went to the ground, and the butterfly came out of the screen, and the lady in red caught the butterfly, and the city, all of it, exhaled.
 
 He stayed where he was, and the two masks did not look his way, and that was the way of it, the way it had been since the park, since the ice, since the rim. He went down, the way you go down when the thing is a thing that is done, and the hotel was a hotel again, and the day went on.
 
@@ -193,7 +193,7 @@ Hawk Moth: akumatized this chapter: **1** (Alya Césaire / Lady Wifi) · knows: 
 Butterflies shown: **6**
 
 ### Spectator Test
-A stranger in the school can report: the new kid was in the room when Alya held the cut-out Ladybug face up to the class (he made a dry line and the room laughed); he was at the gate at eight fifty when the red-haired girl tripped into him and he told her the gate time and she ran; and that the building knew, by the second period, that Alya was suspended. A stranger in the hotel can report: a gap in the freezer door that was not a gap, held, for a boy who was nearly frozen.
+A stranger in the school can report: the new kid was in the room when Alya held the cut-out Ladybug face up to the class (he made a dry line and the room laughed). He was at the gate at eight fifty when the red-haired girl tripped into him and he told her the gate time and she ran; and that the building knew, by the second period, that Alya was suspended. A stranger in the hotel can report: a gap in the freezer door that was not a gap, held, for a boy who was nearly frozen.
 
 ### OC Voice
 6 turns

@@ -9,7 +9,7 @@
 
 Five hundred students packed the hexagonal arena by the time the fighters entered, and the noise was a living thing — the specific frequency of young monsters smelling blood that wasn't theirs.
 
-Tang Ya, still eating, briefed her disciples with the fluency of a woman who had done this many times: the Fighting Spirit Zone opened every day after class until midnight; ten gold bought a match, one silver bought a seat; famous fighters drew free broadcasting through soul-amplifiers in every dorm; the academy took half the gate, the winner took the rest — "your senior brother has made a *fortune* in here" — and Xu Sanshi, being a year above Bei Bei, would owe an extra ten gold if he lost.
+Tang Ya, still eating, briefed her disciples with the fluency of a woman who had done this many times: the Fighting Spirit Zone opened every day after class until midnight; ten gold bought a match, one silver bought a seat. Famous fighters drew free broadcasting through soul-amplifiers in every dorm; the academy took half the gate, the winner took the rest — "your senior brother has made a *fortune* in here" — and Xu Sanshi, being a year above Bei Bei, would owe an extra ten gold if he lost.
 
 "They've fought before," she added, airily. "They trade wins. They're actually friends."
 
@@ -101,9 +101,9 @@ Below: Xu Sansshi's second and third soul skills fired — and stuttered, half a
 
 The mountain hit the floor, sputtering: "You — you *cheated* —" because he could feel the half-beat stutter and didn't know what had caused it, and Bei Bei helped him up with a smile that hid everything, and the crowd's roar swallowed whatever the mountain said next.
 
-In the stands, Yuhao let his breath out slowly, and the gold faded from his eyes, and Tang Ya's hand — which had been signaling in a code the whole fight — dropped to her lap, and nobody noticed any of it except two people: a fox in a coat, who had known from the first exchange, and a courier from Linjiang, who had read the seams.
+In the stands, Yuhao let his breath out slowly, and the gold faded from his eyes, and Tang Ya's hand — which had been signaling in a code the whole fight. Dropped to her lap, and nobody noticed any of it except two people: a fox in a coat, who had known from the first exchange, and a courier from Linjiang, who had read the seams.
 
-But Wang Dong noticed something *else.* He had been watching the fight the way a fighter watches a fight — tracking technique, distance, timing — and at some point in the last ninety seconds he had realized that his own roommate's breathing had synchronized with Bei Bei's footwork, and that the synchronization was not coincidence but *participation.* He looked at Yuhao. He looked at the gold fading from behind the gray boy's eyes. He looked at Jiang Che, who was looking at Yuhao with an expression that was not surprise but *confirmation.*
+But Wang Dong noticed something *else.* He had been watching the fight the way a fighter watches a fight — tracking technique, distance, timing. And at some point in the last ninety seconds he had realized that his own roommate's breathing had synchronized with Bei Bei's footwork, and that the synchronization was not coincidence but *participation.* He looked at Yuhao. He looked at the gold fading from behind the gray boy's eyes. He looked at Jiang Che, who was looking at Yuhao with an expression that was not surprise but *confirmation.*
 
 "...What did you two just do?" Wang Dong asked.
 
@@ -111,7 +111,7 @@ But Wang Dong noticed something *else.* He had been watching the fight the way a
 
 "That wasn't watching. His breathing *changed* when —"
 
-"*Watched the fight,*" the courier said again, mildly, and Wang Dong — who was arrogant and proud and had been a genius since birth and had never in his life been told a secret by someone who trusted him enough to not-tell it — understood, for the first time, that he was sitting inside a group of people who kept each other's secrets as a matter of *craft*, not obligation. And the understanding changed something in the architecture of his spine.
+"*Watched the fight,*" the courier said again, mildly, and Wang Dong — who was arrogant and proud and had been a genius since birth and had never in his life been told a secret by someone who trusted him enough to not-tell it. Understood, for the first time, that he was sitting inside a group of people who kept each other's secrets as a matter of *craft*, not obligation. And the understanding changed something in the architecture of his spine.
 
 ---
 
@@ -138,7 +138,7 @@ The corridor outside the Fighting Spirit Zone held the sect and one mountain, an
 
 ### ╱╱ THE PILL ╲╲
 
-Afterward, in the corridor outside the arena, the Tang Sect collected its winnings. Two Mysterious Water Pills, a white jade bottle the size of a thumb, and Xu Sanshi's grudging respect — "your junior brother hits like a girl, your Sect Master throws needles like a demon, and you *cheat*" — delivered with the specific anger of a man who has just lost a bet to his best friend and will exact revenge at the earliest opportunity.
+Afterward, in the corridor outside the arena, the Tang Sect collected its winnings. Two Mysterious Water Pills, a white jade bottle the size of a thumb, and Xu Sanshi's grudging respect — "your junior brother hits like a girl, your Sect Master throws needles like a demon, and you *cheat*". Delivered with the specific anger of a man who has just lost a bet to his best friend and will exact revenge at the earliest opportunity.
 
 "What *is* it?" Yuhao asked, looking at the bottle.
 
@@ -186,7 +186,7 @@ Jiang Che did not answer. He was watching the lights of room 108 — ahead, abov
 
 And he was thinking — quietly, in the deep place where the AT worked on everything including thoughts — that the academy was doing to him what forges do to metal: not making him into something new, but *revealing* what was already in the metal. The classes, the iron, the fights, the forge shift, the five people around him — all of it was heat. All of it was hammer-falls. And the metal that came out the other side of this year would be the metal the AT had been building since before he was born, finally *shaped.*
 
-He was eleven years old. He had been in construction for eleven years. The construction had not stopped. And tonight, walking home through a city of monsters with his sect around him like a coat, he understood for the first time that the construction had *purpose* — not just to make him strong, but to make him *this*: a boy who could hold a mountain's wrist and give away a pill and keep a secret and walk home with five people and mean something to every one of them.
+He was eleven years old. He had been in construction for eleven years. The construction had not stopped. And tonight, walking home through a city of monsters with his sect around him like a coat, he understood for the first time that the construction had *purpose* — not just to make him strong. But to make him *this*: a boy who could hold a mountain's wrist and give away a pill and keep a secret and walk home with five people and mean something to every one of them.
 
 The fox purred once, very quietly, against his chest, in the register of archives being correct.
 

@@ -9,7 +9,7 @@
 
 The boards were still up behind the table — both of them, the year's two witnesses — and the square had come back.
 
-It came back the way it always came back: the fish first, then the noise, then the rest of the year. The stall had lit its brazier before the sun cleared the stands, the coals going blue under the day the way they went under every day, the line of senior students twenty deep, and the year's little closed loop — stall feeding forge, forge feeding the sect's tools, the sect's tools feeding the stall's line — running as it always ran, under the chalk.
+It came back the way it always came back: the fish first, then the noise, then the rest of the year. The stall had lit its brazier before the sun cleared the stands, the coals going blue under the day the way they went under every day, the line of senior students twenty deep. And the year's little closed loop — stall feeding forge, forge feeding the sect's tools, the sect's tools feeding the stall's line — running as it always ran, under the chalk.
 
 And at the venue's edge, the red.
 
@@ -25,7 +25,7 @@ The square leaned in the way it leaned in for everything, and then the square le
 
 Group Forty-Seven came out on the field, and the square could not describe them.
 
-Not faces — the faces were there, ordinary, first-years, uniforms fitting them the way they fit everyone. It was the *description* that wasn't there: the thing the year had built all week for the team that won ten matches without a single description, and now that the team was here, on the field, in the sun, the year found it had nothing to say. The clerk had a number. The board had a word. The field had three figures standing in a formation the eye could hold and could not name — not a line, not a triangle, not anything the year had a shape for — and when the souls lit, the light had no name in it, no color the eye would file, no shape the field's reading would keep, and the year, which had come to watch the room win, found itself watching a *question.*
+Not faces — the faces were there, ordinary, first-years, uniforms fitting them the way they fit everyone. It was the *description* that wasn't there: the thing the year had built all week for the team that won ten matches without a single description, and now that the team was here, on the field, in the sun, the year found it had nothing to say. The clerk had a number. The board had a word. The field had three figures standing in a formation the eye could hold and could not name — not a line, not a triangle, not anything the year had a shape for. And when the souls lit, the light had no name in it, no color the eye would file, no shape the field's reading would keep, and the year, which had come to watch the room win, found itself watching a *question.*
 
 "First line of the knockout," the referee said, at volume, and the field held its breath, and the room stepped in, and the machine opened blind.
 
@@ -59,19 +59,19 @@ And the watching, which had been deciding what it was, met the one thing in the 
 
 The cost was honest.
 
-Yuhao spent the needle. One needle, single target, pointed with the eye-method at the mark the fence held — the middle one's position, held in the gold — and the white ring took the load, and the needle went out and met the mark and came back with the only fact the year had ever gotten from the team: where the watching stood, the field was empty. Not the ground — the ground held three bodies, three shadows, three footprints the dew could read. The *reading.* Where they stood, the reading was empty, as if the field had never been in it. The gold went dim. The square would never learn what that cost; the fox, from the coat, in the voice of the archives, said: "*The needle bought a fact. File it. Bury it.*"
+Yuhao spent the needle. One needle, single target, pointed with the eye-method at the mark the fence held — the middle one's position, held in the gold — and the white ring took the load. And the needle went out and met the mark and came back with the only fact the year had ever gotten from the team: where the watching stood, the field was empty. Not the ground — the ground held three bodies, three shadows, three footprints the dew could read. The *reading.* Where they stood, the reading was empty, as if the field had never been in it. The gold went dim. The square would never learn what that cost; the fox, from the coat, in the voice of the archives, said: "*The needle bought a fact. File it. Bury it.*"
 
 And the watching answered for the first time in a way the square could feel, because it reached: one clean strike, no soul the eye would name, no color the field would keep, and it did not arrive at the prince as a wound. It arrived as an *edit* — a line struck through, a half-breath of his own motion crossed out in a hand he had never seen, and the prince, hit for the first time all year by something the square had no word for, did the thing the prince always did: he filed it, and he answered with correctness. The wings met the strike's end in the open air. One pass. The answer, delivered — and the watching's line, whatever the line was, *stopped*, one step short of the rope, the way a sentence stops when the writer remembers he is being read.
 
 In the middle of the field, the cauldron had not moved.
 
-It had not moved since "begin." A meter across, three-legged, two-eared, still in the middle of the fight the way the year moved around still water, and the square — the whole square, leaning — saw what the room had been all along and would need a word for later: the small girl and the black cauldron were the same thing, stillness at the center of the noise, and the watching, the question, the team still deciding what it was, had been walking around that stillness all match without finding a side to press.
+It had not moved since "begin." A meter across, three-legged, two-eared, still in the middle of the fight the way the year moved around still water, and the square — the whole square, leaning. Saw what the room had been all along and would need a word for later: the small girl and the black cauldron were the same thing, stillness at the center of the noise, and the watching, the question, the team still deciding what it was, had been walking around that stillness all match without finding a side to press.
 
 The middle one — the formation's center, the only one of the three the year would ever get, a position and not a name — turned.
 
 And looked at the small girl.
 
-It was the first time the watching had looked at anything. One second. The square's breath held the length of it, and then the formation relaxed — not a surrender, not a knockdown, a *stop*, clean as the day's chalk, the three of them stepping back from the rope the way a question sets itself down when it cannot be answered, and the referee's arm came up, and the year's first line of the bracket ended the way the match had run:
+It was the first time the watching had looked at anything. One second. The square's breath held the length of it, and then the formation relaxed — not a surrender, not a knockdown, a *stop*, clean as the day's chalk, the three of them stepping back from the rope the way a question sets itself down when it cannot be answered. And the referee's arm came up, and the year's first line of the bracket ended the way the match had run:
 
 "Group One, wins."
 
@@ -97,7 +97,7 @@ The courier opened the damage-ledger at the bench's edge. The ledger — the yea
 
 *Forty-Seven: no description.*
 
-Filed. And under it, on the page the rest of the ledger would have to wait for — the page that was a door, with a lock, with a name on the lock — the day's whole board, the bent line, the earned word, the prize's two words and its weather front, held against the page, and the page did not move. Planned. Measured. Window marked. Not yet. The page did not care about the board.
+Filed. And under it, on the page the rest of the ledger would have to wait for — the page that was a door, with a lock, with a name on the lock. The day's whole board, the bent line, the earned word, the prize's two words and its weather front, held against the page, and the page did not move. Planned. Measured. Window marked. Not yet. The page did not care about the board.
 
 ---
 
@@ -111,13 +111,13 @@ The first knockout match: *the watching.*
 
 The year's first fight it got a word for, and the word was already on the board. The match had been the team; the team had been the word; the word had been the watching, and now the match was the watching too, and the square carried the word into the fish line and the forge queue and the dorms, where it sat on the year's tongue like something that would be needed again.
 
-On the board, past Group One's line — the line that now ran to the center of the tree, the clerk's red chalk dry and certain — the second line waited, and on the second line there was a name, and the year leaned in, the way the year leaned in for everything, and the name was there, and the square held its breath, and the chalk did not give it up — not yet, the board's one law, a line not yet earned stays on the board — and the year leaned back, and the name stayed on the board, and the board, which was the truth now, kept its own counsel.
+On the board, past Group One's line — the line that now ran to the center of the tree, the clerk's red chalk dry and certain — the second line waited, and on the second line there was a name, and the year leaned in, the way the year leaned in for everything. And the name was there, and the square held its breath, and the chalk did not give it up — not yet, the board's one law, a line not yet earned stays on the board — and the year leaned back, and the name stayed on the board, and the board, which was the truth now, kept its own counsel.
 
 At the venue's edge, the red had not moved.
 
 The inner court's line along the same ground, the same quiet, the brazier's lean-away traveling with it the way the day before's weather had, and the whisper — *fire control so precise. A fire-attribute soul?* — doing the outer school's rounds one more time, the wrong answer, the only answer the outer school had, and the year's one law holding at the venue's edge: careful. The floor. The bank held.
 
-And the stall — the stall, with its line of senior students twenty deep and its coals blue and its fish turning on the grill at the dusk bell — ran its little closed loop through the whole match and came out the other side of it unchanged, the year's economy holding under the chalk the way the ground had held under the match, the stall feeding the forge, the forge feeding the sect's tools, the sect's tools feeding the stall's line, and the line feeding the stall, and the grill, at the dusk bell, going to its last coal with the year's first line of the bracket still in the air.
+And the stall — the stall, with its line of senior students twenty deep and its coals blue and its fish turning on the grill at the dusk bell. Ran its little closed loop through the whole match and came out the other side of it unchanged, the year's economy holding under the chalk the way the ground had held under the match, the stall feeding the forge, the forge feeding the sect's tools, the sect's tools feeding the stall's line. And the line feeding the stall, and the grill, at the dusk bell, going to its last coal with the year's first line of the bracket still in the air.
 
 ---
 
@@ -137,13 +137,13 @@ The prince, at the board's row, found the item in the ledger that had no entry f
 
 "The ground is what the year saw. The room is what we are. The ground you can rearrange. The room you can't." He looked at his hand, the way he looked at everything that was owed. "The year can keep describing the ground. I don't mind. The description is free."
 
-The machine had run blind for the first time, and the machine had held — the sharing as a fence, the floor as a law, the cauldron as a still point, the wings as an answer, the four of them a closed system the watching could walk around and could not press, and the room's real name — the one the year's word could not touch, the one the chalk could not hold, the one the door on the third nail had known since the second night of the year — did the thing names do when the description fails: it stayed.
+The machine had run blind for the first time, and the machine had held — the sharing as a fence, the floor as a law, the cauldron as a still point, the wings as an answer, the four of them a closed system the watching could walk around and could not press. And the room's real name — the one the year's word could not touch, the one the chalk could not hold, the one the door on the third nail had known since the second night of the year — did the thing names do when the description fails: it stayed.
 
 The courier closed the damage-ledger on the empty entry, and the ledger's other page — the page that was a door — held the day the way the ledger held everything: planned, measured, window marked, not yet. The wall was at thirty. The page did not care about the board.
 
 "Tomorrow: the rest of the bracket. The name: the one we haven't earned yet." He put the ledger down flat, the way he put down everything that was done and everything that was owed. "Same time."
 
-"Same time," said the room — the four of them, with the grill's last coal and the boards' two witnesses in the answer — and the grill's last coal went out at the dusk bell's shadow, and the boards held their two witnesses behind the table, the bent line, the earned word, the line not yet earned, and the room turned to the fish, and the fish, which had been turning all day, turned back, and the year's first line of the bracket was done the way the match had run: a word for the year, and a silence for the room that did not need one.
+"Same time," said the room — the four of them, with the grill's last coal and the boards' two witnesses in the answer — and the grill's last coal went out at the dusk bell's shadow, and the boards held their two witnesses behind the table, the bent line, the earned word, the line not yet earned. And the room turned to the fish, and the fish, which had been turning all day, turned back, and the year's first line of the bracket was done the way the match had run: a word for the year, and a silence for the room that did not need one.
 
 ---
 

@@ -23,7 +23,7 @@ The elite-teams warning came from her too, and it landed hard enough that even t
 
 "You can choose not to eat."
 
-The prince, cornered by his own stomach, surrendered. Terms were extracted in return (dorm cleaning: *forever Wang Dong's*; the monitor, unimpressed: "you have cleaned it once in three months") — and Xiao Xiao, now permanently resident on the monitor's side of every argument, laughed, and got teased for the speed of her allegiances, and went red, and the morning before the war was, in short, *a morning* — the kind armies spend and remember.
+The prince, cornered by his own stomach, surrendered. Terms were extracted in return (dorm cleaning: *forever Wang Dong's*; the monitor, unimpressed: "you have cleaned it once in three months") — and Xiao Xiao, now permanently resident on the monitor's side of every argument, laughed. And got teased for the speed of her allegiances, and went red, and the morning before the war was, in short, *a morning* — the kind armies spend and remember.
 
 ---
 
@@ -53,7 +53,7 @@ And the courier — because the room of three had never once, in three months, a
 
 "You're *bought and paid for,* your fish budget comes out of his winnings—"
 
-"—which is why I'm neutral *out loud* and honest in my heart," said Huo Yuhao, and the clearing's morning collapsed into the specific chaos of three boys who had spent a quarter learning each other's buttons and pressing them for sport, and the fox watched it from her stump with her chin on her paws and did not say one word — because this, the noise, the mess of it, was the thing she had chosen him for the edges of, and her commentary was not required where the boy was already *real.*"
+"—which is why I'm neutral *out loud* and honest in my heart," said Huo Yuhao, and the clearing's morning collapsed into the specific chaos of three boys who had spent a quarter learning each other's buttons and pressing them for sport. And the fox watched it from her stump with her chin on her paws and did not say one word — because this, the noise, the mess of it, was the thing she had chosen him for the edges of, and her commentary was not required where the boy was already *real.*"
 
 But the moment of the morning belonged to the small girl.
 
@@ -91,11 +91,11 @@ Silence. The gold faded from two pairs of eyes. Somewhere, a bird resumed.
 
 And they ran it again.
 
-The second run lasted a full minute — the prince solved the vine-tell in three passes, or thought he had, and discovered that solving a thing the fox has named is not the same as solving the thing: the third vine from the left no longer telegraphed, which meant it no longer needed to, which meant something *else* had started working while he watched the fixed tell. He landed one clean strike on Xiao Xiao's guard that time, and the cauldron's answering tap rang his teeth, and from inside the sharing Yuhao called the field like a helmsman — *"left, low, he's loading the right—"* — and it began, run by run, to be what it would be: not three talents stacked, but a single instrument with six hands.
+The second run lasted a full minute — the prince solved the vine-tell in three passes, or thought he had. And discovered that solving a thing the fox has named is not the same as solving the thing: the third vine from the left no longer telegraphed, which meant it no longer needed to, which meant something *else* had started working while he watched the fixed tell. He landed one clean strike on Xiao Xiao's guard that time, and the cauldron's answering tap rang his teeth, and from inside the sharing Yuhao called the field like a helmsman. *"left, low, he's loading the right—"* — and it began, run by run, to be what it would be: not three talents stacked, but a single instrument with six hands.
 
 The third run, they swapped problems: the prince attacked from concealment, from glare-angle, from above through canopy — every advantage a flying light-soul could manufacture — and the field *held*: the detection caught the intent before the wingbeat, the grass re-loaded the ground the moment his eyes left it, the cauldron made the air a question with no good answers. He won, that run, on points — one touch delivered, none taken — and stood in the clearing breathing like a bellows and grinning like a knife, and demanding, again, *again.*
 
-The fourth run they did not finish, because Xiao Xiao's control cracked — the sharing, she admitted afterward, was *too much*: fifty meters of annotated world pouring into a girl who had spent three months pretending to be middling, and the sheer luxury of *seeing everything* made her try to answer everything at once. The cauldron scattered. Yuhao pulled the feed to a trickle mid-fight without being asked. The team learned its fourth lesson unbidden: the sharing, too, was a weapon with a caliber, and its gunner calibrated it on the fly — the whole shape of Group One assembling itself in an afternoon sun like a machine being timed — until the fox, who had supervised the entire proceedings from a stump with the expression of an engineer watching a bridge she designed carry its first load, announced the finding that mattered:
+The fourth run they did not finish, because Xiao Xiao's control cracked — the sharing, she admitted afterward, was *too much*: fifty meters of annotated world pouring into a girl who had spent three months pretending to be middling, and the sheer luxury of *seeing everything* made her try to answer everything at once. The cauldron scattered. Yuhao pulled the feed to a trickle mid-fight without being asked. The team learned its fourth lesson unbidden: the sharing, too, was a weapon with a caliber, and its gunner calibrated it on the fly — the whole shape of Group One assembling itself in an afternoon sun like a machine being timed. Until the fox, who had supervised the entire proceedings from a stump with the expression of an engineer watching a bridge she designed carry its first load, announced the finding that mattered:
 
 "*Little tide. When the gray one's eyes and your vines run together, you are not two controllers. You are one field with two hands. I have seen courts with fewer moving parts fall to pieces over a border. This team does not have a weakness it has not already met.*"
 

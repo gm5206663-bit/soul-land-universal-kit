@@ -67,13 +67,13 @@ He took wrong turns and corrected them, learned to read the sun, thanked strange
 
 Forty li south of that forest, a courier was finishing a delivery.
 
-The waystation matron had stamped him paid, broken his mother's triple knots before his eyes the way the Hall's rules required, and told him to tell Hall Master Wen the blue was darker this year. The road home ran south. The courier stood at the waystation gate, a healer's sealed case going back empty on his back, a hammer over one shoulder, and a fox in his coat doing her mid-morning impression of a sleeping empress — and he read the road north, because reading the road was the whole trade, and the road said: *three travelers, half a li, coming this way.*
+The waystation matron had stamped him paid, broken his mother's triple knots before his eyes the way the Hall's rules required, and told him to tell Hall Master Wen the blue was darker this year. The road home ran south. The courier stood at the waystation gate, a healer's sealed case going back empty on his back, a hammer over one shoulder. And a fox in his coat doing her mid-morning impression of a sleeping empress — and he read the road north, because reading the road was the whole trade, and the road said: *three travelers, half a li, coming this way.*
 
 Two of them were noise before they were people. A girl's laugh, ringing off the trees; a boy's warmer one under it. They came round the bend — the girl first, fifteen or sixteen, light-blue traveling clothes, black ponytail, walking like the road owed her money; the boy behind, tall, gem-blue hair, hands laced behind his head, walking like a man who had never once needed to hurry. Behind them, thirty paces back and losing ground, a small gray figure with a bundle, walking with a settler's pace, chin set, eyes forward — a boy who had been walking alone for six days and did not know how to be in front of people.
 
 The fox opened one eye. "*Strangers,*" she said, in the tone of a customs officer, and then the second eye opened, which was different, which was rare. "*Little tide. The small one at the back. Look at him with your better eyes.*"
 
-Jiang Che looked. And what the moisture-sense and the six domains gave him, standing quietly at a waystation gate, was this: the laughing pair carried no packs and no fatigue, and their soul power sat on them like good clothes — trained, comfortable, *senior.* The small gray boy carried six days of road in his legs, grief in a knot between his shoulder blades, and around his heart a soul power so thin it was nearly a rumor — rank ten or less — and under all of it, steady as a pilot light, something that made the fox's ears stand at a different angle.
+Jiang Che looked. And what the moisture-sense and the six domains gave him, standing quietly at a waystation gate, was this: the laughing pair carried no packs and no fatigue, and their soul power sat on them like good clothes. Trained, comfortable, *senior.* The small gray boy carried six days of road in his legs, grief in a knot between his shoulder blades. And around his heart a soul power so thin it was nearly a rumor — rank ten or less — and under all of it, steady as a pilot light, something that made the fox's ears stand at a different angle.
 
 "Old," she said, quietly, only for him. "Older than his feet. Walk with them."
 
@@ -81,7 +81,7 @@ Jiang Che looked. And what the moisture-sense and the six domains gave him, stan
 
 "Because you are about to," said the fox, who was sometimes honest about the shape of her knowledge and never about its source, and closed her eyes again, and that was the whole of the argument, because it always was.
 
-So when the trio reached the gate, they found a blue-haired boy their own age leaning there with a courier's case and a smith's hammer, who nodded the nod of the road — the one that means *water, news, or help, whichever you need* — and asked, at walking volume, if the north road was quiet, because he was for the forest's edge and had heard stories.
+So when the trio reached the gate, they found a blue-haired boy their own age leaning there with a courier's case and a smith's hammer, who nodded the nod of the road. The one that means *water, news, or help, whichever you need* — and asked, at walking volume, if the north road was quiet, because he was for the forest's edge and had heard stories.
 
 The girl answered the way thunder answers: "Stories! The north road's *boring*, we've walked it for — Bei Bei, how long have we walked it—"
 
@@ -121,11 +121,11 @@ The courier watched this with the fox's whole attention. What the moisture-sense
 
 Fourteen fish. Spear-caught, one after another, in twenty minutes, by a boy too polite to look proud and too hungry to hide it well.
 
-The fish were cleaned with the white dagger — *that* blade drew a long look from Bei Bei, who said nothing, and from Tang Ya, who said "ooh" — and grilled over a fire of stream-side wood with salt from someone's pack and perilla that Yuhao picked without being asked, because he knew the free things the road offered, all of them, by heart.
+The fish were cleaned with the white dagger — *that* blade drew a long look from Bei Bei, who said nothing, and from Tang Ya, who said "ooh". And grilled over a fire of stream-side wood with salt from someone's pack and perilla that Yuhao picked without being asked, because he knew the free things the road offered, all of them, by heart.
 
 And while the fish cooked, the thing happened that the road had been walking toward.
 
-Tang Ya, mouth half-full, demanded the stranger's story — *every* story, that was her rule — and Yuhao, cornered by kindness, gave the smallest safe version: going to the forest, looking for a spirit-type soul beast, his martial soul was his eyes. And then, because the girl's warmth pulled words out of people like the sun pulls sap, the version grew: the mansion he had left at noon six days ago; the mother who had died in the spring; the five years of cultivating one rank at a time against a house that wished him invisible; the vow, which he did not say was a vow, and which everyone at that fire heard anyway.
+Tang Ya, mouth half-full, demanded the stranger's story — *every* story, that was her rule — and Yuhao, cornered by kindness, gave the smallest safe version: going to the forest, looking for a spirit-type soul beast, his martial soul was his eyes. And then, because the girl's warmth pulled words out of people like the sun pulls sap, the version grew: the mansion he had left at noon six days ago. The mother who had died in the spring; the five years of cultivating one rank at a time against a house that wished him invisible; the vow, which he did not say was a vow, and which everyone at that fire heard anyway.
 
 "I'm sorry," said Tang Ya, and for once there was nothing under the words but the words.
 
@@ -159,7 +159,7 @@ Yuhao's dagger was coming up and his body was already knowing it would be late. 
 
 —and none of it mattered, because the rings were already rising.
 
-Two yellows, bright as struck coins, igniting at a courier's feet as he crossed the fire's circle at a dead run, and the grass came out of him the way morning comes out of a river — dozens of vines, blue-silver, dew-gilded, and they did not lunge; they *arrived.* A Trip-Line across the ankles at the exact stride's extension. A Pressure-Seal around the throat — *hold without harm*, the Hall's law, iron-gentle — and a third vine simply taking the beast's own lunging momentum and giving it to the tree it had launched from, winding it there, wrapped, a hundred jin of apex predator going from missile to parcel in the space of one breath, roaring its outrage into a wall of living rope.
+Two yellows, bright as struck coins, igniting at a courier's feet as he crossed the fire's circle at a dead run, and the grass came out of him the way morning comes out of a river — dozens of vines, blue-silver, dew-gilded, and they did not lunge; they *arrived.* A Trip-Line across the ankles at the exact stride's extension. A Pressure-Seal around the throat — *hold without harm*, the Hall's law, iron-gentle. And a third vine simply taking the beast's own lunging momentum and giving it to the tree it had launched from, winding it there, wrapped, a hundred jin of apex predator going from missile to parcel in the space of one breath, roaring its outrage into a wall of living rope.
 
 Silence. Fish smoke. The fire popped. Tang Ya's knife was half-out of her sleeve with nowhere to put it.
 
@@ -209,7 +209,7 @@ The Skydream Iceworm looked at the fox for a long time. It is possible that noth
 
 "I am *polite,*" said the fox. "There is a difference. You are a million years of something that cannot fight; you have surfaced under my human's road; your wave has put four children on the grass, two of them *mine*; and you have been listening to the gray one for a hundred li." Her tails did not move at all. "So you will tell me what you want. Then we will discuss whether you get it. The discussion will be short — my patience is a young thing next to yours, but infinitely better armed."
 
-The great silkworm was quiet. And then, with the dignity of the genuinely ancient, it told her: of the cold-marrow cave and the ten golden rings; of the forest's ten-thousand-year kings, who had found him sleeping and full of the world's purest essence, and *shared* him — a war over the prize, and then a negotiation, and then a thousand years of sitting in concentric rings of strength around a living well, sipping eternity through a straw. Of the tenth ring, grown out of pure refusal; the hiding; the ten thousand years of searching, in mind and body and every seep of spirit-power on the continent, for the one vessel that could hold him: **a spirit-attribute human.** Of the first candidate, a Titled Douluo, who had burst like a rice cake under nothing but the first touch of his mind.
+The great silkworm was quiet. And then, with the dignity of the genuinely ancient, it told her: of the cold-marrow cave and the ten golden rings; of the forest's ten-thousand-year kings. Who had found him sleeping and full of the world's purest essence, and *shared* him — a war over the prize, and then a negotiation, and then a thousand years of sitting in concentric rings of strength around a living well, sipping eternity through a straw. Of the tenth ring, grown out of pure refusal; the hiding; the ten thousand years of searching, in mind and body and every seep of spirit-power on the continent, for the one vessel that could hold him: **a spirit-attribute human.** Of the first candidate, a Titled Douluo. Who had burst like a rice cake under nothing but the first touch of his mind.
 
 "*I am dying,*" the Skydream said, without drama, which was how the courier's son would have known it was true even if the fox had not. "*Not soon. Soon enough. I have run for three thousand years, and I am tired, little fox, tired the way stones are tired. The gray boy is the first spirit-soul I have found in ten thousand years. His vessel is small and his rank is a candle — but his *sea* — brother has looked at gods' seas, and the boy's sea is a cathedral with the doors open. I will seal myself. All of me, down to a thimbleful, seal upon seal upon seal, until what remains can live inside a rank-eleven body without cracking it. I will be his ring, and his tenant, and the least of what I was. In exchange I will not die in a hole — and perhaps, one day, he will be large enough that nothing hunts what is mine.*"
 
@@ -239,13 +239,13 @@ And at the last, as the gold sank away and a single ring the color of moonlit fr
 
 The thaw came back into the world the way feeling comes back into a struck limb.
 
-Tang Ya surfaced from her own knees mid-oath. Bei Bei finished the reach he had begun a minute and a lifetime ago. And they found the clearing exactly as a clearing should be after a baboon ambush: the beast trussed to a tree by blue-silver vines; the boy unconscious in the grass with a white ring fading beneath him and not a mark on him; and a blue-haired courier already kneeling at the boy's wrist with two fingers on the pulse, as if he had been there the whole time.
+Tang Ya surfaced from her own knees mid-oath. Bei Bei finished the reach he had begun a minute and a lifetime ago. And they found the clearing exactly as a clearing should be after a baboon ambush: the beast trussed to a tree by blue-silver vines. The boy unconscious in the grass with a white ring fading beneath him and not a mark on him; and a blue-haired courier already kneeling at the boy's wrist with two fingers on the pulse, as if he had been there the whole time.
 
 Which — in the only sense that would ever matter — he had.
 
 "A baboon," Bei Bei said slowly, examining the trussed beast, the unwounded boy, the untouched grass, the story assembling itself out of everything his eyes could see. "It lunged, the boy's soul ring flared — shock of his first kill — and he went down. A ten-year ring. For a spirit soul." He said it the way careful men step over things they cannot name, and the story settled over the clearing like the mist the fox had promised — kind, and holding, and with a very old author.
 
-"His pulse is strong," said the courier, which was true. It was also slow, and vast, and *tidal* — a rhythm with pull behind it now, a sea with a new tenant — and the boy's skin carried the clean cold smell of the inside of winter, and all of it was filed, all of it was kept, and none of it was going anywhere near the two kind strangers assembling their gentle story three steps away.
+"His pulse is strong," said the courier, which was true. It was also slow, and vast, and *tidal* — a rhythm with pull behind it now, a sea with a new tenant — and the boy's skin carried the clean cold smell of the inside of winter. And all of it was filed, all of it was kept, and none of it was going anywhere near the two kind strangers assembling their gentle story three steps away.
 
 Tang Ya gathered the boy up with the tenderness she kept under all her noise. "We take him north. There's shelter past the tree-line before the deep woods — and *you,*" she found the courier with a finger, "you wrapped a soul beast like a parcel, you're either the most dangerous person I've ever shared a fire with or the most useful, and either way you're walking with us until I decide which."
 

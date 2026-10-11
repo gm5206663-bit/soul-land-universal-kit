@@ -62,7 +62,7 @@ The woman said nothing. Her eyes were grey, and they stayed on him.
 
 The black stone of the platform was inlaid with awakening stones in a ring, old and worn smooth by ten thousand feet, and the crystal ball on the pillar above was dark, the way the soul-measuring crystal balls wait. Luo Chen stepped onto the platform.
 
-He had done this before. That was the secret he carried under his skin, the one that had come with him across death itself — he had done this once already, in a room with no one in it, on the night of his sixth birthday, and the thing that had woken in him had filled the orphanage's water jars with frost and emptied them again before morning. He had measured himself against everything he remembered from the book of his old life, and he had known what he carried, and he had spent every day since preparing the ground for this moment.
+He had done this before. That was the secret he carried under his skin, the one that had come with him across death itself. He had done this once already, in a room with no one in it, on the night of his sixth birthday, and the thing that had woken in him had filled the orphanage's water jars with frost and emptied them again before morning. He had measured himself against everything he remembered from the book of his old life, and he had known what he carried, and he had spent every day since preparing the ground for this moment.
 
 But that waking had been a whisper. This room was built to make souls shout.
 
@@ -74,7 +74,7 @@ The lamps in the room went low, all of them, at once, as if something had drunk 
 
 Behind the boy, the air split open, and the martial soul stood up.
 
-It was a dragon. It was black from horn to tail, long as a river, with scales that seemed to eat the lamplight, and its eyes were the color of the inside of the crystal, and when it opened its mouth nothing came out but a pull — a pull in the air, in the blood, in the light, a hunger so clean and so total that Feng Si took a step back without knowing he had done it, and his bone flute went dark in the air.
+It was a dragon. It was black from horn to tail, long as a river, with scales that seemed to eat the lamplight, and its eyes were the color of the inside of the crystal, and when it opened its mouth nothing came out but a pull. A pull in the air, in the blood, in the light, a hunger so clean and so total that Feng Si took a step back without knowing he had done it, and his bone flute went dark in the air.
 
 The woman did not step back. Her hand moved, and a whip of red bone cracked out of her sleeve and stood hissing at her side, and five rings rose around her — two yellow, two purple, and one black ring turning slow and heavy at the outside, the standard pattern of her kind carried to the top of it, five rings at the fifty-ninth level. The room steadied around her soul the way a room steadies around a pillar.
 
@@ -180,7 +180,7 @@ The hall ate. Luo Chen ate with them, and the soup was thin, and he did not mind
 
 The lights went down at the night bell, and the pit slept the sleep of the watched, and Luo Chen lay on his bunk with his eyes open in the dark and went over the account, the way he went over it every night, because plans were the only property he had that this place could not number.
 
-He knew what this church was. He had known since his old life, when he had read the book that told this world's future — the Holy Spirit Cult, the dark church of the continent, the thing that lived under the forest at the edge of Ming Du and raised its knives on softening drugs and broken wills, until the day a boy from another story walked into its own forest and burned it out root and branch. He knew its ending. He knew the names of its masters and the shape of its fall, and he knew that every plan built on that knowledge was a plan built on sand, because a story remembered is not the world itself, and the world had already begun to change around him the moment he knocked on the gate.
+He knew what this church was. He had known since his old life, when he had read the book that told this world's future. The Holy Spirit Cult, the dark church of the continent, the thing that lived under the forest at the edge of Ming Du and raised its knives on softening drugs and broken wills, until the day a boy from another story walked into its own forest and burned it out root and branch. He knew its ending. He knew the names of its masters and the shape of its fall, and he knew that every plan built on that knowledge was a plan built on sand, because a story remembered is not the world itself, and the world had already begun to change around him the moment he knocked on the gate.
 
 He did not care. A ladder is a ladder even if the last rung breaks.
 

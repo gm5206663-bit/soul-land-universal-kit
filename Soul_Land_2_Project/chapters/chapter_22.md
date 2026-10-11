@@ -37,7 +37,7 @@ They came the way the inner court always came: as a change in the weather. The d
 
 And in the line, the red veil.
 
-The pink eyes did not look for anyone. That was the thing the year would file under terror: she did not look for it. The venue's noise arrived at her the way noise arrives at a banked fire — present, whole, *managed* — and the stall's brazier, which had been throwing sparks for the last hour, went quiet as the red line passed it. Not blown out. Not smothered. The flames simply leaned away from the heat the way a room leans away from a person who has decided to leave, and every coal on the stall's line remembered itself at once, and the line of senior students stood in a silence that had a texture to it, and the whisper the outer school had been running since the veil, grown a day of venue, came around one last time:
+The pink eyes did not look for anyone. That was the thing the year would file under terror: she did not look for it. The venue's noise arrived at her the way noise arrives at a banked fire — present, whole, *managed* — and the stall's brazier, which had been throwing sparks for the last hour, went quiet as the red line passed it. Not blown out. Not smothered. The flames simply leaned away from the heat the way a room leans away from a person who has decided to leave, and every coal on the stall's line remembered itself at once. And the line of senior students stood in a silence that had a texture to it, and the whisper the outer school had been running since the veil, grown a day of venue, came around one last time:
 
 *Fire control so precise. A fire-attribute soul?*
 
@@ -61,7 +61,7 @@ He did not answer. He was already mending a sixth-year's wrist carried over from
 
 The class's afternoon belonged to Group Forty-Seven.
 
-That was the rumor's name for it, because the board had given them nothing to work with: a clean record from the first round, ten matches won without a single one of them being described by anyone who had watched, no injury list, no second that had cost them a fight, and a number — Forty-Seven — that the clerk had chalked between two teams the class had not yet learned to fear. A class that could name the bear, the spears, the fire array and the cousins, because the first round had given it four textures to hold, found that it could not do this one — and a class that cannot name a thing gets *creative.*
+That was the rumor's name for it, because the board had given them nothing to work with: a clean record from the first round, ten matches won without a single one of them being described by anyone who had watched, no injury list, no second that had cost them a fight. And a number — Forty-Seven — that the clerk had chalked between two teams the class had not yet learned to fear. A class that could name the bear, the spears, the fire array and the cousins, because the first round had given it four textures to hold, found that it could not do this one — and a class that cannot name a thing gets *creative.*
 
 "The ledger is empty," said Yuhao, at the board, reading the team the way he read a field — the distances first, then the structure, then the absence of both. "Ten wins. No description. No injuries. When a team that clean has no ledger, it's either because it hasn't been watched, or because it doesn't want to be."
 
@@ -85,11 +85,11 @@ The class wrote it down. The year would need the word for it later; the prince's
 
 ### THE HUNT'S SHAPE *(the forge — the ledger's page, the wall at thirty, not yet)*
 
-The forge smelled of the stall's coal — the stall's coal, because the stall had started selling coal to the forge three weeks ago at a price that made the old Journeyman's eye twitch and the economics make sense, and the year's little closed loop ran as it always ran: the stall fed the forge, the forge fed the sect's tools, the sect's tools fed the stall's line, and the line fed the stall.
+The forge smelled of the stall's coal — the stall's coal, because the stall had started selling coal to the forge three weeks ago at a price that made the old Journeyman's eye twitch and the economics make sense. And the year's little closed loop ran as it always ran: the stall fed the forge, the forge fed the sect's tools, the sect's tools fed the stall's line, and the line fed the stall.
 
 Jiang Che stood in it with the ledger open, and the page was the day.
 
-At the top of the page, in the clerk's red chalk as he had copied it: *extremely rare.* The two words, and under them the structure the words bought — the window (the bracket's week, the cut, the ground that would stand open after the top of the tree bent), the prize (whatever "extremely rare" was, it was at the top of the tree, and the top of the tree was a shape, and shapes could be planned) — and under both, in a courier's shorthand, the page the whole day had been walking toward:
+At the top of the page, in the clerk's red chalk as he had copied it: *extremely rare.* The two words, and under them the structure the words bought. The window (the bracket's week, the cut, the ground that would stand open after the top of the tree bent), the prize (whatever "extremely rare" was, it was at the top of the tree. And the top of the tree was a shape, and shapes could be planned) — and under both, in a courier's shorthand, the page the whole day had been walking toward:
 
 *The wall is at thirty. The ring must come at the wall. The shape: the forest south. The water-kin. The Sun Flower's precedent — seven hundred forty, at the rank's ceiling, eaten into a property. The question, planted months ago, still a seed: what does the grass itself want to become?*
 
@@ -139,11 +139,11 @@ The table looked at the fox. The fox looked at the boards. The boards, which wer
 
 "*Both. That is what a still cauldron is: a question with a lid on it. The lid comes off in your fight, not before. That is your doctrine, and your doctrine is correct, and the cauldron knows it, and it is still because it is patient — and patience, in a cauldron, is a weapon the year will need a word for.*"
 
-The grill's last coal went out, and the year went quiet for the word, and the courier — the courier, the weather, the hammer, the boring one, the floor — turned the last fish with the exact turn he gave everything, the Captain's first form at the scale of a fish, and closed the ledger on the page that was a door, and looked at his team in the grill's last light, and the boards behind them, and the inner court's red at the edge of the venue, and the shape of the rest of the year, and said the thing the whole day had been walking toward:
+The grill's last coal went out, and the year went quiet for the word, and the courier — the courier, the weather, the hammer, the boring one, the floor — turned the last fish with the exact turn he gave everything, the Captain's first form at the scale of a fish. And closed the ledger on the page that was a door, and looked at his team in the grill's last light, and the boards behind them, and the inner court's red at the edge of the venue, and the shape of the rest of the year, and said the thing the whole day had been walking toward:
 
 "Tomorrow: the first line of the bracket. The name: the watching. The page: not yet." He put the ledger down, flat, the way he put down everything that was done and everything that was owed. "After: the rest of it. Same time."
 
-"Same time," said the room — the four of them, with the grill's last coal and the boards' two witnesses in the answer, the way every answer at that table carried the furniture it was said at — and the year's first day of the bracket's shape ended the way the rest of the year was going to end: not in chalk or glory, but in fish, and arithmetic, and a door with a lock on it, and the particular comfort of a team that had stopped needing the chalk to tell it what it was.
+"Same time," said the room — the four of them, with the grill's last coal and the boards' two witnesses in the answer, the way every answer at that table carried the furniture it was said at. And the year's first day of the bracket's shape ended the way the rest of the year was going to end: not in chalk or glory, but in fish, and arithmetic, and a door with a lock on it, and the particular comfort of a team that had stopped needing the chalk to tell it what it was.
 
 ---
 

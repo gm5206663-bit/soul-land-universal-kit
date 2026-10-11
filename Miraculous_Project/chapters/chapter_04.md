@@ -30,7 +30,7 @@ It was a small, round, red thing on the desk, and it was shivering, and it had t
 
 Marinette could not take a kwami to a doctor.
 
-She knew a healer — a name Tikki gave her, an old man with a shop, a man who read energies — but the name sat in her stomach like a stone, because a healer asked questions, and questions were the thing that got people unmasked, and the last thing the city needed was another person looking at the bakery's daughter and her purse and her lateness and working out the arithmetic.
+She knew a healer — a name Tikki gave her, an old man with a shop, a man who read energies — but the name sat in her stomach like a stone. Because a healer asked questions, and questions were the thing that got people unmasked, and the last thing the city needed was another person looking at the bakery's daughter and her purse and her lateness and working out the arithmetic.
 
 The new phone was on the desk. The new one, after the hotel, after the signal. She had not looked at the old footage much; the old footage was the city's now, and the city was doing the arithmetic with it. She looked at the clock. She was going to be late. She was always, just, a little late, for reasons that would never be in a school report.
 
@@ -58,7 +58,7 @@ It whooshed. A small, clean, pink little whoosh, and the class leaned back as on
 
 "The alcohol, madam," Keal said, from the window seat, in the flat voice that was not a show. "Most of it is alcohol, and the spark just finds it faster than the nose does."
 
-The room went quiet in the way that is not quiet. It was the new kid again. It was always the new kid again, and the class had worked out by this week that it was not a thing to make a scene about, it was a fact, the way the radiator ticked was a fact. Rose, at the door on her way to the office, looked back at him once, and Nino, in the back, gave him the nod that had a name on it — ice kid — and Keal read the room's answer and filed it and did not look up, because the eighty percent was the part that showed, and the rest was his.
+The room went quiet in the way that is not quiet. It was the new kid again. It was always the new kid again, and the class had worked out by this week that it was not a thing to make a scene about, it was a fact, the way the radiator ticked was a fact. Rose, at the door on her way to the office, looked back at him once, and Nino, in the back, gave him the nod that had a name on it. Ice kid — and Keal read the room's answer and filed it and did not look up, because the eighty percent was the part that showed, and the rest was his.
 
 ***
 
@@ -80,11 +80,11 @@ Marinette's purse was open in her hand. The thing was not in it. She looked arou
 
 The limo was at the curb, the door open, Chloé Bourgeois and Sabrina Raincomprix on their way to it, and on the ground between them was a toy. A small red plush, round, cute, the kind of thing a rich girl would pick up off the street and keep, and Chloé picked it up, and it was for the prince, it was a souvenir, it was a thing.
 
-Rose came out of the office with a letter folded to the size of a matchbox, and she held it out, and she asked, in the voice of a girl who had written a letter to a prince and had one delivery left, if Chloé could give it to him, because the prince was at the tall gold building today, because it was the rule, because she had held up her end.
+Rose came out of the office with a letter folded to the size of a matchbox, and she held it out, and she asked, in the voice of a girl who had written a letter to a prince and had one delivery left. If Chloé could give it to him, because the prince was at the tall gold building today, because it was the rule, because she had held up her end.
 
 Chloé read the first line. Chloé read the first line the way she read everything, as a thing that had been done to her. And then Chloé tore it.
 
-The sound of it was small. That was the thing about the sound of it — it was small, and the whole of the pavement heard it, and Rose stood there with her hands out, and the pieces of the letter were on the ground in a pattern that was not a pattern, and Keal was on one knee again before he decided to be, gathering the scraps with her, his hands steady on the paper, the way his hands were always steady, the way that was the thing about him that the city was starting to put in its videos without knowing why.
+The sound of it was small. That was the thing about the sound of it — it was small, and the whole of the pavement heard it, and Rose stood there with her hands out, and the pieces of the letter were on the ground in a pattern that was not a pattern. And Keal was on one knee again before he decided to be, gathering the scraps with her, his hands steady on the paper, the way his hands were always steady, the way that was the thing about him that the city was starting to put in its videos without knowing why.
 
 "You can write him another one," Keal said. "Just don't cry on it this time."
 
@@ -110,7 +110,7 @@ It offered her thorns. No one could resist the perfume. The prince would be hers
 
 Rose took the perfume. The butterfly was black with a white eye, and it landed on the bottle, and the bottle was in her hand, and the hand was steady. And then the hand was not a hand — it was a crown and a gown and a gun. The girl on the bench was a princess, and the princess had a perfume gun, and the perfume was about to be a very good reason for a city to forget its own name.
 
-In the dark, the voice that had made her was amused, in the way it was amused by a city doing its own work for it. Last week the wronged had been the one with the phone, and the phone had broadcast the hunt to every screen. This week the wronged was the one with the letter, and the letter was in a classroom, and the classroom had a new kid in the window seat, and the new kid had been on one knee, gathering the scraps, and the voice's map had a new mark on it, a face it had not placed yet, the face in the ice and the face in the library and the face on the ground with the paper.
+In the dark, the voice that had made her was amused, in the way it was amused by a city doing its own work for it. Last week the wronged had been the one with the phone, and the phone had broadcast the hunt to every screen. This week the wronged was the one with the letter, and the letter was in a classroom, and the classroom had a new kid in the window seat, and the new kid had been on one knee, gathering the scraps. And the voice's map had a new mark on it, a face it had not placed yet, the face in the ice and the face in the library and the face on the ground with the paper.
 
 And the voice, which had a third presence in its file, unplaced, a green hand on a building and a gap in a freezer door, asked the question it had been asking since the park, in the dark where it did the arithmetic the city could not.
 
@@ -192,11 +192,11 @@ The Seine was a crowd, and the crowd was the city's biggest day, and the city wa
 
 "The background's background gets the good baguette stand," Keal said. He was looking at the water. The water had a hotel on the far side, and the hotel had a roof, and the roof was about to find out what the sky was for.
 
-The fog came off the roof of the tall gold building. It was pink-purple, and it had a melody in it, and the melody reached the water before the fog did, which the city noticed, because the melody was something you could hear with your eyes open, and the fog was something you could see with your eyes closed, and the two of them arrived at the Seine at the same time, and the Seine was about to forget its own name.
+The fog came off the roof of the tall gold building. It was pink-purple, and it had a melody in it, and the melody reached the water before the fog did, which the city noticed, because the melody was something you could hear with your eyes open. And the fog was something you could see with your eyes closed, and the two of them arrived at the Seine at the same time, and the Seine was about to forget its own name.
 
 The crowd sang.
 
-The whole of the crowd, in a harmony that was sweet and empty, with a pigeon in the soprano part, and the pigeon was a very good pigeon, and the crowd was not, at that moment, a crowd of people so much as a crowd of voices, and the voices were something the river had not heard before, and the river was about to have an opinion.
+The whole of the crowd, in a harmony that was sweet and empty, with a pigeon in the soprano part, and the pigeon was a very good pigeon. And the crowd was not, at that moment, a crowd of people so much as a crowd of voices, and the voices were something the river had not heard before, and the river was about to have an opinion.
 
 Keal's feet were the crowd. The fog took his voice, and his voice went into the harmony the way it went into everything, easily, the eighty percent of the way. But his hands were not the crowd. In the middle of the fog, in the middle of the singing, in the middle of the city's biggest day, his hands were on Nino's sleeve, and they were steady. The camera found them. It was the third clear face the city had of the new kid — the ice, the library, the fog — and the city was a machine for doing arithmetic with faces.
 
@@ -291,7 +291,7 @@ Hawk Moth: akumatized this chapter: **1** (Rose Lavillant / Princess Fragrance) 
 Butterflies shown: **6**
 
 ### Spectator Test
-A stranger with the vlog can report: the new kid from Dupont was in the window seat when the perfume caught (the flat answer, the room's quiet); he was the one on the ground gathering the torn letter with the princess (the kind line, the last scrap in her hand); and at the Seine, in the fog, the whole crowd was singing and his hands were the only steady thing in the frame, on camera, a clear face the city now has three of — and the green blur was nowhere in the video, and the city is a machine for doing arithmetic with faces.
+A stranger with the vlog can report: the new kid from Dupont was in the window seat when the perfume caught (the flat answer, the room's quiet); he was the one on the ground gathering the torn letter with the princess (the kind line, the last scrap in her hand). And at the Seine, in the fog, the whole crowd was singing and his hands were the only steady thing in the frame, on camera, a clear face the city now has three of — and the green blur was nowhere in the video, and the city is a machine for doing arithmetic with faces.
 
 ### OC Voice
 9 turns
@@ -300,7 +300,7 @@ A stranger with the vlog can report: the new kid from Dupont was in the window s
 D-001, D-002, D-003, D-004, D-005
 
 ### Panel
-Marinette + the sick Tikki (the bakery, before class) — the kwami flu (first and only), the healer's name held, the fear of a question, the new phone, the city's "Chloé is Ladybug" wrong on the news; and the lair, where the voice has a new mark (the classroom, the limo, the bench) and its own live question (the green hand and the new kid — same face, or two).
+Marinette + the sick Tikki (the bakery, before class) — the kwami flu (first and only), the healer's name held, the fear of a question, the new phone, the city's "Chloé is Ladybug" wrong on the news. And the lair, where the voice has a new mark (the classroom, the limo, the bench) and its own live question (the green hand and the new kid — same face, or two).
 
 ### Canon Anchors
 S1 slot 4 (Princess Fragrance) — the slot's canon spine (full beat-by-beat list in the ore). This chapter is a tight condensed retelling carrying the CORE beats + the OC weave; secondary beats are compressed. Spine: the TVi cold open (last week's off-camera Eiffel-Tower akuma + the hotel/signal/pause icon) · the week's preferred wrong (Chloé is Ladybug) · the sick kwami (Tikki's flu; the healer held; the promise to take her after class) · the science class (Rose on her phone, the prince, the toy drive, the letter, the perfume, Ms. Mendeleiev's flammability demo) · Adrien's arrival + the notes push + the trip + the launch + Adrien's catch · the lost kwami (the red blur; Chloé's "toy"; the limo) · the torn letter (Chloé mocks + tears; Rose's heartbreak) · the bench under the Seine (the second letter, the tears, the akuma on the perfume, the deal, the transformation) · the hotel (the doorman's "no friends," the pizza-box disguise, the elevator, Chloé's door-slam, the stairwell) · the event (the prince, the mayor, the fireworks-boat line, Chloé's "toy" gift, Tikki in the pocket, Nadja's interview) · the green spray on Chloé + the stink · the bowing paparazzi · the introduction + the threat · the confetti (Marinette, the synthesizer) · Adrien's transform (the broadcast, the prince in danger, Plagg) · FIGHT 1 (the hideout, the reinforced door, the perfume under the door, the vacuum, the unplug, the mayor's bolt, the fog, the waiter, the mayor brainwashed, the kitchen peek, Cat Noir's entrance, the quick battle, the staff-slide evacuation, the car chase, the rocket spray, the car spray, the cat caught mid-leap) · FIGHT 2 (the car floor, Tikki escaped, Fu's, the transform despite the sick kwami, the bridge, the love lock, the controlled Cat Noir + the earrings, the sky spray, the flammability memory, the fireworks boat, the trick-shove, the staff-pull, the Cataclysm on the panel, the fireworks launch, the fog burns, the balloon Lucky Charm, the straw + the gun, the break, the akuma caught, the balloon toss, the cleanse) · the denouement (the prince, the biggest fan, the confession, Chloé's shove, the refusal, the hospital, the new friend Rose, the fireworks at the Pont des Arts) · the no-"Pound it!" truce.

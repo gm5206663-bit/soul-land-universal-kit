@@ -210,9 +210,9 @@ On the floor below, Bei Bei's Thunder Dragon Claw turned mid-air — and struck 
 
 "*Courier-trained,*" Jiang Che corrected. "The metal doesn't care what you call it."
 
-The fight went on. Tang Ya ate the evidence. And in the third row of the Fighting Spirit Zone, three boys sat shoulder to shoulder — a gray one, a blue one, and one with grass in his coat — and the shoulder-contact was the kind that only happens between people who have decided, for reasons they might not be able to name yet, that they are on the same side.
+The fight went on. Tang Ya ate the evidence. And in the third row of the Fighting Spirit Zone, three boys sat shoulder to shoulder — a gray one, a blue one, and one with grass in his coat. And the shoulder-contact was the kind that only happens between people who have decided, for reasons they might not be able to name yet, that they are on the same side.
 
-Below them, the fight settled into its rhythm: the mountain holding, the lightning probing, the seams widening. It would take time. The fox had said so. But in the stands above the arena, something was happening that the fighters below could not see and the crowd around them did not notice: three boys who had entered the academy as strangers — a woodshed orphan, a closeted aristocrat, and a courier with grass in his sleeves — were becoming, one grilled fish and one named seam at a time, the thing that the ancestor had built the Tang Sect to hold.
+Below them, the fight settled into its rhythm: the mountain holding, the lightning probing, the seams widening. It would take time. The fox had said so. But in the stands above the arena, something was happening that the fighters below could not see and the crowd around them did not notice: three boys who had entered the academy as strangers. A woodshed orphan, a closeted aristocrat, and a courier with grass in his sleeves — were becoming, one grilled fish and one named seam at a time, the thing that the ancestor had built the Tang Sect to hold.
 
 A team.
 

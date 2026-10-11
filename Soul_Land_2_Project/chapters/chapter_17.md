@@ -97,7 +97,7 @@ From the coat on the nail: "*Flattery will get you everywhere, little tide.*"
 
 "*Yes,*" said the fox, "*but I allow it.*"
 
-And the room settled into the last night before the gate — three boys and a fox and a chalk floor and the certainty, unspoken because it was structural, that whatever tomorrow brought through the gate, it would meet the room, and the room was ready, and the room had been ready since a stream on the road north, when a courier with a hammer had looked at a gray boy with a bundle and been told by a fox to walk with him.
+And the room settled into the last night before the gate — three boys and a fox and a chalk floor and the certainty, unspoken because it was structural, that whatever tomorrow brought through the gate, it would meet the room. And the room was ready, and the room had been ready since a stream on the road north, when a courier with a hammer had looked at a gray boy with a bundle and been told by a fox to walk with him.
 
 They had walked. This is where the walking went.
 
@@ -119,7 +119,7 @@ The other classes, the whisper-line said, had been doing their own arithmetic. T
 
 "I heard his fox *fought a teacher.*"
 
-"I heard," said a fifth voice, dryly, from three places back in the line — a voice that belonged to a mountain that had been orbiting a fish stall for two months — "that you should all worry less about rumors and more about the fact that my — that the Sect Master's disciples are going to sweep this year's assessment like a tide going out." And Xu Sanshi bought his fish, and left, and the line discussed the mountain's use of the word *tide* for the rest of the evening.
+"I heard," said a fifth voice, dryly, from three places back in the line — a voice that belonged to a mountain that had been orbiting a fish stall for two months. "that you should all worry less about rumors and more about the fact that my — that the Sect Master's disciples are going to sweep this year's assessment like a tide going out." And Xu Sanshi bought his fish, and left, and the line discussed the mountain's use of the word *tide* for the rest of the evening.
 
 
 ### THE THREE PAPERS *(Zhou Yi's scene — canon rebuilt for the room)*
@@ -158,7 +158,7 @@ And at the door, as the three of them left, she said one more thing — quietly,
 
 She found them at the stall.
 
-Not the boys — the *fox.* Or rather, she found the fish, and stayed for the fox, because Xiao Xiao had spent three months being unnoticed and had therefore developed the observer's gift for noticing what others missed, and what she had noticed — from three rows back, in theory classes, through the iron days and the iron nights — was that the strongest team in the year walked with something small and white that was never quite a coat-button and never quite a cat.
+Not the boys — the *fox.* Or rather, she found the fish, and stayed for the fox, because Xiao Xiao had spent three months being unnoticed and had therefore developed the observer's gift for noticing what others missed. And what she had noticed — from three rows back, in theory classes, through the iron days and the iron nights — was that the strongest team in the year walked with something small and white that was never quite a coat-button and never quite a cat.
 
 "You have a soul beast," Xiao Xiao said, without preamble, without greeting, in the tone of a girl who had decided that if she was going to be drafted as an anchor she would start anchoring *now.* "It rides the coat. It reads rooms. And it is not a beast soul in the way the academy means beast souls."
 
@@ -174,7 +174,7 @@ Jiang Che looked at the small girl — really looked, the moisture-sense reading
 
 "Zhou Yi doesn't group by rank," Wang Dong said, around a fish. "She groups by what you *are.* You're the anchor because whatever you're hiding—" the room's collective professional courtesy, applied without thought "—is the kind of thing a group of three builds *around.*"
 
-Xiao Xiao looked at the three of them — the strongest team in the year, the room, the triangle. The gray one, all will. The blue one, all lightning held on a leash of manners. And the third: the one the rumor-line could not settle on, because the rumor-line kept stalling on the details — the face that photographed as *older than its years*, like something carved and then age-checked and carved again; the shoulders that a tailor would have wept over from pure gratitude; the hands with their jade-pale lines, one of which was, at that moment, absently steadying a fish-skeleton upright on the table the way a smith trues a billet, without looking, without effort; and around all of it the smell — rain on a river, green things, the storm undertone — which three months of quiet observation had taught her meant *the room's strongest piece has entered*, even before she looked up. She had assumed, for most of those three months, that he was a sixth-year the first-years somehow borrowed. Learning he was eleven had been one of the stranger Thursdays of her life. And the sentence she had been building for three months — the sentence about being middling, about being visible at nothing, about the front row as a place to hide — fell apart in her hands, and what she said instead was:
+Xiao Xiao looked at the three of them — the strongest team in the year, the room, the triangle. The gray one, all will. The blue one, all lightning held on a leash of manners. And the third: the one the rumor-line could not settle on, because the rumor-line kept stalling on the details — the face that photographed as *older than its years*, like something carved and then age-checked and carved again; the shoulders that a tailor would have wept over from pure gratitude. The hands with their jade-pale lines, one of which was, at that moment, absently steadying a fish-skeleton upright on the table the way a smith trues a billet, without looking, without effort. And around all of it the smell — rain on a river, green things, the storm undertone — which three months of quiet observation had taught her meant *the room's strongest piece has entered*, even before she looked up. She had assumed, for most of those three months, that he was a sixth-year the first-years somehow borrowed. Learning he was eleven had been one of the stranger Thursdays of her life. And the sentence she had been building for three months — the sentence about being middling, about being visible at nothing, about the front row as a place to hide — fell apart in her hands, and what she said instead was:
 
 "I'm going to win my group through to the bracket. And then—" the flash-grin, the sheath showing for exactly one tooth's worth "—we'll see what happens when anchors meet."
 
@@ -200,13 +200,13 @@ Three beds. Three boys. One fox on the third nail. The strategy had been spoken;
 
 "After. The sect hunts — all of us. Tang Ya's precedent, Bei Bei's guard, your detection, Wang Dong's air cover, the fox reading the woods. It's the sect's first hunt. We've been planning it for a month."
 
-"...The *sect* hunts," Yuhao repeated, and the way he said it — the weight of *we* in it, the weight of being a team that was also a family that was also, now, a hunting party — was the sound of a boy who had been alone for eleven years discovering, for the hundredth time this quarter, that he was not alone anymore and was never going to be again.
+"...The *sect* hunts," Yuhao repeated, and the way he said it — the weight of *we* in it, the weight of being a team that was also a family that was also, now, a hunting party. Was the sound of a boy who had been alone for eleven years discovering, for the hundredth time this quarter, that he was not alone anymore and was never going to be again.
 
 "Sleep," said the monitor of Class One. "Tomorrow we cut half the year out of their futures."
 
 "Copy that," said the strongest first-year at Shrek Academy, put the hammer where his pillow should have been, and slept first, because couriers sleep when the route allows.
 
-And the fox, on the third nail, administered the clause, and permitted the ruffling, and filed the day under a heading that had one entry and was not labeled in any human language, and the last sound room 108 heard before the assessment year's first morning was not a voice at all — just a small empress, settling her tails over her nose, purring into the dark, for no one, in the register of archives being correct about everything:
+And the fox, on the third nail, administered the clause, and permitted the ruffling, and filed the day under a heading that had one entry and was not labeled in any human language. And the last sound room 108 heard before the assessment year's first morning was not a voice at all — just a small empress, settling her tails over her nose, purring into the dark, for no one, in the register of archives being correct about everything:
 
 "*Tomorrow, then.*"
 

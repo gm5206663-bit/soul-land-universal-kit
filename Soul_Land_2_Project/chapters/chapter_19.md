@@ -9,13 +9,13 @@
 
 The red woman finished her fish the way fire finishes a candle.
 
-She lifted the veil only to the chin, ate with a slow feral elegance, and when the eating was done two impossible things had happened: the bones were *gone* — gone from her fingers, gone from the air, vanished between one bite and the next — and her hands, which had held greasy fish and picked bones with bare fingertips, were dry and clean as a surgeon's. Yuhao and Wang Dong traded one appalled, delighted look: *what IS she?*
+She lifted the veil only to the chin, ate with a slow feral elegance, and when the eating was done two impossible things had happened: the bones were *gone*. Gone from her fingers, gone from the air, vanished between one bite and the next — and her hands, which had held greasy fish and picked bones with bare fingertips, were dry and clean as a surgeon's. Yuhao and Wang Dong traded one appalled, delighted look: *what IS she?*
 
 "Your grilled fish is delicious," she said. "Good taste — and a *serious* feeling to it. Show me your martial soul."
 
 It was not a request. And Yuhao — rank seventeen against a thing that made sixth-years into weather — chose, with the calm of a boy who had died once already and been reborn twice, to comply: the white ring rose at his feet, the gold filmed his eyes, and for ten measured seconds he let the sharing touch her.
 
-Her lashes lifted — one slow centimeter — as the world went three-dimensional and annotated inside her mind. Distances measured themselves. The grain of the grill's iron stood out like topography. Every soul on the street became a point of light with a weight attached — and she, who had spent two hundred days pressing down a furnace with nothing but will and a borrowed turtle, felt for ten seconds what it was like to hold a whole battlefield in her head the way a smith holds a billet: known, mapped, *managed.* The lashes came down slowly, the way a connoisseur lowers a glass.
+Her lashes lifted — one slow centimeter — as the world went three-dimensional and annotated inside her mind. Distances measured themselves. The grain of the grill's iron stood out like topography. Every soul on the street became a point of light with a weight attached — and she. Who had spent two hundred days pressing down a furnace with nothing but will and a borrowed turtle, felt for ten seconds what it was like to hold a whole battlefield in her head the way a smith holds a billet: known, mapped, *managed.* The lashes came down slowly, the way a connoisseur lowers a glass.
 
 Yuhao pulled the sharing back at ten seconds, breathing carefully — the range had grown again, fifty meters now, and the ring's hidden depth stretched under the stretch — and the street's ordinary evening reassembled itself around a woman who had just tasted something impossible and a boy pretending not to be tired.
 
@@ -31,7 +31,7 @@ One glance.
 
 "—No. No, I have no problems. None. This way."
 
-And the red went into the academy, and the mountain went with it to his appointment — which was, the fourth-year who materialized at the grill the instant they were gone was delighted to explain in a whisper, a *standing arrangement*: red clothes meant inner court; you did not discuss inner-court students; inner court had its own rankings and its own ferocity; **the Xiao Tao senior sister was top ten in the inner court**; and Xu Sanshi's Xuanwu Turtle — the best water-attribute soul in the outer school — helped her press something down, and the pressing was torture for him and *tempering* for him at the same time, which was the kind of arrangement the inner court called friendship.
+And the red went into the academy, and the mountain went with it to his appointment — which was, the fourth-year who materialized at the grill the instant they were gone was delighted to explain in a whisper, a *standing arrangement*: red clothes meant inner court; you did not discuss inner-court students. Inner court had its own rankings and its own ferocity; **the Xiao Tao senior sister was top ten in the inner court**; and Xu Sanshi's Xuanwu Turtle. The best water-attribute soul in the outer school — helped her press something down, and the pressing was torture for him and *tempering* for him at the same time, which was the kind of arrangement the inner court called friendship.
 
 *(At the stall's edge, a courier with a hammer heard every word of it, and a fox inside his coat said, so low only one boy on the continent heard it: "*So that is how she banks it between flarings. A borrowed turtle. Two hundred days of borrowed turtle, where the ice gave her three months of grace in one morning — and she does not know to compare the two, because the one who knows is standing by a fish grill being *boring.* File it. Bury it. The year turns tomorrow.*")*
 
@@ -71,7 +71,7 @@ Yuhao looked at the bag. Then at his brother. The bag did not belong in the thir
 
 "You gave the year its spine and charged us nothing. I wrap a baboon and the whole road adopts us. I *do not need a number in a bag* to know what I'm owed." The ghost of a smile. "I need you fed, armed, and through that gate tomorrow. That's the invoice. Pay it by passing."
 
-And Huo Yuhao — who had spent eleven years being nobody's, and four months being five people's, and one night being a boy to whom a brother handed a bag of his whole savings with *take it, it's gathering* — did the only thing his body knew: he took the bag, and put it next to the knives, and said, in a voice that had learned how to be full instead of flat:
+And Huo Yuhao — who had spent eleven years being nobody's, and four months being five people's, and one night being a boy to whom a brother handed a bag of his whole savings with *take it, it's gathering*. Did the only thing his body knew: he took the bag, and put it next to the knives, and said, in a voice that had learned how to be full instead of flat:
 
 "The invoice will be paid."
 
@@ -85,7 +85,7 @@ And Huo Yuhao — who had spent eleven years being nobody's, and four months bei
 
 "Nobody wants your dishes, Wang Dong."
 
-"*My dishes,*" said the prince of a family that could buy the academy, about a debt of two bowls from spring, and somewhere between one breath and the next the whole room was laughing — the three of them, in the dark, on the eve of the year's cutting — and the fox, on her nail, kept her eyes shut and her purring even, because some things were not for archives. Some things were just for the room.
+"*My dishes,*" said the prince of a family that could buy the academy, about a debt of two bowls from spring, and somewhere between one breath and the next the whole room was laughing. The three of them, in the dark, on the eve of the year's cutting — and the fox, on her nail, kept her eyes shut and her purring even, because some things were not for archives. Some things were just for the room.
 
 The room slept — three boys, one armory, one bag of wages, and a fox on the third nail who had listened to the whole exchange with her eyes shut and filed it under the heading she kept for her human's finest work.
 
@@ -121,7 +121,7 @@ Morning came the way it comes before wars: too bright, too ordinary.
 
 Three hundred teams queued at the assessment grounds' gates — the whole first year in knots of three, nine hundred children carrying a quarter's iron and midnight and fish in their shoulders. The boards went up with the draw: zones, brackets, the ten-fight minimum, the arithmetic of survival — one hundred fifty teams of three hundred would still be students by the week's end, and the rest would carry their bundles home to second-tier academies and the lives that stretched out from there.
 
-Group One stood in line in the morning sun: a gray boy with an armory in his belt and a brother's wages in his bag; a blue-haired prince rolling his shoulders like a man arriving at his own coronation; and between them — because the middle was where the middle went — a courier with a hammer he would not need and two yellow rings that the whole year had spent a quarter learning to worry about. Around them the line's murmur did what murmur does: priced them. The gray one's fish and his shocking white ring; the blue one's thousand-year second ring and his coronation; and the third one — the one the murmur could never settle, because every description came out sounding like a weather report: *he held a fourth-year's hammer to the ground; his grass sews; he smells like rain coming; they say his fox reads the field before they step on it.* Nine hundred children, three hundred teams, and one rumor with a tail.
+Group One stood in line in the morning sun: a gray boy with an armory in his belt and a brother's wages in his bag; a blue-haired prince rolling his shoulders like a man arriving at his own coronation. And between them — because the middle was where the middle went — a courier with a hammer he would not need and two yellow rings that the whole year had spent a quarter learning to worry about. Around them the line's murmur did what murmur does: priced them. The gray one's fish and his shocking white ring; the blue one's thousand-year second ring and his coronation; and the third one — the one the murmur could never settle. Because every description came out sounding like a weather report: *he held a fourth-year's hammer to the ground; his grass sews; he smells like rain coming; they say his fox reads the field before they step on it.* Nine hundred children, three hundred teams, and one rumor with a tail.
 
 The fox, in the coat, administered the morning address: "*Rules of the day. The gray one sees. The blue one kills. You hold everything else. And if the red woman appears anywhere near these grounds — you are a boy with grass and no ambitions. Say it back to me.*"
 

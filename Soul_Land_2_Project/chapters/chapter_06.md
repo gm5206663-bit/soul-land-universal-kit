@@ -39,7 +39,7 @@ The proctor left. The pens stopped. And the first thing Jiang Che did, having pu
 
 "I might. It's been a big morning. There was a *hammer.*"
 
-And Huo Yuhao sat down next to his brother on the assessment-square wall — shoulder to shoulder with the boy who had beaten a hammer and was currently losing to gravity — and this, too, was the brotherhood: not the moments that looked like legend, but the wall after, and the gray face, and the *I might be sick,* and the shoulder against the shoulder until the world stopped spinning.
+And Huo Yuhao sat down next to his brother on the assessment-square wall — shoulder to shoulder with the boy who had beaten a hammer and was currently losing to gravity. And this, too, was the brotherhood: not the moments that looked like legend, but the wall after, and the gray face, and the *I might be sick,* and the shoulder against the shoulder until the world stopped spinning.
 
 ---
 
@@ -109,7 +109,7 @@ At the dormitory door, an ancient voice stopped the blue-haired boy like a hand.
 
 Wang Dong stood a moment in the sun. Then he bowed — a deep, correct, furious, *real* bow — and went in to think.
 
-For two days the room held its own weather: two beds, two silences, one boy on fur rugs a finger deep, sleeping like the wealthy, and one boy on bare boards who — the wealthy boy noted with increasing insult — *never lay down at all*, but sat like a stoic in a wheel of white breath, hour after hour, growing.
+For two days the room held its own weather: two beds, two silences, one boy on fur rugs a finger deep, sleeping like the wealthy. And one boy on bare boards who — the wealthy boy noted with increasing insult — *never lay down at all*, but sat like a stoic in a wheel of white breath, hour after hour, growing.
 
 He could *feel* it, that was the unforgivable part. Every soul master's sense said the same thing: a soul power like a candle in a shed, ten levels of anything-but-special — and every fact of his own body, his own two unbruised hands, said *and he beat me.* The arithmetic refused to close. Wang Dong had grown up being the answer to other people's arithmetics, and being a question mark's *subject* kept him awake those two nights longer than the hard bed deserved.
 
@@ -177,7 +177,7 @@ Room 108, that evening, was a war fought in silence: two territories, one bed in
 
 The fur-bed's blue eyes narrowed at the hammer, then at the courier's hair — blue regarding blue with the suspicion of a monarch sighting a rival flag — and then, unable to find anything actually wrong with either, issued the verdict cornered aristocracies fall back on: "*Hmph.* The cleaning rotation is on the wall."
 
-The bare-plank boy said nothing. But two days of monastic silence had built up in Huo Yuhao a pressure only the arrival of a normal human being could release, and the look he gave the third bed was unmistakably *thank heavens* — and Jiang Che, who could read a room the way his mother read a wound, saw the whole war, its history and its future, in one glance, and hung his coat on the third nail.
+The bare-plank boy said nothing. But two days of monastic silence had built up in Huo Yuhao a pressure only the arrival of a normal human being could release, and the look he gave the third bed was unmistakably *thank heavens*. And Jiang Che, who could read a room the way his mother read a wound, saw the whole war, its history and its future, in one glance, and hung his coat on the third nail.
 
 And in the morning the first bell rang, and a small class of monsters began to learn what fearlessness costs — and out of one corner room, three boys walked into it together: two blue-haired, one of them furious at the world and one calm as a river; the third gray-clothed and quietly astonished to be walking anywhere with anyone.
 

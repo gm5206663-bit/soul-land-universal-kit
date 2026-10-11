@@ -29,13 +29,13 @@ The rings rose first: two yellows, bright as struck coins, turning at his ankles
 
 Tang Ya did not gasp. Later, everyone agreed on that; she was proud of it.
 
-She walked into the vines instead, the way you walk into a relative's house, and put her hand flat against the nearest strand, and her own rings answered — three of them now, two yellow and one purple, rising unbidden — and her grass came out to meet his grass, blue-glowing vines winding gentle and curious among the blue-silver ones, and the two souls stood there in the morning light holding hands.
+She walked into the vines instead, the way you walk into a relative's house, and put her hand flat against the nearest strand, and her own rings answered. Three of them now, two yellow and one purple, rising unbidden — and her grass came out to meet his grass, blue-glowing vines winding gentle and curious among the blue-silver ones, and the two souls stood there in the morning light holding hands.
 
 "Blue Silver," she said. Her voice had gone somewhere else. "It's Blue Silver. It's — you *mutated* it. Water in it. There's — what is that, *life*? The whole thing is *full of life* —" She looked up at him, and what was behind her eyes was exactly what Bei Bei had predicted, and having predicted it did not make it easier to watch: the furnace lighting. Ten thousand years of the master line's stubborn honor, and the girl who had carried it alone since her teacher died, and the road, in its infinite comedy, delivering to her clearing — *five days after her sect became three* — a courier boy with the heirloom soul in its rarest form anyone had ever seen.
 
 "Show me the binding," she commanded, wrecked and imperial at once. "Show me the grip. Who taught you — no. *Show me.*"
 
-So he showed her. The Captain's Forms, one by one, in the morning light: the Trip-Line, the Two-Point Anchor, the Pressure-Seal — hold *without harm*, he said, the Hall's rule, and Tang Ya made a sound like a woman finding extra dumplings — and she matched him form for form with her own vines, correcting one thing, stealing three, teaching two back, and the two grasses wove a fence in the clearing that no monkey in the forest could have explained.
+So he showed her. The Captain's Forms, one by one, in the morning light: the Trip-Line, the Two-Point Anchor, the Pressure-Seal — hold *without harm*, he said, the Hall's rule, and Tang Ya made a sound like a woman finding extra dumplings. And she matched him form for form with her own vines, correcting one thing, stealing three, teaching two back, and the two grasses wove a fence in the clearing that no monkey in the forest could have explained.
 
 Then she stopped. Sat down on a root, rather suddenly, with his vine still in her hand.
 
@@ -59,7 +59,7 @@ She let go of his vine, folded her hands, and told it plain.
 
 "The tools aren't evil," Bei Bei said, into the quiet. "That's the part she'll never say, so I will. They're *clever*. The Sun-Moon Empire builds them better than anyone — it's the whole spine of their power, and the reason the continent watches them the way farmers watch a river in spring. Shrek teaches them; the whole age is learning them; and a soul master who pretends the age isn't happening is a soul master the age will happen *to*. When we reach the academy—" and here his eyes moved, without hurry, to the courier, "—you'll see both truths standing in one street. The sect that the tools unmade. And the academy that adapted, and stands first in the world partly *because* it never once refused a new thing."
 
-Jiang Che looked at his own vines, still out, still holding dew, and thought about the dagger on a sleeping boy's hip that had drunk a baboon's light — a soul tool, the father's only gift, the mother's whole treasure — and how the fox had called the road's soul-tools *interesting* the way a cat calls a bird interesting, and he understood that he was being handed, free of charge, both halves of the age in one morning: the grave, and the forge.
+Jiang Che looked at his own vines, still out, still holding dew, and thought about the dagger on a sleeping boy's hip that had drunk a baboon's light — a soul tool, the father's only gift, the mother's whole treasure. And how the fox had called the road's soul-tools *interesting* the way a cat calls a bird interesting, and he understood that he was being handed, free of charge, both halves of the age in one morning: the grave, and the forge.
 
 "Also," said Huo Yuhao, from the fence, helpful as sunrise, "the fish really was excellent."
 
@@ -71,15 +71,15 @@ Jiang Che looked at his own vines, still out, still holding dew, and thought abo
 
 They went west that noon, around the green wall's hip, and the road taught for four days.
 
-Geography, first, because the forest graded its dangers like an academy grades its students: the south side — their side, the Star Luo side — kept the lesser beasts; the northwest face, the one that looked at Shrek, held the old strong ones, who hated the academy's hunters with a hatred that had, more than once in history, poured out of the trees as a tide. No one below Soul King walked in from that side with a whole skin. A thousand li of detour bought you the gentle edge of the world's biggest wilderness — and on that long gentle edge, the Tang Sect opened its last treasury and paid everything out in lessons.
+Geography, first, because the forest graded its dangers like an academy grades its students: the south side — their side, the Star Luo side — kept the lesser beasts. The northwest face, the one that looked at Shrek, held the old strong ones, who hated the academy's hunters with a hatred that had, more than once in history, poured out of the trees as a tide. No one below Soul King walked in from that side with a whole skin. A thousand li of detour bought you the gentle edge of the world's biggest wilderness — and on that long gentle edge, the Tang Sect opened its last treasury and paid everything out in lessons.
 
-For Huo Yuhao, the whole road was a school. The Purple Demon Eyes at dawn, staring at the first light until the world's edges sharpened. The Ghost-Shadow Track until his feet forgot roads existed. The Crane-Captures-Dragon with Bei Bei correcting his wrists a fourth time, a fifth, *patient as rain, deep in the shallow* — and the boy's terrifying diligence, which was the road's true weather: he ran the Xuantian Gong every rest-stop and half the marches, and by the fourth day his old soul power had gone over entirely, re-issued pure, and the gray little veteran of the woodshed stood in a field at evening breathing white streams off his lips with his eyes gone clear as window-glass, and called it *a good day*, and meant it.
+For Huo Yuhao, the whole road was a school. The Purple Demon Eyes at dawn, staring at the first light until the world's edges sharpened. The Ghost-Shadow Track until his feet forgot roads existed. The Crane-Captures-Dragon with Bei Bei correcting his wrists a fourth time, a fifth, *patient as rain, deep in the shallow* — and the boy's terrifying diligence, which was the road's true weather: he ran the Xuantian Gong every rest-stop and half the marches. And by the fourth day his old soul power had gone over entirely, re-issued pure, and the gray little veteran of the woodshed stood in a field at evening breathing white streams off his lips with his eyes gone clear as window-glass, and called it *a good day*, and meant it.
 
 "Spirit Detection Sharing," he told them, when Bei Bei pressed the naming — the camouflage holding, the baboon's ring still wearing the story. "Thirty meters now. The range grows, I think, with my cultivation. And it costs — almost nothing." And Bei Bei looked at him with the despair of a scholar meeting a new continent — "*ten thousand years* of soul research, and no book has a record like you" — and then collected himself, and did what senior brothers do: he assigned the boy a future. Control-type. The ancestor's own category; the team's hidden king. "With Xiao Ya's grass and your eyes, a *team* doesn't need anything else to be complete. Trust the classification. Trust me."
 
 For Jiang Che, the road was quieter, and less quiet than it looked.
 
-He could not learn the arts — not one page, not one step; the Treasure Record was the sect's blood and the life-condition was the sect's law, and Bei Bei, gentle about it, was absolute: *when you belong, all of it is yours; until then, it isn't, and that is what belonging means.* So the courier did what the courier had: he read the road, worked his forms at the fire's edge, mended blisters and a twisted ankle with his mother's craft, and let the AT drink the age in — the soul-tool caravans passing west with their humming crates; the hunters' tools; the belt on a sleeping boy that held twenty-four rooms. *The age will happen to the ones who pretend it isn't happening.* He caught himself, once, doing the arithmetic of the fence-forms against tools he'd never fought, and stopped, and didn't unstop.
+He could not learn the arts — not one page, not one step; the Treasure Record was the sect's blood and the life-condition was the sect's law, and Bei Bei, gentle about it, was absolute: *when you belong, all of it is yours; until then, it isn't. And that is what belonging means.* So the courier did what the courier had: he read the road, worked his forms at the fire's edge, mended blisters and a twisted ankle with his mother's craft. And let the AT drink the age in — the soul-tool caravans passing west with their humming crates; the hunters' tools; the belt on a sleeping boy that held twenty-four rooms. *The age will happen to the ones who pretend it isn't happening.* He caught himself, once, doing the arithmetic of the fence-forms against tools he'd never fought, and stopped, and didn't unstop.
 
 And Tang Ya, rank thirty now, with three rings and a banked furnace, watched him at the fire's edge doing forms he'd invented at eight years old, and said nothing at all, which from her was a speech.
 
@@ -105,7 +105,7 @@ On Yuhao's watch, the second night, the passenger stirred — a *dream* — and 
 
 From the coat: "*I heard that.*"
 
-The craft-thread took its first step that same day — the Treasure Record in the courier's pack since the oath; Tang Ya's *"start with the least"*; and the least was the Jade Hand, whose first exercise was *holding things that are too hot.* Every campfire's kettle, every cook-pot handle, every stone rolled from the pit: the courier did them bare-handed for two hundred miles, lost the skin off both palms twice, and said nothing — until Yuhao watched him pick up a boiling kettle by the bail like a cup of tea:
+The craft-thread took its first step that same day — the Treasure Record in the courier's pack since the oath; Tang Ya's *"start with the least"*. And the least was the Jade Hand, whose first exercise was *holding things that are too hot.* Every campfire's kettle, every cook-pot handle, every stone rolled from the pit: the courier did them bare-handed for two hundred miles, lost the skin off both palms twice. And said nothing — until Yuhao watched him pick up a boiling kettle by the bail like a cup of tea:
 
 "Does it hurt?"
 
@@ -125,7 +125,7 @@ On the fourth night, the trees thinned, and the west showed lights — a wide sc
 
 "Shrek City," Bei Bei said. "Tomorrow, the academy."
 
-They sat up late around a fire that had become, without ceremony, the Tang Sect's last hearth of the road — the master darning a sock with flying-knife precision; the first disciple cleaning a porcelain vial; the second disciple breathing white streams with his eyes shut, growing; and the courier from Linjiang, two rings, unhired, with a green edge behind him and a gold horizon ahead, sitting his watch beside the sect that was patient.
+They sat up late around a fire that had become, without ceremony, the Tang Sect's last hearth of the road — the master darning a sock with flying-knife precision; the first disciple cleaning a porcelain vial. The second disciple breathing white streams with his eyes shut, growing; and the courier from Linjiang, two rings, unhired, with a green edge behind him and a gold horizon ahead, sitting his watch beside the sect that was patient.
 
 "You know," Tang Ya said, to the fire, thoughtfully, in the tone of a woman finally saying the thing she had not said for four days, "when the ancestor built all this — the sect, the team, the *age* — the stories say he started with exactly this. Not a fortress. Not a fortune." She turned the sock. "A fire, and however many monsters he could fit around it."
 
@@ -139,7 +139,7 @@ In the dark, a fox said one more thing, to the only ear that could hear it: "*Li
 
 "I know," said the courier, who had known this since he was four.
 
-"That's why I picked you," said the fox, and was asleep before the sentence ended, which was her version of goodnight, and also, possibly, a lie — she had not picked him; she had been dying in a ravine and he had been the only pair of hands that worked — but she was an empress, and empresses do not say *I stumbled into you.* They say *I chose.*
+"That's why I picked you," said the fox, and was asleep before the sentence ended, which was her version of goodnight, and also, possibly, a lie — she had not picked him. She had been dying in a ravine and he had been the only pair of hands that worked — but she was an empress, and empresses do not say *I stumbled into you.* They say *I chose.*
 
 ---
 

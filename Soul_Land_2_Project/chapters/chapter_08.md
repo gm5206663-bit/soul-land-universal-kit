@@ -51,7 +51,7 @@ Outside the canteen, a girl of fifteen pounced.
 
 "Investor," said Tang Ya, with enormous dignity. "And first customer. *Priority* customer. Also I get to eat while you cook. Also I brought my own stool."
 
-The Tang Sect's founding and complete membership, having thusly armed her second disciple with the most economically sound business model in the Academy's history, advanced to the fourth year that afternoon — she and Bei Bei both passing the promotion trials, the new purple ring earning its keep — and by evening the gate of Shrek Academy smelled like perilla and salt and futures, and a line of senior students who had no idea they were being fed by the rebirth of a dead sect's economy stood twenty deep for grilled fish.
+The Tang Sect's founding and complete membership, having thusly armed her second disciple with the most economically sound business model in the Academy's history, advanced to the fourth year that afternoon — she and Bei Bei both passing the promotion trials, the new purple ring earning its keep. And by evening the gate of Shrek Academy smelled like perilla and salt and futures, and a line of senior students who had no idea they were being fed by the rebirth of a dead sect's economy stood twenty deep for grilled fish.
 
 The fish-saint cooked. His eyes measured the fire's grain. His hands turned each fish at its exact moment. And the canteen aunts, the porters, the first-year sweat-soaked and the fourth-year smug, discovered that the worth of a boy is not always in his rank.
 
@@ -86,7 +86,7 @@ Mornings: three alarms, or rather one alarm and two victims of it. Yuhao woke at
 
 Evenings: the triangle. The forge-shift's return (smelling, always, of a fireplace with opinions) was room 108's unofficial dinner bell — Wang Dong's term, adopted by acclamation, vetoed by its subject, adopted again — and the three boys ate together at the desk or the floor or once, memorably, standing at the window watching the lake mist because Wang Dong refused to sit until his hair "settled" and Yuhao refused to miss the spectacle and Jiang Che refused to eat without them.
 
-And between morning and evening, the craft grew on-page: the Jade Hand entering its second month, the burn-threshold now past working-iron and into *quenching* — the night he pulled a blade-blank from the oil-bath bare-handed and Old Qian, watching from two stations away, put down his own tongs and stared at his own hands and then at the boy's and then said nothing for the rest of the shift — and the first crude sleeve-dart track took four failures and a fifth that held, and the courier did not show it to anyone except the fox, who pronounced it "bad work by a smith who will do work that makes this look like a mud-pie," which from her was a *commendation.*
+And between morning and evening, the craft grew on-page: the Jade Hand entering its second month, the burn-threshold now past working-iron and into *quenching*. The night he pulled a blade-blank from the oil-bath bare-handed and Old Qian, watching from two stations away, put down his own tongs and stared at his own hands and then at the boy's and then said nothing for the rest of the shift. And the first crude sleeve-dart track took four failures and a fifth that held, and the courier did not show it to anyone except the fox, who pronounced it "bad work by a smith who will do work that makes this look like a mud-pie," which from her was a *commendation.*
 
 ---
 
@@ -104,7 +104,7 @@ And Wang Dong, in the trust that is only possible between people who have bled a
 
 Then: "Show me the detection."
 
-Yuhao shared. And Wang Dong — who had flown under his own wings since age six, who had never in his life met anything he couldn't outpace — stood inside another person's *world* for the first time, and the left and right and behind of everything stood up in his mind at once, and the blue eyes went wide and stayed wide, and something in the handsome, furious, arrogant boy rearranged itself very quietly around the fact that this boy whose soul power was a candle in a shed carried a *cathedral* behind his eyes.
+Yuhao shared. And Wang Dong — who had flown under his own wings since age six, who had never in his life met anything he couldn't outpace — stood inside another person's *world* for the first time. And the left and right and behind of everything stood up in his mind at once, and the blue eyes went wide and stayed wide, and something in the handsome, furious, arrogant boy rearranged itself very quietly around the fact that this boy whose soul power was a candle in a shed carried a *cathedral* behind his eyes.
 
 "Again," Wang Dong said, hoarse. "Try pointing it. One direction. *Push*."
 
@@ -132,11 +132,11 @@ But in the dark of his coat on the third nail, a fox who had also heard everythi
 
 ### ╱╱ THE FORGE ╲╲
 
-The gray buildings stood west of the white halls, and between them ran the road Jiang Che now walked every **evening** after class — forge shift at dusk, the work-board's honest coin, the Jade Hand's nightly conduction — and every evening the same intersection: the **soul tool testing ground** to his right, humming; the **smithy yard** to his left, roaring; and between them a boy carrying a hammer, walking the seam of the age in the hour between school and sleep.
+The gray buildings stood west of the white halls, and between them ran the road Jiang Che now walked every **evening** after class — forge shift at dusk, the work-board's honest coin, the Jade Hand's nightly conduction. And every evening the same intersection: the **soul tool testing ground** to his right, humming; the **smithy yard** to his left, roaring; and between them a boy carrying a hammer, walking the seam of the age in the hour between school and sleep.
 
 He had begun, this week, to notice things.
 
-The smithy's Journeymen used *tools*. Not soul tools — honest tools, hammers and tongs and quirks — but the metal they worked was not always honest: ingots came in from the testing ground's offcuts, alloyed with minerals his father's forge had never named, and when the old Journeyman at the last furnace quenched a blade in oil, the oil *sang* at a pitch the Jade Hand's conduction could feel — a soul-resonance in the quench-still, a note that said *this metal has been near soul power and remembers it.*
+The smithy's Journeymen used *tools*. Not soul tools — honest tools, hammers and tongs and quirks — but the metal they worked was not always honest: ingots came in from the testing ground's offcuts, alloyed with minerals his father's forge had never named. And when the old Journeyman at the last furnace quenched a blade in oil, the oil *sang* at a pitch the Jade Hand's conduction could feel — a soul-resonance in the quench-still, a note that said *this metal has been near soul power and remembers it.*
 
 The two buildings were not neighbors. They were *partners* — the smithy shaping what the testing ground dreamed, the testing ground breaking what the smithy made so the smithy could learn. And nobody, as far as the courier could see, had ever put a boy in the middle with a hammer and asked what fell out.
 
@@ -154,7 +154,7 @@ He turned them. The small burns from the first three nights had already faded to
 
 "Six nights."
 
-The old man grunted. Six nights was nothing. Six nights was a boy holding a warm stone and being patient. And yet. And *yet.* He had seen sect disciples come through this yard before, in his forty years of it — sent by teachers who thought manual labor was character-building — and not one of them had ever had the skin change color in the first week, because not one of them had ever practiced the tempering art *every single night* with the patience of someone who understood that the least art was the one that needed the most work.
+The old man grunted. Six nights was nothing. Six nights was a boy holding a warm stone and being patient. And yet. And *yet.* He had seen sect disciples come through this yard before, in his forty years of it — sent by teachers who thought manual labor was character-building. And not one of them had ever had the skin change color in the first week, because not one of them had ever practiced the tempering art *every single night* with the patience of someone who understood that the least art was the one that needed the most work.
 
 "You're going to be here a while, aren't you," the Journeyman said. Not a question.
 
@@ -170,7 +170,7 @@ Yuhao sat cross-legged on his boards, meditating, recovering, his mind's forward
 
 Wang Dong lay on his furs, hands behind his head, staring at the ceiling with the expression of a boy doing arithmetic he refuses to show his work on. *A hundred meters. If the small one can push that arc to a hundred meters, the mountain in the test zone teaches him to build weapons. What does a butterfly need with a builder?* He didn't know. He only knew the locked room behind his own smile had just acquired a window, and the view was strange.
 
-Later — after the forge, after the room, after the day — at the third desk, under a candle stub that was itself a luxury bought with forge wages, Jiang Che read the Treasure Record — the Jade Hand pages, as he did every night, one paragraph at a time, the way his mother taught him to read anything: slowly, and twice. The Jade Hand was not dramatic. It was a method: how to temper the hands, how to conduct heat, how to be patient when the stone is warm and nothing is happening and nothing is going to happen for months. Six nights of it. His palms itched. That was all. That was honestly all.
+Later — after the forge, after the room, after the day — at the third desk, under a candle stub that was itself a luxury bought with forge wages, Jiang Che read the Treasure Record. The Jade Hand pages, as he did every night, one paragraph at a time, the way his mother taught him to read anything: slowly, and twice. The Jade Hand was not dramatic. It was a method: how to temper the hands, how to conduct heat, how to be patient when the stone is warm and nothing is happening and nothing is going to happen for months. Six nights of it. His palms itched. That was all. That was honestly all.
 
 The fox, on his shoulder, was asleep, or pretending, which from her was the same courtesy.
 

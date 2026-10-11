@@ -2,7 +2,7 @@
 
 **[canon: S1 slot 1 — Stormy Weather (production N° 101)]**
 
-The croissant vendor gave him a second one without asking. In eleven days in Paris, that was already one of the things the city had decided about Keal Walker, the way it had decided about the bench under the old tree, or the left-loop joggers, or the old men who moved through the grass like the park was made of water — decided, and moved around it, the way water moves around a stone.
+The croissant vendor gave him a second one without asking. In eleven days in Paris, that was already one of the things the city had decided about Keal Walker, the way it had decided about the bench under the old tree. Or the left-loop joggers, or the old men who moved through the grass like the park was made of water — decided, and moved around it, the way water moves around a stone.
 
 He was the new kid. New at the school, new in the apartment above the bakery street where the boxes were still half open, new to the bench, which had already stopped being a bench and become his. He was cold. He was always cold. His sleeves were down to his knuckles, and he was also a little hungry, which was why there were two croissants in his hand, because the little one in the park was always hungry. He had the notebook folded in his jacket — the city, half-drawn, the river bent a little wrong near the bridge he had named half-guessed.
 
@@ -52,7 +52,7 @@ Aurore looked at her parasol. The black butterfly landed on the canopy with a so
 
 Back in the park, the sky did something it had no right to do.
 
-It went grey at the edges, the way a photo burns. The wind picked up in one motion, not a gust but a *decision*, and the crowd scattered with their arms around their heads, and the metal railings came off their anchors and went spinning over the fountain, and a figure in purple and white sashayed out of the studio district on top of the wind, a parasol tilted against the clouds.
+It went grey at the edges, the way a photo burns. The wind picked up in one motion, not a gust but a *decision*, and the crowd scattered with their arms around their heads. And the metal railings came off their anchors and went spinning over the fountain, and a figure in purple and white sashayed out of the studio district on top of the wind, a parasol tilted against the clouds.
 
 Mireille, who had just taken an elevator down, was still in it when the doors froze open around her.
 
@@ -70,7 +70,7 @@ The ice closed over the top with a sound like a book shutting.
 
 Manon's voice came from inside the white, small and steady, because two-year-olds don't get to be afraid in front of people they like, and she had decided, at this exact moment, that she liked him.
 
-Keal's heart hit his ribs once. Then the breath found the pattern it always found in the bad moments, four in, seven out, the way you slow a spinning top; the hands settled on the rail with a strength that did not look like strength at all; the mind was already three moves ahead, counting exits, counting joints, counting what the cold was doing to the machine around him. It was his nature, the part of him that worked on every single part of him, and it was doing what it did. And under all of it, the cuff on his wrist, the plain grey one he'd had since he was six, the one his mother had bought at a market in the old city and never explained, was *warm*.
+Keal's heart hit his ribs once. Then the breath found the pattern it always found in the bad moments, four in, seven out, the way you slow a spinning top. The hands settled on the rail with a strength that did not look like strength at all; the mind was already three moves ahead, counting exits, counting joints, counting what the cold was doing to the machine around him. It was his nature, the part of him that worked on every single part of him, and it was doing what it did. And under all of it, the cuff on his wrist, the plain grey one he'd had since he was six, the one his mother had bought at a market in the old city and never explained, was *warm*.
 
 "Breathe with me," Keal said through the ice, and his voice came out level, level as a bench, "two, three, four — go."
 
@@ -80,7 +80,7 @@ The ice was not a wall. That was the first thing he knew, because walls don't hu
 
 Outside, Marinette had come back. She had a mask on now — red and black, a little white creature perched where her hair should have been — and a yo-yo that flew like a thought.
 
-She hit the ice three times with it. Three times, the yo-yo skipped off the surface like a stone on glass, and the second skip caught her in the face and sent her sprawling, and Keal, inside, pressed his palm flat to the carousel's rim and felt the cold crawl over his knuckles and thought, *no, not the top — the rim, the thin line at the bottom, where the wind has been eating it*.
+She hit the ice three times with it. Three times, the yo-yo skipped off the surface like a stone on glass, and the second skip caught her in the face and sent her sprawling. And Keal, inside, pressed his palm flat to the carousel's rim and felt the cold crawl over his knuckles and thought, *no, not the top — the rim, the thin line at the bottom, where the wind has been eating it*.
 
 "Hey!" he called up at the mask. "Not the top. The rim. The thin one."
 
@@ -88,11 +88,11 @@ The mask looked at him. Really looked, for a second, through a seam in the ice w
 
 The rim cracked with a sound like a rifle shot.
 
-The ladybug in the red mask was in the crack in three strides, and the little white creature on her head said something he couldn't hear, and then the mask was lifting a slab of ice with both hands like it weighed nothing, and the light came in, and Manon came out of the ice in Keal's arms, and Keal came out with her, and the whole park, which had been holding its breath, *cheered* — for the new kid who had come out of the ice with the toddler calm in his arms, steady in the way that made the fear leave the crowd faster than the cold left the glass — and somewhere in the noise a phone's camera lens was already on him, because Alya, outside the wall, had been filming the entire time, and she had not stopped.
+The ladybug in the red mask was in the crack in three strides, and the little white creature on her head said something he couldn't hear. And then the mask was lifting a slab of ice with both hands like it weighed nothing, and the light came in, and Manon came out of the ice in Keal's arms, and Keal came out with her. And the whole park, which had been holding its breath, *cheered* — for the new kid who had come out of the ice with the toddler calm in his arms, steady in the way that made the fear leave the crowd faster than the cold left the glass. And somewhere in the noise a phone's camera lens was already on him, because Alya, outside the wall, had been filming the entire time, and she had not stopped.
 
 "Thank you," the mask said, to him, to the two of them, to the park. "I'll be right back."
 
-And she was gone up the side of a building, and the boy in the black mask — the one with the staff, the one who had been thrown through four cars and was punning about it the whole way — was gone too, and the figure in purple and white was floating over the rooftops, laughing at the clouds, and the clouds were *listening to her*.
+And she was gone up the side of a building, and the boy in the black mask — the one with the staff, the one who had been thrown through four cars and was punning about it the whole way. Was gone too, and the figure in purple and white was floating over the rooftops, laughing at the clouds, and the clouds were *listening to her*.
 
 Keal sat on the bench with Manon on his lap and the grey cuff on his wrist, and he watched his two hands, and his hands were steady. He was not surprised by that — he had stopped being surprised about that years ago.
 
@@ -106,7 +106,7 @@ A woman in a storm gave the weather. All of France, she said, eternal winter, ef
 
 The cuff woke up.
 
-It was not a metaphor. The plain grey band on his wrist, which had been matte and dull and *nothing* for seven years, pulsed. Green, then blue, then a purple so deep it was almost a sound, and the three colors ran around his wrist in a slow wave, and the warmth went up his arm and sat behind his ribs, and the air in front of the bench — the empty air, where nothing had been a second ago — was no longer empty.
+It was not a metaphor. The plain grey band on his wrist, which had been matte and dull and *nothing* for seven years, pulsed. Green, then blue, then a purple so deep it was almost a sound, and the three colors ran around his wrist in a slow wave. And the warmth went up his arm and sat behind his ribs, and the air in front of the bench — the empty air, where nothing had been a second ago — was no longer empty.
 
 A chameleon sat on the armrest.
 
@@ -126,7 +126,7 @@ The cuff pulsed once, hard, green.
 
 The world folded.
 
-The suit came over him like a tide going back into the sea — sleek, iridescent, made of scales so fine they were more light than metal, and it was *breathing*, reading the bench, the hedges, the grey sky, and where the hedges were green it went green, and where the sky was white it went the color of snow, and he looked down at his hands and his hands were the color of the bench and then, because his heart was *hammering*, deep blue, a blue so full of fear it had a texture.
+The suit came over him like a tide going back into the sea — sleek, iridescent, made of scales so fine they were more light than metal, and it was *breathing*, reading the bench, the hedges, the grey sky. And where the hedges were green it went green, and where the sky was white it went the color of snow, and he looked down at his hands and his hands were the color of the bench and then, because his heart was *hammering*, deep blue, a blue so full of fear it had a texture.
 
 Then he thought of Manon, still on the bench, still watching him with a face like a sun, and the blue eased toward green.
 
@@ -142,21 +142,21 @@ And then there were three of them, because he walked out of the dark and the dar
 
 He turned the baton in his hands. It was metal, simple, unremarkable — and then it was not unremarkable, because it was *growing*, the metal flowing like poured glass, lengthening, thinning, the end blooming into a hook with teeth like a comb, and he threw it before she could finish looking at it.
 
-The hook bit into the crane's boom with a sound like a door slamming, and it held, and he reeled the line in until it was taut, and stood on the edge of the roof with his hands on the line and his color doing something complicated — green under the grey of the storm, blue at the edges where the wind bit.
+The hook bit into the crane's boom with a sound like a door slamming, and it held, and he reeled the line in until it was taut. And stood on the edge of the roof with his hands on the line and his color doing something complicated — green under the grey of the storm, blue at the edges where the wind bit.
 
 "Do it," he said.
 
-The black-masked boy did the billboard. The taunt, the hand along the metal, the *crack* of the Cataclysm — a word no one in this city had ever said out loud before, and Keal heard it the way you hear a name spoken for the first time: as if the world had just been given a new word and was trying it on — and the billboard came down, and the villain in the storm blew a hole through it with a bolt of lightning and laughed into the hole.
+The black-masked boy did the billboard. The taunt, the hand along the metal, the *crack* of the Cataclysm — a word no one in this city had ever said out loud before. And Keal heard it the way you hear a name spoken for the first time: as if the world had just been given a new word and was trying it on — and the billboard came down, and the villain in the storm blew a hole through it with a bolt of lightning and laughed into the hole.
 
 The lady in red opened the yo-yo around the villain's boot.
 
 She ran.
 
-Under the pipes, against the crane, over the machine that breathed the tower's hot air, and then the towel — the *towel*, the absurd ridiculous towel — opened into a wing and she was in the sky, and the villain was coming down with her, and the wind threw everything sideways, and the line screamed, and for one half-second it was going to snap, the angle too cruel, the gust too clean —
+Under the pipes, against the crane, over the machine that breathed the tower's hot air, and then the towel — the *towel*, the absurd ridiculous towel — opened into a wing and she was in the sky. And the villain was coming down with her, and the wind threw everything sideways, and the line screamed, and for one half-second it was going to snap, the angle too cruel, the gust too clean —
 
 And the hook held.
 
-The line ran over the comb-teeth of the anchor and did not let go, and the fall had its geometry, and the geometry did its arithmetic, and the villain's boot came loose from the line, and the parasol came loose from the hand, and the black-masked boy caught it mid-air with the staff, and the lady in red snapped it in half with both hands, and the yo-yo opened like a flower and the black butterfly came out of the canopy with a sound like a match being blown out, and the towel went up into the air and the ice went down, and the snow stopped, and the city, all of it, exhaled.
+The line ran over the comb-teeth of the anchor and did not let go, and the fall had its geometry, and the geometry did its arithmetic, and the villain's boot came loose from the line, and the parasol came loose from the hand, and the black-masked boy caught it mid-air with the staff. And the lady in red snapped it in half with both hands, and the yo-yo opened like a flower and the black butterfly came out of the canopy with a sound like a match being blown out. And the towel went up into the air and the ice went down, and the snow stopped, and the city, all of it, exhaled.
 
 On the bench in the park, a toddler in a Mireille balloon watched the sky clear, and said, for the record, "I told you the lady was coming back."
 
@@ -171,9 +171,9 @@ When the video went up, the first hundred comments were about the lady in red. T
 *who is that?? the new kid from Dupont. I've seen him at the school. he's been there eleven days and he's already on the school feed three times, that's not normal*
 *and the thing on the roof — same build? I'm going crazy. 4:12.*
 
-Within the hour the comment section had split into three camps, the way comment sections do: the ones who saw the green blur and could prove nothing, the ones who saw the new kid from Dupont and could prove a face, and the ones who, like the rest of the park, were still certain the answer was the loud girl with the phone.
+Within the hour the comment section had split into three camps, the way comment sections do: the ones who saw the green blur and could prove nothing, the ones who saw the new kid from Dupont and could prove a face. And the ones who, like the rest of the park, were still certain the answer was the loud girl with the phone.
 
-In the park, the photoshoot had gone on without its red-haired model. The toddler had taken her place, arm in arm with Adrien on the far side of the fountain, and the photographer was in heaven, and Marinette stood by the fountain watching them and doing the specific face of a person who has saved the city and lost the afternoon, and the crowd had already started the joke — the joke was always the same joke, the joke was that Alya must be the lady in red, because Alya was *loud*, and loud people are heroes, that's how it works.
+In the park, the photoshoot had gone on without its red-haired model. The toddler had taken her place, arm in arm with Adrien on the far side of the fountain, and the photographer was in heaven, and Marinette stood by the fountain watching them and doing the specific face of a person who has saved the city and lost the afternoon. And the crowd had already started the joke — the joke was always the same joke, the joke was that Alya must be the lady in red, because Alya was *loud*, and loud people are heroes, that's how it works.
 
 Except a toddler.
 
@@ -181,13 +181,13 @@ Toddlers do not follow the joke. The toddler had a phone in her hand — Marinet
 
 "THE GREEN ONE!" Manon announced, to the photographer, to Adrien, to the entire fountain. "LADYBUG'S OTHER FRIEND!"
 
-The photographer looked at the screen. Adrien looked at the screen. The screen showed, at the mark, a boy in the ice — a face, a clear face, a new face everyone was trying to place — and, at four minutes and twelve seconds, nothing at all, because that is what a green blur is, in a video: the place where the eye is sure it saw something, and the place where the eye is sure, is exactly the place the eye cannot find.
+The photographer looked at the screen. Adrien looked at the screen. The screen showed, at the mark, a boy in the ice — a face, a clear face, a new face everyone was trying to place — and, at four minutes and twelve seconds, nothing at all. Because that is what a green blur is, in a video: the place where the eye is sure it saw something, and the place where the eye is sure, is exactly the place the eye cannot find.
 
 "Manon," Marinette said, gently, the way you speak to a sun.
 
 "THE GREEN ONE," Manon repeated, with finality.
 
-And on his bench, which was very close to the fountain and very far from the joke, Keal Walker sat with a croissant in his hand — the one he had bought for the little one was already gone, eaten in one sitting and forgotten, which was how it always was with her — and he watched Marinette walk toward him, because the park has a geometry, and the geometry says that the person who saves the city ends up where the person who held the line is sitting, and the two of them looked at each other across the distance of a bench and a fountain, and the static in the air — the hairline of wrong that had been there since nine in the morning — was gone, and something else was in the air instead, something small and new and not yet named.
+And on his bench, which was very close to the fountain and very far from the joke, Keal Walker sat with a croissant in his hand. The one he had bought for the little one was already gone, eaten in one sitting and forgotten, which was how it always was with her — and he watched Marinette walk toward him, because the park has a geometry. And the geometry says that the person who saves the city ends up where the person who held the line is sitting, and the two of them looked at each other across the distance of a bench and a fountain. And the static in the air — the hairline of wrong that had been there since nine in the morning — was gone, and something else was in the air instead, something small and new and not yet named.
 
 "You held the line," she said.
 
@@ -214,7 +214,7 @@ Hawk Moth: akumatized this chapter: **1** (Aurore Beauréal / Stormy Weather) ·
 Butterflies shown: **6**
 
 ### Spectator Test
-A stranger with the vlog can report: a new kid out of the ice with a toddler calm in his arms (a clear face — the city hasn't placed it yet, Dupont has); a third figure on the roof who anchored the fall — a green blur, same build, unproven; and a comment section that has already started to connect the two.
+A stranger with the vlog can report: a new kid out of the ice with a toddler calm in his arms (a clear face. The city hasn't placed it yet, Dupont has); a third figure on the roof who anchored the fall — a green blur, same build, unproven; and a comment section that has already started to connect the two.
 
 ### OC Voice
 6 turns

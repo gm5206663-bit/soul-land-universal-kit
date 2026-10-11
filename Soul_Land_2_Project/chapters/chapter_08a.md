@@ -37,7 +37,7 @@ The Jade Hand was not armor. It was *conduction* — a way of channeling soul po
 
 **Stage one — the conditioning (weeks one through four):**
 
-Every night, after the shift, Jiang Che sat cross-legged on his bed with a bowl of heated water and practiced the Record's first exercise: circulating soul power through his palms in the specific pattern the text called *the riverbed* — a slow, deliberate flow that traced the meridians of the hand from the wrist across the palm and out through the fingertips, warming the tissue from within. The effect was subtle and cumulative: the skin thickened without callusing; the small bones of the hand densified; the nerves learned to report heat as *information* rather than *pain*.
+Every night, after the shift, Jiang Che sat cross-legged on his bed with a bowl of heated water and practiced the Record's first exercise: circulating soul power through his palms in the specific pattern the text called *the riverbed*. A slow, deliberate flow that traced the meridians of the hand from the wrist across the palm and out through the fingertips, warming the tissue from within. The effect was subtle and cumulative: the skin thickened without callusing; the small bones of the hand densified; the nerves learned to report heat as *information* rather than *pain*.
 
 By week two he could hold a billet fresh from the fire for three seconds before the burn registered. By week three, five. By week four, he picked up a bar at working temperature — hot enough to raise blisters on ordinary skin — and held it while the AT read the heat's path through his palm, and the burn never came. The heat entered, and the conduction passed it through, and the fox said, from the pillow: "*The Record's author knew what he was writing about. That is not a technique. That is an education.*"
 
@@ -97,7 +97,7 @@ Not a weapon — not yet. A *frame*: the skeleton of a sleeve-dart mechanism, th
 
 The work was precision-forging at a scale the billet-test had not approached: channels a finger's width wide, walls as thin as a coin, the whole piece no larger than a man's palm. It took four failed attempts — four pieces of iron that cracked under the hammer's precision-demand, because the tolerances were finer than a first-rank smith's ordinary work and the AT was learning a new scale the way it learned everything.
 
-The fifth attempt held. The track was rough — a first-rank piece, no more, the walls uneven in ways a master would see at a glance — but it was a *track*: a channel that would guide a dart from wrist to target, the skeleton of the Tang Sect's most basic tool, forged by the sect's third disciple in an empty forge yard at midnight.
+The fifth attempt held. The track was rough — a first-rank piece, no more, the walls uneven in ways a master would see at a glance. But it was a *track*: a channel that would guide a dart from wrist to target, the skeleton of the Tang Sect's most basic tool, forged by the sect's third disciple in an empty forge yard at midnight.
 
 He showed it to no one but the fox.
 

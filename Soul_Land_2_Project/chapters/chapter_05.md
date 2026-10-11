@@ -7,7 +7,7 @@
 
 ### ╱╱ THE CITY OF MONSTERS ╲╲
 
-They came at Shrek City out of the morning like sailors coming at a harbor: the road widened, and widened again, and then the road gave up and became *streets*, and the age poured past them in both directions — caravans of soul-tool freight humming west, auction houses with their doors open like mouths, tea-shops three stories tall, and monsters everywhere, wearing school badges of four colors and no awe at all.
+They came at Shrek City out of the morning like sailors coming at a harbor: the road widened, and widened again, and then the road gave up and became *streets*. And the age poured past them in both directions — caravans of soul-tool freight humming west, auction houses with their doors open like mouths, tea-shops three stories tall, and monsters everywhere, wearing school badges of four colors and no awe at all.
 
 "Every one of them," Bei Bei said, pleasantly, "is the pride of somewhere. The continent culls a thousand years of children down to a thousand a year, and those are the thousand. Try to feel the size of it," he advised his junior brother, "and then stop, because the size of it is not your business. *You* are your business."
 
@@ -37,7 +37,7 @@ Behind the statues, through the trees, water glinted — a lake so wide it held 
 
 "The Sea God Lake," Tang Ya said. "Built to honor the ancestor — he took a god's throne, the stories say, and one of them was of the sea. The *inner academy* stands on that island. Everything we do, everything this place does, aims across that water."
 
-Jiang Che stood before the third statue the longest of any of them. A boy with grass in his sleeves, looking up at the man who had made grass a legend — feeling, without any way to say it, the weight of a ten-thousand-year expectation settle onto his shoulders and finding that it fit, the way his father's strap fit, the way his mother's knots fit: made for someone bigger, and then, one day, not.
+Jiang Che stood before the third statue the longest of any of them. A boy with grass in his sleeves, looking up at the man who had made grass a legend. Feeling, without any way to say it, the weight of a ten-thousand-year expectation settle onto his shoulders and finding that it fit, the way his father's strap fit, the way his mother's knots fit: made for someone bigger, and then, one day, not.
 
 In his pocket, very low, so only one boy in the world could have heard it: "*Hm. He kept his eyes on his people, not his height.*" And then nothing more, which from the fox was a eulogy.
 
@@ -51,7 +51,7 @@ The sect at its height: thousands of members, the continent's armory, rich beyon
 
 "— and by my childhood it was three," Tang Ya said, to the water. "Mama. Papa. Me." A breath, level, rehearsed by years of not-crying. "They died in the hunting conflict, the year I was nine. The sect's last masters. I got the Treasure Record, the fishing rod, the arts, and the grudge." She turned and looked at her sect: at the tall boy who had joined her madness for love and stayed for the truth of it, and at the woodshed boy breathing white streams at the lake's edge, and — for a moment that she let be seen — at the courier. "You asked on the road what happened. That's what happened. And here's what happens *next.*"
 
-And she told them the decision — hers and Bei Bei's, taken years ago in a smaller room than this morning: that the Tang Sect would not die proud and useless; that hidden weapons were not *wrong*, they were unfinished; that the sect's chance — the only chance anyone had been able to see in two hundred years — was the thing everyone said with a laugh: **fusion**. Steel and soul-tool. Craft and age.
+And she told them the decision — hers and Bei Bei's, taken years ago in a smaller room than this morning: that the Tang Sect would not die proud and useless. That hidden weapons were not *wrong*, they were unfinished; that the sect's chance — the only chance anyone had been able to see in two hundred years — was the thing everyone said with a laugh: **fusion**. Steel and soul-tool. Craft and age.
 
 "Every disciple of the Tang Sect, from this generation on, studies the soul tool as well as the soul," she said, in the words she and Bei Bei had chosen long before this morning. "That's the law we wrote. There's just—" and for the first time in four days the furnace-voice cracked, just at the edge, just once, "—there's just been no one who could *hold both ends.* We're fighters. The arts of making are gone out of the sect; the last smith died before I could walk. We wrote a law nobody can keep."
 
@@ -111,7 +111,7 @@ She took them back along the lakeside path as the sun went long, and stopped —
 
 The lake said nothing. The statues said nothing, expertly.
 
-Jiang Che looked at the hand. And because his answer had been assembling itself since a stream and a bell and a triage in the grass — since the grudge told plainly and the arts'-door held shut and the fusion law written for hands no one had — he gave it the only way he knew how to give anything, which was the whole of it, out loud.
+Jiang Che looked at the hand. And because his answer had been assembling itself since a stream and a bell and a triage in the grass. Since the grudge told plainly and the arts'-door held shut and the fusion law written for hands no one had — he gave it the only way he knew how to give anything, which was the whole of it, out loud.
 
 "My father binds things for a living," he said. "My mother mends them. I was raised in a house where nothing got thrown away because nothing was *finished* — and I've spent four days learning that your hidden weapons aren't dead, Sect Master. They're the weakest thing on this road." He looked up, and the furnace in his eyes answered hers. "I don't choose things because they're strong. I choose them because they're *weak.* Weak is where the work is. You wrote a law nobody can keep —"*and his hand closed on hers, courier's grip, smith's grip*— "so keep it. I'll take the Jade Hand tonight. The hidden-weapon canon when my hands are worth it. The forge-craft and the soul-tool craft until the two are one thing and the thing is *ours.* I'll write my parents tonight — a courier's son knows how a letter travels; they'll say yes, they raised me to say yes to exactly this." A breath; the last of it, quiet. "I am Tang Sect. From this handshake until death. Ask me for the pages back never."
 
@@ -129,11 +129,11 @@ The Trade, then, by the last light, on the lakeside grass: Xuantian Gong for the
 
 ### ╱╱ TWO BEDS, TWO CANDLES ╲╲
 
-That night, Huo Yuhao — badge on, key in hand — met the most ancient doorman in the world at the white dormitory door, was pronounced "a rare polite child," found room 108 with its month of dust and its two beds, bought a basin and a used rag with his own small coin, and cleaned the little room to a shine a palace would not have recognized, and sat on bare boards, and laughed once, alone, for no reason he could have named, with his whole life on the other side of it.
+That night, Huo Yuhao — badge on, key in hand — met the most ancient doorman in the world at the white dormitory door, was pronounced "a rare polite child," found room 108 with its month of dust and its two beds, bought a basin and a used rag with his own small coin. And cleaned the little room to a shine a palace would not have recognized, and sat on bare boards, and laughed once, alone, for no reason he could have named, with his whole life on the other side of it.
 
 Two beds. A roommate coming, said the ledger. Somewhere in the strange sea of the school, a stranger who would share ten square meters of the world with him.
 
-And across the city, in a courier's inn where the lamps were soul-tools and cost a copper the hour, a new disciple of a four-person sect sat at a bad desk and wrote the hardest letter of his life home — *Mother, Father: I have joined a sect; it is very small, and very old, and it needs us; also I need my forge-hammer sent* — while beside his elbow, on the desk's edge, in the terrible posture of the supremely comfortable, sat a small white fox with nine tails, watching the candle with golden eyes, keeping — for once in her long, long, unguessable life — the watch with him.
+And across the city, in a courier's inn where the lamps were soul-tools and cost a copper the hour, a new disciple of a four-person sect sat at a bad desk and wrote the hardest letter of his life home — *Mother, Father: I have joined a sect. It is very small, and very old, and it needs us; also I need my forge-hammer sent*. While beside his elbow, on the desk's edge, in the terrible posture of the supremely comfortable, sat a small white fox with nine tails, watching the candle with golden eyes, keeping — for once in her long, long, unguessable life — the watch with him.
 
 The trial was in three days. The lake lay between the city and the island like a held breath. Somewhere below the world, at the bottom of a young spiritual sea, something in an eleven-year-old sleeper dreamed of ten thousand years, and smiled in its sleep.
 

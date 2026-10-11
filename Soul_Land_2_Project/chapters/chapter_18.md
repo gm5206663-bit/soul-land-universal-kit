@@ -43,7 +43,7 @@ The veil turned. The pink eyes found the grill — and the boy at it — and som
 
 "Sorry," said Huo Yuhao, who had said this exact sentence to dozens of people and meant it the same every time, "I only sell thirty a day, today's thirty are queued, please come early tomorrow—"
 
-The line **detonated.** Thirty customers went from white to *gone* between one heartbeat and the next — wallets abandoned, places abandoned, a boy vaulting the grill's table in his hurry, two girls achieving speeds their iron-training instructors would have wept at, a fourth-year pretending to receive an urgent message via his storage ring — and when the dust settled, the queue was Xu Sanshi, the fish, and nobody. The whole flight had taken perhaps two seconds, and it said more about the hierarchy of the outer court than any org chart the academy had ever drawn: one sentence from a rank-eleven fish-seller, addressed politely to the wrong woman, had nearly caused thirty casualties of *diplomacy*.
+The line **detonated.** Thirty customers went from white to *gone* between one heartbeat and the next. Wallets abandoned, places abandoned, a boy vaulting the grill's table in his hurry, two girls achieving speeds their iron-training instructors would have wept at, a fourth-year pretending to receive an urgent message via his storage ring — and when the dust settled, the queue was Xu Sanshi, the fish, and nobody. The whole flight had taken perhaps two seconds, and it said more about the hierarchy of the outer court than any org chart the academy had ever drawn: one sentence from a rank-eleven fish-seller, addressed politely to the wrong woman, had nearly caused thirty casualties of *diplomacy*.
 
 Yuhao stood at his grill with a fish half-turned, surveying the empty street, the abandoned coin where the second-in-line had stood, and the mountain trembling beside him. He looked at Wang Dong. Wang Dong looked at him.
 
@@ -81,7 +81,7 @@ Against his chest, the fox had gone from sleep to full, absolute, nine-tailed st
 
 "No, senior sister."
 
-"Ah." She accepted the first two fish — took the veil aside only as far as the chin, ate with an odd, charming, feral neatness, and stopped. Looked at the fish. Looked at the grill. Looked — briefly, sidelong, past everyone — at the place where a courier stood very boringly at the edge of the lamplight, and the courier understood that she was not looking at him at all, but at the *smell of the night*: rain-on-a-river, green things, storm — because a fire soul at her tier reads air the way he reads water, and somewhere under the street's ordinary smells the memory of an impossible cold was trying to surface.
+"Ah." She accepted the first two fish — took the veil aside only as far as the chin, ate with an odd, charming, feral neatness, and stopped. Looked at the fish. Looked at the grill. Looked — briefly, sidelong, past everyone — at the place where a courier stood very boringly at the edge of the lamplight, and the courier understood that she was not looking at him at all. But at the *smell of the night*: rain-on-a-river, green things, storm — because a fire soul at her tier reads air the way he reads water, and somewhere under the street's ordinary smells the memory of an impossible cold was trying to surface.
 
 Her pink eyes narrowed — one heartbeat of a frown.
 
@@ -121,7 +121,7 @@ A very long pause.
 
 "*I heard that,*" said the fox, from the coat, without opening her eyes. "*And no.*"
 
-And Huo Yuhao — who knew exactly what the red woman had been sniffing at, and who had held the biggest secret on the continent for four months with his brother and a fox — laughed into his bowl, quietly, at the single funniest thing the morning had to offer: the inner court's tenth-strongest and the boy in the cold-egg seat, three feet apart at a fish stall, and only two people and a fox in the world knowing it.
+And Huo Yuhao — who knew exactly what the red woman had been sniffing at, and who had held the biggest secret on the continent for four months with his brother and a fox. Laughed into his bowl, quietly, at the single funniest thing the morning had to offer: the inner court's tenth-strongest and the boy in the cold-egg seat, three feet apart at a fish stall, and only two people and a fox in the world knowing it.
 
 ---
 
