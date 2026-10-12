@@ -118,9 +118,10 @@ SOUL_LAND_UNIVERSAL_KIT/
     ├── account.py             the CONTROL CENTRE — every book on the account in
     │                          one run: gate, repeated prose, two-home texts,
     │                          status receipts, publication, live Pages sites,
+    │                          machine files and committed archives,
     │                          with baselines so runs can be diffed
     ├── account_checks.py      the detectors behind it, each declaring coverage
-    ├── account_selftest.py    19 cases — every detector seen to fail
+    ├── account_selftest.py    22 cases — every detector seen to fail
     └── account_baseline.json  today's frozen state, fingerprinted with the code
 ```
 

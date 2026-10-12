@@ -1,8 +1,8 @@
-# ACCOUNT CONTROL CENTRE — 2026-10-11 11:37
+# ACCOUNT CONTROL CENTRE — 2026-10-12 03:07
 
 `/tmp/all` · tools v1.0 · **24 books · 274 chapters · 1,151,458 words · 21,726 spoken lines**
 
-**138 hard finding(s)** — not the author's call · **73 advisory** — the author decides.
+**138 hard finding(s)** — not the author's call · **78 advisory** — the author decides.
 
 ## 1. Coverage ledger
 
@@ -15,6 +15,7 @@ Every detector states what it examined. A detector that examined nothing raises 
 | two-homes | 274 of 274 chapter file(s) hashed | 1 text(s) shared by two independent books; 53 twin group(s) are a book and its own published copy, which is what publishing does |
 | receipts | 24 of 24 book(s) with a chapter numbering | claims in README/HANDOFF/STATUS/CHANGELOG against the text on disk |
 | publication | 1 of 1 book(s) with a published site | in-tree chapter html against the source; the LIVE site is the pages detector |
+| housekeeping | 18 of 18 repository(ies) walked for machine files and archives | 5075 file(s) scanned across 18 repo(s); 5 machine file(s) or archive(s) found |
 
 ## 2. Verdict by kind
 
@@ -23,6 +24,7 @@ Every detector states what it examined. A detector that examined nothing raises 
 | `over60` | hard | the 60-word ceiling | 119 |
 | `repeat-across` | advisory | could be a deliberate refrain; the author decides | 69 |
 | `repeat-in-file` | hard | an accidental duplicate is a defect, not a refrain | 17 |
+| `housekeeping` | advisory | the repository is the artifact — bytecode, editor leftovers and old snapshots are dead weight, and a snapshot carries a stale copy of the text | 5 |
 | `dialogue-floor` | hard | the floor needs a speaker on the page | 2 |
 | `receipt-drift` | advisory | give a floor, not a pinned count | 2 |
 | `two-homes` | advisory | one text, one home — copies age differently | 1 |
@@ -32,10 +34,12 @@ Every detector states what it examined. A detector that examined nothing raises 
 
 | repository | findings | hard |
 |---|---|---|
-| supergirl-adrian-vale | 97 | 83 |
-| soul-land-projects | 53 | 49 |
+| supergirl-adrian-vale | 98 | 83 |
+| soul-land-projects | 54 | 49 |
 | soul-land-2-the-grey-wolf | 42 | 2 |
 | soul-land-universal-kit | 16 | 4 |
+| fire-phoenix-workshop | 2 | 0 |
+| how-to-write-fanfiction | 1 | 0 |
 | qian-xunji-adaptation | 1 | 0 |
 | soul-land-1-fire-dragon-lizard | 1 | 0 |
 | soul_land_4_fire_phoenix | 1 | 0 |
@@ -212,6 +216,17 @@ Every detector states what it examined. A detector that examined nothing raises 
 | hard | `repeat-in-file` | Chapter_11_The_Sun.md | 2 identical 17-word sentence(s) across 1 place(s): supergirl-adrian-vale/Chapter_11_The_Sun.md | Private departure nonpublic return route field bent light no civilian disclosure no Wraith just Adrian and Kara." |
 | hard | `repeat-in-file` | Chapter_10_Red_Faced_Consequence.md | 2 identical 40-word sentence(s) across 1 place(s): supergirl-adrian-vale/Chapter_10_Red_Faced_Consequence.md | Winn, at his desk, private monitor closed, no civilian disclosure, had three new Wraith clips that day, train station, but did not show, no civilian disclosure, |
 | hard | `repeat-in-file` | Chapter_13_Human_for_a_Day.md | 2 identical 14-word sentence(s) across 1 place(s): supergirl-adrian-vale/Chapter_13_Human_for_a_Day.md | You told me genuine responsibility caught because exhausted built device yourself because wanted ordinary. |
+### fire-phoenix-workshop / -
+
+| severity | kind | where | what | evidence |
+|---|---|---|---|---|
+| advisory | `housekeeping` | fire-phoenix-workshop/sources/soul_land_universal_kit_main_related/SL_ARCHIVE/soul_land_4_fire_phoenix_foundation_v1.zip | archive soul_land_4_fire_phoenix_foundation_v1.zip (0.41 MB) is committed — a frozen snapshot inside a repository that already keeps history; if it is meant to be kept, say so | fire-phoenix-workshop/sources/soul_land_universal_kit_main_related/SL_ARCHIVE/soul_land_4_fire_phoenix_foundation_v1.zip |
+| advisory | `housekeeping` | fire-phoenix-workshop/sources/soul_land_universal_kit_main_related/SL_ARCHIVE/soul_land_4_fire_phoenix_foundation_v2.zip | archive soul_land_4_fire_phoenix_foundation_v2.zip (0.42 MB) is committed — a frozen snapshot inside a repository that already keeps history; if it is meant to be kept, say so | fire-phoenix-workshop/sources/soul_land_universal_kit_main_related/SL_ARCHIVE/soul_land_4_fire_phoenix_foundation_v2.zip |
+### how-to-write-fanfiction / -
+
+| severity | kind | where | what | evidence |
+|---|---|---|---|---|
+| advisory | `housekeeping` | how-to-write-fanfiction/how-to-write-fanfiction-v2.5-footwork-fusion-clean.zip | archive how-to-write-fanfiction-v2.5-footwork-fusion-clean.zip (0.10 MB) is committed — a frozen snapshot inside a repository that already keeps history; if it is meant to be kept, say so | how-to-write-fanfiction/how-to-write-fanfiction-v2.5-footwork-fusion-clean.zip |
 ### qian-xunji-adaptation / qian-xunji-adaptation
 
 | severity | kind | where | what | evidence |
@@ -266,6 +281,11 @@ Every detector states what it examined. A detector that examined nothing raises 
 | advisory | `repeat-across` | Chapter_07_The_Third_Village.md | 2 identical 13-word sentence(s) across 2 place(s): soul-land-2-the-grey-wolf/Chapter_07_The_Third_Village.md; soul-land-2-the-grey-wolf/Chapter_09_Shrek_City.md | They did not go to High alone, they fused into one quiet step. |
 | advisory | `repeat-across` | Chapter_08_Road_To_Shrek.md | 2 identical 13-word sentence(s) across 2 place(s): soul-land-2-the-grey-wolf/Chapter_08_Road_To_Shrek.md; soul-land-2-the-grey-wolf/Chapter_10_The_Combat_Exam.md | Village dogs stopped lifting heads when he passed, wood passed him at peace. |
 | advisory | `repeat-across` | Chapter_07_The_Third_Village.md | 2 identical 19-word sentence(s) across 2 place(s): soul-land-2-the-grey-wolf/Chapter_07_The_Third_Village.md; soul-land-2-the-grey-wolf/Chapter_09_Shrek_City.md | Walking and running and mountain stride had all been footwork, each had hit a hundred at eight, nine, ten. |
+### soul-land-projects / -
+
+| severity | kind | where | what | evidence |
+|---|---|---|---|---|
+| advisory | `housekeeping` | soul-land-projects/soul_land_starter.zip | archive soul_land_starter.zip (0.02 MB) is committed — a frozen snapshot inside a repository that already keeps history; if it is meant to be kept, say so | soul-land-projects/soul_land_starter.zip |
 ### soul-land-projects / SOUL_LAND_NEW
 
 | severity | kind | where | what | evidence |
@@ -307,6 +327,11 @@ Every detector states what it examined. A detector that examined nothing raises 
 | severity | kind | where | what | evidence |
 |---|---|---|---|---|
 | advisory | `repeat-across` | Chapter_13.md | 2 identical 16-word sentence(s) across 2 place(s): soul_land_4_fire_phoenix/Chapter_13.md; soul_land_4_fire_phoenix/Chapter_14.md | If you try to solve his class problems for him before he asks, I will know. |
+### supergirl-adrian-vale / -
+
+| severity | kind | where | what | evidence |
+|---|---|---|---|---|
+| advisory | `housekeeping` | supergirl-adrian-vale/foundation-022-Chapter-12-Clean-Rebuild-53PASS.zip | archive foundation-022-Chapter-12-Clean-Rebuild-53PASS.zip (2.77 MB) is committed — a frozen snapshot inside a repository that already keeps history; if it is meant to be kept, say so | supergirl-adrian-vale/foundation-022-Chapter-12-Clean-Rebuild-53PASS.zip |
 ### supergirl-adrian-vale / supergirl-adrian-vale
 
 | severity | kind | where | what | evidence |

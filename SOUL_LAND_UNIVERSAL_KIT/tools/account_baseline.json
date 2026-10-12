@@ -1,8 +1,8 @@
 {
- "frozen": "2026-10-11 11:36",
+ "frozen": "2026-10-12 03:07",
  "root": "/tmp/all",
  "tools_version": "1.0",
- "code": "e88acf85de8a",
+ "code": "a7eeff0125bc",
  "findings": {
   "e92785280152": {
    "kind": "repeat-in-file",
@@ -1108,6 +1108,30 @@
    "file": "Chapter_13_Human_for_a_Day.md",
    "detail": "2 identical 14-word sentence(s) across 1 place(s): supergirl-adrian-vale/Chapter_13_Human_for_a_Day.md"
   },
+  "0602d165fedc": {
+   "kind": "housekeeping",
+   "severity": "advisory",
+   "repo": "fire-phoenix-workshop",
+   "book": "-",
+   "file": "fire-phoenix-workshop/sources/soul_land_universal_kit_main_related/SL_ARCHIVE/soul_land_4_fire_phoenix_foundation_v1.zip",
+   "detail": "archive soul_land_4_fire_phoenix_foundation_v1.zip (0.41 MB) is committed \u2014 a frozen snapshot inside a repository that already keeps history; if it is meant to be kept, say so"
+  },
+  "4b7c0b7114ef": {
+   "kind": "housekeeping",
+   "severity": "advisory",
+   "repo": "fire-phoenix-workshop",
+   "book": "-",
+   "file": "fire-phoenix-workshop/sources/soul_land_universal_kit_main_related/SL_ARCHIVE/soul_land_4_fire_phoenix_foundation_v2.zip",
+   "detail": "archive soul_land_4_fire_phoenix_foundation_v2.zip (0.42 MB) is committed \u2014 a frozen snapshot inside a repository that already keeps history; if it is meant to be kept, say so"
+  },
+  "cf982ef7204b": {
+   "kind": "housekeeping",
+   "severity": "advisory",
+   "repo": "how-to-write-fanfiction",
+   "book": "-",
+   "file": "how-to-write-fanfiction/how-to-write-fanfiction-v2.5-footwork-fusion-clean.zip",
+   "detail": "archive how-to-write-fanfiction-v2.5-footwork-fusion-clean.zip (0.10 MB) is committed \u2014 a frozen snapshot inside a repository that already keeps history; if it is meant to be kept, say so"
+  },
   "fe0ba9dd3799": {
    "kind": "repeat-across",
    "severity": "advisory",
@@ -1444,6 +1468,14 @@
    "file": "Chapter_07_The_Third_Village.md",
    "detail": "2 identical 19-word sentence(s) across 2 place(s): soul-land-2-the-grey-wolf/Chapter_07_The_Third_Village.md; soul-land-2-the-grey-wolf/Chapter_09_Shrek_City.md"
   },
+  "bc1919b990bd": {
+   "kind": "housekeeping",
+   "severity": "advisory",
+   "repo": "soul-land-projects",
+   "book": "-",
+   "file": "soul-land-projects/soul_land_starter.zip",
+   "detail": "archive soul_land_starter.zip (0.02 MB) is committed \u2014 a frozen snapshot inside a repository that already keeps history; if it is meant to be kept, say so"
+  },
   "900c325827cf": {
    "kind": "repeat-across",
    "severity": "advisory",
@@ -1579,6 +1611,14 @@
    "book": "soul_land_4_fire_phoenix",
    "file": "Chapter_13.md",
    "detail": "2 identical 16-word sentence(s) across 2 place(s): soul_land_4_fire_phoenix/Chapter_13.md; soul_land_4_fire_phoenix/Chapter_14.md"
+  },
+  "cfa8b3d9da3d": {
+   "kind": "housekeeping",
+   "severity": "advisory",
+   "repo": "supergirl-adrian-vale",
+   "book": "-",
+   "file": "supergirl-adrian-vale/foundation-022-Chapter-12-Clean-Rebuild-53PASS.zip",
+   "detail": "archive foundation-022-Chapter-12-Clean-Rebuild-53PASS.zip (2.77 MB) is committed \u2014 a frozen snapshot inside a repository that already keeps history; if it is meant to be kept, say so"
   },
   "16d018785ad6": {
    "kind": "repeat-across",

@@ -29,6 +29,7 @@ This module detects and reports. It never edits a manuscript.
 import hashlib
 import os
 import re
+import subprocess
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -62,6 +63,9 @@ LAWS = {
                         'a build that produces nothing must not report success'),
     'coverage-gap':    ('advisory', 'a detector found more than it listed',
                         'a truncated list is a silent scope loss — say what was omitted'),
+    'housekeeping':    ('advisory', 'a machine file or a frozen archive is committed in the repo',
+                        'the repository is the artifact — bytecode, editor leftovers and old '
+                        'snapshots are dead weight, and a snapshot carries a stale copy of the text'),
 }
 
 VERSION = '1.0'
@@ -552,3 +556,111 @@ def check_pages(books, owner, token=None, timeout=25):
 
 
 ALL = ('gate', 'dupes', 'two-homes', 'receipts', 'publication', 'pages')
+
+
+# --------------------------------------------------------------------------
+# 7. HOUSEKEEPING — machine files and frozen archives inside the repositories
+# --------------------------------------------------------------------------
+JUNK_DIRS = ('__pycache__', '.pytest_cache', '.mypy_cache', '.ruff_cache',
+             '.ipynb_checkpoints')
+JUNK_FILES = ('.DS_Store', 'Thumbs.db')
+JUNK_SUFFIX = ('.pyc', '.pyo', '.bak', '.orig', '.rej', '.save', '~')
+ARCHIVE_SUFFIX = ('.zip', '.tar.gz', '.tgz', '.tar', '.7z', '.rar')
+
+
+def _tracked(base):
+    """The relative paths git tracks in a repo, or None when git cannot answer."""
+    try:
+        r = subprocess.run(['git', '-C', base, 'ls-files', '-z'],
+                           capture_output=True, timeout=30)
+        if r.returncode == 0:
+            return {p for p in r.stdout.decode('utf-8', 'replace').split('\0') if p}
+    except Exception:                              # git absent, timeout, not a repo
+        pass
+    return None
+
+
+def check_housekeeping(root, limit=40):
+    """Machine files and archives committed in the repositories under root.
+
+    This is not a prose law — it is the opposite end of the same doctrine. Every
+    repository here is read, cloned and re-cloned; a committed .pyc is compiled
+    output of a source that is present, a .bak is a superseded hand copy, and an
+    archive is a frozen snapshot that carries a stale copy of prose the repo
+    already versions properly. Each is advisory: keeping an archive can be a
+    deliberate act, so the finding asks the author to say so rather than
+    presuming it. What the detector will not do is stay quiet: two such files
+    were found on this account's own tree (a .pyc next to its source, a .bak
+    next to its live state) and both were removed on 2026-10-11.
+
+    Coverage here is repositories walked, files scanned and hits found — a walk
+    that saw nothing says so instead of returning a silent zero.
+    """
+    repos = sorted(d for d in (os.listdir(root) if os.path.isdir(root) else [])
+                   if os.path.isdir(os.path.join(root, d, '.git')))
+    hits, files, unverifiable = [], 0, 0
+    for repo in repos:
+        base = os.path.join(root, repo)
+        # WHAT GIT HAS, not what is on disk. Running these tools inside a clone
+        # creates __pycache__ that was never committed — the first draft of this
+        # detector reported its own author's working files as housekeeping. A
+        # file only counts once git tracks it; if git cannot answer, everything
+        # on disk there is listed and the note says that is what happened.
+        tracked = _tracked(base)
+        if tracked is None:
+            unverifiable += 1
+        for dp, dns, fns in os.walk(base):
+            if '.git' in dp.split(os.sep):
+                dns[:] = []
+                continue
+            files += len(fns)
+            for name in sorted(dns):
+                if name in JUNK_DIRS:
+                    rel = os.path.relpath(os.path.join(dp, name), base)
+                    if tracked is None or any(t.startswith(rel + '/') for t in tracked):
+                        hits.append((repo, os.path.join(dp, name), name, None))
+                    dns.remove(name)
+            for name in sorted(fns):
+                low = name.lower()
+                if name in JUNK_FILES or low.endswith(JUNK_SUFFIX) or low.endswith(ARCHIVE_SUFFIX):
+                    p = os.path.join(dp, name)
+                    rel = os.path.relpath(p, base)
+                    if tracked is not None and rel not in tracked:
+                        continue
+                    size = None
+                    if low.endswith(ARCHIVE_SUFFIX):
+                        try:
+                            size = os.path.getsize(p)
+                        except OSError:
+                            size = None
+                    hits.append((repo, p, name, size))
+
+    findings = []
+    for repo, p, name, size in hits[:limit]:
+        rel = os.path.relpath(p, root)
+        if size is not None:
+            detail = (f'archive {name} ({size / 1048576:.2f} MB) is committed — a frozen '
+                      f'snapshot inside a repository that already keeps history; if it is '
+                      f'meant to be kept, say so')
+        elif os.path.isdir(p):
+            detail = (f'{name}/ is a machine directory — regenerable from the source '
+                      f'beside it, and it re-clones for every reader')
+        else:
+            detail = (f'{name} is a machine file — compiled or editor output, not prose '
+                      f'and not a source of truth')
+        findings.append(finding('housekeeping', repo, '-', rel, rel, detail,
+                                evidence=rel))
+    if len(hits) > limit:                       # never a silent truncation
+        findings.append(finding('coverage-gap', '-', '-', 'housekeeping', 'housekeeping',
+                                f'housekeeping found {len(hits)} machine file(s) and listed '
+                                f'{limit} — the rest are not in this report',
+                                evidence=f'raise the limit to see all {len(hits)}'))
+    note = (f'{files} file(s) scanned across {len(repos)} repo(s); {len(hits)} machine '
+            f'file(s) or archive(s) found' + (f'; {limit} listed' if len(hits) > limit else ''))
+    if unverifiable:                            # the fallback is declared, never silent
+        note += (f'; git could not be asked in {unverifiable} repo(s), so anything found '
+                 f'on disk there is listed unproven')
+    return ran('housekeeping', findings,
+               coverage(len(repos), len(repos),
+                        'repository(ies) walked for machine files and archives'),
+               note=note)

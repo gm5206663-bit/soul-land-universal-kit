@@ -52,6 +52,7 @@ The cure is always the same three things, and every detector here obeys them:
 | **receipts** | does the book's own paperwork agree with the book? | "chapters 1–N", "live edge ChN", "N chapters live" against the text on disk |
 | **publication** | does the in-tree site match the source? | chapter html in the repository against the book's chapters |
 | **pages** | does the **live** site match the book? | the Pages URL itself, through the API — a repository can hold a perfect site that was never deployed |
+| **housekeeping** | is the repository carrying machine files or frozen archives? | a `.pyc`, a `.bak`, a `__pycache__/`, an archive — **what `git ls-files` says is tracked**, never what happens to be on disk |
 
 ## 3 · Severity is a judgement the house already made
 
@@ -119,6 +120,13 @@ Recorded because they are the reason the account numbers can be quoted at all:
 6. **A book and its own published copy are one home.** Counting them as two made
    54 twin groups look like duplication; one independent pair remains.
 7. **The list could hide the defect.** See §4, twice.
+9. **The detector reported its own author's working files.** The housekeeping
+   walk read the *filesystem*, so the `__pycache__` it found inside the kit's
+   `tools/` was the one this operator created by running those very tools from
+   inside the clone — not a single byte of it tracked by git, and `.gitignore`d
+   besides. It now asks `git ls-files`; a repo git cannot answer about is walked
+   anyway **and the note says so**, because dropping it silently would be the
+   scope sin again.
 8. **A published copy is not a second place either.** The same rule as bug 6,
    applied to the dupes detector: it was reporting every shared sentence between
    a book and its own published snapshot — 61 of 66 NEW findings in a single run
@@ -132,7 +140,7 @@ Recorded because they are the reason the account numbers can be quoted at all:
 **2026-10-11 (evening, after the repair sweep) · 24 books · 274 chapters ·
 1,151,458 words · 21,726 spoken lines.**
 
-**138 hard · 73 advisory**, every class sample-verified against the text:
+**138 hard · 78 advisory**, every class sample-verified against the text:
 
 | kind | count | severity | note |
 |---|---|---|---|
@@ -143,6 +151,7 @@ Recorded because they are the reason the account numbers can be quoted at all:
 | receipt drift | 2 | advisory | Grey Wolf `NEXT.md` says 6, book has 10; Soul Land 2 README says edge 21, book has 23 |
 | one text, two homes | 1 | advisory | a 20-word stub in two repositories |
 | dialogue exempt | 1 | advisory | Devouring Dragon, by law |
+| housekeeping | 5 | advisory | five committed archives (0.02–2.77 MB): two fire-phoenix snapshots, one how-to-write zip, the starter zip, supergirl's `…53PASS.zip`. Each says *if it is meant to be kept, say so* — the author's call, three repos' worth of history already being kept by git |
 
 Live sites: 3 repositories publish; **1 compared to its book and it agrees**
 (Grey Wolf, 10 chapter links = 10 chapters); 2 are declared *uncompared* because

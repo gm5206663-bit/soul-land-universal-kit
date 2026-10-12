@@ -1,7 +1,7 @@
 {
  "tool": "account-control-centre",
  "version": "1.0",
- "generated": "2026-10-11 11:37",
+ "generated": "2026-10-12 03:07",
  "root": "/tmp/all",
  "books": [
   {
@@ -3505,6 +3505,14 @@
    "total": 1,
    "unit": "book(s) with a published site",
    "text": "1 of 1 book(s) with a published site"
+  },
+  {
+   "detector": "housekeeping",
+   "note": "5075 file(s) scanned across 18 repo(s); 5 machine file(s) or archive(s) found",
+   "checked": 18,
+   "total": 18,
+   "unit": "repository(ies) walked for machine files and archives",
+   "text": "18 of 18 repository(ies) walked for machine files and archives"
   }
  ],
  "findings": [
@@ -5384,6 +5392,42 @@
    ]
   },
   {
+   "id": "0602d165fedc",
+   "kind": "housekeeping",
+   "severity": "advisory",
+   "repo": "fire-phoenix-workshop",
+   "book": "-",
+   "file": "fire-phoenix-workshop/sources/soul_land_universal_kit_main_related/SL_ARCHIVE/soul_land_4_fire_phoenix_foundation_v1.zip",
+   "subject": "fire-phoenix-workshop/sources/soul_land_universal_kit_main_related/SL_ARCHIVE/soul_land_4_fire_phoenix_foundation_v1.zip",
+   "detail": "archive soul_land_4_fire_phoenix_foundation_v1.zip (0.41 MB) is committed \u2014 a frozen snapshot inside a repository that already keeps history; if it is meant to be kept, say so",
+   "evidence": "fire-phoenix-workshop/sources/soul_land_universal_kit_main_related/SL_ARCHIVE/soul_land_4_fire_phoenix_foundation_v1.zip",
+   "law": "the repository is the artifact \u2014 bytecode, editor leftovers and old snapshots are dead weight, and a snapshot carries a stale copy of the text"
+  },
+  {
+   "id": "4b7c0b7114ef",
+   "kind": "housekeeping",
+   "severity": "advisory",
+   "repo": "fire-phoenix-workshop",
+   "book": "-",
+   "file": "fire-phoenix-workshop/sources/soul_land_universal_kit_main_related/SL_ARCHIVE/soul_land_4_fire_phoenix_foundation_v2.zip",
+   "subject": "fire-phoenix-workshop/sources/soul_land_universal_kit_main_related/SL_ARCHIVE/soul_land_4_fire_phoenix_foundation_v2.zip",
+   "detail": "archive soul_land_4_fire_phoenix_foundation_v2.zip (0.42 MB) is committed \u2014 a frozen snapshot inside a repository that already keeps history; if it is meant to be kept, say so",
+   "evidence": "fire-phoenix-workshop/sources/soul_land_universal_kit_main_related/SL_ARCHIVE/soul_land_4_fire_phoenix_foundation_v2.zip",
+   "law": "the repository is the artifact \u2014 bytecode, editor leftovers and old snapshots are dead weight, and a snapshot carries a stale copy of the text"
+  },
+  {
+   "id": "cf982ef7204b",
+   "kind": "housekeeping",
+   "severity": "advisory",
+   "repo": "how-to-write-fanfiction",
+   "book": "-",
+   "file": "how-to-write-fanfiction/how-to-write-fanfiction-v2.5-footwork-fusion-clean.zip",
+   "subject": "how-to-write-fanfiction/how-to-write-fanfiction-v2.5-footwork-fusion-clean.zip",
+   "detail": "archive how-to-write-fanfiction-v2.5-footwork-fusion-clean.zip (0.10 MB) is committed \u2014 a frozen snapshot inside a repository that already keeps history; if it is meant to be kept, say so",
+   "evidence": "how-to-write-fanfiction/how-to-write-fanfiction-v2.5-footwork-fusion-clean.zip",
+   "law": "the repository is the artifact \u2014 bytecode, editor leftovers and old snapshots are dead weight, and a snapshot carries a stale copy of the text"
+  },
+  {
    "id": "fe0ba9dd3799",
    "kind": "repeat-across",
    "severity": "advisory",
@@ -6440,6 +6484,18 @@
    ]
   },
   {
+   "id": "bc1919b990bd",
+   "kind": "housekeeping",
+   "severity": "advisory",
+   "repo": "soul-land-projects",
+   "book": "-",
+   "file": "soul-land-projects/soul_land_starter.zip",
+   "subject": "soul-land-projects/soul_land_starter.zip",
+   "detail": "archive soul_land_starter.zip (0.02 MB) is committed \u2014 a frozen snapshot inside a repository that already keeps history; if it is meant to be kept, say so",
+   "evidence": "soul-land-projects/soul_land_starter.zip",
+   "law": "the repository is the artifact \u2014 bytecode, editor leftovers and old snapshots are dead weight, and a snapshot carries a stale copy of the text"
+  },
+  {
    "id": "900c325827cf",
    "kind": "repeat-across",
    "severity": "advisory",
@@ -6832,6 +6888,18 @@
    ]
   },
   {
+   "id": "cfa8b3d9da3d",
+   "kind": "housekeeping",
+   "severity": "advisory",
+   "repo": "supergirl-adrian-vale",
+   "book": "-",
+   "file": "supergirl-adrian-vale/foundation-022-Chapter-12-Clean-Rebuild-53PASS.zip",
+   "subject": "supergirl-adrian-vale/foundation-022-Chapter-12-Clean-Rebuild-53PASS.zip",
+   "detail": "archive foundation-022-Chapter-12-Clean-Rebuild-53PASS.zip (2.77 MB) is committed \u2014 a frozen snapshot inside a repository that already keeps history; if it is meant to be kept, say so",
+   "evidence": "supergirl-adrian-vale/foundation-022-Chapter-12-Clean-Rebuild-53PASS.zip",
+   "law": "the repository is the artifact \u2014 bytecode, editor leftovers and old snapshots are dead weight, and a snapshot carries a stale copy of the text"
+  },
+  {
    "id": "16d018785ad6",
    "kind": "repeat-across",
    "severity": "advisory",
@@ -7179,21 +7247,24 @@
   "words": 1151458,
   "spoken": 21726,
   "hard": 138,
-  "advisory": 73,
+  "advisory": 78,
   "by_kind": {
    "over60": 119,
    "repeat-across": 69,
    "repeat-in-file": 17,
+   "housekeeping": 5,
    "dialogue-floor": 2,
    "receipt-drift": 2,
    "two-homes": 1,
    "dialogue-exempt": 1
   },
   "by_repo": {
-   "supergirl-adrian-vale": 97,
-   "soul-land-projects": 53,
+   "supergirl-adrian-vale": 98,
+   "soul-land-projects": 54,
    "soul-land-2-the-grey-wolf": 42,
    "soul-land-universal-kit": 16,
+   "fire-phoenix-workshop": 2,
+   "how-to-write-fanfiction": 1,
    "qian-xunji-adaptation": 1,
    "soul-land-1-fire-dragon-lizard": 1,
    "soul_land_4_fire_phoenix": 1

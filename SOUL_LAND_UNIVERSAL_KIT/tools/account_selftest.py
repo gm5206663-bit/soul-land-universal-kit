@@ -163,6 +163,25 @@ case('a published copy repeating its source is one home, not a duplicate',
                                   'chapters', 'Chapter_01.md'), chapter(1, 'ochre', 'warm')),
      'repeat-across', want=False, only=['dupes'])
 
+# ---------------------------------------------------------------- 8e housekeeping
+def as_repo(r, name='alpha-repo'):
+    write(os.path.join(r, name, '.git', 'HEAD'), 'ref: refs/heads/main')
+
+
+case('a committed .pyc is reported as housekeeping',
+     lambda r: as_repo(r) or
+     write(os.path.join(r, 'alpha-repo', 'tools', '__pycache__', 'x.pyc'), 'x'),
+     'housekeeping', only=['housekeeping'])
+
+case('an archive frozen in the repo is reported as housekeeping',
+     lambda r: as_repo(r) or
+     write(os.path.join(r, 'alpha-repo', 'snapshot.zip'), 'PK'),
+     'housekeeping', only=['housekeeping'])
+
+case('a clean account has no housekeeping finding',
+     lambda r: as_repo(r),
+     'housekeeping', want=False, only=['housekeeping'])
+
 case('text only a published copy carries is still a duplicate',
      lambda r: write(os.path.join(r, 'beta-repo', 'published-site', 'Book_Two',
                                   'chapters', 'Chapter_01.md'),

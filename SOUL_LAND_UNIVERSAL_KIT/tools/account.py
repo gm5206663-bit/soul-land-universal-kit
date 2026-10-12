@@ -81,6 +81,8 @@ def run(root, only=None, pages=None, owner=OWNER):
         runs.append(checks.check_receipts(books))
     if not only or 'publication' in only:
         runs.append(checks.check_publication(books))
+    if not only or 'housekeeping' in only:
+        runs.append(checks.check_housekeeping(root))
     if ('pages' in (only or ())) or (pages and not only):
         runs.append(checks.check_pages(books, owner, token=pages))
 
