@@ -210,6 +210,12 @@ case('a stamp that matches its source is silent',
            + __import__('hashlib').sha256(b'{"v": 1}\n').hexdigest() + ' -->\n\n# View\n'),
      'stale-generated', want=False, only=['generated'])
 
+  case('a nested workshop snapshot beside the chapters is not ambiguity',
+       lambda r: as_repo(r) or
+       write(os.path.join(r, 'alpha-repo', 'Book_One', 'workshop', 'rebuild_v2',
+                          'chapters', 'Chapter_01.md'), chapter(1)),
+       'scope-refusal', want=False, only=['gate'])
+
 # ---------------------------------------------------------------- 8h enforcement
 case('a repo with gates and no workflow is reported',
      lambda r: as_repo(r) or

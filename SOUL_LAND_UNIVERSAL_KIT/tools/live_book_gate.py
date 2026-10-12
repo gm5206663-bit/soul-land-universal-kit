@@ -52,11 +52,18 @@ DEAD_PATH_RX = re.compile(r'(^|/)(_archive|archive|archives|_attic|attic|audit|a
 PLAN_LINE_RX = re.compile(r'·|^[A-Z][A-Za-z /()\-]{2,24}:\s|^\s*\||^\s*[-*]\s?')
 
 #: Paths that are never the live book: historical snapshots, promotion staging,
-#: reference copies kept beside the work. ONE definition — the gate and the
-#: control centre both call is_out_of_scope(), because two copies of a scope
-#: rule drift exactly like two copies of a text.
+#: reference copies kept beside the work — and the SL4 workshop layer (managed
+#: snapshots, rebuild staging, semantic audits kept beside the serial). ONE
+#: definition — the gate and the control centre both call is_out_of_scope(),
+#: because two copies of a scope rule drift exactly like two copies of a text.
+#: Lesson of 2026-10-12: choose_live() was the third reader of this rule and it
+#: did not apply it — the day the Fire Phoenix workshop moved in beside the
+#: chapters, its snapshot trees made a live book look ambiguous and the gate
+#: refused to measure 52 chapters it had measured for weeks. A scope rule with
+#: two callers and three readers is a scope rule with a hole.
 OUT_OF_SCOPE_RX = re.compile(r'(/reference/|promotion_proposal|staging|_kit_reference'
-                             r'|sources/|late_arc_rebuild|accepted_replacement_layers)', re.I)
+                             r'|sources/|late_arc_rebuild|accepted_replacement_layers'
+                             r'|workshop/)', re.I)
 
 
 def is_out_of_scope(rel):
@@ -110,7 +117,7 @@ def status_text(project):
 def choose_live(project, dirs):
     """Return (live_dir, dead_dirs, why) or (None, [], refusal)."""
     candidates = {r: p for r, p in dirs.items()
-                  if os.path.basename(r) not in DERIVED and not DEAD_PATH_RX.search(r)}
+                  if os.path.basename(r) not in DERIVED and not is_out_of_scope(r)}
     if not candidates:
         return None, [], (f'no chapter directory found under {project} '
                           f'(looked for Chapter_<n>*.md; saw: {sorted(dirs) or "nothing"})')

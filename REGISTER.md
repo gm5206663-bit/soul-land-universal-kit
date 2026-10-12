@@ -1,12 +1,13 @@
 # THE REGISTER — every book, every tree
 
-*Generated 2026-10-12 14:21 by `tools/register.py` over `this repository`. Regenerate it; never edit it.*
+*Generated 2026-10-12 14:23 by `tools/register.py` over `this repository`. Regenerate it; never edit it.*
 
-**16 registered books · 231 chapters · 939,262 words · 479 sentences over 60 words.**
+**16 registered books · 283 chapters · 1,209,921 words · 479 sentences over 60 words.**
 
 | words | ch | book | over 60 | spoken | floor hits | status |
 |---:|---:|---|---:|---:|---:|---|
 | 523,547 | 116 | adaptive_prodigy | 477 | 10,209 | 0 | gated book |
+| 270,659 | 52 | soul_land_4_fire_phoenix | 0 | 5,932 | 0 | gated book |
 | 80,127 | 24 | Soul_Land_2_Project | 1 | 1,595 | 0 | gated book |
 | 65,081 | 24 | soul_land_devouring_dragon | 0 | 393 | 11 | gated book |
 | 63,691 | 7 | soul_land_3_oc | 0 | 1,110 | 0 | gated book |
@@ -21,7 +22,6 @@
 | 13,696 | 4 | soul_land_holy_spirit | 0 | 160 | 0 | gated book |
 | 3,802 | 1 | soul_land_3_new | 0 | 31 | 0 | gated book |
 | 3,706 | 1 | dragon_prince_yuan_native_oc_fanfiction | 0 | 51 | 0 | gated book |
-| 0 | 0 | soul_land_4_fire_phoenix | 0 | 0 | 0 | gated book |
 
 ## Every tree outside the register, classified
 
