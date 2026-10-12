@@ -56,7 +56,7 @@ PLAN_LINE_RX = re.compile(r'·|^[A-Z][A-Za-z /()\-]{2,24}:\s|^\s*\||^\s*[-*]\s?'
 #: control centre both call is_out_of_scope(), because two copies of a scope
 #: rule drift exactly like two copies of a text.
 OUT_OF_SCOPE_RX = re.compile(r'(/reference/|promotion_proposal|staging|_kit_reference'
-                             r'|sources/)', re.I)
+                             r'|sources/|late_arc_rebuild|accepted_replacement_layers)', re.I)
 
 
 def is_out_of_scope(rel):
@@ -76,7 +76,12 @@ def chapter_files(d):
 
 
 def chapter_dirs(project):
-    """Every directory under the project that holds chapter-numbered files."""
+    """Every directory under the project that holds chapter-numbered files.
+
+    The project's own root counts when it holds chapters directly — a shelf
+    serial (chapters/<name>/Chapter_01.md) has no 'chapters' subdirectory of its
+    own, and skipping '.' here would make every one of them a scope refusal.
+    """
     found = {}
     for dirpath, dirnames, filenames in os.walk(project):
         parts = dirpath.split(os.sep)
@@ -84,10 +89,8 @@ def chapter_dirs(project):
             dirnames[:] = []
             continue
         rel = os.path.relpath(dirpath, project)
-        if rel == '.':
-            continue
         if any(CH_RX_match(f) for f in filenames):
-            found[rel] = dirpath
+            found['.' if rel == '.' else rel] = dirpath
     return found
 
 
@@ -311,10 +314,24 @@ def find_projects(root):
         if '.git' in parts or 'node_modules' in parts:
             dirnames[:] = []
             continue
-        if os.path.basename(dirpath).startswith('chapter') and chapter_files(dirpath):
-            proj = os.path.dirname(dirpath)
-            if proj not in out:
-                out.append(proj)
+        if os.path.basename(dirpath).startswith('chapter'):
+            if chapter_files(dirpath):
+                proj = os.path.dirname(dirpath)
+                if proj not in out:
+                    out.append(proj)
+            # LIBRARY SHELF LAYOUT: chapters/<serial>/Chapter_<n>.md — the serial
+            # directory is itself a book. Without this rule every serial whose
+            # only home is a shelf (the 116-chapter Adaptive Prodigy among them)
+            # was invisible to every tool in this kit. Chasing six chapters across
+            # five gates while a 572,000-word work sat five directories deep was
+            # the largest version yet of the defect this whole system exists to
+            # catch: reporting on what was looked at instead of looking at what
+            # is there. The subdir scan fires whether or not this directory also
+            # holds chapter files directly.
+            for sub in sorted(dirnames):
+                p = os.path.join(dirpath, sub)
+                if chapter_files(p) and p not in out:
+                    out.append(p)
     return sorted(out)
 
 

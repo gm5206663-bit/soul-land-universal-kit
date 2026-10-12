@@ -292,6 +292,35 @@ def with_dead(r):
           '# Book_One\n\nUpdated 2026-10-11 · chapters 1–4\nchapters_old/ is superseded — do not use.\n')
 
 
+# ---------------------------------------------------------------- 8i sightings
+def shelf_doc(i, words=24):
+    body = ' '.join(f'line{i}word{j}' for j in range(words))
+    return f'# Chapter {i}\n\n{body}\n\n"Speak," she said. "Now," he said. "Go," they said.\n'
+
+
+case('a shelf serial that exists nowhere else is registered, not invisible',
+     lambda r: as_repo(r, 'lib-repo') or [
+         write(os.path.join(r, 'lib-repo', 'chapters', 'lone_serial',
+                            f'chapter_{i:02d}.md'), shelf_doc(i)) for i in range(1, 7)],
+     'orphan-work', only=['sightings'])
+
+case('a shelf copy of a registered book is a copy, not a second book',
+     lambda r: as_repo(r, 'lib-repo') or [
+         write(os.path.join(r, 'lib-repo', 'chapters', 'twin_serial', f'Chapter_{i:02d}.md'),
+               chapter(i)) for i in range(1, 5)],
+     'orphan-work', want=False, only=['sightings'])
+
+case('a reference tree with no other home is registered read-only',
+     lambda r: as_repo(r, 'proj-repo') or [
+         write(os.path.join(r, 'proj-repo', 'reference', 'hero', 'Big_Book', 'chapters',
+                            f'Chapter_{i:02d}.md'), shelf_doc(i, 40)) for i in range(1, 6)],
+     'orphan-work', only=['sightings'])
+
+case('a chapter tree nothing can explain is a HARD finding',
+     lambda r: as_repo(r, 'weird-repo') or
+     write(os.path.join(r, 'weird-repo', 'mystery', 'chapter_01.md'), shelf_doc(1)),
+     'unaccounted-tree', only=['sightings'])
+
 case('a dead directory is skipped, not gated',
      with_dead, 'scope-refusal', want=False)
 

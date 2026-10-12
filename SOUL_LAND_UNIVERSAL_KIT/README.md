@@ -119,10 +119,11 @@ SOUL_LAND_UNIVERSAL_KIT/
     │                          one run: gate, repeated prose, two-home texts,
     │                          status receipts, publication, live Pages sites,
     │                          machine files and committed archives, dead links,
-    │                          generated-view stamps, CI coverage,
+    │                          generated-view stamps, CI coverage, and every
+    │                          chapter-bearing tree accounted (book or sighting),
     │                          with baselines so runs can be diffed
     ├── account_checks.py      the detectors behind it, each declaring coverage
-    ├── account_selftest.py    30 cases — every detector seen to fail
+    ├── account_selftest.py    34 cases — every detector seen to fail
     └── account_baseline.json  today's frozen state, fingerprinted with the code
 ```
 

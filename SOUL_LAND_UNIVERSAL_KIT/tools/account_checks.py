@@ -75,6 +75,15 @@ LAWS = {
                         'receipt — the stamp says it can never have drifted'),
     'ci-gap':          ('advisory', 'a repository carries gate scripts but has no CI workflow',
                         'a gate that only runs when someone remembers is a promise, not a check'),
+    'orphan-work':     ('advisory', 'a work with no other home was registered where it was found',
+                        'a serial that exists in exactly one place is a book, wherever that '
+                        'place is — a shelf, a reference tree, an inbox'),
+    'sighting':        ('advisory', 'a chapter-bearing tree outside the register, classified and counted',
+                        'exclusion from gating is not exclusion from the register — a tree that '
+                        'is not gated still has to be named'),
+    'unaccounted-tree': ('hard', 'a chapter-bearing tree the register cannot explain',
+                        'coverage is a claim: every tree must be either a registered book or '
+                        'a declared sighting, never simply unseen'),
 }
 
 VERSION = '1.0'
@@ -108,26 +117,190 @@ def ran(detector, findings, cover, note=''):
 # --------------------------------------------------------------------------
 # DISCOVERY
 # --------------------------------------------------------------------------
+def _chapter_trees(root):
+    """EVERY directory holding chapter-numbered prose, in every repo, no exclusions.
+
+    This walk is deliberately dumber than find_projects(): it does not care what
+    a directory is called or what status files sit beside it. It answers one
+    question — where on this disk is there chapter prose — and everything else in
+    the register is built on its answer. The register's guarantee: every tree it
+    returns is either a registered book or a classified sighting.
+    """
+    trees = []
+    for repo in _repos(root):
+        base = os.path.join(root, repo)
+        for dp, dns, fns in os.walk(base):
+            if '.git' in dp.split(os.sep):
+                dns[:] = []
+                continue
+            dns[:] = [d for d in dns if d not in JUNK_DIRS]
+            files = [os.path.join(dp, f) for f in sorted(fns)
+                     if f.endswith('.md') and lbg.CHAPTER_RX.match(f)
+                     and not lbg.NON_CHAPTER_RX.search(f)]
+            if files:
+                trees.append(dict(repo=repo, rel=os.path.relpath(dp, root), dir=dp, files=files,
+                                  names={os.path.basename(f).lower()[:-3] for f in files}))
+    return sorted(trees, key=lambda t: t['rel'])
+
+
+def _prepare(books):
+    """(book, names, words, file_count) for every registered book — read once."""
+    out = []
+    for b in books:
+        fs = book_files(b)
+        if not fs:
+            continue
+        names = {os.path.basename(f).lower()[:-3] for f in fs}
+        words = sum(len(open(f, encoding='utf-8', errors='replace').read().split())
+                    for f in fs)
+        out.append((b, names, words, len(fs)))
+    return out
+
+
+def _words_of(t):
+    w = 0
+    for f in t['files']:
+        try:
+            w += len(open(f, encoding='utf-8', errors='replace').read().split())
+        except OSError:
+            pass
+    return w
+
+
+# Trees that hold chapters but are never a serial of their own: audit
+# material, rebuild contracts, staging layers, snapshots, inboxes. They are
+# still NAMED by the sightings pass — this rule only says "not a book".
+NOT_A_BOOK_RX = re.compile(r'(^|/)(audits?|interventions?|contracts?|semantic_audit|'
+                           r'late_arc_rebuild|rebuild_v2|staging|promotion_proposal|'
+                           r'accepted_replacement_layers|snapshots?|sources|planning|notes|'
+                           r'inbox|uploads?|backups?)(/|$)', re.I)
+
+GENERIC_CH_RX = re.compile(r'^chapter[\s_-]*\d+$')
+
+
+def _generic(names):
+    """True when every chapter file is named 'Chapter_<n>' and nothing else.
+
+    Generic names cannot identify a work. A 116-file tree of chapter_01.md…
+    chapter_116.md matched an 8-file tree of the same shape perfectly — score
+    1.0 — and was therefore classified as a COPY of an 8-chapter book. That is
+    how a 572,000-word serial came within one line of staying invisible even
+    after the shelf rule found it. Names that carry no title information are
+    never allowed to prove identity on their own.
+    """
+    return bool(names) and all(GENERIC_CH_RX.match(n) for n in names)
+
+
+def _match_book(t, prepared):
+    """The registered book this tree duplicates, or None.
+
+    Two ways to match, and the size gate guards the weak one:
+      · titled chapter names agreeing at 90%+ — the titles are the fingerprint;
+      · any name agreement when the two works are within 25% of the same size.
+    Generic names on both sides always fall back to the size gate. `prepared`
+    is built once per run; re-reading a 572,000-word serial for every candidate
+    tree would cost more than the account it describes.
+    """
+    tw = None
+    for b, names, bw, bf in prepared:
+        inter = len(t['names'] & names)
+        if inter < 3:
+            continue
+        sc = inter / min(len(t['names']), len(names))
+        if sc < 0.6:
+            continue
+        strong = (sc >= 0.9 and not _generic(t['names']) and not _generic(names))
+        if not strong:
+            if tw is None:
+                tw = _words_of(t)
+            if not bw or abs(tw - bw) / bw > 0.25 or abs(len(t['files']) - bf) > 4:
+                continue
+        return b, sc
+    return None
+
+
+def _under(rel, root_or_dir, root):
+    r = os.path.relpath(root_or_dir, root)
+    return rel == r or rel.startswith(r + os.sep)
+
+
 def registry(root):
     """Every book under root, with the live directory already chosen.
 
     A book is a directory that holds chapters and whose own status files say
     which directory is live. Anything the gate would refuse to guess about is
     returned as a refusal, not as a guess.
+
+    Three additions since 2026-10-12, all one lesson — *a register that only
+    lists what it happened to look at is a register of the looking*:
+
+      · SHELF SERIALS. `chapters/<serial>/` is a book layout; the serial is a
+        book when the shelf is its only home. When an identical copy exists
+        elsewhere it is left to the sightings pass, so defects are counted once.
+      · ORPHAN PROMOTION. A tree outside the normal scan — a reference copy —
+        becomes a book when it is the only home of its text. Lin Hao / Soul
+        Land 3 (101 ch) is a reference copy in an archived repository and had
+        never been audited by anything.
+      · NO SILENT SKIPS. Every chapter-bearing tree on the disk is either a
+        book here or classified by check_sightings(); a tree that fits neither
+        is a hard finding, not a shrug.
     """
-    books = []
+    trees = {t['rel']: t for t in _chapter_trees(root)}
+    direct, shelf = [], []
     for proj in lbg.find_projects(root):
         rel = os.path.relpath(proj, root)
         if lbg.is_out_of_scope(rel):
-            continue        # one rule, shared with the gate — see live_book_gate.py
+            continue
         parts = rel.split(os.sep)
         repo = parts[0]
         book = '/'.join(parts[1:]) or repo
         dirs = lbg.chapter_dirs(proj)
         live, dead, note = lbg.choose_live(proj, dirs)
-        books.append(dict(repo=repo, book=book, path=proj, live=live, dead=dead, note=note))
-    return books
+        entry = dict(repo=repo, book=book, path=proj, live=live, dead=dead, note=note, rel=rel)
+        if os.path.basename(os.path.dirname(proj)).startswith('chapter'):
+            shelf.append(entry)
+        else:
+            direct.append(entry)
 
+    books = list(direct)
+    prepared = _prepare(books)
+    for e in shelf:
+        t = trees.get(e['rel'])
+        if t is None:
+            t = dict(repo=e['repo'], rel=e['rel'], dir=e['path'], files=[],
+                     names={os.path.basename(f).lower()[:-3]
+                            for f in lbg.chapter_files(e['path'])})
+        if _match_book(t, prepared):
+            continue            # a shelf copy of a registered book — a sighting
+        e['promoted'] = True
+        e['note'] = ('library shelf serial with no other home anywhere in the '
+                     'account — ' + (e['note'] or 'registered from the shelf'))
+        books.append(e)
+        prepared.extend(_prepare([e]))
+
+    for t in _chapter_trees(root):
+        if any(_under(t['rel'], b['path'], root) for b in books):
+            continue
+        if any(b.get('live') and _under(t['rel'], b['live'], root) for b in books):
+            continue
+        if any(_under(t['rel'], d, root) for b in books for d in b['dead']):
+            continue
+        if lbg.DEAD_PATH_RX.search(t['rel']) or NOT_A_BOOK_RX.search(t['rel']):
+            continue
+        if _match_book(t, prepared):
+            continue
+        if len(t['files']) < 5:
+            continue
+        if '/reference/' in t['rel']:
+            note = ('reference copy with no other home anywhere in the account — '
+                    'registered read-only, so it is audited at all')
+        else:
+            note = ('found outside the register and is the only home of its text — '
+                    'registered so it can be audited at all')
+        books.append(dict(repo=t['repo'], book='/'.join(t['rel'].split(os.sep)[1:]) or t['repo'],
+                          path=t['dir'], live=t['dir'], dead=[], note=note,
+                          readonly=True, promoted=True, rel=t['rel']))
+    return books
 
 def book_files(book):
     if not book['live']:
@@ -333,7 +506,7 @@ def check_dupes(books, min_words=12, limit=400):
 # --------------------------------------------------------------------------
 def is_published_copy(book):
     """A published snapshot path is a derived copy, not a second home."""
-    return bool(re.search(r'(^|/)(published-site|published|site|docs)(/|$)', book))
+    return bool(re.search(r'(^|/)(published-site|published|site|docs|soul-library/chapters)(/|$)', book))
 
 
 def check_two_homes(books):
@@ -905,4 +1078,97 @@ def check_enforcement(root, limit=40):
     return ran('enforcement', findings,
                coverage(with_gates - gap, with_gates,
                         'gate-carrying repo(s) with a CI workflow present'),
+               note=note)
+
+
+# --------------------------------------------------------------------------
+# 12. SIGHTINGS — the register's guarantee: nothing is simply unseen
+# --------------------------------------------------------------------------
+SIGHT_CLASSES = [
+    (re.compile(r'sources?/|snapshot', re.I), 'snapshot inside a repository'),
+    (re.compile(r'/reference/|_kit_reference', re.I), 'reference material'),
+    (re.compile(r'archive', re.I), 'archived material'),
+    (re.compile(r'drafts?|pre_line|_alt', re.I), 'working draft'),
+    (re.compile(r'audit|contracts?|semantic', re.I), 'audit or contract material'),
+    (re.compile(r'late_arc|rebuild|staging|promotion|replacement', re.I),
+     'work in progress on a registered serial'),
+    (re.compile(r'planning|notes|inbox|uploads?', re.I), 'planning or inbox material'),
+]
+
+
+def check_sightings(root, books, limit=4):
+    """Every chapter-bearing tree that is not a registered book, named and counted.
+
+    THE GUARANTEE. On 2026-10-12 this account learned that its register had been
+    listing what it happened to look at: a /reference/ exclusion, a sources/
+    exclusion and a chapters/-shaped assumption had hidden a 116-chapter serial,
+    a 101-chapter serial, an entire library shelf and a whole workshop, and
+    nothing in the tooling said a word. This detector exists so that can never
+    happen again: every tree holding chapter prose is either a registered book,
+    a classified sighting, or a HARD finding. There is no fourth outcome.
+    """
+    trees = _chapter_trees(root)
+    prepared = _prepare(books)
+    findings, classes, unexplained, covered = [], {}, [], 0
+    for b in books:
+        if b.get('promoted'):
+            fs = book_files(b)
+            if fs:
+                w = sum(len(open(f, encoding='utf-8', errors='replace').read().split())
+                        for f in fs)
+                findings.append(finding(
+                    'orphan-work', b['repo'], b['book'], b.get('rel') or b['book'], b['book'],
+                    f"registered where it was found — {len(fs)} chapter(s), {w:,} words: {b['note']}",
+                    evidence=b['note']))
+    for t in trees:
+        if any(_under(t['rel'], b['path'], root) for b in books):
+            covered += 1
+            continue
+        if any(b.get('live') and _under(t['rel'], b['live'], root) for b in books):
+            covered += 1
+            continue
+        if any(_under(t['rel'], d, root) for b in books for d in b['dead']):
+            covered += 1
+            continue
+        m = _match_book(t, prepared)
+        cls = None
+        if m:
+            cls = ('library shelf copy of a registered book'
+                   if is_published_copy(t['rel']) else 'copy of a registered book')
+        else:
+            for rx, name in SIGHT_CLASSES:
+                if rx.search(t['rel']):
+                    cls = name
+                    break
+            if cls is None and (lbg.DEAD_PATH_RX.search(t['rel'])
+                                or NOT_A_BOOK_RX.search(t['rel'])):
+                cls = 'working material beside a registered serial'
+        if cls is None:
+            unexplained.append(t)
+            continue
+        classes.setdefault(cls, []).append(t['rel'])
+
+    for cls, rels in sorted(classes.items(), key=lambda kv: -len(kv[1])):
+        findings.append(finding(
+            'sighting', '-', '-', cls, cls,
+            f'{len(rels)} chapter-bearing tree(s) outside the register — {cls}; not '
+            f'gated, named here: ' + '; '.join(rels[:limit])
+            + ('; …' if len(rels) > limit else ''),
+            evidence='; '.join(rels[:limit])))
+    for t in unexplained:
+        findings.append(finding(
+            'unaccounted-tree', t['repo'], '-', t['rel'], t['rel'],
+            f'{t["rel"]} holds {len(t["files"])} chapter file(s) and is neither a '
+            f'registered book nor a classifiable sighting — nothing may simply be unseen',
+            evidence='; '.join(os.path.basename(f) for f in t['files'][:3])))
+    sighted = sum(len(v) for v in classes.values())
+    note = (f'{len(trees)} chapter-bearing tree(s) on disk: {covered} under a registered '
+            f'book, {sighted} classified sighting(s)'
+            + (f', {len(unexplained)} UNEXPLAINED' if unexplained else '')
+            + (' — ' + ', '.join(f'{k}: {len(v)}' for k, v in
+                                 sorted(classes.items(), key=lambda kv: -len(kv[1])))[:280]
+               if classes else ''))
+    return ran('sightings', findings,
+               coverage(len(trees) - len(unexplained), len(trees),
+                        'chapter-bearing tree(s) accounted for (book or sighting)'),
                note=note)
