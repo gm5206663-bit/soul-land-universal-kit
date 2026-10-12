@@ -1,0 +1,1696 @@
+{
+ "frozen": "2026-10-11 11:36",
+ "root": "/tmp/all",
+ "tools_version": "1.0",
+ "code": "e88acf85de8a",
+ "findings": {
+  "e92785280152": {
+   "kind": "repeat-in-file",
+   "severity": "hard",
+   "repo": "soul-land-2-the-grey-wolf",
+   "book": "soul-land-2-the-grey-wolf",
+   "file": "Chapter_10_The_Combat_Exam.md",
+   "detail": "2 identical 18-word sentence(s) across 1 place(s): soul-land-2-the-grey-wolf/Chapter_10_The_Combat_Exam.md"
+  },
+  "e306a6e26751": {
+   "kind": "repeat-in-file",
+   "severity": "hard",
+   "repo": "soul-land-2-the-grey-wolf",
+   "book": "soul-land-2-the-grey-wolf",
+   "file": "Chapter_10_The_Combat_Exam.md",
+   "detail": "2 identical 15-word sentence(s) across 1 place(s): soul-land-2-the-grey-wolf/Chapter_10_The_Combat_Exam.md"
+  },
+  "b17d771954aa": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_02.md",
+   "detail": "69-word sentence (ceiling 60)"
+  },
+  "6d3020c358d2": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_02.md",
+   "detail": "61-word sentence (ceiling 60)"
+  },
+  "985e6acda5e9": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_03.md",
+   "detail": "65-word sentence (ceiling 60)"
+  },
+  "2adc643f7dd3": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_03.md",
+   "detail": "70-word sentence (ceiling 60)"
+  },
+  "a2918a78ad1f": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_03.md",
+   "detail": "69-word sentence (ceiling 60)"
+  },
+  "4ab919f7db77": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_04.md",
+   "detail": "75-word sentence (ceiling 60)"
+  },
+  "94d203e85bf5": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_04.md",
+   "detail": "80-word sentence (ceiling 60)"
+  },
+  "22b401396688": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_04.md",
+   "detail": "67-word sentence (ceiling 60)"
+  },
+  "43207c6f442a": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_04.md",
+   "detail": "66-word sentence (ceiling 60)"
+  },
+  "a7f7274f6ac2": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_04.md",
+   "detail": "74-word sentence (ceiling 60)"
+  },
+  "e9f2b3866423": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_04.md",
+   "detail": "65-word sentence (ceiling 60)"
+  },
+  "9a8e2cbe8677": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_04.md",
+   "detail": "63-word sentence (ceiling 60)"
+  },
+  "e086f617fa94": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_04.md",
+   "detail": "64-word sentence (ceiling 60)"
+  },
+  "a59653cea0b3": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_04.md",
+   "detail": "68-word sentence (ceiling 60)"
+  },
+  "42eaa45bd9c5": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_04.md",
+   "detail": "70-word sentence (ceiling 60)"
+  },
+  "5baf7d3068ec": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_04.md",
+   "detail": "63-word sentence (ceiling 60)"
+  },
+  "f9a36424e10b": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_04.md",
+   "detail": "63-word sentence (ceiling 60)"
+  },
+  "f4a3266f72ab": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_04.md",
+   "detail": "76-word sentence (ceiling 60)"
+  },
+  "c05aee935d4e": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_04.md",
+   "detail": "68-word sentence (ceiling 60)"
+  },
+  "57f79fccb7bc": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_04.md",
+   "detail": "67-word sentence (ceiling 60)"
+  },
+  "c169e8f7b25c": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_04.md",
+   "detail": "69-word sentence (ceiling 60)"
+  },
+  "93790089a750": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_04.md",
+   "detail": "66-word sentence (ceiling 60)"
+  },
+  "5f6eaad5b85a": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_05.md",
+   "detail": "63-word sentence (ceiling 60)"
+  },
+  "996f82f5bbdf": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_05.md",
+   "detail": "74-word sentence (ceiling 60)"
+  },
+  "720f11db58c0": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_05.md",
+   "detail": "64-word sentence (ceiling 60)"
+  },
+  "81a9338f5060": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_05.md",
+   "detail": "71-word sentence (ceiling 60)"
+  },
+  "7b9d1d9c5380": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_05.md",
+   "detail": "90-word sentence (ceiling 60)"
+  },
+  "5d57d91e6fc2": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_05.md",
+   "detail": "71-word sentence (ceiling 60)"
+  },
+  "8ae98554112b": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_05.md",
+   "detail": "74-word sentence (ceiling 60)"
+  },
+  "f53d376bf5d7": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_05.md",
+   "detail": "71-word sentence (ceiling 60)"
+  },
+  "d2e0e15bfc25": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_05.md",
+   "detail": "73-word sentence (ceiling 60)"
+  },
+  "e40861399d0e": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_05.md",
+   "detail": "90-word sentence (ceiling 60)"
+  },
+  "f24a8f41640b": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_05.md",
+   "detail": "64-word sentence (ceiling 60)"
+  },
+  "977dad1ee7e2": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_05.md",
+   "detail": "68-word sentence (ceiling 60)"
+  },
+  "8bd76bcdaa14": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_05.md",
+   "detail": "65-word sentence (ceiling 60)"
+  },
+  "1a267711aacc": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_05.md",
+   "detail": "64-word sentence (ceiling 60)"
+  },
+  "77f484d2cdbd": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_05.md",
+   "detail": "65-word sentence (ceiling 60)"
+  },
+  "13097e3685e2": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_05.md",
+   "detail": "73-word sentence (ceiling 60)"
+  },
+  "7136a4db329d": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_05.md",
+   "detail": "81-word sentence (ceiling 60)"
+  },
+  "ca00742d54cd": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_06.md",
+   "detail": "68-word sentence (ceiling 60)"
+  },
+  "73bc2b372c44": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_06.md",
+   "detail": "103-word sentence (ceiling 60)"
+  },
+  "d7d3a2f026ed": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_06.md",
+   "detail": "72-word sentence (ceiling 60)"
+  },
+  "5ccd290b01cd": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_06.md",
+   "detail": "72-word sentence (ceiling 60)"
+  },
+  "8f071ee2194e": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_06.md",
+   "detail": "75-word sentence (ceiling 60)"
+  },
+  "edbcd67e4ac7": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_06.md",
+   "detail": "65-word sentence (ceiling 60)"
+  },
+  "2b2b8a8c22e3": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_06.md",
+   "detail": "69-word sentence (ceiling 60)"
+  },
+  "b975a6741a35": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_06.md",
+   "detail": "75-word sentence (ceiling 60)"
+  },
+  "2a33b458b9e7": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_06.md",
+   "detail": "67-word sentence (ceiling 60)"
+  },
+  "5945f5258261": {
+   "kind": "dialogue-floor",
+   "severity": "hard",
+   "repo": "soul-land-projects",
+   "book": "soul_land_starter",
+   "file": "Chapter_01.md",
+   "detail": "dialogue 0 < floor 3 (in 20 words)"
+  },
+  "cf163a7601ab": {
+   "kind": "repeat-in-file",
+   "severity": "hard",
+   "repo": "soul-land-universal-kit",
+   "book": "Miraculous_Project",
+   "file": "chapter_03.md",
+   "detail": "2 identical 18-word sentence(s) across 1 place(s): soul-land-universal-kit/Miraculous_Project/chapter_03.md"
+  },
+  "229a8a30e599": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "soul-land-universal-kit",
+   "book": "Soul_Land_2_Project",
+   "file": "chapter_02.md",
+   "detail": "79-word sentence (ceiling 60)"
+  },
+  "195fb57fcd3d": {
+   "kind": "repeat-in-file",
+   "severity": "hard",
+   "repo": "soul-land-universal-kit",
+   "book": "soul_land_devouring_dragon",
+   "file": "Chapter_17_The_Long_Wet.md",
+   "detail": "2 identical 20-word sentence(s) across 1 place(s): soul-land-universal-kit/soul_land_devouring_dragon/Chapter_17_The_Long_Wet.md"
+  },
+  "b94ab3442c40": {
+   "kind": "dialogue-floor",
+   "severity": "hard",
+   "repo": "soul-land-universal-kit",
+   "book": "soul_land_new",
+   "file": "Chapter_01.md",
+   "detail": "dialogue 0 < floor 3 (in 20 words)"
+  },
+  "35497ebc8e92": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_08_The_Woman_Who_Stayed.md",
+   "detail": "63-word sentence (ceiling 60)"
+  },
+  "61883d8cd730": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_09_Red_Faced_and_Named.md",
+   "detail": "68-word sentence (ceiling 60)"
+  },
+  "f44ca6aec21e": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_10_Red_Faced_Consequence.md",
+   "detail": "65-word sentence (ceiling 60)"
+  },
+  "545d3e725275": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_10_Red_Faced_Consequence.md",
+   "detail": "65-word sentence (ceiling 60)"
+  },
+  "fc338c0dc257": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_10_Red_Faced_Consequence.md",
+   "detail": "115-word sentence (ceiling 60)"
+  },
+  "2552f35840c3": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "75-word sentence (ceiling 60)"
+  },
+  "88138dadea89": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "75-word sentence (ceiling 60)"
+  },
+  "ea47ceca6488": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "154-word sentence (ceiling 60)"
+  },
+  "c73439d4c7b0": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "86-word sentence (ceiling 60)"
+  },
+  "3a47231b2a49": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "100-word sentence (ceiling 60)"
+  },
+  "d4510bc46455": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "92-word sentence (ceiling 60)"
+  },
+  "f9eb73cc2862": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "75-word sentence (ceiling 60)"
+  },
+  "75348d02ec1d": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "61-word sentence (ceiling 60)"
+  },
+  "3da675b5451b": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "97-word sentence (ceiling 60)"
+  },
+  "d56a00ad7e32": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "95-word sentence (ceiling 60)"
+  },
+  "14ccf8328844": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "80-word sentence (ceiling 60)"
+  },
+  "cf6225d7f981": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "70-word sentence (ceiling 60)"
+  },
+  "ccc190468065": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "63-word sentence (ceiling 60)"
+  },
+  "93b19d7dea47": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "76-word sentence (ceiling 60)"
+  },
+  "142a39819a21": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "73-word sentence (ceiling 60)"
+  },
+  "c4fd16dd5caf": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "74-word sentence (ceiling 60)"
+  },
+  "51bda465a30e": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "67-word sentence (ceiling 60)"
+  },
+  "157024574b91": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "63-word sentence (ceiling 60)"
+  },
+  "f2c4c8a5fb4e": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "83-word sentence (ceiling 60)"
+  },
+  "22fe59fc0a87": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "120-word sentence (ceiling 60)"
+  },
+  "17e8c5040852": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "83-word sentence (ceiling 60)"
+  },
+  "1dd3979581e8": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "67-word sentence (ceiling 60)"
+  },
+  "201f0a879947": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "62-word sentence (ceiling 60)"
+  },
+  "8a850569ef9e": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_13_Human_for_a_Day.md",
+   "detail": "76-word sentence (ceiling 60)"
+  },
+  "dbf0603624ae": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_13_Human_for_a_Day.md",
+   "detail": "73-word sentence (ceiling 60)"
+  },
+  "b8d7c71ff6bd": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_13_Human_for_a_Day.md",
+   "detail": "72-word sentence (ceiling 60)"
+  },
+  "3df7d03f3533": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_14_Hostile_Takeover.md",
+   "detail": "84-word sentence (ceiling 60)"
+  },
+  "337cc946d6de": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_14_Hostile_Takeover.md",
+   "detail": "70-word sentence (ceiling 60)"
+  },
+  "8556292a5400": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_14_Hostile_Takeover.md",
+   "detail": "62-word sentence (ceiling 60)"
+  },
+  "fdb0b04ae841": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_14_Hostile_Takeover.md",
+   "detail": "81-word sentence (ceiling 60)"
+  },
+  "c8b9dfe741b9": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_14_Hostile_Takeover.md",
+   "detail": "76-word sentence (ceiling 60)"
+  },
+  "5d272a13dc4a": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_14_Hostile_Takeover.md",
+   "detail": "123-word sentence (ceiling 60)"
+  },
+  "89cd21c3f27a": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_14_Hostile_Takeover.md",
+   "detail": "73-word sentence (ceiling 60)"
+  },
+  "440b63329939": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_14_Hostile_Takeover.md",
+   "detail": "79-word sentence (ceiling 60)"
+  },
+  "5ec37684f213": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_14_Hostile_Takeover.md",
+   "detail": "62-word sentence (ceiling 60)"
+  },
+  "73c63370b19d": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_15_Blood_Bonds.md",
+   "detail": "61-word sentence (ceiling 60)"
+  },
+  "ceb184449667": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_15_Blood_Bonds.md",
+   "detail": "65-word sentence (ceiling 60)"
+  },
+  "d9594f126666": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_15_Blood_Bonds.md",
+   "detail": "81-word sentence (ceiling 60)"
+  },
+  "e3af06d99ac0": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_16_Childish_Things.md",
+   "detail": "88-word sentence (ceiling 60)"
+  },
+  "013b2ec1f5a4": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_16_Childish_Things.md",
+   "detail": "111-word sentence (ceiling 60)"
+  },
+  "6974bead2779": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_16_Childish_Things.md",
+   "detail": "137-word sentence (ceiling 60)"
+  },
+  "8868a513f1fa": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_16_Childish_Things.md",
+   "detail": "72-word sentence (ceiling 60)"
+  },
+  "c962bd6bf2f9": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_16_Childish_Things.md",
+   "detail": "118-word sentence (ceiling 60)"
+  },
+  "a83ec2548b87": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_16_Childish_Things.md",
+   "detail": "68-word sentence (ceiling 60)"
+  },
+  "e291fe13e661": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_16_Childish_Things.md",
+   "detail": "94-word sentence (ceiling 60)"
+  },
+  "bb965aee8b97": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_16_Childish_Things.md",
+   "detail": "63-word sentence (ceiling 60)"
+  },
+  "6426207851ce": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_17_Childish_Things_Convention.md",
+   "detail": "70-word sentence (ceiling 60)"
+  },
+  "f973bfaa801e": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_17_Childish_Things_Convention.md",
+   "detail": "74-word sentence (ceiling 60)"
+  },
+  "36b4460daeb1": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_17_Childish_Things_Convention.md",
+   "detail": "68-word sentence (ceiling 60)"
+  },
+  "7ac8280f610d": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_17_Childish_Things_Convention.md",
+   "detail": "94-word sentence (ceiling 60)"
+  },
+  "d7b55baa2388": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_17_Childish_Things_Convention.md",
+   "detail": "90-word sentence (ceiling 60)"
+  },
+  "70ba90d8b76f": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_17_Childish_Things_Convention.md",
+   "detail": "69-word sentence (ceiling 60)"
+  },
+  "4596c754bf47": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_17_Childish_Things_Convention.md",
+   "detail": "83-word sentence (ceiling 60)"
+  },
+  "9b6a95d2a9b5": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_17_Childish_Things_Convention.md",
+   "detail": "83-word sentence (ceiling 60)"
+  },
+  "bbbce38aab61": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_17_Childish_Things_Convention.md",
+   "detail": "94-word sentence (ceiling 60)"
+  },
+  "40f7100b93c6": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_17_Childish_Things_Convention.md",
+   "detail": "91-word sentence (ceiling 60)"
+  },
+  "d8b4dfc02d1f": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_17_Childish_Things_Convention.md",
+   "detail": "65-word sentence (ceiling 60)"
+  },
+  "91f121039d56": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_17_Childish_Things_Convention.md",
+   "detail": "69-word sentence (ceiling 60)"
+  },
+  "7f0fde0c17cf": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_17_Childish_Things_Convention.md",
+   "detail": "67-word sentence (ceiling 60)"
+  },
+  "124f3871940a": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_17_Childish_Things_Convention.md",
+   "detail": "65-word sentence (ceiling 60)"
+  },
+  "e5ca7f19f6dc": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_17_Childish_Things_Convention.md",
+   "detail": "62-word sentence (ceiling 60)"
+  },
+  "d95168a17740": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_17_Childish_Things_Convention.md",
+   "detail": "71-word sentence (ceiling 60)"
+  },
+  "14e0600c7e9d": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_17_Childish_Things_Convention.md",
+   "detail": "74-word sentence (ceiling 60)"
+  },
+  "a6064ac8dec2": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_17_Childish_Things_Convention.md",
+   "detail": "76-word sentence (ceiling 60)"
+  },
+  "050cfca3aed2": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_17_Childish_Things_Convention.md",
+   "detail": "65-word sentence (ceiling 60)"
+  },
+  "32c5d2936900": {
+   "kind": "repeat-in-file",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_11_The_Sun.md",
+   "detail": "3 identical 13-word sentence(s) across 2 place(s): supergirl-adrian-vale/Chapter_11_The_Sun.md; supergirl-adrian-vale/Chapter_13_Human_for_a_Day.md"
+  },
+  "88f693300f1c": {
+   "kind": "repeat-in-file",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_10_Red_Faced_Consequence.md",
+   "detail": "3 identical 28-word sentence(s) across 2 place(s): supergirl-adrian-vale/Chapter_10_Red_Faced_Consequence.md; supergirl-adrian-vale/Chapter_11_The_Sun.md"
+  },
+  "e6283e057508": {
+   "kind": "repeat-in-file",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_10_Red_Faced_Consequence.md",
+   "detail": "3 identical 21-word sentence(s) across 2 place(s): supergirl-adrian-vale/Chapter_10_Red_Faced_Consequence.md; supergirl-adrian-vale/Chapter_11_The_Sun.md"
+  },
+  "088434a4a31f": {
+   "kind": "repeat-in-file",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_15_Blood_Bonds.md",
+   "detail": "2 identical 15-word sentence(s) across 1 place(s): supergirl-adrian-vale/Chapter_15_Blood_Bonds.md"
+  },
+  "2b001d98a519": {
+   "kind": "repeat-in-file",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_10_Red_Faced_Consequence.md",
+   "detail": "2 identical 17-word sentence(s) across 1 place(s): supergirl-adrian-vale/Chapter_10_Red_Faced_Consequence.md"
+  },
+  "3bf60d155acd": {
+   "kind": "repeat-in-file",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_15_Blood_Bonds.md",
+   "detail": "2 identical 25-word sentence(s) across 1 place(s): supergirl-adrian-vale/Chapter_15_Blood_Bonds.md"
+  },
+  "f4a2c2cdf3aa": {
+   "kind": "repeat-in-file",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_15_Blood_Bonds.md",
+   "detail": "2 identical 12-word sentence(s) across 1 place(s): supergirl-adrian-vale/Chapter_15_Blood_Bonds.md"
+  },
+  "8da900796655": {
+   "kind": "repeat-in-file",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_15_Blood_Bonds.md",
+   "detail": "2 identical 19-word sentence(s) across 1 place(s): supergirl-adrian-vale/Chapter_15_Blood_Bonds.md"
+  },
+  "33dc842e1e37": {
+   "kind": "repeat-in-file",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_10_Red_Faced_Consequence.md",
+   "detail": "2 identical 21-word sentence(s) across 1 place(s): supergirl-adrian-vale/Chapter_10_Red_Faced_Consequence.md"
+  },
+  "639aaa6ffa9b": {
+   "kind": "repeat-in-file",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_09_Red_Faced_and_Named.md",
+   "detail": "2 identical 17-word sentence(s) across 1 place(s): supergirl-adrian-vale/Chapter_09_Red_Faced_and_Named.md"
+  },
+  "b8fe497e0f18": {
+   "kind": "repeat-in-file",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_11_The_Sun.md",
+   "detail": "2 identical 17-word sentence(s) across 1 place(s): supergirl-adrian-vale/Chapter_11_The_Sun.md"
+  },
+  "deed603cc522": {
+   "kind": "repeat-in-file",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_10_Red_Faced_Consequence.md",
+   "detail": "2 identical 40-word sentence(s) across 1 place(s): supergirl-adrian-vale/Chapter_10_Red_Faced_Consequence.md"
+  },
+  "c04b2dbef2ce": {
+   "kind": "repeat-in-file",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_13_Human_for_a_Day.md",
+   "detail": "2 identical 14-word sentence(s) across 1 place(s): supergirl-adrian-vale/Chapter_13_Human_for_a_Day.md"
+  },
+  "fe0ba9dd3799": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "qian-xunji-adaptation",
+   "book": "qian-xunji-adaptation",
+   "file": "Chapter_01_The_Night_After.md",
+   "detail": "2 identical 13-word sentence(s) across 2 place(s): qian-xunji-adaptation/Chapter_01_The_Night_After.md; qian-xunji-adaptation/Chapter_02_The_Codex.md"
+  },
+  "6fba59a3a01d": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-1-fire-dragon-lizard",
+   "book": "soul-land-1-fire-dragon-lizard",
+   "file": "Chapter_03.md",
+   "detail": "2 identical 14-word sentence(s) across 2 place(s): soul-land-1-fire-dragon-lizard/Chapter_03.md; soul-land-1-fire-dragon-lizard/Chapter_04.md"
+  },
+  "98e0a8f68397": {
+   "kind": "receipt-drift",
+   "severity": "advisory",
+   "repo": "soul-land-2-the-grey-wolf",
+   "book": "soul-land-2-the-grey-wolf",
+   "file": "NEXT.md:20",
+   "detail": "NEXT.md says 6, the book has 10 (as its last chapter)"
+  },
+  "43e799e3db35": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-2-the-grey-wolf",
+   "book": "soul-land-2-the-grey-wolf",
+   "file": "Chapter_06_The_Hem_Road.md",
+   "detail": "4 identical 25-word sentence(s) across 4 place(s): soul-land-2-the-grey-wolf/Chapter_06_The_Hem_Road.md; soul-land-2-the-grey-wolf/Chapter_07_The_Third_Village.md; soul-land-2-the-grey-wolf/Chapter_08_Road_To_Shrek.md; soul-land-2-the-grey-wolf/Chapte"
+  },
+  "1b6bbed8cf2d": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-2-the-grey-wolf",
+   "book": "soul-land-2-the-grey-wolf",
+   "file": "Chapter_06_The_Hem_Road.md",
+   "detail": "3 identical 17-word sentence(s) across 3 place(s): soul-land-2-the-grey-wolf/Chapter_06_The_Hem_Road.md; soul-land-2-the-grey-wolf/Chapter_07_The_Third_Village.md; soul-land-2-the-grey-wolf/Chapter_08_Road_To_Shrek.md"
+  },
+  "a1543fd9a793": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-2-the-grey-wolf",
+   "book": "soul-land-2-the-grey-wolf",
+   "file": "Chapter_06_The_Hem_Road.md",
+   "detail": "3 identical 13-word sentence(s) across 3 place(s): soul-land-2-the-grey-wolf/Chapter_06_The_Hem_Road.md; soul-land-2-the-grey-wolf/Chapter_07_The_Third_Village.md; soul-land-2-the-grey-wolf/Chapter_08_Road_To_Shrek.md"
+  },
+  "956899b9db17": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-2-the-grey-wolf",
+   "book": "soul-land-2-the-grey-wolf",
+   "file": "Chapter_06_The_Hem_Road.md",
+   "detail": "3 identical 15-word sentence(s) across 3 place(s): soul-land-2-the-grey-wolf/Chapter_06_The_Hem_Road.md; soul-land-2-the-grey-wolf/Chapter_07_The_Third_Village.md; soul-land-2-the-grey-wolf/Chapter_08_Road_To_Shrek.md"
+  },
+  "7c17b1e3709c": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-2-the-grey-wolf",
+   "book": "soul-land-2-the-grey-wolf",
+   "file": "Chapter_06_The_Hem_Road.md",
+   "detail": "3 identical 19-word sentence(s) across 3 place(s): soul-land-2-the-grey-wolf/Chapter_06_The_Hem_Road.md; soul-land-2-the-grey-wolf/Chapter_07_The_Third_Village.md; soul-land-2-the-grey-wolf/Chapter_09_Shrek_City.md"
+  },
+  "a0ae3cba5c97": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-2-the-grey-wolf",
+   "book": "soul-land-2-the-grey-wolf",
+   "file": "Chapter_05_The_Road_Begins.md",
+   "detail": "3 identical 14-word sentence(s) across 3 place(s): soul-land-2-the-grey-wolf/Chapter_05_The_Road_Begins.md; soul-land-2-the-grey-wolf/Chapter_07_The_Third_Village.md; soul-land-2-the-grey-wolf/Chapter_08_Road_To_Shrek.md"
+  },
+  "ae180c52ba6b": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-2-the-grey-wolf",
+   "book": "soul-land-2-the-grey-wolf",
+   "file": "Chapter_07_The_Third_Village.md",
+   "detail": "3 identical 20-word sentence(s) across 3 place(s): soul-land-2-the-grey-wolf/Chapter_07_The_Third_Village.md; soul-land-2-the-grey-wolf/Chapter_08_Road_To_Shrek.md; soul-land-2-the-grey-wolf/Chapter_09_Shrek_City.md"
+  },
+  "abb9c8e467c1": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-2-the-grey-wolf",
+   "book": "soul-land-2-the-grey-wolf",
+   "file": "Chapter_06_The_Hem_Road.md",
+   "detail": "3 identical 19-word sentence(s) across 3 place(s): soul-land-2-the-grey-wolf/Chapter_06_The_Hem_Road.md; soul-land-2-the-grey-wolf/Chapter_07_The_Third_Village.md; soul-land-2-the-grey-wolf/Chapter_08_Road_To_Shrek.md"
+  },
+  "237f7d33c73f": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-2-the-grey-wolf",
+   "book": "soul-land-2-the-grey-wolf",
+   "file": "Chapter_06_The_Hem_Road.md",
+   "detail": "3 identical 16-word sentence(s) across 3 place(s): soul-land-2-the-grey-wolf/Chapter_06_The_Hem_Road.md; soul-land-2-the-grey-wolf/Chapter_07_The_Third_Village.md; soul-land-2-the-grey-wolf/Chapter_08_Road_To_Shrek.md"
+  },
+  "5ec5a48f49b1": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-2-the-grey-wolf",
+   "book": "soul-land-2-the-grey-wolf",
+   "file": "Chapter_07_The_Third_Village.md",
+   "detail": "3 identical 16-word sentence(s) across 3 place(s): soul-land-2-the-grey-wolf/Chapter_07_The_Third_Village.md; soul-land-2-the-grey-wolf/Chapter_08_Road_To_Shrek.md; soul-land-2-the-grey-wolf/Chapter_09_Shrek_City.md"
+  },
+  "aa8183652083": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-2-the-grey-wolf",
+   "book": "soul-land-2-the-grey-wolf",
+   "file": "Chapter_05_The_Road_Begins.md",
+   "detail": "3 identical 13-word sentence(s) across 3 place(s): soul-land-2-the-grey-wolf/Chapter_05_The_Road_Begins.md; soul-land-2-the-grey-wolf/Chapter_07_The_Third_Village.md; soul-land-2-the-grey-wolf/Chapter_08_Road_To_Shrek.md"
+  },
+  "e9cbe144551c": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-2-the-grey-wolf",
+   "book": "soul-land-2-the-grey-wolf",
+   "file": "Chapter_07_The_Third_Village.md",
+   "detail": "2 identical 15-word sentence(s) across 2 place(s): soul-land-2-the-grey-wolf/Chapter_07_The_Third_Village.md; soul-land-2-the-grey-wolf/Chapter_08_Road_To_Shrek.md"
+  },
+  "00f0d4b33337": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-2-the-grey-wolf",
+   "book": "soul-land-2-the-grey-wolf",
+   "file": "Chapter_06_The_Hem_Road.md",
+   "detail": "2 identical 14-word sentence(s) across 2 place(s): soul-land-2-the-grey-wolf/Chapter_06_The_Hem_Road.md; soul-land-2-the-grey-wolf/Chapter_09_Shrek_City.md"
+  },
+  "921df27119fb": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-2-the-grey-wolf",
+   "book": "soul-land-2-the-grey-wolf",
+   "file": "Chapter_07_The_Third_Village.md",
+   "detail": "2 identical 19-word sentence(s) across 2 place(s): soul-land-2-the-grey-wolf/Chapter_07_The_Third_Village.md; soul-land-2-the-grey-wolf/Chapter_09_Shrek_City.md"
+  },
+  "d5e774f9a361": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-2-the-grey-wolf",
+   "book": "soul-land-2-the-grey-wolf",
+   "file": "Chapter_06_The_Hem_Road.md",
+   "detail": "2 identical 16-word sentence(s) across 2 place(s): soul-land-2-the-grey-wolf/Chapter_06_The_Hem_Road.md; soul-land-2-the-grey-wolf/Chapter_08_Road_To_Shrek.md"
+  },
+  "fea2a33788dc": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-2-the-grey-wolf",
+   "book": "soul-land-2-the-grey-wolf",
+   "file": "Chapter_07_The_Third_Village.md",
+   "detail": "2 identical 19-word sentence(s) across 2 place(s): soul-land-2-the-grey-wolf/Chapter_07_The_Third_Village.md; soul-land-2-the-grey-wolf/Chapter_08_Road_To_Shrek.md"
+  },
+  "cf6ee0810f63": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-2-the-grey-wolf",
+   "book": "soul-land-2-the-grey-wolf",
+   "file": "Chapter_08_Road_To_Shrek.md",
+   "detail": "2 identical 16-word sentence(s) across 2 place(s): soul-land-2-the-grey-wolf/Chapter_08_Road_To_Shrek.md; soul-land-2-the-grey-wolf/Chapter_10_The_Combat_Exam.md"
+  },
+  "00f97835b8a5": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-2-the-grey-wolf",
+   "book": "soul-land-2-the-grey-wolf",
+   "file": "Chapter_07_The_Third_Village.md",
+   "detail": "2 identical 13-word sentence(s) across 2 place(s): soul-land-2-the-grey-wolf/Chapter_07_The_Third_Village.md; soul-land-2-the-grey-wolf/Chapter_09_Shrek_City.md"
+  },
+  "6972d750b465": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-2-the-grey-wolf",
+   "book": "soul-land-2-the-grey-wolf",
+   "file": "Chapter_08_Road_To_Shrek.md",
+   "detail": "2 identical 25-word sentence(s) across 2 place(s): soul-land-2-the-grey-wolf/Chapter_08_Road_To_Shrek.md; soul-land-2-the-grey-wolf/Chapter_10_The_Combat_Exam.md"
+  },
+  "8f79bd64ed92": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-2-the-grey-wolf",
+   "book": "soul-land-2-the-grey-wolf",
+   "file": "Chapter_08_Road_To_Shrek.md",
+   "detail": "2 identical 24-word sentence(s) across 2 place(s): soul-land-2-the-grey-wolf/Chapter_08_Road_To_Shrek.md; soul-land-2-the-grey-wolf/Chapter_10_The_Combat_Exam.md"
+  },
+  "ab05eb67e88f": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-2-the-grey-wolf",
+   "book": "soul-land-2-the-grey-wolf",
+   "file": "Chapter_06_The_Hem_Road.md",
+   "detail": "2 identical 18-word sentence(s) across 2 place(s): soul-land-2-the-grey-wolf/Chapter_06_The_Hem_Road.md; soul-land-2-the-grey-wolf/Chapter_08_Road_To_Shrek.md"
+  },
+  "0a7220db2029": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-2-the-grey-wolf",
+   "book": "soul-land-2-the-grey-wolf",
+   "file": "Chapter_09_Shrek_City.md",
+   "detail": "2 identical 23-word sentence(s) across 2 place(s): soul-land-2-the-grey-wolf/Chapter_09_Shrek_City.md; soul-land-2-the-grey-wolf/Chapter_10_The_Combat_Exam.md"
+  },
+  "dbf81a0cc05d": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-2-the-grey-wolf",
+   "book": "soul-land-2-the-grey-wolf",
+   "file": "Chapter_07_The_Third_Village.md",
+   "detail": "2 identical 19-word sentence(s) across 2 place(s): soul-land-2-the-grey-wolf/Chapter_07_The_Third_Village.md; soul-land-2-the-grey-wolf/Chapter_08_Road_To_Shrek.md"
+  },
+  "c7bc3ee98c40": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-2-the-grey-wolf",
+   "book": "soul-land-2-the-grey-wolf",
+   "file": "Chapter_06_The_Hem_Road.md",
+   "detail": "2 identical 23-word sentence(s) across 2 place(s): soul-land-2-the-grey-wolf/Chapter_06_The_Hem_Road.md; soul-land-2-the-grey-wolf/Chapter_09_Shrek_City.md"
+  },
+  "0a5e457cd876": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-2-the-grey-wolf",
+   "book": "soul-land-2-the-grey-wolf",
+   "file": "Chapter_09_Shrek_City.md",
+   "detail": "2 identical 47-word sentence(s) across 2 place(s): soul-land-2-the-grey-wolf/Chapter_09_Shrek_City.md; soul-land-2-the-grey-wolf/Chapter_10_The_Combat_Exam.md"
+  },
+  "6577c32dd4f9": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-2-the-grey-wolf",
+   "book": "soul-land-2-the-grey-wolf",
+   "file": "Chapter_06_The_Hem_Road.md",
+   "detail": "2 identical 12-word sentence(s) across 2 place(s): soul-land-2-the-grey-wolf/Chapter_06_The_Hem_Road.md; soul-land-2-the-grey-wolf/Chapter_07_The_Third_Village.md"
+  },
+  "1798b2a7d239": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-2-the-grey-wolf",
+   "book": "soul-land-2-the-grey-wolf",
+   "file": "Chapter_07_The_Third_Village.md",
+   "detail": "2 identical 12-word sentence(s) across 2 place(s): soul-land-2-the-grey-wolf/Chapter_07_The_Third_Village.md; soul-land-2-the-grey-wolf/Chapter_09_Shrek_City.md"
+  },
+  "7c7191789036": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-2-the-grey-wolf",
+   "book": "soul-land-2-the-grey-wolf",
+   "file": "Chapter_06_The_Hem_Road.md",
+   "detail": "2 identical 27-word sentence(s) across 2 place(s): soul-land-2-the-grey-wolf/Chapter_06_The_Hem_Road.md; soul-land-2-the-grey-wolf/Chapter_07_The_Third_Village.md"
+  },
+  "b2db62333669": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-2-the-grey-wolf",
+   "book": "soul-land-2-the-grey-wolf",
+   "file": "Chapter_07_The_Third_Village.md",
+   "detail": "2 identical 19-word sentence(s) across 2 place(s): soul-land-2-the-grey-wolf/Chapter_07_The_Third_Village.md; soul-land-2-the-grey-wolf/Chapter_08_Road_To_Shrek.md"
+  },
+  "44ea6c45eed2": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-2-the-grey-wolf",
+   "book": "soul-land-2-the-grey-wolf",
+   "file": "Chapter_07_The_Third_Village.md",
+   "detail": "2 identical 16-word sentence(s) across 2 place(s): soul-land-2-the-grey-wolf/Chapter_07_The_Third_Village.md; soul-land-2-the-grey-wolf/Chapter_10_The_Combat_Exam.md"
+  },
+  "546e9d5f04e8": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-2-the-grey-wolf",
+   "book": "soul-land-2-the-grey-wolf",
+   "file": "Chapter_07_The_Third_Village.md",
+   "detail": "2 identical 18-word sentence(s) across 2 place(s): soul-land-2-the-grey-wolf/Chapter_07_The_Third_Village.md; soul-land-2-the-grey-wolf/Chapter_08_Road_To_Shrek.md"
+  },
+  "b553ee65ec85": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-2-the-grey-wolf",
+   "book": "soul-land-2-the-grey-wolf",
+   "file": "Chapter_05_The_Road_Begins.md",
+   "detail": "2 identical 43-word sentence(s) across 2 place(s): soul-land-2-the-grey-wolf/Chapter_05_The_Road_Begins.md; soul-land-2-the-grey-wolf/Chapter_08_Road_To_Shrek.md"
+  },
+  "9f317dabc3fb": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-2-the-grey-wolf",
+   "book": "soul-land-2-the-grey-wolf",
+   "file": "Chapter_06_The_Hem_Road.md",
+   "detail": "2 identical 20-word sentence(s) across 2 place(s): soul-land-2-the-grey-wolf/Chapter_06_The_Hem_Road.md; soul-land-2-the-grey-wolf/Chapter_08_Road_To_Shrek.md"
+  },
+  "b1ed49d82e2f": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-2-the-grey-wolf",
+   "book": "soul-land-2-the-grey-wolf",
+   "file": "Chapter_07_The_Third_Village.md",
+   "detail": "2 identical 13-word sentence(s) across 2 place(s): soul-land-2-the-grey-wolf/Chapter_07_The_Third_Village.md; soul-land-2-the-grey-wolf/Chapter_10_The_Combat_Exam.md"
+  },
+  "3c133c50fc94": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-2-the-grey-wolf",
+   "book": "soul-land-2-the-grey-wolf",
+   "file": "Chapter_07_The_Third_Village.md",
+   "detail": "2 identical 21-word sentence(s) across 2 place(s): soul-land-2-the-grey-wolf/Chapter_07_The_Third_Village.md; soul-land-2-the-grey-wolf/Chapter_08_Road_To_Shrek.md"
+  },
+  "ab13a892fb4c": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-2-the-grey-wolf",
+   "book": "soul-land-2-the-grey-wolf",
+   "file": "Chapter_07_The_Third_Village.md",
+   "detail": "2 identical 20-word sentence(s) across 2 place(s): soul-land-2-the-grey-wolf/Chapter_07_The_Third_Village.md; soul-land-2-the-grey-wolf/Chapter_08_Road_To_Shrek.md"
+  },
+  "ccfe40aa0beb": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-2-the-grey-wolf",
+   "book": "soul-land-2-the-grey-wolf",
+   "file": "Chapter_07_The_Third_Village.md",
+   "detail": "2 identical 13-word sentence(s) across 2 place(s): soul-land-2-the-grey-wolf/Chapter_07_The_Third_Village.md; soul-land-2-the-grey-wolf/Chapter_09_Shrek_City.md"
+  },
+  "b0622000219d": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-2-the-grey-wolf",
+   "book": "soul-land-2-the-grey-wolf",
+   "file": "Chapter_08_Road_To_Shrek.md",
+   "detail": "2 identical 13-word sentence(s) across 2 place(s): soul-land-2-the-grey-wolf/Chapter_08_Road_To_Shrek.md; soul-land-2-the-grey-wolf/Chapter_10_The_Combat_Exam.md"
+  },
+  "ae900c4b489f": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-2-the-grey-wolf",
+   "book": "soul-land-2-the-grey-wolf",
+   "file": "Chapter_07_The_Third_Village.md",
+   "detail": "2 identical 19-word sentence(s) across 2 place(s): soul-land-2-the-grey-wolf/Chapter_07_The_Third_Village.md; soul-land-2-the-grey-wolf/Chapter_09_Shrek_City.md"
+  },
+  "900c325827cf": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_01.md",
+   "detail": "3 identical 16-word sentence(s) across 3 place(s): soul-land-projects/SOUL_LAND_NEW/chapter_01.md; soul-land-projects/SOUL_LAND_NEW/chapter_04.md; soul-land-projects/SOUL_LAND_NEW/chapter_06.md"
+  },
+  "9d917314b625": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_03.md",
+   "detail": "2 identical 13-word sentence(s) across 2 place(s): soul-land-projects/SOUL_LAND_NEW/chapter_03.md; soul-land-projects/SOUL_LAND_NEW/chapter_04.md"
+  },
+  "3da1f42a44db": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-projects",
+   "book": "SOUL_LAND_NEW",
+   "file": "chapter_01.md",
+   "detail": "2 identical 16-word sentence(s) across 2 place(s): soul-land-projects/SOUL_LAND_NEW/chapter_01.md; soul-land-projects/SOUL_LAND_NEW/chapter_02.md"
+  },
+  "a3b482869361": {
+   "kind": "two-homes",
+   "severity": "advisory",
+   "repo": "soul-land-projects",
+   "book": "soul_land_starter",
+   "file": "-",
+   "detail": "identical text in 2 books: soul-land-projects/soul_land_starter; soul-land-universal-kit/soul_land_new"
+  },
+  "bd6329b9d205": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-universal-kit",
+   "book": "Miraculous_Project",
+   "file": "chapter_01.md",
+   "detail": "2 identical 25-word sentence(s) across 2 place(s): soul-land-universal-kit/Miraculous_Project/chapter_01.md; soul-land-universal-kit/Miraculous_Project/chapter_03.md"
+  },
+  "5a18bd34b725": {
+   "kind": "receipt-drift",
+   "severity": "advisory",
+   "repo": "soul-land-universal-kit",
+   "book": "Soul_Land_2_Project",
+   "file": "README.md:3",
+   "detail": "README.md says 21, the book has 23 (as its last chapter)"
+  },
+  "d845320d0679": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-universal-kit",
+   "book": "Soul_Land_2_Project",
+   "file": "chapter_02.md",
+   "detail": "3 identical 14-word sentence(s) across 3 place(s): soul-land-universal-kit/Soul_Land_2_Project/chapter_02.md; soul-land-universal-kit/Soul_Land_2_Project/chapter_03.md; soul-land-universal-kit/Soul_Land_2_Project/chapter_04.md"
+  },
+  "83abb5e5df69": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-universal-kit",
+   "book": "Soul_Land_2_Project",
+   "file": "chapter_02.md",
+   "detail": "2 identical 38-word sentence(s) across 2 place(s): soul-land-universal-kit/Soul_Land_2_Project/chapter_02.md; soul-land-universal-kit/Soul_Land_2_Project/chapter_04.md"
+  },
+  "481753c32612": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-universal-kit",
+   "book": "Soul_Land_2_Project",
+   "file": "chapter_21.md",
+   "detail": "2 identical 12-word sentence(s) across 2 place(s): soul-land-universal-kit/Soul_Land_2_Project/chapter_21.md; soul-land-universal-kit/Soul_Land_2_Project/chapter_23.md"
+  },
+  "3a31e9bae565": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-universal-kit",
+   "book": "Soul_Land_2_Project",
+   "file": "chapter_22.md",
+   "detail": "2 identical 20-word sentence(s) across 2 place(s): soul-land-universal-kit/Soul_Land_2_Project/chapter_22.md; soul-land-universal-kit/Soul_Land_2_Project/chapter_23.md"
+  },
+  "0b33939389a2": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-universal-kit",
+   "book": "Soul_Land_2_Project",
+   "file": "chapter_02.md",
+   "detail": "2 identical 24-word sentence(s) across 2 place(s): soul-land-universal-kit/Soul_Land_2_Project/chapter_02.md; soul-land-universal-kit/Soul_Land_2_Project/chapter_04.md"
+  },
+  "f105a0514513": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-universal-kit",
+   "book": "Soul_Land_2_Project",
+   "file": "chapter_02.md",
+   "detail": "2 identical 15-word sentence(s) across 2 place(s): soul-land-universal-kit/Soul_Land_2_Project/chapter_02.md; soul-land-universal-kit/Soul_Land_2_Project/chapter_04.md"
+  },
+  "f149997dc1e3": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-universal-kit",
+   "book": "Soul_Land_2_Project",
+   "file": "chapter_02.md",
+   "detail": "2 identical 24-word sentence(s) across 2 place(s): soul-land-universal-kit/Soul_Land_2_Project/chapter_02.md; soul-land-universal-kit/Soul_Land_2_Project/chapter_04.md"
+  },
+  "d329243801dd": {
+   "kind": "dialogue-exempt",
+   "severity": "advisory",
+   "repo": "soul-land-universal-kit",
+   "book": "soul_land_devouring_dragon",
+   "file": "-",
+   "detail": "floor exempt: law, not defect: RAILS s45 (chapters with no panel carry no voices) + CANON VOICE LAW s53 (foundation/RAILS.md, foundati"
+  },
+  "f915e2493119": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-universal-kit",
+   "book": "soul_land_devouring_dragon",
+   "file": "Chapter_14_The_Wrong_Face.md",
+   "detail": "2 identical 21-word sentence(s) across 2 place(s): soul-land-universal-kit/soul_land_devouring_dragon/Chapter_14_The_Wrong_Face.md; soul-land-universal-kit/soul_land_devouring_dragon/Chapter_15_The_Hounds_Third_Time.md"
+  },
+  "2195538a0de0": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul-land-universal-kit",
+   "book": "soul_land_devouring_dragon",
+   "file": "Chapter_13_The_Keepers_Line.md",
+   "detail": "2 identical 15-word sentence(s) across 2 place(s): soul-land-universal-kit/soul_land_devouring_dragon/Chapter_13_The_Keepers_Line.md; soul-land-universal-kit/soul_land_devouring_dragon/Chapter_14_The_Wrong_Face.md"
+  },
+  "04cd0c8a14a2": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "soul_land_4_fire_phoenix",
+   "book": "soul_land_4_fire_phoenix",
+   "file": "Chapter_13.md",
+   "detail": "2 identical 16-word sentence(s) across 2 place(s): soul_land_4_fire_phoenix/Chapter_13.md; soul_land_4_fire_phoenix/Chapter_14.md"
+  },
+  "16d018785ad6": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_09_Red_Faced_and_Named.md",
+   "detail": "3 identical 16-word sentence(s) across 3 place(s): supergirl-adrian-vale/Chapter_09_Red_Faced_and_Named.md; supergirl-adrian-vale/Chapter_10_Red_Faced_Consequence.md; supergirl-adrian-vale/Chapter_13_Human_for_a_Day.md"
+  },
+  "f46edd9127f2": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_09_Red_Faced_and_Named.md",
+   "detail": "2 identical 12-word sentence(s) across 2 place(s): supergirl-adrian-vale/Chapter_09_Red_Faced_and_Named.md; supergirl-adrian-vale/Chapter_10_Red_Faced_Consequence.md"
+  },
+  "fed6b4a0a282": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "2 identical 13-word sentence(s) across 2 place(s): supergirl-adrian-vale/Chapter_12_The_Kiss.md; supergirl-adrian-vale/Chapter_13_Human_for_a_Day.md"
+  },
+  "8ef166e28ec5": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_13_Human_for_a_Day.md",
+   "detail": "2 identical 17-word sentence(s) across 2 place(s): supergirl-adrian-vale/Chapter_13_Human_for_a_Day.md; supergirl-adrian-vale/Chapter_14_Hostile_Takeover.md"
+  },
+  "5dd5535e3dbc": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_06_Under_the_Headline.md",
+   "detail": "2 identical 22-word sentence(s) across 2 place(s): supergirl-adrian-vale/Chapter_06_Under_the_Headline.md; supergirl-adrian-vale/Chapter_07_How_Does_She_Do_It.md"
+  },
+  "b43c44e4f8da": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "2 identical 35-word sentence(s) across 2 place(s): supergirl-adrian-vale/Chapter_12_The_Kiss.md; supergirl-adrian-vale/Chapter_13_Human_for_a_Day.md"
+  },
+  "78067a33f26c": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "2 identical 37-word sentence(s) across 2 place(s): supergirl-adrian-vale/Chapter_12_The_Kiss.md; supergirl-adrian-vale/Chapter_13_Human_for_a_Day.md"
+  },
+  "2807827b16bc": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_13_Human_for_a_Day.md",
+   "detail": "2 identical 26-word sentence(s) across 2 place(s): supergirl-adrian-vale/Chapter_13_Human_for_a_Day.md; supergirl-adrian-vale/Chapter_14_Hostile_Takeover.md"
+  },
+  "a1e5b16ce557": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_11_The_Sun.md",
+   "detail": "2 identical 17-word sentence(s) across 2 place(s): supergirl-adrian-vale/Chapter_11_The_Sun.md; supergirl-adrian-vale/Chapter_13_Human_for_a_Day.md"
+  },
+  "8c6b74091d8e": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_09_Red_Faced_and_Named.md",
+   "detail": "2 identical 20-word sentence(s) across 2 place(s): supergirl-adrian-vale/Chapter_09_Red_Faced_and_Named.md; supergirl-adrian-vale/Chapter_13_Human_for_a_Day.md"
+  },
+  "2df43195b51d": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_10_Red_Faced_Consequence.md",
+   "detail": "2 identical 54-word sentence(s) across 2 place(s): supergirl-adrian-vale/Chapter_10_Red_Faced_Consequence.md; supergirl-adrian-vale/Chapter_13_Human_for_a_Day.md"
+  },
+  "0095cd6a4472": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_13_Human_for_a_Day.md",
+   "detail": "2 identical 73-word sentence(s) across 2 place(s): supergirl-adrian-vale/Chapter_13_Human_for_a_Day.md; supergirl-adrian-vale/Chapter_14_Hostile_Takeover.md"
+  },
+  "7109661d5ab8": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_09_Red_Faced_and_Named.md",
+   "detail": "2 identical 32-word sentence(s) across 2 place(s): supergirl-adrian-vale/Chapter_09_Red_Faced_and_Named.md; supergirl-adrian-vale/Chapter_10_Red_Faced_Consequence.md"
+  },
+  "7f61e7582ad3": {
+   "kind": "repeat-across",
+   "severity": "advisory",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_13_Human_for_a_Day.md",
+   "detail": "2 identical 47-word sentence(s) across 2 place(s): supergirl-adrian-vale/Chapter_13_Human_for_a_Day.md; supergirl-adrian-vale/Chapter_14_Hostile_Takeover.md"
+  }
+ }
+}
