@@ -1,0 +1,142 @@
+CANON EXTRACT 026 — "Five Hundred Kilograms of Strength"
+Source: https://readnovelfull.com/the-legend-of-the-dragon-king/chapter-26-five-hundred-kilograms-of-strength.html
+Fetched: 2026-10-11 · Confidence: HIGH · COMPLETE (2 chunks, full text held)
+Title verified against CANON_INDEX_23_600.txt line 26; closes canon 025's cut scene.
+Status: 🔴🔴 THE NUMBERS ARE IN. INNATE DIVINE STRENGTH, NAMED. THOUGHT FORGING. HEAVY SILVER.
+RULE: this receipt quotes CANON. It must never quote the serial.
+
+=====================================================================
+1. THE MERCURY READING — CANON 025'S CUT SCENE, CLOSED
+=====================================================================
+
+Test protocol: left and right arms measured separately. Wulin's arms are "exceedingly
+balanced… his right arm had only been a bit stronger than his left." Spiral-patterned
+hammer handle; calluses on a tender hand.
+
+LEFT ARM — full-body swing; 🔴 "he felt a surge of warmth flowing from his tailbone. In a
+flash, this warmth spread up throughout his vertebrae." Bang. The mercury shoots up.
+A clear sound, brief tinnitus for both.
+🔴🔴 "The screen revealed a number. An electronic voice coldly stated, 'Striking power,
+483 kilograms.'" Both stand foolishly in shock.
+
+RIGHT ARM — deep breath; 🔴 "A flash of golden light appeared within the deepest depths
+of his eyes" (narration only; no in-world witness). Warmth again from the vertebrae up.
+The hammer "howled"; explosions in the air; the whole room trembles; Mang Tian covers his
+ears.
+🔴🔴 "Striking power, 543 kilograms."
+
+THE CALIBRATION, CANON'S OWN:
+- "When he took the test the year before, Tang Wulin was already able to shock Mang Tian
+  when his right arm exerted 200 kilograms of force."
+- The left-arm number "already exceeded the fully grown Brother Long's!"
+- "His two arms had a combined strength of over a thousand kilograms… that of a little
+  monster's. Although this was merely explosive power… Even power system Soul Grandmasters
+  wouldn't necessarily possess such strength! It wasn't until the Soul Elder ranks that
+  this type of strength could be seen."
+- 🔴🔴 "This truly had to be innate divine strength!"
+- Machine's automatic deduction of hammer weight acknowledged again (tare, from 025).
+
+⚠️ CANON-INTERNAL VARIANCE (log, don't reconcile): canon 025 said his age-8 test = 100 kg;
+canon 026 retrospectively says the year-before right arm = 200 kg. The numbers disagree.
+HOLD: age-8 reading is unreliable in canon (100 vs 200); FIRM points: age 7 = 70 kg;
+age 9 = LEFT 483 / RIGHT 543. Logged as CANON_MASTER variance #13.
+
+🔴🔴 MANG TIAN'S REGRET, VERBATIM: "He had this kind of innate divine strength, but why
+was his martial soul Bluesilver Grass!? It should have been a power type martial soul.
+If his martial soul had been a hammer, then he truly would have been a genius."
+→ The mismatch is seen, named, and mourned by the master himself. The serial must never
+  let him act on it differently than canon does — he invests anyway.
+
+Even Wulin is shocked; with one soul ring, "Few could compare with his strength even if
+they used a soul skill."
+
+=====================================================================
+2. THE GAUGE, COMPLETED — the instrument is a HYBRID
+=====================================================================
+
+canon 025 specified: square base + strike pillar + 2 m pillar with mercury tube + 50 kg
+reference hammer + automatic tare. canon 026 ADDS:
+🔴🔴 a SCREEN and an ELECTRONIC VOICE that reads the result aloud — "Striking power, 483
+kilograms." The gauge is a soul-machine/analog hybrid: mercury rise + digital display +
+synthetic speech. The workshop owns one; readings are spoken events with witnesses.
+
+=====================================================================
+3. HEAVY SILVER — FULL PROFILE (NEW MATERIAL, TRACK 7-LOADED)
+=====================================================================
+
+- Appearance: silver-white; this piece ~30 centimetres squared, soft silver light,
+  pre-purified (even color), heavier than usual.
+- 🔴 Origin: "could only be found on the seafloor at depths surpassing one kilometer."
+- Properties: extraordinarily hard; amazing ductility at high temperature; 🔴 excellent
+  soul-power conductor — "it could amplify soul power and give it a five to ten percent
+  boost." Industrial + mecha-manufacturing metal, "hard to come by."
+- Flaw: extreme density — this barely third-of-a-meter piece weighs "over 200 kilograms…
+  likely neared 300 kilograms!" — barring it from large-scale mecha manufacturing; more
+  prevalent in "large, solid state soul devices."
+- 🔴🔴 GEOECONOMY: "Heavy Silver was rarely found in cities that were located further
+  inland. It was instead much more common in seaside towns and acted as an important
+  source of income for these seaside towns." — GLORYBOUND IS A SEASIDE TOWN. A deep-sea
+  metal is part of the local economy. (canon 032's title: "Heavy Silver Storage Rings".)
+- Only the Thousand Refinements "can bring out the full potential of this grade of metal."
+
+=====================================================================
+4. 🔴🔴 THE THOUSAND REFINEMENTS DOCTRINE — VERBATIM, COMPLETE
+=====================================================================
+
+"The so-called Thousand Refinements isn't as simple as just pounding the metal a thousand
+times. Rather, the metal's impurities must be dispelled under continuous forgings, thus
+increasing its density. Also, the most important effect of the Thousand Refinements is
+refining. It can only be called Thousand Refinements if the metal is refined and improved."
+
+The tungsten example: the Thousand Refined Tungsten Hammer's material was already strong;
+"after undergoing Thousand Refinements, its size has been reduced by a third while its
+strength has doubled! Another effect is that its weight has increased by thirty percent."
+→ QUALITATIVE change: smaller + stronger + heavier.
+
+"Exceptionally good Thousand Refinements can give rise to even more unusual effects. The
+better the effect of its refinement, the higher the value of the Thousand Refined metal.
+After reaching the level of the Thousand Refinements, you must first have the metal
+undergo the Thousand Refinements before you use other techniques to shape it. As a
+result, 🔴 the value of anything made with Thousand Refined metal is a hundred times
+higher than those made of Hundred Forged metal. Only after you've attained the skill of
+utilizing the Thousand Refinements can you then be considered a true blacksmith."
+
+🔴 THE BASE RATE: "Tang Wulin didn't know that for ninety percent of blacksmiths, the
+level Mang Tian spoke of was an unattainable dream."
+
+Strength is not the gate — "what truly mattered was comprehension. Especially in regards
+to the feelings of the metal."
+
+🔴🔴 THOUGHT FORGING: "There aren't any techniques that I can teach you. The only thing I
+can tell you is that when you are forging, you must treat the metal as if it were a
+living organism. You must think of a way to communicate with the metal while you are
+forging it. Only with perfect communication will you be able to attain its approval. Find
+its secrets, its veins. 🔴 Thousand Refinements is also called Thought Forging. Every
+single blacksmith's style of doing the Thousand Refinements is different. They all have
+their own distinct characteristics. Use your heart to forge."
+
+🔴 PEDAGOGY: no demonstration. "Rather, he left Tang Wulin to learn it on his own."
+
+=====================================================================
+SETTLEMENTS THE SERIAL MUST EAT
+=====================================================================
+1. 🔴 THE BODY TABLE IS NOW SETTLED: age 9, left 483 / right 543, combined >1,000 kg,
+   Soul Elder-calibre explosive power, 70 kg at seven (age-8 reading internally wobbly).
+   🔴 Any AU six-to-nine-year-old in this serial measures AGAINST this table. Lan Shen's
+   four years of training must remain NOTHING on it — his axis is elsewhere, and this
+   table exists precisely to say so.
+2. The gauge is a hybrid soul-machine with a voice — readings are public, spoken events.
+   Track 7 note: the world digitizes measurement at craft level without standardizing it.
+3. 🔴 GOLD LEDGER ADDS APPEARANCE #10 (026): tailbone-to-vertebrae warmth at max exertion;
+   eye-depths golden flash on the right-arm swing. No in-world witness reacts. Firewall
+   intact; add to CANON_MASTER §4.11.
+4. HEAVY SILVER: seaside-town income metal from >1 km depth, soul-conductive (+5–10%),
+   density-flawed. Glorybound's coast is an asset, not scenery. Supply question canon
+   leaves open: WHO dives a kilometre for it? (Bank — Track 7 grist.)
+5. THOUSAND REFINEMENTS = THOUGHT FORGING: refining not repetition; qualitative effects;
+   100× value multiplier; 90% never attain; individual style inevitable; taught by
+   refusal to teach. The craft ceiling of Book One, fully priced.
+6. Mang Tian's regret ("should have been a hammer soul") is canon sentiment — a master
+   who sees the mismatch and invests anyway. Keep him exactly this.
+7. ⚠️ Variance #13 logged: age-8 = 100 kg (025) vs 200 kg right arm (026). Hold; never
+   quote age-8 as a single clean number.

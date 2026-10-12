@@ -1,0 +1,251 @@
+{
+ "note": "Regression tokens. A hit is a drift bug, not a style opinion. Format imported from storyos-site/framework/foundation/BANNED_TOKENS.json (github:gm5206663-bit/storyos-site) and extended with three categories that project did not need and this one does: fourth_wall, removed_hard_ceiling, marker_emoji.",
+ "generated": "2026-09-20",
+ "generated_by": "Sara, partner agent, after reading the storyos-site framework",
+ "checked_by": "tools/banned_token_check.py (layer 9 of checks/run_all.sh)",
+ "why_this_file_exists": "This serial's most reliable defect class is the stale number: a year count, a duration or a total that was true at chapter five and is quietly wrong by chapter thirteen. Four instances were found in chapter thirteen alone, and only a targeted grep for the arithmetic found them. A superseded figure is the one defect that cannot be repaired by writing better, because the writer believes the old figure is still current. Listing the dead values makes them greppable.",
+ "scope_model": {
+  "chapters": [
+   "chapters/"
+  ],
+  "docs": [
+   "foundation/",
+   "codex/",
+   "README.md",
+   "PROJECT_README.md",
+   "HANDOFF.md",
+   "SARA.md"
+  ],
+  "never_scanned": [
+   "canon_extract/",
+   "_kit_reference/",
+   "tools/",
+   "checks/",
+   "foundation/BANNED_TOKENS.json"
+  ],
+  "fenced_blocks_exempt": true,
+  "fenced_rationale": "A fenced block is apparatus, not prose -- the same boundary verify.py gate 3 uses to permit digits in panels. The fourth-wall rule governs narration and interiority; a STATUS panel naming the divergence is doing the job the Panel Doctrine gives it. Every literal scan in chapters/ therefore runs on prose with fenced blocks stripped.",
+  "never_scanned_rationale": "canon_extract/ holds quoted canon and may legitimately contain any word here. _kit_reference/ is vendored from another project. This file lists the tokens and so cannot be scanned for them.",
+  "per_category": "Each category declares its own scope, because the defect classes live in different parts of the tree. verify.py gate 3 already forbids all digits in prose, so a stale figure can never appear in a chapter -- stale_stat_drift is a docs-only category and scanning chapters for it would be theatre. fourth_wall is the reverse: prose-only, because foundation/ uses 'canon' as a technical term several hundred times and flagging it would drown the real findings."
+ },
+ "banned_tokens": {
+  "fourth_wall": {
+   "why": "Lock 7.6 and the Firewall 0 narration rule. He experiences the past life as MEMORY, never as fiction. He may not think in terms of canon, the novel, the plot or the author. No fourth wall, ever. 'Canon' is the vocabulary of someone discussing a story from outside it; a boy inside the story has no such word. Memory framing -- 'I read it in the other life', 'there was a chapter about it' -- is permitted and is not a fourth wall, because the author ruling of 2026-09-20 makes his previous life a professional writer's. The banned item is the meta-term, not the act of remembering a book.",
+   "scope": "chapters",
+   "severity": "fail",
+   "exempt_with_historical_marker": false,
+   "enforce": [
+    "in canon",
+    "the canon",
+    "canon says",
+    "canon had",
+    "canon has",
+    "canon said",
+    "canonically",
+    "canon",
+    "the novel",
+    "the plot",
+    "the author",
+    "I read this",
+    "original timeline",
+    "the franchise",
+    "fourth wall"
+   ],
+   "not_banned_deliberately": {
+    "on the page": "Ambiguous and cannot be machine-judged. It has a meta sense ('on the page it was shorter than this', comparing the remembered book to the event) and a literal sense that this serial uses constantly: Lan Shen's own notebook, Yan Song's register, the herb-shop slips, his manuscript. Banning it produced two false positives in chapters 8 and 10 for one true hit in chapter 3. The true hit was repaired by hand. A rule an instrument cannot apply honestly is worse than no rule.",
+    "I read it / in the other life / there was a chapter about it": "Permitted by the author ruling of 2026-09-20: his previous life was a professional author. Remembering a book he read is memory, not a fourth wall. The banned item is the meta-term 'canon', which is the vocabulary of someone outside a story."
+   }
+  },
+  "deleted_mistake_route": {
+   "why": "Rejected branches and forbidden continuations. These routes were explored and closed; authority none, historical evidence only. A hit in prose means a dead branch was resurrected. Docs are exempt when the sentence carries a historical marker, because quarantine notes are supposed to name what was quarantined. SCOPE IS CHAPTERS ONLY, deliberately: foundation/ must name these routes in order to warn against them. STYLE_LAW.md cites sl3_lin_hao as the corpus it measured style DNA from, and HANDOFF lists the forbidden paths. A doc that names a dead branch to forbid it is doing its job, and flagging it would punish the warning for being a warning.",
+   "scope": "chapters",
+   "severity": "fail",
+   "exempt_with_historical_marker": true,
+   "enforce": [
+    "Lin Hao",
+    "sl3_lin_hao",
+    "Marvel",
+    "One Piece",
+    "Yan Shuo",
+    "Fire Phoenix OC",
+    "handoff_package"
+   ]
+  },
+  "forbidden_currentization": {
+   "why": "Reserved for later and not yet earned on the page. Lock 5 sets no ceiling on where Lan Shen ends, so this category is about TIMING, not capability: nothing here is forbidden forever, all of it is forbidden NOW. Promoting any of these requires a logged butterfly cause and cost in foundation/CANON_LEDGER.md first. Docs are out of scope entirely -- planning documents exist to discuss future power, and flagging them would punish the plan for being a plan.",
+   "scope": "chapters",
+   "severity": "fail",
+   "exempt_with_historical_marker": false,
+   "enforce": [
+    "his adaptation talent",
+    "Lan Shen's adaptation talent",
+    "his second martial soul",
+    "his soul bone",
+    "his battle armor",
+    "his soul spirit",
+    "Lan Shen's soul spirit",
+    "Titled Douluo Lan",
+    "the royal bloodline grass",
+    "his mutated grass",
+    "his Spirit Pagoda registration"
+   ]
+  },
+  "stale_stat_drift": {
+   "why": "Superseded measurements. Each was true at some point and is now wrong. verify.py gate 3 already forbids every digit in prose, so none of these can appear in a chapter -- this is a docs-only category, and it is the one that matters most, because STATUS_PANEL, README and HANDOFF are what a fresh agent reads first. A hit with no historical marker in its sentence means a current-state document is asserting a dead value as true NOW.",
+   "scope": "docs",
+   "severity": "fail",
+   "exempt_with_historical_marker": true,
+   "enforce": [
+    "62,828",
+    "62828",
+    "FIFTEEN LOCKS",
+    "fifteen locks",
+    "thirteen locks",
+    "43 rows",
+    "43 receipts",
+    "15-word run",
+    "fifteen-word run",
+    "15-word match",
+    "2,200-3,500",
+    "2,200–3,500",
+    "30% decay",
+    "30 percent decay",
+    "twelve chapters shipped",
+    "nine chapters shipped",
+    "62,994",
+    "62,863",
+    "62,997",
+    "62,988",
+    "62988",
+    "62,866",
+    "62866"
+   ],
+   "not_banned_deliberately": {
+    "receipt counts, word totals, chapter counts": "A live value, not a dead one. 'Eighteen receipts' was listed here and the instrument immediately proved the list wrong: the count on disk was nineteen, so the sentence was stale for a different reason than the ban assumed. Banning a number that is sometimes correct produces a finding that cannot be acted on. Only figures that are permanently dead belong in enforce."
+   },
+   "current_values": "verify 23,531 / style_gate 23,513 (V2 EPOCH, 5 chapters: ch1 4,075 + ch2 5,000 + ch3 4,992 + ch4 4,450 + ch5 4,996; 2026-10-10 full audit). CANON receipts 001-020 on disk. Butterfly: 7 contact dust, 3 class-M, streak 0. Ch2 dlg warn MTP-1 open."
+  },
+  "removed_hard_ceiling": {
+   "why": "On 2026-09-19 the author ruled that all hard power ceilings were agent inventions and removed them: 'I never said or select, I said everything go naturally.' The first draft of Lock 5 capped him at rank 91-95, barred godhood, forbade upgrades before Book Four and declared the grass permanently ordinary. Those caps must never return, in a document or in prose. Docs are in scope because that is where a ceiling would be re-imposed; the historical-marker exemption keeps the correction receipt itself legal.",
+   "scope": "both",
+   "severity": "fail",
+   "exempt_with_historical_marker": true,
+   "enforce": [
+    "rank 91-95",
+    "rank 91–95",
+    "ceiling of rank",
+    "never exceeds rank",
+    "barred from godhood",
+    "permanently ordinary"
+   ]
+  },
+  "sl3_structure_leak": {
+   "why": "Author ruling 2026-10-11 ('this is not soul land 1 or 2, there is federation coins'). SL1/SL2-era economy and polity vocabulary must not surface in SL3's Sun-Moon Federation. Canon basis held in receipts: canon 014 names the currency ('Thirty thousand FEDERATION COINS'; 'the large pile of Federation Coins'); canon 016's price table runs on it ('SEVENTY THOUSAND COINS' white, 'ONE MILLION COINS' yellow) and its history section names the federations. Found live in shipped V2 prose: 'two coppers', 'two copper tonight, short, noted', 'the copper basket', 'Copper in, door moves', 'pennies and dreams', and 'the kingdom' as the paying state, four 'copper smile' coin-flavored metaphors — all re-voiced word-neutral (coins / small coin / the federation / lazy grin / realm). This SUPERSEDES the retired V1 workshop rate '1 Federation Coin = 1 copper, keep both' (V1 PREWRITE_ch14; the V1 rows that record it are quarantined history, doc-scope, untouched).",
+   "scope": "chapters",
+   "severity": "fail",
+   "exempt_with_historical_marker": false,
+   "enforce": [
+    "copper",
+    "kingdom",
+    "empire",
+    "imperial",
+    "penny",
+    "pennies",
+    "soul coin",
+    "spirit coin",
+    "tael"
+   ],
+   "not_banned_deliberately": [
+    "federation coin(s) — the canon unit (014/016)",
+    "coin(s), unmodified — the canonical short form (016: 'SEVENTY THOUSAND COINS')",
+    "The Federation / Sun Moon Federation / Star Luo Federation — canon polity (004/016)",
+    "silver, gold, golden as color and material words (Na'er's hair; the golden veins)",
+    "guild — trade-association word, canon-silent for Glorybound's letter bench"
+   ]
+  }
+ },
+ "exemptions": {
+  "historical_sentence": "A token inside a sentence that also carries a historical marker (was, were, before, previously, superseded, corrected, replaced, rejected, archived, no longer, used to) is a correction receipt, not drift. Receipts are how the project remembers what it fixed, and deleting them would make the same mistake repeatable. This exemption applies only where a category asks for it, and never in chapters/, because prose never discusses its own history.",
+  "historical_markers": [
+   "was ",
+   "were ",
+   "before ",
+   "previously",
+   "superseded",
+   "corrected",
+   "correction",
+   "replaced",
+   "rejected",
+   "archiv",
+   "no longer",
+   "used to",
+   "stale",
+   "historical",
+   "revoked",
+   "first draft",
+   "earlier figure",
+   "carried",
+   "rebuilt",
+   "pre-repair",
+   "post-repair",
+   "declared",
+   "moved the total",
+   "had said",
+   "once said",
+   "entry said"
+  ],
+  "self_file": "A file whose own name matches the token is describing itself and is exempt.",
+  "ledger_files": [
+   "foundation/SERIAL_LOG.md",
+   "foundation/CANON_LEDGER.md"
+  ],
+  "ledger_rule": "These two are by construction an append-only log of past states. Every stale figure in them is a dated receipt, so they are always exempt. A finding there would be the scanner disagreeing with the purpose of the file.",
+  "receipt_files": [
+   "foundation/PREWRITE_"
+  ],
+  "receipt_rule": "A file matching one of these prefixes is a point-in-time snapshot taken BEFORE the thing it describes was written. PREWRITE_ch13.md recording '62,828 prose words' is an honest record of what was believed before the repair, and correcting it would falsify the snapshot. Always exempt, for the same reason as the ledgers.",
+  "section_context": {
+   "rule": "drift.py honesty rule 2, imported. A claim sitting under a dated or historically-scoped heading is a receipt for that moment, not an assertion about now. The nearest preceding heading is tracked and a finding under a receipt heading is exempt.",
+   "why": "Without this the scanner flags every entry in a changelog-shaped document, which is most of NO_MISTAKE_LIVE_RULES.md. A scanner that cries wolf on correct history gets ignored.",
+   "heading_markers": [
+    "2026-",
+    "2025-",
+    "ladder",
+    "history",
+    "historical",
+    "superseded",
+    "correction",
+    "corrected",
+    "changelog",
+    "audit",
+    "rewritten",
+    "receipt",
+    "was ",
+    "carried",
+    "pre-repair",
+    "post-repair",
+    "rejected",
+    "ruled",
+    "no longer",
+    "not open",
+    "closed",
+    "settled"
+   ]
+  }
+ },
+ "adding_a_token": "When a chapter ships and a figure in it is superseded, the dead figure is added to stale_stat_drift.enforce in the same turn. This is the lesson-promotion-same-turn law applied to numbers: a defect found once must become impossible, not merely fixed.",
+ "found_by_this_instrument": {
+  "2026-09-20": "fourth_wall fired on 8 occurrences of the word 'canon' in shipped prose across chapters 2, 3, 4 and 5 -- interiority written in the vocabulary of someone outside the story, which Lock 7.6 forbids and which thirteen chapters and eight gate layers had never caught. All 8 were repaired to memory framing in the same turn. Chapters 1 and 6-13 were clean."
+ },
+ "owned_elsewhere": {
+  "marker_emoji": "checks/run_all.sh layer 4 greps chapters/*.md for the working glyphs. That layer owns this rule and is tested, so it is deliberately NOT duplicated here -- the TWO-COPIES law means one home per fact. Layer 4's glyph list was widened to the full superset (red, green, yellow, blue circles, tick, cross, warning, star) as part of the same change that created this file.",
+  "privacy": "checks/run_all.sh layer 5 owns this. It greps the whole repo across .md/.py/.txt/.sh for the author's real email, ghp_ tokens, the sandbox id and the arena.local host, and it builds each pattern from pieces so the script does not match itself. A generic email/URL regex in this file would be a weaker second copy of a stronger rule, and would also make this file match itself.",
+  "digits_in_prose": "tools/verify.py gate 3. This is why stale_stat_drift is a docs-only category: no digit can reach prose at all.",
+  "panel_marker_u25c6": "tools/verify.py gate 7.",
+  "cjk_kana_hangul": "tools/verify.py gate 1.",
+  "literal_backslash_n": "tools/verify.py gate 2.",
+  "placeholder_text": "tools/verify.py gate 6.",
+  "dialogue_floor": "tools/verify.py gate 4 and tools/style_gate.py."
+ },
+ "scope_note": "This file covers only what no existing gate can: vocabulary that belongs to the author rather than the character, routes that were explored and closed, states reserved for later, ceilings the author removed, and figures that used to be right. Everything else is listed in owned_elsewhere with its home, so nothing here is a second copy of a rule."
+}

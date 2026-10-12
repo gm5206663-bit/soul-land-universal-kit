@@ -1,0 +1,253 @@
+{
+  "schema": "lan-shen-manifest/1",
+  "derived_from": "storyos-site/framework/foundation/CURRENT_STATE_MANIFEST.json",
+  "project": "Lan Shen - Soul Land 3 reincarnation serial",
+  "generated": "2026-10-11",
+  "generator": "tools/scan_project.py",
+  "provenance": "MEASURED, not asserted. Every number in this file was counted off the disk when it was generated. Where a hand-written document disagrees with this file, this file wins, because this file was measured.",
+  "edge": {
+    "chapter_files": 6,
+    "last_file": "chapters/Chapter_06_Gifted.md",
+    "last_title": "Gifted",
+    "prose_words_total": 27380,
+    "word_count_convention": "prose_words here follows the style_gate.py convention (fenced apparatus stripped), so the total is comparable to the per-chapter tables in README.md and not to the verify.py headline. The two conventions differ by a small, explained amount; never mix them inside one table."
+  },
+  "chapters": [
+    {
+      "file": "chapters/Chapter_01_What_the_Master_Said.md",
+      "title": null,
+      "heading_number": null,
+      "prose_words": 4075,
+      "has_panel": true
+    },
+    {
+      "file": "chapters/Chapter_02_The_Fifteen.md",
+      "title": "The Fifteen",
+      "heading_number": "Two",
+      "prose_words": 5000,
+      "has_panel": true
+    },
+    {
+      "file": "chapters/Chapter_03_The_Find.md",
+      "title": "The Find",
+      "heading_number": "Three",
+      "prose_words": 4992,
+      "has_panel": true
+    },
+    {
+      "file": "chapters/Chapter_04_Bringing_Her_Home.md",
+      "title": null,
+      "heading_number": null,
+      "prose_words": 4450,
+      "has_panel": true
+    },
+    {
+      "file": "chapters/Chapter_05_Stay_Here.md",
+      "title": "Stay Here and Be My Little Sister",
+      "heading_number": "Five",
+      "prose_words": 4993,
+      "has_panel": true
+    },
+    {
+      "file": "chapters/Chapter_06_Gifted.md",
+      "title": "Gifted",
+      "heading_number": "Six",
+      "prose_words": 3870,
+      "has_panel": true
+    }
+  ],
+  "canon": {
+    "receipts_on_disk": 67,
+    "files": [
+      "canon_001_excerpt.txt",
+      "canon_002_excerpt.txt",
+      "canon_003_excerpt.txt",
+      "canon_004_excerpt.txt",
+      "canon_005_excerpt.txt",
+      "canon_006_excerpt.txt",
+      "canon_007_excerpt.txt",
+      "canon_008_excerpt.txt",
+      "canon_009_excerpt.txt",
+      "canon_010_excerpt.txt",
+      "canon_011_excerpt.txt",
+      "canon_012_excerpt.txt",
+      "canon_013_excerpt.txt",
+      "canon_014_excerpt.txt",
+      "canon_015_excerpt.txt",
+      "canon_016_excerpt.txt",
+      "canon_017_excerpt.txt",
+      "canon_018_excerpt.txt",
+      "canon_019_excerpt.txt",
+      "canon_020_excerpt.txt",
+      "canon_021_excerpt.txt",
+      "canon_022_excerpt.txt",
+      "canon_023_excerpt.txt",
+      "canon_024_excerpt.txt",
+      "canon_025_excerpt.txt",
+      "canon_026_excerpt.txt",
+      "canon_027_excerpt.txt",
+      "canon_028_excerpt.txt",
+      "canon_029_excerpt.txt",
+      "canon_030_excerpt.txt",
+      "canon_031_excerpt.txt",
+      "canon_032_excerpt.txt",
+      "canon_033_excerpt.txt",
+      "canon_034_excerpt.txt",
+      "canon_035_excerpt.txt",
+      "canon_036_excerpt.txt",
+      "canon_037_excerpt.txt",
+      "canon_038_excerpt.txt",
+      "canon_039_excerpt.txt",
+      "canon_040_excerpt.txt",
+      "canon_041_excerpt.txt",
+      "canon_042_excerpt.txt",
+      "canon_043_excerpt.txt",
+      "canon_044_excerpt.txt",
+      "canon_045_excerpt.txt",
+      "canon_046_excerpt.txt",
+      "canon_047_excerpt.txt",
+      "canon_048_excerpt.txt",
+      "canon_049_excerpt.txt",
+      "canon_050_excerpt.txt",
+      "canon_051_excerpt.txt",
+      "canon_052_excerpt.txt",
+      "canon_053_excerpt.txt",
+      "canon_054_excerpt.txt",
+      "canon_055_excerpt.txt",
+      "canon_056_excerpt.txt",
+      "canon_057_excerpt.txt",
+      "canon_058_excerpt.txt",
+      "canon_059_excerpt.txt",
+      "canon_060_excerpt.txt",
+      "canon_061_excerpt.txt",
+      "canon_062_excerpt.txt",
+      "canon_063_excerpt.txt",
+      "canon_064_excerpt.txt",
+      "canon_065_excerpt.txt",
+      "canon_066_excerpt.txt",
+      "canon_067_excerpt.txt"
+    ],
+    "extracted_through": "canon_067_excerpt.txt"
+  },
+  "governance": {
+    "locks_in_NO_MISTAKE_LIVE_RULES": {
+      "total_distinct_in_force": 16,
+      "constitution_count": 12,
+      "constitution_names": [
+        "ERA",
+        "PROTAGONIST",
+        "CANON ENTRY",
+        "SPINE",
+        "POWER",
+        "IDENTITY",
+        "ABSOLUTES",
+        "CANON IMMUNITY",
+        "MEASUREMENT",
+        "VOICE",
+        "CADENCE",
+        "HANDOFF"
+      ],
+      "live_lock_numbers": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "numbering_collision": [
+        11,
+        12
+      ],
+      "collision_rule": "A bare LOCK n means the live lock. Cite constitution locks by name."
+    },
+    "foundation_docs": [
+      "BUTTERFLY_BANK_V2.md",
+      "CANON_LEDGER.md",
+      "CANON_MASTER.md",
+      "CANON_NOTES.md",
+      "CONTINUITY.md",
+      "LAN_SHEN_MISSION.md",
+      "NO_MISTAKE_LIVE_RULES.md",
+      "OPEN_DECISIONS.md",
+      "PLAIN_WORD_LIST.md",
+      "PREWRITE_ch02.md",
+      "PREWRITE_ch03.md",
+      "PREWRITE_ch04.md",
+      "PREWRITE_ch05.md",
+      "PREWRITE_ch06.md",
+      "PREWRITE_ch10.md",
+      "PREWRITE_ch11.md",
+      "PREWRITE_ch12.md",
+      "PREWRITE_ch13.md",
+      "PREWRITE_ch14.md",
+      "PREWRITE_ch15.md",
+      "REBUILD_5b_DELTA.md",
+      "REBUILD_PLAN.md",
+      "SERIAL_LOG.md",
+      "STATUS_PANEL.md",
+      "STYLE_LAW.md",
+      "THE_PLAN.md",
+      "V2_EPOCH.md"
+    ],
+    "codex_docs": [
+      "CHARACTERS.md",
+      "KNOWLEDGE_FIREWALLS.md",
+      "PLACES.md",
+      "TIMELINE.md"
+    ],
+    "banned_token_categories": [
+      "deleted_mistake_route",
+      "forbidden_currentization",
+      "fourth_wall",
+      "removed_hard_ceiling",
+      "sl3_structure_leak",
+      "stale_stat_drift"
+    ]
+  },
+  "tree": {
+    "chapters_files": 6,
+    "foundation_files": 29,
+    "codex_files": 4,
+    "canon_extract_files": 69,
+    "tools_files": 8
+  },
+  "control_centre": {
+    "registered": true,
+    "registry": "github:gm5206663-bit/the-universal-storyline-creation- state/projects_registry.json",
+    "filed": "2026-09-20",
+    "contributions": 57,
+    "kinds": {
+      "project": 1,
+      "lock": 12,
+      "firewall": 14,
+      "anchor": 8,
+      "decision": 6,
+      "correction": 7,
+      "canon": 6,
+      "note": 3
+    },
+    "validator": "PASS with no issues, then ingested; the Control Centre selftest stayed 102/102 after the rebuild.",
+    "note": "The contribution file is intake/accepted/lan_shen_contributions.json in the Control Centre clone at ref/control_centre/. It was filed by this agent and is append-only there; nothing in it can be silently overwritten."
+  },
+  "project_sweep": {
+    "ran": true,
+    "exit": 0,
+    "verdict": "PASS",
+    "filename_law_bad": 0,
+    "cjk_chapters": "chapters with unreadable script: 0/6 -> clean",
+    "cjk_docs": "docs carrying CJK: 42/84 (advisory, ruling pending)",
+    "backslash_n_in_story": 0,
+    "digits_in_story": "chapters with digits in the story: 0/6",
+    "chapters_under_three_dialogue_lines": 0,
+    "chapters_carrying_a_footer": 0,
+    "footer_note": "Lock 9 says no footer, none, not one line. This census is the instrument that proves it, and it is why the sweep is captured at all."
+  },
+  "gates": {
+    "ran": true,
+    "exit": 0,
+    "all_green": true,
+    "layers_held": 9,
+    "layers_failed": 0
+  }
+}

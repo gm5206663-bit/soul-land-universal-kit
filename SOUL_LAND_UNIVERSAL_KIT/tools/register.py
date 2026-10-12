@@ -35,6 +35,7 @@ def main():
     args = sys.argv[1:]
     root = args[args.index('--root') + 1] if '--root' in args else '.'
     out = args[args.index('--out') + 1] if '--out' in args else None
+    label = args[args.index('--label') + 1] if '--label' in args else os.path.abspath(root)
     books = checks.registry(root)
     sight = checks.check_sightings(root, books)
     lines = []
@@ -42,7 +43,7 @@ def main():
     add('# THE REGISTER — every book, every tree')
     add('')
     add(f'*Generated {datetime.datetime.now().strftime("%Y-%m-%d %H:%M")} by '
-        f'`tools/register.py` over `{os.path.abspath(root)}`. Regenerate it; never edit it.*')
+        f'`tools/register.py` over `{label}`. Regenerate it; never edit it.*')
     add('')
     tot_ch = tot_w = tot_over = 0
     rows = []

@@ -1,0 +1,218 @@
+CANON 020 — "Fusion"  ·  The Legend of the Dragon King
+SOURCE: readnovelfull.com/the-legend-of-the-dragon-king/chapter-20-fusion.html
+FETCHED: 2026-09-20 (2 chunks, COMPLETE — chunk 2 carried only the nav footer)
+STATUS: HELD IN FULL. Continues directly from canon 019 (the random draw, the defective Grass Snake).
+NEXT: canon 021 — "Rank 11 Soul Master".
+RULE: this receipt quotes CANON. It must never quote the serial.
+
+=====================================================================
+1. WHY HE FUSES A DEFECTIVE SPIRIT SOUL — THE REASONING IS THE SCENE
+=====================================================================
+
+He cries on Na'er's shoulder first. "Crying really was the best way to vent one's feelings."
+
+    "Na'er, am I weak?" Tang Wulin asked after he raised his head and wiped away his tears.
+    Na'er shook her head vigorously.
+
+He sends her out of the room before he does it:
+
+    "You can go first, Na'er. I want to fuse with this spirit soul."
+    Na'er hesitated and said, "But, this one isn't any good?"
+
+His reason is money and family, not resignation, and it is stated in full:
+
+    "It's already difficult for mom and dad to provide for us, so I can't increase their burden.
+    Dad said he would help me earn the money to buy another one just now, but our family doesn't
+    have much money to begin with. I can't let mom and dad carry another burden for my sake. Even
+    if it's not too good, it's still a spirit soul. It'll still let me become an official Soul
+    Master. Also, dad won't have to face any more difficulties after I fuse with it."
+
+    "Big brother..."
+
+    "I'm fine. It was only a dream of mine anyways. Maybe becoming a master forger is most
+    suitable for me after all."
+
+🔴 THE LOAD-BEARING SENTENCE FOR THIS SERIAL — he names the forger path himself, in the same
+breath as giving up the Soul Master dream:
+
+    "At this moment, Tang Wulin's profound smile was engraved within her heart. It was the kind of
+    optimistic smile of relief and helplessness which masked the depth of his sorrows."
+
+    He knew that after fusing with this spirit soul, he would lose any chance of achieving his
+    dream of becoming a powerful Soul Master. But what could he do?
+
+=====================================================================
+2. THE TWENTY-FOUR HOUR RULE — A HARD CANON CLOCK
+=====================================================================
+
+    It was also a living being and would permanently dissipate if he didn't fuse with it within
+    twenty-four hours.
+
+This is why the fusion cannot be postponed for pacing. Any serial that delays it is contradicting
+a stated canon clock, not merely rearranging beats.
+
+=====================================================================
+3. THE FUSION, PHYSICALLY — WHAT IT LOOKS AND FEELS LIKE FROM INSIDE
+=====================================================================
+
+    His finger gently passed through the Grass Snake's body. It seemed to have felt it, as it
+    uncoiled itself. Even though it had an illusory form, it was still able to twist around his
+    finger and intimately stick out its little forked tongue as if to lick him.
+
+    He brought his hand up to his face, allowing him to clearly look into the Grass Snake spirit
+    soul's small brown eyes. Its eyes were cloudy and unfocused, with a hint of terror to its
+    confusion.
+
+    'A trash martial soul and a defective spirit soul. That's very fitting.' Tang Wulin mocked
+    himself as he flipped his palm, releasing soul power to summon a faint blue halo from which
+    the Bluesilver Grass appeared from.
+
+    The Grass Snake could instinctively sense the existence of the Bluesilver Grass as it climbed
+    up Tang Wulin's finger, quickly reaching the Bluesilver Grass.
+
+🔴 THE FIRST SOUL RING APPEARS, AND ITS COLOUR IS STATED:
+
+    The soft blue light glowing from the Bluesilver Grass suddenly released a powerful radiance.
+    When the light fell upon the Grass Snake, a faint earthen yellow ring of light emerged from
+    its body.
+
+    RING COLOUR RESOLVED FROM THE AUTHOR'S OWN DATA, NOT INFERRED: the Control Centre
+    `state/canon.json` ring_ages table gives Yellow = 100 years, confidence "canon". So this is a
+    hundred-year ring — Wulin's first. Do not restate it as a number in prose; the colour is what
+    canon gives and the colour is what the page should carry.
+
+    This was the first time Tang Wulin fused with a spirit soul, but Lin Ximeng had taught their
+    class about spirit souls as well as what fusion felt like long ago.
+
+🔴 LIN XIMENG IS MALE AND IS THEIR HOMEROOM TEACHER — this is a second independent canon
+confirmation of the correction already logged against canon 004.
+
+    A feeble mind penetrated into Tang Wulin's head. It felt amiable and frightened, but it was
+    also brimming with a feeling of dependence.
+    Tang Wulin opened up his soul and accepted it inside.
+
+=====================================================================
+4. THE SPIRIT SOUL INTELLIGENCE LADDER — A WHOLE POWER SYSTEM IN FIVE LINES
+=====================================================================
+
+    This was the intelligence of spirit soul of the lowest grade. The more powerful a spirit soul
+    was, the more intelligent it would be. A spirit soul above the purple rank was even capable of
+    communicating with its host. Legends say that a spirit soul that surpassed that rank could
+    even help the host in battle.
+    However, legends were only legends to Tang Wulin.
+
+    Lowest grade  -> a feeble mind, nothing transmitted beyond the first connection
+    Purple and up -> capable of communicating with the host
+    Above that    -> legend says it can help the host in battle
+
+🔴 "Legends were only legends to Tang Wulin" is the canon character's own disbelief, on page. It
+is a DISBELIEF firewall held by Wulin about the upper ladder, and it is stated in canon rather
+than invented — which means no serial may have him act on that legend as fact without earning it.
+
+=====================================================================
+5. WHAT CHANGES IN HIM, AND WHAT CHANGES IN THE GRASS
+=====================================================================
+
+    The little Grass Snake's earthen yellow body gradually took on a blue tint while the blade of
+    Bluesilver Grass rapidly grew.
+
+    The originally weak and frail grass harmoniously curled up and gradually grew until it was
+    about as thick as a finger with an appearance similar to that of a vine's. Upon a careful
+    inspection, vestiges of scales could be found on the blade of grass. It now possessed a dark
+    luster similar to the Grass Snake's. Although it was rougher, it still seemed as frail as
+    before.
+
+    The Grass Snake's body had grown a bit and was now approximately eight centimeters long. A
+    blue smear had also appeared upon its scales. The fusion smoothly finished.
+
+🔴 WHY HE DOMINATED THE FUSION — AND THE SPIRITUAL POWER FIGURE THAT GOES WITH IT:
+
+    The Grass Snake's spiritual power was too weak; it was basically impossible for it to resist
+    at all. Although the Bluesilver Grass was a trash martial soul, Tang Wulin's spiritual power
+    had already reached the intermediate rank of the Spirit Origin realm, thus allowing him to
+    dominate in this fusion.
+
+    SPIRITUAL POWER: intermediate rank of the Spirit Origin realm, at the moment of fusion.
+
+    BREAKTHROUGH AND MARTIAL SOUL EVOLUTION HAPPEN TOGETHER, NOT IN SEQUENCE:
+
+    Tang Wulin's soul power began to violently fluctuate as it met with the bottleneck and surged
+    through, breaking through and evolving his martial soul at the same time.
+
+    Tang Wulin's whole body felt light as the condensed soul power within his dantian had
+    countless threads penetrating into every single cell of his body. The cells in his body were
+    aroused and brimming with energy. They were filled with a light-hearted and worry-free
+    feeling which finally relieved the depression within his heart.
+
+=====================================================================
+6. 🔴🔴 THE GOLD RETURNS — THE SINGLE MOST IMPORTANT EVENT IN THIS CHAPTER
+=====================================================================
+
+    Right at that moment, Tang Wulin suddenly felt a wave of heat coming from his tailbone. This
+    heat soon turned into a scorching hot sensation which traveled up his spine before continuing
+    to spread throughout his body. The aura around his body had experienced a slight change after
+    this.
+
+    The blade of Bluesilver Grass which had just finished evolving and the little Grass Snake
+    suddenly stiffened and froze in place.
+
+    The faint golden veined pattern appeared once again, rapidly descending from Tang Wulin's
+    forehead while the golden thread from his tailbone quickly rose. The two golden lights met at
+    the apex of his vertebra and merged into one.
+
+    TWO DIRECTIONS, ONE MEETING POINT. From the forehead downward and from the tailbone upward,
+    meeting at the apex of the vertebra and merging into one. This is the second appearance of the
+    pattern — the first was the awakening ceremony (canon 001, receipt R1).
+
+    This golden color was much clearer than before. It hadn't only spread all over his body, but
+    also onto the little Grass Snake in his palm and the Bluesilver Grass which had just finished
+    evolving.
+
+🔴 THE GOLD NOW TOUCHES THE MARTIAL SOUL ITSELF, AND THE GRASS IS PERMANENTLY ALTERED:
+
+    The originally dark and gloomy Bluesilver Grass now had a slender golden line along it,
+    reaching all the way to its tip. Another change arose in it under the influence of the golden
+    veined pattern.
+
+    It was as if the dull vine-like grass had suddenly gained a skeleton and its tenacity had
+    drastically increased. Moreover, the grass's dull surface gradually gained a glossy luster
+    with a faintly discernable blue halo and a slender gold stripe. It appeared more striking
+    than before.
+
+    END STATE OF CANON WULIN'S BLUESILVER GRASS AFTER CANON 020:
+      finger-thick, vine-like, vestigial scales on the blade, dark luster, rougher yet still
+      seemingly frail — AND a slender golden line running to the tip, a gained skeleton,
+      drastically increased tenacity, glossy luster, faint blue halo, slender gold stripe.
+
+    THE CHAPTER ENDS HERE. There is no ceremony, no witness, no test, and nobody else in the room.
+    Na'er was sent out before it began.
+
+=====================================================================
+7. WHAT THIS SETTLES FOR THE SERIAL, AND WHAT IT DOES NOT
+=====================================================================
+
+SETTLED BY THIS RECEIPT
+  - Wulin fuses the defective Grass Snake himself, alone, for money-and-family reasons he states
+    aloud, and he names the master-forger path in the same breath.
+  - The ring that emerges is earthen yellow: a hundred-year ring, his first.
+  - His spiritual power at fusion is the intermediate rank of the Spirit Origin realm.
+  - Breakthrough and martial soul evolution are simultaneous.
+  - The gold returns a second time, from two directions, meets at the apex of the vertebra, and
+    now marks the grass itself with a golden line to the tip.
+  - The twenty-four hour clock is real and stated.
+  - Lin Ximeng taught the class about spirit souls and what fusion feels like, long ago.
+  - The upper spirit-soul ladder is something Wulin himself treats as legend.
+
+NOT SETTLED — DO NOT INFER
+  - His exact rank number is NOT stated in this chapter. The next chapter is titled "Rank 11 Soul
+    Master", and the Control Centre rank_ladder puts Soul Master at 11-20, so rank 11 is the
+    supported reading — but it belongs to canon 021, which is NOT on disk. Fetch it before
+    staging any rank claim.
+  - Whether anyone ever sees the gold. Nobody is in the room.
+  - What the gold IS. Canon does not say, here or in 019.
+
+🔴 THE DIVERGENCE QUESTION THIS RECEIPT CREATES FOR LAN SHEN
+  Canon Wulin's Bluesilver Grass gains a gold stripe from the seals inside him. Lan Shen has the
+  same martial soul and NO seals and no adaptation talent (the author's one explicit ruling). So
+  the grass in this serial cannot change the way canon's does, and any change it makes needs its
+  own logged cause and cost. That is a CANON_LEDGER butterfly entry, not a free upgrade.

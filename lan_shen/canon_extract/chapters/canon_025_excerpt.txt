@@ -1,0 +1,159 @@
+CANON EXTRACT 025 — "Thousand Refinements"
+Source: https://readnovelfull.com/the-legend-of-the-dragon-king/chapter-25-thousand-refinements.html
+Fetched: 2026-10-11 · Confidence: HIGH · COMPLETE AS PUBLISHED (2 chunks, source page ends
+mid-scene at the strength-test handoff; the result opens canon 026 — "Five Hundred
+Kilograms of Strength" — NOT YET HELD. Fetch 026 before staging anything that depends on
+the number.)
+Title verified against CANON_INDEX_23_600.txt line 25.
+Status: 🔴🔴 THE SPAR. EASTSEA CITY NAMED. THE 10,000-COIN SELECTION. THE MERCURY GAUGE.
+RULE: this receipt quotes CANON. It must never quote the serial.
+
+=====================================================================
+SEGMENT 1 — THE SPAR (continues directly from canon 024's graduation)
+=====================================================================
+
+Wan Yunchao's boast, verbatim core:
+"Did you see it? My first soul skill is Knife Tip. I even spent an extra 10,000 Federal
+Coins to invite a Spirit Master over to help me pick this spirit soul! Since this spirit
+soul is also a knife, it directly complements my martial soul! My Knife Tip will conquer
+all!"
+
+🔴 NEW ECONOMY LINE: 10,000 Federation Coins buys a CURATED PICK — a hired Spirit Master
+to select a matching spirit soul. Priced tiers of certainty, on top of the 30k/70k/1M
+table of canon 016. The middle path between the 30,000 random gamble and the 70,000
+known white exists, and it is a service fee, not an item.
+
+The demonstration: Knife Tip severs a sapling as wide as a bowl. Tang Wulin's scold:
+"Plants are also living creatures, why did you cut that sapling for no reason?"
+
+🔴 WULIN'S WHITE RING AND THE WHIP — his first ring materializes around his legs; vines
+grow simultaneously from his palm; "Their ends were instead suspended mid air around
+Tang Wulin." Then the whipping: _Pa! Pa! Pa!_ — "Aiyou! It hurts!" — "Aiyou! Aiyou! I
+surrender! Can I please surrender?" Wan Yunchao leaves the grove riddled with lash marks.
+
+🔴 CANON'S OWN READ OF THE FIGHT: "Tang Wulin was still incapable of fully controlling
+his Bluesilver Grass… This did not influence the whipping aspect of his control however…
+That inch thick Bluesilver Grass proved how tenacious it was. Since Wan Yunchao's short
+knife and Knife Tip could not attack from a distance… the result was obvious."
+
+🔴 THE 023 MECHANIC, SPOKEN ALOUD BY WULIN (now his own knowledge, not teacher-talk):
+"Well this is my Bluesilver Grass's specialty; so long as my soul power is not depleted,
+you cannot hack it apart."
+
+The Lin Ximeng callback (canon teaching staged in dialogue): "Teacher Lin had already said
+it before; your martial soul is well suited for melee battles. Thus it is well suited for
+the path of the agility attack system. However, you're so fat. How could you possibly be
+agile?"
+The exit beat: "I WILL LOSE WEIGHT! I WILL BECOME AN AGILITY ATTACKER!" / "What are you
+going to eat tonight?" / "I think….. it should be pork shoulder."
+
+→ Two children, one loser, and friendship has a texture. Wan Yunchao is RUDE, BEATABLE,
+PROUD, and KEPT. V2's Year-3 class must keep him exactly this.
+
+=====================================================================
+SEGMENT 2 — THE WORKSHOP: THE GATE, THE RECORD, THE UNPLEASANT MEMORY
+=====================================================================
+
+Mang Tian was already waiting. Wulin's respect has a number now:
+🔴 "Ever since he knew that his teacher was a 40th ranked Soul Ancestor expert, he had
+even greater respect for him."
+⚠️ VARIANCE WITH CANON 022's LADDER (Ancestor = 41–50): "40th ranked Soul Ancestor."
+Hold: Mang Tian ≈ rank 40, Soul Ancestor tier; the decade-band boundary is fuzzy at 40/41.
+Logged in CANON_MASTER §7.
+
+"So have you graduated?" — "Yes. I have graduated."
+"Will you have to go to the Intermediate Soul Academy in Eastsea City?"
+🔴🔴 EASTSEA CITY IS NAMED AS THE DESTINATION — matching the far map (map line 33:
+"first-arrival-in-eastsea-city"). The Glorybound arc has a terminus.
+And the workshop answer:
+"Just because I like this place for its peacefulness does not mean I won't leave this
+place. The truth is, all of the work that is requested comes from Eastsea City. Your
+blacksmithing education cannot deteriorate. I also have a workshop at Eastsea City and I
+will give you your own blacksmithing workshop. Every so often, I'll visit you and give you
+some instruction."
+→ 🔴 TWO ANCHORS: (a) Mang Tian's real commission market is Eastsea City — Glorybound is
+his retreat, with a second workshop there; (b) the master has ALREADY PLANNED to move the
+disciple's craft life. The village was never the ceiling; it was the quiet room.
+
+🔴🔴 THE TEST: "The Thousand Refinements!" / "You have fused with a spirit soul and your
+strength has risen sufficiently. You should be able to withstand the Thousand Refinements.
+Finishing one execution of the Thousand Refinements will count as you passing my test."
+
+🔴 MANG TIAN'S OWN RECORD (his benchmark, verbatim):
+"He could still clearly remember that when he had just started practicing the Thousand
+Refinements, he was already 15 years old and his soul power had surpassed the 20th rank.
+In addition, his martial soul was the Earth Hammer and was the one that possessed absolute
+physical strength. By completing the Thousand Refinements at 15 years old, he was already
+been seen as a talent in the blacksmithing world."
+🔴 THEN, CANON'S THIRD ADULT WITH AN UNFINISHED SENTENCE:
+"Unfortunately…"
+→ Do not complete it. Tang Ziran has two; Mang Tian now has one. The rule holds for all.
+
+🔴 THE DIAGNOSIS (why the test is happening now): "Firstly, you were not focused on your
+work. Secondly, it seems as though problems have arisen with regards to your ability to
+control your strength." — the canon 021 arm-pop consequence, developing: since fusion his
+strength has "grown immensely" and he breaks assignments by force. The Na'er search and
+depression hid it from him; Mang Tian, silently observing, caught it.
+
+=====================================================================
+SEGMENT 3 — 🔴🔴 THE MERCURY GAUGE (TRACK 7's CANON INSTRUMENT)
+=====================================================================
+
+"Mang Tian brought Tang Wulin to his own workshop. His workshop was a lot messier than
+Tang Wulin's workspace. In a large pile of randomly strewn tools…"
+
+THE STRENGTH TESTING TOOL, SPECIFIED:
+- Lower portion: a flat square base.
+- Upper portion: a round cylindrical pillar.
+- Behind it: a TWO-METER-TALL metal pillar containing a LONG THIN TUBE FILLED WITH MERCURY.
+- Method: strike the metal pillar; the mercury rises with the force and gauges the strength.
+- Reference standard: a 50 kg blacksmithing hammer; 🔴 the tool AUTOMATICALLY DEDUCTS the
+  hammer's excess force from the reading (an instrument with built-in tare).
+"While it was a simple act to manufacture such a tool, it still required one to be
+meticulous in order to ensure that it would be able to accurately gauge a person's
+strength."
+
+🔴 THE GROWTH MEASUREMENTS (annual, required):
+- Age 7: 70 kg of force. Age 8: 100 kg. Age 9: untested until today.
+"Ever since Tang Wulin arrived at Mang Tian's workshop, he was required to test his
+strength each year."
+
+→ 🔴🔴 A WORKSHOP WITH A CALIBRATED INSTRUMENT, AN ANNUAL MEASUREMENT RITUAL, A REFERENCE
+   WEIGHT, AND TARE DEDUCTION — in canon, unremarked. The world measures; it just never
+   standardized. Mang Tian built (or owns) a gauge "simple" to make but requiring
+   meticulousness. THE TRACK 7 ARGUMENT IN ONE OBJECT: precision exists as a personal
+   virtue, not a system.
+
+ENDING, VERBATIM (the chapter cuts here at source):
+"First start the test with your left hand." Mang Tian passed him the blacksmithing hammer
+required for strength testing.
+→ CONTINUES INTO CANON 026 — "Five Hundred Kilograms of Strength". The number is 026's
+   payload; do not stage or quote any strength result for Wulin's age-9 until 026 is held.
+
+=====================================================================
+SETTLEMENTS THE SERIAL MUST EAT
+=====================================================================
+1. 🔴 Wan Yunchao is now FULLY canon-staged: Knife Tip as first skill, +10,000 FC curated
+   selection, the sapling, the surrender, pork shoulder. (CANON_MASTER collision #7
+   resolved in canon's favor — Year 3 uses Wan Yunchao; V1's "Niu Bao" stays retired.)
+2. 🔴 The 10,000-coin SELECTION FEE joins the economy: curated matching is a service the
+   Pagoda (or hired Spirit Masters) sell to those who can pay for certainty. Lan Shen's
+   30k-target arithmetic now has a second line item to know about.
+3. 🔴 The whip is canon's own low-skill answer for a vine soul (025 action after 023
+   doctrine). Control of the vine is partial and it shows.
+4. 🔴🔴 EASTSEA CITY: the intermediate academy + Mang Tian's second workshop + the real
+   commission market. The canon-parallel question for the mission doc: when canon moves
+   its axis to Eastsea (canon 026+ → 033), does V2's Lan Shen household stay in
+   Glorybound? AUTHOR-LEVEL FLAG — boards must not write past the 024 window without it.
+5. The Thousand Refinements gate + Mang Tian's benchmark (age 15, rank 20+, hammer-type
+   soul, "a talent"). Wulin at age 9, rank 11, is being asked for it. The bar is stated;
+   the result is 026's, unheld.
+6. 🔴 The mercury gauge is Track 7 canon-proof: personal-precision instruments exist at
+   craft level. "Simple to manufacture, meticulous to make accurate." He would notice it;
+   he would immediately understand the tare line.
+7. "Unfortunately…" — Mang Tian joins the unfinished-sentence registry. Never complete.
+8. The strength-by-year table (7yo=70kg, 8yo=100kg) is canon's baseline against which
+   any AU six-/seven-year-old's body math must look modest. Lan Shen trains four years —
+   against THIS table, not against nothing.
+9. 🔴 Firewall note: nothing in this chapter touches Na'er except the hole she left
+   (failed work, "search for Na'er," depression). Her absence is canon's workhorse.

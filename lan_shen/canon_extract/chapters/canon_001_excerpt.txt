@@ -1,0 +1,183 @@
+CANON 001 — "Awakening Day" — FULL-CONTEXT EXCERPT (partial hold)
+Source: https://readnovelfull.com/the-legend-of-the-dragon-king/chapter-1-awakening-day-v1.html
+Fetched: 2026-09-19 · Confidence: HIGH · Title verified against readnovelfull_map.txt line 1
+Precedent: same partial-hold format as canon_218_excerpt.txt
+Full text not saved — the load-bearing passages are reproduced verbatim below.
+
+═══════════════════════════════════════════════════════════════════════════════
+GLORYBOUND CITY — THE FIRST LINE OF THE NOVEL
+═══════════════════════════════════════════════════════════════════════════════
+
+"Glorybound City was a small town sitting on the border between the ocean and the
+eastern coast of the Sun Moon Federation."
+
+"Today was an exceptionally bustling day in the city, it was the annual Awakening Day."
+
+═══════════════════════════════════════════════════════════════════════════════
+THE AWAKENING LAW
+═══════════════════════════════════════════════════════════════════════════════
+
+"All of the people residing upon the Douluo Continent possessed something called a
+'martial soul.' The martial soul was a part of the body which could be awakened when they
+became six years old, regardless of whether they were animals or plants."
+
+"the martial soul had long since become the most significant factor in determining
+someone's life."
+
+🔴 "However, the emergence of soul power was even more important. ... Although everyone
+possessed a martial soul, ONLY ONE IN A THOUSAND PEOPLE MIGHT POSSESS SOUL POWER."
+
+"The soul power rank represented someone's future and power."
+
+"over the 100,000 years the Douluo Continent has existed, the most noble profession has
+been that of a Soul Master."
+
+"even commoners would look forward to their children becoming six years old ... If they
+possessed soul power, their lives would be transformed, benefitting them and their whole
+family."
+
+═══════════════════════════════════════════════════════════════════════════════
+THE STREET, AT DAWN
+═══════════════════════════════════════════════════════════════════════════════
+
+"The moment dawn arrived, the streets in front of the Red Mountain Academy were packed.
+The streets were flooded with parents and their children who had come to participate in
+the Awakening."
+
+"There was an unceasing torrent of parents and children passing as they exited the
+academy. The overwhelming majority of them all left with sighs of disappointment, but
+occasionally one of them would be overjoyed. There was no need to ask why; their martial
+soul must have given birth to soul power. This immediately attracted the envious and
+jealous gazes of others."
+
+═══════════════════════════════════════════════════════════════════════════════
+TANG WULIN, AGE SIX — CANONICAL DESCRIPTION
+═══════════════════════════════════════════════════════════════════════════════
+
+"A small boy, just barely six years old, said with excitement as he looked towards his
+father. He loved to listen to his father's stories about Soul Masters. He had a pair of
+large eyes filled with a longing for the future."
+
+"The young boy had a head full of short black hair and a stature slightly taller than
+others of the same age. However, his most attractive feature were his large, clear black
+eyes and long eyelashes which wouldn't lose to a girl at all. Even with his commoner's
+clothing, his outstanding appearance could easily draw the eyes of others."
+
+Dialogue:
+  "Dad, what do you think my martial soul will be?"
+  "Dad doesn't know either. It all depends on luck."
+  "I'll definitely have soul power, right?"
+  "Regardless of whether or not you have soul power, dad will always love you."
+
+TANG ZIRAN (father): "a middle aged man who shared a similar appearance. He had a medium
+build and an average height, everything about him was just average."
+  — "His father released a gloomy sigh within his heart. Actually, the Awakening Day was a
+     decisive day that decided one's life and future."
+  — "Fortunately, in this era those who were unable to become Soul Masters were still able
+     to have a pretty good future."
+
+═══════════════════════════════════════════════════════════════════════════════
+THE CALL, AND THE TEACHER
+═══════════════════════════════════════════════════════════════════════════════
+
+"'Tang Wulin!' A teacher walked out from the Red Mountain Academy with a list in hand,
+calling out the next name."
+
+"'Follow me.' Perhaps it was due to the excessive workload on Awakening Day, but the
+teacher seemed somewhat apathetic as he quickly turned around and began walking ahead."
+
+═══════════════════════════════════════════════════════════════════════════════
+RED MOUNTAIN ACADEMY — GROUNDS
+═══════════════════════════════════════════════════════════════════════════════
+
+"Red Mountain Academy was an elementary grade comprehensive academy able to hold two
+thousand students. The buildings within the academy were all simple and unadorned with
+white roofs and red walls. The academy grounds were exceptionally clean. Awakening Day was
+right before the start of a new term. In comparison to the clamor outside of the walls, the
+academy seemed unusually peaceful."
+
+═══════════════════════════════════════════════════════════════════════════════
+🔴 THE SPIRIT PAGODA IS IN THE ROOM — THE FAR SPINE, CANONISED
+═══════════════════════════════════════════════════════════════════════════════
+
+"The teacher brought them to the front of a circular building before telling Tang Ziran,
+'Would the child's parent please wait here for a moment?'"
+
+"Every single elementary academy would have this circular building. It was called the
+Awakening Chamber, and it was specifically used to aid six year old children in the
+awakening of their martial soul. BEFORE THE DAY OF THE AWAKENING CEREMONY, THE ACADEMY
+WOULD INVITE A SPIRIT MASTER FROM THE SPIRIT PAGODA TO CONDUCT THE AWAKENING CEREMONY.
+Decades ago, he had the same hopes when he entered the Awakening Chamber."
+
+"As he watched his son follow the teacher into the circular building, a trace of
+disappointment and frustration appeared within Tang Ziran's eyes as he reminisced of the
+past."
+
+"There wasn't just a single awakening area within the Awakening Chamber, rather there were
+SEVEN FLOORS and within each one was an Awakening Chamber. Tang Wulin was brought to the
+Awakening Chamber on the THIRD FLOOR."
+
+"All of the floors, the walls, and even the ceiling had wonderful inscriptions carved into
+them to create an elegant, decorative design."
+
+"Within the Awakening Chamber was a middle aged man wearing a SIMPLE ORANGE ROBE, that
+featured the EMBROIDERED FORM OF A SOUL BEAST."
+
+"These Spirit Masters from the Spirit Pagoda were powerful and mysterious existences. They
+were an exceptionally special group of Soul Masters and held an extremely majestic status
+on the Douluo Continent. However, this was the first time he had ever seen one."
+
+"'Hello.' Tang Wulin shyly replied."
+"The Soul Master wore a gentle smile on his face. 'Come here child. Stand in the m[iddle]'"
+
+═══════════════════════════════════════════════════════════════════════════════
+WHAT THIS SETTLES FOR THE PROJECT
+═══════════════════════════════════════════════════════════════════════════════
+
+1. OPEN_DECISIONS #1 IS ANSWERED BY CANON. Glorybound City is named in the novel's FIRST
+   LINE, on the eastern coast of the Sun Moon Federation, bordering the ocean. Red Mountain
+   Academy is in it. The existing Soul_Land_3_Project's "Eastsea" is a different AU.
+   → RULING: Glorybound City. Receipted, not inferred.
+
+2. THE FAR SPINE IS CANON, NOT INVENTED. The Spirit Pagoda personally sends the Spirit
+   Master who performs every child's awakening. The man who sees the golden lines on
+   Wulin's forehead IS a Spirit Pagoda man, standing in a school building, on the annual
+   day the whole city's children are measured and recorded. The report needs no invention.
+
+3. SOUL POWER IS ONE IN A THOUSAND. This reframes rank 1: Lan Shen is not a failure for
+   having soul power — he is a miracle who happens to be the smallest miracle possible.
+   His family will be overjoyed. That joy is the emotional engine of chapter one.
+
+4. CHILDREN ARE AWAKENED ALONE. Canon ch2 shows Wulin alone in the chamber with the Spirit
+   Master; parents wait outside the circular building. → Lan Shen CANNOT witness the golden
+   lines directly. He can only witness the aftermath. This is stronger and it is canon-safe.
+
+5. THE TEACHER IS UNNAMED AND APATHETIC. Carrying a list. Do not invent a name for him
+   without labelling it AU.
+
+6. TANG ZIRAN'S OWN AWAKENING. "Decades ago, he had the same hopes" — and disappointment
+   and frustration in his eyes. Tang Ziran is a man whose own number did not save him.
+   Free, canon-grounded depth for the neighbour father.
+
+STILL NOT HELD: canon ch3 (little-wulins-family), ch5-7 (Na'er), ch8 (learning-to-forge),
+ch15 (10th-rank). Fetch before drafting the chapters that use them.
+
+═══════════════════════════════════════════════════════════════════════════════
+ADDENDUM 2026-09-23 — MANHUA CROSS-CHECK + FULLER-MIRROR HARVEST
+═══════════════════════════════════════════════════════════════════════════════
+
+MANHUA REGISTERED AS REFERENCE CHANNEL: "Soul Land III" manhua exists (Tang Jia San
+Shao adaptation), 500+ chapters translated. Readers: manhuaplus.org/manga/soul-land-iii
+and mangakakalots.com/manga/douluo_dalu_3_the_legend_of_the_dragon_king. STRUCTURE:
+0.1/0.2 (prologue), 1.1/1.2, 2.1/2.2 … split-parts of novel chapters. Tracks the novel
+closely with panel-level compression. READER pages are JS-walled (images not fetchable);
+individual pages may be pulled via image search when a specific scene needs visual
+verification. NOVEL TEXT remains the primary spine; manhua is corroboration.
+
+HARVESTED BEATS (novelhall.com + wuxiaworld.com fuller mirrors of ch1, HIGH confidence):
+1. Wulin, alone with the Spirit Master before the rite, asks: "Lord Spirit Master, what
+   kind of martial soul will I have?"  The Master replies: "Ah, I don't know either!
+   After you've awakened, you'll naturally be able to see what it is. — Anyway, your
+   eyes are so pretty, it would be just perfect if you got a martial soul related to
+   your eyes."  (The joke lands cruel after "Bluesilver Grass" — canon-sequenced.)
+2. Tang Wulin "blinked for a moment before he cutely walked over and stood in the middle."

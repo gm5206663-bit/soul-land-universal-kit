@@ -1,5 +1,7 @@
 # ═══ WORKSPACE MAP — read this first ═══
 
+🔥 **2026-10-12 — ONE HOME: every Soul Land project now lives in this repository.** Map: [`PROJECTS.md`](PROJECTS.md) · machine register of every book and every tree: [`REGISTER.md`](REGISTER.md).
+
 📖 **READ THE GOLDEN LION (Soul Land 2 fanfic): [`THE_GOLDEN_LION.md`](THE_GOLDEN_LION.md)** — chapter list with direct links.
 🆕 **NEW — *One in a Thousand* (SL3 OC serial — same generation as Tang Wulin): [`soul_land_3_oc/README.md`](soul_land_3_oc/README.md)** — founded 2026-10-02 on the author's spec. OC: **Su Yan** — **Luo Sanpao** martial soul (the half-finished dragon; canon-verified) · **innate soul power 1** · six years of illness spent the Adaptation Talent's pre-awakening budget; recovered just before his Awakening Day. Foundation v1 + live canon spine (SL3 ch 1 ceremony; Luo Sanpao / Yu Xiaogang / BLTD rows). Author's gates answered 2026-10-02: **Glorybound** (Wulin's own town) · illness = **soul-veins + body** · first spirit soul = the **Light Wyrm** — a **Light Dragon Lizard**, the author's own naming (his own creation, canon-checked). **Chapters 1–7 shipped (through *The Refusal*); **Ch 1–7 live on the Soul Library shelf** (63,209 words; shelf `e87d4f3`).** **2026-10-03:** the house ruling (`soul_land_3_oc/bible/FAMILY_AND_HOUSE.md` — a four-ring father, a two-ring mother, relatives and friends on the page) + **R22 canon-clear prose**; Chapter 7 shipped under both. *(The predecessor prequel was deleted the same day — see the ADDITION note below.)*
 🌱 **PARKED — QING LING (Soul Land 3 fanfic; ch 1–7 shipped, gates green): [`_archive/2026-09-30_park/soul_land_3_fanfiction/`](_archive/2026-09-30_park/soul_land_3_fanfiction/) — resume via its `foundation/PARKED_2026-09-30.md`**
@@ -346,3 +348,26 @@ The author closed the SL3 serial **"Qing Ling"** and ordered the workshop cleane
 - **`soul_land_3_prequel/` — DELETED 2026-10-02** by the author's word (*"Delete it we create another..."*): *The Sixth Kilometer* (Cen Zhen; the Blood God base) is gone from the live tree; its commits remain in history if ever wanted.
 - **On-disk view now:** root docs + `soul_land_2_new/` (live; its own agent owns it) + `_archive/2026-09-30_park/` + `soul_land_3_oc/`. All other branches stay intact in git (sparse view), reachable via `git show HEAD:<path>`.
 
+
+
+---
+
+## ADDITION — 2026-10-12 · ONE HOME: the whole Soul Land corpus consolidated here
+
+At the author's word, every Soul Land project that lived in its own repository was
+imported into this one, whole, with provenance (`IMPORTED.md` in each folder):
+
+- `soul_land_1_fire_dragon_lizard/` (5 ch) · `soul_land_2_the_grey_wolf/` (10 ch) ·
+  `soul_land_2_clear_sky_lion/` (Stage 0) · `soul_land_4_fire_phoenix/` (52 published ch —
+  the private working layers stayed private) · `adaptive_prodigy/` (116 ch — **The
+  Adaptive Prodigy**, OC **Lin Hao**, newest text + the 2026-09 codex) · `qian_xunji/` (9 ch) ·
+  `lan_shen/` (7 ch) · `seed_of_creation/` (SL2.5 foundation) ·
+  `SL1_GU_YUAN/uploads/` (every surviving GitHub byte of Gu Yuan, incl. Ch 75).
+
+**Nothing was deleted anywhere.** Source repositories keep their history, sites and CI.
+The full map — every serial, its status, its provenance, and what lives elsewhere by
+design — is [`PROJECTS.md`](PROJECTS.md); the machine register is [`REGISTER.md`](REGISTER.md).
+
+⚠️ **Open finding, reported straight:** Gu Yuan's approved edge is Chapter 98, but
+chapters 54–98 exist nowhere on GitHub. Only the upload pack (with Ch 75) survives. If
+the author's copy still exists anywhere, it should come home.

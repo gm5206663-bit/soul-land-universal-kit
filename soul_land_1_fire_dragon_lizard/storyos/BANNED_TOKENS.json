@@ -1,0 +1,49 @@
+{
+  "note": "regression tokens — grep chapters for these; any hit is a drift bug. Same pattern as the author's fire-phoenix project (storyos/BANNED_TOKENS.json there).",
+  "generated": "2026-10-03",
+  "banned_tokens": {
+    "rejected_drafts": [
+      "The Lizard and the Grass",
+      "sacred-quiet",
+      "calculation of theirs comes out differently"
+    ],
+    "forbidden_early_canon": [
+      "Yu Xiaogang",
+      "Xiao Wu",
+      "Nuoding Academy",
+      "Sea God",
+      "Clear Sky Sect",
+      "Haotian"
+    ],
+    "forbidden_early_terms_for_this_era": [
+      "Yan Shuo",
+      "Lan Xuanyu",
+      "Spirit Ascension Platform",
+      "Dorm333"
+    ],
+    "forbidden_cheat_language": [
+      "System",
+      "level up",
+      "[[",
+      "]]",
+      "宿主",
+      "签到",
+      "开挂",
+      "外挂",
+      "金手指",
+      "面板"
+    ],
+    "forbidden_currentization": [
+      "innate 5",
+      "innate 6",
+      "innate 7",
+      "first ring",
+      "second ring"
+    ],
+    "walls": [
+      "Gu Yuan",
+      "Lan Shen",
+      "Luo Chen"
+    ]
+  }
+}
