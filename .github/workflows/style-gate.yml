@@ -1,0 +1,77 @@
+# STYLE GATE — the System Cheat's laws, verified on every push.
+#
+# Armed 2026-10-11. Replaces soul_land_system_cheat/tools/style_gate_ci_draft.yml,
+# which was held back only because the PAT lacked `workflow` scope.
+#
+# Scoped deliberately to soul_land_system_cheat/** so the kit's other subprojects
+# (which have their own gates and their own state) do not produce noise here.
+#
+# HARDENED per the house template (fire-phoenix-workshop/.github/workflows/validate.yml):
+#   - actions pinned to commit SHAs, not mutable tags
+#   - permissions: contents: read  (least privilege)
+#   - concurrency cancel-in-progress
+#   - job timeout
+#
+# TRIGGER COVERS WHAT THE GATE READS. The gate reads both chapters/ (author
+# editions) and manuscript/ (reader editions) under soul_land_system_cheat/, and
+# fails when one is stale against the other. The first draft of this workflow
+# triggered on chapters/tools/foundation only, so an edit to the SHIPPED reader
+# editions would not have run the gate that compares them — the scope law in a
+# new place. manuscript/** is now in both path lists, and so is this file, so
+# the workflow validates itself on its own edits.
+#
+# WHAT THIS DOES AND DOES NOT VERIFY — read this before trusting the badge.
+# It enforces, as hard failures: no sentence over 60 words · no "the way" tic ·
+# no bare 「...」 panel lines in prose.
+# It does NOT enforce: the dialogue floor, digits-in-prose, placeholder text, or
+# marker discipline. The floor is MEASURED and printed per chapter, but is not
+# currently part of the pass/fail condition. A green badge here does NOT mean all
+# seven hard gates from 09_AUDIT_LAW.md are satisfied.
+
+name: style-gate
+
+on:
+  push:
+    paths:
+      - 'soul_land_system_cheat/chapters/**'
+      - 'soul_land_system_cheat/manuscript/**'
+      - 'soul_land_system_cheat/tools/**'
+      - 'soul_land_system_cheat/foundation/PANELS.md'
+      - '.github/workflows/style-gate.yml'
+  pull_request:
+    paths:
+      - 'soul_land_system_cheat/chapters/**'
+      - 'soul_land_system_cheat/manuscript/**'
+      - 'soul_land_system_cheat/tools/**'
+      - 'soul_land_system_cheat/foundation/PANELS.md'
+      - '.github/workflows/style-gate.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: style-gate-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  gate:
+    name: Style gate + panel ledger
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          persist-credentials: false
+
+      - name: Set up Python
+        uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5.6.0
+        with:
+          python-version: "3.11"
+
+      - name: Style gate
+        run: python3 soul_land_system_cheat/tools/style_gate.py
+
+      - name: Panel ledger in sync
+        run: python3 soul_land_system_cheat/tools/check_panels.py
