@@ -1,6 +1,6 @@
 # THE REGISTER — every book, every tree
 
-*Generated 2026-10-12 14:23 by `tools/register.py` over `this repository`. Regenerate it; never edit it.*
+*Generated 2026-10-12 14:45 by `tools/register.py` over `this repository`. Regenerate it; never edit it.*
 
 **16 registered books · 283 chapters · 1,209,921 words · 479 sentences over 60 words.**
 

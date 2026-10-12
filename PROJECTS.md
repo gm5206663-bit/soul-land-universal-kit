@@ -72,25 +72,36 @@
 | `adaptive_prodigy/` | shelf + `soul-land-projects/reference/sl3_lin_hao` | `ee1641b` · `867048b` | 116 newest chapters + 137 codex docs |
 | `soul_land_4_fire_phoenix/` | private repo, published layer | `f9809e6` | the 52 published chapters |
 | `soul_land_4_fire_phoenix/` (working layers) | the same private repo, everything else | `` | audits (447 files), the storyos pipeline, status panels, foundations — the private/public split ended by the author's order |
-| `soul_land_4_fire_phoenix/workshop/` | repo `fire-phoenix-workshop` | `` | rebuild layers, semantic audits, research, provenance, managed snapshots, admin receipts |
+| `soul_land_4_fire_phoenix/workshop/` | repo `fire-phoenix-workshop` | `` | rebuild layers, semantic audits, research, provenance, admin receipts — the `sources/` snapshot layers were deleted the same day as extras |
 | `qian_xunji/` | repo `qian-xunji-adaptation` | `d939d12` | whole project |
 | `lan_shen/` | repo `lan_shen` | `cc8c180` | whole project |
 | `seed_of_creation/` | frozen `soul-land-projects` | `867048b` | the SL2.5 foundation |
 | `SL1_GU_YUAN/uploads/` | frozen `soul-land-projects` | `867048b` | every surviving GitHub byte of Gu Yuan |
 
-**Preserved into `_archive/2026-10-12_one-home/` before their repositories were emptied:**
+### One copy of one thing — the extras, deleted (second pass, 2026-10-12)
 
-| What | Files | Why it was kept rather than dropped |
+The author's word: **one copy of one thing.** Everything that was only an extra — an older
+edition of a text that already lives, a snapshot layer of a tree that has a live home — is
+gone. This is the ledger:
+
+| Deleted | Files | What it was |
 |---|---:|---|
-| Adaptive Prodigy reference edition (older, 101 ch) | 300 | a full older edition — an archive record, not a live second copy |
-| Tianyu pre-drop state | 25 | the fuller draft of a dropped project |
-| blue_silver frozen state (pre-rebuild) | 61 | differs from the parked rebuilt Book One |
-| lan_shen V1 epoch (15 chapters) | 18 | the pre-rebuild epoch |
-| qian-xunji ch 8–11 revision drafts | 26 | the revision record |
-| grey-wolf unshipped drafts | 6 | written, never shipped |
-| soul-land starter scaffold + slp root documents | 27 | the archive's own paper trail |
+| `_archive/2026-10-12_one-home/` | 478 | the preserved older editions: the Adaptive Prodigy 2026-09 edition (101 ch), the Tianyu pre-drop state, blue_silver pre-rebuild, the lan_shen V1 epoch, the qian-xunji revision drafts, the grey-wolf unshipped drafts, the starter scaffold, the frozen archive's root documents |
+| `soul_land_4_fire_phoenix/workshop/sources/` | 1,114 | the workshop's snapshot layers: the chapter-51 managed snapshot, the storyos published-layer copy, the old universal-kit copy — each a copy of a tree that has a live home |
 
-*Say the word and any of these go too — one command each.*
+**Kept, because each is the only copy of its thing:** the parked serials (Blue Silver,
+Qing Ling), the rejected-layer records inside `soul_land_4_fire_phoenix/archive/`, every
+live chapter, every codex. **Recovery:** the repositories these came from were deleted the
+same day and are restorable via GitHub for 90 days — after that window, extras are gone.
+
+**Inside this repository, what still repeats is only:** each project's own LICENSE/NOTICE
+(Boilerplate, carried per project on purpose), the Fire Phoenix status-panel copies, and
+the workshop's accepted-vs-staged layer pairs — the author's own layout, kept as
+structure. Nothing else repeats.
+
+**The reading surfaces keep their copies, because that is what they are:** the public
+library (`soul-library`) and the published pages are where readers read — a library with
+no books is not a library. If those should be emptied too, one word.
 
 **Dropped by rule (not preserved, deliberately):** the six repos' CI workflows (this
 repository's weekly sweep gates everything now), `lan_shen/_kit_reference` (it was a mirror

@@ -365,10 +365,23 @@ imported into this one, whole, with provenance (`IMPORTED.md` in each folder):
   `lan_shen/` (7 ch) · `seed_of_creation/` (SL2.5 foundation) ·
   `SL1_GU_YUAN/uploads/` (every surviving GitHub byte of Gu Yuan, incl. Ch 75).
 
-**Nothing was deleted anywhere.** Source repositories keep their history, sites and CI.
+**Nothing was deleted *then*** — the deletions came later, at the author's word, once everything was home (see the second-pass note at the end of this file).
 The full map — every serial, its status, its provenance, and what lives elsewhere by
 design — is [`PROJECTS.md`](PROJECTS.md); the machine register is [`REGISTER.md`](REGISTER.md).
 
 ⚠️ **Open finding, reported straight:** Gu Yuan's approved edge is Chapter 98, but
 chapters 54–98 exist nowhere on GitHub. Only the upload pack (with Ch 75) survives. If
 the author's copy still exists anywhere, it should come home.
+
+
+---
+
+## SECOND PASS — 2026-10-12 · one copy of one thing
+
+The author's word, applied to the last extras: the preserved older editions
+(`_archive/2026-10-12_one-home/`) and the workshop's snapshot layers
+(`soul_land_4_fire_phoenix/workshop/sources/`) were deleted — 1,592 files, every one of
+them an older edition of a text that lives, or a copy of a tree that has a home. The
+ledger is in [`PROJECTS.md`](PROJECTS.md). What remains identical anywhere here is
+LICENSE/NOTICE boilerplate and the author's own layer structure. Nothing that was the
+only copy of its text was touched.
