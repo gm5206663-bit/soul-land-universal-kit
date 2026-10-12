@@ -53,6 +53,10 @@ The cure is always the same three things, and every detector here obeys them:
 | **publication** | does the in-tree site match the source? | chapter html in the repository against the book's chapters |
 | **pages** | does the **live** site match the book? | the Pages URL itself, through the API — a repository can hold a perfect site that was never deployed |
 | **housekeeping** | is the repository carrying machine files or frozen archives? | a `.pyc`, a `.bak`, a `__pycache__/`, an archive — **what `git ls-files` says is tracked**, never what happens to be on disk |
+| **links** | does the navigation in a shipped document lead anywhere? | relative targets in tracked `.md`/`.html` that do not exist. Fences, inline code and `<script>` blocks are not navigation; conventional placeholders (`[id](url)`) are skipped and the skips are counted |
+| **generated** | is a view stamped as generated actually its source's output? | reads the `GENERATED from <path>; SHA256: <hash>` stamp, re-hashes the source, compares. A mismatch means the view drifted or was edited after generation, and the stamp is a claim that is no longer true |
+| **enforcement** | does anything run the gates? | presence of gate-shaped scripts vs presence of a workflow file. Deliberately modest: it does not claim a workflow runs a given gate, and the detail says so |
+| **sightings** | is every chapter-bearing tree accounted for? | every tree on disk is either a registered book, a classified sighting, or a **hard** finding. The register's guarantee: nothing is simply unseen. 82 of 82 trees accounted; 32 classified sightings; 0 unexplained |
 
 ## 3 · Severity is a judgement the house already made
 
@@ -120,6 +124,27 @@ Recorded because they are the reason the account numbers can be quoted at all:
 6. **A book and its own published copy are one home.** Counting them as two made
    54 twin groups look like duplication; one independent pair remains.
 7. **The list could hide the defect.** See §4, twice.
+11. **The register listed what it looked at, not what was there.** The largest
+   defect the system has found in itself — and the author found it first. Two
+   exclude rules (`/reference/`, `sources/`) and one assumption (a book has a
+   `chapters/` directory) meant the account had never seen **Adaptive Prodigy
+   (116 chapters, 572,212 words — its only home the Soul Library shelf)**,
+   **Lin Hao / Soul Land 3 (101 chapters, 478,425 words — a reference copy in an
+   archived repository)**, the whole library shelf, or the Fire Phoenix
+   workshop's content. The register said 24 books while the disk held 84
+   chapter-bearing trees and, copies included, 4.5 million words of prose.
+   Repaired three ways: the shelf layout is a first-class book shape; a tree
+   that is the ONLY home of its text is registered wherever it is found
+   (read-only when its repository is); and the sightings detector makes the
+   guarantee checkable. One more trap, caught the same hour: 116 generic
+   `chapter_01.md` names scored a perfect "copy" match against an 8-chapter
+   book — generic names never prove identity now; size must agree.
+10. **The new enforcement detector declared "13 of 12".** Its numerator counted
+   every repo with a workflow — including repos that carry no gate script — while
+   the denominator counted only gate-carrying repos, so the coverage line could
+   not be true. Caught by reading the number instead of trusting it, hours after
+   the same class of bug was fixed in the library's sentinel. A coverage line is
+   a claim; it gets checked like one.
 9. **The detector reported its own author's working files.** The housekeeping
    walk read the *filesystem*, so the `__pycache__` it found inside the kit's
    `tools/` was the one this operator created by running those very tools from
@@ -137,14 +162,18 @@ Recorded because they are the reason the account numbers can be quoted at all:
 
 ## 6 · Current state
 
-**2026-10-11 (evening, after the repair sweep) · 24 books · 274 chapters ·
-1,151,458 words · 21,726 spoken lines.**
+**2026-10-12 · 25 books · 484 chapters · 2,107,667 words · 40,510 spoken lines.**
 
-**138 hard · 78 advisory**, every class sample-verified against the text:
+The account did not grow. The register stopped lying about its size: a
+`/reference/` exclusion, a `sources/` exclusion and a `chapters/`-shaped
+assumption had been hiding a 116-chapter serial, a 101-chapter serial, an entire
+library shelf and a whole workshop. Self-bug 11, below.
+
+**1,026 hard · 467 advisory**, every class sample-verified against the text:
 
 | kind | count | severity | note |
 |---|---|---|---|
-| over 60 words | 119 sentences in 15 files, 3 repos | hard | 70 in `supergirl-adrian-vale` (a beat-style voice question, see below), 48 in the archived `SOUL_LAND_NEW` scaffold, 1 unsplittable sentence in the kit |
+| over 60 words | 1,002 sentences in 6 books | hard | **882 of them in the two works that were invisible until 2026-10-12**: Adaptive Prodigy 477, Lin Hao / Soul Land 3 405 — both frozen or reference copies, so repairing them is the author's call; then supergirl 70, the `SOUL_LAND_NEW` scaffold 48, two singles |
 | repeated inside one file | 17 | hard | one sentence twice inside otherwise-different paragraphs; the author's echo style — reported, not cut |
 | dialogue under the floor | 2 | hard | two 20-word stub chapters (`soul_land_starter`, `soul_land_new`), author's call |
 | repeated across chapters | 69 | advisory | the house refrain style; the author decides |
@@ -152,6 +181,9 @@ Recorded because they are the reason the account numbers can be quoted at all:
 | one text, two homes | 1 | advisory | a 20-word stub in two repositories |
 | dialogue exempt | 1 | advisory | Devouring Dragon, by law |
 | housekeeping | 5 | advisory | five committed archives (0.02–2.77 MB): two fire-phoenix snapshots, one how-to-write zip, the starter zip, supergirl's `…53PASS.zip`. Each says *if it is meant to be kept, say so* — the author's call, three repos' worth of history already being kept by git |
+| dead links | 3 | advisory | supergirl's beat maps cite `user_request_U31` / `U33` as relative links; the files are nowhere in the repository — broken citations in the coverage receipts |
+| CI gaps | 6 | advisory | repos carrying gate scripts with no workflow file: pokemon, fire-dragon, the private fire_phoenix, storyos-site, supergirl, the-universal-storyline-creation |
+| generated views | 0 | — | all **11 of 11** stamped views verified against their source, byte for byte: the renderers are honest today |
 
 Live sites: 3 repositories publish; **1 compared to its book and it agrees**
 (Grey Wolf, 10 chapter links = 10 chapters); 2 are declared *uncompared* because

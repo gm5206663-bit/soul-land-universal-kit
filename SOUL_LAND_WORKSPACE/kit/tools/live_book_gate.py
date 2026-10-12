@@ -51,12 +51,83 @@ DEAD_PATH_RX = re.compile(r'(^|/)(_archive|archive|archives|_attic|attic|audit|a
 # prose invents sixty-word sentences that nobody wrote.
 PLAN_LINE_RX = re.compile(r'·|^[A-Z][A-Za-z /()\-]{2,24}:\s|^\s*\||^\s*[-*]\s?')
 
+#: A record section is to a chapter what the production block is to the file:
+#: the author's own bookkeeping, not his prose. adaptive_prodigy and
+#: Soul_Land_2_Project end every chapter with a run of these sections —
+#: Chapter Summary, Character States, Canon Anchors, Butterfly Effects,
+#: Ensemble, Next Chapter Preview — and the chapter summaries quote the
+#: chapter's own lines. Reading them as prose counted quoted records as
+#: repeated sentences (the same summary line in 116 chapters is a record
+#: doing its job, not a refrain) and put the author's notes under the
+#: sentence cap. Declared HERE, printed in every report, and selftested.
+RECORD_SECTION_RX = re.compile(
+    r'(?i)^(#{2,4})\s*(Chapter Summary|Character States|Character Progression|'
+    r'Chapter end state|Ensemble\b|Canon Preserved|NOT triggered|Butterfly Effects|'
+    r'Butterflies this chapter|Canon Anchors|Canon Facts Established|AU / Butterfly|'
+    r'AU, labelled|AT / Mutations Shown|Attractiveness Mentions|Ranks at chapter end|'
+    r'GROWTH:|World Details Shown|Timeline:|Canon Reference:|Canon anchors held|'
+    r'Problems from PROBLEM_INVENTORY|Next Chapter Preview)')
+
+
+def record_mask(body):
+    """True for each body line inside a declared record section.
+
+    A record section opens at a matching heading and closes at the next
+    heading of the same or a higher level — so a narrative '## Part' after a
+    '### Chapter Summary:' closes the record and everything past it is prose
+    again. The mask is the ONE definition; prose_sentences(), measure() and
+    the sentence-repair tool all read it, so the record boundary cannot drift
+    between the tools that judge the same file.
+    """
+    depth, out = None, []
+    for l in body.split('\n'):
+        m = re.match(r'^(#{1,6})\s', l)
+        if m:
+            lvl = len(m.group(1))
+            if RECORD_SECTION_RX.match(l):
+                depth = lvl
+                out.append(True)
+                continue
+            if depth is not None and lvl <= depth:
+                depth = None
+        out.append(depth is not None)
+    return out
+
+
+def record_lines(body):
+    """How many non-blank lines a file holds inside record sections."""
+    return sum(1 for l, m in zip(body.split('\n'), record_mask(body)) if m and l.strip())
+
+
+#: A stopped serial's scaffold file. soul_land_new ships chapters/Chapter_01.md
+#: containing only the template placeholders — 'This file is populated only when
+#: the author opens the serial'. It is real scaffolding, and it is not a chapter:
+#: counting it put a 20-word file with zero voices under the dialogue floor as a
+#: hard finding. A declared placeholder is skipped as a chapter.
+PLACEHOLDER_RX = re.compile(r'\{\s*No content yet|populated only when the author opens the serial', re.I)
+
+
+def placeholder_file(path):
+    try:
+        head = open(path, encoding='utf-8', errors='replace').read(600)
+    except OSError:
+        return False
+    return bool(PLACEHOLDER_RX.search(head))
+
+
 #: Paths that are never the live book: historical snapshots, promotion staging,
-#: reference copies kept beside the work. ONE definition — the gate and the
-#: control centre both call is_out_of_scope(), because two copies of a scope
-#: rule drift exactly like two copies of a text.
+#: reference copies kept beside the work — and the SL4 workshop layer (managed
+#: snapshots, rebuild staging, semantic audits kept beside the serial). ONE
+#: definition — the gate and the control centre both call is_out_of_scope(),
+#: because two copies of a scope rule drift exactly like two copies of a text.
+#: Lesson of 2026-10-12: choose_live() was the third reader of this rule and it
+#: did not apply it — the day the Fire Phoenix workshop moved in beside the
+#: chapters, its snapshot trees made a live book look ambiguous and the gate
+#: refused to measure 52 chapters it had measured for weeks. A scope rule with
+#: two callers and three readers is a scope rule with a hole.
 OUT_OF_SCOPE_RX = re.compile(r'(/reference/|promotion_proposal|staging|_kit_reference'
-                             r'|sources/)', re.I)
+                             r'|sources/|late_arc_rebuild|accepted_replacement_layers'
+                             r'|workshop/)', re.I)
 
 
 def is_out_of_scope(rel):
@@ -69,14 +140,21 @@ STATUS_FILES = ('HANDOFF.md', 'README.md', 'STATUS.md', 'STATE.md', 'NEXT.md')
 def chapter_files(d):
     out = []
     for f in sorted(os.listdir(d)):
+        full = os.path.join(d, f)
         if (f.endswith('.md') and CHAPTER_RX.match(f)
-                and not NON_CHAPTER_RX.search(f)):
-            out.append(os.path.join(d, f))
+                and not NON_CHAPTER_RX.search(f)
+                and not placeholder_file(full)):
+            out.append(full)
     return out
 
 
 def chapter_dirs(project):
-    """Every directory under the project that holds chapter-numbered files."""
+    """Every directory under the project that holds chapter-numbered files.
+
+    The project's own root counts when it holds chapters directly — a shelf
+    serial (chapters/<name>/Chapter_01.md) has no 'chapters' subdirectory of its
+    own, and skipping '.' here would make every one of them a scope refusal.
+    """
     found = {}
     for dirpath, dirnames, filenames in os.walk(project):
         parts = dirpath.split(os.sep)
@@ -84,10 +162,9 @@ def chapter_dirs(project):
             dirnames[:] = []
             continue
         rel = os.path.relpath(dirpath, project)
-        if rel == '.':
-            continue
-        if any(CH_RX_match(f) for f in filenames):
-            found[rel] = dirpath
+        if any(CH_RX_match(f) and not placeholder_file(os.path.join(dirpath, f))
+               for f in filenames):
+            found['.' if rel == '.' else rel] = dirpath
     return found
 
 
@@ -107,7 +184,7 @@ def status_text(project):
 def choose_live(project, dirs):
     """Return (live_dir, dead_dirs, why) or (None, [], refusal)."""
     candidates = {r: p for r, p in dirs.items()
-                  if os.path.basename(r) not in DERIVED and not DEAD_PATH_RX.search(r)}
+                  if os.path.basename(r) not in DERIVED and not is_out_of_scope(r)}
     if not candidates:
         return None, [], (f'no chapter directory found under {project} '
                           f'(looked for Chapter_<n>*.md; saw: {sorted(dirs) or "nothing"})')
@@ -197,9 +274,16 @@ def body_of(path):
 
 
 def prose_sentences(path):
-    """Prose sentences: no headings, no blockquote panels, no planning lines."""
-    lines = [l for l in body_of(path).split('\n')
-             if l.strip() and not re.match(r'#+\s', l)]
+    """Prose sentences: no headings, no panels, no planning lines, no records.
+
+    Record sections (record_mask) are the author's bookkeeping — the same
+    category as the production block the footer split removes. Words are still
+    counted across them (a manuscript's size is its size); SENTENCE laws are
+    not applied to notes the author wrote for himself.
+    """
+    body = body_of(path)
+    lines = [l for l, rec in zip(body.split('\n'), record_mask(body))
+             if l.strip() and not rec and not re.match(r'#+\s', l)]
     prose = [l for l in lines if not l.startswith('>') and not PLAN_LINE_RX.search(l)]
     return [s for l in prose for s in sentences(l)]
 
@@ -207,7 +291,12 @@ def prose_sentences(path):
 def measure(path):
     body = body_of(path)
     lines = [l for l in body.split('\n') if l.strip() and not re.match(r'#+\s', l)]
-    prose = [l for l in lines if not l.startswith('>') and not PLAN_LINE_RX.search(l)]
+    # words: the whole authored file (records are part of the manuscript's size).
+    # sentence laws: prose only — records excluded exactly as prose_sentences()
+    # excludes them, so the gate and the report can never disagree on a file.
+    prose = [l for l, rec in zip(body.split('\n'), record_mask(body))
+             if l.strip() and not rec and not re.match(r'#+\s', l)
+             and not l.startswith('>') and not PLAN_LINE_RX.search(l)]
     words = len('\n'.join(lines).split())
     sent = [s for l in prose for s in sentences(l)]
     sl = [len(s.split()) for s in sent]
@@ -311,10 +400,24 @@ def find_projects(root):
         if '.git' in parts or 'node_modules' in parts:
             dirnames[:] = []
             continue
-        if os.path.basename(dirpath).startswith('chapter') and chapter_files(dirpath):
-            proj = os.path.dirname(dirpath)
-            if proj not in out:
-                out.append(proj)
+        if os.path.basename(dirpath).startswith('chapter'):
+            if chapter_files(dirpath):
+                proj = os.path.dirname(dirpath)
+                if proj not in out:
+                    out.append(proj)
+            # LIBRARY SHELF LAYOUT: chapters/<serial>/Chapter_<n>.md — the serial
+            # directory is itself a book. Without this rule every serial whose
+            # only home is a shelf (the 116-chapter Adaptive Prodigy among them)
+            # was invisible to every tool in this kit. Chasing six chapters across
+            # five gates while a 572,000-word work sat five directories deep was
+            # the largest version yet of the defect this whole system exists to
+            # catch: reporting on what was looked at instead of looking at what
+            # is there. The subdir scan fires whether or not this directory also
+            # holds chapter files directly.
+            for sub in sorted(dirnames):
+                p = os.path.join(dirpath, sub)
+                if chapter_files(p) and p not in out:
+                    out.append(p)
     return sorted(out)
 
 

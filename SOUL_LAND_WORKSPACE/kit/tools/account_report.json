@@ -1,7 +1,7 @@
 {
  "tool": "account-control-centre",
  "version": "1.0",
- "generated": "2026-10-12 03:07",
+ "generated": "2026-10-12 03:36",
  "root": "/tmp/all",
  "books": [
   {
@@ -3508,11 +3508,35 @@
   },
   {
    "detector": "housekeeping",
-   "note": "5075 file(s) scanned across 18 repo(s); 5 machine file(s) or archive(s) found",
+   "note": "5094 file(s) scanned across 18 repo(s); 5 machine file(s) or archive(s) found",
    "checked": 18,
    "total": 18,
    "unit": "repository(ies) walked for machine files and archives",
    "text": "18 of 18 repository(ies) walked for machine files and archives"
+  },
+  {
+   "detector": "links",
+   "note": "4334 file(s) scanned, 847 relative link(s) checked, 3 dead; 9 file(s) over 512 KB skipped",
+   "checked": 4334,
+   "total": 4334,
+   "unit": "document(s) scanned for links",
+   "text": "4334 of 4334 document(s) scanned for links"
+  },
+  {
+   "detector": "generated",
+   "note": "11 stamped file(s) found, 11 verified against its source",
+   "checked": 11,
+   "total": 11,
+   "unit": "stamped file(s) checked against their source",
+   "text": "11 of 11 stamped file(s) checked against their source"
+  },
+  {
+   "detector": "enforcement",
+   "note": "12 repo(s) carry gate scripts, 7 repo(s) carry a workflow file, 6 gate repo(s) have no workflow \u2014 presence is all this checks, not what a workflow runs",
+   "checked": 6,
+   "total": 12,
+   "unit": "gate-carrying repo(s) with a CI workflow present",
+   "text": "6 of 12 gate-carrying repo(s) with a CI workflow present"
   }
  ],
  "findings": [
@@ -5428,6 +5452,18 @@
    "law": "the repository is the artifact \u2014 bytecode, editor leftovers and old snapshots are dead weight, and a snapshot carries a stale copy of the text"
   },
   {
+   "id": "a421417cc61c",
+   "kind": "ci-gap",
+   "severity": "advisory",
+   "repo": "pokemon-adaptation",
+   "book": "-",
+   "file": "pokemon-adaptation",
+   "subject": "pokemon-adaptation",
+   "detail": "pokemon-adaptation carries 1 gate script(s) (tools/style_gate.py) and no workflow file is present \u2014 either arm it in CI or say the gate is run by hand",
+   "evidence": "tools/style_gate.py",
+   "law": "a gate that only runs when someone remembers is a promise, not a check"
+  },
+  {
    "id": "fe0ba9dd3799",
    "kind": "repeat-across",
    "severity": "advisory",
@@ -5450,6 +5486,18 @@
      "file": "Chapter_02_The_Codex.md"
     }
    ]
+  },
+  {
+   "id": "ae1d1d196431",
+   "kind": "ci-gap",
+   "severity": "advisory",
+   "repo": "soul-land-1-fire-dragon-lizard",
+   "book": "-",
+   "file": "soul-land-1-fire-dragon-lizard",
+   "subject": "soul-land-1-fire-dragon-lizard",
+   "detail": "soul-land-1-fire-dragon-lizard carries 1 gate script(s) (tools/chapter_gate.py) and no workflow file is present \u2014 either arm it in CI or say the gate is run by hand",
+   "evidence": "tools/chapter_gate.py",
+   "law": "a gate that only runs when someone remembers is a promise, not a check"
   },
   {
    "id": "6fba59a3a01d",
@@ -6864,6 +6912,18 @@
    ]
   },
   {
+   "id": "fa99ac4969a6",
+   "kind": "ci-gap",
+   "severity": "advisory",
+   "repo": "soul_land_4_fire_phoenix",
+   "book": "-",
+   "file": "soul_land_4_fire_phoenix",
+   "subject": "soul_land_4_fire_phoenix",
+   "detail": "soul_land_4_fire_phoenix carries 1 gate script(s) (tools/perfect_continuation_skill_check.py) and no workflow file is present \u2014 either arm it in CI or say the gate is run by hand",
+   "evidence": "tools/perfect_continuation_skill_check.py",
+   "law": "a gate that only runs when someone remembers is a promise, not a check"
+  },
+  {
    "id": "04cd0c8a14a2",
    "kind": "repeat-across",
    "severity": "advisory",
@@ -6886,6 +6946,66 @@
      "file": "Chapter_14.md"
     }
    ]
+  },
+  {
+   "id": "944c789c8d87",
+   "kind": "ci-gap",
+   "severity": "advisory",
+   "repo": "storyos-site",
+   "book": "-",
+   "file": "storyos-site",
+   "subject": "storyos-site",
+   "detail": "storyos-site carries 1 gate script(s) (framework/scripts/verify_stage.py) and no workflow file is present \u2014 either arm it in CI or say the gate is run by hand",
+   "evidence": "framework/scripts/verify_stage.py",
+   "law": "a gate that only runs when someone remembers is a promise, not a check"
+  },
+  {
+   "id": "3dc72b34f81c",
+   "kind": "ci-gap",
+   "severity": "advisory",
+   "repo": "supergirl-adrian-vale",
+   "book": "-",
+   "file": "supergirl-adrian-vale",
+   "subject": "supergirl-adrian-vale",
+   "detail": "supergirl-adrian-vale carries 3 gate script(s) (tools/selftest.py, tools/verify.py, tools/verify_foundation.py) and no workflow file is present \u2014 either arm it in CI or say the gate is run by hand",
+   "evidence": "tools/selftest.py, tools/verify.py, tools/verify_foundation.py",
+   "law": "a gate that only runs when someone remembers is a promise, not a check"
+  },
+  {
+   "id": "046b3123d862",
+   "kind": "dead-link",
+   "severity": "advisory",
+   "repo": "supergirl-adrian-vale",
+   "book": "-",
+   "file": "canon_coverage/EPISODE_05_BEAT_MAP.md",
+   "subject": "canon_coverage/EPISODE_05_BEAT_MAP.md->canon_coverage/user_request_U31",
+   "detail": "canon_coverage/EPISODE_05_BEAT_MAP.md links to canon_coverage/user_request_U31, which is not in the repository",
+   "evidence": "user_request_U31",
+   "law": "broken navigation is a silent reader loss \u2014 a shipped view once carried 496 dead links"
+  },
+  {
+   "id": "272dc3c064db",
+   "kind": "dead-link",
+   "severity": "advisory",
+   "repo": "supergirl-adrian-vale",
+   "book": "-",
+   "file": "canon_coverage/EPISODE_06_BEAT_MAP.md",
+   "subject": "canon_coverage/EPISODE_06_BEAT_MAP.md->canon_coverage/user_request_U33",
+   "detail": "canon_coverage/EPISODE_06_BEAT_MAP.md links to canon_coverage/user_request_U33, which is not in the repository",
+   "evidence": "user_request_U33",
+   "law": "broken navigation is a silent reader loss \u2014 a shipped view once carried 496 dead links"
+  },
+  {
+   "id": "aa962cbd02e9",
+   "kind": "dead-link",
+   "severity": "advisory",
+   "repo": "supergirl-adrian-vale",
+   "book": "-",
+   "file": "canon_coverage/EPISODE_06_BEAT_MAP.md",
+   "subject": "canon_coverage/EPISODE_06_BEAT_MAP.md->canon_coverage/user_request_U31",
+   "detail": "canon_coverage/EPISODE_06_BEAT_MAP.md links to canon_coverage/user_request_U31, which is not in the repository",
+   "evidence": "user_request_U31",
+   "law": "broken navigation is a silent reader loss \u2014 a shipped view once carried 496 dead links"
   },
   {
    "id": "cfa8b3d9da3d",
@@ -7239,6 +7359,18 @@
      "file": "Chapter_14_Hostile_Takeover.md"
     }
    ]
+  },
+  {
+   "id": "eb13cd26300a",
+   "kind": "ci-gap",
+   "severity": "advisory",
+   "repo": "the-universal-storyline-creation",
+   "book": "-",
+   "file": "the-universal-storyline-creation",
+   "subject": "the-universal-storyline-creation",
+   "detail": "the-universal-storyline-creation carries 2 gate script(s) (tools/foundation_gate.py, tools/selftest.py) and no workflow file is present \u2014 either arm it in CI or say the gate is run by hand",
+   "evidence": "tools/foundation_gate.py, tools/selftest.py",
+   "law": "a gate that only runs when someone remembers is a promise, not a check"
   }
  ],
  "summary": {
@@ -7247,27 +7379,32 @@
   "words": 1151458,
   "spoken": 21726,
   "hard": 138,
-  "advisory": 78,
+  "advisory": 87,
   "by_kind": {
    "over60": 119,
    "repeat-across": 69,
    "repeat-in-file": 17,
+   "ci-gap": 6,
    "housekeeping": 5,
+   "dead-link": 3,
    "dialogue-floor": 2,
    "receipt-drift": 2,
    "two-homes": 1,
    "dialogue-exempt": 1
   },
   "by_repo": {
-   "supergirl-adrian-vale": 98,
+   "supergirl-adrian-vale": 102,
    "soul-land-projects": 54,
    "soul-land-2-the-grey-wolf": 42,
    "soul-land-universal-kit": 16,
    "fire-phoenix-workshop": 2,
+   "soul-land-1-fire-dragon-lizard": 2,
+   "soul_land_4_fire_phoenix": 2,
    "how-to-write-fanfiction": 1,
+   "pokemon-adaptation": 1,
    "qian-xunji-adaptation": 1,
-   "soul-land-1-fire-dragon-lizard": 1,
-   "soul_land_4_fire_phoenix": 1
+   "storyos-site": 1,
+   "the-universal-storyline-creation": 1
   }
  }
 }

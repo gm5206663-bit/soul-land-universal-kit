@@ -156,7 +156,7 @@ They finished the bars and packed them and sat on the bench with the lamp down l
 
 "What was it?"
 
-"Metal." Wulin looked at his hands. "It was a man, but the *of-him* part was metal, and the metal was made by somebody, and every piece of it was made by somebody, and I stood under it and the only thought I had — the whole time, while Xie Xie was shouting and you were doing arithmetic — was *who made this and what did they know.*" He rubbed a thumb over an old scar. "I've wanted to wear one since I was six. I think now I want to make them. Xie Xie said it out loud so it's law, but I've been thinking it since the yard and I didn't want to say it in case saying it made it smaller."
+"Metal." Wulin looked at his hands. "It was a man, but the *of-him* part was metal, and the metal was made by somebody, and every piece of it was made by somebody. And I stood under it and the only thought I had — the whole time, while Xie Xie was shouting and you were doing arithmetic — was *who made this and what did they know.*" He rubbed a thumb over an old scar. "I've wanted to wear one since I was six. I think now I want to make them. Xie Xie said it out loud so it's law, but I've been thinking it since the yard and I didn't want to say it in case saying it made it smaller."
 
 "It won't," Lin Hao said. "I said a word on a form and it became a System. Saying things makes them bigger. That's the whole of my year."
 

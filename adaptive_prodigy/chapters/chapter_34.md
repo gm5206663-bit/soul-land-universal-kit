@@ -136,7 +136,7 @@ They called them in one at a time in the evening, which was theatre, and Lin Hao
 
 "That's not an answer I can put in a file."
 
-"It's the only answer I've got." Lin Hao looked at the table, because looking at the man felt like performing, and he had been given a great deal of advice about performing this month. "I was drawing the edge and something came out of my hands and went into the steel, and the edge came out keener than I drew it, and I've been trying for eleven days to do it again on a sword and I can't, and the only thing I can tell you is that it happens when I'm not doing it on purpose."
+"It's the only answer I've got." Lin Hao looked at the table, because looking at the man felt like performing, and he had been given a great deal of advice about performing this month. "I was drawing the edge and something came out of my hands and went into the steel, and the edge came out keener than I drew it. And I've been trying for eleven days to do it again on a sword and I can't, and the only thing I can tell you is that it happens when I'm not doing it on purpose."
 
 The examiner looked at him for a long moment.
 
@@ -178,7 +178,7 @@ He was waiting in the corridor, which was rude, and Lin Hao noticed that it was 
 
 "Yes."
 
-"I'm not going to talk to you about the bar." The man from the head office had a voice like a closed drawer. "I watched four hours of a ten-year-old doing third-rank work and I have put down what I saw and it will go in a file, and the file will be read by people whose job is to read files, and that is the whole of it, and I want you to understand that nothing is going to happen to you on Saturday's account."
+"I'm not going to talk to you about the bar." The man from the head office had a voice like a closed drawer. "I watched four hours of a ten-year-old doing third-rank work and I have put down what I saw and it will go in a file, and the file will be read by people whose job is to read files. And that is the whole of it. And I want you to understand that nothing is going to happen to you on Saturday's account."
 
 "Then why are you in the corridor."
 

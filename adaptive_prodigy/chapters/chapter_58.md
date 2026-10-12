@@ -80,7 +80,7 @@ She stood in the doorway about eleven seconds.
 
 "I do."
 
-"You did it in eighty-one strikes at ten years old," Mu Xi said, "and an old man on a stage called you terrifying, and you've been a fourth rank eighteen days, and I've been one four months, and I want you to tell me what the difference is, because I worked four months and you worked eighteen days and I can't work out what you have that I don't, and I've been standing in this doorway eleven seconds deciding whether to ask."
+"You did it in eighty-one strikes at ten years old," Mu Xi said. "And an old man on a stage called you terrifying, and you've been a fourth rank eighteen days, and I've been one four months, and I want you to tell me what the difference is, because I worked four months and you worked eighteen days and I can't work out what you have that I don't. And I've been standing in this doorway eleven seconds deciding whether to ask."
 
 Lin Hao set the hammer down.
 

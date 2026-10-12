@@ -273,7 +273,7 @@ Lin Hao opened his mouth.
 
 "I thought it might be that."
 
-"I was frightened because you put your arms under a thousand kilograms and you didn't stop to work out whether it would hurt, and I stood at the end of a corridor and I could not think of a single thing to say that wasn't either a lie or a speech, and I have never in my life been able to say a small true thing to you."
+"I was frightened because you put your arms under a thousand kilograms and you didn't stop to work out whether it would hurt, and I stood at the end of a corridor and I could not think of a single thing to say that wasn't either a lie or a speech. And I have never in my life been able to say a small true thing to you."
 
 Gu Yue looked at him.
 

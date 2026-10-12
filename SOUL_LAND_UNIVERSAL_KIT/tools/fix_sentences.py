@@ -63,6 +63,15 @@ SUBORDINATORS = {
     'although', 'after', 'before', 'as', 'when', 'where', 'why', 'if',
     'since', 'unless', 'until', 'than', 'whether', 'whereas', 'whilst'}
 PLAIN = re.compile(r',\s+')
+#: A DIALOGUE-TAG boundary: the comma that hands the floor back to the tag and
+#: then to a new quoted sentence — `"…three," Lin Hao said, "and you…"`. The
+#: house rule refuses to split INSIDE speech (who is speaking is load-bearing),
+#: but this boundary is BETWEEN two speech spans, at a comma the tag already
+#: owns — splitting it is punctuation-only, like every other repair. It was
+#: added 2026-10-12 for the fourteen quoted sentences the tool refused: the
+#: author's long speeches end at `said, "` far more often than they end at a
+#: dash or a semicolon.
+TAG = re.compile(r',(?=\s*[\"\u201c])')
 #: Last resort: a conjunction with no comma at all. The supergirl serial is
 #: written almost entirely without commas, so without this the tool would report
 #: every long sentence there as unsplittable.
@@ -89,16 +98,16 @@ def quote_balanced(t):
             and t.count('\u201c') == t.count('\u201d'))
 
 
-def candidates(sent, rx):
+def candidates(sent, rx, min_part=MIN_PART):
     out = []
     for m in rx.finditer(sent):
         before, after = sent[:m.start()], sent[m.end():]
-        if len(words_of(before)) < MIN_PART or len(words_of(after)) < MIN_PART:
+        if len(words_of(before)) < min_part or len(words_of(after)) < min_part:
             continue
         if not quote_balanced(before):
             continue
         tail = re.sub(r'^[\s,;—\-]+', '', after)
-        head_word = re.match(r"[A-Za-z']+", tail)
+        head_word = re.search(r"[A-Za-z']+", tail)   # look through a quote at the first word
         if head_word and head_word.group(0).lower() in SUBORDINATORS:
             continue                       # never start a sentence with a fragment-maker
         out.append(m)
@@ -108,8 +117,12 @@ def candidates(sent, rx):
 def split_once(sent):
     """One split, or None if this sentence offers no safe boundary."""
     n = tokens(sent)
-    for rx in (STRONG, PLAIN, BARE):
-        cs = candidates(sent, rx)
+    # The tag boundary carries its own, smaller floor: dialogue may hand the
+    # floor back after four words — '"I know," he said. "And…"' is a sentence
+    # pair, not a fragment. (Found 2026-10-12: all fourteen quoted leftovers
+    # failed on an eleven-word head at the twelve-word floor.)
+    for rx, floor in ((STRONG, MIN_PART), (TAG, 4), (PLAIN, MIN_PART), (BARE, MIN_PART)):
+        cs = candidates(sent, rx, floor)
         if not cs:
             continue
         # prefer the boundary whose split point sits nearest the middle
@@ -123,7 +136,11 @@ def split_once(sent):
         # word is worse than the defect it was written to fix.
         head = sent[:m.start()].rstrip()
         tail = re.sub(r'^[\s,;—\-]+', '', sent[m.start():])
-        tail = tail[0].upper() + tail[1:] if tail and tail[0].islower() else tail
+        if tail and tail[0].islower():
+            tail = tail[0].upper() + tail[1:]
+        elif tail and tail[0] in '\"\u201c' and len(tail) > 1 and tail[1].islower():
+            # a new quoted sentence: the capital belongs INSIDE the quote
+            tail = tail[0] + tail[1].upper() + tail[2:]
         # Return TWO parts, not one joined string. Returning the joined text and
         # appending it as a single unit is why this tool re-split the same
         # sentence six times, gave up, and reported every sentence as
@@ -365,6 +382,14 @@ def selftest():
     case('", which" is refused; the coordinated boundary is used instead', rel, 1, None)
     assert not any(t.lstrip().startswith('Which')
                    for t in lbg.sentences(repair_text(rel, [])[0])), 'a Which-fragment was written'
+    # 2026-10-12: a dialogue-tag boundary is a legal split, capital inside the quote
+    tag = (f'"{filler(30)},' + '" she said, "and ' + filler(30, 30) + '."')
+    case('a tag boundary splits a two-span quote, capital inside the quote', tag, 1, None)
+    assert '. "And ' in (repair_text(tag, []) or [''])[0], 'the capital did not land inside the quote'
+    tag2 = '"I know," she said, "and ' + filler(57, 0) + '.' + '"'
+    case('a short tag head still splits (the dialogue floor is different)', tag2, 1, None)
+    assert 'she said.' in (repair_text(tag2, []) or [''])[0]
+
     rel2 = f'{filler(62)}, which {filler(4, 62)}.'
     case('a sentence whose only boundary is a relative clause is left alone', rel2, 0, None)
     assert repair_text(rel2, []) is None, 'a fragment-split was written'

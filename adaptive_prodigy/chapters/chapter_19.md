@@ -33,7 +33,7 @@ Lin Hao turned to Wulin with the grave, solemn face of a man delivering a eulogy
 
 "She—"
 
-"She reached out," Lin Hao said, "and she put her hand on your *face,* and she pinched it, and I watched her do it, and I will be telling this story at every meal for the next six years, and by the time we graduate it will have a *title.*" He was already grinning, the whole of him, the solemnity gone before it landed. "'Ouyang Zixin Pinches Tang Wulin's Cheek.' It writes itself. It's got a beginning, a middle, and your ears."
+"She reached out," Lin Hao said. "And she put her hand on your *face,* and she pinched it, and I watched her do it, and I will be telling this story at every meal for the next six years, and by the time we graduate it will have a *title.*" He was already grinning, the whole of him, the solemnity gone before it landed. "'Ouyang Zixin Pinches Tang Wulin's Cheek.' It writes itself. It's got a beginning, a middle, and your ears."
 
 "I was *startled!*" Wulin said, which was the worst possible defense, because it was true, and his ears knew it.
 

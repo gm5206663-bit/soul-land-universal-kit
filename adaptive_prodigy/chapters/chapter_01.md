@@ -252,7 +252,7 @@ Wulin gave it to him. Lin Hao turned the Bluesilver Grass over in his fingers th
 
 "Hao."
 
-"And I've known you since we were three," Lin Hao said, "and you have never once in your life been given anything that you did not turn into a weapon, so I am going to go and stand over there with my sword, and you are going to stand here with your grass, and it is going to be exactly the same as it was yesterday, and if anybody in this square says otherwise I would like you to tell me and I will deal with it."
+"And I've known you since we were three," Lin Hao said. "And you have never once in your life been given anything that you did not turn into a weapon. So I am going to go and stand over there with my sword, and you are going to stand here with your grass, and it is going to be exactly the same as it was yesterday, and if anybody in this square says otherwise I would like you to tell me and I will deal with it."
 
 And he went and stood where he had been standing, and Wulin looked down at the grass in his hand for a long moment, and put his chin up.
 

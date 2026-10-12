@@ -204,7 +204,7 @@ Wulin said nothing. He was looking at the stone.
 
 Wulin's breath did something.
 
-"Everybody knows the story," Wu Zhangkong said. "That is not why I brought you here." He looked at the stone. "I brought you here because you are about to be in an organisation that is eight thousand years old, and you are ten, and you have three rings, and you lasted nine seconds against a legend — and the only thing that is going to keep you alive in a place like that is understanding that **you are not the interesting thing that has ever happened to it.**"
+"Everybody knows the story," Wu Zhangkong said. "That is not why I brought you here." He looked at the stone. "I brought you here because you are about to be in an organisation that is eight thousand years old, and you are ten, and you have three rings, and you lasted nine seconds against a legend. And the only thing that is going to keep you alive in a place like that is understanding that **you are not the interesting thing that has ever happened to it.**"
 
 There was a silence.
 

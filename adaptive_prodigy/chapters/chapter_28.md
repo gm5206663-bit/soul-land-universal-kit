@@ -221,7 +221,7 @@ At the dormitory door Xie Xie stopped.
 
 Lin Hao looked at him — at the boy who had been the first line in the ledger, who had drawn blood off him in a training ground and grinned about it, who had spent nine weeks being bored in exactly the right way — and understood that the question was not about Glorybound at all, and never had been.
 
-"Yes," he said. "If you go, and you become exactly what he wants, and you're miserable, and you're excellent at it, and you never once complain because complaining would be ungrateful — I'll write to you and I'll say it, and it'll cost me the friendship to say it, and I'll pay that, because the alternative is watching you disappear by degrees and calling it support." A beat. "And if it costs the friendship, then it wasn't the thing I said it was, and I'd rather find that out than keep it."
+"Yes," he said. "If you go, and you become exactly what he wants, and you're miserable, and you're excellent at it, and you never once complain because complaining would be ungrateful. I'll write to you and I'll say it, and it'll cost me the friendship to say it, and I'll pay that, because the alternative is watching you disappear by degrees and calling it support." A beat. "And if it costs the friendship, then it wasn't the thing I said it was, and I'd rather find that out than keep it."
 
 Xie Xie was quiet for a moment.
 

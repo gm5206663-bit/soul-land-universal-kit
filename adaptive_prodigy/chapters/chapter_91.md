@@ -62,7 +62,7 @@ Golden scales rippled from his arm to his shoulder; the golden ring lit beneath 
 
 "It counts as a trial," Xiaoyan breathed. "It's in the brochure."
 
-Five examinees inched to the rim of the valley and looked over it, and five breaths went in and did not soon come out. Five examinees inched to the rim of the valley and looked over it, and five breaths went in and did not soon come out.
+Five examinees inched to the rim of the valley and looked over it, and five breaths went in and did not soon come out.
 
 Below, booms rolled like weather. **Two lights, each more than thirty meters across, struck each other countless times** — the earth jumping, the air whipped to froth, boulders the size of bedrooms riding the shockwaves into the walls.
 

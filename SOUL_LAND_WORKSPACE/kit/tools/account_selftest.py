@@ -45,6 +45,10 @@ def write(p, text):
     open(p, 'w', encoding='utf-8').write(text)
 
 
+def as_repo(r, name='alpha-repo'):
+    write(os.path.join(r, name, '.git', 'HEAD'), 'ref: refs/heads/main')
+
+
 def book(root, repo, name, chapters=4, longw='grey', farw='thin', readme=None, docs=True):
     d = os.path.join(root, repo, name)
     for n in range(1, chapters + 1):
@@ -115,6 +119,54 @@ case('a sentence repeated across chapters is advisory, not hard',
                      'along the way before dark.\n'),
      'repeat-across')
 
+# ---------------------------------------------------------------- 2b records
+case('a record section is the author\'s bookkeeping, not prose',
+     lambda r: write(os.path.join(r, 'alpha-repo', 'Book_One', 'chapters', 'Chapter_01.md'),
+                     chapter(1) + '\n### Chapter Summary:\n'
+                     + ' '.join(f'note{i}word' for i in range(70)) + '.\n'),
+     'over60', want=False, only=['gate'])
+
+case('a long sentence before the record heading is still prose',
+     lambda r: write(os.path.join(r, 'alpha-repo', 'Book_One', 'chapters', 'Chapter_01.md'),
+                     ' '.join(f'prose{i}word' for i in range(70)) + '.\n\n### Chapter Summary:\n'
+                     'A short note.\n'),
+     'over60', only=['gate'])
+
+case('a record section quoting a chapter line is not a duplicate',
+     lambda r: write(os.path.join(r, 'alpha-repo', 'Book_One', 'chapters', 'Chapter_02.md'),
+                     chapter(2) + '\n### Chapter Summary:\nThe road east was grey and the boy '
+                     'counted every stone along the way before dark.\n'),
+     'repeat-across', want=False, only=['dupes'])
+
+# ---------------------------------------------------------------- 2c refrains
+case('a declared refrain is on record, not a defect',
+     lambda r: [write(os.path.join(r, 'alpha-repo', 'Book_One', 'foundation', 'REFRAINS.md'),
+                      '# Declared refrains\n\n- REFRAIN: The road east was grey and the boy '
+                      'counted every stone along the way before dark.\n'),
+                write(os.path.join(r, 'alpha-repo', 'Book_One', 'chapters', 'Chapter_02.md'),
+                      chapter(2) + '\n' + 'The road east was grey and the boy counted every stone '
+                      'along the way before dark.\n')],
+     'repeat-across', want=False, only=['dupes'])
+
+case('an undeclared repeat beside a declared one still fires',
+     lambda r: [write(os.path.join(r, 'alpha-repo', 'Book_One', 'foundation', 'REFRAINS.md'),
+                      '# Declared refrains\n\n- REFRAIN: The road east was grey and the boy '
+                      'counted every stone along the way before dark.\n'),
+                write(os.path.join(r, 'alpha-repo', 'Book_One', 'chapters', 'Chapter_02.md'),
+                      chapter(2) + '\nA fresh sentence that appears in two places in this '
+                      'account today.\n'),
+                write(os.path.join(r, 'alpha-repo', 'Book_One', 'chapters', 'Chapter_03.md'),
+                      chapter(3) + '\nA fresh sentence that appears in two places in this '
+                      'account today.\n')],
+     'repeat-across', only=['dupes'])
+
+# ---------------------------------------------------------------- 2d placeholder
+case('a stopped serial\'s template file is not a chapter',
+     lambda r: write(os.path.join(r, 'alpha-repo', 'Book_One', 'chapters', 'Chapter_01.md'),
+                     '# Chapter 1: {Title}\n\n{No content yet. This file is populated only when '
+                     'the author opens the serial.}\n'),
+     'dialogue-floor', want=False, only=['gate'])
+
 # ---------------------------------------------------------------- 3 copies
 case('reader edition drifting from the author edition',
      lambda r: write(os.path.join(r, 'alpha-repo', 'Book_One', 'manuscript', 'Chapter_01.md'),
@@ -163,11 +215,68 @@ case('a published copy repeating its source is one home, not a duplicate',
                                   'chapters', 'Chapter_01.md'), chapter(1, 'ochre', 'warm')),
      'repeat-across', want=False, only=['dupes'])
 
+# ---------------------------------------------------------------- 8f links
+case('a link to a file that is not there is reported',
+     lambda r: as_repo(r) or
+     write(os.path.join(r, 'alpha-repo', 'README.md'),
+           '# Book_One\n\n[the missing chapter](chapters/Chapter_99.md)\n'),
+     'dead-link', only=['links'])
+
+case('a link that resolves is not reported',
+     lambda r: as_repo(r) or
+     write(os.path.join(r, 'alpha-repo', 'README.md'),
+           '# Book_One\n\n[the real chapter](Book_One/chapters/Chapter_01.md)\n'),
+     'dead-link', want=False, only=['links'])
+
+case('a placeholder in prose is not a dead link',
+     lambda r: as_repo(r) or
+     write(os.path.join(r, 'alpha-repo', 'README.md'),
+           'Always cite with [id](url) when using search results.\n'),
+     'dead-link', want=False, only=['links'])
+
+case('fenced code and script blocks are not navigation',
+     lambda r: as_repo(r) or
+     write(os.path.join(r, 'alpha-repo', 'README.md'), '```\n[ex](nope.md)\n```\n') or
+     write(os.path.join(r, 'alpha-repo', 'page.html'),
+           '<script>var h = \'href="moved.html"\';</script><p>ok</p>\n'),
+     'dead-link', want=False, only=['links'])
+
+# ---------------------------------------------------------------- 8g generated
+case('a stamped view whose source changed is reported',
+     lambda r: as_repo(r) or
+     write(os.path.join(r, 'alpha-repo', 'foundation', 'SRC.json'), '{"v": 1}\n') or
+     write(os.path.join(r, 'alpha-repo', 'VIEW.md'),
+           '<!-- GENERATED from foundation/SRC.json; SHA256: '
+           + '0' * 64 + ' -->\n\n# View\n'),
+     'stale-generated', only=['generated'])
+
+case('a stamp that matches its source is silent',
+     lambda r: as_repo(r) or
+     write(os.path.join(r, 'alpha-repo', 'foundation', 'SRC.json'), '{"v": 1}\n') or
+     write(os.path.join(r, 'alpha-repo', 'VIEW.md'),
+           '<!-- GENERATED from foundation/SRC.json; SHA256: '
+           + __import__('hashlib').sha256(b'{"v": 1}\n').hexdigest() + ' -->\n\n# View\n'),
+     'stale-generated', want=False, only=['generated'])
+
+case('a nested workshop snapshot beside the chapters is not ambiguity',
+     lambda r: as_repo(r) or
+     write(os.path.join(r, 'alpha-repo', 'Book_One', 'workshop', 'rebuild_v2',
+                          'chapters', 'Chapter_01.md'), chapter(1)),
+     'scope-refusal', want=False, only=['gate'])
+
+# ---------------------------------------------------------------- 8h enforcement
+case('a repo with gates and no workflow is reported',
+     lambda r: as_repo(r) or
+     write(os.path.join(r, 'alpha-repo', 'tools', 'chapter_gate.py'), 'print("gate")\n'),
+     'ci-gap', only=['enforcement'])
+
+case('a repo with a workflow is not reported as a gap',
+     lambda r: as_repo(r) or
+     write(os.path.join(r, 'alpha-repo', 'tools', 'chapter_gate.py'), 'print("gate")\n') or
+     write(os.path.join(r, 'alpha-repo', '.github', 'workflows', 'gate.yml'), 'name: gate\n'),
+     'ci-gap', want=False, only=['enforcement'])
+
 # ---------------------------------------------------------------- 8e housekeeping
-def as_repo(r, name='alpha-repo'):
-    write(os.path.join(r, name, '.git', 'HEAD'), 'ref: refs/heads/main')
-
-
 case('a committed .pyc is reported as housekeeping',
      lambda r: as_repo(r) or
      write(os.path.join(r, 'alpha-repo', 'tools', '__pycache__', 'x.pyc'), 'x'),
@@ -236,6 +345,35 @@ def with_dead(r):
     write(os.path.join(r, 'alpha-repo', 'Book_One', 'README.md'),
           '# Book_One\n\nUpdated 2026-10-11 · chapters 1–4\nchapters_old/ is superseded — do not use.\n')
 
+
+# ---------------------------------------------------------------- 8i sightings
+def shelf_doc(i, words=24):
+    body = ' '.join(f'line{i}word{j}' for j in range(words))
+    return f'# Chapter {i}\n\n{body}\n\n"Speak," she said. "Now," he said. "Go," they said.\n'
+
+
+case('a shelf serial that exists nowhere else is registered, not invisible',
+     lambda r: as_repo(r, 'lib-repo') or [
+         write(os.path.join(r, 'lib-repo', 'chapters', 'lone_serial',
+                            f'chapter_{i:02d}.md'), shelf_doc(i)) for i in range(1, 7)],
+     'orphan-work', only=['sightings'])
+
+case('a shelf copy of a registered book is a copy, not a second book',
+     lambda r: as_repo(r, 'lib-repo') or [
+         write(os.path.join(r, 'lib-repo', 'chapters', 'twin_serial', f'Chapter_{i:02d}.md'),
+               chapter(i)) for i in range(1, 5)],
+     'orphan-work', want=False, only=['sightings'])
+
+case('a reference tree with no other home is registered read-only',
+     lambda r: as_repo(r, 'proj-repo') or [
+         write(os.path.join(r, 'proj-repo', 'reference', 'hero', 'Big_Book', 'chapters',
+                            f'Chapter_{i:02d}.md'), shelf_doc(i, 40)) for i in range(1, 6)],
+     'orphan-work', only=['sightings'])
+
+case('a chapter tree nothing can explain is a HARD finding',
+     lambda r: as_repo(r, 'weird-repo') or
+     write(os.path.join(r, 'weird-repo', 'mystery', 'chapter_01.md'), shelf_doc(1)),
+     'unaccounted-tree', only=['sightings'])
 
 case('a dead directory is skipped, not gated',
      with_dead, 'scope-refusal', want=False)

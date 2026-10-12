@@ -161,7 +161,7 @@ Lin Hao thought about that for a while.
 
 "That's the most honest thing anybody's ever said to me," he said, "and it's the second time this month, and both times it was you."
 
-"I have had a great deal of practice at being honest about the wrong things." Wu Zhangkong stood up. "The reason I am telling you any of it is that you have a sword in your hand that you cannot put down either, and you are ten, and you are going the same direction I went, and the direction is not a mistake — it is where people like us go — but there is a turn in it, and I would like you to arrive at the turn with somebody standing next to you."
+"I have had a great deal of practice at being honest about the wrong things." Wu Zhangkong stood up. "The reason I am telling you any of it is that you have a sword in your hand that you cannot put down either, and you are ten, and you are going the same direction I went. And the direction is not a mistake — it is where people like us go — but there is a turn in it, and I would like you to arrive at the turn with somebody standing next to you."
 
 ---
 

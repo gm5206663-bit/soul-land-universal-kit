@@ -44,7 +44,7 @@ Xie Xie came back with his shoulders down and his chin already returning to its 
 
 "My clones eat soul power, and without them his ranged game kills me anywhere in this box." Xie Xie's laugh was bitter and honest. "A bigger arena, maybe. This one — no."
 
-"You! *Reflect!*" And the captain opened the ledger on him in front of the hall: his opponent had been that strong *because* of a thousand-year skill — his consumption couldn't be lower; twin souls and the Mysterious Heaven Method meant attrition was the one war Xie Xie could never afford to lose; three clones in three directions; control the distance; make the mountain walk. "Do you have anything to say for yourself?"
+"You! *Reflect!*" And the captain opened the ledger on him in front of the hall: his opponent had been that strong *because* of a thousand-year skill. His consumption couldn't be lower; twin souls and the Mysterious Heaven Method meant attrition was the one war Xie Xie could never afford to lose; three clones in three directions; control the distance; make the mountain walk. "Do you have anything to say for yourself?"
 
 Xie Xie slapped his thigh. "You're right! I forgot he was bleeding as fast as I was — I've been fighting too many soul *beasts* lately. I treated him like a soul beast!"
 

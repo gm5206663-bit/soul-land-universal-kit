@@ -73,7 +73,7 @@ The fourth was to the prep course at Glorybound, and it was one paragraph long. 
 
 "I didn't ask you to come."
 
-"I know. I'm coming anyway." Lin Hao stood up. "You told me at two in the morning three weeks ago that the letter was still folded and six Saturdays wasn't an answer, and you were right, and this is the answer, and I've decided that I'm going to be in the room when you give it, because you're my brother and that's what that means, and I'd like you to know that I've made this decision without consulting you and I'm not taking it back."
+"I know. I'm coming anyway." Lin Hao stood up. "You told me at two in the morning three weeks ago that the letter was still folded and six Saturdays wasn't an answer, and you were right. And this is the answer. And I've decided that I'm going to be in the room when you give it, because you're my brother and that's what that means, and I'd like you to know that I've made this decision without consulting you and I'm not taking it back."
 
 Xie Xie looked at him for a second.
 

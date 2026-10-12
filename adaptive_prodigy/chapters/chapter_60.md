@@ -185,7 +185,7 @@ And then Wulin said the thing he said about once a year and never on purpose.
 
 "Both," Wulin said. "Honestly. Both."
 
-Xie Xie, upside down on the wall, said, "I want it noted that I've been in this class two years and I've learned more about the two of you in the last forty seconds than in the whole rest of it, and I've decided I don't want to know anything further, and I'm going to stay upside down for a while."
+Xie Xie, upside down on the wall, said. "I want it noted that I've been in this class two years and I've learned more about the two of you in the last forty seconds than in the whole rest of it, and I've decided I don't want to know anything further, and I'm going to stay upside down for a while."
 
 Gu Yue said nothing. But she had been watching Lin Hao's hands, and she noticed that they went very still at the word *wall*, and she put it in the place where she kept the things she was not going to use — which was a small place, and which had never before held anything she had to think about putting there.
 

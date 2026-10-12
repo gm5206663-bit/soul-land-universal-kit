@@ -121,7 +121,7 @@ He thought about it honestly, because he had learned that the honest version was
 
 Wu Zhangkong was quiet.
 
-"You were leaning on your sword," Lin Hao said. "You'd dealt with eight and there were eleven left and you were leaning, and I worked out that you had perhaps four minutes, and that if I drew my sword I would be killed in about nine seconds and you would spend the remaining three minutes and fifty-one seconds of your four minutes trying to reach me, and then we would both be dead, and the arithmetic said the best thing I could do was **nothing.**" He stopped. "So I did nothing. And I counted. And then I hit the button when you told me to."
+"You were leaning on your sword," Lin Hao said. "You'd dealt with eight and there were eleven left and you were leaning, and I worked out that you had perhaps four minutes. And that if I drew my sword I would be killed in about nine seconds and you would spend the remaining three minutes and fifty-one seconds of your four minutes trying to reach me, and then we would both be dead, and the arithmetic said the best thing I could do was **nothing.**" He stopped. "So I did nothing. And I counted. And then I hit the button when you told me to."
 
 There was a silence in the room with the floor that did not move.
 

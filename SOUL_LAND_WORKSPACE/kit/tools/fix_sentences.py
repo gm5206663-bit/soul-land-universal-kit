@@ -44,12 +44,34 @@ MIN_PART = 12                  # a split half smaller than this is a fragment
 #: Boundaries, strongest first. The tool prefers a boundary that carries
 #: meaning — a dash, a semicolon, a subordinating conjunction — and falls back
 #: to a plain comma only when the sentence offers nothing better.
+#: Coordinated boundaries only. The first draft of this list also split at
+#: ", which /, who /, because /, while / …" — and that produced sentences
+#: beginning "Who had just done arithmetic at the academy" and "Which was why
+#: third-rank work was made of it": fragments wearing a capital letter. A
+#: repair tool that trades a long sentence for a broken one has not repaired
+#: anything. A subordinator is never a sentence start; those boundaries are
+#: refused and the sentence is offered to a writer instead.
 STRONG = re.compile(
     r'(?<=\s)—\s+|(?<=\s)--\s+|;\s+'
-    r'|,\s+(?:and|but|so|then|yet|or|because|while|though|although|after|before|'
-    r'as|when|where|which|who|why|if|since|that|and then|and yet|and so)\s+',
+    r'|,\s+(?:and|but|so|then|yet|or|and then|and yet|and so)\s+',
     re.I)
+#: Words that may never open a split-off part. Checked against every boundary
+#: family, not just STRONG — the plain-comma fallback could otherwise smuggle
+#: ". Which …" through the same door.
+SUBORDINATORS = {
+    'which', 'who', 'whom', 'whose', 'that', 'because', 'while', 'though',
+    'although', 'after', 'before', 'as', 'when', 'where', 'why', 'if',
+    'since', 'unless', 'until', 'than', 'whether', 'whereas', 'whilst'}
 PLAIN = re.compile(r',\s+')
+#: A DIALOGUE-TAG boundary: the comma that hands the floor back to the tag and
+#: then to a new quoted sentence — `"…three," Lin Hao said, "and you…"`. The
+#: house rule refuses to split INSIDE speech (who is speaking is load-bearing),
+#: but this boundary is BETWEEN two speech spans, at a comma the tag already
+#: owns — splitting it is punctuation-only, like every other repair. It was
+#: added 2026-10-12 for the fourteen quoted sentences the tool refused: the
+#: author's long speeches end at `said, "` far more often than they end at a
+#: dash or a semicolon.
+TAG = re.compile(r',(?=\s*[\"\u201c])')
 #: Last resort: a conjunction with no comma at all. The supergirl serial is
 #: written almost entirely without commas, so without this the tool would report
 #: every long sentence there as unsplittable.
@@ -76,14 +98,18 @@ def quote_balanced(t):
             and t.count('\u201c') == t.count('\u201d'))
 
 
-def candidates(sent, rx):
+def candidates(sent, rx, min_part=MIN_PART):
     out = []
     for m in rx.finditer(sent):
         before, after = sent[:m.start()], sent[m.end():]
-        if len(words_of(before)) < MIN_PART or len(words_of(after)) < MIN_PART:
+        if len(words_of(before)) < min_part or len(words_of(after)) < min_part:
             continue
         if not quote_balanced(before):
             continue
+        tail = re.sub(r'^[\s,;—\-]+', '', after)
+        head_word = re.search(r"[A-Za-z']+", tail)   # look through a quote at the first word
+        if head_word and head_word.group(0).lower() in SUBORDINATORS:
+            continue                       # never start a sentence with a fragment-maker
         out.append(m)
     return out
 
@@ -91,8 +117,12 @@ def candidates(sent, rx):
 def split_once(sent):
     """One split, or None if this sentence offers no safe boundary."""
     n = tokens(sent)
-    for rx in (STRONG, PLAIN, BARE):
-        cs = candidates(sent, rx)
+    # The tag boundary carries its own, smaller floor: dialogue may hand the
+    # floor back after four words — '"I know," he said. "And…"' is a sentence
+    # pair, not a fragment. (Found 2026-10-12: all fourteen quoted leftovers
+    # failed on an eleven-word head at the twelve-word floor.)
+    for rx, floor in ((STRONG, MIN_PART), (TAG, 4), (PLAIN, MIN_PART), (BARE, MIN_PART)):
+        cs = candidates(sent, rx, floor)
         if not cs:
             continue
         # prefer the boundary whose split point sits nearest the middle
@@ -106,7 +136,11 @@ def split_once(sent):
         # word is worse than the defect it was written to fix.
         head = sent[:m.start()].rstrip()
         tail = re.sub(r'^[\s,;—\-]+', '', sent[m.start():])
-        tail = tail[0].upper() + tail[1:] if tail and tail[0].islower() else tail
+        if tail and tail[0].islower():
+            tail = tail[0].upper() + tail[1:]
+        elif tail and tail[0] in '\"\u201c' and len(tail) > 1 and tail[1].islower():
+            # a new quoted sentence: the capital belongs INSIDE the quote
+            tail = tail[0] + tail[1].upper() + tail[2:]
         # Return TWO parts, not one joined string. Returning the joined text and
         # appending it as a single unit is why this tool re-split the same
         # sentence six times, gave up, and reported every sentence as
@@ -167,11 +201,16 @@ def sentence_spans(s):
 
 
 def repair_text(body, log):
-    """Rewrite one body, copying every separator exactly. Returns (text, splits)."""
+    """Rewrite one body, copying every separator exactly. Returns (text, splits).
+
+    Record sections are skipped like the production block: the sentence cap is
+    a law about prose, and a Chapter Summary is a note.
+    """
     out, touched = [], 0
-    for line in body.split('\n'):
+    mask = lbg.record_mask(body)
+    for line, rec in zip(body.split('\n'), mask):
         s = line.strip()
-        if (not s or re.match(r'#+\s', s) or s.startswith(('>', '|', '- ', '* '))
+        if (rec or not s or re.match(r'#+\s', s) or s.startswith(('>', '|', '- ', '* '))
                 or lbg.PLAN_LINE_RX.search(line)):
             out.append(line)
             continue
@@ -325,12 +364,35 @@ def selftest():
     noway = filler(65) + '.'
     case('no usable boundary: reported, not butchered', noway, 0, 65)
 
+    # a long sentence inside a declared record section is the author's note
+    rec = ('He crossed the bridge and the sun was low.\n\n### Chapter Summary:\n'
+           + filler(70) + '.\n')
+    case('a record section is a note, not prose — never split', rec, 0, None)
+    assert repair_text(rec, []) is None, 'a record section must never be rewritten'
+
     # comma-only fallback
     s65 = f'{filler(30)}, {filler(34, 30)}.'
     case('a plain comma is used when nothing stronger exists', s65, 1, 34)
 
     sbare = f'{filler(28)} and {filler(35, 28)}.'
     case('comma-less prose falls back to the bare conjunction', sbare, 1, 36)
+
+    # REGRESSION 2026-10-12: a relative clause is not a sentence start.
+    rel = f'{filler(20)}, which {filler(30, 20)}, and {filler(35, 50)}.'
+    case('", which" is refused; the coordinated boundary is used instead', rel, 1, None)
+    assert not any(t.lstrip().startswith('Which')
+                   for t in lbg.sentences(repair_text(rel, [])[0])), 'a Which-fragment was written'
+    # 2026-10-12: a dialogue-tag boundary is a legal split, capital inside the quote
+    tag = (f'"{filler(30)},' + '" she said, "and ' + filler(30, 30) + '."')
+    case('a tag boundary splits a two-span quote, capital inside the quote', tag, 1, None)
+    assert '. "And ' in (repair_text(tag, []) or [''])[0], 'the capital did not land inside the quote'
+    tag2 = '"I know," she said, "and ' + filler(57, 0) + '.' + '"'
+    case('a short tag head still splits (the dialogue floor is different)', tag2, 1, None)
+    assert 'she said.' in (repair_text(tag2, []) or [''])[0]
+
+    rel2 = f'{filler(62)}, which {filler(4, 62)}.'
+    case('a sentence whose only boundary is a relative clause is left alone', rel2, 0, None)
+    assert repair_text(rel2, []) is None, 'a fragment-split was written'
 
     print()
     print('SENTENCE REPAIR SELFTEST ' + ('PASSED' if ok else 'FAILED'))
