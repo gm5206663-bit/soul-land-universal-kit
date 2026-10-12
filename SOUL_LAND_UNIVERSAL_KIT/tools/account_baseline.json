@@ -1,8 +1,8 @@
 {
- "frozen": "2026-10-12 03:07",
+ "frozen": "2026-10-12 03:36",
  "root": "/tmp/all",
  "tools_version": "1.0",
- "code": "a7eeff0125bc",
+ "code": "e461c5fa91ce",
  "findings": {
   "e92785280152": {
    "kind": "repeat-in-file",
@@ -1132,6 +1132,14 @@
    "file": "how-to-write-fanfiction/how-to-write-fanfiction-v2.5-footwork-fusion-clean.zip",
    "detail": "archive how-to-write-fanfiction-v2.5-footwork-fusion-clean.zip (0.10 MB) is committed \u2014 a frozen snapshot inside a repository that already keeps history; if it is meant to be kept, say so"
   },
+  "a421417cc61c": {
+   "kind": "ci-gap",
+   "severity": "advisory",
+   "repo": "pokemon-adaptation",
+   "book": "-",
+   "file": "pokemon-adaptation",
+   "detail": "pokemon-adaptation carries 1 gate script(s) (tools/style_gate.py) and no workflow file is present \u2014 either arm it in CI or say the gate is run by hand"
+  },
   "fe0ba9dd3799": {
    "kind": "repeat-across",
    "severity": "advisory",
@@ -1139,6 +1147,14 @@
    "book": "qian-xunji-adaptation",
    "file": "Chapter_01_The_Night_After.md",
    "detail": "2 identical 13-word sentence(s) across 2 place(s): qian-xunji-adaptation/Chapter_01_The_Night_After.md; qian-xunji-adaptation/Chapter_02_The_Codex.md"
+  },
+  "ae1d1d196431": {
+   "kind": "ci-gap",
+   "severity": "advisory",
+   "repo": "soul-land-1-fire-dragon-lizard",
+   "book": "-",
+   "file": "soul-land-1-fire-dragon-lizard",
+   "detail": "soul-land-1-fire-dragon-lizard carries 1 gate script(s) (tools/chapter_gate.py) and no workflow file is present \u2014 either arm it in CI or say the gate is run by hand"
   },
   "6fba59a3a01d": {
    "kind": "repeat-across",
@@ -1604,6 +1620,14 @@
    "file": "Chapter_13_The_Keepers_Line.md",
    "detail": "2 identical 15-word sentence(s) across 2 place(s): soul-land-universal-kit/soul_land_devouring_dragon/Chapter_13_The_Keepers_Line.md; soul-land-universal-kit/soul_land_devouring_dragon/Chapter_14_The_Wrong_Face.md"
   },
+  "fa99ac4969a6": {
+   "kind": "ci-gap",
+   "severity": "advisory",
+   "repo": "soul_land_4_fire_phoenix",
+   "book": "-",
+   "file": "soul_land_4_fire_phoenix",
+   "detail": "soul_land_4_fire_phoenix carries 1 gate script(s) (tools/perfect_continuation_skill_check.py) and no workflow file is present \u2014 either arm it in CI or say the gate is run by hand"
+  },
   "04cd0c8a14a2": {
    "kind": "repeat-across",
    "severity": "advisory",
@@ -1611,6 +1635,46 @@
    "book": "soul_land_4_fire_phoenix",
    "file": "Chapter_13.md",
    "detail": "2 identical 16-word sentence(s) across 2 place(s): soul_land_4_fire_phoenix/Chapter_13.md; soul_land_4_fire_phoenix/Chapter_14.md"
+  },
+  "944c789c8d87": {
+   "kind": "ci-gap",
+   "severity": "advisory",
+   "repo": "storyos-site",
+   "book": "-",
+   "file": "storyos-site",
+   "detail": "storyos-site carries 1 gate script(s) (framework/scripts/verify_stage.py) and no workflow file is present \u2014 either arm it in CI or say the gate is run by hand"
+  },
+  "3dc72b34f81c": {
+   "kind": "ci-gap",
+   "severity": "advisory",
+   "repo": "supergirl-adrian-vale",
+   "book": "-",
+   "file": "supergirl-adrian-vale",
+   "detail": "supergirl-adrian-vale carries 3 gate script(s) (tools/selftest.py, tools/verify.py, tools/verify_foundation.py) and no workflow file is present \u2014 either arm it in CI or say the gate is run by hand"
+  },
+  "046b3123d862": {
+   "kind": "dead-link",
+   "severity": "advisory",
+   "repo": "supergirl-adrian-vale",
+   "book": "-",
+   "file": "canon_coverage/EPISODE_05_BEAT_MAP.md",
+   "detail": "canon_coverage/EPISODE_05_BEAT_MAP.md links to canon_coverage/user_request_U31, which is not in the repository"
+  },
+  "272dc3c064db": {
+   "kind": "dead-link",
+   "severity": "advisory",
+   "repo": "supergirl-adrian-vale",
+   "book": "-",
+   "file": "canon_coverage/EPISODE_06_BEAT_MAP.md",
+   "detail": "canon_coverage/EPISODE_06_BEAT_MAP.md links to canon_coverage/user_request_U33, which is not in the repository"
+  },
+  "aa962cbd02e9": {
+   "kind": "dead-link",
+   "severity": "advisory",
+   "repo": "supergirl-adrian-vale",
+   "book": "-",
+   "file": "canon_coverage/EPISODE_06_BEAT_MAP.md",
+   "detail": "canon_coverage/EPISODE_06_BEAT_MAP.md links to canon_coverage/user_request_U31, which is not in the repository"
   },
   "cfa8b3d9da3d": {
    "kind": "housekeeping",
@@ -1731,6 +1795,14 @@
    "book": "supergirl-adrian-vale",
    "file": "Chapter_13_Human_for_a_Day.md",
    "detail": "2 identical 47-word sentence(s) across 2 place(s): supergirl-adrian-vale/Chapter_13_Human_for_a_Day.md; supergirl-adrian-vale/Chapter_14_Hostile_Takeover.md"
+  },
+  "eb13cd26300a": {
+   "kind": "ci-gap",
+   "severity": "advisory",
+   "repo": "the-universal-storyline-creation",
+   "book": "-",
+   "file": "the-universal-storyline-creation",
+   "detail": "the-universal-storyline-creation carries 2 gate script(s) (tools/foundation_gate.py, tools/selftest.py) and no workflow file is present \u2014 either arm it in CI or say the gate is run by hand"
   }
  }
 }

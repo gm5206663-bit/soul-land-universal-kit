@@ -1,8 +1,8 @@
-# ACCOUNT CONTROL CENTRE — 2026-10-12 03:07
+# ACCOUNT CONTROL CENTRE — 2026-10-12 03:36
 
 `/tmp/all` · tools v1.0 · **24 books · 274 chapters · 1,151,458 words · 21,726 spoken lines**
 
-**138 hard finding(s)** — not the author's call · **78 advisory** — the author decides.
+**138 hard finding(s)** — not the author's call · **87 advisory** — the author decides.
 
 ## 1. Coverage ledger
 
@@ -15,7 +15,10 @@ Every detector states what it examined. A detector that examined nothing raises 
 | two-homes | 274 of 274 chapter file(s) hashed | 1 text(s) shared by two independent books; 53 twin group(s) are a book and its own published copy, which is what publishing does |
 | receipts | 24 of 24 book(s) with a chapter numbering | claims in README/HANDOFF/STATUS/CHANGELOG against the text on disk |
 | publication | 1 of 1 book(s) with a published site | in-tree chapter html against the source; the LIVE site is the pages detector |
-| housekeeping | 18 of 18 repository(ies) walked for machine files and archives | 5075 file(s) scanned across 18 repo(s); 5 machine file(s) or archive(s) found |
+| housekeeping | 18 of 18 repository(ies) walked for machine files and archives | 5094 file(s) scanned across 18 repo(s); 5 machine file(s) or archive(s) found |
+| links | 4334 of 4334 document(s) scanned for links | 4334 file(s) scanned, 847 relative link(s) checked, 3 dead; 9 file(s) over 512 KB skipped |
+| generated | 11 of 11 stamped file(s) checked against their source | 11 stamped file(s) found, 11 verified against its source |
+| enforcement | 6 of 12 gate-carrying repo(s) with a CI workflow present | 12 repo(s) carry gate scripts, 7 repo(s) carry a workflow file, 6 gate repo(s) have no workflow — presence is all this checks, not what a workflow runs |
 
 ## 2. Verdict by kind
 
@@ -24,7 +27,9 @@ Every detector states what it examined. A detector that examined nothing raises 
 | `over60` | hard | the 60-word ceiling | 119 |
 | `repeat-across` | advisory | could be a deliberate refrain; the author decides | 69 |
 | `repeat-in-file` | hard | an accidental duplicate is a defect, not a refrain | 17 |
+| `ci-gap` | advisory | a gate that only runs when someone remembers is a promise, not a check | 6 |
 | `housekeeping` | advisory | the repository is the artifact — bytecode, editor leftovers and old snapshots are dead weight, and a snapshot carries a stale copy of the text | 5 |
+| `dead-link` | advisory | broken navigation is a silent reader loss — a shipped view once carried 496 dead links | 3 |
 | `dialogue-floor` | hard | the floor needs a speaker on the page | 2 |
 | `receipt-drift` | advisory | give a floor, not a pinned count | 2 |
 | `two-homes` | advisory | one text, one home — copies age differently | 1 |
@@ -34,15 +39,18 @@ Every detector states what it examined. A detector that examined nothing raises 
 
 | repository | findings | hard |
 |---|---|---|
-| supergirl-adrian-vale | 98 | 83 |
+| supergirl-adrian-vale | 102 | 83 |
 | soul-land-projects | 54 | 49 |
 | soul-land-2-the-grey-wolf | 42 | 2 |
 | soul-land-universal-kit | 16 | 4 |
 | fire-phoenix-workshop | 2 | 0 |
+| soul-land-1-fire-dragon-lizard | 2 | 0 |
+| soul_land_4_fire_phoenix | 2 | 0 |
 | how-to-write-fanfiction | 1 | 0 |
+| pokemon-adaptation | 1 | 0 |
 | qian-xunji-adaptation | 1 | 0 |
-| soul-land-1-fire-dragon-lizard | 1 | 0 |
-| soul_land_4_fire_phoenix | 1 | 0 |
+| storyos-site | 1 | 0 |
+| the-universal-storyline-creation | 1 | 0 |
 
 ## 4. Findings
 
@@ -227,11 +235,21 @@ Every detector states what it examined. A detector that examined nothing raises 
 | severity | kind | where | what | evidence |
 |---|---|---|---|---|
 | advisory | `housekeeping` | how-to-write-fanfiction/how-to-write-fanfiction-v2.5-footwork-fusion-clean.zip | archive how-to-write-fanfiction-v2.5-footwork-fusion-clean.zip (0.10 MB) is committed — a frozen snapshot inside a repository that already keeps history; if it is meant to be kept, say so | how-to-write-fanfiction/how-to-write-fanfiction-v2.5-footwork-fusion-clean.zip |
+### pokemon-adaptation / -
+
+| severity | kind | where | what | evidence |
+|---|---|---|---|---|
+| advisory | `ci-gap` | pokemon-adaptation | pokemon-adaptation carries 1 gate script(s) (tools/style_gate.py) and no workflow file is present — either arm it in CI or say the gate is run by hand | tools/style_gate.py |
 ### qian-xunji-adaptation / qian-xunji-adaptation
 
 | severity | kind | where | what | evidence |
 |---|---|---|---|---|
 | advisory | `repeat-across` | Chapter_01_The_Night_After.md | 2 identical 13-word sentence(s) across 2 place(s): qian-xunji-adaptation/Chapter_01_The_Night_After.md; qian-xunji-adaptation/Chapter_02_The_Codex.md | "I intend to write strict rules and end the taking in this Hall. |
+### soul-land-1-fire-dragon-lizard / -
+
+| severity | kind | where | what | evidence |
+|---|---|---|---|---|
+| advisory | `ci-gap` | soul-land-1-fire-dragon-lizard | soul-land-1-fire-dragon-lizard carries 1 gate script(s) (tools/chapter_gate.py) and no workflow file is present — either arm it in CI or say the gate is run by hand | tools/chapter_gate.py |
 ### soul-land-1-fire-dragon-lizard / soul-land-1-fire-dragon-lizard
 
 | severity | kind | where | what | evidence |
@@ -322,15 +340,29 @@ Every detector states what it examined. A detector that examined nothing raises 
 | advisory | `dialogue-exempt` | - | floor exempt: law, not defect: RAILS s45 (chapters with no panel carry no voices) + CANON VOICE LAW s53 (foundation/RAILS.md, foundati | declared at README.md:68 |
 | advisory | `repeat-across` | Chapter_14_The_Wrong_Face.md | 2 identical 21-word sentence(s) across 2 place(s): soul-land-universal-kit/soul_land_devouring_dragon/Chapter_14_The_Wrong_Face.md; soul-land-universal-kit/soul_land_devouring_dragon/Chapter_15_The_Hounds_Third_Time.md | He crossed the rest of the high ground at its western end, in the dark, without leaving a print worth reading. |
 | advisory | `repeat-across` | Chapter_13_The_Keepers_Line.md | 2 identical 15-word sentence(s) across 2 place(s): soul-land-universal-kit/soul_land_devouring_dragon/Chapter_13_The_Keepers_Line.md; soul-land-universal-kit/soul_land_devouring_dragon/Chapter_14_The_Wrong_Face.md | He held it as a beast holds a current, and the holding did not end. |
+### soul_land_4_fire_phoenix / -
+
+| severity | kind | where | what | evidence |
+|---|---|---|---|---|
+| advisory | `ci-gap` | soul_land_4_fire_phoenix | soul_land_4_fire_phoenix carries 1 gate script(s) (tools/perfect_continuation_skill_check.py) and no workflow file is present — either arm it in CI or say the gate is run by hand | tools/perfect_continuation_skill_check.py |
 ### soul_land_4_fire_phoenix / soul_land_4_fire_phoenix
 
 | severity | kind | where | what | evidence |
 |---|---|---|---|---|
 | advisory | `repeat-across` | Chapter_13.md | 2 identical 16-word sentence(s) across 2 place(s): soul_land_4_fire_phoenix/Chapter_13.md; soul_land_4_fire_phoenix/Chapter_14.md | If you try to solve his class problems for him before he asks, I will know. |
+### storyos-site / -
+
+| severity | kind | where | what | evidence |
+|---|---|---|---|---|
+| advisory | `ci-gap` | storyos-site | storyos-site carries 1 gate script(s) (framework/scripts/verify_stage.py) and no workflow file is present — either arm it in CI or say the gate is run by hand | framework/scripts/verify_stage.py |
 ### supergirl-adrian-vale / -
 
 | severity | kind | where | what | evidence |
 |---|---|---|---|---|
+| advisory | `ci-gap` | supergirl-adrian-vale | supergirl-adrian-vale carries 3 gate script(s) (tools/selftest.py, tools/verify.py, tools/verify_foundation.py) and no workflow file is present — either arm it in CI or say the gate is run by hand | tools/selftest.py, tools/verify.py, tools/verify_foundation.py |
+| advisory | `dead-link` | canon_coverage/EPISODE_05_BEAT_MAP.md | canon_coverage/EPISODE_05_BEAT_MAP.md links to canon_coverage/user_request_U31, which is not in the repository | user_request_U31 |
+| advisory | `dead-link` | canon_coverage/EPISODE_06_BEAT_MAP.md | canon_coverage/EPISODE_06_BEAT_MAP.md links to canon_coverage/user_request_U33, which is not in the repository | user_request_U33 |
+| advisory | `dead-link` | canon_coverage/EPISODE_06_BEAT_MAP.md | canon_coverage/EPISODE_06_BEAT_MAP.md links to canon_coverage/user_request_U31, which is not in the repository | user_request_U31 |
 | advisory | `housekeeping` | supergirl-adrian-vale/foundation-022-Chapter-12-Clean-Rebuild-53PASS.zip | archive foundation-022-Chapter-12-Clean-Rebuild-53PASS.zip (2.77 MB) is committed — a frozen snapshot inside a repository that already keeps history; if it is meant to be kept, say so | supergirl-adrian-vale/foundation-022-Chapter-12-Clean-Rebuild-53PASS.zip |
 ### supergirl-adrian-vale / supergirl-adrian-vale
 
@@ -350,6 +382,11 @@ Every detector states what it examined. A detector that examined nothing raises 
 | advisory | `repeat-across` | Chapter_13_Human_for_a_Day.md | 2 identical 73-word sentence(s) across 2 place(s): supergirl-adrian-vale/Chapter_13_Human_for_a_Day.md; supergirl-adrian-vale/Chapter_14_Hostile_Takeover.md | She thought about what Astra said about mother using her to lure out, about Alura, about Cat having son Adam, about James telling Winn tell Kara feelings, about |
 | advisory | `repeat-across` | Chapter_09_Red_Faced_and_Named.md | 2 identical 32-word sentence(s) across 2 place(s): supergirl-adrian-vale/Chapter_09_Red_Faced_and_Named.md; supergirl-adrian-vale/Chapter_10_Red_Faced_Consequence.md | She thought about what it means to be able to bleed and being able to melt asphalt and being able to be named Wraith and being able to be told you matter. |
 | advisory | `repeat-across` | Chapter_13_Human_for_a_Day.md | 2 identical 47-word sentence(s) across 2 place(s): supergirl-adrian-vale/Chapter_13_Human_for_a_Day.md; supergirl-adrian-vale/Chapter_14_Hostile_Takeover.md | She thought maybe being able to bleed and being able to go to sun and being able to kiss and being able to understand shielding and being able to be caught are  |
+### the-universal-storyline-creation / -
+
+| severity | kind | where | what | evidence |
+|---|---|---|---|---|
+| advisory | `ci-gap` | the-universal-storyline-creation | the-universal-storyline-creation carries 2 gate script(s) (tools/foundation_gate.py, tools/selftest.py) and no workflow file is present — either arm it in CI or say the gate is run by hand | tools/foundation_gate.py, tools/selftest.py |
 
 ## 5. Books
 

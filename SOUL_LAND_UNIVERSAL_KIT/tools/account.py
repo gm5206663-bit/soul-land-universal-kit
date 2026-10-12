@@ -83,6 +83,12 @@ def run(root, only=None, pages=None, owner=OWNER):
         runs.append(checks.check_publication(books))
     if not only or 'housekeeping' in only:
         runs.append(checks.check_housekeeping(root))
+    if not only or 'links' in only:
+        runs.append(checks.check_links(root))
+    if not only or 'generated' in only:
+        runs.append(checks.check_generated(root))
+    if not only or 'enforcement' in only:
+        runs.append(checks.check_enforcement(root))
     if ('pages' in (only or ())) or (pages and not only):
         runs.append(checks.check_pages(books, owner, token=pages))
 

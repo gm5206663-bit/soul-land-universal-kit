@@ -31,6 +31,7 @@ import os
 import re
 import subprocess
 import sys
+import urllib.parse
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import live_book_gate as lbg   # noqa: E402  — the house gate, single source of truth
@@ -66,6 +67,14 @@ LAWS = {
     'housekeeping':    ('advisory', 'a machine file or a frozen archive is committed in the repo',
                         'the repository is the artifact — bytecode, editor leftovers and old '
                         'snapshots are dead weight, and a snapshot carries a stale copy of the text'),
+    'dead-link':       ('advisory', 'a link in a shipped document points at a file that is not there',
+                        'broken navigation is a silent reader loss — a shipped view once carried '
+                        '496 dead links'),
+    'stale-generated': ('hard', 'a file stamped as generated does not match its source',
+                        'a generated file that lies about its source is a copy drifting under a '
+                        'receipt — the stamp says it can never have drifted'),
+    'ci-gap':          ('advisory', 'a repository carries gate scripts but has no CI workflow',
+                        'a gate that only runs when someone remembers is a promise, not a check'),
 }
 
 VERSION = '1.0'
@@ -663,4 +672,237 @@ def check_housekeeping(root, limit=40):
     return ran('housekeeping', findings,
                coverage(len(repos), len(repos),
                         'repository(ies) walked for machine files and archives'),
+               note=note)
+
+
+# --------------------------------------------------------------------------
+# 8. SHARED WALK — git's answer when it can, the disk when it cannot
+# --------------------------------------------------------------------------
+def _files_repo(base, suffixes=None):
+    """(relative paths, mode). mode is 'git' or 'disk' — and 'disk' is declared."""
+    tr = _tracked(base)
+    if tr is not None:
+        out = [p for p in tr if suffixes is None or p.lower().endswith(suffixes)]
+        return sorted(out), 'git'
+    out = []
+    for dp, dns, fns in os.walk(base):
+        if '.git' in dp.split(os.sep):
+            dns[:] = []
+            continue
+        dns[:] = [d for d in dns if d not in JUNK_DIRS]
+        for f in fns:
+            if suffixes is None or f.lower().endswith(suffixes):
+                out.append(os.path.relpath(os.path.join(dp, f), base))
+    return sorted(out), 'disk'
+
+
+def _repos(root):
+    return sorted(d for d in (os.listdir(root) if os.path.isdir(root) else [])
+                  if os.path.isdir(os.path.join(root, d, '.git')))
+
+
+# --------------------------------------------------------------------------
+# 9. DEAD LINKS — navigation in shipped documents
+# --------------------------------------------------------------------------
+LINK_RX = re.compile(r'\]\(([^)\s]+)\)|(?:href|src)="([^"]+)"')
+SCHEME_RX = re.compile(r'^[a-zA-Z][a-zA-Z0-9+.-]*:')
+FENCE_RX = re.compile(r'```.*?```|~~~.*?~~~', re.S)
+INLINE_RX = re.compile(r'`[^`\n]+`')
+SCRIPT_RX = re.compile(r'<script.*?</script>|<style.*?</style>', re.S | re.I)
+PLACEHOLDER = {'url', 'link', 'here', 'path', 'target', 'text', 'id', 'name',
+               'href', 'src', 'file', 'filename', 'your-file', 'x', 'example'}
+
+
+def check_links(root, limit=80, max_size=524288):
+    """Relative links in tracked .md/.html files whose target does not exist.
+
+    Only relative targets are judged. Anything with a scheme is somebody else's
+    problem to host; anchors (`#x`) are in-page; templates (`{name}`) are not
+    paths yet. Fenced code blocks are stripped first — an example path inside a
+    fence is documentation of a path, not a link to one. Targets that resolve
+    outside the repository are counted as unverifiable, not guessed about.
+    """
+    findings, files, links, dead, unverifiable, too_big, modes = [], 0, 0, 0, 0, 0, set()
+    for repo in _repos(root):
+        base = os.path.join(root, repo)
+        paths, mode = _files_repo(base, suffixes=('.md', '.html'))
+        modes.add(mode)
+        for rel in paths:
+            p = os.path.join(base, rel)
+            try:
+                if os.path.getsize(p) > max_size:
+                    too_big += 1
+                    continue
+                text = open(p, encoding='utf-8', errors='replace').read()
+            except OSError:
+                continue
+            # Fences, inline code and script blocks are not navigation: a path
+            # inside them is documentation of a path. The first run of this
+            # detector flagged `Always cite with [id](url)` (prose instruction)
+            # and caught a JavaScript regex through an html href="$2" — both
+            # removed here rather than explained away later.
+            if rel.lower().endswith('.md'):
+                text = INLINE_RX.sub('', FENCE_RX.sub('', text))
+            else:
+                text = SCRIPT_RX.sub('', text)
+            files += 1
+            here = os.path.dirname(p)
+            seen = set()
+            for m in LINK_RX.finditer(text):
+                tgt = (m.group(1) or m.group(2) or '').strip()
+                if not tgt or tgt.startswith('#') or SCHEME_RX.match(tgt):
+                    continue
+                if any(c in tgt for c in '{}<>|`'):
+                    continue
+                if tgt.lower() in PLACEHOLDER:
+                    continue
+                tgt = tgt.split('#', 1)[0].split('?', 1)[0]
+                tgt = urllib.parse.unquote(tgt).strip()
+                if not tgt:
+                    continue
+                if (rel, tgt) in seen:
+                    continue
+                seen.add((rel, tgt))
+                links += 1
+                resolved = os.path.normpath(os.path.join(here, tgt))
+                if not resolved.startswith(base + os.sep) and resolved != base:
+                    unverifiable += 1
+                    continue
+                if not os.path.exists(resolved):
+                    dead += 1
+                    target_rel = os.path.relpath(resolved, base)
+                    if len(findings) < limit:
+                        findings.append(finding(
+                            'dead-link', repo, '-', rel, f'{rel}->{target_rel}',
+                            f'{rel} links to {target_rel}, which is not in the repository',
+                            evidence=tgt))
+    if dead > len(findings):
+        findings.append(finding('coverage-gap', '-', '-', 'links', 'links',
+                                f'links found {dead} dead target(s) and listed {len(findings)} '
+                                f'— the rest are not in this report',
+                                evidence=f'raise --links-limit to see all {dead}'))
+    note = (f'{files} file(s) scanned, {links} relative link(s) checked, {dead} dead'
+            + (f'; {unverifiable} target(s) outside the repository not guessed about'
+               if unverifiable else '')
+            + (f'; {too_big} file(s) over {max_size // 1024} KB skipped' if too_big else '')
+            + (f'; git could not be asked, the disk was walked instead' if 'disk' in modes else ''))
+    return ran('links', findings, coverage(files, files, 'document(s) scanned for links'),
+               note=note)
+
+
+# --------------------------------------------------------------------------
+# 10. STALE GENERATED — the stamp claims a source; check the claim
+# --------------------------------------------------------------------------
+STAMP_RX = re.compile(r'GENERATED from\s+([^\s;]+)\s*;\s*SHA256:\s*([0-9a-f]{64})')
+
+
+def check_generated(root, limit=40):
+    """Files that stamp themselves as generated from a source, verified.
+
+    The stamp format is the one the account's renderers write:
+    `GENERATED from <path>; SHA256: <sha256-of-source>`. The detector reads the
+    source, hashes it, and compares. A mismatch means the view is not the output
+    of the file it names — it drifted, or it was hand-edited, and either way the
+    stamp is now a claim that is not true. Hard, because nobody reading the view
+    can tell without doing exactly this.
+    """
+    findings, stamped, verified, modes = [], 0, 0, set()
+    for repo in _repos(root):
+        base = os.path.join(root, repo)
+        paths, mode = _files_repo(base)
+        modes.add(mode)
+        for rel in paths:
+            p = os.path.join(base, rel)
+            try:
+                if os.path.getsize(p) > 1048576:
+                    continue
+                head = open(p, encoding='utf-8', errors='replace').read(2048)
+            except OSError:
+                continue
+            m = STAMP_RX.search(head)
+            if not m:
+                continue
+            stamped += 1
+            src_rel, want = m.group(1), m.group(2).lower()
+            src = os.path.normpath(os.path.join(base, src_rel))
+            if not src.startswith(base + os.sep) or not os.path.isfile(src):
+                if len(findings) < limit:
+                    findings.append(finding(
+                        'stale-generated', repo, '-', rel, rel,
+                        f'{rel} says it was generated from {src_rel}, which is not in '
+                        f'the repository — the source of this view cannot be checked',
+                        evidence=src_rel))
+                continue
+            got = hashlib.sha256(open(src, 'rb').read()).hexdigest()
+            verified += 1
+            if got != want:
+                if len(findings) < limit:
+                    findings.append(finding(
+                        'stale-generated', repo, '-', rel, rel,
+                        f'{rel} stamps itself as generated from {src_rel} but that file '
+                        f'hashes {got[:12]}…, not the stamped {want[:12]}… — the view has '
+                        f'drifted or was edited after generation',
+                        evidence=f'{src_rel} sha256 {got} != stamped {want}'))
+    if stamped > len(findings) and len(findings) == limit:
+        findings.append(finding('coverage-gap', '-', '-', 'generated', 'generated',
+                                f'generated views: {stamped} stamped, {len(findings)} listed — '
+                                f'the rest are not in this report', evidence='raise the limit'))
+    note = (f'{stamped} stamped file(s) found, {verified} verified against its source'
+            + (f'; git could not be asked, the disk was walked instead' if 'disk' in modes else ''))
+    return ran('generated', findings,
+               coverage(stamped, stamped, 'stamped file(s) checked against their source'),
+               note=note)
+
+
+# --------------------------------------------------------------------------
+# 11. ENFORCEMENT — does anything run the gates?
+# --------------------------------------------------------------------------
+GATE_NAME_RX = re.compile(r'(gate|verify|sentinel|lint|check|selftest)', re.I)
+
+
+def check_enforcement(root, limit=40):
+    """Repositories carrying gate scripts, and whether a workflow file exists.
+
+    This is deliberately modest about what it proves: it reports the PRESENCE of
+    gate-shaped scripts and the PRESENCE of a workflow file. It does not claim
+    the workflow runs the gate, and the detail line says so. A repo with gates
+    and no workflow is where the account's enforcement is thinnest, and the
+    finding asks for it to be either armed or declared.
+    """
+    findings, with_gates, with_ci, gap = [], 0, 0, 0
+    for repo in _repos(root):
+        base = os.path.join(root, repo)
+        scripts = []
+        for sub in ('tools', 'framework/scripts', 'scripts', 'checks'):
+            d = os.path.join(base, sub)
+            if os.path.isdir(d):
+                scripts += [f'{sub}/{f}' for f in sorted(os.listdir(d))
+                            if f.endswith('.py') and GATE_NAME_RX.search(f)]
+        wf = os.path.join(base, '.github', 'workflows')
+        has_ci = os.path.isdir(wf) and any(f.endswith(('.yml', '.yaml'))
+                                           for f in os.listdir(wf))
+        if scripts:
+            with_gates += 1
+        if has_ci:
+            with_ci += 1
+        if scripts and not has_ci:
+            gap += 1
+            if len(findings) < limit:
+                findings.append(finding(
+                    'ci-gap', repo, '-', repo, repo,
+                    f'{repo} carries {len(scripts)} gate script(s) ({", ".join(scripts[:3])}'
+                    f'{", …" if len(scripts) > 3 else ""}) and no workflow file is present — '
+                    f'either arm it in CI or say the gate is run by hand',
+                    evidence=', '.join(scripts[:6])))
+    # 2026-10-12: the first version declared "13 of 12 gate-carrying repo(s)" —
+    # with_ci counts every repo with a workflow, including repos with no gate
+    # scripts, so the numerator could exceed the denominator. A coverage line
+    # that cannot be true is the exact defect this whole system exists to catch;
+    # it was caught here by reading the number instead of trusting it.
+    note = (f'{with_gates} repo(s) carry gate scripts, {with_ci} repo(s) carry a workflow '
+            f'file, {gap} gate repo(s) have no workflow — presence is all this checks, not '
+            f'what a workflow runs')
+    return ran('enforcement', findings,
+               coverage(with_gates - gap, with_gates,
+                        'gate-carrying repo(s) with a CI workflow present'),
                note=note)

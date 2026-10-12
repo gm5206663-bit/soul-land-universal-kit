@@ -45,6 +45,10 @@ def write(p, text):
     open(p, 'w', encoding='utf-8').write(text)
 
 
+def as_repo(r, name='alpha-repo'):
+    write(os.path.join(r, name, '.git', 'HEAD'), 'ref: refs/heads/main')
+
+
 def book(root, repo, name, chapters=4, longw='grey', farw='thin', readme=None, docs=True):
     d = os.path.join(root, repo, name)
     for n in range(1, chapters + 1):
@@ -163,11 +167,62 @@ case('a published copy repeating its source is one home, not a duplicate',
                                   'chapters', 'Chapter_01.md'), chapter(1, 'ochre', 'warm')),
      'repeat-across', want=False, only=['dupes'])
 
+# ---------------------------------------------------------------- 8f links
+case('a link to a file that is not there is reported',
+     lambda r: as_repo(r) or
+     write(os.path.join(r, 'alpha-repo', 'README.md'),
+           '# Book_One\n\n[the missing chapter](chapters/Chapter_99.md)\n'),
+     'dead-link', only=['links'])
+
+case('a link that resolves is not reported',
+     lambda r: as_repo(r) or
+     write(os.path.join(r, 'alpha-repo', 'README.md'),
+           '# Book_One\n\n[the real chapter](Book_One/chapters/Chapter_01.md)\n'),
+     'dead-link', want=False, only=['links'])
+
+case('a placeholder in prose is not a dead link',
+     lambda r: as_repo(r) or
+     write(os.path.join(r, 'alpha-repo', 'README.md'),
+           'Always cite with [id](url) when using search results.\n'),
+     'dead-link', want=False, only=['links'])
+
+case('fenced code and script blocks are not navigation',
+     lambda r: as_repo(r) or
+     write(os.path.join(r, 'alpha-repo', 'README.md'), '```\n[ex](nope.md)\n```\n') or
+     write(os.path.join(r, 'alpha-repo', 'page.html'),
+           '<script>var h = \'href="moved.html"\';</script><p>ok</p>\n'),
+     'dead-link', want=False, only=['links'])
+
+# ---------------------------------------------------------------- 8g generated
+case('a stamped view whose source changed is reported',
+     lambda r: as_repo(r) or
+     write(os.path.join(r, 'alpha-repo', 'foundation', 'SRC.json'), '{"v": 1}\n') or
+     write(os.path.join(r, 'alpha-repo', 'VIEW.md'),
+           '<!-- GENERATED from foundation/SRC.json; SHA256: '
+           + '0' * 64 + ' -->\n\n# View\n'),
+     'stale-generated', only=['generated'])
+
+case('a stamp that matches its source is silent',
+     lambda r: as_repo(r) or
+     write(os.path.join(r, 'alpha-repo', 'foundation', 'SRC.json'), '{"v": 1}\n') or
+     write(os.path.join(r, 'alpha-repo', 'VIEW.md'),
+           '<!-- GENERATED from foundation/SRC.json; SHA256: '
+           + __import__('hashlib').sha256(b'{"v": 1}\n').hexdigest() + ' -->\n\n# View\n'),
+     'stale-generated', want=False, only=['generated'])
+
+# ---------------------------------------------------------------- 8h enforcement
+case('a repo with gates and no workflow is reported',
+     lambda r: as_repo(r) or
+     write(os.path.join(r, 'alpha-repo', 'tools', 'chapter_gate.py'), 'print("gate")\n'),
+     'ci-gap', only=['enforcement'])
+
+case('a repo with a workflow is not reported as a gap',
+     lambda r: as_repo(r) or
+     write(os.path.join(r, 'alpha-repo', 'tools', 'chapter_gate.py'), 'print("gate")\n') or
+     write(os.path.join(r, 'alpha-repo', '.github', 'workflows', 'gate.yml'), 'name: gate\n'),
+     'ci-gap', want=False, only=['enforcement'])
+
 # ---------------------------------------------------------------- 8e housekeeping
-def as_repo(r, name='alpha-repo'):
-    write(os.path.join(r, name, '.git', 'HEAD'), 'ref: refs/heads/main')
-
-
 case('a committed .pyc is reported as housekeeping',
      lambda r: as_repo(r) or
      write(os.path.join(r, 'alpha-repo', 'tools', '__pycache__', 'x.pyc'), 'x'),

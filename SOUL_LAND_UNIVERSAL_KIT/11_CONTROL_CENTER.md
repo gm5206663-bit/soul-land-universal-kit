@@ -53,6 +53,9 @@ The cure is always the same three things, and every detector here obeys them:
 | **publication** | does the in-tree site match the source? | chapter html in the repository against the book's chapters |
 | **pages** | does the **live** site match the book? | the Pages URL itself, through the API — a repository can hold a perfect site that was never deployed |
 | **housekeeping** | is the repository carrying machine files or frozen archives? | a `.pyc`, a `.bak`, a `__pycache__/`, an archive — **what `git ls-files` says is tracked**, never what happens to be on disk |
+| **links** | does the navigation in a shipped document lead anywhere? | relative targets in tracked `.md`/`.html` that do not exist. Fences, inline code and `<script>` blocks are not navigation; conventional placeholders (`[id](url)`) are skipped and the skips are counted |
+| **generated** | is a view stamped as generated actually its source's output? | reads the `GENERATED from <path>; SHA256: <hash>` stamp, re-hashes the source, compares. A mismatch means the view drifted or was edited after generation, and the stamp is a claim that is no longer true |
+| **enforcement** | does anything run the gates? | presence of gate-shaped scripts vs presence of a workflow file. Deliberately modest: it does not claim a workflow runs a given gate, and the detail says so |
 
 ## 3 · Severity is a judgement the house already made
 
@@ -120,6 +123,12 @@ Recorded because they are the reason the account numbers can be quoted at all:
 6. **A book and its own published copy are one home.** Counting them as two made
    54 twin groups look like duplication; one independent pair remains.
 7. **The list could hide the defect.** See §4, twice.
+10. **The new enforcement detector declared "13 of 12".** Its numerator counted
+   every repo with a workflow — including repos that carry no gate script — while
+   the denominator counted only gate-carrying repos, so the coverage line could
+   not be true. Caught by reading the number instead of trusting it, hours after
+   the same class of bug was fixed in the library's sentinel. A coverage line is
+   a claim; it gets checked like one.
 9. **The detector reported its own author's working files.** The housekeeping
    walk read the *filesystem*, so the `__pycache__` it found inside the kit's
    `tools/` was the one this operator created by running those very tools from
@@ -140,7 +149,7 @@ Recorded because they are the reason the account numbers can be quoted at all:
 **2026-10-11 (evening, after the repair sweep) · 24 books · 274 chapters ·
 1,151,458 words · 21,726 spoken lines.**
 
-**138 hard · 78 advisory**, every class sample-verified against the text:
+**138 hard · 87 advisory**, every class sample-verified against the text:
 
 | kind | count | severity | note |
 |---|---|---|---|
@@ -152,6 +161,9 @@ Recorded because they are the reason the account numbers can be quoted at all:
 | one text, two homes | 1 | advisory | a 20-word stub in two repositories |
 | dialogue exempt | 1 | advisory | Devouring Dragon, by law |
 | housekeeping | 5 | advisory | five committed archives (0.02–2.77 MB): two fire-phoenix snapshots, one how-to-write zip, the starter zip, supergirl's `…53PASS.zip`. Each says *if it is meant to be kept, say so* — the author's call, three repos' worth of history already being kept by git |
+| dead links | 3 | advisory | supergirl's beat maps cite `user_request_U31` / `U33` as relative links; the files are nowhere in the repository — broken citations in the coverage receipts |
+| CI gaps | 6 | advisory | repos carrying gate scripts with no workflow file: pokemon, fire-dragon, the private fire_phoenix, storyos-site, supergirl, the-universal-storyline-creation |
+| generated views | 0 | — | all **11 of 11** stamped views verified against their source, byte for byte: the renderers are honest today |
 
 Live sites: 3 repositories publish; **1 compared to its book and it agrees**
 (Grey Wolf, 10 chapter links = 10 chapters); 2 are declared *uncompared* because
