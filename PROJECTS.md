@@ -10,7 +10,8 @@
 > The emptied repositories were then **deleted outright** (2026-10-12; GitHub keeps
 > deleted repositories restorable for 90 days). Nothing is lost, and nothing is
 > duplicated — **the account went from 18 repositories to 12, with one home for every
-> Soul Land project.**
+> Soul Land project — the last strays, the Fire Phoenix workshop and its private
+> working repository, followed their content home and were deleted the same hour.**
 
 **Totals: 24 Soul Land projects · one non-Soul-Land fic · 12 books with prose live in this repo.**
 
@@ -26,7 +27,7 @@
 | SL3 — **One in a Thousand** (OC Su Yan) | `soul_land_3_oc/` | 7 | 63,691 | 🔴 LIVE |
 | SL3 — **the devouring-dragon serial** | `soul_land_devouring_dragon/` | 24 | 65,081 | 🔴 LIVE — canon-voice rollout, Ch 13–18 next |
 | SL2 — **The Grey Wolf** | `soul_land_2_the_grey_wolf/` | 10 | 25,792 | 🔴 LIVE — **reading page moved into this repo: [`docs/grey-wolf/`](docs/grey-wolf/)** |
-| SL4 — **Fire Phoenix** | `soul_land_4_fire_phoenix/` | 52 | 270,659 | 🔴 LIVE — published chapters; the private pipeline still ships new ones |
+| SL4 — **Fire Phoenix** | `soul_land_4_fire_phoenix/` | 52 | 270,659 | 🔴 LIVE — **complete**: published chapters + working layers + the whole workshop. Both former repos deleted 2026-10-12; the pipeline now runs from this folder |
 | Qian Xunji | `qian_xunji/` | 9 | 25,956 | 🔴 LIVE |
 | Lan Shen (SL3 reincarnation serial) | `lan_shen/` | 7 | 32,211 | 🔴 LIVE |
 | SL1 — Fire Dragon Lizard | `soul_land_1_fire_dragon_lizard/` | 5 | 18,605 | shipped |
@@ -69,7 +70,9 @@
 | `soul_land_2_the_grey_wolf/` + `docs/grey-wolf/` | repo `soul-land-2-the-grey-wolf` | `b93964d` | whole project + the reading site, relocated |
 | `soul_land_2_clear_sky_lion/` | repo `soul-land-2-clear-sky-lion` | `10eaf12` | whole project |
 | `adaptive_prodigy/` | shelf + `soul-land-projects/reference/sl3_lin_hao` | `ee1641b` · `867048b` | 116 newest chapters + 137 codex docs |
-| `soul_land_4_fire_phoenix/` | private repo (published layer only) | `f9809e6` | the 52 published chapters |
+| `soul_land_4_fire_phoenix/` | private repo, published layer | `f9809e6` | the 52 published chapters |
+| `soul_land_4_fire_phoenix/` (working layers) | the same private repo, everything else | `` | audits (447 files), the storyos pipeline, status panels, foundations — the private/public split ended by the author's order |
+| `soul_land_4_fire_phoenix/workshop/` | repo `fire-phoenix-workshop` | `` | rebuild layers, semantic audits, research, provenance, managed snapshots, admin receipts |
 | `qian_xunji/` | repo `qian-xunji-adaptation` | `d939d12` | whole project |
 | `lan_shen/` | repo `lan_shen` | `cc8c180` | whole project |
 | `seed_of_creation/` | frozen `soul-land-projects` | `867048b` | the SL2.5 foundation |
@@ -101,16 +104,14 @@ kit itself), the stale SL4 copy at ch31, and the starter zip twin. 233 files in 
 | | Before today | After |
 |---|---:|---:|
 | Repositories with Soul Land prose | 8+ | **1** (this one) |
-| The six duplicate repositories | full projects | **deleted 2026-10-12** ✓ (restorable via GitHub for 90 days) |
+| The eight duplicate repositories | full projects | **deleted 2026-10-12** ✓ (restorable via GitHub for 90 days) |
 
 **Lives elsewhere — deliberately, and why:**
 
 | Where | What | Why it stays |
 |---|---|---|
 | `soul-library` | the public **reading library** — covers, search, OPDS, analytics | it is a library site, not a project; its shelves mirror this home and serve readers |
-| `fire-phoenix-workshop` | SL4 rebuilds, audits, admin receipts | a working/bureaucracy layer; deliberately public on its own |
 | `storyos-site` | the publishing machinery + published layer | infrastructure |
-| `soul_land_4_fire_phoenix` (private) | the SL4 pipeline + private layers | source of truth for new SL4 chapters (author's call, below) |
 | `the-universal-storyline-creation`, `how-to-write-fanfiction`, `gm5206663-bit` | toolchain + profile | not serials |
 | `supergirl-adrian-vale`, `mcu_eternal_fanfic`, `stark_heir`, `pokemon-adaptation` | other fan-fiction, **not Soul Land** | stay in their own homes |
 
@@ -120,7 +121,5 @@ kit itself), the stale SL4 copy at ch31, and the starter zip twin. 233 files in 
 
 1. **Gu Yuan, SL1** — approved edge Ch 98; Ch 54–98 exist nowhere on GitHub. If any copy
    survives on your disk or in an old chat, it comes home too.
-2. **Fire Phoenix** — new SL4 chapters keep flowing through the private pipeline, or does
-   that job move into this repository?
-3. **The preserved older editions** (`_archive/2026-10-12_one-home/`) — keep as records (they
+2. **The preserved older editions** (`_archive/2026-10-12_one-home/`) — keep as records (they
    are now the only copy anywhere), or delete them too?

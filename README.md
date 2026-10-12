@@ -358,8 +358,9 @@ At the author's word, every Soul Land project that lived in its own repository w
 imported into this one, whole, with provenance (`IMPORTED.md` in each folder):
 
 - `soul_land_1_fire_dragon_lizard/` (5 ch) · `soul_land_2_the_grey_wolf/` (10 ch) ·
-  `soul_land_2_clear_sky_lion/` (Stage 0) · `soul_land_4_fire_phoenix/` (52 published ch —
-  the private working layers stayed private) · `adaptive_prodigy/` (116 ch — **The
+  `soul_land_2_clear_sky_lion/` (Stage 0) · `soul_land_4_fire_phoenix/` (52 published ch +
+  the complete working layers and the whole workshop — the private/public split ended
+  the same day by the author's order; both former repos deleted) · `adaptive_prodigy/` (116 ch — **The
   Adaptive Prodigy**, OC **Lin Hao**, newest text + the 2026-09 codex) · `qian_xunji/` (9 ch) ·
   `lan_shen/` (7 ch) · `seed_of_creation/` (SL2.5 foundation) ·
   `SL1_GU_YUAN/uploads/` (every surviving GitHub byte of Gu Yuan, incl. Ch 75).
