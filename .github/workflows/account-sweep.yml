@@ -1,0 +1,122 @@
+# ACCOUNT SWEEP — the whole account, measured on a schedule, by itself.
+#
+# Armed 2026-10-12. Until this file existed, the Control Centre only ran when a
+# human ran it. Everything the account knows about itself was measured on the
+# days somebody remembered. This runs it Mondays at 04:23 UTC, and on demand.
+#
+# WHAT IT DOES
+#   clones every PUBLIC repository the account owns, runs the house gate over
+#   every book, runs the ten detectors of the Control Centre, writes the three
+#   reports, and puts the verdict on the run's summary page.
+#
+# WHAT IT DOES NOT DO, AND SAYS SO EVERY RUN
+#   It sees public repositories only. A private repository (soul_land_4_fire_
+#   phoenix) cannot appear in this run, and its absence is NOT a clean result —
+#   the scope note says that out loud rather than letting a smaller account read
+#   as a healthier one. It is a REPORTING run, not a build gate: it does not fail
+#   when the account carries known-open hard findings. A weekly red badge over
+#   seventeen known findings is a badge people learn to ignore; the numbers in
+#   the artifact and on the summary page are the product.
+#
+# WHY THE NUMBERS ARE TRUSTWORTHY
+#   The tools declare their own coverage (`n of m`) and this workflow prints it
+#   verbatim. The gate and the account tools are the same ones the house runs by
+#   hand; nothing here re-implements a check.
+
+name: account-sweep
+
+on:
+  schedule:
+    # Mondays 04:23 UTC — before the library's own weekly sentinel run.
+    - cron: '23 4 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: account-sweep
+  cancel-in-progress: false
+
+jobs:
+  sweep:
+    name: Sweep every public repository
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Check out the kit
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          persist-credentials: false
+
+      - name: Set up Python
+        uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5.6.0
+        with:
+          python-version: "3.11"
+
+      - name: Clone every public repository
+        run: |
+          set -e
+          mkdir -p /tmp/account
+          curl -sf "https://api.github.com/users/gm5206663-bit/repos?per_page=100&type=owner" \
+            | python3 -c "import json,sys; [print(r['name']) for r in json.load(sys.stdin)]" \
+            | sort > repos.txt
+          echo "public repositories visible to this run: $(wc -l < repos.txt)"
+          while read -r r; do
+            git clone -q --depth 1 "https://github.com/gm5206663-bit/$r.git" "/tmp/account/$r" \
+              && echo "  cloned $r" || echo "  CLONE FAILED $r"
+          done < repos.txt
+          echo "repositories on disk: $(ls /tmp/account | wc -l)"
+
+      - name: The house gate, every book
+        run: |
+          python3 SOUL_LAND_UNIVERSAL_KIT/tools/live_book_gate.py --all --root /tmp/account \
+            > sweep-gate.txt 2>&1 || true
+          tail -1 sweep-gate.txt
+
+      - name: The account, whole — ten detectors
+        run: |
+          python3 SOUL_LAND_UNIVERSAL_KIT/tools/account.py report --root /tmp/account \
+            --out-prefix sweep > sweep-report.txt 2>&1 || true
+          head -8 sweep-report.txt
+
+      - name: Scope note — what this run cannot see
+        run: |
+          {
+            echo "## Account sweep — scope"
+            echo ""
+            echo "This run cloned **$(ls /tmp/account | wc -l) public repositories**."
+            echo ""
+            echo "**It cannot see private repositories.** A private repository's absence is"
+            echo "not a clean result, and any count below is a count of the public account."
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Verdict on the summary page
+        run: |
+          {
+            echo ""
+            echo "### Gate"
+            echo '```'
+            tail -1 sweep-gate.txt
+            echo '```'
+            echo "### Control Centre"
+            echo '```'
+            grep -m1 'ACCOUNT CONTROL' sweep-report.txt || true
+            grep -m1 'VERDICT' sweep-report.txt || true
+            grep -m1 'COVERAGE gate' sweep-report.txt || true
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload the evidence
+        if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
+        with:
+          name: account-sweep
+          path: |
+            sweep-gate.txt
+            sweep-report.txt
+            sweep.json
+            sweep.md
+            sweep.html
+            repos.txt
+          if-no-files-found: warn
