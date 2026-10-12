@@ -1,0 +1,9 @@
+# Ownership mapping for private-repository review. Update before adding collaborators.
+* @gm5206663-bit
+/.github/ @gm5206663-bit
+/PROJECT_CONTROL.md @gm5206663-bit
+/GITHUB_MANAGEMENT.md @gm5206663-bit
+/accepted_replacement_layers/ @gm5206663-bit
+/late_arc_rebuild/rebuild_v2/ @gm5206663-bit
+/sources/ @gm5206663-bit
+/provenance/ @gm5206663-bit

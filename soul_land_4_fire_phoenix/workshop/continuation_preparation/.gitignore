@@ -1,0 +1,4 @@
+# Deliberately no copied repositories, downloaded source text, or prose drafts in this preparation package.
+__pycache__/
+*.pyc
+Chapter_53*.md

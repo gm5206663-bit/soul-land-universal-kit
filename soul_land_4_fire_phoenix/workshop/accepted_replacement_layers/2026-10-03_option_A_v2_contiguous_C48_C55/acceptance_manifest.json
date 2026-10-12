@@ -1,0 +1,95 @@
+{
+  "schema": "fire-phoenix-local-accepted-replacement/1",
+  "accepted_on": "2026-10-03",
+  "status": "LOCAL_ACCEPTED_NOT_PUBLIC",
+  "authority": "Author selected local acceptance for Option A contiguous V2 C48-C55 staging candidate.",
+  "public_layer_mutated": false,
+  "github_push_authorized": false,
+  "source_staging": "late_arc_rebuild/rebuild_v2/promotion_proposal_2026-10-03/staging_option_A_contiguous_public_C48_C55",
+  "source_staging_manifest_sha256": "9fb0a9e271e8064bec2993c0b7d284b8bf921e56f94450de33c80c57837fb444",
+  "reader_facing_range": [
+    48,
+    55
+  ],
+  "internal_v2_mapping": {
+    "48": 48,
+    "49": 49,
+    "50": 50,
+    "51": 51,
+    "52": 52,
+    "53": 54,
+    "54": 55,
+    "55": 60
+  },
+  "chapters": [
+    {
+      "public_number": 48,
+      "file": "accepted_replacement_layers/2026-10-03_option_A_v2_contiguous_C48_C55/chapters/Chapter_48.md",
+      "sha256": "759629f2cc5b19d5abbfb0eb961a712bbd6fab36d737bbbaf8eece815ee6348f",
+      "words": 2405,
+      "staging_source": "late_arc_rebuild/rebuild_v2/promotion_proposal_2026-10-03/staging_option_A_contiguous_public_C48_C55/chapters/Chapter_48.md",
+      "staging_sha256": "759629f2cc5b19d5abbfb0eb961a712bbd6fab36d737bbbaf8eece815ee6348f"
+    },
+    {
+      "public_number": 49,
+      "file": "accepted_replacement_layers/2026-10-03_option_A_v2_contiguous_C48_C55/chapters/Chapter_49.md",
+      "sha256": "a7597f1f4145b9cec1707febb29ed8a11bb38d761ec4eac77ee61575129b0b79",
+      "words": 1924,
+      "staging_source": "late_arc_rebuild/rebuild_v2/promotion_proposal_2026-10-03/staging_option_A_contiguous_public_C48_C55/chapters/Chapter_49.md",
+      "staging_sha256": "a7597f1f4145b9cec1707febb29ed8a11bb38d761ec4eac77ee61575129b0b79"
+    },
+    {
+      "public_number": 50,
+      "file": "accepted_replacement_layers/2026-10-03_option_A_v2_contiguous_C48_C55/chapters/Chapter_50.md",
+      "sha256": "4560d8a02034a17ab486804ac4f444aee9f8eae17f983875f2f34618f56d4dc0",
+      "words": 1816,
+      "staging_source": "late_arc_rebuild/rebuild_v2/promotion_proposal_2026-10-03/staging_option_A_contiguous_public_C48_C55/chapters/Chapter_50.md",
+      "staging_sha256": "4560d8a02034a17ab486804ac4f444aee9f8eae17f983875f2f34618f56d4dc0"
+    },
+    {
+      "public_number": 51,
+      "file": "accepted_replacement_layers/2026-10-03_option_A_v2_contiguous_C48_C55/chapters/Chapter_51.md",
+      "sha256": "a66e9de2a5cc7952198991b132034fe8968b2998db0e9f66257c8ef79e9aab1c",
+      "words": 1730,
+      "staging_source": "late_arc_rebuild/rebuild_v2/promotion_proposal_2026-10-03/staging_option_A_contiguous_public_C48_C55/chapters/Chapter_51.md",
+      "staging_sha256": "a66e9de2a5cc7952198991b132034fe8968b2998db0e9f66257c8ef79e9aab1c"
+    },
+    {
+      "public_number": 52,
+      "file": "accepted_replacement_layers/2026-10-03_option_A_v2_contiguous_C48_C55/chapters/Chapter_52.md",
+      "sha256": "c6b366774faf1e2efc33ff71cface4fc995031734c175677f69eff6ffa622347",
+      "words": 1770,
+      "staging_source": "late_arc_rebuild/rebuild_v2/promotion_proposal_2026-10-03/staging_option_A_contiguous_public_C48_C55/chapters/Chapter_52.md",
+      "staging_sha256": "c6b366774faf1e2efc33ff71cface4fc995031734c175677f69eff6ffa622347"
+    },
+    {
+      "public_number": 53,
+      "file": "accepted_replacement_layers/2026-10-03_option_A_v2_contiguous_C48_C55/chapters/Chapter_53.md",
+      "sha256": "db9b78f4888c7b76e86bcfba24f517d59c238f639e2ade5c8bd5dab14712a7de",
+      "words": 1742,
+      "staging_source": "late_arc_rebuild/rebuild_v2/promotion_proposal_2026-10-03/staging_option_A_contiguous_public_C48_C55/chapters/Chapter_53.md",
+      "staging_sha256": "db9b78f4888c7b76e86bcfba24f517d59c238f639e2ade5c8bd5dab14712a7de"
+    },
+    {
+      "public_number": 54,
+      "file": "accepted_replacement_layers/2026-10-03_option_A_v2_contiguous_C48_C55/chapters/Chapter_54.md",
+      "sha256": "33141470564d2146d9b2e0964ddacf2d9138d5299a195411853342a820641977",
+      "words": 1592,
+      "staging_source": "late_arc_rebuild/rebuild_v2/promotion_proposal_2026-10-03/staging_option_A_contiguous_public_C48_C55/chapters/Chapter_54.md",
+      "staging_sha256": "33141470564d2146d9b2e0964ddacf2d9138d5299a195411853342a820641977"
+    },
+    {
+      "public_number": 55,
+      "file": "accepted_replacement_layers/2026-10-03_option_A_v2_contiguous_C48_C55/chapters/Chapter_55.md",
+      "sha256": "5478d9fd874f36e0d7e64e2c478becfc84ede27c78a553f88eb987ada193a855",
+      "words": 1895,
+      "staging_source": "late_arc_rebuild/rebuild_v2/promotion_proposal_2026-10-03/staging_option_A_contiguous_public_C48_C55/chapters/Chapter_55.md",
+      "staging_sha256": "5478d9fd874f36e0d7e64e2c478becfc84ede27c78a553f88eb987ada193a855"
+    }
+  ],
+  "recovered_public_baseline": {
+    "status": "PRESERVED_UNCHANGED",
+    "proposal_manifest": "late_arc_rebuild/rebuild_v2/promotion_proposal_2026-10-03/candidate_manifest.json"
+  },
+  "hard_boundary": "No C56, C61, public apply, or external push is authorized by this local acceptance."
+}

@@ -1,0 +1,207 @@
+{
+  "schema_version": "2.0",
+  "updated": "2026-09-17",
+  "purpose": "Machine-readable current-state manifest for Perfect Continuation Skill Level 2.",
+  "latest_fic_chapter": 52,
+  "latest_fic_title": "The Forest Counts Separately",
+  "latest_fic_file": "chapters/Chapter_52.md",
+  "latest_coverage_file": "canon_coverage/Canon_Coverage_Chapter_52.md",
+  "validation_audit_glob": "audits/CHAPTER_52_VALIDATION_*.md",
+  "support_sync_audit_glob": "audits/CHAPTER_52_SUPPORT_SYNC_*.md",
+  "canon_consumed_through": {
+    "chapter": 174,
+    "title": "Start of the next round"
+  },
+  "next_fic_chapter": 53,
+  "next_source": {
+    "chapter": 175,
+    "title": "Go deeper"
+  },
+  "current_state": {
+    "lan": "Rank20 / SP505 exact / Spirit Sea; Elementary Spirit Ascension Platform access delivered but unused; no Platform growth.",
+    "qian": "+500-year all-current-Soul-Rings reward processed through Spirit Pagoda; no exact new ring ages or purple-ring breakthrough invented.",
+    "liu": "Silver Moon Wolf Right Arm Bone fused; Rank29; Silver Edge available for familiarization/trump-card use; no extended combat mastery/use yet; currently scouting within 300 meters.",
+    "dorm333": "Champion/federation-first with 20,341; current round is simulated Star Dou Forest, seven days, random transfer, separate scoring, last-kill points, team-killing half-point transfer; stationed at a massive tree while Liu scouts and Qian prepares Coin of Summoning.",
+    "dorm336": "Second with 9,846; present in six-team lineup before random transfer; separate Shrek reward/review remains background.",
+    "yan": "Public Yan Shuo/he; private Yan Shuo'er unrevealed; Rank39 / SP962 / Spirit Sea; true awakened Fire Phoenix; Ultimate Fire; three purple rings; Dawnflame 3,100, Dawn-Iron 3,950, Purple Flame 6,400; low Soul King-class effective threat floor in serious no-full-fusion release."
+  },
+  "required_status_patterns": [
+    "Live edge:.*after Chapter52",
+    "Latest prose: `chapters/Chapter_52\\.md`",
+    "Latest coverage: `canon_coverage/Canon_Coverage_Chapter_52\\.md`",
+    "Latest validation: `audits/CHAPTER_52_VALIDATION_",
+    "Latest support sync: `audits/CHAPTER_52_SUPPORT_SYNC_",
+    "Canon consumed through.*Chapter174",
+    "Next source boundary:.*Chapter175",
+    "simulated Star Dou Forest",
+    "Liu.*300-meter|300-meter.*Liu|300 meters",
+    "Coin of Summoning",
+    "random team transfer|random transfer",
+    "separate team scoring|separate scoring",
+    "last-kill|last kill",
+    "team-killing.*half|half-point transfer",
+    "Lan Xuanyu: Rank20",
+    "SP505",
+    "Elementary Spirit Ascension Platform access card/opportunity.*unused|unused.*Elementary Spirit Ascension Platform access card/opportunity",
+    "Qian Lei.*\\+500-year all-current-Soul-Rings reward.*processed",
+    "no exact new ring ages|do not invent exact new ring ages",
+    "Liu Feng.*Rank29|Rank29.*Liu Feng",
+    "Silver Moon Wolf Right Arm Bone",
+    "Silver Edge",
+    "six shortlisted teams|six-team",
+    "Dorm336.*second.*9,846|second.*9,846.*Dorm336",
+    "low Soul King-class effective threat floor",
+    "Rank39\\s*/\\s*SP962\\s*/\\s*Spirit Sea",
+    "true(?:/full)? awakened Fire Phoenix|true awakened Fire Phoenix",
+    "Ultimate Fire",
+    "Dawnflame Phoenix Kite,?\\s*3,100",
+    "Dawn-Iron Phoenix Roc,?\\s*3,950",
+    "Purple Flame Eidolon Bird,?\\s*6,400"
+  ],
+  "key_support_files": [
+    "README.md",
+    "HANDOFF.md",
+    "MASTER_PROJECT_BIBLE.md",
+    "PROJECT_FILE_CLASSIFICATION_AND_SOURCE_OF_TRUTH.md",
+    "foundation/OPEN.md",
+    "foundation/CANON_SOURCE_NUMBERING_MAP.md",
+    "canon_coverage/CANON_COVERAGE_INDEX.md",
+    "codex/CHAPTER_PROGRESS.md",
+    "codex/BUTTERFLY_EFFECTS.md",
+    "codex/TIMELINE.md",
+    "foundation/ACTIVE_CONTINUITY_GUIDE.md",
+    "foundation/NO_MISTAKE_LIVE_RULES.md"
+  ],
+  "key_support_priority_patterns": [
+    "Chapter_52\\.md",
+    "Chapter174",
+    "Chapter175",
+    "Rank29",
+    "processed",
+    "Silver Moon Wolf Right Arm Bone",
+    "simulated Star Dou Forest",
+    "300 meters|300-meter",
+    "Coin of Summoning",
+    "low Soul King-class effective threat floor"
+  ],
+  "active_markdown_dirs": [
+    "foundation",
+    "bible",
+    "codex"
+  ],
+  "top_level_active_files": [
+    "README.md",
+    "HANDOFF.md",
+    "MASTER_PROJECT_BIBLE.md",
+    "PROJECT_FILE_CLASSIFICATION_AND_SOURCE_OF_TRUTH.md",
+    "YAN_SHUO_CURRENT_STATUS_PANEL.md",
+    "YAN_SHUO_COMPLETE_CURRENT_STATUS_PANEL.md"
+  ],
+  "allowed_historical_context_patterns": [
+    "historical",
+    "old",
+    "superseded",
+    "endpoint",
+    "Chapter49 completed",
+    "Chapter50 completed",
+    "Chapter51 completed",
+    "Chapter_49\\.md \\|",
+    "Chapter_50\\.md \\|",
+    "Chapter_51\\.md \\|",
+    "at the Chapter49 endpoint",
+    "at the Chapter50 endpoint",
+    "superseded by Chapter51",
+    "Coverage table",
+    "Written chapter list",
+    "Example after Chapter52",
+    "As of this skill creation",
+    "For future chapters"
+  ],
+  "active_stale_regexes": [
+    {
+      "id": "qian_unprocessed_or_pending_after_ch51",
+      "regex": "Qian[^\\n]{0,260}(unprocessed/pending|unprocessed|still pending|pending Spirit Pagoda|pending proper Spirit Pagoda|requires proper Spirit Pagoda|pending collection/processing|reward-pending state|all three rewards pending)"
+    },
+    {
+      "id": "liu_unfused_or_pending_after_ch51",
+      "regex": "Liu[^\\n]{0,300}(pending delivery|pending right arm|undelivered|unintegrated|Soul Bone pending|right arm Soul Bone reward exists but|fusion setup.*current|integration/combat use.*not yet complete|not yet complete/current)"
+    },
+    {
+      "id": "wrong_qian_current_unprocessed",
+      "regex": "\\+500[^\\n]{0,160}(unprocessed/pending|unprocessed|still pending)"
+    },
+    {
+      "id": "chapter52_preprose_protocol",
+      "regex": "For Chapter52:|Before Chapter52 prose|Fetch(?:/verify)? Chapter174|Chapter52 should (?:consume|start|begin|continue|use)|Canon_Coverage_Chapter_52\\.md` before prose|chapters/Chapter_52\\.md` only from verified source"
+    },
+    {
+      "id": "stale_after_ch52_startpoint",
+      "regex": "six shortlisted Heaven Luo teams (?:have )?gathered for (?:the )?next qualifier|Chapter51 stopped at the six shortlisted Heaven Luo teams"
+    },
+    {
+      "id": "stale_next_source_174",
+      "regex": "Next source(?: boundary)?:[^\\n]*Chapter174|Chapter174 `Start of the next round` is (?:the )?next|required source for Chapter52"
+    },
+    {
+      "id": "stale_reward_pending_state_instruction",
+      "regex": "reward-pending state|keep all three rewards pending"
+    }
+  ],
+  "latest_story_body_forbidden_literals": [
+    "SP526",
+    "Rainbow Dragon",
+    "Dragon Queen necklace",
+    "Phoenix God authority",
+    "Phoenix Domain",
+    "Nirvana",
+    "Martial Soul True Body",
+    "five-coloured Phoenix",
+    "five-colored Phoenix",
+    "Yan Emerald Demon Bird",
+    "Yan's Emerald Demon Bird",
+    "external soul bone",
+    "public Yan Shuo’er reveal",
+    "public Yan Shuo'er reveal",
+    "Chapter175",
+    "Chapter 175",
+    "Go deeper"
+  ],
+  "latest_story_body_forbidden_regexes": [
+    "Lan[^\\n]{0,120}(entered|used)[^\\n]{0,80}Platform",
+    "Platform[^\\n]{0,80}(improvement|growth)[^\\n]{0,80}(occurred|happened|completed)",
+    "Qian[^\\n]{0,160}(purple ring|thousand-year ring|exact.*ring age)",
+    "Silver Edge[^\\n]{0,120}(mastered|enemy|combat victory|killed|defeated)"
+  ],
+  "latest_story_body_required_patterns": [
+    "How had they killed the Ground Fire Scarlet Dragons",
+    "Twenty thousand three hundred and forty-one",
+    "Lu Qianxun",
+    "Jin Xiang",
+    "Eighteen pods opened",
+    "Welcome to the Shrek Academy Heaven Luo Planet qualifiers",
+    "simulated Star Dou Forest",
+    "Every rule had meaning",
+    "killing is allowed between teams",
+    "seven days",
+    "pulled him between himself and Liu Feng",
+    "Peripheral Region",
+    "Hybrid Region",
+    "Core Region",
+    "Territory of Great Beasts",
+    "Three hundred meters",
+    "Coin of Summoning",
+    "Silver Moon Wolf Right Arm Bone"
+  ],
+  "future_bans": [
+    "Yan fourth ring",
+    "Yan Emerald Demon Bird currentization",
+    "Yan external soul bone",
+    "Rainbow Dragon currentization",
+    "Dragon Queen necklace possession",
+    "Phoenix God authority",
+    "Phoenix Domain",
+    "Nirvana/resurrection",
+    "Martial Soul True Body",
+    "public Yan Shuo'er reveal"
+  ]
+}

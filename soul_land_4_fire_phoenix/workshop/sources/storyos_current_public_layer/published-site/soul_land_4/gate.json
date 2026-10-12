@@ -1,0 +1,27 @@
+{
+  "project": "soul_land_4",
+  "result": "PASS",
+  "errors": 0,
+  "warnings": 0,
+  "learned-rules-active": 2,
+  "exit": 0,
+  "staged_prose_files": 52,
+  "live_edge_chapter": 52,
+  "stdout_tail": [
+    "  [info] receipt-coverage: Chapter2 has no validation receipt recorded.",
+    "  [info] receipt-coverage: Chapter3 has no validation receipt recorded.",
+    "  [info] receipt-coverage: Chapter4 has no validation receipt recorded.",
+    "  [info] receipt-coverage: Chapter5 has no validation receipt recorded.",
+    "  [info] receipt-coverage: Chapter6 has no validation receipt recorded.",
+    "  [info] receipt-coverage: Chapter7 has no validation receipt recorded.",
+    "  [info] receipt-coverage: Chapter8 has no validation receipt recorded.",
+    "  [info] receipt-coverage: Chapter9 has no validation receipt recorded.",
+    "  [info] receipt-coverage: Chapter10 has no validation receipt recorded.",
+    "  [info] receipt-coverage: Chapter11 has no validation receipt recorded.",
+    "  [info] receipt-coverage: Chapter16 has no validation receipt recorded.",
+    "  [info] receipt-coverage: Chapter18 has no validation receipt recorded.",
+    "  NEXT CHAPTER: Chapter53  (source: Chapter178 Collaborate)",
+    "  GATE: clear \u2014 blueprint then draft"
+  ],
+  "generated_by": "publish_stage.emit_gate_report"
+}

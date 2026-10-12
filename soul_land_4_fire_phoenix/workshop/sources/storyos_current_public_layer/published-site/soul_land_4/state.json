@@ -1,0 +1,708 @@
+{
+  "schema": "storyos-manifest/3",
+  "project": "Soul Land 4 — Fire Phoenix OC Fic",
+  "generated": "2026-09-20",
+  "generator": "scan_project.py",
+  "source_corpus": {
+    "dir": "/home/user/projects/soul_land_4/audits",
+    "files": 121,
+    "snapshot_files_excluded": 325,
+    "newest_receipt_date": "2026-09-19"
+  },
+  "edge_authority": "foundation/CURRENT_STATE_MANIFEST.json (native, authoritative)",
+  "status_panel_mirror": "foundation/STATUS_PANEL.md",
+  "edge": {
+    "fic_chapter": 52,
+    "fic_title": "Amiable Beasts",
+    "declared_by": "foundation/CURRENT_STATE_MANIFEST.json (native, authoritative)",
+    "declared_on": "2026-09-19",
+    "canon_consumed": 177,
+    "canon_consumed_title": "1,000-year Purple Zoysia",
+    "next_source": 178,
+    "next_source_title": "Collaborate",
+    "accepted_chapters": [
+      12,
+      13,
+      14,
+      15,
+      17,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52
+    ]
+  },
+  "canon_numbering": [
+    {
+      "fic": 12,
+      "canon": "—",
+      "status": "accepted",
+      "validation": "CHAPTER_12_VALIDATION_2026-09-11.md"
+    },
+    {
+      "fic": 13,
+      "canon": "—",
+      "status": "accepted",
+      "validation": "CHAPTER_13_VALIDATION_2026-09-11.md"
+    },
+    {
+      "fic": 14,
+      "canon": "—",
+      "status": "accepted",
+      "validation": "CHAPTER_14_VALIDATION_2026-09-11.md"
+    },
+    {
+      "fic": 15,
+      "canon": "—",
+      "status": "accepted",
+      "validation": "CHAPTER_15_VALIDATION_2026-09-11.md"
+    },
+    {
+      "fic": 17,
+      "canon": "—",
+      "status": "accepted",
+      "validation": "CHAPTER_17_VALIDATION_2026-09-11.md"
+    },
+    {
+      "fic": 19,
+      "canon": "—",
+      "status": "accepted",
+      "validation": "CHAPTER_19_VALIDATION_2026-09-11.md"
+    },
+    {
+      "fic": 20,
+      "canon": "—",
+      "status": "accepted",
+      "validation": "CHAPTER_20_VALIDATION_2026-09-11.md"
+    },
+    {
+      "fic": 21,
+      "canon": "—",
+      "status": "accepted",
+      "validation": "CHAPTER_21_VALIDATION_2026-09-11.md"
+    },
+    {
+      "fic": 22,
+      "canon": "—",
+      "status": "accepted",
+      "validation": "CHAPTER_22_VALIDATION_2026-09-12.md"
+    },
+    {
+      "fic": 23,
+      "canon": "—",
+      "status": "accepted",
+      "validation": "CHAPTER_23_VALIDATION_2026-09-12.md"
+    },
+    {
+      "fic": 24,
+      "canon": "—",
+      "status": "accepted",
+      "validation": "CHAPTER_24_VALIDATION_2026-09-12.md"
+    },
+    {
+      "fic": 25,
+      "canon": "—",
+      "status": "accepted",
+      "validation": "CHAPTER_25_VALIDATION_2026-09-12.md"
+    },
+    {
+      "fic": 26,
+      "canon": "—",
+      "status": "accepted",
+      "validation": "CHAPTER_26_VALIDATION_2026-09-13.md"
+    },
+    {
+      "fic": 27,
+      "canon": "—",
+      "status": "accepted",
+      "validation": "CHAPTER_27_VALIDATION_2026-09-13.md"
+    },
+    {
+      "fic": 28,
+      "canon": "—",
+      "status": "accepted",
+      "validation": "CHAPTER_28_VALIDATION_2026-09-13.md"
+    },
+    {
+      "fic": 29,
+      "canon": "—",
+      "status": "accepted",
+      "validation": "CHAPTER_29_VALIDATION_2026-09-13.md"
+    },
+    {
+      "fic": 30,
+      "canon": "—",
+      "status": "accepted",
+      "validation": "CHAPTER_30_VALIDATION_2026-09-13.md"
+    },
+    {
+      "fic": 31,
+      "canon": "—",
+      "status": "accepted",
+      "validation": "CHAPTER_31_VALIDATION_2026-09-13.md"
+    },
+    {
+      "fic": 32,
+      "canon": "—",
+      "status": "accepted",
+      "validation": "CHAPTER_32_VALIDATION_2026-09-13.md"
+    },
+    {
+      "fic": 33,
+      "canon": "—",
+      "status": "accepted",
+      "validation": "CHAPTER_33_VALIDATION_2026-09-13.md"
+    },
+    {
+      "fic": 34,
+      "canon": "—",
+      "status": "accepted",
+      "validation": "CHAPTER_34_VALIDATION_2026-09-14.md"
+    },
+    {
+      "fic": 35,
+      "canon": "—",
+      "status": "accepted",
+      "validation": "CHAPTER_35_VALIDATION_2026-09-14.md"
+    },
+    {
+      "fic": 36,
+      "canon": "—",
+      "status": "accepted",
+      "validation": "CHAPTER_36_VALIDATION_2026-09-14.md"
+    },
+    {
+      "fic": 37,
+      "canon": "—",
+      "status": "accepted",
+      "validation": "CHAPTER_37_VALIDATION_2026-09-14.md"
+    },
+    {
+      "fic": 38,
+      "canon": "—",
+      "status": "accepted",
+      "validation": "CHAPTER_38_VALIDATION_2026-09-14.md"
+    },
+    {
+      "fic": 39,
+      "canon": "—",
+      "status": "accepted",
+      "validation": "CHAPTER_39_VALIDATION_2026-09-15.md"
+    },
+    {
+      "fic": 40,
+      "canon": "—",
+      "status": "accepted",
+      "validation": "CHAPTER_40_VALIDATION_2026-09-15.md"
+    },
+    {
+      "fic": 41,
+      "canon": "—",
+      "status": "accepted",
+      "validation": "CHAPTER_41_VALIDATION_2026-09-15.md"
+    },
+    {
+      "fic": 42,
+      "canon": "—",
+      "status": "accepted",
+      "validation": "CHAPTER_42_VALIDATION_2026-09-15.md"
+    },
+    {
+      "fic": 43,
+      "canon": "—",
+      "status": "accepted",
+      "validation": "CHAPTER_43_VALIDATION_2026-09-15.md"
+    },
+    {
+      "fic": 44,
+      "canon": "—",
+      "status": "accepted",
+      "validation": "CHAPTER_44_VALIDATION_2026-09-15.md"
+    },
+    {
+      "fic": 45,
+      "canon": "—",
+      "status": "accepted",
+      "validation": "CHAPTER_45_VALIDATION_2026-09-15.md"
+    },
+    {
+      "fic": 46,
+      "canon": "Chapter166 `Unity of Heaven and Man, deep meditation` + Chapter167 `Champion!`",
+      "status": "accepted",
+      "validation": "CHAPTER_46_VALIDATION_2026-09-15.md"
+    },
+    {
+      "fic": 47,
+      "canon": "Chapter168 `Breakthrough to the Spirit Sea realm?`",
+      "status": "accepted",
+      "validation": "CHAPTER_47_VALIDATION_2026-09-15.md"
+    },
+    {
+      "fic": 48,
+      "canon": "Chapter169 `Yin Tianfan's story` + Chapter170 `Just a routine`",
+      "status": "accepted",
+      "validation": "CHAPTER_48_VALIDATION_2026-09-16.md"
+    },
+    {
+      "fic": 49,
+      "canon": "Chapter171 `Drawing the reward from the lucky wheel` + Chapter172 `Prize` + Chapter173 `Soul Bone Fusion`",
+      "status": "accepted",
+      "validation": "CHAPTER_49_VALIDATION_2026-09-16.md"
+    },
+    {
+      "fic": 50,
+      "canon": "Chapter174 `Start of the next round` + Chapter175 `Go deeper`",
+      "status": "accepted",
+      "validation": "CHAPTER_50_VALIDATION_2026-09-16.md"
+    },
+    {
+      "fic": 51,
+      "canon": "Chapter176 `Be harder on yourself`",
+      "status": "accepted",
+      "validation": "CHAPTER_51_VALIDATION_2026-09-18.md"
+    },
+    {
+      "fic": 52,
+      "canon": "Chapter177 `1,000-year Purple Zoysia`",
+      "status": "accepted",
+      "validation": "CHAPTER_52_VALIDATION_2026-09-19.md"
+    },
+    {
+      "fic": 53,
+      "canon": "—",
+      "status": "quarantined-superseded",
+      "validation": "CHAPTER_53_VALIDATION_2026-09-17.md"
+    }
+  ],
+  "characters": {
+    "Lan Xuanyu": {
+      "dorm": "Dorm333",
+      "state": "Rank20 / Soul Grandmaster; SP505 / Spirit Sea; bone age not yet eleven / near eleven; two yellow hundred-year rings publicly shown; evolved silver/golden Blue Silver Grass.",
+      "rank": 20,
+      "sp": 505
+    },
+    "Qian Lei": {
+      "dorm": "Dorm333",
+      "state": "Replicate/Emerald Demon Bird weak-point counter-kill accomplished; Shrek early-admission offer refused; comic/greedy but team-loyal; one-year goal of five hundred Spiritual Power and Rank30 Soul Power stated.",
+      "rank": 30,
+      "sp": null
+    },
+    "Liu Feng": {
+      "dorm": "Dorm333",
+      "state": "Rank29 after Silver Moon Wolf Right Arm Bone fusion; active movement/spear core; emotionally affirmed by Qian's refusal and Dorm333's team bond.",
+      "rank": 29,
+      "sp": null
+    },
+    "Yan Shuo": {
+      "dorm": "Dorm336",
+      "state": "Rank39 / SP962 / Spirit Sea; bone age not yet eleven; public identity Yan Shuo/he; no public/formal reveal; class monitor.",
+      "rank": 39,
+      "sp": 962,
+      "public_identity": "Yan Shuo / he",
+      "reveal_status": "none",
+      "power_floor": "low Soul King-class effective threat floor in serious no-full-fusion release",
+      "power_ceiling": "no perfect Ultimate Fire mastery; no combat-flight perfection",
+      "sheet": {
+        "Martial soul": "true/full awakened Fire Phoenix.",
+        "Rings": "three purple rings publicly shown under controlled Shrek preliminary proof and protected record.",
+        "No-fusion serious baseline": "with martial soul released, ordinary skills available, safe Ultimate Fire output, SP962 Spirit Sea control, wings/body/frame, and three perfectly compatible purple Soul Spirits counted as integrated foundation, Yan must be treated as having a low Soul King-class effective threat floor against ordinary/no-special-counter opponents rather than ordinary Rank39.",
+        "Fire": "Ultimate Fire active; low-output controlled use stable; high-output restricted; no perfect mastery.",
+        "Wings/flight": "full wings manifested; true flight stable for training/course use; combat flight improving but not perfect; Shrek anti-flight/human-priority rules punish careless open flight/high heat signatures.",
+        "Soul Spirit mechanics audit result": "SP962 / Spirit Sea validates the three-purple-soul-spirit load, but it is the normal Spirit Sea capacity pattern; future 10,000+ black or higher soul spirits require Rank/SP/body/bloodline/consent threshold events, not casual stacking."
+      }
+    },
+    "Song Yichen": {
+      "dorm": "Dorm336",
+      "state": "Rank29 / SP188; active with Dorm336 after shield/anchor contribution.",
+      "rank": 29,
+      "sp": 188
+    },
+    "Luo Haoran": {
+      "dorm": "Dorm336",
+      "state": "Rank28 / SP226; active with Dorm336 after thermal seam/high-line and impact reading contribution.",
+      "rank": 28,
+      "sp": 226
+    },
+    "Lu Qianxun": {
+      "dorm": "Other",
+      "state": "strong Golden Lion King rival-team leader, not class monitor; team ranked ninth with 531; stood behind Dorm333 at next-round lineup and may cooperate if possible.",
+      "rank": null,
+      "sp": null
+    },
+    "Ye Lingtong": {
+      "dorm": "Other",
+      "state": "Lu's teammates, ninth-place route, not in private Dorm333 reward mechanics.",
+      "rank": null,
+      "sp": null
+    },
+    "Jin Xiang": {
+      "dorm": "Other",
+      "state": "ranked ninety-ninth with 39; Jin now regrets provoking Lan and recognizes Lan's command value.",
+      "rank": null,
+      "sp": null
+    }
+  },
+  "knowledge_firewalls": [
+    {
+      "character": "multiple",
+      "topic": "Firewall is not distrust",
+      "state": "KNOWN PARTLY",
+      "earliest_valid_change": "explicit on-page disclosure in a verified source chapter",
+      "rule": "4 gate rules; strongest — Secrets between them are primarily adult-imposed and circumstance-imposed safety firewalls, not lack of trust."
+    },
+    {
+      "character": "multiple",
+      "topic": "Yan identity firewall",
+      "state": "HIDDEN",
+      "earliest_valid_change": "explicit on-page disclosure in a verified source chapter",
+      "rule": "8 gate rules; strongest — Ultimate Fire pressure exists publicly in controlled/battlefield observations, but perfect mastery does not."
+    },
+    {
+      "character": "multiple",
+      "topic": "Lan secrecy after rebuilt Chapter50",
+      "state": "KNOWN PARTLY",
+      "earliest_valid_change": "explicit on-page disclosure in a verified source chapter",
+      "rule": "3 gate rules; strongest — Lan's soul rings appeared naturally and he did not attach a known Spirit Soul."
+    },
+    {
+      "character": "multiple",
+      "topic": "Teacher/adult knowledge",
+      "state": "KNOWN PARTLY",
+      "earliest_valid_change": "explicit on-page disclosure in a verified source chapter",
+      "rule": "4 gate rules; strongest — do not need Yan's private body markers exposed publicly."
+    },
+    {
+      "character": "multiple",
+      "topic": "Chapter49 firewall results",
+      "state": "KNOWN PARTLY",
+      "earliest_valid_change": "explicit on-page disclosure in a verified source chapter",
+      "rule": "1 gate rules; strongest — Qian drew all-current-Soul-Rings +500 years; after Chapter51 it has been processed through Spirit Pagoda, with exact new ring ages not public/current."
+    },
+    {
+      "character": "multiple",
+      "topic": "Future firewall for Chapter50+",
+      "state": "KNOWN PARTLY",
+      "earliest_valid_change": "explicit on-page disclosure in a verified source chapter",
+      "rule": "1 gate rules; strongest — private Shrek observer notes not shown to students."
+    },
+    {
+      "character": "multiple",
+      "topic": "Rainbow Dragon knowledge firewall",
+      "state": "KNOWN PARTLY",
+      "earliest_valid_change": "explicit on-page disclosure in a verified source chapter",
+      "rule": "6 gate rules; strongest — Yan does not currently know she has/has access to an awakened Rainbow Dragon second martial soul."
+    },
+    {
+      "character": "multiple",
+      "topic": "Soul Spirit firewall",
+      "state": "KNOWN PARTLY",
+      "earliest_valid_change": "explicit on-page disclosure in a verified source chapter",
+      "rule": "3 gate rules; strongest — Current purple soul spirits should not appear as casual fully sapient talking companions."
+    },
+    {
+      "character": "Yan Shuo",
+      "topic": "Dorm333 / Lan public results",
+      "state": "KNOWN PARTLY",
+      "earliest_valid_change": "official academy channel publishes it",
+      "rule": "May know: Dorm333 survived, Lan woke, Lan reached SP505/Spirit Sea if official school channels share it, Dorm333 champion result, and broad Lucky Wheel reward timing. May NOT know: Lan's private mechanics, reward details unless publicly announced, or full final-stage teacher report"
+    }
+  ],
+  "banned_tokens": {
+    "deleted_mistake_route": [
+      "Lan Platform",
+      "Lucky Wheel",
+      "Silver Edge",
+      "Spirit Ascension Platform"
+    ],
+    "forbidden_future_power": [],
+    "forbidden_currentization": [],
+    "stale_stat_drift": [
+      "SP526"
+    ],
+    "authoritative_literals": [
+      "Dragon Queen",
+      "Emerald Demon Bird",
+      "Fire Phoenix",
+      "Martial Soul True Body",
+      "Phoenix Domain",
+      "Phoenix God",
+      "Rainbow Dragon",
+      "SP526",
+      "Yan Emerald Demon Bird",
+      "Yan Shuo"
+    ],
+    "authorative_regexes": [
+      "Gold Silk Ape",
+      "Palm Tree Bear",
+      "Purple Zoysia",
+      "Silver Edge"
+    ],
+    "authoritative_future_bans": [
+      "Arm Bone",
+      "Dragon Queen",
+      "Gold Silk Ape",
+      "Liu Feng",
+      "Martial Soul True Body",
+      "Phoenix Domain",
+      "Phoenix God",
+      "Qian Lei",
+      "Rainbow Dragon",
+      "Silver Moon Wolf Right",
+      "White Dragon Spear",
+      "Yan Emerald Demon Bird",
+      "Yan Shuo"
+    ]
+  },
+  "banned_sentences": {
+    "deleted_mistake_route": [
+      "Lan Platform use/growth before verified source.",
+      "Liu unsupported Silver Edge mastery.",
+      "Lucky Wheel for Dorm336 unless verified source/user later explicitly permits it;",
+      "Platform improvement/use before Lan actually enters a verified later Spirit Ascension Platform scene;",
+      "Qian exact ages/purple breakthrough.",
+      "Yan future route currentization or identity reveal.",
+      "fake Dorm336 reward speech.",
+      "invented Dorm336 Shrek item bundle.",
+      "mistaken early Platform growth/result route;",
+      "one-source-one-fic-chapter default pacing.",
+      "slogan patching for second place."
+    ],
+    "forbidden_future_power": [],
+    "forbidden_currentization": [],
+    "stale_stat_drift": [
+      "Chapter178",
+      "Chapter179",
+      "Collaborate",
+      "Nirvana",
+      "SP526"
+    ],
+    "banned_pacing": [
+      "do not currentize future Yan soul-spirit/Rainbow Dragon routes",
+      "do not currentize or mention as achieved:",
+      "do not default to one canon chapter per fic chapter",
+      "do not invent exact post-reward ages or any purple-ring breakthrough unless source later states i",
+      "do not invent formal reward ceremonies/items just to prove a butterfly consequence"
+    ],
+    "authoritative_literals": [
+      "Chapter 178",
+      "Chapter178",
+      "Chapter179",
+      "Collaborate",
+      "Dragon Queen necklace",
+      "Fire Phoenix output-calibration cuff",
+      "Initial alliance",
+      "Martial Soul True Body",
+      "Nirvana",
+      "Phoenix Domain",
+      "Phoenix God authority",
+      "Rainbow Dragon",
+      "SP526",
+      "Second place is not nothing",
+      "Yan Emerald Demon Bird",
+      "Yan's Emerald Demon Bird",
+      "external soul bone",
+      "five-colored Phoenix",
+      "five-coloured Phoenix",
+      "public Yan Shuo'er reveal",
+      "public Yan Shuo’er reveal",
+      "shield-load impact matrix",
+      "special observation file",
+      "wind-line reaction threads"
+    ],
+    "authorative_regexes": [
+      "(?:Purple Zoysia|the herb)[^\\n]{0,120}\\?(?:taken|grabbed|snatched|stolen|in (?:his|Lan)'s hand)",
+      "Gold Silk Ape[^\\n]{0,120}\\b(?:allied|alliance|agreed|nodded)\\b",
+      "Lan[^\\n]{0,120}\\b(entered|used)\\b[^\\n]{0,80}Platform",
+      "Palm Tree Bear[^\\n]{0,80}\\b(?:died|dead|neck snapped|neck was broken|killed)\\b",
+      "Platform[^\\n]{0,80}(improvement|growth)[^\\n]{0,80}(occurred|happened|completed)",
+      "Qian[^\\n]{0,160}(purple breakthrough|purple-ring breakthrough|exact.*ring age)",
+      "Silver Edge[^\\n]{0,120}(mastered|enemy|combat victory|killed|defeated)"
+    ],
+    "authoritative_future_bans": [
+      "Dragon Queen necklace possession",
+      "Liu Feng finishing blow with White Dragon Spear / Silver Moon Wolf Right Arm Bone",
+      "Martial Soul True Body",
+      "Nirvana/resurrection",
+      "Phoenix Domain",
+      "Phoenix God authority",
+      "Qian Lei communicating with the two 1,000-year beasts (belongs to the next source unit)",
+      "Rainbow Dragon currentization",
+      "Yan Emerald Demon Bird currentization",
+      "Yan external soul bone",
+      "Yan fourth ring",
+      "any human consumption or possession of the immortal herb",
+      "fake Dorm336 reward package",
+      "public Yan Shuo'er reveal",
+      "the buff-to-suppression reversal on the Gold Silk Ape"
+    ]
+  },
+  "enforce": [
+    "Chapter 178",
+    "Chapter178",
+    "Chapter179",
+    "Collaborate",
+    "Dragon Queen necklace",
+    "Fire Phoenix output-calibration cuff",
+    "Initial alliance",
+    "Martial Soul True Body",
+    "Nirvana",
+    "Phoenix Domain",
+    "Phoenix God authority",
+    "Rainbow Dragon",
+    "SP526",
+    "Second place is not nothing",
+    "Yan Emerald Demon Bird",
+    "Yan's Emerald Demon Bird",
+    "external soul bone",
+    "five-colored Phoenix",
+    "five-coloured Phoenix",
+    "public Yan Shuo'er reveal",
+    "public Yan Shuo’er reveal",
+    "shield-load impact matrix",
+    "special observation file",
+    "wind-line reaction threads"
+  ],
+  "enforce_regexes": [
+    "Lan[^\\n]{0,120}\\b(entered|used)\\b[^\\n]{0,80}Platform",
+    "Platform[^\\n]{0,80}(improvement|growth)[^\\n]{0,80}(occurred|happened|completed)",
+    "Qian[^\\n]{0,160}(purple breakthrough|purple-ring breakthrough|exact.*ring age)",
+    "Silver Edge[^\\n]{0,120}(mastered|enemy|combat victory|killed|defeated)",
+    "(?:Purple Zoysia|the herb)[^\\n]{0,120}\\?(?:taken|grabbed|snatched|stolen|in (?:his|Lan)'s hand)",
+    "Gold Silk Ape[^\\n]{0,120}\\b(?:allied|alliance|agreed|nodded)\\b",
+    "Palm Tree Bear[^\\n]{0,80}\\b(?:died|dead|neck snapped|neck was broken|killed)\\b"
+  ],
+  "required_patterns": [
+    "Safety level's down",
+    "golden-patterned Blue Silver Grass",
+    "I get precise",
+    "amiable",
+    "Gravity Control",
+    "innate Soul Skill",
+    "immortal herb",
+    "stalemate",
+    "asking and not ordering",
+    "two soul beasts"
+  ],
+  "provenance": "native manifest adopted (schema 2.2-rebuild-ch51)",
+  "advisory_review": [],
+  "pacing": {
+    "mode": "compressed",
+    "rule": "compress routine canon beats; expand only meaningful character/system/butterfly/relationship/tactical change",
+    "banned_mode": "one canon chapter = one fic chapter"
+  },
+  "information_discipline": "ACTIVE",
+  "branches": {
+    "rejected_post48_2026-09-17": {
+      "status": "superseded",
+      "chapters": [
+        53
+      ],
+      "note": "post-Chapter48 direction rejected on 2026-09-17; repair rebuilt Chapter46-51 and superseded that branch's receipts",
+      "authority": "none — historical evidence only"
+    },
+    "rejected_overcorrection_2026-09-17": {
+      "status": "superseded",
+      "chapters": [
+        53
+      ],
+      "note": "post-Chapter48 direction rejected on 2026-09-17; repair rebuilt Chapter46-51 and superseded that branch's receipts",
+      "authority": "none — historical evidence only"
+    }
+  },
+  "quarantine_notes": [
+    "Historical archive files all have archive notice: True.",
+    "`audits/README.md` now explicitly says audits/backups are receipts only and not current continuity.",
+    "Backup folders now contain `README_OBSOLETE_BACKUP.md`.",
+    "`Current lock: Current after Chapter31`: 18 historical/audit occurrences.",
+    "`Level30 cocoon metamorphosis correction`: 22 historical/audit occurrences.",
+    "`Current live edge is Chapter30`: 3 historical/audit occurrences.",
+    "`Live edge restored to Chapter30`: 3 historical/audit occurrences.",
+    "`Current state restored`: 3 historical/audit occurrences.",
+    "`Song Shenqin`: 1 historical/audit occurrences.",
+    "`Luo Guixing`: 1 historical/audit occurrences.",
+    "`Yan Shuoer`: 1 historical/audit occurrences.",
+    "`Yan Shuo’er`: 6 historical/audit occurrences.",
+    "`Lu Qianxun is monitor`: 1 historical/audit occurrences.",
+    "`Lu Qianxun is the class monitor`: 1 historical/audit occurrences.",
+    "`Rank30/SP526`: 9 historical/audit occurrences.",
+    "`Dawnflame 960`: 9 historical/audit occurrences.",
+    "`Dawn-Iron 2,480`: 9 historical/audit occurrences.",
+    "`Lan SP800+`: 9 historical/audit occurrences.",
+    "`Qian SP600+`: 9 historical/audit occurrences."
+  ],
+  "stale_claims": [
+    "PERFECT_CONTINUATION_SKILL_CHECK_DRAFT_2026-09-18.md claims latest fic Chapter51; live edge is Chapter52 (per foundation/CURRENT_STATE_MANIFEST.json (native, authoritative), 2026-09-19). Stale.",
+    "PERFECT_CONTINUATION_SKILL_CHECK_REPORT_2026-09-18.md claims latest fic Chapter51; live edge is Chapter52 (per foundation/CURRENT_STATE_MANIFEST.json (native, authoritative), 2026-09-19). Stale."
+  ],
+  "stale_edge_claims": [],
+  "missing_inputs": [
+    {
+      "id": "source-chapter-text",
+      "requires": "NovelFull Chapter178 'Collaborate'",
+      "state": "ABSENT from this corpus — the project names it in HANDOFF/README/coverage indexes but holds none of its text",
+      "blocks": "canon_coverage/Canon_Coverage_Chapter53 cannot be written to template without it",
+      "do_not": "do not reconstruct from memory, paraphrase, or scrape an unofficial mirror — an unverified source chapter silently rewrites canon"
+    }
+  ],
+  "drift_scan_scope": {
+    "target": "chapters/*.md story body only (text before the --- + ## Footer marker)",
+    "opt_in": "--scan-coverage also scans canon_coverage/ (noisier by design: those files list forbidden values under 'Do not use:' headings)",
+    "never_scanned": "audits/ receipts and *_before backup snapshots — they DOCUMENT deleted values; scanning them produced 293 false errors once",
+    "why": "the guard exists to stop draft prose asserting retired power levels. A rule with no declared scope is unfalsifiable in both directions",
+    "rule_scope_source": "each learned decision carries its own `scope` (see decisions)",
+    "edge_sweep": "bible/, codex/, canon_coverage/, foundation/ — clause-level; skips labelled history, self-describing coverage docs, source-chapter pointers (lag <= 0) and chronological ledgers/logs"
+  },
+  "foundation_paths": [
+    "foundation/CANON_SOURCE_NUMBERING_MAP.md",
+    "foundation/FOURTH_SOUL_SPIRIT_EMERALD_DEMON_BIRD_LOCK.md",
+    "foundation/FUTURE_PHOENIX_FIFTH_SIXTH_SOUL_SPIRIT_LOCK.md",
+    "foundation/FUTURE_PHOENIX_SEVENTH_NINTH_GODHOOD_LOCK.md",
+    "foundation/LAN_YAN_ROMANCE_LOCK.md",
+    "foundation/NO_MISTAKE_LIVE_RULES.md",
+    "foundation/PERFECT_CONTINUATION_SKILL.md",
+    "foundation/PERMANENT_SOUL_LAND_POWER_SYSTEM_ANTI_NERF_ENGINE.md",
+    "foundation/RAINBOW_DRAGON_EXTERNAL_SECOND_MARTIAL_SOUL_LOCK.md",
+    "foundation/SOUL_SPIRIT_MECHANICS_AND_YAN_AUDIT_LOCK.md",
+    "foundation/STATUS_PANEL.md",
+    "foundation/YAN_BASELINE_REAL_TIER_LOCK.md"
+  ],
+  "metrics": {
+    "PASS_tokens": 403,
+    "receipt_files": 121,
+    "chapters_validated": 40,
+    "chapters_synced": 14,
+    "quarantined_chapters": [
+      53
+    ]
+  }
+}

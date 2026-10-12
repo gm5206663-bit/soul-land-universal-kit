@@ -1,0 +1,55 @@
+{
+  "schema": "fire-phoenix-existing-public-gate-screen/1",
+  "generated": "2026-10-03",
+  "scope": "V2 prose bodies before the first --- separator only",
+  "rules_source": "sources/storyos_current_public_layer/published-site/soul_land_4/rules.md",
+  "rules_sha256": "710d8757aecb50292b6ec4fb9a301071371cd84999ae75e973608d8c49c4320f",
+  "literal_count": 24,
+  "pattern_count": 7,
+  "file_count": 8,
+  "total_matches": 0,
+  "result": "PASS_CONTENT_SCREEN",
+  "limitation": "This screens content against current listed fence literals/regexes only. It does not make the old Chapter-52 state/gate model applicable to V2 promotion.",
+  "files": [
+    {
+      "path": "late_arc_rebuild/rebuild_v2/drafts/Chapter_48_The_Line_We_Keep.md",
+      "sha256": "daa63d8bce8cc5d4452987b10a305a2bd5a32309697fd8838a478f4794ca52e4",
+      "matches": []
+    },
+    {
+      "path": "late_arc_rebuild/rebuild_v2/drafts/Chapter_49_What_They_Carry.md",
+      "sha256": "b06fda634b51a637f484eebfa636a804d1b937f55a3bdb4b95518ce7b7111ab5",
+      "matches": []
+    },
+    {
+      "path": "late_arc_rebuild/rebuild_v2/drafts/Chapter_50_Two_Maps_of_the_Forest.md",
+      "sha256": "24401aa7e74af25f38a25c1ea59c5a8d06f3feaf9d2be0d16aa994a6a61ddd45",
+      "matches": []
+    },
+    {
+      "path": "late_arc_rebuild/rebuild_v2/drafts/Chapter_51_The_Cost_of_Quiet.md",
+      "sha256": "2c0572960e2eb667d6d053e2f812eee4f6279c10f88e538281bfc6e160825882",
+      "matches": []
+    },
+    {
+      "path": "late_arc_rebuild/rebuild_v2/drafts/Chapter_52_What_the_Ground_Keeps.md",
+      "sha256": "9e49cbced7e58426265a48981ca975a9100a6eebfd5d77cfe36c5bfa2409bab8",
+      "matches": []
+    },
+    {
+      "path": "late_arc_rebuild/rebuild_v2/drafts/Chapter_54_What_a_Favor_Costs.md",
+      "sha256": "eebb8a6afc86bbd1990767172e200514930818457561dda47846465743777960",
+      "matches": []
+    },
+    {
+      "path": "late_arc_rebuild/rebuild_v2/drafts/Chapter_55_What_We_Leave_Open.md",
+      "sha256": "8344dc468d3b7c8ac0a0475876b16eddccef1c39e257b69068a2ada10089843e",
+      "matches": []
+    },
+    {
+      "path": "late_arc_rebuild/rebuild_v2/drafts/Chapter_60_The_Price_of_Keeping.md",
+      "sha256": "af6bd2b17eabe019ca96e371f3cc47d7f689b5c34f86932f2c5cd430c89dfc22",
+      "matches": []
+    }
+  ]
+}

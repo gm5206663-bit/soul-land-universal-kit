@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>StoryOS Control Centre</title>
+<style>
+  :root{--bg:#0b0d11;--panel:#11151c;--panel2:#0e1218;--line:#1e2530;--line2:#28323f;--ink:#e6edf6;
+    --dim:#8b98ab;--dim2:#5d6b7e;--pass:#3ddc97;--fail:#ff5c6c;--warn:#ffb454;--info:#5aa9ff;--vi:#a97bff;
+    --mono:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+  *{box-sizing:border-box}html,body{margin:0;height:100%}
+  body{background:var(--bg);color:var(--ink);font:15px/1.55 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;
+    -webkit-font-smoothing:antialiased}
+  .app{display:grid;grid-template-columns:252px 1fr;min-height:100vh}
+  nav{background:var(--panel2);border-right:1px solid var(--line);padding:18px 14px;position:sticky;top:0;
+    height:100vh;overflow:auto}
+  .brand{font-family:var(--mono);font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--dim)}
+  .brand b{display:block;font-size:16px;letter-spacing:.01em;color:var(--ink);text-transform:none;margin-top:4px}
+  .edge{margin:14px 0 16px;padding:10px 11px;border:1px solid var(--line2);border-radius:9px;background:#0c1015}
+  .k{font-family:var(--mono);font-size:9.5px;letter-spacing:.11em;text-transform:uppercase;color:var(--dim2)}
+  .edge .v{font-family:var(--mono);font-size:13px;color:var(--pass);margin-top:3px}
+  .edge .t{font-size:12px;color:var(--dim);margin-top:2px}
+  .gate{margin:0 0 14px;padding:9px 11px;border-radius:9px;font-family:var(--mono);font-size:11.5px;
+    letter-spacing:.04em;border:1px solid}
+  .gate.clear{background:#0d1a15;border-color:#1d4a38;color:var(--pass)}
+  .gate.blocked{background:#180d10;border-color:#4a2028;color:var(--fail)}
+  .navlist{display:flex;flex-direction:column;gap:2px}
+  .navlist button{display:flex;justify-content:space-between;align-items:center;gap:8px;width:100%;text-align:left;
+    background:none;border:0;border-radius:8px;color:var(--dim);padding:8px 10px;cursor:pointer;font:inherit;
+    font-size:13.5px}
+  .navlist button:hover{background:#141a22;color:var(--ink)}
+  .navlist button.on{background:#182029;color:var(--ink);box-shadow:inset 2px 0 0 var(--pass)}
+  .navlist .n{font-family:var(--mono);font-size:11px;color:var(--dim2);background:#0e131a;border-radius:20px;
+    padding:1px 7px;min-width:24px;text-align:center}
+  .navlist button.on .n{color:var(--pass)}
+  main{padding:20px 26px 60px;min-width:0}
+  header.top{display:flex;flex-wrap:wrap;align-items:center;gap:12px;padding-bottom:14px;
+    border-bottom:1px solid var(--line);margin-bottom:18px}
+  h1{font-size:19px;margin:0;font-weight:600}
+  .sub{color:var(--dim);font-size:13px;font-family:var(--mono)}
+  .grow{flex:1}
+  #q{background:#0d1218;border:1px solid var(--line2);border-radius:8px;color:var(--ink);padding:8px 11px;
+    font:inherit;font-size:13px;width:220px;outline:none}
+  #q:focus{border-color:var(--info)}
+  section{display:none;animation:in .16s ease}section.on{display:block}
+  @keyframes in{from{opacity:0}to{opacity:1}}
+  h2{font-size:15px;margin:0 0 4px;font-weight:600}
+  .lead{color:var(--dim);font-size:13.5px;margin:0 0 15px;max-width:82ch}
+  .grid{display:grid;gap:12px}
+  .g6{grid-template-columns:repeat(6,1fr)}.g4{grid-template-columns:repeat(4,1fr)}
+  .g3{grid-template-columns:repeat(3,1fr)}.g2{grid-template-columns:repeat(2,1fr)}
+  @media(max-width:1200px){.g6{grid-template-columns:repeat(3,1fr)}.g4{grid-template-columns:repeat(2,1fr)}
+    .g3{grid-template-columns:1fr}}
+  @media(max-width:840px){.app{grid-template-columns:1fr}nav{position:static;height:auto;border-right:0;
+    border-bottom:1px solid var(--line)}.g6,.g4,.g3,.g2{grid-template-columns:1fr 1fr}}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:11px;padding:13px 14px}
+  .stat .v{font-size:25px;font-weight:650;margin-top:5px;font-family:var(--mono);line-height:1.1}
+  .stat .h{font-size:11.5px;color:var(--dim);margin-top:3px}
+  .ok{color:var(--pass)}.no{color:var(--fail)}.wn{color:var(--warn)}.in{color:var(--info)}
+  .banner{border-radius:11px;padding:12px 14px;margin-bottom:13px;font-size:13.5px;border:1px solid var(--line2)}
+  .banner.red{background:#180d10;border-color:#4a2028;color:#ffd7dc}
+  .banner.amber{background:#17120a;border-color:#4a3a18;color:#ffe6bd}
+  .banner.green{background:#0d1a15;border-color:#1d4a38;color:#c9f5de}
+  .banner b.bt{display:block;font-family:var(--mono);font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;
+    margin-bottom:5px}
+  table{width:100%;border-collapse:collapse;font-size:13px}
+  th{text-align:left;font-family:var(--mono);font-size:9.5px;letter-spacing:.1em;text-transform:uppercase;
+    color:var(--dim2);padding:8px 10px;border-bottom:1px solid var(--line2);position:sticky;top:0;background:var(--panel)}
+  td{padding:8px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+  tbody tr:hover{background:#141a22}
+  .mono,td.mono{font-family:var(--mono);font-size:11.5px;color:var(--dim)}
+  .wrap{overflow:auto;border:1px solid var(--line);border-radius:11px;background:var(--panel);max-height:62vh}
+  .tag{display:inline-block;font-family:var(--mono);font-size:10px;padding:2px 7px;border-radius:5px;
+    border:1px solid var(--line2);color:var(--dim);margin:0 4px 4px 0;white-space:nowrap}
+  .tag.pass{color:var(--pass);border-color:#1d4a38;background:#0e1a15}
+  .tag.fail{color:var(--fail);border-color:#4a2028;background:#180d10}
+  .tag.warn{color:var(--warn);border-color:#4a3a18;background:#17120a}
+  .tag.info{color:var(--info);border-color:#1d3a5a;background:#0d1620}
+  .tag.vi{color:var(--vi);border-color:#3a2a5a;background:#120d1e}
+  ul.list{margin:0;padding-left:17px;color:var(--dim)}ul.list li{margin-bottom:6px}
+  ul.list li b{color:var(--ink);font-weight:600}
+  .rule{border-top:1px solid var(--line);margin:16px 0}
+  .kv{display:grid;grid-template-columns:140px 1fr;gap:7px 14px;font-size:13.5px}
+  .kv .k{font-family:var(--mono);font-size:10.5px;padding-top:2px}
+  mark{background:#2d4a1d;color:#dff5cb;border-radius:3px;padding:0 2px}
+  .empty{color:var(--dim2);font-style:italic}
+  pre.md{white-space:pre-wrap;word-break:break-word;font-family:var(--mono);font-size:12px;color:var(--dim);
+    margin:0;line-height:1.7}
+  footer{margin-top:24px;color:var(--dim2);font-size:11.5px;font-family:var(--mono)}
+</style>
+</head>
+<body>
+<div class="app">
+  <nav>
+    <div class="brand">StoryOS<b>Control Centre</b></div>
+    <div class="edge"><div class="k">Live edge</div><div class="v" id="edgeV">—</div>
+      <div class="t" id="edgeT">—</div></div>
+    <div class="gate" id="gateBox">—</div>
+    <div class="navlist" id="nav"></div>
+  </nav>
+  <main>
+    <header class="top">
+      <div><h1 id="ttl">Overview</h1><div class="sub" id="sub">—</div></div>
+      <div class="grow"></div>
+      <input id="q" type="search" placeholder="Search canon… ( / )" autocomplete="off">
+    </header>
+    <div id="root"></div>
+    <footer id="foot">—</footer>
+  </main>
+</div>
+<script id="state" type="application/json">/*__STATE__*/null</script>
+<script>
+const S=JSON.parse(document.getElementById('state').textContent);
+const esc=t=>String(t==null?'':t).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const el=h=>{const d=document.createElement('div');d.innerHTML=h.trim();return d};
+const E=S.edge||{},M=S.metrics||{},V=S.validation||{};
+const accepted=(E.accepted_chapters||[]).length;
+const quar=(M.quarantined_chapters||[]);
+const panels=[
+ ['overview','Overview',null],['gate','Validator Gate',(V.errors||0)],
+ ['ledger','Canon Ledger',S.ledger.length],['locks','Lock Cards',S.locks.length],
+ ['chars','Characters',Object.keys(S.characters).length],
+ ['firewall','Knowledge Firewall',S.firewalls.length],
+ ['drift','Drift Guard',S.enforce.length],
+ ['pacing','Pacing Lock',null],['branch','Branch Control',quar.length],
+ ['files','File Inventory',S.audit_files.length],['integrity','Integrity',null]];
+
+document.getElementById('nav').innerHTML=panels.map(([id,l,n],i)=>{
+  const badge=(n==null)?'<span class="n">·</span>':`<span class="n">${n}</span>`;
+  return `<button data-go="${id}" class="${i===0?'on':''}">${esc(l)}${badge}</button>`}).join('');
+document.getElementById('edgeV').textContent=E.fic_chapter?`after Chapter${E.fic_chapter}`:'unknown';
+document.getElementById('edgeT').textContent=E.fic_title?`“${E.fic_title}”`:'—';
+const gb=document.getElementById('gateBox');
+gb.className='gate '+(V.result==='PASS'?'clear':'blocked');
+gb.textContent=V.result==='PASS'?`✓ GATE CLEAR — next Ch${(E.fic_chapter||0)+1}`:`✗ GATE BLOCKED — ${V.errors} error(s)`;
+document.getElementById('sub').textContent=`${S.project} · ${S.schema} · generated ${S.generated_utc}`;
+document.getElementById('foot').textContent=`Built by scripts/build_site.py from foundation/CURRENT_STATE_MANIFEST.json · `
+  +`this site is a mirror, not an authority · remote site ${S.control_centre.verified_http_status} (${esc(S.control_centre.url)})`;
+
+const V2={
+overview(){
+ const c=(k,v,h,cls)=>`<div class="card stat"><div class="k">${k}</div><div class="v ${cls||''}">${v}</div>
+   <div class="h">${h||''}</div></div>`;
+ const canon=E.canon_consumed?`Ch${E.canon_consumed}`:'—', next=E.next_source?`Ch${E.next_source}`:'—';
+ return `
+ <div class="banner ${V.result==='PASS'?'green':'red'}"><b class="bt">Executable gate — ${esc(V.result)}</b>
+   ${V.errors} error(s), ${V.warnings} warning(s) from <span class="mono">storyos_validate.py --phase full</span>.
+   ${V.result==='PASS'?'Cleared to blueprint and draft.':esc(V.gate)}</div>
+ ${S.stale_claims.length?`<div class="banner amber"><b class="bt">Stale claims under supervision</b>
+   <ul class="list">${S.stale_claims.map(x=>`<li>${esc(x)}</li>`).join('')}</ul></div>`:''}
+ <div class="grid g6" style="margin-bottom:13px">
+   ${c('Ledger rows',S.ledger.length,`${accepted} accepted`,'in')}
+   ${c('Lock cards',S.locks.length,'user decisions','vi')}
+   ${c('Characters',Object.keys(S.characters).length,'locked state','')}
+   ${c('Firewalls',S.firewalls.length,'info discipline','ok')}
+   ${c('Drift tokens',S.enforce.length,'hard-grep values','no')}
+   ${c('Receipt files',M.receipt_files||'—',`${((M.receipt_files||0)*7.2)|0} KB corpus`,'in')}
+ </div>
+ <div class="grid g2">
+   <div class="card"><h2>Position</h2><div class="kv" style="margin-top:9px">
+     <div class="k">Live edge</div><div>after <b>Chapter${esc(E.fic_chapter)}</b> — “${esc(E.fic_title)}”</div>
+     <div class="k">Declared by</div><div class="mono">${esc(E.declared_by)} · ${esc(E.declared_on)}</div>
+     <div class="k">Canon consumed</div><div>through <b>${canon}</b> “${esc(E.canon_consumed_title||'')}”</div>
+     <div class="k">Next source</div><div><b>${next}</b> “${esc(E.next_source_title||'')}”</div>
+     <div class="k">Quarantined</div><div>${quar.length?`Chapter${quar.join(' / Chapter')} — superseded branch`:'none'}</div>
+     <div class="k">Validated</div><div>${M.chapters_validated} receipts · ${M.chapters_synced} support syncs</div>
+     <div class="k">PASS tokens</div><div><span class="mono ok">${M.PASS_tokens}</span> across the corpus</div>
+   </div></div>
+   <div class="card"><h2>Contract with the next agent</h2>
+     <p class="lead" style="margin:8px 0 10px">Author knowledge is never character knowledge. Do not invent
+     missing canon. Preserve locks unless the user authorizes change. Newest dated receipt on the
+     <b>active</b> branch wins.</p>
+     <div class="wrap"><div style="padding:11px 13px"><div class="mono" style="color:var(--pass);font-size:12.5px;
+       line-height:1.9">LOAD → VERIFY → MAP → FORECAST → BLUEPRINT → DRAFT → AUDIT → REPAIR → DELIVER → RECORD</div>
+       <div class="rule"></div><div class="k" style="margin-bottom:5px">Objective</div>
+       <div style="font-size:13px;color:var(--dim)">Draft <b>Chapter${(E.fic_chapter||0)+1}</b> from
+       Chapter${E.next_source} “${esc(E.next_source_title||'')}”. Coverage file before prose.
+       Then <span class="mono">--phase post</span>.</div></div></div></div>
+ </div>`;
+},
+gate(){
+ const rows=(V.findings||[]).map(f=>{const m=f.match(/^\[(FAIL|WARN|info)\]\s*(.*)$/);
+   const sev=m?m[1]:'info',body=m?m[2]:f;
+   return `<tr><td><span class="tag ${sev==='FAIL'?'fail':sev==='WARN'?'warn':'info'}">${sev}</span></td>
+     <td>${esc(body)}</td></tr>`}).join('');
+ return `<h2>Validator Gate</h2>
+ <p class="lead">Live output of <span class="mono">tools/storyos_validate.py</span>. These findings are computed
+ now, not transcribed — rerun the tool and rebuild to refresh. Errors block drafting by contract (R22).</p>
+ <div class="wrap" style="margin-bottom:14px"><table><thead><tr><th>Sev</th><th>Finding → fix</th></tr></thead>
+ <tbody>${rows||'<tr><td colspan="2" class="empty">no findings</td></tr>'}</tbody></table></div>
+ <div class="card"><div class="k" style="margin-bottom:6px">Raw output</div><pre class="md">${esc(V.raw||'—')}</pre></div>`;
+},
+ledger(){
+ const st=s=>s==='accepted'?'pass':s.startsWith('quarantined')?'fail':'warn';
+ const rows=S.ledger.map(l=>`<tr><td class="mono" style="color:var(--ink)">Ch${l.fic}</td>
+   <td>${esc(l.canon)}</td><td><span class="tag ${st(l.status)}">${esc(l.status)}</span></td>
+   <td class="mono">${esc(l.validation||'—')}</td></tr>`).join('');
+ return `<h2>Canon Ledger</h2>
+ <p class="lead">fic chapter ↔ consumed canon source, with status and the receipt that proved it.
+ One canon episode = one operational unit — and a quarantined row must never be used as a starting point.</p>
+ <div class="wrap"><table><thead><tr><th>Fic</th><th>Canon source</th><th>Status</th>
+ <th>Validation receipt</th></tr></thead><tbody>${rows}</tbody></table></div>`;
+},
+locks(){
+ const cards=S.locks.map(l=>`<div class="card"><div style="font-weight:600;font-size:13.5px">${esc(l.title||l._file)}</div>
+   <div class="mono" style="margin:5px 0">${esc(l.source||'')} · ${esc(l.source_date||'')}</div>
+   <div style="font-size:13px;color:var(--dim)">${esc(l.statement||'')}</div></div>`).join('');
+ return `<h2>Lock Cards</h2>
+ <p class="lead">Every locked decision extracted from the audit corpus and written as a card under
+ <span class="mono">foundation/canon/locks/</span>. Each cites the receipt it came from, so a claim can be
+ traced instead of debated. Breaking one is a regression, not a style choice.</p>
+ <div class="grid g2">${cards||'<p class="empty">no cards — run scan_project.py</p>'}</div>`;
+},
+chars(){
+ const by={};Object.entries(S.characters).forEach(([n,c])=>{(by[c.dorm||'Other']=by[c.dorm||'Other']||[]).push([n,c])});
+ const cards=Object.entries(by).map(([d,list])=>`<div class="card"><h2>${esc(d)} <span class="tag">${list.length}</span></h2>
+   <div style="margin-top:9px">${list.map(([n,c])=>`<div style="margin-bottom:12px">
+   <div style="font-weight:600">${esc(n)} ${c.rank?`<span class="tag info">Rank${c.rank}</span>`:''}
+   ${c.sp?`<span class="tag">SP${c.sp}</span>`:''}</div>
+   <div class="mono" style="font-size:11.5px;color:var(--dim);margin-top:3px">${esc(c.state)}</div>
+   ${c.power_floor?`<div style="font-size:12px;margin-top:5px"><span class="k">floor</span> ${esc(c.power_floor)}</div>`:''}
+   ${c.power_ceiling?`<div style="font-size:12px;margin-top:2px"><span class="k">ceiling</span> ${esc(c.power_ceiling)}</div>`:''}
+   ${c.public_identity?`<div style="font-size:12px;margin-top:2px"><span class="k">public</span> ${esc(c.public_identity)} · reveal ${esc(c.reveal_status||'none')}</div>`:''}
+   </div>`).join('')}</div></div>`).join('');
+ return `<h2>Characters</h2>
+ <p class="lead">Locked current state, with power floor and ceiling where the project defines them —
+ that pairing is what stops both nerfing and inflation. Per-character cards live in
+ <span class="mono">foundation/canon/characters/</span>.</p>
+ <div class="grid g3">${cards}</div>`;
+},
+firewall(){
+ const col={KNOWN:'pass','KNOWN PARTLY':'warn',SUSPECTED:'warn',UNKNOWN:'info',HIDDEN:'vi',
+   'FALSE BELIEF':'fail',DISBELIEF:'fail'};
+ const rows=S.firewalls.map(f=>`<tr><td style="color:var(--ink)">${esc(f.character)}</td>
+   <td>${esc(f.topic)}</td><td><span class="tag ${col[f.state]||'warn'}">${esc(f.state)}</span></td>
+   <td class="mono">${esc(f.earliest_valid_change||'')}</td><td style="font-size:12.5px;color:var(--dim)">${esc(f.rule)}</td></tr>`).join('');
+ return `<h2>Knowledge Firewall</h2>
+ <p class="lead">The enforceable half of canon discipline. A fact must sit in exactly one state per
+ character, and cannot move before its <b>earliest valid change</b>. The validator errors on any firewall
+ missing that gate, because an ungated rule cannot be checked.</p>
+ <div class="wrap"><table><thead><tr><th>Character</th><th>Topic</th><th>State</th>
+ <th>Earliest valid change</th><th>Rule</th></tr></thead><tbody>${rows}</tbody></table></div>
+ <div class="rule"></div><div class="k" style="margin-bottom:6px">Legal states</div>
+ ${S.firewall_states.map(s=>`<span class="tag">${s}</span>`).join('')}`;
+},
+drift(){
+ const cats=Object.entries(S.bans||{}).map(([k,v])=>`<div class="card"><h2>${esc(k)}
+   <span class="tag ${v.length?'fail':'pass'}">${v.length}</span></h2>
+   <ul class="list" style="margin-top:9px">${(v||[]).map(t=>`<li>${esc(t)}</li>`).join('')
+   ||'<span class="empty">none</span>'}</ul></div>`).join('');
+ return `<h2>Drift Guard</h2>
+ <p class="lead">Values the project has already had to repair once. <b>Enforce</b> tokens are grepped in prose
+ and coverage by <span class="mono">--phase post</span> and fail the build on sight; the rest are advisory
+ review terms. Registry: <span class="mono">foundation/BANNED_TOKENS.json</span>.</p>
+ <div class="banner red"><b class="bt">Hard-grep — any occurrence in prose is a bug</b>
+   ${(S.enforce||[]).map(t=>`<span class="tag fail">${esc(t)}</span>`).join(' ')||'<span class="empty">registry empty — guard inert</span>'}</div>
+ <div class="card" style="margin-bottom:13px"><h2>Advisory review (${(S.advisory||[]).length})</h2>
+   <div style="margin-top:8px">${(S.advisory||[]).map(t=>`<span class="tag warn">${esc(t)}</span>`).join('')}</div></div>
+ <div class="grid g2">${cats}</div>`;
+},
+pacing(){
+ const P=S.pacing||{};
+ return `<h2>Pacing Lock</h2>
+ <p class="lead">Installed after the user rejected canon-copy pacing. It is recorded in the manifest as a
+ <b>mode plus a banned mode</b>, so the validator can detect a regression instead of relying on goodwill.</p>
+ <div class="grid g3" style="margin-bottom:14px">
+  <div class="card stat"><div class="k">Mode</div><div class="v in" style="font-size:18px">${esc(P.mode||'—')}</div></div>
+  <div class="card stat"><div class="k">Banned</div><div class="v no" style="font-size:15px">${esc(P.banned_mode||'—')}</div></div>
+  <div class="card stat"><div class="k">Discipline</div><div class="v ok" style="font-size:18px">${esc(S.metrics.information_discipline||'ACTIVE')}</div></div>
+ </div>
+ <div class="card"><div class="k" style="margin-bottom:6px">Rule</div>${esc(P.rule||'—')}</div>`;
+},
+branch(){
+ const bl=Object.entries(S.branches||{}).map(([k,v])=>`<div class="card">
+   <h2>${esc(k)} <span class="tag ${v.status==='active'?'pass':'fail'}">${esc(v.status)}</span></h2>
+   <div class="mono" style="margin-top:6px">chapters: ${esc((v.chapters||[]).join(', ')||'none')}</div>
+   <div class="mono" style="color:var(--dim2);font-size:11px">authority: ${esc(v.authority||'—')}</div>
+   <div style="font-size:12.5px;color:var(--dim);margin-top:6px">${esc(v.note||'')}</div></div>`).join('');
+ const q=(S.quarantine_notes||[]).map(n=>`<li>${esc(n)}</li>`).join('');
+ const files=S.audit_files.filter(f=>/SUPERSEDED|QUARANTINE/.test(f)||/_(52|53)_/.test(f));
+ return `<h2>Branch Control</h2>
+ <p class="lead">Where the story actually is, versus where a stale receipt claims it is. This panel exists
+ because one real superseded receipt asserted “Chapter53 is valid and ready” and sat unmarked next to live
+ state — the exact condition that makes a new agent continue from rejected work.</p>
+ <div class="grid g2" style="margin-bottom:13px">${bl}</div>
+ <div class="banner amber"><b class="bt">Quarantined in corpus</b>
+   ${files.length?files.map(f=>`<span class="tag warn">${esc(f)}</span>`).join(' '):'<span class="empty">none</span>'}
+ </div>
+ <div class="card"><h2>Quarantine policy</h2><ul class="list" style="margin-top:9px">${q||'<span class="empty">—</span>'}</ul></div>`;
+},
+files(){
+ const rows=S.audit_files.map(f=>{const m=f.match(/(20\d\d-\d\d-\d\d)/);
+   const sup=/SUPERSEDED|QUARANTINE|_52_|_53_/.test(f);
+   return `<tr><td class="mono" style="color:var(--ink)">${esc(f)}</td><td class="mono">${m?m[1]:'—'}</td>
+   <td>${sup?'<span class="tag fail">superseded/notice</span>':'<span class="tag">historical</span>'}</td></tr>`}).join('');
+ return `<h2>File Inventory</h2>
+ <p class="lead"><span class="mono">audits/</span> — ${S.audit_files.length} receipts. Every file is historical
+ evidence unless it is the newest dated receipt on the active branch. Cards generated this run:
+ ${S.files.card_count}.</p>
+ <div class="wrap"><table><thead><tr><th>File</th><th>Dated</th><th>Standing</th></tr></thead>
+ <tbody>${rows}</tbody></table></div>`;
+},
+integrity(){
+ const need=[['foundation/STATUS_PANEL.md',true],['foundation/NO_MISTAKE_LIVE_RULES.md',true],
+  ['foundation/CANON_SOURCE_NUMBERING_MAP.md',true],['foundation/PERFECT_CONTINUATION_SKILL.md',true],
+  ['foundation/CURRENT_STATE_MANIFEST.json',true],['tools/storyos_validate.py',true],
+  ['AGENT_ONBOARDING.md',true],['canon_coverage/CANON_LEDGER.md',!!S.ledgers.CANON_LEDGER],
+  ['canon_coverage/BRANCH_LEDGER.md',!!S.ledgers.BRANCH_LEDGER]];
+ const rows=need.map(([p,ok])=>`<tr><td class="mono">${esc(p)}</td>
+   <td>${ok?'<span class="tag pass">present</span>':'<span class="tag fail">missing</span>'}</td></tr>`).join('');
+ const prose=!(S.ledger||[]).some(l=>l.status==='accepted'&&false);
+ return `<h2>Integrity</h2>
+ <p class="lead">What this foundation can and cannot currently guarantee. Honest gaps beat a confident
+ dashboard: the layer that was missing before is now generated, but two inputs still do not exist.</p>
+ <div class="banner red"><b class="bt">Still not in this workspace</b>
+ <ul class="list" style="margin-top:4px">
+ <li><b>Prose chapters</b> — no <span class="mono">chapters/*.md</span>, so drift-guard token scanning has no
+   target and voice continuity cannot be checked. <span class="mono">--phase post</span> reports “not exercised”.</li>
+ <li><b>Canon source chapters</b> — coverage claims “consumed through Chapter176” cannot be verified against
+   the source text itself.</li></ul></div>
+ <div class="grid g2">
+  <div class="card"><h2>Foundation layer</h2>
+   <div class="wrap" style="border:0;margin-top:8px;max-height:none"><table><tbody>${rows}</tbody></table></div></div>
+  <div class="card"><h2>Rebuild sequence</h2><pre class="md" style="margin-top:8px">python3 scripts/scan_project.py &lt;corpus&gt; .
+python3 scripts/gen_docs.py
+python3 scripts/build_site.py .
+python3 tools/storyos_validate.py --project . --phase full
+python3 tools/storyos_validate.py --selftest   # prove guards still fire</pre>
+   <div class="rule"></div><div class="k" style="margin-bottom:5px">Portable to a new project</div>
+   <div style="font-size:13px;color:var(--dim)">Copy <span class="mono">tools/</span>, <span class="mono">scripts/</span>,
+   <span class="mono">templates/</span>, <span class="mono">AGENT_ONBOARDING.md</span>. Nothing here is
+   ${'Soul Land'}-specific except the corpus you point it at.</div></div>
+ </div>`;
+}};
+
+function show(id){
+ document.querySelectorAll('.navlist button').forEach(b=>b.classList.toggle('on',b.dataset.go===id));
+ const p=panels.find(x=>x[0]===id)||panels[0];
+ document.getElementById('ttl').textContent=p[1];
+ const host=document.getElementById('root');host.innerHTML='';
+ host.appendChild(el(V2[id]?V2[id]():'<p class="empty">no data</p>'));
+ location.hash=id;applySearch();
+}
+document.getElementById('nav').addEventListener('click',e=>{const b=e.target.closest('[data-go]');if(b)show(b.dataset.go)});
+const term=()=>document.getElementById('q').value.trim();
+function strip(node,re){
+ node.querySelectorAll('mark').forEach(m=>m.replaceWith(m.textContent));
+ if(!re)return 0;let hits=0;
+ const w=document.createTreeWalker(node,NodeFilter.SHOW_TEXT),tn=[];
+ while(w.nextNode()){const n=w.currentNode;if(n.nodeValue.trim())tn.push(n)}
+ tn.forEach(n=>{const v=n.nodeValue;if(!re.test(v))return;re.lastIndex=0;
+  const f=document.createDocumentFragment();let last=0,m;
+  while((m=re.exec(v))){if(m.index>last)f.append(v.slice(last,m.index));
+   const mk=document.createElement('mark');mk.textContent=m[0];f.append(mk);last=m.index+m[0].length}
+  if(last<v.length)f.append(v.slice(last));n.replaceWith(f);hits++});
+ return hits;
+}
+function applySearch(){
+ const t=term(),host=document.getElementById('root');
+ const re=t.length>1?new RegExp(t.replace(/[.*+?^${}()|[\]\\]/g,'\\$&'),'gi'):null;
+ const hits=strip(host,re),b0=document.getElementById('hcnt');
+ if(t.length>1){if(!b0){const b=el(`<span class="tag ${hits?'pass':'fail'}" id="hcnt">${hits} match${hits===1?'':'es'}</span>`);
+   document.getElementById('ttl').after(b)}else b0.textContent=`${hits} match${hits===1?'':'es'}`}
+ else if(b0)b0.remove();
+}
+document.getElementById('q').addEventListener('input',applySearch);
+document.addEventListener('keydown',e=>{if(e.key==='/'&&document.activeElement.id!=='q'){e.preventDefault();
+ document.getElementById('q').focus()}if(e.key==='Escape'){document.getElementById('q').value='';applySearch()}});
+if(typeof globalThis!=='undefined')globalThis.__V=V2;
+show((location.hash||'#overview').slice(1));
+</script>
+</body>
+</html>

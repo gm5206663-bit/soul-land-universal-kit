@@ -1,0 +1,51 @@
+{
+  "schema": "fire-phoenix-candidate-state-overlay/1",
+  "generated": "2026-10-03",
+  "status": "CANDIDATE_NOT_APPLIED",
+  "base_recovered_public_edge": {
+    "fic_chapter": 52,
+    "title": "Amiable Beasts",
+    "public_layer": "sources/storyos_current_public_layer/published-site/soul_land_4/",
+    "preserved": true
+  },
+  "candidate_public_edge": {
+    "fic_chapter": 55,
+    "title": "The Price of Keeping",
+    "internal_v2_unit": 60,
+    "next_prose_allocation": "UNAUTHORIZED",
+    "c61": "UNAUTHORIZED"
+  },
+  "public_to_internal_v2": {
+    "48": 48,
+    "49": 49,
+    "50": 50,
+    "51": 51,
+    "52": 52,
+    "53": 54,
+    "54": 55,
+    "55": 60
+  },
+  "source_coverage": {
+    "model": "partial-source-spine-plus-authorized-AU",
+    "direct_novel_pressure": "NV168–182, plus a limited late-NV182/NV183 human-flight pressure",
+    "warning": "Do not derive a simple next-source chapter number from this candidate; V2 is not a one-source-chapter/one-fic-chapter transcript."
+  },
+  "candidate_story_state": {
+    "purple_zoysia": "Held by Dorm333 under active six-day AU condition; root ball stressed but viable; existence now known to hostile contestants.",
+    "gold_silk_ape": "Wounded, skull-fusion-unstable, self-directed, and departed; no pet, ally, scout, tracking, command, recovery, or return guarantee.",
+    "dorm333": "Lan, Qian, and Liu remain in the assessment forest with the plant. Qian recently exhausted a Ground Fire Dragon Lizard summon; Liu has a shallow cord injury. No exact score result is claimed.",
+    "dorm336": "Yan, Song, and Luo remain separate. Their channel formation has been observed; Song’s shield has a fresh lower-rim crack. No score, kill, alliance, or reunion is claimed.",
+    "ye_lingtong": "On her independently chosen lower-wash route; no merger, rescue debt, romance advance, or identity disclosure.",
+    "unknown_contestants": "Have learned the plant exists and that the carrier group resisted a first trap; no names, ranks, score result, or future appearance is claimed."
+  },
+  "locks_retained": [
+    "No source-timing Zoysia handover or source-recovered/scout ape.",
+    "No Qian passive link, tracking, remote emotion/image feed, human radar, purple-ring jump, or Platform result.",
+    "No repeated/mastered Silver Edge solution.",
+    "No Yan future power, fourth ring, external bone, Domain, Nirvana, armor, or public/private identity disclosure.",
+    "No invented Song/Luo mechanics.",
+    "No Ye merger, romance payoff, debt, or loss of agency.",
+    "No named Ling Tian result, later-source battle chain, alliance/endgame import, adaptation conclusion, or C61."
+  ],
+  "apply_authorization": "NOT_GRANTED"
+}

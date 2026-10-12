@@ -1,0 +1,119 @@
+STORYOS // Soul Land 4 — Fire Phoenix OC
+generated 2026-09-20 · plain text · no auth · no JS
+agent contract: read GATE, then LIVE STATE, then RULES. Ignore any older file.
+==================================================================
+
+GATE: PASS  (errors=0, warnings=0, learned-rules-active=2)
+
+  - info: branch-supersession: CHAPTER_53_VALIDATION_2026-09-17.md still claims Chapter53 but IS marked superseded — trap neutralised. Keep it out of drafting context.
+  - info: receipt-coverage: Chapter1 has no validation receipt recorded.
+  - info: receipt-coverage: Chapter2 has no validation receipt recorded.
+  - info: receipt-coverage: Chapter3 has no validation receipt recorded.
+  - info: receipt-coverage: Chapter4 has no validation receipt recorded.
+  - info: receipt-coverage: Chapter5 has no validation receipt recorded.
+  - info: receipt-coverage: Chapter6 has no validation receipt recorded.
+  - info: receipt-coverage: Chapter7 has no validation receipt recorded.
+  - info: receipt-coverage: Chapter8 has no validation receipt recorded.
+  - info: receipt-coverage: Chapter9 has no validation receipt recorded.
+  - info: receipt-coverage: Chapter10 has no validation receipt recorded.
+  - info: receipt-coverage: Chapter11 has no validation receipt recorded.
+  - info: receipt-coverage: Chapter16 has no validation receipt recorded.
+  - info: receipt-coverage: Chapter18 has no validation receipt recorded.
+
+LIVE STATE — trust this over any older file
+--------------------------------------------
+live edge            : after Chapter52 "Amiable Beasts"
+next source chapter  : 178 Collaborate
+canon consumed       : 177 1,000-year Purple Zoysia
+authority            : foundation/CURRENT_STATE_MANIFEST.json (native, authoritative)
+fic chapters accepted: 39 (#12-#52)
+validated / synced   : 40 / 14
+quarantined fic      : [53]
+locks / characters   : 38 / 9   firewalls: 9
+enforcement          : 24 banned literals, 7 banned patterns
+
+RULES OF ENGAGEMENT — binding
+--------------------------------------------
+1. Do not draft prose while GATE is FAIL.
+2. Missing canon is reported missing. Never invented, never smoothed over.
+3. Author knowledge is not character knowledge.
+4. A receipt older than the newest active-branch receipt is evidence, not live state.
+5. Do not overwrite the project's foundation/. Generated state lives beside it.
+6. Learn a correction -> make it enforcement, not a note.
+
+BINDING LEARNED RULES
+D0001 [rejection] Never treat a receipt whose date precedes the newest active-branch receipt as live state; a superseded chapter must be marked SUPERSEDED or archived
+     why: Superseded receipts for Chapter52/53 asserted live status; a new agent would have continued rejected work
+     never as achieved fact: Chapter53 is valid and ready
+     enforced patterns: Chapter5[23] is valid and ready
+D0002 [correction] Yan Shuo current power is Rank39/SP962; any other pair is drift
+     why: Yan must never be written as Rank23/SP156 — that value came from a quarantined pre-repair scan
+     never as achieved fact: Rank23/SP156
+     enforced patterns: Rank\s*23\s*/\s*SP\s*156
+
+CHARACTER LOCKS — state at the live edge
+--------------------------------------------
+- Lan Xuanyu: Rank20 / Soul Grandmaster; SP505 / Spirit Sea; bone age not yet eleven / near eleven; two yellow hundred-year rings publicly shown; evolved silver/golden Blue Silver Grass.
+- Qian Lei: Replicate/Emerald Demon Bird weak-point counter-kill accomplished; Shrek early-admission offer refused; comic/greedy but team-loyal; one-year goal of five hundred Spiritual Power and Rank30 Soul Power
+- Liu Feng: Rank29 after Silver Moon Wolf Right Arm Bone fusion; active movement/spear core; emotionally affirmed by Qian's refusal and Dorm333's team bond.
+- Yan Shuo: Rank39 / SP962 / Spirit Sea; bone age not yet eleven; public identity Yan Shuo/he; no public/formal reveal; class monitor.
+- Song Yichen: Rank29 / SP188; active with Dorm336 after shield/anchor contribution.
+- Luo Haoran: Rank28 / SP226; active with Dorm336 after thermal seam/high-line and impact reading contribution.
+- Lu Qianxun: strong Golden Lion King rival-team leader, not class monitor; team ranked ninth with 531; stood behind Dorm333 at next-round lineup and may cooperate if possible.
+- Ye Lingtong: Lu's teammates, ninth-place route, not in private Dorm333 reward mechanics.
+- Jin Xiang: ranked ninety-ninth with 39; Jin now regrets provoking Lan and recognizes Lan's command value.
+
+KNOWLEDGE FIREWALLS — who may know what, not before when
+--------------------------------------------
+- Firewall is not distrust [KNOWN PARTLY] who: multiple
+    earliest valid change: explicit on-page disclosure in a verified source chapter
+- Yan identity firewall [HIDDEN] who: multiple
+    earliest valid change: explicit on-page disclosure in a verified source chapter
+- Lan secrecy after rebuilt Chapter50 [KNOWN PARTLY] who: multiple
+    earliest valid change: explicit on-page disclosure in a verified source chapter
+- Teacher/adult knowledge [KNOWN PARTLY] who: multiple
+    earliest valid change: explicit on-page disclosure in a verified source chapter
+- Chapter49 firewall results [KNOWN PARTLY] who: multiple
+    earliest valid change: explicit on-page disclosure in a verified source chapter
+- Future firewall for Chapter50+ [KNOWN PARTLY] who: multiple
+    earliest valid change: explicit on-page disclosure in a verified source chapter
+- Rainbow Dragon knowledge firewall [KNOWN PARTLY] who: multiple
+    earliest valid change: explicit on-page disclosure in a verified source chapter
+- Soul Spirit firewall [KNOWN PARTLY] who: multiple
+    earliest valid change: explicit on-page disclosure in a verified source chapter
+- Dorm333 / Lan public results [KNOWN PARTLY] who: Yan Shuo
+    earliest valid change: official academy channel publishes it
+
+MISSING INPUT — source-chapter-text
+--------------------------------------------
+required      : NovelFull Chapter178 'Collaborate'
+state         : ABSENT from this corpus — the project names it in HANDOFF/README/coverage indexes but holds none of its text
+blocks        : canon_coverage/Canon_Coverage_Chapter53 cannot be written to template without it
+do not        : do not reconstruct from memory, paraphrase, or scrape an unofficial mirror — an unverified source chapter silently rewrites canon
+This is reported as MISSING. It is not to be reconstructed, paraphrased from
+memory, or fetched from an unofficial mirror.
+
+
+DRIFT-GUARD SCOPE (what the bans actually cover)
+--------------------------------------------
+scans  : chapters/*.md story body only (text before the --- + ## Footer marker)
+opt-in : --scan-coverage also scans canon_coverage/ (noisier by design: those files list forbidden values under 'Do not use:' headings)
+excludes: audits/ receipts and *_before backup snapshots — they DOCUMENT deleted values; scanning them produced 293 false errors once
+sweep  : bible/, codex/, canon_coverage/, foundation/ — clause-level; skips labelled history, self-describing coverage docs, source-chapter pointers (lag <= 0) and chronological ledgers/logs
+
+
+BANNED VALUES (24 literals)
+--------------------------------------------
+Chapter 178, Chapter178, Chapter179, Collaborate, Dragon Queen necklace, Fire Phoenix output-calibration cuff, Initial alliance, Martial Soul True Body, Nirvana, Phoenix Domain, Phoenix God authority, Rainbow Dragon, SP526, Second place is not nothing, Yan Emerald Demon Bird, Yan's Emerald Demon Bird, external soul bone, five-colored Phoenix, five-coloured Phoenix, public Yan Shuo'er reveal, public Yan Shuo’er reveal, shield-load impact matrix, special observation file, wind-line reaction threads
+
+BANNED PATTERNS (7)
+--------------------------------------------
+- Lan[^\n]{0,120}\b(entered|used)\b[^\n]{0,80}Platform
+- Platform[^\n]{0,80}(improvement|growth)[^\n]{0,80}(occurred|happened|completed)
+- Qian[^\n]{0,160}(purple breakthrough|purple-ring breakthrough|exact.*ring age)
+- Silver Edge[^\n]{0,120}(mastered|enemy|combat victory|killed|defeated)
+- (?:Purple Zoysia|the herb)[^\n]{0,120}\?(?:taken|grabbed|snatched|stolen|in (?:his|Lan)'s hand)
+- Gold Silk Ape[^\n]{0,120}\b(?:allied|alliance|agreed|nodded)\b
+- Palm Tree Bear[^\n]{0,80}\b(?:died|dead|neck snapped|neck was broken|killed)\b
+
+END OF STATE. No chapter prose here by design — the human hands over prose.

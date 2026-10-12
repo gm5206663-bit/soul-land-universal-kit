@@ -1,0 +1,40 @@
+# Python / local tooling
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+coverage/
+htmlcov/
+
+# OS and editor residue
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Local-only verified Git bundle backups.
+backups/
+
+# Temporary recovery/download artifacts; source archives are intentionally retained.
+*.part
+*.tmp
+*.bak
+
+# Never commit credentials or private keys.
+.env
+.env.*
+!.env.example
+*.token
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa
+id_ed25519

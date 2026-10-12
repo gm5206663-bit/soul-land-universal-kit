@@ -1,0 +1,6 @@
+StoryOS gate — soul_land_4
+result: PASS   errors=0 warnings=0 learned_rules=2
+live edge: after Chapter52
+
+Machine copy: api/gate/soul_land_4.json (also mirrored). Recompute with:
+  python3 storyos/tools/storyos_validate.py --project projects/soul_land_4 --phase full

@@ -1,0 +1,47 @@
+{
+  "schema": "storyos-manifest/3",
+  "project": "NEW PROJECT NAME",
+  "generated": "YYYY-MM-DD",
+  "generator": "manual bootstrap — replace with scan_project.py output",
+  "edge": {
+    "fic_chapter": 0,
+    "fic_title": "",
+    "declared_by": "",
+    "declared_on": "YYYY-MM-DD",
+    "canon_consumed": 0,
+    "canon_consumed_title": "",
+    "next_source": 1,
+    "next_source_title": "",
+    "accepted_chapters": []
+  },
+  "canon_numbering": [
+    { "fic": 1, "canon": "Chapter1", "status": "accepted", "validation": "" }
+  ],
+  "characters": {
+    "EXAMPLE": {
+      "dorm": "primary group", "rank": 0, "sp": 0, "state": "current locked state",
+      "public_identity": "how the world knows them", "reveal_status": "none",
+      "power_floor": "what they cannot be written below",
+      "power_ceiling": "what they cannot yet do"
+    }
+  },
+  "knowledge_firewalls": [
+    { "character": "EXAMPLE", "topic": "topic", "state": "FALSE BELIEF",
+      "earliest_valid_change": "what would have to happen on-page",
+      "rule": "what the writer must not do yet" }
+  ],
+  "banned_tokens": {
+    "stale_stat_drift": ["any value superseded by a repair"],
+    "forbidden_future_power": [], "forbidden_currentization": [],
+    "deleted_mistake_route": [], "banned_pacing": []
+  },
+  "enforce": [],
+  "advisory_review": [],
+  "pacing": { "mode": "compressed", "banned_mode": "one canon chapter = one fic chapter" },
+  "information_discipline": "ACTIVE",
+  "branches": { "main": { "status": "active", "chapters": [], "note": "" } },
+  "quarantine_notes": [],
+  "stale_claims": [],
+  "foundation_paths": [],
+  "metrics": {}
+}

@@ -1,0 +1,3783 @@
+{
+  "source": "accepted StoryOS bodies Chapter_01 through Chapter_52; footers excluded",
+  "chapter_count": 52,
+  "total_words": 272362,
+  "total_sentences": 30703,
+  "total_paragraphs": 20572,
+  "avg_sentence_words": 8.87,
+  "median_sentence_words": 7,
+  "avg_paragraph_words": 13.24,
+  "dialogue_words": 49234,
+  "dialogue_ratio": 0.181,
+  "questions": 1206,
+  "exclamations": 279,
+  "em_dashes": 87,
+  "ellipses": 73,
+  "semicolons": 82,
+  "colons": 471,
+  "one_sentence_paragraphs": 14868,
+  "short_paragraphs_15_or_less": 15703,
+  "sentence_start_top30": [
+    [
+      "the",
+      3288
+    ],
+    [
+      "he",
+      1629
+    ],
+    [
+      "lan",
+      1597
+    ],
+    [
+      "yan",
+      1529
+    ],
+    [
+      "it",
+      1316
+    ],
+    [
+      "a",
+      792
+    ],
+    [
+      "i",
+      706
+    ],
+    [
+      "not",
+      701
+    ],
+    [
+      "then",
+      700
+    ],
+    [
+      "that",
+      683
+    ],
+    [
+      "qian",
+      660
+    ],
+    [
+      "his",
+      652
+    ],
+    [
+      "liu",
+      504
+    ],
+    [
+      "they",
+      479
+    ],
+    [
+      "if",
+      462
+    ],
+    [
+      "no",
+      458
+    ],
+    [
+      "you",
+      405
+    ],
+    [
+      "she",
+      369
+    ],
+    [
+      "but",
+      367
+    ],
+    [
+      "for",
+      314
+    ],
+    [
+      "luo",
+      287
+    ],
+    [
+      "song",
+      263
+    ],
+    [
+      "this",
+      256
+    ],
+    [
+      "teacher",
+      223
+    ],
+    [
+      "lin",
+      203
+    ],
+    [
+      "ye",
+      199
+    ],
+    [
+      "dorm",
+      196
+    ],
+    [
+      "ji",
+      193
+    ],
+    [
+      "do",
+      186
+    ],
+    [
+      "mu",
+      179
+    ]
+  ],
+  "content_word_top100": [
+    [
+      "had",
+      3173
+    ],
+    [
+      "was",
+      2985
+    ],
+    [
+      "lan",
+      2719
+    ],
+    [
+      "yan",
+      2455
+    ],
+    [
+      "did",
+      1908
+    ],
+    [
+      "him",
+      1615
+    ],
+    [
+      "said",
+      1481
+    ],
+    [
+      "one",
+      1336
+    ],
+    [
+      "xuanyu",
+      1336
+    ],
+    [
+      "shuo",
+      1134
+    ],
+    [
+      "from",
+      1107
+    ],
+    [
+      "qian",
+      1090
+    ],
+    [
+      "could",
+      1043
+    ],
+    [
+      "before",
+      963
+    ],
+    [
+      "looked",
+      934
+    ],
+    [
+      "liu",
+      880
+    ],
+    [
+      "soul",
+      875
+    ],
+    [
+      "first",
+      864
+    ],
+    [
+      "them",
+      847
+    ],
+    [
+      "like",
+      841
+    ],
+    [
+      "enough",
+      798
+    ],
+    [
+      "fire",
+      763
+    ],
+    [
+      "were",
+      735
+    ],
+    [
+      "too",
+      719
+    ],
+    [
+      "because",
+      711
+    ],
+    [
+      "lei",
+      698
+    ],
+    [
+      "than",
+      686
+    ],
+    [
+      "into",
+      682
+    ],
+    [
+      "only",
+      679
+    ],
+    [
+      "still",
+      665
+    ],
+    [
+      "eyes",
+      638
+    ],
+    [
+      "luo",
+      638
+    ],
+    [
+      "feng",
+      637
+    ],
+    [
+      "teacher",
+      628
+    ],
+    [
+      "dorm",
+      608
+    ],
+    [
+      "through",
+      606
+    ],
+    [
+      "would",
+      605
+    ],
+    [
+      "made",
+      604
+    ],
+    [
+      "more",
+      579
+    ],
+    [
+      "back",
+      576
+    ],
+    [
+      "have",
+      558
+    ],
+    [
+      "power",
+      541
+    ],
+    [
+      "body",
+      537
+    ],
+    [
+      "after",
+      507
+    ],
+    [
+      "been",
+      504
+    ],
+    [
+      "your",
+      487
+    ],
+    [
+      "two",
+      483
+    ],
+    [
+      "again",
+      481
+    ],
+    [
+      "light",
+      472
+    ],
+    [
+      "hand",
+      463
+    ],
+    [
+      "time",
+      456
+    ],
+    [
+      "class",
+      455
+    ],
+    [
+      "song",
+      449
+    ],
+    [
+      "are",
+      447
+    ],
+    [
+      "once",
+      443
+    ],
+    [
+      "its",
+      440
+    ],
+    [
+      "three",
+      438
+    ],
+    [
+      "will",
+      437
+    ],
+    [
+      "room",
+      420
+    ],
+    [
+      "around",
+      419
+    ],
+    [
+      "behind",
+      394
+    ],
+    [
+      "under",
+      385
+    ],
+    [
+      "without",
+      385
+    ],
+    [
+      "silver",
+      384
+    ],
+    [
+      "toward",
+      383
+    ],
+    [
+      "nana",
+      379
+    ],
+    [
+      "something",
+      375
+    ],
+    [
+      "team",
+      370
+    ],
+    [
+      "face",
+      364
+    ],
+    [
+      "breath",
+      362
+    ],
+    [
+      "now",
+      359
+    ],
+    [
+      "became",
+      349
+    ],
+    [
+      "already",
+      349
+    ],
+    [
+      "pressure",
+      346
+    ],
+    [
+      "ring",
+      345
+    ],
+    [
+      "can",
+      341
+    ],
+    [
+      "spirit",
+      339
+    ],
+    [
+      "stood",
+      339
+    ],
+    [
+      "felt",
+      339
+    ],
+    [
+      "who",
+      337
+    ],
+    [
+      "dragon",
+      336
+    ],
+    [
+      "inside",
+      335
+    ],
+    [
+      "where",
+      334
+    ],
+    [
+      "rank",
+      334
+    ],
+    [
+      "line",
+      331
+    ],
+    [
+      "become",
+      327
+    ],
+    [
+      "know",
+      326
+    ],
+    [
+      "lin",
+      324
+    ],
+    [
+      "second",
+      324
+    ],
+    [
+      "moved",
+      321
+    ],
+    [
+      "came",
+      317
+    ],
+    [
+      "even",
+      313
+    ],
+    [
+      "over",
+      312
+    ],
+    [
+      "out",
+      308
+    ],
+    [
+      "heat",
+      306
+    ],
+    [
+      "opened",
+      303
+    ],
+    [
+      "gold",
+      302
+    ],
+    [
+      "both",
+      298
+    ],
+    [
+      "left",
+      295
+    ],
+    [
+      "phoenix",
+      295
+    ]
+  ],
+  "character_name_mentions": {
+    "Yan": 2666,
+    "Lan": 2982,
+    "Qian": 1130,
+    "Liu": 899,
+    "Song": 564,
+    "Luo": 753,
+    "Dong": 135,
+    "Nana": 494,
+    "Dawnflame": 235,
+    "Ye": 359,
+    "Lu": 349
+  },
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "Chapter 1: Beneath the Same Dawn",
+      "words": 4507,
+      "sentences": 471,
+      "paragraphs": 268,
+      "avg_sentence_words": 9.57,
+      "median_sentence_words": 7,
+      "avg_paragraph_words": 16.82,
+      "dialogue_words": 642,
+      "dialogue_ratio": 0.142,
+      "questions": 5,
+      "exclamations": 0,
+      "em_dashes": 0,
+      "ellipses": 2,
+      "semicolons": 0,
+      "colon": 10,
+      "one_sentence_paragraphs": 169,
+      "short_paragraphs_15_or_less": 184,
+      "sentence_start_top10": [
+        [
+          "the",
+          65
+        ],
+        [
+          "a",
+          29
+        ],
+        [
+          "it",
+          27
+        ],
+        [
+          "he",
+          27
+        ],
+        [
+          "she",
+          25
+        ],
+        [
+          "yan",
+          25
+        ],
+        [
+          "lin",
+          23
+        ],
+        [
+          "not",
+          17
+        ],
+        [
+          "that",
+          12
+        ],
+        [
+          "no",
+          10
+        ]
+      ]
+    },
+    {
+      "chapter": 2,
+      "title": "Chapter 2: Warm Hands",
+      "words": 3971,
+      "sentences": 423,
+      "paragraphs": 269,
+      "avg_sentence_words": 9.39,
+      "median_sentence_words": 7,
+      "avg_paragraph_words": 14.76,
+      "dialogue_words": 494,
+      "dialogue_ratio": 0.124,
+      "questions": 22,
+      "exclamations": 0,
+      "em_dashes": 0,
+      "ellipses": 0,
+      "semicolons": 0,
+      "colon": 0,
+      "one_sentence_paragraphs": 184,
+      "short_paragraphs_15_or_less": 197,
+      "sentence_start_top10": [
+        [
+          "yan",
+          55
+        ],
+        [
+          "the",
+          32
+        ],
+        [
+          "a",
+          23
+        ],
+        [
+          "he",
+          23
+        ],
+        [
+          "she",
+          23
+        ],
+        [
+          "lin",
+          18
+        ],
+        [
+          "lan",
+          18
+        ],
+        [
+          "it",
+          17
+        ],
+        [
+          "that",
+          12
+        ],
+        [
+          "they",
+          11
+        ]
+      ]
+    },
+    {
+      "chapter": 3,
+      "title": "Chapter 3: The Shape Inside",
+      "words": 3619,
+      "sentences": 429,
+      "paragraphs": 262,
+      "avg_sentence_words": 8.44,
+      "median_sentence_words": 6,
+      "avg_paragraph_words": 13.81,
+      "dialogue_words": 427,
+      "dialogue_ratio": 0.118,
+      "questions": 25,
+      "exclamations": 2,
+      "em_dashes": 0,
+      "ellipses": 1,
+      "semicolons": 1,
+      "colon": 2,
+      "one_sentence_paragraphs": 171,
+      "short_paragraphs_15_or_less": 194,
+      "sentence_start_top10": [
+        [
+          "yan",
+          65
+        ],
+        [
+          "the",
+          48
+        ],
+        [
+          "he",
+          40
+        ],
+        [
+          "lan",
+          28
+        ],
+        [
+          "lin",
+          22
+        ],
+        [
+          "it",
+          19
+        ],
+        [
+          "his",
+          14
+        ],
+        [
+          "then",
+          11
+        ],
+        [
+          "not",
+          9
+        ],
+        [
+          "a",
+          8
+        ]
+      ]
+    },
+    {
+      "chapter": 4,
+      "title": "Chapter 4: The First Record",
+      "words": 4141,
+      "sentences": 439,
+      "paragraphs": 271,
+      "avg_sentence_words": 9.43,
+      "median_sentence_words": 7,
+      "avg_paragraph_words": 15.28,
+      "dialogue_words": 538,
+      "dialogue_ratio": 0.13,
+      "questions": 25,
+      "exclamations": 1,
+      "em_dashes": 0,
+      "ellipses": 0,
+      "semicolons": 2,
+      "colon": 5,
+      "one_sentence_paragraphs": 177,
+      "short_paragraphs_15_or_less": 196,
+      "sentence_start_top10": [
+        [
+          "yan",
+          50
+        ],
+        [
+          "the",
+          40
+        ],
+        [
+          "lan",
+          39
+        ],
+        [
+          "he",
+          31
+        ],
+        [
+          "it",
+          22
+        ],
+        [
+          "then",
+          15
+        ],
+        [
+          "a",
+          13
+        ],
+        [
+          "his",
+          13
+        ],
+        [
+          "lin",
+          13
+        ],
+        [
+          "i",
+          11
+        ]
+      ]
+    },
+    {
+      "chapter": 5,
+      "title": "Chapter 5: The Weight Between Them",
+      "words": 6703,
+      "sentences": 664,
+      "paragraphs": 393,
+      "avg_sentence_words": 10.09,
+      "median_sentence_words": 8.0,
+      "avg_paragraph_words": 17.06,
+      "dialogue_words": 635,
+      "dialogue_ratio": 0.095,
+      "questions": 17,
+      "exclamations": 3,
+      "em_dashes": 0,
+      "ellipses": 1,
+      "semicolons": 1,
+      "colon": 12,
+      "one_sentence_paragraphs": 264,
+      "short_paragraphs_15_or_less": 271,
+      "sentence_start_top10": [
+        [
+          "he",
+          67
+        ],
+        [
+          "yan",
+          61
+        ],
+        [
+          "the",
+          57
+        ],
+        [
+          "lan",
+          54
+        ],
+        [
+          "it",
+          32
+        ],
+        [
+          "his",
+          29
+        ],
+        [
+          "ye",
+          29
+        ],
+        [
+          "that",
+          22
+        ],
+        [
+          "she",
+          22
+        ],
+        [
+          "i",
+          16
+        ]
+      ]
+    },
+    {
+      "chapter": 6,
+      "title": "Chapter 6: The Right Wings",
+      "words": 6306,
+      "sentences": 649,
+      "paragraphs": 365,
+      "avg_sentence_words": 9.72,
+      "median_sentence_words": 7,
+      "avg_paragraph_words": 17.28,
+      "dialogue_words": 642,
+      "dialogue_ratio": 0.102,
+      "questions": 15,
+      "exclamations": 0,
+      "em_dashes": 0,
+      "ellipses": 1,
+      "semicolons": 7,
+      "colon": 20,
+      "one_sentence_paragraphs": 248,
+      "short_paragraphs_15_or_less": 253,
+      "sentence_start_top10": [
+        [
+          "the",
+          91
+        ],
+        [
+          "it",
+          44
+        ],
+        [
+          "yan",
+          40
+        ],
+        [
+          "lan",
+          37
+        ],
+        [
+          "he",
+          28
+        ],
+        [
+          "then",
+          19
+        ],
+        [
+          "his",
+          17
+        ],
+        [
+          "not",
+          16
+        ],
+        [
+          "i",
+          15
+        ],
+        [
+          "a",
+          15
+        ]
+      ]
+    },
+    {
+      "chapter": 7,
+      "title": "Chapter 7: What Came Home",
+      "words": 6350,
+      "sentences": 753,
+      "paragraphs": 433,
+      "avg_sentence_words": 8.43,
+      "median_sentence_words": 6,
+      "avg_paragraph_words": 14.67,
+      "dialogue_words": 1206,
+      "dialogue_ratio": 0.19,
+      "questions": 43,
+      "exclamations": 7,
+      "em_dashes": 0,
+      "ellipses": 3,
+      "semicolons": 0,
+      "colon": 1,
+      "one_sentence_paragraphs": 275,
+      "short_paragraphs_15_or_less": 306,
+      "sentence_start_top10": [
+        [
+          "lan",
+          54
+        ],
+        [
+          "the",
+          49
+        ],
+        [
+          "he",
+          46
+        ],
+        [
+          "yan",
+          44
+        ],
+        [
+          "it",
+          35
+        ],
+        [
+          "then",
+          28
+        ],
+        [
+          "i",
+          26
+        ],
+        [
+          "nana",
+          21
+        ],
+        [
+          "his",
+          20
+        ],
+        [
+          "nan",
+          19
+        ]
+      ]
+    },
+    {
+      "chapter": 8,
+      "title": "Chapter 8: The Bell After the Sky",
+      "words": 6734,
+      "sentences": 707,
+      "paragraphs": 459,
+      "avg_sentence_words": 9.52,
+      "median_sentence_words": 7,
+      "avg_paragraph_words": 14.67,
+      "dialogue_words": 869,
+      "dialogue_ratio": 0.129,
+      "questions": 28,
+      "exclamations": 13,
+      "em_dashes": 0,
+      "ellipses": 1,
+      "semicolons": 0,
+      "colon": 22,
+      "one_sentence_paragraphs": 306,
+      "short_paragraphs_15_or_less": 327,
+      "sentence_start_top10": [
+        [
+          "yan",
+          70
+        ],
+        [
+          "the",
+          66
+        ],
+        [
+          "lan",
+          57
+        ],
+        [
+          "he",
+          53
+        ],
+        [
+          "it",
+          24
+        ],
+        [
+          "she",
+          24
+        ],
+        [
+          "ye",
+          20
+        ],
+        [
+          "a",
+          15
+        ],
+        [
+          "then",
+          15
+        ],
+        [
+          "his",
+          15
+        ]
+      ]
+    },
+    {
+      "chapter": 9,
+      "title": "Chapter 9: Three Months of Quiet Fire",
+      "words": 5653,
+      "sentences": 622,
+      "paragraphs": 401,
+      "avg_sentence_words": 9.09,
+      "median_sentence_words": 7.0,
+      "avg_paragraph_words": 14.1,
+      "dialogue_words": 1286,
+      "dialogue_ratio": 0.227,
+      "questions": 31,
+      "exclamations": 9,
+      "em_dashes": 0,
+      "ellipses": 3,
+      "semicolons": 1,
+      "colon": 18,
+      "one_sentence_paragraphs": 269,
+      "short_paragraphs_15_or_less": 296,
+      "sentence_start_top10": [
+        [
+          "yan",
+          47
+        ],
+        [
+          "the",
+          45
+        ],
+        [
+          "lan",
+          41
+        ],
+        [
+          "he",
+          37
+        ],
+        [
+          "i",
+          31
+        ],
+        [
+          "it",
+          25
+        ],
+        [
+          "then",
+          21
+        ],
+        [
+          "you",
+          15
+        ],
+        [
+          "ye",
+          14
+        ],
+        [
+          "a",
+          12
+        ]
+      ]
+    },
+    {
+      "chapter": 10,
+      "title": "Chapter 10: The Building That Held Its Breath",
+      "words": 5474,
+      "sentences": 662,
+      "paragraphs": 461,
+      "avg_sentence_words": 8.27,
+      "median_sentence_words": 6.0,
+      "avg_paragraph_words": 11.87,
+      "dialogue_words": 723,
+      "dialogue_ratio": 0.132,
+      "questions": 16,
+      "exclamations": 13,
+      "em_dashes": 1,
+      "ellipses": 0,
+      "semicolons": 2,
+      "colon": 24,
+      "one_sentence_paragraphs": 348,
+      "short_paragraphs_15_or_less": 364,
+      "sentence_start_top10": [
+        [
+          "the",
+          66
+        ],
+        [
+          "he",
+          46
+        ],
+        [
+          "yan",
+          42
+        ],
+        [
+          "lan",
+          31
+        ],
+        [
+          "a",
+          28
+        ],
+        [
+          "it",
+          26
+        ],
+        [
+          "his",
+          20
+        ],
+        [
+          "nan",
+          18
+        ],
+        [
+          "she",
+          18
+        ],
+        [
+          "then",
+          16
+        ]
+      ]
+    },
+    {
+      "chapter": 11,
+      "title": "Chapter 11: The Tenth Name",
+      "words": 6649,
+      "sentences": 754,
+      "paragraphs": 470,
+      "avg_sentence_words": 8.82,
+      "median_sentence_words": 7.0,
+      "avg_paragraph_words": 14.15,
+      "dialogue_words": 1515,
+      "dialogue_ratio": 0.228,
+      "questions": 25,
+      "exclamations": 6,
+      "em_dashes": 0,
+      "ellipses": 1,
+      "semicolons": 4,
+      "colon": 10,
+      "one_sentence_paragraphs": 322,
+      "short_paragraphs_15_or_less": 341,
+      "sentence_start_top10": [
+        [
+          "the",
+          78
+        ],
+        [
+          "yan",
+          47
+        ],
+        [
+          "lan",
+          40
+        ],
+        [
+          "he",
+          39
+        ],
+        [
+          "i",
+          29
+        ],
+        [
+          "it",
+          27
+        ],
+        [
+          "ye",
+          24
+        ],
+        [
+          "you",
+          23
+        ],
+        [
+          "his",
+          19
+        ],
+        [
+          "then",
+          19
+        ]
+      ]
+    },
+    {
+      "chapter": 12,
+      "title": "Chapter 12: The Forest That Answered",
+      "words": 5588,
+      "sentences": 671,
+      "paragraphs": 448,
+      "avg_sentence_words": 8.33,
+      "median_sentence_words": 6,
+      "avg_paragraph_words": 12.47,
+      "dialogue_words": 559,
+      "dialogue_ratio": 0.1,
+      "questions": 16,
+      "exclamations": 14,
+      "em_dashes": 0,
+      "ellipses": 1,
+      "semicolons": 0,
+      "colon": 2,
+      "one_sentence_paragraphs": 326,
+      "short_paragraphs_15_or_less": 350,
+      "sentence_start_top10": [
+        [
+          "the",
+          106
+        ],
+        [
+          "he",
+          52
+        ],
+        [
+          "yan",
+          42
+        ],
+        [
+          "lan",
+          30
+        ],
+        [
+          "a",
+          21
+        ],
+        [
+          "his",
+          20
+        ],
+        [
+          "she",
+          18
+        ],
+        [
+          "not",
+          16
+        ],
+        [
+          "it",
+          16
+        ],
+        [
+          "ye",
+          16
+        ]
+      ]
+    },
+    {
+      "chapter": 13,
+      "title": "Chapter 13: The Seat That Waited",
+      "words": 4940,
+      "sentences": 547,
+      "paragraphs": 380,
+      "avg_sentence_words": 9.03,
+      "median_sentence_words": 7,
+      "avg_paragraph_words": 13.0,
+      "dialogue_words": 770,
+      "dialogue_ratio": 0.156,
+      "questions": 20,
+      "exclamations": 3,
+      "em_dashes": 0,
+      "ellipses": 1,
+      "semicolons": 0,
+      "colon": 9,
+      "one_sentence_paragraphs": 281,
+      "short_paragraphs_15_or_less": 290,
+      "sentence_start_top10": [
+        [
+          "the",
+          65
+        ],
+        [
+          "yan",
+          58
+        ],
+        [
+          "he",
+          32
+        ],
+        [
+          "lan",
+          23
+        ],
+        [
+          "it",
+          20
+        ],
+        [
+          "then",
+          17
+        ],
+        [
+          "that",
+          14
+        ],
+        [
+          "i",
+          12
+        ],
+        [
+          "you",
+          12
+        ],
+        [
+          "not",
+          11
+        ]
+      ]
+    },
+    {
+      "chapter": 14,
+      "title": "Chapter 14: The Fire That Did Not Step In",
+      "words": 4274,
+      "sentences": 465,
+      "paragraphs": 302,
+      "avg_sentence_words": 9.19,
+      "median_sentence_words": 7,
+      "avg_paragraph_words": 14.15,
+      "dialogue_words": 380,
+      "dialogue_ratio": 0.089,
+      "questions": 7,
+      "exclamations": 2,
+      "em_dashes": 0,
+      "ellipses": 2,
+      "semicolons": 2,
+      "colon": 11,
+      "one_sentence_paragraphs": 212,
+      "short_paragraphs_15_or_less": 218,
+      "sentence_start_top10": [
+        [
+          "the",
+          44
+        ],
+        [
+          "yan",
+          41
+        ],
+        [
+          "lan",
+          36
+        ],
+        [
+          "he",
+          32
+        ],
+        [
+          "jin",
+          23
+        ],
+        [
+          "not",
+          18
+        ],
+        [
+          "his",
+          16
+        ],
+        [
+          "qian",
+          14
+        ],
+        [
+          "it",
+          13
+        ],
+        [
+          "a",
+          12
+        ]
+      ]
+    },
+    {
+      "chapter": 15,
+      "title": "Chapter 15: The First Coin",
+      "words": 4253,
+      "sentences": 502,
+      "paragraphs": 358,
+      "avg_sentence_words": 8.47,
+      "median_sentence_words": 6.0,
+      "avg_paragraph_words": 11.88,
+      "dialogue_words": 313,
+      "dialogue_ratio": 0.074,
+      "questions": 6,
+      "exclamations": 10,
+      "em_dashes": 0,
+      "ellipses": 0,
+      "semicolons": 0,
+      "colon": 4,
+      "one_sentence_paragraphs": 273,
+      "short_paragraphs_15_or_less": 273,
+      "sentence_start_top10": [
+        [
+          "the",
+          66
+        ],
+        [
+          "yan",
+          33
+        ],
+        [
+          "not",
+          24
+        ],
+        [
+          "it",
+          23
+        ],
+        [
+          "his",
+          20
+        ],
+        [
+          "luo",
+          18
+        ],
+        [
+          "he",
+          17
+        ],
+        [
+          "song",
+          17
+        ],
+        [
+          "lan",
+          15
+        ],
+        [
+          "a",
+          12
+        ]
+      ]
+    },
+    {
+      "chapter": 16,
+      "title": "Chapter 16: The Door That Answered",
+      "words": 5423,
+      "sentences": 626,
+      "paragraphs": 439,
+      "avg_sentence_words": 8.66,
+      "median_sentence_words": 7.0,
+      "avg_paragraph_words": 12.35,
+      "dialogue_words": 779,
+      "dialogue_ratio": 0.144,
+      "questions": 21,
+      "exclamations": 10,
+      "em_dashes": 7,
+      "ellipses": 0,
+      "semicolons": 0,
+      "colon": 4,
+      "one_sentence_paragraphs": 326,
+      "short_paragraphs_15_or_less": 340,
+      "sentence_start_top10": [
+        [
+          "the",
+          88
+        ],
+        [
+          "lan",
+          44
+        ],
+        [
+          "qian",
+          38
+        ],
+        [
+          "it",
+          28
+        ],
+        [
+          "liu",
+          23
+        ],
+        [
+          "he",
+          22
+        ],
+        [
+          "his",
+          20
+        ],
+        [
+          "she",
+          19
+        ],
+        [
+          "i",
+          19
+        ],
+        [
+          "yan",
+          16
+        ]
+      ]
+    },
+    {
+      "chapter": 17,
+      "title": "Chapter 17: The Question at the Table",
+      "words": 5372,
+      "sentences": 614,
+      "paragraphs": 407,
+      "avg_sentence_words": 8.75,
+      "median_sentence_words": 7.0,
+      "avg_paragraph_words": 13.2,
+      "dialogue_words": 1110,
+      "dialogue_ratio": 0.207,
+      "questions": 31,
+      "exclamations": 2,
+      "em_dashes": 1,
+      "ellipses": 0,
+      "semicolons": 2,
+      "colon": 12,
+      "one_sentence_paragraphs": 286,
+      "short_paragraphs_15_or_less": 308,
+      "sentence_start_top10": [
+        [
+          "the",
+          49
+        ],
+        [
+          "yan",
+          36
+        ],
+        [
+          "lan",
+          33
+        ],
+        [
+          "it",
+          27
+        ],
+        [
+          "he",
+          24
+        ],
+        [
+          "a",
+          21
+        ],
+        [
+          "i",
+          21
+        ],
+        [
+          "his",
+          18
+        ],
+        [
+          "qian",
+          17
+        ],
+        [
+          "that",
+          16
+        ]
+      ]
+    },
+    {
+      "chapter": 18,
+      "title": "Chapter 18: The Bright Edge",
+      "words": 5507,
+      "sentences": 617,
+      "paragraphs": 424,
+      "avg_sentence_words": 8.93,
+      "median_sentence_words": 7,
+      "avg_paragraph_words": 12.99,
+      "dialogue_words": 1065,
+      "dialogue_ratio": 0.193,
+      "questions": 28,
+      "exclamations": 2,
+      "em_dashes": 0,
+      "ellipses": 2,
+      "semicolons": 0,
+      "colon": 3,
+      "one_sentence_paragraphs": 311,
+      "short_paragraphs_15_or_less": 318,
+      "sentence_start_top10": [
+        [
+          "the",
+          64
+        ],
+        [
+          "lan",
+          37
+        ],
+        [
+          "liu",
+          35
+        ],
+        [
+          "he",
+          34
+        ],
+        [
+          "it",
+          31
+        ],
+        [
+          "qian",
+          31
+        ],
+        [
+          "i",
+          24
+        ],
+        [
+          "then",
+          20
+        ],
+        [
+          "his",
+          18
+        ],
+        [
+          "yan",
+          18
+        ]
+      ]
+    },
+    {
+      "chapter": 19,
+      "title": "Chapter 19: The Question No Teacher Should Hear",
+      "words": 6421,
+      "sentences": 706,
+      "paragraphs": 499,
+      "avg_sentence_words": 9.09,
+      "median_sentence_words": 7.0,
+      "avg_paragraph_words": 12.87,
+      "dialogue_words": 954,
+      "dialogue_ratio": 0.149,
+      "questions": 24,
+      "exclamations": 0,
+      "em_dashes": 0,
+      "ellipses": 2,
+      "semicolons": 1,
+      "colon": 5,
+      "one_sentence_paragraphs": 369,
+      "short_paragraphs_15_or_less": 377,
+      "sentence_start_top10": [
+        [
+          "the",
+          95
+        ],
+        [
+          "he",
+          69
+        ],
+        [
+          "lan",
+          37
+        ],
+        [
+          "yan",
+          31
+        ],
+        [
+          "his",
+          26
+        ],
+        [
+          "teacher",
+          20
+        ],
+        [
+          "then",
+          20
+        ],
+        [
+          "it",
+          20
+        ],
+        [
+          "a",
+          18
+        ],
+        [
+          "qian",
+          16
+        ]
+      ]
+    },
+    {
+      "chapter": 20,
+      "title": "Chapter 20 - The Answer Behind the Door",
+      "words": 5414,
+      "sentences": 560,
+      "paragraphs": 433,
+      "avg_sentence_words": 9.67,
+      "median_sentence_words": 7.0,
+      "avg_paragraph_words": 12.5,
+      "dialogue_words": 408,
+      "dialogue_ratio": 0.075,
+      "questions": 15,
+      "exclamations": 0,
+      "em_dashes": 1,
+      "ellipses": 0,
+      "semicolons": 0,
+      "colon": 4,
+      "one_sentence_paragraphs": 347,
+      "short_paragraphs_15_or_less": 346,
+      "sentence_start_top10": [
+        [
+          "he",
+          59
+        ],
+        [
+          "the",
+          57
+        ],
+        [
+          "lan",
+          42
+        ],
+        [
+          "yan",
+          24
+        ],
+        [
+          "it",
+          18
+        ],
+        [
+          "his",
+          17
+        ],
+        [
+          "a",
+          17
+        ],
+        [
+          "if",
+          14
+        ],
+        [
+          "qian",
+          14
+        ],
+        [
+          "they",
+          13
+        ]
+      ]
+    },
+    {
+      "chapter": 21,
+      "title": "Chapter 21 - The Meaning of a Plus Sign",
+      "words": 6075,
+      "sentences": 707,
+      "paragraphs": 492,
+      "avg_sentence_words": 8.59,
+      "median_sentence_words": 6,
+      "avg_paragraph_words": 12.35,
+      "dialogue_words": 924,
+      "dialogue_ratio": 0.152,
+      "questions": 20,
+      "exclamations": 4,
+      "em_dashes": 2,
+      "ellipses": 0,
+      "semicolons": 3,
+      "colon": 22,
+      "one_sentence_paragraphs": 366,
+      "short_paragraphs_15_or_less": 386,
+      "sentence_start_top10": [
+        [
+          "the",
+          91
+        ],
+        [
+          "he",
+          43
+        ],
+        [
+          "yan",
+          39
+        ],
+        [
+          "lan",
+          33
+        ],
+        [
+          "it",
+          28
+        ],
+        [
+          "his",
+          28
+        ],
+        [
+          "not",
+          20
+        ],
+        [
+          "qian",
+          18
+        ],
+        [
+          "liu",
+          18
+        ],
+        [
+          "that",
+          17
+        ]
+      ]
+    },
+    {
+      "chapter": 22,
+      "title": "Chapter 22 - The Quietest Place",
+      "words": 5666,
+      "sentences": 650,
+      "paragraphs": 397,
+      "avg_sentence_words": 8.72,
+      "median_sentence_words": 7.0,
+      "avg_paragraph_words": 14.27,
+      "dialogue_words": 1278,
+      "dialogue_ratio": 0.226,
+      "questions": 30,
+      "exclamations": 1,
+      "em_dashes": 3,
+      "ellipses": 1,
+      "semicolons": 1,
+      "colon": 7,
+      "one_sentence_paragraphs": 258,
+      "short_paragraphs_15_or_less": 291,
+      "sentence_start_top10": [
+        [
+          "the",
+          91
+        ],
+        [
+          "he",
+          33
+        ],
+        [
+          "it",
+          28
+        ],
+        [
+          "they",
+          24
+        ],
+        [
+          "qian",
+          23
+        ],
+        [
+          "lan",
+          23
+        ],
+        [
+          "liu",
+          23
+        ],
+        [
+          "yan",
+          20
+        ],
+        [
+          "if",
+          18
+        ],
+        [
+          "that",
+          17
+        ]
+      ]
+    },
+    {
+      "chapter": 23,
+      "title": "Chapter 23: Ten Seconds",
+      "words": 5951,
+      "sentences": 585,
+      "paragraphs": 392,
+      "avg_sentence_words": 10.17,
+      "median_sentence_words": 8,
+      "avg_paragraph_words": 15.18,
+      "dialogue_words": 527,
+      "dialogue_ratio": 0.089,
+      "questions": 16,
+      "exclamations": 12,
+      "em_dashes": 0,
+      "ellipses": 3,
+      "semicolons": 1,
+      "colon": 3,
+      "one_sentence_paragraphs": 293,
+      "short_paragraphs_15_or_less": 290,
+      "sentence_start_top10": [
+        [
+          "the",
+          96
+        ],
+        [
+          "he",
+          38
+        ],
+        [
+          "his",
+          31
+        ],
+        [
+          "they",
+          27
+        ],
+        [
+          "liu",
+          24
+        ],
+        [
+          "lan",
+          19
+        ],
+        [
+          "qian",
+          18
+        ],
+        [
+          "yan",
+          18
+        ],
+        [
+          "it",
+          17
+        ],
+        [
+          "a",
+          16
+        ]
+      ]
+    },
+    {
+      "chapter": 24,
+      "title": "Chapter 24: Twenty Minutes",
+      "words": 5564,
+      "sentences": 594,
+      "paragraphs": 323,
+      "avg_sentence_words": 9.37,
+      "median_sentence_words": 8.0,
+      "avg_paragraph_words": 17.23,
+      "dialogue_words": 1253,
+      "dialogue_ratio": 0.225,
+      "questions": 41,
+      "exclamations": 3,
+      "em_dashes": 1,
+      "ellipses": 4,
+      "semicolons": 2,
+      "colon": 3,
+      "one_sentence_paragraphs": 201,
+      "short_paragraphs_15_or_less": 220,
+      "sentence_start_top10": [
+        [
+          "the",
+          63
+        ],
+        [
+          "he",
+          50
+        ],
+        [
+          "lan",
+          44
+        ],
+        [
+          "it",
+          28
+        ],
+        [
+          "i",
+          22
+        ],
+        [
+          "a",
+          21
+        ],
+        [
+          "yan",
+          19
+        ],
+        [
+          "his",
+          15
+        ],
+        [
+          "that",
+          14
+        ],
+        [
+          "you",
+          13
+        ]
+      ]
+    },
+    {
+      "chapter": 25,
+      "title": "Chapter 25: The Second Weight",
+      "words": 8269,
+      "sentences": 887,
+      "paragraphs": 512,
+      "avg_sentence_words": 9.32,
+      "median_sentence_words": 7,
+      "avg_paragraph_words": 16.15,
+      "dialogue_words": 1727,
+      "dialogue_ratio": 0.209,
+      "questions": 22,
+      "exclamations": 3,
+      "em_dashes": 0,
+      "ellipses": 2,
+      "semicolons": 4,
+      "colon": 22,
+      "one_sentence_paragraphs": 341,
+      "short_paragraphs_15_or_less": 376,
+      "sentence_start_top10": [
+        [
+          "the",
+          112
+        ],
+        [
+          "yan",
+          61
+        ],
+        [
+          "it",
+          60
+        ],
+        [
+          "not",
+          38
+        ],
+        [
+          "he",
+          28
+        ],
+        [
+          "lan",
+          25
+        ],
+        [
+          "that",
+          21
+        ],
+        [
+          "a",
+          21
+        ],
+        [
+          "she",
+          19
+        ],
+        [
+          "then",
+          15
+        ]
+      ]
+    },
+    {
+      "chapter": 26,
+      "title": "Chapter 26: The Test That Chose a Target",
+      "words": 6297,
+      "sentences": 701,
+      "paragraphs": 470,
+      "avg_sentence_words": 8.98,
+      "median_sentence_words": 7,
+      "avg_paragraph_words": 13.4,
+      "dialogue_words": 1638,
+      "dialogue_ratio": 0.26,
+      "questions": 19,
+      "exclamations": 3,
+      "em_dashes": 0,
+      "ellipses": 1,
+      "semicolons": 0,
+      "colon": 11,
+      "one_sentence_paragraphs": 339,
+      "short_paragraphs_15_or_less": 354,
+      "sentence_start_top10": [
+        [
+          "the",
+          77
+        ],
+        [
+          "lan",
+          35
+        ],
+        [
+          "it",
+          33
+        ],
+        [
+          "yan",
+          30
+        ],
+        [
+          "he",
+          22
+        ],
+        [
+          "qian",
+          21
+        ],
+        [
+          "dorm",
+          17
+        ],
+        [
+          "that",
+          16
+        ],
+        [
+          "one",
+          16
+        ],
+        [
+          "i",
+          15
+        ]
+      ]
+    },
+    {
+      "chapter": 27,
+      "title": "Chapter 27: The Door That Chose Twice",
+      "words": 3779,
+      "sentences": 417,
+      "paragraphs": 311,
+      "avg_sentence_words": 9.06,
+      "median_sentence_words": 7,
+      "avg_paragraph_words": 12.15,
+      "dialogue_words": 300,
+      "dialogue_ratio": 0.079,
+      "questions": 9,
+      "exclamations": 1,
+      "em_dashes": 0,
+      "ellipses": 1,
+      "semicolons": 1,
+      "colon": 5,
+      "one_sentence_paragraphs": 243,
+      "short_paragraphs_15_or_less": 241,
+      "sentence_start_top10": [
+        [
+          "the",
+          66
+        ],
+        [
+          "it",
+          23
+        ],
+        [
+          "lan",
+          18
+        ],
+        [
+          "qian",
+          15
+        ],
+        [
+          "that",
+          13
+        ],
+        [
+          "not",
+          12
+        ],
+        [
+          "liu",
+          12
+        ],
+        [
+          "he",
+          11
+        ],
+        [
+          "a",
+          10
+        ],
+        [
+          "jin",
+          10
+        ]
+      ]
+    },
+    {
+      "chapter": 28,
+      "title": "Chapter 28: The Match They Were Allowed to See",
+      "words": 5081,
+      "sentences": 579,
+      "paragraphs": 377,
+      "avg_sentence_words": 8.78,
+      "median_sentence_words": 7,
+      "avg_paragraph_words": 13.48,
+      "dialogue_words": 1019,
+      "dialogue_ratio": 0.201,
+      "questions": 25,
+      "exclamations": 0,
+      "em_dashes": 1,
+      "ellipses": 1,
+      "semicolons": 3,
+      "colon": 8,
+      "one_sentence_paragraphs": 271,
+      "short_paragraphs_15_or_less": 283,
+      "sentence_start_top10": [
+        [
+          "the",
+          78
+        ],
+        [
+          "lan",
+          23
+        ],
+        [
+          "it",
+          23
+        ],
+        [
+          "he",
+          21
+        ],
+        [
+          "qian",
+          20
+        ],
+        [
+          "that",
+          17
+        ],
+        [
+          "a",
+          16
+        ],
+        [
+          "liu",
+          16
+        ],
+        [
+          "not",
+          15
+        ],
+        [
+          "they",
+          14
+        ]
+      ]
+    },
+    {
+      "chapter": 29,
+      "title": "Chapter 29: The Defeat He Chose",
+      "words": 4315,
+      "sentences": 488,
+      "paragraphs": 340,
+      "avg_sentence_words": 8.84,
+      "median_sentence_words": 7.0,
+      "avg_paragraph_words": 12.69,
+      "dialogue_words": 621,
+      "dialogue_ratio": 0.144,
+      "questions": 18,
+      "exclamations": 2,
+      "em_dashes": 1,
+      "ellipses": 3,
+      "semicolons": 1,
+      "colon": 10,
+      "one_sentence_paragraphs": 246,
+      "short_paragraphs_15_or_less": 266,
+      "sentence_start_top10": [
+        [
+          "the",
+          48
+        ],
+        [
+          "lan",
+          28
+        ],
+        [
+          "it",
+          24
+        ],
+        [
+          "a",
+          20
+        ],
+        [
+          "he",
+          18
+        ],
+        [
+          "that",
+          17
+        ],
+        [
+          "liang",
+          17
+        ],
+        [
+          "qian",
+          15
+        ],
+        [
+          "they",
+          14
+        ],
+        [
+          "if",
+          14
+        ]
+      ]
+    },
+    {
+      "chapter": 30,
+      "title": "Chapter 30: The Color Pressure Found",
+      "words": 6976,
+      "sentences": 839,
+      "paragraphs": 600,
+      "avg_sentence_words": 8.31,
+      "median_sentence_words": 6,
+      "avg_paragraph_words": 11.63,
+      "dialogue_words": 1619,
+      "dialogue_ratio": 0.232,
+      "questions": 49,
+      "exclamations": 6,
+      "em_dashes": 3,
+      "ellipses": 2,
+      "semicolons": 3,
+      "colon": 12,
+      "one_sentence_paragraphs": 455,
+      "short_paragraphs_15_or_less": 477,
+      "sentence_start_top10": [
+        [
+          "the",
+          63
+        ],
+        [
+          "that",
+          44
+        ],
+        [
+          "he",
+          40
+        ],
+        [
+          "yan",
+          35
+        ],
+        [
+          "it",
+          28
+        ],
+        [
+          "lan",
+          25
+        ],
+        [
+          "dorm",
+          24
+        ],
+        [
+          "then",
+          22
+        ],
+        [
+          "they",
+          21
+        ],
+        [
+          "no",
+          21
+        ]
+      ]
+    },
+    {
+      "chapter": 31,
+      "title": "Chapter 31: The Match the Board Owed",
+      "words": 5297,
+      "sentences": 622,
+      "paragraphs": 418,
+      "avg_sentence_words": 8.52,
+      "median_sentence_words": 7.0,
+      "avg_paragraph_words": 12.67,
+      "dialogue_words": 1068,
+      "dialogue_ratio": 0.202,
+      "questions": 14,
+      "exclamations": 3,
+      "em_dashes": 0,
+      "ellipses": 0,
+      "semicolons": 2,
+      "colon": 6,
+      "one_sentence_paragraphs": 312,
+      "short_paragraphs_15_or_less": 329,
+      "sentence_start_top10": [
+        [
+          "the",
+          50
+        ],
+        [
+          "it",
+          38
+        ],
+        [
+          "yan",
+          35
+        ],
+        [
+          "lan",
+          28
+        ],
+        [
+          "that",
+          28
+        ],
+        [
+          "not",
+          26
+        ],
+        [
+          "a",
+          23
+        ],
+        [
+          "dorm",
+          20
+        ],
+        [
+          "he",
+          20
+        ],
+        [
+          "qian",
+          19
+        ]
+      ]
+    },
+    {
+      "chapter": 32,
+      "title": "Chapter 32: The Years That Learned to Wait",
+      "words": 4534,
+      "sentences": 469,
+      "paragraphs": 340,
+      "avg_sentence_words": 9.67,
+      "median_sentence_words": 7,
+      "avg_paragraph_words": 13.34,
+      "dialogue_words": 540,
+      "dialogue_ratio": 0.119,
+      "questions": 16,
+      "exclamations": 0,
+      "em_dashes": 0,
+      "ellipses": 0,
+      "semicolons": 1,
+      "colon": 8,
+      "one_sentence_paragraphs": 265,
+      "short_paragraphs_15_or_less": 263,
+      "sentence_start_top10": [
+        [
+          "the",
+          49
+        ],
+        [
+          "yan",
+          47
+        ],
+        [
+          "it",
+          28
+        ],
+        [
+          "lan",
+          16
+        ],
+        [
+          "he",
+          14
+        ],
+        [
+          "that",
+          12
+        ],
+        [
+          "not",
+          11
+        ],
+        [
+          "lin",
+          11
+        ],
+        [
+          "no",
+          11
+        ],
+        [
+          "dorm",
+          10
+        ]
+      ]
+    },
+    {
+      "chapter": 33,
+      "title": "Chapter 33: The Door That Became a Cocoon",
+      "words": 4781,
+      "sentences": 539,
+      "paragraphs": 405,
+      "avg_sentence_words": 8.87,
+      "median_sentence_words": 7,
+      "avg_paragraph_words": 11.8,
+      "dialogue_words": 904,
+      "dialogue_ratio": 0.189,
+      "questions": 20,
+      "exclamations": 0,
+      "em_dashes": 0,
+      "ellipses": 0,
+      "semicolons": 1,
+      "colon": 6,
+      "one_sentence_paragraphs": 320,
+      "short_paragraphs_15_or_less": 330,
+      "sentence_start_top10": [
+        [
+          "the",
+          58
+        ],
+        [
+          "yan",
+          43
+        ],
+        [
+          "it",
+          27
+        ],
+        [
+          "no",
+          22
+        ],
+        [
+          "he",
+          20
+        ],
+        [
+          "not",
+          19
+        ],
+        [
+          "that",
+          17
+        ],
+        [
+          "a",
+          16
+        ],
+        [
+          "then",
+          14
+        ],
+        [
+          "for",
+          12
+        ]
+      ]
+    },
+    {
+      "chapter": 34,
+      "title": "Chapter 34: The Twenty-First Pulse",
+      "words": 5587,
+      "sentences": 698,
+      "paragraphs": 548,
+      "avg_sentence_words": 8.0,
+      "median_sentence_words": 6.0,
+      "avg_paragraph_words": 10.2,
+      "dialogue_words": 850,
+      "dialogue_ratio": 0.152,
+      "questions": 22,
+      "exclamations": 0,
+      "em_dashes": 0,
+      "ellipses": 0,
+      "semicolons": 1,
+      "colon": 12,
+      "one_sentence_paragraphs": 432,
+      "short_paragraphs_15_or_less": 465,
+      "sentence_start_top10": [
+        [
+          "the",
+          76
+        ],
+        [
+          "it",
+          39
+        ],
+        [
+          "yan",
+          36
+        ],
+        [
+          "not",
+          31
+        ],
+        [
+          "he",
+          24
+        ],
+        [
+          "luo",
+          21
+        ],
+        [
+          "a",
+          20
+        ],
+        [
+          "gao",
+          20
+        ],
+        [
+          "song",
+          19
+        ],
+        [
+          "they",
+          17
+        ]
+      ]
+    },
+    {
+      "chapter": 35,
+      "title": "Chapter 35: The Fire That Remembered Its Name",
+      "words": 5236,
+      "sentences": 610,
+      "paragraphs": 486,
+      "avg_sentence_words": 8.58,
+      "median_sentence_words": 6.0,
+      "avg_paragraph_words": 10.77,
+      "dialogue_words": 711,
+      "dialogue_ratio": 0.136,
+      "questions": 18,
+      "exclamations": 3,
+      "em_dashes": 1,
+      "ellipses": 2,
+      "semicolons": 0,
+      "colon": 16,
+      "one_sentence_paragraphs": 386,
+      "short_paragraphs_15_or_less": 401,
+      "sentence_start_top10": [
+        [
+          "the",
+          70
+        ],
+        [
+          "yan",
+          47
+        ],
+        [
+          "not",
+          37
+        ],
+        [
+          "it",
+          36
+        ],
+        [
+          "gao",
+          22
+        ],
+        [
+          "a",
+          14
+        ],
+        [
+          "they",
+          13
+        ],
+        [
+          "then",
+          13
+        ],
+        [
+          "you",
+          12
+        ],
+        [
+          "lin",
+          12
+        ]
+      ]
+    },
+    {
+      "chapter": 36,
+      "title": "Chapter 36: The Year Between Wings and Stars",
+      "words": 5772,
+      "sentences": 656,
+      "paragraphs": 498,
+      "avg_sentence_words": 8.8,
+      "median_sentence_words": 7.0,
+      "avg_paragraph_words": 11.59,
+      "dialogue_words": 1064,
+      "dialogue_ratio": 0.184,
+      "questions": 28,
+      "exclamations": 2,
+      "em_dashes": 2,
+      "ellipses": 0,
+      "semicolons": 0,
+      "colon": 17,
+      "one_sentence_paragraphs": 376,
+      "short_paragraphs_15_or_less": 394,
+      "sentence_start_top10": [
+        [
+          "the",
+          65
+        ],
+        [
+          "yan",
+          45
+        ],
+        [
+          "he",
+          39
+        ],
+        [
+          "lan",
+          34
+        ],
+        [
+          "i",
+          24
+        ],
+        [
+          "no",
+          22
+        ],
+        [
+          "not",
+          19
+        ],
+        [
+          "then",
+          18
+        ],
+        [
+          "that",
+          17
+        ],
+        [
+          "it",
+          16
+        ]
+      ]
+    },
+    {
+      "chapter": 37,
+      "title": "Chapter 37: The Dragon Outside the Window",
+      "words": 6102,
+      "sentences": 680,
+      "paragraphs": 539,
+      "avg_sentence_words": 8.97,
+      "median_sentence_words": 7.0,
+      "avg_paragraph_words": 11.32,
+      "dialogue_words": 631,
+      "dialogue_ratio": 0.103,
+      "questions": 30,
+      "exclamations": 1,
+      "em_dashes": 10,
+      "ellipses": 2,
+      "semicolons": 0,
+      "colon": 13,
+      "one_sentence_paragraphs": 423,
+      "short_paragraphs_15_or_less": 429,
+      "sentence_start_top10": [
+        [
+          "the",
+          99
+        ],
+        [
+          "he",
+          43
+        ],
+        [
+          "lan",
+          38
+        ],
+        [
+          "a",
+          29
+        ],
+        [
+          "it",
+          25
+        ],
+        [
+          "his",
+          18
+        ],
+        [
+          "then",
+          17
+        ],
+        [
+          "tang",
+          17
+        ],
+        [
+          "that",
+          15
+        ],
+        [
+          "yan",
+          15
+        ]
+      ]
+    },
+    {
+      "chapter": 38,
+      "title": "Chapter 38: Names Borrowed by Children",
+      "words": 6624,
+      "sentences": 762,
+      "paragraphs": 515,
+      "avg_sentence_words": 8.69,
+      "median_sentence_words": 7.0,
+      "avg_paragraph_words": 12.86,
+      "dialogue_words": 1618,
+      "dialogue_ratio": 0.244,
+      "questions": 53,
+      "exclamations": 21,
+      "em_dashes": 8,
+      "ellipses": 2,
+      "semicolons": 4,
+      "colon": 15,
+      "one_sentence_paragraphs": 372,
+      "short_paragraphs_15_or_less": 381,
+      "sentence_start_top10": [
+        [
+          "lan",
+          70
+        ],
+        [
+          "the",
+          56
+        ],
+        [
+          "he",
+          41
+        ],
+        [
+          "dong",
+          29
+        ],
+        [
+          "nana",
+          25
+        ],
+        [
+          "it",
+          21
+        ],
+        [
+          "i",
+          20
+        ],
+        [
+          "then",
+          18
+        ],
+        [
+          "she",
+          18
+        ],
+        [
+          "her",
+          17
+        ]
+      ]
+    },
+    {
+      "chapter": 39,
+      "title": "Chapter 39: A Vortex Learns to Hold",
+      "words": 8385,
+      "sentences": 1011,
+      "paragraphs": 656,
+      "avg_sentence_words": 8.29,
+      "median_sentence_words": 7,
+      "avg_paragraph_words": 12.78,
+      "dialogue_words": 2504,
+      "dialogue_ratio": 0.299,
+      "questions": 77,
+      "exclamations": 5,
+      "em_dashes": 2,
+      "ellipses": 10,
+      "semicolons": 4,
+      "colon": 5,
+      "one_sentence_paragraphs": 483,
+      "short_paragraphs_15_or_less": 510,
+      "sentence_start_top10": [
+        [
+          "the",
+          95
+        ],
+        [
+          "lan",
+          65
+        ],
+        [
+          "he",
+          65
+        ],
+        [
+          "i",
+          36
+        ],
+        [
+          "a",
+          33
+        ],
+        [
+          "it",
+          30
+        ],
+        [
+          "then",
+          27
+        ],
+        [
+          "nana",
+          24
+        ],
+        [
+          "if",
+          21
+        ],
+        [
+          "not",
+          21
+        ]
+      ]
+    },
+    {
+      "chapter": 40,
+      "title": "Chapter 40: The Scan Before the Roar",
+      "words": 6191,
+      "sentences": 687,
+      "paragraphs": 412,
+      "avg_sentence_words": 9.01,
+      "median_sentence_words": 7,
+      "avg_paragraph_words": 15.03,
+      "dialogue_words": 1555,
+      "dialogue_ratio": 0.251,
+      "questions": 21,
+      "exclamations": 6,
+      "em_dashes": 1,
+      "ellipses": 1,
+      "semicolons": 4,
+      "colon": 27,
+      "one_sentence_paragraphs": 267,
+      "short_paragraphs_15_or_less": 306,
+      "sentence_start_top10": [
+        [
+          "the",
+          77
+        ],
+        [
+          "lan",
+          39
+        ],
+        [
+          "he",
+          36
+        ],
+        [
+          "it",
+          24
+        ],
+        [
+          "his",
+          18
+        ],
+        [
+          "i",
+          18
+        ],
+        [
+          "ji",
+          18
+        ],
+        [
+          "yan",
+          17
+        ],
+        [
+          "that",
+          16
+        ],
+        [
+          "qian",
+          15
+        ]
+      ]
+    },
+    {
+      "chapter": 41,
+      "title": "Chapter 41: No Loopholes in the Sky",
+      "words": 6005,
+      "sentences": 683,
+      "paragraphs": 447,
+      "avg_sentence_words": 8.79,
+      "median_sentence_words": 7,
+      "avg_paragraph_words": 13.43,
+      "dialogue_words": 603,
+      "dialogue_ratio": 0.1,
+      "questions": 21,
+      "exclamations": 45,
+      "em_dashes": 2,
+      "ellipses": 1,
+      "semicolons": 1,
+      "colon": 5,
+      "one_sentence_paragraphs": 317,
+      "short_paragraphs_15_or_less": 344,
+      "sentence_start_top10": [
+        [
+          "the",
+          90
+        ],
+        [
+          "lan",
+          36
+        ],
+        [
+          "it",
+          32
+        ],
+        [
+          "he",
+          30
+        ],
+        [
+          "liu",
+          26
+        ],
+        [
+          "qian",
+          20
+        ],
+        [
+          "then",
+          19
+        ],
+        [
+          "a",
+          17
+        ],
+        [
+          "they",
+          16
+        ],
+        [
+          "lan's",
+          11
+        ]
+      ]
+    },
+    {
+      "chapter": 42,
+      "title": "Chapter 42: The Pool That Lied",
+      "words": 4375,
+      "sentences": 519,
+      "paragraphs": 355,
+      "avg_sentence_words": 8.43,
+      "median_sentence_words": 7,
+      "avg_paragraph_words": 12.32,
+      "dialogue_words": 344,
+      "dialogue_ratio": 0.079,
+      "questions": 6,
+      "exclamations": 15,
+      "em_dashes": 1,
+      "ellipses": 1,
+      "semicolons": 0,
+      "colon": 1,
+      "one_sentence_paragraphs": 258,
+      "short_paragraphs_15_or_less": 283,
+      "sentence_start_top10": [
+        [
+          "the",
+          72
+        ],
+        [
+          "it",
+          34
+        ],
+        [
+          "lan",
+          24
+        ],
+        [
+          "qian",
+          20
+        ],
+        [
+          "he",
+          19
+        ],
+        [
+          "yan",
+          19
+        ],
+        [
+          "a",
+          17
+        ],
+        [
+          "they",
+          15
+        ],
+        [
+          "liu",
+          12
+        ],
+        [
+          "not",
+          10
+        ]
+      ]
+    },
+    {
+      "chapter": 43,
+      "title": "Chapter 43: Thirty Seconds of Green",
+      "words": 6778,
+      "sentences": 739,
+      "paragraphs": 524,
+      "avg_sentence_words": 9.17,
+      "median_sentence_words": 7,
+      "avg_paragraph_words": 12.94,
+      "dialogue_words": 975,
+      "dialogue_ratio": 0.144,
+      "questions": 29,
+      "exclamations": 13,
+      "em_dashes": 1,
+      "ellipses": 1,
+      "semicolons": 2,
+      "colon": 1,
+      "one_sentence_paragraphs": 392,
+      "short_paragraphs_15_or_less": 400,
+      "sentence_start_top10": [
+        [
+          "the",
+          102
+        ],
+        [
+          "qian",
+          50
+        ],
+        [
+          "it",
+          48
+        ],
+        [
+          "lan",
+          40
+        ],
+        [
+          "a",
+          32
+        ],
+        [
+          "liu",
+          29
+        ],
+        [
+          "he",
+          26
+        ],
+        [
+          "not",
+          21
+        ],
+        [
+          "then",
+          19
+        ],
+        [
+          "yan",
+          19
+        ]
+      ]
+    },
+    {
+      "chapter": 44,
+      "title": "Chapter 44: The Door That Chose Three",
+      "words": 6646,
+      "sentences": 823,
+      "paragraphs": 612,
+      "avg_sentence_words": 8.08,
+      "median_sentence_words": 6,
+      "avg_paragraph_words": 10.86,
+      "dialogue_words": 2219,
+      "dialogue_ratio": 0.334,
+      "questions": 62,
+      "exclamations": 18,
+      "em_dashes": 5,
+      "ellipses": 4,
+      "semicolons": 3,
+      "colon": 3,
+      "one_sentence_paragraphs": 491,
+      "short_paragraphs_15_or_less": 509,
+      "sentence_start_top10": [
+        [
+          "the",
+          57
+        ],
+        [
+          "lan",
+          48
+        ],
+        [
+          "he",
+          44
+        ],
+        [
+          "qian",
+          43
+        ],
+        [
+          "liu",
+          34
+        ],
+        [
+          "if",
+          28
+        ],
+        [
+          "it",
+          27
+        ],
+        [
+          "yan",
+          26
+        ],
+        [
+          "i",
+          24
+        ],
+        [
+          "that",
+          23
+        ]
+      ]
+    },
+    {
+      "chapter": 45,
+      "title": "Chapter 45 \u2014 Thanks, and the Score Not Yet Shown",
+      "words": 6494,
+      "sentences": 751,
+      "paragraphs": 526,
+      "avg_sentence_words": 8.65,
+      "median_sentence_words": 7,
+      "avg_paragraph_words": 12.35,
+      "dialogue_words": 1482,
+      "dialogue_ratio": 0.228,
+      "questions": 30,
+      "exclamations": 4,
+      "em_dashes": 0,
+      "ellipses": 1,
+      "semicolons": 3,
+      "colon": 11,
+      "one_sentence_paragraphs": 394,
+      "short_paragraphs_15_or_less": 418,
+      "sentence_start_top10": [
+        [
+          "the",
+          64
+        ],
+        [
+          "lan",
+          54
+        ],
+        [
+          "qian",
+          42
+        ],
+        [
+          "he",
+          37
+        ],
+        [
+          "it",
+          34
+        ],
+        [
+          "liu",
+          31
+        ],
+        [
+          "that",
+          26
+        ],
+        [
+          "lu",
+          23
+        ],
+        [
+          "but",
+          22
+        ],
+        [
+          "yan",
+          18
+        ]
+      ]
+    },
+    {
+      "chapter": 46,
+      "title": "Chapter 46 \u2014 The Sea Opens Before the Crown",
+      "words": 5356,
+      "sentences": 681,
+      "paragraphs": 535,
+      "avg_sentence_words": 7.86,
+      "median_sentence_words": 6,
+      "avg_paragraph_words": 10.01,
+      "dialogue_words": 1414,
+      "dialogue_ratio": 0.264,
+      "questions": 34,
+      "exclamations": 6,
+      "em_dashes": 3,
+      "ellipses": 3,
+      "semicolons": 1,
+      "colon": 10,
+      "one_sentence_paragraphs": 399,
+      "short_paragraphs_15_or_less": 443,
+      "sentence_start_top10": [
+        [
+          "the",
+          50
+        ],
+        [
+          "qian",
+          40
+        ],
+        [
+          "mu",
+          36
+        ],
+        [
+          "he",
+          34
+        ],
+        [
+          "yan",
+          30
+        ],
+        [
+          "ji",
+          26
+        ],
+        [
+          "his",
+          24
+        ],
+        [
+          "liu",
+          22
+        ],
+        [
+          "it",
+          19
+        ],
+        [
+          "no",
+          18
+        ]
+      ]
+    },
+    {
+      "chapter": 47,
+      "title": "Chapter 47 \u2014 Five Hundred and Five",
+      "words": 2505,
+      "sentences": 326,
+      "paragraphs": 194,
+      "avg_sentence_words": 7.68,
+      "median_sentence_words": 6.0,
+      "avg_paragraph_words": 12.91,
+      "dialogue_words": 972,
+      "dialogue_ratio": 0.388,
+      "questions": 17,
+      "exclamations": 3,
+      "em_dashes": 6,
+      "ellipses": 2,
+      "semicolons": 1,
+      "colon": 4,
+      "one_sentence_paragraphs": 116,
+      "short_paragraphs_15_or_less": 152,
+      "sentence_start_top10": [
+        [
+          "qian",
+          22
+        ],
+        [
+          "the",
+          21
+        ],
+        [
+          "lan",
+          16
+        ],
+        [
+          "he",
+          14
+        ],
+        [
+          "yin",
+          13
+        ],
+        [
+          "i",
+          12
+        ],
+        [
+          "ji",
+          11
+        ],
+        [
+          "liu",
+          10
+        ],
+        [
+          "yan",
+          9
+        ],
+        [
+          "it",
+          8
+        ]
+      ]
+    },
+    {
+      "chapter": 48,
+      "title": "Chapter 48 \u2014 The Line in the Stars",
+      "words": 1745,
+      "sentences": 231,
+      "paragraphs": 116,
+      "avg_sentence_words": 7.55,
+      "median_sentence_words": 6,
+      "avg_paragraph_words": 15.04,
+      "dialogue_words": 1054,
+      "dialogue_ratio": 0.604,
+      "questions": 13,
+      "exclamations": 0,
+      "em_dashes": 1,
+      "ellipses": 0,
+      "semicolons": 0,
+      "colon": 4,
+      "one_sentence_paragraphs": 71,
+      "short_paragraphs_15_or_less": 80,
+      "sentence_start_top10": [
+        [
+          "i",
+          23
+        ],
+        [
+          "lan",
+          17
+        ],
+        [
+          "they",
+          12
+        ],
+        [
+          "the",
+          11
+        ],
+        [
+          "then",
+          10
+        ],
+        [
+          "yin",
+          7
+        ],
+        [
+          "but",
+          7
+        ],
+        [
+          "yin's",
+          7
+        ],
+        [
+          "he",
+          6
+        ],
+        [
+          "qian",
+          6
+        ]
+      ]
+    },
+    {
+      "chapter": 49,
+      "title": "Chapter 49 \u2014 No Pattern Underfoot",
+      "words": 2222,
+      "sentences": 242,
+      "paragraphs": 149,
+      "avg_sentence_words": 9.18,
+      "median_sentence_words": 7.0,
+      "avg_paragraph_words": 14.91,
+      "dialogue_words": 493,
+      "dialogue_ratio": 0.222,
+      "questions": 5,
+      "exclamations": 0,
+      "em_dashes": 3,
+      "ellipses": 0,
+      "semicolons": 6,
+      "colon": 7,
+      "one_sentence_paragraphs": 108,
+      "short_paragraphs_15_or_less": 111,
+      "sentence_start_top10": [
+        [
+          "the",
+          18
+        ],
+        [
+          "lan",
+          14
+        ],
+        [
+          "it",
+          13
+        ],
+        [
+          "qian",
+          13
+        ],
+        [
+          "liu",
+          12
+        ],
+        [
+          "he",
+          9
+        ],
+        [
+          "i",
+          8
+        ],
+        [
+          "a",
+          7
+        ],
+        [
+          "no",
+          7
+        ],
+        [
+          "ji",
+          6
+        ]
+      ]
+    },
+    {
+      "chapter": 50,
+      "title": "Chapter 50 \u2014 The Forest Counts Separately",
+      "words": 2019,
+      "sentences": 230,
+      "paragraphs": 130,
+      "avg_sentence_words": 8.78,
+      "median_sentence_words": 7.0,
+      "avg_paragraph_words": 15.53,
+      "dialogue_words": 569,
+      "dialogue_ratio": 0.282,
+      "questions": 6,
+      "exclamations": 1,
+      "em_dashes": 4,
+      "ellipses": 0,
+      "semicolons": 2,
+      "colon": 7,
+      "one_sentence_paragraphs": 84,
+      "short_paragraphs_15_or_less": 92,
+      "sentence_start_top10": [
+        [
+          "the",
+          19
+        ],
+        [
+          "qian",
+          14
+        ],
+        [
+          "lan",
+          14
+        ],
+        [
+          "it",
+          10
+        ],
+        [
+          "if",
+          9
+        ],
+        [
+          "a",
+          9
+        ],
+        [
+          "they",
+          8
+        ],
+        [
+          "liu",
+          8
+        ],
+        [
+          "no",
+          5
+        ],
+        [
+          "but",
+          5
+        ]
+      ]
+    },
+    {
+      "chapter": 51,
+      "title": "Chapter 51 \u2014 The Cost of Quiet",
+      "words": 1945,
+      "sentences": 235,
+      "paragraphs": 124,
+      "avg_sentence_words": 8.28,
+      "median_sentence_words": 6,
+      "avg_paragraph_words": 15.69,
+      "dialogue_words": 776,
+      "dialogue_ratio": 0.399,
+      "questions": 12,
+      "exclamations": 1,
+      "em_dashes": 0,
+      "ellipses": 4,
+      "semicolons": 1,
+      "colon": 6,
+      "one_sentence_paragraphs": 80,
+      "short_paragraphs_15_or_less": 90,
+      "sentence_start_top10": [
+        [
+          "qian",
+          21
+        ],
+        [
+          "lan",
+          15
+        ],
+        [
+          "the",
+          14
+        ],
+        [
+          "liu",
+          12
+        ],
+        [
+          "i",
+          10
+        ],
+        [
+          "if",
+          8
+        ],
+        [
+          "then",
+          7
+        ],
+        [
+          "you",
+          7
+        ],
+        [
+          "they",
+          7
+        ],
+        [
+          "we",
+          7
+        ]
+      ]
+    },
+    {
+      "chapter": 52,
+      "title": "Chapter 52 \u2014 Amiable Beasts",
+      "words": 2491,
+      "sentences": 182,
+      "paragraphs": 88,
+      "avg_sentence_words": 13.69,
+      "median_sentence_words": 9.0,
+      "avg_paragraph_words": 28.31,
+      "dialogue_words": 667,
+      "dialogue_ratio": 0.268,
+      "questions": 3,
+      "exclamations": 0,
+      "em_dashes": 16,
+      "ellipses": 0,
+      "semicolons": 3,
+      "colon": 6,
+      "one_sentence_paragraphs": 47,
+      "short_paragraphs_15_or_less": 40,
+      "sentence_start_top10": [
+        [
+          "the",
+          20
+        ],
+        [
+          "it",
+          10
+        ],
+        [
+          "he",
+          10
+        ],
+        [
+          "qian",
+          8
+        ],
+        [
+          "not",
+          8
+        ],
+        [
+          "and",
+          8
+        ],
+        [
+          "both",
+          6
+        ],
+        [
+          "they're",
+          6
+        ],
+        [
+          "it's",
+          6
+        ],
+        [
+          "that's",
+          5
+        ]
+      ]
+    }
+  ]
+}

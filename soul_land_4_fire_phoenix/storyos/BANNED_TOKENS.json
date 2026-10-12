@@ -1,0 +1,81 @@
+{
+  "note": "regression tokens — grep chapters for these; any hit is a drift bug",
+  "generated": "2026-09-21",
+  "banned_tokens": {
+    "authorative_regexes": [
+      "Silver Edge",
+      "Gold Silk Ape",
+      "Palm Tree Bear",
+      "Purple Zoysia"
+    ],
+    "authoritative_future_bans": [
+      "Dragon Queen",
+      "Martial Soul True Body",
+      "Phoenix Domain",
+      "Phoenix God",
+      "Rainbow Dragon",
+      "Yan Emerald Demon Bird",
+      "Yan Shuo",
+      "Arm Bone",
+      "Gold Silk Ape",
+      "Liu Feng",
+      "Qian Lei",
+      "Silver Moon Wolf Right",
+      "White Dragon Spear"
+    ],
+    "authoritative_literals": [
+      "Dragon Queen",
+      "Emerald Demon Bird",
+      "Fire Phoenix",
+      "Martial Soul True Body",
+      "Phoenix Domain",
+      "Phoenix God",
+      "Purple Zoysia",
+      "Rainbow Dragon",
+      "SP526",
+      "Yan Emerald Demon Bird",
+      "Yan Shuo"
+    ],
+    "deleted_mistake_route": [
+      "Lan Platform",
+      "Lucky Wheel",
+      "Silver Edge",
+      "Spirit Ascension Platform"
+    ],
+    "forbidden_currentization": [
+      "Dragon Queen",
+      "Emerald Demon Bird",
+      "Rainbow Dragon",
+      "Rainbow Dragon martial soul/rings/skills",
+      "Yan Shuo",
+      "Yan current fourth ring",
+      "public Yan Shuo'er reveal"
+    ],
+    "forbidden_future_power": [
+      "Black Phoenix",
+      "Emerald Demon Bird",
+      "Eyed Colorful Feather Clan",
+      "Glacial Halcyon King",
+      "Golden Blue Demon Bird",
+      "Martial Soul True Body",
+      "Nirvana / true resurrection skill",
+      "Phoenix Domain",
+      "Phoenix God",
+      "Phoenix God authority",
+      "Ultimate Fire",
+      "Ultimate Spiritual",
+      "Ultimate Spiritual attribute",
+      "completed battle armor",
+      "invincible defense",
+      "perfect Ultimate Fire mastery",
+      "perfect combat flight mastery"
+    ],
+    "stale_stat_drift": [
+      "Dawn-Iron 2,040",
+      "Dawn-Iron 2,480",
+      "Dawnflame 1,120",
+      "Dawnflame 960",
+      "SP526"
+    ]
+  }
+}

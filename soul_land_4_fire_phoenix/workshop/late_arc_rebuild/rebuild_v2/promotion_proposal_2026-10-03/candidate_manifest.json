@@ -1,0 +1,166 @@
+{
+  "schema": "fire-phoenix-v2-promotion-proposal/1",
+  "generated": "2026-10-03",
+  "status": "STAGING_OPTION_A_PREPARED_NOT_APPLIED",
+  "non_applying": true,
+  "public_baseline": {
+    "edge": 52,
+    "title": "Amiable Beasts",
+    "path": "sources/storyos_current_public_layer/published-site/soul_land_4/",
+    "recovery_summary": "provenance/PUBLIC_RECOVERY_SUMMARY.txt",
+    "files_to_archive_if_approved": [
+      {
+        "public_file": "sources/storyos_current_public_layer/published-site/soul_land_4/chapters/Chapter_48.md",
+        "number": 48,
+        "heading": "Chapter 48 — The Line in the Stars",
+        "body_words": 1747,
+        "sha256": "1da7cc509f1520e36febaec6cf1b9e46d36d492f6256789609099a568004033f"
+      },
+      {
+        "public_file": "sources/storyos_current_public_layer/published-site/soul_land_4/chapters/Chapter_49.md",
+        "number": 49,
+        "heading": "Chapter 49 — No Pattern Underfoot",
+        "body_words": 2207,
+        "sha256": "afcb3e46fe961a628a900e044199588b34d42b9cdc4341d77fa959a1cf5d9e0e"
+      },
+      {
+        "public_file": "sources/storyos_current_public_layer/published-site/soul_land_4/chapters/Chapter_50.md",
+        "number": 50,
+        "heading": "Chapter 50 — The Forest Counts Separately",
+        "body_words": 1995,
+        "sha256": "799e0b4d60a397b9e2ab2123798fa4cfde797dc318c75061b526ddbcbf8b88e6"
+      },
+      {
+        "public_file": "sources/storyos_current_public_layer/published-site/soul_land_4/chapters/Chapter_51.md",
+        "number": 51,
+        "heading": "Chapter 51 — The Cost of Quiet",
+        "body_words": 1946,
+        "sha256": "9a91b4a92330de9b41b2f00b18fecfcbcf2fe81595db668867929c8bf4ce111d"
+      },
+      {
+        "public_file": "sources/storyos_current_public_layer/published-site/soul_land_4/chapters/Chapter_52.md",
+        "number": 52,
+        "heading": "Chapter 52 — Amiable Beasts",
+        "body_words": 749,
+        "sha256": "6a11561668626e389005597b50d620064e51424dc5b94a861b70029c781a901d"
+      }
+    ]
+  },
+  "v2_review_source": {
+    "map": "late_arc_rebuild/rebuild_v2/README_REBUILD_MAP.md",
+    "claim_audit": "late_arc_rebuild/rebuild_v2/V2_CLAIM_AND_CAUSAL_AUDIT_2026-10-01.md",
+    "line_pass": "late_arc_rebuild/rebuild_v2/LINE_AND_CONTINUITY_PASS_2026-10-03.md",
+    "units": [
+      {
+        "internal_v2_file": "late_arc_rebuild/rebuild_v2/drafts/Chapter_48_The_Line_We_Keep.md",
+        "internal_number": 48,
+        "heading": "Chapter 48 — The Line We Keep",
+        "body_words": 2405,
+        "sha256": "daa63d8bce8cc5d4452987b10a305a2bd5a32309697fd8838a478f4794ca52e4"
+      },
+      {
+        "internal_v2_file": "late_arc_rebuild/rebuild_v2/drafts/Chapter_49_What_They_Carry.md",
+        "internal_number": 49,
+        "heading": "Chapter 49 — What They Carry",
+        "body_words": 1924,
+        "sha256": "b06fda634b51a637f484eebfa636a804d1b937f55a3bdb4b95518ce7b7111ab5"
+      },
+      {
+        "internal_v2_file": "late_arc_rebuild/rebuild_v2/drafts/Chapter_50_Two_Maps_of_the_Forest.md",
+        "internal_number": 50,
+        "heading": "Chapter 50 — Two Maps of the Forest",
+        "body_words": 1816,
+        "sha256": "24401aa7e74af25f38a25c1ea59c5a8d06f3feaf9d2be0d16aa994a6a61ddd45"
+      },
+      {
+        "internal_v2_file": "late_arc_rebuild/rebuild_v2/drafts/Chapter_51_The_Cost_of_Quiet.md",
+        "internal_number": 51,
+        "heading": "Chapter 51 — The Cost of Quiet",
+        "body_words": 1730,
+        "sha256": "2c0572960e2eb667d6d053e2f812eee4f6279c10f88e538281bfc6e160825882"
+      },
+      {
+        "internal_v2_file": "late_arc_rebuild/rebuild_v2/drafts/Chapter_52_What_the_Ground_Keeps.md",
+        "internal_number": 52,
+        "heading": "Chapter 52 — What the Ground Keeps",
+        "body_words": 1770,
+        "sha256": "9e49cbced7e58426265a48981ca975a9100a6eebfd5d77cfe36c5bfa2409bab8"
+      },
+      {
+        "internal_v2_file": "late_arc_rebuild/rebuild_v2/drafts/Chapter_54_What_a_Favor_Costs.md",
+        "internal_number": 54,
+        "heading": "Chapter 54 — What a Favor Costs",
+        "body_words": 1742,
+        "sha256": "eebb8a6afc86bbd1990767172e200514930818457561dda47846465743777960"
+      },
+      {
+        "internal_v2_file": "late_arc_rebuild/rebuild_v2/drafts/Chapter_55_What_We_Leave_Open.md",
+        "internal_number": 55,
+        "heading": "Chapter 55 — What We Leave Open",
+        "body_words": 1592,
+        "sha256": "8344dc468d3b7c8ac0a0475876b16eddccef1c39e257b69068a2ada10089843e"
+      },
+      {
+        "internal_v2_file": "late_arc_rebuild/rebuild_v2/drafts/Chapter_60_The_Price_of_Keeping.md",
+        "internal_number": 60,
+        "heading": "Chapter 60 — The Price of Keeping",
+        "body_words": 1895,
+        "sha256": "af6bd2b17eabe019ca96e371f3cc47d7f689b5c34f86932f2c5cd430c89dfc22"
+      }
+    ]
+  },
+  "required_author_decision": "Choose a reader-facing public numbering strategy before any candidate staging file is generated.",
+  "recommended_option": "A_CONTIGUOUS_PUBLIC_RENUMBERING",
+  "options": {
+    "A_CONTIGUOUS_PUBLIC_RENUMBERING": {
+      "description": "Publish V2 units as public C48 through C55; preserve internal V2 labels in metadata.",
+      "mapping": [
+        {
+          "public_number": 48,
+          "internal_v2_number": 48
+        },
+        {
+          "public_number": 49,
+          "internal_v2_number": 49
+        },
+        {
+          "public_number": 50,
+          "internal_v2_number": 50
+        },
+        {
+          "public_number": 51,
+          "internal_v2_number": 51
+        },
+        {
+          "public_number": 52,
+          "internal_v2_number": 52
+        },
+        {
+          "public_number": 53,
+          "internal_v2_number": 54
+        },
+        {
+          "public_number": 54,
+          "internal_v2_number": 55
+        },
+        {
+          "public_number": 55,
+          "internal_v2_number": 60
+        }
+      ]
+    },
+    "B_RANGE_LABELS": {
+      "description": "Use nonstandard range labels such as 52–53 and 56–60; requires a new public filename/state model."
+    },
+    "C_NO_PROMOTION": {
+      "description": "Retain V2 as author-review only."
+    },
+    "D_AUTHOR_DEFINED": {
+      "description": "A different explicit mapping that preserves consolidation and no-C61."
+    }
+  },
+  "hard_boundary": "No C61 is authorized or staged.",
+  "author_selected_option": "A_CONTIGUOUS_PUBLIC_RENUMBERING",
+  "staging_path": "late_arc_rebuild/rebuild_v2/promotion_proposal_2026-10-03/staging_option_A_contiguous_public_C48_C55",
+  "apply_authorization": "NOT_GRANTED"
+}
