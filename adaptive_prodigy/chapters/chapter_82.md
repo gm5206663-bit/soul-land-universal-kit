@@ -68,7 +68,7 @@ The old lady returned to her seat. "Next."
 
 The wall let him go in a tumble of debris. *"Captain!" "Wulin!"* — the class arrived as one body, and his brother's hand was the first one in, because it always was, and Gu Yue and Xiaoyan got his other side, and the question *"Are you sure you're okay?"* came from all of them at once in different words.
 
-"I'm fine." A cough, debris in his hair. *This wall is really thick!* And it had been like punching a giant balloon — a simply overwhelming elastic force, everywhere and soft and total — and his body was more than tough enough to be embedded in masonry and walk, but the three punches had emptied the blood essence out of him, and now the hunger was back with interest. *A good meal right now and the blood would come back faster. Too bad there's no food in this building.* The class had stopped being surprised that the fate of the examinations ran on breakfast.
+"I'm fine." A cough, debris in his hair. *This wall is really thick!* And it had been like punching a giant balloon — a simply overwhelming elastic force, everywhere and soft and total. And his body was more than tough enough to be embedded in masonry and walk, but the three punches had emptied the blood essence out of him, and now the hunger was back with interest. *A good meal right now and the blood would come back faster. Too bad there's no food in this building.* The class had stopped being surprised that the fate of the examinations ran on breakfast.
 
 What the students did not see, being busy, was the faces of Shen Yi and the two examiners: jaws dropped, and not at Wulin.
 

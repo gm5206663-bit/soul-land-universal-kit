@@ -410,17 +410,49 @@ def normalise(s):
     return re.sub(r'\W+', ' ', s.lower()).strip()
 
 
+def _declared_refrains(book):
+    """Sentences a book declares, in writing, to be refrains.
+
+    An exact repeat is an accident or the author's call; a written declaration
+    makes it the author's call ON RECORD. Entries live in the book's
+    foundation/REFRAINS.md (or REFRAINS.md) as lines `REFRAIN: <sentence>`,
+    matched on the same normalise() the index uses. Whatever is ignored is
+    counted in the detector's note — never silently dropped.
+    """
+    live = book.get('live')
+    if not live:
+        return set()
+    root = os.path.dirname(live) if os.path.basename(live) in ('chapters', 'chapter') else live
+    for rel in ('foundation/REFRAINS.md', 'REFRAINS.md'):
+        p = os.path.join(root, rel)
+        if os.path.exists(p):
+            out = set()
+            for line in open(p, encoding='utf-8', errors='replace'):
+                m = re.match(r'\s*[-*]?\s*REFRAIN:\s*(.+?)\s*$', line)
+                if m:
+                    out.add(normalise(m.group(1)))
+            return out
+    return set()
+
+
 def check_dupes(books, min_words=12, limit=400):
     findings, sentences, checked = [], 0, 0
     index = {}
     seen = 0
+    declared = {id(b): _declared_refrains(b) for b in books}
+    skipped_refrains = 0
+    record_note = 0
     for b in books:
         if b['live'] is None:
             continue
         checked += 1
         for p in book_files(b):
+            record_note += lbg.record_lines(lbg.body_of(p))
             for s in lbg.prose_sentences(p):
                 seen += 1
+                if normalise(s) in declared[id(b)]:
+                    skipped_refrains += 1
+                    continue
                 if len(s.split()) < min_words:
                     continue
                 sentences += 1
@@ -488,7 +520,10 @@ def check_dupes(books, min_words=12, limit=400):
                     + (f'; the {limit} largest by occurrence are listed'
                        if len(clusters) > limit else '')
                     + (f'; {skipped_copies} published-copy occurrence(s) ignored because '
-                       f'their source carries the sentence' if skipped_copies else '')))
+                       f'their source carries the sentence' if skipped_copies else '')
+                    + (f'; {skipped_refrains} declared-refrain occurrence(s) ignored '
+                       f'(sourced: foundation/REFRAINS.md)' if skipped_refrains else '')
+                    + (f'; {record_note} record line(s) not read as prose' if record_note else '')))
     listed = len(hard) + len(soft[:max(0, limit - len(hard))])
     if listed < len(clusters):                     # never a silent truncation
         out['truncated'] = dict(listed=listed, found=len(clusters))

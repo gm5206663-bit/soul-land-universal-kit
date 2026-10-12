@@ -79,7 +79,7 @@ And Wulin had a system. Wulin always had a system: ferry masters first, then the
 
 **Lin Hao did not use it.**
 
-Because Lin Hao did not ask anybody whether they had seen a girl. He asked them what they had *noticed,* and that is a different question and it gets a different answer, and by the second landing he had stopped asking about a girl at all and had started asking about **a woman who walked without looking where she was going** — because a person who takes a child does not look where they are going, they look behind them, and everybody at a harbor remembers the one person who walked the wrong way.
+Because Lin Hao did not ask anybody whether they had seen a girl. He asked them what they had *noticed,* and that is a different question and it gets a different answer. And by the second landing he had stopped asking about a girl at all and had started asking about **a woman who walked without looking where she was going** — because a person who takes a child does not look where they are going, they look behind them. And everybody at a harbor remembers the one person who walked the wrong way.
 
 Two boatmen remembered. One of them remembered a grey coat. The other remembered that the woman had paid in coin and not in notes, and had paid exactly, and had not waited for change.
 
@@ -87,7 +87,7 @@ Two boatmen remembered. One of them remembered a grey coat. The other remembered
 
 The notice was simple. NA'ER. Silver hair. Amethyst eyes. Found in this city, taken from this city, roughly four months past. She is family. **Reward: 500 federation coins for verified word of her.** No questions asked of the bringer. Contact: the Association branch, Eastsea City, ask for Tang.
 
-Five hundred coins was more than most of the men on those docks made in two months, and by nightfall — because Wulin had learned from his father how money talks and from Lin Hao how money *listens* — the notice had been copied by a dozen hands onto a dozen other boards, up the coast road and down, and the harbor's idle architecture of old men had begun, in its slow tide-way fashion, to pay attention.
+Five hundred coins was more than most of the men on those docks made in two months, and by nightfall — because Wulin had learned from his father how money talks and from Lin Hao how money *listens*. The notice had been copied by a dozen hands onto a dozen other boards, up the coast road and down, and the harbor's idle architecture of old men had begun, in its slow tide-way fashion, to pay attention.
 
 The night fishermen worked the black water beyond the breakwater, and it was to them the boys went last, with tea in a thermos and the patience Lin Hao's father used on stubborn metal. Old men and the sea keep longer hours than cities. By the second hour, three of them had remembered nothing. The fourth remembered something.
 
@@ -165,7 +165,7 @@ A rustle went through the twenty. Xie Xie's dagger-light was out of his grip and
 
 And **Li Chushui**, two desks up, who had short light-blue hair and big eyes and who reminded Wulin uncomfortably of somebody, went very still in the particular way she went still before she moved fast.
 
-She had shown her martial soul in the second week, when the class did its first paired work. She had bowed first — actually bowed, to a boy named Chen Long who had a ladle — and then **half of her light-blue hair had turned white**, and **one of her blue eyes had gone green**, and a white ring had come up under her feet, and a small white cat had appeared on her shoulder and sat there looking at everybody with the flat contempt only cats and Gu Yue managed. White fur had grown over her palms and claws had come out of her fingertips, and she had crossed eleven metres of floor in the time Chen Long took to lift his ladle, and she had stopped one inch from his chest, and the cat had yawned.
+She had shown her martial soul in the second week, when the class did its first paired work. She had bowed first — actually bowed, to a boy named Chen Long who had a ladle — and then **half of her light-blue hair had turned white**, and **one of her blue eyes had gone green**. And a white ring had come up under her feet, and a small white cat had appeared on her shoulder and sat there looking at everybody with the flat contempt only cats and Gu Yue managed. White fur had grown over her palms and claws had come out of her fingertips, and she had crossed eleven metres of floor in the time Chen Long took to lift his ladle, and she had stopped one inch from his chest, and the cat had yawned.
 
 Agility System. A ten-year white ring. And Wulin had watched the whole of it with his stomach doing something he had refused to examine, because the white hair and the big eyes and the small careful bow had put somebody in the room who was not in the room.
 

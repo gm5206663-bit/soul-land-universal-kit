@@ -72,7 +72,7 @@ His voice was lower than usual. That was the part Lin Hao noticed, because he no
 
 "Mn. I'll be waiting."
 
-Lin Hao put the communicator down and stood in the room for about four seconds, because he had worked out that a man does not call you at that hour in that voice to tell you something good, and because he had learned from Wu Zhangkong that the space between knowing and saying was where most of the things that mattered lived.
+Lin Hao put the communicator down and stood in the room for about four seconds, because he had worked out that a man does not call you at that hour in that voice to tell you something good. And because he had learned from Wu Zhangkong that the space between knowing and saying was where most of the things that mattered lived.
 
 Then he went.
 
@@ -158,7 +158,7 @@ Mu Chen was quiet for a while.
 
 The metal was **Thousand Refined Blue Coppertite**, and it was the worst bar Lin Hao had ever been given, and he understood immediately that that was the point.
 
-Coppertite was forgiving. It took a shape and kept it and did not argue, which was why third-rank work was made of it, and why a bar of it that had been **deliberately badly refined** was the hardest thing you could put in front of somebody who was good, because every flaw in it was a place where it would rather be something else.
+Coppertite was forgiving. It took a shape and kept it and did not argue, which was why third-rank work was made of it. And why a bar of it that had been **deliberately badly refined** was the hardest thing you could put in front of somebody who was good, because every flaw in it was a place where it would rather be something else.
 
 Lin Hao stood in front of it for about eleven seconds.
 
@@ -168,7 +168,7 @@ He did not know what he was doing for the first two hundred strikes. That was th
 
 At about strike two hundred and forty he stopped going around.
 
-He does not have a good account of the next hour. He has the ledger, and the ledger says he struck nine hundred and eleven times, and that he broke two hammer faces, and that at some point he stopped hearing the room, and that the last thing he consciously decided was to stop asking the metal what it wanted and start **telling it**, which was not a thing he had ever done, and which he had been told four months ago by a man in white was the difference between a blade and a sword.
+He does not have a good account of the next hour. He has the ledger, and the ledger says he struck nine hundred and eleven times, and that he broke two hammer faces, and that at some point he stopped hearing the room. And that the last thing he consciously decided was to stop asking the metal what it wanted and start **telling it**, which was not a thing he had ever done, and which he had been told four months ago by a man in white was the difference between a blade and a sword.
 
 The Halo came at the end.
 

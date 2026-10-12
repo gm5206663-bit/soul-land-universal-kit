@@ -24,7 +24,7 @@ At the third she stopped, drained the whirlpool — black now, and heavy — dow
 
 "Fine! I'll treat everyone. But you finish those black buns before we go out."
 
-The rest of the morning and the early afternoon went to the room, and Lin Hao, with the pavilion's afternoon fire unclaimed, went to buy his first hours from Tie Jin — which was why he was not present for the furnishing, and why he heard about it afterward from Xie Xie in the tone of a man who had been used as a tool.
+The rest of the morning and the early afternoon went to the room. And Lin Hao, with the pavilion's afternoon fire unclaimed, went to buy his first hours from Tie Jin — which was why he was not present for the furnishing, and why he heard about it afterward from Xie Xie in the tone of a man who had been used as a tool.
 
 "It turns out," Xie Xie reported, in the courtyard, while Wulin was still at the wood yard, "that daggers are for cutting plank. Three souls, seven knives, and my captain used me as a saw. The beds are decent. The cloth divider Gu Yue hung herself — wind, obviously, she didn't even get on a stool."
 
@@ -44,7 +44,7 @@ The points were not pay. The points were a leash with a dial on it, and the dial
 
 There were two letters waiting on the boys' bunk when he got back to the room.
 
-The first was coarse paper and a stamped seal, and it said what Tie Jin's wire had already told the city it would say: the Shrek branch of the Blacksmiths' Association summoned the fifth-rank Master Craftsman Lin Hao to bring his hands and his proof — rank registration on the continent's terms, no card needed, the card being the thing the Association existed to issue. The smiths' long wire, laid down before he had ever seen Shrek, had followed him across the map the way money follows a pour: slowly, and without asking permission.
+The first was coarse paper and a stamped seal, and it said what Tie Jin's wire had already told the city it would say: the Shrek branch of the Blacksmiths' Association summoned the fifth-rank Master Craftsman Lin Hao to bring his hands and his proof. Rank registration on the continent's terms, no card needed, the card being the thing the Association existed to issue. The smiths' long wire, laid down before he had ever seen Shrek, had followed him across the map the way money follows a pour: slowly, and without asking permission.
 
 The second was grey-edged paper, and it smelled, faintly and impossibly, like the inside of a filing cabinet.
 
@@ -82,7 +82,7 @@ Wulin said nothing. The curtain rustled on the girls' side, and did not move oth
 
 Wulin turned the page.
 
-It was a list. Not a threat — a *manifest.* His file, as the Pagoda kept it: the Eastsea awakening registry, year and mark and witness; every counter of the Spirit Ascension Platform his card had ever touched; every purchase the Pagoda had ever sold him, dated and priced; the assessors' notes, three clerks' names attached to the same morning, with the careful language of men who write what they have seen rather than what they understand. The man in grey's name card. Long Hengxu's awareness of it, recorded in a margin line in someone else's hand.
+It was a list. Not a threat — a *manifest.* His file, as the Pagoda kept it: the Eastsea awakening registry, year and mark and witness; every counter of the Spirit Ascension Platform his card had ever touched. Every purchase the Pagoda had ever sold him, dated and priced; the assessors' notes, three clerks' names attached to the same morning, with the careful language of men who write what they have seen rather than what they understand. The man in grey's name card. Long Hengxu's awareness of it, recorded in a margin line in someone else's hand.
 
 And at the bottom, in a newer ink, one line that did not resolve: *Second spirit-soul signature, four-ring reading, origin unregistered. Classification pending.*
 

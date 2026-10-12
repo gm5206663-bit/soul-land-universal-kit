@@ -9,7 +9,7 @@
 
 "Ask me again if you pass," Shen Yi said, when someone asked the question the car had been carrying. "It's still early for you to know." And the car slowed to a snail's pace before a plaza that ate the horizon.
 
-Ashen-gray stone, slabs larger than the road-rock of the inner city; a semicircle of ancient buildings a kilometer across by eye; at the center a hundred-meter pond and a fountain and a sculpture that stopped Tang Wulin's heart mid-beat — the only man who could stand beside Tang San in any telling, the Spirit Pagoda's founder, the master of the Sea God's Pavilion, the Spirit Ice Douluo, Huo Yuhao, carved life-like with his spirit souls gathered around him like guardians. The sole being of his era to ascend to godhood. The same sculpture stood at the Tang Sect; Wulin's eyes sparkled and his chest worked.
+Ashen-gray stone, slabs larger than the road-rock of the inner city; a semicircle of ancient buildings a kilometer across by eye; at the center a hundred-meter pond and a fountain and a sculpture that stopped Tang Wulin's heart mid-beat. The only man who could stand beside Tang San in any telling, the Spirit Pagoda's founder, the master of the Sea God's Pavilion, the Spirit Ice Douluo, Huo Yuhao, carved life-like with his spirit souls gathered around him like guardians. The sole being of his era to ascend to godhood. The same sculpture stood at the Tang Sect; Wulin's eyes sparkled and his chest worked.
 
 "This is Spirit Ice Plaza," Shen Yi said, and gave them the ten-thousand-year history in four sentences, and led them toward the ring of buildings — past carvings that resolved as they came close: figures, scores of figures, every one a person.
 
@@ -43,7 +43,7 @@ The sword was another matter.
 
 The sword had never once in his life been underneath anything, and it was not underneath this. The King's pressure came down and broke around his spirit the way a current breaks around a keel — met, parted, passed on — and the Intent stood in him the way it had stood at ten years old in front of grown men: temperature, edge, and no vocabulary in it for kneeling. The blood in the paint was a king's. Kings are not obeyed by swords. The hawk tightened its grip on his shoulder to the edge of pain, winter-tipped feathers flat, his arms goosefleshed wrist to elbow over the marks — and he stood in the Gold-eyed Black Dragon King's own hall with his spine unhandled, reading the painting.
 
-Then he stopped reading, because beside him Xiaoyan was going under, and Wulin was already moving — snorted once, golden light flaring deep in his eyes, and *scales*, more scales than Lin Hao had ever seen on him, out of the right arm and past the shoulder and down the collarbone and the torso's right side and up the neck, pulsing with more power than ever before — and his blood essence stretched out past his own skin and wrapped all of them, the whole class, like a coat.
+Then he stopped reading, because beside him Xiaoyan was going under, and Wulin was already moving — snorted once, golden light flaring deep in his eyes. And *scales*, more scales than Lin Hao had ever seen on him, out of the right arm and past the shoulder and down the collarbone and the torso's right side and up the neck, pulsing with more power than ever before. And his blood essence stretched out past his own skin and wrapped all of them, the whole class, like a coat.
 
 The hall's pressure came down. The coat held it off. And Xiaoyan breathed.
 
@@ -79,7 +79,7 @@ Follow me.
 
 ## Part 4: The Wager
 
-It was there — in the corridor between the hall of the dragon and whatever came next, with the marks still on the class's knees and the elder's *"late"* still on the walls — that Lin Hao stopped walking, turned around, and put the thing he had been carrying since a car ride's terms on the table in front of the academy.
+It was there — in the corridor between the hall of the dragon and whatever came next, with the marks still on the class's knees and the elder's *"late"* still on the walls — that Lin Hao stopped walking, turned around. And put the thing he had been carrying since a car ride's terms on the table in front of the academy.
 
 "Then say the rest of it to my face," he said. "The papers are harder. There's no rest. And if we pass, we pay." His voice did not rise; it was the voice he read numbers in. "I don't take this."
 
@@ -93,7 +93,7 @@ The corridor was stone, and old, and it took a full three seconds to decide what
 
 "I know what they cost." Flat. Level. Carried level. "That's why I'm not spending them."
 
-And because the academy was the academy — because the hall behind them was painted in the blood of a dragon that Shrek's strongest had gone out and *fought*, and the academy's whole soul was that sentence — the answer came not from Shen Yi but from behind them, where an old man in a dark-green robe had come back down the corridor and been standing for some of it, unhurried, interested, the way elders are interested.
+And because the academy was the academy — because the hall behind them was painted in the blood of a dragon that Shrek's strongest had gone out and *fought*, and the academy's whole soul was that sentence. The answer came not from Shen Yi but from behind them, where an old man in a dark-green robe had come back down the corridor and been standing for some of it, unhurried, interested, the way elders are interested.
 
 "Zhuo Shi would have liked that," Elder Li said, to no one, and then to him: "Boy. Do you know what the outer court's first seat is?"
 
@@ -139,7 +139,7 @@ Night, whole and instant, the painted dome waking into a boundless star-field to
 
 And beside him, in the dark that was not dark, Xu Xiaoyan stood up out of her exhaustion like a lamp being lit.
 
-He almost missed it. He didn't: three years of watching the yard had a vocabulary for it. The girl's craft lived at night — the starwheel, the astrological attribute, five seconds of the world reordered — and the exam was a day exam, and the day had been the problem nobody said; and now the second trial of Shrek Academy had reached down and turned the *hall itself into her element*, and nobody in this academy did anything by accident.
+He almost missed it. He didn't: three years of watching the yard had a vocabulary for it. The girl's craft lived at night — the starwheel, the astrological attribute, five seconds of the world reordered — and the exam was a day exam. And the day had been the problem nobody said; and now the second trial of Shrek Academy had reached down and turned the *hall itself into her element*, and nobody in this academy did anything by accident.
 
 "Xiaoyan," he said, quietly. "It's yours."
 
@@ -151,7 +151,7 @@ Whatever came next, it would come into a night she owned.
 
 The world changed.
 
-The star-field tore, and light came back, and they stood in a wide somewhere — and the roar arrived before the room did, tyrannical, and the pressure with it, and the thing that came out of the glare was ten meters long and five tall, two horns out of its skull, one longer than the other, skin like armor around scarlet eyes.
+The star-field tore, and light came back, and they stood in a wide somewhere — and the roar arrived before the room did, tyrannical, and the pressure with it. And the thing that came out of the glare was ten meters long and five tall, two horns out of its skull, one longer than the other, skin like armor around scarlet eyes.
 
 "It's an Earth Demon Rhinoceros," Xie Xie said, solemn, hunting through three years of platform work for the entry. "At least three-thousand-years. We've never met one — it's not a forest beast. It's a lord of the savanna."
 

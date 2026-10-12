@@ -82,7 +82,7 @@ This time Zhuo Shi did laugh.
 
 "The ninth trial is what we call the overruling trial," Shen Yi said. "Fail it, and you are rejected whatever your points — eighty, ninety, it avails you nothing. We do not put monsters in armor. But you should hear the rest of the law while you stand here: Shrek has never advocated the slaughter of soul beasts. The Great Star Dou Forest has declined with every generation of our strength, and greed did most of the declining. If you become students of this academy, you will not hunt in the Great Star Dou Forest. Not once. Not ever. That is the price of the armor we will teach you to build."
 
-Wulin looked at the screen — the mother, the cub, the light like a drawn blanket — and something in him settled into place with an audible click, or the click was Xie Xie's question finally finding its first answer: *if we are the ones who come in.* They had just spent nine trials being the ones who came in, and the academy had built the world entire to watch how they came.
+Wulin looked at the screen — the mother, the cub, the light like a drawn blanket — and something in him settled into place with an audible click. Or the click was Xie Xie's question finally finding its first answer: *if we are the ones who come in.* They had just spent nine trials being the ones who came in, and the academy had built the world entire to watch how they came.
 
 "The scores," Shen Yi said, and the room stilled. "Trial nine, full value. Tang Wulin: seventy points. Xu Xiaoyan: sixty. Gu Yue: fifty-eight."
 

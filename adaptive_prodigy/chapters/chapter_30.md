@@ -64,7 +64,7 @@ It happened at about three in the morning, in the dormitory, and it woke him up 
 
 Except this time there was a sound.
 
-It was very small and very high, like a wet finger on the rim of a glass, and it was coming from inside his chest, and it went on for perhaps four seconds and then stopped, and in the four seconds the hair on both of Lin Hao's arms stood up and every loose piece of metal in the room — a nail on the sill, a buckle, Wulin's spare hammer head on the floor — ticked once against the wood.
+It was very small and very high, like a wet finger on the rim of a glass, and it was coming from inside his chest, and it went on for perhaps four seconds and then stopped. And in the four seconds the hair on both of Lin Hao's arms stood up and every loose piece of metal in the room — a nail on the sill, a buckle, Wulin's spare hammer head on the floor — ticked once against the wood.
 
 Then it was quiet, and his heart was going, and he understood with total clarity that the hawk had done something.
 
@@ -84,7 +84,7 @@ Now it had caught up.
 
 He drew the Stormbringer in the dark, because he was not going to wait until morning, and the blade came out and the crackle on it — the faint crackle that had been faint for four years, that he had stopped noticing the way you stop noticing a clock — was not faint.
 
-It ran the length of the edge in a thin blue line, and it made a sound like a small piece of paper being torn very slowly, and the hair on his arms was still up, and Lin Hao sat on the side of his bunk with his own sword in his hand and grinned at it like an idiot, because there was nobody to see.
+It ran the length of the edge in a thin blue line, and it made a sound like a small piece of paper being torn very slowly. And the hair on his arms was still up, and Lin Hao sat on the side of his bunk with his own sword in his hand and grinned at it like an idiot, because there was nobody to see.
 
 "Right," he said, to a soul that could not hear him. "So that's what you were saving up for."
 
@@ -150,7 +150,7 @@ So the Talon was not one thing any more. It was two things happening at once: th
 
 The third thing happened by accident, at about noon, and it was the one he thought about for a year.
 
-He was tired. He had been at it for six hours and his arms were gone and he was on the last bar of the day, and he laid the Talon along the steel out of pure habit without particularly meaning to, and the crack came out of the blade and jumped — **jumped** — a hand's width of empty air, and put itself into the bar, and the bar rang like a struck bell and split along the grain he had already read.
+He was tired. He had been at it for six hours and his arms were gone and he was on the last bar of the day, and he laid the Talon along the steel out of pure habit without particularly meaning to. And the crack came out of the blade and jumped — **jumped** — a hand's width of empty air, and put itself into the bar, and the bar rang like a struck bell and split along the grain he had already read.
 
 He had not touched it.
 

@@ -44,11 +44,24 @@ MIN_PART = 12                  # a split half smaller than this is a fragment
 #: Boundaries, strongest first. The tool prefers a boundary that carries
 #: meaning — a dash, a semicolon, a subordinating conjunction — and falls back
 #: to a plain comma only when the sentence offers nothing better.
+#: Coordinated boundaries only. The first draft of this list also split at
+#: ", which /, who /, because /, while / …" — and that produced sentences
+#: beginning "Who had just done arithmetic at the academy" and "Which was why
+#: third-rank work was made of it": fragments wearing a capital letter. A
+#: repair tool that trades a long sentence for a broken one has not repaired
+#: anything. A subordinator is never a sentence start; those boundaries are
+#: refused and the sentence is offered to a writer instead.
 STRONG = re.compile(
     r'(?<=\s)—\s+|(?<=\s)--\s+|;\s+'
-    r'|,\s+(?:and|but|so|then|yet|or|because|while|though|although|after|before|'
-    r'as|when|where|which|who|why|if|since|that|and then|and yet|and so)\s+',
+    r'|,\s+(?:and|but|so|then|yet|or|and then|and yet|and so)\s+',
     re.I)
+#: Words that may never open a split-off part. Checked against every boundary
+#: family, not just STRONG — the plain-comma fallback could otherwise smuggle
+#: ". Which …" through the same door.
+SUBORDINATORS = {
+    'which', 'who', 'whom', 'whose', 'that', 'because', 'while', 'though',
+    'although', 'after', 'before', 'as', 'when', 'where', 'why', 'if',
+    'since', 'unless', 'until', 'than', 'whether', 'whereas', 'whilst'}
 PLAIN = re.compile(r',\s+')
 #: Last resort: a conjunction with no comma at all. The supergirl serial is
 #: written almost entirely without commas, so without this the tool would report
@@ -84,6 +97,10 @@ def candidates(sent, rx):
             continue
         if not quote_balanced(before):
             continue
+        tail = re.sub(r'^[\s,;—\-]+', '', after)
+        head_word = re.match(r"[A-Za-z']+", tail)
+        if head_word and head_word.group(0).lower() in SUBORDINATORS:
+            continue                       # never start a sentence with a fragment-maker
         out.append(m)
     return out
 
@@ -167,11 +184,16 @@ def sentence_spans(s):
 
 
 def repair_text(body, log):
-    """Rewrite one body, copying every separator exactly. Returns (text, splits)."""
+    """Rewrite one body, copying every separator exactly. Returns (text, splits).
+
+    Record sections are skipped like the production block: the sentence cap is
+    a law about prose, and a Chapter Summary is a note.
+    """
     out, touched = [], 0
-    for line in body.split('\n'):
+    mask = lbg.record_mask(body)
+    for line, rec in zip(body.split('\n'), mask):
         s = line.strip()
-        if (not s or re.match(r'#+\s', s) or s.startswith(('>', '|', '- ', '* '))
+        if (rec or not s or re.match(r'#+\s', s) or s.startswith(('>', '|', '- ', '* '))
                 or lbg.PLAN_LINE_RX.search(line)):
             out.append(line)
             continue
@@ -325,12 +347,27 @@ def selftest():
     noway = filler(65) + '.'
     case('no usable boundary: reported, not butchered', noway, 0, 65)
 
+    # a long sentence inside a declared record section is the author's note
+    rec = ('He crossed the bridge and the sun was low.\n\n### Chapter Summary:\n'
+           + filler(70) + '.\n')
+    case('a record section is a note, not prose — never split', rec, 0, None)
+    assert repair_text(rec, []) is None, 'a record section must never be rewritten'
+
     # comma-only fallback
     s65 = f'{filler(30)}, {filler(34, 30)}.'
     case('a plain comma is used when nothing stronger exists', s65, 1, 34)
 
     sbare = f'{filler(28)} and {filler(35, 28)}.'
     case('comma-less prose falls back to the bare conjunction', sbare, 1, 36)
+
+    # REGRESSION 2026-10-12: a relative clause is not a sentence start.
+    rel = f'{filler(20)}, which {filler(30, 20)}, and {filler(35, 50)}.'
+    case('", which" is refused; the coordinated boundary is used instead', rel, 1, None)
+    assert not any(t.lstrip().startswith('Which')
+                   for t in lbg.sentences(repair_text(rel, [])[0])), 'a Which-fragment was written'
+    rel2 = f'{filler(62)}, which {filler(4, 62)}.'
+    case('a sentence whose only boundary is a relative clause is left alone', rel2, 0, None)
+    assert repair_text(rel2, []) is None, 'a fragment-split was written'
 
     print()
     print('SENTENCE REPAIR SELFTEST ' + ('PASSED' if ok else 'FAILED'))

@@ -86,7 +86,7 @@ She cast. And when the lion came out of its broken prison low and wicked for Wul
 
 The Starwheel Shackles took the golden beast's legs mid-thrash, and it went stiff as a statue — one breath, two — and in the space of the first one, silver light *folded* the cave. No crossing. No distance crossed at all: Gu Yue was simply there, in front of the lion, and she had brought Wulin with her, delivered like a hammer to the anvil-face of the world.
 
-Lin Hao, herding the edges, saw the silver close over them both and knew it instantly for what it was — the thing from the drawer, the flicker that moved without crossing the space between, spent now to save, in service of a girl's third ring — and he thought, with something that was not quite awe and not quite envy: *so that's what it's for.*
+Lin Hao, herding the edges, saw the silver close over them both and knew it instantly for what it was. The thing from the drawer, the flicker that moved without crossing the space between, spent now to save, in service of a girl's third ring — and he thought, with something that was not quite awe and not quite envy: *so that's what it's for.*
 
 The claw came down.
 

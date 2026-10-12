@@ -44,7 +44,7 @@ Xie Xie opened his mouth. "That's — that's romantic—"
 
 "It's inefficient," said Gu Yue.
 
-And Lin Hao did the thing he had trained himself to do across a hundred rooms where her mood was weather: he did not read it. He watched the frost crawl a finger's width up the side of her melting glass — the cold answering her the way it always did, the elements leaning toward her like reeds toward water — and he filed it under *she's practicing*, under *the elements answer her and it is not addressed to me*, under the careful, locked heading he had built the day she said nothing and he decided that a nothing was a no and he would not say the thing twice.
+And Lin Hao did the thing he had trained himself to do across a hundred rooms where her mood was weather: he did not read it. He watched the frost crawl a finger's width up the side of her melting glass — the cold answering her the way it always did, the elements leaning toward her like reeds toward water. And he filed it under *she's practicing*, under *the elements answer her and it is not addressed to me*, under the careful, locked heading he had built the day she said nothing and he decided that a nothing was a no and he would not say the thing twice.
 
 He did not see, because he was not looking for it, that the frost was not on her glass.
 
@@ -132,7 +132,7 @@ His juice cup was empty — it had been empty for a while; he had been doing mos
 
 A thread of frost moved first.
 
-Nobody saw it move. It simply happened: the pitcher on the table was in Gu Yue's hand — she had not stood, she had barely shifted — and Lin Hao's cup was filling, the juice rising steady to the rim, poured by a girl who was not looking at him, who was looking at Ye Xinglan with the mild, pleasant expression of someone discussing the weather.
+Nobody saw it move. It simply happened: the pitcher on the table was in Gu Yue's hand — she had not stood, she had barely shifted. And Lin Hao's cup was filling, the juice rising steady to the rim, poured by a girl who was not looking at him, who was looking at Ye Xinglan with the mild, pleasant expression of someone discussing the weather.
 
 The water that went into his cup came out a degree too cold. By the time it reached the halfway mark, a lace of ice had bloomed across the pitcher's rim and was climbing down its side. By the time she set it down, the surface of his juice had a thin skin of silver across it, cracking softly as it settled.
 
@@ -182,13 +182,13 @@ Lin Hao was standing. He had not decided to stand; the margin stood when the cap
 
 It was at the door that it happened.
 
-Tang Wulin, half a step outside, stopped dead — and Lin Hao, right behind him, felt it pass over all of them like the shadow of a bird the size of a weather system: a wave of soul power, enormous, the air going thick and then electric, and outside in the street the night itself seemed to flinch. Golden light climbed the sky over the orange-lit town, rising slow and inexorable, and where it touched the dark it *dispelled* the shadows — not lighting them, not fighting them, but erasing the night the way daylight erases a fog, as though something with a holy disregard for darkness had simply opened a door on the far end of the street.
+Tang Wulin, half a step outside, stopped dead — and Lin Hao, right behind him, felt it pass over all of them like the shadow of a bird the size of a weather system: a wave of soul power, enormous, the air going thick and then electric, and outside in the street the night itself seemed to flinch. Golden light climbed the sky over the orange-lit town, rising slow and inexorable, and where it touched the dark it *dispelled* the shadows — not lighting them, not fighting them. But erasing the night the way daylight erases a fog, as though something with a holy disregard for darkness had simply opened a door on the far end of the street.
 
 The drink shop went quiet.
 
 "Someone," Lin Hao said, very softly, into the golden-lit hush, "just hit the ground in the outer court with a soul power that turns shadows off."
 
-He could not feel the rank of it. It was above his instrument the way the sky was above a weather vane — the vane spun, it did not measure. Beside him, Gu Yue had gone perfectly still, and for the first time all evening her face was not a winter he was refusing to read; it was a blank page turned toward the light, and he could feel her doing the thing she did when she met something that was not in her catalog: going quiet, and deep, and vast, the way the sea goes quiet before it decides whether it is going to be weather.
+He could not feel the rank of it. It was above his instrument the way the sky was above a weather vane — the vane spun, it did not measure. Beside him, Gu Yue had gone perfectly still, and for the first time all evening her face was not a winter he was refusing to read; it was a blank page turned toward the light. And he could feel her doing the thing she did when she met something that was not in her catalog: going quiet, and deep, and vast, the way the sea goes quiet before it decides whether it is going to be weather.
 
 The frost was gone from the table. She had pulled every thread of it back into herself the way a swordsman sheathes a blade.
 
@@ -196,7 +196,7 @@ The frost was gone from the table. She had pulled every thread of it back into h
 
 Lin Hao reached the door in two long steps, Wulin and Xie Xie already visible out on the street, the golden light pouring down over both of them, over the orange lights, over the whole outer-court town that had been so warm and ordinary one breath ago and was now a stage.
 
-He went. He went the way he always went — in the margin, a half-step behind the captain, watching where the entrances were. And as he crossed the threshold of the drink shop, over his shoulder, the frost-rimed pitcher sat on the table in the emptying booth, and Ye Xinglan sat beside it, watching the door the tall boy had gone out of, and the silver-haired girl had gone through it half a step ahead of him, so that she was the first one into the golden light.
+He went. He went the way he always went — in the margin, a half-step behind the captain, watching where the entrances were. And as he crossed the threshold of the drink shop, over his shoulder, the frost-rimed pitcher sat on the table in the emptying booth. And Ye Xinglan sat beside it, watching the door the tall boy had gone out of, and the silver-haired girl had gone through it half a step ahead of him, so that she was the first one into the golden light.
 
 She had not poured him anything else. She had not needed to.
 

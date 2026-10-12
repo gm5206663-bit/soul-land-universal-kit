@@ -8,7 +8,7 @@
 
 The associations found them before lunch.
 
-Invitations began arriving with the morning post the way rain finds a leak — one at first, then a seam, then a steady drizzle folded into the wooden cubby each new student had been assigned outside the lecture theatre. By the end of the first week there were cards and ribbons and stamped leaves of paper from the Mecha Designers' Guild, the Mecha Makers' Lodge, the Cultivation Resources Exchange, the Outer-Court Combat Club, the Spirit Ascension Society, and a dozen smaller outfits whose names Lin Hao wrote down once and then forgot because they were, almost to a one, the same offer in different ink: join, rent your share of a senior's knowledge, and stop being the smallest fish in the largest pond on the continent.
+Invitations began arriving with the morning post the way rain finds a leak — one at first, then a seam, then a steady drizzle folded into the wooden cubby each new student had been assigned outside the lecture theatre. By the end of the first week there were cards and ribbons and stamped leaves of paper from the Mecha Designers' Guild, the Mecha Makers' Lodge, the Cultivation Resources Exchange, the Outer-Court Combat Club, the Spirit Ascension Society. And a dozen smaller outfits whose names Lin Hao wrote down once and then forgot because they were, almost to a one, the same offer in different ink: join, rent your share of a senior's knowledge, and stop being the smallest fish in the largest pond on the continent.
 
 "All of them," Shen Yi had said on the second morning, anticipating the question, "are founded and run by students. The academy leases them the land and leaves them alone. They exist because a second profession cannot be learned from a lecture — it is learned from the person two years ahead of you who has already wasted the metal you are about to waste. You will not progress far without one, and you may join as many as you have the hours for. Choose like you are spending time, because you are."
 
@@ -30,9 +30,9 @@ The Blacksmiths' Association was a long, loud, sweltering hall built against the
 
 "Thirteen," Lin Hao said. "It's been verified. Eastsea City guild hall, and the paperwork came through your own wire. I'm not here to argue the rank. I'm here to use it."
 
-She fetched someone older. The someone older fetched someone older than that, and twenty minutes later Lin Hao stood at a forge table in the back while a one-armed smith named He Qiao — Association master, sixth rank, missing the arm to a spirit beast he declined to name — watched him draw the two demonstration heats the guild required of any rank it registered on its own authority.
+She fetched someone older. The someone older fetched someone older than that, and twenty minutes later Lin Hao stood at a forge table in the back while a one-armed smith named He Qiao. Association master, sixth rank, missing the arm to a spirit beast he declined to name — watched him draw the two demonstration heats the guild required of any rank it registered on its own authority.
 
-It was not a test he could fail. He had spent the summer of his thirteenth year telling metal what it was instead of asking it. He did the first heat slowly enough that the old smith could follow the method — the listening, the place where his hammer did not strike so much as answer a question the metal had already asked — and the second heat at something closer to a working pace, and when he set the hammers down the finished bar rang once, very sweetly, and stayed ringing a little longer than a bar had any right to.
+It was not a test he could fail. He had spent the summer of his thirteenth year telling metal what it was instead of asking it. He did the first heat slowly enough that the old smith could follow the method — the listening, the place where his hammer did not strike so much as answer a question the metal had already asked. And the second heat at something closer to a working pace, and when he set the hammers down the finished bar rang once, very sweetly, and stayed ringing a little longer than a bar had any right to.
 
 He Qiao turned it over in his single hand for a long moment. Then he said, without looking up, "You don't just thousand-refine. You ask first."
 
@@ -126,7 +126,7 @@ He took the ticket down, carried it to the counter, and registered it against hi
 
 The clerk shut his mouth, and stamped the ticket.
 
-Lin Hao walked out into the Shrek afternoon with the job folded into his inner pocket, and stood a moment on the steps of the administration building with the sun warm on his face and the weight of a real fight — the first one in a year he would not have to hold back through to its end — sitting in his chest like the first breath of cold air in the foundry.
+Lin Hao walked out into the Shrek afternoon with the job folded into his inner pocket, and stood a moment on the steps of the administration building with the sun warm on his face and the weight of a real fight. The first one in a year he would not have to hold back through to its end — sitting in his chest like the first breath of cold air in the foundry.
 
 He had his craft registered. He had his work chosen. And tomorrow, or the day after, in the wild country beyond the ranges where there were no clipboards and no classmates and no headmaster's frost, he would finally let the margin go and find out exactly how much of him there was.
 

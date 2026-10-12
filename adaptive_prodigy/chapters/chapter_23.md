@@ -7,7 +7,7 @@
 
 ## Part 1: What Wei Xiaofeng Was Doing at Six in the Morning
 
-Lin Hao found him because he could not sleep, and he could not sleep because Wu Zhangkong had hit him eleven times the previous evening and his ribs had opinions, and the dormitory at six in the morning smelled of cold stone and Zhou Zhangxi's snoring, so he went outside to do the breathing that his father had taught him for exactly this situation.
+Lin Hao found him because he could not sleep, and he could not sleep because Wu Zhangkong had hit him eleven times the previous evening and his ribs had opinions. And the dormitory at six in the morning smelled of cold stone and Zhou Zhangxi's snoring, so he went outside to do the breathing that his father had taught him for exactly this situation.
 
 Wei Xiaofeng was on the training ground. Alone. Doing his clone work.
 
@@ -62,13 +62,13 @@ The platform sessions were announced on the fourth day, in the flat voice, at th
 
 And then, on the eighth day, the accident happened, and the accident is the reason that anyone in class zero learned what Gu Yue actually was.
 
-It was a falling beam. Class zero trained in the old hall at the north edge of the grounds, and the old hall had a roof that the academy had been promising to fix since before any of them were born, and the beam that came down was not dramatic — it was not a collapsing building, it was one beam, maybe forty kilograms, coming off a rotten bracket at four meters, directly above the place where Xie Xie had been standing a half-second before and was no longer, because Xie Xie had moved.
+It was a falling beam. Class zero trained in the old hall at the north edge of the grounds, and the old hall had a roof that the academy had been promising to fix since before any of them were born. And the beam that came down was not dramatic — it was not a collapsing building, it was one beam, maybe forty kilograms, coming off a rotten bracket at four meters, directly above the place where Xie Xie had been standing a half-second before and was no longer, because Xie Xie had moved.
 
 The problem was that Xie Xie had moved *into* Zhang Yangzi.
 
 It was the sort of thing that happens in a room full of people who are all moving fast, and it would have been nothing — a shove, a stumble, an elbow — except that Zhang Yangzi had been mid-feint with his weight committed forward and his wings half-out. The shove put him down hard on his left wrist at the exact angle that wrists do not like, and the sound the wrist made was a sound that all seven of them heard, and then the beam landed, and the beam was not the emergency.
 
-Lin Hao was already moving. He had been moving before the beam fell, which was a thing he would think about later — that his body had gone toward the *sound* and not the *danger,* because the sound was the sound of a person being hurt and his six years of deciding to be strong enough had wired him to it faster than to anything else. He got to Zhang Yangzi in two strides. He got his hands under the wrist. He had three seconds of actual competence, because he had set his father's dislocated thumb twice and he knew what a wrist looked like when it was broken and this wrist was broken.
+Lin Hao was already moving. He had been moving before the beam fell, which was a thing he would think about later — that his body had gone toward the *sound* and not the *danger,*. Because the sound was the sound of a person being hurt and his six years of deciding to be strong enough had wired him to it faster than to anything else. He got to Zhang Yangzi in two strides. He got his hands under the wrist. He had three seconds of actual competence, because he had set his father's dislocated thumb twice and he knew what a wrist looked like when it was broken and this wrist was broken.
 
 And then Gu Yue was there, and Gu Yue did a thing.
 
@@ -194,13 +194,13 @@ Wang Jinxi did not win. He could not; the gap was what it was, and both of them 
 
 "I'm going to want to be the one who finds you," Wang Jinxi said. "Not the other way around. So if you come looking for me, I'm going to be annoyed."
 
-"Noted," Lin Hao said, and grinned at the back of the boy's head, and stood alone on the training ground with his ribs and his ledger and seventy-nine lines in it, and thought that in two weeks he was going to walk into a forest that did not know his name, and that this was the first time in four months he had no idea what was going to happen to him, and that he could not, entirely, wait.
+"Noted," Lin Hao said, and grinned at the back of the boy's head, and stood alone on the training ground with his ribs and his ledger and seventy-nine lines in it. And thought that in two weeks he was going to walk into a forest that did not know his name, and that this was the first time in four months he had no idea what was going to happen to him, and that he could not, entirely, wait.
 
 ## Part 5: The Steel
 
 He made the sword on a Saturday, in the side forge, because there was a thing he had been carrying for eleven days and a forge was the only place he knew to put it down.
 
-Mu Chen was there. Mu Chen was always there on a Saturday, and Mu Chen had asked, four months ago, to strike his edge himself, which was the highest thing a smith of the Eastsea Branch ever said to a boy, and which Lin Hao had allowed exactly once and then never mentioned again, because mentioning it would have made it a thing instead of a fact.
+Mu Chen was there. Mu Chen was always there on a Saturday, and Mu Chen had asked, four months ago, to strike his edge himself, which was the highest thing a smith of the Eastsea Branch ever said to a boy. And which Lin Hao had allowed exactly once and then never mentioned again, because mentioning it would have made it a thing instead of a fact.
 
 "Second rank," Mu Chen said, without looking up from his own work. It was not a question. It was the way the older man said everything, which was as though the words had already been agreed.
 
@@ -214,7 +214,7 @@ Mu Chen was there. Mu Chen was always there on a Saturday, and Mu Chen had asked
 
 Lin Hao made it properly.
 
-He had a bar of spirit steel that his father had given him at eight and that he had been saving without being able to say why, and he had spent eleven days knowing why. The bar went into the fire and the hawk-eyes did the thing they did — not finding the flaws, which any competent smith could do by sound, but finding the *grain* first, the thousand-year weather of compression and direction inside the metal, the places where it wanted to move and the places where it would fight — and he struck only where it had already said yes.
+He had a bar of spirit steel that his father had given him at eight and that he had been saving without being able to say why, and he had spent eleven days knowing why. The bar went into the fire and the hawk-eyes did the thing they did — not finding the flaws, which any competent smith could do by sound. But finding the *grain* first, the thousand-year weather of compression and direction inside the metal, the places where it wanted to move and the places where it would fight — and he struck only where it had already said yes.
 
 one hundred and ninety-one strikes. A journeyman needs three hundred. A journeyman who cannot read needs five hundred and gets a worse bar.
 
@@ -224,13 +224,13 @@ Because here was the thing nobody had told him, and which he had worked out alon
 
 He had been a swordsman at the anvil for four years. He just hadn't had a name for it.
 
-The blade came out of the oil at the colour of the harbour before rain, and Mu Chen looked at it for a long time, and then did the thing that Lin Hao would remember longer than the gauntlet, longer than the number, longer than almost anything: he picked it up, and turned it, and put it down again carefully, the way you put down something that belongs to someone else's future.
+The blade came out of the oil at the colour of the harbour before rain, and Mu Chen looked at it for a long time. And then did the thing that Lin Hao would remember longer than the gauntlet, longer than the number, longer than almost anything: he picked it up, and turned it, and put it down again carefully, the way you put down something that belongs to someone else's future.
 
 "That's not a second-rank blade," Mu Chen said.
 
 "It's a second-rank smith's blade."
 
-"No," Mu Chen said. "It's not." And he went back to his own work, and did not say anything else for an hour, and Lin Hao wrapped the sword in oilcloth and carried it back to the academy under his coat, and did not show it to anyone, not even Wulin, because there was going to be a forest in two weeks and he wanted the first thing it ever cut to matter.
+"No," Mu Chen said. "It's not." And he went back to his own work, and did not say anything else for an hour, and Lin Hao wrapped the sword in oilcloth and carried it back to the academy under his coat. And did not show it to anyone, not even Wulin, because there was going to be a forest in two weeks and he wanted the first thing it ever cut to matter.
 
 Nine days later the growth came again, and it came the same way it always came — not from sitting, from being *corrected* — and by then he had stopped being surprised by it, and had started, instead, to notice the pattern, which was that his soul did not grow when he won. It grew when he found out he had been wrong.
 

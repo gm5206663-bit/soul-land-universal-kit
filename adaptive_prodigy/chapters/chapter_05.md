@@ -71,7 +71,7 @@ Lin Hao knew what they were before the surveyor said it, because he had lifted t
 
 Wulin took a hammer in each hand.
 
-He lifted them the way another boy lifts schoolbooks. The surveyor's mouth opened, closed. Beside the door, a girl who had been waiting for the other testing room leaned forward without noticing she was doing it — **tall for thirteen, exceptionally pretty, large bright eyes, golden hair combed back into a ponytail**, dressed in close-fitting clothes that made her look nimble rather than dressed, with the particular stillness of someone who had spent nine years being told she was remarkable and had decided, some time ago, to stop agreeing.
+He lifted them the way another boy lifts schoolbooks. The surveyor's mouth opened, closed. Beside the door, a girl who had been waiting for the other testing room leaned forward without noticing she was doing it. **tall for thirteen, exceptionally pretty, large bright eyes, golden hair combed back into a ponytail**, dressed in close-fitting clothes that made her look nimble rather than dressed, with the particular stillness of someone who had spent nine years being told she was remarkable and had decided, some time ago, to stop agreeing.
 
 Wulin closed his eyes for one breath. Lin Hao watched the shift the way he watched everything: the small settling of his friend's weight, the breath that went down instead of up, the whole forge-honed architecture of him locking into place. Four years of Mang Tian's Thousand Refinements, of a body built strike by strike, of a first seal's furnace banked low behind the sternum.
 
@@ -147,7 +147,7 @@ So she stood outside room three with her arms folded and watched a ten-year-old 
 
 Mu Xi made a small sound that was not quite a laugh. "Then he'll find out." She pushed off the wall. "So will I."
 
-And she went, because there was a second-rank task board on the third floor and she had every intention of being better at it than a boy who had been doing this for four years — which was, she reflected on the way down, exactly the sort of thing her father would have called *not suitable for girls*, and which she had therefore been doing since she was five.
+And she went, because there was a second-rank task board on the third floor and she had every intention of being better at it than a boy who had been doing this for four years — which was. She reflected on the way down, exactly the sort of thing her father would have called *not suitable for girls*, and which she had therefore been doing since she was five.
 
 Lin Hao, watching her go, said to nobody in particular, "She's not annoyed that he beat her."
 
@@ -257,7 +257,7 @@ What followed, class five would talk about until the snow. Xie Xie was fast — 
 
 "You asked for a fight," Lin Hao said. "I'm waiting for one." And then — softly, so only the front row and one ice-cold teacher heard it — "…sorry. I've been waiting all week to say that to someone."
 
-Xie Xie came at him with everything — light, speed, family training, fury — and Lin Hao met the charge with a single Gale Talon fired not at the boy but at the *floor behind* the boy, and the compressed wind's crack lifted Xie Xie's heels and stole his rhythm for exactly one stride, and in that stride the flat of the Stormbringer was resting, gentle as a rumor, against his ribs.
+Xie Xie came at him with everything — light, speed, family training, fury — and Lin Hao met the charge with a single Gale Talon fired not at the boy but at the *floor behind* the boy. And the compressed wind's crack lifted Xie Xie's heels and stole his rhythm for exactly one stride, and in that stride the flat of the Stormbringer was resting, gentle as a rumor, against his ribs.
 
 "Yield?" Lin Hao asked.
 

@@ -82,7 +82,7 @@ Twenty-three years from the platform, where the rule said he should have taken f
 
 Which meant the platform had not done it.
 
-Which meant the thing that had taken the hawk from seven hundred years to nine hundred and six in four months was not the Spirit Ascension Platform, and was not the cultivation energy of slain soul beasts, and was not any of the mechanisms Wu Zhangkong had just spent five minutes explaining to four children as though they were the whole of how the world worked.
+Which meant the thing that had taken the hawk from seven hundred years to nine hundred and six in four months was not the Spirit Ascension Platform. And was not the cultivation energy of slain soul beasts, and was not any of the mechanisms Wu Zhangkong had just spent five minutes explaining to four children as though they were the whole of how the world worked.
 
 It was the other thing. The thing he had never been able to name to anyone's satisfaction, including his own. The thing his father called *the boy's way of it* and the Association called *an unusual affinity* and Wu Zhangkong had never once asked about directly, in four months, which was starting to look less like an oversight and more like a decision.
 
@@ -180,7 +180,7 @@ And then the third line, which he wrote slowly, and which he looked at for a lon
 
 He blew out the lamp.
 
-In the dark, the hawk turned over in him — nine hundred and twelve years of condensed wind and, since three nights ago, something else that had no name yet and did not answer to being called — and Lin Hao lay on his back and thought about one ring, and two rings, and the fact that he had been handed the worse arrangement twice now, once by the world and once by his own talent, and that the second time it had come with an interest rate.
+In the dark, the hawk turned over in him — nine hundred and twelve years of condensed wind and, since three nights ago, something else that had no name yet and did not answer to being called. And Lin Hao lay on his back and thought about one ring, and two rings, and the fact that he had been handed the worse arrangement twice now, once by the world and once by his own talent, and that the second time it had come with an interest rate.
 
 "Wulin gets the pond," he said, to the ceiling, "and I get the arithmetic."
 

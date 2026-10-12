@@ -187,7 +187,7 @@ Xie Xie's face had gone sour, and the sourness tumbled straight out of his mouth
 
 "What work?"
 
-Nobody answered. The inner city flowed past, ancient, green, and somewhere in its core a white-robed man was waiting who had knelt for thirteen of those years to buy this ride, and five children were being driven toward five harder papers, and the last thing Lin Hao wrote that day, at a stop that lasted eleven seconds, was the line the morning had left him.
+Nobody answered. The inner city flowed past, ancient, green, and somewhere in its core a white-robed man was waiting who had knelt for thirteen of those years to buy this ride. And five children were being driven toward five harder papers, and the last thing Lin Hao wrote that day, at a stop that lasted eleven seconds, was the line the morning had left him.
 
 *He woke. We're good enough. The academy came himself.*
 

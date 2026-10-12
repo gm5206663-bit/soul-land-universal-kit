@@ -50,7 +50,7 @@ She *moved* it, and the room went into it — the floor, the air, the light, the
 
 And a full second was four times what he needed.
 
-He did not dodge the shape. **He went to the place the shape had to be built from** — the girl's left hand, the half-turn of her waist, the breath she had taken a moment before she committed, because a cauldron that size does not move on a decision, it moves on a *decision made early* — and the Stormbringer was already there when the decision arrived.
+He did not dodge the shape. **He went to the place the shape had to be built from**. The girl's left hand, the half-turn of her waist, the breath she had taken a moment before she committed, because a cauldron that size does not move on a decision, it moves on a *decision made early* — and the Stormbringer was already there when the decision arrived.
 
 Four seconds.
 
@@ -240,7 +240,7 @@ He closed the book.
 
 The hawk turned over in him — **one thousand two hundred and five** — and did not lean toward anything, because there was nothing in a room that small to lean toward.
 
-Lin Hao lay on his back and thought about a girl with a cauldron who had been the founder of the Spirit Pagoda at the age of ten, and about the fact that he had taken her apart in four seconds, and about the fact that **the four seconds had taught him nothing at all** — and that this was the first time in his life that had happened to him, and that he did not know what to do with it.
+Lin Hao lay on his back and thought about a girl with a cauldron who had been the founder of the Spirit Pagoda at the age of ten, and about the fact that he had taken her apart in four seconds. And about the fact that **the four seconds had taught him nothing at all** — and that this was the first time in his life that had happened to him, and that he did not know what to do with it.
 
 *Right,* he thought.
 
@@ -254,7 +254,7 @@ And then Wulin came up the stairs with two bowls, because Wulin had decided some
 
 "I know."
 
-"He's not saying it like it's a joke." Wulin looked into his own bowl for a moment. "That's the part I noticed. Xie Xie says everything like it's a joke, and he's saying this one like it's a **number.** And I think the reason is that he has been the fastest person in our grade for three years and has just found out that the thing he is fastest at is not the thing that matters, and instead of being bad about it he has decided to be *loud* about you, which is the most Xie Xie thing I have ever seen a person do."
+"He's not saying it like it's a joke." Wulin looked into his own bowl for a moment. "That's the part I noticed. Xie Xie says everything like it's a joke, and he's saying this one like it's a **number.** And I think the reason is that he has been the fastest person in our grade for three years and has just found out that the thing he is fastest at is not the thing that matters. And instead of being bad about it he has decided to be *loud* about you, which is the most Xie Xie thing I have ever seen a person do."
 
 Lin Hao did not answer, because there was nothing to say that would not have made it smaller.
 

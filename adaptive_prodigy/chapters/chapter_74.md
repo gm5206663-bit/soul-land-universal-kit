@@ -19,7 +19,7 @@ Lin Hao read the pamphlet twice — the second read in the violet that stood in 
 
 "I did. That's the sad part." — but he kept the true half, the rules, and did the arithmetic where he stood, because the day would demand it. *Sent by a major city:* check. *Under fifteen:* five times over. *Rank twenty-five at the very least:* thirty-three, thirty-one, thirty, twenty-eight, forty-five. The arithmetic had never once been the problem; the problem had a clock and a bathtub in it. And under the three printed rules, the pamphlet's author had hazarded a fourth, older than printing — that the real requirement had been decreed twenty thousand years ago, and it was not a number at all. Shrek did not accept ordinary people. The pamphlet said *monsters*, in the hushed typeface of a word the author half-expected to be sued over.
 
-The morning had already taken the two teachers — the white head and the white robe, side by side, a woman going home and a man going to a door he had knocked on in his sleep for thirteen years — and by afternoon a call had come through, one call, brief as all its sender's sentences: he was handling business; they were to keep to their rooms; under no account was the meditation to be disturbed.
+The morning had already taken the two teachers — the white head and the white robe, side by side, a woman going home and a man going to a door he had knocked on in his sleep for thirteen years. And by afternoon a call had come through, one call, brief as all its sender's sentences: he was handling business; they were to keep to their rooms; under no account was the meditation to be disturbed.
 
 The class looked at the order, and at the yard behind the inn, and did what a class does with an order that has no teacher attached to it.
 
@@ -109,7 +109,7 @@ They stopped Wu Zhangkong completely.
 
 And he dropped to his knees.
 
-It had no ceremony in it. That was the terrible part, for anyone who had seen the man conduct a class or filet a fish or stand a month of afternoons doing nothing on purpose — the arrogance and the sternness folded down like jade pillars and mountains of gold crashing to the ground, and the white-robed swordsman knelt on the black brick before two words on a sign.
+It had no ceremony in it. That was the terrible part, for anyone who had seen the man conduct a class or filet a fish or stand a month of afternoons doing nothing on purpose. The arrogance and the sternness folded down like jade pillars and mountains of gold crashing to the ground, and the white-robed swordsman knelt on the black brick before two words on a sign.
 
 "Wait here, senior brother," Shen Yi said, her heart trembling and her voice not showing it. "I'll go get Teacher." And she drew a breath and went through the arch like wind.
 
@@ -155,7 +155,7 @@ At some point in the night, the door to the washroom had been opened just a crac
 
 "Let's just wait," Xu Xiaoyan said meekly, from her chair. "Xie Xie, can you stop walking in circles? We've already made our choice. If we don't end up taking the exam, we'll just treat this trip as a holiday and nothing more. In any case, we're on vacation right now. Once Captain wakes up, we can go sightseeing at Shrek Academy. At the very least, we can have him treat us to dinner. I bet his cheeks will be sore considering how stingy he is."
 
-She giggled at the thought. It was a good thought. It was even a true one — Xie Xie's face did a strange thing, because he knew the ledger of that stinginess better than anyone: aside from the bare necessities, Tang Wulin paid for nothing, ever; every coin went into the savings like water into sand, and he rarely ate out because the price of filling that particular stomach was simply too steep.
+She giggled at the thought. It was a good thought. It was even a true one — Xie Xie's face did a strange thing, because he knew the ledger of that stinginess better than anyone: aside from the bare necessities, Tang Wulin paid for nothing, ever. Every coin went into the savings like water into sand, and he rarely ate out because the price of filling that particular stomach was simply too steep.
 
 "I keep thinking about the shape," Xiaoyan said, into the grey. "Five hands held. It's not the old one, but it held."
 

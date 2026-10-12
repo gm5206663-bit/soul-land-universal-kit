@@ -17,7 +17,7 @@ The marks were there, as they had been since the winter — faint, the colour of
 
 And when he put his hand on the iron basin, the iron tasted of rain.
 
-Lin Hao stood in front of a cracked mirror in a dormitory and understood two things at once. The first was that he had changed a great deal in four years and had not once looked. The second, which was worse, was that **everybody else had stopped looking too.** They had watched him turn into this, one degree at a time, the way you watch a tide come in — and now he was a boy with storm-gray hair and feather-marks on his arms and a breeze in his head, and nobody said anything about it any more, because it had simply become what he looked like.
+Lin Hao stood in front of a cracked mirror in a dormitory and understood two things at once. The first was that he had changed a great deal in four years and had not once looked. The second, which was worse, was that **everybody else had stopped looking too.** They had watched him turn into this, one degree at a time, the way you watch a tide come in. And now he was a boy with storm-gray hair and feather-marks on his arms and a breeze in his head, and nobody said anything about it any more, because it had simply become what he looked like.
 
 "Well," he said, to the mirror. "That's not nothing."
 
@@ -97,7 +97,7 @@ Now he turned around. And his eyes went to the temple, the way everybody's eyes 
 
 "How many times."
 
-"Three. The forest. The examination. Tuesday." Lin Hao took his hands out of his pockets. "And I want to be precise, because you've been precise with me and I'd like to return the favour. I did not ask for it. I have never once decided to use it. The first time I thought it was the pressure and the second time I thought it was the audience and the third time there was no pressure and no audience and it happened anyway, so both of my explanations are wrong and I have run out of explanations, and I have been carrying a thing inside me for four months that does things when it wants to, and I would like to know whether I should be frightened."
+"Three. The forest. The examination. Tuesday." Lin Hao took his hands out of his pockets. "And I want to be precise, because you've been precise with me and I'd like to return the favour. I did not ask for it. I have never once decided to use it. The first time I thought it was the pressure and the second time I thought it was the audience and the third time there was no pressure and no audience and it happened anyway. So both of my explanations are wrong and I have run out of explanations, and I have been carrying a thing inside me for four months that does things when it wants to, and I would like to know whether I should be frightened."
 
 Wu Zhangkong looked at him for a long time.
 
@@ -151,7 +151,7 @@ Lin Hao opened his mouth, and stopped, because something had arrived while Wu Zh
 
 Wu Zhangkong was quiet for a moment.
 
-"That," he said, "is a considerably better answer than the one I was going to give you, and I'd like it understood that I gave you the question." He looked at the marks on Lin Hao's forearm, and said, after a pause, "And for what it's worth — you have nine hundred and forty-odd years in each of two rings, and your body has been taking what that gives for four years, and you have never once in your life gone all out against anything that could measure it. You are not stuck at thirty. You are *coiled.* The rank is a number on a certificate. Everything under it is still climbing, and it has been climbing this whole time, and you have not been looking."
+"That," he said, "is a considerably better answer than the one I was going to give you, and I'd like it understood that I gave you the question." He looked at the marks on Lin Hao's forearm, and said, after a pause. "And for what it's worth — you have nine hundred and forty-odd years in each of two rings, and your body has been taking what that gives for four years, and you have never once in your life gone all out against anything that could measure it. You are not stuck at thirty. You are *coiled.* The rank is a number on a certificate. Everything under it is still climbing, and it has been climbing this whole time, and you have not been looking."
 
 ---
 
@@ -177,7 +177,7 @@ Then he walked over and picked up both halves of the nail, and looked at the cut
 
 "Right," he said, to the water.
 
-And then he laughed, because he had been frightened for four months, and frightened properly, in the way he had not been frightened by wolves or bears or a man with a card in his pocket, and the thing he had been frightened of had been *his own arm reaching for things,* and it turned out that what it wanted was not to hurt anybody. It wanted to *get there.* It had been trying to get places for four months and he had spent the whole time asking whether it was going to kill him.
+And then he laughed, because he had been frightened for four months, and frightened properly, in the way he had not been frightened by wolves or bears or a man with a card in his pocket. And the thing he had been frightened of had been *his own arm reaching for things,* and it turned out that what it wanted was not to hurt anybody. It wanted to *get there.* It had been trying to get places for four months and he had spent the whole time asking whether it was going to kill him.
 
 ---
 
@@ -185,7 +185,7 @@ And then he laughed, because he had been frightened for four months, and frighte
 
 He told Xie Xie the next morning within about ninety seconds, because that was the arrangement between them and it had never once needed discussing.
 
-They were in the yard with the rest of them, which was the other thing he had stopped doing, and Xie Xie was leaning on a post with his arms folded and one boot up on the bottom rail, and Wang Jinxi was standing very still six feet away the way he stood everywhere now, and Zhang Yangzi was sitting on the wall with his wrist still wrapped, and Wei Xiaofeng was pretending not to be listening from the far side of the yard with an efficiency that fooled nobody.
+They were in the yard with the rest of them, which was the other thing he had stopped doing, and Xie Xie was leaning on a post with his arms folded and one boot up on the bottom rail. And Wang Jinxi was standing very still six feet away the way he stood everywhere now, and Zhang Yangzi was sitting on the wall with his wrist still wrapped, and Wei Xiaofeng was pretending not to be listening from the far side of the yard with an efficiency that fooled nobody.
 
 "It goes at things," Lin Hao said. "That's all it does. It doesn't protect me, it *reaches.* Thirty feet. A nail. Cut clean and I didn't do it."
 

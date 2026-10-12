@@ -21,7 +21,7 @@ Not the one great fireball she had used on the Horned Dragon. Dozens, and small,
 
 Lin Hao watched him come down.
 
-He watched the right hammer stay back and the left come up in front of the chest, and he watched the gold run to the wrist, and he understood — with the flat, arithmetic-free certainty of a boy who has stood at an anvil long enough to know what a committed strike sounds like — that there was nothing behind it. Wulin had emptied himself into one blow, and if the blow did not land, there would be no second one, and there would not be time to be sorry.
+He watched the right hammer stay back and the left come up in front of the chest, and he watched the gold run to the wrist. And he understood — with the flat, arithmetic-free certainty of a boy who has stood at an anvil long enough to know what a committed strike sounds like — that there was nothing behind it. Wulin had emptied himself into one blow, and if the blow did not land, there would be no second one, and there would not be time to be sorry.
 
 A green wind blade went past with a whistle that hurt the teeth.
 
@@ -42,17 +42,17 @@ It fell head-first, which is how big things fall, and Xie Xie made a noise that 
 
 Then the light came out of it.
 
-Yellow, and one metre across, and it did not spread and it did not fade — it simply *chose,* and what it chose was Wulin, and Lin Hao was forty metres away and running and knowing perfectly well that he was going to be too late, because the light was faster than any of them and had already made up its mind.
+Yellow, and one metre across, and it did not spread and it did not fade — it simply *chose,* and what it chose was Wulin. And Lin Hao was forty metres away and running and knowing perfectly well that he was going to be too late, because the light was faster than any of them and had already made up its mind.
 
 "No—"
 
-That was Gu Yue. She had nothing left. Lin Hao had watched her spend it — the teleports, the tornado of leaves, the fireballs, the wind blade that was only a noise — and she had nothing left, and she flashed silver anyway and got there anyway, and put her arms under a boy who had become a statue and weighed as much as a statue, and the two Heavy Silver hammers were still in his hands.
+That was Gu Yue. She had nothing left. Lin Hao had watched her spend it — the teleports, the tornado of leaves, the fireballs, the wind blade that was only a noise — and she had nothing left. And she flashed silver anyway and got there anyway, and put her arms under a boy who had become a statue and weighed as much as a statue, and the two Heavy Silver hammers were still in his hands.
 
 They went down together.
 
 Lin Hao heard the thud from forty metres and it did not sound like a person landing.
 
-The crystal is frail. That was the whole horror of it and he understood it while he was still running: crystal does not bend, so crystal breaks, and a boy made of crystal falling onto forest floor becomes a great many pieces of boy, and this was a training platform, and a training platform was supposed to be safe, and the part of his mind that kept files had already found the entry — *residual effects. Possible permanent injury.* — and had underlined it.
+The crystal is frail. That was the whole horror of it and he understood it while he was still running: crystal does not bend, so crystal breaks, and a boy made of crystal falling onto forest floor becomes a great many pieces of boy. And this was a training platform, and a training platform was supposed to be safe, and the part of his mind that kept files had already found the entry — *residual effects. Possible permanent injury.* — and had underlined it.
 
 Gu Yue was underneath him.
 
@@ -102,7 +102,7 @@ He knelt down beside Wulin in the shredded grass and put the two daggers up and 
 
 Lin Hao looked at him.
 
-And the thing is — and this is the part he thought about for a year afterwards — he had arrived *after.* He had been forty metres away and running for a long time, and he had watched the button get slapped and the girl go into light, and he had stood there while Xie Xie knelt down and made his decision, and he had not said a single word to stop it.
+And the thing is — and this is the part he thought about for a year afterwards — he had arrived *after.* He had been forty metres away and running for a long time. And he had watched the button get slapped and the girl go into light, and he had stood there while Xie Xie knelt down and made his decision, and he had not said a single word to stop it.
 
 He could have. He was faster. He could have shouted from the treeline, *run, you idiot, he's crystal and you're empty,* and Xie Xie would have listened, because Xie Xie always listened, and it would have been correct.
 
@@ -156,11 +156,11 @@ He had not aimed it. He had not chosen it. He had, for approximately one third o
 
 "Shut up," Lin Hao said, and the fifth wolf came.
 
-He got five minutes. That is the honest account of it: five minutes, twelve wolves, one statue, one empty boy, and a sword that at some point stopped being held and started being *used,* and by the end he was not counting them any more because counting required a part of him that was busy, and the part that was busy was not thinking, and the not-thinking was, he discovered, extremely good at this.
+He got five minutes. That is the honest account of it: five minutes, twelve wolves, one statue, one empty boy. And a sword that at some point stopped being held and started being *used,* and by the end he was not counting them any more because counting required a part of him that was busy, and the part that was busy was not thinking, and the not-thinking was, he discovered, extremely good at this.
 
 The last wolf left. They always leave. Carrion eaters do not pay for meat.
 
-Lin Hao stood in the clearing with both arms hanging uselessly at his sides and blood on him that was perhaps a third his own, and behind him there was a sound like a window being unmade, and Wulin came out of the crystal the way a man comes out of deep water — all at once, and gasping, and furious.
+Lin Hao stood in the clearing with both arms hanging uselessly at his sides and blood on him that was perhaps a third his own. And behind him there was a sound like a window being unmade, and Wulin came out of the crystal the way a man comes out of deep water — all at once, and gasping, and furious.
 
 "—TOLD YOU TO RETREAT!" Wulin shouted, at nobody, at the sky, still holding both hammers.
 
@@ -176,7 +176,7 @@ Wu Zhangkong was in the forest.
 
 That was not supposed to be possible, and Lin Hao said so, and Wu Zhangkong said, "It isn't," and did not elaborate, and the two of them understood each other perfectly.
 
-He looked at the crystal-broken ground, and the twelve wolves, and the girl-shaped absence where Gu Yue had gone into light, and he looked at Wulin, who was sitting down hard and holding his right wrist, and at Xie Xie, who could not currently be moved, and at Lin Hao, who was standing because sitting down would have involved a decision about his legs.
+He looked at the crystal-broken ground, and the twelve wolves, and the girl-shaped absence where Gu Yue had gone into light, and he looked at Wulin, who was sitting down hard and holding his right wrist. And at Xie Xie, who could not currently be moved, and at Lin Hao, who was standing because sitting down would have involved a decision about his legs.
 
 "Whose idea was the triangle," Wu Zhangkong said.
 

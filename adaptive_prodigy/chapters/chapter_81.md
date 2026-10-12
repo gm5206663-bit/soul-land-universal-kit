@@ -100,7 +100,7 @@ The word sat there. Xiaoyan looked at Xie Xie. Xie Xie looked at Gu Yue.
 
 "There is," said Wulin — flat, immediate, brother-certain, not looking up from the gold.
 
-And Gu Yue, who of all the people in the world had the best reason to know what it was when somebody wrote a word in a blank line that had no square — *Elementalist* was on a form somewhere, and had been true ever since — looked at Lin Hao with her cold clear eyes and said, flat as a ruled line: "You wrote it in a blank line."
+And Gu Yue, who of all the people in the world had the best reason to know what it was when somebody wrote a word in a blank line that had no square. *Elementalist* was on a form somewhere, and had been true ever since — looked at Lin Hao with her cold clear eyes and said, flat as a ruled line: "You wrote it in a blank line."
 
 "Eleven seconds," he said. "The clerk said *right.*"
 

@@ -81,7 +81,7 @@ Lin Hao got *accurate*. Which was different, and which he noticed, because he no
 
 He did not have a word for any of it. He was nine. He assumed everybody's head did this and that it was simply impolite to mention.
 
-What he did have, by nine, was a sword he understood and a trade he was good at and a best friend who ate like a famine and worked like a man serving a sentence, and he had begun — very quietly, without telling anybody, because he had noticed that people got strange when you told them — to work out how much money all of that could be turned into.
+What he did have, by nine, was a sword he understood and a trade he was good at and a best friend who ate like a famine and worked like a man serving a sentence. And he had begun — very quietly, without telling anybody, because he had noticed that people got strange when you told them — to work out how much money all of that could be turned into.
 
 Because Wulin was saving. And Wulin had a number in his head. And Lin Hao had worked out, some time in the second year, what the number was for.
 
@@ -143,7 +143,7 @@ Then Wulin said, "Eighty-seven. Forty-one years."
 
 "They do if you make them." Wulin stopped walking. "Hao. I'm going to get to a hundred."
 
-Lin Hao looked at his friend — nine years old, rank eleven in soul power, thirty-eight in the thing that mattered, wearing a shirt his mother had let out twice — and did the thing he had been doing privately for three years, which was to look at Wulin and to find, to his continuing astonishment, that he could not work out what the boy was going to end up being.
+Lin Hao looked at his friend — nine years old, rank eleven in soul power, thirty-eight in the thing that mattered, wearing a shirt his mother had let out twice. And did the thing he had been doing privately for three years, which was to look at Wulin and to find, to his continuing astonishment, that he could not work out what the boy was going to end up being.
 
 He could work out everybody. He could not work out Wulin.
 
@@ -159,7 +159,7 @@ He did it the way he did everything, which was completely and without charm. He 
 
 On the morning of his ninth birthday he had **thirty thousand two hundred Federation Coins.**
 
-He went to the Spirit Pagoda branch with Lin Hao beside him and put the money on the counter in a cloth bag, and the woman behind the glass — who had given them both the tour three years ago and who remembered, because she remembered everybody — looked at the bag and then at his face, and her expression did something complicated.
+He went to the Spirit Pagoda branch with Lin Hao beside him and put the money on the counter in a cloth bag. And the woman behind the glass — who had given them both the tour three years ago and who remembered, because she remembered everybody — looked at the bag and then at his face, and her expression did something complicated.
 
 "The draw," said Wulin.
 
@@ -197,7 +197,7 @@ Wulin did not move.
 
 Wulin picked it up.
 
-It curled around his finger and lay there, and it was, Lin Hao thought, the saddest thing he had ever seen — not because it was weak, but because Wulin had carried a cloth bag of coins for three years and gotten exactly what the woman had told him he would get, and because he was still holding it very carefully, the way you hold something alive.
+It curled around his finger and lay there, and it was, Lin Hao thought, the saddest thing he had ever seen. Not because it was weak, but because Wulin had carried a cloth bag of coins for three years and gotten exactly what the woman had told him he would get, and because he was still holding it very carefully, the way you hold something alive.
 
 "What do you want to do?" said Lin Hao, quietly.
 
@@ -219,7 +219,7 @@ That was the only way Lin Hao could afterwards describe it. The small earthen-ye
 
 Then the grass began to change.
 
-It thickened. It lengthened. The thin weak blades that had been the joke of a school cafeteria in Glorybound City ran out along the ground and up the wall and over the top of it, and as they ran they put on **scales** — fine, overlapping, the same rhombus pattern the snake had had — and along the length of each one there came a **stripe of gold**, thin as a thread, running the whole way.
+It thickened. It lengthened. The thin weak blades that had been the joke of a school cafeteria in Glorybound City ran out along the ground and up the wall and over the top of it, and as they ran they put on **scales**. Fine, overlapping, the same rhombus pattern the snake had had — and along the length of each one there came a **stripe of gold**, thin as a thread, running the whole way.
 
 It was not grass any more.
 
@@ -283,7 +283,7 @@ Then he came back out, because he was Mang Tian and he could not leave a thing h
 
 That night, in the garden, with the moon up and his parents asleep, Wulin called the snake out.
 
-It came — ten centimetres, earthen yellow, rhombus scales, worth thirty thousand Federation Coins and nothing at all — and lay in the hollow of his palm, and it had been with him for a day, and a spirit soul stays with its master for life and dissipates only when the master dies, which was a fact Wulin had read three times and had not, until that moment, properly understood.
+It came — ten centimetres, earthen yellow, rhombus scales, worth thirty thousand Federation Coins and nothing at all — and lay in the hollow of his palm, and it had been with him for a day. And a spirit soul stays with its master for life and dissipates only when the master dies, which was a fact Wulin had read three times and had not, until that moment, properly understood.
 
 "Thank you," he said to it. "You gave me hope and I turned my back on you for about a month and I'm sorry."
 
@@ -311,13 +311,13 @@ So its name was Goldlight — a simple name, and a good one, and the first thing
 
 Lin Hao had taken his ring six months earlier, and he had not made a fuss about it, which in retrospect everybody agreed was the most Lin Hao thing about the whole affair.
 
-He had saved separately from Wulin — not three years, because Lin Hao had begun selling components in his second year and Mang Tian had taken a percentage and then, noticing what the percentage was doing, had quietly stopped taking it — and he had not bought the draw, because he had done the arithmetic on the draw and found it obscene.
+He had saved separately from Wulin — not three years, because Lin Hao had begun selling components in his second year and Mang Tian had taken a percentage and then, noticing what the percentage was doing, had quietly stopped taking it. And he had not bought the draw, because he had done the arithmetic on the draw and found it obscene.
 
 He had bought a **Gale Hawk.**
 
 Wind, with lightning in it. Ten years. White. Cheap, in the way that ten-year things are cheap, and exactly suited to a sword that already had wind and lightning in it, which the woman at the counter had called a coincidence and Lin Hao had not.
 
-Fusing it had taken an afternoon. The ring had come up white around his feet and settled, and the Stormbringer Sword had got *quieter*, which he had not expected — the restlessness along the edge had stopped being a tremor and become a decision, as though the blade had been asking a question for three years and had finally been given enough information to form an opinion.
+Fusing it had taken an afternoon. The ring had come up white around his feet and settled, and the Stormbringer Sword had got *quieter*, which he had not expected. The restlessness along the edge had stopped being a tremor and become a decision, as though the blade had been asking a question for three years and had finally been given enough information to form an opinion.
 
 His rank went to eleven.
 

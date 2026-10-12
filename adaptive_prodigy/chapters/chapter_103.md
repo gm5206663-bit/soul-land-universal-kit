@@ -89,7 +89,7 @@ She went out onto the plaza edge the way a smith walks to a known anvil: without
 
 Her three rings rose — two purple and the yellow that the five of them no longer needed explained to each other. The first ring lit. Elemental Tide: green light gathering in her cupped palms, specks of wind-light, and then blue answering it, water drawn out of the morning air itself, two equal lights beginning to turn around each other in the smallest possible spiral.
 
-The second ring. Elemental Control. The spiral took feed — the morning mist, the damp off the flags, the air above the plaza giving up its water the way ore gives its metal when the temperature is honest — and grew. A meter tall. Two meters. A standing whirlpool of fused wind and water, and Gu Yue standing inside the calm at its center, eyes narrow, moving a tenth as fast as she moved in a fight, because this wasn't combat, this was *craft*, and craft, as Lin Hao had been telling every bar of metal he owned since he was seven, is what power looks like when it refuses to hurry.
+The second ring. Elemental Control. The spiral took feed — the morning mist, the damp off the flags, the air above the plaza giving up its water the way ore gives its metal when the temperature is honest — and grew. A meter tall. Two meters. A standing whirlpool of fused wind and water, and Gu Yue standing inside the calm at its center, eyes narrow, moving a tenth as fast as she moved in a fight, because this wasn't combat, this was *craft*. And craft, as Lin Hao had been telling every bar of metal he owned since he was seven, is what power looks like when it refuses to hurry.
 
 The third ring lit. Elemental Fusion.
 
@@ -111,7 +111,7 @@ Gu Yue lowered her hands. The vortex unwound itself into the air, two meters of 
 
 Gu Yue was not looking at the steward.
 
-She was looking at the branch. For exactly one heartbeat, her eyes moved from the rime to Lin Hao — the flat, measuring look she had given the spring that fed him once, back in the exam, the look that filed a thing without asking about it — and then the look was gone and she was smiling at Wulin's praise like a girl who had simply cleaned a plaza very well.
+She was looking at the branch. For exactly one heartbeat, her eyes moved from the rime to Lin Hao — the flat, measuring look she had given the spring that fed him once, back in the exam, the look that filed a thing without asking about it. And then the look was gone and she was smiling at Wulin's praise like a girl who had simply cleaned a plaza very well.
 
 Lin Hao gave nothing back. Neither did the branch.
 
@@ -129,7 +129,7 @@ He had followed the breathing sound. The pavilion's furnace door stood wide to t
 
 The smith did not turn. He was watching a pour — a small one, a workshop pour, the kind nobody famous ever watches — and he said, without looking away: "Then read me this."
 
-So Lin Hao came off the threshold and stood where the heat first becomes a thing you have to *decide* about, and he read the pour the way his father's hands had taught him, the way Mu Chen's room had confirmed: the color of the stream as it left the lip, the speed of the skin forming on the flow, the note the mold made when the metal first touched in. He did not say anything until the stream ended and the smith tilted the crucible back.
+So Lin Hao came off the threshold and stood where the heat first becomes a thing you have to *decide* about. And he read the pour the way his father's hands had taught him, the way Mu Chen's room had confirmed: the color of the stream as it left the lip, the speed of the skin forming on the flow, the note the mold made when the metal first touched in. He did not say anything until the stream ended and the smith tilted the crucible back.
 
 "Sixty degrees too cold for the section it's going into," he said. "The flow will set before the mold fills. It's not your fire — it's the scrap you're running. That ingot's been poured before, twice I'd guess, and it carries the memory of it. Reforged metal cools honest but cools *fast.*"
 
@@ -177,7 +177,7 @@ Wulin found him there an hour later, walking in from the barracks end with a hal
 
 Tie Jin, who had been listening from the furnace door in the dark, said without showing himself: "You're the sixteen-bun boy. I heard about you from the island. You can have hours too. Bring the other small smith's reading and I'll test the both of you at once." He came out into the firelight long enough to nod at the cuff. "Hang it."
 
-So Lin Hao took his first failed piece to the failure wall, and Tie Jin gave him an iron hook, and he hung it among the strangers' catastrophes — the cracked fittings, the folded joints, the shapes that had stopped being shapes — and put no name on it, because the wall did not ask for names, only that the piece stay.
+So Lin Hao took his first failed piece to the failure wall, and Tie Jin gave him an iron hook, and he hung it among the strangers' catastrophes. The cracked fittings, the folded joints, the shapes that had stopped being shapes — and put no name on it, because the wall did not ask for names, only that the piece stay.
 
 On the way back through the gate he stopped under the sign, and read it again, and said, to Wulin, the last thing he planned to say about the matter for a while:
 

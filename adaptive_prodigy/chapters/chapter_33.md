@@ -261,7 +261,7 @@ Xie Xie made a noise.
 
 Lin Hao looked at the sword.
 
-"No," he said, slowly, because he was working it out as he said it and it was important not to say the wrong thing to a boy who would remember it. "The sword doesn't know anything. The sword is a bar. *I* know something I don't know — I've known how to do it for four years, the same way I know how to walk, and the knowing is under the part of me that decides things, and every time I go looking for it I send the deciding part, and the deciding part can't see it, the same way you can't see your own eye without a mirror." He put the sword away. "So I can't teach it to you. That's the answer to the homework. I can't teach it, because there's nothing to teach, because it isn't knowledge, it's the thing that happens when knowledge stops being consulted."
+"No," he said, slowly, because he was working it out as he said it and it was important not to say the wrong thing to a boy who would remember it. "The sword doesn't know anything. The sword is a bar. *I* know something I don't know — I've known how to do it for four years, the same way I know how to walk, and the knowing is under the part of me that decides things. And every time I go looking for it I send the deciding part, and the deciding part can't see it, the same way you can't see your own eye without a mirror." He put the sword away. "So I can't teach it to you. That's the answer to the homework. I can't teach it, because there's nothing to teach, because it isn't knowledge, it's the thing that happens when knowledge stops being consulted."
 
 "You're going to tell Wu Zhangkong that."
 
@@ -281,7 +281,7 @@ Lin Hao looked at the sword.
 
 Wu Zhangkong listened to the whole of it with his arms folded, in the yard, at the end of the week.
 
-"You cannot teach it," Lin Hao said. "Because there's nothing to teach. It isn't knowledge. It's what happens when knowledge stops being consulted, and the condition isn't lack of control, it's lack of an *audience* — I spent four days not deciding things and staring at a target, and nothing happened, and then Xie Xie sat on the floor and talked to me about steel and my arm took a straw dummy's head off in the middle of a sentence about spirit-steel prices."
+"You cannot teach it," Lin Hao said. "Because there's nothing to teach. It isn't knowledge. It's what happens when knowledge stops being consulted, and the condition isn't lack of control, it's lack of an *audience* — I spent four days not deciding things and staring at a target. And nothing happened, and then Xie Xie sat on the floor and talked to me about steel and my arm took a straw dummy's head off in the middle of a sentence about spirit-steel prices."
 
 Wu Zhangkong was quiet for a while.
 

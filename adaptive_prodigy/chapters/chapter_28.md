@@ -233,7 +233,7 @@ Xie Xie was quiet for a moment.
 
 "I will end you."
 
-"*Smithy School.*" And the door closed, and Lin Hao stood in the corridor with his bruised hip and his thumbprint of a scar and a two-week deadline and a friend who was going to spend six Saturdays finding out whether he wanted his own life, and he thought — not for the first time, and not for the last — that he would rather have this than the number.
+"*Smithy School.*" And the door closed, and Lin Hao stood in the corridor with his bruised hip and his thumbprint of a scar and a two-week deadline and a friend who was going to spend six Saturdays finding out whether he wanted his own life. And he thought — not for the first time, and not for the last — that he would rather have this than the number.
 
 Then he went to bed, because he was ten, and the anvil would still be there in the morning, and the grain would still be in the steel, waiting to be read.
 

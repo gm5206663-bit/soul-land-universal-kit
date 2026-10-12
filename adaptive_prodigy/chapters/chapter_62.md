@@ -58,7 +58,7 @@ Wu Zhangkong did not move. "He wrote a word in a blank line. The blank line has 
 
 "No," said Wu Zhangkong. "It is the seventh."
 
-The man wrote something down. Lin Hao watched the pen and understood that the pen was not writing a definition, because the man did not have one, and that the man was writing *the teacher said so* because that was all he had, and that this was apparently how a thing became real, and that it had nothing at all to do with whether the thing was true.
+The man wrote something down. Lin Hao watched the pen and understood that the pen was not writing a definition, because the man did not have one. And that the man was writing *the teacher said so* because that was all he had, and that this was apparently how a thing became real, and that it had nothing at all to do with whether the thing was true.
 
 Then the man folded his hands.
 
@@ -126,7 +126,7 @@ Lin Hao didn't answer, and Xie Xie turned his head, and the grin arrived — del
 
 Wulin had not spoken at all.
 
-Lin Hao looked at him, because Wulin not speaking was the loudest thing in the yard. Wulin was standing with his mouth slightly open and his hands up at chest height, holding nothing, and Lin Hao understood that Wulin had wanted to see a battle armor since he was six years old and had said so perhaps four hundred times, and that the wanting was happening, and that it had arrived too fast for him to say anything about it.
+Lin Hao looked at him, because Wulin not speaking was the loudest thing in the yard. Wulin was standing with his mouth slightly open and his hands up at chest height, holding nothing. And Lin Hao understood that Wulin had wanted to see a battle armor since he was six years old and had said so perhaps four hundred times, and that the wanting was happening, and that it had arrived too fast for him to say anything about it.
 
 Gu Yue was two metres to Lin Hao's left.
 
@@ -206,7 +206,7 @@ He went back to the smithy, because the smithy was where he knew what he was doi
 
 The book had one hundred and seven lines in it.
 
-Eleven of them were about Wu Zhangkong's sword. They were there because the sword was readable — the Frost Scars had a signature, the entry angle had three variants, the wrist gave a tell at the top of the second beat — and he had used every one of them, and in eight months he had gone from being hit in nine seconds to being hit in four, and the eleven lines were the reason.
+Eleven of them were about Wu Zhangkong's sword. They were there because the sword was readable — the Frost Scars had a signature, the entry angle had three variants, the wrist gave a tell at the top of the second beat. And he had used every one of them, and in eight months he had gone from being hit in nine seconds to being hit in four, and the eleven lines were the reason.
 
 He put the pen at the end of the eleventh and wrote:
 
@@ -244,7 +244,7 @@ She was on the seawall at the end of the day.
 
 He sat down beside her, because he had begun to understand that this was what she did instead of saying things, and that it might also be what he did.
 
-They didn't speak for a while. The water went on doing what the water did. Out past the third buoy a gull turned with the wind instead of against it, and he watched it do it and thought that he had watched a gull do that once before, a long time ago, in a city that smelled of hot metal, and had thought at the time it was the most efficient thing he had ever seen.
+They didn't speak for a while. The water went on doing what the water did. Out past the third buoy a gull turned with the wind instead of against it. And he watched it do it and thought that he had watched a gull do that once before, a long time ago, in a city that smelled of hot metal, and had thought at the time it was the most efficient thing he had ever seen.
 
 Then he said it.
 
@@ -296,7 +296,7 @@ And *but I wanted to tell you*, which she had not been given an answer to. And *
 
 Gu Yue looked at her own hands, because that was where she put the things she was not going to say.
 
-In the ten months she had known him she had given him nothing. Not one element, not one ring released where he could read it, not one technique — and he had been cheerful about the blank page the entire time, which was the part she had never managed to make sense of, until the morning before dawn four months ago when she had finally taught him something and watched him take the top half off a bar at forty metres.
+In the ten months she had known him she had given him nothing. Not one element, not one ring released where he could read it, not one technique. And he had been cheerful about the blank page the entire time, which was the part she had never managed to make sense of, until the morning before dawn four months ago when she had finally taught him something and watched him take the top half off a bar at forty metres.
 
 He had never once asked her for a reason.
 
@@ -304,7 +304,7 @@ She thought about the sentence he had not finished. She knew what came after *or
 
 She did not say it.
 
-She sat in a city that smelled of salt and hot metal, with the rest of her life in front of her and the warm place beside her going cold, and she did not say it, and she noticed — clearly, the way she noticed everything, which was the trouble with her — that not saying it was the first thing she had ever done for him that cost her anything.
+She sat in a city that smelled of salt and hot metal, with the rest of her life in front of her and the warm place beside her going cold. And she did not say it, and she noticed — clearly, the way she noticed everything, which was the trouble with her — that not saying it was the first thing she had ever done for him that cost her anything.
 
 Out past the third buoy, the gull turned with the wind.
 
@@ -336,7 +336,7 @@ He wrote:
 
 And stopped, and left it.
 
-He had never left a line unfinished in that book. He thought about it with the pen hovering, and decided that a thing which stopped should be written down as a thing that stopped, and that if he finished the sentence in here the sentence would become a thing he had said, and he had not said it, and he would rather have the gap in the only honest book he owned.
+He had never left a line unfinished in that book. He thought about it with the pen hovering, and decided that a thing which stopped should be written down as a thing that stopped, and that if he finished the sentence in here the sentence would become a thing he had said. And he had not said it, and he would rather have the gap in the only honest book he owned.
 
 Eight points today, and there had not been a fight. He had been saying for four months that the fighting was the cultivation. He had said it often enough that it stopped being something he noticed and became something he believed, and today he got eight points from standing in a yard watching a man put on his own name, and the rule was either wrong or it was not the whole of it, and he could not yet tell which.
 

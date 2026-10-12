@@ -31,7 +31,7 @@ And then the daily ones. Xie Xie, every morning, nine weeks and then months, unt
 
 Seventy-one lines. Seventy-one opponents, or versions of opponents, and behind every one of them a small permanent answer that had cost him a bruise to buy and would never cost him anything again.
 
-That was the thing nobody in class zero had understood yet, and that Wu Zhangkong — who had been hitting seven children for five months and had hit Lin Hao precisely four times, and had begun, without saying so, to aim at him the way a man aims at something he is not entirely sure he can hit — understood perfectly.
+That was the thing nobody in class zero had understood yet, and that Wu Zhangkong — who had been hitting seven children for five months and had hit Lin Hao precisely four times. And had begun, without saying so, to aim at him the way a man aims at something he is not entirely sure he can hit — understood perfectly.
 
 🔴 *Lin Hao was the strongest in the room, and had been since the day he was measured.* Gu Yue's 153 was canon's crown for a world without him in it; his 178 was above it, and Wu Zhangkong had stopped saying otherwise two measurements ago.
 
@@ -76,15 +76,15 @@ Zhang Yangzi was next. Forty-one. "Not bad," Wu Zhangkong said. "If you do your 
 
 And then there were two left. And Zhang Yangzi, who had figured out the staircase, looked at the order, and looked at Lin Hao, and then at Gu Yue, and understood — with the slow, cold understanding of a boy doing arithmetic he did not like — that the staircase went up to *both* of them, and that the numbers were about to stop being normal.
 
-Lin Hao went before Gu Yue. Because the staircase rose, and his number was lower than hers, and Wu Zhangkong had arranged it that way, and Lin Hao — who had known this was coming, who had watched the man with the smoky green eyes log a number in silence at the tournament and never say it — stepped up to the machine the way he stepped up to a forge, and put his hand on it, and let it measure him.
+Lin Hao went before Gu Yue. Because the staircase rose, and his number was lower than hers, and Wu Zhangkong had arranged it that way. And Lin Hao — who had known this was coming, who had watched the man with the smoky green eyes log a number in silence at the tournament and never say it — stepped up to the machine the way he stepped up to a forge, and put his hand on it, and let it measure him.
 
 The number climbed.
 
-It went past the white line. It went into the yellow. It broke a hundred, the way it had broken a hundred at the tournament, and then it kept going, and this was the part that made Wu Zhangkong's pen stop moving, because at the tournament it had stopped at one hundred and eighty and he had written that down and closed the book and carried it in his head for five months waiting to see if it would hold.
+It went past the white line. It went into the yellow. It broke a hundred, the way it had broken a hundred at the tournament, and then it kept going. And this was the part that made Wu Zhangkong's pen stop moving, because at the tournament it had stopped at one hundred and eighty and he had written that down and closed the book and carried it in his head for five months waiting to see if it would hold.
 
 It had not held. It had not even *stayed.*
 
-One hundred and forty. One hundred and sixty. One hundred and eighty — and Zhang Yangzi's jaw dropped, and Wang Jinxi's jaw dropped, and Xie Xie, who had been about to say something loud, did not say anything at all, because the number was still climbing, and it did not stop until it reached a number that had no business belonging to a ten-year-old who had never held a spirit soul until he was eight and a half.
+One hundred and forty. One hundred and sixty. One hundred and eighty — and Zhang Yangzi's jaw dropped, and Wang Jinxi's jaw dropped, and Xie Xie, who had been about to say something loud, did not say anything at all, because the number was still climbing. And it did not stop until it reached a number that had no business belonging to a ten-year-old who had never held a spirit soul until he was eight and a half.
 
 The machine said: **one hundred and seventy-eight.**
 
@@ -116,7 +116,7 @@ Xie Xie made a sound like a kettle.
 
 Wu Zhangkong wrote the number down. He wrote it slowly. And then he said, "Well," and "that's not *normal*" was what Xie Xie said next, in a voice that had gone strangely small, and Wu Zhangkong agreed, and wrote it down, and said nothing else, because there was nothing else to say that would not raise a hundred questions he was not, yet, going to answer.
 
-And Lin Hao — who had known, who had always known, who had watched this number coming since the sea took a girl and a man with smoky green eyes wrote it in a ledger and closed the book — looked at the number, and shrugged, and said, "I told you they'd measure me," in the voice of a boy who had told you, and had been right, and was not, particularly, enjoying it. "I told you it'd be a number. I didn't say it'd be a *normal* number." He looked at Wu Zhangkong. "You knew. You knew at the tournament. You wrote it down and you didn't say it."
+And Lin Hao — who had known, who had always known, who had watched this number coming since the sea took a girl and a man with smoky green eyes wrote it in a ledger and closed the book. Looked at the number, and shrugged, and said, "I told you they'd measure me," in the voice of a boy who had told you, and had been right, and was not, particularly, enjoying it. "I told you it'd be a number. I didn't say it'd be a *normal* number." He looked at Wu Zhangkong. "You knew. You knew at the tournament. You wrote it down and you didn't say it."
 
 "I wrote down a great many numbers at the tournament," Wu Zhangkong said, which was not a denial, and which Lin Hao took for what it was.
 
@@ -142,7 +142,7 @@ Zhang Yangzi blinked. Xie Xie blinked. And Zhang Yangzi, who could not un-see a 
 
 "But Lin Hao's was one hundred and seventy-eight, and he's been—"
 
-"Climbing," Wu Zhangkong said. "Yes." And he wrote down Gu Yue's number with exactly the same expression he had written down every other number, which was the expression of a man filling in a form, and the entire room understood, in one lurching instant, two things at once: that one hundred and fifty-three on a ten-year-old elementalist was a number that did not belong to children at all. Had not belonged to them since before any of the rest of the class had been measured; and that the boy who had spent five months climbing had climbed *to second place,* which was not the same thing as failing and was also not the thing he had been climbing for.
+"Climbing," Wu Zhangkong said. "Yes." And he wrote down Gu Yue's number with exactly the same expression he had written down every other number, which was the expression of a man filling in a form. And the entire room understood, in one lurching instant, two things at once: that one hundred and fifty-three on a ten-year-old elementalist was a number that did not belong to children at all. Had not belonged to them since before any of the rest of the class had been measured; and that the boy who had spent five months climbing had climbed *to second place,* which was not the same thing as failing and was also not the thing he had been climbing for.
 
 Gu Yue looked at Lin Hao. It was the first time she had looked directly at him all morning. Her face did not do anything that could be called an expression, and yet Xie Xie, watching from the safety of the boy's own considerable cowardice, felt the temperature in the room make a decision.
 
@@ -156,9 +156,9 @@ Something happened to Gu Yue's face then that was not a smile and was absolutely
 
 Wu Zhangkong said, "Next is the endurance test," in the casual voice of a man changing the subject on purpose.
 
-The endurance test measured the power of a single blow, because for soul masters, only attack power had meaning. Gu Yue went first. And her left fist — the left fist of a ten-year-old elementalist — registered **one hundred and fifteen kilograms,** and Zhang Yangzi nearly fell over, because she was an elementalist, she was ten, and elementalist soul masters did not hit like that, and Xie Xie, who had been measured at a number he was not, yet, going to be teased about, trembled a little, and said nothing, because he had learned.
+The endurance test measured the power of a single blow, because for soul masters, only attack power had meaning. Gu Yue went first. And her left fist — the left fist of a ten-year-old elementalist — registered **one hundred and fifteen kilograms,** and Zhang Yangzi nearly fell over, because she was an elementalist, she was ten. And elementalist soul masters did not hit like that, and Xie Xie, who had been measured at a number he was not, yet, going to be teased about, trembled a little, and said nothing, because he had learned.
 
-And then it was Lin Hao's turn. He stepped up and put his fist into the machine, and the machine said **four hundred and seventy kilograms** — higher than Gu Yue's, higher than Wang Jinxi's, higher than a number that had any business coming out of a ten-year-old. Zhang Yangzi's jaw dropped a third time, and Lin Hao looked at it and said, "I've been swinging a hammer since I was four," in the voice of a boy explaining something obvious, "so either the machine's broken or I've been doing it right," and Wu Zhangkong wrote the number down. Said, "Your form is wrong," because he was Wu Zhangkong, and because the kindness came sideways, "which means the number is going to be a great deal higher when you fix it," and Lin Hao, who had been carrying a number quietly since he was six, looked at the man, and grinned, because that was the first kind thing anyone had said to him all day, and it had come, as all of Wu Zhangkong's kindness did, dressed up as an insult.
+And then it was Lin Hao's turn. He stepped up and put his fist into the machine, and the machine said **four hundred and seventy kilograms** — higher than Gu Yue's, higher than Wang Jinxi's, higher than a number that had any business coming out of a ten-year-old. Zhang Yangzi's jaw dropped a third time, and Lin Hao looked at it and said, "I've been swinging a hammer since I was four," in the voice of a boy explaining something obvious, "so either the machine's broken or I've been doing it right," and Wu Zhangkong wrote the number down. Said, "Your form is wrong," because he was Wu Zhangkong, and because the kindness came sideways, "which means the number is going to be a great deal higher when you fix it," and Lin Hao, who had been carrying a number quietly since he was six, looked at the man. And grinned, because that was the first kind thing anyone had said to him all day, and it had come, as all of Wu Zhangkong's kindness did, dressed up as an insult.
 
 Wu Zhangkong looked at his form. The numbers were monstrous. The form was, indeed, wrong — a smith's form, built for a hammer and an anvil and a fixed target that never moved, and it had never been corrected because there had never been time and nobody had thought to.
 
@@ -184,7 +184,7 @@ The ground went quiet.
 
 "I am taking away," Wu Zhangkong said, "the two things that let him not be a swordsman." He looked at Lin Hao. "Your sword. Your body. Your eyes. That is all. If that is not enough, then I have been wrong about you for five months, and I would like to find that out now rather than in three years when something is trying to kill you."
 
-And Lin Hao, who had been carrying a number quietly since he was six years old and the sea took a girl, and who had been carrying seventy-one lines in a ledger nobody knew existed, and who had been waiting — though he would have died before admitting it, and did nearly die, several times, in the next eleven minutes — for exactly this, drew the Stormbringer.
+And Lin Hao, who had been carrying a number quietly since he was six years old and the sea took a girl, and who had been carrying seventy-one lines in a ledger nobody knew existed, and who had been waiting — though he would have died before admitting it. And did nearly die, several times, in the next eleven minutes — for exactly this, drew the Stormbringer.
 
 "You're going to be *so*—" Wulin began.
 
@@ -200,7 +200,7 @@ And Lin Hao, who had been carrying a number quietly since he was six years old a
 
 Wang Jinxi's Bone Dragon King rose around him in yellow light and his claw came in on the line that had broken three of class one's best.
 
-Lin Hao did not dodge it. He *met* it — Stormbringer flat, angled forty degrees, taking the impact on the blade the way an anvil takes a hammer, and the shock went down his arms and into his feet and into the dirt, and he did not move, because four hundred and seventy kilograms is what a body looks like when it has swung a hammer since it was four years old. And then the sword spoke. Not a cut. A *question* — laid along the inside of Wang Jinxi's wrist, exactly where the claw's own momentum had committed the arm to a direction it could no longer leave.
+Lin Hao did not dodge it. He *met* it — Stormbringer flat, angled forty degrees, taking the impact on the blade the way an anvil takes a hammer, and the shock went down his arms and into his feet and into the dirt. And he did not move, because four hundred and seventy kilograms is what a body looks like when it has swung a hammer since it was four years old. And then the sword spoke. Not a cut. A *question* — laid along the inside of Wang Jinxi's wrist, exactly where the claw's own momentum had committed the arm to a direction it could no longer leave.
 
 Wang Jinxi's claw was still going. Wang Jinxi was not. He went down on one knee with the Stormbringer's edge resting against the tendons of his own wrist, and he stayed there, and he said, "You read that."
 
@@ -248,7 +248,7 @@ Wei Xiaofeng's face did something complicated. He got up without help. He did no
 
 **Xie Xie** went fourth, and Xie Xie lasted longest, and Xie Xie knew it was coming, and Xie Xie was still furious about it.
 
-Two rings. Light Dragon Dagger. Nine weeks of mornings and then months more, and Xie Xie had, over that time, become the one person alive who could genuinely hurt Lin Hao in a spar — which is why Lin Hao had asked for him every single morning, and why Xie Xie, who was many things but not stupid, had eventually understood what he was being used for and had decided, characteristically, to enjoy it.
+Two rings. Light Dragon Dagger. Nine weeks of mornings and then months more, and Xie Xie had, over that time, become the one person alive who could genuinely hurt Lin Hao in a spar — which is why Lin Hao had asked for him every single morning. And why Xie Xie, who was many things but not stupid, had eventually understood what he was being used for and had decided, characteristically, to enjoy it.
 
 Eleven exchanges. Xie Xie landed two — one on the shoulder, one across the forearm, and the second one opened skin, and Lin Hao hissed, and Xie Xie's whole face lit up like a lantern.
 
@@ -262,7 +262,7 @@ Eleven exchanges. Xie Xie landed two — one on the shoulder, one across the for
 
 "And you still won."
 
-"I still won," Lin Hao agreed, and the Stormbringer was at Xie Xie's throat, and Xie Xie was grinning the grin of a boy who had drawn blood off a monster, and Lin Hao was grinning back, because the shoulder was going to bruise and the bruise was worth more than the win, and this was the whole arrangement between them and had been since the first morning.
+"I still won," Lin Hao agreed, and the Stormbringer was at Xie Xie's throat, and Xie Xie was grinning the grin of a boy who had drawn blood off a monster. And Lin Hao was grinning back, because the shoulder was going to bruise and the bruise was worth more than the win, and this was the whole arrangement between them and had been since the first morning.
 
 "That's your sixty-ninth," Xie Xie said, touching his own throat where the edge had been. "I'm in the ledger at sixty-nine."
 
@@ -282,7 +282,7 @@ The Stormbringer and the hammer met, and the training ground — which had been 
 
 It was not a long fight. It was, however, the only one that made Wu Zhangkong step forward.
 
-Wulin's body was not, entirely, the same stuff as the other six. He took the Stormbringer flat across the forearm and the forearm did not bruise and Wulin did not slow, and Lin Hao — who had fought this exact brother every evening for months, who knew the hammer's lines the way he knew his own — found himself in the one exchange in the ledger that had no answer in it, because Wulin did not adapt. Wulin *endured.* You could learn the angle and the angle would still break your arm.
+Wulin's body was not, entirely, the same stuff as the other six. He took the Stormbringer flat across the forearm and the forearm did not bruise and Wulin did not slow. And Lin Hao — who had fought this exact brother every evening for months, who knew the hammer's lines the way he knew his own — found himself in the one exchange in the ledger that had no answer in it, because Wulin did not adapt. Wulin *endured.* You could learn the angle and the angle would still break your arm.
 
 So Lin Hao did the only thing that worked, which was to stop trying to win the exchange and win the *position* instead — one step, blade down, edge at the base of Wulin's hammer wrist where the grip lived, and Wulin's hammer stopped, because the hammer could survive anything except not being held.
 
@@ -294,13 +294,13 @@ So Lin Hao did the only thing that worked, which was to stop trying to win the e
 
 "That's the whole thing," Lin Hao said. "That's literally the entire thing. It's in the name."
 
-Wulin let go of the hammer's head with one hand and put that hand on Lin Hao's shoulder, and left it there, and the training ground — the six, the man with the pointing stick — watched the two of them for a beat longer than was strictly about combat, and then Wu Zhangkong said, "Gu Yue," in the flat voice, and the beat ended.
+Wulin let go of the hammer's head with one hand and put that hand on Lin Hao's shoulder, and left it there, and the training ground. The six, the man with the pointing stick — watched the two of them for a beat longer than was strictly about combat, and then Wu Zhangkong said, "Gu Yue," in the flat voice, and the beat ended.
 
 ---
 
 **Gu Yue** went sixth.
 
-She did not release a ring. She did not raise a hand. She walked to the center of the ground the way she did everything, which was as though the ground had agreed to be walked on, and she stopped one meter from the Stormbringer's point, and she looked at Lin Hao, and Lin Hao — who had seventy-one lines in a ledger, who had a sword that spoke first, who had four hundred and seventy kilograms and one hundred and seventy-eight points and five months of pressure behind him — understood, with total clarity, that he had no line for this one.
+She did not release a ring. She did not raise a hand. She walked to the center of the ground the way she did everything, which was as though the ground had agreed to be walked on, and she stopped one meter from the Stormbringer's point, and she looked at Lin Hao. And Lin Hao — who had seventy-one lines in a ledger, who had a sword that spoke first, who had four hundred and seventy kilograms and one hundred and seventy-eight points and five months of pressure behind him — understood, with total clarity, that he had no line for this one.
 
 Because Gu Yue had never fought him. Not once. She had fought beside him, and near him, and she had poured a cup of water under four gripping toes, and she had looked at him exactly once that morning. But she had never, in five months, given him a single thing to write down.
 
@@ -322,7 +322,7 @@ Gu Yue looked at him.
 
 Gu Yue did not fight him. Wu Zhangkong made a mark on his form that was, by his standards, a long one.
 
-And the six were down — five of them beaten, one of them undefeated by declining to begin — and Lin Hao stood in the center of the training ground with two rings and a sword and no wind and no talon and a bruise forming on his shoulder where Xie Xie had opened him, and Wu Zhangkong looked at the form, and at the six, and at the boy, and said the thing that the whole of class zero would repeat, in one version or another, for the rest of their lives.
+And the six were down — five of them beaten, one of them undefeated by declining to begin — and Lin Hao stood in the center of the training ground with two rings and a sword and no wind and no talon and a bruise forming on his shoulder where Xie Xie had opened him. And Wu Zhangkong looked at the form, and at the six, and at the boy, and said the thing that the whole of class zero would repeat, in one version or another, for the rest of their lives.
 
 "Four times," Wu Zhangkong said.
 
@@ -382,7 +382,7 @@ Wulin was quiet for a moment. "That's terrifying."
 
 "That's Tuesday," Lin Hao said.
 
-And under it all, on the far water, the hawk watched the boy who had been measured, and had been given a number, and had beaten six of them with a sword and a body and nothing else, and had been told — by the only person in the class who had nothing to teach him, and by the only person who had ever hit him — what he was. And the hawk, which had been asking a question for a very long time, did not ask it that night, because the boy was, for the first time since the sea took a girl, not entirely alone with it. And the question stayed quiet. And the dark water kept what it kept. And the number — one hundred and seventy-eight, and climbing, and heavy enough now to set down, though not yet set down — sat on the shelf with the rest of them, and the ledger next to it had seventy-one lines in it, and one blank page, and the blank page had a name on it that nobody had said out loud.
+And under it all, on the far water, the hawk watched the boy who had been measured, and had been given a number, and had beaten six of them with a sword and a body and nothing else. And had been told — by the only person in the class who had nothing to teach him, and by the only person who had ever hit him — what he was. And the hawk, which had been asking a question for a very long time, did not ask it that night, because the boy was, for the first time since the sea took a girl, not entirely alone with it. And the question stayed quiet. And the dark water kept what it kept. And the number — one hundred and seventy-eight, and climbing, and heavy enough now to set down, though not yet set down — sat on the shelf with the rest of them. And the ledger next to it had seventy-one lines in it, and one blank page, and the blank page had a name on it that nobody had said out loud.
 
 
 Rank twenty-nine arrived during the gauntlet, somewhere between the fourth opponent and the fifth, and he did not mention it, because he was busy. That was the whole mechanism, and he understood it better than anyone in the building: he did not cultivate his way up. He was *fought* his way up.

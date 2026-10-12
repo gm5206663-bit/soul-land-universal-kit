@@ -38,7 +38,7 @@ He said *relax* in exactly the same voice he said *run*, and Wulin noticed, and 
 
 "No," Wulin said. "I'll go."
 
-He said it in the same half-second he had said *I want to join*, and Lin Hao — who was four metres away with his own bag and his own month, and who had stopped pretending he did not listen — understood that this was becoming a pattern, and that the pattern was that Wulin said yes to Wu Zhangkong before he had finished asking.
+He said it in the same half-second he had said *I want to join*, and Lin Hao — who was four metres away with his own bag and his own month, and who had stopped pretending he did not listen. Understood that this was becoming a pattern, and that the pattern was that Wulin said yes to Wu Zhangkong before he had finished asking.
 
 Lin Hao put his hand up.
 
@@ -234,7 +234,7 @@ And then he felt it, because he had stopped expecting to feel it and that was ap
 
 **Thirty-two.**
 
-Not a wall. Not a coil. Just the next one, arriving the way the last one had not — quietly, in a room above a forge in a city with no tall buildings, at the end of a month in which he had been outlasted by a bear and walked out of a dead man's record with the Hall of Heroes out of files on him, and ignored by an entire street.
+Not a wall. Not a coil. Just the next one, arriving the way the last one had not. Quietly, in a room above a forge in a city with no tall buildings, at the end of a month in which he had been outlasted by a bear and walked out of a dead man's record with the Hall of Heroes out of files on him, and ignored by an entire street.
 
 He had not been trying. That was the part he would think about longest. He had been **learning**, and the rank had simply come along with it, the way the hawk came along with everything else, without asking.
 

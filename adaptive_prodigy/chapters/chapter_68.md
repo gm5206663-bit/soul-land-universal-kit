@@ -59,11 +59,11 @@ The guardian of the elementary level came at them out of the dark-gold light, an
 
 The class zero of three years did not fight in the ordinary way of things.
 
-It began with a nick. The bear's claw met Tang Wulin's claw and came away with a flaw the width of a hair, and the forest rang with its outrage — and the flaw had not been luck. Lin Hao had gone still at the start, the way he went still, and read the bear's golden light the way he read grain, and the light had a seam, because everything has a seam, because everything fails; the three parts exist so the eight can be brave about it, and he had said so once on a roof, at ten, about a machine.
+It began with a nick. The bear's claw met Tang Wulin's claw and came away with a flaw the width of a hair, and the forest rang with its outrage — and the flaw had not been luck. Lin Hao had gone still at the start, the way he went still, and read the bear's golden light the way he read grain. And the light had a seam, because everything has a seam, because everything fails; the three parts exist so the eight can be brave about it, and he had said so once on a roof, at ten, about a machine.
 
 "There," he had said, and pointed, and Wulin had put the whole fight after that through the place Lin Hao's finger had been.
 
-Even so, the bear nearly took him. It ignored everyone — icicles, fire, three Xie Xies — and charged Wulin like a small mountain with a grievance, and in the half-second when the dark-gold light had Wulin's soul power too frenzied to answer, Xie Xie was there instead, and the bear's claw went through him, and he came apart protecting his captain with his last breath and his eyes saying the only thing they ever said at moments like that: *avenge me.*
+Even so, the bear nearly took him. It ignored everyone — icicles, fire, three Xie Xies — and charged Wulin like a small mountain with a grievance, and in the half-second when the dark-gold light had Wulin's soul power too frenzied to answer, Xie Xie was there instead. And the bear's claw went through him, and he came apart protecting his captain with his last breath and his eyes saying the only thing they ever said at moments like that: *avenge me.*
 
 Wulin avenged him. Gu Yue's four elements came down as one column of light — blue, red, yellow, green, four fused into one — and Wulin went up it, and the final strike opened the bear's neck to the bone.
 
@@ -149,7 +149,7 @@ The sword came to his hand, and it was not the sword he had carried at ten, or a
 
 The pressure came next, uninvited: the fourth ring's skill pouring one breath of itself into the room, and the class — rank 30 and 33 and 28 and 31, veterans of a hundred platform hours — all stepped back, all at once, without deciding to. Domineer. He pulled it back in like a hand closing, and apologised with his eyes, and they unfroze.
 
-Then Wulin did the thing that mattered. He looked at his best friend's face and did not know him for one full second — because the boy on the bed was older, sixteenish, jaw cut, eyes gone still and deep — and then he did know him, and his face did several things in a row and finished on the verge of tears he was too old for and did not care.
+Then Wulin did the thing that mattered. He looked at his best friend's face and did not know him for one full second — because the boy on the bed was older, sixteenish, jaw cut, eyes gone still and deep. And then he did know him, and his face did several things in a row and finished on the verge of tears he was too old for and did not care.
 
 "You grew," Wulin said, ruined.
 
@@ -165,7 +165,7 @@ Xie Xie looked at him for a long moment and then addressed the ceiling. "He come
 
 Xu Xiaoyan said nothing at all. She wrote a number in the new notebook, boxed it, and showed the page to no one, and the number had nothing to do with rank.
 
-The window was still fogged from the waking, and it made a mirror of itself, and the mirror showed him the month's other work. The third winter's boy had gone into the water, and a young man had come up out of it: height he had not earned by waiting, weight through the chest and arm that he had, the marks on his forearms gone blue-black at the edges the way winter rivers go, the hawk-gold at his temples carrying a colder thread now, like light through ice. He looked, as the clerk used to say, sixteen in the face. It had stopped being a saying. It was a measurement.
+The window was still fogged from the waking, and it made a mirror of itself, and the mirror showed him the month's other work. The third winter's boy had gone into the water, and a young man had come up out of it: height he had not earned by waiting. Weight through the chest and arm that he had, the marks on his forearms gone blue-black at the edges the way winter rivers go, the hawk-gold at his temples carrying a colder thread now, like light through ice. He looked, as the clerk used to say, sixteen in the face. It had stopped being a saying. It was a measurement.
 
 They went to the Association that same morning, because affection, in class zero, was measured in kilograms.
 

@@ -58,7 +58,7 @@ Lin Hao had been to a city with no skyscrapers and understood something there, a
 
 The smithy was four blocks from the sea.
 
-That was the first thing Lin Hao noticed, and it was the thing that mattered, because a smithy four blocks from the sea meant the metal came in by water, and the metal that comes in by water is the metal worth working, and he understood from the smell of the street that this was the best smithy he would stand in for a very long time.
+That was the first thing Lin Hao noticed, and it was the thing that mattered, because a smithy four blocks from the sea meant the metal came in by water. And the metal that comes in by water is the metal worth working, and he understood from the smell of the street that this was the best smithy he would stand in for a very long time.
 
 He stood in front of it about eleven seconds.
 
@@ -110,7 +110,7 @@ He noticed three things, and he wrote all three down that night, and the writing
 
 The first was that Xu Lizhi was not impressed.
 
-Not rude. Not dismissive. Xu Lizhi was delighted about the sea and the food and the fact that Wulin knew about eels, and he had looked at six children from Eastsea Academy with three purple rings among them and a fourth-rank Grandmaster and a Twin Dragon Storm, and he had been pleasant, in the specific way a person is pleasant when they have no reason to be anything else.
+Not rude. Not dismissive. Xu Lizhi was delighted about the sea and the food and the fact that Wulin knew about eels. And he had looked at six children from Eastsea Academy with three purple rings among them and a fourth-rank Grandmaster and a Twin Dragon Storm, and he had been pleasant, in the specific way a person is pleasant when they have no reason to be anything else.
 
 That was the first thing. Being the largest thing in a room had been a local condition.
 
@@ -198,7 +198,7 @@ He closed the book.
 
 The lock at his temple lay gold across his cheekbone, and the marks on his forearms were raised and had been raised for twenty-six days and had become a thing nobody in this city had mentioned, and the hawk turned over in him — *one thousand three hundred and fifty-one* — and did not pull toward anything.
 
-But the sea was four blocks away, and the smithy was four blocks away, and Lin Hao lay on his back in a city that smelled of salt and hot metal, and thought about a boy who was pleasant about a storage ring, and about the fact that he had been the largest thing in a room for four months, and about the fact that he was not upset.
+But the sea was four blocks away, and the smithy was four blocks away, and Lin Hao lay on his back in a city that smelled of salt and hot metal. And thought about a boy who was pleasant about a storage ring, and about the fact that he had been the largest thing in a room for four months, and about the fact that he was not upset.
 
 He slept.
 

@@ -109,7 +109,7 @@ Lin Hao had seen his own rings eleven times and they had been yellow both times 
 
 They went purple.
 
-Not one at a time. Both, together, the way two lamps go when the same hand turns them — and the purple was not a shade, it was a *depth*, and looking at it was like looking down something, and Lin Hao knelt in the leaf litter with his own light going on around him and understood for the first time in his life that a soul ring was not a mark on a person.
+Not one at a time. Both, together, the way two lamps go when the same hand turns them — and the purple was not a shade, it was a *depth*, and looking at it was like looking down something. And Lin Hao knelt in the leaf litter with his own light going on around him and understood for the first time in his life that a soul ring was not a mark on a person.
 
 It was a **window.**
 
@@ -149,7 +149,7 @@ Then he did the thing he had done four hundred times, because his hand did it be
 
 He laid a Gale Talon along the Stormbringer and let it go at a deadfall across the clearing.
 
-He had laid four hundred of those. He knew what it cost — a particular small draw at the base of the ribs, like a mouthful of cold air — and he knew what it did: the wind shoved the edge forward and the lightning got there first, and the wood opened along the grain he had already read, and the whole thing took about as much attention as walking.
+He had laid four hundred of those. He knew what it cost — a particular small draw at the base of the ribs, like a mouthful of cold air. And he knew what it did: the wind shoved the edge forward and the lightning got there first, and the wood opened along the grain he had already read, and the whole thing took about as much attention as walking.
 
 The deadfall did not open.
 
@@ -203,7 +203,7 @@ The **Union** had changed too. He could feel it the way you feel a room you have
 
 He did not open it.
 
-He had decided a long time ago that the Union was a decision and not a demonstration, and he was not going to change that in a forest with a woman watching and a plate in the sky two kilometres up, and so he closed his hand around it the way you close a hand around a rail, and he wrote down instead what he had noticed:
+He had decided a long time ago that the Union was a decision and not a demonstration, and he was not going to change that in a forest with a woman watching and a plate in the sky two kilometres up. And so he closed his hand around it the way you close a hand around a rail, and he wrote down instead what he had noticed:
 
 *That it got bigger without being asked. That it did not ask to be used. That the cost of it will not be the cost I planned for, and that I planned for a cost, and that the plan is now wrong.*
 
@@ -269,7 +269,7 @@ Wu Zhangkong looked at the plate for a long moment.
 
 ---
 
-Lin Hao did not know any of that, and if he had known it, it would not have changed what he did next, which was to stand up in a forest that did not exist with three rings around his feet and a sword that had stopped being a tool, and to say to the five people who were the only five people in the world who had seen it:
+Lin Hao did not know any of that, and if he had known it, it would not have changed what he did next, which was to stand up in a forest that did not exist with three rings around his feet and a sword that had stopped being a tool. And to say to the five people who were the only five people in the world who had seen it:
 
 "Nobody says anything about this."
 
@@ -289,13 +289,13 @@ Lin Hao looked at her.
 
 "The platform **records**," Gu Yue said. "It has always recorded. You didn't do this in a forest, you did it in a machine that somebody is looking at." She said it without any particular expression, which with her was the closest thing to kindness. "So don't waste the next four months being quiet. It won't work. **Be somewhere with more people in it instead.**"
 
-Lin Hao stood in the leaf litter with three purple rings going slowly dim around his boots, and thought about a pamphlet he had taken off a train because it was free, and a city that was second of five in an alliance, and a centre region that held only two cities, and a boy with a sword who had been told, four months ago, that in three years he was going to have to be a monster in front of a gate.
+Lin Hao stood in the leaf litter with three purple rings going slowly dim around his boots, and thought about a pamphlet he had taken off a train because it was free. And a city that was second of five in an alliance, and a centre region that held only two cities, and a boy with a sword who had been told, four months ago, that in three years he was going to have to be a monster in front of a gate.
 
 "Right," he said.
 
 "Right," Wulin said.
 
-And the webs cracked, and the air still hung thick with four hundred years of something that would make them the most interesting thing in the forest to anybody who could smell it, and they got up and walked out of the clearing in the shape that Lin Hao had built, because the shape still worked, and because the shape was the only thing he had that he had made himself.
+And the webs cracked, and the air still hung thick with four hundred years of something that would make them the most interesting thing in the forest to anybody who could smell it. And they got up and walked out of the clearing in the shape that Lin Hao had built, because the shape still worked, and because the shape was the only thing he had that he had made himself.
 
 ---
 

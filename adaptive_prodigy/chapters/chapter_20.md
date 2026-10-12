@@ -19,7 +19,7 @@ The dormitory that class zero was given was not a dormitory so much as a small s
 
 Down the corridor, Wu Zhangkong had been given a suite — his old dormitory traded for quarters that sat at the head of the little street like a foreman's office at the mouth of a mine. He had been notified the night before, along with the board's approval, and had said nothing about it then and said nothing about it now, which was, his students were learning, how he received most things.
 
-Wei Xiaofeng took the room at the far end, the one furthest from the four, and put his things in it without speaking to anyone, and closed his door with the deliberateness of a man building a wall out of a door. Zhang Yangzi — who had come down to the dormitory on a healer's rolling chair, his legs elevated, his face the color of a boy doing long arithmetic about a situation he had not chosen — took the room beside him, because the two of them were the two of class two, and because Zhang Yangzi had signed the contract the moment he heard Wang Jinxi had, without a word, the way a man moves a piece he has already decided about.
+Wei Xiaofeng took the room at the far end, the one furthest from the four, and put his things in it without speaking to anyone, and closed his door with the deliberateness of a man building a wall out of a door. Zhang Yangzi — who had come down to the dormitory on a healer's rolling chair, his legs elevated, his face the color of a boy doing long arithmetic about a situation he had not chosen. Took the room beside him, because the two of them were the two of class two, and because Zhang Yangzi had signed the contract the moment he heard Wang Jinxi had, without a word, the way a man moves a piece he has already decided about.
 
 And Wang Jinxi took the room beside Wulin's.
 
@@ -36,7 +36,7 @@ They did not, of course, settle. They unpacked, and circled, and sat in doorways
 The breeze in his hair had become permanent. He could not feel it against his own skin any more, but other people could: twice that week a stranger had looked at him and then looked again, because the hair at his temple was moving and nothing else was.
 : Not Mechas — The Other Thing
 
-Class zero's classroom was on the ground floor of the same building, and it was, like everything else that week, too big for the number of people in it — a room built for forty holding seven desks and a teacher, with a window along the whole east wall looking out on the training grounds they were not, yet, allowed to use.
+Class zero's classroom was on the ground floor of the same building, and it was, like everything else that week, too big for the number of people in it. A room built for forty holding seven desks and a teacher, with a window along the whole east wall looking out on the training grounds they were not, yet, allowed to use.
 
 Wu Zhangkong came in with the expression he wore for all weather, and stood in the center, and swept his gaze across the seven of them — the four and the dragon on one side, the boy on the rolling chair and the boy with the wall for a face on the other.
 
@@ -76,13 +76,13 @@ He let that sit, and then said the thing that made the room's temperature change
 
 And at the back of the room, in the seat by the east window, Lin Hao had stopped breathing.
 
-Not dramatically. Not the way the others had gone still at the word *fused.* He had gone still the way he went still in front of a forge when the metal said something — the whole of him turning toward a sentence the way a compass turns north. *Forged. Soul power driven into it under the hammer. Metal that holds a soul's shape.* He had been hammering metal since he could hold a hammer. He had spent a summer learning that metal had a grain, a memory, a voice. And a man had just stood in front of him and said, in the flat voice of a man reading a weather report, that there was a metal in the world that was *forged to hold a soul* — and that the making of it began, not with a soul engineer, not with money, not with an army, but with a blacksmith and a hammer.
+Not dramatically. Not the way the others had gone still at the word *fused.* He had gone still the way he went still in front of a forge when the metal said something — the whole of him turning toward a sentence the way a compass turns north. *Forged. Soul power driven into it under the hammer. Metal that holds a soul's shape.* He had been hammering metal since he could hold a hammer. He had spent a summer learning that metal had a grain, a memory, a voice. And a man had just stood in front of him and said, in the flat voice of a man reading a weather report, that there was a metal in the world that was *forged to hold a soul*. And that the making of it began, not with a soul engineer, not with money, not with an army, but with a blacksmith and a hammer.
 
 Because Wu Zhangkong had just described, in the flat voice he used for things he considered settled, the one thing in the room that Lin Hao could already do.
 
 Six students sat in that room hearing a lecture about a craft. **One of them had been doing it since he was four years old, on a box, in a shed, for coins.** Soul-forging was not a subject to him. It was Tuesday. He had driven soul power into metal under a hammer before he had ever heard the word *battle armor,* and he had not known until that sentence that what he was doing had a name.
 
-And that is the butterfly, and it is not a small one. **In a class without him, battle armor is a lecture, and all six of them will spend years finding a blacksmith good enough to make it for them, and most of them will never find one.** In a class with him in it, the lecture is a description of something already sitting in his hands, and the six of them will never in their lives understand that the rarest thing in the room was the boy at the east window who had stopped breathing.
+And that is the butterfly, and it is not a small one. **In a class without him, battle armor is a lecture, and all six of them will spend years finding a blacksmith good enough to make it for them. And most of them will never find one.** In a class with him in it, the lecture is a description of something already sitting in his hands, and the six of them will never in their lives understand that the rarest thing in the room was the boy at the east window who had stopped breathing.
 
 Wu Zhangkong saw it. Wu Zhangkong always saw it. He did not say anything, which was how he said the largest things, and he went on with the lecture, and he taught the class a craft that one of them already had, and he did not once let the room know that he knew.
 
@@ -166,11 +166,11 @@ Wulin considered that.
 
 ## Part 4: What the Window Seat Held
 
-The room emptied in the slow, reluctant way rooms empty after a lecture that landed. Xie Xie went out talking, because Xie Xie went everywhere talking — about Titled Douluo, about soul circuits, about whether a dagger could have a battle armor and if so whether it would be *faster.* Wulin walked beside him with the particular silence of a boy who had been handed a dream and was turning it over to find the seams. Gu Yue went out alone, four seconds behind everyone, having already filed the entire lecture somewhere Lin Hao would never see.
+The room emptied in the slow, reluctant way rooms empty after a lecture that landed. Xie Xie went out talking, because Xie Xie went everywhere talking — about Titled Douluo, about soul circuits. About whether a dagger could have a battle armor and if so whether it would be *faster.* Wulin walked beside him with the particular silence of a boy who had been handed a dream and was turning it over to find the seams. Gu Yue went out alone, four seconds behind everyone, having already filed the entire lecture somewhere Lin Hao would never see.
 
 And Lin Hao stayed.
 
-Not to ask a question — the question was too large for a doorway and too new for words. He stayed because the window looked out on the training grounds, and the training grounds had a maintenance shed, and the maintenance shed had a forge in it that the groundskeeper used for hinges and rail-fittings, and Lin Hao had noticed it the way he noticed all forges, the way other boys noticed nothing, on the first walk over — and he was looking at it now, through the east window, the way you look at a country you have just been told you are allowed to walk to someday.
+Not to ask a question — the question was too large for a doorway and too new for words. He stayed because the window looked out on the training grounds, and the training grounds had a maintenance shed, and the maintenance shed had a forge in it that the groundskeeper used for hinges and rail-fittings. And Lin Hao had noticed it the way he noticed all forges, the way other boys noticed nothing, on the first walk over — and he was looking at it now, through the east window, the way you look at a country you have just been told you are allowed to walk to someday.
 
 Wu Zhangkong was still in the room. He had not left. He was standing where he had lectured, hands behind his back, looking at the boy by the window with the expression of a man confirming a suspicion he had carried since a sparring yard in September.
 
@@ -182,9 +182,9 @@ Wu Zhangkong was still in the room. He had not left. He was standing where he ha
 
 He was gone.
 
-Lin Hao stood at the window a while longer, looking at the little forge in the groundskeeper's shed, at the anvil that was too small and the bellows that was probably cracked, at a country of metal that started with a hammer and ended, if the lecture was true, in armor that fought like a limb of the person wearing it. And under it all, on the far water, the hawk watched the boy watch the forge, and was — for the second time that week — doing something that was not quite stillness and not quite speech: the attention of something that had begun, without deciding to, to point the same direction its boy was pointing.
+Lin Hao stood at the window a while longer, looking at the little forge in the groundskeeper's shed, at the anvil that was too small and the bellows that was probably cracked. At a country of metal that started with a hammer and ended, if the lecture was true, in armor that fought like a limb of the person wearing it. And under it all, on the far water, the hawk watched the boy watch the forge, and was — for the second time that week — doing something that was not quite stillness and not quite speech: the attention of something that had begun, without deciding to, to point the same direction its boy was pointing.
 
-That night, on the roof that was not theirs anymore — they had real rooms now, with real doors, and none of them had thought to use the roof, except, it turned out, the two who had always used it, because some habits are older than furniture — Wulin said, "Battle armor," the way you say a prayer you're not sure you're allowed to say. "Soul Ancestors. Titled Douluo. Hao — we're *ten.*"
+That night, on the roof that was not theirs anymore — they had real rooms now, with real doors. And none of them had thought to use the roof, except, it turned out, the two who had always used it, because some habits are older than furniture — Wulin said, "Battle armor," the way you say a prayer you're not sure you're allowed to say. "Soul Ancestors. Titled Douluo. Hao — we're *ten.*"
 
 "We're ten," Lin Hao agreed, "with two rings, a teacher who lives like a foreman, a forge in the groundskeeper's shed that he probably uses for *hinges,* and a lecture that said the metal comes first." He nudged his brother's shoulder with his own. "Also, you drooled a little during the Titled Douluo part. I saw it. I'm keeping that."
 
@@ -196,7 +196,7 @@ Wulin shoved him. Lin Hao shoved back, because that was the answer, and had alwa
 
 "A *good* hinge," Lin Hao said. "A hinge that's been soul-forged. You'll never feel it. You'll just never be able to take the armor off, and you'll know it's me, every time, and you'll hate it, and you'll never once actually want to take it off." He slung an arm around his brother's shoulders — the right side, the side that had been his since they were six — and they sat there, and the harbor did its accounting, and neither of them said the rest, because the teasing was the whole of the saying, and it had never once needed more.
 
-And the harbor did its accounting, and the seven rooms down the quiet street went dark one by one, and the little street that held the worst class's best and a dragon who had moved his piece and a boy with a wall for a face slept the sleep of children who had been told, for the first time in their lives, exactly how far the road went — and had decided, in the part of the mind that decides such things before the morning, to walk it anyway.
+And the harbor did its accounting, and the seven rooms down the quiet street went dark one by one. And the little street that held the worst class's best and a dragon who had moved his piece and a boy with a wall for a face slept the sleep of children who had been told, for the first time in their lives, exactly how far the road went. And had decided, in the part of the mind that decides such things before the morning, to walk it anyway.
 
 Three of them would mend. Then the cultivation would start, and the evenings would become what Wu Zhangkong had promised: not sparring. Combat. And the difference, by the end of the term, would be a sentence all seven of them could say.
 

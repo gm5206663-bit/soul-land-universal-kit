@@ -218,7 +218,7 @@ Across the lane, the oil light in the Lan kitchen was doing its own evening — 
 
 "Tomorrow we discuss the egg," said his mother, and smiled with the mouth's one corner only, which in her was a bell rung.
 
-He held the two coins to the candle flame one at a time, as ceremony required. The federation's blunt minting, no romance in the metal, plain buyers' metal — and yet. The first coins on this planet with his name on the ledger line. He put them in his tin and the tin back under the bench-board and his mind was already elsewhere elaborate — pepper, salt, scallion money, the rock sugar jar at the corner shop that stood exactly thigh-height to him and exactly the height of his ambition; the egg tomorrow, the oil, the sound it would make— "Mother," he said, pausing, because curiosity did run hotter in him than scheming, attribution be damned, "the hammering today. It ended early."
+He held the two coins to the candle flame one at a time, as ceremony required. The federation's blunt minting, no romance in the metal, plain buyers' metal — and yet. The first coins on this planet with his name on the ledger line. He put them in his tin and the tin back under the bench-board and his mind was already elsewhere elaborate — pepper, salt, scallion money, the rock sugar jar at the corner shop that stood exactly thigh-height to him and exactly the height of his ambition. The egg tomorrow, the oil, the sound it would make— "Mother," he said, pausing, because curiosity did run hotter in him than scheming, attribution be damned, "the hammering today. It ended early."
 
 "Mm." Su Wan fed the fire. "You noticed."
 

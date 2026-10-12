@@ -82,13 +82,13 @@ Xie Xie smirked. "Scouting. I'm seeing whether there are any pretty senior siste
 
 "How," Wulin said, with honest doubt, "does looking prepare you?"
 
-Lin Hao did not answer this. He had taken the seat that let him see the door — not out of caution, there was nothing in this room to be cautious of, but out of the same quiet reflex that made him clear plates one centimeter at a time: he liked to know where the entrances were, the way other people liked to know where the exits were. It meant he saw the door open.
+Lin Hao did not answer this. He had taken the seat that let him see the door — not out of caution, there was nothing in this room to be cautious of. But out of the same quiet reflex that made him clear plates one centimeter at a time: he liked to know where the entrances were, the way other people liked to know where the exits were. It meant he saw the door open.
 
 It opened twice in the next minute. The first time it let in a wall of a boy in Shrek uniform — an outer-court senior like the girl behind him, round and pink and beaming with the particular radiance of a person who has smelled food from a great distance and followed it home. The second time it let in the girl behind him.
 
 Lin Hao's eyes went past the boy — who had stopped dead in the doorway, nostrils flaring, his whole being arrested by the sight of Wulin across a crowded room with the remnants of ice cream at his corner — and landed on the girl, and stayed there, in the margin, for one held half-second.
 
-He knew her. He would have known her in a darker room than this. Stargod Sword at her hip, hilt worn the way a tool wears that is used every single day; three rings under the skin of her, kept dimmed in a shop — two yellow and the third a thousand-year purple that had not been there at the exhibition, the mark of a Soul Elder who had not spent the last four months standing still; the set of her shoulders like she was always half a breath from deciding something. Ye Xinglan. A senior of the outer court now, an inner-court blade sent down where the real forging happened. Four months on the Track, to his nine days. Thirty-one seconds of sparring, in which her confidence had not moved at all. The girl who had decided, once, that she would like to be the one who said something first.
+He knew her. He would have known her in a darker room than this. Stargod Sword at her hip, hilt worn the way a tool wears that is used every single day; three rings under the skin of her, kept dimmed in a shop. Two yellow and the third a thousand-year purple that had not been there at the exhibition, the mark of a Soul Elder who had not spent the last four months standing still; the set of her shoulders like she was always half a breath from deciding something. Ye Xinglan. A senior of the outer court now, an inner-court blade sent down where the real forging happened. Four months on the Track, to his nine days. Thirty-one seconds of sparring, in which her confidence had not moved at all. The girl who had decided, once, that she would like to be the one who said something first.
 
 She had not seen him yet.
 
@@ -122,9 +122,9 @@ It *quieted*.
 
 Ye Xinglan's hand went to the hilt before she decided to move it. The blade under her palm was still, in a way she had only ever felt it once or twice in her life: not empty, not dormant. *Attentive.* The way a dog goes still when a wolf walks past the fire. It was the sword's version, she realized with a cold, electric jolt up her wrist, of holding its breath.
 
-She looked at the stranger's face again — the handsome, grown, impossible face of a boy she was absolutely certain she had never met — and her sword, which had never once been wrong about a swordsman in her life, told her in the language of perfect silence that she was in the presence of something her blade considered, deeply and without argument, its better.
+She looked at the stranger's face again — the handsome, grown, impossible face of a boy she was absolutely certain she had never met. And her sword, which had never once been wrong about a swordsman in her life, told her in the language of perfect silence that she was in the presence of something her blade considered, deeply and without argument, its better.
 
-That was impossible. She was a Soul Elder now — three rings, the third a thousand years old — and one of the most diligent sword-consciousness students in the outer court; she trained the man-and-sword-as-one state the way other people ate, and there were perhaps four blades in the whole outer court she respected, every one of them a senior she had measured at length. She knew all of their faces, and none of them was this one.
+That was impossible. She was a Soul Elder now — three rings, the third a thousand years old — and one of the most diligent sword-consciousness students in the outer court. She trained the man-and-sword-as-one state the way other people ate, and there were perhaps four blades in the whole outer court she respected, every one of them a senior she had measured at length. She knew all of their faces, and none of them was this one.
 
 This was not one of them.
 
@@ -192,7 +192,7 @@ Ye Xinglan, who decided things and told Lizhi about them later while he ate, sat
 
 "I am not," said Ye Xinglan, "the same swordswoman I was four months ago either."
 
-It was a challenge. It came out as a challenge, because everything she said came out as a decision, and she decided, right there in the drink shop with Lizhi stealing Wulin's ice cream and Xie Xie leaning in to watch like it was the best scouting result of his entire life, that she would not be the only one at this table who had crossed a distance.
+It was a challenge. It came out as a challenge, because everything she said came out as a decision. And she decided, right there in the drink shop with Lizhi stealing Wulin's ice cream and Xie Xie leaning in to watch like it was the best scouting result of his entire life, that she would not be the only one at this table who had crossed a distance.
 
 The stranger with her sparring-partner's eyes looked at her for a long, steady moment — and smiled, just slightly, the kind of smile that did not show teeth and did not promise anything and made her, to her deep and lasting annoyance, glad she had sat down.
 
@@ -204,7 +204,7 @@ Ye Xinglan's hand tightened on the hilt.
 
 "I have several," Lin Hao said. "But I think you already knew that. Yours told you before you did."
 
-Outside, on the street of orange lights, the Shrek night went on around them — full of uniforms and voices and a thousand people who had no idea that in a crowded drink shop two swordswomen, one of them a girl who had just lost every bit of her famous decisiveness and would not admit it for anything in the world, had sat down at the same table for the first time in four months.
+Outside, on the street of orange lights, the Shrek night went on around them. Full of uniforms and voices and a thousand people who had no idea that in a crowded drink shop two swordswomen, one of them a girl who had just lost every bit of her famous decisiveness and would not admit it for anything in the world, had sat down at the same table for the first time in four months.
 
 Lizhi, his mouth full of stolen ice cream, looked from his oldest friend's rigid back to the tall quiet boy she had planted herself beside, and did the one thing he was genuinely, reliably good at besides eating.
 

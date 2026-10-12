@@ -29,7 +29,7 @@ The shape worked. Xu Xiaoyan's starwheel made five seconds happen, and Gu Yue pu
 
 He had never used it in front of anybody. He had practised it eleven times in a field behind a dormitory and taken the tops off two bars and a post, and each time it came out of the Stormbringer quieter than the one before, and he had begun to suspect that the quiet was not the technique getting worse but the technique getting *finished*.
 
-It left the sword with no sound in it at all. Forty metres of air stopped being one thing and became two, and the man at the end of it went down with his shield in two pieces and no idea what had come through it, and the stands — who had come to watch a harbour-city team be decent — went quiet in the particular way a crowd goes quiet when it has been shown something it has no word for.
+It left the sword with no sound in it at all. Forty metres of air stopped being one thing and became two, and the man at the end of it went down with his shield in two pieces and no idea what had come through it. And the stands — who had come to watch a harbour-city team be decent — went quiet in the particular way a crowd goes quiet when it has been shown something it has no word for.
 
 Gu Yue, eleven metres off, said nothing. Her hands were at her sides and her chin was up a fraction. Xie Xie, flat on his back in the part after with his daggers on his chest and his lungs somewhere else, turned his head.
 
@@ -189,7 +189,7 @@ Xie Xie, upside down on the wall, said, "I want it noted that I've been in this 
 
 Gu Yue said nothing. But she had been watching Lin Hao's hands, and she noticed that they went very still at the word *wall*, and she put it in the place where she kept the things she was not going to use — which was a small place, and which had never before held anything she had to think about putting there.
 
-Because Lin Hao had broken his wrist at four and lied about it inside the hour to protect a boy he had known one year, and had never mentioned it since, and had gone on to become what he was, and she understood — with a clarity she did not enjoy — that everything she had ever measured about him she had measured from the outside, and the inside of it had been finished before she was born.
+Because Lin Hao had broken his wrist at four and lied about it inside the hour to protect a boy he had known one year, and had never mentioned it since. And had gone on to become what he was, and she understood — with a clarity she did not enjoy — that everything she had ever measured about him she had measured from the outside, and the inside of it had been finished before she was born.
 
 Wulin was quiet a moment.
 
@@ -229,7 +229,7 @@ He closed the book.
 
 The lock at his temple lay gold across his cheekbone, and the marks on his forearms were raised and had been raised for thirty-six days, and the hawk turned over in him — *one thousand three hundred and ninety-one* — and did not pull toward anything.
 
-Lin Hao lay on his back in a city that smelled of salt and hot metal, and thought about a father who made horseshoes, and about a thin folder and a thick folder, and about the fact that he had said not-yet, and about the fact that Wulin had told him he was coming, and about the fact that he was not frightened.
+Lin Hao lay on his back in a city that smelled of salt and hot metal, and thought about a father who made horseshoes. And about a thin folder and a thick folder, and about the fact that he had said not-yet, and about the fact that Wulin had told him he was coming, and about the fact that he was not frightened.
 
 He slept.
 

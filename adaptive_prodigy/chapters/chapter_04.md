@@ -118,7 +118,7 @@ Lin Wei had looked at his son's blade on the testing floor and had not said anyt
 
 **And Lin Hao had looked at both of them, and had chosen the worst class, and had not told anybody why.**
 
-That is the butterfly, and it is the first one, and everything else in this story grows out of it. **In a story without him, Wulin goes to the worst class because the worst class is where a boy with grass goes, and the worst class stays the worst class, and the grade learns nothing.** In a story with him in it, the worst class has a boy in it with a sword that made a Spirit Master's eyebrows go up, and the worst class stops being the worst class within a month, and the grade learns a thing it would not otherwise have had any reason to learn.
+That is the butterfly, and it is the first one, and everything else in this story grows out of it. **In a story without him, Wulin goes to the worst class because the worst class is where a boy with grass goes, and the worst class stays the worst class. And the grade learns nothing.** In a story with him in it, the worst class has a boy in it with a sword that made a Spirit Master's eyebrows go up, and the worst class stops being the worst class within a month, and the grade learns a thing it would not otherwise have had any reason to learn.
 
 He did not choose it for Wulin. He would have said that if anybody had asked, and it would have been a lie, and he knew it was a lie, and he chose it anyway, and he has never once explained it to anybody, and he does not intend to.
 
@@ -156,7 +156,7 @@ Lin Hao had read the shape of the country on the train, in a free pamphlet he ha
 
 "**Shrek City.**"
 
-Neither of them said anything after that for a while, because they were ten, and Glorybound City had been the whole world until Tuesday, and the word *Shrek* had arrived in the middle of a free pamphlet next to an advertisement for soul-lamp repairs. And old. Older than the glass. For several hundred years the Federation had taken particular care of the ancient buildings here, so the skyline was a city of towers with a much older, plainer, unadorned city still standing intact between their feet — and the soul trains, when they came in, were nearly all dark blue, every one of them, which was the sort of detail Lin Hao noticed and would have been unable to explain.
+Neither of them said anything after that for a while, because they were ten, and Glorybound City had been the whole world until Tuesday, and the word *Shrek* had arrived in the middle of a free pamphlet next to an advertisement for soul-lamp repairs. And old. Older than the glass. For several hundred years the Federation had taken particular care of the ancient buildings here, so the skyline was a city of towers with a much older, plainer, unadorned city still standing intact between their feet. And the soul trains, when they came in, were nearly all dark blue, every one of them, which was the sort of detail Lin Hao noticed and would have been unable to explain.
 
 "Look at the size of it," Wulin whispered.
 

@@ -11,7 +11,7 @@ Xie Xie had walked out of the training ground behind him and had not said goodni
 
 The Intermediate Academy gave one day a week to its students — a single unharnessed Saturday, which the first grade spent in the ways first grades do: sleeping, eating, fighting, and, in the case of two of class five's four, disappearing before breakfast toward the harbor road and the Blacksmith's Association.
 
-They walked together, the way they had walked together since before either could remember — Wulin on the left because he had always been on the left, Lin Hao on the right because that was where he had fallen in step the first morning of the first week of the first year of their lives, when they were four and Glorybound's lanes were wide as oceans. Seven years of the same left and right. The forge boys of the Association had stopped asking which of them was the master; the answer had always been *neither, and both.*
+They walked together, the way they had walked together since before either could remember. Wulin on the left because he had always been on the left, Lin Hao on the right because that was where he had fallen in step the first morning of the first week of the first year of their lives, when they were four and Glorybound's lanes were wide as oceans. Seven years of the same left and right. The forge boys of the Association had stopped asking which of them was the master; the answer had always been *neither, and both.*
 
 Mu Chen had given each of them a key in the third week — not one key to share, but two, to two closet-forges on the same short corridor, because when he had tried to give the boys one forge they had both, without conferring, politely declined until there were two. "The Association pays for results, not for audiences," Mu Chen had said, handing over the second key with something that, on him, was nearly a smile. "Forge when your class schedule allows. Submit on Fridays. The metal does not care which day you respect it."
 
@@ -19,7 +19,7 @@ So the Saturdays belonged to the hammers. Two sets of them, in two closets, on t
 
 And on the fourth Saturday of the term, Wulin found out what his hammers did.
 
-It was not dramatic. He was six hundred strikes into a bar of ordinary tungsten steel, working the Thousand Refinements the slow careful way Mang Tian had installed in him, when he hit one strike slightly wrong — flat, a degree off the vertical, the sort of error he had stopped making two years ago and had made again because he was thinking about the tournament — and the hammer came back at him with **three** shocks in it instead of one.
+It was not dramatic. He was six hundred strikes into a bar of ordinary tungsten steel, working the Thousand Refinements the slow careful way Mang Tian had installed in him, when he hit one strike slightly wrong. Flat, a degree off the vertical, the sort of error he had stopped making two years ago and had made again because he was thinking about the tournament — and the hammer came back at him with **three** shocks in it instead of one.
 
 He stopped. He looked at the handle. He hit it again, correctly, and there was one shock.
 
@@ -62,7 +62,7 @@ He did not name it. He wrote it in the ledger at the back of his book, in the co
 There was room in that column. He intended to fill it.
 
 
-Lin Hao's were the older trade. Not the blood-sacrificed Thousand Refined pair Mang Tian had folded for Wulin in Glorybound — those were Wulin's, drunk from Wulin's blood — but the set his father Lin Wei had put in his hands at six, the year the Stormbringer woke: a matched pair of heavy forging hammers, plain steel, no ceremony, the handles worn to the exact shape of a growing boy's grip because a blacksmith's son does not get new handles, he gets *the same ones* until his hands outgrow them and his father silently makes the next size. Lin Wei had made him four sizes in four years. The fifth was waiting at home, and Lin Hao's hands had not yet earned it.
+Lin Hao's were the older trade. Not the blood-sacrificed Thousand Refined pair Mang Tian had folded for Wulin in Glorybound — those were Wulin's, drunk from Wulin's blood. But the set his father Lin Wei had put in his hands at six, the year the Stormbringer woke: a matched pair of heavy forging hammers, plain steel, no ceremony. The handles worn to the exact shape of a growing boy's grip because a blacksmith's son does not get new handles, he gets *the same ones* until his hands outgrow them and his father silently makes the next size. Lin Wei had made him four sizes in four years. The fifth was waiting at home, and Lin Hao's hands had not yet earned it.
 
 He was working his own commission. Not a mecha housing — a **blade.** A commissioned short-sword blank, second-rank steel, for a Federation guardsman who had asked, through the board, for an edge that would not chip on the third strike. It was, on paper, a journeyman's task. Lin Hao was ten, and had been at the anvil — really at it, in his father's Glorybound forge, not pretending — since he was six.
 
@@ -90,7 +90,7 @@ Mu Chen was quiet for a long moment. Then, from two closets down, a sound came u
 
 Mu Chen looked at him for a long moment. "Your father," he said at last, "is a third-rank smith who folds by count and prayer. You are ten, and you found a sulphur pocket the board's own assay missed, and you are folding around it at a heat that should shatter the bar." He unfolded his arms. "That is not a different door into the same room, boy. That is a different room. But—" and here, for the second time in two months, something crossed the flat register that was almost warmth, "—you carry yourself like it's the same room. I have decided I like that."
 
-He turned to go, and stopped at the corridor's end where Wulin had appeared, wiping his hands, the four-hundredth-strike note still hanging in the air behind him. The two boys fell into step — Wulin on the left, Lin Hao on the right, the way they had since they were four — and Mu Chen watched them walk the short corridor together and thought, though he would not have said it aloud, that he had been given two of them, and that the Association's ledger had no column for what he was actually being handed.
+He turned to go, and stopped at the corridor's end where Wulin had appeared, wiping his hands, the four-hundredth-strike note still hanging in the air behind him. The two boys fell into step — Wulin on the left, Lin Hao on the right, the way they had since they were four. And Mu Chen watched them walk the short corridor together and thought, though he would not have said it aloud, that he had been given two of them, and that the Association's ledger had no column for what he was actually being handed.
 
 "Both of you," he called after them. "Fridays. Submit together. And Lin Hao." The boys turned. "The guardsman's edge. When it's done — bring it to me before you bring it to him. I want to strike it myself." He paused. "I want to hear if it chips."
 
@@ -108,11 +108,11 @@ The yard's test-post was a laminated hardwood block banded in iron — the stand
 
 He *used* the soul.
 
-The Stormbringer was not in his hand — this was mortal steel, a commission, not his soul — but the hawk was in him, and the wind answered the steel the way it answered everything he held. As the edge came down he let a thread of soul power run the blade's length and *asked* the air to lean into the cut, and the wind — the Gale Talon's wind, the same compressed breath he used to rend at range — folded along the edge in a ribbon of moving pressure that turned a good chop into a *slicing* one. It was not the full Gale Talon; it was the Talon's principle laid along an ordinary blade, the way a swordsman lays intent along a cut.
+The Stormbringer was not in his hand — this was mortal steel, a commission, not his soul — but the hawk was in him, and the wind answered the steel the way it answered everything he held. As the edge came down he let a thread of soul power run the blade's length and *asked* the air to lean into the cut, and the wind. The Gale Talon's wind, the same compressed breath he used to rend at range — folded along the edge in a ribbon of moving pressure that turned a good chop into a *slicing* one. It was not the full Gale Talon; it was the Talon's principle laid along an ordinary blade, the way a swordsman lays intent along a cut.
 
 The edge took the post.
 
-It bit not two inches but four, and the laminated wood parted like wet paper along a line so clean the grain did not even splinter, and the iron band — the iron band that had stopped two prior guardsman-edges and chipped both — *opened,* silently, without a chip on the steel, because the wind had done the work the steel alone would have broken itself against.
+It bit not two inches but four, and the laminated wood parted like wet paper along a line so clean the grain did not even splinter, and the iron band. The iron band that had stopped two prior guardsman-edges and chipped both — *opened,* silently, without a chip on the steel, because the wind had done the work the steel alone would have broken itself against.
 
 Lin Hao stood, and let the blade come down to his side, and listened to the post settle.
 
@@ -124,7 +124,7 @@ Behind him, the yard had gone quiet in the way yards do when a ten-year-old has 
 
 "No." The old man turned the edge to the light. "Who *read* it. This steel's been folded around its own faults. I've made steel forty years and I fold by count and prayer like the rest." He handed the blade back, and his hand — Lin Hao noticed — was not entirely steady. "Your father's boy. Aye. But not your father's *hands.*" He shook his head and went back to the gate, and the other two made room for him, and none of them said anything else, because there was nothing else that fit.
 
-Lin Hao wrapped the edge in oiled cloth to carry it to Mu Chen, and as he did, he felt the hawk settle — not with leading, not with marking, just the ordinary warmth of a thing that liked, it turned out, to watch him *make* — and he thought, with the particular quiet of a boy who had spent his whole life being told he was otherwise and had finally found the room where otherwise was just *good:*
+Lin Hao wrapped the edge in oiled cloth to carry it to Mu Chen, and as he did, he felt the hawk settle — not with leading, not with marking, just the ordinary warmth of a thing that liked, it turned out, to watch him *make*. And he thought, with the particular quiet of a boy who had spent his whole life being told he was otherwise and had finally found the room where otherwise was just *good:*
 
 *This is the part I'm for. Not the watching. The making.*
 

@@ -12,7 +12,7 @@ Both hammers went into his left hand. His right — bare, unarmored, a boy's han
 
 Except the hand did not melt.
 
-Gold scaled up the arm like a verdict — he had called the grass home and the golden ring forward in the same breath — and the scales walked across his shoulder, his torso, until the boy stood in a shell of himself, clothes burst away, hammering with his left while his right held on to a temperature that should have taken the hand off and kept hammering.
+Gold scaled up the arm like a verdict — he had called the grass home and the golden ring forward in the same breath. And the scales walked across his shoulder, his torso, until the boy stood in a shell of himself, clothes burst away, hammering with his left while his right held on to a temperature that should have taken the hand off and kept hammering.
 
 And what poured across that grip, into the silver, was not soul power anymore. Soul power had run its well dry ten minutes in. What fed the metal now came up red.
 
@@ -84,7 +84,7 @@ Wu Zhangkong crossed to the second table first — his path had been decided for
 
 "Tomorrow the continent starts learning your names," he said. "Tonight you eat, and you sleep. That is also the profession."
 
-At the first table, the red light poured. The dragon drank. The city around them slept under stars that admitted to nothing, and in a metal room at the academy's root, a boy who was now part hammer dreamed of nothing at all, and smiled — and somewhere north of everything, in a forest made of the academy's memory, a mother's heartbeat kept time for a cub that would never know how close it had come to being a ring.
+At the first table, the red light poured. The dragon drank. The city around them slept under stars that admitted to nothing, and in a metal room at the academy's root, a boy who was now part hammer dreamed of nothing at all. And smiled — and somewhere north of everything, in a forest made of the academy's memory, a mother's heartbeat kept time for a cub that would never know how close it had come to being a ring.
 
 The night kept all of it. Morning would be loud.
 

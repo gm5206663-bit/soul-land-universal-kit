@@ -98,7 +98,7 @@ He worked the near third properly. He worked the middle third properly, and slow
 
 At three hours he reached the pocket.
 
-He opened it the way he had opened a hundred of them — along the grain, following the seam, letting the metal decide — and the sulphur came out clean and the bar closed over itself without a mark, and he had ninety minutes left, and he used every one of them on the finish, because the finish was the part nobody examined and the part he actually cared about.
+He opened it the way he had opened a hundred of them — along the grain, following the seam, letting the metal decide — and the sulphur came out clean and the bar closed over itself without a mark. And he had ninety minutes left, and he used every one of them on the finish, because the finish was the part nobody examined and the part he actually cared about.
 
 And then, at about three hours and forty, the lightning came.
 
@@ -108,7 +108,7 @@ And then, at about three hours and forty, the lightning came.
 
 It was not a decision. That was the thing he noticed first and the thing he was still turning over a week later.
 
-He was on the last pass, drawing the edge down, and the hawk — nine hundred and thirty-four years old and entirely unconsulted — did something, and the thin blue line that had been running along his sword since the crossing ran along the *hammer* instead, and went into the bar, and the edge did not so much sharpen as **arrive.**
+He was on the last pass, drawing the edge down, and the hawk — nine hundred and thirty-four years old and entirely unconsulted — did something. And the thin blue line that had been running along his sword since the crossing ran along the *hammer* instead, and went into the bar, and the edge did not so much sharpen as **arrive.**
 
 He had not laid a Gale Talon. He had not done anything at all. He had been hammering, and the lightning had been there because the lightning lived in him now, and the steel had taken it the way steel takes heat.
 
@@ -146,7 +146,7 @@ The examiner looked at him for a long moment.
 
 Wulin came with him, which Lin Hao had not asked for and had wanted.
 
-He sat on the bench outside the examination room for four hours with his back against the wall and his eyes closed, and did not come in, and did not say anything through the door, and when Lin Hao came out with a third-rank certificate in his hand and a great deal to think about, Wulin opened one eye and said, "Well?"
+He sat on the bench outside the examination room for four hours with his back against the wall and his eyes closed, and did not come in. And did not say anything through the door, and when Lin Hao came out with a third-rank certificate in his hand and a great deal to think about, Wulin opened one eye and said, "Well?"
 
 "Third rank."
 

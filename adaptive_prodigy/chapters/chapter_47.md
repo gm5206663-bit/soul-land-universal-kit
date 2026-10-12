@@ -67,7 +67,7 @@ Wu Zhangkong looked at him.
 
 "I have three."
 
-And Wu Zhangkong — who had said *unnatural existences* without flinching, who had described clans doing things to children that Lin Hao had not fully understood and had not enjoyed not fully understanding — did the thing that Lin Hao would remember for longer than any of it, which was that he closed his eyes for about a second and a half, and when he opened them he did not look annoyed.
+And Wu Zhangkong — who had said *unnatural existences* without flinching, who had described clans doing things to children that Lin Hao had not fully understood and had not enjoyed not fully understanding. Did the thing that Lin Hao would remember for longer than any of it, which was that he closed his eyes for about a second and a half, and when he opened them he did not look annoyed.
 
 He looked like a man who has been handed a problem that is not his problem and has decided, in the space of a second and a half, to make it his.
 
@@ -175,7 +175,7 @@ It was the first time in four months.
 
 ## Part 5: What He Offered Instead
 
-"I am going to take Wulin into the intermediate platform," Wu Zhangkong said. "And I am going to take you, because you have three rings and I would like to see what happens in there with three rings, and because—" he paused, and Lin Hao understood that he was choosing, and that the choosing cost him something, "**because I do not know what you are, and I would rather find out where I can see it.**"
+"I am going to take Wulin into the intermediate platform," Wu Zhangkong said. "And I am going to take you, because you have three rings and I would like to see what happens in there with three rings, and because—" he paused. And Lin Hao understood that he was choosing, and that the choosing cost him something, "**because I do not know what you are, and I would rather find out where I can see it.**"
 
 "The Spirit Pagoda wants weak entrants," Lin Hao said.
 

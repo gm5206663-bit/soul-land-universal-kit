@@ -120,7 +120,7 @@ Lin Hao turned to look at him.
 
 Lin Hao looked at the sword.
 
-He could read it. That was the thing — he had read four hundred thousand down to three hundred and fifty in four seconds in a quiet room two days ago, and he was standing in front of a blade that had been in a skull for long enough to grow a tree, and his head was doing the thing it was for, and what it was telling him was not a number.
+He could read it. That was the thing — he had read four hundred thousand down to three hundred and fifty in four seconds in a quiet room two days ago. And he was standing in front of a blade that had been in a skull for long enough to grow a tree, and his head was doing the thing it was for, and what it was telling him was not a number.
 
 It was telling him the blade had been **forged by somebody who was angry.**
 
@@ -188,7 +188,7 @@ He sat up.
 
 "What was that."
 
-Wu Zhangkong was quiet for a while. He was looking at the sword in the skull, and his face was doing something Lin Hao had never seen on it, and Lin Hao understood — because he had spent four days learning to read this man, and because he had learned at a grave that the record was not the person — that whatever was on that face was not going to be explained.
+Wu Zhangkong was quiet for a while. He was looking at the sword in the skull, and his face was doing something Lin Hao had never seen on it. And Lin Hao understood — because he had spent four days learning to read this man, and because he had learned at a grave that the record was not the person — that whatever was on that face was not going to be explained.
 
 "I don't know," Wu Zhangkong said.
 
@@ -285,7 +285,7 @@ Then the line at the bottom.
 
 He closed the book.
 
-The **hawk-gold lock** at his temple lay across his cheekbone, and the **marks on his forearms** were faint under his sleeves and had been raised all evening and had not gone down, and the hawk turned over in him — **one thousand two hundred and twelve** — and did not pull toward anything, because it had found what it was looking for.
+The **hawk-gold lock** at his temple lay across his cheekbone, and the **marks on his forearms** were faint under his sleeves and had been raised all evening and had not gone down. And the hawk turned over in him — **one thousand two hundred and twelve** — and did not pull toward anything, because it had found what it was looking for.
 
 Lin Hao lay on his back in a city with no skyscrapers and did not sleep.
 

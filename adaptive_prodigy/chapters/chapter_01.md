@@ -186,7 +186,7 @@ Somewhere in the line, a boy with a fat face and a knife for a martial soul said
 
 "Lin Hao."
 
-He had known it was coming for four seconds, which was long enough to decide how he was going to walk, and he walked to the middle of the chamber at exactly his ordinary speed, because he had noticed — again, without deciding to — that the Spirit Master was watching him now, and that adults read a boy's hands before they read his face.
+He had known it was coming for four seconds, which was long enough to decide how he was going to walk. And he walked to the middle of the chamber at exactly his ordinary speed, because he had noticed — again, without deciding to — that the Spirit Master was watching him now, and that adults read a boy's hands before they read his face.
 
 He put his hands where they could be seen.
 
@@ -362,7 +362,7 @@ Wulin stood there for a moment with the grass still in his hand, and then he smi
 
 They ate at the Lins' that evening, both families around one table in a front room that was not big enough, because Lin Mei cooked like a woman who had been told there would be four and had decided there would be nine.
 
-Wulin ate four bowls. His mother was not there — nobody said anything about that, because Wulin's mother had been gone a long time and the Tangs had made a decision about it years ago — and Lin Mei put food in front of him at exactly the same rate she put it in front of her own son, and did not comment on it once, which was the kindest thing that happened to Tang Wulin that year.
+Wulin ate four bowls. His mother was not there — nobody said anything about that, because Wulin's mother had been gone a long time and the Tangs had made a decision about it years ago. And Lin Mei put food in front of him at exactly the same rate she put it in front of her own son, and did not comment on it once, which was the kindest thing that happened to Tang Wulin that year.
 
 "Rank five and a sword," said Tang Ziran, raising his cup. "And rank three and a weed. Between the two of you, boys, you've got the whole range covered."
 
@@ -392,7 +392,7 @@ Tang Ziran set his cup down very carefully, the way men do when they are trying 
 
 "It's the right way," said Lin Hao, and went back to eating, because he had said the thing and could now be six again.
 
-Outside, the sun went down over Glorybound City and the soul lamps came up the street one after another, and somewhere in a small room at the back of a house two doors down, a man named Mang Tian took a piece of cold metal out of a rack and looked at it for a while and put it back, and thought about a boy he had not met yet.
+Outside, the sun went down over Glorybound City and the soul lamps came up the street one after another. And somewhere in a small room at the back of a house two doors down, a man named Mang Tian took a piece of cold metal out of a rack and looked at it for a while and put it back, and thought about a boy he had not met yet.
 
 Neither of the boys in the front room knew anything about that.
 

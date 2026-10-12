@@ -18,7 +18,7 @@ He took up a length of plain foundry scrap, as he always did, and settled into t
 
 "No one can do it the first forty days. Watch the scrap, not me." He ran the form slowly, and at the third form he let her see the thing she was looking for — the moment where intent and stroke ceased to be two things, the scrap edge travelling the line before his shoulder visibly committed. It was not a higher realm. It was the depth of the realm they both already stood in, the place Wu Zhangkong had spent years trying to drill into him and that Xinglan was now drilling herself after, one cold dawn at a time.
 
-They sparred until the sun was up. He did not let her win and he did not shut her out; he held the forms at exactly the height she could almost reach, and she reached, and when she put the practice point past his guard for the first time she made a small, satisfied sound deep in her throat, the sound a smith makes when a struck seam finally opens the way it is supposed to.
+They sparred until the sun was up. He did not let her win and he did not shut her out; he held the forms at exactly the height she could almost reach. And she reached, and when she put the practice point past his guard for the first time she made a small, satisfied sound deep in her throat, the sound a smith makes when a struck seam finally opens the way it is supposed to.
 
 "Forty days," she said afterwards, wiping her blade down, already counting. "I'll have the third form honest in forty days. Come back then and I'll put a second touch on you." She said it without arrogance and without false modesty, the way she said everything, and Lin Hao laughed, because she was exactly the kind of person the five of them needed in the yard.
 
@@ -32,7 +32,7 @@ Mu Chen came through the gate with one solid case in his hand — a case that he
 
 Then his eyes found Lin Hao.
 
-For a moment Mu Chen just stood there, holding his case, and on his face was the exact expression Lin Hao had been carrying in his own memory for years — the face of a man who had done the arithmetic in Eastsea and never been able to make it close, now confronted with the answer standing alive in front of him in the open air.
+For a moment Mu Chen just stood there, holding his case, and on his face was the exact expression Lin Hao had been carrying in his own memory for years. The face of a man who had done the arithmetic in Eastsea and never been able to make it close, now confronted with the answer standing alive in front of him in the open air.
 
 "You," Mu Chen said.
 
@@ -106,7 +106,7 @@ The officer noted the tile's reading in her file without looking at it directly 
 
 The officer stamped the report. Gu Yue walked out into the Shrek sun with the file on the counter a page thicker than it had been — a page that said, in essence, that the quiet girl's elements were still extraordinary and her loyalty was still, completely, somewhere the Pagoda could not reach. She didn't go up to the association floor where the smiths were. She didn't need to. She could feel, the way she always could, that Lin Hao was somewhere being seen and valued by people whose trade he'd chosen for his own, and for one morning the weight he always carried was being held by the right shoulders.
 
-By the time she reached the courtyards the four smiths were coming down the four flights — Mu Chen carrying his case into his new city for the first time, Feng Wuyu watching from the landing with the long patience of a man who'd found what he'd come down for, and Lin Hao in the middle of them with the opened plate wrapped again under his arm, no longer a hunk of a dead beast but a begun thing: the first true piece of a two-word suit, with a Saint's hand promised on the work ahead.
+By the time she reached the courtyards the four smiths were coming down the four flights — Mu Chen carrying his case into his new city for the first time, Feng Wuyu watching from the landing with the long patience of a man who'd found what he'd come down for. And Lin Hao in the middle of them with the opened plate wrapped again under his arm, no longer a hunk of a dead beast but a begun thing: the first true piece of a two-word suit, with a Saint's hand promised on the work ahead.
 
 ---
 

@@ -21,7 +21,7 @@ Gu Tianri walked at the point. Gu Tianyue and Gu Tianming walked at his shoulder
 
 And class two went up.
 
-Not a jump. Not a leap. The three of them simply left the platform the way three thoughts leave a mind — together, without discussion — and soul-light unfolded from their backs in three pairs of wings that were the same soul three times, and they rose until they were standing on the morning the way other people stand on floors, ten meters up, in a triangle, calm as a diagram.
+Not a jump. Not a leap. The three of them simply left the platform the way three thoughts leave a mind — together, without discussion — and soul-light unfolded from their backs in three pairs of wings that were the same soul three times. And they rose until they were standing on the morning the way other people stand on floors, ten meters up, in a triangle, calm as a diagram.
 
 The stands made the sound of a grade doing arithmetic and not liking the answer.
 
@@ -64,13 +64,13 @@ And the sky, as advertised, belonged to class two — and class two had months o
 
 Gu Tianming folded his wings and came down at him.
 
-The dive was the speed skill lit all at once — a white line out of the sun, angled to meet the climbing boy at the exact place a climbing boy would be — and the hawk-eyes saw it coming early enough to admire, and the sword was already moving, and it was still not early enough, because the air under Lin Hao's feet was his own work and the kick that arrived came through the shelf like a hammer through a window.
+The dive was the speed skill lit all at once — a white line out of the sun, angled to meet the climbing boy at the exact place a climbing boy would be — and the hawk-eyes saw it coming early enough to admire. And the sword was already moving, and it was still not early enough, because the air under Lin Hao's feet was his own work and the kick that arrived came through the shelf like a hammer through a window.
 
 The shelf broke. Lin Hao fell.
 
 Two meters of sky went past him — arms numb from the wrist up where the kick had landed on the Stormbringer's flat, the platform a long way down, the triangle re-forming above with the calm of something that had just confirmed a lesson. Ye Yingrong, in the stands, permitted herself the smallest nod. This was the moment. This was the confession.
 
-The sword went into the empty air beneath him — not a slash, a *seam* — and the wind caught the edge the way it caught everything he asked of it, and **Wind-Step** fired on a shelf no wider than a boot, and the fall became a step, and the step became a climb, and Lin Hao went back up the sky like a sentence that had decided to continue.
+The sword went into the empty air beneath him — not a slash, a *seam* — and the wind caught the edge the way it caught everything he asked of it. And **Wind-Step** fired on a shelf no wider than a boot, and the fall became a step, and the step became a climb, and Lin Hao went back up the sky like a sentence that had decided to continue.
 
 The road was not under his feet. The road was in his hand.
 
@@ -86,13 +86,13 @@ He didn't cut the flyers. He cut the flyers' sky.
 
 Below — and the stands would argue about the timing for a year, and the timing was perfect — Tang Wulin's hands closed on Xie Xie's waist, and the forge turned, and class two's fastest went into the air like a thrown knife.
 
-What followed, class five would retell until the words wore smooth. A flash of blue light under the dagger-boy's feet — the girl's hands moving below, ice balls forming and freezing in the air like stones across a stream — and Xie Xie's foot tapping the blue light, and the borrowed force bending his fall into a *rise,* and Gu Tianri at the top of the sky discovering, too late, that the patient game only works while the other side is on the ground. The Light Dragon Dagger came out of the climb in a golden line that closed the escape, and Xie Xie was there — knife to the side, left hand pulling the flyer's leg, body turning over in the air like a mirage — and the flat of the dagger tapped Gu Tianri on the head with a small, polite note.
+What followed, class five would retell until the words wore smooth. A flash of blue light under the dagger-boy's feet — the girl's hands moving below, ice balls forming and freezing in the air like stones across a stream — and Xie Xie's foot tapping the blue light. And the borrowed force bending his fall into a *rise,* and Gu Tianri at the top of the sky discovering, too late, that the patient game only works while the other side is on the ground. The Light Dragon Dagger came out of the climb in a golden line that closed the escape, and Xie Xie was there — knife to the side, left hand pulling the flyer's leg, body turning over in the air like a mirage — and the flat of the dagger tapped Gu Tianri on the head with a small, polite note.
 
 "Out, Gu Tianri," said Long Hengxu from the ground, and added, for the record, in the voice of a man filing something he intended to think about later, that a moment ago, if the dagger-boy had intended it, the eldest brother's throat would have been open.
 
-Three bundles of blue light bloomed in the air. Xie Xie connected the three points, flipped three times between them — the stands' noise went thin and high, the sound of people watching something their vocabulary had no shelf for — and came out of the last flip beside Gu Tianyue with the dagger resting against his head, and Gu Tianyue, who was not a boy who liked to die, descended.
+Three bundles of blue light bloomed in the air. Xie Xie connected the three points, flipped three times between them — the stands' noise went thin and high, the sound of people watching something their vocabulary had no shelf for. And came out of the last flip beside Gu Tianyue with the dagger resting against his head, and Gu Tianyue, who was not a boy who liked to die, descended.
 
-And Gu Tianming — wing still wobbling where the sword had taken his sky, formation long gone, months of drilled unison scattered — did the only thing left that was his: folded what lift he had and threw himself at the descending girl, because a flyer who comes down empty-handed has to answer for it, and she was right there, slow in her green light, and someone had to be defeated—
+And Gu Tianming — wing still wobbling where the sword had taken his sky, formation long gone, months of drilled unison scattered. Did the only thing left that was his: folded what lift he had and threw himself at the descending girl, because a flyer who comes down empty-handed has to answer for it, and she was right there, slow in her green light, and someone had to be defeated—
 
 The sword was already there. It had been there since the pitch. One more cut, laid not under the wing this time but *along* the dive — the wind-edge turning the air into a chute, a slope, a suggestion the diving boy could not refuse — The desperate charge arrived at Tang Wulin's waiting grass two meters off its line and half its speed. The Bluesilver Grass took Gu Tianming around the waist the way a river takes a stone, and pulled, and the flyer came down out of his own element and onto the platform in a heap, and Wulin's other arm was already around Gu Yue, setting her on her feet.
 
@@ -120,7 +120,7 @@ The dagger-boy couldn't fly. The dagger-boy had never touched the ground after t
 
 And Ye Yingrong went back up the teachers' wall and wrote her assessment, and the assessment was wrong, and she would not find out for two years, and the reason she was wrong is the whole of the butterfly.
 
-She had scored the match. Three flyers, speed souls, Ye Yingrong's own training behind them, and class five had taken them apart in the air, which was not supposed to be possible, and she had scored it correctly: **the dagger-boy is fast, the grass-boy owns ground, the girl owns weather, and the boy with the sword is the one who decided where the other three would be.**
+She had scored the match. Three flyers, speed souls, Ye Yingrong's own training behind them, and class five had taken them apart in the air, which was not supposed to be possible. And she had scored it correctly: **the dagger-boy is fast, the grass-boy owns ground, the girl owns weather, and the boy with the sword is the one who decided where the other three would be.**
 
 That is a complete assessment. It is also the assessment of a class that does not contain him — because what she had actually watched was not four students coordinating. It was **one student reading three flyers faster than three flyers could fly,** and the other three arriving at the places he had already put them. She had scored the arrival and missed the reading, because the reading does not look like anything from the wall.
 
@@ -134,7 +134,7 @@ That is a complete assessment. It is also the assessment of a class that does no
 
 "Next time," Xie Xie said, "you'll be throwing me at a *dragon,* and I'd like to practice."
 
-Up in the emptying stands, Ye Yingrong took out a soul communicator and stood for a moment with it in her hand, watching the four below — the girl already arguing tactics, the dagger-boy already boasting, the forge-boy apologizing sincerely for his own impulsiveness in the middle of being *right,* and the fourth one walking at their edge with a sheathed sword and a face that, she noted with the detached irritation of a woman cataloguing facts, was going to be a problem for someone's concentration in about four years.
+Up in the emptying stands, Ye Yingrong took out a soul communicator and stood for a moment with it in her hand, watching the four below. The girl already arguing tactics, the dagger-boy already boasting, the forge-boy apologizing sincerely for his own impulsiveness in the middle of being *right,* and the fourth one walking at their edge with a sheathed sword and a face that. She noted with the detached irritation of a woman cataloguing facts, was going to be a problem for someone's concentration in about four years.
 
 She punched in a number.
 
@@ -158,7 +158,7 @@ But her sister had already hung up, and Ye Yingrong let out a long sigh to no on
 
 ## Part 4: The Chair
 
-They celebrated at the first window, because Gu Yue had said *one meal* in the voice that made it law, and because Xie Xie had immediately bet her the meal that class one would last longer than class two had, and because the first window's auntie had started giving class five extra ladle without being asked and without, so far, admitting it.
+They celebrated at the first window, because Gu Yue had said *one meal* in the voice that made it law. And because Xie Xie had immediately bet her the meal that class one would last longer than class two had, and because the first window's auntie had started giving class five extra ladle without being asked and without, so far, admitting it.
 
 "Walked," Xie Xie said, around a mouthful, pointing his chopsticks at Lin Hao with the air of a man presenting evidence at a trial. "*Walked.* Up. Into a *flying match.* Do you know what the stands are calling you now? Not even a name yet. Just — *he walked.* Like it's a place. Like the sky's a neighborhood."
 
@@ -168,11 +168,11 @@ They celebrated at the first window, because Gu Yue had said *one meal* in the v
 
 "The ice was beautiful," Lin Hao conceded, and Wulin's laugh and Gu Yue's almost-smile arrived at the same instant, and Xie Xie sat back, deeply satisfied, having—as he saw it—won the meal without paying for it.
 
-Later, on the roof, the harbor did its nightly accounting of lights, and Wulin's slate came out (class one: *the dragon goes spectral a quarter at a time — physical blows pass. The eagle folds over him. The fusion made a sound. Do not let them touch.*), and the argument about the top of the ladder went on until the lamps on the far seawall blinked their midnight shift, and none of it — none of the tactics, the boasting, the honest slow searching for words — was the thing Lin Hao carried back down the dormitory stairs and into the dark of room twelve and set down, carefully, like a coal still lit.
+Later, on the roof, the harbor did its nightly accounting of lights, and Wulin's slate came out (class one: *the dragon goes spectral a quarter at a time — physical blows pass. The eagle folds over him. The fusion made a sound. Do not let them touch.*), and the argument about the top of the ladder went on until the lamps on the far seawall blinked their midnight shift, and none of it. None of the tactics, the boasting, the honest slow searching for words — was the thing Lin Hao carried back down the dormitory stairs and into the dark of room twelve and set down, carefully, like a coal still lit.
 
 Except that on the way past room eleven, he stopped.
 
-Because he heard it again — the settling. The note. Three tournament matches in four days, a bear's momentum turned through his arms, a flyer pulled out of his own sky, a dragon's bell humming in the next room of his bones, nine weeks of a monster for a sparring partner and a hammer and a grass that had finally learned to be one tool — and the sum of it, at last, came through the wall in the deep quiet spiral of a boy who sat down into meditation the way he sat down into everything: fully. Soul Master rank fifteen, arrived without a sound, the way forged things arrive.
+Because he heard it again — the settling. The note. Three tournament matches in four days, a bear's momentum turned through his arms, a flyer pulled out of his own sky, a dragon's bell humming in the next room of his bones, nine weeks of a monster for a sparring partner and a hammer and a grass that had finally learned to be one tool. And the sum of it, at last, came through the wall in the deep quiet spiral of a boy who sat down into meditation the way he sat down into everything: fully. Soul Master rank fifteen, arrived without a sound, the way forged things arrive.
 
 Lin Hao knocked once on the doorframe with his knuckle. "Fifteen."
 
@@ -180,7 +180,7 @@ From inside, in the dark, a grin you could hear: "Your ears are *unnatural.*"
 
 "Dinner's on you tomorrow, rank fifteen." And then, quieter, because it was true and therefore worth saying exactly once: "You know you reached it in half the time the grade thinks is possible. Half. Keep the ledger honest."
 
-"The ledger's *always* honest—" But the forge-boy was laughing, and the Goldsong under his sleeve was stirring warm hellos at a rank it had been climbing toward since it was a ten-year scrap of a soul in a shop window, and the second seal behind his sternum pressed once, hard, like a shoulder against a door, and was told — not unkindly — *not yet.*
+"The ledger's *always* honest—" But the forge-boy was laughing, and the Goldsong under his sleeve was stirring warm hellos at a rank it had been climbing toward since it was a ten-year scrap of a soul in a shop window. And the second seal behind his sternum pressed once, hard, like a shoulder against a door, and was told — not unkindly — *not yet.*
 
 And in room twelve, in the dark, the thing Lin Hao had actually been carrying all day finally found its shelf.
 

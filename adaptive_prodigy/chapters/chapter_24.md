@@ -37,7 +37,7 @@ The intake room was on the third floor and smelled of cold metal and something f
 
 "Names," the woman said, and took them, and wrote them, and then said, "Hands on the plate, one at a time, and hold still, and don't be alarmed by the number, the number is only a number."
 
-Xie Xie went first, because Xie Xie went first at everything. The plate took his hand and the dial above the counter climbed and settled, and the woman wrote, and Xie Xie craned to see it, and the woman turned the form away, and Xie Xie said, "That's *rude,*" and the woman said, "It's policy," and Xie Xie said, "Whose policy," and the woman said, "The Spirit Pagoda's," and Xie Xie said, "That's the rudest policy I've ever heard," and Lin Hao put a hand on his shoulder, because the queue was not moving.
+Xie Xie went first, because Xie Xie went first at everything. The plate took his hand and the dial above the counter climbed and settled, and the woman wrote, and Xie Xie craned to see it, and the woman turned the form away. And Xie Xie said, "That's *rude,*" and the woman said, "It's policy," and Xie Xie said, "Whose policy," and the woman said, "The Spirit Pagoda's," and Xie Xie said, "That's the rudest policy I've ever heard," and Lin Hao put a hand on his shoulder, because the queue was not moving.
 
 Wang Jinxi went. Zhang Yangzi went, with his splinted wrist held carefully away from the plate, and winced at something only he could see. Wei Xiaofeng went, and scowled at the dial, and did not comment, which was so unlike him that Xie Xie whispered "Is he *ill?*" and Wei Xiaofeng said "I'm *fine,*" in a voice that had two variants in it now.
 
@@ -61,7 +61,7 @@ Wulin went next. The dial climbed, and stopped, and the woman looked at it, and 
 
 "Is something wrong?" Wulin asked, politely.
 
-"No," the woman said, slowly, and wrote something, and then wrote something else underneath it, and Lin Hao — who was standing second in the queue and had a view of the form at an angle the woman had probably not accounted for — saw that she had written the number, and then drawn a small line through it, and written a different number, and then drawn a line through that too.
+"No," the woman said, slowly, and wrote something, and then wrote something else underneath it, and Lin Hao — who was standing second in the queue and had a view of the form at an angle the woman had probably not accounted for. Saw that she had written the number, and then drawn a small line through it, and written a different number, and then drawn a line through that too.
 
 Gu Yue went. The dial climbed. It did not stop where the others had stopped. The woman's pen did not move, and then it moved once, and she did not look up.
 
@@ -71,7 +71,7 @@ The dial climbed.
 
 It passed Xie Xie's place. It passed Wang Jinxi's. It passed Zhang Yangzi's and Wei Xiaofeng's and it went by Wulin's crossed-out number and it did not stop at Gu Yue's, and Lin Hao watched it go with the detached interest of a blacksmith watching a gauge that had been asked to do something it was not built for, and the needle kept going, and the woman stood up.
 
-She actually stood up. She was a woman of perhaps forty who had, Lin Hao thought, probably been doing this for twenty years, and she stood up out of her chair and leaned over the counter to look at the dial from a different angle, the way his father stood up and leaned over a bar of steel when the bar of steel said something his father did not believe.
+She actually stood up. She was a woman of perhaps forty who had, Lin Hao thought, probably been doing this for twenty years. And she stood up out of her chair and leaned over the counter to look at the dial from a different angle, the way his father stood up and leaned over a bar of steel when the bar of steel said something his father did not believe.
 
 "That's not right," she said.
 
@@ -85,7 +85,7 @@ She actually stood up. She was a woman of perhaps forty who had, Lin Hao thought
 
 **one hundred and ninety-one.**
 
-The room had gone quiet, and Lin Hao became aware that all six of them were looking at him, and that the queue behind him had ceased to be a queue, and that a man in Spirit Pagoda grey had come to the door of the intake room and was standing in it looking at the dial over the woman's shoulder.
+The room had gone quiet, and Lin Hao became aware that all six of them were looking at him, and that the queue behind him had ceased to be a queue. And that a man in Spirit Pagoda grey had come to the door of the intake room and was standing in it looking at the dial over the woman's shoulder.
 
 "Is the machine broken?" Xie Xie asked, in the voice of a boy offering help.
 
@@ -131,7 +131,7 @@ The room with the boxes was on the seventh floor, and it was not what any of the
 
 "There are seven beds, Xie Xie, there are electrodes, there is a man in white over by the wall holding a tray, and there is a smell that I have smelled exactly once in my life, in a room where my mother's neighbour's husband stopped breathing for eleven seconds. It's a hospital. It's a hospital with better lighting."
 
-The boxes were metal, and they were waist-high, and each of them had a lid that opened on a hinge, and inside each one there was a padded surface and a headrest and a set of electrodes on articulated arms that waited, politely, above the pillow like insects standing still. There were screens along the far wall — a bank of them, seven, each one dark — and a chair, and in the chair sat the man in Spirit Pagoda grey, and behind him, with his arms folded, stood Wu Zhangkong, and beside Wu Zhangkong stood Long Hengxu, who had come out of the tournament the way weather comes out of a season, and who looked at the seven of them and nodded once.
+The boxes were metal, and they were waist-high, and each of them had a lid that opened on a hinge, and inside each one there was a padded surface and a headrest and a set of electrodes on articulated arms that waited, politely, above the pillow like insects standing still. There were screens along the far wall — a bank of them, seven, each one dark — and a chair, and in the chair sat the man in Spirit Pagoda grey. And behind him, with his arms folded, stood Wu Zhangkong, and beside Wu Zhangkong stood Long Hengxu, who had come out of the tournament the way weather comes out of a season, and who looked at the seven of them and nodded once.
 
 "Here is what happens," said the staff member — a different one, younger, with a clipboard and the cheerful efficiency of a person explaining something they had explained four thousand times. "You lie down. We attach the electrodes. The lid closes. You will feel a sensation like falling, and then you will be inside. The platform separates you on entry — you will not be together, and you will not know where the others are. Inside, you fight. What you fight is decided by the platform, based on the measurement you were given at intake." He smiled. "There is a button inside, on your left wrist, that you press to come out. Press it if you need to. Nobody thinks less of you. Well. Almost nobody."
 
@@ -145,11 +145,11 @@ The boxes were metal, and they were waist-high, and each of them had a lid that 
 
 "And if we get hurt," Zhang Yangzi said. He was holding his splinted wrist against his chest. He had been very quiet since the intake room.
 
-The staff member's smile did exactly nothing at all — it stayed precisely where it was, at precisely the size it was — and Lin Hao, watching, understood that this was the question the man had been waiting for, and that the answer had been written down somewhere by somebody with a great deal of experience, and that it was not the whole answer.
+The staff member's smile did exactly nothing at all — it stayed precisely where it was, at precisely the size it was. And Lin Hao, watching, understood that this was the question the man had been waiting for, and that the answer had been written down somewhere by somebody with a great deal of experience, and that it was not the whole answer.
 
 "The platform is virtual," the staff member said. "But it contains a degree of reality. What you feel inside, you feel. Pain included. That's the point — you don't learn anything from a fight you can't feel. The button gets you out before it goes too far, and that's what the button is for." He looked at the seven of them, one at a time, and his eyes took a fraction longer on Zhang Yangzi, and then — and this was the part Lin Hao thought about for weeks — a fraction longer on **him.**
 
-It was not a warning. It was not friendly, either. It was a *profound* look, the look of a man who knew something and had decided that knowing it was his job and not theirs, and Lin Hao met it, and held it, and did the thing he had done with the man in the doorway, which was to file it, and to note that he had now been given two looks in one morning by two different employees of the Spirit Pagoda, and that both looks had arrived immediately after the number.
+It was not a warning. It was not friendly, either. It was a *profound* look, the look of a man who knew something and had decided that knowing it was his job and not theirs, and Lin Hao met it, and held it. And did the thing he had done with the man in the doorway, which was to file it, and to note that he had now been given two looks in one morning by two different employees of the Spirit Pagoda, and that both looks had arrived immediately after the number.
 
 "Hao," Wulin murmured, beside him. "That man is looking at you like you're a fire in a house he likes."
 
@@ -179,9 +179,9 @@ Wulin was quiet for a moment.
 
 They went in one at a time.
 
-Xie Xie went first, because Xie Xie had asked, and because the staff member had said "whoever's brave," and because Xie Xie had said "finally, a *fair* test," and had climbed into the box with the enthusiasm of a boy getting into a boat, and had said, over the rim, "If I don't come out, tell my father I died in a forest with a *mouse,*" and the lid had closed.
+Xie Xie went first, because Xie Xie had asked, and because the staff member had said "whoever's brave," and because Xie Xie had said "finally, a *fair* test," and had climbed into the box with the enthusiasm of a boy getting into a boat. And had said, over the rim, "If I don't come out, tell my father I died in a forest with a *mouse,*" and the lid had closed.
 
-Zhang Yangzi went second. He did not say anything. He lay down very carefully, protecting the wrist, and the electrodes came down onto his temples, and just before the lid closed he looked at Gu Yue — a quick, awkward, entirely unpractised look, the look of a boy who had been carried out of his own catastrophe three weeks ago and had not yet worked out how to say thank you — and Gu Yue inclined her head perhaps two millimetres, and the lid closed.
+Zhang Yangzi went second. He did not say anything. He lay down very carefully, protecting the wrist, and the electrodes came down onto his temples, and just before the lid closed he looked at Gu Yue. A quick, awkward, entirely unpractised look, the look of a boy who had been carried out of his own catastrophe three weeks ago and had not yet worked out how to say thank you — and Gu Yue inclined her head perhaps two millimetres, and the lid closed.
 
 Wei Xiaofeng. Wang Jinxi, who lay down as though he had done it a hundred times, and who said, flatly, to no one, "Nineteen minutes," and closed his own eyes before the lid did.
 
@@ -213,7 +213,7 @@ The staff member leaned over him.
 
 And the lid closed.
 
-Lin Hao lay in the dark with a red button under his left hand and seventy-nine lines in his head and the smell of cold metal and hot dust, and felt the falling begin — a long, gentle, entirely unmistakable drop, the way the ground goes away under a swing at the top of its arc — and he did the thing he had done every time in his life that the ground had gone away.
+Lin Hao lay in the dark with a red button under his left hand and seventy-nine lines in his head and the smell of cold metal and hot dust, and felt the falling begin. A long, gentle, entirely unmistakable drop, the way the ground goes away under a swing at the top of its arc — and he did the thing he had done every time in his life that the ground had gone away.
 
 He did not brace. He did not grab. He let go of the ledge, because he had learned at six years old, on a harbour wall with the sea underneath it, that the only thing you can actually do with a fall is *decide where you're going to land.*
 

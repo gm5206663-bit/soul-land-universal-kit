@@ -15,7 +15,7 @@ And then he noticed the other thing.
 
 His soul power was moving faster. Not a lot. A little — a warmth at the base of his spine that kept arriving half a beat before he called for it, the way a dog comes when it hears the bowl. The forest was feeding him. The forest that was wrong for him was feeding him, and Zhang Yangzi stood there in the green light and felt, for the first time in four months, that something in the world had been arranged in his favour.
 
-He released his martial soul. Black wings came out of his back and unfolded, and the Shadow Phantasm Eagle settled onto his shoulder, and he put his hands into claws and went up the tallest tree in the area in eleven seconds, because that was the clever thing to do, and he had decided, on the way in, that he was going to be clever this time.
+He released his martial soul. Black wings came out of his back and unfolded, and the Shadow Phantasm Eagle settled onto his shoulder. And he put his hands into claws and went up the tallest tree in the area in eleven seconds, because that was the clever thing to do, and he had decided, on the way in, that he was going to be clever this time.
 
 Ten metres up, the view opened, and Zhang Yangzi stopped breathing for a moment.
 
@@ -25,9 +25,9 @@ He would find Wang Jinxi. That was the plan. Their fusion was incomplete — the
 
 A bird came over the treetops.
 
-It was big. Five metres of wingspan, green as new leaves, soaring on nothing at all, and it turned its head — it *turned its head* — and looked directly at the tallest tree in the area, and Zhang Yangzi felt something in his chest that he had been carrying since the tournament, something hot and old and entirely unexamined, stand up and take the wheel.
+It was big. Five metres of wingspan, green as new leaves, soaring on nothing at all, and it turned its head — it *turned its head* — and looked directly at the tallest tree in the area. And Zhang Yangzi felt something in his chest that he had been carrying since the tournament, something hot and old and entirely unexamined, stand up and take the wheel.
 
-He had **conceded** three bouts at the tournament — a boy with a hammer, a girl with a cup of water, a swordsman who had read his feint before he finished it — and **not one of them had ever touched him.** He had stepped out of all three, because he had been coordinating, because he had been a team player, because he had spent the entire tournament being careful about what he showed. **Nobody had beaten him. He had simply declined to win, three times, in front of four hundred people, and nobody in the stands had been able to tell the difference — which was the part that had bothered him afterwards, not the losing.**
+He had **conceded** three bouts at the tournament — a boy with a hammer, a girl with a cup of water, a swordsman who had read his feint before he finished it. And **not one of them had ever touched him.** He had stepped out of all three, because he had been coordinating, because he had been a team player, because he had spent the entire tournament being careful about what he showed. **Nobody had beaten him. He had simply declined to win, three times, in front of four hundred people, and nobody in the stands had been able to tell the difference — which was the part that had bothered him afterwards, not the losing.**
 
 Not here.
 
@@ -37,11 +37,11 @@ The bird shrieked. It flapped once, hard, and three green wind blades came off i
 
 He smashed them. That was the good part, and it lasted about a second — black against green, the blades bursting — and then he understood, in the middle of his own triumph, that he had stopped moving.
 
-Eagle Soars the Sky gave him speed. It did not give him *flight.* His wings could glide and they could catch, and they could not hold a boy of ten in the air on their own, and he had traded all his momentum for the pleasure of breaking something, and now he was falling, and the tree canopy was below him, and the canopy was the clever place to be, the bird could not follow him into the trees, he had worked this out, he was *clever*—
+Eagle Soars the Sky gave him speed. It did not give him *flight.* His wings could glide and they could catch, and they could not hold a boy of ten in the air on their own, and he had traded all his momentum for the pleasure of breaking something. And now he was falling, and the tree canopy was below him, and the canopy was the clever place to be, the bird could not follow him into the trees, he had worked this out, he was *clever*—
 
 The treetops opened.
 
-Not one bird. Not two. Green figures came up out of the leaves in every direction at once, and the sky above him filled with wings, and the cries came from all sides and answered each other, and more came, arriving from further off, joining, and Zhang Yangzi hung in the air at the top of his skill with nothing left in him and watched a hundred birds decide about him at the same time.
+Not one bird. Not two. Green figures came up out of the leaves in every direction at once, and the sky above him filled with wings, and the cries came from all sides and answered each other. And more came, arriving from further off, joining, and Zhang Yangzi hung in the air at the top of his skill with nothing left in him and watched a hundred birds decide about him at the same time.
 
 He pressed the button on his left wrist.
 
@@ -65,7 +65,7 @@ He looked at Wu Zhangkong, waiting for it. Waiting for the flat voice to say the
 
 Wu Zhangkong looked at the screen, and did not say anything at all.
 
-And Zhang Yangzi understood — slowly, and then all at once — that the man was not going to say it, and was not going to say it *on purpose,* because a thing you are told you forget, and a thing you watch happen to yourself from the inside of your own skin you keep forever, and this was the entire method, and it had been the entire method the whole time.
+And Zhang Yangzi understood — slowly, and then all at once — that the man was not going to say it, and was not going to say it *on purpose,* because a thing you are told you forget. And a thing you watch happen to yourself from the inside of your own skin you keep forever, and this was the entire method, and it had been the entire method the whole time.
 
 *True combat experience was best gained when experienced for themselves.*
 
@@ -79,7 +79,7 @@ Next time, he thought. Next time I go up the tree and I do not attack the bird. 
 
 Xie Xie had been in the forest for nine minutes and had not made a sound.
 
-He moved from one tree's shadow to the next and did not use the open ground, because he had known since he was four years old that this forest was full of things that would kill him, and because his brother had come home at eleven and talked about a mouse the size of a house for a week, and because Xie Xie had listened to every word of it and had gone to bed every night for seven days with his dagger under the pillow.
+He moved from one tree's shadow to the next and did not use the open ground, because he had known since he was four years old that this forest was full of things that would kill him. And because his brother had come home at eleven and talked about a mouse the size of a house for a week, and because Xie Xie had listened to every word of it and had gone to bed every night for seven days with his dagger under the pillow.
 
 He also knew the other thing, and the other thing was why he had asked to go in first.
 
@@ -87,7 +87,7 @@ Everything you killed in here fed the spirit soul you had in the real world.
 
 His spirit soul was a metal soul the Spirit Pagoda had manufactured specially — a hundred-year soul his family had paid a thousand-year price for, because it was the only one of its kind available, and because the money had bought something nobody outside his family knew about. When it fused with his dagger, it had *mutated.* Not much. Not the way Wulin's Goldsong had mutated, which everyone had seen and nobody had explained. A small mutation, a quiet one, and what it did was this: it let him take two spirit souls and make them one, if he had the spiritual power to hold both.
 
-He had two daggers. He had always had two daggers. The Light one was the one everyone had seen, at the tournament, on the display, in every ring he had ever shown, and the Shadow one had never once left his sleeve in front of another person, because his father had sat him down when he was six and explained that a thing nobody knows about is the only thing that is truly yours.
+He had two daggers. He had always had two daggers. The Light one was the one everyone had seen, at the tournament, on the display, in every ring he had ever shown. And the Shadow one had never once left his sleeve in front of another person, because his father had sat him down when he was six and explained that a thing nobody knows about is the only thing that is truly yours.
 
 The problem was the bottleneck. Two martial souls meant two rings at every wall, and his spiritual power was — Xie Xie had heard the number, and Xie Xie had made his peace with the number, and Xie Xie had then spent four months being loud about everything else so that nobody would look at the number again. But the platform was a way *around* the number. If the metal soul reached the purple thousand-year level, it would give him a ring by itself. At the black ten-thousand-year level, another.
 
@@ -119,7 +119,7 @@ And Xie Xie, standing in the dappled green light with his heart going like a ham
 
 "Oh," he said. "*Oh, you're perfect.*"
 
-He kicked off the trunk and went up. The mouse's tail came for his chest like a thrown javelin and he put a Light Dragon Blade in front of it — and a ray of light flashed at the tip of the tail and his blade **split in half** and swept past harmlessly, and the mouse leapt after him with a speed that had no business belonging to something that shape.
+He kicked off the trunk and went up. The mouse's tail came for his chest like a thrown javelin and he put a Light Dragon Blade in front of it. And a ray of light flashed at the tip of the tail and his blade **split in half** and swept past harmlessly, and the mouse leapt after him with a speed that had no business belonging to something that shape.
 
 Then the mouse shrieked.
 
@@ -175,7 +175,7 @@ The forest was doing something to her. Not the circulation — she had felt that
 
 *So beautiful,* she thought. *I really like this feeling.*
 
-She killed three soul beasts in the first ten minutes, and they were weak, and each time one went down a faint light came off her body and went somewhere she could not follow, and each time it happened her eyes got a little wider, because she had not been told about that part, and she and Tang Wulin had known less about this place than anyone.
+She killed three soul beasts in the first ten minutes, and they were weak, and each time one went down a faint light came off her body and went somewhere she could not follow. And each time it happened her eyes got a little wider, because she had not been told about that part, and she and Tang Wulin had known less about this place than anyone.
 
 She was still thinking about the light when the bush rustled.
 
@@ -247,7 +247,7 @@ It was a **Horned Dragon.** It was extremely ferocious. And it was coming direct
 
 Lin Hao landed in a crouch, and the first thing he did was take his hand off the button.
 
-That was not a decision he made. It was a decision his body had already made, because the staff member had leaned over the box and said *first-timers reach with the right,* and because Lin Hao had spent six years of his life converting information into behaviour at a speed that had never once failed him, and his left hand was already resting on the strap while his right hand was empty and free.
+That was not a decision he made. It was a decision his body had already made, because the staff member had leaned over the box and said *first-timers reach with the right,* and because Lin Hao had spent six years of his life converting information into behaviour at a speed that had never once failed him. And his left hand was already resting on the strap while his right hand was empty and free.
 
 The forest came up around him. Green, enormous, loud with insects, and — he noticed it the way he noticed everything, as a fact to be used rather than a thing to be felt — his soul power was circulating faster than it had any right to.
 
@@ -291,7 +291,7 @@ It got as far as the strap. And then it stopped.
 
 Because one hundred and ninety-one.
 
-The pain was there. It was completely, entirely there, and it was not *working* — it was not doing the thing it was supposed to do, which was to become a fact about his death. It stayed a fact about his leg. He could feel the teeth and he could feel the blood and he could hear the dripping, and underneath all of it, steady as a gauge, his spiritual power was holding the whole screaming structure at arm's length, the way his father held a hot bar with a pair of tongs: it was very hot, and it was not going to be allowed to touch him.
+The pain was there. It was completely, entirely there, and it was not *working* — it was not doing the thing it was supposed to do, which was to become a fact about his death. It stayed a fact about his leg. He could feel the teeth and he could feel the blood and he could hear the dripping. And underneath all of it, steady as a gauge, his spiritual power was holding the whole screaming structure at arm's length, the way his father held a hot bar with a pair of tongs: it was very hot, and it was not going to be allowed to touch him.
 
 *That's what the number is for,* Lin Hao thought, and the thought was almost funny, and he used the almost-funny to get his feet back — and then he did the thing.
 
@@ -345,7 +345,7 @@ He sat down on a root, because the leg had opinions, and he tore the sleeve off 
 
 He should have pressed the button. He understood that he should have pressed the button, and that the sensible thing — the thing Wang Jinxi had not been able to do, the thing Zhang Yangzi had done after four minutes — was to go out, and sit in the chair, and let the people in white look at his leg.
 
-The pack had taught him something that had cost him four minutes and a leg, and there was more of it in the forest, and every exchange was a fact, and the facts were *permanent,* and he could feel his soul power working the way it had worked on the ninth night against Wu Zhangkong — quietly, in the background, converting.
+The pack had taught him something that had cost him four minutes and a leg, and there was more of it in the forest, and every exchange was a fact. And the facts were *permanent,* and he could feel his soul power working the way it had worked on the ninth night against Wu Zhangkong — quietly, in the background, converting.
 
 one hundred and ninety-one was becoming something else. He could feel it happening. It was the most interesting sensation he had ever had.
 
@@ -389,7 +389,7 @@ On the screen, the board six dot was moving. Not fast. Steadily. Deeper into the
 
 "I know."
 
-The staff member looked at him. Wu Zhangkong looked at the screen, at the single dot moving steadily into the green, and his face did the thing it did, which was nothing, and there was something behind the nothing that the staff member was not senior enough to identify and would describe, later, to a colleague, as the expression of a man watching something he had been waiting a long time to see.
+The staff member looked at him. Wu Zhangkong looked at the screen, at the single dot moving steadily into the green, and his face did the thing it did, which was nothing. And there was something behind the nothing that the staff member was not senior enough to identify and would describe, later, to a colleague, as the expression of a man watching something he had been waiting a long time to see.
 
 "Just watch for now," Wu Zhangkong said.
 

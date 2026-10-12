@@ -8,7 +8,7 @@
 
 The forgettable boy fought like a dream someone else was having.
 
-His first ring lit; his hand shot into the air, and a sphere of illusory light spun itself out of nothing by his palm — strands of blue, green, and white dancing around his fingers — and when he chanted, a protrusion clawed out of it, dropped, and landed as an enormous hound wreathed in flame, the fire brightening and roughening until the shape said *lion*. Smaller than any lion-type soul beast. Domineering anyway. In the chairs, Wulin did the taxonomy out loud under his breath. "A lion mastiff? Is that a soul skill *or* a spirit soul?" He sat forward. "He's summoning it — that's his spirit soul as the whole army. Nothing's too bizarre for this place."
+His first ring lit; his hand shot into the air, and a sphere of illusory light spun itself out of nothing by his palm — strands of blue, green. And white dancing around his fingers — and when he chanted, a protrusion clawed out of it, dropped, and landed as an enormous hound wreathed in flame, the fire brightening and roughening until the shape said *lion*. Smaller than any lion-type soul beast. Domineering anyway. In the chairs, Wulin did the taxonomy out loud under his breath. "A lion mastiff? Is that a soul skill *or* a spirit soul?" He sat forward. "He's summoning it — that's his spirit soul as the whole army. Nothing's too bizarre for this place."
 
 "His soul has a *dog* in it," Xie Xie said, with feeling.
 
@@ -84,7 +84,7 @@ She raised her staff high. An air of divinity enveloped her, entirely real, and 
 
 Starlight descended in lines onto the Ice Staff, and it became the thing it only became at night: the **Starwheel Ice Staff**, and the girl underneath it stopped pretending to be clumsy in the same heartbeat — the stumble-act dropped, her every movement suddenly smooth as a cat's. A golden starwheel kindled beneath student number six's feet.
 
-And here was the whole architecture of the trick, the part even the hall's sharp eyes would assemble only afterward: the transformation *cut her connection* to the wheel and the spear both. The spear arrived at number six's face on the last of her guidance — his second ring lit, and his Crystal Ball spiralled light through it, *Decomposition* reducing the ice to warm mist — and with the same breath he raised his eyes to the ceiling and found the actual problem, unguided now, falling toward his skull under nothing but tungsten and gravity.
+And here was the whole architecture of the trick, the part even the hall's sharp eyes would assemble only afterward: the transformation *cut her connection* to the wheel and the spear both. The spear arrived at number six's face on the last of her guidance — his second ring lit, and his Crystal Ball spiralled light through it, *Decomposition* reducing the ice to warm mist. And with the same breath he raised his eyes to the ceiling and found the actual problem, unguided now, falling toward his skull under nothing but tungsten and gravity.
 
 "What — is that —" he managed, and tried the easy sidestep. The starwheel beneath him brightened, and chains of starlight shot out of the ground and bound him where he stood — the absolute control of astrological-attributed skills, his body a statute, his third ring too slow to matter, sweat jumping off his brow — head tilted up, watching a black hammer spin down at his face.
 

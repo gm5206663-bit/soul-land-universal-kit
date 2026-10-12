@@ -147,7 +147,7 @@ In the room that smelled of steam and wood, he took the book down and wrote the 
 
 *Four passes. Five of us. The clock is what he went to handle.*
 
-He put the book away, and the hawk shifted on his shoulder, winter-tipped and heavier than the bird it had been a year ago, and from somewhere below, two sets of footsteps went out the inn's front door into the first dark of exam eve — a woman going home, and a man walking back into his own past to buy them a morning.
+He put the book away, and the hawk shifted on his shoulder, winter-tipped and heavier than the bird it had been a year ago. And from somewhere below, two sets of footsteps went out the inn's front door into the first dark of exam eve — a woman going home, and a man walking back into his own past to buy them a morning.
 
 The count did not resolve. That was the last fact of the day, and he carried it upstairs the way he had been taught to carry everything since he was ten years old and the lesson had no name yet.
 

@@ -36,7 +36,7 @@ Lin Hao counted, because that was what his head did.
 
 **One. Two. Three. Four. Five.**
 
-And then it came back, and Xie Xie was standing in the training field with his mouth open, and the Twin Dragon Storm — the thing he had built in three weeks and thrown up twice for — had not been available to him for five seconds, and in five seconds a great many things could be done to a person who could not use their soul.
+And then it came back, and Xie Xie was standing in the training field with his mouth open, and the Twin Dragon Storm — the thing he had built in three weeks and thrown up twice for. Had not been available to him for five seconds, and in five seconds a great many things could be done to a person who could not use their soul.
 
 "How long," Xu Xiaoyan said. She was sitting down. She had not been sitting down before.
 
@@ -136,13 +136,13 @@ He had been trying to read the floor.
 
 Wulin had watched the whole nine days, which was the part Lin Hao had not written down yet.
 
-He had not said anything useful. He had not been asked to. He had sat on the same low wall every evening with a piece of dried fish and had watched a person he has known since he was six fail at something for nine consecutive days, and on the fourth day he had said *"do you want me to go,"* and Lin Hao had said no, and he had stayed; and on the seventh day, when the Track happened for the first time and Lin Hao came off it on his hands and knees, Wulin had been the one who was already standing up, and he had not come over, because he had worked out before Lin Hao did that the thing Lin Hao needed was not a hand.
+He had not said anything useful. He had not been asked to. He had sat on the same low wall every evening with a piece of dried fish and had watched a person he has known since he was six fail at something for nine consecutive days, and on the fourth day he had said *"do you want me to go,"* and Lin Hao had said no. And he had stayed; and on the seventh day, when the Track happened for the first time and Lin Hao came off it on his hands and knees, Wulin had been the one who was already standing up. And he had not come over, because he had worked out before Lin Hao did that the thing Lin Hao needed was not a hand.
 
 **That is the oldest thing I know about him and I had stopped noticing it. He knows what I need before I do and he does not do it unless I ask, and he has been doing that for four years, and it took me failing nine days in a row to see it again.**
 
 And then the second thing, which was smaller and worse.
 
-On the ninth day, when the Track finally happened and he stood four metres to the left of where he had been with his hands on his knees, Xu Xiaoyan had looked at him for a long moment and said *"oh,"* in the voice of a person revising something, and had then gone and sat down with her staff across her knees and had not said anything else for an hour.
+On the ninth day, when the Track finally happened and he stood four metres to the left of where he had been with his hands on his knees, Xu Xiaoyan had looked at him for a long moment and said *"oh,"* in the voice of a person revising something. And had then gone and sat down with her staff across her knees and had not said anything else for an hour.
 
 He knew what she had been doing. He had watched her do the arithmetic on the dormitory floor the morning she arrived, and he had watched it come out wrong.
 

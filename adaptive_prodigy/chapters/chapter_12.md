@@ -47,7 +47,7 @@ It cut the *door.* Not the wall — the feed-line between the ape and its left s
 
 —and under his planted feet the stone went suddenly, silently *slick.* A cup of water. No more. Not a wave, not a flood — a cup, laid exactly where four gripping toes needed purchase, poured by a girl who had raised one finger and lowered it again, and whose expression had not changed at any point in the proceedings.
 
-The wall slipped. The wall's breath was still stopped. And into the half-beat where the Iron-Back Ape was a wall that had to hold still inside its own skin, the sword arrived — not the fist, not the hammer, the *sword* — the Stormbringer through the gap the late feed had left, under the crossed guard, with everything the nine weeks and the thousand refinements and the boy who had been a monster in every quiet area of his life had stored behind one edge.
+The wall slipped. The wall's breath was still stopped. And into the half-beat where the Iron-Back Ape was a wall that had to hold still inside its own skin, the sword arrived — not the fist, not the hammer, the *sword*. The Stormbringer through the gap the late feed had left, under the crossed guard, with everything the nine weeks and the thousand refinements and the boy who had been a monster in every quiet area of his life had stored behind one edge.
 
 The sword spoke before the world finished its sentence.
 
@@ -82,11 +82,11 @@ Class five took the long table under the lane's one tree, all twenty-two of them
 
 "I budgeted four pots for *people,*" Xie Xie said. "Tang Wulin is not a person, he is a *destination.*"
 
-Wulin, three pots deep and unrepentant, raised his fourth in a toast. Across the table, Gu Yue had taken the corner seat — the one with the tree between it and the lane, the one nobody had to be told was hers — and a single pot in front of her, and she was eating it with the precise, unhurried economy of someone for whom food, like everything else, was a cup and not a flood. When Xie Xie, rallying, tried to interest her in the second wave, she looked up, considered him for exactly as long as the question deserved, and said:
+Wulin, three pots deep and unrepentant, raised his fourth in a toast. Across the table, Gu Yue had taken the corner seat — the one with the tree between it and the lane, the one nobody had to be told was hers. And a single pot in front of her, and she was eating it with the precise, unhurried economy of someone for whom food, like everything else, was a cup and not a flood. When Xie Xie, rallying, tried to interest her in the second wave, she looked up, considered him for exactly as long as the question deserved, and said:
 
 "No."
 
-"That's the most word she's said all week and it's still a *loss,*" Xie Xie mourned, and the table went down, and Lin Hao laughed so hard the hawk in him stirred — not with leading, not with marking, just the old ordinary warmth of a thing that liked, it turned out, to hear him laugh — and he caught himself noticing that, and filed it, and did not examine it, because some files you open on rooftops and not at beef.
+"That's the most word she's said all week and it's still a *loss,*" Xie Xie mourned, and the table went down, and Lin Hao laughed so hard the hawk in him stirred. Not with leading, not with marking, just the old ordinary warmth of a thing that liked, it turned out, to hear him laugh — and he caught himself noticing that, and filed it, and did not examine it, because some files you open on rooftops and not at beef.
 
 And then Xie Xie — because the treasurer's grief was, like all his griefs, a door — slid down the bench to the seat beside Lin Hao, and for once did not perform.
 
@@ -116,7 +116,7 @@ The stands were different for class one. Quieter. The grade did not cheer for cl
 
 It did not last long. But it lasted longer than ten seconds, and the four of them understood, watching, exactly why.
 
-Wang Jinxi fought at the center, and the first thing Lin Hao's eyes told him — his eyes, running on himself, the hawk silent and watchful at the back of him like a held breath — was that the light *leaned away* from the boy. The Bone Dragon King walked under Wang Jinxi's skin like a thing under dark water: a dragon-soul the color of a sealed room, top-tier and dark-attribute, with two yellow rings turning under it, and every strike class two landed on him arrived at a quarter of him that was suddenly *not there* — shoulder, flank, knee going spectral for a heartbeat, physical blows passing through the ghost-quarter of him like breath through a gate. Bone Soul Conversion, the stands' older students murmured; a quarter of himself at a time, at two rings, and never a heartbeat longer.
+Wang Jinxi fought at the center, and the first thing Lin Hao's eyes told him — his eyes, running on himself, the hawk silent and watchful at the back of him like a held breath — was that the light *leaned away* from the boy. The Bone Dragon King walked under Wang Jinxi's skin like a thing under dark water: a dragon-soul the color of a sealed room, top-tier and dark-attribute, with two yellow rings turning under it. And every strike class two landed on him arrived at a quarter of him that was suddenly *not there* — shoulder, flank, knee going spectral for a heartbeat, physical blows passing through the ghost-quarter of him like breath through a gate. Bone Soul Conversion, the stands' older students murmured; a quarter of himself at a time, at two rings, and never a heartbeat longer.
 
 He did not fight alone. When class two's best committed — a committed, good, three-ring combination that deserved better — Wang Jinxi and Zhang Yangzi closed, and the Shadow Phantasm Eagle folded over the Bone Dragon King like a wing over a bone, and the two souls *met*—
 
@@ -158,7 +158,7 @@ The roof. The harbor wind. The city doing its nightly accounting of lights.
 
 "Xie Xie took class four's *both* of them alone," Wulin pointed out, fairly. "He's not wrong. He's just—" he paused, looking for the word with the honest slowness that Lin Hao had come to love like a hometown. "He's louder than his own evidence. That's all."
 
-"That's not all," Lin Hao said. "That's *Xie Xie.*" He lay back on the tiles. Above them the stars did their slow tournament of their own, and out past the harbor the dark water kept whatever it kept, and in the spiritual sea under it all, a seven-hundred-and-sixty-year silence sat on its far water and watched the boy who had stopped asking it for the answers — and had not, Wulin's stillness aside, once in two full days been *wrong.*
+"That's not all," Lin Hao said. "That's *Xie Xie.*" He lay back on the tiles. Above them the stars did their slow tournament of their own, and out past the harbor the dark water kept whatever it kept. And in the spiritual sea under it all, a seven-hundred-and-sixty-year silence sat on its far water and watched the boy who had stopped asking it for the answers — and had not, Wulin's stillness aside, once in two full days been *wrong.*
 
 The question lay under everything like ballast. *Can you see — without me?* Two days of seeing without it. A wall taken apart in twenty-one seconds on a reading that was purely, entirely, *his.* And the silence had not once said *careful,* because the silence had stopped needing to.
 

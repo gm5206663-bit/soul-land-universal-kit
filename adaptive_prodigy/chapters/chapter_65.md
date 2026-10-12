@@ -147,7 +147,7 @@ Wu Zhangkong checked the dawn column every Friday. He never signed it. He never 
 
 ## Part 5: What Wulin Did
 
-On Sunday the members' forge was Wulin's until noon, and the commission on the bench was a decorative gate for a chandler's wife in Skysea, forty kilograms of scrollwork, the kind of work he was bad at respecting and did anyway, because the tin did not care what he respected and neither did the city where a little girl had gone missing off a curb.
+On Sunday the members' forge was Wulin's until noon, and the commission on the bench was a decorative gate for a chandler's wife in Skysea, forty kilograms of scrollwork. The kind of work he was bad at respecting and did anyway, because the tin did not care what he respected and neither did the city where a little girl had gone missing off a curb.
 
 He counted strikes. That was the Sunday change, though nobody had ordered it: he used to count money on Sundays, in his head, over and over, down to the white notes. Now he counted strikes, because the strikes were the part of the arithmetic he could actually do anything about.
 

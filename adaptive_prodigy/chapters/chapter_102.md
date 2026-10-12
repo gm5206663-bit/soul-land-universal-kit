@@ -86,7 +86,7 @@ The bun was cold at the center. Not the cold of a kitchen — the cold of *depth
 
 And below him — inside him — the dark water moved.
 
-His attention sank the way a stone sinks, past the morning and the table and the sound of Wulin eating: the still, vast sea of his own inner country, smoked-glass surface without a ripple, the permanent storm-sky overhead with its clouds going the wrong way and its lightning fishing far up, fishing, never striking. At the bottom, in the sightless dark where the jiao lay coiled — the coil turned over. Once. The way a continent turns in its sleep and does not wake. No crossing, no gate, no threshold breached; a maturing, a turning, the deep-water part of him filing away what the fish's body had known — *this is the weight of three kilometers; this is how pressure behaves; remember it against the day you need depth.* Between sea and sky, the adaptation moved through both, taking the reading, redrawing some small line of the map he would not see until the next time he looked. Overhead, the storm clouds went the wrong way, patient as weather.
+His attention sank the way a stone sinks, past the morning and the table and the sound of Wulin eating: the still, vast sea of his own inner country, smoked-glass surface without a ripple, the permanent storm-sky overhead with its clouds going the wrong way and its lightning fishing far up, fishing, never striking. At the bottom, in the sightless dark where the jiao lay coiled — the coil turned over. Once. The way a continent turns in its sleep and does not wake. No crossing, no gate, no threshold breached; a maturing, a turning, the deep-water part of him filing away what the fish's body had known — *this is the weight of three kilometers. This is how pressure behaves; remember it against the day you need depth.* Between sea and sky, the adaptation moved through both, taking the reading, redrawing some small line of the map he would not see until the next time he looked. Overhead, the storm clouds went the wrong way, patient as weather.
 
 He came back to the table. His bun was half-eaten. He set the other half down, and did not reach for a second.
 
@@ -144,7 +144,7 @@ A scholarly administrator in his fifties, with the careful boredom of a man who 
 
 "Five," said Shen Yi, pleasantly.
 
-The administrator looked at her. She smiled and shook her head the particular smile that meant *I could explain this and I have chosen, for your peace and mine, not to.* He had, to give him credit, survived two decades of Shrek paperwork; he wrote the fifth line into the ledger in the same ink, in the same hand, and made the small annotation men of his profession make when a fact refuses a category.
+The administrator looked at her. She smiled and shook her head the particular smile that meant *I could explain this and I have chosen, for your peace and mine, not to.* He had, to give him credit, survived two decades of Shrek paperwork. He wrote the fifth line into the ledger in the same ink, in the same hand, and made the small annotation men of his profession make when a fact refuses a category.
 
 "Don't bring shame to the working students," he said, handing over the last uniform, to no one and therefore to all of them.
 
@@ -160,7 +160,7 @@ She got Wulin first, as it happened, and for three minutes she thought she had h
 
 The next boy sat down on the examination stool.
 
-She started with the wrists, because she always started with the wrists — the hands told the truth first. The conditioning array lit under his palms and she read the density off the stone the way she'd read it ten thousand times, and then she read it again, because the stone was reporting the forearms of a master smith — the callus architecture of years at a forge, bone set under repeated load the way riverbed stones are set — attached to a child who could not have seen fourteen summers.
+She started with the wrists, because she always started with the wrists — the hands told the truth first. The conditioning array lit under his palms and she read the density off the stone the way she'd read it ten thousand times, and then she read it again, because the stone was reporting the forearms of a master smith. The callus architecture of years at a forge, bone set under repeated load the way riverbed stones are set — attached to a child who could not have seen fourteen summers.
 
 She made a note. She did not yet know she would be making notes for the rest of the afternoon.
 
@@ -176,7 +176,7 @@ The diagnostic stone came last — the general soul-force read, the one instrume
 
 It behaved the way a blade behaves when a blade master holds it.
 
-Su Wen had felt that once before, twenty years ago, running the intake on a young man who later became a three-word battle armor master: the stone did not read the body, the body *read the stone back* — the held, waiting quality of a thing in the presence of an intent that could pick it up, wear it, or put it through the wall, all with equal courtesy. Intent, at intake. Weapon intent, riding the child's nerves like a second heartbeat.
+Su Wen had felt that once before, twenty years ago, running the intake on a young man who later became a three-word battle armor master: the stone did not read the body, the body *read the stone back*. The held, waiting quality of a thing in the presence of an intent that could pick it up, wear it, or put it through the wall, all with equal courtesy. Intent, at intake. Weapon intent, riding the child's nerves like a second heartbeat.
 
 And underneath all of it — underneath the smith's wrists and the storm-reflexes and the frost that went the wrong direction and the intent that looked out through his eyes like a second tenant — underneath, the array kept re-calibrating. Every reading settled slightly different from the reading before it, not error but *learning*: the body taking the test while the test took the body, a background field that made the other four signatures able to live on one frame at all.
 
@@ -266,17 +266,17 @@ Which was how, while the others went ahead with the porter, Lin Hao came to borr
 
 Mid-stroke, something rose in his wrist that was not the broom.
 
-The intent — woken at the lake, promoted by the coldest man on the continent from student to colleague — moved through his arms and looked out of his hands at the broom handle, and for one breath the broom was *nothing*, no body at all, empty air and a held purpose, and the Unwritten Stroke, the stroke that had worked all along because it did not exist, the stroke that needed no blade to live in, rose to deliver itself into empty hands in a courtyard full of sunset—
+The intent — woken at the lake, promoted by the coldest man on the continent from student to colleague — moved through his arms and looked out of his hands at the broom handle. And for one breath the broom was *nothing*, no body at all, empty air and a held purpose, and the Unwritten Stroke, the stroke that had worked all along because it did not exist, the stroke that needed no blade to live in, rose to deliver itself into empty hands in a courtyard full of sunset—
 
 —and he stopped it.
 
 Not here. Not yet. A thing that good spends its first coin on ground it chooses, with the correct witnesses, and a borrowed broom in an empty courtyard on moving-in eve was neither. He let the breath go. The broom was a broom again. But the master's last correction came with the breath and would not be dismissed: *you left the sword behind tonight. Keep the first body fluent.* Two days. He had not taken a single sword form since the branch on the lake, because there had been no sword to take one with — and that, he understood now, standing in a courtyard with a broom in his hands, was exactly the laziness the correction had been built to kill.
 
-So when the light went gold and the courtyard flags were clean, he took the broom through Still Water, the first form, slowly — the block laid flat, the line taken away, the stroke meeting the birth of a thing rather than its arrival — and the broom wore it completely, for as long as it was needed, and not one breath longer. The sword's grammar, kept fluent in the body it had started in. Over the warm wall, on a branch nobody could explain, a hand-span of frost outlasted the sunset. Under the tree, a groundskeeper who believed the trees watched a boy do a slow sword-dance with a broom in an empty court, and he wrote that down too, and he did not show it to anyone, because nobody believed the tree book and that had always been the finest part of owning it.
+So when the light went gold and the courtyard flags were clean, he took the broom through Still Water, the first form, slowly. The block laid flat, the line taken away, the stroke meeting the birth of a thing rather than its arrival — and the broom wore it completely, for as long as it was needed, and not one breath longer. The sword's grammar, kept fluent in the body it had started in. Over the warm wall, on a branch nobody could explain, a hand-span of frost outlasted the sunset. Under the tree, a groundskeeper who believed the trees watched a boy do a slow sword-dance with a broom in an empty court, and he wrote that down too, and he did not show it to anyone, because nobody believed the tree book and that had always been the finest part of owning it.
 
-That night, in the visitor beds the admin kept for the new lot, Lin Hao opened his own ledger at the last page and wrote the day in his honest hand: one request still unspent and now acknowledged by the Pavilion; one elder's page being kept he could not read; one file in a drawer with nothing written on its tab; one fish's depth, filed; one salt line moved, on the map only he could read; one courtyard with a warm wall and a frost branch and a gate sign that read like a price list, waiting for morning; one stroke, waited for.
+That night, in the visitor beds the admin kept for the new lot, Lin Hao opened his own ledger at the last page and wrote the day in his honest hand: one request still unspent and now acknowledged by the Pavilion; one elder's page being kept he could not read. One file in a drawer with nothing written on its tab; one fish's depth, filed; one salt line moved, on the map only he could read; one courtyard with a warm wall and a frost branch and a gate sign that read like a price list, waiting for morning; one stroke, waited for.
 
-Three books in Shrek Academy were being kept about the same boy now — his own, and Elder Cai's, and the honest instrument's in the bottom drawer — and none of the three knew the others' contents, and that, Lin Hao thought, settling the ledger into the bag beside the folded dark-green uniforms, was a great deal of arithmetic for one first day, and exactly the amount a working student could afford.
+Three books in Shrek Academy were being kept about the same boy now — his own, and Elder Cai's, and the honest instrument's in the bottom drawer. And none of the three knew the others' contents, and that, Lin Hao thought, settling the ledger into the bag beside the folded dark-green uniforms, was a great deal of arithmetic for one first day, and exactly the amount a working student could afford.
 
 Outside, in the dark of the trees, the September branch held its frost through the first night, and the forge breathed slow against the warm wall, and morning — morning was going to show them the room.
 

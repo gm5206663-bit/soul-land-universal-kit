@@ -30,7 +30,7 @@ Gu Yue had not come back up the slope with the rest of them, and nobody had aske
 
 Lin Hao recognised it.
 
-That was the part he would keep going back to for years — not that it came, but that he looked at it and knew what it was, the way you know a tool by its handle, because he had read about it at the age of nine in a library book with a cracked spine and a coloured plate on page forty-one.
+That was the part he would keep going back to for years. Not that it came, but that he looked at it and knew what it was, the way you know a tool by its handle, because he had read about it at the age of nine in a library book with a cracked spine and a coloured plate on page forty-one.
 
 **Duskgold Dreadclaw Bear.**
 
@@ -60,7 +60,7 @@ And Lin Hao understood why in about one second, because he had three rings and t
 
 Xie Xie did not hit the ejection.
 
-Lin Hao would think about that for a very long time and would never arrive at a version of it that he was comfortable with, because Xie Xie had looked at the bear, and then at Lin Hao, and then at the trees to the left, and Lin Hao had known — in the flat clear way he knew things when there was no time — exactly what the calculation was.
+Lin Hao would think about that for a very long time and would never arrive at a version of it that he was comfortable with, because Xie Xie had looked at the bear. And then at Lin Hao, and then at the trees to the left, and Lin Hao had known — in the flat clear way he knew things when there was no time — exactly what the calculation was.
 
 The bear wanted him. The bear was going to come for him. And if something else moved fast enough in a different direction, the bear might turn.
 
@@ -88,13 +88,13 @@ The wind went up.
 
 The bear walked into it.
 
-It did not stop. It did not slow. The leaf litter and the loose bark and the small branches that Lin Hao had put into the air went around it and over it and past it, and the bear came through the circle the way a man comes through a curtain, and Lin Hao stood in the middle of his own weather with a sword in his hand and understood, with a clarity that he would have given a great deal not to have, that **the wind was not a wall and had never been a wall.**
+It did not stop. It did not slow. The leaf litter and the loose bark and the small branches that Lin Hao had put into the air went around it and over it and past it, and the bear came through the circle the way a man comes through a curtain. And Lin Hao stood in the middle of his own weather with a sword in his hand and understood, with a clarity that he would have given a great deal not to have, that **the wind was not a wall and had never been a wall.**
 
 It had been a wall eleven seconds ago. It had been a wall against a lion.
 
 This was not a lion.
 
-He did not die, and afterwards he could not entirely explain why, because the bear's claw went past his shoulder and took the sleeve of his uniform and the skin under it, and something in his chest went very quiet — and the hawk, which had been leaning toward things for two days, went still in a way he had never felt it go still before.
+He did not die, and afterwards he could not entirely explain why, because the bear's claw went past his shoulder and took the sleeve of his uniform and the skin under it. And something in his chest went very quiet — and the hawk, which had been leaning toward things for two days, went still in a way he had never felt it go still before.
 
 Not still like calm.
 
@@ -236,7 +236,7 @@ There was a silence with a great deal in it.
 
 "You'll know what they're like when you visit them," Wu Zhangkong said. "Not now."
 
-And he went, and left six children on a bench in a corridor with the sun going down, and one of them had three rings and a shoulder that had stopped bleeding, and another had come back through a thing that was not real and was still sitting with his hands between his knees, and none of them said anything for a while.
+And he went, and left six children on a bench in a corridor with the sun going down, and one of them had three rings and a shoulder that had stopped bleeding. And another had come back through a thing that was not real and was still sitting with his hands between his knees, and none of them said anything for a while.
 
 Then Wulin said, "Functional team."
 
@@ -264,7 +264,7 @@ The **hawk-gold lock** at his temple caught the lamplight, and the **marks on hi
 
 The hawk turned over in him — **one thousand one hundred and seventy-one** — and did not lean toward anything, because there was nothing to lean toward.
 
-Lin Hao lay on his back in a room that was too small, in a city that was second of five, and thought about a bear that would not need to fear a dragon, and about four months, and about the fact that he had one day of being smarter than the thing that comes and he had not managed it.
+Lin Hao lay on his back in a room that was too small, in a city that was second of five. And thought about a bear that would not need to fear a dragon, and about four months, and about the fact that he had one day of being smarter than the thing that comes and he had not managed it.
 
 *Right,* he thought.
 

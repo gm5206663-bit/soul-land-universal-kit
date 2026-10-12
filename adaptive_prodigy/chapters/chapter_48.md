@@ -81,7 +81,7 @@ The miscellaneous treasures went first, and Lin Hao stopped listening at the fou
 
 Not because he was bored. Because he had started **reading** them, and he could not stop, and it was the first time in six days that his head had done the thing it was actually for.
 
-A bar of **Cloud Titanium**, forty centimetres, offered at four hundred thousand. The screen showed it from three angles and Lin Hao looked at the grain and knew — with the flat certainty of a person who had spent four years with his hands in the same material — that it had been **Thousand Refined**, and well, and by somebody in a hurry, and that the last two hundred strikes had been rushed and the bar would carry that for the rest of its life.
+A bar of **Cloud Titanium**, forty centimetres, offered at four hundred thousand. The screen showed it from three angles and Lin Hao looked at the grain and knew — with the flat certainty of a person who had spent four years with his hands in the same material — that it had been **Thousand Refined**. And well, and by somebody in a hurry, and that the last two hundred strikes had been rushed and the bar would carry that for the rest of its life.
 
 *Four hundred thousand,* he thought, *and it's a three-hundred-and-fifty-thousand bar.*
 
@@ -93,7 +93,7 @@ He had not meant to. It came out at about the volume of a person thinking, which
 
 So Lin Hao continued.
 
-He read the Cloud Titanium. He read a set of soul-conductive fittings that the auctioneer described as *exquisite* and that Lin Hao could see had been ground rather than forged, which meant they would hold and would not sing. He read a **battle armor** — his first, a two-word one, on a stand under glass — and he understood immediately why Wu Zhangkong had said the words he had said in a classroom four months ago, because the armor's plates were **metal**, and the metal had been worked by somebody, and the whole of the thing was a blacksmith's work wearing a shape.
+He read the Cloud Titanium. He read a set of soul-conductive fittings that the auctioneer described as *exquisite* and that Lin Hao could see had been ground rather than forged, which meant they would hold and would not sing. He read a **battle armor** — his first, a two-word one, on a stand under glass — and he understood immediately why Wu Zhangkong had said the words he had said in a classroom four months ago, because the armor's plates were **metal**. And the metal had been worked by somebody, and the whole of the thing was a blacksmith's work wearing a shape.
 
 "*From a purple battle armor onward, the creation process becomes inseparable from forging.*"
 
@@ -145,7 +145,7 @@ Wulin had not spoken since they sat down. He was looking at the entry cards, whi
 
 "Five million each, young master."
 
-Wulin nodded once, the way he nodded when a number arrived that he had already guessed and had been hoping not to be right about, and then he said, "Thank you," and looked at Lin Hao, and did not say anything else, and Lin Hao watched him put a number somewhere inside himself where he kept the numbers, and understood that he was not going to talk about it in front of a stranger, and that he was probably not going to talk about it at all.
+Wulin nodded once, the way he nodded when a number arrived that he had already guessed and had been hoping not to be right about, and then he said, "Thank you," and looked at Lin Hao, and did not say anything else. And Lin Hao watched him put a number somewhere inside himself where he kept the numbers, and understood that he was not going to talk about it in front of a stranger, and that he was probably not going to talk about it at all.
 
 **Five million is four hundred and sixteen Fridays. I did that sum without deciding to, and then I did it again in tin — because Wulin's tin is not a number to him, it is a thing he opens on a particular night and counts by hand — and the second sum took longer, and the reason it took longer is that I had to think about what it would be like to be him, and that I have known him for four years and that was the first time.**
 

@@ -9,7 +9,7 @@
 
 They went back for the beef.
 
-It was Xie Xie's idea, of course — Xie Xie had decided, sometime around the fourth ladle of the first visit, that a single meal at Uncle Li's shop counted as an introduction and not a relationship, and that relationships required maintenance. Gu Yue had permitted one more meal in the tone she used for permitting weather. Wulin had agreed because Wulin agreed to meals the way water agreed to downhill. And Lin Hao had agreed because the lane shop had a forge-brazier at its cooking heart that he had spent the whole first visit watching, and because — though he would have put it less pretentiously — a place that fed twenty-two loud boys without ever once advertising had earned a second look from anyone who understood what quality did when nobody was watching.
+It was Xie Xie's idea, of course — Xie Xie had decided, sometime around the fourth ladle of the first visit, that a single meal at Uncle Li's shop counted as an introduction and not a relationship, and that relationships required maintenance. Gu Yue had permitted one more meal in the tone she used for permitting weather. Wulin had agreed because Wulin agreed to meals the way water agreed to downhill. And Lin Hao had agreed because the lane shop had a forge-brazier at its cooking heart that he had spent the whole first visit watching, and because — though he would have put it less pretentiously. A place that fed twenty-two loud boys without ever once advertising had earned a second look from anyone who understood what quality did when nobody was watching.
 
 They heard it before they saw it. Uncle Li's voice — wrong, thin, the voice of a man arguing from the ground.
 
@@ -35,7 +35,7 @@ It was a plain punch, void of soul skills, without even a ripple of soul power i
 
 The other two thugs moved then — around, not in, the way men who collect money for a living know to move — and that was the last mistake the lane's afternoon made that belonged to anyone but Lin Hao.
 
-He did not draw. Not yet. The first thug got a foot — simply there, simply under him, and the man's own speed did the rest, delivering him face-first into the lane wall with a sound like a dropped crate. The second was smarter, swung a loaded fist at the back of the boy turning away from his friend — and the boy wasn't there anymore; there was only a pressure in the air where he'd been, and then the thug's own arm was folding the wrong direction against nothing he could see, and then he was on his knees in the spilled beef with his wrist held at an angle his voice could not stop describing. The Stormbringer came out sometime in there; afterward, nobody in the lane could have said when. It hung at the fourth boy's side now, point down, doing absolutely nothing, and both thugs looked at it and decided, with one accord, that the afternoon had somewhere else to be.
+He did not draw. Not yet. The first thug got a foot — simply there, simply under him, and the man's own speed did the rest, delivering him face-first into the lane wall with a sound like a dropped crate. The second was smarter, swung a loaded fist at the back of the boy turning away from his friend — and the boy wasn't there anymore; there was only a pressure in the air where he'd been. And then the thug's own arm was folding the wrong direction against nothing he could see, and then he was on his knees in the spilled beef with his wrist held at an angle his voice could not stop describing. The Stormbringer came out sometime in there; afterward, nobody in the lane could have said when. It hung at the fourth boy's side now, point down, doing absolutely nothing, and both thugs looked at it and decided, with one accord, that the afternoon had somewhere else to be.
 
 "Apologize," Lin Hao said, at walking volume, "and pay for the jars."
 
@@ -47,7 +47,7 @@ Which left Guang Long. And Guang Long, rubbing a jaw that had stopped laughing, 
 
 ## Part 2: Armored Dragon
 
-Wulin's Bluesilver Grass took him first — a strand from the right hand, Bind, and the lane's stones went soft under Guang Long's feet the way the world goes soft in a bad dream; and in the same breath Xie Xie went up, off the overturned table, off the wall, the Light Dragon Dagger arriving at the thug's throat before the crowd had finished understanding that a child was in the air.
+Wulin's Bluesilver Grass took him first — a strand from the right hand, Bind, and the lane's stones went soft under Guang Long's feet the way the world goes soft in a bad dream. And in the same breath Xie Xie went up, off the overturned table, off the wall, the Light Dragon Dagger arriving at the thug's throat before the crowd had finished understanding that a child was in the air.
 
 "Compensate for Uncle Li's losses and his medical fees," Xie Xie said, icy as a contract, "or I'll kill this baldy."
 
@@ -63,7 +63,7 @@ The lane went the particular silence of a crowd revising its afternoon.
 
 "Armored Dragon," Lin Hao said quietly — land dragon; power and defense; the plate under the skin was the soul wearing the man — and the words were barely finished before Guang Long stomped and *launched,* not at Xie Xie, not at the girl: at Wulin, the way a decision goes at the thing it was about.
 
-Gu Yue's earth rose to swamp him and the swamp broke like sugar glass. Wulin's Thousand Refined Tungsten Hammers came out and met the first fist and the collision rang down the lane like a smith's yard; and Wulin — who had taken a two-ring ape's backhand off a friend's blade and who hit like a falling wall himself — went back seven and eight steps, pale, his boots plowing two lines in the dirt. The heavy silver hammers replaced the tungsten; this wasn't the academy, and it wasn't training. He threw the right one, Bluesilver Grass knotted to the handle, and Guang Long swatted a Thousand Refined hammer — *swatted it* — out of the air with a bare palm that didn't so much as blush.
+Gu Yue's earth rose to swamp him and the swamp broke like sugar glass. Wulin's Thousand Refined Tungsten Hammers came out and met the first fist and the collision rang down the lane like a smith's yard. And Wulin — who had taken a two-ring ape's backhand off a friend's blade and who hit like a falling wall himself — went back seven and eight steps, pale, his boots plowing two lines in the dirt. The heavy silver hammers replaced the tungsten; this wasn't the academy, and it wasn't training. He threw the right one, Bluesilver Grass knotted to the handle, and Guang Long swatted a Thousand Refined hammer — *swatted it* — out of the air with a bare palm that didn't so much as blush.
 
 Lin Hao went in under the arc of the thrown hammer, because that was the line the fight had opened and the sword had already read it.
 
@@ -99,11 +99,11 @@ And the part the lane never got right — the part that would have been impossib
 
 Xie Xie's Light Dragon Dagger went across the scales, because scales are what they are and a dagger goes where it is pointed, and the scales did not open, because that is what scales do. **Lin Hao's blade went along the seam under the jaw instead, because plate has seams and scales have grain, and he had spent six years reading grain in metal that did not want to be read.** Same lane. Same dragon. Same scales. **Different line.**
 
-That is the butterfly, and it is the whole of it. **In a lane without him, Xie Xie's dagger fails and Wulin's hammer does the work and the lane retells a story about a hammer.** In a lane with him in it, the dagger fails and the sword draws first blood, and the lane retells the story wrong for a year because nobody in it understood that the difference was not the weapon.
+That is the butterfly, and it is the whole of it. **In a lane without him, Xie Xie's dagger fails and Wulin's hammer does the work and the lane retells a story about a hammer.** In a lane with him in it, the dagger fails and the sword draws first blood. And the lane retells the story wrong for a year because nobody in it understood that the difference was not the weapon.
 
 And his shout — *"the NECK—"* — arrived one heartbeat late, and he would think about that heartbeat for longer than he thought about anything else that week, because reading a thing and saying it in time are two different skills and he had only ever had the first.
 
-Fist and hammer met. The sound was less a sound than a weather event; the crowd fell back with its hands over its ears; and Tang Wulin — the forge-boy, the boy the grade had learned to measure matches by — was thrown out of the collision like a stone from a sling, and Xie Xie, who dashed in to catch him, learned what catching him meant, and both of them went down in a heap at the wall of the beef shop. The Light Dragon Dagger, jarred out of control in the fall, scored a line across Wulin's back.
+Fist and hammer met. The sound was less a sound than a weather event; the crowd fell back with its hands over its ears; and Tang Wulin — the forge-boy, the boy the grade had learned to measure matches by. Was thrown out of the collision like a stone from a sling, and Xie Xie, who dashed in to catch him, learned what catching him meant, and both of them went down in a heap at the wall of the beef shop. The Light Dragon Dagger, jarred out of control in the fall, scored a line across Wulin's back.
 
 "So painful. Xie Xie, your Light Dragon Dagger is stabbing me."
 
@@ -113,29 +113,29 @@ Guang Long shook out his shoulders and turned his back on them. On all of them. 
 
 And behind him, in the boy on the ground, the cut on his back began to burn.
 
-Lin Hao saw it start. From under his crate-ruin, half-blind with dust and the bright song in his ribs, his hawk-eyes — running, as they always ran, whether he asked them or not — saw the heat before he felt anything: a *shimmer* rising off Wulin's shoulders, the air above him going wavy the way air goes over summer stone, and then, along the back of Wulin's right hand, the small golden spots coming up like a fire coming up through ash.
+Lin Hao saw it start. From under his crate-ruin, half-blind with dust and the bright song in his ribs, his hawk-eyes — running, as they always ran, whether he asked them or not. Saw the heat before he felt anything: a *shimmer* rising off Wulin's shoulders, the air above him going wavy the way air goes over summer stone, and then, along the back of Wulin's right hand, the small golden spots coming up like a fire coming up through ash.
 
 Not the first time. Lin Hao knew. He had seen one scale, thumbnail-sized, in a gray bedroom months ago, with the air lying around it like water over a wreck.
 
 This was the wreck surfacing.
 
-He did not go toward the fight. That was the choice he made, and it was the hardest one he had made all afternoon, because every line of him wanted to be between the claw and the boy on the ground — but the sword in his shaking right hand could not, today, be between anything and this; and there was something in the lane that needed doing that only he was positioned to do. So Lin Hao got his feet, and walked — swayed, walked — to the mouth of the crowd, and stood in it, and spread his coat, and became, with his back to everything, a door that would not open.
+He did not go toward the fight. That was the choice he made, and it was the hardest one he had made all afternoon, because every line of him wanted to be between the claw and the boy on the ground. But the sword in his shaking right hand could not, today, be between anything and this; and there was something in the lane that needed doing that only he was positioned to do. So Lin Hao got his feet, and walked — swayed, walked — to the mouth of the crowd, and stood in it, and spread his coat, and became, with his back to everything, a door that would not open.
 
 "Show's over," he said, at walking volume, to forty faces. "Nobody's eyes past me."
 
-A fish-wife two arms' length away looked at him — at the blood on his temple he hadn't inventoried yet, at the ruined arm he was holding like something borrowed, at the absolutely unreasonable calm of a boy standing in front of a fight like a gate in front of a garden — and she did not move past him. Neither, it turned out, did anyone. Years later, the lane would still agree on almost nothing about that afternoon, except the boy in the doorway, and that you did not go past him, and that — one persimmon-seller's wife would add, whenever the telling reached that far — he had the strangest eyes, gold-flecked, the color of a hawk's in strong light, and he had looked at them all like a *smith* looks at a crowd, as if deciding which of them might be trusted to hold something hot.
+A fish-wife two arms' length away looked at him — at the blood on his temple he hadn't inventoried yet, at the ruined arm he was holding like something borrowed, at the absolutely unreasonable calm of a boy standing in front of a fight like a gate in front of a garden — and she did not move past him. Neither, it turned out, did anyone. Years later, the lane would still agree on almost nothing about that afternoon, except the boy in the doorway, and that you did not go past him, and that — one persimmon-seller's wife would add, whenever the telling reached that far. He had the strangest eyes, gold-flecked, the color of a hawk's in strong light, and he had looked at them all like a *smith* looks at a crowd, as if deciding which of them might be trusted to hold something hot.
 
 Behind the door, the gold was finishing its work.
 
-Wulin rose. The burning had gone from his tailbone through his body and into his brain; his right arm was scales to the wrist and the scales were claws and his soul power was going down like a tide out of a harbor, and none of it mattered, because Guang Long was turning back around, and the lane-bully who had shrugged off hammers and swallowed a dagger and broken an earth-wall looked into the face of the smallest fighter in his afternoon—
+Wulin rose. The burning had gone from his tailbone through his body and into his brain; his right arm was scales to the wrist and the scales were claws and his soul power was going down like a tide out of a harbor. And none of it mattered, because Guang Long was turning back around, and the lane-bully who had shrugged off hammers and swallowed a dagger and broken an earth-wall looked into the face of the smallest fighter in his afternoon—
 
 —and the gold was in the boy's eyes. The pupils had gone to slits — cold, vertical, patient — the way a very old something looks out through a window it has not used in a long while. And Guang Long, whose Armored Dragon was a land dragon, whose blood was the thin diluted echo of some scaled and ancient thing, felt a shiver run through every plate on his body, and his arms — his god-strong, hammer-swatting, boy-throwing arms — went *limp.*
 
 Bang.
 
-One hammer. The Armored Dragon went out of the lane like a jar out of a window, and the crowd heard the bones of his arm fracture on the way, and his two returning thugs — arrived, fatefully, at exactly the wrong moment — tried to catch him, and failed, and the three of them finished the afternoon in a heap against the far wall, which is where the lane felt, poetically, they had belonged all along.
+One hammer. The Armored Dragon went out of the lane like a jar out of a window, and the crowd heard the bones of his arm fracture on the way, and his two returning thugs. Arrived, fatefully, at exactly the wrong moment — tried to catch him, and failed, and the three of them finished the afternoon in a heap against the far wall, which is where the lane felt, poetically, they had belonged all along.
 
-And then the gold was receding — the scales dimming into points of light and going back under, the heat cooling, the whole of it ten seconds long — and Tang Wulin stood in the middle of the wrecked lane with a right arm he could not lift and a soul power scraped to the bottom of its well, looking at his own hand like a man meeting a stranger who had his face.
+And then the gold was receding — the scales dimming into points of light and going back under, the heat cooling, the whole of it ten seconds long. And Tang Wulin stood in the middle of the wrecked lane with a right arm he could not lift and a soul power scraped to the bottom of its well, looking at his own hand like a man meeting a stranger who had his face.
 
 "Your—" Xie Xie had seen. Xie Xie had seen all of it, from the heap, four meters away: the gold, the slits, the limp. His voice came out an octave wrong. "Wulin. *What was that?*"
 

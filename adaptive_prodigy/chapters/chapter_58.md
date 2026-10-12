@@ -216,7 +216,7 @@ He closed the book.
 
 The lock at his temple lay gold across his cheekbone, and the marks on his forearms were raised and had been raised for thirty-two days, and the hawk turned over in him — *one thousand three hundred and seventy-four* — and did not pull toward anything.
 
-Lin Hao lay on his back in a city that smelled of salt and hot metal, and thought about a girl in a doorway who had resented him for the right reason, and about the fact that he had offered to help her and did not know why, and about the fact that the not-knowing-why had become the most common thing about him.
+Lin Hao lay on his back in a city that smelled of salt and hot metal, and thought about a girl in a doorway who had resented him for the right reason. And about the fact that he had offered to help her and did not know why, and about the fact that the not-knowing-why had become the most common thing about him.
 
 He slept.
 

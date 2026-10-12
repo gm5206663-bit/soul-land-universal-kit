@@ -78,7 +78,7 @@ Not walking. Not waiting in the way people wait, which is standing with an erran
 
 "Walk with me."
 
-They walked. Wu Zhangkong did not say anything for the length of the corridor, and then the length of the courtyard, and then the length of the path that went down toward the groundskeeper's shed, and Lin Hao — who had spent four months learning which of this man's silences were empty — walked beside him and said nothing either, because this one was full.
+They walked. Wu Zhangkong did not say anything for the length of the corridor, and then the length of the courtyard, and then the length of the path that went down toward the groundskeeper's shed. And Lin Hao — who had spent four months learning which of this man's silences were empty — walked beside him and said nothing either, because this one was full.
 
 At the shed Wu Zhangkong stopped, and drew the Skyfrost Sword.
 
@@ -90,7 +90,7 @@ Lin Hao had seen it four times. Four times it had been in a hand and moving, and
 
 "Look again."
 
-Lin Hao looked again. He looked the way he looked at steel, because it was the only way he had, and what he saw was: a blade about a metre long, straight, single-edged for the last third, with a spine thick enough to take a hammer and an edge ground to a geometry so fine that the light did not so much reflect off it as *decide* about it. And under that, because he could not help it, the grain — the folded weather inside the bar, ten thousand layers of a smith's decisions, and the decisions were *conservative.* Whoever had made this sword had not tried anything. They had done the correct thing, over and over, for a very long time.
+Lin Hao looked again. He looked the way he looked at steel, because it was the only way he had. And what he saw was: a blade about a metre long, straight, single-edged for the last third, with a spine thick enough to take a hammer and an edge ground to a geometry so fine that the light did not so much reflect off it as *decide* about it. And under that, because he could not help it, the grain — the folded weather inside the bar, ten thousand layers of a smith's decisions, and the decisions were *conservative.* Whoever had made this sword had not tried anything. They had done the correct thing, over and over, for a very long time.
 
 "Somebody made that over years," Lin Hao said. "And they never once showed off."
 
@@ -122,11 +122,11 @@ Lin Hao was quiet for a moment.
 
 "And the fifth room."
 
-"The fifth room is Sword Innate." Wu Zhangkong put the splinter down. "In the fifth room there is no sword. I don't mean you don't hold one. I mean the sword stops being the reason. You could take a stick, a chopstick, a finger, and it would still be *sword,* because the sword is not the object anymore, it's the — " he stopped, and Lin Hao watched him stop, watched the man who had six rings and two ten-thousand-year souls and a sword that thirty-one years of correctness had made go looking for a word and not finding one. "I can't tell you," Wu Zhangkong said. "That's the whole of it. I can't tell you, because I'm not there."
+"The fifth room is Sword Innate." Wu Zhangkong put the splinter down. "In the fifth room there is no sword. I don't mean you don't hold one. I mean the sword stops being the reason. You could take a stick, a chopstick, a finger, and it would still be *sword,* because the sword is not the object anymore, it's the. " he stopped, and Lin Hao watched him stop, watched the man who had six rings and two ten-thousand-year souls and a sword that thirty-one years of correctness had made go looking for a word and not finding one. "I can't tell you," Wu Zhangkong said. "That's the whole of it. I can't tell you, because I'm not there."
 
 "You're not."
 
-"I have been in the fourth room for twenty-six years." He said it without any self-pity at all, which made it worse. "I am a very good swordsman. I have beaten people I should not have beaten. And I have never once been able to put the sword down, and I have thought about it every day for twenty-six years, and I have concluded that the reason is that my sword is *mine* — it is the Skyfrost Sword, it came with a name and a school and four hundred years of other people's decisions in it, and I have spent my whole life being extremely good at somebody else's sentence." He looked at Lin Hao. "You don't have that problem. You never had a school. You have a hammer, a hawk, a bad stance I fixed, and four months of me being careful. Whatever your sword is going to say, it isn't going to be a quotation."
+"I have been in the fourth room for twenty-six years." He said it without any self-pity at all, which made it worse. "I am a very good swordsman. I have beaten people I should not have beaten. And I have never once been able to put the sword down, and I have thought about it every day for twenty-six years, and I have concluded that the reason is that my sword is *mine*. It is the Skyfrost Sword, it came with a name and a school and four hundred years of other people's decisions in it, and I have spent my whole life being extremely good at somebody else's sentence." He looked at Lin Hao. "You don't have that problem. You never had a school. You have a hammer, a hawk, a bad stance I fixed, and four months of me being careful. Whatever your sword is going to say, it isn't going to be a quotation."
 
 "So what do I do."
 
@@ -148,7 +148,7 @@ Lin Hao was quiet for a moment.
 
 He started that night, on the roof, with a stick.
 
-Not the Stormbringer. That was the first decision and it took him an hour, and the reason was Wu Zhangkong's, though it took him the hour to understand it: if he built the style with the Stormbringer he would build it out of the Stormbringer, and the Stormbringer was a martial soul, and a martial soul came with a shape already in it, and he would end up exactly where Wu Zhangkong had ended up, which was extremely good at somebody else's sentence.
+Not the Stormbringer. That was the first decision and it took him an hour, and the reason was Wu Zhangkong's, though it took him the hour to understand it: if he built the style with the Stormbringer he would build it out of the Stormbringer. And the Stormbringer was a martial soul, and a martial soul came with a shape already in it, and he would end up exactly where Wu Zhangkong had ended up, which was extremely good at somebody else's sentence.
 
 So: a stick. Roof tile warm under him, harbour wind doing its long argument, and a stick he had picked up off the training ground that was slightly too light and slightly too long and entirely ordinary.
 
@@ -162,7 +162,7 @@ He said it out loud to the harbour, and heard how it sounded, and thought: *that
 
 The first form took the rest of the night.
 
-He built it out of the ledger, because the ledger was the only thing he had that was entirely his — seventy-one lines, and then eighty-three, each one a fight, each one an answer, and the answers had shapes. He laid the shapes out on the roof tile in his head the way he would lay out a bar, and he looked for the place they were all *willing,* and he found it, and it was very simple, and it was so simple that he laughed, and Wulin called up from the bunk below to ask whether he was all right, and he said yes.
+He built it out of the ledger, because the ledger was the only thing he had that was entirely his — seventy-one lines, and then eighty-three, each one a fight, each one an answer, and the answers had shapes. He laid the shapes out on the roof tile in his head the way he would lay out a bar, and he looked for the place they were all *willing,* and he found it. And it was very simple, and it was so simple that he laughed, and Wulin called up from the bunk below to ask whether he was all right, and he said yes.
 
 The first form was this: **you do not strike first.**
 

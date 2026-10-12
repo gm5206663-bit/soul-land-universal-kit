@@ -98,7 +98,7 @@ The wind birds found nothing. Not beasts, not tracks, not birdsong — a forest 
 
 "The kind that's being waited *in,*" Gu Yue said. She said it flat. Her elements stayed gathered at the edge of her hands, petals not yet wind.
 
-He let the cold out a breath's width, under his skin and half a pace beyond it — not the domain, never the domain in a forest the academy had filled with things to read; just the deep water that the coiled thing at the bottom of his spiritual sea sent up to the surface when he asked for it — a threshold crossed and held, a country not a tally — seeping out the way a man's own warmth seeps out through his coat. The frost went a half-step in every direction along the pine needles before he stopped it — small, deliberate, his own weather laid down like a road. "Walk inside that," he said. "It knows me. Whatever else is in these trees, that patch is ours."
+He let the cold out a breath's width, under his skin and half a pace beyond it — not the domain, never the domain in a forest the academy had filled with things to read. Just the deep water that the coiled thing at the bottom of his spiritual sea sent up to the surface when he asked for it — a threshold crossed and held, a country not a tally — seeping out the way a man's own warmth seeps out through his coat. The frost went a half-step in every direction along the pine needles before he stopped it — small, deliberate, his own weather laid down like a road. "Walk inside that," he said. "It knows me. Whatever else is in these trees, that patch is ours."
 
 They did, one at a time — Gu Yue first, because she had measured the offer's arithmetic and found it solvent; Xiaoyan and Xie Xie after her. Wulin came last and stood the closest, as he always did now, shoulder to shoulder where the frost met the normal forest air, and did not say thank you because they had both stopped saying it at twelve and never started again. He did reach across and close his fist over Lin Hao's shoulder for one held second, the way you'd close your hand on a rail you'd tested once in a gale. "Your winter still follows you indoors," he said.
 
@@ -120,7 +120,7 @@ Wulin didn't answer at once. But it was the fifth who spoke, from the edge of th
 
 "It's not empty," Lin Hao said. "It's evacuated."
 
-The class looked at him. The oldest thing he owned had spent the last two hours reading the quiet, and the quiet had a grain like everything else: no fear-signals, no territorial calls, no scavengers working the margins — not a forest without beasts but a forest *cleared by something*, every living thing gone from it the way crowds go from streets when the weather turns.
+The class looked at him. The oldest thing he owned had spent the last two hours reading the quiet, and the quiet had a grain like everything else: no fear-signals, no territorial calls, no scavengers working the margins. Not a forest without beasts but a forest *cleared by something*, every living thing gone from it the way crowds go from streets when the weather turns.
 
 "An empty forest is a forest something bigger owns," he said. "We're not early. We're late. Everything here moved out ahead of something that's still coming."
 

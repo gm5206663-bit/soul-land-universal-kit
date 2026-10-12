@@ -14,7 +14,7 @@ Lin Hao watched her come down from the lectern the way he watched everything —
 
 She reached the end of the front aisle. Her back was to him.
 
-And it was there — in the one second between her turning and her leaving, with the twenty-year bar still lying across all their shoulders and the front-row captivity warm on his neck and the ledger she kept on him open under her hand — that Lin Hao, who had spent thirteen years learning to say nothing the room did not need to hear, let one breath go that the room did not need to hear.
+And it was there — in the one second between her turning and her leaving. With the twenty-year bar still lying across all their shoulders and the front-row captivity warm on his neck and the ledger she kept on him open under her hand — that Lin Hao, who had spent thirteen years learning to say nothing the room did not need to hear. Let one breath go that the room did not need to hear.
 
 It was barely shaped. It did not move his lips enough for anyone past his own shoulder to read. It was the smallest, driest, most private fragment of the thing the morning had built in him, and it slipped out the way a tool slips off a bench — not because he chose it but because his hands were full.
 
@@ -102,7 +102,7 @@ She took them apart with the precision of a smith laying out a broken mechanism,
 
 A mecha pilot put clothes on a *person*. A battle armor master put clothes on a *martial soul* — because at the core, the master was still a soul master, and the armor was not worn so much as married, fused, made to resonate and attract and become whole with the soul it served. One-word armor was the beginning, not the achievement; it was only at two words, when a master was one with the armor and it moved as an extension of body and soul together, that the word *battle armor master* actually meant anything.
 
-The professions, then. A student had to choose a second craft that built armor — mecha maker, carving the circuits that let armor and soul fuse; mecha designer, drawing armor that fit a martial soul the way a hand fits a glove; or the harder paths, mechanic or blacksmith, the smith's road the most strenuous and the slowest, the one the academy admitted with its own mouth was the most appropriate craft for *powerful* armor. No one mastered all four. You chose. You would also need the other crafts to finish what you started — you would pay for them in contribution points, and you would be wise to befriend the people who did them well.
+The professions, then. A student had to choose a second craft that built armor — mecha maker, carving the circuits that let armor and soul fuse; mecha designer, drawing armor that fit a martial soul the way a hand fits a glove. Or the harder paths, mechanic or blacksmith, the smith's road the most strenuous and the slowest, the one the academy admitted with its own mouth was the most appropriate craft for *powerful* armor. No one mastered all four. You chose. You would also need the other crafts to finish what you started — you would pay for them in contribution points, and you would be wise to befriend the people who did them well.
 
 "Personal relationships," Shen Yi said, "are part of one's strength. Remember that."
 
@@ -164,7 +164,7 @@ Wulin stared at the tray, then at him. "You don't have to —"
 
 Wulin looked at the tray. Then he looked at Lin Hao the way he looked at things he had decided not to put words on, and sat down, and ate, and did not argue, because arguing with a debt stated as arithmetic was the one kind of argument Wulin had never won in his life.
 
-Xiaoyan saw it. Xie Xie saw it and, for once, did not make the joke, which was how Lin Hao knew it had landed properly. Gu Yue saw it — she had the angle from the door — and her fork stopped for half a beat over her tray before she went back to eating, and the small ruffled frown between her brows did not go away, but it turned into something else, something Lin Hao, already turned back toward his own seat, did not see.
+Xiaoyan saw it. Xie Xie saw it and, for once, did not make the joke, which was how Lin Hao knew it had landed properly. Gu Yue saw it — she had the angle from the door — and her fork stopped for half a beat over her tray before she went back to eating. And the small ruffled frown between her brows did not go away, but it turned into something else, something Lin Hao, already turned back toward his own seat, did not see.
 
 He did not need to see it. He was not, today, in the business of reading what was written in frost.
 

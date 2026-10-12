@@ -116,7 +116,7 @@ Zhuo Shi did not answer at first. He was watching the domain fold away — watch
 
 ## Part 5: North, Under Stars
 
-They ran the valley under more stars than the sky usually admits to, and the freeze wore off the four of them in pieces — Xie Xie's hands first, then Gu Yue's silver, then their legs, until they were only running, and nobody said the name of what was behind them, and everybody checked anyway: the tunnel mouth, far back, a white seam in the hillside.
+They ran the valley under more stars than the sky usually admits to, and the freeze wore off the four of them in pieces — Xie Xie's hands first. Then Gu Yue's silver, then their legs, until they were only running, and nobody said the name of what was behind them, and everybody checked anyway: the tunnel mouth, far back, a white seam in the hillside.
 
 Gem-bright. Holding.
 

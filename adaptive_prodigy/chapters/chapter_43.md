@@ -119,7 +119,7 @@ Lin Hao opened his mouth.
 
 "No." Wang Jinxi said it gently, which was somehow the firmest anybody had ever said no to Lin Hao. "That's the thing you don't understand yet, and you will. You can't *half* stand next to somebody. Either you're next to them or you're not."
 
-Lin Hao sat on the step with his **hawk-gold lock** falling across his cheekbone and the **marks on his forearms** faint and raised under his sleeves, and he thought about a formation he had built three days ago in a dormitory, with a door in it that was two boys, and he understood that the door was gone and that no amount of cleverness was going to put it back.
+Lin Hao sat on the step with his **hawk-gold lock** falling across his cheekbone and the **marks on his forearms** faint and raised under his sleeves. And he thought about a formation he had built three days ago in a dormitory, with a door in it that was two boys, and he understood that the door was gone and that no amount of cleverness was going to put it back.
 
 "What do I tell them," he said.
 
@@ -149,11 +149,11 @@ Lin Hao did not hear what was said after that. He went back inside, because ther
 
 ## Part 5-B: What They Did
 
-He told them in the dormitory, at the hour when all of them happened to be in it, which he had arranged without arranging it, and he said the true thing in four sentences the way Wang Jinxi had told him to, and then he stopped talking, because he had learned that the silence after a thing like that was the part that did the work.
+He told them in the dormitory, at the hour when all of them happened to be in it, which he had arranged without arranging it. And he said the true thing in four sentences the way Wang Jinxi had told him to, and then he stopped talking, because he had learned that the silence after a thing like that was the part that did the work.
 
 Wulin took it well.
 
-That was the whole of it, and it was worse than Lin Hao had been expecting, exactly as promised. Wulin nodded once, and said *"he's right, isn't he,"* — not a question, the way Wulin said most things — and then he got up and took his own bowl off the shelf and put rice in it and sat back down, and his hands did not shake, and his face did not do anything at all, and Lin Hao watched a boy who has been putting money in a tin for four hundred Fridays absorb the second departure of his life without a single visible seam.
+That was the whole of it, and it was worse than Lin Hao had been expecting, exactly as promised. Wulin nodded once, and said *"he's right, isn't he,"* — not a question, the way Wulin said most things — and then he got up and took his own bowl off the shelf and put rice in it and sat back down. And his hands did not shake, and his face did not do anything at all, and Lin Hao watched a boy who has been putting money in a tin for four hundred Fridays absorb the second departure of his life without a single visible seam.
 
 And Lin Hao understood, watching it, that this was not composure. This was a person who had decided a long time ago that the people he loved were going to leave and that the correct response was to not make it harder for them.
 
@@ -165,7 +165,7 @@ Gu Yue said one thing.
 
 "He is not the first person to leave a room because you were standing in it," she said. "And you are going to spend a long time deciding whether that is a compliment. I would like to save you the time. It is neither. It is a fact about weather."
 
-And Zhang Yangzi — who had come in from the steps eleven minutes earlier with his eyes red and his voice entirely normal, who had been told nothing and had worked out all of it, who was staying in a class that had just lost the only person he had ever fused with — sat down at the end of the bench and said, "Is anybody going to say the thing."
+And Zhang Yangzi — who had come in from the steps eleven minutes earlier with his eyes red and his voice entirely normal, who had been told nothing and had worked out all of it, who was staying in a class that had just lost the only person he had ever fused with. Sat down at the end of the bench and said, "Is anybody going to say the thing."
 
 "What thing."
 
@@ -211,7 +211,7 @@ He wrote it that night, and he did not cross anything out, because nothing in it
 
 He closed it.
 
-The hawk turned over in him — **one thousand one hundred and seventy-one** — and did not lean toward anything, and Lin Hao lay on his back in a room that was too small and thought about a boy on a step who had said *you can't half stand next to somebody,* and about the fact that he had three rings and could not think of a single thing they were for that anybody else needed.
+The hawk turned over in him — **one thousand one hundred and seventy-one** — and did not lean toward anything. And Lin Hao lay on his back in a room that was too small and thought about a boy on a step who had said *you can't half stand next to somebody,* and about the fact that he had three rings and could not think of a single thing they were for that anybody else needed.
 
 ---
 

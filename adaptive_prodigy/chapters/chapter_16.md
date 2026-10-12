@@ -41,7 +41,7 @@ The flatness of it stopped even Xie Xie. Gu Yue did not refuse things. Gu Yue *s
 
 Lin Hao filed the look without examining it. Examining was for later; the shelf was for now.
 
-They went down to the training yard because rooms had ceilings and ceilings had opinions, and the yard was empty except for the lamps and, it developed, their teacher — because Wu Zhangkong lived on their floor, and Wu Zhangkong heard everything on their floor, and the white robes were already standing under the far lamp with the expression of a man deciding between punishment and curiosity and arriving, as always, at neither.
+They went down to the training yard because rooms had ceilings and ceilings had opinions, and the yard was empty except for the lamps and, it developed, their teacher — because Wu Zhangkong lived on their floor. And Wu Zhangkong heard everything on their floor, and the white robes were already standing under the far lamp with the expression of a man deciding between punishment and curiosity and arriving, as always, at neither.
 
 "Fusion compatibility testing," he said, coldly, before anyone had spoken. "The night before the largest match of your lives."
 
@@ -109,7 +109,7 @@ Wei Xiaofeng went straight at Xie Xie — his soul unnamed, its work plain: some
 
 "They're not feeling us out," Lin Hao said, at walking volume, the Stormbringer already in his hand, the wind already leaning. "They're spending us. Watch the eagle — he's not hunting, he's *herding.*"
 
-Because that was the shape of it, and it took him three exchanges to be sure: Zhang Yangzi's dives were not attacks, they were walls — each one closing a lane, each one pushing class five's pieces two steps closer together, and Wulin two steps closer to Wang Jinxi, and Xie Xie two steps deeper into Wei Xiaofeng's heavy light, and Gu Yue — Gu Yue standing in her cup of a corner, her hands still, her eyes running the whole geometry—
+Because that was the shape of it, and it took him three exchanges to be sure: Zhang Yangzi's dives were not attacks, they were walls — each one closing a lane, each one pushing class five's pieces two steps closer together. And Wulin two steps closer to Wang Jinxi, and Xie Xie two steps deeper into Wei Xiaofeng's heavy light, and Gu Yue — Gu Yue standing in her cup of a corner, her hands still, her eyes running the whole geometry—
 
 "Now," she said. "Break their line. Any line. They need us *grouped.*"
 
@@ -141,7 +141,7 @@ And here is the thing that would not have happened in a yard without him. Class 
 
 That is the whole of it. The butterfly is not that he won. It is that **a fight everybody had already scored became a fight nobody had scored,** and the reason was one boy who reads seams, and the yard did not have him in the arithmetic.
 
-The backlash came up the blade like a struck anvil's voice — soul-fire, the two-ring agreement burning where it had been interrupted — and it bit through the wind-guard into Lin Hao's palm, searing a line from thumb to wrist, and his whole right arm went numb to the elbow with the echo of a strength that was not his and had never been his, and the Stormbringer screamed in a register swords do not have—
+The backlash came up the blade like a struck anvil's voice — soul-fire, the two-ring agreement burning where it had been interrupted — and it bit through the wind-guard into Lin Hao's palm, searing a line from thumb to wrist. And his whole right arm went numb to the elbow with the echo of a strength that was not his and had never been his, and the Stormbringer screamed in a register swords do not have—
 
 —and the Dark Eagle Dragon *stuttered.*
 
@@ -151,7 +151,7 @@ The single voice cracked down the middle. For one heartbeat — one long, shinin
 
 Xie Xie took Wei Xiaofeng, and the dagger-boy's speed, freed of the herding, became the thing the grade had been calling weather all term — three touches in the time the gauntlets took to rise, and the third two-ring was on one knee with the Light Dragon Dagger's flat against his ear, hearing his own heartbeat negotiated. Gu Yue's hands finally moved — ice under the eagle-boy's landing, the ground declining exactly three degrees, exactly where a shadow-soul's footing mattered most, and Zhang Yangzi's next step arrived somewhere his body had not agreed to go. And Wulin took Wang Jinxi.
 
-The Bone Dragon King converted — a quarter of himself going spectral, the shoulder and the arm and the ribs turning to dark water so the hammer-fist passed through him like breath through a gate — and Wulin, who had watched him do it twice now and had filed it the way his brother filed things, did not check the swing. He *continued* it, the Bluesilver Grass already woven through the spectral quarter's re-materialization window, the golden-veined vines arriving exactly where solid bone was about to be, and Wang Jinxi reformed *into* a fistful of grass and a hammer's momentum—
+The Bone Dragon King converted — a quarter of himself going spectral, the shoulder and the arm and the ribs turning to dark water so the hammer-fist passed through him like breath through a gate. And Wulin, who had watched him do it twice now and had filed it the way his brother filed things, did not check the swing. He *continued* it, the Bluesilver Grass already woven through the spectral quarter's re-materialization window, the golden-veined vines arriving exactly where solid bone was about to be, and Wang Jinxi reformed *into* a fistful of grass and a hammer's momentum—
 
 —and threw his own counter, the Bone Dragon Claw raking up out of the tangle, dark energy sheeting the talons—
 
@@ -173,11 +173,11 @@ Wang Jinxi knelt in the grass with his claw still extended and his soul still hu
 
 "Class five wins."
 
-Long Hengxu's voice did not need the slate this time. He looked at the platform — at the dark dragon boy kneeling in golden grass, at the eagle boy sitting down in a puddle of his own element, at the third two-ring with a dagger's flat still whispering at his ear, at the four small figures in the middle of the largest silence Eastsea Academy had ever produced — and the director of the academy consulted nothing but the morning, and said it again, slower, as if the words needed settling:
+Long Hengxu's voice did not need the slate this time. He looked at the platform — at the dark dragon boy kneeling in golden grass, at the eagle boy sitting down in a puddle of his own element, at the third two-ring with a dagger's flat still whispering at his ear, at the four small figures in the middle of the largest silence Eastsea Academy had ever produced. And the director of the academy consulted nothing but the morning, and said it again, slower, as if the words needed settling:
 
 "The tournament is concluded. Class five has defeated every class in the first grade." A pause with the ghost of something in it that forty years of assemblies had never once contained. "As of this moment, you are the first grade's *class one.*"
 
-And the grade came apart. The sound that went up off those stands had no arithmetic in it at all — the worst class, the joke, the back of the building, *on top.* The noise rolled over the platform until even the ward hummed along. Zhou Zhangxi began a song that twenty-two throats finished for him, and somewhere in it Xie Xie was hugging people who had not consented, and Gu Yue was being looked at by four separate teachers with four separate expressions, and Wulin stood very still in the middle of it flexing a right hand that had not, he noticed, entirely stopped singing.
+And the grade came apart. The sound that went up off those stands had no arithmetic in it at all — the worst class, the joke, the back of the building, *on top.* The noise rolled over the platform until even the ward hummed along. Zhou Zhangxi began a song that twenty-two throats finished for him, and somewhere in it Xie Xie was hugging people who had not consented. And Gu Yue was being looked at by four separate teachers with four separate expressions, and Wulin stood very still in the middle of it flexing a right hand that had not, he noticed, entirely stopped singing.
 
 On the teachers' platform, Ye Yingluo did not move for a long time. Her price had been sitting on that platform in the shape of a dark-haired boy and an eagle and a fusion, and a small swordsman with a burned palm had walked into the middle of it and *interrupted* — and the two-year wound had learned, this morning, something new about itself, which was that it could wait. It had waited two years. It was, she decided, turning from the rail with her composure intact and her eyes on the white robes one last time, extremely good at waiting. The price would keep. So would she.
 

@@ -83,17 +83,17 @@ He hit the button.
 
 He came out of the platform with blood in his ears.
 
-Not a great deal. That was the part the staff kept saying, in the flat reassuring voice of people who had seen it before and had a protocol — *not a great deal, this is expected, the spiritual strain of a spirit soul advancing that fast, sit down, drink this.* It came out of his ears and out of his nose and there was some in the corner of his mouth, and he had not felt any of it happen, and the not-feeling was the part that stayed with him.
+Not a great deal. That was the part the staff kept saying, in the flat reassuring voice of people who had seen it before and had a protocol. *not a great deal, this is expected, the spiritual strain of a spirit soul advancing that fast, sit down, drink this.* It came out of his ears and out of his nose and there was some in the corner of his mouth. And he had not felt any of it happen, and the not-feeling was the part that stayed with him.
 
 Wu Zhangkong came out four seconds later.
 
-He did not sit down. He stood in the room in a robe that had been white and was not, with his hair down around his shoulders in a way Lin Hao had never seen, and a staff member went toward him with the same protocol and the same flat voice, and Wu Zhangkong said, "See to him first," and the staff member saw to Lin Hao first.
+He did not sit down. He stood in the room in a robe that had been white and was not, with his hair down around his shoulders in a way Lin Hao had never seen. And a staff member went toward him with the same protocol and the same flat voice, and Wu Zhangkong said, "See to him first," and the staff member saw to Lin Hao first.
 
 Lin Hao watched him stand there for eleven minutes.
 
 Eleven minutes. He counted. That was the thing his head did.
 
-And when the staff member finally got to him, and looked at the robe, and said something about the arm, and Wu Zhangkong said *"it is not deep,"* Lin Hao understood — because he had spent four months learning to read this man and four days learning that the reading was not the person — that the arm was deep, and that *"it is not deep"* was the same category as *"Wait here"* at a grave, which was to say that it was the thing Wu Zhangkong said when he had decided that what was true was not going to be said.
+And when the staff member finally got to him, and looked at the robe, and said something about the arm. And Wu Zhangkong said *"it is not deep,"* Lin Hao understood — because he had spent four months learning to read this man and four days learning that the reading was not the person — that the arm was deep. And that *"it is not deep"* was the same category as *"Wait here"* at a grave, which was to say that it was the thing Wu Zhangkong said when he had decided that what was true was not going to be said.
 
 ---
 
@@ -163,13 +163,13 @@ He finished the bar and looked at it.
 
 **Second-grade.**
 
-He had been making fourth-grade. Fourth-grade was what a third-rank Grandmaster made, and third-grade was luck, and he had made **second-grade** without trying particularly hard, and he understood immediately what had happened because it was the same thing that had happened to Wulin, and Wulin had told him about it at the inn two nights ago in the voice of a boy who had been given something he had wanted for three years.
+He had been making fourth-grade. Fourth-grade was what a third-rank Grandmaster made, and third-grade was luck, and he had made **second-grade** without trying particularly hard, and he understood immediately what had happened because it was the same thing that had happened to Wulin. And Wulin had told him about it at the inn two nights ago in the voice of a boy who had been given something he had wanted for three years.
 
 *"Mu Chen said when I can forge first-grade with a thirty percent success rate I'll be ready to try Spirit Refining. I thought that was three years. It's not three years."*
 
 Lin Hao stood in a forge in a city with no skyscrapers and understood that the forest had done this.
 
-Not the rings. Not the forty-eight years from the sword in the skull. The **seeing.** He had watched Wu Zhangkong compress his soul power so thoroughly that there was no fluctuation to sense, for eleven seconds, at forty metres, and he had been a blacksmith the whole time, and a blacksmith watches how a thing is made — and he had come out of that forest knowing something about metal that he had not gone in with.
+Not the rings. Not the forty-eight years from the sword in the skull. The **seeing.** He had watched Wu Zhangkong compress his soul power so thoroughly that there was no fluctuation to sense, for eleven seconds, at forty metres. And he had been a blacksmith the whole time, and a blacksmith watches how a thing is made — and he had come out of that forest knowing something about metal that he had not gone in with.
 
 He wrote it in the ledger.
 

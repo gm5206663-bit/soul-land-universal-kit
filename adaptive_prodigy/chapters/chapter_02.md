@@ -292,7 +292,7 @@ Wulin was quiet for a while. "Thirty thousand for the draw."
 
 "It's still a chance."
 
-Lin Hao looked at his friend — at the boy with the trash martial soul and rank three and an appetite that frightened his mother, who had just done arithmetic in his head and arrived at the same answer and refused to be frightened by it — and felt something shift in his chest that he did not have a word for at six and would not have for a long time.
+Lin Hao looked at his friend — at the boy with the trash martial soul and rank three and an appetite that frightened his mother, who had just done arithmetic in his head and arrived at the same answer and refused to be frightened by it. And felt something shift in his chest that he did not have a word for at six and would not have for a long time.
 
 "Yes," he said. "It is."
 
@@ -300,11 +300,11 @@ Lin Hao looked at his friend — at the boy with the trash martial soul and rank
 
 That was the shape of that year.
 
-Wulin pounded metal and learned to listen, and ate, and meditated at night with a stubbornness that his teacher would have found alarming if his teacher had ever watched him. Lin Hao pounded metal and heard it immediately, which was less admirable and more annoying, and spent his remaining hours working out what a sword was *for* — because a sword, he had discovered, was not a thing you swung; it was a thing that had opinions, and the opinions changed depending on how you held it, and nobody had told him this and he was furious that nobody had told him this.
+Wulin pounded metal and learned to listen, and ate, and meditated at night with a stubbornness that his teacher would have found alarming if his teacher had ever watched him. Lin Hao pounded metal and heard it immediately, which was less admirable and more annoying, and spent his remaining hours working out what a sword was *for* — because a sword, he had discovered, was not a thing you swung. It was a thing that had opinions, and the opinions changed depending on how you held it, and nobody had told him this and he was furious that nobody had told him this.
 
 Na'er lived with the Tangs and did not say where she had come from.
 
-And in the garden behind the house, on a night when the moon was up and Wulin was asleep, a small girl with silver hair sat bolt upright in bed because a ring of light had come out of her body — yellow, green, red, blue, purple, gold and silver, seven colours turning one by one — and it went in between her eyes, and she did not scream, and she did not tell anybody, and she did not sleep much for the rest of that week.
+And in the garden behind the house, on a night when the moon was up and Wulin was asleep, a small girl with silver hair sat bolt upright in bed because a ring of light had come out of her body. Yellow, green, red, blue, purple, gold and silver, seven colours turning one by one — and it went in between her eyes, and she did not scream, and she did not tell anybody, and she did not sleep much for the rest of that week.
 
 Nobody in Glorybound City knew.
 

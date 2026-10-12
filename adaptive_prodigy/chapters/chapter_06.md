@@ -30,7 +30,7 @@ He had also, it turned out, invited an audience. Half of class five stood in a l
 
 That should have been the warning. Wulin walked into the circle anyway, because the alternative was letting him finish the sentence, and the last two times he'd ended Xie Xie's fights in two strikes — quick, clean, and, judging by the boy's face, deeply unsatisfying for everyone involved.
 
-The Light Dragon Dagger arrived the way it always did: first the tightening in the air, then light where light had no business being. But this time the first strike was not at Wulin's chest. It flicked low — at his footing — and the second came high while his weight was still answering the first, and Wulin, who had spent four years being hit by hammers and had opinions about momentum, simply ate the feint and let the dagger's second pass skim his forearm, close enough to part sleeve and skin in one thin bright line.
+The Light Dragon Dagger arrived the way it always did: first the tightening in the air, then light where light had no business being. But this time the first strike was not at Wulin's chest. It flicked low — at his footing — and the second came high while his weight was still answering the first. And Wulin, who had spent four years being hit by hammers and had opinions about momentum, simply ate the feint and let the dagger's second pass skim his forearm, close enough to part sleeve and skin in one thin bright line.
 
 The yard made a sound. Xie Xie's eyes went wide — *I touched him* — and that was, in retrospect, the mistake. Because the line on Wulin's arm had already stopped bleeding, the furnace behind his sternum having glanced at the wound the way a blacksmith glances at a spark, and while Xie Xie was still enjoying his achievement, Wulin stepped inside the light.
 
@@ -50,7 +50,7 @@ The second fight lasted longer, and everyone who watched it understood, in the w
 
 Xie Xie was fast. He was also, Lin Hao could tell within four exchanges, *smarter than Tuesday* — he had stopped leading with the dagger, stopped letting his light gather where eyes could track it, was arriving from angles he had plainly drawn on paper the night before. Three of those angles would have finished most first-graders. Lin Hao simply was not standing in them.
 
-It was not speed, and the yard kept trying to call it speed. It was that the air told Lin Hao first. Light Dragon Dagger drew its light from somewhere, and before the light moved, the air above Xie Xie's leading shoulder went *taut*, the way a drum skin goes taut a half-breath before the strike — and hawk-eyes, fed by seven hundred and thirty-five years of a soul that had spent its whole first life reading weather for prey, saw the tautness the way other people saw the blade.
+It was not speed, and the yard kept trying to call it speed. It was that the air told Lin Hao first. Light Dragon Dagger drew its light from somewhere, and before the light moved, the air above Xie Xie's leading shoulder went *taut*, the way a drum skin goes taut a half-breath before the strike. And hawk-eyes, fed by seven hundred and thirty-five years of a soul that had spent its whole first life reading weather for prey, saw the tautness the way other people saw the blade.
 
 So Lin Hao redirected. A wrist turned here, a flat blade there, Xie Xie's own speed doing all the work of Xie Xie's defeat, until the dagger-boy was breathing hard in the middle of the yard with his hair coming loose and his fury — and this was the part the yard would remember — completely gone.
 
@@ -100,7 +100,7 @@ Then class one sent their best — a rank-21 Soul Grandmaster with a silver-horn
 
 Lin Hao went, and the match lasted four seconds, and that was the part nobody in the yard had a way to describe afterward, because a rank-21 Soul Grandmaster does not lose in four seconds to a boy three ranks under him and nobody could say what had happened. The rhino soul had come forward. The Stormbringer had been where the rhino soul was going to be. That was all of it.
 
-And the thing that changed because he was standing there — the thing that nobody in that yard would have had any reason to think about if he had not been in the file — was that **Wu Zhangkong did not send Xie Xie next.** Canon's yard would have sent Xie Xie, because Xie Xie was class five's best and the format was class against class. But Wu Zhangkong had watched four seconds of a four-second match and had made a decision about the shape of his class that he did not say out loud, and the shape was no longer the shape it had been that morning.
+And the thing that changed because he was standing there — the thing that nobody in that yard would have had any reason to think about if he had not been in the file. Was that **Wu Zhangkong did not send Xie Xie next.** Canon's yard would have sent Xie Xie, because Xie Xie was class five's best and the format was class against class. But Wu Zhangkong had watched four seconds of a four-second match and had made a decision about the shape of his class that he did not say out loud, and the shape was no longer the shape it had been that morning.
 
 Xie Xie noticed. Xie Xie always noticed. He did not say anything, which was the loudest thing Xie Xie had ever done.
 Tang Wulin took the circle, and the match lasted one exchange, and it was not a fight so much as a *demonstration of the difference between rank and strength.* The rhino charge was magnificent. Wulin met it the way an anvil meets a rumor, and the silver horns went up, and the class one boy went down, and Director Long Hengxu sat forward in the gallery for the first time all afternoon.
@@ -125,13 +125,13 @@ Their first real session ended with the training yard's fence needing repairs, W
 
 The Association gave Tang Wulin his first solo commission on a Tuesday: a lump of Heavy Silver the size of two fists, and a work order, and Mu Chen's single instruction — "Same as the test. I want the note."
 
-He took four days of evenings. The Association paid on delivery, and the clerk counted out **ten thousand federation coins** — a sum so large the clerk watched Wulin's face as he said it, the way people watch for fainting — and Wulin carried it back to the dormitory in both arms like a sack of grain and sat on his bed holding it for a long time without saying anything.
+He took four days of evenings. The Association paid on delivery, and the clerk counted out **ten thousand federation coins** — a sum so large the clerk watched Wulin's face as he said it, the way people watch for fainting. And Wulin carried it back to the dormitory in both arms like a sack of grain and sat on his bed holding it for a long time without saying anything.
 
 Ten thousand coins. His father made perhaps four hundred a month at the factory. This was two years of his father's hands, in his own, at ten years old, because a hammer had taught him that metal talks if you hit it honestly.
 
 And the clerk would not have counted that money out in a story without him.
 
-Not because the Association is unkind. **Because the commission would not have existed.** Mu Chen had given the Heavy Silver to Wulin on a Tuesday because Mu Chen had spent a month watching a boy who listened to metal, and the reason Mu Chen had been watching was that **another boy had been standing at the east window of the Association for six weeks, reading grain in metal that nobody else was reading, and Mu Chen had started looking at everything else in the building differently because of it.**
+Not because the Association is unkind. **Because the commission would not have existed.** Mu Chen had given the Heavy Silver to Wulin on a Tuesday because Mu Chen had spent a month watching a boy who listened to metal. And the reason Mu Chen had been watching was that **another boy had been standing at the east window of the Association for six weeks, reading grain in metal that nobody else was reading, and Mu Chen had started looking at everything else in the building differently because of it.**
 
 **In a story without him, Wulin is a promising boy with grass and a hammer, and the Association gives him small work for years, and the ten thousand coins never happen.** In a story with him in it, Mu Chen has already decided that this building contains something he did not expect, and Wulin gets Heavy Silver on a Tuesday, and his father's two years of hands come home in a bag.
 
@@ -147,7 +147,7 @@ She had **first rank at eleven** and second rank a month after her thirteenth bi
 
 It was not pride. She had checked. Pride would have been simpler.
 
-What it actually was, and what she had never said out loud to anybody, was this: she had started at **five**, on a box, making small hammers out of offcuts, after her father told her kindly and accurately that forging was **not suitable for girls** — and every rank she held was two years of being thought funny, paid in advance. So when the Association started saying *prodigy*, it felt like somebody taking the nine years and handing back a word.
+What it actually was, and what she had never said out loud to anybody, was this: she had started at **five**, on a box, making small hammers out of offcuts, after her father told her kindly and accurately that forging was **not suitable for girls**. And every rank she held was two years of being thought funny, paid in advance. So when the Association started saying *prodigy*, it felt like somebody taking the nine years and handing back a word.
 
 She was not here to compete with Tang Wulin.
 
@@ -169,11 +169,11 @@ And it was the wrong shape of answer entirely for a girl who had built herself o
 
 "Thank you," she said, precisely, and went back to her own anvil.
 
-Her strikes that evening rang at the fortieth, exactly as always, exactly on school-perfect — and she did not go home until midnight, because there was nothing else she knew how to do, and because if the metal was not going to speak to her then she would simply have to become so good that its silence stopped being the point.
+Her strikes that evening rang at the fortieth, exactly as always, exactly on school-perfect. And she did not go home until midnight, because there was nothing else she knew how to do, and because if the metal was not going to speak to her then she would simply have to become so good that its silence stopped being the point.
 
 Her father had reached **eight stars**. There were **three** men on the Douluo Continent who had reached nine and could be called **Divine Craftsmen**, and she had known their names before she could read properly. She had decided at about the age of seven, in the flat unexamined way children decide things, that she was going to be the fourth, and she had never once revised the plan, and she was not going to start now because a boy from a town nobody visited had a metal that talked to him.
 
-In his office above the floor, **Mu Chen — eight-star Saint Craftsman, President of the Eastsea City branch, the only man at that rank in the entire Association, and one of perhaps forty on the continent who could name all three of the nine-star Divine Craftsmen** — watched his daughter through the window, watched the boy bank his forge and leave with ten thousand coins in a bag over his shoulder, and said nothing at all.
+In his office above the floor, **Mu Chen — eight-star Saint Craftsman, President of the Eastsea City branch, the only man at that rank in the entire Association. And one of perhaps forty on the continent who could name all three of the nine-star Divine Craftsmen** — watched his daughter through the window, watched the boy bank his forge and leave with ten thousand coins in a bag over his shoulder, and said nothing at all.
 
 Which, for him, was a kind of grief. He had spent nine years teaching her that effort was the whole of it, because effort was the only thing he had ever been able to honestly promise her.
 

@@ -37,7 +37,7 @@ The rhinoceros grunted, raised its right foot, and stomped.
 
 Canon's own margin, and here is what the margin was made of: the sword.
 
-Lin Hao had been moving before the foot came down — the read had said *the foot*, the read is why the girls stood where they stood — and as the yellow wall rolled out across the star-field floor he drew the Frost Abyss one-handed and laid the Still Water line flat in its path, edge on, and CUT the top off the wave. Not the wave. Never the whole thing — the trial was the team's and the danger was the team's to answer, and a boy who deleted his class's examinations would be doing nobody any favors. He took the edge off it. The paralysis ring crossed the girls' line with its teeth pulled, a shove of warm wind where a seizure should have been, and Gu Yue's hands were already moving through the counter and Xiaoyan's staff was already rising, unafraid, because their floor was theirs.
+Lin Hao had been moving before the foot came down — the read had said *the foot*, the read is why the girls stood where they stood. And as the yellow wall rolled out across the star-field floor he drew the Frost Abyss one-handed and laid the Still Water line flat in its path, edge on, and CUT the top off the wave. Not the wave. Never the whole thing — the trial was the team's and the danger was the team's to answer, and a boy who deleted his class's examinations would be doing nobody any favors. He took the edge off it. The paralysis ring crossed the girls' line with its teeth pulled, a shove of warm wind where a seizure should have been, and Gu Yue's hands were already moving through the counter and Xiaoyan's staff was already rising, unafraid, because their floor was theirs.
 
 One stroke. In and gone. Xie Xie, ringing with numbness in Wulin's grip overhead, got one look at it and understood exactly what he had seen, and would describe it later as *unfair, in the best way.*
 
@@ -81,7 +81,7 @@ At the door of the trial hall, unnoticed by design, a man in white robes had bee
 
 Wu Zhangkong did not enter. A teacher does not touch an examination; he had drilled that into four generations and he was not going to make an exception for the one exam his own arrogance had nearly cost them. Shen Yi stood at his shoulder, and had said, quietly, the four words she had brought him from the corridor: *your student made terms.*
 
-He had watched the punch. He had watched the stroke that took the teeth off the War Stomp — one draw, one line, holstered before the yellow light finished dying — and his face had done nothing at all, which on him was applause. He had watched the gold come up out of his captain's body and replace two purple rings with a color he had never seen on a soul master in his life, and only then, at the door, did he look down at the boy stationed at the right edge, and the look lasted four seconds, and the boy looked back and did not flinch, because he had done the arithmetic before he spoke in that corridor.
+He had watched the punch. He had watched the stroke that took the teeth off the War Stomp — one draw, one line, holstered before the yellow light finished dying — and his face had done nothing at all, which on him was applause. He had watched the gold come up out of his captain's body and replace two purple rings with a color he had never seen on a soul master in his life. And only then, at the door, did he look down at the boy stationed at the right edge, and the look lasted four seconds, and the boy looked back and did not flinch, because he had done the arithmetic before he spoke in that corridor.
 
 The exchange happened between the shackles and the fall, low, between the only two people in Shrek City who talked this way.
 
@@ -105,7 +105,7 @@ One word. It was not permission; it was not a blessing. It was a standard, set w
 
 "The five of you pass everything. That was already the assignment. The duel is what happens if you fail."
 
-Then the rhinoceros finished falling, and the door's two watchers were moving — Shen Yi forward to proctor, the white robe stepping back out of the light — and the golden ring burned down out of the false stars like a struck match, and the shape that had held at midnight in a laundry yard held now in the oldest school on the continent, with three seconds left on its first test.
+Then the rhinoceros finished falling, and the door's two watchers were moving — Shen Yi forward to proctor, the white robe stepping back out of the light. And the golden ring burned down out of the false stars like a struck match, and the shape that had held at midnight in a laundry yard held now in the oldest school on the continent, with three seconds left on its first test.
 
 ---
 

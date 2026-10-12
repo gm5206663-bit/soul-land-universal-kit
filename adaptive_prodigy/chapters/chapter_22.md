@@ -25,7 +25,7 @@ This did not look like an accident.
 
 "I bruised it. Get up."
 
-"I'm conducting an inventory. There's a process." But he was up, because the process was, in fact, already finished, and because the part of him that conducted inventories had been quietly handed over to the part of him that wanted the next one. He rolled the shoulder. He put his feet in the smith's stance that Wu Zhangkong had called wrong in front of the whole class, and then — because he had spent the eleven days since thinking about nothing else — he moved his back foot four centimetres and turned his hip eleven degrees, and the stance stopped being a smith's stance and became, for the first time, a swordsman's.
+"I'm conducting an inventory. There's a process." But he was up, because the process was, in fact, already finished, and because the part of him that conducted inventories had been quietly handed over to the part of him that wanted the next one. He rolled the shoulder. He put his feet in the smith's stance that Wu Zhangkong had called wrong in front of the whole class, and then — because he had spent the eleven days since thinking about nothing else. He moved his back foot four centimetres and turned his hip eleven degrees, and the stance stopped being a smith's stance and became, for the first time, a swordsman's.
 
 Wu Zhangkong looked at his feet for a moment.
 
@@ -44,7 +44,7 @@ Wu Zhangkong looked at his feet for a moment.
 
 He was hit six times that evening.
 
-This is the number that mattered, and the six of them counted it out loud, because the six of them had spent five months believing that four was a ceiling — Xie Xie kept the count on his fingers, and by the fourth hit had stopped teasing, and by the sixth had gone quiet in a way that Lin Hao found considerably more alarming than the hits.
+This is the number that mattered, and the six of them counted it out loud, because the six of them had spent five months believing that four was a ceiling. Xie Xie kept the count on his fingers, and by the fourth hit had stopped teasing, and by the sixth had gone quiet in a way that Lin Hao found considerably more alarming than the hits.
 
 "Six," Xie Xie said, afterwards, sitting on the ground with his arms around his knees. "In one *evening.*"
 
@@ -62,7 +62,7 @@ This is the number that mattered, and the six of them counted it out loud, becau
 
 "I'm *filing,* Xie Xie, there's a difference, and you're interrupting. Five. When he wants to teach me something he hits me somewhere it won't matter, and when he wants to find something out he hits me somewhere it will. Six were somewhere it will. Which means he isn't teaching me tonight." Lin Hao sat up. "He's *measuring* me."
 
-The training ground had gone quiet, and Lin Hao became aware — the way he became aware of most things, slightly after the fact — that all six of them were looking at him, and that Wang Jinxi was looking at him the hardest, and that Wu Zhangkong had stopped at the edge of the ground on his way out and had not, in fact, left.
+The training ground had gone quiet, and Lin Hao became aware — the way he became aware of most things, slightly after the fact — that all six of them were looking at him. And that Wang Jinxi was looking at him the hardest, and that Wu Zhangkong had stopped at the edge of the ground on his way out and had not, in fact, left.
 
 "What did you get?" Wu Zhangkong said.
 
@@ -98,13 +98,13 @@ And then he attacked, and the lesson turned out to be that the Answering Stroke 
 
 Lin Hao was hit eleven times learning it.
 
-He was hit eleven times because eleven times he moved early, and Wu Zhangkong said nothing at all about it, only hit him again, and on the twelfth exchange Lin Hao stood still inside a stick that was coming at his collarbone and felt — for a duration of time so short that he could not afterwards say whether it had been real — the entire architecture of the attack. Not the angle. The *promise.* The place Wu Zhangkong had already agreed to arrive at.
+He was hit eleven times because eleven times he moved early, and Wu Zhangkong said nothing at all about it, only hit him again. And on the twelfth exchange Lin Hao stood still inside a stick that was coming at his collarbone and felt — for a duration of time so short that he could not afterwards say whether it had been real — the entire architecture of the attack. Not the angle. The *promise.* The place Wu Zhangkong had already agreed to arrive at.
 
 And the Stormbringer went there before the stick did, and rested, and Wu Zhangkong stopped.
 
 The training ground had gone quiet again, and the six of them were pretending very hard not to be watching, and Wu Zhangkong looked at the sword resting a hand's width from his own wrist and said, "What did that feel like."
 
-"Like you'd already told me," Lin Hao said. "You told me where you were going. Not on purpose. You just — you can't commit to a strike without saying where it's going, and I've been hearing it for months and I thought it was a *sound,* and it isn't a sound, it's a decision, and the decision happens before the movement, and if I wait for the decision instead of the movement I don't have to be fast at all."
+"Like you'd already told me," Lin Hao said. "You told me where you were going. Not on purpose. You just — you can't commit to a strike without saying where it's going, and I've been hearing it for months and I thought it was a *sound,* and it isn't a sound, it's a decision. And the decision happens before the movement, and if I wait for the decision instead of the movement I don't have to be fast at all."
 
 Wu Zhangkong was quiet for a long moment.
 
@@ -112,11 +112,11 @@ Wu Zhangkong was quiet for a long moment.
 
 "Sir."
 
-"The stance you fixed. Keep it. I'm not going to correct your feet again, and if they go wrong I'm going to let them go wrong until you lose a fight to them, because a thing a teacher fixes belongs to the teacher." He left, and Xie Xie said, from the ground, "That's the meanest thing I've ever heard anybody say as a compliment," and Lin Hao stood in the middle of the training ground with his sword still in his hand and his feet four centimetres from where they had been for a year, and felt — very distinctly, the way you feel a joint come into line — something in him *set.*
+"The stance you fixed. Keep it. I'm not going to correct your feet again, and if they go wrong I'm going to let them go wrong until you lose a fight to them, because a thing a teacher fixes belongs to the teacher." He left, and Xie Xie said, from the ground, "That's the meanest thing I've ever heard anybody say as a compliment," and Lin Hao stood in the middle of the training ground with his sword still in his hand and his feet four centimetres from where they had been for a year. And felt — very distinctly, the way you feel a joint come into line — something in him *set.*
 
 Rank thirty came in the fourth week, and it did not feel like the others. The others had arrived — a settling, a joint coming into line. This one arrived and then *stopped,* the way a lift stops at the top floor, and Lin Hao sat up in the dark at four in the morning with the specific and entirely new sensation of having run out of staircase.
 
-Twenty-one to thirty was the second-ring band. He was at the top of it. And the thing above him was not a rank he could earn, because the RANK RULE did not care how hard he had been hit: you cannot pass a bottleneck without a ring, and a third ring needed a soul that had crossed a thousand years, and the hawk was at seven hundred and seventy and had never once been in a hurry about anything.
+Twenty-one to thirty was the second-ring band. He was at the top of it. And the thing above him was not a rank he could earn, because the RANK RULE did not care how hard he had been hit: you cannot pass a bottleneck without a ring. And a third ring needed a soul that had crossed a thousand years, and the hawk was at seven hundred and seventy and had never once been in a hurry about anything.
 
 Eleven hits, a stance, and one stroke had taken him the length of the band. There was nothing left to be corrected into.
 
@@ -130,13 +130,13 @@ The hawk, eight hundred and forty-five years of condensed wind riding quietly in
 
 The ledger grew by seven lines in three weeks.
 
-Six of them were Wu Zhangkong, and they were the strangest six lines in it, because every other line in the ledger was a line about a *person* — Mo Si's knife, Qin Lang's feed-line, the bear's honest momentum — and these six were lines about a *speed.* He had never had to learn a speed before. Everyone else in his life had moved at a speed he could arrive at, and Wu Zhangkong moved at a speed he could only *predict,* and prediction was a different skill, and it turned out that he had one, and that it was good, and that it had been sitting there unused the way a tool sits unused in a drawer until a job arrives that needs it.
+Six of them were Wu Zhangkong, and they were the strangest six lines in it, because every other line in the ledger was a line about a *person* — Mo Si's knife, Qin Lang's feed-line, the bear's honest momentum — and these six were lines about a *speed.* He had never had to learn a speed before. Everyone else in his life had moved at a speed he could arrive at, and Wu Zhangkong moved at a speed he could only *predict,* and prediction was a different skill. And it turned out that he had one, and that it was good, and that it had been sitting there unused the way a tool sits unused in a drawer until a job arrives that needs it.
 
 The seventh line was Xie Xie.
 
 Not a new answer — he had eleven of those already, and Xie Xie had not invented a twelfth in three weeks, because Xie Xie was, for all his speed, a boy with a fixed vocabulary of violence. The seventh line was different. It was the line where Lin Hao finally wrote down *why* he and Xie Xie had never once, in months of mornings, actually hurt each other badly — and the answer, when he wrote it out, was so obvious that he sat on the bunk above Zhou Zhangxi's snoring for a full minute feeling like an idiot.
 
-They were moving at the same tempo. Not the same speed — Xie Xie was faster, and had always been faster, and would go to his grave being faster. The same *tempo.* They arrived at decisions in the same beat, which meant that every time Xie Xie committed, Lin Hao was already committing to the answer, and every time Lin Hao committed, Xie Xie was already somewhere else, and the two of them had been doing this so long that it looked like skill and was actually *rhythm,* and rhythm was the thing you could not fake and could not teach and could not buy.
+They were moving at the same tempo. Not the same speed — Xie Xie was faster, and had always been faster, and would go to his grave being faster. The same *tempo.* They arrived at decisions in the same beat, which meant that every time Xie Xie committed, Lin Hao was already committing to the answer, and every time Lin Hao committed, Xie Xie was already somewhere else. And the two of them had been doing this so long that it looked like skill and was actually *rhythm,* and rhythm was the thing you could not fake and could not teach and could not buy.
 
 He wrote it down. And then, because he was Lin Hao and because a thing written down was a thing that could be used, he thought about what rhythm was *for.*
 
@@ -144,7 +144,7 @@ Wu Zhangkong had said, in the mecha lecture, that two soul masters could fuse �
 
 He did not say anything about it. Not to Xie Xie, not to Wulin, not to anyone, and this was unusual for him, because Lin Hao said everything — Lin Hao's entire method of being alive was to say the thing, loudly, first, before the thing could say him. But this one he kept, and he kept it for a reason he could not have articulated, which was that saying it out loud would make it a *plan,* and it wasn't a plan. It was a door. And doors were not plans. You did not schedule a door. You arrived at it, one day, when you were heavy enough to open it, and until then you left it alone and did your work.
 
-Eleven days later, Wu Zhangkong paired him with Xie Xie for the evening session, and did not say why, and Lin Hao — who had spent eleven days not saying anything — fought his oldest friend for twenty-two minutes across a training ground that had gone completely silent, and understood that the man with the smoky green eyes had arrived at the same door from the other side, and had looked at it, and had decided, without saying so, to leave it exactly where Lin Hao had left it.
+Eleven days later, Wu Zhangkong paired him with Xie Xie for the evening session, and did not say why, and Lin Hao — who had spent eleven days not saying anything — fought his oldest friend for twenty-two minutes across a training ground that had gone completely silent. And understood that the man with the smoky green eyes had arrived at the same door from the other side, and had looked at it, and had decided, without saying so, to leave it exactly where Lin Hao had left it.
 
 Neither of them mentioned it. That was the whole of the conversation, and it was the most respectful thing anyone had ever done for him.
 
@@ -179,7 +179,7 @@ Wulin was quiet for a moment. "That's not fair."
 "It's not," Lin Hao agreed cheerfully, and rolled over, and went back to sleep, because the arithmetic was finished and the numbers were put away and there was training in four hours and a man with a stick who had, apparently, never once hit him.
 
 
-Rank thirty arrived in the fourth week, and the moment it did, everything stopped. Not the training. The *rank.* Twenty-one to thirty was the second-ring band and he was standing at the top of it, and the wall in front of him was not a wall he could climb — it was a wall that needed a third ring, and a third ring needed a hawk that had crossed a thousand years, and the hawk was at seven hundred and seventy and had never once, in four years, been in a hurry.
+Rank thirty arrived in the fourth week, and the moment it did, everything stopped. Not the training. The *rank.* Twenty-one to thirty was the second-ring band and he was standing at the top of it, and the wall in front of him was not a wall he could climb. It was a wall that needed a third ring, and a third ring needed a hawk that had crossed a thousand years, and the hawk was at seven hundred and seventy and had never once, in four years, been in a hurry.
 
 "You're at the top," Wulin said that night, in the tone of a boy who had been keeping count for four months and had not said so.
 

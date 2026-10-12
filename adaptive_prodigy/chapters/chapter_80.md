@@ -56,7 +56,7 @@ Xu Xiaoyan's brow folded. "Captain. What do I do? My full potential only comes u
 
 "Then rest while there's resting to be had," Wulin said, and closed his eyes mid-sentence, meditating the moment the words were out — because blood essence ran on soul power, and there was no food in this building, and his stomach had already filed its opinion of the morning's six catches with the entire examination hall. His only option was to recover by breath what he could not recover by breakfast. The class had begun keeping a private count of the captain's meals the way other families track weather.
 
-And the sixth sat with his back to the wall and said nothing, which was his answer to a question he was still holding: *one specialty, the one that is directly related to your strength.* He had two lives and the hall owned three pages on him already, and the wrong one of his lives, shown here, would spend the other.
+And the sixth sat with his back to the wall and said nothing, which was his answer to a question he was still holding: *one specialty, the one that is directly related to your strength.* He had two lives and the hall owned three pages on him already. And the wrong one of his lives, shown here, would spend the other.
 
 ## Part 4: Elder Cai
 

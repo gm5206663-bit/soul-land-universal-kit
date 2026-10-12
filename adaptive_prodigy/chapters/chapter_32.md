@@ -54,7 +54,7 @@ Wulin stood in the middle of the room and did not move for a while.
 
 *Evolved.*
 
-His spirit soul had been the sore spot. Not the martial soul — everybody laughed at the grass and he had stopped caring about that a long time ago. The *soul.* Ten years. He had watched Xie Xie's family buy a hundred years of dagger, and Gu Yue carry something nobody would name, and Lin Hao walk in with **two yellow rings at nine and a half**, and every single time something in his chest had done a small, humiliating thing, because he was competitive in a way he had never been able to hide and ten years was ten years.
+His spirit soul had been the sore spot. Not the martial soul — everybody laughed at the grass and he had stopped caring about that a long time ago. The *soul.* Ten years. He had watched Xie Xie's family buy a hundred years of dagger, and Gu Yue carry something nobody would name, and Lin Hao walk in with **two yellow rings at nine and a half**. And every single time something in his chest had done a small, humiliating thing, because he was competitive in a way he had never been able to hide and ten years was ten years.
 
 He had not dared dream of it. When Xie Xie told him it was possible in the platform he had not taken it seriously, because it was not a thing that happened to him.
 
@@ -184,7 +184,7 @@ And the hawk was nine hundred and eighteen years old now.
 
 Lin Hao looked at the number for a long time.
 
-He had been thinking about the wall for four months as a door that would not open. That was wrong, and he understood it now with the specific clarity of a boy who has been measuring metal since he was four. It was not a door. **It was a colour.** When the hawk crossed a thousand years, his two yellow rings would turn purple — both of them, the same way Wulin's white had turned yellow — and a third ring would be bestowed on top of them, and a third ring meant the third band, and the third band meant rank thirty-one, and rank thirty-one meant the wall was not a wall any more.
+He had been thinking about the wall for four months as a door that would not open. That was wrong, and he understood it now with the specific clarity of a boy who has been measuring metal since he was four. It was not a door. **It was a colour.** When the hawk crossed a thousand years, his two yellow rings would turn purple — both of them, the same way Wulin's white had turned yellow. And a third ring would be bestowed on top of them, and a third ring meant the third band, and the third band meant rank thirty-one, and rank thirty-one meant the wall was not a wall any more.
 
 He would not have to break through anything. He would have to **wait for a bird,** and then stand there while his own hands changed colour.
 

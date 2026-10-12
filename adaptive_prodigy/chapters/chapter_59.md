@@ -28,7 +28,7 @@ Elder Duan sent a man, and the man spent two days, and the man came back with a 
 
 That was the first thing.
 
-Lin Hao heard about it afterwards, from Mu Xi, because Mu Xi had spent two days in a smithy with him and had decided that made her the person who told him things, and because she had resented him for the right reason and stopped resenting him at about the same time she started telling him things, and neither had been planned.
+Lin Hao heard about it afterwards, from Mu Xi, because Mu Xi had spent two days in a smithy with him and had decided that made her the person who told him things. And because she had resented him for the right reason and stopped resenting him at about the same time she started telling him things, and neither had been planned.
 
 "They investigated you," she said.
 
@@ -58,7 +58,7 @@ Lin Hao had thought about this off and on for four months, and he had arrived at
 
 That was the folder.
 
-And Lin Hao stood in a smithy in Skysea City and understood that the thin folder was the most useful thing that could have happened to him, because a thin folder meant there was nothing to take, and nothing to take meant there was nothing to offer him, and nothing to offer him meant that whatever happened next would happen because of what he did and not because of what he was.
+And Lin Hao stood in a smithy in Skysea City and understood that the thin folder was the most useful thing that could have happened to him, because a thin folder meant there was nothing to take. And nothing to take meant there was nothing to offer him, and nothing to offer him meant that whatever happened next would happen because of what he did and not because of what he was.
 
 ---
 
@@ -114,7 +114,7 @@ Elder Duan was quiet a moment.
 
 ## Part 4: What Ye Xinglan Did
 
-Her sword was called the Stargod Sword, and it came up with two yellow rings, and there were sparks of light along the yellow blade like stars in a night sky, and it was the most beautiful thing Lin Hao had seen in Skysea City, and he understood in about two seconds that it was going to be the hardest thing he had fought.
+Her sword was called the Stargod Sword, and it came up with two yellow rings, and there were sparks of light along the yellow blade like stars in a night sky. And it was the most beautiful thing Lin Hao had seen in Skysea City, and he understood in about two seconds that it was going to be the hardest thing he had fought.
 
 She saw his rings.
 
@@ -154,11 +154,11 @@ The fifth time, he did not decide where to go.
 
 He decided where *she* was going to be.
 
-He could not afterwards give a good account of it, and that troubled him, because he was accurate about everything else. What happened was that he stopped deciding about himself and started deciding about her, and the Track happened anyway, and he was four metres left of where she was going to be rather than where she had been, and the Stargod Sword went into the place he had been, and the sword that had been the most beautiful thing in Skysea City was in the wrong place.
+He could not afterwards give a good account of it, and that troubled him, because he was accurate about everything else. What happened was that he stopped deciding about himself and started deciding about her, and the Track happened anyway, and he was four metres left of where she was going to be rather than where she had been. And the Stargod Sword went into the place he had been, and the sword that had been the most beautiful thing in Skysea City was in the wrong place.
 
 He won in thirty-one seconds.
 
-Ye Xinglan stood in the ring with her sword down and her confidence entirely intact, which was the most impressive thing he had seen in Skysea City, and she said, "That's not a Track," and Lin Hao said, "No," and she said, "What is it," and he said, "I don't know," and she said, "That's the fourth time you've said that," and he said, "I know."
+Ye Xinglan stood in the ring with her sword down and her confidence entirely intact, which was the most impressive thing he had seen in Skysea City. And she said, "That's not a Track," and Lin Hao said, "No," and she said, "What is it," and he said, "I don't know," and she said, "That's the fourth time you've said that," and he said, "I know."
 
 ---
 
@@ -202,7 +202,7 @@ Lin Hao looked at him.
 
 The Association had a form.
 
-It was not a large form. It was one page, because the Eastsea Branch had used the same one for forty years, and it asked for a name and an age and a martial soul, and then — under a ruled heading that said **SYSTEM** — it offered six small empty squares in a row, each with a word printed underneath in the flat grey type the Federation used for things it did not expect anybody to read.
+It was not a large form. It was one page, because the Eastsea Branch had used the same one for forty years, and it asked for a name and an age and a martial soul, and then. Under a ruled heading that said **SYSTEM** — it offered six small empty squares in a row, each with a word printed underneath in the flat grey type the Federation used for things it did not expect anybody to read.
 
 **Assault. Agility. Power. Control. Defense. Auxiliary.**
 
@@ -236,7 +236,7 @@ And he thought: *well.*
 
 He wrote in it.
 
-He wrote it in the same hand he wrote everything in, small and even and slightly slanted, and he did not think very hard about the word, because the word was obvious, and because he was ten years old and tired and had a tournament in four days and had already spent four minutes on a piece of paper most people filled in standing up.
+He wrote it in the same hand he wrote everything in, small and even and slightly slanted. And he did not think very hard about the word, because the word was obvious, and because he was ten years old and tired and had a tournament in four days and had already spent four minutes on a piece of paper most people filled in standing up.
 
 **Comprehensive.**
 
@@ -250,7 +250,7 @@ That was the whole of it.
 
 Nobody checked. Nobody had ever checked anybody's. Gu Yue had written **Elementalist** and it had been true ever since, and Xie Xie had written **Agility** without reading the squares because he already knew, and somewhere in this building there was a forty-year-old form with a word on it that no book contained, and the word was still in use.
 
-Lin Hao walked out of the Eastsea Branch of the Blacksmith's Association at about half past four on a Tuesday, having invented a category of soul master in the space of eleven seconds, and did not know he had done it, and would not know for a very long time, and nobody would tell him — because you cannot congratulate a person on founding something when the founding was a word on a form that nobody read.
+Lin Hao walked out of the Eastsea Branch of the Blacksmith's Association at about half past four on a Tuesday, having invented a category of soul master in the space of eleven seconds. And did not know he had done it, and would not know for a very long time, and nobody would tell him — because you cannot congratulate a person on founding something when the founding was a word on a form that nobody read.
 
 ---
 

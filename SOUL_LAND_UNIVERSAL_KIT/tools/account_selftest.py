@@ -119,6 +119,54 @@ case('a sentence repeated across chapters is advisory, not hard',
                      'along the way before dark.\n'),
      'repeat-across')
 
+# ---------------------------------------------------------------- 2b records
+case('a record section is the author\'s bookkeeping, not prose',
+     lambda r: write(os.path.join(r, 'alpha-repo', 'Book_One', 'chapters', 'Chapter_01.md'),
+                     chapter(1) + '\n### Chapter Summary:\n'
+                     + ' '.join(f'note{i}word' for i in range(70)) + '.\n'),
+     'over60', want=False, only=['gate'])
+
+case('a long sentence before the record heading is still prose',
+     lambda r: write(os.path.join(r, 'alpha-repo', 'Book_One', 'chapters', 'Chapter_01.md'),
+                     ' '.join(f'prose{i}word' for i in range(70)) + '.\n\n### Chapter Summary:\n'
+                     'A short note.\n'),
+     'over60', only=['gate'])
+
+case('a record section quoting a chapter line is not a duplicate',
+     lambda r: write(os.path.join(r, 'alpha-repo', 'Book_One', 'chapters', 'Chapter_02.md'),
+                     chapter(2) + '\n### Chapter Summary:\nThe road east was grey and the boy '
+                     'counted every stone along the way before dark.\n'),
+     'repeat-across', want=False, only=['dupes'])
+
+# ---------------------------------------------------------------- 2c refrains
+case('a declared refrain is on record, not a defect',
+     lambda r: [write(os.path.join(r, 'alpha-repo', 'Book_One', 'foundation', 'REFRAINS.md'),
+                      '# Declared refrains\n\n- REFRAIN: The road east was grey and the boy '
+                      'counted every stone along the way before dark.\n'),
+                write(os.path.join(r, 'alpha-repo', 'Book_One', 'chapters', 'Chapter_02.md'),
+                      chapter(2) + '\n' + 'The road east was grey and the boy counted every stone '
+                      'along the way before dark.\n')],
+     'repeat-across', want=False, only=['dupes'])
+
+case('an undeclared repeat beside a declared one still fires',
+     lambda r: [write(os.path.join(r, 'alpha-repo', 'Book_One', 'foundation', 'REFRAINS.md'),
+                      '# Declared refrains\n\n- REFRAIN: The road east was grey and the boy '
+                      'counted every stone along the way before dark.\n'),
+                write(os.path.join(r, 'alpha-repo', 'Book_One', 'chapters', 'Chapter_02.md'),
+                      chapter(2) + '\nA fresh sentence that appears in two places in this '
+                      'account today.\n'),
+                write(os.path.join(r, 'alpha-repo', 'Book_One', 'chapters', 'Chapter_03.md'),
+                      chapter(3) + '\nA fresh sentence that appears in two places in this '
+                      'account today.\n')],
+     'repeat-across', only=['dupes'])
+
+# ---------------------------------------------------------------- 2d placeholder
+case('a stopped serial\'s template file is not a chapter',
+     lambda r: write(os.path.join(r, 'alpha-repo', 'Book_One', 'chapters', 'Chapter_01.md'),
+                     '# Chapter 1: {Title}\n\n{No content yet. This file is populated only when '
+                     'the author opens the serial.}\n'),
+     'dialogue-floor', want=False, only=['gate'])
+
 # ---------------------------------------------------------------- 3 copies
 case('reader edition drifting from the author edition',
      lambda r: write(os.path.join(r, 'alpha-repo', 'Book_One', 'manuscript', 'Chapter_01.md'),

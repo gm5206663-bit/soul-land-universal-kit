@@ -27,7 +27,7 @@ She was standing in the doorway with a bag over one shoulder and the expression 
 
 **Xu Xiaoyan.**
 
-She had a **Starwheel Ice Staff**, and she had two rings, and she had transferred in from somewhere with better resources, and she looked at the five of them in the room that smelled of floor polish and floor polish only, and Lin Hao watched her do the arithmetic on the room and understood from the way her face went that the arithmetic had not come out the way she wanted.
+She had a **Starwheel Ice Staff**, and she had two rings, and she had transferred in from somewhere with better resources, and she looked at the five of them in the room that smelled of floor polish and floor polish only. And Lin Hao watched her do the arithmetic on the room and understood from the way her face went that the arithmetic had not come out the way she wanted.
 
 "Teacher Wu," she said. "I'd like to test my spiritual power again. At night."
 
@@ -133,7 +133,7 @@ That was, Lin Hao understood afterwards, the longest anybody had lasted against 
 
 Gu Yue went second, and Gu Yue was the only one who did not lose.
 
-He wants it noted, and he wants the noting to be exact, because the exact version is the one that frightens him. She did not beat him. She could not — she is rank twenty-one and he is rank thirty-three, and there is a realm between those two numbers, and Wu Zhangkong had explained to the class once, flatly, the way he explained everything, that **the wall every ten ranks is not a bigger step, it is a different kind of thing**, and that a Soul Grandmaster who beats a Soul Elder has done something that does not happen. So she did not beat him. She did not touch him and he did not touch her and it lasted four minutes, which was **nine times longer than anybody else in that room had lasted**, and at the end of it he was on his knees with his soul power scraped to the floor and she was standing, and the reason was the only reason she has ever had.
+He wants it noted, and he wants the noting to be exact, because the exact version is the one that frightens him. She did not beat him. She could not — she is rank twenty-one and he is rank thirty-three, and there is a realm between those two numbers. And Wu Zhangkong had explained to the class once, flatly, the way he explained everything, that **the wall every ten ranks is not a bigger step, it is a different kind of thing**, and that a Soul Grandmaster who beats a Soul Elder has done something that does not happen. So she did not beat him. She did not touch him and he did not touch her and it lasted four minutes, which was **nine times longer than anybody else in that room had lasted**. And at the end of it he was on his knees with his soul power scraped to the floor and she was standing, and the reason was the only reason she has ever had.
 
 She is the one he cannot read.
 

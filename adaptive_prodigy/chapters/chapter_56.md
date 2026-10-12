@@ -27,11 +27,11 @@ The shape worked.
 
 He had spent eleven days building it and expected the building to feel like something, and it did not feel like anything. It felt like a thing that had been decided and was now happening.
 
-Xu Xiaoyan's starwheel went up at the start, because it was night, and five seconds happened, and in five seconds Gu Yue put earth under two of them and Xie Xie put the Twin Dragon Storm into the third, and Lin Hao used the Track to be four metres left of where the fourth one was going to be, and Wulin's Bind took the fifth and the sixth, and it was over.
+Xu Xiaoyan's starwheel went up at the start, because it was night, and five seconds happened, and in five seconds Gu Yue put earth under two of them and Xie Xie put the Twin Dragon Storm into the third. And Lin Hao used the Track to be four metres left of where the fourth one was going to be, and Wulin's Bind took the fifth and the sixth, and it was over.
 
 Two minutes and eleven seconds.
 
-Xu Xiaoyan sat down afterwards, because that was what the starwheel cost, and she was smiling, and she said, "That's the first time it's worked the way it's supposed to," and Lin Hao said, "That's the first time we've been somewhere useful when it happened," and she looked at him a moment and said, "That's the nicest thing anybody's said to me today," and he said, "I've said it twice," and she said, "I know."
+Xu Xiaoyan sat down afterwards, because that was what the starwheel cost, and she was smiling. And she said, "That's the first time it's worked the way it's supposed to," and Lin Hao said, "That's the first time we've been somewhere useful when it happened," and she looked at him a moment and said, "That's the nicest thing anybody's said to me today," and he said, "I've said it twice," and she said, "I know."
 
 ---
 
@@ -179,7 +179,7 @@ He closed the book.
 
 The lock at his temple lay gold across his cheekbone, and the marks on his forearms were raised and had been raised for twenty-eight days, and the hawk turned over in him — *one thousand three hundred and fifty-eight* — and did not pull toward anything.
 
-But the sea was four blocks away, and there was a girl at the back of the stands who had been watching him go left for two matches and had not said anything, and Lin Hao lay on his back in a city that smelled of salt and hot metal and thought about the fact that he had not asked, and about the fact that not asking had become a thing he did on purpose, and about the fact that he would like to know when he had started doing that.
+But the sea was four blocks away, and there was a girl at the back of the stands who had been watching him go left for two matches and had not said anything. And Lin Hao lay on his back in a city that smelled of salt and hot metal and thought about the fact that he had not asked, and about the fact that not asking had become a thing he did on purpose, and about the fact that he would like to know when he had started doing that.
 
 He slept.
 

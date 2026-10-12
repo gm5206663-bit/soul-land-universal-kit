@@ -50,7 +50,7 @@ Xie Xie had spent the last two days in the mecha bay, which was not a place stud
 
 Gu Yue walked with her hands in her lap, which was how she walked when she was carrying something that had no weight, and looked at the city doing its ordinary business, and did not say anything, and Lin Hao had stopped needing her to.
 
-Wulin carried Xu Xiaoyan's bag, and Xie Xie's bag, and a crate of Gu Yue's books that nobody had asked him to carry, and he did all of it at a jog, ahead of everybody, turning back every few steps to make sure nobody had been left behind, and it occurred to Lin Hao — with the small dull shock of a thing that had always been true — that Wulin had been doing this since he was six. Carrying. Turning back. Jogging.
+Wulin carried Xu Xiaoyan's bag, and Xie Xie's bag, and a crate of Gu Yue's books that nobody had asked him to carry, and he did all of it at a jog, ahead of everybody, turning back every few steps to make sure nobody had been left behind. And it occurred to Lin Hao — with the small dull shock of a thing that had always been true — that Wulin had been doing this since he was six. Carrying. Turning back. Jogging.
 
 Wu Zhangkong saw it too.
 
@@ -84,7 +84,7 @@ The counter scale was on the bench by the window. Lin Hao set the piece in the p
 
 "Now tell me what's wrong with it."
 
-He picked it up. It was a scale — an armor scale, a single overlapping plate of the kind that had built itself down Wu Zhangkong's forearm in a yard in Skysea City — and it was **spirit refined**, which he knew without being told the way he knew good bread, and it had failed, and that was the strangest part, because failed metal shouts and this piece was quiet.
+He picked it up. It was a scale — an armor scale, a single overlapping plate of the kind that had built itself down Wu Zhangkong's forearm in a yard in Skysea City. And it was **spirit refined**, which he knew without being told the way he knew good bread, and it had failed, and that was the strangest part, because failed metal shouts and this piece was quiet.
 
 He turned it in the light. The grain — there was grain in it, the way there is grain in wood, except closed, running in loops that came back on themselves — the grain turned on itself, near the lower edge. Once. A hairline. A place where, in some refining he could count backwards to, the metal had decided to be two opinions instead of one.
 
@@ -190,7 +190,7 @@ They banked the forge and went out into a street that smelled of salt and scale,
 
 ## Part 4: What Gu Yue Said
 
-She was outside the Association when he came down the steps with the scale wrapped in cloth in his bag, and it was evening, and the lamps were coming up, and Lin Hao noted — without any surprise at all, which was itself a new thing — that she had known when he would be finished and had not told him she was coming.
+She was outside the Association when he came down the steps with the scale wrapped in cloth in his bag, and it was evening, and the lamps were coming up. And Lin Hao noted — without any surprise at all, which was itself a new thing — that she had known when he would be finished and had not told him she was coming.
 
 They walked. That was the arrangement now, or the not-arrangement. They walked, and the walking was the conversation, and at some point one of them would talk.
 
@@ -214,7 +214,7 @@ The harbour went on being the harbour. Out past the breakwater a gull turned wit
 
 "Until finishing it is true."
 
-She nodded, once, and he understood that she had not asked in order to be answered. She had asked so that he would know she had read it, and that the reading had been kept, and that whatever the sentence had been going to be was still sitting somewhere between them with its coat on, and that she was not in any hurry about it, and — this was the part he could not have put into the book even if he had tried — neither was he.
+She nodded, once, and he understood that she had not asked in order to be answered. She had asked so that he would know she had read it, and that the reading had been kept, and that whatever the sentence had been going to be was still sitting somewhere between them with its coat on, and that she was not in any hurry about it. And — this was the part he could not have put into the book even if he had tried — neither was he.
 
 Then she stopped walking, and gave him the truth, the way she always eventually did, flat as a scale reading.
 
@@ -258,7 +258,7 @@ He turned the page, and line one hundred and nine was on the other side of the t
 
 He closed the book.
 
-The hawk turned over in him, one thousand four hundred and twelve years of it, and did not pull toward anything. In the morning there would be school, and adjustments, and a teacher who was going to learn to be gentle with five children who had just spent a fortnight being treated as assets, and there would be, on his bench, a piece of failed armor that the president of the Eastsea Blacksmith's Association had trusted to nobody in eleven years and had now trusted to a boy for a week.
+The hawk turned over in him, one thousand four hundred and twelve years of it, and did not pull toward anything. In the morning there would be school, and adjustments, and a teacher who was going to learn to be gentle with five children who had just spent a fortnight being treated as assets. And there would be, on his bench, a piece of failed armor that the president of the Eastsea Blacksmith's Association had trusted to nobody in eleven years and had now trusted to a boy for a week.
 
 Three years to Shrek. He wrote nothing about the size of that, because the size of it was not a number yet. It was a road, and he had just been shown the whole length of it, and he was ten years old, and he had never in his life been so pleased to be at the bottom of something.
 

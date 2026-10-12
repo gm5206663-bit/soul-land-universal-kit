@@ -44,11 +44,11 @@ His first ring lit and his body went *unreal* — the Green Shadow Snake's skill
 
 Wulin took Wang Jinxi head-on, because that was the mountain's assignment and because neither of them knew any other way to have this conversation. The Bone Dragon Claw came down in a wash of black gas, the dark-attribute soul drinking the morning light off its own path — and Wulin's fist met it, and *the ground under Wang Jinxi gave.* He went back three steps. Four. The stands remembered this from the tournament — the impossible strength of the one-ring boy — but this time it was worse, because this time Wulin's open palm flashed *gold* as it turned the second claw, a scale-ridge rising through the knuckles and vanishing inside a heartbeat, and Long Hengxu half-rose from the reviewing platform before he caught himself.
 
-The Bluesilver Whip answered the eagle — Zhang Yangzi's shadow-dive meeting a lash of golden-veined grass that cracked like a mast in a storm and bent his flight path a full body-length off the line — and Gu Yue stood at Wulin's back, the cup that did not spill, fire and ice alternating in her hands with an economy that made the faculty row lean forward without deciding to.
+The Bluesilver Whip answered the eagle — Zhang Yangzi's shadow-dive meeting a lash of golden-veined grass that cracked like a mast in a storm and bent his flight path a full body-length off the line. And Gu Yue stood at Wulin's back, the cup that did not spill, fire and ice alternating in her hands with an economy that made the faculty row lean forward without deciding to.
 
 And Lin Hao watched the fold.
 
-It came in the seventh minute. He could not have said afterward what the seam-reader saw first — the eagle banking wide, the dragon's shoulders opening, the two rings and the two rings beginning their slow rotation toward each other, the dark feather-light spilling toward the bone the way it had spilled in the tournament, the way it had spilled in the yard that night the four of them learned what a weld was—
+It came in the seventh minute. He could not have said afterward what the seam-reader saw first — the eagle banking wide, the dragon's shoulders opening, the two rings and the two rings beginning their slow rotation toward each other. The dark feather-light spilling toward the bone the way it had spilled in the tournament, the way it had spilled in the yard that night the four of them learned what a weld was—
 
 The certainty rose in him like a struck note. *There. The seam. Now.*
 
@@ -64,7 +64,7 @@ The Dark Eagle Dragon came through it.
 
 The real fold had happened behind the curtain — hidden by the one place on the platform where eyes were busy — and it did not seek Wulin, or Gu Yue, or the swordsman recovering from his stroke. It crossed the west side in one long dark glide, and it arrived at Xie Xie — mid-swing, weight committed, dagger extended into a phantom — with the multiplied strength of two Soul Grandmasters' souls speaking in a single voice.
 
-Xie Xie saw it. That was the thing the stands never forgot, and the thing Xie Xie himself never let anyone forget: he *saw* it, one step too late to dodge and exactly on time to decide, and he brought both arms up in front of his face with the Light Dragon Dagger still in his right hand, because a dagger-boy blocks with what he has.
+Xie Xie saw it. That was the thing the stands never forgot, and the thing Xie Xie himself never let anyone forget: he *saw* it, one step too late to dodge and exactly on time to decide. And he brought both arms up in front of his face with the Light Dragon Dagger still in his right hand, because a dagger-boy blocks with what he has.
 
 The sound was not loud. That was the other thing nobody forgot.
 
@@ -94,7 +94,7 @@ The Golden Dragon Claw came down at Wang Jinxi's head.
 
 A slender arm noiselessly appeared and touched Wulin's right arm, softly pushing it aside.
 
-Gu Yue had already been moving — the eruption's own momentum, the crossing of the platform, the body that had placed itself between a dragon and its second target and was simply *there,* the way she was simply there — and the Golden Dragon Claw that had been heading for Wang Jinxi's head was deflected a hand's width and came down instead on his right claw.
+Gu Yue had already been moving — the eruption's own momentum, the crossing of the platform, the body that had placed itself between a dragon and its second target and was simply *there,* the way she was simply there. And the Golden Dragon Claw that had been heading for Wang Jinxi's head was deflected a hand's width and came down instead on his right claw.
 
 Bang.
 
@@ -102,7 +102,7 @@ Despite being several times bigger than Tang Wulin at that moment, Wang Jinxi wa
 
 "ENOUGH!"
 
-The cold voice rang like the morning bell and the evening drum, and Wulin woke out of the rage the way a man wakes out of a flood — standing, gold dying down his arm, Wu Zhangkong beside him with the injured Xie Xie already gathered in his arms, and a platform full of silence and steam and three broken children.
+The cold voice rang like the morning bell and the evening drum, and Wulin woke out of the rage the way a man wakes out of a flood. Standing, gold dying down his arm, Wu Zhangkong beside him with the injured Xie Xie already gathered in his arms, and a platform full of silence and steam and three broken children.
 
 "Teacher Wu, how can you allow your students to be so *violent?*" Ye Yingluo flew onto the stage, finger pointed, the two-year grudge finally given its sentence—
 
@@ -110,7 +110,7 @@ Wu Zhangkong said to Wulin, "Go." And from beginning to end he did not spare her
 
 ---
 
-And the thing that changed because he was in the yard — the thing nobody would have had any reason to learn if he had not been standing at the edge of it — was that **Gu Yue erupted at all.** In a yard without him, Wei Xiaofeng's clones get broken by Xie Xie's speed and the morning ends with a lesson about clones. In a yard with him in it, Xie Xie's speed is not enough, because Lin Hao had already told Xie Xie which clone was real two seconds before Xie Xie would have found it himself, and Xie Xie had used the answer instead of finding it, and had therefore never learned the thing he was about to need. **Gu Yue erupted because a boy who reads too well took the lesson away from the person who needed it.**
+And the thing that changed because he was in the yard — the thing nobody would have had any reason to learn if he had not been standing at the edge of it. Was that **Gu Yue erupted at all.** In a yard without him, Wei Xiaofeng's clones get broken by Xie Xie's speed and the morning ends with a lesson about clones. In a yard with him in it, Xie Xie's speed is not enough, because Lin Hao had already told Xie Xie which clone was real two seconds before Xie Xie would have found it himself, and Xie Xie had used the answer instead of finding it, and had therefore never learned the thing he was about to need. **Gu Yue erupted because a boy who reads too well took the lesson away from the person who needed it.**
 
 That is not a small thing and it is not a flattering one, and Lin Hao understood it in the yard and did not say so, and would think about it for a week.
 
@@ -118,7 +118,7 @@ That is not a small thing and it is not a flattering one, and Lin Hao understood
 
 Lin Hao was one breath late, and the one breath lived in his hands.
 
-He had seen it — that was the promise, and the promise had kept its half: he had seen the gold rising under Wulin's sleeve a half-second before the ray, from forty feet, mid-recovery, and he had gone, the Wind-Step firing with everything the Spirit Connection had left — and his right hand had arrived exactly one hand's width behind Gu Yue's, which was already there, which had been closer, which was why the world still had a Wang Jinxi with a head. He knelt now beside Xie Xie with his scabbard and his belt and the splinting hands of a smith who had set his father's broken fingers at eight years old, and his hands would not stop trembling — not with fear, never with fear; with *arithmetic.* The sum of one breath, added and re-added. *You'll know before I will.* He had known. Knowing, it turned out, was the easy half of the promise, and nobody had told him the second half was called *reaching.*
+He had seen it — that was the promise, and the promise had kept its half: he had seen the gold rising under Wulin's sleeve a half-second before the ray, from forty feet, mid-recovery. And he had gone, the Wind-Step firing with everything the Spirit Connection had left — and his right hand had arrived exactly one hand's width behind Gu Yue's, which was already there, which had been closer, which was why the world still had a Wang Jinxi with a head. He knelt now beside Xie Xie with his scabbard and his belt and the splinting hands of a smith who had set his father's broken fingers at eight years old, and his hands would not stop trembling — not with fear, never with fear; with *arithmetic.* The sum of one breath, added and re-added. *You'll know before I will.* He had known. Knowing, it turned out, was the easy half of the promise, and nobody had told him the second half was called *reaching.*
 
 Both forearms, fractured clean. The healer-teacher said it four times like an apology. Xie Xie heard it from under a face the color of paper, grinned with the parts of him that still worked, and said, to the whole infirmary, at full volume:
 
@@ -152,7 +152,7 @@ On the far water inside him, the hawk had risen when the gold rose — not cower
 
 In the other wing of the infirmary, Wang Jinxi lay with his arm in a frame of healer's wood and stared at the ceiling. His right hand — the broken one — kept flexing against the splint, because the dragon in him would not stop replaying two things: the hammer-fist it had *answered* on the tournament platform, and the golden claw that its own kind had flinched from. Pride said hate. The bone-deep thing under the pride said *follow,* and had no idea what it meant, and would not stop saying it.
 
-And in the director's office, Long Hengxu sat with the incident reports stacked like a wall — three students badly injured, a fusion skill witnessed, an unnamed golden power witnessed, an elementalist witnessed exceeding every file the academy held on her — and across from him, unreadable as ever, Wu Zhangkong folded his hands and said the sentence that had been waiting all evening:
+And in the director's office, Long Hengxu sat with the incident reports stacked like a wall — three students badly injured, a fusion skill witnessed, an unnamed golden power witnessed, an elementalist witnessed exceeding every file the academy held on her. And across from him, unreadable as ever, Wu Zhangkong folded his hands and said the sentence that had been waiting all evening:
 
 "Director. Seven children like these should not be kept in separate rooms."
 
@@ -160,7 +160,7 @@ Third morning's post, on the board by the gate, under the results nobody had pos
 
 **FIRST GRADE — SPECIAL ARRANGEMENT, FORTHCOMING. DETAILS TO FOLLOW. — OFFICE OF THE DIRECTOR.**
 
-The worst class in the grade read it on the way to breakfast, and none of them — not the boy with the sling, not the boy with the golden hand, not the girl who said *fine,* not the swordsman whose hands had finally, at breakfast, decided to forgive him — none of them knew yet that the wall behind that sentence had a number on it, and the number was zero.
+The worst class in the grade read it on the way to breakfast, and none of them. Not the boy with the sling, not the boy with the golden hand, not the girl who said *fine,* not the swordsman whose hands had finally, at breakfast, decided to forgive him — none of them knew yet that the wall behind that sentence had a number on it, and the number was zero.
 
 ---
 

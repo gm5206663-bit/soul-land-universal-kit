@@ -211,7 +211,7 @@ He wrote it again.
 
 He closed the book.
 
-The hawk turned over in him — *nine hundred and sixty-four years* of something that had, forty minutes ago, gone very still in a particular direction and been right — and Lin Hao sat on a step outside the Spirit Pagoda with the sun going down over a city that was second of five in an alliance he had learned about from a free pamphlet, and thought about a boy who had said *I'd rather have had the nine seconds,* and about the fact that he had just learned something that had cost somebody else a third of his cultivation to teach him.
+The hawk turned over in him — *nine hundred and sixty-four years* of something that had, forty minutes ago, gone very still in a particular direction and been right. And Lin Hao sat on a step outside the Spirit Pagoda with the sun going down over a city that was second of five in an alliance he had learned about from a free pamphlet. And thought about a boy who had said *I'd rather have had the nine seconds,* and about the fact that he had just learned something that had cost somebody else a third of his cultivation to teach him.
 
 That was the part he did not like.
 

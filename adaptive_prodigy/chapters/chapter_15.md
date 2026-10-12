@@ -27,7 +27,7 @@ Wu Zhangkong's schedule was strict — after breakfast he meditated, and finding
 
 Well. Most of the gold. The scales left out; the file kept. Three of them had agreed on the walk over. The fourth had agreed before they'd asked.
 
-Wu Zhangkong listened with an indifferent expression that had gone, by degrees, very still. "It seems you guys actually have some ability," he said at last, coldly — which, class five was learning, was his register for *pride.* And then the white chang pao was moving past them down the hall, delicate and light, rustling in a wind the corridor did not have, blue hair drifting up from the shoulders, and the four students of the worst class in the grade followed their teacher toward the gate the way iron filings follow a magnet: without any sense of having decided to.
+Wu Zhangkong listened with an indifferent expression that had gone, by degrees, very still. "It seems you guys actually have some ability," he said at last, coldly — which, class five was learning, was his register for *pride.* And then the white chang pao was moving past them down the hall, delicate and light, rustling in a wind the corridor did not have, blue hair drifting up from the shoulders. And the four students of the worst class in the grade followed their teacher toward the gate the way iron filings follow a magnet: without any sense of having decided to.
 
 ---
 
@@ -108,7 +108,7 @@ Wu Zhangkong did not move. He rotated his right hand — all six rings vanished 
 
 *Ding. Ding. Ding. Ding. Ding. Ding. Ding.*
 
-Seven brittle notes. At the first, the tyrant-dragon charge stopped, the way a wave stops at a seawall it has misunderstood. Notes two through seven were scales — Guang Biao's armored scales — flying off his fist, his forearm, his shoulder, one after another, bright as fish in light. Seven notes, seven steps backward, and the onlookers understood, dazed, that they had witnessed one sword stroke wearing seven disguises. And under the ice-qi that had entered him like needles along the veins, Guang Biao found every spark of soul power in his body committed to defense, and his soul skills would not answer, and his martial soul — the Armored Dragon that had carried him from nothing to a city's fear — had gone *quiet,* the way animals go quiet when something older walks into the clearing.
+Seven brittle notes. At the first, the tyrant-dragon charge stopped, the way a wave stops at a seawall it has misunderstood. Notes two through seven were scales — Guang Biao's armored scales — flying off his fist, his forearm, his shoulder, one after another, bright as fish in light. Seven notes, seven steps backward, and the onlookers understood, dazed, that they had witnessed one sword stroke wearing seven disguises. And under the ice-qi that had entered him like needles along the veins, Guang Biao found every spark of soul power in his body committed to defense, and his soul skills would not answer. And his martial soul — the Armored Dragon that had carried him from nothing to a city's fear — had gone *quiet,* the way animals go quiet when something older walks into the clearing.
 
 Wu Zhangkong's deep green eyes had turned purple. He thrust.
 
@@ -146,7 +146,7 @@ And here is the thing she did not know, and could not have known, and which woul
 
 In a class without him, her road runs through Xie Xie's speed and Wulin's hands and Gu Yue's weather, and all three of those are things a woman of her rank can predict and price and beat. **She had priced the class.** She had done it that morning, on the wall, while her sister was falling in love, and the arithmetic had come out comfortable.
 
-What she had not priced was a boy who reads a sword the way other people read a face — because that is not a thing you can price until you have seen it, and the only people in the yard who had seen it were the five students who had stopped being surprised by it, and Wu Zhangkong, who had stopped being surprised by it two years before he met any of them.
+What she had not priced was a boy who reads a sword the way other people read a face — because that is not a thing you can price until you have seen it. And the only people in the yard who had seen it were the five students who had stopped being surprised by it, and Wu Zhangkong, who had stopped being surprised by it two years before he met any of them.
 
 **She would find out at the tournament, in front of four hundred people, and the finding-out would cost her more than the rejection had.** That is the butterfly, and nobody in the yard — least of all her — could see it from where they were standing.
 

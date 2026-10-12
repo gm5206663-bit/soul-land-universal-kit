@@ -208,7 +208,7 @@ The room held still. Somewhere in the Association a power hammer went, four floo
 
 "I can't. It isn't a strike. It's an hour."
 
-Mu Chen looked at him for a moment. Then he picked the scale up off the pan and held it in both hands, and Lin Hao stood there and watched the president of the Eastsea Blacksmith's Association stand in his own back room holding a failed piece of armor with his eyes half shut, and the tea went from hot to warm in front of them, and no note came, and Mu Chen set the piece down as carefully as a sleeping thing.
+Mu Chen looked at him for a moment. Then he picked the scale up off the pan and held it in both hands, and Lin Hao stood there and watched the president of the Eastsea Blacksmith's Association stand in his own back room holding a failed piece of armor with his eyes half shut. And the tea went from hot to warm in front of them, and no note came, and Mu Chen set the piece down as carefully as a sleeping thing.
 
 "Why do you keep it?" Lin Hao asked.
 

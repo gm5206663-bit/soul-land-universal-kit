@@ -47,7 +47,7 @@ Coppertite did not want to go anywhere. It wanted to be somewhere else than wher
 
 So he told it.
 
-He could not afterwards give a good account of the mechanism, and that troubled him, because he was accurate about everything else and was not going to pretend about this. What he did was stop asking and start *deciding*, and the deciding was not loud, and it was not forceful, and it was the same act that made the Track work, and the same act that had made a blade into a sword, and he had never once connected those three things until he was standing in front of a bar of coppertite in a competition hall.
+He could not afterwards give a good account of the mechanism, and that troubled him, because he was accurate about everything else and was not going to pretend about this. What he did was stop asking and start *deciding*, and the deciding was not loud, and it was not forceful, and it was the same act that made the Track work. And the same act that had made a blade into a sword, and he had never once connected those three things until he was standing in front of a bar of coppertite in a competition hall.
 
 Eighty-one strikes.
 
@@ -57,7 +57,7 @@ He set the hammer down.
 
 Wulin was in the fourth row.
 
-Lin Hao had not known that, and understood afterwards that he had not known because he had not looked, which was the thing he would think about for the rest of the day. Wulin sat with his hands on his knees and his body angled slightly forward, the way he sat when he was watching somebody work and had decided in advance not to be a distraction, and he had brought nothing to eat, and Xie Xie was two seats down and had plainly been told to be quiet and was managing it the way Xie Xie managed things, which was loudly.
+Lin Hao had not known that, and understood afterwards that he had not known because he had not looked, which was the thing he would think about for the rest of the day. Wulin sat with his hands on his knees and his body angled slightly forward, the way he sat when he was watching somebody work and had decided in advance not to be a distraction. And he had brought nothing to eat, and Xie Xie was two seats down and had plainly been told to be quiet and was managing it the way Xie Xie managed things, which was loudly.
 
 They had come to watch him hit metal. Neither had said they were coming.
 
@@ -89,7 +89,7 @@ The bar was eighty-one strikes. Eighty-one strikes was a number that meant somet
 
 Because the old man had been watching the strikes, not the bar.
 
-Lin Hao understood that in about two seconds, and the understanding was the most uncomfortable thing he had experienced in Skysea City, and he had stood in front of a Shrek student with a storage ring and been the largest thing in a room for four months, and none of that had been as uncomfortable as an old man on a stage saying *terrifying* about the way he hit metal.
+Lin Hao understood that in about two seconds, and the understanding was the most uncomfortable thing he had experienced in Skysea City. And he had stood in front of a Shrek student with a storage ring and been the largest thing in a room for four months, and none of that had been as uncomfortable as an old man on a stage saying *terrifying* about the way he hit metal.
 
 "Fourth rank," the old man said. "Grandmaster. How old."
 

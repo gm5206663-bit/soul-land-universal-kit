@@ -234,7 +234,7 @@ Wu Zhangkong gave a humble nod, because that was the correct response and he had
 
 He did not say what he was thinking.
 
-He was thinking about a motto that was twenty thousand years old, which had been in his head all morning and which he had not invited: *monsters, not ordinary people.* It was the kind of sentence that got carved into things, and it had been carved into him, and he had spent a long time finding out what it actually cost.
+He was thinking about a motto that was twenty thousand years old, which had been in his head all morning and which he had not invited: *monsters, not ordinary people.* It was the kind of sentence that got carved into things. And it had been carved into him, and he had spent a long time finding out what it actually cost.
 
 *Talent isn't the whole of it,* he thought, watching the five of them run. *Anybody can have talent. Talent is the part that happens to you.*
 
@@ -246,7 +246,7 @@ He had counted a hundred seconds that nobody else in the forest was counting, an
 
 *Perseverance,* Wu Zhangkong thought. *And something else. Something I don't have a word for.*
 
-He looked at the other four and made his private ranking, the way he made it every time, because it was a habit and because he did not entirely trust habits: the girl, first, and by so much that it was almost a different category — there was *no record of her martial soul in the Pagoda's history or the Academy's*, and he had looked, and looking had told him nothing at all. Xie Xie second, the twins a gift whether nature had made them or a laboratory had. The other two decent, compatible, unfinished. And Wulin, whom he had made captain, not for strength, though he was the strongest of them, but because he was *brave enough to shoulder it.*
+He looked at the other four and made his private ranking, the way he made it every time, because it was a habit and because he did not entirely trust habits: the girl, first. And by so much that it was almost a different category — there was *no record of her martial soul in the Pagoda's history or the Academy's*, and he had looked, and looking had told him nothing at all. Xie Xie second, the twins a gift whether nature had made them or a laboratory had. The other two decent, compatible, unfinished. And Wulin, whom he had made captain, not for strength, though he was the strongest of them, but because he was *brave enough to shoulder it.*
 
 And then Lin Hao, who did not fit in the ranking, because the ranking was a list of what people had and Lin Hao was a list of what people *did.*
 
@@ -320,7 +320,7 @@ Then Wulin said, "You're going to be unbearable about this."
 
 He did not tell them about the last thing.
 
-He did not tell them that at ninety-one seconds, when he had said *go,* the hawk in him had done something he had not asked for — had leaned, the way a person leans toward a door they have heard open — and that the leaning had gone toward the energy coming up out of the dead thing, and not away from it.
+He did not tell them that at ninety-one seconds, when he had said *go,* the hawk in him had done something he had not asked for. Had leaned, the way a person leans toward a door they have heard open — and that the leaning had gone toward the energy coming up out of the dead thing, and not away from it.
 
 He did not tell them, because he did not know what it meant, and because he had learned from Wu Zhangkong, of all people, that a reading is not a warning.
 

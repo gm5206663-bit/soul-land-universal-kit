@@ -17,7 +17,7 @@ He went toward it, because the alternative was a forest he had already learned, 
 
 He arrived in the middle of the fourth tree.
 
-The dragon was three and a half metres of metallic scale on two legs, and it hit the trunk the way a hammer hits a bar, and the trunk — thicker than two men's arms around — went down in a spray of green, and the boy in the next tree over went up and along with the practised desperation of someone who had done it six times and had six more in him at most.
+The dragon was three and a half metres of metallic scale on two legs, and it hit the trunk the way a hammer hits a bar, and the trunk — thicker than two men's arms around. Went down in a spray of green, and the boy in the next tree over went up and along with the practised desperation of someone who had done it six times and had six more in him at most.
 
 "Xie Xie," Lin Hao said.
 
@@ -62,7 +62,7 @@ He put the Grain Cut into the seam under its jaw — the place where the scales 
 
 "Your *turn,*" Lin Hao said, and let go of the sword.
 
-That was the second lesson, and it was worth more than the cut: **the sword stayed in, and the dragon had to deal with the sword,** and dealing with the sword meant its head went down and to the left, and its left front arm — the weak one, the one that pinned rather than climbed — came up to tear the blade out.
+That was the second lesson, and it was worth more than the cut: **the sword stayed in, and the dragon had to deal with the sword,** and dealing with the sword meant its head went down and to the left. And its left front arm — the weak one, the one that pinned rather than climbed — came up to tear the blade out.
 
 Xie Xie was already there. He had been there the whole time; he had simply been waiting for the left arm to commit, because Xie Xie had been fighting Lin Hao for nine weeks and had learned, among many other things, exactly what it sounded like when Lin Hao made a door.
 
@@ -106,7 +106,7 @@ And Xie Xie, who complained about everything and obeyed instantly, went behind t
 
 And the dragon, which had spent four exchanges stepping into the gap between two clocks, found that the gap had closed, and that there was a third clock underneath the other two setting the time, and that a boy with two swords was standing in the exact place it needed to be in order to escape.
 
-It went through him. That is the honest account: it went *through* him, and the Stormbringer took it on the flat and the new blade took it on the edge, and four hundred and seventy kilograms of smith's body held for exactly as long as it needed to hold, which was not long, and then Wulin's claw came down out of the air where the dragon's own launch had put it.
+It went through him. That is the honest account: it went *through* him, and the Stormbringer took it on the flat and the new blade took it on the edge. And four hundred and seventy kilograms of smith's body held for exactly as long as it needed to hold, which was not long, and then Wulin's claw came down out of the air where the dragon's own launch had put it.
 
 The forest went quiet.
 
@@ -220,7 +220,7 @@ The bear's right arm went. That was the whole of it: it came round on the three 
 
 Which put the neck exactly where a boy in the air had already decided it was going to be.
 
-Wulin came down out of the sky with the golden scales to the wrist and the whole of the dragon's blood behind the strike, and the Crystal Bear — one of the strongest thousand-year soul beasts in the elementary platform, older than any of them by nine hundred and ninety years — went down in the shredded remains of its own path.
+Wulin came down out of the sky with the golden scales to the wrist and the whole of the dragon's blood behind the strike, and the Crystal Bear. One of the strongest thousand-year soul beasts in the elementary platform, older than any of them by nine hundred and ninety years — went down in the shredded remains of its own path.
 
 Xie Xie sat down hard.
 

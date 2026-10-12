@@ -32,7 +32,7 @@ No category.
 
 Wu Zhangkong's hand closed on his shoulder and the world went **sideways.**
 
-Not fast. That was the frightening part — it was not fast, it was *elsewhere*, and Lin Hao's feet were doing something he had not asked them to do, and there were **lights** — several, twinkling, in a line behind them and then in front of them and then in a place that was not either — and the needles came down into the ground where he had been standing and the earth went **rotten black** in a circle, and the plants around it made a sound.
+Not fast. That was the frightening part — it was not fast, it was *elsewhere*, and Lin Hao's feet were doing something he had not asked them to do, and there were **lights**. Several, twinkling, in a line behind them and then in front of them and then in a place that was not either — and the needles came down into the ground where he had been standing and the earth went **rotten black** in a circle, and the plants around it made a sound.
 
 Lin Hao heard the plants make a sound.
 
@@ -82,7 +82,7 @@ Wu Zhangkong was quiet for a moment.
 
 They went on.
 
-Wu Zhangkong's stated purpose was arithmetic: *bring the spirit soul up to two thousand years, just under the current limit, because we should not waste the trip.* Lin Hao understood the arithmetic and did the arithmetic and understood that the hawk was at one thousand two hundred and eighty-eight and that two thousand was a long way, and that the man beside him intended to walk him there.
+Wu Zhangkong's stated purpose was arithmetic: *bring the spirit soul up to two thousand years. Just under the current limit, because we should not waste the trip.* Lin Hao understood the arithmetic and did the arithmetic and understood that the hawk was at one thousand two hundred and eighty-eight and that two thousand was a long way, and that the man beside him intended to walk him there.
 
 And then the forest went **afraid.**
 
@@ -102,7 +102,7 @@ It was the trees.
 
 Wu Zhangkong looked at him.
 
-And Lin Hao understood — because he had spent four days learning to read this man, and four months before that failing to — that Wu Zhangkong was deciding whether to trust a ten-year-old's instinct in a forest that did not exist, and that the deciding was costing him something, and that he had already decided at the grave and was only now catching up with himself.
+And Lin Hao understood — because he had spent four days learning to read this man. And four months before that failing to — that Wu Zhangkong was deciding whether to trust a ten-year-old's instinct in a forest that did not exist, and that the deciding was costing him something, and that he had already decided at the grave and was only now catching up with himself.
 
 "Point," Wu Zhangkong said.
 
@@ -138,11 +138,11 @@ It looked at them the way a person looks at something that should not be in its 
 
 Lin Hao did not fight it.
 
-He wants that noted too, because he had spent six days believing that he was the largest thing in a room, and he had stood on a branch and looked at a two-metre black ape with gold hair and understood, in about one second, that he was not the largest thing in a forest and had never been the largest thing in anything except a classroom.
+He wants that noted too, because he had spent six days believing that he was the largest thing in a room. And he had stood on a branch and looked at a two-metre black ape with gold hair and understood, in about one second, that he was not the largest thing in a forest and had never been the largest thing in anything except a classroom.
 
 Wu Zhangkong fought it.
 
-And Lin Hao watched, because that was what there was to do, and because he was a blacksmith and a blacksmith watches how a thing is made — and what he watched was a man who had **compressed his soul power so thoroughly that there was no fluctuation to sense**, which was a thing Wu Zhangkong had explained in a corridor four months ago as theory and was now doing forty metres away to something that had been alive for ten thousand years.
+And Lin Hao watched, because that was what there was to do, and because he was a blacksmith and a blacksmith watches how a thing is made. And what he watched was a man who had **compressed his soul power so thoroughly that there was no fluctuation to sense**, which was a thing Wu Zhangkong had explained in a corridor four months ago as theory and was now doing forty metres away to something that had been alive for ten thousand years.
 
 The Skyfrost went **sapphire.**
 
@@ -234,7 +234,7 @@ Lin Hao stood in the doorway.
 
 
 
-The *hawk-gold lock* at his temple lay across his cheekbone, and the *marks on his forearms* were raised and had not gone down in two days, and the hawk turned over in him — *one thousand two hundred and eighty-eight* — and did not pull toward anything, because it had found what it was looking for and was, apparently, willing to wait.
+The *hawk-gold lock* at his temple lay across his cheekbone, and the *marks on his forearms* were raised and had not gone down in two days. And the hawk turned over in him — *one thousand two hundred and eighty-eight* — and did not pull toward anything, because it had found what it was looking for and was, apparently, willing to wait.
 
 Lin Hao lay on his back in a city with no skyscrapers, and thought about eight thousand years, and about four days, and about a hand on his shoulder.
 

@@ -66,7 +66,7 @@ His second soul skill came up and then **receded**, because whatever he had been
 
 **Fury of Ice.**
 
-Two metres of spear came out of the top of his staff, and there were faint patterns running in the shaft of it that Lin Hao's eyes followed the way his eyes followed the grain of a bar, and he understood — with a lurch, because he had never felt anything like it — that **none of them could have stood in front of that.**
+Two metres of spear came out of the top of his staff, and there were faint patterns running in the shaft of it that Lin Hao's eyes followed the way his eyes followed the grain of a bar. And he understood — with a lurch, because he had never felt anything like it — that **none of them could have stood in front of that.**
 
 Not dodged. Not blocked. Not *survived.*
 
@@ -142,7 +142,7 @@ But he could have **stood.** And the other five could not have.
 
 The shape came apart at the fifty-second minute, because shapes do.
 
-Wang Jinxi went down over a root and did not get up fast enough, and the pride came around the left side of them in the way that prides do, and there was a lion between Wang Jinxi and the rest of them, and it was not a large one, and it was going to be on him in about two seconds.
+Wang Jinxi went down over a root and did not get up fast enough, and the pride came around the left side of them in the way that prides do. And there was a lion between Wang Jinxi and the rest of them, and it was not a large one, and it was going to be on him in about two seconds.
 
 Lin Hao stopped.
 
@@ -152,9 +152,9 @@ He turned around and put the Stormbringer in front of him.
 
 The wind went up.
 
-Not the wind he had been making for two years, which had been a tool, which had been *weather he could point.* This was the wind from the crossing, and it came up out of the ground in a circle nine metres across, and it took the leaf litter and the small branches and the loose bark off the forest floor and put them in the air, and the lion that had been about to be on Wang Jinxi in two seconds ran into it and did not come out the other side.
+Not the wind he had been making for two years, which had been a tool, which had been *weather he could point.* This was the wind from the crossing, and it came up out of the ground in a circle nine metres across. And it took the leaf litter and the small branches and the loose bark off the forest floor and put them in the air, and the lion that had been about to be on Wang Jinxi in two seconds ran into it and did not come out the other side.
 
-Lin Hao stood in the middle of it with three rings around his feet — **two purple, one empty** — and the **marks on his forearms raised and glowing**, and the **hawk-gold lock** at his temple the colour of the sword, and he held the circle for eleven seconds, which was as long as he could hold it, and in those eleven seconds Wang Jinxi got up and the shape closed and the six of them got out.
+Lin Hao stood in the middle of it with three rings around his feet — **two purple, one empty** — and the **marks on his forearms raised and glowing**, and the **hawk-gold lock** at his temple the colour of the sword. And he held the circle for eleven seconds, which was as long as he could hold it, and in those eleven seconds Wang Jinxi got up and the shape closed and the six of them got out.
 
 He let the wind down.
 
@@ -226,7 +226,7 @@ He wrote it in the ledger that night, in the column marked **WHAT THEY WANT**, a
 
 He stopped there.
 
-Outside, the sun went down over Eastsea City, and a boy with **hawk-gold hair** and three rings sat at a window with a book on his knee, and forty-three metres away in a monitoring room that smelled of hot metal, a file was being written that would be read by somebody in a city in the centre region that held only two cities.
+Outside, the sun went down over Eastsea City, and a boy with **hawk-gold hair** and three rings sat at a window with a book on his knee. And forty-three metres away in a monitoring room that smelled of hot metal, a file was being written that would be read by somebody in a city in the centre region that held only two cities.
 
 He did not know that either.
 

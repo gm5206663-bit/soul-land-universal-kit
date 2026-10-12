@@ -9,7 +9,7 @@
 
 Xie Xie came on the first Saturday at seven in the morning, which was earlier than Lin Hao, and said, "I'm not here to talk," and then talked for forty minutes.
 
-He came on the second Saturday with his sleeves already rolled up, which was the first time he had ever arrived anywhere prepared, and he asked which anvil was his as though he had been allotted one, and Lin Hao gave him the far one by the window because the light was better and did not say why for a week.
+He came on the second Saturday with his sleeves already rolled up, which was the first time he had ever arrived anywhere prepared. And he asked which anvil was his as though he had been allotted one, and Lin Hao gave him the far one by the window because the light was better and did not say why for a week.
 
 On the third Saturday he stopped talking about the letter entirely.
 
@@ -33,7 +33,7 @@ On the sixth Saturday, Mu Chen put a bar on the far anvil and said, "Refine it,"
 
 Xie Xie worked for three hours.
 
-Lin Hao worked beside him and did not look over once, which was the hardest thing he had done all week, because the whole of him wanted to see whether the boy was doing it right, and he had decided a week ago — after a conversation with Wu Zhangkong that had lasted four sentences — that looking was the same as helping, and that helping was the thing that would ruin it.
+Lin Hao worked beside him and did not look over once, which was the hardest thing he had done all week, because the whole of him wanted to see whether the boy was doing it right. And he had decided a week ago — after a conversation with Wu Zhangkong that had lasted four sentences — that looking was the same as helping, and that helping was the thing that would ruin it.
 
 At noon Xie Xie put the hammer down and sat on the floor with his back against the anvil, which was where Lin Hao sat, and said, "I don't want to build mechas."
 
@@ -59,7 +59,7 @@ Xie Xie wrote it on the Sunday, at Lin Hao's kitchen table, with Lin Hao's mothe
 
 The first three were to his father.
 
-The fourth was to the prep course at Glorybound, and it was one paragraph long, and it said that he was withdrawing his place, and that he was grateful, and that he had decided to remain at Eastsea, and that he would like to be considered instead for the pilot track when he was old enough, and that he understood if that was not possible.
+The fourth was to the prep course at Glorybound, and it was one paragraph long. And it said that he was withdrawing his place, and that he was grateful, and that he had decided to remain at Eastsea, and that he would like to be considered instead for the pilot track when he was old enough, and that he understood if that was not possible.
 
 "Short," Lin Hao said.
 
@@ -129,7 +129,7 @@ He was told on the Monday, in the yard, by Xie Xie, who told it badly and at len
 
 Wu Zhangkong was quiet for a moment.
 
-"Then you have done the hardest thing anyone in this academy has done this year," he said, "and you have done it at ten, and it has cost you a fortune and a thumb, and I am going to write to the pilot track myself because they will not take you seriously otherwise, and I want it understood that I am doing this because you were honest and not because you were right." He turned to go. "And Xie Xie."
+"Then you have done the hardest thing anyone in this academy has done this year," he said. "and you have done it at ten, and it has cost you a fortune and a thumb, and I am going to write to the pilot track myself because they will not take you seriously otherwise, and I want it understood that I am doing this because you were honest and not because you were right." He turned to go. "And Xie Xie."
 
 "Sir."
 
@@ -173,13 +173,13 @@ The hair at his temple moved.
 
 The wind had not started yet.
 
-Lin Hao stood on Fenmere Street for a while with his hands in his pockets and the street going on around him, and thought that he had spent four years trying to get through something, and that the thing had been listening the whole time, and that he had never once in his life asked it anything, because he had been too busy wanting.
+Lin Hao stood on Fenmere Street for a while with his hands in his pockets and the street going on around him. And thought that he had spent four years trying to get through something, and that the thing had been listening the whole time, and that he had never once in his life asked it anything, because he had been too busy wanting.
 
 "Right," he said. "So. Hello."
 
 Nothing happened.
 
-But he walked home with the feeling that something had turned over, the way it turned over before it did something, and that this time it had turned over because he had spoken to it, and not because he had wanted something from it, and that those were different, and that the difference was probably the whole of what he had been missing since he was six years old.
+But he walked home with the feeling that something had turned over, the way it turned over before it did something, and that this time it had turned over because he had spoken to it. And not because he had wanted something from it, and that those were different, and that the difference was probably the whole of what he had been missing since he was six years old.
 
 ---
 
@@ -236,7 +236,7 @@ And he went, and left the five of them standing in a corridor with three hundred
 
 He went back on the Sunday, because he had worked out that he had not been in room 205 in eleven weeks, and that this was a fact nobody had said out loud.
 
-The corridor was the same. The door was the same. There were four bunks in it and two square desks and two cabinets and one roof lamp, and it was exactly as small as he remembered, which was the part that got him, because he had not thought about the size of it once since the day the academy had given the six of them rooms like teachers and he had carried his things down the stairs without looking back.
+The corridor was the same. The door was the same. There were four bunks in it and two square desks and two cabinets and one roof lamp. And it was exactly as small as he remembered, which was the part that got him, because he had not thought about the size of it once since the day the academy had given the six of them rooms like teachers and he had carried his things down the stairs without looking back.
 
 **Zhou Zhangxi** was on the lower left bunk. **Yun Xiao** was at the desk with his book, in the same place, at the same angle, under the same bad window.
 
@@ -258,7 +258,7 @@ Lin Hao sat down on the floor, because there was nowhere else, and because he ha
 
 "I want them now."
 
-Yun Xiao turned a page and read them out — four numbers and a ratio, in the flat voice he used for things he had already decided were true — and Lin Hao wrote them in the back of his ledger, in the column he kept for things that were not about himself, which was shorter than the other column and ought not to have been.
+Yun Xiao turned a page and read them out — four numbers and a ratio, in the flat voice he used for things he had already decided were true. And Lin Hao wrote them in the back of his ledger, in the column he kept for things that were not about himself, which was shorter than the other column and ought not to have been.
 
 Zhou Zhangxi watched him write.
 
@@ -338,7 +338,7 @@ Lin Hao did not say anything, because it was not news.
 
 "That's a crowd," Wu Zhangkong agreed. "And you have fifty years, give or take, before you need one." He picked up the wooden sword and put it back, exactly where it had been. "Three days. Bring me a formation."
 
-Lin Hao walked home through a city he had learned the shape of from a free pamphlet on a train — **eighteen first-class cities, five regions, a centre that held only Heaven Dou and Shrek**, an east with five coastal cities in an alliance and his own ranked second among them, a tournament every three years and a larger one every five, held in the city whose name had arrived in his life next to an advertisement for soul-lamp repairs.
+Lin Hao walked home through a city he had learned the shape of from a free pamphlet on a train. **eighteen first-class cities, five regions, a centre that held only Heaven Dou and Shrek**, an east with five coastal cities in an alliance and his own ranked second among them, a tournament every three years and a larger one every five, held in the city whose name had arrived in his life next to an advertisement for soul-lamp repairs.
 
 He was ten years old, and he was thirty-seventh in a ledger of his own making, and in three years he was going to have to be a monster in front of a gate.
 

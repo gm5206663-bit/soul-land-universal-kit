@@ -128,7 +128,7 @@ Gu Yue was quiet for long enough that Xie Xie, three paces ahead, turned around 
 
 "I had worked that out."
 
-And Wulin — who had been walking at the back with his hands in his sleeves and who had not said a word since the gate, and who had asked Wu Zhangkong about the other continents in a corridor four weeks ago and been told to drop it — caught up and walked between them for six paces, and said, "My mother has a stone."
+And Wulin — who had been walking at the back with his hands in his sleeves and who had not said a word since the gate, and who had asked Wu Zhangkong about the other continents in a corridor four weeks ago and been told to drop it. Caught up and walked between them for six paces, and said, "My mother has a stone."
 
 Neither of them said anything.
 

@@ -60,7 +60,7 @@ It was a good arrangement. It was, in fact, the arrangement class four had drill
 
 Class five took the platform. And did nothing.
 
-That was the first thing the stands noticed, though it took most of them until afterward to understand they had noticed it: the four of them walked to their positions without releasing a single soul ring — no flash of white or yellow, no martial souls singing out for the audience — and stood, and waited, the way four people wait at a door they have already opened in their heads.
+That was the first thing the stands noticed, though it took most of them until afterward to understand they had noticed it: the four of them walked to their positions without releasing a single soul ring. No flash of white or yellow, no martial souls singing out for the audience — and stood, and waited, the way four people wait at a door they have already opened in their heads.
 
 "Begin," said Long Hengxu.
 
@@ -78,7 +78,7 @@ and Lin Hao met him. Not with evasion. With the Stormbringer, out of the air and
 
 Mo Si came back around — fast, faster than a rank thirteen had any business being, the short sword flicking in three lines at once, a triangle of steel meant to force a choice—
 
-and Lin Hao chose all three. The Stormbringer was in each line a half-breath before the knife arrived, not because he was faster but because he had read the triangle before Mo Si committed to it. The third meeting rang, and Mo Si's short sword went skidding out of his hand across the platform, and Lin Hao's free hand came up — not a fist, not a grab — and the wind around it *compressed,* folding into a ribbon of moving pressure along his forearm: the Gale Talon, laid not at range but along his own skin, a rending edge of air that stopped a finger's width from Mo Si's throat.
+and Lin Hao chose all three. The Stormbringer was in each line a half-breath before the knife arrived, not because he was faster but because he had read the triangle before Mo Si committed to it. The third meeting rang, and Mo Si's short sword went skidding out of his hand across the platform, and Lin Hao's free hand came up — not a fist, not a grab. And the wind around it *compressed,* folding into a ribbon of moving pressure along his forearm: the Gale Talon, laid not at range but along his own skin, a rending edge of air that stopped a finger's width from Mo Si's throat.
 
 Mo Si froze. The Gale Talon's edge hummed, close enough to lift the fine hairs on his neck, close enough that the stands — which had learned to count — saw the air *move* around the fourth boy's hand and forgot to.
 

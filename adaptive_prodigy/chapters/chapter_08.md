@@ -69,7 +69,7 @@ It did not look like sparring. It looked like two different disasters negotiatin
 
 Wulin came in the way he came at everything — directly, with the whole forged weight of him, Bluesilver Grass already uncoiling in golden-threaded ropes to own the ground underfoot. Lin Hao did not meet the charge. He *wasn't there* for it, hollow-boned and hawk-read, his body leaving the collision line a half-breath before the collision decided to happen, the Stormbringer answering from an angle the grass had not yet grown into.
 
-The hawk inside him was working harder than he was. That had been true for weeks now — seven hundred and fifty years of sharpened instinct marking the fight *ahead* of him: there, Wulin's weight committing; there, the grass's third rope feinting left to root right. Lin Hao stopped fighting the head start and started trusting it, the way you trust a hand on your shoulder in the dark, and the match climbed into a register neither of them had reached before — until Wulin's fourth rope finally caught his ankle and his wind-blade finally skidded off Wulin's crossed forearms at the same moment, and they called it even by mutual breathlessness.
+The hawk inside him was working harder than he was. That had been true for weeks now — seven hundred and fifty years of sharpened instinct marking the fight *ahead* of him: there, Wulin's weight committing; there, the grass's third rope feinting left to root right. Lin Hao stopped fighting the head start and started trusting it, the way you trust a hand on your shoulder in the dark. And the match climbed into a register neither of them had reached before — until Wulin's fourth rope finally caught his ankle and his wind-blade finally skidded off Wulin's crossed forearms at the same moment, and they called it even by mutual breathlessness.
 
 "Again," said Xie Xie, from the sideline, where he had been drilling his light-step patterns with the industry of a convert. "Again, and this time Wulin, use the low ropes first, he hates the low ropes—"
 
@@ -138,7 +138,7 @@ He closed it. Full speed, the yard-blur, the afterimage string that had finally 
 
 And Lin Hao, who was not in the match, said one thing out loud, quietly, to nobody: "She's not choosing. She's **answering.**"
 
-Xie Xie did not hear him. But the yard did, and the yard repeated it, and by the time the match was over it had gone around the field twice, and it was the only sentence anybody had that described what was actually happening — because Xie Xie was fighting a person and she was fighting a **decision tree**, and the only boy in the yard who thought in decision trees was the one not in the ring.
+Xie Xie did not hear him. But the yard did, and the yard repeated it, and by the time the match was over it had gone around the field twice. And it was the only sentence anybody had that described what was actually happening — because Xie Xie was fighting a person and she was fighting a **decision tree**, and the only boy in the yard who thought in decision trees was the one not in the ring.
 
 That is the butterfly. In a yard without him, Xie Xie loses and everybody learns that a girl with six elements is frightening. In a yard with him in it, Xie Xie loses and everybody learns **what she is doing**, which is a different lesson and a much more useful one, and Xie Xie spends the next nine weeks fighting differently because of a sentence said by somebody who wasn't in the match.
 
@@ -154,7 +154,7 @@ And in his chest, seven hundred and fifty years of hawk went silent. Not the sil
 
 Lin Hao filed the feeling exactly where he filed the golden scale's wreck-water: deep, private, marked. *Later,* he told himself. *Not now. Watch the fight.*
 
-The fight ended the way endings do when one side has been reading a book the other side hasn't opened. **Light** went up — Xie Xie's own element turned against him, a cold flare that blinded without burning, that dazzled the light-step right out of his feet — and then there was no flare, no fire, no water, no earth, no wind at all, and Xie Xie was on his knees in the middle of the ring with his dagger stopped an inch from finishing an arc that had nowhere left to go, and the girl was standing behind him.
+The fight ended the way endings do when one side has been reading a book the other side hasn't opened. **Light** went up — Xie Xie's own element turned against him, a cold flare that blinded without burning, that dazzled the light-step right out of his feet — and then there was no flare, no fire, no water, no earth, no wind at all. And Xie Xie was on his knees in the middle of the ring with his dagger stopped an inch from finishing an arc that had nowhere left to go, and the girl was standing behind him.
 
 Standing behind him. He had never turned. Nobody had seen her move, because — and the class would argue about this until the tournament, in increasingly imaginative theories — at some point in the last exchange, the *distance* between them had simply changed its mind.
 

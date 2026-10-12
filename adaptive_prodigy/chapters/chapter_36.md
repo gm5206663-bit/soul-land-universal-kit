@@ -35,7 +35,7 @@ Lin Hao stood there with his coat half on and understood, with a small cold feel
 
 Wulin came, because Lin Hao asked him, and because asking him had stopped being difficult about a week ago.
 
-The sub-level was cold and smelled of oil and hot scale, and the press stood in the middle of it under a single lamp like something that had been left there by people in a hurry. It was not beautiful. It was a column of black iron with a screw the width of a barrel and a plate at the bottom the size of a table, and the dial was brass and as wide as a shield, and it had marks on it, and the marks stopped at a number that Mu Chen did not say out loud and Lin Hao did not read, because he had decided before he came down the stairs that he was not going to know it in advance.
+The sub-level was cold and smelled of oil and hot scale, and the press stood in the middle of it under a single lamp like something that had been left there by people in a hurry. It was not beautiful. It was a column of black iron with a screw the width of a barrel and a plate at the bottom the size of a table, and the dial was brass and as wide as a shield. And it had marks on it, and the marks stopped at a number that Mu Chen did not say out loud and Lin Hao did not read, because he had decided before he came down the stairs that he was not going to know it in advance.
 
 "Put your fist on the plate," Mu Chen said. "Not a strike. A *push.* Slowly. I want the whole of it and not the fastest part."
 
@@ -45,7 +45,7 @@ The sub-level was cold and smelled of oil and hot scale, and the press stood in 
 
 Lin Hao put his fist on the plate.
 
-The iron was cold enough to bite. He could feel the marks on his forearms — the faint feather-patterns that ran from wrist to elbow — go slightly more present against the metal, the way they always did against metal, and the hair on his arm lift, and somewhere above him the lamp buzzed, and he thought about the fact that he had never in his life pushed at anything as hard as he could push, because there had never been a reason to, and every person he had ever fought had been somebody he was trying not to hurt.
+The iron was cold enough to bite. He could feel the marks on his forearms — the faint feather-patterns that ran from wrist to elbow — go slightly more present against the metal, the way they always did against metal, and the hair on his arm lift, and somewhere above him the lamp buzzed. And he thought about the fact that he had never in his life pushed at anything as hard as he could push, because there had never been a reason to, and every person he had ever fought had been somebody he was trying not to hurt.
 
 So he did not push hard.
 
@@ -57,7 +57,7 @@ He pushed *all of it,* which was a different thing, and he had never done that e
 
 The needle went up.
 
-It went up smoothly, which was the strange part, because Lin Hao had expected a jump and there was none — the needle simply climbed the way a tide climbs, without deciding, and it passed the mark that the child's plate had at its top and did not slow, and Mu Chen said nothing, and Wulin, who had been leaning against the column with his arms folded, unfolded them.
+It went up smoothly, which was the strange part, because Lin Hao had expected a jump and there was none — the needle simply climbed the way a tide climbs, without deciding. And it passed the mark that the child's plate had at its top and did not slow, and Mu Chen said nothing, and Wulin, who had been leaning against the column with his arms folded, unfolded them.
 
 It passed the second mark.
 
@@ -129,7 +129,7 @@ Mu Chen looked at him.
 
 "You don't know," Lin Hao said.
 
-"I know that a hundred-year soul spirit bestows two rings," Mu Chen said carefully, "and I know that spirit souls age, and I know that the Association does not measure a member's spirit soul age because there has never been a reason to, and I have watched you for four years and I have never once seen you do anything that a hundred years would explain." He put the flask away. "I don't know how old they are. I know they are not a hundred. And I have decided not to find out, and I want to be clear that this is a decision and not an oversight, because I would rather be the man who didn't look than the man who looked and then had to decide who to tell."
+"I know that a hundred-year soul spirit bestows two rings," Mu Chen said carefully. "and I know that spirit souls age, and I know that the Association does not measure a member's spirit soul age because there has never been a reason to, and I have watched you for four years and I have never once seen you do anything that a hundred years would explain." He put the flask away. "I don't know how old they are. I know they are not a hundred. And I have decided not to find out, and I want to be clear that this is a decision and not an oversight, because I would rather be the man who didn't look than the man who looked and then had to decide who to tell."
 
 Wulin said, "Why not tell Wu Zhangkong."
 

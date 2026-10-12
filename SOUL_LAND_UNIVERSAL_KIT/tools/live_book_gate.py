@@ -51,6 +51,70 @@ DEAD_PATH_RX = re.compile(r'(^|/)(_archive|archive|archives|_attic|attic|audit|a
 # prose invents sixty-word sentences that nobody wrote.
 PLAN_LINE_RX = re.compile(r'·|^[A-Z][A-Za-z /()\-]{2,24}:\s|^\s*\||^\s*[-*]\s?')
 
+#: A record section is to a chapter what the production block is to the file:
+#: the author's own bookkeeping, not his prose. adaptive_prodigy and
+#: Soul_Land_2_Project end every chapter with a run of these sections —
+#: Chapter Summary, Character States, Canon Anchors, Butterfly Effects,
+#: Ensemble, Next Chapter Preview — and the chapter summaries quote the
+#: chapter's own lines. Reading them as prose counted quoted records as
+#: repeated sentences (the same summary line in 116 chapters is a record
+#: doing its job, not a refrain) and put the author's notes under the
+#: sentence cap. Declared HERE, printed in every report, and selftested.
+RECORD_SECTION_RX = re.compile(
+    r'(?i)^(#{2,4})\s*(Chapter Summary|Character States|Character Progression|'
+    r'Chapter end state|Ensemble\b|Canon Preserved|NOT triggered|Butterfly Effects|'
+    r'Butterflies this chapter|Canon Anchors|Canon Facts Established|AU / Butterfly|'
+    r'AU, labelled|AT / Mutations Shown|Attractiveness Mentions|Ranks at chapter end|'
+    r'GROWTH:|World Details Shown|Timeline:|Canon Reference:|Canon anchors held|'
+    r'Problems from PROBLEM_INVENTORY|Next Chapter Preview)')
+
+
+def record_mask(body):
+    """True for each body line inside a declared record section.
+
+    A record section opens at a matching heading and closes at the next
+    heading of the same or a higher level — so a narrative '## Part' after a
+    '### Chapter Summary:' closes the record and everything past it is prose
+    again. The mask is the ONE definition; prose_sentences(), measure() and
+    the sentence-repair tool all read it, so the record boundary cannot drift
+    between the tools that judge the same file.
+    """
+    depth, out = None, []
+    for l in body.split('\n'):
+        m = re.match(r'^(#{1,6})\s', l)
+        if m:
+            lvl = len(m.group(1))
+            if RECORD_SECTION_RX.match(l):
+                depth = lvl
+                out.append(True)
+                continue
+            if depth is not None and lvl <= depth:
+                depth = None
+        out.append(depth is not None)
+    return out
+
+
+def record_lines(body):
+    """How many non-blank lines a file holds inside record sections."""
+    return sum(1 for l, m in zip(body.split('\n'), record_mask(body)) if m and l.strip())
+
+
+#: A stopped serial's scaffold file. soul_land_new ships chapters/Chapter_01.md
+#: containing only the template placeholders — 'This file is populated only when
+#: the author opens the serial'. It is real scaffolding, and it is not a chapter:
+#: counting it put a 20-word file with zero voices under the dialogue floor as a
+#: hard finding. A declared placeholder is skipped as a chapter.
+PLACEHOLDER_RX = re.compile(r'\{\s*No content yet|populated only when the author opens the serial', re.I)
+
+
+def placeholder_file(path):
+    try:
+        head = open(path, encoding='utf-8', errors='replace').read(600)
+    except OSError:
+        return False
+    return bool(PLACEHOLDER_RX.search(head))
+
+
 #: Paths that are never the live book: historical snapshots, promotion staging,
 #: reference copies kept beside the work — and the SL4 workshop layer (managed
 #: snapshots, rebuild staging, semantic audits kept beside the serial). ONE
@@ -76,9 +140,11 @@ STATUS_FILES = ('HANDOFF.md', 'README.md', 'STATUS.md', 'STATE.md', 'NEXT.md')
 def chapter_files(d):
     out = []
     for f in sorted(os.listdir(d)):
+        full = os.path.join(d, f)
         if (f.endswith('.md') and CHAPTER_RX.match(f)
-                and not NON_CHAPTER_RX.search(f)):
-            out.append(os.path.join(d, f))
+                and not NON_CHAPTER_RX.search(f)
+                and not placeholder_file(full)):
+            out.append(full)
     return out
 
 
@@ -96,7 +162,8 @@ def chapter_dirs(project):
             dirnames[:] = []
             continue
         rel = os.path.relpath(dirpath, project)
-        if any(CH_RX_match(f) for f in filenames):
+        if any(CH_RX_match(f) and not placeholder_file(os.path.join(dirpath, f))
+               for f in filenames):
             found['.' if rel == '.' else rel] = dirpath
     return found
 
@@ -207,9 +274,16 @@ def body_of(path):
 
 
 def prose_sentences(path):
-    """Prose sentences: no headings, no blockquote panels, no planning lines."""
-    lines = [l for l in body_of(path).split('\n')
-             if l.strip() and not re.match(r'#+\s', l)]
+    """Prose sentences: no headings, no panels, no planning lines, no records.
+
+    Record sections (record_mask) are the author's bookkeeping — the same
+    category as the production block the footer split removes. Words are still
+    counted across them (a manuscript's size is its size); SENTENCE laws are
+    not applied to notes the author wrote for himself.
+    """
+    body = body_of(path)
+    lines = [l for l, rec in zip(body.split('\n'), record_mask(body))
+             if l.strip() and not rec and not re.match(r'#+\s', l)]
     prose = [l for l in lines if not l.startswith('>') and not PLAN_LINE_RX.search(l)]
     return [s for l in prose for s in sentences(l)]
 
@@ -217,7 +291,12 @@ def prose_sentences(path):
 def measure(path):
     body = body_of(path)
     lines = [l for l in body.split('\n') if l.strip() and not re.match(r'#+\s', l)]
-    prose = [l for l in lines if not l.startswith('>') and not PLAN_LINE_RX.search(l)]
+    # words: the whole authored file (records are part of the manuscript's size).
+    # sentence laws: prose only — records excluded exactly as prose_sentences()
+    # excludes them, so the gate and the report can never disagree on a file.
+    prose = [l for l, rec in zip(body.split('\n'), record_mask(body))
+             if l.strip() and not rec and not re.match(r'#+\s', l)
+             and not l.startswith('>') and not PLAN_LINE_RX.search(l)]
     words = len('\n'.join(lines).split())
     sent = [s for l in prose for s in sentences(l)]
     sl = [len(s.split()) for s in sent]

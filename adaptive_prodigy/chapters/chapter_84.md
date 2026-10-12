@@ -94,7 +94,7 @@ Rage came up in Gu Yue's eyes so fast Wulin got an arm in front of her without l
 
 She did not criticize Gu Yue. There was no point in that now.
 
-And at the back of the five, the sixth looked at the blacksmithing table — the one craft in that room he had carried since he could reach an anvil, the fifth rank of it earned at almost twelve, second-youngest in a Branch's records — and the ledger opened one line, in the margin, where hope lived when it lived at all:
+And at the back of the five, the sixth looked at the blacksmithing table. The one craft in that room he had carried since he could reach an anvil, the fifth rank of it earned at almost twelve, second-youngest in a Branch's records — and the ledger opened one line, in the margin, where hope lived when it lived at all:
 
 *Zero, twice. Eight trials left. Perfect, or home.*
 

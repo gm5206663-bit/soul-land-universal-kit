@@ -46,7 +46,7 @@ They finished the run in the oldest rhythm either of them knew. But something ha
 
 Nine months of walks. A staircase crossed at six in the morning, one width apart, unspent. *She asked how many Sundays.* Not whether he was well. Not what he carried. How many. The one question that could not be asked of him without proving she had been counting.
 
-He banked the forge badly, which had not happened in four years, and Wulin watched him do it and said nothing, which is what Wulin does with other people's loads, and Lin Hao stood in the cooling dark of the shop and understood that the sentence he had been carrying with its coat on had acquired a weight, and that weight was going to keep arriving, on freight, at intervals, until he put it down somewhere.
+He banked the forge badly, which had not happened in four years, and Wulin watched him do it and said nothing, which is what Wulin does with other people's loads. And Lin Hao stood in the cooling dark of the shop and understood that the sentence he had been carrying with its coat on had acquired a weight, and that weight was going to keep arriving, on freight, at intervals, until he put it down somewhere.
 
 There was one person in the world it could be put down in front of, and he was sweeping the floor six feet away.
 
@@ -110,7 +110,7 @@ Lin Hao sat with that. The word *well* was still lying somewhere in the middle o
 
 "I know. I heard it happen." Wulin took up the broom again. "Do the Fridays with me this week. You'll feel normal by Monday."
 
-They put the tools away in the order Mang Tian had beaten into them at six, which was its own kind of sentence, and that one was finished, and they went out into the salt air, and the wind came off the sea in the usual direction, and Lin Hao walked on the wrong side of it the whole way home, for the practice.
+They put the tools away in the order Mang Tian had beaten into them at six, which was its own kind of sentence, and that one was finished. And they went out into the salt air, and the wind came off the sea in the usual direction, and Lin Hao walked on the wrong side of it the whole way home, for the practice.
 
 ---
 
@@ -146,7 +146,7 @@ Wulin considered the shape of that for one full second — *she asks me the way 
 
 "This one's going well."
 
-Gu Yue looked at the page for a while without any of it going in, and then went back to the beginning of it and read it again properly, and ate the bun to the end, and none of it showed, which was the entire design of her, and later, when the dormitory was dark, she lay awake for exactly one minute longer than usual, which even the ceiling did not know about, and slept.
+Gu Yue looked at the page for a while without any of it going in, and then went back to the beginning of it and read it again properly, and ate the bun to the end. And none of it showed, which was the entire design of her, and later, when the dormitory was dark, she lay awake for exactly one minute longer than usual, which even the ceiling did not know about, and slept.
 
 ---
 
@@ -156,13 +156,13 @@ At five-forty the platform was grey with no sun on it yet, and the clock was the
 
 First element. Second. Third, exact, and less small than last month.
 
-Between the third and the fourth there was a gap. There had always been a gap; everyone has one, a place in the sequence where the intention has to be re-loaded. Hers was the length of a hall staircase, and it had been getting longer for about nine months, and she had noticed it getting longer, because she noticed everything, and she had tried, for a while, to make it shorter, the way you try to make a sentence shorter, by cutting, and cutting had not worked, because the gap was not too long. It was simply no longer empty.
+Between the third and the fourth there was a gap. There had always been a gap; everyone has one, a place in the sequence where the intention has to be re-loaded. Hers was the length of a hall staircase, and it had been getting longer for about nine months, and she had noticed it getting longer, because she noticed everything. And she had tried, for a while, to make it shorter, the way you try to make a sentence shorter, by cutting, and cutting had not worked, because the gap was not too long. It was simply no longer empty.
 
 She did not name what was in it. Naming was a spend, and she had never once spent early. She had a whole alphabet of things she did not say yet — had had it since the yard, since the fence, since the day the smallest boy in the intake looked at a class of martial souls and said the plain thing nobody else would say — and the alphabet was not a burden. It was a purse. You did not open a purse in the street.
 
 The fourth element went off, exact.
 
-The attendant, stamping her out at six, said the slot was open all winter if she wanted it, dawn didn't fill till spring. "Same slot," Gu Yue said, and paid in exact change, and went out into the actual daylight, which was not her concern, and down the steps whose width she had once shared at one remove with a boy going up, and she thought about none of it all the way to school, in the way of a person thinking about nothing on purpose, expertly, at scale.
+The attendant, stamping her out at six, said the slot was open all winter if she wanted it, dawn didn't fill till spring. "Same slot," Gu Yue said, and paid in exact change, and went out into the actual daylight, which was not her concern. And down the steps whose width she had once shared at one remove with a boy going up, and she thought about none of it all the way to school, in the way of a person thinking about nothing on purpose, expertly, at scale.
 
 ---
 
