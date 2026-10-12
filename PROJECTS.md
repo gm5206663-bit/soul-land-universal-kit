@@ -7,9 +7,10 @@
 > The nine imports below happened first, each verified file-by-file against its source;
 > everything unique that existed only in a source repository was preserved into the kit's
 > dated archive `_archive/2026-10-12_one-home/` **before** that repository was emptied.
-> The emptied repositories remain as one-line pointers (their git history still holds the
-> pre-consolidation state); they will be deleted outright the moment the token's
-> `delete_repo` permission is ticked. Nothing is lost, and nothing is duplicated.
+> The emptied repositories were then **deleted outright** (2026-10-12; GitHub keeps
+> deleted repositories restorable for 90 days). Nothing is lost, and nothing is
+> duplicated — **the account went from 18 repositories to 12, with one home for every
+> Soul Land project.**
 
 **Totals: 24 Soul Land projects · one non-Soul-Land fic · 12 books with prose live in this repo.**
 
@@ -100,7 +101,7 @@ kit itself), the stale SL4 copy at ch31, and the starter zip twin. 233 files in 
 | | Before today | After |
 |---|---:|---:|
 | Repositories with Soul Land prose | 8+ | **1** (this one) |
-| The six emptied source repositories | full projects | 1–3-line pointers; **deletable on one word** |
+| The six duplicate repositories | full projects | **deleted 2026-10-12** ✓ (restorable via GitHub for 90 days) |
 
 **Lives elsewhere — deliberately, and why:**
 
@@ -117,13 +118,9 @@ kit itself), the stale SL4 copy at ch31, and the starter zip twin. 233 files in 
 
 ## Open calls (author's word needed)
 
-1. **Remove the six shells.** Deleting a repository outright needs one extra token
-   permission (`delete_repo` — classic token, tick `repo` + `delete_repo`). Send a token
-   with it and I remove all six in one pass; GitHub keeps deleted repositories restorable
-   for 90 days. Until then they hold nothing but a pointer.
-2. **Gu Yuan, SL1** — approved edge Ch 98; Ch 54–98 exist nowhere on GitHub. If any copy
+1. **Gu Yuan, SL1** — approved edge Ch 98; Ch 54–98 exist nowhere on GitHub. If any copy
    survives on your disk or in an old chat, it comes home too.
-3. **Fire Phoenix** — new SL4 chapters keep flowing through the private pipeline, or does
+2. **Fire Phoenix** — new SL4 chapters keep flowing through the private pipeline, or does
    that job move into this repository?
-4. **The preserved older editions** (`_archive/2026-10-12_one-home/`) — keep as records, or
-   delete them too?
+3. **The preserved older editions** (`_archive/2026-10-12_one-home/`) — keep as records (they
+   are now the only copy anywhere), or delete them too?
