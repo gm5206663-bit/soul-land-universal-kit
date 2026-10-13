@@ -1,6 +1,6 @@
 # THE GREY WOLF — a Soul Land 2 fan fiction
 
-> **Era:** Soul Land II: The Unrivaled Tang Sect · **Beside canon:** same years as Huo Yuhao · **Status:** six chapters rebuilt perfectly — Arc 1 Grey Ridge complete, Arc 2 road to Shrek road craft — Ch6 The Hem Road 2458w clean and clear all basics 100% MASTERED High daily life Spirit Connection 200-300 body 100-150kg robust for age Storm Frost Ghost Wolf ice+wind High Ghost Veil 3 clones golden lock toughest skull tofu waist Storm Step wind blade burst wings flight Ring Veil yellow within limits — concealment dimming PROPOSED not canon; releases through v0.7.0-perfect-rebuild; Ch7 Shrek City arrival next at author's word.
+> **Era:** Soul Land II: The Unrivaled Tang Sect · **Beside canon:** same years as Huo Yuhao · **Status:** ten chapters — live edge **Ch10 The Combat Exam** (2513w avg17.9, IN band) — STATUS panel **v5.4.3 Canon-Strict, 10 chapters IN SYNC** (*status line corrected 2026-10-13: it said six chapters / Ch7-next, stale against this project's own panel*): all ten IN band 2400-3400 avg 14-18 over60 0 the-way 0 run_all green; Arc 1 Grey Ridge complete, road to Shrek City craft; Spirit Connection 200-300, body 100-150kg robust for age, Storm Frost Ghost Wolf ice+wind High, Ghost Veil 3 clones, golden lock toughest skull tofu waist, Storm Step wind blade burst wings flight, Ring Veil yellow within limits — concealment dimming PROPOSED not canon; next at author's word.
 
 A man who counted things for a living dies on Earth, and is born again on Douluo Continent with thousand stories in head — including one he is now standing inside. At six, in hunter village on edge of Great Star Dou Forest, Ye Cang awakens Grey Wolf and one rank innate soul power: village verdict shrug. That night, something quiet wakes behind eyes and begins to count him — slots, meters, and full status panel stories of first life would call System. He calls it Ledger.
 
@@ -11,7 +11,7 @@ He knows this world's book. He knows what continent is about to do, what rises i
 1. `foundation/FOUNDATION.md` — base of base: serial, lessons, locks, world rules
 2. `foundation/RULINGS_LOG.md` — every ruling verbatim from author
 3. `foundation/SYSTEM_SPEC.md` — Ledger complete: every law day one through perfect rebuild
-4. `foundation/STATUS.md` — **full status panel** night one kept current for every chapter — now v5.0 perfect rebuild
+4. `foundation/STATUS.md` — **full status panel** night one kept current for every chapter — now v5.4.3 Canon-Strict
 5. `foundation/METERS.md` — every meter with own pace law — v4.0 perfect rebuild
 6. `foundation/SKILLS_CANON.md` — soul skills description like Soul Land canon — v5.0 perfect rebuild with Ghost Wolf golden lock iron-gray green eyes toughest skull tofu waist Light of Netherworld 3 clones Shrek Beast Dueling Area
 7. `foundation/PANELS.md` — panel grammar + ledger of every line ever printed — 80 rows IN SYNC
