@@ -66,3 +66,16 @@
 | `perfect_storyline_plan.docx` / `PERFECT_STORYLINE_METHOD.txt` | The 56-section Perfect Storyline Development Method (extracted text kept for reference) |
 | `sl4_scratch/` | Audit scratch greps from the workspace zip root |
 | `inbox/` | The 18 original uploaded files, byte-exact |
+
+---
+
+## Note — 2026-10-13 (current)
+
+This hub is kept as the record of the 2026-09-15 managed workspace; the audit trail above is
+historical. The account's live state now lives in this repository's root `README.md` and
+`STATE.md` (the cockpit), `REGISTER.md` (measured counts — regenerated 2026-10-13 over a full
+clone set), [`the-authors-desk`](https://github.com/gm5206663-bit/the-authors-desk) (decisions,
+register, records), and the Control Centre (twelve detectors; weekly account-sweep). The `kit/`
+tree beside this file remains the deliberate working copy of `SOUL_LAND_UNIVERSAL_KIT/` —
+byte-identical by the D1 law, enforced by the library sentinel's `workspace` check (26/26 on
+2026-10-13).
