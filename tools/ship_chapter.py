@@ -86,7 +86,7 @@ def bump_root_readme(kit, n):
     kit's own live_book_gate (the same measure the register reports)."""
     p = os.path.join(kit, "README.md")
     t = open(p, encoding='utf-8').read()
-    rx = re.compile(r'(\| SL2 · \*\*Devouring Dragon\*\* \| `soul_land_devouring_dragon/` \| )(\d+) · ([\d,]+)( \|)')
+    rx = re.compile(r'(\| [^|\n]*\*\*Devouring Dragon\*\*[^|\n]*\| `soul_land_devouring_dragon/` \| )(\d+) · ([\d,]+)( \|)')
     m = rx.search(t)
     if not m:
         die("root README Devouring Dragon row not found — the cockpit row moved; update this tool")

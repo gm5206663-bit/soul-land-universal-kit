@@ -26,7 +26,7 @@
 |---|---|---:|---:|---|
 | SL2 — **The Golden Lion** (OC Jin Yang) | `soul_land_2_new/` | 8 | 22,487 | 🔴 LIVE — near-daily; reader page `THE_GOLDEN_LION.md` |
 | SL3 — **One in a Thousand** (OC Su Yan) | `soul_land_3_oc/` | 7 | 63,691 | 🔴 LIVE |
-| SL3 — **the devouring-dragon serial** | `soul_land_devouring_dragon/` | 24 | 65,081 | 🔴 LIVE — canon-voice rollout, Ch 13–18 next |
+| **The Devouring Dragon** (1,000 years after SL1) | `soul_land_devouring_dragon/` | 24 | 65,081 | 🔴 LIVE — canon-voice rollout, Ch 13–18 next |
 | SL2 — **The Grey Wolf** | `soul_land_2_the_grey_wolf/` | 10 | 25,792 | 🔴 LIVE — **reading page moved into this repo: [`docs/grey-wolf/`](docs/grey-wolf/)** |
 | SL4 — **Fire Phoenix** | `soul_land_4_fire_phoenix/` | 52 | 270,659 | 🔴 LIVE — **complete**: published chapters + working layers + the whole workshop. Both former repos deleted 2026-10-12; the pipeline now runs from this folder |
 | Qian Xunji | `qian_xunji/` | 9 | 25,956 | 🔴 LIVE |

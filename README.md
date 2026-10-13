@@ -21,9 +21,9 @@ account. This repository is the Soul Land corpus + its method.
 
 | Serial | Folder | Ch · Words | One line |
 |---|---|---:|---|
-| SL2 · **The Golden Lion** — OC Jin Yang | `soul_land_2_new/` | 8 · 22,487 | village smith's boy walking into Shrek; agent-driven, reader card above |
+| SL2 · **The Golden Lion** — OC Jin Yang | `soul_land_2_new/` | 8 · 22,487 | village-born OC — Golden Lion soul, forge craft; Ch8 sect-join done, the assessment's arc next; agent-driven, reader card above |
 | SL3 · **One in a Thousand** — OC Su Yan | `soul_land_3_oc/` | 7 · 63,691 | Glorybound, Tang Wulin's own generation; on the shelf |
-| SL2 · **Devouring Dragon** | `soul_land_devouring_dragon/` | 24 · 65,081 | 1,000 years after SL1; canon-voice rollout Ch 1–12 done, 13–18 next |
+| **Devouring Dragon** (1,000 years after SL1) | `soul_land_devouring_dragon/` | 24 · 65,081 | canon-voice rollout Ch 1–12 done, 13–18 next |
 | SL2 · **The Grey Wolf** | `soul_land_2_the_grey_wolf/` | 10 · 25,792 | perfect-rebuild edition; reader pages in `docs/grey-wolf/` |
 | SL4 · **Fire Phoenix** | `soul_land_4_fire_phoenix/` | 52 · 270,659 | published layer + working layers + the whole workshop; edge: after Ch 52 |
 | **Qian Xunji Reborn** | `qian_xunji/` | 9 · 25,956 | SL1-era; adaptation talent |
