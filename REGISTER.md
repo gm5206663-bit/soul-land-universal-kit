@@ -1,22 +1,22 @@
 # THE REGISTER — every book, every tree
 
-*Generated 2026-10-12 14:45 by `tools/register.py` over `this repository`. Regenerate it; never edit it.*
+*Generated 2026-10-13 02:07 by `tools/register.py` over `this repository`. Regenerate it; never edit it.*
 
-**16 registered books · 283 chapters · 1,209,921 words · 479 sentences over 60 words.**
+**16 registered books · 282 chapters · 1,209,710 words · 0 sentences over 60 words.**
 
 | words | ch | book | over 60 | spoken | floor hits | status |
 |---:|---:|---|---:|---:|---:|---|
-| 523,547 | 116 | adaptive_prodigy | 477 | 10,209 | 0 | gated book |
+| 523,356 | 116 | adaptive_prodigy | 0 | 10,209 | 0 | gated book |
 | 270,659 | 52 | soul_land_4_fire_phoenix | 0 | 5,932 | 0 | gated book |
-| 80,127 | 24 | Soul_Land_2_Project | 1 | 1,595 | 0 | gated book |
+| 80,127 | 24 | Soul_Land_2_Project | 0 | 1,595 | 0 | gated book |
 | 65,081 | 24 | soul_land_devouring_dragon | 0 | 393 | 11 | gated book |
 | 63,691 | 7 | soul_land_3_oc | 0 | 1,110 | 0 | gated book |
-| 32,211 | 7 | lan_shen | 1 | 868 | 0 | gated book |
+| 32,211 | 7 | lan_shen | 0 | 868 | 0 | gated book |
 | 25,956 | 9 | qian_xunji | 0 | 248 | 0 | gated book |
 | 25,792 | 10 | soul_land_2_the_grey_wolf | 0 | 124 | 0 | gated book |
 | 25,379 | 4 | Miraculous_Project | 0 | 230 | 0 | gated book |
 | 22,487 | 8 | soul_land_2_new | 0 | 511 | 0 | gated book |
-| 19,380 | 7 | soul_land_new | 0 | 178 | 1 | gated book |
+| 19,360 | 6 | soul_land_new | 0 | 178 | 0 | gated book |
 | 18,605 | 5 | soul_land_1_fire_dragon_lizard | 0 | 256 | 0 | gated book |
 | 15,802 | 4 | soul_land_system_cheat | 0 | 132 | 0 | gated book |
 | 13,696 | 4 | soul_land_holy_spirit | 0 | 160 | 0 | gated book |

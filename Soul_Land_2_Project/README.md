@@ -1,6 +1,6 @@
 # SOUL LAND 2 — THE UNRAVELED TIDE (Jiang Che)
 ### Branch 06 · Fan fiction of Douluo Dalu 2: Unrivaled Tang Sect (绝世唐门)
-**Live edge: after Chapter 21, "Round One."** · Re-railed 2026-09-20 (governance layer rebuilt; prose untouched).
+**Live edge: after Chapter 23, "The Watching."** · Re-railed 2026-09-20 (governance layer rebuilt; prose untouched).
 
 ---
 

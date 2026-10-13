@@ -1,0 +1,616 @@
+{
+ "frozen": "2026-10-13 02:07",
+ "root": "/tmp/all",
+ "tools_version": "1.0",
+ "code": "539b6dc62ab5",
+ "findings": {
+  "35497ebc8e92": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_08_The_Woman_Who_Stayed.md",
+   "detail": "63-word sentence (ceiling 60)"
+  },
+  "61883d8cd730": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_09_Red_Faced_and_Named.md",
+   "detail": "68-word sentence (ceiling 60)"
+  },
+  "f44ca6aec21e": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_10_Red_Faced_Consequence.md",
+   "detail": "65-word sentence (ceiling 60)"
+  },
+  "545d3e725275": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_10_Red_Faced_Consequence.md",
+   "detail": "65-word sentence (ceiling 60)"
+  },
+  "fc338c0dc257": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_10_Red_Faced_Consequence.md",
+   "detail": "115-word sentence (ceiling 60)"
+  },
+  "2552f35840c3": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "75-word sentence (ceiling 60)"
+  },
+  "88138dadea89": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "75-word sentence (ceiling 60)"
+  },
+  "ea47ceca6488": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "154-word sentence (ceiling 60)"
+  },
+  "c73439d4c7b0": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "86-word sentence (ceiling 60)"
+  },
+  "3a47231b2a49": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "100-word sentence (ceiling 60)"
+  },
+  "d4510bc46455": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "92-word sentence (ceiling 60)"
+  },
+  "f9eb73cc2862": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "75-word sentence (ceiling 60)"
+  },
+  "75348d02ec1d": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "61-word sentence (ceiling 60)"
+  },
+  "3da675b5451b": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "97-word sentence (ceiling 60)"
+  },
+  "d56a00ad7e32": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "95-word sentence (ceiling 60)"
+  },
+  "14ccf8328844": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "80-word sentence (ceiling 60)"
+  },
+  "cf6225d7f981": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "70-word sentence (ceiling 60)"
+  },
+  "ccc190468065": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "63-word sentence (ceiling 60)"
+  },
+  "93b19d7dea47": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "76-word sentence (ceiling 60)"
+  },
+  "142a39819a21": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "73-word sentence (ceiling 60)"
+  },
+  "c4fd16dd5caf": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "74-word sentence (ceiling 60)"
+  },
+  "51bda465a30e": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "67-word sentence (ceiling 60)"
+  },
+  "157024574b91": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "63-word sentence (ceiling 60)"
+  },
+  "f2c4c8a5fb4e": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "83-word sentence (ceiling 60)"
+  },
+  "22fe59fc0a87": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "120-word sentence (ceiling 60)"
+  },
+  "17e8c5040852": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "83-word sentence (ceiling 60)"
+  },
+  "1dd3979581e8": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "67-word sentence (ceiling 60)"
+  },
+  "201f0a879947": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_12_The_Kiss.md",
+   "detail": "62-word sentence (ceiling 60)"
+  },
+  "8a850569ef9e": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_13_Human_for_a_Day.md",
+   "detail": "76-word sentence (ceiling 60)"
+  },
+  "dbf0603624ae": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_13_Human_for_a_Day.md",
+   "detail": "73-word sentence (ceiling 60)"
+  },
+  "b8d7c71ff6bd": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_13_Human_for_a_Day.md",
+   "detail": "72-word sentence (ceiling 60)"
+  },
+  "3df7d03f3533": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_14_Hostile_Takeover.md",
+   "detail": "84-word sentence (ceiling 60)"
+  },
+  "337cc946d6de": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_14_Hostile_Takeover.md",
+   "detail": "70-word sentence (ceiling 60)"
+  },
+  "8556292a5400": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_14_Hostile_Takeover.md",
+   "detail": "62-word sentence (ceiling 60)"
+  },
+  "fdb0b04ae841": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_14_Hostile_Takeover.md",
+   "detail": "81-word sentence (ceiling 60)"
+  },
+  "c8b9dfe741b9": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_14_Hostile_Takeover.md",
+   "detail": "76-word sentence (ceiling 60)"
+  },
+  "5d272a13dc4a": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_14_Hostile_Takeover.md",
+   "detail": "123-word sentence (ceiling 60)"
+  },
+  "89cd21c3f27a": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_14_Hostile_Takeover.md",
+   "detail": "73-word sentence (ceiling 60)"
+  },
+  "440b63329939": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_14_Hostile_Takeover.md",
+   "detail": "79-word sentence (ceiling 60)"
+  },
+  "5ec37684f213": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_14_Hostile_Takeover.md",
+   "detail": "62-word sentence (ceiling 60)"
+  },
+  "73c63370b19d": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_15_Blood_Bonds.md",
+   "detail": "61-word sentence (ceiling 60)"
+  },
+  "ceb184449667": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_15_Blood_Bonds.md",
+   "detail": "65-word sentence (ceiling 60)"
+  },
+  "d9594f126666": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_15_Blood_Bonds.md",
+   "detail": "81-word sentence (ceiling 60)"
+  },
+  "e3af06d99ac0": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_16_Childish_Things.md",
+   "detail": "88-word sentence (ceiling 60)"
+  },
+  "013b2ec1f5a4": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_16_Childish_Things.md",
+   "detail": "111-word sentence (ceiling 60)"
+  },
+  "6974bead2779": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_16_Childish_Things.md",
+   "detail": "137-word sentence (ceiling 60)"
+  },
+  "8868a513f1fa": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_16_Childish_Things.md",
+   "detail": "72-word sentence (ceiling 60)"
+  },
+  "c962bd6bf2f9": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_16_Childish_Things.md",
+   "detail": "118-word sentence (ceiling 60)"
+  },
+  "a83ec2548b87": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_16_Childish_Things.md",
+   "detail": "68-word sentence (ceiling 60)"
+  },
+  "e291fe13e661": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_16_Childish_Things.md",
+   "detail": "94-word sentence (ceiling 60)"
+  },
+  "bb965aee8b97": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_16_Childish_Things.md",
+   "detail": "63-word sentence (ceiling 60)"
+  },
+  "6426207851ce": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_17_Childish_Things_Convention.md",
+   "detail": "70-word sentence (ceiling 60)"
+  },
+  "f973bfaa801e": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_17_Childish_Things_Convention.md",
+   "detail": "74-word sentence (ceiling 60)"
+  },
+  "36b4460daeb1": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_17_Childish_Things_Convention.md",
+   "detail": "68-word sentence (ceiling 60)"
+  },
+  "7ac8280f610d": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_17_Childish_Things_Convention.md",
+   "detail": "94-word sentence (ceiling 60)"
+  },
+  "d7b55baa2388": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_17_Childish_Things_Convention.md",
+   "detail": "90-word sentence (ceiling 60)"
+  },
+  "70ba90d8b76f": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_17_Childish_Things_Convention.md",
+   "detail": "69-word sentence (ceiling 60)"
+  },
+  "4596c754bf47": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_17_Childish_Things_Convention.md",
+   "detail": "83-word sentence (ceiling 60)"
+  },
+  "9b6a95d2a9b5": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_17_Childish_Things_Convention.md",
+   "detail": "83-word sentence (ceiling 60)"
+  },
+  "bbbce38aab61": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_17_Childish_Things_Convention.md",
+   "detail": "94-word sentence (ceiling 60)"
+  },
+  "40f7100b93c6": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_17_Childish_Things_Convention.md",
+   "detail": "91-word sentence (ceiling 60)"
+  },
+  "d8b4dfc02d1f": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_17_Childish_Things_Convention.md",
+   "detail": "65-word sentence (ceiling 60)"
+  },
+  "91f121039d56": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_17_Childish_Things_Convention.md",
+   "detail": "69-word sentence (ceiling 60)"
+  },
+  "7f0fde0c17cf": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_17_Childish_Things_Convention.md",
+   "detail": "67-word sentence (ceiling 60)"
+  },
+  "124f3871940a": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_17_Childish_Things_Convention.md",
+   "detail": "65-word sentence (ceiling 60)"
+  },
+  "e5ca7f19f6dc": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_17_Childish_Things_Convention.md",
+   "detail": "62-word sentence (ceiling 60)"
+  },
+  "d95168a17740": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_17_Childish_Things_Convention.md",
+   "detail": "71-word sentence (ceiling 60)"
+  },
+  "14e0600c7e9d": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_17_Childish_Things_Convention.md",
+   "detail": "74-word sentence (ceiling 60)"
+  },
+  "a6064ac8dec2": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_17_Childish_Things_Convention.md",
+   "detail": "76-word sentence (ceiling 60)"
+  },
+  "050cfca3aed2": {
+   "kind": "over60",
+   "severity": "hard",
+   "repo": "supergirl-adrian-vale",
+   "book": "supergirl-adrian-vale",
+   "file": "Chapter_17_Childish_Things_Convention.md",
+   "detail": "65-word sentence (ceiling 60)"
+  },
+  "8e19e9088d95": {
+   "kind": "sighting",
+   "severity": "advisory",
+   "repo": "-",
+   "book": "-",
+   "file": "library shelf copy of a registered book",
+   "detail": "8 chapter-bearing tree(s) outside the register \u2014 library shelf copy of a registered book; not gated, named here: soul-library/chapters/adaptive_prodigy; soul-library/chapters/devouring_dragon; soul-library/chapters/golden_lion; soul-library/chapters/grey_wolf; \u2026"
+  },
+  "61a716e8c0cc": {
+   "kind": "sighting",
+   "severity": "advisory",
+   "repo": "-",
+   "book": "-",
+   "file": "archived material",
+   "detail": "2 chapter-bearing tree(s) outside the register \u2014 archived material; not gated, named here: soul-land-universal-kit/SL_ARCHIVE/sl4_foundation_v2/chapters; soul-land-universal-kit/_archive/2026-09-30_park/soul_land_3_fanfiction/chapters"
+  },
+  "b50b59ba02a1": {
+   "kind": "sighting",
+   "severity": "advisory",
+   "repo": "-",
+   "book": "-",
+   "file": "copy of a registered book",
+   "detail": "2 chapter-bearing tree(s) outside the register \u2014 copy of a registered book; not gated, named here: soul-land-universal-kit/_archive/2026-09-30_park/blue_silver/archive_rejected_first_draft; soul-land-universal-kit/_archive/2026-09-30_park/blue_silver/chapters_rebuilt"
+  },
+  "e5c17951c216": {
+   "kind": "sighting",
+   "severity": "advisory",
+   "repo": "-",
+   "book": "-",
+   "file": "planning or inbox material",
+   "detail": "1 chapter-bearing tree(s) outside the register \u2014 planning or inbox material; not gated, named here: soul-land-universal-kit/SL1_GU_YUAN/uploads"
+  },
+  "d329243801dd": {
+   "kind": "dialogue-exempt",
+   "severity": "advisory",
+   "repo": "soul-land-universal-kit",
+   "book": "soul_land_devouring_dragon",
+   "file": "-",
+   "detail": "floor exempt: law, not defect: RAILS s45 (chapters with no panel carry no voices) + CANON VOICE LAW s53 (foundation/RAILS.md, foundati"
+  },
+  "9246e4448d18": {
+   "kind": "orphan-work",
+   "severity": "advisory",
+   "repo": "soul-library",
+   "book": "chapters/blue_silver",
+   "file": "soul-library/chapters/blue_silver",
+   "detail": "registered where it was found \u2014 15 chapter(s), 34,711 words: library shelf serial with no other home anywhere in the account \u2014 single chapter directory: ./"
+  }
+ }
+}
