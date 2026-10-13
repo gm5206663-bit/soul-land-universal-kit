@@ -52,7 +52,7 @@ body, and for thirteen chapters his entire project has been **not to be noticed*
 
 ## The chapters — V1 ARCHIVED (15 chapters, pre-rebuild — consolidated out of the live tree 2026-10-12; in the kit’s history)
 
-> V1 was retired 2026-09-23, and its files were consolidated out on 2026-10-12 — retrievable from the kit’s own history. The numbers below are `style_gate.py` counts post-repair. They are **not live** — V2 is the live serial.
+> V1 was retired 2026-09-23, and its files were consolidated out on 2026-10-12 — all fifteen chapters (and their CANON_LEDGER) survive in the kit’s history: `git show 9379d40^:_archive/2026-10-12_one-home/lan_shen_v1_epoch/v1_epoch_ch01-15/<file>`. The numbers below are `style_gate.py` counts post-repair. They are **not live** — V2 is the live serial.
 
 ```
 01  What He Said              5,843w   Awakening Day. A father does the arithmetic out loud.
