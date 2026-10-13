@@ -109,6 +109,17 @@ jobs:
             echo '```'
           } >> "$GITHUB_STEP_SUMMARY"
 
+      - name: Deletion insurance — archive every clone
+        if: always()
+        run: |
+          # 2026-10-13: GitHub restores a deleted repository for 90 days, then
+          # it is gone. A day of deletions earlier this year proved the account
+          # can shrink faster than anyone expects. This tarball is the cheap
+          # seatbelt: every cloned repository, byte-for-byte, kept as a run
+          # artifact for the retention window.
+          tar czf account-clones.tgz -C /tmp/account . || echo "no clones to archive"
+          ls -la account-clones.tgz 2>/dev/null || true
+
       - name: Upload the evidence
         if: always()
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
@@ -121,4 +132,5 @@ jobs:
             sweep.md
             sweep.html
             repos.txt
+            account-clones.tgz
           if-no-files-found: warn
