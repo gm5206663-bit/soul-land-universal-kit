@@ -18,10 +18,12 @@ Sources read in full on 2026-09-19 from `github.com/gm5206663-bit/soul-land-proj
 | `reference/sl3_lin_hao/.../CODEX/05_...md` §THE VOICE LAW | 🔴 the six rules, locked v3.10 |
 | `reference/sl3_lin_hao/.../PROBLEM_INVENTORY.md` | every mistake the author already paid for |
 | `reference/sl3_lin_hao/.../checks/*.py` | the machine enforcement, incl. banned tics |
-| `SOUL_LAND_NEW/foundation/SL3_FOUNDATION_LESSONS.md` | the ten craft laws, the M1–M10 gap analysis |
-| `SOUL_LAND_NEW/foundation/PERFECT_STORYLINE_METHOD.md` | the 56-section master method |
+| `SOUL_LAND_NEW/foundation/SL3_FOUNDATION_LESSONS.md` | the ten craft laws, the M1–M10 gap analysis — **removed in the 2026-10-12 one-copy pass; its surviving live text is §2/§4/§6 of this file; the original is retrievable from the kit's history (`f33cc19`)** |
+| `SOUL_LAND_NEW/foundation/PERFECT_STORYLINE_METHOD.md` | the 56-section master method — **removed in the same pass; the source it distilled is kept (`SL1_GU_YUAN/uploads/perfect stroyline plan handoff_package.txt`) and the evolved method lives in the how-to guide; original in the kit's history** |
 | `blue_silver/bluesilver_foundation/REBUILD_PLAN.md` | what a full rebuild looks like and why |
 | `blue_silver/chapters_rebuilt/` vs `blue_silver/chapters/` | the same story, rejected and rebuilt |
+
+> **Provenance note (added 2026-10-13, reading pass — add-only).** The `SOUL_LAND_NEW/…` and `reference/sl3_lin_hao/…` paths above pointed into source archives that were later emptied in the one-copy consolidation. The `reference/sl3_lin_hao` files' live equivalents sit in the kit's `adaptive_prodigy/` tree (`STYLE_GOLD.md`, `PROBLEM_INVENTORY.md`). The two `SOUL_LAND_NEW` rows carry their annotations in the table. Nothing in this file depends on a removed path.
 
 ---
 
@@ -315,6 +317,8 @@ let them breathe.
 ---
 
 ## 6. THE TEN CRAFT LAWS (`SL3_FOUNDATION_LESSONS.md` §2)
+
+> *Provenance: the named source doc was removed in the 2026-10-12 one-copy pass — the ten laws below and the M-list under them are its surviving live text. The original (including its fix plan) is retrievable: `git show f33cc19:_archive/2026-10-12_one-home/soul_land_new_pre_drop/foundation/SL3_FOUNDATION_LESSONS.md`.*
 
 1. The OC is never a watcher across a whole chapter → **§2**
 2. **Talent is embodied, never named.** No system voice. No narrator explaining "his gift means…"

@@ -19,7 +19,7 @@
 
 ## THE COUNT
 
-**152 distinct recorded mistakes (128 through §L, plus §M 8, §N 8, §O 2, §P 1, §Q 1) · 13 author strikes that became standing law · 5 disasters · 23 still open or author-gated.**
+**153 distinct recorded mistakes (129 through §L, plus §M 8, §N 8, §O 2, §P 1, §Q 1 · D9 added 2026-10-13) · 13 author strikes that became standing law · 5 disasters · 23 still open or author-gated.**
 
 ---
 
@@ -99,6 +99,7 @@
 | D6 | **The ch1–5 footer leak (found in the foundation study):** early chapters carried end-of-serial state — a "three purple rings" law line in chapter 1, when the OC is six with no rings. | Proof that centralized state + tight footers is the medicine; never embed end-state boilerplate in early chapters. | `SARA.md` §103 |
 | D7 | **Canon gaps held open honestly:** ch 28 missing, ch 1–22 not held, 337–600 skimmed. | K6 — open, tracked, not hidden. | `PROBLEM_INVENTORY.md` |
 | D8 | **Full-spectrum repair pass** after mid-run continuity cracks — every chapter re-audited against canon. | Passed green; the repair became the rebuild-protocol template. | commit `5e43793` |
+| D9 | **The foundation study's own audit (M1–M10) was never indexed here.** Reading the reference's first five chapters exposed ten craft defects in the then-live draft: watcher-posture chapters, talent named in narration, world rules stated but never priced, theme declared in speeches, thin side cast, no skill shown or withheld, one-way friendship, solitude bookends, no structural butterfly, footers missing the canon-coverage checklist. | Fix plan bound into that draft's next seam (the project was later dropped — §E). The study's craft doctrine survives live in `lan_shen/foundation/STYLE_LAW.md` §2 (spectator test, gate-enforced at four spoken turns), §4 (apparatus law + the footer-leak warning), §6 (the ten laws + the M-list). The original doc was removed by the 2026-10-12 one-copy pass; retrievable at kit history `f33cc19`. | `SARA.md` §103; `lan_shen/foundation/STYLE_LAW.md`; kit history `f33cc19` |
 
 ---
 

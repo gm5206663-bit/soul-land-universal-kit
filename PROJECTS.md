@@ -93,6 +93,10 @@ gone. This is the ledger:
 Qing Ling), the rejected-layer records inside `soul_land_4_fire_phoenix/archive/`, every
 live chapter, every codex. **Recovery:** the repositories these came from were deleted the
 same day and are restorable via GitHub for 90 days — after that window, extras are gone.
+**Second recovery path, inside this repository:** every file deleted in this pass was imported
+here first — `git show 9379d40^:_archive/2026-10-12_one-home/<path>` (or
+`…/soul_land_4_fire_phoenix/workshop/sources/<path>`) returns any of them from this
+repository's own history; the weekly clone archive covers whole-repository loss.
 
 **Inside this repository, what still repeats is only:** each project's own LICENSE/NOTICE
 (Boilerplate, carried per project on purpose), the Fire Phoenix status-panel copies, and

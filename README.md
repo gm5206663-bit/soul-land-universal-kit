@@ -385,3 +385,14 @@ them an older edition of a text that lives, or a copy of a tree that has a home.
 ledger is in [`PROJECTS.md`](PROJECTS.md). What remains identical anywhere here is
 LICENSE/NOTICE boilerplate and the author's own layer structure. Nothing that was the
 only copy of its text was touched.
+
+---
+
+## ADDITION — Errata from the 2026-10-13 reading pass (add-only)
+
+Nothing above was altered; the claims below were written before later passes and are corrected here.
+
+- **`soul-land-projects` is no longer browsable.** The 2026-09-23 housekeeping note above (and its URL) is void: the repository was emptied to a one-line pointer and **deleted** in the 2026-10-12 consolidation (404 on the live account, verified 2026-10-13) — its unique files were imported into this kit first (ledger and provenance in [`PROJECTS.md`](PROJECTS.md), receipt `867048b`).
+- **The "private fiction repo keeps its copy" premise is void.** That repository no longer exists (verified on the live account 2026-10-13). Where the 2026-10-03 cleanup list leans on it — the parked Adaptive Prodigy reference (`_archive/2026-09-30_park/Soul_Land_3_Project/`) and the `SOUL_LAND_NEW/` + `soul_land_starter/` scaffolds — what actually survives is: the serial's text on the Soul Library shelf and its live tree here; the scaffold system as `soul_land_new/` plus the kit templates; and, for anything else, only GitHub's delete-restore window (≈90 days from 2026-10-12), which the weekly sweep's clone archive now backs.
+- **Recovery, stated plainly.** Items the 2026-10-03 list calls "stripped from this repository's history" are genuinely absent from the current history (checked 2026-10-13: `git log` finds no commit for those paths) — for those, only GitHub's delete-restore window remains. Everything deleted in the **2026-10-12** one-copy pass is different: it was imported here first and is retrievable in-repo — `git show 9379d40^:_archive/2026-10-12_one-home/<path>` (or `…/soul_land_4_fire_phoenix/workshop/sources/<path>`).
+- **One live pointer repaired.** `lan_shen/foundation/STYLE_LAW.md`'s source table cited `SOUL_LAND_NEW/foundation/SL3_FOUNDATION_LESSONS.md`, removed in that same pass; the table now carries its provenance, and the ten craft laws it gave (live text: that file's §2/§4/§6) hold a case-study entry in the how-to guide (`docs/04_case_studies.md` §13).

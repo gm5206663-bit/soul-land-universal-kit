@@ -87,7 +87,8 @@ means *deep*, for what is underneath it. Everyone in Glorybound City will read t
 The first draft was written before this ruling existed and staged him as a **watcher**: quiet,
 controlled, alone in a crowd, staring at Wulin from across a wall, saying nothing, ending in
 solitude. It measured 5.2% dialogue across 21 spoken lines. It violated the Spectator Test,
-the Voice Law and M1/M7/M8 of `SL3_FOUNDATION_LESSONS.md` simultaneously, and it was
+the Voice Law and M1/M7/M8 of `SL3_FOUNDATION_LESSONS.md` (the source doc was later removed;
+the M-list survives in `STYLE_LAW.md` §6) simultaneously, and it was
 **rebuilt, not revised**.
 
 The shipped chapter one carries every ruling on the page:
