@@ -132,7 +132,7 @@ tools/
                                   Rebuilt from corpus evidence 2026-09-20 — see LOCK 16.
   selftest.py                  ← 20 checks. Proves every gate can fail, incl. regressions.
 
-_kit_reference/                ← VENDORED, NOT LIVE. Read NOTICE.md first. Never edit inside.
+../SOUL_LAND_UNIVERSAL_KIT/    ← the kit, one copy at the repo root. Not vendored here.
 audits/
   2026-09-20_FULL_COMPARATIVE_AUDIT.md   ← the five-failures diagnosis. Entry one.
 ```

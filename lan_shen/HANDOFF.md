@@ -205,7 +205,7 @@ because the reader trusts the parts that look current.
 | `codex/PLACES.md` | **LIVE** — **synced through ch13** (ordinary school, paper shop). 🔴 Read the bench entry before any measurement scene |
 | `audits/2026-09-20_FULL_COMPARATIVE_AUDIT.md` | **LIVE** — the five-failures diagnosis and everything fixed |
 | `tools/verify.py` `style_gate.py` `canon_copy_check.py` `selftest.py` | **LIVE** — 🔴 forks of the kit tools, not copies. `canon_copy_check.py` was rebuilt from corpus evidence on 2026-09-20 |
-| `_kit_reference/` | **VENDORED, NOT LIVE** — read `_kit_reference/NOTICE.md` first. Never edit a file inside it. Its `selftest.py` is layer 8 of the suite |
+| `../SOUL_LAND_UNIVERSAL_KIT/` | **The kit — one copy, at the repo root.** The vendored copy was not carried over in the 2026-10-12 consolidation (one-home law; see `IMPORTED.md`). Layer 8 of the suite runs its `tools/selftest.py` |
 | `canon_extract/chapters/*.txt` | **LIVE RECEIPTS** — never edit, never "correct." 🔴 **A receipt may quote canon. It may NEVER quote the serial** |
 | `/home/user/fix/**` | **WORKSPACE ROOT, OUTSIDE THIS REPO** — the author's security and cleanup pack. Source of `LICENSE`, the TWO-COPIES LAW and the privacy lesson |
 | `/home/user/github-token-setup.md` | 🔴🔴 **COMPROMISED CREDENTIAL. NEVER OPEN, NEVER USE, NEVER COPY INTO THIS REPO.** Outside the repo by design |
@@ -276,7 +276,7 @@ Run from `/home/user/lan_shen`:
 | 5 | Privacy grep | `checks/run_all.sh` | **PASS** — 🔴 **new layer. A live personal email was found in `OPEN_DECISIONS.md` and removed.** Proven to fire by planting a leak | 2026-09-20 |
 | 6 | Build hygiene | `checks/run_all.sh` | **PASS** — 🔴 **new layer.** A committed `__pycache__` was removed and `.gitignore` added | 2026-09-20 |
 | 7 | Gate selftest | `python3 tools/selftest.py` | **PASS** — 20 checks, 20 held, 0 blind. 🔴 **Four new checks, including a regression that injects the exact ch3 transcription shape** | 2026-09-20 |
-| 8 | Kit regression | `python3 _kit_reference/tools/selftest.py` | **PASS** — forked `verify.py` introduces no inherited-gate regression. 🔴 **Now run from the vendored copy, not from `../ref/`, so the suite does not depend on a directory outside the repository** | 2026-09-20 |
+| 8 | Kit regression | `python3 ../SOUL_LAND_UNIVERSAL_KIT/tools/selftest.py` | **PASS** — forked `verify.py` introduces no inherited-gate regression. (*2026-10-13: the vendored copy is gone with the 2026-10-12 consolidation — the suite now runs the kit’s one copy at the repo root.*) | 2026-09-20 |
 | 9 | Regression tokens | `python3 tools/banned_token_check.py` | **PASS** — 0 failures, 23 exempt receipts. 🔴 **New 2026-09-20.** Reads `foundation/BANNED_TOKENS.json`. On its first run it found nine fourth-wall breaks in shipped prose and two current-state documents asserting superseded values | 2026-09-20 |
 
 Note the deliberate difference in word counts: `verify.py` reports **3,848** and

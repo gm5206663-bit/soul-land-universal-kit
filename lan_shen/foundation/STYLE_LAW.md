@@ -399,7 +399,7 @@ before writing any date**.
 ```bash
 python3 tools/verify.py chapters/*.md      # kit gate — portability floor
 python3 tools/style_gate.py chapters/*.md  # THIS FILE — the voice wall
-python3 _kit_reference/tools/selftest.py   # prove the kit gate still works
+python3 ../SOUL_LAND_UNIVERSAL_KIT/tools/selftest.py   # prove the kit gate still works
 ```
 
 `tools/style_gate.py` is new to this project and was written on 2026-09-19 because

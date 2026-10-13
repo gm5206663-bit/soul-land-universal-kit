@@ -4,8 +4,8 @@ A dual-track reincarnation serial set in **Soul Land 3: The Legend of the Dragon
 (Douluo Dalu 3), by Tang Jia San Shao. Non-commercial fan work — see
 [NOTICE.md](NOTICE.md).
 
-> **V2 EPOCH — canon-parallel rebuild in progress · 2 chapters shipped and gated ·
-> 8,779 prose words · Awakening Day + First School Day, Year 0 · next: ch3, the foundling girl (canon 005).**
+> **V2 EPOCH — canon-parallel rebuild in progress · 7 chapters shipped and gated ·
+> 32,211 prose words · canon 001–009 covered on the page · live edge ch7, “Fed.”**
 > Started 2026-09-19 · epoch reset 2026-09-23 · V2 live 2026-09-26 · gates: 9 layers ALL GREEN.
 
 **Map:** [STATUS.md](STATUS.md) lists every file, its role, and the live numbers — auto-generated, always current.
@@ -30,24 +30,29 @@ body, and for thirteen chapters his entire project has been **not to be noticed*
 | **`HANDOFF.md`** | What is true *now*, the authority order, and which file wins when two disagree |
 | **`foundation/NO_MISTAKE_LIVE_RULES.md`** | **The sixteen locks.** Constitution + current state + every user ruling verbatim with its date |
 | **`SARA.md`** | The partner's self-file — who Sara is, the standing rules in the author's own words, and a growth ledger that is appended to every session |
-| `chapters/` | The serial — V2 live: 2 chapters (8,779w) · V1 archived: 15 chapters (see below) |
+| `chapters/` | The serial — V2 live: 7 chapters (32,211w) · V1 archived: 15 chapters (see below) |
 | `audits/` | Dated audit records. Entry one is the full comparative audit of 2026-09-20 |
 | `checks/run_all.sh` | **One command, nine layers.** `sh checks/run_all.sh` → ALL GREEN, exit 0 |
 | `LICENSE` | MIT for the tooling; derivative-work notice for the prose |
-| `_kit_reference/NOTICE.md` | Why the vendored kit copy is kept, and which files are authoritative |
+| `../SOUL_LAND_UNIVERSAL_KIT/` | The kit itself — one copy, at the repo root. The gates this project inherits, and their selftest (battery layer 8) |
 
 ## The chapters — V2 LIVE
 
 | # | File | Words | Beat |
 |---|---|---|---|
-| 01 | Chapter_01_What_the_Master_Said.md | 3,846w | Awakening Day. A father does the arithmetic out loud. Canon 001-002. |
-| 02 | Chapter_02_The_Fifteen.md | 4,933w | First school day + forge door. Canon 003-004. |
+| 01 | Chapter_01_What_the_Master_Said.md | 4,216w | Awakening Day. A father does the arithmetic out loud. Canon 001–002. |
+| 02 | Chapter_02_The_Fifteen.md | 5,153w | First school day + forge door. Canon 003–004. |
+| 03 | Chapter_03_The_Find.md | 5,175w | The silver girl by the roadside, the record as shield. Canon 005. |
+| 04 | Chapter_04_Bringing_Her_Home.md | 4,641w | Mother’s fear, the wash, five and a half, first meditation. Canon 006. |
+| 05 | Chapter_05_Stay_Here.md | 5,207w | The consent ruling; Mang Tian’s door. Canon 007–008. |
+| 06 | Chapter_06_Gifted.md | 4,125w | The thousand blows, the spine-shudder, the lane’s count from the well. Canon 009. |
+| 07 | Chapter_07_Fed.md | 3,694w | Live edge — “Fed.” |
 
-**Total V2 prose:** 8,779 words · 9-layer gate ALL GREEN.
+**Total V2 prose:** 32,211 words · 9-layer gate ALL GREEN.
 
-## The chapters — V1 ARCHIVED (15 chapters, pre-rebuild, kept for reference)
+## The chapters — V1 ARCHIVED (15 chapters, pre-rebuild — consolidated out of the live tree 2026-10-12; in the kit’s history)
 
-> V1 was retired 2026-09-23. The numbers below are `style_gate.py` counts post-repair. They are **not live** — V2 is the live serial.
+> V1 was retired 2026-09-23, and its files were consolidated out on 2026-10-12 — retrievable from the kit’s own history. The numbers below are `style_gate.py` counts post-repair. They are **not live** — V2 is the live serial.
 
 ```
 01  What He Said              5,843w   Awakening Day. A father does the arithmetic out loud.

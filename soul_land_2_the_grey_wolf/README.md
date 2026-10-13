@@ -18,10 +18,10 @@ He knows this world's book. He knows what continent is about to do, what rises i
 8. `foundation/TIMELINE.md` — canon spine receipted + our road
 9. `foundation/STORY_ARCS.md` — arc plan — Arc1 complete Arc2 road craft
 10. `foundation/RELATIONSHIPS.md` · `foundation/CHARACTERS.md` — cast canon and ours
-11. `foundation/CANON_GROUND.md` — receipts: nothing enters chapter unverified; `foundation/CANON_STUDY_BEAST_TYPE.md` — beast-type study whole; `foundation/SERIAL_LOG.md` — work journal; `foundation/AGENT_EXPERIENCE.md` — clean and clear guide for other agents F0-F22 + perfect rebuild
+11. `foundation/CANON_GROUND.md` — receipts: nothing enters chapter unverified; `foundation/CANON_STUDY_BEAST_TYPE.md` — beast-type study whole; `foundation/SERIAL_LOG.md` — work journal; `foundation/AGENT_EXPERIENCE.md` — clean and clear guide for other agents F0-F26 + perfect rebuild
 12. `foundation/GLOSSARY.md` · `foundation/PLACES.md` · `foundation/ECONOMY.md` — world terms map money
 13. `foundation/CODEX.md` — file map + decision log
-14. `chapters/Chapter_01_The_Grey_Wolf.md` — Ch1 2875w IN avg14.5; Ch2 2428w IN avg15.0; Ch3 2414w IN avg14.1; Ch4 2498w IN avg18.5; Ch5 3125w IN avg12.8; Ch6 2458w IN avg11.3 — all 6 rebuilt perfectly clean and clear no nonsense spam over60 0 the-way 0 bare 0; `manuscript/` gains FULL edition
+14. `chapters/Chapter_01_The_Grey_Wolf.md` — Ch1 2875w IN avg14.5; Ch2 2428w IN avg15.0; Ch3 2414w IN avg14.1; Ch4 2498w IN avg18.5; Ch5 3125w IN avg12.8; Ch6 2458w IN avg11.3; Ch7 2405w IN avg15.0; Ch8 2429w IN avg15.6; Ch9 2622w IN avg15.9; Ch10 2513w IN avg17.9 — all ten rebuilt perfectly clean and clear no nonsense spam over60 0 the-way 0 bare 0; `manuscript/` gains FULL edition
 15. `NOTICE.md` · `CHANGELOG.md` · `NEXT.md` — tracker updated to perfect rebuild
 16. `tools/` — pipeline: `style_gate.py` (style laws self-enforcing), `build_site.py` (reading site), `check_panels.py` (drift guard — frozen meter fails build), `run_all.py` (manuscript → gate → site → panel check + FULL edition)
 

@@ -86,7 +86,11 @@ else bad "6 build hygiene" "generated files committed to the tree" "$junk"; fi
 # A gate that has never been seen to fail is a gate nobody has tested.
 if [ "$QUICK" -eq 0 ]; then
   layer "7 selftest.py"      "0" python3 tools/selftest.py
-  layer "8 kit selftest.py"  "0" python3 _kit_reference/tools/selftest.py
+  # 2026-10-13: the vendored kit copy was not carried into the kit repo (the
+  # one-home consolidation, 2026-10-12 — see IMPORTED.md). Layer 8 now runs the
+  # kit’s ONE copy at the repo root, so the suite keeps its meaning: prove the
+  # inherited gates can fail.
+  layer "8 kit selftest.py"  "0" python3 ../SOUL_LAND_UNIVERSAL_KIT/tools/selftest.py
 fi
 
 # ---- 9. regression tokens --------------------------------------------------
