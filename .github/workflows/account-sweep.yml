@@ -13,7 +13,7 @@
 #   It sees public repositories only. A private repository cannot appear in this
 #   run, and its absence is NOT a clean result — the scope note says that out
 #   loud rather than letting a smaller account read as a healthier one. (As of
-#   2026-10-13 the account owns ten public repositories and no private ones;
+#   2026-10-13 the account owns twelve public repositories and no private ones;
 #   the former private SL4 workshop was consolidated into this kit and the
 #   standalone repository is gone.) It is a REPORTING run, not a build gate: it
 #   does not fail when the account carries known-open findings. A weekly red
