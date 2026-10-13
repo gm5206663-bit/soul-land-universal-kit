@@ -89,3 +89,19 @@ Protocol is law, and the coldest catches are the ones greps can't see.
 - Its replacement, founded the same day on the author's full spec: **`soul_land_3_oc/` — *One in a Thousand*** (SL3 era; same town as Tang Wulin; dual track — canon on the page, complete and in order, with the OC parallel). Start at its `README.md`.
 - Where the 2026-09-30 note above says `soul_land_3_prequel/`, read `soul_land_3_oc/`.
 
+
+---
+
+## AMENDMENT — 2026-10-13 (add-only): the boundaries after the one-home day
+
+- **The Fire Phoenix boundary changed.** The private repo `soul_land_4_fire_phoenix` and the
+  workshop repo were **deleted 2026-10-12**; their content came home. The live Fire Phoenix is
+  now `soul_land_4_fire_phoenix/` **in this repository** — read it as current, exactly like any
+  other live serial. (The old line in *Boundaries* above is history.)
+- **The root map split in two.** `README.md` is the one-screen cockpit — start there;
+  `HISTORY.md` holds the old dated README (the change log); `STATE.md` holds the dated sweeps.
+  Machine counts live in `REGISTER.md` (regenerate, never edit); identity and history in
+  `PROJECTS.md`.
+- **The register now walks a one-repo root honestly** — a register that reported `0 of 0`
+  chapter-bearing trees from inside this repository was a guarantee that never ran; fixed
+  2026-10-13 (`account_checks._repos`; kit register now reports 33 of 33, in `REGISTER.md`).

@@ -1,6 +1,6 @@
 # THE REGISTER — every book, every tree
 
-*Generated 2026-10-13 02:07 by `tools/register.py` over `this repository`. Regenerate it; never edit it.*
+*Generated 2026-10-13 02:41 by `tools/register.py` over `this repository`. Regenerate it; never edit it.*
 
 **16 registered books · 282 chapters · 1,209,710 words · 0 sentences over 60 words.**
 
@@ -27,10 +27,12 @@
 
 Nothing on this disk holding chapter prose is unnamed. Each line below is a tree that is not gated as a book — named, counted, and deliberately not gated.
 
+- **archived material** — 4 chapter-bearing tree(s) outside the register: SL_ARCHIVE/sl4_foundation_v2/chapters; _archive/2026-09-30_park/blue_silver/archive_rejected_first_draft; _archive/2026-09-30_park/blue_silver/chapters_rebuilt; _archive/2026-09-30_park/soul_land_3_fanfiction/chapters
+- **planning or inbox material** — 1 chapter-bearing tree(s) outside the register: SL1_GU_YUAN/uploads
 
 ## The guarantee
 
-- coverage: 0 of 0 chapter-bearing tree(s) accounted for (book or sighting)
-- note: 0 chapter-bearing tree(s) on disk: 0 under a registered book, 0 classified sighting(s)
+- coverage: 33 of 33 chapter-bearing tree(s) accounted for (book or sighting)
+- note: 33 chapter-bearing tree(s) on disk: 28 under a registered book, 5 classified sighting(s) — archived material: 4, planning or inbox material: 1
 
 *A register that only lists what it happened to look at is a register of the looking. This one lists the disk.*

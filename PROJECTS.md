@@ -10,10 +10,11 @@
 > The emptied repositories were then **deleted outright** (2026-10-12; GitHub keeps
 > deleted repositories restorable for 90 days). Nothing is lost, and nothing is
 > duplicated — **the account went from 18 repositories to 12, with one home for every
-> Soul Land project — the last strays, the Fire Phoenix workshop and its private
+> Soul Land project — further trimmed since; ten repositories by 2026-10-13, receipts in
+> the account audit — the last strays, the Fire Phoenix workshop and its private
 > working repository, followed their content home and were deleted the same hour.**
 
-**Totals: 24 Soul Land projects · one non-Soul-Land fic · 12 books with prose live in this repo.**
+**Totals are measured, never hand-typed — see [`REGISTER.md`](REGISTER.md)** (2026-10-13: 16 gated books · 282 chapters · 1,209,710 words). This ledger is identity and history; the register is the count.
 
 ---
 
@@ -30,14 +31,14 @@
 | SL4 — **Fire Phoenix** | `soul_land_4_fire_phoenix/` | 52 | 270,659 | 🔴 LIVE — **complete**: published chapters + working layers + the whole workshop. Both former repos deleted 2026-10-12; the pipeline now runs from this folder |
 | Qian Xunji | `qian_xunji/` | 9 | 25,956 | 🔴 LIVE |
 | Lan Shen (SL3 reincarnation serial) | `lan_shen/` | 7 | 32,211 | 🔴 LIVE |
-| SL1 — Fire Dragon Lizard | `soul_land_1_fire_dragon_lizard/` | 5 | 18,605 | shipped |
 
 ### Kept, not being written
 
 | Serial | Folder | Ch | Words | Status |
 |---|---|---:|---:|---|
+| SL1 — **Fire Dragon Lizard** | `soul_land_1_fire_dragon_lizard/` | 5 | 18,605 | ✅ SHIPPED — complete |
 | SL2 — **The Unraveled Tide** (OC Jiang Che) | `Soul_Land_2_Project/` | 24 | 80,127 | ⏸ PAUSED — revival queued |
-| SL2 — Blue Silver | `_archive/2026-09-30_park/blue_silver/` | 15 | ~34,711 | 🅿 PARKED — Book Two awaits rulings |
+| SL2 — Blue Silver | `_archive/2026-09-30_park/blue_silver/` | 15 | 34,711 | 🅿 PARKED — Book Two awaits rulings |
 | SL3 — **Qing Ling** | `_archive/2026-09-30_park/soul_land_3_fanfiction/` | 7 | — | 🅿 PARKED — the one resumable exception |
 | SL2 era — Holy Spirit | `soul_land_holy_spirit/` | 4 | 13,696 | ⏸ paused — revival queued |
 | SL3 — new serial (retired codex pair) | `soul_land_3_new/` | 1 | 3,802 | ❄ FROZEN by author |
@@ -45,10 +46,10 @@
 | SL5 — **The Second Heartbeat** | `Soul_Land_5_Project/` | 0 | — | 🌱 FOUNDATION STAGE |
 | SL2 — **Clear Sky Lion** | `soul_land_2_clear_sky_lion/` | 0 | — | 🌱 STAGE 0 — drafting locked |
 | SL2.5 — **Seed of Creation** | `seed_of_creation/` | 0 | — | 🌱 FOUNDATION STAGE |
-| SL3 — **The Adaptive Prodigy** (OC Lin Hao) | `adaptive_prodigy/` | 116 | ~523,000 | ❄ FROZEN REFERENCE — newest text + 2026-09 codex |
+| SL3 — **The Adaptive Prodigy** (OC Lin Hao) | `adaptive_prodigy/` | 116 | 523,356 | ❄ FROZEN REFERENCE — newest text + 2026-09 codex |
 | Dragon Prince Yuan (native OC) | `dragon_prince_yuan_native_oc_fanfiction/` | 1 | 3,706 | ⏸ Ch 2 blocked on source-novel text |
 | SL1 — **Gu Yuan** | `SL1_GU_YUAN/` | 0* | — | ⚠ approved edge Ch 98; **Ch 54–98 exist nowhere** — upload pack + Ch 75 preserved here |
-| Tianyu | `soul_land_new/` | 7 | 19,380 | ⚰ DROPPED post-mortem — do not continue |
+| **Lan Shen — the earlier build** (SL1 deep pre-canon) | `soul_land_new/` | 6 | 19,360 | ⚰ HISTORY — superseded by `lan_shen/` (V2). **Row corrected 2026-10-13:** was mislabeled "Tianyu — dropped"; the tree holds the Lan Shen scaffold build (`bible/PROTAGONIST.md`, author-given 2026-09-15). The Tianyu pre-drop state shared the folder name in the old `soul-land-projects` repo and died with the 2026-10-12 extras |
 
 \* plus the surviving upload-pack prose.
 

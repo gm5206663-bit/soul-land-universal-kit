@@ -79,17 +79,27 @@ def gate_verify(kit, chpath):
     ok(f"project sweep PASS ({m.group(2) if m else '?'} chapters)")
 
 def bump_root_readme(kit, n):
+    """Bump the Devouring Dragon row of the cockpit table (README.md since 2026-10-13).
+
+    Both figures are re-derived, never hand-typed: the chapter number from the
+    file being shipped, the word total measured from the book itself via the
+    kit's own live_book_gate (the same measure the register reports)."""
     p = os.path.join(kit, "README.md")
     t = open(p, encoding='utf-8').read()
-    a = re.search(r'devouring-dragon serial \((\d+) chapters', t)
-    if not a: die("root README LIVE BUILD line not found")
-    t = t.replace(f"devouring-dragon serial ({a.group(1)} chapters", f"devouring-dragon serial ({n} chapters", 1)
-    b = re.search(r'devouring-dragon serial\*\* \((\d+) chapters;', t)
-    if b: t = t.replace(f"devouring-dragon serial** ({b.group(1)} chapters;", f"devouring-dragon serial** ({n} chapters;", 1)
+    rx = re.compile(r'(\| SL2 · \*\*Devouring Dragon\*\* \| `soul_land_devouring_dragon/` \| )(\d+) · ([\d,]+)( \|)')
+    m = rx.search(t)
+    if not m:
+        die("root README Devouring Dragon row not found — the cockpit row moved; update this tool")
+    sys.path.insert(0, os.path.join(kit, "SOUL_LAND_UNIVERSAL_KIT", "tools"))
+    import live_book_gate as lbg
+    chdir = os.path.join(kit, "soul_land_devouring_dragon", "chapters")
+    total = sum(lbg.measure(os.path.join(chdir, f))['words']
+                for f in sorted(os.listdir(chdir)) if f.endswith('.md'))
+    t = t[:m.start(2)] + f"{n} · {total:,}" + t[m.end(3):]
     open(p, 'w', encoding='utf-8').write(t)
-    if f"devouring-dragon serial ({n} chapters" not in open(p, encoding='utf-8').read():
+    if f"{n} · {total:,}" not in open(p, encoding='utf-8').read():
         die("root README bump did not verify")
-    ok(f"root README -> {n} chapters")
+    ok(f"root README row -> {n} chapters · {total:,} words")
 
 def swap_serial_readme(kit, live_edge, next_beat):
     p = os.path.join(kit, "soul_land_devouring_dragon", "README.md")
@@ -180,8 +190,9 @@ MIRRORS = """AUTHORED MIRRORS — NOT AUTOMATABLE, NOT OPTIONAL (do these before
   5. foundation/CONTINUITY.md     — one row
   6. codex/PLACES.md              — new places
   7. codex/TIMELINE.md            — one row
-  8. root README ADDITION block   — add-only chapter receipt
-  9. commit + push the kit BEFORE pushing the site"""
+  8. HISTORY.md                   — add-only dated ship receipt (the ADDITION blocks live here since 2026-10-13)
+ 10. REGISTER.md + PROJECTS.md    — regenerate (SOUL_LAND_UNIVERSAL_KIT/tools/register.py --root . --out REGISTER.md); counts are measured, never hand-typed; sync PROJECTS rows if a status changed
+ 11. commit + push the kit BEFORE pushing the site"""
 
 def main():
     ap = argparse.ArgumentParser()

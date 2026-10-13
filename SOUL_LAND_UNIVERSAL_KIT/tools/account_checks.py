@@ -905,8 +905,11 @@ def _files_repo(base, suffixes=None):
 
 
 def _repos(root):
-    return sorted(d for d in (os.listdir(root) if os.path.isdir(root) else [])
+    kids = sorted(d for d in (os.listdir(root) if os.path.isdir(root) else [])
                   if os.path.isdir(os.path.join(root, d, '.git')))
+    if not kids and os.path.isdir(os.path.join(root, '.git')):
+        return ['.']          # the root is itself the repository (one-repo register)
+    return kids
 
 
 # --------------------------------------------------------------------------

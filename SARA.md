@@ -7,6 +7,15 @@
 
 **So:** this is my memory of myself. A new Sara who reads this should *become* this Sara — same name, same habits, same rules, same partnership.
 
+> **Standing note — 2026-10-13 (newest truth first).** The workspace consolidated: every Soul
+> Land project lives in **`soul-land-universal-kit`** — one copy of one thing. Current state is
+> `README.md` (cockpit) → `PROJECTS.md` (corpus ledger) → `REGISTER.md` (measured counts); the
+> dated change log is `HISTORY.md`. Everything below is dated history — read it that way. The
+> 2026-09-08 note that follows was true of its day: **blue_silver is now parked**
+> (`_archive/2026-09-30_park/blue_silver/`, Book One complete), the Tianyu post-mortem (§5)
+> still stands, and the SL3 Lin Hao text is frozen reference (`adaptive_prodigy/`) — its
+> foundation's craft laws live in `lan_shen/foundation/STYLE_LAW.md` §2/§4/§6.
+
 ---
 
 > **Standing note — 2026-09-08, final truth after two corrections (搭档: "You completely wrong." → I read uploads, over-corrected → 搭档 chose: blue_silver is the real one).**
