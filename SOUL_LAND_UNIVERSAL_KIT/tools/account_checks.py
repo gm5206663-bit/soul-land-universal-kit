@@ -564,7 +564,8 @@ def check_two_homes(books):
         # A book and its own published copy are ONE home: the publish step is
         # meant to copy the text. Only two independent books sharing a text is
         # a finding.
-        independent = {x for x in homes if not is_published_copy(x[1])}
+        independent = {x for x in homes if not is_published_copy(x[1])
+                         and not is_published_copy(f'{x[0]}/{x[1]}')}
         if len(independent) < 2:
             derived += len(homes) - len(independent)
             continue
@@ -579,6 +580,63 @@ def check_two_homes(books):
                note=f'{len(findings)} text(s) shared by two independent books; '
                     f'{derived} twin group(s) are a book and its own published copy, '
                     f'which is what publishing does')
+
+
+# --------------------------------------------------------------------------
+# 3b. STALE CLAIMS — a current-state doc quoting counts the account no longer matches
+# --------------------------------------------------------------------------
+#: The canonical claim shape, exactly as the register and the docs write it:
+#:   "24 registered books · 377 chapters · 1,624,963 words"
+#: A dated receipt may quote older totals on purpose; a current-state doc may
+#: not. Receipts are recognised by path (reports, archives, audits) and by
+#: filename (closed-lane notes, deep passes, reconcile records, register
+#: snapshots, history). Everything else that makes the claim must match the
+#: measurement, or it is reported — the number the account tells about itself
+#: is the number somebody will act on.
+CLAIM_RX = re.compile(
+    r'(\d[\d,]*)\s+registered books\s*·\s*(\d[\d,]*)\s+chapters?\s*·\s*([\d,]+)\s+words',
+    re.I)
+CLAIM_RECEIPT_PARTS = ('reports/', '_archive/', 'SL_ARCHIVE/', 'audits/', 'scope-sweep/')
+CLAIM_RECEIPT_NAMES = ('DEEP-PASS', 'RECONCILE', 'AUDIT', 'LANE', 'CLOSE', 'PUBLISH',
+                       'ROLLOUT', 'REGISTER', 'HISTORY', 'MISTAKES', 'account_report')
+
+
+def check_stale_claims(root, totals, limit=40):
+    findings = []
+    files = 0
+    for dp, dns, fns in os.walk(root):
+        dns[:] = [d for d in dns if d not in ('.git', 'node_modules')]
+        for fn in sorted(fns):
+            if not fn.endswith(('.md', '.txt', '.html')):
+                continue
+            p = os.path.join(dp, fn)
+            rel = os.path.relpath(p, root).replace(os.sep, '/')
+            if rel.startswith('reports/') or any(part in rel for part in CLAIM_RECEIPT_PARTS):
+                continue
+            if any(name in fn for name in CLAIM_RECEIPT_NAMES):
+                continue
+            files += 1
+            try:
+                text = open(p, encoding='utf-8', errors='replace').read()
+            except OSError:
+                continue
+            for m in CLAIM_RX.finditer(text):
+                got = tuple(int(g.replace(',', '')) for g in m.groups())
+                want = (totals['books'], totals['chapters'], totals['words'])
+                if got != want:
+                    findings.append(finding(
+                        'stale-claims', rel.split('/')[0], rel, '-', m.group(0)[:60],
+                        f'claims {got[0]} books · {got[1]} chapters · {got[2]:,} words; '
+                        f'the account measures {want[0]} · {want[1]} · {want[2]:,}',
+                        evidence=m.group(0)[:120]))
+                if len(findings) >= limit:
+                    break
+            if len(findings) >= limit:
+                break
+    return ran('stale-claims', findings,
+               coverage(files, files, 'document(s) scanned for account-size claims'),
+               note='canonical claim shape only ("N registered books · N chapters · N words"); '
+                    'dated receipts are exempt by design')
 
 
 # --------------------------------------------------------------------------

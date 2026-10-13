@@ -39,6 +39,7 @@ import sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import live_book_gate as lbg        # noqa: E402
 import account_checks as checks     # noqa: E402
+import register as reg              # noqa: E402
 
 SEV_ORDER = {'hard': 0, 'advisory': 1}
 OWNER = os.environ.get('GITHUB_OWNER', 'gm5206663-bit')
@@ -89,6 +90,13 @@ def run(root, only=None, pages=None, owner=OWNER):
         runs.append(checks.check_generated(root))
     if not only or 'enforcement' in only:
         runs.append(checks.check_enforcement(root))
+    if not only or 'stale-claims' in only:
+        ch = wd = 0
+        for b in books:
+            m = reg.measure_book(b)
+            ch += m[0]; wd += m[1]
+        runs.append(checks.check_stale_claims(
+            root, dict(books=len(books), chapters=ch, words=wd)))
     if not only or 'sightings' in only:
         runs.append(checks.check_sightings(root, books))
     if ('pages' in (only or ())) or (pages and not only):

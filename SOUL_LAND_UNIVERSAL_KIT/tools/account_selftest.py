@@ -378,6 +378,32 @@ case('a chapter tree nothing can explain is a HARD finding',
 case('a dead directory is skipped, not gated',
      with_dead, 'scope-refusal', want=False)
 
+# ---------------------------------------------------------------- 8j shelf copy
+case('a shelf copy of another book is one home, not two',
+     lambda r: as_repo(r, 'soul-library') or [
+         write(os.path.join(r, 'soul-library', 'chapters', 'twin_serial', f'Chapter_{i:02d}.md'),
+               chapter(i)) for i in range(1, 5)],
+     'two-homes', want=False, only=['two-homes'])
+
+# ---------------------------------------------------------------- 8k claims
+case('a doc quoting counts the account no longer matches is reported',
+     lambda r: write(os.path.join(r, 'alpha-repo', 'README.md'),
+                     '# Book_One\n\n**99 registered books · 999 chapters · 9,999,999 words.**\n'),
+     'stale-claims', only=['stale-claims'])
+
+
+def _claim_matching(r):
+    import register as reg
+    books = checks.registry(r)
+    ch = sum(reg.measure_book(b)[0] for b in books)
+    wd = sum(reg.measure_book(b)[1] for b in books)
+    write(os.path.join(r, 'alpha-repo', 'README.md'),
+          f'# Book_One\n\n**{len(books)} registered books · {ch:,} chapters · {wd:,} words.**\n')
+
+
+case('a doc quoting the measured counts is silent',
+     _claim_matching, 'stale-claims', want=False, only=['stale-claims'])
+
 print()
 shutil.rmtree(TMP, ignore_errors=True)
 print('ACCOUNT SELFTEST ' + ('PASSED' if OK else 'FAILED — do not trust these detectors'))

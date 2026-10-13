@@ -6,7 +6,7 @@
 #
 # WHAT IT DOES
 #   clones every PUBLIC repository the account owns, runs the house gate over
-#   every book, runs the eleven detectors of the Control Centre, writes the three
+#   every book, runs the twelve detectors of the Control Centre, writes the three
 #   reports, and puts the verdict on the run's summary page.
 #
 # WHAT IT DOES NOT DO, AND SAYS SO EVERY RUN
@@ -76,7 +76,7 @@ jobs:
             > sweep-gate.txt 2>&1 || true
           tail -1 sweep-gate.txt
 
-      - name: The account, whole — ten detectors
+      - name: The account, whole — twelve detectors
         run: |
           python3 SOUL_LAND_UNIVERSAL_KIT/tools/account.py report --root /tmp/account \
             --out-prefix sweep > sweep-report.txt 2>&1 || true
