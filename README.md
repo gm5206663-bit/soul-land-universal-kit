@@ -9,9 +9,11 @@ every file; agents read [`AGENTS.md`](AGENTS.md) first; the dated change log is
 (one clean reader, every published chapter) · in-repo: [**The Golden Lion** (SL2)](THE_GOLDEN_LION.md) ·
 [**The System Cheat**](docs/) · [**The Grey Wolf**](docs/grey-wolf/)
 
-*Not here:* the four other-fandom serials (Supergirl, MCU ×2, Pokémon) and the infrastructure
-repos (shelf, storyos, the how-to guide, the profile) — each lives in its own repository on the
-account. This repository is the Soul Land corpus + its method.
+*Not here:* the four other-fandom serials (Supergirl, MCU ×2, Pokémon), the infrastructure
+repos (shelf, storyos, the how-to guide, the profile), and the **Adaptation Talent doctrine**
+— now gathered into
+[`adaptation-talent`](https://github.com/gm5206663-bit/adaptation-talent) — each lives in its
+own repository on the account. This repository is the Soul Land corpus + its method.
 
 ---
 

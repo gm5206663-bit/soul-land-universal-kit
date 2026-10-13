@@ -10,7 +10,9 @@
 > The emptied repositories were then **deleted outright** (2026-10-12; GitHub keeps
 > deleted repositories restorable for 90 days). Nothing is lost, and nothing is
 > duplicated — **the account went from 18 repositories to 12, with one home for every
-> Soul Land project — further trimmed since; eleven repositories by 2026-10-13 (the desk layer publishes as the-authors-desk), receipts in
+> Soul Land project — further trimmed since; twelve repositories by 2026-10-13** (the desk
+> layer publishes as `the-authors-desk`; the Adaptation Talent doctrine publishes as
+> `adaptation-talent`), receipts in
 > the account audit — the last strays, the Fire Phoenix workshop and its private
 > working repository, followed their content home and were deleted the same hour.**
 
