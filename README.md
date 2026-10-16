@@ -55,6 +55,7 @@ own repository on the account. This repository is the Soul Land corpus + its met
 
 | Path | What it is |
 |---|---|
+| [`SWEEP-OPERATIONS.md`](SOUL_LAND_UNIVERSAL_KIT/tools/SWEEP-OPERATIONS.md) | scheduled account sweep — complete/incomplete outcomes, regression commands and recovery limits |
 | `SOUL_LAND_UNIVERSAL_KIT/` | the kit — doctrine docs, templates, gates, the account sweep; mirrored at `SOUL_LAND_WORKSPACE/kit/` |
 | `SOUL_LAND_WORKSPACE/` | the cockpit docset for the whole corpus |
 | `CODEX/` | the unified codex family — index at `CODEX/00_INDEX.md` |

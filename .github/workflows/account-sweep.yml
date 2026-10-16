@@ -21,6 +21,12 @@
 #   badge over known findings is a badge people learn to ignore; the numbers in
 #   the artifact and on the summary page are the product.
 #
+# INFRASTRUCTURE IS NOT A FINDING (2026-10-16)
+#   Discovery paginates and refuses an empty/incomplete clone set. Checker exit
+#   1 is accepted only with complete, internally consistent evidence. A crash,
+#   missing artifact or clone failure fails the job. Clone HEADs are published.
+#   The tarball contains shallow working snapshots, NOT full-history backups.
+#
 # WHY THE NUMBERS ARE TRUSTWORTHY
 #   The tools declare their own coverage (`n of m`) and this workflow prints it
 #   verbatim. The gate and the account tools are the same ones the house runs by
@@ -57,38 +63,40 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Clone every public repository
+      - name: Clone every public repository — complete or fail
         run: |
-          set -e
-          mkdir -p /tmp/account
-          curl -sf "https://api.github.com/users/gm5206663-bit/repos?per_page=100&type=owner" \
-            | python3 -c "import json,sys; [print(r['name']) for r in json.load(sys.stdin)]" \
-            | sort > repos.txt
-          echo "public repositories visible to this run: $(wc -l < repos.txt)"
-          while read -r r; do
-            git clone -q --depth 1 "https://github.com/gm5206663-bit/$r.git" "/tmp/account/$r" \
-              && echo "  cloned $r" || echo "  CLONE FAILED $r"
-          done < repos.txt
-          echo "repositories on disk: $(ls /tmp/account | wc -l)"
+          python3 SOUL_LAND_UNIVERSAL_KIT/tools/sweep_inventory.py \
+            --root /tmp/account --out-prefix sweep-inventory
 
-      - name: The house gate, every book
+      - name: The house gate, every discovered book
         run: |
+          code=0
           python3 SOUL_LAND_UNIVERSAL_KIT/tools/live_book_gate.py --all --root /tmp/account \
-            > sweep-gate.txt 2>&1 || true
-          tail -1 sweep-gate.txt
+            > sweep-gate.txt 2>&1 || code=$?
+          python3 SOUL_LAND_UNIVERSAL_KIT/tools/sweep_evidence.py gate sweep-gate.txt "$code"
+          tail -2 sweep-gate.txt
 
-      - name: The account, whole — twelve detectors
+      - name: The account, whole — all offline detectors
         run: |
+          code=0
           python3 SOUL_LAND_UNIVERSAL_KIT/tools/account.py report --root /tmp/account \
-            --out-prefix sweep > sweep-report.txt 2>&1 || true
+            --out-prefix sweep > sweep-report.txt 2>&1 || code=$?
+          python3 SOUL_LAND_UNIVERSAL_KIT/tools/sweep_evidence.py report sweep "$code"
           head -8 sweep-report.txt
 
       - name: Scope note — what this run cannot see
+        if: always()
         run: |
           {
             echo "## Account sweep — scope"
             echo ""
-            echo "This run cloned **$(ls /tmp/account | wc -l) public repositories**."
+            if [ -f sweep-inventory.json ]; then
+              echo '```json'
+              cat sweep-inventory.json
+              echo '```'
+            else
+              echo "Inventory did not finish; this run is NOT evidence of account health."
+            fi
             echo ""
             echo "**It cannot see private repositories.** A private repository's absence is"
             echo "not a clean result, and any count below is a count of the public account."
@@ -118,8 +126,12 @@ jobs:
           # can shrink faster than anyone expects. This tarball is the cheap
           # seatbelt: every cloned repository, byte-for-byte, kept as a run
           # artifact for the retention window.
-          tar czf account-clones.tgz -C /tmp/account . || echo "no clones to archive"
-          ls -la account-clones.tgz 2>/dev/null || true
+          if [ -d /tmp/account ]; then
+            tar czf account-clones.tgz -C /tmp/account .
+            ls -la account-clones.tgz
+          else
+            echo "No clone directory: no backup was created."
+          fi
 
       - name: Upload the evidence
         if: always()
@@ -132,6 +144,8 @@ jobs:
             sweep.json
             sweep.md
             sweep.html
-            repos.txt
+            sweep-inventory.txt
+            sweep-inventory.json
+            sweep-inventory-heads.json
             account-clones.tgz
           if-no-files-found: warn

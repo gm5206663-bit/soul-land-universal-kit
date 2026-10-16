@@ -1,0 +1,46 @@
+name: control-centre-tests
+
+# Tool edits must test the measuring machine, not only the stories it measures.
+on:
+  push:
+    paths:
+      - 'SOUL_LAND_UNIVERSAL_KIT/tools/**'
+      - '.github/workflows/control-centre-tests.yml'
+      - '.github/workflows/account-sweep.yml'
+  pull_request:
+    paths:
+      - 'SOUL_LAND_UNIVERSAL_KIT/tools/**'
+      - '.github/workflows/control-centre-tests.yml'
+      - '.github/workflows/account-sweep.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: control-centre-tests-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5.6.0
+        with:
+          python-version: '3.11'
+      - name: Control Centre detector regressions
+        run: python3 SOUL_LAND_UNIVERSAL_KIT/tools/account_selftest.py
+      - name: Discovery and evidence regressions — offline
+        run: |
+          python3 SOUL_LAND_UNIVERSAL_KIT/tools/sweep_inventory_selftest.py
+          python3 SOUL_LAND_UNIVERSAL_KIT/tools/sweep_evidence_selftest.py
+      - name: Live book gate regressions
+        run: python3 SOUL_LAND_UNIVERSAL_KIT/tools/live_book_gate.py --selftest
+      - name: Scope must fail when inputs shrink
+        run: bash SOUL_LAND_UNIVERSAL_KIT/tools/gate_selftest.sh
+      - name: Kit verifier regressions
+        run: python3 SOUL_LAND_UNIVERSAL_KIT/tools/selftest.py

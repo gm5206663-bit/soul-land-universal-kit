@@ -404,6 +404,34 @@ def _claim_matching(r):
 case('a doc quoting the measured counts is silent',
      _claim_matching, 'stale-claims', want=False, only=['stale-claims'])
 
+# Repository counts on current account front doors, including marked-up HTML.
+def _front_door(r, text, name='docs/index.html'):
+    as_repo(r, 'alpha-repo')
+    as_repo(r, 'beta-repo')
+    as_repo(r, 'the-authors-desk')
+    write(os.path.join(r, 'the-authors-desk', name), text)
+
+
+case('a stale spelled-out repository count in HTML is caught',
+     lambda r: _front_door(r, '<p>The control room for a twelve-repository account.</p>'),
+     'stale-claims', only=['stale-claims'])
+case('inline HTML cannot hide a stale repository count',
+     lambda r: _front_door(r, '<p><b>13</b> repositories</p>'),
+     'stale-claims', only=['stale-claims'])
+case('a measured front-door repository count is silent',
+     lambda r: _front_door(r, '<p><b>three</b> repositories</p>'),
+     'stale-claims', want=False, only=['stale-claims'])
+case('a historical report may keep its old repository count',
+     lambda r: _front_door(r, 'twelve repositories', 'reports/OLD.md'),
+     'stale-claims', want=False, only=['stale-claims'])
+case('story prose about repositories is not an account claim',
+     lambda r: write(os.path.join(r, 'alpha-repo', 'Book_One', 'chapters', 'Chapter_01.md'),
+                     chapter(1) + '\nThere were twelve repositories in the city.\n'),
+     'stale-claims', want=False, only=['stale-claims'])
+case('a stale numeric count in the desk README is caught',
+     lambda r: _front_door(r, '**99 repositories, one read**', 'README.md'),
+     'stale-claims', only=['stale-claims'])
+
 print()
 shutil.rmtree(TMP, ignore_errors=True)
 print('ACCOUNT SELFTEST ' + ('PASSED' if OK else 'FAILED — do not trust these detectors'))
