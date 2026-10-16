@@ -1,5 +1,16 @@
 # AGENTS.md — the contract for any AI agent arriving in this workspace
 
+<!-- account-agent-navigation: 2026-10-16 -->
+## Account navigation — read before acting
+
+[Start here for agents](https://github.com/gm5206663-bit/the-authors-desk/blob/main/agents/START-HERE.md) provides task routes,
+permission boundaries, evidence handling and handoff templates. It is navigation,
+not a replacement for this repository's local contract or a story authorization.
+Read applicable local/nested instructions and amendments; load current state
+from its designated owner, not an old profile, draft or maximum filename.
+
+<!-- /account-agent-navigation -->
+
 You are not the first agent here, and you will not be the last. This file is the
 front door. It is law-shaped on purpose: everything below has a receipt somewhere
 in the tree, and most of it was paid for by a real mistake (see

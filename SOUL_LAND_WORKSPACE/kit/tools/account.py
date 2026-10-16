@@ -9,7 +9,7 @@
 
 WHAT THIS IS FOR
 ----------------
-The account is eighteen repositories, dozens of books, well over a million words
+The account spans multiple repositories, dozens of books, well over a million words
 of prose, and dozens of check scripts that mostly cannot see each other. The
 gates answer one question well: *is this chapter sound?* Nothing answered the
 questions above that level — is the live directory the one that ships; does the

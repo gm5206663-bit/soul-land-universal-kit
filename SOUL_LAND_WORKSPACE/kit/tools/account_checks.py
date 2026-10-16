@@ -27,6 +27,7 @@ This module detects and reports. It never edits a manuscript.
 """
 
 import hashlib
+import html
 import os
 import re
 import subprocess
@@ -601,9 +602,24 @@ CLAIM_RECEIPT_NAMES = ('DEEP-PASS', 'RECONCILE', 'AUDIT', 'LANE', 'CLOSE', 'PUBL
                        'ROLLOUT', 'REGISTER', 'HISTORY', 'MISTAKES', 'account_report')
 
 
+# Repository totals are checked only on account front doors, not story prose or
+# historical registers. HTML is reduced to visible text so <b> tags cannot hide
+# a count. The scoped surfaces are intentional; this is not semantic NLP.
+REPO_NUMBERS = dict(zip(
+    'zero one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen twenty'.split(),
+    range(21)))
+REPO_COUNT_RX = re.compile(
+    r'\b(\d+|' + '|'.join(REPO_NUMBERS) + r')(?:-|\s+)repositor(?:y|ies)\b', re.I)
+ACCOUNT_FRONT_DOORS = {
+    'the-authors-desk/README.md', 'the-authors-desk/docs/index.html',
+    'gm5206663-bit/README.md',
+}
+
+
 def check_stale_claims(root, totals, limit=40):
     findings = []
     files = 0
+    repo_count = len(_repos(root))
     for dp, dns, fns in os.walk(root):
         dns[:] = [d for d in dns if d not in ('.git', 'node_modules')]
         for fn in sorted(fns):
@@ -620,6 +636,18 @@ def check_stale_claims(root, totals, limit=40):
                 text = open(p, encoding='utf-8', errors='replace').read()
             except OSError:
                 continue
+            if rel in ACCOUNT_FRONT_DOORS:
+                visible = html.unescape(re.sub(r'<[^>]+>', ' ', text))
+                visible = re.sub(r'\s+', ' ', visible)
+                for m in REPO_COUNT_RX.finditer(visible):
+                    word = m.group(1).lower()
+                    count = int(word) if word.isdigit() else REPO_NUMBERS[word]
+                    if count != repo_count:
+                        findings.append(finding(
+                            'stale-claims', rel.split('/')[0], rel, '-', m.group(0),
+                            f'front door claims {count} repositories; '
+                            f'the local inventory contains {repo_count}',
+                            evidence=m.group(0)))
             for m in CLAIM_RX.finditer(text):
                 got = tuple(int(g.replace(',', '')) for g in m.groups())
                 want = (totals['books'], totals['chapters'], totals['words'])
@@ -635,7 +663,7 @@ def check_stale_claims(root, totals, limit=40):
                 break
     return ran('stale-claims', findings,
                coverage(files, files, 'document(s) scanned for account-size claims'),
-               note='canonical claim shape only ("N registered books · N chapters · N words"); '
+               note='canonical book totals plus repository counts on desk/profile front doors; '
                     'dated receipts are exempt by design')
 
 
