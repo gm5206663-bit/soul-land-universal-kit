@@ -10,13 +10,13 @@
 | state | value |
 |---|---|
 | 🔴 epoch | **V2 — canon-parallel rebuild** (V1 archived) |
-| 📖 chapters live | **7** — Chapter_01_What_the_Master_Said.md, Chapter_02_The_Fifteen.md, Chapter_03_The_Find.md, Chapter_04_Bringing_Her_Home.md, Chapter_05_Stay_Here.md, Chapter_06_Gifted.md, Chapter_07_Fed.md |
-| ✍️ prose on page | **30,526 words** |
-| 🔋 battery (last run) | **9 layers ALL GREEN (2026-10-13)** |
+| 📖 chapters live | **8** — Chapter_01_What_the_Master_Said.md, Chapter_02_The_Fifteen.md, Chapter_03_The_Find.md, Chapter_04_Bringing_Her_Home.md, Chapter_05_Stay_Here.md, Chapter_06_Gifted.md, Chapter_07_Fed.md, Chapter_08_Clean_Hands.md |
+| ✍️ prose on page | **33,723 words** |
+| 🔋 battery (last run) | **9 layers ALL GREEN (2026-10-16)** |
 | ▶️ next | ch7 — acceptance night (canon 010–011; pairing decided at its board) |
-| 🗓 status dated | 2026-10-13 |
+| 🗓 status dated | 2026-10-16 |
 
-## 📖 chapters — the serial (live)  ·  7 files · 175.0K
+## 📖 chapters — the serial (live)  ·  8 files · 191.9K
 
 | file | size | status | role |
 |---|---|---|---|
@@ -27,8 +27,9 @@
 | `chapters/Chapter_05_Stay_Here.md` | 28.7K (4,929 w) | 🟢 | V2 ch5 — 'Stay Here and Be My Little Sister' — consent ruling, Mang Tian's door (canon 007–008). Gated 9/9. |
 | `chapters/Chapter_06_Gifted.md` | 22.7K (3,860 w) | 🟢 | V2 ch6 — 'Gifted' — the thousand blows, the spine-shudder, the lane's count from the well (canon 009). Gated 9/9. |
 | `chapters/Chapter_07_Fed.md` | 20.4K (3,356 w) | ⚠️ | UNREGISTERED — add a line for this file in tools/status_gen.py |
+| `chapters/Chapter_08_Clean_Hands.md` | 16.9K (3,197 w) | ⚠️ | UNREGISTERED — add a line for this file in tools/status_gen.py |
 
-## 🏛 foundation — laws, logs, boards  ·  30 files · 1.0M
+## 🏛 foundation — laws, logs, boards  ·  31 files · 1.0M
 
 | file | size | status | role |
 |---|---|---|---|
@@ -37,7 +38,7 @@
 | `foundation/CANON_LEDGER.md` | 56.5K | 📜 | Canon-receipt master: what's used, pending, forbidden. |
 | `foundation/CANON_MASTER.md` | 125.5K | 🟢 | Canon master: inventory, per-receipt digests, variance + gold ledgers, fetch queue (through 027). |
 | `foundation/CANON_NOTES.md` | 148.4K | 🟢 | Canon quotes/bible — ingested from the control centre. |
-| `foundation/CONTINUITY.md` | 69.2K | 🟢 | Scene-level continuity record. |
+| `foundation/CONTINUITY.md` | 70.5K | 🟢 | Scene-level continuity record. |
 | `foundation/CURRENT_STATE_MANIFEST.json` | 7.3K | 🟢 | Manifest of occupied workspace (scan_project default target). |
 | `foundation/LAN_SHEN_MISSION.md` | 5.4K | 🟢 | The mission thread's on-page visibility schedule — four columns, years 0–3 (REVISION 6). |
 | `foundation/NO_MISTAKE_LIVE_RULES.md` | 61.5K | 🟢 | Single live table of current project numbers (drift guard). |
@@ -49,6 +50,7 @@
 | `foundation/PREWRITE_ch05.md` | 9.5K | 🟢 | V2 ch5 prewrite board — short-form; post-draft record carries the corruption incident, logged openly. |
 | `foundation/PREWRITE_ch06.md` | 17.0K | 🟢 | V2 ch6 prewrite board — 27-beat canon-009 enumeration; contact-zero declared; both first-run FAILs logged. |
 | `foundation/PREWRITE_ch07.md` | 13.0K | 🗄 | V1-era prewrite board ch7 (retired with V1; mined material kept). |
+| `foundation/PREWRITE_ch08.md` | 2.7K | 🗄 | V1-era prewrite board ch8 (retired with V1; mined material kept). |
 | `foundation/PREWRITE_ch10.md` | 11.2K | 🗄 | V1-era prewrite board (retired with V1, kept for mined material). |
 | `foundation/PREWRITE_ch11.md` | 10.1K | 🗄 | V1-era prewrite board ch11 (retired with V1; mined material kept). |
 | `foundation/PREWRITE_ch12.md` | 13.9K | 🗄 | V1-era prewrite board ch12 (retired with V1; mined material kept). |
@@ -57,7 +59,7 @@
 | `foundation/PREWRITE_ch15.md` | 12.9K | 🗄 | V1-era prewrite board ch15 (retired with V1; mined material kept). |
 | `foundation/REBUILD_5b_DELTA.md` | 3.2K | 🟢 | 5b audit + delta map — the starvation repair behind REVISION 5. |
 | `foundation/REBUILD_PLAN.md` | 10.4K | 📜 | THE law of the V2 epoch: canon-parallel doctrine, arc spine, word sizes, ends-at-academy gate. |
-| `foundation/SERIAL_LOG.md` | 192.3K | 🟢 | Chapter rows + revision rows — every number the project ever froze on. |
+| `foundation/SERIAL_LOG.md` | 194.1K | 🟢 | Chapter rows + revision rows — every number the project ever froze on. |
 | `foundation/STATUS_PANEL.md` | 27.1K | 🟢 | In-world state: vocabulary, fog, registers, inventory. |
 | `foundation/STYLE_LAW.md` | 27.1K | 📜 | Six-vertex style bans + SCOPE/ART/PLAIN/CNDR/FP readability ceilings. |
 | `foundation/THE_PLAN.md` | 40.6K | 🟢 | Arc outline surface THE PLAN (infra meta). |
@@ -178,10 +180,10 @@
 | `LICENSE` | 1.0K | 🏠 | MIT License © 2026 Gaurav Meena — house standard. |
 | `NOTICE.md` | 950B | 🏠 | Soul Land / Tang Jia San Shao IP disclaimer — fan-work terms. |
 | `PROJECT_README.md` | 10.3K | 🏠 | Agent-facing quickstart — how to work this repo end-to-end. |
-| `README.md` | 8.5K | 🏠 | Public front door — pitch, doctrine, live stage line, project map. |
+| `README.md` | 8.6K | 🏠 | Public front door — pitch, doctrine, live stage line, project map. |
 | `SARA.md` | 19.7K | 🏠 | Ceremony memo at the kit lineage level (author reflections). |
 | `STATUS.md` | 18.1K | 🏠 | This file — live inventory, auto-generated, never hand-edited. |
 
 ---
 
-*131 files · generated 2026-10-13 · last battery: 9 layers ALL GREEN (2026-10-13)*
+*133 files · generated 2026-10-16 · last battery: 9 layers ALL GREEN (2026-10-16)*
