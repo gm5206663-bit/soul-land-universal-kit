@@ -2,22 +2,6 @@
 
 ```
 ◆ STATUS — Chapter 8: years 0–0
-KIND     : keeping. The morning after the closed door: clean hands at the pump,
-           the school walk, the workshop hour, a job decided over a counter,
-           a lamp in a gap.
-AGE      : the children six and five-and-a-half. The fifth school day.
-THREAT   : a light in a window that the boy does not look at closely.
-CANON    : 011 — the argument behind the closed door, heard only as a murmur
-           and a chair · Mang Tian's verdict carried as a number over a counter ·
-           the job decided, starting Monday · the morning after: the boy's arms
-           unhurt, the father's long look at his hands · Na'er's awakening
-           named for next year · the shoulder light seen through the gap,
-           never inspected.
-           011 complete at the door. 012 untouched.
-DIALOGUE : standard (13–30%).
-BUTTERFLY: B8 (contact, dust) — the job crosses the lane: Lang Yue starts at the
-           noodle street on Monday, which the lane will carry. Class-M: the
-           father's look at the boy's hands, unexplained, held.
 ```
 
 Lan Shen woke before the rooster. He had built that habit on purpose.

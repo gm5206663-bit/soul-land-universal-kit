@@ -2,27 +2,6 @@
 
 ```
 ◆ STATUS — Chapter 6: years 0–0
-KIND     : keeping. One afternoon of hammering, counted from both sides of a wall.
-AGE      : the children six and five-and-a-half. The third school day, noon to dark.
-THREAT   : a polite no with a hammer behind it — the body's limit, asked to behave.
-CANON    : the chaotic hall · the boy-high bench · "what do you know of forging" · the
-           tactful refusal, terms flat · half-metre table + the counting screen · twin
-           five-kilogram hammers, the hollow-guess disproved in the hand · the thousand
-           in canon's own milestones · the spine-shudder + the easier last stretch ·
-           swollen, invigorated · the unnoticed golden veins (reader-layer only) · five
-           minutes' breath · the wristwatch half-hour · the forced arithmetic · "hammer
-           for me until I say stop" · pure strength, no technique · the smith's wonder,
-           unsent.
-           009 held in full, re-voiced; staged inside the ch5 montage window (overlap
-           logged at the board: ch5 summarized, ch6 stages).
-DIALOGUE : standard (13–30%).
-BUTTERFLY: none — contact-zero declared at the board. Class-M (M4): "genius" by force,
-           weighed on a screen, read beside the boy whose gift is rate and unweighable
-           by hammers. Streak 0 → 1, watch on.
-FIREWALLS: the golden veined pattern reader-layer only, his own not-noticing · no
-           rank/ring/grant vocabulary in OC mouths · the smith's wonder never reaches
-           the lane · the test crosses the wall only as sound · the lane learns WHO
-           hammers from well-mothers, not from instruments.
 ```
 
 "In, then," said the forge.

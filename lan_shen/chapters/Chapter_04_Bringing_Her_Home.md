@@ -6,23 +6,6 @@
 
 ```
 ◆ STATUS — Chapter 4: years 0–0
-KIND     : a foundling brought home, told twice — the boy who fed her. The lane that
-           watched from behind its curtains.
-AGE      : the children six and five-and-a-half. First school night, mugs to desks.
-THREAT   : a mother's knowledge of the streets — and what the books do not know.
-CANON    : the name-mirror · her one POV line · stomach growl and the walk home ·
-           LANG YUE'S FEAR, reproach rewritten to a wash · the wash, the difference,
-           the porcelain reveal · biscuits and the plate-push lie · question trio ·
-           "five and a half" · the office announced · the first meditation, inward.
-           Held in full, re-voiced.
-DIALOGUE : standard (16–24%).
-BUTTERFLY: (5b retrofit) the lane speaks — Su Wan/Lang Yue doorstep exchange,
-           the foundling named into the register of mouths · dust · contact-made,
-           logged. Class-M: the mother's fear lands doubled with a watching lane.
-           Meditation staged per OPEN_DECISIONS #15: canon-inward, anonymous,
-           zero-contact; negative contact logged (Lan practices, senses nothing).
-RE-VOICE : withered-glory/spring-rebirth and delicate-yet-strong are receipt
-           7-grams — rendered in our own season imagery.
 ```
 
 The name sat between them in the warm, aftermath air like a coin left on a table for whoever wanted it next. Tang Wulin picked it up.

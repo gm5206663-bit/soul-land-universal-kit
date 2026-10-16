@@ -2,23 +2,6 @@
 
 ```
 ◆ STATUS — Chapter 5: years 0–0
-KIND     : keeping. One night, one school day, one forge door — and the lane already knowing.
-AGE      : the children six and five-and-a-half. The first night to the third morning.
-THREAT   : money, named in a father's voice. And what unfinished sentences are for.
-CANON    : the deepened meditation · the startled father · the lesson · office empty →
-           the stand, the consent ruling, the first nod ("_En._") · the appetite debt ·
-           divider built · the economics speech · Mang Tian's terms · the mother's tear ·
-           gate → twenty-minute walk → "younger sister has arrived" · gritted farewell.
-           007 + 008 held in full, re-voiced; both cut-off sentences stay cut.
-DIALOGUE : standard (13–30%).
-BUTTERFLY: recognition contact at the noon line (the boys already hold names; the 007
-           lesson lands ON THE LANE) · dust · contact-made, logged.
-           Class-M: "seek the help of others" — in this serial an other exists (ch3);
-           father's cut-off "Originally, he himself…" read against every other sentence
-           he leaves unfinished.
-FIREWALLS: both unfinished sentences stay unfinished · Na'er's appetite and absence-from-
-           records held unexplained · no rank/ring vocabulary in OC mouths · money reaches
-           the Shen table only as small coin and porridge.
 ```
 
 It was not the same meditation twice.

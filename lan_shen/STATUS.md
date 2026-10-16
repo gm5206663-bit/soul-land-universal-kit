@@ -16,18 +16,18 @@
 | ▶️ next | ch7 — acceptance night (canon 010–011; pairing decided at its board) |
 | 🗓 status dated | 2026-10-16 |
 
-## 📖 chapters — the serial (live)  ·  8 files · 191.9K
+## 📖 chapters — the serial (live)  ·  8 files · 182.3K
 
 | file | size | status | role |
 |---|---|---|---|
-| `chapters/Chapter_01_What_the_Master_Said.md` | 22.5K (4,040 w) | 🟢 | V2 ch1 — 'What the Master Said' — dual-track canon-parallel (canon 001–002 + OC Awakening Day). Gated 9/9. |
-| `chapters/Chapter_02_The_Fifteen.md` | 27.7K (4,966 w) | 🟢 | V2 ch2 — 'The Fifteen' — first school day with the fifteen and the knife boy (canon 003–004). Gated 9/9. |
-| `chapters/Chapter_03_The_Find.md` | 27.5K (4,970 w) | 🟢 | V2 ch3 — 'The Find' — the silver girl by the roadside, the record as shield (canon 005). Gated 9/9. |
-| `chapters/Chapter_04_Bringing_Her_Home.md` | 25.4K (4,405 w) | 🟢 | V2 ch4 — 'Bringing Her Home' — mother's fear, the wash, five and a half, first meditation (canon 006). Gated 9/9. |
-| `chapters/Chapter_05_Stay_Here.md` | 28.7K (4,929 w) | 🟢 | V2 ch5 — 'Stay Here and Be My Little Sister' — consent ruling, Mang Tian's door (canon 007–008). Gated 9/9. |
-| `chapters/Chapter_06_Gifted.md` | 22.7K (3,860 w) | 🟢 | V2 ch6 — 'Gifted' — the thousand blows, the spine-shudder, the lane's count from the well (canon 009). Gated 9/9. |
-| `chapters/Chapter_07_Fed.md` | 20.4K (3,356 w) | ⚠️ | UNREGISTERED — add a line for this file in tools/status_gen.py |
-| `chapters/Chapter_08_Clean_Hands.md` | 16.9K (3,197 w) | ⚠️ | UNREGISTERED — add a line for this file in tools/status_gen.py |
+| `chapters/Chapter_01_What_the_Master_Said.md` | 21.8K (4,040 w) | 🟢 | V2 ch1 — 'What the Master Said' — dual-track canon-parallel (canon 001–002 + OC Awakening Day). Gated 9/9. |
+| `chapters/Chapter_02_The_Fifteen.md` | 26.9K (4,966 w) | 🟢 | V2 ch2 — 'The Fifteen' — first school day with the fifteen and the knife boy (canon 003–004). Gated 9/9. |
+| `chapters/Chapter_03_The_Find.md` | 26.5K (4,970 w) | 🟢 | V2 ch3 — 'The Find' — the silver girl by the roadside, the record as shield (canon 005). Gated 9/9. |
+| `chapters/Chapter_04_Bringing_Her_Home.md` | 24.1K (4,405 w) | 🟢 | V2 ch4 — 'Bringing Her Home' — mother's fear, the wash, five and a half, first meditation (canon 006). Gated 9/9. |
+| `chapters/Chapter_05_Stay_Here.md` | 27.4K (4,929 w) | 🟢 | V2 ch5 — 'Stay Here and Be My Little Sister' — consent ruling, Mang Tian's door (canon 007–008). Gated 9/9. |
+| `chapters/Chapter_06_Gifted.md` | 21.2K (3,860 w) | 🟢 | V2 ch6 — 'Gifted' — the thousand blows, the spine-shudder, the lane's count from the well (canon 009). Gated 9/9. |
+| `chapters/Chapter_07_Fed.md` | 18.5K (3,356 w) | ⚠️ | UNREGISTERED — add a line for this file in tools/status_gen.py |
+| `chapters/Chapter_08_Clean_Hands.md` | 15.9K (3,197 w) | ⚠️ | UNREGISTERED — add a line for this file in tools/status_gen.py |
 
 ## 🏛 foundation — laws, logs, boards  ·  31 files · 1.0M
 
@@ -170,6 +170,12 @@
 | `audits/AUDIT_2026-10-10_DEEP.md` | 4.5K | 🔍 | Deep audit 2026-10-10 — the 'seriously' pass: doctrine docs read in full, chapter beats verified against receipts. |
 | `audits/AUDIT_2026-10-10_FULL.md` | 5.0K | 🔍 | Full workshop audit 2026-10-10 — tree quantified; V1 baggage quarantined (commit c7ca486). |
 
+## 🗄 _archive — V1 epoch (retired)  ·  1 files · 10.6K
+
+| file | size | status | role |
+|---|---|---|---|
+| `_archive/2026-10-16_chapter_status_bodies.md` | 10.6K | ⚠️ | UNREGISTERED — add a line for this file in tools/status_gen.py |
+
 ## 🏠 root — front door + house papers  ·  9 files
 
 | file | size | status | role |
@@ -182,8 +188,8 @@
 | `PROJECT_README.md` | 10.3K | 🏠 | Agent-facing quickstart — how to work this repo end-to-end. |
 | `README.md` | 8.6K | 🏠 | Public front door — pitch, doctrine, live stage line, project map. |
 | `SARA.md` | 19.7K | 🏠 | Ceremony memo at the kit lineage level (author reflections). |
-| `STATUS.md` | 18.1K | 🏠 | This file — live inventory, auto-generated, never hand-edited. |
+| `STATUS.md` | 18.4K | 🏠 | This file — live inventory, auto-generated, never hand-edited. |
 
 ---
 
-*133 files · generated 2026-10-16 · last battery: 9 layers ALL GREEN (2026-10-16)*
+*134 files · generated 2026-10-16 · last battery: 9 layers ALL GREEN (2026-10-16)*

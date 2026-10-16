@@ -2,17 +2,6 @@
 
 ```
 ◆ STATUS — Chapter 2: years 0–0
-KIND     : the first of nine years, told twice on one street — the feast, and the ledger.
-AGE      : the boys six. Awakening Day's dusk to the next day's last bell.
-CLASS    : two grasses in one class of fifteen. Rank three, laughed at. Rank one, ranked.
-THREAT   : the knife boy (rank five) and the laughter of fourteen.
-CANON    : one-in-a-million · Lang Yue's name and table · the fever, three gold circuits ·
-           the tornado supper and the choice · free-and-compulsory, never tuition ·
-           the fifteen · the Knife God Douluo · gold at the root · Lin Ximeng's lesson,
-           rank ten the door, Battle and Utility. Held in full, re-voiced.
-DIALOGUE : standard 13–30%
-BUTTERFLY: premise-slot inside the fifteen · introduction contact, logged · gold-root
-           glance, observation only · two-Lan street reading, warm.
 ```
 
 The quiet held until the lane bent home, among kitchen sounds and bucket water. Then Tang Ziran looked down at the boy beside him — head low, sandy hair still slept-wrong — and he stopped walking.

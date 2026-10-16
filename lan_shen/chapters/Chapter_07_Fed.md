@@ -2,32 +2,6 @@
 
 ```
 ◆ STATUS — Chapter 7: years 0–0
-KIND     : keeping. Dawn tally to night kitchen: the second session in full, the
-           smith's yes, two suppers.
-AGE      : the children six and five-and-a-half. The fourth school day.
-THREAT   : resolution — a door held open by a boy's arms all afternoon.
-CANON    : the doctrine preamble — casting vs forging, living metal, no machine can
-           feel veins · the craftsman's standing level with a Master of souls · two
-           dreams in one breath, one remembered · the second session complete —
-           direct and strong, recoil swallowed whole by small arms · fifty, eighty,
-           one hundred, one hundred and fifty · the interior vow, re-voiced · the
-           silent watcher · the support-catch · swollen beyond a day's business ·
-           genius priced differently at six · acceptance for perseverance, not
-           strength · the daily hour · the ointment · the wound found · the tears ·
-           the achievement feeling · plans spoken aloud over one trace of blankness ·
-           Big Brother Lin, once · the home-law of mothers and fathers · the first
-           smile · the protect-you promise · the closed door giving every ear
-           nothing · the feeding · the lamplight gone gentle.
-           010 complete. 011 lends only its closed door.
-DIALOGUE : standard (13–30%).
-BUTTERFLY: B8 (contact, dust) — the ointment bottle crosses the lane visibly:
-           doorstep salve-truth exchange, nothing else traded. Class-M (M5): the
-           first smile behind the wall, against unsmiling ledgers. Class-M (M6):
-           strength trainable, persistence not — known by the reader, unknown to the
-           boy whose rate tempers but does not train. Streak 1 → 0.
-FIREWALLS: doctrine stays smith-side; nothing crosses the lane but a bottle ·
-           blankness staged once, never inspected · no gold anywhere today ·
-           federation coins only · the closed door stays closed on the page.
 ```
 
 His day started the way it always started: awake before the lane, legs folded on the sleeping mat, eyes shut, hunting the warm thread.

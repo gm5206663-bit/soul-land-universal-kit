@@ -2,16 +2,6 @@
 
 ```
 ◆ STATUS — Chapter 1: years 0–0
-KIND     : Awakening Day, told twice on one street — the canon walk, and the neighbor's.
-AGE      : the boys six. One day, dawn to dark, summer of Year 0.
-CLASS    : grass, twice. Rank three, pitied at its luck. Rank one, filed at its luck.
-THREAT   : nobody wields anything yet. The day's weapon is arithmetic.
-CANON    : the walk ("Dad will always love you") · the apathetic teacher · seven floors,
-           the third · the orange robe · the scream · the golden lines · trash grass ·
-           rank 3 · the patriarch tale. Held in full.
-DIALOGUE : standard (13–30%).
-BUTTERFLY: (5b retrofit 2026-10-10) the two fathers meet in the queue —
-           the households known from hour one · dust · contact-made, logged.
 ```
 
 Glorybound City sat on the edge of the eastern coast with the sea laid out beyond it, and on Awakening Day the city came early to Red Mountain Academy's street. Dawn arrived and the parents were already packed tight, children in hand, in front of the white walls and red roofs.

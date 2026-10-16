@@ -2,16 +2,6 @@
 
 ```
 ◆ STATUS — Chapter 3: years 0–0
-KIND     : the road home, told twice — the boy who charged. The boy who ran for the
-           baker.
-AGE      : the boys six. First school day, last bell to the lamps.
-THREAT   : three delinquents with a lazy grin between them and a taste for silver hair.
-CANON    : the gates' sour taste · the teacher's kind efficiency · the Rice Bucket ·
-           silver in the sun · the circle of youths · the kick, the grass, the Dagger —
-           and the record · "My name is Na'er." Held in full, re-voiced.
-DIALOGUE : standard (13–30%). Historical note: a hush dial was declared 2026-09-23 when the share measured 8.5%; that reading was a quote-wrapping metric artifact (quotes split across hard line-wraps escape the counter). True joined share is 27%, inside standard. Amendment rescinded with data, logged as SERIAL_LOG revision 4.
-BUTTERFLY: bystander slot occupied, logged · baker-door effort swallowed by the canon
-           resolution · file-shield realisation, OC skin · no eyes read at OC distance.
 ```
 
 At the corner where their ways split, Tang Ziran gave the third morning- crouch of the week.
