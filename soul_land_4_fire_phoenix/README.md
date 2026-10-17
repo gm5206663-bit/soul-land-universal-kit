@@ -15,6 +15,8 @@ chapter entries still need dedicated scene art. Yan’s delicate feminine beauty
 is preserved beneath the public boy identity; companion designs are provisional.
 This media work does not change prose, canon state or the next-chapter permission.
 
+[Publication checks and download hash](../reports/2026-10-17-fire-phoenix-media/README.md).
+
 ## Current state
 
 The post-ranking/reward arc has been rebuilt from the Chapter46/47 ranking-reward transition. The active rebuilt sequence now runs through Chapter52.
