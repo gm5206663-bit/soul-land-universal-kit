@@ -2,6 +2,19 @@
 
 Live edge: **after Chapter52, `Amiable Beasts`**.
 
+## Pictures, video and chapter storyboard
+
+[Public media gallery](https://gm5206663-bit.github.io/soul-land-universal-kit/fire-phoenix-media/) ·
+[Production README](media/README.md) ·
+[Complete download](https://github.com/gm5206663-bit/soul-land-universal-kit/releases/tag/fire-phoenix-media-v1)
+
+Working production v1 covers the existing 52-chapter line: eight new scene
+illustrations, 52 designed chapter plates, an English-narrated trailer and a
+chapter-overview motion video. **It is not a 52-episode animated series:** 42
+chapter entries still need dedicated scene art. Yan’s delicate feminine beauty
+is preserved beneath the public boy identity; companion designs are provisional.
+This media work does not change prose, canon state or the next-chapter permission.
+
 ## Current state
 
 The post-ranking/reward arc has been rebuilt from the Chapter46/47 ranking-reward transition. The active rebuilt sequence now runs through Chapter52.

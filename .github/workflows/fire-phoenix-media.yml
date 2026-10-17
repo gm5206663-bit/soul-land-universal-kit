@@ -1,0 +1,58 @@
+name: fire-phoenix-media
+
+# This validates a published media snapshot, not a permission to change prose.
+# The frozen source checkout prevents later story advancement from making this
+# Chapter 1–52 package pretend it covers new chapters or blocking that advance.
+on:
+  push:
+    paths:
+      - 'soul_land_4_fire_phoenix/media/**'
+      - 'docs/fire-phoenix-media/**'
+      - '.github/workflows/fire-phoenix-media.yml'
+  pull_request:
+    paths:
+      - 'soul_land_4_fire_phoenix/media/**'
+      - 'docs/fire-phoenix-media/**'
+      - '.github/workflows/fire-phoenix-media.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: fire-phoenix-media-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  integrity:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Current deliverables
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          persist-credentials: false
+      - name: Exact source snapshot, not moving story state
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          ref: 856bc3bebe306827504c4f183ab786d225c1c3e0
+          path: .media-pinned-source
+          persist-credentials: false
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5.6.0
+        with:
+          python-version: '3.11'
+      - name: Install technical check dependencies
+        run: python -m pip install -r soul_land_4_fire_phoenix/media/requirements.txt
+      - name: One tracked gallery, linked from the media tree
+        run: |
+          test -L soul_land_4_fire_phoenix/media/index.html
+          test "$(readlink soul_land_4_fire_phoenix/media/index.html)" = '../../docs/fire-phoenix-media/index.html'
+      - name: Image, audio, full video decode and SHA-256 integrity
+        run: >-
+          python soul_land_4_fire_phoenix/media/tools/validate.py
+          --source .media-pinned-source --check-manifest --no-write
+      - name: Explain scope
+        run: |
+          echo '## Fire Phoenix media integrity' >> "$GITHUB_STEP_SUMMARY"
+          echo '52 source-pinned chapter plates; 8 unique scene illustrations; 10 illustrated chapter entries; 42 scene-art plans; 10 audio tracks; 2 illustrated motion videos.' >> "$GITHUB_STEP_SUMMARY"
+          echo 'Technical checks do not claim character animation, perfect visual fidelity, human-reviewed pronunciation or author approval of all provisional designs.' >> "$GITHUB_STEP_SUMMARY"

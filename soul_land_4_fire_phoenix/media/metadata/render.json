@@ -1,0 +1,384 @@
+{
+  "video_kind": "Illustrated motion storyboard; no character animation or lip sync",
+  "fps": 24,
+  "width": 1280,
+  "height": 720,
+  "source_revision": "856bc3bebe306827504c4f183ab786d225c1c3e0",
+  "chapter_timing": "Approximate transitions; not word-aligned captions",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Beneath the Same Dawn",
+      "start": 3.0,
+      "duration": 11.083,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 2,
+      "title": "Warm Hands",
+      "start": 14.083,
+      "duration": 10.792,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 3,
+      "title": "The Shape Inside",
+      "start": 24.875,
+      "duration": 9.833,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 4,
+      "title": "The First Record",
+      "start": 34.708,
+      "duration": 11.125,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 5,
+      "title": "The Weight Between Them",
+      "start": 45.833,
+      "duration": 10.875,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 6,
+      "title": "The Right Wings",
+      "start": 56.708,
+      "duration": 9.917,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 7,
+      "title": "What Came Home",
+      "start": 66.625,
+      "duration": 8.833,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 8,
+      "title": "The Bell After the Sky",
+      "start": 75.458,
+      "duration": 11.75,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 9,
+      "title": "Three Months of Quiet Fire",
+      "start": 87.208,
+      "duration": 11.958,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 10,
+      "title": "The Building That Held Its Breath",
+      "start": 99.167,
+      "duration": 10.958,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 11,
+      "title": "The Tenth Name",
+      "start": 110.125,
+      "duration": 9.75,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 12,
+      "title": "The Forest That Answered",
+      "start": 119.875,
+      "duration": 10.625,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 13,
+      "title": "The Seat That Waited",
+      "start": 130.5,
+      "duration": 10.875,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 14,
+      "title": "The Fire That Did Not Step In",
+      "start": 141.375,
+      "duration": 11.708,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 15,
+      "title": "The First Coin",
+      "start": 153.083,
+      "duration": 11.083,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 16,
+      "title": "The Door That Answered",
+      "start": 164.167,
+      "duration": 12.292,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 17,
+      "title": "The Question at the Table",
+      "start": 176.458,
+      "duration": 11.542,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 18,
+      "title": "The Bright Edge",
+      "start": 188.0,
+      "duration": 10.417,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 19,
+      "title": "The Question No Teacher Should Hear",
+      "start": 198.417,
+      "duration": 12.792,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 20,
+      "title": "The Answer Behind the Door",
+      "start": 211.208,
+      "duration": 10.458,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 21,
+      "title": "The Meaning of a Plus Sign",
+      "start": 221.667,
+      "duration": 10.792,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 22,
+      "title": "The Quietest Place",
+      "start": 232.458,
+      "duration": 10.958,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 23,
+      "title": "Ten Seconds",
+      "start": 243.417,
+      "duration": 9.667,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 24,
+      "title": "Twenty Minutes",
+      "start": 253.083,
+      "duration": 9.833,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 25,
+      "title": "The Second Weight",
+      "start": 262.917,
+      "duration": 10.833,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 26,
+      "title": "The Test That Chose a Target",
+      "start": 273.75,
+      "duration": 10.958,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 27,
+      "title": "The Door That Chose Twice",
+      "start": 284.708,
+      "duration": 10.417,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 28,
+      "title": "The Match They Were Allowed to See",
+      "start": 295.125,
+      "duration": 12.0,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 29,
+      "title": "The Defeat He Chose",
+      "start": 307.125,
+      "duration": 10.583,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 30,
+      "title": "The Color Pressure Found",
+      "start": 317.708,
+      "duration": 12.042,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 31,
+      "title": "The Match the Board Owed",
+      "start": 329.75,
+      "duration": 10.375,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 32,
+      "title": "The Years That Learned to Wait",
+      "start": 340.125,
+      "duration": 11.917,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 33,
+      "title": "The Door That Became a Cocoon",
+      "start": 352.042,
+      "duration": 11.542,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 34,
+      "title": "The Twenty-First Pulse",
+      "start": 363.583,
+      "duration": 10.5,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 35,
+      "title": "The Fire That Remembered Its Name",
+      "start": 374.083,
+      "duration": 11.583,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 36,
+      "title": "The Year Between Wings and Stars",
+      "start": 385.667,
+      "duration": 11.042,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 37,
+      "title": "The Dragon Outside the Window",
+      "start": 396.708,
+      "duration": 11.0,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 38,
+      "title": "Names Borrowed by Children",
+      "start": 407.708,
+      "duration": 12.542,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 39,
+      "title": "A Vortex Learns to Hold",
+      "start": 420.25,
+      "duration": 11.875,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 40,
+      "title": "The Scan Before the Roar",
+      "start": 432.125,
+      "duration": 11.833,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 41,
+      "title": "No Loopholes in the Sky",
+      "start": 443.958,
+      "duration": 10.708,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 42,
+      "title": "The Pool That Lied",
+      "start": 454.667,
+      "duration": 11.208,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 43,
+      "title": "Thirty Seconds of Green",
+      "start": 465.875,
+      "duration": 12.875,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 44,
+      "title": "The Door That Chose Three",
+      "start": 478.75,
+      "duration": 11.375,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 45,
+      "title": "Thanks, and the Score Not Yet Shown",
+      "start": 490.125,
+      "duration": 12.792,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 46,
+      "title": "The Sea Opens Before the Crown",
+      "start": 502.917,
+      "duration": 11.0,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 47,
+      "title": "Five Hundred and Five",
+      "start": 513.917,
+      "duration": 12.083,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 48,
+      "title": "The Line in the Stars",
+      "start": 526.0,
+      "duration": 10.917,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 49,
+      "title": "No Pattern Underfoot",
+      "start": 536.917,
+      "duration": 10.292,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 50,
+      "title": "The Forest Counts Separately",
+      "start": 547.208,
+      "duration": 12.125,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 51,
+      "title": "The Cost of Quiet",
+      "start": 559.333,
+      "duration": 10.583,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    },
+    {
+      "number": 52,
+      "title": "Amiable Beasts",
+      "start": 569.917,
+      "duration": 10.667,
+      "timing": "estimated from narration text length; spoken chapter cues are authoritative"
+    }
+  ],
+  "outputs": [
+    {
+      "file": "video/fire-phoenix-chapters-01-52.mp4",
+      "bytes": 21382872
+    },
+    {
+      "file": "video/fire-phoenix-trailer.mp4",
+      "bytes": 3258542
+    }
+  ]
+}

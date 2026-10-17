@@ -1,0 +1,430 @@
+{
+  "algorithm": "sha256",
+  "self_excluded": true,
+  "files": {
+    "CHAPTER-BOARD.md": {
+      "sha256": "a1e1d0e8c4a8fccf594108f7af033ab2e8cec28c45a2f49473a53421b9681a9e",
+      "bytes": 46745
+    },
+    "CREDITS.md": {
+      "sha256": "0b6c2839528027f3b6d7174f59028609bb46cb980ba16095f61c0cda503618b4",
+      "bytes": 4506
+    },
+    "POSTER.jpg": {
+      "sha256": "a1a6b20eeb4eb834daabe07a3de1e1de90fc46452b793e8a2521f3546a4c5477",
+      "bytes": 170017
+    },
+    "QA.md": {
+      "sha256": "0d36491b053d25a261caa337a7b7d062b1f91b84e01af7f48f00697e9e6e5765",
+      "bytes": 3728
+    },
+    "README.md": {
+      "sha256": "62f2170ff53c30b1af97ca124b8d451939e7cbb71903ce03f51de6da7a6179b8",
+      "bytes": 5569
+    },
+    "assets/00-approved-reference.png": {
+      "sha256": "3b9489cf409d243db1362a477408c28e770dc87de6a80dfbedcafd7b83267b90",
+      "bytes": 2630752
+    },
+    "assets/01-first-flight.jpg": {
+      "sha256": "bb8fdda162cdd59fccf739a63bad161c3cb5541cbac3fe9e0c629f732c12ee30",
+      "bytes": 212985
+    },
+    "assets/02-team336.jpg": {
+      "sha256": "086bf1f54ff0a97295b107feebb8097156ed3798c44c4b0f302740f2b054b438",
+      "bytes": 213494
+    },
+    "assets/03-protected-cocoon.jpg": {
+      "sha256": "2a47cc14cb8e60f2263f54d4963787fecf569a8506f32f9c5097f587d2388105",
+      "bytes": 159698
+    },
+    "assets/04-ranking-corridor.jpg": {
+      "sha256": "80fae2d8d228f415606cfdf33108958a8f749d3499db22219d4b41ff9d54e25d",
+      "bytes": 98753
+    },
+    "assets/05-amiable-beasts.jpg": {
+      "sha256": "9a911a417d50a61b797691ff1173e742161acbb7a677484f4c974a6248aafac7",
+      "bytes": 211705
+    },
+    "assets/06-extreme-north.jpg": {
+      "sha256": "381bb18a2c953948929645b0951b7104acf4b9b40c5e2801805cad5f9cd22e31",
+      "bytes": 277263
+    },
+    "assets/07-first-bond.jpg": {
+      "sha256": "fef6833d32bcab00206a1c068dd8ce70ad61ab396cfe33648057262157b035d3",
+      "bytes": 97827
+    },
+    "assets/08-first-awakening.jpg": {
+      "sha256": "edf7b62dabc8c71005176f2c736c07b5f67763585aebbba6f862f1ee12b71302",
+      "bytes": 105053
+    },
+    "audio/00-script.txt": {
+      "sha256": "167baa3d71c1a84233a1fd3b24b206dc4fd118cbb18938b754ca4e10d23cdd89",
+      "bytes": 982
+    },
+    "audio/00-trailer.mp3": {
+      "sha256": "2c783bbafe7a26a06a3c0beb620834005ffbbe448e33b40d32917fb2a6f7829d",
+      "bytes": 530826
+    },
+    "audio/01-chapters-01-06.mp3": {
+      "sha256": "f1d09efd553b221529ab17237f6ff7dd81fa9be91f7d6af971712648cf776bda",
+      "bytes": 505539
+    },
+    "audio/01-script.txt": {
+      "sha256": "34603ff359b437c260992e3af8be8c80722171446d47eece9097064278ae8bfc",
+      "bytes": 891
+    },
+    "audio/02-chapters-07-12.mp3": {
+      "sha256": "0d6df53eb32b8e218d340054a37cf616b3256e4718c3f7baef8237771fa38d39",
+      "bytes": 507420
+    },
+    "audio/02-script.txt": {
+      "sha256": "ac06858766e838ccc6b786aa01779caa14d630c9ece0dfd1c4eda095bff5a4da",
+      "bytes": 903
+    },
+    "audio/03-chapters-13-18.mp3": {
+      "sha256": "e27cf4cec653f246bef5c577a244655ce5667342ecca4d30c31ff54682bbb1aa",
+      "bytes": 539812
+    },
+    "audio/03-script.txt": {
+      "sha256": "cbe64408e8e5b8a1545aae08e6d3f356b5e42b10395de6de7ecaec4945c054bc",
+      "bytes": 927
+    },
+    "audio/04-chapters-19-24.mp3": {
+      "sha256": "791f5e7c354f740a6b5f8ff9f0e6e7f894783578fbcf4f481607801b4ac8e69b",
+      "bytes": 512435
+    },
+    "audio/04-script.txt": {
+      "sha256": "85356a2e850260bf7d67a7067c7ce310c7e4c4c7dabcebb06bc0c1fff8b15b40",
+      "bytes": 919
+    },
+    "audio/05-chapters-25-30.mp3": {
+      "sha256": "09627c6b84697157988d32687a9b53805b9695829da5bf4f5d8ae9dbeba4f3ca",
+      "bytes": 531035
+    },
+    "audio/05-script.txt": {
+      "sha256": "b2a6d6573a5d7480521dbacaa626e0d3173f2c2806ca283f3901286c986d9b31",
+      "bytes": 933
+    },
+    "audio/06-chapters-31-36.mp3": {
+      "sha256": "6fdf5c0d6e3b8f338dc018401a425aafaf48525c70fa7018349fbdd4ecbdb450",
+      "bytes": 532080
+    },
+    "audio/06-script.txt": {
+      "sha256": "c385272fabddde48977f82743136f50551f239bccd7f0abe3ea26f5ca7e2d52c",
+      "bytes": 989
+    },
+    "audio/07-chapters-37-42.mp3": {
+      "sha256": "2c06f4f3f07ae8c829a91e9866903fbc9cd3b550ad5840867b5aa2fe5f104a27",
+      "bytes": 549634
+    },
+    "audio/07-script.txt": {
+      "sha256": "d9a0e5df2cba86a1a38d3d3cd5bfea336be9a6c4abe391045558c4938cd18fbf",
+      "bytes": 988
+    },
+    "audio/08-chapters-43-48.mp3": {
+      "sha256": "0286b31141bfb2b4b36195329b8dad0adf8168c294ec388b746e21b0e62716e4",
+      "bytes": 564471
+    },
+    "audio/08-script.txt": {
+      "sha256": "f2128a8839a0b177cc62bd138417fed79136e355dbdfdb0b9d3ea94fe785d991",
+      "bytes": 973
+    },
+    "audio/09-chapters-49-52.mp3": {
+      "sha256": "d35f8c3aee6cf82187f12412daa6521199c497e85113fab26fde50c110feae93",
+      "bytes": 345670
+    },
+    "audio/09-script.txt": {
+      "sha256": "2d0a042c5becbe5731b7f2527017021a33e412341dce9f4c0951dc981e6222cb",
+      "bytes": 642
+    },
+    "cards/chapter-01.jpg": {
+      "sha256": "a8a77712456f5a5a47548f5bc20e8d05a3c0cf766806d597a93c58831a56655d",
+      "bytes": 151265
+    },
+    "cards/chapter-02.jpg": {
+      "sha256": "246344d49e35020e0b504410d4fae4eab03be64e761bed6b4d91217353b50ecf",
+      "bytes": 86991
+    },
+    "cards/chapter-03.jpg": {
+      "sha256": "9ee49a0974eff10770d660466e2c691cc0a6a4e0192e74b9def0ba58a14dd590",
+      "bytes": 116707
+    },
+    "cards/chapter-04.jpg": {
+      "sha256": "03bfd5aae08371c0f4274914c669ef2ca2bc2ffb0057dc3509c6e6e820b25a70",
+      "bytes": 87605
+    },
+    "cards/chapter-05.jpg": {
+      "sha256": "0fe4f2a0d98043161d5c0654e45e3923c2f4b5efb41cd12cb40a873085f217bb",
+      "bytes": 89636
+    },
+    "cards/chapter-06.jpg": {
+      "sha256": "5b6dfbcbb84c6fae5e918a215aac494de46544621145f6c858b5ba7bc38638d5",
+      "bytes": 111073
+    },
+    "cards/chapter-07.jpg": {
+      "sha256": "19bf89ab6cf2995d17d84b24b1a96c4b1d0489d0fa32135e5210221c9a2040b4",
+      "bytes": 81950
+    },
+    "cards/chapter-08.jpg": {
+      "sha256": "acb88f06afaf3240c3eae536301b54cc46b72f7fb2726594122c9d88b4c081ad",
+      "bytes": 91266
+    },
+    "cards/chapter-09.jpg": {
+      "sha256": "fdceda44d589e3a6c33be319b8a3b4efd9ae2b39919865e4edc0ca266f50f69f",
+      "bytes": 93846
+    },
+    "cards/chapter-10.jpg": {
+      "sha256": "28bd2f15fe1d60efce13b9ea304300f3ef24db8c6a0bc451f1d291d60bb759bf",
+      "bytes": 90138
+    },
+    "cards/chapter-11.jpg": {
+      "sha256": "2cbe214e8545046992d8e8c9bde10bdbb18c1c4da23e5cb006bfc54a7f2208ae",
+      "bytes": 84108
+    },
+    "cards/chapter-12.jpg": {
+      "sha256": "62df7720a74d63b6f92322c0dd7695be8c9274ec60e1bb90da23230745ed3691",
+      "bytes": 89222
+    },
+    "cards/chapter-13.jpg": {
+      "sha256": "b4e8eda09699045093c9597d0382cfeed6c43027572b910055c07f17deb88d56",
+      "bytes": 88763
+    },
+    "cards/chapter-14.jpg": {
+      "sha256": "d9461e71e1343aba572dca8465356efbadef66bf4a45acf51e22e20f20330f03",
+      "bytes": 90597
+    },
+    "cards/chapter-15.jpg": {
+      "sha256": "deb1344787aa74b85703133734e3011364f6e5b212794c5aad82b009e0502fb5",
+      "bytes": 86432
+    },
+    "cards/chapter-16.jpg": {
+      "sha256": "64a4a71eb281b123a4bde81ce0656c06482b893b790daf9a445eef070a182c88",
+      "bytes": 92106
+    },
+    "cards/chapter-17.jpg": {
+      "sha256": "958dd231c5bff70e786d1207e50567b1bbebe9c30c0a838859ed989545784632",
+      "bytes": 90338
+    },
+    "cards/chapter-18.jpg": {
+      "sha256": "7476e3ab079e917682fa98e89170848b323eb3b0b680bba4dfcd1d0547728a97",
+      "bytes": 85622
+    },
+    "cards/chapter-19.jpg": {
+      "sha256": "d9b8a64297ecbd80979fbe172622287ca996f84ec0353533e555a72a6d511dd1",
+      "bytes": 97922
+    },
+    "cards/chapter-20.jpg": {
+      "sha256": "af6b136a5eaa8ff95925079421d4ebab0dc5b0803b72b4195cd8e09178985c86",
+      "bytes": 90638
+    },
+    "cards/chapter-21.jpg": {
+      "sha256": "fa9e549d3fbc3f0be89658ee8642f8ce613442e1dc409d9ad4bc84e9a6cf1b24",
+      "bytes": 90736
+    },
+    "cards/chapter-22.jpg": {
+      "sha256": "1625b86bbe61c1ee1419d39708ba169de54f24003a4732d1ddf1872044718989",
+      "bytes": 89556
+    },
+    "cards/chapter-23.jpg": {
+      "sha256": "54c22caebb8e45c60f52b33c23211bb354d5af2e21e6c7bbb7ac33bbad23f076",
+      "bytes": 84090
+    },
+    "cards/chapter-24.jpg": {
+      "sha256": "88c1f4b15f8735cc0c8bd61dac0ac2197837241f5e54186a8160ce1c7705fcfe",
+      "bytes": 86458
+    },
+    "cards/chapter-25.jpg": {
+      "sha256": "6eb5c11007f25b0f4e849953aca580faf68c5712d7e74483446ff20db46fe883",
+      "bytes": 88561
+    },
+    "cards/chapter-26.jpg": {
+      "sha256": "0293e4ffd13831d6374475d26ba206ae624499f7f17dfd3c9e3ab960ea93e3da",
+      "bytes": 91861
+    },
+    "cards/chapter-27.jpg": {
+      "sha256": "91c8c4c3b0b18ddebe0aefb7d3e28adcbf5ddbf378d6f9a70468fbd9afbab644",
+      "bytes": 90068
+    },
+    "cards/chapter-28.jpg": {
+      "sha256": "8015d959e2c39e85a9881ed8eb2ca506bcef16fa0299b7001612be3ae292ebef",
+      "bytes": 94431
+    },
+    "cards/chapter-29.jpg": {
+      "sha256": "4228797026f1a0b424f7c9635222d34235f5c5ba6dbf4e6fd8c54b822c1504e9",
+      "bytes": 89190
+    },
+    "cards/chapter-30.jpg": {
+      "sha256": "585378d23d72c0c7c58ec8f15584b6888c7f4d70a6888b0e9e9c478e21140eee",
+      "bytes": 93271
+    },
+    "cards/chapter-31.jpg": {
+      "sha256": "52b6c2655c1602fccf78214bd27918e6e200be705090ae020b0459ed91961e90",
+      "bytes": 90991
+    },
+    "cards/chapter-32.jpg": {
+      "sha256": "193e133add7de6640528f8100358fbae7db5a4fe197c203d94f53cc699522c7e",
+      "bytes": 95489
+    },
+    "cards/chapter-33.jpg": {
+      "sha256": "e55dbe889d824871e53f2637d2366182040a96dd28df3a49a13513e6df15c460",
+      "bytes": 153491
+    },
+    "cards/chapter-34.jpg": {
+      "sha256": "0388f95b51a38b9dcded956a8b418c774a952f029fd83b9b153cc3fd022042f4",
+      "bytes": 150145
+    },
+    "cards/chapter-35.jpg": {
+      "sha256": "15fe3145a6d580678914769eecb537b6e5c364c682fd18018a12a419d01ee7b6",
+      "bytes": 179742
+    },
+    "cards/chapter-36.jpg": {
+      "sha256": "d72b36f0c666293f294ab786470b102b967086ab0d14274740b5798194cfd31d",
+      "bytes": 176727
+    },
+    "cards/chapter-37.jpg": {
+      "sha256": "825ebf66c81c0dd60434f4d12ee59609448da2c312c6e056797d7c3d9a5bd818",
+      "bytes": 90846
+    },
+    "cards/chapter-38.jpg": {
+      "sha256": "78745ab0ebe044dcc1ff6f9fa341d76861836ba51c6fff1f48dfe999baf8860c",
+      "bytes": 98125
+    },
+    "cards/chapter-39.jpg": {
+      "sha256": "1994ce5c8325b569e286f18f31a12335201025a77c07b38113be03676a3be767",
+      "bytes": 93572
+    },
+    "cards/chapter-40.jpg": {
+      "sha256": "c166db803736b05e5b53aedb0623c5b91fe9e0bacbf2f62df8f453d9b2946f52",
+      "bytes": 93783
+    },
+    "cards/chapter-41.jpg": {
+      "sha256": "9d5405e9486b59a76f41739e144b5e08acb00ca4d9814e095510d3c82116eb5d",
+      "bytes": 89986
+    },
+    "cards/chapter-42.jpg": {
+      "sha256": "21b0d46e5c9ec1248aeeb62cf817754b5945e950c1b1303066b404b260e785dc",
+      "bytes": 90474
+    },
+    "cards/chapter-43.jpg": {
+      "sha256": "e1de42846e7d77d38a3ee6c6367c416074a56e2c7970daffe9b6177af63c38c6",
+      "bytes": 94223
+    },
+    "cards/chapter-44.jpg": {
+      "sha256": "e2369fad453307baf76b2522a0cad513658d2719130af7da719933bb4148caff",
+      "bytes": 90926
+    },
+    "cards/chapter-45.jpg": {
+      "sha256": "68a43e96cedf7906bb1c15b028d49cd912d4d92ac933f2ce17a618a95b0bd20f",
+      "bytes": 94719
+    },
+    "cards/chapter-46.jpg": {
+      "sha256": "45b074d9b3d00170aef974233cc719e9754a86dc65fc789ed2a7223e7001cca8",
+      "bytes": 128820
+    },
+    "cards/chapter-47.jpg": {
+      "sha256": "20254b3c4664e4c958ee0f63246009111a3456b6c4fbeb35fab226226ef10879",
+      "bytes": 128983
+    },
+    "cards/chapter-48.jpg": {
+      "sha256": "b6d7d72394c624683cb7adfbf5aff9027f87520cdf7ff67ac49e0b8e1b82f97d",
+      "bytes": 88463
+    },
+    "cards/chapter-49.jpg": {
+      "sha256": "f01715826256d7fa8b3936d5569b0572ae0caad5dcde168133322e5b06e7450a",
+      "bytes": 90154
+    },
+    "cards/chapter-50.jpg": {
+      "sha256": "e233f9422d370336af0d2f388bd4fb2f5d76d661b6357bc2972437a397f44385",
+      "bytes": 96811
+    },
+    "cards/chapter-51.jpg": {
+      "sha256": "1ae1d7dbe8de983d8143c2e6f81ab8961bd4bbcd862bad7e53bf28574f5ca367",
+      "bytes": 89429
+    },
+    "cards/chapter-52.jpg": {
+      "sha256": "8691e4482317667012a225604311c34f49465761e5d5b3dad256fe658a790069",
+      "bytes": 176482
+    },
+    "cards/chronicle-intro.jpg": {
+      "sha256": "d6c50123c762fd0eb36b058b67355fb2d63b2133de197d6e93ff3d4efebd6f4f",
+      "bytes": 144502
+    },
+    "cards/chronicle-outro.jpg": {
+      "sha256": "c46c8aaa88f8e6c68bdb771eea40b2e05c22e5075ef59c79460e93c1bd9c74ee",
+      "bytes": 222429
+    },
+    "cards/trailer-outro.jpg": {
+      "sha256": "4f548158756e247b54bad27d6e9455680be624cf093c4983ef529645dad62b21",
+      "bytes": 212982
+    },
+    "cards/trailer-title.jpg": {
+      "sha256": "0ecde5382ac8eff58e938f8318e7d3252f83f454af1cff0c06242a75f6944bbf",
+      "bytes": 136071
+    },
+    "index.html": {
+      "sha256": "eb5928bc372072e4f6e56c4de6fac6e60d24147b8616468b7b869abcc5ead7b9",
+      "bytes": 2909973
+    },
+    "metadata/browser-checks.json": {
+      "sha256": "da1889a4da485591cf7260cb777cf93cf44960986c9e7cd5311ae9219ea8f9ca",
+      "bytes": 435
+    },
+    "metadata/chapters.json": {
+      "sha256": "bc450ece47f267aa50474fe588c71fdaeda85564f8bb5b9e809ecd3d8503a2d7",
+      "bytes": 58209
+    },
+    "metadata/render.json": {
+      "sha256": "cfc6e7f5fd9815fe4392d45aa6f53ad5b621836b2facffa4d03a640b5b362b7d",
+      "bytes": 11816
+    },
+    "metadata/validation.json": {
+      "sha256": "c7391678e06bcd8c00475bbc5dee1b0789ce0416e57624a204899a185a2dea5b",
+      "bytes": 18020
+    },
+    "requirements.txt": {
+      "sha256": "db51cbd4acb6526ee0f05d018eebeee6f0613cc26899d140a7cc3b784e5bb448",
+      "bytes": 45
+    },
+    "tools/browsercheck.py": {
+      "sha256": "91d5594af2e3257b047a8793a72ade4554deba4c3ab4218e7b4fbfd6e0274708",
+      "bytes": 3199
+    },
+    "tools/bundle.py": {
+      "sha256": "62fb2b03cf0bbd77bf11387f843228647b12471d2a4755bae6135fa56f4ed811",
+      "bytes": 17272
+    },
+    "tools/captions.py": {
+      "sha256": "c09ae71db69fb3852db78b9a19a1315a283b517cf6f94f2daf2626c1c33ef115",
+      "bytes": 1676
+    },
+    "tools/prepare.py": {
+      "sha256": "e5ffb8b25d0f0daa822a24a58a1e53d720d9091eb963080798a9f61b73934020",
+      "bytes": 11369
+    },
+    "tools/render.py": {
+      "sha256": "5413208c7a778ff17b21ae481f7aab5d2dff35203b8c3de4f7ff42928319b3a1",
+      "bytes": 9738
+    },
+    "tools/validate.py": {
+      "sha256": "1c8bf2057a793db205dbe880ee1c1e4cc3e9133f2c0441090f563c70297f0207",
+      "bytes": 5383
+    },
+    "video/fire-phoenix-chapters-01-52.en.vtt": {
+      "sha256": "b9b1a8f8f88f571bdfe10583e46cd836e3bb32abcc3e2cb565edde062728d798",
+      "bytes": 9901
+    },
+    "video/fire-phoenix-chapters-01-52.mp4": {
+      "sha256": "92d6d35548edc9e773ad7499883fa627af607a6e6d4e45949cd50339c1af0630",
+      "bytes": 21382872
+    },
+    "video/fire-phoenix-trailer.en.vtt": {
+      "sha256": "7f0c174e51871541cc429d401337bb951e193bfabb936b1c95d87126764e95e3",
+      "bytes": 1572
+    },
+    "video/fire-phoenix-trailer.mp4": {
+      "sha256": "a17e4789c7d2efbb2c86cda3b5737b91815b14d3753da9e9e4cc87018f6b1f1e",
+      "bytes": 3258542
+    }
+  }
+}
