@@ -4,7 +4,7 @@
   "published_edge": 52,
   "scope": "Illustrated media overview and chapter storyboard, not 52 animated episodes.",
   "approved_reference": "assets/00-approved-reference.png",
-  "reference_approval": "User said Ok to the beauty-preserved test, then Continue. Working visual direction only; not approval of all new scenes or canonical costume.",
+  "reference_approval": "Historical: user initially accepted the beauty-preserved portrait as a working direction, then rejected the entire production with Very bad seriously and Everything. No v1 design is a current approved production baseline.",
   "chapters": [
     {
       "number": 1,
@@ -630,5 +630,6 @@
       "shot": "Open on the setting and participants supported by Chapter 52; frame this beat without adding an outcome: A wounded golden ape and palm-type bear guard a rooted immortal herb; the children withdraw without resolving the stalemate. End within the published chapter boundary. Earned full Fire Phoenix: red-gold/violet/iron-dark wings where released; no fourth ring, deity powers or identity reveal.",
       "source_url": "https://github.com/gm5206663-bit/soul-land-universal-kit/blob/856bc3bebe306827504c4f183ab786d225c1c3e0/soul_land_4_fire_phoenix/chapters/Chapter_52.md"
     }
-  ]
+  ],
+  "review_status": "rejected \u2014 entire production v1"
 }

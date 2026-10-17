@@ -7,20 +7,20 @@
       "bytes": 46745
     },
     "CREDITS.md": {
-      "sha256": "0b6c2839528027f3b6d7174f59028609bb46cb980ba16095f61c0cda503618b4",
-      "bytes": 4506
+      "sha256": "7e140e3372f696aec930ced044acb4e1c7096752a6b3c5797c3fcd4e8ebabb82",
+      "bytes": 4979
     },
     "POSTER.jpg": {
       "sha256": "a1a6b20eeb4eb834daabe07a3de1e1de90fc46452b793e8a2521f3546a4c5477",
       "bytes": 170017
     },
     "QA.md": {
-      "sha256": "0d36491b053d25a261caa337a7b7d062b1f91b84e01af7f48f00697e9e6e5765",
-      "bytes": 3728
+      "sha256": "7f6dc7983f21085edc25836f9c16532c1f81fc9620618be7e38ed4d096e2111e",
+      "bytes": 4201
     },
     "README.md": {
-      "sha256": "62f2170ff53c30b1af97ca124b8d451939e7cbb71903ce03f51de6da7a6179b8",
-      "bytes": 5569
+      "sha256": "b54957f84e66cfd53f9cf0b0b90d0eed0d0e7def763d5ced8812e3706f5b349b",
+      "bytes": 6042
     },
     "assets/00-approved-reference.png": {
       "sha256": "3b9489cf409d243db1362a477408c28e770dc87de6a80dfbedcafd7b83267b90",
@@ -363,20 +363,24 @@
       "bytes": 136071
     },
     "index.html": {
-      "sha256": "eb5928bc372072e4f6e56c4de6fac6e60d24147b8616468b7b869abcc5ead7b9",
-      "bytes": 2909973
+      "sha256": "b715f0faa75ff8f448a3e5066a72d896c00b1705796cbfadfbfb6a3fe56dc75b",
+      "bytes": 2910451
     },
     "metadata/browser-checks.json": {
       "sha256": "da1889a4da485591cf7260cb777cf93cf44960986c9e7cd5311ae9219ea8f9ca",
       "bytes": 435
     },
     "metadata/chapters.json": {
-      "sha256": "bc450ece47f267aa50474fe588c71fdaeda85564f8bb5b9e809ecd3d8503a2d7",
-      "bytes": 58209
+      "sha256": "63995d3b5527ca9df7978b3d6f0c574a00d682d0c5394756e622cfe3912dfd9a",
+      "bytes": 58348
     },
     "metadata/render.json": {
       "sha256": "cfc6e7f5fd9815fe4392d45aa6f53ad5b621836b2facffa4d03a640b5b362b7d",
       "bytes": 11816
+    },
+    "metadata/review-status.json": {
+      "sha256": "474549c8e2956023b5dcf4316f870d549752eefb0f5e64818caa7702717f682c",
+      "bytes": 295
     },
     "metadata/validation.json": {
       "sha256": "c7391678e06bcd8c00475bbc5dee1b0789ce0416e57624a204899a185a2dea5b",
@@ -391,8 +395,8 @@
       "bytes": 3199
     },
     "tools/bundle.py": {
-      "sha256": "62fb2b03cf0bbd77bf11387f843228647b12471d2a4755bae6135fa56f4ed811",
-      "bytes": 17272
+      "sha256": "c22d2f3bd414ca4fb49bbf45759c8cc6e026a27c8fb4c58889e220fb2433fb5e",
+      "bytes": 18005
     },
     "tools/captions.py": {
       "sha256": "c09ae71db69fb3852db78b9a19a1315a283b517cf6f94f2daf2626c1c33ef115",

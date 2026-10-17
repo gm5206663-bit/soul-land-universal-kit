@@ -2,20 +2,20 @@
 
 Live edge: **after Chapter52, `Amiable Beasts`**.
 
-## Pictures, video and chapter storyboard
+## Media production v1 — rejected
 
-[Public media gallery](https://gm5206663-bit.github.io/soul-land-universal-kit/fire-phoenix-media/) ·
-[Production README](media/README.md) ·
-[Complete download](https://github.com/gm5206663-bit/soul-land-universal-kit/releases/tag/fire-phoenix-media-v1)
+The author rejected **the entire production v1**, saying “Very bad seriously”
+and then “Everything”. It is not an approved adaptation or a visual baseline.
+No further assets should be generated from these designs. Previous technical
+checks do not establish creative acceptance.
 
-Working production v1 covers the existing 52-chapter line: eight new scene
-illustrations, 52 designed chapter plates, an English-narrated trailer and a
-chapter-overview motion video. **It is not a 52-episode animated series:** 42
-chapter entries still need dedicated scene art. Yan’s delicate feminine beauty
-is preserved beneath the public boy identity; companion designs are provisional.
-This media work does not change prose, canon state or the next-chapter permission.
+[Rejection status and historical media record](media/README.md) ·
+[Public gallery — rejected version](https://gm5206663-bit.github.io/soul-land-universal-kit/fire-phoenix-media/) ·
+[Publication/rejection receipt](../reports/2026-10-17-fire-phoenix-media/README.md)
 
-[Publication checks and download hash](../reports/2026-10-17-fire-phoenix-media/README.md).
+Files remain public with explicit rejection labels rather than being presented
+as accepted work. The media task does not change prose, canon state or the
+next-chapter permission.
 
 ## Current state
 

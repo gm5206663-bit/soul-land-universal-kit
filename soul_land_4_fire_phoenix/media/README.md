@@ -1,5 +1,7 @@
 # Fire Phoenix — illustrated media, production v1
 
+> **REJECTED BY THE AUTHOR — entire production v1.** The author said “Very bad seriously” and confirmed “Everything”. Prior technical checks and the earlier working-portrait selection do not establish approval of this package. Do not treat any v1 design or video as approved or reuse it as the basis for further production. These files remain public only as a clearly labeled historical record. No new images, audio or video were generated after this rejection.
+
 **Unofficial, non-commercial Soul Land fan adaptation · fanfiction by Gaurav Meena.**
 
 This is a working visual production package, not a completed animated series.
