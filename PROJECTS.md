@@ -39,6 +39,7 @@
 
 | Serial | Folder | Ch | Words | Status |
 |---|---|---:|---:|---|
+| SL2 — **Dragon and Phoenix** (OC Yan Jingheng; working names) | [`soul_land_2_dragon_phoenix/`](soul_land_2_dragon_phoenix/) | — | — | 🌱 FOUNDATION created 2026-10-22; not a prose release or gated-book registration |
 | SL1 — **Fire Dragon Lizard** | `soul_land_1_fire_dragon_lizard/` | 5 | 18,605 | ✅ SHIPPED — complete |
 | SL2 — **The Unraveled Tide** (OC Jiang Che) | `Soul_Land_2_Project/` | 24 | 80,127 | ⏸ PAUSED — revival queued |
 | SL2 — Blue Silver | `_archive/2026-09-30_park/blue_silver/` | 15 | 34,711 | 🅿 PARKED — Book Two awaits rulings |

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Actual completed historical milestones, not intentions.",
+  "required_event_fields": [
+    "id",
+    "status",
+    "epoch",
+    "prior_state",
+    "input",
+    "teacher_or_source",
+    "resources",
+    "task",
+    "result",
+    "cost",
+    "integration",
+    "witnesses",
+    "later_proof",
+    "state_outputs",
+    "source_refs"
+  ],
+  "events": []
+}

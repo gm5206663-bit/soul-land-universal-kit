@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "fic_chapter": 1,
+  "status": "plan-only",
+  "prose_exists": false,
+  "novel": {
+    "candidate_units": [
+      "N01",
+      "N02",
+      "N03",
+      "N04"
+    ],
+    "status": "source-bodies-read-not-consumed-in-prose",
+    "final_boundary": null
+  },
+  "manhua": {
+    "source_refs": [
+      "M01"
+    ],
+    "status": "catalog-only",
+    "panel_range": null
+  },
+  "donghua": {
+    "source_refs": [
+      "D01"
+    ],
+    "status": "metadata-only",
+    "timestamp_range": null
+  },
+  "maternal_adoption": {
+    "ruling_refs": [
+      "R09"
+    ],
+    "primary_scene": null
+  },
+  "blocking_work": [
+    "W01",
+    "W02",
+    "W03",
+    "W04",
+    "W05",
+    "W06"
+  ]
+}

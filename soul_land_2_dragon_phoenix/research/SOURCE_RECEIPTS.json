@@ -1,0 +1,243 @@
+{
+  "schema_version": 1,
+  "rights_policy": "Locations and concise original factual summaries only; no redistributed complete chapters, scans or episode files.",
+  "sources": [
+    {
+      "id": "N01",
+      "url": "https://www.wuxiaworld.com/novel/the-unrivaled-tang-sect/uts-chapter-1-1",
+      "medium": "novel",
+      "status": "primary-read",
+      "scope": "Narrative body read through its ending; navigation tail excluded.",
+      "review_date": "2026-10-22",
+      "edition": "Wuxiaworld licensed English split-part edition",
+      "display_unit": "1.1",
+      "scene_reviewed": true,
+      "claims": [
+        "Departure from Duke household; mother’s death and family situation; native setting and awakening context."
+      ],
+      "limits": "Original Chinese not checked. No full copyrighted text retained. In 1.4 a later navigation chunk errored after narrative ending had already been read."
+    },
+    {
+      "id": "N02",
+      "url": "https://www.wuxiaworld.com/novel/the-unrivaled-tang-sect/uts-chapter-1-2",
+      "medium": "novel",
+      "status": "primary-read",
+      "scope": "Narrative body read through its ending; navigation tail excluded.",
+      "review_date": "2026-10-22",
+      "edition": "Wuxiaworld licensed English split-part edition",
+      "display_unit": "1.2",
+      "scene_reviewed": true,
+      "claims": [
+        "Yuhao explicitly eleven this year; five cultivated years; just attained rank ten; no ring yet; full innate soulforce benchmark."
+      ],
+      "limits": "Original Chinese not checked. No full copyrighted text retained. In 1.4 a later navigation chunk errored after narrative ending had already been read."
+    },
+    {
+      "id": "N03",
+      "url": "https://www.wuxiaworld.com/novel/the-unrivaled-tang-sect/uts-chapter-1-3",
+      "medium": "novel",
+      "status": "primary-read",
+      "scope": "Narrative body read through its ending; navigation tail excluded.",
+      "review_date": "2026-10-22",
+      "edition": "Wuxiaworld licensed English split-part edition",
+      "display_unit": "1.3",
+      "scene_reviewed": true,
+      "claims": [
+        "Six-day journey precedes stream; Spirit Eyes in fishing; roast fish; Tang Ya and Bei Bei approach."
+      ],
+      "limits": "Original Chinese not checked. No full copyrighted text retained. In 1.4 a later navigation chunk errored after narrative ending had already been read."
+    },
+    {
+      "id": "N04",
+      "url": "https://www.wuxiaworld.com/novel/the-unrivaled-tang-sect/uts-chapter-1-4",
+      "medium": "novel",
+      "status": "primary-read",
+      "scope": "Narrative body read through its ending; navigation tail excluded.",
+      "review_date": "2026-10-22",
+      "edition": "Wuxiaworld licensed English split-part edition",
+      "display_unit": "1.4",
+      "scene_reviewed": true,
+      "claims": [
+        "Meal, names, reserved departure; Tang Ya/Bei Bei decide to follow; forest warning/approach; ends before next narrative unit."
+      ],
+      "limits": "Original Chinese not checked. No full copyrighted text retained. In 1.4 a later navigation chunk errored after narrative ending had already been read."
+    },
+    {
+      "id": "N05",
+      "url": "https://www.webnovel.com/book/the-unrivaled-tang-sect_8099443605005505/the-youth-with-the-spirit-eyes_21748080787132487",
+      "medium": "novel",
+      "status": "partial-comparison",
+      "scope": "Opening chunk only, not complete combined Chapter 1.",
+      "review_date": "2026-10-22",
+      "edition": "Official Tang Jia San Shao book 8099443605005505",
+      "display_unit": "printed Chapter 1 / platform sequence 2",
+      "scene_reviewed": false,
+      "claims": [
+        "Alternate opening wording compared; exact geographical distance/orientation is not resolved across English renderings."
+      ],
+      "limits": "Do not substitute the unrelated uploader/book as an official edition."
+    },
+    {
+      "id": "M01",
+      "url": "https://ac.qq.com/Comic/ComicInfo/id/649513",
+      "medium": "manhua",
+      "status": "official-metadata",
+      "scope": "Official catalog and reader HTML located; image narrative not visually reviewed.",
+      "review_date": "2026-10-22",
+      "scene_reviewed": false,
+      "book_id": "649513",
+      "catalog": [
+        {
+          "row": 1,
+          "display_label": "引子 / prologue",
+          "cid": "2"
+        },
+        {
+          "row": 2,
+          "display_label": "1 灵眸少年",
+          "cid": "3"
+        },
+        {
+          "row": 3,
+          "display_label": "2 天梦冰蚕",
+          "cid": "4"
+        },
+        {
+          "row": 4,
+          "display_label": "3 百万年魂环",
+          "cid": "5"
+        }
+      ],
+      "reader_checked": "https://ac.qq.com/ComicView/index/id/649513/cid/2",
+      "candidate_opening_reader": "https://ac.qq.com/ComicView/index/id/649513/cid/3",
+      "limits": "cid 2 is prologue. Candidate cid 3 comes from catalog; no page/panel range verified."
+    },
+    {
+      "id": "D01",
+      "url": "https://wetv.vip/en/play/wu7vz4vgfi8ugan/j00467e65u4-EP1%3A_Soul_Land_2%3A_The_Peerless_Tang_Clan",
+      "medium": "donghua",
+      "status": "official-metadata",
+      "scope": "Official Episode 1 listing identity only; not watched.",
+      "review_date": "2026-10-22",
+      "scene_reviewed": false,
+      "series_id": "wu7vz4vgfi8ugan",
+      "episode_id": "j00467e65u4",
+      "display_unit": "EP1",
+      "timestamps": null,
+      "limits": "Player metadata is not scene/timestamp evidence."
+    },
+    {
+      "id": "D00",
+      "url": "https://soulland.fandom.com/wiki/Soul_Land_II_Episode_1",
+      "medium": "donghua",
+      "status": "unusable-empty",
+      "scope": "No article body returned.",
+      "review_date": "2026-10-22",
+      "scene_reviewed": false,
+      "limits": "Failed lead, not episode evidence."
+    },
+    {
+      "id": "S01",
+      "url": "https://soulland.fandom.com/wiki/Cai_Mei%27er",
+      "medium": "secondary",
+      "status": "secondary-pointer",
+      "scope": "Cai martial-soul details tagged as donghua; exact original scene not checked.",
+      "review_date": "2026-10-22",
+      "scene_reviewed": false,
+      "limits": "Not a primary scene receipt; no exact chapter/episode claim."
+    },
+    {
+      "id": "S02",
+      "url": "https://baike.baidu.com/en/item/Cai%20Meier/25646",
+      "medium": "secondary",
+      "status": "secondary-pointer",
+      "scope": "Secondary maternal identity/design pointer.",
+      "review_date": "2026-10-22",
+      "scene_reviewed": false,
+      "limits": "Not a primary scene receipt; no exact chapter/episode claim."
+    },
+    {
+      "id": "S03",
+      "url": "https://soulland.fandom.com/wiki/Yan_Shaozhe",
+      "medium": "secondary",
+      "status": "secondary-pointer",
+      "scope": "Family/teacher pointers; not final genealogy adjudication.",
+      "review_date": "2026-10-22",
+      "scene_reviewed": false,
+      "limits": "Not a primary scene receipt; no exact chapter/episode claim."
+    },
+    {
+      "id": "S04",
+      "url": "https://soulland.fandom.com/wiki/Long_Xiaoyao",
+      "medium": "secondary",
+      "status": "secondary-pointer",
+      "scope": "Ancestral family pointer, not proof of author branch’s intermediate generations.",
+      "review_date": "2026-10-22",
+      "scene_reviewed": false,
+      "limits": "Not a primary scene receipt; no exact chapter/episode claim."
+    },
+    {
+      "id": "S05",
+      "url": "https://soulland.fandom.com/wiki/Ye_Xishui",
+      "medium": "secondary",
+      "status": "secondary-pointer",
+      "scope": "Ancestral family pointer; original reveal remains pending.",
+      "review_date": "2026-10-22",
+      "scene_reviewed": false,
+      "limits": "Not a primary scene receipt; no exact chapter/episode claim."
+    },
+    {
+      "id": "S06",
+      "url": "https://soulland.fandom.com/wiki/Soul_Engineer",
+      "medium": "secondary",
+      "status": "secondary-pointer",
+      "scope": "Search-result orientation: competence/cultivation/device classes differ; several numerical ranges are inferred.",
+      "review_date": "2026-10-22",
+      "scene_reviewed": false,
+      "limits": "Not a primary scene receipt; no exact chapter/episode claim."
+    },
+    {
+      "id": "AT01",
+      "url": "https://github.com/gm5206663-bit/adaptation-talent/blob/1b43ad6cda12e97fefeaedc83ee3e415068428a6/canon/MASTER-FOUNDATION.md",
+      "medium": "doctrine",
+      "status": "pinned-authority",
+      "scope": "Master v2.0, selected relevant sections and local application references reviewed, not an exhaustive full-file line-by-line review.",
+      "review_date": "2026-10-22",
+      "scene_reviewed": false,
+      "commit": "1b43ad6cda12e97fefeaedc83ee3e415068428a6",
+      "sha256": "eaced0a52af1ca30c54a4352487a08dc38fc8e39cac274b4ff336b713e723b85",
+      "reviewed_topic_sections": [
+        5,
+        6,
+        10,
+        20,
+        22,
+        27,
+        28,
+        29,
+        32,
+        37,
+        38,
+        41,
+        42,
+        69,
+        70,
+        71,
+        73,
+        75
+      ],
+      "limits": "A prior large selected-section print was truncated. Do not claim every line of that output or the entire master was read. No other-holder current stats transfer."
+    },
+    {
+      "id": "G01",
+      "url": "https://github.com/gm5206663-bit/how-to-write-fanfiction/tree/d71e6760d590afe05031d389bb6f964e3c81d242",
+      "medium": "doctrine",
+      "status": "pinned-authority",
+      "scope": "Guide navigation and selected law/workflow passages; source-first, Stage 0 and earned consequences.",
+      "review_date": "2026-10-22",
+      "scene_reviewed": false,
+      "commit": "d71e6760d590afe05031d389bb6f964e3c81d242",
+      "limits": "Selected review; this project’s local craft targets remain delegated design, not fabricated author quotes."
+    }
+  ]
+}

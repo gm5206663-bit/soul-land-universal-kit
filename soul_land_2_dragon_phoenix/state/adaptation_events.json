@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "scope": "Actual whole-existence changes; no imported holder history.",
+  "required_event_fields": [
+    "id",
+    "status",
+    "cause",
+    "prior_foundation",
+    "input",
+    "adaptive_response",
+    "cost",
+    "integration",
+    "scope",
+    "later_proof",
+    "source_refs"
+  ],
+  "events": []
+}

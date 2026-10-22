@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "scope": "Real access and consumption; no guessed cumulative totals.",
+  "required_event_fields": [
+    "id",
+    "status",
+    "epoch",
+    "resource",
+    "supplier",
+    "purpose",
+    "amount_if_known",
+    "compatibility",
+    "result",
+    "source_refs"
+  ],
+  "events": []
+}

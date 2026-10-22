@@ -1,0 +1,172 @@
+{
+  "schema_version": 1,
+  "updated": "2026-10-22",
+  "project": {
+    "id": "sl2-dragon-phoenix",
+    "working_title": "The Dragon and the Phoenix",
+    "title_authority": "delegated-design",
+    "folder": "soul_land_2_dragon_phoenix",
+    "stage": "foundation",
+    "chapters_written": 0,
+    "base_commit": "e2581362db1db624bc7a053aa5747170ca1be669"
+  },
+  "identity": {
+    "working_name": "Yan Jingheng",
+    "hanzi": "言景衡",
+    "name_authority": "R05",
+    "sex": "male",
+    "native": true,
+    "parents": [
+      "Yan Shaozhe",
+      "Cai Mei’er"
+    ],
+    "same_generation_as_huo": true,
+    "ruling_refs": [
+      "R01",
+      "R05"
+    ]
+  },
+  "talent": {
+    "onset": "conception",
+    "whole_existence": true,
+    "sentient": false,
+    "occupies_martial_soul_slot": false,
+    "ruling_refs": [
+      "R03"
+    ],
+    "source_refs": [
+      "AT01"
+    ]
+  },
+  "martial_souls": {
+    "foundations": [
+      "Bright Phoenix",
+      "Evil-Dispelling Dragon Soul Spear"
+    ],
+    "number": 2,
+    "maternal_design_authority": "author-adopted-donghua",
+    "maternal_novel_name_verified": false,
+    "ruling_refs": [
+      "R02",
+      "R09"
+    ]
+  },
+  "inheritance": {
+    "author_branch_great_grandparents": [
+      "Long Xiaoyao",
+      "Ye Xishui"
+    ],
+    "ancestor_contact": false,
+    "ancestor_learned_memory": false,
+    "genealogy_character_knowledge": "unassigned",
+    "ruling_refs": [
+      "R08"
+    ]
+  },
+  "upbringing": {
+    "top_resources": true,
+    "sustained_guidance": true,
+    "much_faster_growth_required": true,
+    "strong_dragon_phoenix_foundation": true,
+    "demand_mitigated_by_adaptation": true,
+    "ruling_refs": [
+      "R07"
+    ]
+  },
+  "relationships": {
+    "mu_en_role": "grandmaster",
+    "close_circle": [
+      "Ma Xiaotao",
+      "Mu En",
+      "Xuan Zi"
+    ],
+    "ma_future": "open",
+    "twins_disclosure": "trusted-circle",
+    "exact_witnesses": null,
+    "ruling_refs": [
+      "R10"
+    ]
+  },
+  "opening": {
+    "earlier_huo_contact": false,
+    "first_meeting_companions": [
+      "Tang Ya",
+      "Bei Bei"
+    ],
+    "childhood_chronicle": false,
+    "source_anchor": [
+      "N03",
+      "N04"
+    ],
+    "trip_history": null,
+    "ruling_refs": [
+      "R04"
+    ]
+  },
+  "opening_state": {
+    "exact_age": null,
+    "innate_soulforce": null,
+    "cultivation_rank": null,
+    "reserves": null,
+    "physique": null,
+    "soul_capacity": null,
+    "phoenix_rings": null,
+    "spear_rings": null,
+    "bloodline_expression": null,
+    "combat_capabilities": null,
+    "engineering_proficiency": null,
+    "engineering_certification": null,
+    "equipment": null
+  },
+  "derivation_evidence": {},
+  "coverage": {
+    "novel_opening_read": [
+      "N01",
+      "N02",
+      "N03",
+      "N04"
+    ],
+    "manhua_scenes_verified": false,
+    "donghua_scenes_verified": false,
+    "maternal_spear_scene_verified": false,
+    "chapter_001_consumed_units": []
+  },
+  "work": [
+    {
+      "id": "W01",
+      "description": "Derive numerical opening state and supported capabilities",
+      "status": "pending",
+      "closure_evidence": []
+    },
+    {
+      "id": "W02",
+      "description": "Resolve ring donors, histories and two-soul progression",
+      "status": "pending",
+      "closure_evidence": []
+    },
+    {
+      "id": "W03",
+      "description": "Verify and develop engineering history, output and certification",
+      "status": "pending",
+      "closure_evidence": []
+    },
+    {
+      "id": "W04",
+      "description": "Review exact official manhua/donghua visual scenes",
+      "status": "pending",
+      "closure_evidence": []
+    },
+    {
+      "id": "W05",
+      "description": "Evaluate pre-opening institutional/family/condition butterflies",
+      "status": "pending",
+      "closure_evidence": []
+    },
+    {
+      "id": "W06",
+      "description": "Finish opening witnesses, inventory, age alignment and trip history",
+      "status": "pending",
+      "closure_evidence": []
+    }
+  ]
+}

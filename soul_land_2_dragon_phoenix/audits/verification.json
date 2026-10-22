@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-22",
+  "structural_integrity": "PASS",
+  "selftests": {
+    "command": "python3 -m unittest discover -s tools -p test_*.py",
+    "cases": 56,
+    "result": "PASS"
+  },
+  "chapter_readiness": "BLOCKED",
+  "readiness_blockers": [
+    "W01: Derive numerical opening state and supported capabilities",
+    "W02: Resolve ring donors, histories and two-soul progression",
+    "W03: Verify and develop engineering history, output and certification",
+    "W04: Review exact official manhua/donghua visual scenes",
+    "W05: Evaluate pre-opening institutional/family/condition butterflies",
+    "W06: Finish opening witnesses, inventory, age alignment and trip history",
+    "Undetermined opening fields: exact_age, innate_soulforce, cultivation_rank, reserves, physique, soul_capacity, phoenix_rings, spear_rings, bloodline_expression, combat_capabilities, engineering_proficiency, engineering_certification, equipment",
+    "Exact trusted-circle witness history unassigned",
+    "Trip purpose and prior companion history unassigned",
+    "Source gate pending: manhua_scenes_verified",
+    "Source gate pending: donghua_scenes_verified",
+    "Source gate pending: maternal_spear_scene_verified"
+  ],
+  "file_count": 49,
+  "limits": "Offline technical checks and actually executed regression tests; not external-source revalidation, author approval or prose-quality review."
+}

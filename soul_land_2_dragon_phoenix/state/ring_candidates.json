@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Unaccepted donor research; must never populate live rings automatically.",
+  "required_event_fields": [
+    "id",
+    "status",
+    "soul",
+    "slot",
+    "donor",
+    "donor_source",
+    "era_region_availability",
+    "age",
+    "traits",
+    "transfer_mechanism",
+    "absorption_route",
+    "support",
+    "integration",
+    "cost",
+    "source_refs"
+  ],
+  "events": []
+}

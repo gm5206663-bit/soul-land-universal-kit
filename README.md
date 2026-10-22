@@ -36,6 +36,7 @@ own repository on the account. This repository is the Soul Land corpus + its met
 
 | Project | Folder | State |
 |---|---|---|
+| SL2 · **Dragon and Phoenix** — OC Yan Jingheng (working names) | [`soul_land_2_dragon_phoenix/`](soul_land_2_dragon_phoenix/) | 🌱 new foundation · opening build/source mapping in progress · no prose release |
 | SL2 · The Unraveled Tide (OC Jiang Che) | `Soul_Land_2_Project/` | ⏸ paused at 24 ch — revival queued |
 | SL2 · Blue Silver | `_archive/2026-09-30_park/blue_silver/` | 🅿 parked — Book One complete (15 ch); Book Two awaits rulings |
 | SL3 · Qing Ling | `_archive/2026-09-30_park/soul_land_3_fanfiction/` | 🅿 parked at 7 ch — the one resumable exception |

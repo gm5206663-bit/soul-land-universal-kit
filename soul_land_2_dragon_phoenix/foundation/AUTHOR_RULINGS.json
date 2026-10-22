@@ -1,0 +1,127 @@
+{
+  "schema_version": 1,
+  "recorded_on": "2026-10-22",
+  "provenance_notice": "Available exact messages are preserved verbatim. Earlier selected interview answers whose exact wording is absent are explicitly labeled recorded decisions, never invented quotations. Working name/title and narrative personality belong to delegated design.",
+  "rulings": [
+    {
+      "id": "R01",
+      "classification": "author-lock",
+      "decision": "Native boy, son of Yan Shaozhe and Cai Mei’er, around Huo Yuhao’s age.",
+      "verbatim": null,
+      "provenance_kind": "recorded-interview-choice",
+      "verbatim_limit": "Exact wording not retained in available session context. This decision is a recorded choice, not a reconstructed quotation."
+    },
+    {
+      "id": "R02",
+      "classification": "author-lock",
+      "decision": "Two parental martial souls are accepted: Bright Phoenix and Evil-Dispelling Dragon Soul Spear.",
+      "verbatim": null,
+      "provenance_kind": "recorded-interview-choice",
+      "verbatim_limit": "Exact wording not retained in available session context. This decision is a recorded choice, not a reconstructed quotation."
+    },
+    {
+      "id": "R03",
+      "classification": "author-lock",
+      "decision": "Adaptation Talent is native and present from conception, per its controlling doctrine.",
+      "verbatim": null,
+      "provenance_kind": "recorded-interview-choice",
+      "verbatim_limit": "Exact wording not retained in available session context. This decision is a recorded choice, not a reconstructed quotation."
+    },
+    {
+      "id": "R04",
+      "classification": "author-lock",
+      "decision": "First meeting is with Tang Ya and Bei Bei; no prior friendship with Huo. Natural background, no exhaustive childhood prologue.",
+      "verbatim": "They are not meet before,oc meet him with tang ya and bei bei, well you don't need to show childhood and others All things all along, write like canon how it's written, natural remind.",
+      "provenance_kind": "verbatim-author-message",
+      "verbatim_limit": null
+    },
+    {
+      "id": "R05",
+      "classification": "author-lock",
+      "decision": "Name selection delegated to the assistant.",
+      "verbatim": "You give.",
+      "provenance_kind": "verbatim-author-message",
+      "verbatim_limit": null
+    },
+    {
+      "id": "R06",
+      "classification": "author-lock",
+      "decision": "Personality design delegated, derived from Talent, martial souls, parents and environment.",
+      "verbatim": "Well, Frist he have adaption telent and his martial soul's and presents and environment and others All things so you could create his personality from this.",
+      "provenance_kind": "verbatim-author-message",
+      "verbatim_limit": null
+    },
+    {
+      "id": "R07",
+      "classification": "author-lock",
+      "decision": "Exceptional cultivation, fighting and engineering potential; top resources and teaching. Greater foundation demand is mitigated by adaptation; advancement must be much faster.",
+      "verbatim": null,
+      "provenance_kind": "recorded-interview-choice",
+      "verbatim_limit": "Exact wording not retained in available session context. This decision is a recorded choice, not a reconstructed quotation."
+    },
+    {
+      "id": "R08",
+      "classification": "author-lock",
+      "decision": "Long Xiaoyao and Ye Xishui are great-grandparents in the author’s branch; inheritance only, not personal contact or mentorship.",
+      "verbatim": null,
+      "provenance_kind": "recorded-interview-choice",
+      "verbatim_limit": "Exact wording not retained in available session context. This decision is a recorded choice, not a reconstructed quotation."
+    },
+    {
+      "id": "R09",
+      "classification": "author-lock",
+      "decision": "Use Cai Mei’er’s donghua Evil-Dispelling Dragon Soul Spear design as the maternal foundation.",
+      "verbatim": null,
+      "provenance_kind": "recorded-interview-choice",
+      "verbatim_limit": "Exact wording not retained in available session context. This decision is a recorded choice, not a reconstructed quotation."
+    },
+    {
+      "id": "R10",
+      "classification": "author-lock",
+      "decision": "Trusted family/Shrek elders know the twins; already close to Ma Xiaotao, Mu En as grandmaster, Xuan Zi and others. Ma’s future direction remains undecided.",
+      "verbatim": null,
+      "provenance_kind": "recorded-interview-choice",
+      "verbatim_limit": "Exact wording not retained in available session context. This decision is a recorded choice, not a reconstructed quotation."
+    },
+    {
+      "id": "R11",
+      "classification": "author-lock",
+      "decision": "Research novel, manhua and donghua with exact unit references in fic chapters.",
+      "verbatim": "We follow canon novel, manuha donghua and even write what episode or chapter to you take them in our chapter, it's help lot's.",
+      "provenance_kind": "verbatim-author-message",
+      "verbatim_limit": null
+    },
+    {
+      "id": "R12",
+      "classification": "author-lock",
+      "decision": "Do not replace understanding of this fanfiction method with another generic fidelity interview.",
+      "verbatim": "Well you should not ask this questions, instead you need to understand how my fen fiction works.",
+      "provenance_kind": "verbatim-author-message",
+      "verbatim_limit": null
+    },
+    {
+      "id": "R13",
+      "classification": "author-lock",
+      "decision": "Creation was authorized, interrupted for narrow rejected-media cleanup.",
+      "verbatim": "So create all files and foundation and others All thingsHey wait Frist clean the workshop delete pictures and useless things and do clean up",
+      "provenance_kind": "verbatim-author-message",
+      "verbatim_limit": null
+    },
+    {
+      "id": "R14",
+      "classification": "author-lock",
+      "decision": "Resume this new fanfiction after cleanup.",
+      "verbatim": "Okay now continue fen fiction",
+      "provenance_kind": "verbatim-author-message",
+      "verbatim_limit": null
+    },
+    {
+      "id": "R15",
+      "classification": "author-lock",
+      "decision": "All work publicly managed in the existing canonical kit home; preserve unrelated projects, unique history and rejected-media deletion.",
+      "verbatim": null,
+      "provenance_kind": "standing-author-instructions",
+      "verbatim_limit": "Exact wording not retained in available session context. This decision is a recorded choice, not a reconstructed quotation."
+    }
+  ]
+}

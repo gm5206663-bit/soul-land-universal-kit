@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-22",
+  "baseline_commit": "e2581362db1db624bc7a053aa5747170ca1be669",
+  "protected_existing_files_byte_identical": 2330,
+  "existing_files_changed": [
+    "PROJECTS.md",
+    "README.md"
+  ],
+  "allowed_new_scope": [
+    "soul_land_2_dragon_phoenix/",
+    ".github/workflows/dragon-phoenix-foundation.yml"
+  ],
+  "other_serial_changes": 0,
+  "rejected_media_reintroduced": false,
+  "register_regenerated": false,
+  "reason": "New foundation navigation only; no chapter publication and no edits to another book."
+}
