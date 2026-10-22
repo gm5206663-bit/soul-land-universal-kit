@@ -8,26 +8,28 @@ Their learned combat and engineering cannot be deposited into a child as genetic
 memory. Secondary genealogy conflicts remain a source-reconciliation task,
 not permission to silently change the author’s generation count.
 
-Neither Jingheng’s knowledge nor his parents’ full knowledge of that hidden tree
-has been assigned. A narrator’s planning document is not an in-world disclosure.
+Jingheng has not been told the ancestral identities in the accepted opening
+design. His parents’ complete knowledge is not assigned from a wiki. A narrator’s
+planning document is not an in-world disclosure.
 Before a revelation is written, track the speaker, evidence, motive, witnesses
 and what each listener actually learns.
 
 ## Engineering instruction
 
-Exceptional aptitude, resources and sustained guidance are fixed. A specific
-Fan Yu apprenticeship is not. Establish who taught theory, formation work,
-materials and construction, how long the access lasted and what work actually
-succeeded. An institutional workshop route is not secret training by Ye Xishui.
-A strong result can change faculty interest; it does not automatically create
-a certificate or make every department agree.
+Exceptional aptitude, resources and sustained guidance now have an accepted
+Fan Yu workshop route in the original development history. Theory, actual
+materials, complete construction, repair and repeated tests are recorded in
+SOUL_ENGINEERING.md and current state. This is not secret teaching by Ye Xishui.
+Relevant faculty and He Caitou remember actual workshop work. A strong result
+does not automatically create an external certificate or unanimous policy.
 
 ## Later students and teachers
 
-Wang Dong, Xiao Xiao, He Caitou and later academy figures must enter through
-actual encounters. Their names in a planning register are not proof that
-Jingheng already knows them, knows hidden identities or has private friendships.
-Record the first meeting before assigning a shared memory.
+Wang Dong, Xiao Xiao and other later classmates have no accepted prior OC bond.
+He Caitou is now an explicitly authored workshop acquaintance, not a sudden
+future stranger. No secret friendship or knowledge of hidden identities follows.
+For every additional person, establish an actual encounter before assigning
+shared memories. A name in the cast register is not that encounter.
 
 ## Antagonistic or institutional relationships
 

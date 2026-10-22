@@ -10,7 +10,8 @@ reserve, Tang Ya’s own goals and Bei Bei’s independent judgment.
 
 ## Forest continuation
 
-Read 2.1 onward before deciding the new hunt/rescue/bond route. Jingheng’s
+N06–N09 now cover 2.1–2.4. Use that study and the pre-opening consequence
+assessment before finalizing the later hunt/rescue/bond scene plan. Jingheng’s
 presence can remove or change a cause; an old injury or defeat is not sacred.
 An exceptionally strong child still lacks author knowledge and is not eligible
 for every unique bond just because he is nearby.

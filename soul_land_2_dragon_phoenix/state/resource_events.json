@@ -13,5 +13,120 @@
     "result",
     "source_refs"
   ],
-  "events": []
+  "events": [
+    {
+      "id": "RSC01",
+      "status": "accepted",
+      "epoch": "prenatal",
+      "resource": "Appropriate diet, rest and regulated maternal nutrient/energy exchange",
+      "supplier": "Cai Mei’er and family provision",
+      "purpose": "Develop the actual prenatal foundation",
+      "amount_if_known": null,
+      "compatibility": "Assessed in the authored training/hunt/workshop route; no invented gram-to-rank equation",
+      "result": "D00; no free external talent transfer",
+      "source_refs": [
+        "DESIGN01",
+        "AT01"
+      ],
+      "ruling_refs": [
+        "R07",
+        "R17"
+      ]
+    },
+    {
+      "id": "RSC02",
+      "status": "accepted",
+      "epoch": "childhood",
+      "resource": "High-quality ordinary provision, appropriate exercise space and skilled teaching",
+      "supplier": "Parents/authorized academy staff",
+      "purpose": "Develop body, senses, knowledge, emotion and control",
+      "amount_if_known": null,
+      "compatibility": "Assessed in the authored training/hunt/workshop route; no invented gram-to-rank equation",
+      "result": "D01–D02",
+      "source_refs": [
+        "DESIGN01",
+        "AT01"
+      ],
+      "ruling_refs": [
+        "R07",
+        "R17"
+      ]
+    },
+    {
+      "id": "RSC03",
+      "status": "accepted",
+      "epoch": "awakened years",
+      "resource": "Cultivation access, physician-prepared recovery provision and actual practice/rest",
+      "supplier": "Parents and authorized academy support",
+      "purpose": "Supply denser development without using energy demand as an artificial growth tax",
+      "amount_if_known": null,
+      "compatibility": "Assessed in the authored training/hunt/workshop route; no invented gram-to-rank equation",
+      "result": "D03–D09",
+      "source_refs": [
+        "DESIGN01",
+        "AT01"
+      ],
+      "ruling_refs": [
+        "R07",
+        "R17"
+      ]
+    },
+    {
+      "id": "RSC04",
+      "status": "accepted",
+      "epoch": "five hunts",
+      "resource": "Donor locating/containment, travel, guard and actual rings",
+      "supplier": "Parents and appropriate elders",
+      "purpose": "Acquire P1–P5 compatibly; child performs final act and absorption",
+      "amount_if_known": null,
+      "compatibility": "Assessed in the authored training/hunt/workshop route; no invented gram-to-rank equation",
+      "result": "Five accepted rings; no unique canon beast removed",
+      "source_refs": [
+        "DESIGN01",
+        "AT01"
+      ],
+      "ruling_refs": [
+        "R07",
+        "R17"
+      ]
+    },
+    {
+      "id": "RSC05",
+      "status": "accepted",
+      "epoch": "workshop years",
+      "resource": "Authorized metals, core materials, tools, instruction and honest failed work",
+      "supplier": "Approved workshop allocation under Fan Yu",
+      "purpose": "Construct and test complete devices",
+      "amount_if_known": null,
+      "compatibility": "Assessed in the authored training/hunt/workshop route; no invented gram-to-rank equation",
+      "result": "D05/D07 and I01–I03",
+      "source_refs": [
+        "DESIGN01",
+        "AT01"
+      ],
+      "ruling_refs": [
+        "R07",
+        "R17"
+      ]
+    },
+    {
+      "id": "RSC06",
+      "status": "accepted",
+      "epoch": "pre-opening",
+      "resource": "Household storage belt and ordinary travel supplies",
+      "supplier": "Parents; completed workshop devices belong to boy",
+      "purpose": "Responsible outer-route travel and field checks",
+      "amount_if_known": null,
+      "compatibility": "Assessed in the authored training/hunt/workshop route; no invented gram-to-rank equation",
+      "result": "I04 contains only recorded actual contents",
+      "source_refs": [
+        "DESIGN01",
+        "AT01"
+      ],
+      "ruling_refs": [
+        "R07",
+        "R17"
+      ]
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "scope": "Actual completed historical milestones, not intentions.",
+  "scope": "Accepted original off-page OC continuity, separate from reviewed canon and from published scene events. Every row is authored design under R17, not an external factual receipt.",
   "required_event_fields": [
     "id",
     "status",
@@ -18,5 +18,686 @@
     "state_outputs",
     "source_refs"
   ],
-  "events": []
+  "events": [
+    {
+      "id": "D00",
+      "status": "accepted",
+      "authority": "delegated-design",
+      "age_months_grid": 0,
+      "date_precision": "Whole-month planning grid, not a chosen birthday or absolute calendar",
+      "epoch": "conception-to-birth",
+      "prior_state": "Strong parental inheritance, Cai Mei’er’s provision and regulated maternal exchange",
+      "input": "Stage-appropriate prenatal body/soul compatibility and biological development",
+      "teacher_or_source": "Cai Mei’er; family medical support",
+      "resources": "Maternal nutrition, rest and real energy/nutrient exchange",
+      "task": "Prenatal whole-existence development",
+      "result": "Stable inherited foundations and maternal support effects; no fetal adult knowledge",
+      "cost": "Maternal time and real resources",
+      "integration": "Pregnancy-only regulation is not universal postnatal healing",
+      "witnesses": "Parents",
+      "later_proof": "Later growth and awakening compatibility",
+      "state_outputs": {},
+      "source_refs": [
+        "DESIGN01",
+        "AT01",
+        "N01",
+        "N02",
+        "N06",
+        "N07",
+        "N09",
+        "N10",
+        "N11",
+        "N12"
+      ],
+      "ruling_refs": [
+        "R01",
+        "R03",
+        "R06",
+        "R07",
+        "R17"
+      ]
+    },
+    {
+      "id": "D01",
+      "status": "accepted",
+      "authority": "delegated-design",
+      "age_months_grid": 60,
+      "date_precision": "Whole-month planning grid, not a chosen birthday or absolute calendar",
+      "epoch": "early-childhood",
+      "prior_state": "D00; sustained native care, play and teaching",
+      "input": "Body coordination, senses, learning and emotion develop together",
+      "teacher_or_source": "Parents and known elder circle",
+      "resources": "Nutrition, play, taught exercises and sleep consolidation",
+      "task": "Pre-awakening development",
+      "result": "Strong body/soul/control foundation already exists",
+      "cost": "Real childhood time and age-appropriate practice",
+      "integration": "No imaginary sleep-training or deletion of emotion",
+      "witnesses": "Parents; close elders",
+      "later_proof": "Awakening and later ring tolerance",
+      "state_outputs": {},
+      "source_refs": [
+        "DESIGN01",
+        "AT01",
+        "N01",
+        "N02",
+        "N06",
+        "N07",
+        "N09",
+        "N10",
+        "N11",
+        "N12"
+      ],
+      "ruling_refs": [
+        "R01",
+        "R03",
+        "R06",
+        "R07",
+        "R17"
+      ]
+    },
+    {
+      "id": "D02",
+      "status": "accepted",
+      "authority": "delegated-design",
+      "age_months_grid": 72,
+      "date_precision": "Whole-month planning grid, not a chosen birthday or absolute calendar",
+      "epoch": "awakening",
+      "prior_state": "D01 body-soul foundation",
+      "input": "Private awakening, full innate soulforce reading and two manifestations",
+      "teacher_or_source": "Parents; Mu En; Xuan Zi",
+      "resources": "Awakening arrangement and appropriate instruction",
+      "task": "Awaken the two parental foundations",
+      "result": "Innate reading ten; developed depth/control is not erased by sharing the ordinary full-innate number",
+      "cost": "Actual setup and testing",
+      "integration": "Separate soul manifestations on one cultivated foundation",
+      "witnesses": "Parents; Mu En; Xuan Zi",
+      "later_proof": "First release training; later limited disclosure",
+      "state_outputs": {
+        "innate_soulforce": 10
+      },
+      "source_refs": [
+        "DESIGN01",
+        "AT01",
+        "N01",
+        "N02",
+        "N06",
+        "N07",
+        "N09",
+        "N10",
+        "N11",
+        "N12"
+      ],
+      "ruling_refs": [
+        "R01",
+        "R03",
+        "R06",
+        "R07",
+        "R17"
+      ]
+    },
+    {
+      "id": "D03",
+      "status": "accepted",
+      "authority": "delegated-design",
+      "age_months_grid": 73,
+      "date_precision": "Whole-month planning grid, not a chosen birthday or absolute calendar",
+      "epoch": "first-ring",
+      "prior_state": "D02; unusually developed pre-awakening structure, prepared tolerance and compatible donor",
+      "input": "P1 hunt, final act and absorption",
+      "teacher_or_source": "Yan Shaozhe; appropriate academy support",
+      "resources": "Organized hunt, meals, physician-prepared recovery and cultivation time",
+      "task": "Absorb P1",
+      "result": "Rank twelve after integration; Radiant Mantle",
+      "cost": "Real ring energy, preparation and subsequent work",
+      "integration": "Repeat release/control before raising load",
+      "witnesses": "Yan Shaozhe; family circle",
+      "later_proof": "Next-stage practice uses improved body, perception and lower waste",
+      "state_outputs": {
+        "cultivation_rank": 12
+      },
+      "source_refs": [
+        "DESIGN01",
+        "AT01",
+        "N01",
+        "N02",
+        "N06",
+        "N07",
+        "N09",
+        "N10",
+        "N11",
+        "N12"
+      ],
+      "ruling_refs": [
+        "R01",
+        "R03",
+        "R06",
+        "R07",
+        "R17"
+      ],
+      "ring_acquired_ids": [
+        "P1"
+      ]
+    },
+    {
+      "id": "D04",
+      "status": "accepted",
+      "authority": "delegated-design",
+      "age_months_grid": 85,
+      "date_precision": "Whole-month planning grid, not a chosen birthday or absolute calendar",
+      "epoch": "second-ring",
+      "prior_state": "D03 plus sustained cultivation, body/soul reinforcement and practice",
+      "input": "Reach rank twenty and absorb P2",
+      "teacher_or_source": "Parents; Mu En as guidance",
+      "resources": "Scheduled cultivation supply, controlled practice and hunt",
+      "task": "P2 and learned control",
+      "result": "Rank twenty-two after integration; aimed light-fire output",
+      "cost": "Nonlinear energy needs, time and integration",
+      "integration": "Old tasks easier; precise output separately practiced",
+      "witnesses": "Parents; close training circle",
+      "later_proof": "Stage-three work starts from this stronger whole",
+      "state_outputs": {
+        "cultivation_rank": 22
+      },
+      "source_refs": [
+        "DESIGN01",
+        "AT01",
+        "N01",
+        "N02",
+        "N06",
+        "N07",
+        "N09",
+        "N10",
+        "N11",
+        "N12"
+      ],
+      "ruling_refs": [
+        "R01",
+        "R03",
+        "R06",
+        "R07",
+        "R17"
+      ],
+      "ring_acquired_ids": [
+        "P2"
+      ]
+    },
+    {
+      "id": "D05",
+      "status": "accepted",
+      "authority": "delegated-design",
+      "age_months_grid": 98,
+      "date_precision": "Whole-month planning grid, not a chosen birthday or absolute calendar",
+      "epoch": "third-ring",
+      "prior_state": "D04, applied movement and early workshop learning",
+      "input": "Reach rank thirty and absorb P3",
+      "teacher_or_source": "Parents; approved instructors",
+      "resources": "Cultivation, materials, actual making, organized hunt",
+      "task": "P3 and flight coordination",
+      "result": "Rank thirty-two after integration; controlled aerial route",
+      "cost": "Actual time, energy, material and recovery use",
+      "integration": "Flight is practiced, not perfect merely because a ring exists",
+      "witnesses": "Training circle; workshop teachers for craft only",
+      "later_proof": "More difficult movement and repeated complete devices",
+      "state_outputs": {
+        "cultivation_rank": 32
+      },
+      "source_refs": [
+        "DESIGN01",
+        "AT01",
+        "N01",
+        "N02",
+        "N06",
+        "N07",
+        "N09",
+        "N10",
+        "N11",
+        "N12"
+      ],
+      "ruling_refs": [
+        "R01",
+        "R03",
+        "R06",
+        "R07",
+        "R17"
+      ],
+      "ring_acquired_ids": [
+        "P3"
+      ]
+    },
+    {
+      "id": "D06",
+      "status": "accepted",
+      "authority": "delegated-design",
+      "age_months_grid": 113,
+      "date_precision": "Whole-month planning grid, not a chosen birthday or absolute calendar",
+      "epoch": "fourth-ring",
+      "prior_state": "D05; strengthened supporting soul and mental anchors",
+      "input": "Reach rank forty and absorb P4",
+      "teacher_or_source": "Parents; Mu En; supervised soul-pressure preparation",
+      "resources": "Cultivation, pressure tests, controlled hunt and recovery",
+      "task": "First black ring with actual soul/body support",
+      "result": "Rank forty-two after integration; placed protective screen",
+      "cost": "Donor energy and full integration, not an adult bearing the absorption",
+      "integration": "Soul-pressure response and screen control tested",
+      "witnesses": "Trusted training witnesses",
+      "later_proof": "Stronger whole supports higher loads and combined practice",
+      "state_outputs": {
+        "cultivation_rank": 42
+      },
+      "source_refs": [
+        "DESIGN01",
+        "AT01",
+        "N01",
+        "N02",
+        "N06",
+        "N07",
+        "N09",
+        "N10",
+        "N11",
+        "N12"
+      ],
+      "ruling_refs": [
+        "R01",
+        "R03",
+        "R06",
+        "R07",
+        "R17"
+      ],
+      "ring_acquired_ids": [
+        "P4"
+      ]
+    },
+    {
+      "id": "D07",
+      "status": "accepted",
+      "authority": "delegated-design",
+      "age_months_grid": 120,
+      "date_precision": "Whole-month planning grid, not a chosen birthday or absolute calendar",
+      "epoch": "integration-and-workshop",
+      "prior_state": "D06; actual spear and phoenix practice, workshop foundations",
+      "input": "Develop Phoenix-Spear Concord; repeat independent completed tools",
+      "teacher_or_source": "Cai Mei’er; Yan Shaozhe; Fan Yu in workshop",
+      "resources": "Authorized material supply, alternating/combined drills, feedback and rest",
+      "task": "Embodied dual expression and technical application",
+      "result": "Stable ringless spear with phoenix reinforcement; reliable emitter/screen/repair work",
+      "cost": "Real practice, material losses, energy and instruction",
+      "integration": "Shared reserves; no automatic fusion or learned ancestral knowledge",
+      "witnesses": "Parents; Mu En; Xuan Zi; Ma Xiaotao; Fan Yu on limited need-to-know disclosure",
+      "later_proof": "Later combined tests and devices used at opening",
+      "state_outputs": {},
+      "source_refs": [
+        "DESIGN01",
+        "AT01",
+        "N01",
+        "N02",
+        "N06",
+        "N07",
+        "N09",
+        "N10",
+        "N11",
+        "N12"
+      ],
+      "ruling_refs": [
+        "R01",
+        "R03",
+        "R06",
+        "R07",
+        "R17"
+      ],
+      "condition_help_history": {
+        "authority": "delegated-design",
+        "Ma Xiaotao": "Noticed difficult control/recovery episodes, asked questions and assisted permitted accessible flow observations under adult supervision; no verified permanent treatment.",
+        "Mu En": "Familiarity with an old health difficulty and non-invasive observation, not a complete private diagnosis or constructed cure.",
+        "future_boundary": "Specific underlying medical passages and altered future outcomes remain research duties before those scenes."
+      }
+    },
+    {
+      "id": "D08",
+      "status": "accepted",
+      "authority": "delegated-design",
+      "age_months_grid": 128,
+      "date_precision": "Whole-month planning grid, not a chosen birthday or absolute calendar",
+      "epoch": "fifth-ring",
+      "prior_state": "D07; several years of accumulating body, soul, control and supporting resources",
+      "input": "Reach rank fifty and absorb P5",
+      "teacher_or_source": "Parents; appropriate elder support",
+      "resources": "Prepared high-value hunt, ring, controlled recovery and cultivation support",
+      "task": "P5 and whole-stage refinement",
+      "result": "Rank fifty-one after integration; high-output phoenix attack",
+      "cost": "Significant actual energy and integration work",
+      "integration": "Output deliberately trained, with collateral awareness",
+      "witnesses": "Trusted training circle",
+      "later_proof": "Four further months of cultivation, control and tools",
+      "state_outputs": {
+        "cultivation_rank": 51
+      },
+      "source_refs": [
+        "DESIGN01",
+        "AT01",
+        "N01",
+        "N02",
+        "N06",
+        "N07",
+        "N09",
+        "N10",
+        "N11",
+        "N12"
+      ],
+      "ruling_refs": [
+        "R01",
+        "R03",
+        "R06",
+        "R07",
+        "R17"
+      ],
+      "ring_acquired_ids": [
+        "P5"
+      ]
+    },
+    {
+      "id": "D09",
+      "status": "accepted",
+      "authority": "delegated-design",
+      "age_months_grid": 132,
+      "date_precision": "Whole-month planning grid, not a chosen birthday or absolute calendar",
+      "epoch": "opening-checkpoint",
+      "prior_state": "D08 plus four months of continued cultivated progress and consolidation",
+      "input": "Repeat mixed practical tests; review provision, privacy and travel",
+      "teacher_or_source": "Parents; close elders; Fan Yu for workshop items",
+      "resources": "Training time, appropriate resources, completed tools and ordinary travel supplies",
+      "task": "Establish the opening checkpoint",
+      "result": "Eleven-year-old rank-fifty-three working build with five phoenix rings and trained ringless spear",
+      "cost": "Real prior history; no arithmetic talent multiplier or infinite supply",
+      "integration": "Body, emotion, learning, souls, rings, energy and tools reflect cumulative work",
+      "witnesses": "Witness list in CURRENT_STATE.json",
+      "later_proof": "Opening decisions and later scenes must actually use these advantages",
+      "state_outputs": {
+        "exact_age": 11,
+        "innate_soulforce": 10,
+        "cultivation_rank": 53,
+        "reserves": {
+          "description": "Dense, well-integrated Soul King reserves with unusually economical circulation and lower wastage, not two additive soul-power pools.",
+          "demonstrated": "Completes a repeatable mixed spear/phoenix training bout and still operates his carried emitter and screen without emergency medicine.",
+          "not_claimed": "No infinite output or unsupported multiplier against an average Soul King."
+        },
+        "physique": {
+          "description": "Prenatally supported, continuously adapted and reinforced through five ring stages; exceptional coordination, channel tolerance and structural strength for this age and rank.",
+          "demonstrated": "Has actually supported P1–P5 and integrated aerial/spear work; routine movement and low-output practice do not exhaust him.",
+          "not_claimed": "No adult appearance, automatic limb regrowth, physical invulnerability or invented universal realm-equivalence."
+        },
+        "soul_capacity": {
+          "description": "Developed memory, attention, emotional regulation and stable will with body-soul compatibility; prepared through supervised spiritual-pressure and concentration exercises.",
+          "demonstrated": "Has integrated the P4/P5 black rings and maintains his practiced dual-expression technique under familiar interference.",
+          "not_claimed": "No mind reading, omniscience, automatic mental-attack immunity or SL3 numerical spiritual-power realm."
+        },
+        "phoenix_rings": [
+          {
+            "id": "P1",
+            "slot": 1,
+            "soul": "Bright Phoenix",
+            "origin_class": "original-design",
+            "donor": "Dawnfeather Hawk",
+            "canonical_species_claim": false,
+            "donor_cultivation_age": 1500,
+            "current_age": 1500,
+            "age_precision": "nominal cultivation-age estimate in authored continuity, not exact biological years",
+            "color": "purple",
+            "acquired_age_months": 73,
+            "availability": "Original individuals located on parent-organized hunts in the Star Dou region; no named canon beast removed or unique auspicious beast claimed.",
+            "trait": "Light-aspected avian; coherent feather-light mantle.",
+            "skill": {
+              "name": "Radiant Mantle",
+              "origin_class": "original-design",
+              "effect": "Close-fitting radiance reinforces the body and disperses a bounded incoming impact.",
+              "scope": "It is not an automatic ally shield or immunity; the boy must supply energy and choose coverage."
+            },
+            "support": "Appropriate parent/elder organizes and contains the hunt. Jingheng performs the final act and absorbs; the adult does not absorb the ring or substitute their body for his.",
+            "absorption_basis": "Prenatal/childhood body-soul foundation, graduated measured tolerance, prior ring integration and compatible donor trait. Ten-thousand-year entries additionally require soul-pressure control and prepared mental anchors.",
+            "cost": "Real hunt time, ring energy, preparation, rest, high-quality nutrition and actual integration work.",
+            "source_refs": [
+              "DESIGN01",
+              "AT01",
+              "N06",
+              "N07",
+              "N09"
+            ]
+          },
+          {
+            "id": "P2",
+            "slot": 2,
+            "soul": "Bright Phoenix",
+            "origin_class": "original-design",
+            "donor": "Sunplume Crane",
+            "canonical_species_claim": false,
+            "donor_cultivation_age": 3600,
+            "current_age": 3600,
+            "age_precision": "nominal cultivation-age estimate in authored continuity, not exact biological years",
+            "color": "purple",
+            "acquired_age_months": 85,
+            "availability": "Original individuals located on parent-organized hunts in the Star Dou region; no named canon beast removed or unique auspicious beast claimed.",
+            "trait": "Light/heat-aligned avian; concentrated forward emission.",
+            "skill": {
+              "name": "Sunfeather Lance",
+              "origin_class": "original-design",
+              "effect": "A narrow light-fire thrust/projectile, aimed and shaped by practiced control.",
+              "scope": "Line of sight and control matter; no target homing, conceptual piercing or Ultimate Fire."
+            },
+            "support": "Appropriate parent/elder organizes and contains the hunt. Jingheng performs the final act and absorbs; the adult does not absorb the ring or substitute their body for his.",
+            "absorption_basis": "Prenatal/childhood body-soul foundation, graduated measured tolerance, prior ring integration and compatible donor trait. Ten-thousand-year entries additionally require soul-pressure control and prepared mental anchors.",
+            "cost": "Real hunt time, ring energy, preparation, rest, high-quality nutrition and actual integration work.",
+            "source_refs": [
+              "DESIGN01",
+              "AT01",
+              "N06",
+              "N07",
+              "N09"
+            ]
+          },
+          {
+            "id": "P3",
+            "slot": 3,
+            "soul": "Bright Phoenix",
+            "origin_class": "original-design",
+            "donor": "Galecrest Falcon",
+            "canonical_species_claim": false,
+            "donor_cultivation_age": 8500,
+            "current_age": 8500,
+            "age_precision": "nominal cultivation-age estimate in authored continuity, not exact biological years",
+            "color": "purple",
+            "acquired_age_months": 98,
+            "availability": "Original individuals located on parent-organized hunts in the Star Dou region; no named canon beast removed or unique auspicious beast claimed.",
+            "trait": "Avian wing/air coordination compatible with the manifested phoenix.",
+            "skill": {
+              "name": "Phoenix Wingstep",
+              "origin_class": "original-design",
+              "effect": "Powered wing-assisted movement and trained aerial direction changes.",
+              "scope": "Actual movement, not teleportation; terrain, clearance and carried mass matter."
+            },
+            "support": "Appropriate parent/elder organizes and contains the hunt. Jingheng performs the final act and absorbs; the adult does not absorb the ring or substitute their body for his.",
+            "absorption_basis": "Prenatal/childhood body-soul foundation, graduated measured tolerance, prior ring integration and compatible donor trait. Ten-thousand-year entries additionally require soul-pressure control and prepared mental anchors.",
+            "cost": "Real hunt time, ring energy, preparation, rest, high-quality nutrition and actual integration work.",
+            "source_refs": [
+              "DESIGN01",
+              "AT01",
+              "N06",
+              "N07",
+              "N09"
+            ]
+          },
+          {
+            "id": "P4",
+            "slot": 4,
+            "soul": "Bright Phoenix",
+            "origin_class": "original-design",
+            "donor": "Mirrorwing Heron",
+            "canonical_species_claim": false,
+            "donor_cultivation_age": 22000,
+            "current_age": 22000,
+            "age_precision": "nominal cultivation-age estimate in authored continuity, not exact biological years",
+            "color": "black",
+            "acquired_age_months": 113,
+            "availability": "Original individuals located on parent-organized hunts in the Star Dou region; no named canon beast removed or unique auspicious beast claimed.",
+            "trait": "Layered radiance that redirects part of an incoming energetic flow.",
+            "skill": {
+              "name": "Phoenix Screen",
+              "origin_class": "original-design",
+              "effect": "A deliberately placed fan or curved screen can protect another person or a chosen line.",
+              "scope": "Coverage and output are finite; no universal purification, reflecting every attack, or permanent field."
+            },
+            "support": "Appropriate parent/elder organizes and contains the hunt. Jingheng performs the final act and absorbs; the adult does not absorb the ring or substitute their body for his.",
+            "absorption_basis": "Prenatal/childhood body-soul foundation, graduated measured tolerance, prior ring integration and compatible donor trait. Ten-thousand-year entries additionally require soul-pressure control and prepared mental anchors.",
+            "cost": "Real hunt time, ring energy, preparation, rest, high-quality nutrition and actual integration work.",
+            "source_refs": [
+              "DESIGN01",
+              "AT01",
+              "N06",
+              "N07",
+              "N09"
+            ]
+          },
+          {
+            "id": "P5",
+            "slot": 5,
+            "soul": "Bright Phoenix",
+            "origin_class": "original-design",
+            "donor": "Solarcrest Firebird",
+            "canonical_species_claim": false,
+            "donor_cultivation_age": 42000,
+            "current_age": 42000,
+            "age_precision": "nominal cultivation-age estimate in authored continuity, not exact biological years",
+            "color": "black",
+            "acquired_age_months": 128,
+            "availability": "Original individuals located on parent-organized hunts in the Star Dou region; no named canon beast removed or unique auspicious beast claimed.",
+            "trait": "A higher-energy light/fire avian of the original donor ecology.",
+            "skill": {
+              "name": "Solar Phoenix Descent",
+              "origin_class": "original-design",
+              "effect": "A concentrated descending sweep or released phoenix-shaped flare.",
+              "scope": "High-output attack, not resurrection or a cure. Heat, collateral risk and genuine consumption require control."
+            },
+            "support": "Appropriate parent/elder organizes and contains the hunt. Jingheng performs the final act and absorbs; the adult does not absorb the ring or substitute their body for his.",
+            "absorption_basis": "Prenatal/childhood body-soul foundation, graduated measured tolerance, prior ring integration and compatible donor trait. Ten-thousand-year entries additionally require soul-pressure control and prepared mental anchors.",
+            "cost": "Real hunt time, ring energy, preparation, rest, high-quality nutrition and actual integration work.",
+            "source_refs": [
+              "DESIGN01",
+              "AT01",
+              "N06",
+              "N07",
+              "N09"
+            ]
+          }
+        ],
+        "spear_rings": [],
+        "bloodline_expression": {
+          "phoenix": "Stable light/heat-compatible phoenix inheritance and faster recovery/energy integration, not automatic Ultimate/divine grade.",
+          "dragon": "Author-supplied dragon-aspected potential expressed through physical cohesion, force conduction and spear compatibility; no Dragon God/Golden Dragon King species is inferred.",
+          "integration": "Two valuable foundations harmonized rather than one erased. Later personal evolution stays open."
+        },
+        "combat_capabilities": {
+          "learned": [
+            "Mother-guided spear fundamentals, precision, defense and recovery",
+            "Father-guided phoenix release, output shaping and five ring gifts",
+            "Elder-corrected movement, observation and judgment",
+            "Practical soul-tool handling and teamwork"
+          ],
+          "dual_expression": {
+            "name": "Phoenix-Spear Concord",
+            "origin_class": "original-design",
+            "route": "At later-childhood stages, separate manifestation pathways were constructed/refined through real alternating practice, feedback, body-soul integration and months of deliberate combined drills.",
+            "reliable": "Ringless spear with phoenix reinforcement and familiar trained combinations; no duplicated reserves or automatic martial-soul fusion.",
+            "developing": "Unpracticed combinations and maximal simultaneous output still need actual application, not a permanent arbitrary fatigue tax."
+          },
+          "feats": [
+            "Repeated clean intercepts of controlled training projectiles with spear/body coordination",
+            "Directional phoenix flight and safe landings through a marked course",
+            "Protection of a selected nearby training target with Phoenix Screen",
+            "Subdues ordinary low-year threats decisively rather than replaying Yuhao’s original novice danger"
+          ],
+          "not_claimed": "No blanket immunity, continent-wide senses, guaranteed victory over higher-rank specialists or knowledge of hidden enemies."
+        },
+        "engineering_proficiency": {
+          "instruction": "Authorized Shrek workshop instruction under Fan Yu from later childhood, with actual materials, formation work and complete devices.",
+          "reliable": [
+            "Independently makes and repairs focused emitters and protective assemblies within his tested workshop scope",
+            "Understands material preparation, core inscription, energy matching, losses and safe load testing",
+            "Revises his own flow-regulator layout and repeats the result instead of only copying a visible gesture"
+          ],
+          "advanced_work": "Contributes to supervised more-complex prototypes; a design contribution is not a portable finished device.",
+          "grade_statement": "No formal numbered class is asserted from a wiki inference or cultivation rank. Competence is evidenced by the described completed work."
+        },
+        "engineering_certification": {
+          "external_certificate": false,
+          "internal_assessment": "Fan Yu has assessed the repeated construction, operation and repair tasks in the authored workshop history.",
+          "canonical_exam_claim": false,
+          "note": "No unread certification passage is invented. Absence of an external badge is not absence of competence."
+        },
+        "equipment": [
+          {
+            "id": "I01",
+            "name": "Fine-Line Emitter",
+            "type": "original soul-tool design",
+            "owner": "Jingheng",
+            "source": "Self-built with authorized workshop material and Fan Yu’s assessment",
+            "function": "Aimed narrow emission, useful for precision work and ranged support",
+            "power": "His own soul power",
+            "limits": "No automatic tracking or stationary high-yield shell; cannot hit what he cannot locate."
+          },
+          {
+            "id": "I02",
+            "name": "Layered Guard Cuff",
+            "type": "original soul-tool design",
+            "owner": "Jingheng",
+            "source": "Self-built and tested workshop defensive assembly",
+            "function": "Creates a directed protective screen under deliberate control",
+            "power": "His own soul power",
+            "limits": "Finite coverage/output; damage and depletion persist."
+          },
+          {
+            "id": "I03",
+            "name": "Inspection Stylus",
+            "type": "original workshop instrument",
+            "owner": "Jingheng",
+            "source": "Self-made low-output diagnostic tool",
+            "function": "Tests accessible formation continuity and irregular flow",
+            "power": "Small user-fed pulse",
+            "limits": "No hidden blueprint extraction, thought reading or universal medical diagnosis."
+          },
+          {
+            "id": "I04",
+            "name": "Storage belt",
+            "type": "household-provided storage soul tool",
+            "owner": "Jingheng",
+            "source": "Parents authorize ordinary travel provision; storage category supported by N11",
+            "capacity": "One cubic metre, an original item specification rather than a quoted canon value",
+            "contents": [
+              "Travel clothes and ordinary provisions",
+              "Water flask and wrapped dry food",
+              "Basic dressings and maintenance supplies",
+              "I01, I02 and I03 when not being carried"
+            ],
+            "limits": "No living passengers, endless ammunition or unrecorded treasures."
+          }
+        ]
+      },
+      "source_refs": [
+        "DESIGN01",
+        "AT01",
+        "N01",
+        "N02",
+        "N06",
+        "N07",
+        "N09",
+        "N10",
+        "N11",
+        "N12"
+      ],
+      "ruling_refs": [
+        "R01",
+        "R03",
+        "R06",
+        "R07",
+        "R17"
+      ]
+    }
+  ]
 }

@@ -21,14 +21,16 @@ branch difference. This does not authorize personal contact with those ancestors
 Ancestry gives potential, not recalled lives, class-nine schematics or automatic
 possession of every ancestral martial soul. The approved pair is explicit.
 
-## Appearance — proposed, not a locked model
+## Appearance — delegated original design, no artwork
 
 Age-appropriate, healthy, coordinated and visibly well cared for. A balanced,
 expressive face and practical academy/travel clothes suit the upbringing. Do not
 reuse Fire Phoenix’s female disguise, copper-red makeover, portrait or costume.
-Hair, eye color and transformation tells should be finalized with the martial-
-soul expression ledger rather than borrowed from another OC. No adult body or
-sexualized presentation is justified by advanced development.
+CURRENT_STATE.json → identity.appearance owns the concrete working hair, eyes,
+build and clothing choices. They are original cosmetics, not canonical traits
+of a boy absent from the source. The exact maternal transformation design still
+awaits its primary scene receipt; no guessed visual is claimed watched.
+No adult body or sexualized presentation is justified by advanced development.
 
 No illness, adoption secret, missing childhood memory or reincarnation has been
 introduced to explain away the author’s strong starting conditions.

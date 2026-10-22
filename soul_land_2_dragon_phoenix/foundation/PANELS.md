@@ -22,3 +22,9 @@ ledger before they appear in a new summary.
 If a presentation changes, keep one canonical state owner and regenerate views.
 Do not maintain a new STATUS_PANEL.md with independent numbers merely to imitate
 another serial’s directory. A link to the true owner is safer than a second panel.
+
+## Preflight checkpoint view
+
+OPENING_BUILD.md is generated from the one current-state owner. Its exact working
+values are delegated original-fiction decisions with causal support. Do not
+mistake that generated dossier for an in-world system or new author quote.

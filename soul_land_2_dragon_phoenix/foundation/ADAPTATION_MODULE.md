@@ -83,4 +83,7 @@ conditional work, not childhood inventory.
 
 Use the log schema in state/adaptation_events.json. Each real milestone names
 cause, prior foundation, input, response, cost, integration, scope and later proof.
-No invented events have been entered as accomplished history.
+The ledger now contains explicitly authored original off-page history under R17.
+It is not a claim that canon depicts this holder or that chapters were published.
+The unassigned Order label does not negate actual achieved construction; it is
+not a combat-rank conversion, hard cap or excuse to ignore recorded abilities.

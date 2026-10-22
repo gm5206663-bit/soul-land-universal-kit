@@ -11,13 +11,15 @@ explains the clock; it does not add an independent absolute year or birthday.
 | Conception | R03, AT01: Talent already present; R01/R07: family and strong inputs | Stage-appropriate prenatal integration and maternal exchange | Background only when relevant, not a conception chapter |
 | Birth / early childhood | Native boy, supported household | Body, senses, language, emotion and learning develop together | Ordinary familiar behavior can carry the history |
 | Pre-awakening years | Actual care, guidance and complete-existence adaptation | Play, coordination, attention and foundational learning | No reset to an ordinary untrained six-year-old |
-| Awakening era | Reviewed world context places ordinary awakening around six | Two souls, witnessed expression and privacy require a designed event | Brief natural recollection only if current action needs it |
-| Awakened childhood | Top guidance/resources and faster development | Dated cultivation, hunts and engineering results still to derive | Later capabilities must reflect accumulated work |
+| Awakening era | Reviewed world context places ordinary awakening around six | Accepted D02 private awakening and later named disclosures | Brief natural recollection only if current action needs it |
+| Awakened childhood | Top guidance/resources and faster development | D03–D09 accepted off-page cultivation, hunts and workshop results | Later capabilities must reflect accumulated work |
 | Before O | Established elder/Ma bonds; Huo remains unacquainted | Final inventory, trip permission, companion history and witnesses | No hidden ancestor mentor or childhood meeting with Yuhao |
 
-The timeline does not invent exactly five years between an unchosen birthday and
-O. Yuhao’s own age and cultivated interval are explicit in N02; Jingheng’s exact
-alignment must be derived. Chronology must not hide missing ring/hunt intervals.
+Jingheng’s authored route now has a whole-month grid from birth through the
+opening checkpoint. It does not choose an absolute year or birthday. The grid
+in development_events.json owns detailed milestone spacing; this relative graph
+owns order. Yuhao’s own age and cultivated interval remain the source facts in
+N02, not values copied into the OC without a separate history.
 
 ## Reviewed novel order approaching O
 

@@ -16,7 +16,8 @@ Adaptation Talent master controls the Talent; story results do not rewrite it.
 - Talent operates from conception across the complete existence, not only training.
 - Long Xiaoyao/Ye Xishui are ancestry only. No direct training, secret visits or
   inherited blueprints. Do not silently decide who knows the hidden genealogy.
-- Twin souls are known within a trusted circle; the exact witness list is unresolved.
+- Twin souls are known within a trusted circle; the delegated named witness route
+  now lives in CURRENT_STATE.json and KNOWLEDGE_FIREWALL.md.
 - Already very close to Ma Xiaotao; future direction is open, not an engagement,
   existing adult romance or compulsory sibling label.
 - Mu En is his grandmaster and an established close relationship. Other elders
@@ -26,8 +27,8 @@ Adaptation Talent master controls the Talent; story results do not rewrite it.
 - Preserve real advantages and costs together. Neither paper-only power nor arbitrary overload.
 - Canon characters retain knowledge boundaries, motives and ability. Butterflies need causes;
   canon outcomes cannot be forcibly preserved after those causes change.
-- No prose until the local readiness check succeeds. Do not promote an agent
-  design or an unverified adaptation map to accepted state.
+- No prose until the local readiness check succeeds. Do not label agent design
+  as an author lock or canon fact, or promote an unverified adaptation map.
 
 ## Expanded file-set contract — author request R16
 
@@ -43,3 +44,17 @@ copy that research-image folder during this text-foundation task.
 Run `checks/run_all.sh`. Structural PASS is not canon/creative approval.
 Read tools before changing them, keep failure fixtures, never lower a gate to ship.
 No new media. Do not touch the existing Golden Lion agent’s files or any other serial.
+
+## Preflight delegation — R17, 2026-10-22
+
+The latest author instruction authorizes agent-owned preparation before Chapter 1.
+The numerical build and off-page developmental route are now accepted **working
+fiction design under delegation**, not newly quoted author numbers or a canon
+calculation. The design authority and causal outputs must remain explicit.
+Earlier refusal to promote unsupported proposals is not permission to leave the
+requested substantive work indefinitely blank. It still forbids unsupported
+numbers, fake primary receipts, weakened readiness or self-approval of prose.
+
+Read OPENING_BUILD.md, DEVELOPMENT_DERIVATION.md and PREOPENING_CONSEQUENCES.md.
+W04 remains genuinely open. Neither passing tests nor resolved opening-scope
+butterfly work authorizes copying later medical/forest outcomes unchanged.

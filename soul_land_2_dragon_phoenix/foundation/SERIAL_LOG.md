@@ -27,3 +27,18 @@ function lives. A timeline order gate and content-presence regressions accompany
 This log records work, not fictional elapsed time or a written chapter count.
 The latest public publication is discoverable in Git history; it is not fabricated
 as a self-referential commit hash inside the commit being created.
+
+## 2026-10-22 — delegated pre-chapter substantive review (R17)
+
+The author requested a complete check and necessary work before Chapter 1.
+Blank opening fields were replaced with an explicitly authored, revisable
+causal history: prenatal development, awakening, five ring stages, consolidated
+body/soul and trained twin expression, actual workshop work, devices, witnesses
+and trip logistics. Original donors/skills are marked non-canon species claims.
+Seven additional complete licensed novel units were studied and receipted.
+
+Early family, workshop and forest consequences received opening-scope assessment;
+later medical and hidden-history scenes remain source-dependent. Visual access
+limits remain honest and Chapter 1 remains blocked. No prose or artwork was
+created. Semantic regression checks now address fake work closure, ring-state
+consistency and both blocked and genuinely resolved synthetic readiness paths.

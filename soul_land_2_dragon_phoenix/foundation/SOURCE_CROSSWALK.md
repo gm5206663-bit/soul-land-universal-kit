@@ -8,7 +8,7 @@ This table is the research state, **not a claim that Chapter 1 is fully sourced*
 | Cultivation / rank-ten hunt motive | Wuxiaworld 1.2, primary-read | Unit/panel mapping pending | Timestamp mapping pending |
 | Stream, fishing, approaching travelers | Wuxiaworld 1.3, primary-read | Unit/panel mapping pending | Timestamp mapping pending |
 | First meeting / meal / departure | Wuxiaworld 1.4, primary-read | Unit/panel mapping pending | Timestamp mapping pending |
-| Wind Baboon and Skydream continuation | Next novel part 2.1 located, not yet read | Pending | Pending |
+| Wind Baboon and Skydream continuation | Wuxiaworld 2.1–2.4 fully read (N06–N09), consequence research; outside selected Chapter 1 endpoint | Pending | Pending |
 | Maternal spear design | Not claimed a named novel martial soul | No scene claim | Author-adopted design; exact primary episode receipt pending |
 
 ## Numbering traps already found
@@ -29,3 +29,12 @@ Donghua: edition/season + episode ID + timestamps; or not used.
 Status: verified / partial / not reviewed / not used, separately for each medium.
 Adaptation choice: what changed, why, and which author decision permits it.
 Never fill an empty mapping with a plausible-looking number.
+
+## Preflight access observations
+
+M02 records the correct Tencent reader opened without a completed panel review.
+D02 records the official Tencent EP01 YouTube listing’s country restriction, not
+playback or timestamps. N10–N12 cover fully reviewed early workshop narrative.
+A01 is a later certification-title/teaser lead only; no grading rule was obtained.
+Manhua Chapter 17 about Ma Xiaotao is not Wuxiaworld novel 17.1, whose title is
+First Time Cooperating. Never transfer a scene by matching numbers alone.

@@ -1,43 +1,47 @@
-# Soul engineering — talent, craft and output are not one number
+# Soul engineering — actual craft without a fabricated certificate
 
-The author gives exceptional aptitude in soul engineering as well as combat,
-with ancestral potential, parents, resources and sustained guidance. No route
-from the ancestors’ learned memories or secret personal lessons is permitted.
+## Accepted instructional route
 
-## Source of actual competence
+Jingheng has authorized Shrek workshop education under Fan Yu during later
+childhood. Fine motor control, perception, strong memory, body/soul reserves and
+adaptive feedback make real instruction unusually productive. Materials are
+allocated, components actually fail or work, and finished assemblies are tested.
+No ancestor is a secret teacher and no blueprint arrives through genetic memory.
+This is original OC history, not a claim that the source novel describes it.
 
-Proposed route: real Shrek instruction and authorized workshops, combined with
-strong perception, hand control, memory, energy understanding and adaptive
-learning. Fan Yu or other faculty are candidates to research, not already
-confirmed personal masters. Parents’ attitudes and departmental friction must
-respond to actual shared history rather than remain frozen for canon dialogue.
+## Demonstrated work
 
-## Competence record
+He independently constructs and repairs focused emitters and protective
+assemblies within his practiced scope. Material preparation, core inscription,
+flow matching, loss detection and safe load tests are part of the work. A revised
+flow-regulator arrangement is repeated successfully, not declared mastered from
+one visible gesture. More complex prototypes can include his contribution under
+supervision; that is not the same as owning a finished portable weapon.
 
-| Axis | Required evidence |
-|---|---|
-| Theory | What he has studied and can explain/test |
-| Materials | Actual metals/materials, treatment, losses, repeatable quality |
-| Formation work | Precision, complexity, error detection, manufacturing repeatability |
-| Construction | Complete working devices, not a drawing called mastery |
-| Operation | Safe deployment, control, reserves, heat and handling |
-| Innovation | A real technical change with a demonstrated result |
-| Personal power | What he can sustain with his own soul power |
-| External support | Real batteries, tools or other operators, if era-available and sourced |
-| Certification | The actual institution/test and date, separate from technical ability |
+The carried emitter, guard cuff and inspection stylus have actual operating
+functions, energy sources and limits in the current inventory. Their presence
+makes engineering matter in action without inventing a ninth-grade artifact.
 
-A secondary wiki class/rank table contains inferred ranges. Do not enforce it as
-a hard law or turn a rank into an engineer badge. Technical understanding may
-outpace personal power; a schematic beyond his own output is not automatically
-a reliable portable weapon. Record both strengths without conflation.
+## Certification and technical measurement
 
-## Initial device candidates — proposals only
+The later numbered certification passage located at 38.1 was login-gated after
+its teaser. No professional exam rule or numbered certificate was extracted.
+The current record therefore reports actual competencies and Fan Yu’s internal
+assessment, not a class number calculated as cultivation rank divided by ten.
+No external badge is asserted. This is not a claim of ordinary or nonexistent skill.
 
-A measurement/calibration aid, a safety regulator, a modest defensive device or
-practice control assembly could reveal his competence naturally. None is in
-his current inventory yet. Selection follows available designs, materials,
-certification evidence and the actual purpose of the trip.
+## Primary rules actually reviewed
 
-No ninth-grade device, Tower of Death, modern computer, autonomous adaptive AI
-or later-era battle armor is granted by great-grandparent ancestry. Future
-invention remains possible through a real information/resource/construction route.
+N10–N12 cover the secured testing area, the cannon demonstration, direct-output
+versus stationary tools, user control, detection range, material cost and aiming.
+They support a real native route, not modern computers or later-era battle armor.
+The theoretical tenfold statement in N12 is not a universal multiplier on every
+one of Jingheng’s devices.
+
+## Preserve Yuhao’s independent contribution
+
+Good craft and accurate short-range work do not automatically duplicate shared
+long-range spiritual detection. Fan Yu can value an existing capable pupil and
+still recognize Yuhao’s particular opportunity. If the boy later constructs a
+related interface after actual contact, it needs a recorded mechanism and work;
+it does not already exist because the reader knows the source skill.

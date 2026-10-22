@@ -17,7 +17,9 @@ and Bei Bei. The novel’s own first stream encounter supplies the researched an
 
 AUTHOR_RULINGS.json owns exact author evidence. CURRENT_STATE.json owns the
 machine-readable checkpoint. SOURCE_RECEIPTS.json owns source access/claim scope.
-Design documents explain proposals; they do not create accepted feats.
+Design documents explain the route. Explicitly delegated, supported off-page
+history can establish the working checkpoint; proposals alone cannot. Such
+authored history is never relabeled external canon or published prose.
 
 Use these labels consistently:
 - **author-lock**: explicit words or a selected option.
@@ -50,6 +52,7 @@ chapter rule is imposed. Do not repeat the source’s sentences to imitate its v
 
 ## Stage boundary
 
-The foundation package exists. The numerical opening state and cross-medium
-scene mapping are unfinished. That distinction is deliberate and tested.
-No Chapter 1, no accepted rank, no released cover, no promised future pairing.
+The foundation and delegated numerical history exist. Exact visual scene mapping
+remains unverified, and Chapter 1 is still blocked. These are separate, tested
+conditions. Read OPENING_BUILD.md and audits/PRECHAPTER_REVIEW.md via the project
+index. No Chapter 1, released cover or future pairing has been created.

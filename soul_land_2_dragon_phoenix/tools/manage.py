@@ -11,11 +11,12 @@ import json
 import re
 import subprocess
 import sys
+from preflight import opening_build_text, validate_preflight
 
 ROOT = Path(__file__).resolve().parents[1]
 EXCLUDED = {'__pycache__', '.git', '.pytest_cache'}
 BINARY_MEDIA = {'.png', '.jpg', '.jpeg', '.webp', '.gif', '.mp4', '.mp3', '.wav', '.zip', '.pdf', '.pptx'}
-GENERATED = {'STATUS.md', 'CODEX.md', 'FOUNDATION_INDEX.md', 'state/FILE_MANIFEST.json'}
+GENERATED = {'STATUS.md', 'CODEX.md', 'FOUNDATION_INDEX.md', 'OPENING_BUILD.md', 'state/FILE_MANIFEST.json'}
 COVERAGE_IDS = {'premise', 'character', 'family', 'relationships', 'timeline', 'places',
                 'factions', 'economy', 'power', 'talent', 'souls', 'rings', 'skills',
                 'combat', 'engineering', 'knowledge', 'canon', 'inventory', 'continuity',
@@ -63,13 +64,14 @@ def status_text(root):
              f"Working name: **{s['identity']['working_name']} ({s['identity']['hanzi']})**.",
              'The name and title are delegated design, not verbatim author wording.',
              'The approved parental/twin-soul/ancestry/upbringing premises are recorded in the current state.',
-             'No opening numerical power panel has been accepted. Null means undetermined, not zero.', '',
+             ('Opening build is accepted delegated fiction design, not a canon-deduced or newly author-quoted numerical result.' if s.get('opening_state_authority') else 'No opening numerical power panel has been accepted. Null means undetermined, not zero.'),
+             'Read [the generated opening build](OPENING_BUILD.md) and [causal route](foundation/DEVELOPMENT_DERIVATION.md).', '',
              '## Chapter readiness', '']
     b = blockers(root)
     lines.append('**BLOCKED — do not draft or publish Chapter 1.**' if b else '**All recorded readiness prerequisites resolved; run the full gate before drafting.**')
     lines += [''] + ['- ' + x for x in b]
     lines += ['', '## Evidence boundary', '',
-              'Novel 1.1–1.4 narrative bodies read; manhua catalog and donghua EP1 metadata located.',
+              'Novel 1.1–1.4, 2.1–2.4, 9.4 and 10.1–10.2 read; see precise receipts and access limits.',
               'No manhua panel or donghua timestamp map is claimed complete.',
               'See [receipts](research/SOURCE_RECEIPTS.json), [crosswalk](foundation/SOURCE_CROSSWALK.md)',
               'and [open work](foundation/OPEN_WORK.md).', '',
@@ -101,7 +103,7 @@ def foundation_index_text(root):
         lines += ['- ['+p.split('/')[-1]+']('+p+')' for p in category['documents']]
         lines += ['']
     lines += ['## Structured owners', '',
-              '- [Current state](state/CURRENT_STATE.json): accepted premise and unresolved numerical fields.',
+              '- [Current state](state/CURRENT_STATE.json): accepted premise and delegated opening checkpoint.',
               '- [Timeline graph](state/TIMELINE.json): relative source/planning order, not written scenes.',
               '- [Continuity events](state/continuity_events.json): written scene changes; currently empty.',
               '- [Author rulings](foundation/AUTHOR_RULINGS.json): exact available wording and provenance limits.',
@@ -265,6 +267,7 @@ def validate(root, check_generated=True):
             for event in log['events']:
                 require(all(k in event for k in log['required_event_fields']), 'incomplete event in '+name)
         validate_expansion(root, require)
+        validate_preflight(root, s, ss, require)
         all_files = files(root)
         for name in all_files:
             p = root/name
@@ -279,6 +282,7 @@ def validate(root, check_generated=True):
                         target = (p.parent/unquote(link.split('#', 1)[0])).resolve()
                         require(target.exists(), 'broken local link in '+name+': '+link)
         if check_generated:
+            require((root/'OPENING_BUILD.md').read_text() == opening_build_text(root), 'generated opening build drift')
             require((root/'STATUS.md').read_text() == status_text(root), 'generated status drift')
             require((root/'CODEX.md').read_text() == codex_text(all_files), 'generated file map drift')
             require((root/'FOUNDATION_INDEX.md').read_text() == foundation_index_text(root), 'generated foundation index drift')
@@ -289,6 +293,7 @@ def validate(root, check_generated=True):
 
 
 def build(root):
+    (root/'OPENING_BUILD.md').write_text(opening_build_text(root), encoding='utf-8')
     (root/'STATUS.md').write_text(status_text(root), encoding='utf-8')
     (root/'FOUNDATION_INDEX.md').write_text(foundation_index_text(root), encoding='utf-8')
     if not (root/'audits/verification.json').exists():

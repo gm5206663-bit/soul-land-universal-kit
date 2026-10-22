@@ -34,7 +34,7 @@ class FoundationTests(unittest.TestCase):
     def test_integrity_is_not_readiness(self):
         self.assertEqual(manage.validate(self.root), [])
         self.assertTrue(manage.blockers(self.root))
-        self.assertTrue(any('W01' in b for b in manage.blockers(self.root)))
+        self.assertTrue(any('W04' in b for b in manage.blockers(self.root)))
 
     def test_unquoted_ruling_has_explicit_limit(self):
         self.change('foundation/AUTHOR_RULINGS.json', lambda x: x['rulings'][0].update(verbatim_limit=None))
@@ -85,7 +85,7 @@ class FoundationTests(unittest.TestCase):
         self.assert_caught('work inventory cannot shrink')
 
     def test_work_needs_closure(self):
-        self.change('state/CURRENT_STATE.json', lambda x: x['work'][0].update(status='resolved'))
+        self.change('state/CURRENT_STATE.json', lambda x: x['work'][0].update(status='resolved', closure_evidence=[]))
         self.assert_caught('closure evidence')
 
     def test_closure_must_exist(self):
@@ -98,15 +98,12 @@ class FoundationTests(unittest.TestCase):
 
     def test_zero_is_not_a_solution_to_unknown_rank(self):
         self.change('state/CURRENT_STATE.json', lambda x: x['opening_state'].update(cultivation_rank=0))
-        self.assert_caught('accepted state lacks sources')
+        self.assert_caught('native mortal positive rank')
 
     def test_causal_fixture_can_supply_one_field_not_full_readiness(self):
-        # Entirely synthetic regression fixture, not accepted project history.
-        log = manage.read(self.root, 'state/development_events.json')
-        event = {k:'synthetic test fixture' for k in log['required_event_fields']}
-        event.update(id='TEST_EVENT', status='accepted', source_refs=['AT01'], state_outputs={'cultivation_rank':45})
-        self.change('state/development_events.json', lambda x: x['events'].append(event))
-        self.change('state/CURRENT_STATE.json', lambda x: (x['opening_state'].update(cultivation_rank=45), x['derivation_evidence'].update(cultivation_rank={'event_ids':['TEST_EVENT'],'source_refs':['AT01']})))
+        # Synthetic, internally aligned alternate checkpoint; not project history.
+        self.change('state/development_events.json', lambda x: next(e for e in x['events'] if e['id']=='D09')['state_outputs'].update(cultivation_rank=54))
+        self.change('state/CURRENT_STATE.json', lambda x: x['opening_state'].update(cultivation_rank=54))
         self.assertEqual(manage.validate(self.root, check_generated=False), [])
         self.assertTrue(manage.blockers(self.root))
 

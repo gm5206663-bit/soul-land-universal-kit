@@ -1,30 +1,37 @@
-# Development ledger — off-page history still has causes
+# Development — accepted native history, not a childhood prologue
 
-**All implementation rows below are proposed research architecture, not completed
-feats.** The author’s upbringing is established; its numerical consequences are
-not yet a ready power panel. This document is not a childhood-prologue outline.
+The preflight has replaced the empty milestone architecture with an original,
+accepted off-page history. [DEVELOPMENT_DERIVATION.md](DEVELOPMENT_DERIVATION.md)
+explains its authority and causes. [development_events.json](../state/development_events.json)
+owns the detailed ordered events; the generated opening build shows the result.
 
-| Epoch | Established inputs | Work the Talent can perform | Evidence needed for opening consequences |
-|---|---|---|---|
-| Conception to birth | Strong inheritance, Cai Mei’er’s real condition/resources, continuous Talent | Stage-appropriate development and harmony, energetic/soul compatibility | Concrete prenatal design without fetal adult knowledge or free godhood |
-| Infancy | Care, food, sleep, affection, ordinary exposure | Coordination, perception, regulation, learning and recovery foundations | Developmental signs and resource adequacy; no invented exact percentage |
-| Pre-awakening childhood | Family/elder contact, real play and instruction | Body–mind–soul development, adaptive memory, method refinement | Teacher/learning history and stage-appropriate access to energy |
-| Awakening | Native world’s martial-soul access | Reveals two souls and expands expression on an existing foundation | Exact innate reading, witnesses, manifestation and disclosure |
-| First cultivation stage | Guidance, resources and actual practice | More useful training, control, compatibility and integration | First ring event with donor and absorption proof |
-| Later childhood | Hunts, training, engineering practice, feedback, recovery | Cumulative skills and changes; real breakthroughs recalibrate the whole | Each milestone and its effect on later difficulty/cost |
-| Pre-opening | Existing relationships and actual accomplishments | Consolidation, practical integration, lived emotional experience | A complete opening inventory, witness map and unresolved issues |
+## Whole-existence continuity
 
-## Milestone entry standard
+Prenatal provision and compatibility support early development. Care, play,
+communication, corrected exercises, study and relationships supply real childhood
+inputs. Emotion and identity remain human. There are no imaginary training
+sessions during sleep, no Earth education and no adult memories.
 
-Date/relative age · prior state · source of information · teacher/input · resource
-supply · task · actual result · cost · integration · who witnessed it · later
-proof · effect on the next milestone. Plans and accomplishments use different
-status fields. No invented private training by Long Xiaoyao or Ye Xishui.
+Awakening expands two inherited manifestations on that accumulated foundation.
+The taught circulation route, actual cultivation, suitable resources, organized
+hunts and integration each contribute. Genuine breakthroughs recalibrate the
+connected whole. They do not just raise a number while leaving the boy otherwise
+ordinary or repeatedly vulnerable to already-solved loads.
 
-## Derivation discipline
+Workshop instruction is actual education and making. First imitation, repeated
+construction, repair, applied operation and invention are separate steps. The
+parents’ and teachers’ observations accumulate; old attitudes cannot reset.
 
-Do not select a desired rank and manufacture childhood receipts backwards.
-Compare plausible development histories and evaluate their causal support.
-A supported stronger result should raise the working estimate; story balance
-is not a ceiling. A failed premise must be repaired, not concealed under precise
-but unsupported ring ages or multipliers.
+## Off-page is not source-verified
+
+These milestones are authored fiction under the latest delegation. They are
+not original-novel scenes, author-quoted numbers or published fic chapters.
+Their causal tests constrain the story, but an integrity check cannot prove a
+unique numerical growth prediction from the doctrine. Keep that limitation visible.
+
+## Narrative use
+
+Do not open with eleven years of training history. Let a movement, familiar
+exchange, owned device or relevant recollection establish the life already lived.
+Only disclose the history needed by the present scene. The source characters
+are not an audience summoned to hear the complete developmental dossier.

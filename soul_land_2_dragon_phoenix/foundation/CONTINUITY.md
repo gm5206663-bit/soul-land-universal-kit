@@ -22,8 +22,9 @@ before its predecessor ends except an explicitly signposted flashback.
 ## Current ledger
 
 No scenes have been written, so the event list is empty. This is an accurate
-zero, unlike the undetermined cultivation rank. Planning events in the timeline
-and relationship designs are not retroactively counted as published scenes.
+zero. The cultivation checkpoint now has separate authored off-page history;
+that history, planning timeline and relationship designs are not retroactively
+counted as published scenes.
 
 ## What must persist
 

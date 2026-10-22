@@ -1,28 +1,44 @@
-# Ring architecture — research before permanent gifts
+# Ring architecture — accepted route and explicit original provenance
 
-No ring donors, ages, colors or skills are accepted yet. This is not a claim of
-zero rings at the opening; it is an unfinished numerical derivation.
+The current ring records live in [CURRENT_STATE.json](../state/CURRENT_STATE.json)
+and appear in the generated [opening build](../OPENING_BUILD.md). This file
+explains selection; it does not maintain a second age table.
 
-## Compare routes
+## Provenance
 
-1. **Phoenix-led ring progression, ringless spear development:** can preserve later
-   selection flexibility while cultivating real spear technique. Must justify
-   benefit instead of copying a standard strategy or suppressing an active soul.
-2. **Early dual development:** can support specific complementary capabilities.
-   Must price actual body/soul load, integration, donor compatibility and practical value.
-3. **Staged second-soul access:** a decision at a real milestone, not delayed solely
-   so the chapter can imitate an original fight.
+Dawnfeather Hawk, Sunplume Crane, Galecrest Falcon, Mirrorwing Heron and Solarcrest
+Firebird are **original donor designs for this fanfiction**, not claimed obscure
+canon species. Their individual locations, nominal cultivation ages, hunts and
+gifts are authored continuity under DESIGN01. No Three-Eyed Golden Lion,
+unique canon beast, spirit-soul institution or divine ring is taken off-screen.
 
-For every candidate donor record: canon identity/source, availability in this
-era/region, actual donor age and traits, why selected, what is transferred,
-how the holder’s soul expresses it, absorption route, support, risks solved,
-remaining costs and permanent later consequences. An invented beast must be
-labeled original design, never passed off as an obscure canon species.
+Each record identifies compatibility, transferred trait, current skill, scope,
+nominal age, color, acquisition point, support and actual cost. The graded hunt
+route is in DEVELOPMENT_DERIVATION.md. A parent supplies access and protection;
+the child supplies the final act, absorption and his own supporting body/soul.
+Ten-thousand-year absorption includes prepared soul-pressure control, not just
+strong muscles or a parent's reputation.
 
-Do not assign the same flashy donors to every slot. A strong physique can raise
-safe possibilities without making every available ring the best tactical choice.
-Ancestral species and every phoenix/dragon beast in the world are not interchangeable.
-No divine ring or hundred-thousand-year gift is presumed from family status.
+## Why these functions
 
-state/ring_candidates.json owns proposals, presently empty rather than fabricated.
-Final acceptance requires donor receipts and the developed opening-state ledger.
+Self-reinforcement, aimed output, actual movement, protection of a selected ally
+and higher-energy attack fill different needs. A dramatic name is not permission
+for extra unrecorded functions. A light-fire gift is not automatically Ultimate
+Fire, resurrection, conceptual attack, universal purification or treatment of
+Ma Xiaotao’s underlying condition.
+
+## Spear route
+
+The opening spear has no rings **by a deliberate sequencing decision**, not
+because it is dormant, unusable or artificially incompatible. Basic and applied
+spear work, shared body/soul development and the practiced Concord have real
+combat value. Its next compatible ring selection remains a genuine future task.
+Do not delay it indefinitely merely to preserve familiar source fights.
+
+## Persistent state
+
+Absorbed-ring current ages match the nominal acquired cultivation ages unless
+a separate valid aging mechanism is earned and recorded. The passage of five
+human years is not five years of automatically upgraded ring output. Colors
+follow current ordinary age bands; no concealed red/gold ring is inferred.
+Unaccepted later donors belong in ring_candidates.json, never in live slots.

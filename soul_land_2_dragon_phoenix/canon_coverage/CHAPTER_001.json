@@ -11,20 +11,22 @@
       "N04"
     ],
     "status": "source-bodies-read-not-consumed-in-prose",
-    "final_boundary": null
+    "final_boundary": "Opening departure/journey and first stream meeting; end after an actual shared-route decision, before the Wind Baboon attack or Skydream encounter. Only selected 1.4 beats are planned on-page."
   },
   "manhua": {
     "source_refs": [
-      "M01"
+      "M01",
+      "M02"
     ],
-    "status": "catalog-only",
+    "status": "reader-located-panels-unreviewed",
     "panel_range": null
   },
   "donghua": {
     "source_refs": [
-      "D01"
+      "D01",
+      "D02"
     ],
-    "status": "metadata-only",
+    "status": "metadata-and-access-restriction-no-playback",
     "timestamp_range": null
   },
   "maternal_adoption": {
@@ -34,11 +36,34 @@
     "primary_scene": null
   },
   "blocking_work": [
-    "W01",
-    "W02",
-    "W03",
-    "W04",
-    "W05",
-    "W06"
-  ]
+    "W04"
+  ],
+  "scene_plan": [
+    {
+      "id": "C1S1",
+      "pov": "Huo Yuhao",
+      "purpose": "Departure and determination with selective natural background",
+      "target_words": 350
+    },
+    {
+      "id": "C1S2",
+      "pov": "Huo Yuhao",
+      "purpose": "Journey, stream and practical competence",
+      "target_words": 450
+    },
+    {
+      "id": "C1S3",
+      "pov": "Huo Yuhao",
+      "purpose": "First encounter with all three travelers; meal, choices and earned new familiarity",
+      "target_words": 1450
+    },
+    {
+      "id": "C1S4",
+      "pov": "Huo Yuhao",
+      "purpose": "An offer and real route decision without revealing hidden information",
+      "target_words": 550
+    }
+  ],
+  "total_target_words": 2800,
+  "pov_boundary": "No Jingheng thought may import facts from Yuhao’s private viewpoint. No viewpoint jump is needed merely to list OC powers."
 }

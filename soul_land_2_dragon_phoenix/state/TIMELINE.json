@@ -41,60 +41,69 @@
       "after": [
         "T_BIRTH"
       ],
-      "basis": "working-design",
+      "basis": "delegated-design",
       "source_refs": [
-        "AT01"
+        "AT01",
+        "DESIGN01"
       ],
       "ruling_refs": [
-        "R07"
+        "R07",
+        "R17"
       ],
       "written_in_fic": false
     },
     {
       "id": "T_AWAKENING",
-      "summary": "Two-soul awakening event and witnesses to implement; no innate reading invented.",
+      "summary": "Accepted delegated awakening design at age-grid month 72; two souls and full innate reading, with named witnesses.",
       "relative_phase": "pre-opening",
       "after": [
         "T_EARLY"
       ],
-      "basis": "working-design",
+      "basis": "delegated-design",
       "source_refs": [
         "N01",
-        "N02"
+        "N02",
+        "DESIGN01"
       ],
       "ruling_refs": [
         "R02",
-        "R10"
+        "R10",
+        "R17"
       ],
       "written_in_fic": false
     },
     {
       "id": "T_TRAINING",
-      "summary": "Awakened training, ring events and engineering results need a causal ledger.",
+      "summary": "Accepted D03–D09 development route; dates and outputs owned in development_events.json.",
       "relative_phase": "pre-opening",
       "after": [
         "T_AWAKENING"
       ],
-      "basis": "research-pending",
+      "basis": "delegated-design",
       "source_refs": [
-        "AT01"
+        "AT01",
+        "DESIGN01"
       ],
       "ruling_refs": [
-        "R07"
+        "R07",
+        "R17"
       ],
       "written_in_fic": false
     },
     {
       "id": "T_PRETRIP",
-      "summary": "Opening loadout, companion history and permission to finalize.",
+      "summary": "Accepted opening loadout, permission, shared acquaintance and route boundaries in current state.",
       "relative_phase": "pre-opening",
       "after": [
         "T_TRAINING"
       ],
-      "basis": "research-pending",
-      "source_refs": [],
+      "basis": "delegated-design",
+      "source_refs": [
+        "DESIGN01"
+      ],
       "ruling_refs": [
-        "R04"
+        "R04",
+        "R17"
       ],
       "written_in_fic": false
     },
@@ -174,31 +183,36 @@
     },
     {
       "id": "T_DEPARTURE_AFTER_MEAL",
-      "summary": "Yuhao leaves; his withheld information stays private.",
+      "summary": "Source Yuhao leaves alone; fic departure must reflect the newly agreed party arrangement, not copy the solitary staging automatically.",
       "relative_phase": "opening-continuation",
       "after": [
         "T_MEAL"
       ],
-      "basis": "primary-read-to-adapt",
+      "basis": "primary-spine-plus-delegated-design",
       "source_refs": [
-        "N04"
+        "N04",
+        "DESIGN01"
       ],
-      "ruling_refs": [],
+      "ruling_refs": [
+        "R17"
+      ],
       "written_in_fic": false
     },
     {
       "id": "T_FOLLOW_DECISION",
-      "summary": "The decision to follow must reflect Jingheng’s actual knowledge and ability.",
+      "summary": "Adaptation decision point: shared-route/protection choice; original stealth-follow beat is not mandated.",
       "relative_phase": "opening-continuation",
       "after": [
         "T_DEPARTURE_AFTER_MEAL"
       ],
-      "basis": "adaptation-plan",
+      "basis": "primary-spine-plus-delegated-design",
       "source_refs": [
-        "N04"
+        "N04",
+        "DESIGN01"
       ],
       "ruling_refs": [
-        "R04"
+        "R04",
+        "R17"
       ],
       "written_in_fic": false
     },

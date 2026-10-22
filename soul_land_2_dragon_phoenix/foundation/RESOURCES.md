@@ -3,7 +3,7 @@
 The author locks continuous top-level resources, teaching and guidance.
 Do not invent an impoverished childhood or missing basic instruction.
 
-## Supply classes — designs requiring itemized implementation
+## Supply classes — implementation and record discipline
 
 | Input | Credible access route | Record before claiming use |
 |---|---|---|
@@ -15,9 +15,10 @@ Do not invent an impoverished childhood or missing basic instruction.
 | Workshop resources | Authorized engineering faculty / family support | Materials, design access, workshop safety and results |
 | High-value treasures | Specific owner and grant only | Do not turn “top resources” into every named treasure in the setting |
 
-Golden Tree access, immortal herbs, soul bones, custom devices and specific
-rare metals are not already inventoried. Conversely, absence of an itemized
-list today is not a ruling that his family lacks resources.
+The current ledger records real provision classes, five hunts and workshop
+allocation; the opening inventory records actual completed devices. No Golden
+Tree access, immortal herb, soul bone or named rare-metal treasury is silently
+added. Unknown cumulative weights are not invented as a gram-to-rank equation.
 
 ## Demand versus efficiency
 

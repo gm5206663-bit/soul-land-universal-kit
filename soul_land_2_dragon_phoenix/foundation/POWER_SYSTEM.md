@@ -35,7 +35,10 @@ the calendar or invent a universal passive aging ability from another holder.
 
 ## Current-state discipline
 
-CURRENT_STATE.json uses null for undetermined values, never zero masquerading
-as a weak starting state. OPENING_STATE_REVIEW.md is design evaluation, not the
-accepted checkpoint. No total number of combat rings is invented merely because
-there are two souls. Native ranks must not be added across souls.
+CURRENT_STATE.json owns the delegated opening checkpoint, with a complete causal
+history and explicit original-design authority. Null remains the representation
+of a future undetermined field, never zero masquerading as a weak starting state.
+OPENING_STATE_REVIEW.md explains the decision; OPENING_BUILD.md is a generated
+view, not an independent panel. Neither ancestry nor Talent doctrine uniquely
+calculates the selected rank. Rings are assigned individually, not multiplied
+because two souls exist. Native ranks must not be added across souls.

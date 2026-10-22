@@ -1,7 +1,9 @@
 # Skills — acquisition, expression, integration
 
-No accepted named soul skills have been created. RING_PLAN.md owns their donor
-research. This document governs description and learned abilities.
+The current checkpoint owns the five accepted original phoenix gifts and the
+constructed Phoenix-Spear Concord. RING_PLAN.md explains their original donor
+provenance and route. They are authored fanfiction, not skills quoted from an
+unread canon scene. This document governs description and further learning.
 
 For each skill record source, manifestation, mechanism, range, cost, duration,
 conditions, counters, practice state, witnesses and later changes. Distinguish
@@ -12,7 +14,7 @@ Keep numerical audits outside the scene except a naturally relevant measurement.
 A sword/spear form seen once is not its hidden energy route. Supernatural
 reproduction requires the right body, energy and valid access.
 
-## Learned foundations to develop
+## Learned foundations already implemented and still developing
 
 Movement/body control · spear basics · actual phoenix handling · soul-power
 control · attention/observation · workshop precision · material knowledge ·

@@ -21,7 +21,7 @@ The complete live premise is in [current state](../state/CURRENT_STATE.json).
 | Tang Ya | Companion at first Yuhao meeting | Working design: known through that social circle, with her own aims | [First-meeting party](../relationships/STREAM_PARTY.md) |
 | Huo Yuhao | Stranger before stream encounter | Trust can start here; it is not a past friendship or future certainty | [First-meeting party](../relationships/STREAM_PARTY.md) |
 | Long Xiaoyao / Ye Xishui | Author’s ancestral branch | Inherited potential only; no direct contact or learned memories | [Ancestry and later contacts](../relationships/ANCESTRY_AND_CONTACTS.md) |
-| Engineering faculty | Instructional route to establish | Specific teacher and practice history still need implementation | [Ancestry and later contacts](../relationships/ANCESTRY_AND_CONTACTS.md) |
+| Fan Yu / workshop circle | Accepted original instructional route | Actual completed work, repeated tests and limited training disclosure; He Caitou is an acquaintance | [Ancestry and later contacts](../relationships/ANCESTRY_AND_CONTACTS.md) |
 | Later canon students | No invented opening bond | First appearances and contacts must actually occur | [Character register](CHARACTERS.md) |
 
 ## The family is not four interchangeable teachers
@@ -44,7 +44,8 @@ A securely loved child can accept correction and still resent a particular rule.
 He can choose to ask for help without becoming weak. Equally, institutional
 access is not permission to disclose another person’s treatment, workshop work
 or private history. [Knowledge boundaries](KNOWLEDGE_FIREWALL.md) apply even to
-his closest bonds. Exact witnesses to the two martial souls remain to be finalized.
+his closest bonds. Named awakening/training/disclosure witnesses now live in
+CURRENT_STATE.json; the history is explicitly delegated original design.
 
 ## Ma Xiaotao is a person, not a condition
 

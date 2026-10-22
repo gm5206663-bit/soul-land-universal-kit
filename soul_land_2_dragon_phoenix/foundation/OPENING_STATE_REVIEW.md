@@ -1,55 +1,40 @@
-# Opening-state derivation — serious advantages, honest uncertainty
+# Opening-state review — disposition after preflight
 
-## Established inputs
+The earlier scenario comparison has been resolved as delegated story design,
+not upgraded into a supposed author quote or a unique mathematical deduction.
+Read [the causal route](DEVELOPMENT_DERIVATION.md) and
+[the generated opening build](../OPENING_BUILD.md). CURRENT_STATE.json remains
+the numerical owner; this document does not maintain another power panel.
 
-Same age band as Yuhao; native child; complete-existence adaptation from conception;
-strong parental and ancestral potential; dragon–phoenix foundations; two souls;
-top resources and instruction; close access to Mu En and other Shrek elders;
-real aptitude for engineering and combat. No deprivation, illness or secret
-ancestral teacher has been authorized.
+## Questions answered
 
-## First researched anchor
+- **Prenatal foundation:** actual body/soul/inheritance compatibility develops
+  with real maternal support and stage-appropriate construction.
+- **Awakening:** full-innate reading with two souls, on a foundation already
+  developed for years. Ancestry is not extra souls or remembered training.
+- **Cultivation:** each stage has a historical interval, real supply, donor event
+  and integration; no one-size XP multiplier is invented.
+- **Rings:** the donor individuals and skills are original, explicitly labeled
+  fiction design, with nominal ages, provenance, compatibility and support.
+- **Body and soul:** exceptional capacity is given an actual development route
+  and observed scope rather than being inferred solely from a rank.
+- **Two souls:** trained ringless spear, phoenix-led rings and a constructed
+  dual-expression technique; no additive reserve bars or automatic fusion.
+- **Engineering:** real workshop education, repeatable complete devices and
+  a teacher assessment; no professional badge inferred from cultivation.
+- **Knowledge and witnesses:** exact opening disclosures and privacy are recorded.
+- **Equipment and trip:** owned/authorized items, field objective, companions,
+  boundaries and return arrangement are established.
 
-Novel 1.2 explicitly puts Yuhao at eleven and explains his five post-awakening
-years. Jingheng’s exact birthday need not be fabricated. The natural design
-comparison therefore begins near eleven, with approximately five awakened years
-plus the full prenatal/pre-awakening foundation. This is not a claim that formal
-rank cultivation began before the setting gives access.
+## What remains outside this decision
 
-## Evaluation scenarios — not live stats or ceilings
+Visual media scene mapping is still unverified and keeps Chapter 1 blocked.
+A full numbered soul-engineer certification rule was not recovered from a
+login-gated later passage; no numbered certificate is therefore asserted.
+Ma’s permanent treatment and Mu En’s eventual outcome are not solved or fixed.
+They require contemporaneous source review and an actual external-help mechanism.
+Those future scene duties are not a secret nerf of the boy’s established powers.
 
-| Scenario | What it would require | Why not simply declare it |
-|---|---|---|
-| Upper Soul Elder band | Strong but relatively limited converted advancement | Could understate the combined advantages; cannot be chosen just to resemble the original student cohort |
-| Soul Ancestor band | Multiple supported breakthroughs, ambitious rings and integrated strong foundation | First working scenario to investigate; needs dated hunts, resources and outcomes, not a guessed four-ring panel |
-| Soul King or beyond | Even stronger development, more ring events, greater integration and credible institutional consequences | Not banned by balance; not granted solely by the word Talent either |
-
-The scenario list is a comparison exercise, not a vote, a maximum or an author
-ruling. If the actual ledger supports more, the result rises. If it supports
-less, explain the real missing input rather than introducing a convenient handicap.
-No exact candidate rank is installed to be defended by retrospective excuses.
-
-## Derivation work packages
-
-1. Trace prenatal inheritance and supporting body/soul development.
-2. Establish awakening reading, witnesses and what the test measures.
-3. Choose a cultivation/instruction route with real access and nonlinear energy needs.
-4. Determine donor availability and each absorption event on the historical clock.
-5. Track simultaneous body, mind, soul, energy, bloodline and skill consequences.
-6. Compare ring strategies for the second soul without suppressing its training.
-7. Reconstruct engineering practice, working devices and technical vs power limits.
-8. Identify which feats other people have already seen and the institutional response.
-9. Audit Ma Xiaotao’s condition: long-standing closeness cannot be ignored when
-   deciding whether earlier help was possible and what it could actually do.
-10. Test forest-opening choices against his real ability, concern and knowledge.
-
-## Result schema, presently undetermined
-
-Exact age/date; innate reading; current rank; actual reserves; physique/soul
-state; each soul’s manifest state; rings/donors/ages/skills; bloodline expression;
-learned combat; reliable equipment; technical ability/certification; source-backed
-feats; resource requirements; secrets/witnesses; unfinished work.
-
-Do not print null as zero or unknown as weakness. Do not promote hypothetical
-benefits into accomplished feats. This is the principal readiness blocker, not
-another request for the author to calculate a rank they delegated us to derive.
+The agent owns this design under the author’s delegation. The author is not
+being asked to calculate a rank or repeat the same interview. Any later revision
+must update the historical route, affected state and consequences together.

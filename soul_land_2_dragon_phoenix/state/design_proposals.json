@@ -1,16 +1,15 @@
 {
   "schema_version": 1,
   "status": "proposals-not-current-state",
-  "opening_scenario_first_to_test": "Soul Ancestor band; not a floor, ceiling, accepted rank or reverse-engineering target",
+  "opening_scenario_first_to_test": "Superseded: development route is now authored and checked; current checkpoint belongs to CURRENT_STATE.json.",
   "exact_opening_rank": null,
-  "age_alignment": "Around eleven, matching N02; exact birthday not invented",
+  "age_alignment": "Resolved in current state; no independently maintained candidate age.",
   "personality_owner": "foundation/CHARACTER.md",
-  "trip_design": "Prior acquaintance with Tang Ya/Bei Bei; actual purpose and shared history to be developed",
-  "engineer_instruction": "Real Shrek instruction; exact teacher not confirmed",
+  "trip_design": "Resolved in current state; no separate competing trip facts.",
+  "engineer_instruction": "Resolved in current state: actual workshop work, no fabricated professional certificate.",
   "ring_route_candidates": [
-    "Phoenix-led progression with trained ringless spear",
-    "Early dual development",
-    "Staged second-soul rings after a concrete milestone"
+    "Rejected for opening: ordinary low-resource baseline that erases the locked advantages",
+    "Deferred: early second-soul ring set; revisit selection after the current five-ring integration and a justified next route"
   ],
   "ruling_refs": [
     "R05",
@@ -20,5 +19,10 @@
   "source_refs": [
     "N02",
     "AT01"
+  ],
+  "rejected_routes": [
+    "Universal automatic ring aging",
+    "Engineering class inferred as cultivation rank divided by ten",
+    "A grandfather secretly supplying learned designs"
   ]
 }

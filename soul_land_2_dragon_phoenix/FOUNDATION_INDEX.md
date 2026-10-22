@@ -54,6 +54,7 @@ Read [status](STATUS.md) for actual readiness and [all files](CODEX.md) for the 
 
 - [POWER_SYSTEM.md](foundation/POWER_SYSTEM.md)
 - [OPENING_STATE_REVIEW.md](foundation/OPENING_STATE_REVIEW.md)
+- [DEVELOPMENT_DERIVATION.md](foundation/DEVELOPMENT_DERIVATION.md)
 
 ### Complete-existence Adaptation Talent
 
@@ -102,6 +103,7 @@ Read [status](STATUS.md) for actual readiness and [all files](CODEX.md) for the 
 - [STORY_ARCS.md](foundation/STORY_ARCS.md)
 - [CONFLICTS.md](foundation/CONFLICTS.md)
 - [BUTTERFLY_REGISTER.md](foundation/BUTTERFLY_REGISTER.md)
+- [PREOPENING_CONSEQUENCES.md](foundation/PREOPENING_CONSEQUENCES.md)
 
 ### Prose, POV and terminology
 
@@ -128,7 +130,7 @@ Read [status](STATUS.md) for actual readiness and [all files](CODEX.md) for the 
 
 ## Structured owners
 
-- [Current state](state/CURRENT_STATE.json): accepted premise and unresolved numerical fields.
+- [Current state](state/CURRENT_STATE.json): accepted premise and delegated opening checkpoint.
 - [Timeline graph](state/TIMELINE.json): relative source/planning order, not written scenes.
 - [Continuity events](state/continuity_events.json): written scene changes; currently empty.
 - [Author rulings](foundation/AUTHOR_RULINGS.json): exact available wording and provenance limits.

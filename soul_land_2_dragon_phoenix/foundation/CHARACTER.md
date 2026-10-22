@@ -28,8 +28,8 @@ limited experience, not an adult strategist pretending to be young.
   making them caricatures who instantly abandon duties or principles.
 - With Ma Xiaotao: a particular, long-standing closeness. Concern is personal,
   not a newly acquired crush or a compulsory sibling relationship.
-- With Bei Bei/Tang Ya: proposed pre-existing acquaintance sufficient to travel
-  together; the exact shared history and purpose of this trip require a short ledger.
+- With Bei Bei/Tang Ya: established delegated academy/social acquaintance;
+  the accepted field/tool-testing trip history is recorded in current state.
 - With Yuhao: a new acquaintance. He may notice fatigue or worn clothing without
   diagnosing an entire abused childhood or treating the boy as a charity project.
 

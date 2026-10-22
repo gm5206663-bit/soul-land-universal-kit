@@ -74,7 +74,8 @@
       "title": "Power laws and opening derivation",
       "documents": [
         "foundation/POWER_SYSTEM.md",
-        "foundation/OPENING_STATE_REVIEW.md"
+        "foundation/OPENING_STATE_REVIEW.md",
+        "foundation/DEVELOPMENT_DERIVATION.md"
       ]
     },
     {
@@ -155,7 +156,8 @@
       "documents": [
         "foundation/STORY_ARCS.md",
         "foundation/CONFLICTS.md",
-        "foundation/BUTTERFLY_REGISTER.md"
+        "foundation/BUTTERFLY_REGISTER.md",
+        "foundation/PREOPENING_CONSEQUENCES.md"
       ]
     },
     {

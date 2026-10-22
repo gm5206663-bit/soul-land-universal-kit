@@ -1,57 +1,76 @@
-# Cold-start handoff
+# Cold-start handoff — reviewed foundation, no prose
 
 ## Current position
 
-Foundation created 2026-10-22 under the author’s instruction to create all files,
-then resume after the rejected-media cleanup. Zero chapters. There is no accepted
-prose edge to infer from a filename. STATUS.md is generated from CURRENT_STATE.json.
+The latest author request R17 delegates complete pre-Chapter 1 review and necessary
+preparation. The earlier 76-file expansion is historical baseline `c19ba8a`.
+The present pass fills substantive gaps; it does not draft a chapter or move
+files the author already found. STATUS.md is generated from CURRENT_STATE.json.
 
-## Decisions already made
+Start with [the review](audits/PRECHAPTER_REVIEW.md), [opening build](OPENING_BUILD.md),
+[development route](foundation/DEVELOPMENT_DERIVATION.md) and
+[consequences](foundation/PREOPENING_CONSEQUENCES.md). Zero chapters are written.
 
-Read AUTHOR_RULINGS.json rather than asking the author to repeat the interview.
-The character’s name and personality were delegated. His origin, parents, twin
-souls, adaptation, resources, first meeting, trusted-circle disclosure, ancestral
-contact boundary and open Ma Xiaotao relationship have been answered.
+## Decisions already implemented
 
-## Full file-set expansion
+The native male child, parentage, twin foundations, conception-onset Talent,
+strong resources/teaching, first stream meeting, trusted-circle disclosure,
+ancestral non-contact and open Ma future remain author locks. Name/personality
+remain delegated designs; do not repeat the rejected generic interview.
 
-The author then requested deletion of image-search and all its pictures, plus
-complete relationship, timeline and supporting files checked against GitHub.
-The folder and eight pictures were removed. R16 records the exact request.
-FOUNDATION_INDEX.md now groups the practical file set; CODEX.md inventories all
-files. Relationship dossiers and the family tree deepen the existing bonds.
-TIMELINE.json owns a relative event-order graph; continuity_events.json is reserved
-for written events and remains empty. FILE_REQUIREMENTS.json checks the practical
-foundation categories. None of these plans is a claimed published scene.
+The opening now has an original off-page development history, ring acquisitions,
+practiced abilities, actual workshop work, equipment, named witnesses and trip
+arrangement. The exact values are **agent-authored fiction under delegation**,
+not new author quotes or uniquely calculated canon facts. All original donors,
+skills and tools retain explicit original provenance. No numbered professional
+certificate or external exam is asserted from unread material.
 
-## Actual next work
+## What remains before Chapter 1
 
-1. Read the whole foundation. Inspect the exact-source receipts and their limits.
-2. Complete the opening numerical derivation: resource supply, prenatal foundation,
-   awakening, cultivation intervals, each ring event and demonstrated capabilities.
-   OPENING_STATE_REVIEW.md specifies what must be supported and what is only a scenario.
-3. Research local soul-engineering advancement against primary text; do not turn
-   a wiki’s inferred class/rank table into a universal law.
-4. Review the relevant official manhua panels and donghua scenes; record exact
-   edition/unit/panels or timestamps. Access limitations stay visible.
-5. Resolve pre-opening butterfly consequences, especially Ma Xiaotao’s evil-fire
-   management and what faculty know about the boy’s engineering abilities.
-6. Replace pending work with evidence, then run verify, selftests and ready.
-   Only after readiness may Chapter 1 be drafted and audited.
+**W04:** review the actual relevant manhua panels and donghua scenes on accessible
+official/licensed surfaces, recording exact edition/unit/panel or timestamp range.
+The maternal-spear adoption also needs its exact primary scene receipt. Correct
+catalog/reader/player identification is not completed visual review. The official
+YouTube EP01 lead returned a country restriction; no bypass was attempted.
 
-## Sources already read vs merely located
+Once evidence genuinely exists, update receipts, coverage flags and work closure
+together. Run build, report, full checks and ready. A structural PASS is not a
+source review and does not authorize prose while the gate reports blockers.
 
-Novel: Wuxiaworld 1.1–1.4 narrative bodies read. Full texts are not republished here.
-WebNovel alternate opening: partial comparison only; sequence number differs.
-Manhua: official catalog/labels located; no full chapter visual review.
-Donghua: official EP1 metadata located; no scene/timestamp review.
-Talent: pinned master and selected relevant sections reviewed; other holders
-were examined for application, never imported as live results.
+## Sources actually read
 
-## Do not repeat the previous errors
+Novel: Wuxiaworld 1.1–1.4, 2.1–2.4, 9.4, 10.1–10.2 narrative bodies complete.
+Later 14.1, 17.1, 37.1 and 38.1 leads were teaser/login-limited, not complete
+medical or certification research. No source text is redistributed.
+Talent: selected sections at the pinned master were fully re-read; no exhaustive
+whole-master claim and no other-holder current-stat transfer.
+Manhua: correct official reader reached, no completed panel review.
+Donghua: official leads located, no completed playback/timestamp review.
+See research/PRIMARY_STUDY_2026-10-22.md and SOURCE_RECEIPTS.json.
 
-Do not call a foundation “complete and ready” because files exist. Do not write a
-weak ordinary child to preserve familiar canon staging. Do not make him a
-perfect adult. Do not hide growth costs under a slogan. Do not treat social bonds
-as automatic external adaptation or a childhood closeness as a settled romance.
-No art/video production. The author rejected that work and ordered its deletion.
+## Future duties, not predetermined outcomes
+
+Ma’s underlying condition, Mu En’s old injury, hidden genealogy and the later
+forest/private spiritual events require their specific source/causal review
+before prose reaches them. Opening-scope dispositions do not mean these entire
+future arcs are researched or solved. No canonical failure, cure, death or romance
+is fixed. Preserve Yuhao’s specific sharing role unless a real later mechanism
+changes it; engineering excellence alone is not broad shared spiritual detection.
+
+## Files and separation
+
+FOUNDATION_INDEX.md groups practical owners; CODEX.md inventories all files.
+TIMELINE.json records relative order; development_events.json is original off-page
+history; continuity_events.json remains empty until real scenes are written.
+Do not revive deleted pictures/media or the image-search directory. Do not edit
+Golden Lion, another book, the parent register or unrelated dirty Adaptation tools.
+
+## Gate lifecycle
+
+The checks compare the actual readiness CLI exit with the actual blocker list.
+They no longer require permanent exit 2 after genuine prerequisites are resolved.
+Synthetic tests exercise both outcomes without falsely marking real visuals
+reviewed. Structural validation also checks substantive work closure and generated
+build drift. This foundation-only release still rejects chapter files/counts;
+when writing is truly authorized, implement the chapter-production lifecycle and
+its regression checks explicitly, rather than removing the protection ad hoc.

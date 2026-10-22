@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-22",
+  "status": "PASS",
+  "baseline_commit": "c19ba8afc83252a14209cf2aabaeef5812f18f2e",
+  "authorized_prefix": "soul_land_2_dragon_phoenix/",
+  "baseline_tracked_outside_files": 2333,
+  "compared_outside_files": 2333,
+  "changed_outside_files": [],
+  "missing_outside_files": [],
+  "outside_project_git_changes": [],
+  "baseline_map_sha256": "d3fa835b631c79ba714fcf419ae74910dc28efda9262608743fe65debbce750d",
+  "image_search_still_absent": true,
+  "chapter_files": [],
+  "tests": {
+    "cases": 100,
+    "result": "PASS"
+  },
+  "limits": "Byte comparison of pre-existing tracked outside-project files plus git status scope; no assertion of checking arbitrary external workspaces. Source-access limits remain in the review."
+}

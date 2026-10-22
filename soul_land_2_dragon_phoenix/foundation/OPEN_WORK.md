@@ -1,50 +1,44 @@
-# Open work — research duties, not a repeated questionnaire
+# Open work after pre-chapter review
 
-The author has delegated name, personality and numerical development research.
-Do not ask them again whether to follow canon, how adaptation begins, or whether
-his upbringing supplies resources. These matters already have answers.
+## Resolved as delegated opening design
 
-## File-set work completed
+The opening age, innate reading, cultivation history, ring route, body/soul
+foundation, capabilities, trained spear, equipment, witness list and trip purpose
+now have a causal history and one current owner. Actual workshop work and teacher
+assessment are specified without fabricating a certificate. The early family,
+engineering, disclosure and forest consequences have opening-scope dispositions.
+See [the opening build](../OPENING_BUILD.md), [development](DEVELOPMENT_DERIVATION.md)
+and [consequences](PREOPENING_CONSEQUENCES.md).
 
-The relationship bible has five detailed dossiers. The family tree, character
-register, timeline graph, places, factions, economy, inventory, glossary,
-continuity, voice, conflicts, foreshadowing, rails, panel policy, failure ledger,
-work log and chapter workflow now have dedicated owners. See
-[the foundation index](../FOUNDATION_INDEX.md). The original image-search folder
-and all its pictures were deleted as requested.
+These are original fiction choices under the author’s delegation, not verbatim
+author numbers or canon passages depicting an OC. They remain author-revisable.
+No chapter has been drafted. The complete file architecture still exists.
 
-This completes the practical file architecture requested in R16, not the still
-unfinished research/derivation tasks below. An existing file is not evidence
-that every fact it discusses has been resolved.
+## W04 — genuine remaining Chapter 1 blocker
 
-## Readiness blockers owned by the agent
+Review the relevant manhua panels and donghua scenes on an accessible official/
+licensed surface. Record exact edition, unit and panel/page or timestamp range.
+Also obtain the primary maternal-spear scene location. Correctly identified
+catalog/player pages are not sufficient. The official YouTube lead returned a
+country restriction; the comic fetch did not establish visual coverage.
 
-- **W01: Opening state.** Complete the causal development/absorption/capability
-  ledger. Unknown fields cannot be printed as zero, weak or secretly divine.
-- **W02: Ring architecture.** Verify donors, era availability, source traits,
-  absorption and each soul’s practical role.
-- **W03: Engineering foundation.** Establish actual teachers, practice, devices,
-  technical proficiency, personal output and any certification from primary rules.
-- **W04: Adaptation mapping.** Review relevant official manhua panels and donghua
-  scenes. Do not relabel the already-found catalog/player as scene review.
-- **W05: Pre-opening consequences.** Resolve the relevant facts of B01–B07,
-  particularly Ma’s condition and the forest party’s choices.
-- **W06: Opening ledger.** Finish exact age alignment, trusted-circle witnesses,
-  equipment, trip purpose and what each traveler knows.
+Do not evade these limitations with unofficial novel mirrors, location bypass,
+made-up timestamps or a source-gate switch. Continue independent work and keep
+the precise missing material visible. Do not recreate the deleted image-search
+folder or produce artwork as a substitute for canon review.
 
-These are not author-pending arbitrary rank/romance votes. The agent should do
-the research and design work already delegated. Seek an author ruling only
-where an actual new choice is required, not to avoid analysis.
+## Future scene-specific duties — not fixed outcomes
 
-## Nonblocking author-open matters
+Before Ma’s condition or Mu En’s old injury is dramatized, review the appropriate
+original passage and the changed treatment history. No cure, forced failure,
+canonical injury or death is preselected. Before assigning a numbered engineering
+certificate, verify the actual professional rule/test. Before hidden genealogy
+appears, reconcile the original revelation with the author’s stated branch.
+Before the post-meal forest encounter, finalize its changed causes and witnesses.
+These duties cannot be marked completed merely because an opening scope is closed.
 
-- Ma Xiaotao’s future bond remains open. Preserve closeness without locking romance.
-- Working title/name can be revised. No need to delay primary-source research.
-- Future transformations, divine routes, hidden-family reveals and final outcomes
-  remain unselected; do not smuggle them into the opening.
+## Author-open choices retained
 
-## Access honesty
-
-If an official source cannot be accessed, record the precise missing material
-and continue independent work. Do not fetch unofficial novel copies to evade
-an access restriction or ask the author to solve an access problem not yet tested.
+Ma Xiaotao’s future relationship remains open. Later transformations, divinity,
+final teams, allegiances and endings are unselected. No new questionnaire is
+needed for the already-delegated name, personality or numerical development work.

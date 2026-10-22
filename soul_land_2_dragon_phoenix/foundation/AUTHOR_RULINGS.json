@@ -130,6 +130,14 @@
       "verbatim": "Delete imagine search and it's all pictures also \n\nSecond please create all files like relationship timeline and others All, you can check GitHub ",
       "provenance_kind": "verbatim-author-message",
       "verbatim_limit": null
+    },
+    {
+      "id": "R17",
+      "classification": "author-lock",
+      "decision": "Perform a complete pre-chapter review and agent-owned improvements before creating Chapter 1. This turn is preflight, not a prose chapter.",
+      "verbatim": "Now check everything completely and do or anything you want before you create chapter 1",
+      "provenance_kind": "verbatim-author-message",
+      "verbatim_limit": null
     }
   ]
 }

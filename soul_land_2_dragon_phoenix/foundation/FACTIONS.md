@@ -9,7 +9,10 @@ results or unusual progress can affect those opinions through witnessed history.
 
 Separate family permission, faculty supervision, student status, workshop access,
 public achievement and formal certification. None automatically proves the others.
-Formal opening enrollment/title remain part of the uncompleted state derivation.
+The opening design establishes a household-raised training/workshop pupil, not
+an automatically enrolled inner-court student or a numbered professional title.
+Formal later admission requires its own actual route; current ability is real
+regardless of the absence of such an institutional badge.
 
 ## Tang Sect
 

@@ -41,6 +41,7 @@ capability and risk. Do not manufacture a permanently sheltered child whose
 entire remarkable training exists only on paper. Conversely, parental love does
 not make every dangerous request sensible.
 
-Their approval of the opening trip needs the completed capability/trip ledger.
+Their approval of the opening trip is now established in the capability/trip
+ledger as delegated original history; it is not a source-novel parent scene.
 No unseen parent or secret bodyguard is placed at the stream solely to preserve
 the original fight or rescue. No secret ancestor visit is part of this household.

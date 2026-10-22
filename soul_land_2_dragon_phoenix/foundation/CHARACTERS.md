@@ -13,14 +13,14 @@ Jingheng’s numerical state remains owned by CURRENT_STATE.json.
 | Yan Shaozhe | Father, teacher and institution member | Established close family | PARENTS.md |
 | Cai Mei’er | Mother with her own agency and judgment | Established close family | PARENTS.md |
 | Mu En | Grandmaster and close elder | Established bond; no complete hidden-history disclosure implied | ELDERS.md |
-| Xuan Zi | Close elder circle | Contact established; exact teaching events to implement | ELDERS.md |
+| Xuan Zi | Close elder circle | Contact and training witnesses recorded in the development route | ELDERS.md |
 | Ma Xiaotao | Already very close; future open | No new pairing or compulsory sibling designation | MA_XIAOTAO.md |
 | Long Xiaoyao | Author-designated great-grandfather | No contact or inherited learned memory | ANCESTRY_AND_CONTACTS.md |
 | Ye Xishui | Author-designated great-grandmother | No contact or inherited learned memory | ANCESTRY_AND_CONTACTS.md |
-| Fan Yu | Candidate engineering instruction route | A personal apprenticeship is not yet established | SOUL_ENGINEERING.md |
+| Fan Yu | Accepted original workshop-teaching route | Knows actual work and selected private integration training | SOUL_ENGINEERING.md |
 | Wang Dong | Later canon relationship to research | No prior friendship/identity knowledge assigned | Future first-contact record required |
 | Xiao Xiao | Later canon relationship to research | No prior friendship assigned | Future first-contact record required |
-| He Caitou | Possible workshop/social contact to research | No existing OC bond assigned | Future first-contact record required |
+| He Caitou | Existing original workshop acquaintance | Knows repeated practical work, not every private technique | ANCESTRY_AND_CONTACTS.md |
 | Zhou Yi | Later institutional contact to research | No invented prior teacher role | Future first-contact record required |
 | Other students, elders, antagonists | Add only when actual scene/route requires | Do not equate planning awareness with prior contact | Add source and contact receipt |
 

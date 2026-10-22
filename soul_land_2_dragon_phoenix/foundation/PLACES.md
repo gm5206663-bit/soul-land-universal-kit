@@ -15,7 +15,7 @@ conversion is used as a travel-speed feat.
 | Stream / meal site | Opening anchor O | Four-person logistics must be physically coherent |
 | Forest approach | N04 transition | No unexplained jump to a safe academy room or later ring site |
 | Shrek environment | OC upbringing, instruction and close contacts | Specific rooms/permissions require design; no free access to every protected facility |
-| Engineering workspace | Actual craft route to establish | Named teacher, materials, safety and authorization matter |
+| Engineering workspace | Accepted Fan Yu workshop route | Named teacher, materials, safety and authorization matter |
 | Future locations | Research when the route reaches them | A name on a map does not grant previous travel or contacts |
 
 ## Scene-level geography
@@ -25,6 +25,6 @@ cover, reachable exits and where each participant stands. A spear’s reach,
 flight claim or deployed tool must operate in the described space.
 
 Travel takes time, equipment is carried somehow, and workshops require access.
-Do not use an invented exact distance to nerf or inflate an unassigned movement
-ability. Place names follow [the glossary](GLOSSARY.md); choose one spelling
+Do not use an invented exact distance to nerf or inflate a movement
+ability whose actual scope is recorded in current state. Place names follow [the glossary](GLOSSARY.md); choose one spelling
 and record translation aliases rather than multiplying locations.

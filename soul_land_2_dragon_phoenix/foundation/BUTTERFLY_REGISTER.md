@@ -1,19 +1,22 @@
-# Butterfly register — pressure-test causes, do not preselect outcomes
+# Butterfly register — accepted opening consequences, conditional future outcomes
 
-No butterfly event has occurred on a written page. The author’s premise creates
-pre-opening conditions; their implementation below is a research/design register.
+No butterfly has occurred in published prose. The following are accepted
+pre-opening design dispositions under R17. See
+[PREOPENING_CONSEQUENCES.md](PREOPENING_CONSEQUENCES.md) for their causal detail.
 
-| ID | Existing cause | Possible consequence to investigate | Unacceptable shortcut |
+| ID | Cause | Opening disposition | Still conditional |
 |---|---|---|---|
-| B01 | Two academy leaders have this child | Teaching priorities, family time, protection and known accomplishments | Their original past eleven years stay identical |
-| B02 | Exceptional engineering aptitude and real practice | Faculty/parent experience of the field can change | Old dismissive speeches replayed without remembering their son |
-| B03 | Long-standing closeness to Ma Xiaotao, phoenix foundation and top help | What has been observed/tried; actual limits of any treatment | Automatic cure, or ignoring the boy completely until canon’s lake scene |
-| B04 | Close access to Mu En | Familiar guidance and awareness of symptoms through real observation | Automatic diagnosis/cure or forced canon death irrespective of new causes |
-| B05 | A capable fourth person at the stream | Dialogue, food, information, offered help and following decisions | Copy a three-person meal unchanged or distract him for convenience |
-| B06 | Actual strong presence in the forest | Danger/rescue timing and practical decisions can change | Keep an injury solely because canon had one |
-| B07 | Trusted-circle twin-soul disclosure | Specific witnesses and institutional expectations | Everyone knows, or perfect secrecy with no effort/history |
-| B08 | Dragon–phoenix ancestry | Personal potential; later hidden-history route | Secret ancestor teachers or childhood cult allegiance |
+| B01 | Academy leaders have this son | Known advanced history, organized provision and instruction; not newly discovered | Specific later political/institutional responses |
+| B02 | Actual engineering education/results | Fan Yu teaches him; relevant adults and workshop acquaintances remember the work | New inventions and the consequences of Yuhao’s specific sharing skill |
+| B03 | Existing Ma closeness and phoenix experience | Permitted observation/flow-check involvement; no permanent cure claimed | Original later medical scenes, triggers, viable help and any altered incident |
+| B04 | Close grandmaster bond | Familiarity and limited awareness of an old difficulty; no automatic diagnosis/cure | Actual injury study, consent, constructed treatment and eventual outcome |
+| B05 | Four people at stream | Real appetite, conversation, knowledge boundaries and shared-route decision | Final dialogue, exact distribution and written choices |
+| B06 | Strong boy in forest | Ordinary dangers cannot be staged as though he is absent or powerless | Later encounter plan; no forced injury, automatic immunity or stolen bond |
+| B07 | Trusted-circle twins | Named private witnesses and limited disclosures; other acquaintances know less | Actual future releases and information spread |
+| B08 | Dragon–phoenix inheritance | Real supporting development, no ancestor visits or learned-memory gifts | Hidden genealogy reveal and later personal evolution |
 
-Each accepted later entry records prior cause, action/contact, witnesses,
-immediate change, downstream effects, unchanged constraints and source receipts.
-No plot should automatically reward or punish the OC simply for existing.
+A closed opening-scope assessment is not a claim that every future medical or
+plot event is fixed. Before any such event reaches prose, read the actual primary
+unit, inspect changed causes and record the resulting plan. No character must
+suffer, survive, romance the OC or reform an institution solely because a table
+requires an outcome.

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "scope": "Actual whole-existence changes; no imported holder history.",
+  "scope": "Accepted original pre-opening adaptation history; not claims that external canon depicts this holder.",
   "required_event_fields": [
     "id",
     "status",
@@ -14,5 +14,111 @@
     "later_proof",
     "source_refs"
   ],
-  "events": []
+  "events": [
+    {
+      "id": "A00",
+      "status": "accepted",
+      "cause": "Conception and maternal connection",
+      "prior_foundation": "Powerful native inheritance",
+      "input": "Actual maternal provision and contact",
+      "adaptive_response": "Stage-appropriate prenatal harmony, nutrient/energy compatibility",
+      "cost": "Real maternal/nutrient energy",
+      "integration": "Stable child foundation; mother does not receive the Talent",
+      "scope": "Connected prenatal survival unit, not a postnatal aura of free cures",
+      "later_proof": "D01–D03 development",
+      "source_refs": [
+        "DESIGN01",
+        "AT01"
+      ],
+      "ruling_refs": [
+        "R03",
+        "R07",
+        "R17"
+      ]
+    },
+    {
+      "id": "A01",
+      "status": "accepted",
+      "cause": "Lived childhood and instruction",
+      "prior_foundation": "A00 and secure upbringing",
+      "input": "Play, corrected exercises, language, social life and rest",
+      "adaptive_response": "Improved learning chain, body control, recovery and emotional awareness",
+      "cost": "Real time, attention and nutrition",
+      "integration": "Emotion and identity retained; no automatic adult experience",
+      "scope": "Holder’s connected existence, not hidden world knowledge",
+      "later_proof": "D02/D03",
+      "source_refs": [
+        "DESIGN01",
+        "AT01"
+      ],
+      "ruling_refs": [
+        "R03",
+        "R07",
+        "R17"
+      ]
+    },
+    {
+      "id": "A02",
+      "status": "accepted",
+      "cause": "Five native ring breakthroughs",
+      "prior_foundation": "Each preceding accepted whole",
+      "input": "Compatible ring energy plus supporting resources",
+      "adaptive_response": "Reinforcement and recalibration of connected body, soul, energy and learned control",
+      "cost": "Actual absorption and integration",
+      "integration": "No ring calendar-aging; other people do not inherit adaptation",
+      "scope": "Relevant connected layers, not equal scaling of all statistics",
+      "later_proof": "D03–D09",
+      "source_refs": [
+        "DESIGN01",
+        "AT01"
+      ],
+      "ruling_refs": [
+        "R03",
+        "R07",
+        "R17"
+      ]
+    },
+    {
+      "id": "A03",
+      "status": "accepted",
+      "cause": "Alternating and combined twin-soul practice",
+      "prior_foundation": "Body/soul control after four rings",
+      "input": "Actual manifested spear/phoenix, feedback and intentional drills",
+      "adaptive_response": "Constructed/refined compatible manifestation pathways for Concord",
+      "cost": "Practice, energy and recovery",
+      "integration": "One reserve foundation; no third soul or automatic soul fusion",
+      "scope": "The mastered combinations, not every hypothetical combination",
+      "later_proof": "D07/D09",
+      "source_refs": [
+        "DESIGN01",
+        "AT01"
+      ],
+      "ruling_refs": [
+        "R03",
+        "R07",
+        "R17"
+      ]
+    },
+    {
+      "id": "A04",
+      "status": "accepted",
+      "cause": "Workshop making and error feedback",
+      "prior_foundation": "Fine motor control, study and real materials",
+      "input": "Instruction, failed components, load tests and repair",
+      "adaptive_response": "Better pattern understanding, precision and repeatable flow regulator design",
+      "cost": "Materials, tools and lived practice",
+      "integration": "First reproduction distinguished from a reliable complete tool",
+      "scope": "Own learned devices; no hidden blueprint extraction or ancestral memories",
+      "later_proof": "D07/D09",
+      "source_refs": [
+        "DESIGN01",
+        "AT01"
+      ],
+      "ruling_refs": [
+        "R03",
+        "R07",
+        "R17"
+      ]
+    }
+  ]
 }

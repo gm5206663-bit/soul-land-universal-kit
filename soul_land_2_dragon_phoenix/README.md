@@ -38,7 +38,7 @@ not for importing another OC’s powers or history.
 1. [Foundation](foundation/FOUNDATION.md): the premise and its authority boundaries.
 2. [Character](foundation/CHARACTER.md) and [relationships](foundation/RELATIONSHIPS.md).
 3. [Adaptation Talent module](foundation/ADAPTATION_MODULE.md).
-4. [Opening-state review](foundation/OPENING_STATE_REVIEW.md): derive strength, do not guess it.
+4. [Opening build](OPENING_BUILD.md) and [development derivation](foundation/DEVELOPMENT_DERIVATION.md): an authored causal route, not a canon calculator.
 5. [Source crosswalk](foundation/SOURCE_CROSSWALK.md) and [first chapter plan](canon_coverage/CHAPTER_001_PLAN.md).
 6. [Status](STATUS.md), [remaining work](foundation/OPEN_WORK.md), [agent handoff](HANDOFF.md).
 
@@ -53,18 +53,20 @@ not for importing another OC’s powers or history.
 - Preserves the strong starting advantages. High energy demand is not an excuse to
   erase adaptive efficiency, resources, good teaching or accumulated growth.
 - Supplies a technical gate and tested failure cases. A passing foundation check
-  does not mean the unfinished opening state is ready for prose.
+  does not mean the chapter’s visual-source prerequisites are resolved.
 
 ## Not falsely settled
 
-Exact opening cultivation, ring donors/ages, engineered equipment, combat feats
-and engineer certification still require a supported development ledger. There
-are no invented live numbers. The opening evaluation compares strong-development
-scenarios; it is not a ceiling or an accepted power panel.
+The [pre-chapter review](audits/PRECHAPTER_REVIEW.md) records the corrections.
+The opening build, original donors/skills, actual devices, witnesses and trip now
+have an explicitly delegated off-page history. They are author-revisable fiction,
+not canon-deduced numbers or a new direct author choice. No numbered engineering
+certificate is asserted without its actual rule/test.
 
-Official novel opening parts 1.1–1.4 have been read. The official manhua catalog
-and donghua Episode 1 listing have been located. Their panels, scene ranges and
-timestamps have **not** been reviewed, so they are not listed as consumed.
+Novel parts 1.1–1.4, 2.1–2.4, 9.4 and 10.1–10.2 have been read. The official
+manhua reader and donghua EP1 leads were accessed without completed panel/scene
+review; the official YouTube source reports a country restriction. No visual
+range is fabricated or listed as consumed.
 The [source receipt register](research/SOURCE_RECEIPTS.json) states these limits.
 
 ## Checks — Python standard library only
@@ -79,7 +81,8 @@ python3 tools/manage.py ready
 
 `ready` deliberately exits **2** while research blockers remain. Never change a
 blocked chapter to “ready” merely to obtain a green badge. The [CI workflow](../.github/workflows/dragon-phoenix-foundation.yml)
-checks structural integrity and verifies this expected readiness refusal.
+checks structural integrity and matches the CLI result to the actual blocker list.
+Regression fixtures prove both honest refusal and a genuinely resolved synthetic path.
 
 No pictures, videos, audio, generated covers or media packages belong in this
 project. The rejected Fire Phoenix assets were removed and are not a reference.

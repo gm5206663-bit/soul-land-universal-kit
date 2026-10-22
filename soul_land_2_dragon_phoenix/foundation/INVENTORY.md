@@ -1,28 +1,26 @@
-# Inventory — ownership and capability must be demonstrated
+# Opening inventory — actual possession, not a bag of future answers
 
-The exact opening loadout is not accepted yet. This means **undetermined**, not
-that a well-supported child travels without ordinary provisions. Do not convert
-candidate equipment into a chapter feat before the opening ledger is complete.
+Canonical owner: CURRENT_STATE.json → opening_state.equipment. The generated
+[opening build](../OPENING_BUILD.md) presents it without another independent list.
 
-## Candidate working loadout
+The boy carries his self-built precision emitter, controlled protective cuff
+and diagnostic stylus, plus household-provided storage and ordinary provisions.
+The devices have actual teachers/materials, tests, output mechanisms and limits.
+The storage category exists in the reviewed novel N11; this particular belt’s
+capacity and contents are authored item specifications, not a quoted canon fact.
 
-Practical travel clothes, appropriate food/water, ordinary maintenance supplies,
-and a means of carrying authorized items are sensible design needs. The exact
-items, storage method and any supernatural storage device require selection.
-A training spear or manifested martial soul are not interchangeable inventory
-entries. A soul tool requires a real finished device, power source and handling history.
+Equipment energy is supplied through its actual interface. The emitter is not
+a stationary shell with its own large stored blast. The stylus tests accessible
+formation flow, not hidden minds, unknown blueprints or every medical problem.
+The protective cuff has finite controlled coverage; it is not an automatic shield
+for everyone in a forest.
 
-## Item record
+Food, water, travel clothes, dressings and maintenance material are practical
+provision, not infinite supplies. A borrowed, consumed, damaged or gifted item
+must change the record when the story actually uses it. Equipment packed in
+storage must be drawn before use unless the mechanism explicitly says otherwise.
 
-ID · name · ordinary/tool/martial manifestation · owner · source/access · current
-holder · location · condition · energy/ammunition if relevant · reliable effect
-· maintenance · privacy · first demonstrated use · latest change.
-
-No soul bone, immortal herb, ninth-grade device, inherited blueprint collection,
-concealed artifact or ancestor-provided weapon is currently granted. A future
-selection must be traced to its source, not excused as an item forgotten in a pocket.
-
-Inventory changes belong in [continuity events](../state/continuity_events.json).
-Before drafting a fight, confirm that any used tool can be carried, reached,
-powered and operated in the described situation. Once consumed, lost, loaned or
-damaged, it remains so until a recorded change restores it.
+No soul bone, immortal herb, rare ancestor artifact, advanced secret weapon,
+living storage passenger or concealed treasury has been silently added. His
+martial spear is a manifestation, not an ordinary purchased spear that happens
+to contain every ring gift. No picture or generated prop asset is needed.
