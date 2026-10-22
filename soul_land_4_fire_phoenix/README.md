@@ -2,20 +2,12 @@
 
 Live edge: **after Chapter52, `Amiable Beasts`**.
 
-## Media production v1 — rejected
+## Rejected media removed
 
-The author rejected **the entire production v1**, saying “Very bad seriously”
-and then “Everything”. It is not an approved adaptation or a visual baseline.
-No further assets should be generated from these designs. Previous technical
-checks do not establish creative acceptance.
-
-[Rejection status and historical media record](media/README.md) ·
-[Public gallery — rejected version](https://gm5206663-bit.github.io/soul-land-universal-kit/fire-phoenix-media/) ·
-[Publication/rejection receipt](../reports/2026-10-17-fire-phoenix-media/README.md)
-
-Files remain public with explicit rejection labels rather than being presented
-as accepted work. The media task does not change prose, canon state or the
-next-chapter permission.
+The author rejected the entire media production and requested its deletion.
+The pictures, tests, videos, audio, chapter cards, gallery and release have been
+removed from the active workshop. [Short cleanup record](../reports/2026-10-17-fire-phoenix-media/README.md).
+Manuscripts, canon state and project foundations are unchanged.
 
 ## Current state
 
