@@ -4,6 +4,19 @@ The author has delegated name, personality and numerical development research.
 Do not ask them again whether to follow canon, how adaptation begins, or whether
 his upbringing supplies resources. These matters already have answers.
 
+## File-set work completed
+
+The relationship bible has five detailed dossiers. The family tree, character
+register, timeline graph, places, factions, economy, inventory, glossary,
+continuity, voice, conflicts, foreshadowing, rails, panel policy, failure ledger,
+work log and chapter workflow now have dedicated owners. See
+[the foundation index](../FOUNDATION_INDEX.md). The original image-search folder
+and all its pictures were deleted as requested.
+
+This completes the practical file architecture requested in R16, not the still
+unfinished research/derivation tasks below. An existing file is not evidence
+that every fact it discusses has been resolved.
+
 ## Readiness blockers owned by the agent
 
 - **W01: Opening state.** Complete the causal development/absorption/capability

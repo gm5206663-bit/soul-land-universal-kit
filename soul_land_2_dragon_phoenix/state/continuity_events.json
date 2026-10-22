@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "scope": "Actual written scene changes only; not plans, author premises or source-only events.",
+  "required_event_fields": [
+    "id",
+    "fic_chapter",
+    "scene",
+    "start_event",
+    "end_event",
+    "elapsed_time",
+    "place",
+    "participants",
+    "knowledge_changes",
+    "relationship_changes",
+    "resource_changes",
+    "inventory_changes",
+    "capability_changes",
+    "downstream_effects"
+  ],
+  "events": []
+}

@@ -122,6 +122,14 @@
       "verbatim": null,
       "provenance_kind": "standing-author-instructions",
       "verbatim_limit": "Exact wording not retained in available session context. This decision is a recorded choice, not a reconstructed quotation."
+    },
+    {
+      "id": "R16",
+      "classification": "author-lock",
+      "decision": "Delete image-search and all its pictures; create the complete practical relationship, timeline and supporting file set, checking GitHub.",
+      "verbatim": "Delete imagine search and it's all pictures also \n\nSecond please create all files like relationship timeline and others All, you can check GitHub ",
+      "provenance_kind": "verbatim-author-message",
+      "verbatim_limit": null
     }
   ]
 }

@@ -13,6 +13,17 @@ The character’s name and personality were delegated. His origin, parents, twin
 souls, adaptation, resources, first meeting, trusted-circle disclosure, ancestral
 contact boundary and open Ma Xiaotao relationship have been answered.
 
+## Full file-set expansion
+
+The author then requested deletion of image-search and all its pictures, plus
+complete relationship, timeline and supporting files checked against GitHub.
+The folder and eight pictures were removed. R16 records the exact request.
+FOUNDATION_INDEX.md now groups the practical file set; CODEX.md inventories all
+files. Relationship dossiers and the family tree deepen the existing bonds.
+TIMELINE.json owns a relative event-order graph; continuity_events.json is reserved
+for written events and remains empty. FILE_REQUIREMENTS.json checks the practical
+foundation categories. None of these plans is a claimed published scene.
+
 ## Actual next work
 
 1. Read the whole foundation. Inspect the exact-source receipts and their limits.

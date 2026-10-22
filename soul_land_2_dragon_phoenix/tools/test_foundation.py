@@ -155,6 +155,46 @@ class FoundationTests(unittest.TestCase):
         (self.root/'CODEX.md').write_text('incomplete map')
         self.assertIn('generated file map drift', manage.validate(self.root))
 
+    def test_missing_relationship_dossier(self):
+        (self.root/'relationships/PARENTS.md').unlink()
+        self.assert_caught('foundation coverage missing document')
+
+    def test_empty_foundation_is_not_coverage(self):
+        (self.root/'foundation/PLACES.md').write_text('# Empty heading')
+        self.assert_caught('foundation document is empty/thin')
+
+    def test_coverage_category_cannot_disappear(self):
+        self.change('foundation/FILE_REQUIREMENTS.json', lambda x: x['categories'].pop())
+        self.assert_caught('coverage categories cannot disappear')
+
+    def test_content_floor_cannot_be_weakened(self):
+        self.change('foundation/FILE_REQUIREMENTS.json', lambda x: x.update(minimum_words_per_document=0))
+        self.assert_caught('content minimum cannot be weakened')
+
+    def test_duplicate_timeline_event(self):
+        self.change('state/TIMELINE.json', lambda x: x['events'].append(x['events'][0].copy()))
+        self.assert_caught('duplicate timeline event')
+
+    def test_timeline_cycle(self):
+        self.change('state/TIMELINE.json', lambda x: x['events'][0].update(after=['T_FOREST_APPROACH']))
+        self.assert_caught('timeline dependency cycle')
+
+    def test_opening_anchor_cannot_move(self):
+        self.change('state/TIMELINE.json', lambda x: x.update(anchor_id='T_FOREST_APPROACH'))
+        self.assert_caught('opening timeline anchor')
+
+    def test_stream_cannot_move_before_journey(self):
+        self.change('state/TIMELINE.json', lambda x: next(e for e in x['events'] if e['id']=='T_STREAM_PREP').update(after=[]))
+        self.assert_caught('opening chronology constraint missing')
+
+    def test_plans_are_not_written_continuity(self):
+        self.change('state/continuity_events.json', lambda x: x['events'].append({'id':'fixture-plan'}))
+        self.assert_caught('no written continuity events')
+
+    def test_generated_foundation_index_drift(self):
+        (self.root/'FOUNDATION_INDEX.md').write_text('missing categories')
+        self.assertIn('generated foundation index drift', manage.validate(self.root))
+
 
 # One independent fixture per recorded guard. Explicit names keep CI useful.
 MUTATIONS = [

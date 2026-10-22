@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-22",
+  "author_ruling": "R16",
+  "removed_folder": "image-search",
+  "local_files_removed": 8,
+  "bytes_removed": 1371154,
+  "folder_absence_verified": true,
+  "copies_added_to_repository": 0,
+  "scope": "Local research image-search folder only; no unrelated picture deletion or Git history rewriting.",
+  "github_review_baseline": "4d486e5b90f601dfbfde2088fcc391e08316b679",
+  "github_review": "research/GITHUB_FOUNDATION_REVIEW.md",
+  "foundation_file_coverage": "foundation/FILE_REQUIREMENTS.json",
+  "limits": "Expanded file set is not a completed numerical opening derivation or new visual source verification.",
+  "protected_files_outside_project_byte_identical": 2333,
+  "other_serial_changes": 0
+}

@@ -29,6 +29,17 @@ Adaptation Talent master controls the Talent; story results do not rewrite it.
 - No prose until the local readiness check succeeds. Do not promote an agent
   design or an unverified adaptation map to accepted state.
 
+## Expanded file-set contract — author request R16
+
+Read FOUNDATION_INDEX.md for practical owners and CODEX.md for the full inventory.
+FILE_REQUIREMENTS.json must retain all practical coverage categories; do not use
+empty heading files to claim completion. Relationship dossiers contain delegated
+working designs, not invented author quotes or reviewed canon scenes.
+TIMELINE.json owns relative event order. continuity_events.json is for actual
+written scenes and remains empty while there are no chapters. Keep the distinction.
+The author explicitly deleted image-search and its pictures. Do not recreate or
+copy that research-image folder during this text-foundation task.
+
 Run `checks/run_all.sh`. Structural PASS is not canon/creative approval.
 Read tools before changing them, keep failure fixtures, never lower a gate to ship.
 No new media. Do not touch the existing Golden Lion agent’s files or any other serial.

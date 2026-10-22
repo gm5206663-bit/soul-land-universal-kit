@@ -3,7 +3,7 @@
   "structural_integrity": "PASS",
   "selftests": {
     "command": "python3 -m unittest discover -s tools -p test_*.py",
-    "cases": 56,
+    "cases": 66,
     "result": "PASS"
   },
   "chapter_readiness": "BLOCKED",
@@ -21,6 +21,6 @@
     "Source gate pending: donghua_scenes_verified",
     "Source gate pending: maternal_spear_scene_verified"
   ],
-  "file_count": 49,
+  "file_count": 76,
   "limits": "Offline technical checks and actually executed regression tests; not external-source revalidation, author approval or prose-quality review."
 }

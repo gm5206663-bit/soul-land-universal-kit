@@ -1,27 +1,42 @@
-# Timeline — a shared clock, separate knowledge
+# Timeline — one opening anchor and linked event order
 
-## Relative clock
+Machine-readable owner: [TIMELINE.json](../state/TIMELINE.json). This document
+explains the clock; it does not add an independent absolute year or birthday.
+**O = the first stream meeting with Yuhao.** No Gregorian/DC year is invented.
 
-Pre-opening epochs are design history, not long prologue chapters. Birth/age
-arithmetic must be aligned before dates are asserted. No exact birthday has
-been authored. Native awakening access is around six in the reviewed novel.
+## Native life before the opening
 
-## Opening source sequence — primary-read
+| Epoch | Established basis | Working implementation | On-page treatment |
+|---|---|---|---|
+| Conception | R03, AT01: Talent already present; R01/R07: family and strong inputs | Stage-appropriate prenatal integration and maternal exchange | Background only when relevant, not a conception chapter |
+| Birth / early childhood | Native boy, supported household | Body, senses, language, emotion and learning develop together | Ordinary familiar behavior can carry the history |
+| Pre-awakening years | Actual care, guidance and complete-existence adaptation | Play, coordination, attention and foundational learning | No reset to an ordinary untrained six-year-old |
+| Awakening era | Reviewed world context places ordinary awakening around six | Two souls, witnessed expression and privacy require a designed event | Brief natural recollection only if current action needs it |
+| Awakened childhood | Top guidance/resources and faster development | Dated cultivation, hunts and engineering results still to derive | Later capabilities must reflect accumulated work |
+| Before O | Established elder/Ma bonds; Huo remains unacquainted | Final inventory, trip permission, companion history and witnesses | No hidden ancestor mentor or childhood meeting with Yuhao |
 
-| Unit | Own-word summary | Consequence for this project |
+The timeline does not invent exactly five years between an unchosen birthday and
+O. Yuhao’s own age and cultivated interval are explicit in N02; Jingheng’s exact
+alignment must be derived. Chronology must not hide missing ring/hunt intervals.
+
+## Reviewed novel order approaching O
+
+| Source | Event / information | Event order versus exposition |
 |---|---|---|
-| Wuxiaworld 1.1 | Yuhao leaves the Duke’s household; his mother’s history and continental setting establish his situation | Begin with the source world and his agency, not an OC conception dossier |
-| 1.2 | His innate reading, slow prior training, rank-ten goal and dangerous independent hunt are explained | Do not call Jingheng’s own start equivalent; this is Yuhao’s specific deprivation/history |
-| 1.3 | Journey, stream, practical use of Spirit Eyes, fish preparation; two travelers approach | First-meeting insertion point is here or its continuation, before Skydream |
-| 1.4 | Names, meal, Yuhao’s reserved departure and the pair’s decision to follow; forest approach | Add a fourth participant with real effect; do not reproduce three-person logistics unchanged |
+| N01, part 1.1 | Departure, personal history and setting | Backstory presented here is not all happening on the departure day |
+| N02, part 1.2 | Eleven years old, just rank ten, five prior cultivation years, hunt motive | Exposition explains prior years; do not add those years after departure |
+| N03, part 1.3 | Six-day travel, stream, fishing, cooking, approaching travelers | The journey precedes the meal; exact route distance remains disputed |
+| N04, part 1.4 | Introduction and meal at O, departure, discussion/following, forest approach | First meeting is before the next Skydream narrative, not after the bond |
 
-The prologue has been located but not read in this session; no divine scene is
-claimed consumed. Later units require their own primary reading, not inference
-from the chapter title. No scene ordering is borrowed from a wiki episode summary.
+## Source order is not an outcome prison
 
-## Pre-opening consequence clock
+Jingheng’s presence changes the party and can change choices. The source order
+identifies what is being adapted; it does not mandate the same injury, timing or
+rescue after its causes have changed. Future order and duration must be researched
+before being promoted from the conditional route register.
 
-Record awakening witnesses, training, hunts, engineering instruction and contacts
-with Ma/Mu En/elders. Changes in the parents’ experience of engineering and Ma’s
-evil-fire management may precede Chapter 1. They are not a reason to invent a
-worldwide reputation or assume every original event already changed.
+## Chapter clock
+
+There are no written chapter spans. [CONTINUITY.md](CONTINUITY.md) defines the
+ledger. Set a start/end event before prose, carry elapsed time forward, distinguish
+flashback from present action, and verify travel/recovery/construction durations.

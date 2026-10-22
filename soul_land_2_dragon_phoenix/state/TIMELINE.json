@@ -1,0 +1,220 @@
+{
+  "schema_version": 1,
+  "anchor_id": "T_FIRST_MEETING",
+  "anchor_label": "O = first stream meeting with Yuhao",
+  "absolute_calendar": null,
+  "exact_oc_birthdate": null,
+  "scope": "Planning/source-order graph, not published fic events. Exposition about past years does not add time after departure.",
+  "events": [
+    {
+      "id": "T_CONCEPTION",
+      "summary": "Talent operates in the native life from conception.",
+      "relative_phase": "pre-opening",
+      "after": [],
+      "basis": "author-premise",
+      "source_refs": [
+        "AT01"
+      ],
+      "ruling_refs": [
+        "R03"
+      ],
+      "written_in_fic": false
+    },
+    {
+      "id": "T_BIRTH",
+      "summary": "Native birth into the approved family; no exact calendar date assigned.",
+      "relative_phase": "pre-opening",
+      "after": [
+        "T_CONCEPTION"
+      ],
+      "basis": "author-premise",
+      "source_refs": [],
+      "ruling_refs": [
+        "R01"
+      ],
+      "written_in_fic": false
+    },
+    {
+      "id": "T_EARLY",
+      "summary": "Supported early childhood and complete-existence development.",
+      "relative_phase": "pre-opening",
+      "after": [
+        "T_BIRTH"
+      ],
+      "basis": "working-design",
+      "source_refs": [
+        "AT01"
+      ],
+      "ruling_refs": [
+        "R07"
+      ],
+      "written_in_fic": false
+    },
+    {
+      "id": "T_AWAKENING",
+      "summary": "Two-soul awakening event and witnesses to implement; no innate reading invented.",
+      "relative_phase": "pre-opening",
+      "after": [
+        "T_EARLY"
+      ],
+      "basis": "working-design",
+      "source_refs": [
+        "N01",
+        "N02"
+      ],
+      "ruling_refs": [
+        "R02",
+        "R10"
+      ],
+      "written_in_fic": false
+    },
+    {
+      "id": "T_TRAINING",
+      "summary": "Awakened training, ring events and engineering results need a causal ledger.",
+      "relative_phase": "pre-opening",
+      "after": [
+        "T_AWAKENING"
+      ],
+      "basis": "research-pending",
+      "source_refs": [
+        "AT01"
+      ],
+      "ruling_refs": [
+        "R07"
+      ],
+      "written_in_fic": false
+    },
+    {
+      "id": "T_PRETRIP",
+      "summary": "Opening loadout, companion history and permission to finalize.",
+      "relative_phase": "pre-opening",
+      "after": [
+        "T_TRAINING"
+      ],
+      "basis": "research-pending",
+      "source_refs": [],
+      "ruling_refs": [
+        "R04"
+      ],
+      "written_in_fic": false
+    },
+    {
+      "id": "T_DEPARTURE",
+      "summary": "Yuhao leaves the Duke household.",
+      "relative_phase": "approaching-opening",
+      "after": [],
+      "basis": "primary-read",
+      "source_refs": [
+        "N01"
+      ],
+      "ruling_refs": [],
+      "written_in_fic": false
+    },
+    {
+      "id": "T_JOURNEY",
+      "summary": "Yuhao’s six-day journey precedes the stream encounter.",
+      "relative_phase": "approaching-opening",
+      "after": [
+        "T_DEPARTURE"
+      ],
+      "basis": "primary-read",
+      "source_refs": [
+        "N03"
+      ],
+      "ruling_refs": [],
+      "written_in_fic": false
+    },
+    {
+      "id": "T_STREAM_PREP",
+      "summary": "Fishing and cooking before travelers approach.",
+      "relative_phase": "approaching-opening",
+      "after": [
+        "T_JOURNEY"
+      ],
+      "basis": "primary-read",
+      "source_refs": [
+        "N03"
+      ],
+      "ruling_refs": [],
+      "written_in_fic": false
+    },
+    {
+      "id": "T_FIRST_MEETING",
+      "summary": "Opening anchor O: Jingheng meets Yuhao with Tang Ya and Bei Bei.",
+      "relative_phase": "opening-anchor",
+      "after": [
+        "T_PRETRIP",
+        "T_STREAM_PREP"
+      ],
+      "basis": "author-insertion-on-primary-spine",
+      "source_refs": [
+        "N03",
+        "N04"
+      ],
+      "ruling_refs": [
+        "R04"
+      ],
+      "written_in_fic": false
+    },
+    {
+      "id": "T_MEAL",
+      "summary": "The source meal must account for the fourth participant.",
+      "relative_phase": "opening-continuation",
+      "after": [
+        "T_FIRST_MEETING"
+      ],
+      "basis": "adaptation-plan",
+      "source_refs": [
+        "N04"
+      ],
+      "ruling_refs": [
+        "R04"
+      ],
+      "written_in_fic": false
+    },
+    {
+      "id": "T_DEPARTURE_AFTER_MEAL",
+      "summary": "Yuhao leaves; his withheld information stays private.",
+      "relative_phase": "opening-continuation",
+      "after": [
+        "T_MEAL"
+      ],
+      "basis": "primary-read-to-adapt",
+      "source_refs": [
+        "N04"
+      ],
+      "ruling_refs": [],
+      "written_in_fic": false
+    },
+    {
+      "id": "T_FOLLOW_DECISION",
+      "summary": "The decision to follow must reflect Jingheng’s actual knowledge and ability.",
+      "relative_phase": "opening-continuation",
+      "after": [
+        "T_DEPARTURE_AFTER_MEAL"
+      ],
+      "basis": "adaptation-plan",
+      "source_refs": [
+        "N04"
+      ],
+      "ruling_refs": [
+        "R04"
+      ],
+      "written_in_fic": false
+    },
+    {
+      "id": "T_FOREST_APPROACH",
+      "summary": "Forest approach; later danger/bond route remains unreviewed.",
+      "relative_phase": "opening-continuation",
+      "after": [
+        "T_FOLLOW_DECISION"
+      ],
+      "basis": "primary-read-to-adapt",
+      "source_refs": [
+        "N04"
+      ],
+      "ruling_refs": [],
+      "written_in_fic": false
+    }
+  ]
+}

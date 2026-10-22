@@ -14,6 +14,25 @@ the source characters with an audience for his greatness.
 “you give” naming delegation. The book title is an agent working title, not an
 author-quoted title. Both can be revised without rewriting a supposed ruling.
 
+## Complete foundation navigation
+
+Start with the [foundation index](FOUNDATION_INDEX.md): it groups the practical
+file set into character, relationships, timeline, setting, powers, continuity,
+source research and production. [CODEX.md](CODEX.md) lists every project file.
+
+Expanded relationship dossiers cover [parents](relationships/PARENTS.md),
+[elders](relationships/ELDERS.md), [Ma Xiaotao](relationships/MA_XIAOTAO.md),
+[the stream party](relationships/STREAM_PARTY.md), and
+[ancestry/later contacts](relationships/ANCESTRY_AND_CONTACTS.md).
+The [family tree](foundation/FAMILY_TREE.md), [timeline](foundation/TIMELINE.md),
+[cast](foundation/CHARACTERS.md), [places](foundation/PLACES.md) and
+[continuity guide](foundation/CONTINUITY.md) are separate working owners.
+
+The author-requested `image-search` directory and all eight research pictures
+were deleted. They are not copied into this project. GitHub’s existing foundation
+patterns were [reviewed](research/GITHUB_FOUNDATION_REVIEW.md) for structure,
+not for importing another OC’s powers or history.
+
 ## Read in this order
 
 1. [Foundation](foundation/FOUNDATION.md): the premise and its authority boundaries.

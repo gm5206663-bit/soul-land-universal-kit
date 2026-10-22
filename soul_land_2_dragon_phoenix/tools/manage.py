@@ -15,7 +15,11 @@ import sys
 ROOT = Path(__file__).resolve().parents[1]
 EXCLUDED = {'__pycache__', '.git', '.pytest_cache'}
 BINARY_MEDIA = {'.png', '.jpg', '.jpeg', '.webp', '.gif', '.mp4', '.mp3', '.wav', '.zip', '.pdf', '.pptx'}
-GENERATED = {'STATUS.md', 'CODEX.md', 'state/FILE_MANIFEST.json'}
+GENERATED = {'STATUS.md', 'CODEX.md', 'FOUNDATION_INDEX.md', 'state/FILE_MANIFEST.json'}
+COVERAGE_IDS = {'premise', 'character', 'family', 'relationships', 'timeline', 'places',
+                'factions', 'economy', 'power', 'talent', 'souls', 'rings', 'skills',
+                'combat', 'engineering', 'knowledge', 'canon', 'inventory', 'continuity',
+                'routes', 'voice', 'foreshadowing', 'workflow', 'governance'}
 
 
 def read(root, relative):
@@ -82,6 +86,76 @@ def codex_text(names):
         else:
             lines.append(f'- [{name}]({name})')
     return '\n'.join(lines) + '\n'
+
+
+def foundation_index_text(root):
+    coverage = read(root, 'foundation/FILE_REQUIREMENTS.json')
+    lines = ['# Complete foundation index — generated', '',
+             'Practical file architecture is present. This is not a declaration that all',
+             'opening numbers, source mappings or future decisions are resolved.', '',
+             'Working story: **The Dragon and the Phoenix**, with **Yan Jingheng**.',
+             'Read [status](STATUS.md) for actual readiness and [all files](CODEX.md) for the inventory.', '',
+             '## Foundation functions', '']
+    for category in coverage['categories']:
+        lines += ['### '+category['title'], '']
+        lines += ['- ['+p.split('/')[-1]+']('+p+')' for p in category['documents']]
+        lines += ['']
+    lines += ['## Structured owners', '',
+              '- [Current state](state/CURRENT_STATE.json): accepted premise and unresolved numerical fields.',
+              '- [Timeline graph](state/TIMELINE.json): relative source/planning order, not written scenes.',
+              '- [Continuity events](state/continuity_events.json): written scene changes; currently empty.',
+              '- [Author rulings](foundation/AUTHOR_RULINGS.json): exact available wording and provenance limits.',
+              '- [Source receipts](research/SOURCE_RECEIPTS.json): read, located, partial and unreviewed scopes.',
+              '- [Coverage requirements](foundation/FILE_REQUIREMENTS.json): file-presence/content contract.',
+              '- [GitHub review](research/GITHUB_FOUNDATION_REVIEW.md): structural references, no holder transfer.',
+              '', '## What remains', '',
+              'The file set is expanded, but [open research work](foundation/OPEN_WORK.md) remains.',
+              'No chapter, artwork or research-image pack has been published.', '']
+    return '\n'.join(lines)
+
+
+def validate_expansion(root, require):
+    coverage = read(root, 'foundation/FILE_REQUIREMENTS.json')
+    ids = [c['id'] for c in coverage['categories']]
+    require(set(ids) == COVERAGE_IDS and len(ids) == len(COVERAGE_IDS), 'foundation coverage categories cannot disappear or duplicate')
+    threshold = coverage['minimum_words_per_document']
+    require(isinstance(threshold, int) and threshold >= 40, 'foundation content minimum cannot be weakened')
+    for category in coverage['categories']:
+        require(bool(category['documents']), 'foundation coverage category is empty')
+        for name in category['documents']:
+            path = root/name
+            require(path.is_file(), 'foundation coverage missing document: '+name)
+            if path.is_file():
+                require(len(path.read_text(encoding='utf-8').split()) >= threshold, 'foundation document is empty/thin: '+name)
+    timeline = read(root, 'state/TIMELINE.json')
+    nodes = {e['id']:e for e in timeline['events']}
+    require(len(nodes) == len(timeline['events']), 'duplicate timeline event ID')
+    require(timeline['anchor_id'] == 'T_FIRST_MEETING' and timeline['anchor_id'] in nodes, 'opening timeline anchor missing or moved')
+    for event in timeline['events']:
+        require(event['written_in_fic'] is False, 'planning timeline is not a written scene ledger')
+        for earlier in event['after']:
+            require(earlier in nodes, 'timeline dependency does not exist: '+earlier)
+    required_edges = [('T_JOURNEY','T_DEPARTURE'), ('T_STREAM_PREP','T_JOURNEY'),
+                      ('T_FIRST_MEETING','T_STREAM_PREP'), ('T_FIRST_MEETING','T_PRETRIP'),
+                      ('T_MEAL','T_FIRST_MEETING'), ('T_FOREST_APPROACH','T_FOLLOW_DECISION')]
+    for later, earlier in required_edges:
+        require(later in nodes and earlier in nodes and earlier in nodes[later]['after'], 'opening chronology constraint missing: '+later+' after '+earlier)
+    visiting, complete = set(), set()
+    def walk(name):
+        if name in visiting:
+            require(False, 'timeline dependency cycle')
+            return
+        if name in complete:
+            return
+        visiting.add(name)
+        for previous in nodes[name]['after']:
+            if previous in nodes:
+                walk(previous)
+        visiting.remove(name)
+        complete.add(name)
+    for name in nodes:
+        walk(name)
+    require(read(root, 'state/continuity_events.json')['events'] == [], 'foundation-only release has no written continuity events')
 
 
 def validate(root, check_generated=True):
@@ -190,6 +264,7 @@ def validate(root, check_generated=True):
             require(len({e['id'] for e in log['events']}) == len(log['events']), 'duplicate event IDs in '+name)
             for event in log['events']:
                 require(all(k in event for k in log['required_event_fields']), 'incomplete event in '+name)
+        validate_expansion(root, require)
         all_files = files(root)
         for name in all_files:
             p = root/name
@@ -206,6 +281,7 @@ def validate(root, check_generated=True):
         if check_generated:
             require((root/'STATUS.md').read_text() == status_text(root), 'generated status drift')
             require((root/'CODEX.md').read_text() == codex_text(all_files), 'generated file map drift')
+            require((root/'FOUNDATION_INDEX.md').read_text() == foundation_index_text(root), 'generated foundation index drift')
             require(read(root, 'state/FILE_MANIFEST.json')['files'] == all_files, 'file manifest drift')
     except (KeyError, ValueError, TypeError, OSError) as exc:
         errors.append('invalid or incomplete foundation data: '+str(exc))
@@ -214,6 +290,7 @@ def validate(root, check_generated=True):
 
 def build(root):
     (root/'STATUS.md').write_text(status_text(root), encoding='utf-8')
+    (root/'FOUNDATION_INDEX.md').write_text(foundation_index_text(root), encoding='utf-8')
     if not (root/'audits/verification.json').exists():
         write_json(root/'audits/verification.json', {'status':'not-yet-run'})
     names = sorted(set(files(root)) | GENERATED)
