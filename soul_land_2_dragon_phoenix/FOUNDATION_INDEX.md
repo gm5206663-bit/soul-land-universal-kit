@@ -1,144 +1,62 @@
-# Complete foundation index — generated
+# Reading guide — one owner for each subject
 
-Practical file architecture is present. This is not a declaration that all
-opening numbers, source mappings or future decisions are resolved.
+Start with [the story](story/CORE.md), [the opening dossier](OPENING_BUILD.md)
+and [the scene plan](plot/OPENING.md). Then use the subject you need below.
 
-Working story: **The Dragon and the Phoenix**, with **Yan Jingheng**.
-Read [status](STATUS.md) for actual readiness and [all files](CODEX.md) for the inventory.
+These are integrated working documents, not one-file-per-heading checklists.
+Current readiness is in [Status](STATUS.md); historical records are not live state.
 
-## Foundation functions
+## Story and people
 
-### Premise and identity
+| Read | What it owns |
+|---|---|
+| [Story and protagonist](story/CORE.md) | Premise, identity, personality and central story commitments. |
+| [Cast and family map](story/CAST.md) | Contact map, family branch and links to individual relationships. |
+| [Voice and terminology](story/VOICE.md) | POV, scene texture, craft targets and consistent terms. |
 
-- [FOUNDATION.md](foundation/FOUNDATION.md)
-- [IDENTITY.md](foundation/IDENTITY.md)
+## World
 
-### Personality and cast
+| Read | What it owns |
+|---|---|
+| [Setting and resources](world/SETTING.md) | Places, institutions, access, supply and ownership. |
 
-- [CHARACTER.md](foundation/CHARACTER.md)
-- [CHARACTERS.md](foundation/CHARACTERS.md)
+## Power
 
-### Family tree and ancestry
+| Read | What it owns |
+|---|---|
+| [Souls and inheritance](power/FOUNDATIONS.md) | What the two foundations contribute and how shared power works. |
+| [Adaptation Talent](power/ADAPTATION.md) | Whole-existence application, prerequisites and real construction. |
+| [Developmental route](power/DEVELOPMENT.md) | Conception-to-opening causal history and why the working build fits it. |
+| [Rings and combat](power/RINGS_AND_COMBAT.md) | Original gifts, selection logic, trained spear and tactical application. |
+| [Engineering and equipment](power/ENGINEERING.md) | Real making, teacher assessment, device roles and possession. |
 
-- [FAMILY_TREE.md](foundation/FAMILY_TREE.md)
-- [BLOODLINES.md](foundation/BLOODLINES.md)
+## Plot and continuity
 
-### Relationship bible and individual dossiers
+| Read | What it owns |
+|---|---|
+| [Opening and later routes](plot/OPENING.md) | Chapter 1 scene purposes, endpoint, changed causes and conditional horizons. |
+| [Clock, knowledge and consequences](plot/CONTINUITY.md) | Event owners, witnesses, pre-opening effects and persistent changes. |
 
-- [RELATIONSHIPS.md](foundation/RELATIONSHIPS.md)
-- [PARENTS.md](relationships/PARENTS.md)
-- [ELDERS.md](relationships/ELDERS.md)
-- [MA_XIAOTAO.md](relationships/MA_XIAOTAO.md)
-- [STREAM_PARTY.md](relationships/STREAM_PARTY.md)
-- [ANCESTRY_AND_CONTACTS.md](relationships/ANCESTRY_AND_CONTACTS.md)
+## Canon
 
-### Chronology and historical development
+| Read | What it owns |
+|---|---|
+| [Sources and evidence](canon/SOURCE_GUIDE.md) | Reviewed material, separate adaptations, numbering and exact limits. |
 
-- [TIMELINE.md](foundation/TIMELINE.md)
-- [DEVELOPMENT.md](foundation/DEVELOPMENT.md)
+## Working on the project
 
-### Places and movement
+| Read | What it owns |
+|---|---|
+| [Remaining work](operations/OPEN_WORK.md) | The real pre-draft blocker and later scene-specific duties. |
+| [Workflow and publication](operations/WORKFLOW.md) | One-owner rules, chapter process, checks and defect handling. |
+| [Work history](operations/CHANGELOG.md) | Dated project changes, not fictional elapsed time. |
 
-- [PLACES.md](foundation/PLACES.md)
+## Exact records and full inventory
 
-### Institutions and independent motives
+- [Current checkpoint](state/CURRENT_STATE.json) and [development history](state/development_events.json).
+- [Author decisions](operations/AUTHOR_RULINGS.json) and [source receipts](canon/SOURCE_RECEIPTS.json).
+- [Full file inventory](CODEX.md), including dated records and technical tools.
+- [Continuation handoff](HANDOFF.md).
 
-- [FACTIONS.md](foundation/FACTIONS.md)
-
-### Ownership, access and supplies
-
-- [ECONOMY.md](foundation/ECONOMY.md)
-- [RESOURCES.md](foundation/RESOURCES.md)
-
-### Power laws and opening derivation
-
-- [POWER_SYSTEM.md](foundation/POWER_SYSTEM.md)
-- [OPENING_STATE_REVIEW.md](foundation/OPENING_STATE_REVIEW.md)
-- [DEVELOPMENT_DERIVATION.md](foundation/DEVELOPMENT_DERIVATION.md)
-
-### Complete-existence Adaptation Talent
-
-- [ADAPTATION_MODULE.md](foundation/ADAPTATION_MODULE.md)
-
-### Martial-soul expressions
-
-- [MARTIAL_SOULS.md](foundation/MARTIAL_SOULS.md)
-
-### Ring architecture and absorption research
-
-- [RING_PLAN.md](foundation/RING_PLAN.md)
-
-### Learned and ring-gift skills
-
-- [SKILLS_CANON.md](foundation/SKILLS_CANON.md)
-
-### Combat training and reliable feats
-
-- [COMBAT.md](foundation/COMBAT.md)
-
-### Engineering, output and certification
-
-- [SOUL_ENGINEERING.md](foundation/SOUL_ENGINEERING.md)
-
-### Private knowledge and witnesses
-
-- [KNOWLEDGE_FIREWALL.md](foundation/KNOWLEDGE_FIREWALL.md)
-
-### Source access, claims and medium crosswalk
-
-- [CANON_ACCESS.md](foundation/CANON_ACCESS.md)
-- [CANON_LEDGER.md](foundation/CANON_LEDGER.md)
-- [SOURCE_CROSSWALK.md](foundation/SOURCE_CROSSWALK.md)
-
-### Items, tools and possession
-
-- [INVENTORY.md](foundation/INVENTORY.md)
-
-### Persistent scene changes
-
-- [CONTINUITY.md](foundation/CONTINUITY.md)
-
-### Arcs, conflicts and butterflies
-
-- [STORY_ARCS.md](foundation/STORY_ARCS.md)
-- [CONFLICTS.md](foundation/CONFLICTS.md)
-- [BUTTERFLY_REGISTER.md](foundation/BUTTERFLY_REGISTER.md)
-- [PREOPENING_CONSEQUENCES.md](foundation/PREOPENING_CONSEQUENCES.md)
-
-### Prose, POV and terminology
-
-- [WRITING_RULES.md](foundation/WRITING_RULES.md)
-- [VOICE_AND_SCENES.md](foundation/VOICE_AND_SCENES.md)
-- [GLOSSARY.md](foundation/GLOSSARY.md)
-
-### Promises without predetermined outcomes
-
-- [FORESHADOWING.md](foundation/FORESHADOWING.md)
-
-### Chapter production and coverage plan
-
-- [CHAPTER_WORKFLOW.md](foundation/CHAPTER_WORKFLOW.md)
-- [CHAPTER_001_PLAN.md](canon_coverage/CHAPTER_001_PLAN.md)
-
-### Rails, panels, failures and handoff
-
-- [RAILS.md](foundation/RAILS.md)
-- [PANELS.md](foundation/PANELS.md)
-- [FAILURES.md](foundation/FAILURES.md)
-- [SERIAL_LOG.md](foundation/SERIAL_LOG.md)
-- [HANDOFF.md](HANDOFF.md)
-
-## Structured owners
-
-- [Current state](state/CURRENT_STATE.json): accepted premise and delegated opening checkpoint.
-- [Timeline graph](state/TIMELINE.json): relative source/planning order, not written scenes.
-- [Continuity events](state/continuity_events.json): written scene changes; currently empty.
-- [Author rulings](foundation/AUTHOR_RULINGS.json): exact available wording and provenance limits.
-- [Source receipts](research/SOURCE_RECEIPTS.json): read, located, partial and unreviewed scopes.
-- [Coverage requirements](foundation/FILE_REQUIREMENTS.json): file-presence/content contract.
-- [GitHub review](research/GITHUB_FOUNDATION_REVIEW.md): structural references, no holder transfer.
-
-## What remains
-
-The file set is expanded, but [open research work](foundation/OPEN_WORK.md) remains.
-No chapter, artwork or research-image pack has been published.
+This guide is generated from operations/FILE_REQUIREMENTS.json. Change a subject
+at its owner; regenerate navigation instead of maintaining another current copy.

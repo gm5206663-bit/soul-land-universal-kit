@@ -37,31 +37,31 @@ class FoundationTests(unittest.TestCase):
         self.assertTrue(any('W04' in b for b in manage.blockers(self.root)))
 
     def test_unquoted_ruling_has_explicit_limit(self):
-        self.change('foundation/AUTHOR_RULINGS.json', lambda x: x['rulings'][0].update(verbatim_limit=None))
+        self.change('operations/AUTHOR_RULINGS.json', lambda x: x['rulings'][0].update(verbatim_limit=None))
         self.assert_caught('provenance limit')
 
     def test_reconstructed_quote_cannot_claim_verbatim(self):
-        self.change('foundation/AUTHOR_RULINGS.json', lambda x: x['rulings'][0].update(provenance_kind='verbatim-author-message'))
+        self.change('operations/AUTHOR_RULINGS.json', lambda x: x['rulings'][0].update(provenance_kind='verbatim-author-message'))
         self.assert_caught('mislabeled verbatim')
 
     def test_duplicate_ruling(self):
-        self.change('foundation/AUTHOR_RULINGS.json', lambda x: x['rulings'].append(x['rulings'][0].copy()))
+        self.change('operations/AUTHOR_RULINGS.json', lambda x: x['rulings'].append(x['rulings'][0].copy()))
         self.assert_caught('duplicate ruling')
 
     def test_duplicate_source(self):
-        self.change('research/SOURCE_RECEIPTS.json', lambda x: x['sources'].append(x['sources'][0].copy()))
+        self.change('canon/SOURCE_RECEIPTS.json', lambda x: x['sources'].append(x['sources'][0].copy()))
         self.assert_caught('duplicate source')
 
     def test_metadata_is_not_visual_review(self):
-        self.change('research/SOURCE_RECEIPTS.json', lambda x: next(s for s in x['sources'] if s['id']=='D01').update(scene_reviewed=True))
+        self.change('canon/SOURCE_RECEIPTS.json', lambda x: next(s for s in x['sources'] if s['id']=='D01').update(scene_reviewed=True))
         self.assert_caught('cannot prove a scene')
 
     def test_content_id_is_not_printed_chapter(self):
-        self.change('research/SOURCE_RECEIPTS.json', lambda x: next(s for s in x['sources'] if s['id']=='M01')['catalog'][1].update(cid='2'))
+        self.change('canon/SOURCE_RECEIPTS.json', lambda x: next(s for s in x['sources'] if s['id']=='M01')['catalog'][1].update(cid='2'))
         self.assert_caught('content ID distinction')
 
     def test_source_pin_hash(self):
-        self.change('research/SOURCE_RECEIPTS.json', lambda x: next(s for s in x['sources'] if s['id']=='AT01').update(sha256='wrong'))
+        self.change('canon/SOURCE_RECEIPTS.json', lambda x: next(s for s in x['sources'] if s['id']=='AT01').update(sha256='wrong'))
         self.assert_caught('source hash mismatch')
 
     def test_visual_flag_needs_visual_receipt(self):
@@ -73,7 +73,7 @@ class FoundationTests(unittest.TestCase):
         self.assert_caught('maternal spear flag lacks')
 
     def test_visual_review_needs_exact_location(self):
-        self.change('research/SOURCE_RECEIPTS.json', lambda x: next(s for s in x['sources'] if s['id']=='D01').update(scene_reviewed=True, status='visual-reviewed'))
+        self.change('canon/SOURCE_RECEIPTS.json', lambda x: next(s for s in x['sources'] if s['id']=='D01').update(scene_reviewed=True, status='visual-reviewed'))
         self.assert_caught('exact panels/timestamps')
 
     def test_unknown_reference(self):
@@ -116,7 +116,7 @@ class FoundationTests(unittest.TestCase):
         self.assert_caught('has not consumed')
 
     def test_plan_cannot_call_itself_prose(self):
-        self.change('canon_coverage/CHAPTER_001.json', lambda x: x.update(prose_exists=True))
+        self.change('plot/CHAPTER_001.json', lambda x: x.update(prose_exists=True))
         self.assert_caught('must not impersonate')
 
     def test_incomplete_event(self):
@@ -153,19 +153,19 @@ class FoundationTests(unittest.TestCase):
         self.assertIn('generated file map drift', manage.validate(self.root))
 
     def test_missing_relationship_dossier(self):
-        (self.root/'relationships/PARENTS.md').unlink()
+        (self.root/'story/relationships/PARENTS.md').unlink()
         self.assert_caught('foundation coverage missing document')
 
     def test_empty_foundation_is_not_coverage(self):
-        (self.root/'foundation/PLACES.md').write_text('# Empty heading')
+        (self.root/'world/SETTING.md').write_text('# Empty heading')
         self.assert_caught('foundation document is empty/thin')
 
     def test_coverage_category_cannot_disappear(self):
-        self.change('foundation/FILE_REQUIREMENTS.json', lambda x: x['categories'].pop())
+        self.change('operations/FILE_REQUIREMENTS.json', lambda x: x['categories'].pop())
         self.assert_caught('coverage categories cannot disappear')
 
     def test_content_floor_cannot_be_weakened(self):
-        self.change('foundation/FILE_REQUIREMENTS.json', lambda x: x.update(minimum_words_per_document=0))
+        self.change('operations/FILE_REQUIREMENTS.json', lambda x: x.update(minimum_words_per_document=0))
         self.assert_caught('content minimum cannot be weakened')
 
     def test_duplicate_timeline_event(self):

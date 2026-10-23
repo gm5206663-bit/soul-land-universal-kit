@@ -4,7 +4,7 @@
   "opening_scenario_first_to_test": "Superseded: development route is now authored and checked; current checkpoint belongs to CURRENT_STATE.json.",
   "exact_opening_rank": null,
   "age_alignment": "Resolved in current state; no independently maintained candidate age.",
-  "personality_owner": "foundation/CHARACTER.md",
+  "personality_owner": "story/CORE.md",
   "trip_design": "Resolved in current state; no separate competing trip facts.",
   "engineer_instruction": "Resolved in current state: actual workshop work, no fabricated professional certificate.",
   "ring_route_candidates": [

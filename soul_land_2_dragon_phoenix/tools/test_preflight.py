@@ -35,7 +35,7 @@ class PreflightTests(unittest.TestCase):
                              scope='Synthetic test data, NOT a real source review')
                     if s['id']=='D01':
                         s['claim_tags']=['maternal-spear']
-        self.change('research/SOURCE_RECEIPTS.json', sources)
+        self.change('canon/SOURCE_RECEIPTS.json', sources)
         def state(x):
             for k in ('manhua_scenes_verified','donghua_scenes_verified','maternal_spear_scene_verified'):
                 x['coverage'][k]=True
@@ -78,7 +78,7 @@ class PreflightTests(unittest.TestCase):
         self.assert_caught('design authority must be explicit')
 
     def test_original_design_cannot_become_external_primary(self):
-        self.change('research/SOURCE_RECEIPTS.json',lambda x:next(s for s in x['sources'] if s['id']=='DESIGN01').update(status='primary-read',scene_reviewed=True))
+        self.change('canon/SOURCE_RECEIPTS.json',lambda x:next(s for s in x['sources'] if s['id']=='DESIGN01').update(status='primary-read',scene_reviewed=True))
         self.assert_caught('cannot masquerade as external primary')
 
     def test_missing_delegation_is_caught(self):
@@ -86,11 +86,11 @@ class PreflightTests(unittest.TestCase):
         self.assert_caught('needs current delegation')
 
     def test_support_file_must_have_substance(self):
-        (self.root/'foundation/DEVELOPMENT_DERIVATION.md').write_text('# Thin fixture')
+        (self.root/'power/DEVELOPMENT.md').write_text('# Thin fixture')
         self.assert_caught('missing substantive preflight support')
 
     def test_butterfly_assessment_cannot_be_missing(self):
-        (self.root/'foundation/PREOPENING_CONSEQUENCES.md').unlink()
+        (self.root/'plot/CONTINUITY.md').unlink()
         self.assert_caught('butterfly closure needs substantive')
 
     def test_whole_checkpoint_cannot_drift(self):
@@ -163,7 +163,7 @@ class PreflightTests(unittest.TestCase):
         self.assert_caught('requires primary exam evidence')
 
     def test_partial_certification_lead_stays_partial(self):
-        a=next(x for x in manage.read(self.root,'research/SOURCE_RECEIPTS.json')['sources'] if x['id']=='A01')
+        a=next(x for x in manage.read(self.root,'canon/SOURCE_RECEIPTS.json')['sources'] if x['id']=='A01')
         self.assertEqual(a['status'],'partial-primary')
         self.assertFalse(a['scene_reviewed'])
 

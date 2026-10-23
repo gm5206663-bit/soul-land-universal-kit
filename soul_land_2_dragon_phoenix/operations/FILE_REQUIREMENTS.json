@@ -1,0 +1,296 @@
+{
+  "schema_version": 1,
+  "scope": "Twenty-four required story functions with one practical owner per subject. Reading navigation and machine coverage share this map.",
+  "minimum_words_per_document": 40,
+  "categories": [
+    {
+      "id": "premise",
+      "title": "Premise and identity",
+      "documents": [
+        "story/CORE.md"
+      ]
+    },
+    {
+      "id": "character",
+      "title": "Personality and cast",
+      "documents": [
+        "story/CORE.md",
+        "story/CAST.md"
+      ]
+    },
+    {
+      "id": "family",
+      "title": "Family tree and ancestry",
+      "documents": [
+        "story/CAST.md",
+        "power/FOUNDATIONS.md"
+      ]
+    },
+    {
+      "id": "relationships",
+      "title": "Relationship bible and individual dossiers",
+      "documents": [
+        "story/CAST.md",
+        "story/relationships/PARENTS.md",
+        "story/relationships/ELDERS.md",
+        "story/relationships/MA_XIAOTAO.md",
+        "story/relationships/STREAM_PARTY.md",
+        "story/relationships/ANCESTRY_AND_CONTACTS.md"
+      ]
+    },
+    {
+      "id": "timeline",
+      "title": "Chronology and historical development",
+      "documents": [
+        "plot/CONTINUITY.md",
+        "power/DEVELOPMENT.md"
+      ]
+    },
+    {
+      "id": "places",
+      "title": "Places and movement",
+      "documents": [
+        "world/SETTING.md"
+      ]
+    },
+    {
+      "id": "factions",
+      "title": "Institutions and independent motives",
+      "documents": [
+        "world/SETTING.md"
+      ]
+    },
+    {
+      "id": "economy",
+      "title": "Ownership, access and supplies",
+      "documents": [
+        "world/SETTING.md"
+      ]
+    },
+    {
+      "id": "power",
+      "title": "Power laws and opening derivation",
+      "documents": [
+        "power/FOUNDATIONS.md",
+        "power/DEVELOPMENT.md"
+      ]
+    },
+    {
+      "id": "talent",
+      "title": "Complete-existence Adaptation Talent",
+      "documents": [
+        "power/ADAPTATION.md"
+      ]
+    },
+    {
+      "id": "souls",
+      "title": "Martial-soul expressions",
+      "documents": [
+        "power/FOUNDATIONS.md"
+      ]
+    },
+    {
+      "id": "rings",
+      "title": "Ring architecture and absorption research",
+      "documents": [
+        "power/RINGS_AND_COMBAT.md"
+      ]
+    },
+    {
+      "id": "skills",
+      "title": "Learned and ring-gift skills",
+      "documents": [
+        "power/RINGS_AND_COMBAT.md"
+      ]
+    },
+    {
+      "id": "combat",
+      "title": "Combat training and reliable feats",
+      "documents": [
+        "power/RINGS_AND_COMBAT.md"
+      ]
+    },
+    {
+      "id": "engineering",
+      "title": "Engineering, output and certification",
+      "documents": [
+        "power/ENGINEERING.md"
+      ]
+    },
+    {
+      "id": "knowledge",
+      "title": "Private knowledge and witnesses",
+      "documents": [
+        "plot/CONTINUITY.md"
+      ]
+    },
+    {
+      "id": "canon",
+      "title": "Source access, claims and medium crosswalk",
+      "documents": [
+        "canon/SOURCE_GUIDE.md"
+      ]
+    },
+    {
+      "id": "inventory",
+      "title": "Items, tools and possession",
+      "documents": [
+        "power/ENGINEERING.md"
+      ]
+    },
+    {
+      "id": "continuity",
+      "title": "Persistent scene changes",
+      "documents": [
+        "plot/CONTINUITY.md"
+      ]
+    },
+    {
+      "id": "routes",
+      "title": "Arcs, conflicts and butterflies",
+      "documents": [
+        "plot/OPENING.md",
+        "plot/CONTINUITY.md"
+      ]
+    },
+    {
+      "id": "voice",
+      "title": "Prose, POV and terminology",
+      "documents": [
+        "story/VOICE.md"
+      ]
+    },
+    {
+      "id": "foreshadowing",
+      "title": "Promises without predetermined outcomes",
+      "documents": [
+        "plot/CONTINUITY.md"
+      ]
+    },
+    {
+      "id": "workflow",
+      "title": "Chapter production and coverage plan",
+      "documents": [
+        "operations/WORKFLOW.md",
+        "plot/OPENING.md"
+      ]
+    },
+    {
+      "id": "governance",
+      "title": "Rails, panels, failures and handoff",
+      "documents": [
+        "story/CORE.md",
+        "operations/WORKFLOW.md",
+        "operations/CHANGELOG.md",
+        "HANDOFF.md"
+      ]
+    }
+  ],
+  "reading_sections": [
+    {
+      "title": "Story and people",
+      "documents": [
+        {
+          "path": "story/CORE.md",
+          "label": "Story and protagonist",
+          "purpose": "Premise, identity, personality and central story commitments."
+        },
+        {
+          "path": "story/CAST.md",
+          "label": "Cast and family map",
+          "purpose": "Contact map, family branch and links to individual relationships."
+        },
+        {
+          "path": "story/VOICE.md",
+          "label": "Voice and terminology",
+          "purpose": "POV, scene texture, craft targets and consistent terms."
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "documents": [
+        {
+          "path": "world/SETTING.md",
+          "label": "Setting and resources",
+          "purpose": "Places, institutions, access, supply and ownership."
+        }
+      ]
+    },
+    {
+      "title": "Power",
+      "documents": [
+        {
+          "path": "power/FOUNDATIONS.md",
+          "label": "Souls and inheritance",
+          "purpose": "What the two foundations contribute and how shared power works."
+        },
+        {
+          "path": "power/ADAPTATION.md",
+          "label": "Adaptation Talent",
+          "purpose": "Whole-existence application, prerequisites and real construction."
+        },
+        {
+          "path": "power/DEVELOPMENT.md",
+          "label": "Developmental route",
+          "purpose": "Conception-to-opening causal history and why the working build fits it."
+        },
+        {
+          "path": "power/RINGS_AND_COMBAT.md",
+          "label": "Rings and combat",
+          "purpose": "Original gifts, selection logic, trained spear and tactical application."
+        },
+        {
+          "path": "power/ENGINEERING.md",
+          "label": "Engineering and equipment",
+          "purpose": "Real making, teacher assessment, device roles and possession."
+        }
+      ]
+    },
+    {
+      "title": "Plot and continuity",
+      "documents": [
+        {
+          "path": "plot/OPENING.md",
+          "label": "Opening and later routes",
+          "purpose": "Chapter 1 scene purposes, endpoint, changed causes and conditional horizons."
+        },
+        {
+          "path": "plot/CONTINUITY.md",
+          "label": "Clock, knowledge and consequences",
+          "purpose": "Event owners, witnesses, pre-opening effects and persistent changes."
+        }
+      ]
+    },
+    {
+      "title": "Canon",
+      "documents": [
+        {
+          "path": "canon/SOURCE_GUIDE.md",
+          "label": "Sources and evidence",
+          "purpose": "Reviewed material, separate adaptations, numbering and exact limits."
+        }
+      ]
+    },
+    {
+      "title": "Working on the project",
+      "documents": [
+        {
+          "path": "operations/OPEN_WORK.md",
+          "label": "Remaining work",
+          "purpose": "The real pre-draft blocker and later scene-specific duties."
+        },
+        {
+          "path": "operations/WORKFLOW.md",
+          "label": "Workflow and publication",
+          "purpose": "One-owner rules, chapter process, checks and defect handling."
+        },
+        {
+          "path": "operations/CHANGELOG.md",
+          "label": "Work history",
+          "purpose": "Dated project changes, not fictional elapsed time."
+        }
+      ]
+    }
+  ]
+}

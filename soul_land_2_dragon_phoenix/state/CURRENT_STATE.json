@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-22",
+  "updated": "2026-10-23",
   "project": {
     "id": "sl2-dragon-phoenix",
     "working_title": "The Dragon and the Phoenix",
@@ -666,7 +666,7 @@
       "description": "Derive numerical opening state and supported capabilities",
       "status": "resolved",
       "closure_evidence": [
-        "foundation/DEVELOPMENT_DERIVATION.md",
+        "power/DEVELOPMENT.md",
         "state/development_events.json"
       ]
     },
@@ -675,7 +675,7 @@
       "description": "Resolve ring donors, histories and two-soul progression",
       "status": "resolved",
       "closure_evidence": [
-        "foundation/RING_PLAN.md",
+        "power/RINGS_AND_COMBAT.md",
         "state/development_events.json"
       ]
     },
@@ -684,7 +684,7 @@
       "description": "Verify and develop engineering history, output and certification",
       "status": "resolved",
       "closure_evidence": [
-        "foundation/SOUL_ENGINEERING.md",
+        "power/ENGINEERING.md",
         "N10",
         "N11",
         "N12"
@@ -701,8 +701,7 @@
       "description": "Evaluate pre-opening institutional/family/condition butterflies",
       "status": "resolved",
       "closure_evidence": [
-        "foundation/BUTTERFLY_REGISTER.md",
-        "foundation/PREOPENING_CONSEQUENCES.md"
+        "plot/CONTINUITY.md"
       ]
     },
     {
@@ -710,8 +709,8 @@
       "description": "Finish opening witnesses, inventory, age alignment and trip history",
       "status": "resolved",
       "closure_evidence": [
-        "foundation/KNOWLEDGE_FIREWALL.md",
-        "foundation/INVENTORY.md",
+        "plot/CONTINUITY.md",
+        "power/ENGINEERING.md",
         "state/development_events.json"
       ]
     }

@@ -1,8 +1,9 @@
-# File map — generated
+# Complete file inventory
 
-One project home; no prose or media has been published.
+For reading, start with [README](README.md) or the [subject guide](FOUNDATION_INDEX.md).
+This is a generated inventory, not another owner of story facts.
 
-Regenerate with `python3 tools/manage.py build`.
+## Reader entry points
 
 - [AGENTS.md](AGENTS.md)
 - [CODEX.md](CODEX.md)
@@ -12,69 +13,43 @@ Regenerate with `python3 tools/manage.py build`.
 - [OPENING_BUILD.md](OPENING_BUILD.md)
 - [README.md](README.md)
 - [STATUS.md](STATUS.md)
-- [audits/2026-10-22-image-search-and-expansion.json](audits/2026-10-22-image-search-and-expansion.json)
-- [audits/BASELINE_AND_BUILD.md](audits/BASELINE_AND_BUILD.md)
-- [audits/PRECHAPTER_REVIEW.md](audits/PRECHAPTER_REVIEW.md)
-- [audits/PRECHAPTER_SCOPE.json](audits/PRECHAPTER_SCOPE.json)
-- [audits/PROTECTED_SCOPE.json](audits/PROTECTED_SCOPE.json)
-- [audits/verification.json](audits/verification.json)
-- [canon_coverage/CHAPTER_001.json](canon_coverage/CHAPTER_001.json)
-- [canon_coverage/CHAPTER_001_PLAN.md](canon_coverage/CHAPTER_001_PLAN.md)
-- `chapters/.gitkeep` — empty chapter-directory marker, not a chapter
-- [checks/run_all.sh](checks/run_all.sh)
-- [foundation/ADAPTATION_MODULE.md](foundation/ADAPTATION_MODULE.md)
-- [foundation/AUTHOR_RULINGS.json](foundation/AUTHOR_RULINGS.json)
-- [foundation/BLOODLINES.md](foundation/BLOODLINES.md)
-- [foundation/BUTTERFLY_REGISTER.md](foundation/BUTTERFLY_REGISTER.md)
-- [foundation/CANON_ACCESS.md](foundation/CANON_ACCESS.md)
-- [foundation/CANON_LEDGER.md](foundation/CANON_LEDGER.md)
-- [foundation/CHAPTER_WORKFLOW.md](foundation/CHAPTER_WORKFLOW.md)
-- [foundation/CHARACTER.md](foundation/CHARACTER.md)
-- [foundation/CHARACTERS.md](foundation/CHARACTERS.md)
-- [foundation/COMBAT.md](foundation/COMBAT.md)
-- [foundation/CONFLICTS.md](foundation/CONFLICTS.md)
-- [foundation/CONTINUITY.md](foundation/CONTINUITY.md)
-- [foundation/DEVELOPMENT.md](foundation/DEVELOPMENT.md)
-- [foundation/DEVELOPMENT_DERIVATION.md](foundation/DEVELOPMENT_DERIVATION.md)
-- [foundation/ECONOMY.md](foundation/ECONOMY.md)
-- [foundation/FACTIONS.md](foundation/FACTIONS.md)
-- [foundation/FAILURES.md](foundation/FAILURES.md)
-- [foundation/FAMILY_TREE.md](foundation/FAMILY_TREE.md)
-- [foundation/FILE_REQUIREMENTS.json](foundation/FILE_REQUIREMENTS.json)
-- [foundation/FORESHADOWING.md](foundation/FORESHADOWING.md)
-- [foundation/FOUNDATION.md](foundation/FOUNDATION.md)
-- [foundation/GLOSSARY.md](foundation/GLOSSARY.md)
-- [foundation/IDENTITY.md](foundation/IDENTITY.md)
-- [foundation/INVENTORY.md](foundation/INVENTORY.md)
-- [foundation/KNOWLEDGE_FIREWALL.md](foundation/KNOWLEDGE_FIREWALL.md)
-- [foundation/MARTIAL_SOULS.md](foundation/MARTIAL_SOULS.md)
-- [foundation/OPENING_STATE_REVIEW.md](foundation/OPENING_STATE_REVIEW.md)
-- [foundation/OPEN_WORK.md](foundation/OPEN_WORK.md)
-- [foundation/PANELS.md](foundation/PANELS.md)
-- [foundation/PLACES.md](foundation/PLACES.md)
-- [foundation/POWER_SYSTEM.md](foundation/POWER_SYSTEM.md)
-- [foundation/PREOPENING_CONSEQUENCES.md](foundation/PREOPENING_CONSEQUENCES.md)
-- [foundation/RAILS.md](foundation/RAILS.md)
-- [foundation/RELATIONSHIPS.md](foundation/RELATIONSHIPS.md)
-- [foundation/RESOURCES.md](foundation/RESOURCES.md)
-- [foundation/RING_PLAN.md](foundation/RING_PLAN.md)
-- [foundation/SERIAL_LOG.md](foundation/SERIAL_LOG.md)
-- [foundation/SKILLS_CANON.md](foundation/SKILLS_CANON.md)
-- [foundation/SOUL_ENGINEERING.md](foundation/SOUL_ENGINEERING.md)
-- [foundation/SOURCE_CROSSWALK.md](foundation/SOURCE_CROSSWALK.md)
-- [foundation/STORY_ARCS.md](foundation/STORY_ARCS.md)
-- [foundation/TIMELINE.md](foundation/TIMELINE.md)
-- [foundation/VOICE_AND_SCENES.md](foundation/VOICE_AND_SCENES.md)
-- [foundation/WRITING_RULES.md](foundation/WRITING_RULES.md)
-- [relationships/ANCESTRY_AND_CONTACTS.md](relationships/ANCESTRY_AND_CONTACTS.md)
-- [relationships/ELDERS.md](relationships/ELDERS.md)
-- [relationships/MA_XIAOTAO.md](relationships/MA_XIAOTAO.md)
-- [relationships/PARENTS.md](relationships/PARENTS.md)
-- [relationships/STREAM_PARTY.md](relationships/STREAM_PARTY.md)
-- [research/GITHUB_FOUNDATION_REVIEW.md](research/GITHUB_FOUNDATION_REVIEW.md)
-- [research/PRIMARY_STUDY_2026-10-22.md](research/PRIMARY_STUDY_2026-10-22.md)
-- [research/RESEARCH_NOTES.md](research/RESEARCH_NOTES.md)
-- [research/SOURCE_RECEIPTS.json](research/SOURCE_RECEIPTS.json)
+
+## story
+
+- [story/CAST.md](story/CAST.md)
+- [story/CORE.md](story/CORE.md)
+- [story/VOICE.md](story/VOICE.md)
+- [story/relationships/ANCESTRY_AND_CONTACTS.md](story/relationships/ANCESTRY_AND_CONTACTS.md)
+- [story/relationships/ELDERS.md](story/relationships/ELDERS.md)
+- [story/relationships/MA_XIAOTAO.md](story/relationships/MA_XIAOTAO.md)
+- [story/relationships/PARENTS.md](story/relationships/PARENTS.md)
+- [story/relationships/STREAM_PARTY.md](story/relationships/STREAM_PARTY.md)
+
+## world
+
+- [world/SETTING.md](world/SETTING.md)
+
+## power
+
+- [power/ADAPTATION.md](power/ADAPTATION.md)
+- [power/DEVELOPMENT.md](power/DEVELOPMENT.md)
+- [power/ENGINEERING.md](power/ENGINEERING.md)
+- [power/FOUNDATIONS.md](power/FOUNDATIONS.md)
+- [power/RINGS_AND_COMBAT.md](power/RINGS_AND_COMBAT.md)
+
+## plot
+
+- [plot/CHAPTER_001.json](plot/CHAPTER_001.json)
+- [plot/CONTINUITY.md](plot/CONTINUITY.md)
+- [plot/OPENING.md](plot/OPENING.md)
+
+## canon
+
+- [canon/SOURCE_GUIDE.md](canon/SOURCE_GUIDE.md)
+- [canon/SOURCE_RECEIPTS.json](canon/SOURCE_RECEIPTS.json)
+
+## state
+
 - [state/CURRENT_STATE.json](state/CURRENT_STATE.json)
 - [state/FILE_MANIFEST.json](state/FILE_MANIFEST.json)
 - [state/TIMELINE.json](state/TIMELINE.json)
@@ -84,7 +59,40 @@ Regenerate with `python3 tools/manage.py build`.
 - [state/development_events.json](state/development_events.json)
 - [state/resource_events.json](state/resource_events.json)
 - [state/ring_candidates.json](state/ring_candidates.json)
+
+## operations
+
+- [operations/AUTHOR_RULINGS.json](operations/AUTHOR_RULINGS.json)
+- [operations/CHANGELOG.md](operations/CHANGELOG.md)
+- [operations/FILE_REQUIREMENTS.json](operations/FILE_REQUIREMENTS.json)
+- [operations/OPEN_WORK.md](operations/OPEN_WORK.md)
+- [operations/WORKFLOW.md](operations/WORKFLOW.md)
+
+## records
+
+- [records/organization/2026-10-23.json](records/organization/2026-10-23.json)
+- [records/research/2026-10-22-github-review.md](records/research/2026-10-22-github-review.md)
+- [records/research/2026-10-22-primary-study.md](records/research/2026-10-22-primary-study.md)
+- [records/reviews/2026-10-22/2026-10-22-image-search-and-expansion.json](records/reviews/2026-10-22/2026-10-22-image-search-and-expansion.json)
+- [records/reviews/2026-10-22/BASELINE_AND_BUILD.md](records/reviews/2026-10-22/BASELINE_AND_BUILD.md)
+- [records/reviews/2026-10-22/PRECHAPTER_REVIEW.md](records/reviews/2026-10-22/PRECHAPTER_REVIEW.md)
+- [records/reviews/2026-10-22/PRECHAPTER_SCOPE.json](records/reviews/2026-10-22/PRECHAPTER_SCOPE.json)
+- [records/reviews/2026-10-22/PROTECTED_SCOPE.json](records/reviews/2026-10-22/PROTECTED_SCOPE.json)
+- [records/reviews/2026-10-22/verification.json](records/reviews/2026-10-22/verification.json)
+- [records/verification.json](records/verification.json)
+
+## chapters
+
+- `chapters/.gitkeep` — empty directory marker; no chapter.
+
+## checks
+
+- [checks/run_all.sh](checks/run_all.sh)
+
+## tools
+
 - [tools/manage.py](tools/manage.py)
 - [tools/preflight.py](tools/preflight.py)
 - [tools/test_foundation.py](tools/test_foundation.py)
+- [tools/test_organization.py](tools/test_organization.py)
 - [tools/test_preflight.py](tools/test_preflight.py)

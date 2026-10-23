@@ -8,65 +8,84 @@ import json
 def opening_build_text(root):
     s = json.loads((root/'state/CURRENT_STATE.json').read_text())
     o = s['opening_state']
-    lines = ['# Opening build — generated from current state', '',
-             '**Delegated, author-revisable fiction design. Not a canon OC stat sheet,**',
-             '**not a newly quoted author ruling, and not written chapter history.**', '',
-             'Owner: [CURRENT_STATE.json](state/CURRENT_STATE.json).',
-             'Route: [development derivation](foundation/DEVELOPMENT_DERIVATION.md).',
-             'Regenerate with `python3 tools/manage.py build`.', '', '## Checkpoint', '']
-    for key in ('exact_age', 'innate_soulforce', 'cultivation_rank'):
-        lines.append('- **'+key.replace('_', ' ').title()+':** '+str(o[key]))
-    lines += ['', '## Whole foundation', '']
-    for key in ('reserves', 'physique', 'soul_capacity', 'bloodline_expression'):
-        lines += ['### '+key.replace('_',' ').title(), '']
-        value = o[key]
-        if isinstance(value, dict):
-            lines += ['- **'+k.replace('_',' ').title()+':** '+str(v) for k,v in value.items()]
+    lines = ['# Yan Jingheng — opening character dossier', '',
+             'Generated from [the current record](state/CURRENT_STATE.json). This is',
+             'revisable original-fiction design under delegation, not a canon OC stat sheet.', '',
+             '## At a glance', '',
+             '| Identity | Opening position |', '|---|---|',
+             f"| Name | {s['identity']['working_name']} / {s['identity']['hanzi']} |",
+             f"| Age | {o['exact_age']} |",
+             f"| Cultivation | Rank {o['cultivation_rank']} — Soul King |",
+             f"| Innate reading | {o['innate_soulforce']} |",
+             '| Martial souls | Bright Phoenix; Evil-Dispelling Dragon Soul Spear |',
+             '| Talent | Adaptation Talent, present from conception |',
+             '| Family | Son of Yan Shaozhe and Cai Mei’er; native-born |', '',
+             'Personality and story: [Core](story/CORE.md). Family map: [Cast](story/CAST.md).', '',
+             '## Appearance', '']
+    appearance=s['identity'].get('appearance',{})
+    for key in ('hair','eyes','build','clothing'):
+        if key in appearance:
+            lines.append('- **'+key.title()+':** '+appearance[key])
+    lines += ['', '## Body, soul and energy', '']
+    labels={'reserves':'Reserves and control','physique':'Body','soul_capacity':'Soul and attention'}
+    for key,label in labels.items():
+        value=o[key]
+        lines += ['### '+label,'']
+        if isinstance(value,dict):
+            lines += [value['description'],'','**Established in the authored history:** '+value['demonstrated'].replace('P1–P5','the five acquired rings').replace('P4/P5 black rings','fourth and fifth black rings'),'']
         else:
-            lines.append('Undetermined' if value is None else str(value))
-        lines.append('')
-    lines += ['## Rings', '', 'All present donors/skills are original design, not claimed canon species.', '',
-              '| Slot | Soul | Nominal/current age | Color | Original donor | Skill |',
-              '|---|---|---|---|---|---|']
-    for soul,key in [('Phoenix','phoenix_rings'), ('Spear','spear_rings')]:
-        for ring in o[key] or []:
-            lines.append(f"| {ring['slot']} | {soul} | {ring['donor_cultivation_age']} / {ring['current_age']} | {ring['color']} | {ring['donor']} | {ring['skill']['name']} |")
-        if o[key] == []:
-            lines.append('| — | '+soul+' | — | — | No rings assigned | Trained manifestation, not dormant |')
-    lines += ['', 'The [ring plan](foundation/RING_PLAN.md) explains compatibility and limits.', '',
-              '## Combat and craft', '']
-    for key in ('combat_capabilities', 'engineering_proficiency', 'engineering_certification'):
-        lines += ['### '+key.replace('_',' ').title(), '']
-        value = o[key]
-        if isinstance(value, dict):
-            for k,v in value.items():
-                lines += ['**'+k.replace('_',' ').title()+'**']
-                if isinstance(v,list):
-                    lines += ['- '+str(x) for x in v]
-                elif isinstance(v,dict):
-                    lines += ['- **'+a.replace('_',' ').title()+':** '+str(b) for a,b in v.items()]
-                else:
-                    lines += [str(v)]
-                lines.append('')
-        else:
-            lines += [str(value),'']
-    lines += ['## Actual carried equipment', '']
+            lines += ['Not yet determined.','']
+    blood=o['bloodline_expression']
+    if isinstance(blood,dict):
+        lines += ['### Inherited expression','',blood['phoenix'],'',blood['dragon'],'',blood['integration'],'']
+    lines += ['## Rings and gifts', '',
+              'The donors and gifts below are original fanfiction designs. Ages are nominal',
+              'cultivation-age estimates; no passive calendar-aging mechanism is claimed.', '',
+              '| Ring | Donor | Acquired/current age | Color | Gift |', '|---|---|---|---|---|']
+    for ring in o['phoenix_rings'] or []:
+        lines.append(f"| {ring['slot']} | {ring['donor']} | {ring['donor_cultivation_age']:,} / {ring['current_age']:,} | {ring['color']} | {ring['skill']['name']} |")
+    lines += ['', '**Spear:** no rings at opening; genuinely practiced, not dormant.', '']
+    for ring in o['phoenix_rings'] or []:
+        skill=ring['skill'];lines += ['### '+skill['name'],'',skill['effect'],'', '**Scope:** '+skill['scope'],'']
+    lines += ['Route and compatibility: [Development](power/DEVELOPMENT.md).',
+              'Tactical application: [Rings and combat](power/RINGS_AND_COMBAT.md).','',
+              '## Learned fighting style','']
+    combat=o['combat_capabilities']
+    if isinstance(combat,dict):
+        lines += ['- '+x for x in combat['learned']]
+        dual=combat['dual_expression']
+        lines += ['','### '+dual['name'],'',dual['route'],'',dual['reliable'],'',dual['developing'],'',
+                  '### Established training feats','']
+        lines += ['- '+x for x in combat['feats']]
+    eng=o['engineering_proficiency']
+    lines += ['','## Engineering','']
+    if isinstance(eng,dict):
+        lines += [eng['instruction'],'']+['- '+x for x in eng['reliable']]
+        lines += ['',eng['advanced_work'],'',
+                  '**Certification:** actual workshop assessment; no external numbered certificate asserted.','']
+    lines += ['## Owned and authorized equipment','','| Item | Function | Source |','|---|---|---|']
     for item in o['equipment'] or []:
-        lines += ['### '+item['id']+' — '+item['name'], '']
-        for k,v in item.items():
-            if k not in {'id','name'}:
-                lines.append('- **'+k.replace('_',' ').title()+':** '+('; '.join(v) if isinstance(v,list) else str(v)))
-        lines.append('')
-    lines += ['## Disclosures and trip', '',
-              '**Named twin-soul witnesses:** '+', '.join(s['relationships']['exact_witnesses'] or [])+'.', '']
+        lines.append('| '+item['name']+' | '+item.get('function','Storage for recorded ordinary provisions/tools')+' | '+item['source']+' |')
+    lines.append('')
+    for item in o['equipment'] or []:
+        lines.append('- **'+item['name']+':** '+item['limits'])
+        if 'capacity' in item:lines.append('  Capacity: '+item['capacity']+'.')
+        if 'contents' in item:lines.append('  Contents: '+'; '.join(item['contents'])+'.')
+        if 'power' in item:lines.append('  Power: '+item['power']+'.')
+    lines += ['','## Disclosures and trip','',
+              '**Named twin-soul witnesses:** '+', '.join(s['relationships']['exact_witnesses'] or [])+'.','']
     trip=s['opening']['trip_history']
     if isinstance(trip,dict):
-        lines += ['- **'+k.title()+':** '+str(v) for k,v in trip.items() if k!='source_refs']
-    else:
-        lines.append(str(trip))
-    lines += ['', '## Readiness is separate', '',
-              'Read [STATUS.md](STATUS.md) and the [pre-chapter review](audits/PRECHAPTER_REVIEW.md).',
-              'A complete working build does not certify visual references or authorize prose.', '']
+        friendly={'purpose':'Purpose','companions':'Companions','permission':'Permission','bounds':'Route boundary',
+                  'huo_contact':'First meeting','knowledge':'Companions’ knowledge','institutional_position':'Academy position'}
+        lines += ['- **'+label+':** '+trip[key] for key,label in friendly.items() if key in trip]
+    lines += ['','## Limits of the record','',
+              'Training feats are original off-page history, not published scenes or universal',
+              'matchup guarantees. No infinite reserves, third soul, inherited learned memory,',
+              'automatic mental immunity, universal purification or external cure aura is claimed.',
+              'Ma’s future and later personal evolution remain open. No deleted image asset is used.','',
+              '**Chapter readiness is separate:** see [Status](STATUS.md) and [Open work](operations/OPEN_WORK.md).',
+              'Regenerate this view with `python3 tools/manage.py build`; do not edit live values here.','']
     return '\n'.join(lines)
 
 
@@ -86,7 +105,7 @@ def validate_preflight(root, s, sources, require):
         require('R17' in authority.get('ruling_refs',[]), 'opening design needs current delegation')
         design=sources.get('DESIGN01',{})
         require(design.get('medium')=='project-design' and design.get('status')=='delegated-design' and not design.get('scene_reviewed'), 'original design cannot masquerade as external primary evidence')
-        required_docs=['foundation/DEVELOPMENT_DERIVATION.md','foundation/PREOPENING_CONSEQUENCES.md']
+        required_docs=['power/DEVELOPMENT.md','plot/CONTINUITY.md']
         for name in required_docs:
             p=root/name
             require(p.is_file() and len(p.read_text().split())>=150, 'missing substantive preflight support: '+name)
@@ -151,5 +170,5 @@ def validate_preflight(root, s, sources, require):
         for item in o['equipment'] or []:
             require(all(item.get(k) for k in ('id','name','owner','source','limits')), 'equipment needs identity, ownership, provenance and limits')
     if work['W05']['status']=='resolved':
-        p=root/'foundation/PREOPENING_CONSEQUENCES.md'
+        p=root/'plot/CONTINUITY.md'
         require(p.is_file() and len(p.read_text().split())>=150, 'butterfly closure needs substantive consequence assessment')

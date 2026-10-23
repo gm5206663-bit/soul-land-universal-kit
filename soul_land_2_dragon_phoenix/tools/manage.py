@@ -65,7 +65,7 @@ def status_text(root):
              'The name and title are delegated design, not verbatim author wording.',
              'The approved parental/twin-soul/ancestry/upbringing premises are recorded in the current state.',
              ('Opening build is accepted delegated fiction design, not a canon-deduced or newly author-quoted numerical result.' if s.get('opening_state_authority') else 'No opening numerical power panel has been accepted. Null means undetermined, not zero.'),
-             'Read [the generated opening build](OPENING_BUILD.md) and [causal route](foundation/DEVELOPMENT_DERIVATION.md).', '',
+             'Read [the generated opening build](OPENING_BUILD.md) and [causal route](power/DEVELOPMENT.md).', '',
              '## Chapter readiness', '']
     b = blockers(root)
     lines.append('**BLOCKED — do not draft or publish Chapter 1.**' if b else '**All recorded readiness prerequisites resolved; run the full gate before drafting.**')
@@ -73,51 +73,78 @@ def status_text(root):
     lines += ['', '## Evidence boundary', '',
               'Novel 1.1–1.4, 2.1–2.4, 9.4 and 10.1–10.2 read; see precise receipts and access limits.',
               'No manhua panel or donghua timestamp map is claimed complete.',
-              'See [receipts](research/SOURCE_RECEIPTS.json), [crosswalk](foundation/SOURCE_CROSSWALK.md)',
-              'and [open work](foundation/OPEN_WORK.md).', '',
+              'See [receipts](canon/SOURCE_RECEIPTS.json), [crosswalk](canon/SOURCE_GUIDE.md)',
+              'and [open work](operations/OPEN_WORK.md).', '',
               'Structural PASS is separate from this readiness result and from creative acceptance.', '']
     return '\n'.join(lines)
 
 
 def codex_text(names):
-    lines = ['# File map — generated', '', 'One project home; no prose or media has been published.', '',
-             'Regenerate with `python3 tools/manage.py build`.', '']
-    for name in names:
-        if name.endswith('.gitkeep'):
-            lines.append('- `'+name+'` — empty chapter-directory marker, not a chapter')
-        else:
-            lines.append(f'- [{name}]({name})')
-    return '\n'.join(lines) + '\n'
-
-
-def foundation_index_text(root):
-    coverage = read(root, 'foundation/FILE_REQUIREMENTS.json')
-    lines = ['# Complete foundation index — generated', '',
-             'Practical file architecture is present. This is not a declaration that all',
-             'opening numbers, source mappings or future decisions are resolved.', '',
-             'Working story: **The Dragon and the Phoenix**, with **Yan Jingheng**.',
-             'Read [status](STATUS.md) for actual readiness and [all files](CODEX.md) for the inventory.', '',
-             '## Foundation functions', '']
-    for category in coverage['categories']:
-        lines += ['### '+category['title'], '']
-        lines += ['- ['+p.split('/')[-1]+']('+p+')' for p in category['documents']]
-        lines += ['']
-    lines += ['## Structured owners', '',
-              '- [Current state](state/CURRENT_STATE.json): accepted premise and delegated opening checkpoint.',
-              '- [Timeline graph](state/TIMELINE.json): relative source/planning order, not written scenes.',
-              '- [Continuity events](state/continuity_events.json): written scene changes; currently empty.',
-              '- [Author rulings](foundation/AUTHOR_RULINGS.json): exact available wording and provenance limits.',
-              '- [Source receipts](research/SOURCE_RECEIPTS.json): read, located, partial and unreviewed scopes.',
-              '- [Coverage requirements](foundation/FILE_REQUIREMENTS.json): file-presence/content contract.',
-              '- [GitHub review](research/GITHUB_FOUNDATION_REVIEW.md): structural references, no holder transfer.',
-              '', '## What remains', '',
-              'The file set is expanded, but [open research work](foundation/OPEN_WORK.md) remains.',
-              'No chapter, artwork or research-image pack has been published.', '']
+    lines = ['# Complete file inventory', '',
+             'For reading, start with [README](README.md) or the [subject guide](FOUNDATION_INDEX.md).',
+             'This is a generated inventory, not another owner of story facts.', '']
+    groups = [('Reader entry points', [n for n in names if '/' not in n])]
+    for folder in ['story','world','power','plot','canon','state','operations','records','chapters','checks','tools']:
+        groups.append((folder, [n for n in names if n.startswith(folder+'/')]))
+    known = {n for _, entries in groups for n in entries}
+    if set(names)-known:
+        groups.append(('Other files', sorted(set(names)-known)))
+    for title, entries in groups:
+        if not entries:
+            continue
+        lines += ['## '+title, '']
+        for name in entries:
+            if name.endswith('.gitkeep'):
+                lines.append('- `'+name+'` — empty directory marker; no chapter.')
+            else:
+                lines.append('- ['+name+']('+name+')')
+        lines.append('')
     return '\n'.join(lines)
 
 
+def foundation_index_text(root):
+    coverage = read(root, 'operations/FILE_REQUIREMENTS.json')
+    lines = ['# Reading guide — one owner for each subject', '',
+             'Start with [the story](story/CORE.md), [the opening dossier](OPENING_BUILD.md)',
+             'and [the scene plan](plot/OPENING.md). Then use the subject you need below.', '',
+             'These are integrated working documents, not one-file-per-heading checklists.',
+             'Current readiness is in [Status](STATUS.md); historical records are not live state.', '']
+    for section in coverage['reading_sections']:
+        lines += ['## '+section['title'], '', '| Read | What it owns |', '|---|---|']
+        for item in section['documents']:
+            lines += ['| ['+item['label']+']('+item['path']+') | '+item['purpose']+' |']
+        lines += ['']
+    lines += ['## Exact records and full inventory', '',
+              '- [Current checkpoint](state/CURRENT_STATE.json) and [development history](state/development_events.json).',
+              '- [Author decisions](operations/AUTHOR_RULINGS.json) and [source receipts](canon/SOURCE_RECEIPTS.json).',
+              '- [Full file inventory](CODEX.md), including dated records and technical tools.',
+              '- [Continuation handoff](HANDOFF.md).', '',
+              'This guide is generated from operations/FILE_REQUIREMENTS.json. Change a subject',
+              'at its owner; regenerate navigation instead of maintaining another current copy.', '']
+    return '\n'.join(lines)
+
+
+def validate_organization(root, require):
+    coverage = read(root, 'operations/FILE_REQUIREMENTS.json')
+    entries = [item for section in coverage['reading_sections'] for item in section['documents']]
+    paths = [item['path'] for item in entries]
+    require(len(paths) == len(set(paths)), 'reading guide must not duplicate live subject owners')
+    for item in entries:
+        require(bool(item['label']) and bool(item['purpose']), 'navigation needs meaningful labels and responsibilities')
+        require((root/item['path']).is_file(), 'reading guide target is missing')
+        target = root/item['path']
+        if target.is_file():
+            require(len(re.findall(r'^# ', target.read_text(), re.M)) == 1, 'integrated subject needs one main title, not pasted old documents')
+    for old in ['foundation', 'relationships', 'research', 'canon_coverage', 'audits']:
+        require(not (root/old).exists(), 'superseded flat layout must not return: '+old)
+    required = {p for c in coverage['categories'] for p in c['documents']}
+    allowed_extra = {'HANDOFF.md'} | {p for p in required if p.startswith('story/relationships/')}
+    require(required <= set(paths) | allowed_extra, 'functional coverage lacks a clear subject owner in the guide')
+    require(all((root/p).is_file() for p in ['README.md','OPENING_BUILD.md','story/CORE.md','plot/OPENING.md']), 'reader entry points must exist')
+
+
 def validate_expansion(root, require):
-    coverage = read(root, 'foundation/FILE_REQUIREMENTS.json')
+    coverage = read(root, 'operations/FILE_REQUIREMENTS.json')
     ids = [c['id'] for c in coverage['categories']]
     require(set(ids) == COVERAGE_IDS and len(ids) == len(COVERAGE_IDS), 'foundation coverage categories cannot disappear or duplicate')
     threshold = coverage['minimum_words_per_document']
@@ -167,10 +194,10 @@ def validate(root, check_generated=True):
             errors.append(message)
     try:
         s = read(root, 'state/CURRENT_STATE.json')
-        rulings = read(root, 'foundation/AUTHOR_RULINGS.json')['rulings']
-        sources = read(root, 'research/SOURCE_RECEIPTS.json')['sources']
+        rulings = read(root, 'operations/AUTHOR_RULINGS.json')['rulings']
+        sources = read(root, 'canon/SOURCE_RECEIPTS.json')['sources']
         proposal = read(root, 'state/design_proposals.json')
-        plan = read(root, 'canon_coverage/CHAPTER_001.json')
+        plan = read(root, 'plot/CHAPTER_001.json')
         rs = {r['id']: r for r in rulings}
         ss = {x['id']: x for x in sources}
         require(len(rs) == len(rulings), 'duplicate ruling ID')
@@ -267,6 +294,7 @@ def validate(root, check_generated=True):
             for event in log['events']:
                 require(all(k in event for k in log['required_event_fields']), 'incomplete event in '+name)
         validate_expansion(root, require)
+        validate_organization(root, require)
         validate_preflight(root, s, ss, require)
         all_files = files(root)
         for name in all_files:
@@ -296,8 +324,8 @@ def build(root):
     (root/'OPENING_BUILD.md').write_text(opening_build_text(root), encoding='utf-8')
     (root/'STATUS.md').write_text(status_text(root), encoding='utf-8')
     (root/'FOUNDATION_INDEX.md').write_text(foundation_index_text(root), encoding='utf-8')
-    if not (root/'audits/verification.json').exists():
-        write_json(root/'audits/verification.json', {'status':'not-yet-run'})
+    if not (root/'records/verification.json').exists():
+        write_json(root/'records/verification.json', {'status':'not-yet-run'})
     names = sorted(set(files(root)) | GENERATED)
     (root/'CODEX.md').write_text(codex_text(names), encoding='utf-8')
     write_json(root/'state/FILE_MANIFEST.json', {'schema_version':1,'scope':'All project files, including this manifest; caches excluded. Inventory, not a circular content hash.','files':names})
@@ -333,7 +361,7 @@ def main():
             print('FAIL: selftest report could not be certified')
             print(run.stdout + run.stderr)
             return 1
-        write_json(ROOT/'audits/verification.json', {
+        write_json(ROOT/'records/verification.json', {
             'date':read(ROOT, 'state/CURRENT_STATE.json')['updated'], 'structural_integrity':'PASS',
             'selftests':{'command':'python3 -m unittest discover -s tools -p test_*.py', 'cases':int(found.group(1)), 'result':'PASS'},
             'chapter_readiness':'BLOCKED' if b else 'READY',
