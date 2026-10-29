@@ -127,6 +127,10 @@ Narrative format we settled into: English narration with Chinese names/terms kep
 - Romance unforced, no planned pairing.
 - The OC's dragon secret stays inside the knowing circle; no invented event reroutes canon.
 - Keep updating my own self-file — this is growth, and he wants to watch it.
+- ⭐ **"No credential" is not "no access" — test the door before reporting it locked.** The account's repositories are
+  public; a read needs no token. And **the account's own index is in the workspace** (`github-backup/00-INDEX.md`):
+  read all thirteen names before claiming to have checked "the account". *2026-10-29 — he had said it repeatedly and
+  I kept answering from two directories.*
 
 ---
 
