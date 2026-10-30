@@ -142,3 +142,88 @@ registered books unaccounted for, **33 of 33 chapter-bearing trees** classified 
 1. **Regenerate, don't retype.** `python3 SOUL_LAND_UNIVERSAL_KIT/tools/register.py --root . --out REGISTER.md` after any chapter ships.
 2. **The kit's gate now stamps what it governs.** `tools/check.py --strict` covers the manifest; run it before saying the corpus is in order.
 3. **A shipped chapter updates three things in the same commit:** its `SERIAL_LOG.md` row, `PROJECTS.md`'s count, and `REGISTER.md`'s regeneration. ch8 did the first and skipped the other two — which is exactly how a corpus of 1.2 million words ends up one chapter short of its own record.
+
+---
+
+# Addendum — the name rule, measured (2026-10-30, later the same day)
+
+## I nearly broke the corpus
+
+Drafting a "fix" for the ch8 name flag, I had a mass replacement ready: `Lan Yue` → `Lang Yue`
+across 105 lines of records, on the strength of one count — canon spells Wulin's mother
+**66 × "Lang Yue" · 8 × "Lan Yue" · 3 × "LANG YUE"**, so the g-form wins.
+
+Then the codex stopped me:
+
+```
+LANG YUE  (with a g)  = canon. TANG WULIN'S MOTHER.
+LAN  YUE  (no g)      = AU-ORIGINAL. LAN SHEN'S SISTER.
+```
+
+**They are two different people, separated by one letter, deliberately.** That replacement would
+have merged an OC into a canon character across five chapters of shipped prose — the exact failure
+the file exists to prevent. Measured before anything was written; nothing was written.
+
+## What the flag in REVISION 12 actually was
+
+> *"NAME CONFLICT (author call): the mother is 'Lang Yue' in shipped text and codex; CONTINUITY
+> row 6 and the canon 011 receipt note say 'Lan Yue'."*
+
+**Settled by count, and closed.** Canon spells the mother both ways. "Lan Yue" in those records is
+an alternative spelling of the same woman, not a second person. The house form is right; the shipped
+text matches it. No conflict, no ruling needed.
+
+## What the measurement found instead
+
+`codex/CHARACTERS.md` states:
+
+> *"No shipped chapter uses both spellings. Ch1, 4-9 use only Lan Yue; ch3 and ch10 use only Lang
+> Yue. That separation is load-bearing and must be maintained."*
+
+Measured across all eight shipped chapters:
+
+| | |
+|---|---:|
+| `"Lan Yue"` | **0** |
+| `"Lang Yue"` | **46** |
+
+ch2 ×8 · ch4 ×10 · ch5 ×10 · ch7 ×8 · ch8 ×10; ch1, ch3 and ch6 name her not at all.
+
+**The claim is false for every chapter it lists.** And it names ch10, which does not exist — the
+serial's edge is ch8.
+
+Two readings, and they are not equivalent:
+
+**(a) The codex is right and the prose collapsed the sister.** Then five chapters need a naming
+sweep. Supporting it: the noodle-street washer job — six to eleven, eleven federation coins,
+starting Monday — is given on the page to **Lang Yue**, while the codex assigns *"the noodle-street
+job"* to the sister. And `CANON_LEDGER` row 69 stages canon 011's job-hunt for Lang Yue at ch13, so
+the same job may be staged twice, once per woman.
+
+**(b) The codex is wrong and only the mother is named.** Then the sister has never reached the page,
+and a rule the serial calls load-bearing governs a character who does not appear.
+
+**Neither reading was adopted.** (a) means rewriting five shipped chapters; (b) means deleting a
+rule the corpus treats as load-bearing. The evidence is recorded in the codex block itself, marked
+**MEASURED — AWAITING RULING**, and `SERIAL_LOG` REVISION 14 carries the same. No name changed, no
+prose touched.
+
+## Two smaller things, also measured
+
+**The `?`/`!` detector had the line-wrap bug the log already documented.** REVISION 4's "METRIC
+PARITY HARMONIZATION" found that a quotation straddling a hard newline defeats a line-scoped quote
+counter. My check 5b had exactly that flaw — ch1, ch2 and ch3 contain wrapped quotations that
+survived it. Hardened to strip across newlines. The six narration violations are unchanged (ch4 ×1,
+ch5 ×5), so the original finding stands; what changed is that ch1's dialogue share now measures
+**48.6%** — above the standard ceiling, inside the `lesson` band. Its dial may need declaring.
+
+**The six narration `?` are real.** I checked whether my stripper was fooling itself: chapters 4
+and 5 contain **zero** multi-line quotations, so the `?` at ch4:25, ch5:23 and ch5:147 sit in
+narration honestly — free-indirect thought and one italic interior monologue. The law says prose
+carries none. Still the author's call, still `QE_ENFORCE = "warn"`.
+
+## The lesson, once
+
+**A count can be right and the conclusion still wrong.** 66-to-8 was a true measurement of the wrong
+question: *how does canon spell one woman's name* is not *how many women are named*. The codex was
+the only file that could tell the difference, and it was one line I had not read yet.
