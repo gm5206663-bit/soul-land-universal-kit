@@ -49,6 +49,12 @@ LAWS = {
                         'an exemption must cite a receipt that exists'),
     'scope-refusal':   ('hard', 'the live chapter directory could not be determined',
                         'a gate that checks the wrong directory reports success over text nobody wrote'),
+    'empty-coverage':  ('hard', 'a detector that expects subjects examined none',
+                        'a coverage line is a claim: 0 of 0 is not health, it is a detector that '
+                        'never ran — the account has shipped that mistake once already'),
+    'thin-coverage':   ('advisory', 'a detector examined nothing, legitimately or not',
+                        'an empty set must be declared, not inferred: say the archive/ stamp/ '
+                        'site/ workflow does not exist here, so the zero reads as a fact'),
     'source-orphan':   ('hard', 'published text with no author edition',
                         'what ships must be what was gated'),
     'copies-drift':    ('hard', 'the reader edition differs from the author edition',
@@ -111,8 +117,18 @@ def coverage(checked, total, unit):
                 text=f'{checked} of {total} {unit}')
 
 
-def ran(detector, findings, cover, note=''):
-    return dict(detector=detector, findings=findings, coverage=cover, note=note)
+def ran(detector, findings, cover, note='', expects=True):
+    """One detector's result.
+
+    `expects` says whether this detector's subject must exist. The corpus-enumerating
+    detectors (gate, receipts, two-homes, sightings, links, stale-claims) do: if they
+    examine nothing, the walk is broken, not the corpus. The object-hunting detectors
+    (housekeeping, generated, publication, enforcement) may legitimately find nothing —
+    a repository with no archives has no committed archive — but they still have to SAY
+    so, which is what `expects=False` buys: an advisory instead of a hard finding.
+    """
+    return dict(detector=detector, findings=findings, coverage=cover, note=note,
+                expects=expects)
 
 
 # --------------------------------------------------------------------------
@@ -778,7 +794,8 @@ def check_publication(books):
                                         + (f'; published but not in the book {extra[:8]}' if extra else ''),
                                         evidence=f'{site}/ files: {len(published)} chapter-named file(s)'))
     return ran('publication', findings, coverage(checked, total, 'book(s) with a published site'),
-               note='in-tree chapter html against the source; the LIVE site is the pages detector')
+               note='in-tree chapter html against the source; the LIVE site is the pages detector',
+               expects=False)
 
 
 PAGES_LINK_RX = re.compile(r'href="[^"]*?(?:chapter|ch)[\s_-]*(\d+)', re.I)
@@ -855,7 +872,7 @@ def check_pages(books, owner, token=None, timeout=25):
             + (f'; {len(uncompared)} left uncompared (repo holds several books): '
                + ', '.join(uncompared[:4]) if uncompared else ''))
     return ran('pages', findings, coverage(checked, total, 'repositor(ies) with a published site'),
-               note=note)
+               note=note, expects=False)
 
 
 ALL = ('gate', 'dupes', 'two-homes', 'receipts', 'publication', 'pages')
@@ -899,8 +916,14 @@ def check_housekeeping(root, limit=40):
     Coverage here is repositories walked, files scanned and hits found — a walk
     that saw nothing says so instead of returning a silent zero.
     """
-    repos = sorted(d for d in (os.listdir(root) if os.path.isdir(root) else [])
-                   if os.path.isdir(os.path.join(root, d, '.git')))
+    # ONE story about which repositories exist. This function used to carry its own
+    # listing instead of calling `_repos`, and the two copies drifted: `_repos` had been
+    # taught that the root may itself be the repository, this copy had not. Walked with
+    # `--root soul-land-universal-kit` it therefore examined ZERO repositories and printed
+    # "0 of 0" as though that were a clean bill — on the repository that holds the whole
+    # corpus. That is the exact failure the guide names ("a stage that built 0 of 52 and
+    # called itself a success"), sitting inside the tool written to prevent it.
+    repos = _repos(root)
     hits, files, unverifiable = [], 0, 0
     for repo in repos:
         base = os.path.join(root, repo)
@@ -966,7 +989,7 @@ def check_housekeeping(root, limit=40):
     return ran('housekeeping', findings,
                coverage(len(repos), len(repos),
                         'repository(ies) walked for machine files and archives'),
-               note=note)
+               note=note, expects=False)
 
 
 # --------------------------------------------------------------------------
@@ -1084,12 +1107,15 @@ def check_links(root, limit=80, max_size=524288):
             + (f'; {too_big} file(s) over {max_size // 1024} KB skipped' if too_big else '')
             + (f'; git could not be asked, the disk was walked instead' if 'disk' in modes else ''))
     return ran('links', findings, coverage(files, files, 'document(s) scanned for links'),
+               expects=False,
                note=note)
 
 
 # --------------------------------------------------------------------------
 # 10. STALE GENERATED — the stamp claims a source; check the claim
 # --------------------------------------------------------------------------
+DECLARED_RX = re.compile(
+    r'\bgenerated\b[^\n]{0,120}\b(regenerate|never edit|do not edit)\b', re.I)
 STAMP_RX = re.compile(r'GENERATED from\s+([^\s;]+)\s*;\s*SHA256:\s*([0-9a-f]{64})')
 
 
@@ -1104,6 +1130,12 @@ def check_generated(root, limit=40):
     can tell without doing exactly this.
     """
     findings, stamped, verified, modes = [], 0, 0, set()
+    # A file can say "Generated … regenerate it, never edit it" without carrying a hash.
+    # Those were invisible here: the regex wanted `GENERATED from <path>; SHA256: …`, so a
+    # declaration in plain prose counted as no file at all and the detector reported
+    # "0 of 0 stamped file(s)" — a clean-looking zero over an unexamined quantity. Count
+    # them, so the coverage line says what actually exists.
+    declared = []
     for repo in _repos(root):
         base = os.path.join(root, repo)
         paths, mode = _files_repo(base)
@@ -1118,6 +1150,8 @@ def check_generated(root, limit=40):
                 continue
             m = STAMP_RX.search(head)
             if not m:
+                if DECLARED_RX.search(head):
+                    declared.append((repo, rel))
                 continue
             stamped += 1
             src_rel, want = m.group(1), m.group(2).lower()
@@ -1144,11 +1178,21 @@ def check_generated(root, limit=40):
         findings.append(finding('coverage-gap', '-', '-', 'generated', 'generated',
                                 f'generated views: {stamped} stamped, {len(findings)} listed — '
                                 f'the rest are not in this report', evidence='raise the limit'))
-    note = (f'{stamped} stamped file(s) found, {verified} verified against its source'
+    for repo, rel in declared[:limit]:
+        findings.append(finding(
+            'unverifiable-generated', repo, '-', rel, rel,
+            f'{rel} declares itself generated but carries no source hash, so nothing can '
+            f'tell whether it still matches what generated it — stamp it, or say it is hand-kept',
+            evidence='no `SHA256:` in its stamp'))
+    note = (f'{stamped} hashed stamp(s), {verified} verified against its source'
+            f'; {len(declared)} file(s) declare themselves generated without a hash'
             + (f'; git could not be asked, the disk was walked instead' if 'disk' in modes else ''))
+    # total counts BOTH kinds of declaration, so an unhashed stamp cannot hide behind a
+    # coverage line that never mentioned it
     return ran('generated', findings,
-               coverage(stamped, stamped, 'stamped file(s) checked against their source'),
-               note=note)
+               coverage(stamped, stamped + len(declared),
+                        'generated file(s) checked against a hash'),
+               note=note, expects=False)
 
 
 # --------------------------------------------------------------------------
@@ -1202,7 +1246,7 @@ def check_enforcement(root, limit=40):
     return ran('enforcement', findings,
                coverage(with_gates - gap, with_gates,
                         'gate-carrying repo(s) with a CI workflow present'),
-               note=note)
+               note=note, expects=False)
 
 
 # --------------------------------------------------------------------------
@@ -1295,4 +1339,4 @@ def check_sightings(root, books, limit=4):
     return ran('sightings', findings,
                coverage(len(trees) - len(unexplained), len(trees),
                         'chapter-bearing tree(s) accounted for (book or sighting)'),
-               note=note)
+               note=note, expects=False)

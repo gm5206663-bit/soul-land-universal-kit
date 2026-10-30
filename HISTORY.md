@@ -15,6 +15,51 @@
 
 ---
 
+## ADDITION — 2026-10-30 (later the same day) · the corpus layer
+
+The conformance pass above ended with an honest limit: the battery covered **five of the fourteen**
+projects, because only five carry a `checks/run_all.sh`. The guide names that failure — `register.py`
+exists *"because the account's own tools had been registering what they happened to look at, not what
+was there."* The kit already owned `register.py` and `account.py`; neither was inside the battery.
+
+Two layers are now in it: **6 account control centre** (16 books · 283 chapters · 1,211,566 words ·
+**33 of 33** trees accounted for) and **7 register drift** (`REGISTER.md` still equals what the tree
+produces). `sh tools/run_all.sh` now covers the corpus, not a sample of it: **11 held, 1 red**.
+
+**Three defects the corpus layer exposed in its first run, all now fixed and selftested.**
+
+1. **`housekeeping` examined zero repositories on a single-repo root.** It kept its own copy of the
+   "which repositories exist" walk instead of calling `_repos()`, which had been taught that the root
+   may itself be the repository. On `--root soul-land-universal-kit` it walked nothing and printed
+   `0 of 0` as a clean bill — on the repository holding everything. One implementation now.
+2. **`generated` examined 0 of 0 while three files declared themselves generated.** Its stamp regex
+   wanted `SHA256:`, and `REGISTER.md` says *"Generated … Regenerate it; never edit it"* with no hash,
+   so the detector read a declaration as no file at all. It now counts both — **0 of 3 checked against
+   a hash** — and names all three.
+3. **Zero coverage reported as health.** Now an invariant: every detector whose coverage total is 0
+   must emit a finding — `empty-coverage` (hard) when it expects subjects, `thin-coverage` (advisory)
+   when the empty set is real. The selftest deletes the invariant and confirms the check goes red.
+
+**And one defect this pass caused, then repaired.** The first version of layer 6 wrote refreshed
+`account_report.*` into the tracked tree, which broke their byte-identity with the copies in
+`SOUL_LAND_WORKSPACE/kit/` — the duplicate-group count fell 25 → 19 because six identical files had
+stopped being identical. Caught by noticing the number moved the wrong way. The layer now writes to
+`${TMPDIR}`: **the battery is read-only**; regenerating state is an explicit act.
+
+**Open, and the author's call:** `SOUL_LAND_UNIVERSAL_KIT/REGISTER.md` and
+`SOUL_LAND_WORKSPACE/kit/REGISTER.md` are byte-identical copies of a whole-account register from
+**2026-10-13** (24 books · 377 chapters · 1,624,963 words), and neither can be checked from this
+checkout because this checkout is not a full clone set. Both are declared exemptions in
+`tools/register_drift.py`, and the "it is a copy" half is *checked* byte-for-byte rather than trusted.
+Either delete the pair or regenerate them from a full clone set with a hash stamp this repository can
+verify. Written up in `docs/METHOD_CONFORMANCE.md` §8.
+
+---
+
+---
+
+---
+
 ## ADDITION — 2026-10-30 · the method conformance pass (account-wide)
 
 The author: *"make every repo work on how to write fan fiction repo."* All thirteen repositories
@@ -58,8 +103,6 @@ all agree, and **ch116's own header says "no sealed gate is touched."** Rewritin
 the author's word, not a repair, and weakening L4 to pass would be the one move the method forbids.
 The decision is recorded in `docs/METHOD_CONFORMANCE.md` §4 with three options; until one is chosen
 `sh tools/run_all.sh` exits 1 and prints the reason on screen.
-
----
 
 ## The README as it stood until 2026-10-13 (verbatim)
 

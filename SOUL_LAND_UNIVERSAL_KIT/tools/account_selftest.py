@@ -432,6 +432,22 @@ case('a stale numeric count in the desk README is caught',
      lambda r: _front_door(r, '**99 repositories, one read**', 'README.md'),
      'stale-claims', only=['stale-claims'])
 
+# --------------------------------------------------- the zero-coverage invariant
+# Every coverage line whose total is zero must be accompanied by a finding that says so.
+# The failure this guards is specific and historical: `housekeeping` carried its own repo
+# listing, saw zero repositories on a single-repo root, and printed "0 of 0" as though a
+# repository with no junk were the same thing as a walk that never happened.
+rep = ac.run(os.path.join(TMP, 'root'))
+zeros = [c for c in rep['coverage'] if c.get('total') == 0]
+named = [f for f in rep['findings'] if f['kind'] in ('empty-coverage', 'thin-coverage')]
+ok = len(zeros) == len(named)
+print(f"  [{'ok ' if ok else 'FAIL'}] every zero-coverage line is named by a finding "
+      f"{'':6s} ({len(zeros)} zero, {len(named)} named)")
+OK &= ok
+if not ok:
+    print(f"        · zeros: {[c['text'] for c in zeros]}")
+    print(f"        · named: {[f['detail'][:60] for f in named]}")
+
 print()
 shutil.rmtree(TMP, ignore_errors=True)
 print('ACCOUNT SELFTEST ' + ('PASSED' if OK else 'FAILED — do not trust these detectors'))

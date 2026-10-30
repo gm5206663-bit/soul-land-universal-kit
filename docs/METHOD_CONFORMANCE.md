@@ -233,3 +233,76 @@ Stated so the next agent does not read more into this file than it contains.
   error were live in this account.
 - **R5 is a pointer, not an agreement.** A repository can cite the guide and still break every rule
   in it. The pointer is necessary, not sufficient.
+
+---
+
+## 8. The corpus layer — measuring what is there, not what the battery looked at
+
+Added 2026-10-30, after the first version of this file. The battery in §2 covers **five of the
+fourteen** projects in this repository, because only five carry a `checks/run_all.sh`. The guide
+names that exact failure in doc 06, about the tool that was written to prevent it:
+
+> **`register.py`** measures every book and every chapter-bearing tree on the account and prints
+> what it found — nothing on disk holding prose may be unnamed. It exists because the account's own
+> tools had been registering *what they happened to look at, not what was there*.
+
+The kit already had `register.py` and `account.py`. What it did not have was either of them inside
+the battery — so the account's own tool was itself unregistered. Two layers now run every time:
+
+| layer | what it proves | 2026-10-30 |
+|---|---|---|
+| `6 account control centre` | 16 books · 283 chapters · 1,211,566 words · **33 of 33** chapter-bearing trees accounted for | 0 hard · 6 advisory |
+| `7 register drift` | `REGISTER.md` still equals what the tree produces | PASS |
+
+That is the difference between a battery over five projects and a battery over everything on disk.
+
+### Three defects the corpus layer exposed in one run
+
+**1. `housekeeping` examined zero repositories on a single-repo root.** It carried its own copy of
+the "which repositories exist" walk instead of calling `_repos()`. `_repos()` had been taught that
+the root may *be* the repository; the copy had not. So on `--root soul-land-universal-kit` it walked
+nothing and printed `0 of 0 repository(ies) walked` — a clean-looking zero, on the repository holding
+the whole corpus. One implementation now, not two.
+
+**2. `generated` examined 0 of 0 while three files declared themselves generated.** Its stamp regex
+wanted `GENERATED from <path>; SHA256: …`. `REGISTER.md` says *"Generated … Regenerate it; never edit
+it."* — a declaration with no hash, which the detector read as no file at all. It now counts both:
+**0 of 3 checked against a hash**, and names all three. An unhashed stamp is a real gap, and it was
+invisible.
+
+**3. Two coverage lines, zero subjects, no finding.** Now an invariant: **every detector whose
+coverage total is 0 must emit a finding saying so** — `empty-coverage` (hard) when it expects
+subjects, `thin-coverage` (advisory) when the empty set is legitimate. The selftest removes the
+invariant and confirms the check goes red, so it cannot be quietly deleted.
+
+**4. A gate that mutates the repository invents the drift it was hired to find.** The first version
+of layer 6 wrote refreshed `account_report.*` into the tracked tree. That broke their byte-identity
+with the copies in `SOUL_LAND_WORKSPACE/kit/` — the duplicate-group count in `tools/check.py` fell
+from 25 to 19 because I had made six previously-identical files differ. Caught by noticing the count
+*moved the wrong way*; reverted, and the layer now writes to `${TMPDIR}`. **The battery is read-only.**
+Regenerating state is an explicit act (`tools/register_drift.py --write`), never a side effect of
+checking something.
+
+### The open item this leaves — the account register, 17 days old, in two places
+
+`SOUL_LAND_UNIVERSAL_KIT/REGISTER.md` and `SOUL_LAND_WORKSPACE/kit/REGISTER.md` are **byte-identical
+copies** of a whole-account register generated **2026-10-13 10:54** over *"a full clone set"*:
+**24 books · 377 chapters · 1,624,963 words · 70 sentences over 60 words**.
+
+Neither can be checked from this checkout, because this checkout is not a full clone set. Both are
+now declared exemptions in `tools/register_drift.py` — and the "it is a copy" half of that
+declaration is **checked** (byte equality), not trusted. What is still true, and is the author's call:
+
+- the numbers are 17 days old and are the account's published size claim;
+- the pair is one copy of one thing too many;
+- nothing regenerates them, because nothing here has all twelve repositories.
+
+Either delete the pair (the root register is the one this repository can actually prove), or
+regenerate them from a full clone set and give them a hash stamp this repository can verify.
+
+### What the corpus layer deliberately does not do
+
+It does not gate prose. The 70 sentences over 60 words in that account register, and the
+`dialogue-exempt` book, are author-facing measurements, not tool verdicts. §4 is the one place where
+a corpus measurement becomes a blocking finding, and it blocks because a written lock is being
+contradicted — not because a number looks high.

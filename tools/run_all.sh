@@ -86,6 +86,22 @@ if [ "$QUICK" -eq 0 ]; then
   fi
 fi
 
+# ---- the corpus layer ------------------------------------------------------
+# The serial batteries above cover five of the fourteen projects. A battery that covers the
+# projects it happens to know about is doing what the guide warns about: "registering what
+# they happened to look at, not what was there." These two layers cover the WHOLE tree —
+# every chapter-bearing directory on disk, all 33 of them, with a coverage line.
+if [ "$QUICK" -eq 0 ]; then
+  # READ-ONLY ON PURPOSE. The first version of this layer wrote refreshed account_report.*
+  # files into the tracked tree, which silently broke their byte-identity with the copies in
+  # SOUL_LAND_WORKSPACE/kit/ — a gate that mutates the repository manufactures the very drift
+  # it was hired to detect. Regenerating state is an explicit act (`tools/register_drift.py
+  # --write`, `account.py report --out-prefix …`), never a side effect of checking.
+  layer "6 account control centre" "0" python3 SOUL_LAND_UNIVERSAL_KIT/tools/account.py report \
+        --root . --out-prefix "${TMPDIR:-/tmp}/kit-account-report"
+  layer "7 register drift"         "0" python3 tools/register_drift.py
+fi
+
 echo "----------------------------------------------------------------------"
 TOTAL=$((PASS+FAIL))
 if [ "$FAIL" -eq 0 ]; then
