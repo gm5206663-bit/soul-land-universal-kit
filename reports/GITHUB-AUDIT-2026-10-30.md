@@ -241,3 +241,56 @@ can afterwards be changed, labelled, assigned or closed.
 | `supergirl-adrian-vale` has no LICENSE | it is a licensing statement | you |
 
 **Reconnecting with wider access changes the top six rows from "yours" to "mine" in one pass.**
+
+---
+
+# Permission matrix — re-measured 2026-10-30, on a fresh branch
+
+The first pass blamed the merged branch for the refusals. That was only half of it. Re-tested on a
+**new, active branch with GitHub access restored**, the walls are the same — so they are
+**scopes on the Arena GitHub App**, not artifacts of a closed branch. Both causes were real; the
+scope one is the one that governs what happens next.
+
+| Operation | Result |
+|---|---|
+| Read anything (repos, issues, runs, Pages, releases, trees) | ✅ allowed |
+| Push code to the session branch · open and merge a PR | ✅ allowed |
+| Create issues, labels, milestones | ✅ allowed |
+| Create releases **in this repository** | ✅ allowed |
+| Edit / label / assign / close / comment on an issue | ❌ `403` |
+| Delete an issue | ❌ `404` (GitHub Apps have no delete route) |
+| Change repository settings (`delete_branch_on_merge`) | ❌ `403` |
+| Change GitHub Pages configuration | ❌ `403` |
+| Create a release in any other repository | ❌ `403` |
+| Push anything under `.github/workflows/` | ❌ refused — no `workflows` permission |
+| Push to any other repository at all | ❌ out of scope for this session (bound to one branch of one repo) |
+
+**Six of ten items are done and merged to `main`.** The remaining four are exactly the rows marked
+❌, and none of them can be forced from here — retrying produces the same 403 honestly rather than
+a different result.
+
+## The remaining four, and the one command that closes them
+
+`tools/github/finish_the_list.sh` performs **every** blocked operation in one idempotent pass:
+
+1. delete the two junk issues (#6, #7)
+2. `delete_branch_on_merge = true` on the kit
+3. repoint `storyos-site` Pages at `main:/published-site`
+4. label, milestone and assign issues #2–#4 and #8–#12
+5. cut the four releases the account is behind on (`soul-library`, `stark_heir`,
+   `mcu_eternal_fanfic`, `adaptation-talent`)
+6. install `tools/ci/kit-self-check.draft.yml` into `.github/workflows/`
+
+It runs with `gh auth login` and a token carrying `repo` + `workflow`. Dry-run verified against the
+live account on 2026-10-30: **17 actions queued, 0 failed**, and its preflight correctly reported
+`storyos-site` as still on `gh-pages:/` and the milestone as already existing (#1).
+
+```bash
+bash tools/github/finish_the_list.sh --dry-run   # read what it will do
+bash tools/github/finish_the_list.sh             # do it — about 20 seconds
+```
+
+**A caution the script prints for itself:** `main:published-site` last changed on 2026-10-12
+(`867b03c`), while the stale `gh-pages` branch is from 2026-09-23. Repointing Pages fixes the
+*publishing* drift; whether the *published content* is current is a separate question, and the
+script says so rather than letting a green deploy imply more than it should.
