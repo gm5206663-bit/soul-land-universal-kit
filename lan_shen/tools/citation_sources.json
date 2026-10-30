@@ -1,0 +1,71 @@
+{
+  "_README": "Where a cited file actually lives, when it is not in this repository. Checked by hand against the live repositories on 2026-10-30; record_links.py reads this and reports EXTERNAL or HISTORICAL instead of MISSING. Every entry carries the evidence used to decide it. Nothing is listed here because it was convenient — a wrong entry hides a real loss.",
+  "_checked": "2026-10-30",
+  "external": {
+    "state/canon.json": {
+      "repo": "the-universal-storyline-creation",
+      "path": "state/canon.json",
+      "size": 4312,
+      "why": "The Control Centre's ring_ages table. Cited by CANON_NOTES as the source of the year-ring colours; it was never lan_shen's file."
+    },
+    "state/laws.json": {
+      "repo": "the-universal-storyline-creation",
+      "path": "state/laws.json",
+      "size": 10030,
+      "why": "The Control Centre's twelve locks. Cited by SERIAL_LOG while describing the site's own state, not this serial's."
+    },
+    "state/projects_registry.json": {
+      "repo": "the-universal-storyline-creation",
+      "path": "state/projects_registry.json",
+      "size": 24534,
+      "why": "The Control Centre's project registry. Cited by SERIAL_LOG as the place that names lan_shen live at Chapter 13."
+    },
+    "extract_state.py": {
+      "repo": "the-universal-storyline-creation",
+      "path": "tools/extract_state.py",
+      "why": "The Control Centre's measuring instrument. SERIAL_LOG says so in as many words: 'It is their instrument, in their [repository]'."
+    },
+    "scripts/drift.py": {
+      "repo": "storyos-site",
+      "path": "scripts/drift.py",
+      "size": 13650,
+      "why": "The StoryOS drift scanner — the tool that deliberately does not trust the project's own validator."
+    },
+    "storyos-site/scripts/drift.py": {
+      "repo": "storyos-site",
+      "path": "scripts/drift.py",
+      "size": 13650,
+      "why": "Same file, cited with its repository prefix."
+    }
+  },
+  "historical": {
+    "TRANSFER_BOOTSTRAP.txt": {
+      "why": "Cited inside SERIAL_LOG's historical table describing what the standalone lan_shen repository's bootstrap kit gave in September 2026. That repository was deleted in the 2026-10-12 consolidation; this is a record of what it contained, not a dependency."
+    },
+    "mailmap.txt": {
+      "why": "Same table, same deleted repository."
+    },
+    "fix/RUN_ME.md": {
+      "why": "Same table — the source of the TWO-COPIES LAW, the en-dash regex and the 'a number written to satisfy a check is worse than a warning left honest' line. All of that law is already carried in this project's own files; the file it came from is history."
+    },
+    "uploads/chapter_75.md": {
+      "why": "Same table — the author's own prose, named as the quality bar. Preserved in the kit at SL1_GU_YUAN/uploads/; see that path for the surviving copy."
+    },
+    "REFERENCE_MAP.md": {
+      "why": "The deleted repository's own map. Its content is summarised in SERIAL_LOG and STYLE_LAW §0.5."
+    },
+    "PROTOCOL.md": {
+      "why": "Exists in this repository's history (13 commits) though not at HEAD. Recover with `git log --all -- PROTOCOL.md`."
+    }
+  },
+  "known_loss": {
+    "foundation/PREWRITE_ch04_draft_block.md": {
+      "what": "The canon-006 staging draft, 1,894 words, authored 2026-09-23 — described by PREWRITE_ch04 as 'the raw body to re-voice and reassemble' for the shipped Chapter 4.",
+      "evidence": "Absent from the working tree; absent from all 335 commits; absent from the 478-file one-home archive (whose lan_shen_v1_epoch holds 18 files and no draft block). It has never existed in this repository.",
+      "likely_home": "The standalone lan_shen repository, deleted in the 2026-10-12 consolidation, or a working machine that was never committed.",
+      "impact": "None on the shipped chapter: chapter 4 was re-voiced from canon 006 directly and passed every gate (verify, style, canon_copy, banned). What is lost is the evidence trail — a reader cannot check the board's claim that a 1,894-word draft existed, and cannot compare the V2 chapter against the thing it was rebuilt from.",
+      "author_decision": "Either the draft is restored from GitHub's deleted-repository window (around 2027-01-10) or a working machine, or the board is amended to say the draft did not survive and the chapter was built from canon alone.",
+      "status": "KNOWN LOSS — recorded, not repaired. Listed here so the gate fails on NEW breakage and not on a finding already written down."
+    }
+  }
+}

@@ -21,9 +21,15 @@ THE FIVE ANSWERS
                recoverable with `git show 9379d40^:<path>`
     PLANNED    names a chapter the serial has not written yet (ch9+ of the current epoch) —
                a plan, not a citation. Not a defect.
+    HISTORICAL cited as a record of something that existed and is deliberately gone
+               (the deleted standalone repository). Not a dependency — see
+               `tools/citation_sources.json`, which carries the evidence for every entry.
     EXTERNAL   names another repository on the account (storyos-site, soul-library, ...) —
                a pointer across repos, not a local path. Not a defect either.
     DELETED    was in this repository and has been removed; recoverable from history.
+    KNOWN-LOSS cited, genuinely gone, already written down in citation_sources.json with
+               its evidence and the decision it needs. Printed, not failed — a gate that
+               stays red over a finding already on paper is a gate people learn to ignore.
     MISSING    nowhere: not on disk, not in this history, not in a sibling repo, not planned.
                **The only hard failure.**
 
@@ -41,6 +47,7 @@ USAGE
 """
 from __future__ import annotations
 
+import json
 import re
 import subprocess
 import sys
@@ -58,6 +65,7 @@ SIBLING_REPOS = {
     'mcu_eternal_fanfic', 'supergirl-adrian-vale', 'pokemon-adaptation', 'gm5206663-bit',
 }
 CITE = re.compile(r'`([A-Za-z0-9_./-]+\.(?:md|py|json|txt|html))(?::\d+)?`')
+SOURCES_FILE = Path(__file__).resolve().parent / 'citation_sources.json'
 # a range (`canon_001..018_excerpt.txt`) or a placeholder (`canon_0XX_...`) is notation, not a path
 NOT_A_PATH = re.compile(r'\.\.|XX|xx\b|\bNN\b|\.\.\.')
 
@@ -97,6 +105,22 @@ def archive_index() -> dict[str, list[str]] | None:
     return index
 
 
+def known_sources() -> tuple[dict, dict]:
+    """Load the hand-checked map of where non-local citations actually live."""
+    try:
+        data = json.loads(SOURCES_FILE.read_text(encoding='utf-8'))
+    except (OSError, ValueError):
+        return {}, {}
+    return data.get('external', {}), data.get('historical', {})
+
+
+def known_losses() -> dict:
+    try:
+        return json.loads(SOURCES_FILE.read_text(encoding='utf-8')).get('known_loss', {})
+    except (OSError, ValueError):
+        return {}
+
+
 def shipped_chapters(root: Path = ROOT) -> set[int]:
     nums = set()
     for p in (root / 'chapters').glob('Chapter_*.md'):
@@ -119,12 +143,19 @@ def classify(cite: str, doc: Path, index, archive, shipped,
     m = re.search(r'Chapter_(\d+)', name)
     if m and int(m.group(1)) not in shipped and 'chapters/' in cite:
         return 'PLANNED', f'ch{int(m.group(1))} not yet written (edge ch{max(shipped)})'
+    external, historical = known_sources()
+    if cite in external:
+        return 'EXTERNAL', f'{external[cite]["repo"]}:{external[cite]["path"]}'
+    if cite in historical:
+        return 'HISTORICAL', historical[cite]['why'][:96] + '…'
     if cite.split('/')[0] in SIBLING_REPOS:
         return 'EXTERNAL', f'{cite.split("/")[0]} is another repository on the account'
     if archive is None:
         return 'UNVERIFIABLE', 'history unavailable (shallow clone) — cannot rule archived'
     if name in archive:
         return 'ARCHIVED', archive[name][0]
+    if cite in known_losses():
+        return 'KNOWN-LOSS', known_losses()[cite]['status'][:96]
     if in_history(name):
         return 'DELETED', f'deleted from this repository; recover with `git log --all -- {name}`'
     return 'MISSING', 'not on disk, not in history, not in a sibling repo'
@@ -142,7 +173,8 @@ def in_history(name: str) -> bool:
 def run(strict: bool = False, root: Path = ROOT, quiet: bool = False) -> int:
     index, archive, shipped = kit_index(), archive_index(), shipped_chapters(root)
     tally = {'OK': 0, 'MOVED': 0, 'ARCHIVED': 0, 'PLANNED': 0, 'MISSING': 0,
-             'UNVERIFIABLE': 0, 'EXTERNAL': 0, 'DELETED': 0}
+             'UNVERIFIABLE': 0, 'EXTERNAL': 0, 'DELETED': 0, 'HISTORICAL': 0,
+             'KNOWN-LOSS': 0}
     rows = []
     for doc in record_files(root):
         text = doc.read_text(encoding='utf-8', errors='replace')
@@ -152,7 +184,7 @@ def run(strict: bool = False, root: Path = ROOT, quiet: bool = False) -> int:
                 continue
             verdict, detail = classify(cite, doc, index, archive, shipped, root)
             tally[verdict] += 1
-            if verdict not in ('OK', 'PLANNED', 'EXTERNAL'):
+            if verdict not in ('OK', 'PLANNED', 'EXTERNAL', 'HISTORICAL'):
                 rows.append((verdict, cite, doc.name, detail))
 
     if archive is None and not quiet:
@@ -169,7 +201,8 @@ def run(strict: bool = False, root: Path = ROOT, quiet: bool = False) -> int:
         print()
         print(f'{tally["OK"]} ok · {tally["EXTERNAL"]} in another repo · '
               f'{tally["MOVED"]} moved · {tally["ARCHIVED"]} archived · '
-              f'{tally["DELETED"]} deleted · {tally["PLANNED"]} planned · '
+              f'{tally["DELETED"]} deleted · {tally["HISTORICAL"]} historical · '
+              f'{tally["PLANNED"]} planned · {tally["KNOWN-LOSS"]} known loss · '
               f'{tally["MISSING"]} missing · {tally["UNVERIFIABLE"]} unverifiable')
 
     failed = tally['MISSING'] > 0

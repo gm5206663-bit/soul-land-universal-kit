@@ -12,9 +12,9 @@
 | 🔴 epoch | **V2 — canon-parallel rebuild** (V1 archived) |
 | 📖 chapters live | **8** — Chapter_01_What_the_Master_Said.md, Chapter_02_The_Fifteen.md, Chapter_03_The_Find.md, Chapter_04_Bringing_Her_Home.md, Chapter_05_Stay_Here.md, Chapter_06_Gifted.md, Chapter_07_Fed.md, Chapter_08_Clean_Hands.md |
 | ✍️ prose on page | **33,723 words** |
-| 🔋 battery (last run) | **9 layers ALL GREEN (2026-10-16)** |
+| 🔋 battery (last run) | **10 layers ALL GREEN (2026-10-30)** |
 | ▶️ next | ch7 — acceptance night (canon 010–011; pairing decided at its board) |
-| 🗓 status dated | 2026-10-16 |
+| 🗓 status dated | 2026-10-30 |
 
 ## 📖 chapters — the serial (live)  ·  8 files · 182.3K
 
@@ -35,10 +35,10 @@
 |---|---|---|---|
 | `foundation/BANNED_TOKENS.json` | 14.9K | 🟢 | Drift-guard snapshot: current values + banned values of every stat. |
 | `foundation/BUTTERFLY_BANK_V2.md` | 3.0K | 🟢 | Butterfly bank V2 (5b epoch) — contact-made and class-M rows, streak watch, premise-decay count. |
-| `foundation/CANON_LEDGER.md` | 56.5K | 📜 | Canon-receipt master: what's used, pending, forbidden. |
+| `foundation/CANON_LEDGER.md` | 57.2K | 📜 | Canon-receipt master: what's used, pending, forbidden. |
 | `foundation/CANON_MASTER.md` | 125.5K | 🟢 | Canon master: inventory, per-receipt digests, variance + gold ledgers, fetch queue (through 027). |
 | `foundation/CANON_NOTES.md` | 148.4K | 🟢 | Canon quotes/bible — ingested from the control centre. |
-| `foundation/CONTINUITY.md` | 70.5K | 🟢 | Scene-level continuity record. |
+| `foundation/CONTINUITY.md` | 71.0K | 🟢 | Scene-level continuity record. |
 | `foundation/CURRENT_STATE_MANIFEST.json` | 7.3K | 🟢 | Manifest of occupied workspace (scan_project default target). |
 | `foundation/LAN_SHEN_MISSION.md` | 5.4K | 🟢 | The mission thread's on-page visibility schedule — four columns, years 0–3 (REVISION 6). |
 | `foundation/NO_MISTAKE_LIVE_RULES.md` | 61.5K | 🟢 | Single live table of current project numbers (drift guard). |
@@ -46,7 +46,7 @@
 | `foundation/PLAIN_WORD_LIST.md` | 5.6K | 📜 | Vocabulary bank for the plain register (FP hinges allowed). |
 | `foundation/PREWRITE_ch02.md` | 4.0K | 🗄 | V1-era prewrite board ch2 (retired with V1; mined material kept). |
 | `foundation/PREWRITE_ch03.md` | 4.8K | 🗄 | V1-era prewrite board ch3 (retired with V1; mined material kept). |
-| `foundation/PREWRITE_ch04.md` | 7.4K | 🟢 | V2 ch4 prewrite board — clause-5 gate form; open item MTP-1 lives here. |
+| `foundation/PREWRITE_ch04.md` | 8.5K | 🟢 | V2 ch4 prewrite board — clause-5 gate form; open item MTP-1 lives here. |
 | `foundation/PREWRITE_ch05.md` | 9.5K | 🟢 | V2 ch5 prewrite board — short-form; post-draft record carries the corruption incident, logged openly. |
 | `foundation/PREWRITE_ch06.md` | 17.0K | 🟢 | V2 ch6 prewrite board — 27-beat canon-009 enumeration; contact-zero declared; both first-run FAILs logged. |
 | `foundation/PREWRITE_ch07.md` | 13.0K | 🗄 | V1-era prewrite board ch7 (retired with V1; mined material kept). |
@@ -59,17 +59,17 @@
 | `foundation/PREWRITE_ch15.md` | 12.9K | 🗄 | V1-era prewrite board ch15 (retired with V1; mined material kept). |
 | `foundation/REBUILD_5b_DELTA.md` | 3.2K | 🟢 | 5b audit + delta map — the starvation repair behind REVISION 5. |
 | `foundation/REBUILD_PLAN.md` | 10.4K | 📜 | THE law of the V2 epoch: canon-parallel doctrine, arc spine, word sizes, ends-at-academy gate. |
-| `foundation/SERIAL_LOG.md` | 194.1K | 🟢 | Chapter rows + revision rows — every number the project ever froze on. |
+| `foundation/SERIAL_LOG.md` | 201.3K | 🟢 | Chapter rows + revision rows — every number the project ever froze on. |
 | `foundation/STATUS_PANEL.md` | 27.1K | 🟢 | In-world state: vocabulary, fog, registers, inventory. |
 | `foundation/STYLE_LAW.md` | 27.1K | 📜 | Six-vertex style bans + SCOPE/ART/PLAIN/CNDR/FP readability ceilings. |
 | `foundation/THE_PLAN.md` | 40.6K | 🟢 | Arc outline surface THE PLAN (infra meta). |
 | `foundation/V2_EPOCH.md` | 3.8K | 📜 | Epoch registry — V1 retired, V2 chapter rows, git workflow law. |
 
-## 🃏 codex — canon-faced registries  ·  4 files · 178.6K
+## 🃏 codex — canon-faced registries  ·  4 files · 180.6K
 
 | file | size | status | role |
 |---|---|---|---|
-| `codex/CHARACTERS.md` | 65.5K | 🟢 | Character registry. |
+| `codex/CHARACTERS.md` | 67.5K | 🟢 | Character registry. |
 | `codex/KNOWLEDGE_FIREWALLS.md` | 42.2K | 📜 | Knowledge firewall system — what Lan knows and when. |
 | `codex/PLACES.md` | 30.6K | 🟢 | Places registry. |
 | `codex/TIMELINE.md` | 40.3K | 🟢 | Timeline skeleton (codex-sealed). |
@@ -148,18 +148,20 @@
 | `canon_extract/chapters/canon_067_excerpt.txt` | 5.6K | 📄 | Novel chapter 67 quotation receipt — the canon spine for that beat. |
 | `canon_extract/readnovelfull_map.txt` | 50.5K | 🧰 | Original mirror map the extraction used (URLs). |
 
-## 🧰 tools + checks — the gates  ·  9 files · 115.6K
+## 🧰 tools + checks — the gates  ·  11 files · 136.4K
 
 | file | size | status | role |
 |---|---|---|---|
-| `checks/run_all.sh` | 5.9K | 🧰 | The battery: 9 layers, all must pass before presenting. |
+| `checks/run_all.sh` | 6.8K | 🧰 | The battery: 9 layers, all must pass before presenting. |
 | `tools/banned_token_check.py` | 10.9K | 🧰 | Banned-token / drift-guard sweep across docs. |
 | `tools/canon_copy_check.py` | 9.7K | 🧰 | Verbatim-plagiarism sweep vs canon receipts (n-gram runs). |
+| `tools/citation_sources.json` | 4.4K | ⚠️ | UNREGISTERED — add a line for this file in tools/status_gen.py |
 | `tools/plain_word_check.py` | 2.7K | 🧰 | Plain-register wordlist audit of chapters. |
+| `tools/record_links.py` | 12.4K | ⚠️ | UNREGISTERED — add a line for this file in tools/status_gen.py |
 | `tools/scan_project.py` | 12.8K | 🧰 | Deterministic scope-line tracker for workspace files. |
-| `tools/selftest.py` | 18.0K | 🧰 | Test suite for every tool above (regression harness). |
+| `tools/selftest.py` | 20.1K | 🧰 | Test suite for every tool above (regression harness). |
 | `tools/status_gen.py` | 13.5K | 🧰 | This generator — rebuilds STATUS.md from the tree. |
-| `tools/style_gate.py` | 16.3K | 🧰 | Style gates + Fire Phoenix readability ceilings. |
+| `tools/style_gate.py` | 17.3K | 🧰 | Style gates + Fire Phoenix readability ceilings. |
 | `tools/verify.py` | 25.9K | 🧰 | Scene skeleton verifier — canonical structure gate. |
 
 ## 🔍 audits — battery artifacts  ·  3 files · 27.9K
@@ -185,11 +187,11 @@
 | `IMPORTED.md` | 484B | ⚠️ | UNREGISTERED — add a line for this file in tools/status_gen.py |
 | `LICENSE` | 1.0K | 🏠 | MIT License © 2026 Gaurav Meena — house standard. |
 | `NOTICE.md` | 950B | 🏠 | Soul Land / Tang Jia San Shao IP disclaimer — fan-work terms. |
-| `PROJECT_README.md` | 10.3K | 🏠 | Agent-facing quickstart — how to work this repo end-to-end. |
+| `PROJECT_README.md` | 10.9K | 🏠 | Agent-facing quickstart — how to work this repo end-to-end. |
 | `README.md` | 8.6K | 🏠 | Public front door — pitch, doctrine, live stage line, project map. |
 | `SARA.md` | 19.7K | 🏠 | Ceremony memo at the kit lineage level (author reflections). |
-| `STATUS.md` | 18.4K | 🏠 | This file — live inventory, auto-generated, never hand-edited. |
+| `STATUS.md` | 18.8K | 🏠 | This file — live inventory, auto-generated, never hand-edited. |
 
 ---
 
-*134 files · generated 2026-10-16 · last battery: 9 layers ALL GREEN (2026-10-16)*
+*136 files · generated 2026-10-30 · last battery: 10 layers ALL GREEN (2026-10-30)*
