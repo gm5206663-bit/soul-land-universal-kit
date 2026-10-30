@@ -72,6 +72,13 @@ SPELLING = re.compile(r"[Bb]lue\s+[Ss]ilver")
 
 CJK = re.compile(r"[\u4e00-\u9fff\u3040-\u30ff\uac00-\ud7af]")
 
+# The zero ?/! law (REBUILD_PLAN #26, every PREWRITE board) governs PROSE, not dialogue:
+# a narrator may not ask or exclaim, a character may. It had no gate until 2026-10-30, which
+# is why SERIAL_LOG's ch7 "11 question marks" note was filed as a defect nobody could check —
+# measured on narration, ch7 is clean (13 '?' all inside quotes). Two chapters are not:
+# ch4 (1) and ch5 (5). Warn until those are cleared, then flip to "fail".
+QE_ENFORCE = "warn"
+
 DIALS = {"lesson": (44.0, 66.0), "standard": (13.0, 30.0), "hush": (8.0, 15.0)}
 
 # Watch-verbs vs act-verbs. The Spectator Test, coarse but honest.
@@ -263,6 +270,14 @@ def gate(path):
         if t in flat:
             fails.append(f"banned abstract-cliff register: {t!r}")
 
+    # 5b. the zero ?/! law, measured on narration only ─────────────────────────
+    narr = re.sub(r'"[^"\n]*"', "", prose)
+    q_n, bang_n = narr.count("?"), narr.count("!")
+    if q_n or bang_n:
+        msg = (f"?/! IN NARRATION: {q_n} '?' and {bang_n} '!' outside quotation marks "
+               f"(law: zero in prose — dialogue may ask and exclaim, the narrator may not)")
+        (fails if QE_ENFORCE == "fail" else warns).append(msg)
+
     # 6. portability ───────────────────────────────────────────────────────────
     hit = CJK.search(text)
     if hit:
@@ -285,7 +300,8 @@ def gate(path):
         warns.append("no TURN declared — what is true at the end that was not true at the start?")
 
     return dict(name=p.name, words=n_words, dlg=n_dlg, pct=pct, med=med, nmed=nmed,
-                chain=rate, turns=turns, who=who, dial=dial, fails=fails, warns=warns)
+                chain=rate, turns=turns, who=who, dial=dial, fails=fails, warns=warns,
+                q=(q_n, bang_n))
 
 
 def main(argv):
@@ -306,7 +322,8 @@ def main(argv):
         print(f"{tag:5s} {r['name']}")
         print(f"      {r['words']}w · dialogue {r['pct']:.1f}% ({r['dlg']} lines, dial={r['dial']}) "
               f"· sentence median {r['med']:.0f} all / {r['nmed']:.0f} narr "
-              f"· ', and' {r['chain']:.1f}/1k · {r['who']} speaks {r['turns']}x")
+              f"· ', and' {r['chain']:.1f}/1k · {r['who']} speaks {r['turns']}x "
+              f"· ?/! in prose {r['q'][0]}/{r['q'][1]}")
         for x in r["fails"]:
             print(f"      FAIL  {x}")
         for x in r["warns"]:

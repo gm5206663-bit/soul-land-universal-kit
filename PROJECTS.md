@@ -33,7 +33,7 @@
 | SL2 — **The Grey Wolf** | `soul_land_2_the_grey_wolf/` | 10 | 25,792 | 🔴 LIVE — **reading page moved into this repo: [`docs/grey-wolf/`](docs/grey-wolf/)** |
 | SL4 — **Fire Phoenix** | `soul_land_4_fire_phoenix/` | 52 | 270,659 | 🔴 LIVE — **complete**: published chapters + working layers + the whole workshop. Both former repos deleted 2026-10-12; the pipeline now runs from this folder |
 | Qian Xunji | `qian_xunji/` | 9 | 25,956 | 🔴 LIVE |
-| Lan Shen (SL3 reincarnation serial) | `lan_shen/` | 7 | 32,211 | 🔴 LIVE |
+| Lan Shen (SL3 reincarnation serial) | `lan_shen/` | 8 | 34,067 | 🔴 LIVE — **row corrected 2026-10-30**: Ch8 *Clean Hands* shipped 2026-10-16 and no page carried it; measured 8 ch / 34,067 w |
 
 ### Kept, not being written
 
@@ -79,7 +79,7 @@
 | `soul_land_4_fire_phoenix/` (working layers) | the same private repo, everything else | `` | audits (447 files), the storyos pipeline, status panels, foundations — the private/public split ended by the author's order |
 | `soul_land_4_fire_phoenix/workshop/` | repo `fire-phoenix-workshop` | `` | rebuild layers, semantic audits, research, provenance, admin receipts — the `sources/` snapshot layers were deleted the same day as extras |
 | `qian_xunji/` | repo `qian-xunji-adaptation` | `d939d12` | whole project |
-| `lan_shen/` | repo `lan_shen` | `cc8c180` | whole project |
+| `lan_shen/` | repo `lan_shen` — **gone** | `cc8c180` — **not in this history** | whole project. ⚠ **2026-10-30: this receipt does not verify.** `git cat-file cc8c180` returns *not a valid object name*, and `github.com/gm5206663-bit/lan_shen` returns *not found*. The row is left standing as history, not as authority: the serial's home was decided on 2026-10-16 (see `lan_shen/foundation/SERIAL_LOG.md`, **HOME DECISION**), the kit's `lan_shen/` is the only copy, and this commit hash cannot be checked against anything |
 | `seed_of_creation/` | frozen `soul-land-projects` | `867048b` | the SL2.5 foundation |
 | `SL1_GU_YUAN/uploads/` | frozen `soul-land-projects` | `867048b` | every surviving GitHub byte of Gu Yuan |
 

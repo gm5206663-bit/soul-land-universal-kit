@@ -1,8 +1,8 @@
 # THE REGISTER — every book, every tree
 
-*Generated 2026-10-13 02:41 by `tools/register.py` over `this repository`. Regenerate it; never edit it.*
+*Generated 2026-10-30 06:42 by `tools/register.py` over `this repository`. Regenerate it; never edit it.*
 
-**16 registered books · 282 chapters · 1,209,710 words · 0 sentences over 60 words.**
+**16 registered books · 283 chapters · 1,211,566 words · 0 sentences over 60 words.**
 
 | words | ch | book | over 60 | spoken | floor hits | status |
 |---:|---:|---|---:|---:|---:|---|
@@ -11,7 +11,7 @@
 | 80,127 | 24 | Soul_Land_2_Project | 0 | 1,595 | 0 | gated book |
 | 65,081 | 24 | soul_land_devouring_dragon | 0 | 393 | 11 | gated book |
 | 63,691 | 7 | soul_land_3_oc | 0 | 1,110 | 0 | gated book |
-| 32,211 | 7 | lan_shen | 0 | 868 | 0 | gated book |
+| 34,067 | 8 | lan_shen | 0 | 950 | 0 | gated book |
 | 25,956 | 9 | qian_xunji | 0 | 248 | 0 | gated book |
 | 25,792 | 10 | soul_land_2_the_grey_wolf | 0 | 124 | 0 | gated book |
 | 25,379 | 4 | Miraculous_Project | 0 | 230 | 0 | gated book |

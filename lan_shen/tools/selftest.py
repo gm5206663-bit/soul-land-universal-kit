@@ -267,6 +267,48 @@ def main():
             failures.append((name, "verify.py" if which == "v" else "style_gate.py",
                              [l.strip() for l in out.splitlines() if l.strip()][-8:]))
 
+    # ---- 2b. warning-level detectors must still fire ------------------------
+    # A gate can be honest and advisory at the same time. The zero ?/! law is
+    # enforced on narration at WARN level (QE_ENFORCE in style_gate.py) because
+    # two shipped chapters still carry six, and rewriting prose is the author's
+    # word. Advisory is not the same as blind: this proves the detector speaks.
+    print()
+    print("[2b] warning-level detectors")
+    warn_cases = [
+        ("narration-question-mark",
+         lambda t: t.replace("The wall was cold to the back of the hand.",
+                             "The wall was cold to the back of the hand? Was it ever.", 1),
+         "?/! IN NARRATION"),
+        ("narration-exclamation",
+         lambda t: t.replace("The wall was cold to the back of the hand.",
+                             "The wall was cold to the back of the hand! It stayed cold.", 1),
+         "?/! IN NARRATION"),
+    ]
+    for name, mutate, needle in warn_cases:
+        bad = mutate(base)
+        path = write_tmp(bad)
+        rc, out = run(STYLE, path)
+        os.unlink(path)
+        fired = needle.lower() in out.lower()
+        quiet = rc != 1   # 0 = clean, 2 = warnings only; 1 = a hard failure
+        ok = fired and quiet
+        print(f"    {name:<26} {'warns' if ok else ('SILENT' if not fired else 'harsher-than-declared')}")
+        if not ok:
+            failures.append((name, "style_gate.py",
+                             [l.strip() for l in out.splitlines() if l.strip()][-6:]))
+
+    # a quoted question is dialogue, not narration — the detector must not misfire
+    quoted = base.replace("The wall was cold to the back of the hand.",
+                          '"Is the wall cold?" he asked. The wall was cold to the back of the hand.')
+    path = write_tmp(quoted)
+    rc, out = run(STYLE, path)
+    os.unlink(path)
+    clean_q = "?/! IN NARRATION" not in out
+    print(f"    {'quoted-question-is-dialogue':<26} {'PASS' if clean_q else 'FALSE POSITIVE'}")
+    if not clean_q:
+        failures.append(("quoted question", "style_gate.py",
+                         [l.strip() for l in out.splitlines() if "?/!" in l]))
+
     # ---- 3. canon_copy_check — the transcription blind spot -----------------
     # Regression suite for the defect that shipped: chapters one to four staged
     # canon scenes by transcribing them, and the gate reported PASS because its
