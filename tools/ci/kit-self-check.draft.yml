@@ -1,0 +1,73 @@
+# KIT SELF-CHECK — the largest repository on the account checks itself.
+#
+# ⚠ THIS IS A DRAFT, HELD IN tools/ci/ ON PURPOSE.
+#   The connected GitHub App carries no `workflows` scope, so pushing a file
+#   under .github/workflows/ is rejected outright:
+#     "refusing to allow a GitHub App to create or update workflow ...
+#      without `workflows` permission"
+#   This is the same wall that held the System Cheat's style gate back before
+#   2026-10-11 (see the header of .github/workflows/style-gate.yml). The gate
+#   itself is armed on every local run and on any machine with the scope:
+#       mkdir -p .github/workflows && \
+#       cp tools/ci/kit-self-check.draft.yml .github/workflows/kit-self-check.yml
+#
+# Armed 2026-10-30. Until this file existed, the kit was the only repository of
+# comparable size with no gate of its own: every chapter-bearing tree in it was
+# checked from the outside, by a tool living in another repository
+# (`soul-library`'s continuity lint, the Control Centre's detectors, the
+# account sweep). The 2026-10-29 account audit filed that as a structural gap.
+#
+# WHAT IT RUNS
+#   python3 tools/check.py --strict   links · spine · manifest · structure · dupes
+#
+# WHY THE SAME FILE IS THE TEST
+#   `--selftest` runs the checker against fixtures that are wrong on purpose —
+#   a broken link, a stale manifest, a committed archive — and requires each to
+#   fail. A gate that has never failed is a gate nobody has tested.
+#
+# WHAT IT DOES NOT DO
+#   It does not re-run the per-serial gates, does not measure the account, and
+#   does not judge prose. Those live where they live; this is the inside check.
+
+name: kit-self-check
+
+on:
+  push:
+    paths:
+      - '*.md'
+      - 'tools/**'
+      - 'docs/index.html'
+      - 'MANIFEST.sha256'
+      - '.github/workflows/kit-self-check.yml'
+  pull_request:
+    paths:
+      - '*.md'
+      - 'tools/**'
+      - 'docs/index.html'
+      - 'MANIFEST.sha256'
+      - '.github/workflows/kit-self-check.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: kit-self-check-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  check:
+    name: Check the kit
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out the kit
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          persist-credentials: false
+
+      - name: Prove the gate locks
+        run: python3 tools/check.py --selftest
+
+      - name: Check the kit
+        run: python3 tools/check.py --strict
