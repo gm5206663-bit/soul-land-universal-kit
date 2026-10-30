@@ -11,7 +11,7 @@
 |---|---|
 | 🔴 epoch | **V2 — canon-parallel rebuild** (V1 archived) |
 | 📖 chapters live | **8** — Chapter_01_What_the_Master_Said.md, Chapter_02_The_Fifteen.md, Chapter_03_The_Find.md, Chapter_04_Bringing_Her_Home.md, Chapter_05_Stay_Here.md, Chapter_06_Gifted.md, Chapter_07_Fed.md, Chapter_08_Clean_Hands.md |
-| ✍️ prose on page | **33,723 words** |
+| ✍️ prose on page | **33,716 words** |
 | 🔋 battery (last run) | **10 layers ALL GREEN (2026-10-30)** |
 | ▶️ next | ch7 — acceptance night (canon 010–011; pairing decided at its board) |
 | 🗓 status dated | 2026-10-30 |
@@ -20,7 +20,7 @@
 
 | file | size | status | role |
 |---|---|---|---|
-| `chapters/Chapter_01_What_the_Master_Said.md` | 21.8K (4,040 w) | 🟢 | V2 ch1 — 'What the Master Said' — dual-track canon-parallel (canon 001–002 + OC Awakening Day). Gated 9/9. |
+| `chapters/Chapter_01_What_the_Master_Said.md` | 21.8K (4,033 w) | 🟢 | V2 ch1 — 'What the Master Said' — dual-track canon-parallel (canon 001–002 + OC Awakening Day). Gated 9/9. |
 | `chapters/Chapter_02_The_Fifteen.md` | 26.9K (4,966 w) | 🟢 | V2 ch2 — 'The Fifteen' — first school day with the fifteen and the knife boy (canon 003–004). Gated 9/9. |
 | `chapters/Chapter_03_The_Find.md` | 26.5K (4,970 w) | 🟢 | V2 ch3 — 'The Find' — the silver girl by the roadside, the record as shield (canon 005). Gated 9/9. |
 | `chapters/Chapter_04_Bringing_Her_Home.md` | 24.1K (4,405 w) | 🟢 | V2 ch4 — 'Bringing Her Home' — mother's fear, the wash, five and a half, first meditation (canon 006). Gated 9/9. |

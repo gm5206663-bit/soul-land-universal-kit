@@ -1,5 +1,8 @@
 # Chapter 3: A Bowl and a Name
 
+## Canon Reference: SL3 ch5–ch7 (the Rice-Bucket day · the roadside child · *"My name is Na'er"* · the office · the meditation …
+> Span taken from `canon_coverage/INDEX.md` — the receipt, not a memory. Canon is ore, not transcript; this chapter is ours.
+
 The gates of Red Mountain Academy let the first day out at last.
 
 Tang Wulin came through them with his head down.

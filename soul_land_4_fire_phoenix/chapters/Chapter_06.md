@@ -1,5 +1,8 @@
 # Chapter 6: The Right Wings
 
+## Canon Reference: SL4 Chapters 25-34 in compressed natural form: spacecraft setup, 7703 launch/safety, space meditation and space-element perception, Tang Le debut, arr
+> Promoted from this chapter's own record block, line 738 — the span is the author's sentence, not a summary. Canon is ore, not transcript; this chapter is ours.
+
 Lan Xuanyu left Zi Luo City with a promise in his pocket.
 
 It was not an important promise by adult standards. No contract stamped by the Federation. No academy record. No soul guidance seal. Only a promise made under the school gate while holiday notices still shone on the classroom boards and parents called children toward waiting cars.

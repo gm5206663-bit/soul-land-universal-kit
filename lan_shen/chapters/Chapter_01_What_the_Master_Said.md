@@ -1,4 +1,5 @@
---- # Chapter One: What the Master Said
+# Chapter One: What the Master Said
+
 
 ```
 ◆ STATUS — Chapter 1: years 0–0

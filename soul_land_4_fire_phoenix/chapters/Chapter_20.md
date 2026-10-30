@@ -1,5 +1,8 @@
 # Chapter 20 - The Answer Behind the Door
 
+## Canon Reference: primarily SL4 Chapter 100 in compressed natural form, with the beginning of SL4 Chapter 101 used only as midterm physical-test setup/hook. SL4 Chapter
+> Promoted from this chapter's own record block, line 874 — the span is the author's sentence, not a summary. Canon is ore, not transcript; this chapter is ours.
+
 Lan Xuanyu sat very still.
 
 The dormitory was quiet enough that he could hear his own breathing, quiet enough that the faint hum of the academy walls sounded louder than Qian Lei's occasional mutter from the next bed.

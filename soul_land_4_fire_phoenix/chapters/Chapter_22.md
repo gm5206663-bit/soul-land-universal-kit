@@ -1,5 +1,8 @@
 # Chapter 22 - The Quietest Place
 
+## Canon Reference: SL4 Chapters 104-105 as the main spine, with early Chapter 106 used only as the boundary/hook up to Lu Qianxun's team approaching Dorm 333's rubble hi
+> Promoted from this chapter's own record block, line 802 — the span is the author's sentence, not a summary. Canon is ore, not transcript; this chapter is ours.
+
 The stone figure came one step at a time.
 
 Bang.

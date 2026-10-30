@@ -1,5 +1,8 @@
 # Chapter 5: Three Winters
 
+## Canon Reference: SL3 ch12–ch15 (the three-year skip: the classroom · the tungsten hammers · the thirty thousand · the tenth …
+> Span taken from `canon_coverage/INDEX.md` — the receipt, not a memory. Canon is ore, not transcript; this chapter is ours.
+
 ## One
 
 The first winter after the sickness, the house stopped counting his breaths.

@@ -1,5 +1,8 @@
 # Chapter 14: The Fire That Did Not Step In
 
+## Canon Reference: SL4 Chapters 82-86 in compressed natural form, with Chapter 87 used only as forward Soul World/training-grounds hook. Covered Lan Xuanyu vs Jin Xiang
+> Promoted from this chapter's own record block, line 612 — the span is the author's sentence, not a summary. Canon is ore, not transcript; this chapter is ours.
+
 "Hey boy, were you talking to me?"
 
 Jin Xiang's smile sharpened as he leaned into Lan Xuanyu's path.

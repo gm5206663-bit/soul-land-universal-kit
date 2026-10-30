@@ -1,5 +1,8 @@
 # Chapter 19: The Question No Teacher Should Hear
 
+## Canon Reference: SL4 Chapter 96 through SL4 Chapter 99 in compressed natural form, with SL4 Chapter 100 used only as a forward private-question hook.
+> Promoted from this chapter's own record block, line 1009 — the span is the author's sentence, not a summary. Canon is ore, not transcript; this chapter is ours.
+
 Qian Lei's face slowly discovered all the reasons a mouth should remain shut.
 
 Unfortunately, his mouth had already worked faster than his fear.

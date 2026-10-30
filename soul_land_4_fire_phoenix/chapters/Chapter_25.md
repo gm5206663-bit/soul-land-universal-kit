@@ -1,5 +1,8 @@
 # Chapter 25: The Second Weight
 
+## Canon Reference: SL4 Chapter 111 cafeteria/food incident and Chapter 112 public/time-bridge setup as the main spine, with Chapter 113-115 used as forward guard materia
+> Promoted from this chapter's own record block, line 1044 — the span is the author's sentence, not a summary. Canon is ore, not transcript; this chapter is ours.
+
 Ye Lingtong did not sleep well.
 
 Sleep should have come easily after the Maze. Her body had been exhausted, her meridians still remembered the strange collapse that had stolen her strength, and her mind had gone over the battle so many times that even anger should have run out of breath.

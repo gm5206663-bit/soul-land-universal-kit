@@ -1,5 +1,8 @@
 # Chapter 37: The Dragon Outside the Window
 
+## Canon Reference: Canon coverage used: Chapter130 `The beginning of the space battle`, Chapter131 `Space hunting net`, Chapter132 `Destroyed a spaceship with bare hands
+> Promoted from this chapter's own record block, line 1086 — the span is the author's sentence, not a summary. Canon is ore, not transcript; this chapter is ours.
+
 Space did not sound like the simulation pod.
 
 In the simulation pod, every explosion came with carefully measured feedback. Every alarm had a practice-room edge to it. Even when the scenario killed him, the world eventually turned black and returned Lan Xuanyu to a cabin that smelled faintly of metal, medicine, and Yin Tianfan's unreasonable expectations.

@@ -1,5 +1,8 @@
 # Chapter 16: The Door That Answered
 
+## Canon Reference: SL4 Chapters 89-91 in compressed natural form, with Chapter 92 cafeteria/Ye Lingtong setup used only as a forward hook. Covered Lan Xuanyu protecting
+> Promoted from this chapter's own record block, line 892 — the span is the author's sentence, not a summary. Canon is ore, not transcript; this chapter is ours.
+
 The third fireball came lower than the first two.
 
 Lan Xuanyu saw that in the instant before it crossed the melting ice thorns. The hundred-year Lava Hound had learned from Liu Feng's redirection. Its head dipped, its shoulders rolled, and the fireball did not fly toward the spear this time.

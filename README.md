@@ -5,6 +5,11 @@ this one repository — one copy of one thing, receipts over memory. The author'
 every file; agents read [`AGENTS.md`](AGENTS.md) first; the dated change log is
 [`HISTORY.md`](HISTORY.md).
 
+**The method is external and it wins:** [`how-to-write-fanfiction`](https://github.com/gm5206663-bit/how-to-write-fanfiction)
+(guide v3.3 / law v5.7). This repository is held to it, not the other way round. One command
+checks the whole workshop — `sh tools/run_all.sh` — and the account-wide scorecard lives in
+[`docs/METHOD_CONFORMANCE.md`](docs/METHOD_CONFORMANCE.md).
+
 📖 **Reading the fiction** — [**Soul Library shelf**](https://gm5206663-bit.github.io/soul-library/)
 (one clean reader, every published chapter) · in-repo: [**The Golden Lion** (SL2)](THE_GOLDEN_LION.md) ·
 [**The System Cheat**](docs/) · [**The Grey Wolf**](docs/grey-wolf/)

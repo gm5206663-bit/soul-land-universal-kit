@@ -1,5 +1,8 @@
 # Chapter 36: The Year Between Wings and Stars
 
+## Canon Reference: Canon coverage used: verified NovelFull/WebNovel Chapters124-129 in order, with Chapter130 only as next battle hook.
+> Promoted from this chapter's own record block, line 1005 — the span is the author's sentence, not a summary. Canon is ore, not transcript; this chapter is ours.
+
 The first week after Yan Shuo returned, Heaven Luo Academy learned that wings were not a reward.
 
 They were homework.

@@ -1,5 +1,8 @@
 # Chapter 38: Names Borrowed by Children
 
+## Canon Reference: Canon coverage used: Chapter135 `Lips brushed against each other`, Chapter136 `How sweet!`, Chapter137 `Chasing to kill`, Chapter138 `I won't hit your
+> Promoted from this chapter's own record block, line 1039 — the span is the author's sentence, not a summary. Canon is ore, not transcript; this chapter is ours.
+
 Lan Xuanyu had survived space pirates, a space hunting net, three pirate mechas aiming at his trapped warship, and a hidden meteor-class attack spaceship firing its main cannon.
 
 Then he saw Nana.

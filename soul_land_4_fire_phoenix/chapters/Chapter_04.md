@@ -1,5 +1,8 @@
 # Chapter 4: The First Record
 
+## Canon Reference: SL4 Chapters 12-17 in compressed natural form: Lan Xuanyu's mysterious thumb ring, private two-ring abnormality, Mysterious Heaven Skill guidance, con
+> Promoted from this chapter's own record block, line 550 — the span is the author's sentence, not a summary. Canon is ore, not transcript; this chapter is ours.
+
 The first night after awakening taught Yan Shuo that having fire was not the same as using it.
 
 He learned this by nearly setting his sleeve smoking.

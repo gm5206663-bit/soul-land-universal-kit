@@ -1,5 +1,8 @@
 # Chapter 1: Two Beginnings
 
+## Canon Reference: Douluo novel chapter 1 era — Holy Spirit Village
+> Promoted from this chapter's own record block, line 533 — the span is the author's sentence, not a summary. Canon is ore, not transcript; this chapter is ours.
+
 The winter before he was born was the warmest his mother, Xiu, could
 remember.
 

@@ -1,5 +1,8 @@
 # Chapter 48 — The Line in the Stars
 
+## Canon Reference: Chapters169-170 consumed; Yin story/routine; Lucky Wheel doorway.
+> Span taken from `canon_coverage/CANON_COVERAGE_INDEX.md` — the receipt, not a memory. Canon is ore, not transcript; this chapter is ours.
+
 "Back then, I was determined to enter Shrek's inner court."
 
 Yin Tianfan said it without his usual laugh.

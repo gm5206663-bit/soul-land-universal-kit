@@ -1,5 +1,8 @@
 # Chapter 4: A Thousand Times
 
+## Canon Reference: SL3 ch8–ch11 (the forge arc: the spirit-soul talk · the trial · the disciple · the astonishing recovery)
+> Span taken from `canon_coverage/INDEX.md` — the receipt, not a memory. Canon is ore, not transcript; this chapter is ours.
+
 "Wait a moment."
 
 Tang Wulin's fingers were already on the door frame. He stopped and looked back.

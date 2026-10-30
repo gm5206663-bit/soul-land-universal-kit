@@ -1,5 +1,8 @@
 # Chapter 7: What Came Home
 
+## Canon Reference: SL4 Chapters 35-40 in compressed natural form: Nana missing from the Heaven Dou Planet Scientific Research Institute, return-spacecraft consciousness
+> Promoted from this chapter's own record block, line 874 — the span is the author's sentence, not a summary. Canon is ore, not transcript; this chapter is ours.
+
 Nana left a note because modern life expected explanations.
 
 It was a small note, written with quiet strokes and placed where Yun Yan would find it only after worry had already begun. The room in the Heaven Dou Planet Scientific Research Institute was clean. The bed was made. The air held no sign of struggle, no broken furniture, no spilled water, no trace of panic.

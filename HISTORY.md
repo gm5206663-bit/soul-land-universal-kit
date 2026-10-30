@@ -15,6 +15,164 @@
 
 ---
 
+## ADDITION — 2026-10-30 · the chapter shape — the other conventions, found and checked
+
+The author: *"find other things like this and check and add."* The canon line was not the only
+habit the account kept without checking. All 284 chapter files were surveyed for the structure a
+chapter carries before and after its prose. Five checkable rules; **one was wrong in the shipped
+text.**
+
+- **`lan_shen/chapters/Chapter_01_What_the_Master_Said.md` opened `--- # Chapter One: …`** — a
+  horizontal rule followed by plain text. The title was never a heading: no anchor, no TOC entry,
+  invisible to anything that reads `^# `. Fixed by splitting the rule off; not a word changed.
+- **`soul_land_new/chapters/Chapter_01.md` is a 24-word placeholder** — `# Chapter 1: {Title}` —
+  sitting beside the real `Chapter_01_The_Grass_That_Stayed.md`. Every measuring tool on the
+  account counts it as a chapter. Pinned as a declared stub, because deleting a file in a serial
+  is the author's click, not a tool's.
+- **The `## Timeline:` line is the canon line's sibling** — canon says *what source*, Timeline
+  says *when in-world*. Two serials keep it on every chapter (24/24 and 8/8) and it had never
+  been written down. Now declared per serial and gated. `adaptive_prodigy` uses it in 37 of 116 —
+  a habit, not a rule — so it is counted and left alone rather than turned into a 72-item backlog.
+
+`docs/CHAPTER_SHAPE.md` is the method and `tools/chapter_shape.py` is the gate, **layer 9** of
+`tools/run_all.sh`. S1/S2/S3 can never be pinned; S4/S5 can, and a pin that starts passing fails
+the build.
+
+**Six more shapes were checked and deliberately not gated** — `## End of Chapter` (3 serials),
+`## Part N:`, `◆ STATUS`, `POV`, the `---` rule. The test: *is it universal, or is it a serial's
+own furniture?* An account-wide gate over a convention one serial keeps is a tax on the others.
+
+**Two false findings, caught before they shipped.** Requiring digit chapter numbers reported eight
+correct `lan_shen` chapters (`# Chapter One:`) as untitled; the truncation check flagged a chapter
+that ends on a numbered record item. Both are fixtures now. In both cases the check was wrong and
+the prose was right.
+
+---
+---
+
+## ADDITION — 2026-10-30 (even later) · the canon line at the head of every chapter
+
+The author: *"add my method of following canon and writing what chapter or episode in that chapter at
+start."* It was already the practice — 147 chapters carried a canon line — but it had never been
+written down as a rule and never been checked. Now it is both.
+
+- **`docs/CANON_METHOD.md`** — the method. The law (*canon is ore, not transcript*), the three header
+  shapes already in use (`## Canon Reference:` · `## Canon:` · `**[canon: S1 slot 1 — … (N° 101)]**`
+  for animated sources), the author's own seven steps quoted from `soul_land_3_oc/canon_coverage/INDEX.md`,
+  the standing fidelity notes, what does not count, and the current backlog.
+- **`tools/canon_header.py`** — the gate, wired in as **layer 8** of `tools/run_all.sh`. Read-only;
+  pinned to a backlog that may only shrink, so a new chapter cannot be written without a canon line and
+  82 legacy chapters do not turn the battery red.
+- **Coverage: 202 of 284 chapter files (71%).** 14 backfilled from coverage indexes, 37 promoted from
+  spans the chapters already carried 900 lines down, and **none guessed** — where a serial's records do
+  not say which chapter carries which span, the chapter stays in the backlog, listed in
+  `reports/CANON-HEADERS-TODO.md`.
+
+**Four false gaps, caught before they did damage.** `adaptive_prodigy` was first reported as having 4
+silent chapters. It does not: the house writes `canon 247` with no `ch`, and hard-wraps headers across
+several `##` lines. Both shapes are fixtures now. A false gap invites someone to "fix" a chapter that
+was already right — the same failure as a false pass, pointing the other way. Separately, an early
+extractor read *"Target canon span for Chapter 8: SL4 Chapters 41-45"* and returned **8** — the fic's
+own number, as its canon span. Ten Fire Phoenix chapters would have been labelled with themselves. That
+is why every number written is quoted from a receipt, and the receipt is named in the header.
+
+**The register caught this edit.** 51 new header blocks moved the corpus count from 1,211,566 to
+1,212,919 words, so `tools/register_drift.py` — installed the same day — went red until `REGISTER.md`
+was rebuilt. Note the count always included canon headers: the 147 that already existed were counted
+too. The measurement rule was not changed for cosmetic reasons; it was told the truth.
+
+---
+---
+
+## ADDITION — 2026-10-30 (later the same day) · the corpus layer
+
+The conformance pass above ended with an honest limit: the battery covered **five of the fourteen**
+projects, because only five carry a `checks/run_all.sh`. The guide names that failure — `register.py`
+exists *"because the account's own tools had been registering what they happened to look at, not what
+was there."* The kit already owned `register.py` and `account.py`; neither was inside the battery.
+
+Two layers are now in it: **6 account control centre** (16 books · 283 chapters · 1,211,566 words ·
+**33 of 33** trees accounted for) and **7 register drift** (`REGISTER.md` still equals what the tree
+produces). `sh tools/run_all.sh` now covers the corpus, not a sample of it: **11 held, 1 red**.
+
+**Three defects the corpus layer exposed in its first run, all now fixed and selftested.**
+
+1. **`housekeeping` examined zero repositories on a single-repo root.** It kept its own copy of the
+   "which repositories exist" walk instead of calling `_repos()`, which had been taught that the root
+   may itself be the repository. On `--root soul-land-universal-kit` it walked nothing and printed
+   `0 of 0` as a clean bill — on the repository holding everything. One implementation now.
+2. **`generated` examined 0 of 0 while three files declared themselves generated.** Its stamp regex
+   wanted `SHA256:`, and `REGISTER.md` says *"Generated … Regenerate it; never edit it"* with no hash,
+   so the detector read a declaration as no file at all. It now counts both — **0 of 3 checked against
+   a hash** — and names all three.
+3. **Zero coverage reported as health.** Now an invariant: every detector whose coverage total is 0
+   must emit a finding — `empty-coverage` (hard) when it expects subjects, `thin-coverage` (advisory)
+   when the empty set is real. The selftest deletes the invariant and confirms the check goes red.
+
+**And one defect this pass caused, then repaired.** The first version of layer 6 wrote refreshed
+`account_report.*` into the tracked tree, which broke their byte-identity with the copies in
+`SOUL_LAND_WORKSPACE/kit/` — the duplicate-group count fell 25 → 19 because six identical files had
+stopped being identical. Caught by noticing the number moved the wrong way. The layer now writes to
+`${TMPDIR}`: **the battery is read-only**; regenerating state is an explicit act.
+
+**Open, and the author's call:** `SOUL_LAND_UNIVERSAL_KIT/REGISTER.md` and
+`SOUL_LAND_WORKSPACE/kit/REGISTER.md` are byte-identical copies of a whole-account register from
+**2026-10-13** (24 books · 377 chapters · 1,624,963 words), and neither can be checked from this
+checkout because this checkout is not a full clone set. Both are declared exemptions in
+`tools/register_drift.py`, and the "it is a copy" half is *checked* byte-for-byte rather than trusted.
+Either delete the pair or regenerate them from a full clone set with a hash stamp this repository can
+verify. Written up in `docs/METHOD_CONFORMANCE.md` §8.
+
+---
+
+---
+
+---
+
+## ADDITION — 2026-10-30 · the method conformance pass (account-wide)
+
+The author: *"make every repo work on how to write fan fiction repo."* All thirteen repositories
+were measured against `gm5206663-bit/how-to-write-fanfiction` (guide v3.3 / law v5.7), which was
+cloned and read rather than remembered, and the five rules were extracted verbatim from it.
+
+**What this repository got wrong, and it was the worst of the thirteen.**
+
+- **The kit cited the law zero times.** The repository holding the whole Soul Land corpus, thirteen
+  gated projects and a copy of the guide's tools never named the guide — while five much smaller
+  repositories cited it correctly. `README.md` and `AGENTS.md` now carry the pointer, and `AGENTS.md`
+  quotes the three rules that govern every change here.
+- **The kit had no battery of its own.** Every `run_all.sh` in it belonged to a serial
+  (`lan_shen`, `adaptive_prodigy`, `Miraculous_Project`, …). The one repository you could not check
+  in a single command was the one holding everything. **`tools/run_all.sh`** is that command now.
+
+**New tools, both selftested.**
+
+- `tools/method/conformance.py` — measures any tree of repositories against R1–R5. Its `--selftest`
+  runs nine defect-injecting fixtures. Before it was trusted it produced **four false passes and
+  one false gap**: a serial's battery credited to the kit, a chapter writer credited as a battery,
+  a changelog mention credited as citing the law, a report's copy of another repository's manifest
+  credited as proof, and `supergirl-adrian-vale` reported as having no battery when it launches its
+  checks through `subprocess.run([sys.executable, …])`. All five are fixed and each has a fixture
+  so they cannot come back. Recorded in `docs/METHOD_CONFORMANCE.md` §3, because a measurement
+  tool's failures are the only reason to believe its successes.
+- `tools/method/manifest.py` — the portable hash manifest for the six repositories that have none.
+  It carries the one law that matters: **never `--write` to make a red build green.** The manifest
+  records what the author accepted; re-stamping an unaccepted change forges the receipt.
+- `tools/method/template/run_all.sh` — the thin runner the other repositories copy. It holds no
+  rules of its own; it calls the checks that live in that repository and says which ones ran.
+
+**The scorecard** is `docs/METHOD_CONFORMANCE.md`: thirteen rows, per-rule counts, the per-repository
+plan in four tiers, and the copy-ready artifacts.
+
+**One red gate, and it stays red.** The new battery runs the serials and reports one genuine
+failure — `adaptive_prodigy` ch116, where the prose opens the Hawk-Soul Union on-page three times.
+D006 holds that first use is reserved; `CONTINUATION_PROMPT.md`, `DIVERGENCE_LEDGER.md` (D19),
+`PROBLEM_INVENTORY.md` (M5) and `BUTTERFLY_REGISTRY.md` (O1, which records ch69 *not* opening it)
+all agree, and **ch116's own header says "no sealed gate is touched."** Rewriting shipped prose is
+the author's word, not a repair, and weakening L4 to pass would be the one move the method forbids.
+The decision is recorded in `docs/METHOD_CONFORMANCE.md` §4 with three options; until one is chosen
+`sh tools/run_all.sh` exits 1 and prints the reason on screen.
+
 ## The README as it stood until 2026-10-13 (verbatim)
 
 # ═══ WORKSPACE MAP — read this first ═══

@@ -1,5 +1,8 @@
 # Chapter 39: A Vortex Learns to Hold
 
+## Canon Reference: Canon coverage used: Chapter141 `Breakthrough`, Chapter142 `Second Soul Ring! Evolve!`, Chapter143 `Fire element?`, Chapter144 `The Dao of Water and F
+> Promoted from this chapter's own record block, line 1321 — the span is the author's sentence, not a summary. Canon is ore, not transcript; this chapter is ours.
+
 Nana did not make the cultivation room darker.
 
 She did not draw runes, summon rare equipment, or fill the room with the dramatic pressure Lan Xuanyu had secretly imagined a protected breakthrough might require. She only closed the door, checked the air once with quiet silver eyes, and placed herself where she could reach him before any mistake became permanent.

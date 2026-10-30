@@ -1,5 +1,8 @@
 # Chapter 1: The Reading
 
+## Canon Reference: SL3 ch1–ch2 (awakening · the walk home · the four bowls)
+> Span taken from `canon_coverage/INDEX.md` — the receipt, not a memory. Canon is ore, not transcript; this chapter is ours.
+
 Su Yan woke before the house did.
 
 He had done that every morning for a month, ever since his body came back to him. He lay still and listened to the building. Downstairs, in the front room, his father was opening the clinic shutters. The hinges complained twice, in the same order they always did.

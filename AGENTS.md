@@ -1,5 +1,43 @@
 # AGENTS.md — the contract for any AI agent arriving in this workspace
 
+## The method this workshop is held to — read this line, it is the whole rule
+
+**The law is [`gm5206663-bit/how-to-write-fanfiction`](https://github.com/gm5206663-bit/how-to-write-fanfiction)**
+— *How to Write Gated Fan Fiction*, guide edition **v3.3**, law revision **v5.7**. Where this
+workspace and that guide disagree, the guide wins and this workspace is the thing that is wrong.
+
+This repository did not name that guide anywhere until **2026-10-30**, despite carrying a copy of
+its tools and thirteen gated projects. An account-wide conformance pass found it: the kit cited the
+law **zero times** while five smaller repositories cited it correctly. That is the "one copy of one
+thing" failure the guide itself describes, in the repository that holds the most copies.
+
+Three rules from the guide, quoted, because they govern every change here:
+
+1. **A gate must be seen to fail.** A check that has never been shown catching a defect is not a
+   gate. `tools/check.py --selftest` and `tools/method/conformance.py --selftest` exist for this.
+2. **Never weaken a gate to pass it.** If the check is wrong, fix the check *and its selftest*; if
+   the work is wrong, fix the work. Loosening the rule is not one of the two options.
+3. **Never trust only the project's own checker.** `MANIFEST.sha256` and an outside scan are the
+   independent proof. A repository that cannot prove its own files are the files it checked cannot
+   prove anything downstream.
+
+**The chapter shape.** A chapter opens with `# …` as a real heading naming the chapter and its
+title, then `## Canon Reference:` (what source), then `## Timeline:` where the serial has declared
+that convention (when in-world) — then the prose. No placeholder file may be counted as a chapter.
+The rules, the five shapes measured, and the six that were deliberately *not* enforced are in
+[`docs/CHAPTER_SHAPE.md`](docs/CHAPTER_SHAPE.md); the gate is `tools/chapter_shape.py`.
+
+**The canon rule, in one line.** Every chapter opens with `## Canon Reference:` naming the canon
+chapter or episode it is built on and the receipt that says so — then the prose. Canon is ore, not
+transcript; the OC runs parallel and never takes a canon scene. The method, the three accepted header
+shapes (novel · short · **episode**, for animated sources), the seven steps and the current backlog are
+in [`docs/CANON_METHOD.md`](docs/CANON_METHOD.md). The gate is `tools/canon_header.py`, and it is
+pinned: a new chapter cannot be written without a canon line.
+
+The one command that runs all of it: **`sh tools/run_all.sh`** — exits 0 when everything holds.
+What it covers, and which repositories on this account still fail which rule, is measured and
+kept in [`docs/METHOD_CONFORMANCE.md`](docs/METHOD_CONFORMANCE.md).
+
 <!-- account-agent-navigation: 2026-10-16 -->
 ## Account navigation — read before acting
 

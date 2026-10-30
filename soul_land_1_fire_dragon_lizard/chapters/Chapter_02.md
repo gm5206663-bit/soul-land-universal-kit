@@ -1,5 +1,8 @@
 # Chapter 2: The Fire in the Star
 
+## Canon Reference: ch1 + ceremony mechanics (corroborated ch2 material); the awakening
+> Span taken from `canon_coverage/CANON_COVERAGE_INDEX.md` — the receipt, not a memory. Canon is ore, not transcript; this chapter is ours.
+
 He woke because the house was cold and he liked it that way.
 
 The window had been open all night. Frost sat on the sill like a thin

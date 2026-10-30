@@ -1,5 +1,8 @@
 # Chapter 6: Thirty Thousand
 
+## Canon Reference: SL3 ch16–ch19 (the beach's answer · the Pagoda's wall · the spiritual-power test · the random draw · the …
+> Span taken from `canon_coverage/INDEX.md` — the receipt, not a memory. Canon is ore, not transcript; this chapter is ours.
+
 ## One
 
 He gave her his answer on the sand, before the lanterns went out along the harbor road.

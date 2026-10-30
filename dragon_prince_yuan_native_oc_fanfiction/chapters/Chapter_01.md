@@ -1,5 +1,8 @@
 # Chapter 1: The Second Son in the Green Smoke
 
+## Canon Reference: Wuxiaworld novel Chapter 1 `Python and Sparrow Swallow the Dragon` in full; donghua EP1 synopsis used only as broad premise confirmation. Manhua not u
+> Promoted from this chapter's own record block, line 417 — the span is the author's sentence, not a summary. Canon is ore, not transcript; this chapter is ours.
+
 The inner palace of Great Zhou burned with green smoke.
 
 It rose from blue sandalwood stones set inside bronze lamps, thin spirals twisting upward until they disappeared beneath carved beams and golden shadows. The fragrance was calm, expensive, and clean enough that ordinary people would breathe once and feel their thoughts settle.

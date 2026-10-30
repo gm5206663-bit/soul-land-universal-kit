@@ -1,5 +1,8 @@
 # Chapter 26: The Test That Chose a Target
 
+## Canon Reference: SL4 Chapter 112 tail, Chapter 113 `Improvement`, Chapter 114 `The second test`, Chapter 115 `Middle phase of the Spirit Connection realm`, and Chapter
+> Promoted from this chapter's own record block, line 960 — the span is the author's sentence, not a summary. Canon is ore, not transcript; this chapter is ours.
+
 Ji Hongbin stood beside the simulation cabin with his arms crossed and his face darker than the cabin lid.
 
 Yin Tianfan pretended not to notice.

@@ -102,6 +102,27 @@ def run(root, only=None, pages=None, owner=OWNER):
     if ('pages' in (only or ())) or (pages and not only):
         runs.append(checks.check_pages(books, owner, token=pages))
 
+    # THE ZERO-COVERAGE INVARIANT.
+    # A detector whose coverage total is 0 examined nothing. It has not reported health; it has
+    # reported the absence of a subject, and the two print identically unless someone says so.
+    # The account has already shipped that mistake once (a stage that built 0 of 52 chapters and
+    # called itself a success), and this very tool carried two silent zeros on 2026-10-30 —
+    # `housekeeping` had its own repo listing and saw none, `generated` found no stamp while the
+    # repository held files declaring themselves generated. Both reported "0 of 0" and neither
+    # said a word. This loop is the reason the next one cannot stay quiet.
+    for r in runs:
+        cov = r.get('coverage') or {}
+        if cov.get('total', 0) == 0:
+            expected = r.get('expects', True)
+            r['findings'].append(checks.finding(
+                'empty-coverage' if expected else 'thin-coverage',
+                '-', '-', r['detector'], r['detector'],
+                f"{r['detector']}: {cov.get('text', '0 of 0')} — "
+                + ("this detector expects subjects and examined none, so the walk is broken"
+                   if expected else
+                   "nothing of this kind exists here; the zero is a fact, not a pass"),
+                evidence='coverage total is zero'))
+
     findings = [x for r in runs for x in r['findings']]
     findings.sort(key=lambda f: (SEV_ORDER[f['severity']], f['repo'], f['book'], f['kind']))
     facts = next((r.get('facts', []) for r in runs if r['detector'] == 'gate'), [])

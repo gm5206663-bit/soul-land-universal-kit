@@ -1,5 +1,8 @@
 # Chapter 50 — The Forest Counts Separately
 
+## Canon Reference: Chapters174-175 compressed; Star Dou Forest round begins and pathfinding reaches roughly one kilometer inward.
+> Span taken from `canon_coverage/CANON_COVERAGE_INDEX.md` — the receipt, not a memory. Canon is ore, not transcript; this chapter is ours.
+
 The hall knew Dorm333's score before anyone said it.
 
 It was in the way Lu Qianxun stood behind Lan Xuanyu's team with Ye Lingtong and Chang Jianyi without needing an order. It was in Jin Xiang's closed mouth. It was in the glances toward Liu Feng's covered right arm, toward Qian Lei's feet, toward Lan's back.
