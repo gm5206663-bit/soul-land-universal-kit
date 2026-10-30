@@ -1,5 +1,30 @@
 # AGENTS.md — the contract for any AI agent arriving in this workspace
 
+## The method this workshop is held to — read this line, it is the whole rule
+
+**The law is [`gm5206663-bit/how-to-write-fanfiction`](https://github.com/gm5206663-bit/how-to-write-fanfiction)**
+— *How to Write Gated Fan Fiction*, guide edition **v3.3**, law revision **v5.7**. Where this
+workspace and that guide disagree, the guide wins and this workspace is the thing that is wrong.
+
+This repository did not name that guide anywhere until **2026-10-30**, despite carrying a copy of
+its tools and thirteen gated projects. An account-wide conformance pass found it: the kit cited the
+law **zero times** while five smaller repositories cited it correctly. That is the "one copy of one
+thing" failure the guide itself describes, in the repository that holds the most copies.
+
+Three rules from the guide, quoted, because they govern every change here:
+
+1. **A gate must be seen to fail.** A check that has never been shown catching a defect is not a
+   gate. `tools/check.py --selftest` and `tools/method/conformance.py --selftest` exist for this.
+2. **Never weaken a gate to pass it.** If the check is wrong, fix the check *and its selftest*; if
+   the work is wrong, fix the work. Loosening the rule is not one of the two options.
+3. **Never trust only the project's own checker.** `MANIFEST.sha256` and an outside scan are the
+   independent proof. A repository that cannot prove its own files are the files it checked cannot
+   prove anything downstream.
+
+The one command that runs all of it: **`sh tools/run_all.sh`** — exits 0 when everything holds.
+What it covers, and which repositories on this account still fail which rule, is measured and
+kept in [`docs/METHOD_CONFORMANCE.md`](docs/METHOD_CONFORMANCE.md).
+
 <!-- account-agent-navigation: 2026-10-16 -->
 ## Account navigation — read before acting
 

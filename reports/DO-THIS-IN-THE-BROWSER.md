@@ -97,3 +97,93 @@ Your work is ahead of its release history in four repos. To cut one:
 `supergirl-adrian-vale` has a genuinely failing gate — seven accepted chapter hashes that no longer match their files after a real repair. It has failed since 2026-10-13 and it is **supposed** to fail: the record is stale, not the prose.
 
 The fix is tested and sitting in the kit. It needs one session pointed at that repository, which I cannot do from here. If you ever want it closed, start a new Arena session on `supergirl-adrian-vale` and say: *"apply the re-acceptance script from soul-land-universal-kit/reports/supergirl-reaccept-2026-10-30/"*.
+
+---
+
+# Part 2 — bringing the other twelve repositories to the method
+
+`docs/METHOD_CONFORMANCE.md` is the scorecard. This is the click path. Tiers are ordered so
+stopping halfway still leaves the account better than it was.
+
+**The cheapest real win is Tier 1: six repositories, one paragraph each, five minutes of clicks
+each, and it closes R5 — "names the law" — everywhere it is still missing. Six of thirteen
+repositories do not name the guide at all; after this, none of them.**
+
+---
+
+## Tier 1 — one paragraph per README (closes R5 in 4 repos)
+
+Open each repository's `README.md` in the browser, click the **pencil** (Edit), and paste this
+directly under the first heading. Then **Commit changes** with the message shown.
+
+Repositories: `supergirl-adrian-vale` · `the-authors-desk` · `storyos-site` ·
+`mcu_eternal_fanfic` · `stark_heir` · `the-universal-storyline-creation`
+
+```markdown
+**The method:** this repository is held to
+[`how-to-write-fanfiction`](https://github.com/gm5206663-bit/how-to-write-fanfiction)
+(guide v3.3 / law v5.7). Where the two disagree, the guide wins. One command checks this
+repository: `sh tools/run_all.sh`.
+```
+
+Commit message: `Cite the law (R5) — how-to-write-fanfiction v3.3/v5.7`
+
+That paragraph is not decoration. It is the pointer that lets the next agent correct the repo
+instead of guessing at it, which is the whole reason the guide asks for it.
+
+---
+
+## Tier 2 — a battery per repository (closes R1 in 5 repos)
+
+Repositories: `sara` · `adaptation-talent` · `pokemon-adaptation` · `mcu_eternal_fanfic` ·
+`stark_heir` · `storyos-site` · `the-universal-storyline-creation`
+
+For each one:
+
+1. Open `tools/` → **Add file** → **Create new file**
+2. Name it `run_all.sh`
+3. Paste the contents of
+   [`tools/method/template/run_all.sh`](../tools/method/template/run_all.sh)
+4. Edit the **two marked lines** so they name *that* repository's real checks
+5. **Commit changes** → message: `Add the one-command battery (R1)`
+
+The runner prints every layer it ran and every layer it skipped. A skipped layer is not a pass —
+it prints that too, so the gap is visible instead of assumed.
+
+**Do not add a check you have not run.** If a layer reds out on the first try, that is the battery
+doing its job on day one — record it and fix the work, not the line.
+
+---
+
+## Tier 3 — the proof of bytes (closes R3 in 6 repos)
+
+Order: `storyos-site` → `soul-library` → `the-authors-desk` → `mcu_eternal_fanfic` →
+`stark_heir` → `the-universal-storyline-creation`
+
+1. Create `tools/manifest.py` from
+   [`tools/method/manifest.py`](../tools/method/manifest.py) — add file, paste, commit:
+   `Add the portable manifest tool (R3)`
+2. Then, once, from a session that can run it:
+   `python3 tools/manifest.py --write` and commit the resulting `MANIFEST.sha256`
+
+`soul-library` note: its `sentinel.html` looks like proof and is not — it contains no hashes at all
+(checked: zero matches). A status page is a claim about state; a manifest is proof about bytes.
+
+---
+
+## Tier 4 — state that rebuilds itself (closes R4 in 4 repos)
+
+`sara` · `soul-library` · the profile README · `the-universal-storyline-creation`
+
+Each needs a status file generated from the tree at the end of a turn, not a paragraph someone
+remembered to update. The guide's Ship Law wording: if it is not rebuilt, it is a memory, and
+memories drift silently.
+
+---
+
+## The one thing that is *not* a click
+
+`adaptive_prodigy` ch116 opens the Hawk-Soul Union on-page; the lock says first use is reserved.
+That is a decision about your own prose, and three options are written out in
+`docs/METHOD_CONFORMANCE.md` §4. Nothing should be clicked until you pick one — the gate is
+correctly red, and it will stay red, on purpose, until the ruling exists.

@@ -15,6 +15,52 @@
 
 ---
 
+## ADDITION — 2026-10-30 · the method conformance pass (account-wide)
+
+The author: *"make every repo work on how to write fan fiction repo."* All thirteen repositories
+were measured against `gm5206663-bit/how-to-write-fanfiction` (guide v3.3 / law v5.7), which was
+cloned and read rather than remembered, and the five rules were extracted verbatim from it.
+
+**What this repository got wrong, and it was the worst of the thirteen.**
+
+- **The kit cited the law zero times.** The repository holding the whole Soul Land corpus, thirteen
+  gated projects and a copy of the guide's tools never named the guide — while five much smaller
+  repositories cited it correctly. `README.md` and `AGENTS.md` now carry the pointer, and `AGENTS.md`
+  quotes the three rules that govern every change here.
+- **The kit had no battery of its own.** Every `run_all.sh` in it belonged to a serial
+  (`lan_shen`, `adaptive_prodigy`, `Miraculous_Project`, …). The one repository you could not check
+  in a single command was the one holding everything. **`tools/run_all.sh`** is that command now.
+
+**New tools, both selftested.**
+
+- `tools/method/conformance.py` — measures any tree of repositories against R1–R5. Its `--selftest`
+  runs nine defect-injecting fixtures. Before it was trusted it produced **four false passes and
+  one false gap**: a serial's battery credited to the kit, a chapter writer credited as a battery,
+  a changelog mention credited as citing the law, a report's copy of another repository's manifest
+  credited as proof, and `supergirl-adrian-vale` reported as having no battery when it launches its
+  checks through `subprocess.run([sys.executable, …])`. All five are fixed and each has a fixture
+  so they cannot come back. Recorded in `docs/METHOD_CONFORMANCE.md` §3, because a measurement
+  tool's failures are the only reason to believe its successes.
+- `tools/method/manifest.py` — the portable hash manifest for the six repositories that have none.
+  It carries the one law that matters: **never `--write` to make a red build green.** The manifest
+  records what the author accepted; re-stamping an unaccepted change forges the receipt.
+- `tools/method/template/run_all.sh` — the thin runner the other repositories copy. It holds no
+  rules of its own; it calls the checks that live in that repository and says which ones ran.
+
+**The scorecard** is `docs/METHOD_CONFORMANCE.md`: thirteen rows, per-rule counts, the per-repository
+plan in four tiers, and the copy-ready artifacts.
+
+**One red gate, and it stays red.** The new battery runs the serials and reports one genuine
+failure — `adaptive_prodigy` ch116, where the prose opens the Hawk-Soul Union on-page three times.
+D006 holds that first use is reserved; `CONTINUATION_PROMPT.md`, `DIVERGENCE_LEDGER.md` (D19),
+`PROBLEM_INVENTORY.md` (M5) and `BUTTERFLY_REGISTRY.md` (O1, which records ch69 *not* opening it)
+all agree, and **ch116's own header says "no sealed gate is touched."** Rewriting shipped prose is
+the author's word, not a repair, and weakening L4 to pass would be the one move the method forbids.
+The decision is recorded in `docs/METHOD_CONFORMANCE.md` §4 with three options; until one is chosen
+`sh tools/run_all.sh` exits 1 and prints the reason on screen.
+
+---
+
 ## The README as it stood until 2026-10-13 (verbatim)
 
 # ═══ WORKSPACE MAP — read this first ═══
