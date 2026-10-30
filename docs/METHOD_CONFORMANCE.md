@@ -333,3 +333,43 @@ Two things this pass is worth remembering for:
 - **The register caught the edit.** Adding 51 headers changed the corpus word count, so
   `tools/register_drift.py` — layer 7, added the same day — went red until `REGISTER.md` was rebuilt.
   That is same-turn state (R4) doing its job on its author, one layer after being installed.
+
+---
+
+## 10. The chapter shape — the second convention the account kept but never checked
+
+`CANON_METHOD.md` (§9) found one. It was not one. A survey of all 284 chapter files found five
+checkable shapes, of which **one was wrong in the published text**:
+`lan_shen/chapters/Chapter_01_What_the_Master_Said.md` opened `--- # Chapter One: …`, which
+Markdown renders as a rule followed by plain text — the title had never been a heading.
+
+Now `docs/CHAPTER_SHAPE.md` + `tools/chapter_shape.py`, **layer 9** of the battery:
+
+| | rule | 2026-10-30 |
+|---|---|---|
+| S1 | the first line is a real `# ` heading | 284 / 284 (283 before the fix) |
+| S2 | the heading names a chapter **and** a title, digit or word | 284 / 284 |
+| S3 | a placeholder file is not a chapter | **1 found** — pinned, author's call |
+| S4 | `## Timeline:` in the serials that declared it | 32 / 32 in the two declared serials |
+| S5 | the last prose line is not mid-sentence | 0 truncated |
+
+**The S3 finding is the interesting one.** `soul_land_new/chapters/Chapter_01.md` is 24 words of
+unfilled template — `# Chapter 1: {Title}` — sitting beside the real
+`Chapter_01_The_Grass_That_Stayed.md`. Every measuring tool on the account counted it as a chapter.
+The register caught the *words* and missed the *fact*.
+
+**6 more shapes were checked and deliberately not gated** (§4 of `CHAPTER_SHAPE.md`):
+`## End of Chapter` (3 serials), `## Part N:` (mostly one serial), `◆ STATUS` (one serial), `POV`
+(3 chapters), the `---` rule (119). The test applied to each: *is it universal, or is it a serial's
+own furniture?* An account-wide gate over a convention one serial keeps is not a standard, it is a
+tax on the others.
+
+**Two false findings were caught before they shipped**, both now fixtures: requiring digit chapter
+numbers reported eight correct `lan_shen` chapters as untitled; and the truncation check flagged a
+chapter that ends on a numbered record item rather than prose. In both cases the check was wrong
+and the prose was right — which is the sequence the method insists on: *if the gate is wrong, fix
+the gate; never the other way round for convenience.*
+
+**The pattern across §9 and §10:** four of the five chapter-shape rules were already the account's
+practice, and none had ever been checked. The account's habits are ahead of its gates, and that gap
+is where the defects live.

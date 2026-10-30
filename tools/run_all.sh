@@ -105,6 +105,10 @@ if [ "$QUICK" -eq 0 ]; then
   # or episode it is built on. Read-only, and pinned to a backlog that may only shrink, so a
   # new chapter cannot slip in without one and 82 legacy chapters do not turn the battery red.
   layer "8 canon headers"          "0" python3 tools/canon_header.py --check
+
+  # 9. the chapter's shape: a real heading, a chapter-and-title, no placeholder counted as a
+  # chapter, the Timeline line where the serial declared it, and no truncated tail.
+  layer "9 chapter shape"          "0" python3 tools/chapter_shape.py --check
 fi
 
 echo "----------------------------------------------------------------------"

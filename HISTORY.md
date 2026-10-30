@@ -15,6 +15,41 @@
 
 ---
 
+## ADDITION — 2026-10-30 · the chapter shape — the other conventions, found and checked
+
+The author: *"find other things like this and check and add."* The canon line was not the only
+habit the account kept without checking. All 284 chapter files were surveyed for the structure a
+chapter carries before and after its prose. Five checkable rules; **one was wrong in the shipped
+text.**
+
+- **`lan_shen/chapters/Chapter_01_What_the_Master_Said.md` opened `--- # Chapter One: …`** — a
+  horizontal rule followed by plain text. The title was never a heading: no anchor, no TOC entry,
+  invisible to anything that reads `^# `. Fixed by splitting the rule off; not a word changed.
+- **`soul_land_new/chapters/Chapter_01.md` is a 24-word placeholder** — `# Chapter 1: {Title}` —
+  sitting beside the real `Chapter_01_The_Grass_That_Stayed.md`. Every measuring tool on the
+  account counts it as a chapter. Pinned as a declared stub, because deleting a file in a serial
+  is the author's click, not a tool's.
+- **The `## Timeline:` line is the canon line's sibling** — canon says *what source*, Timeline
+  says *when in-world*. Two serials keep it on every chapter (24/24 and 8/8) and it had never
+  been written down. Now declared per serial and gated. `adaptive_prodigy` uses it in 37 of 116 —
+  a habit, not a rule — so it is counted and left alone rather than turned into a 72-item backlog.
+
+`docs/CHAPTER_SHAPE.md` is the method and `tools/chapter_shape.py` is the gate, **layer 9** of
+`tools/run_all.sh`. S1/S2/S3 can never be pinned; S4/S5 can, and a pin that starts passing fails
+the build.
+
+**Six more shapes were checked and deliberately not gated** — `## End of Chapter` (3 serials),
+`## Part N:`, `◆ STATUS`, `POV`, the `---` rule. The test: *is it universal, or is it a serial's
+own furniture?* An account-wide gate over a convention one serial keeps is a tax on the others.
+
+**Two false findings, caught before they shipped.** Requiring digit chapter numbers reported eight
+correct `lan_shen` chapters (`# Chapter One:`) as untitled; the truncation check flagged a chapter
+that ends on a numbered record item. Both are fixtures now. In both cases the check was wrong and
+the prose was right.
+
+---
+---
+
 ## ADDITION — 2026-10-30 (even later) · the canon line at the head of every chapter
 
 The author: *"add my method of following canon and writing what chapter or episode in that chapter at

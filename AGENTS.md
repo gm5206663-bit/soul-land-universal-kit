@@ -21,6 +21,12 @@ Three rules from the guide, quoted, because they govern every change here:
    independent proof. A repository that cannot prove its own files are the files it checked cannot
    prove anything downstream.
 
+**The chapter shape.** A chapter opens with `# …` as a real heading naming the chapter and its
+title, then `## Canon Reference:` (what source), then `## Timeline:` where the serial has declared
+that convention (when in-world) — then the prose. No placeholder file may be counted as a chapter.
+The rules, the five shapes measured, and the six that were deliberately *not* enforced are in
+[`docs/CHAPTER_SHAPE.md`](docs/CHAPTER_SHAPE.md); the gate is `tools/chapter_shape.py`.
+
 **The canon rule, in one line.** Every chapter opens with `## Canon Reference:` naming the canon
 chapter or episode it is built on and the receipt that says so — then the prose. Canon is ore, not
 transcript; the OC runs parallel and never takes a canon scene. The method, the three accepted header
