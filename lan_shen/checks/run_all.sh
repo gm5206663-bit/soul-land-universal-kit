@@ -102,11 +102,25 @@ fi
 # in shipped prose and two current-state documents asserting superseded values.
 layer "9 banned_token_check.py" "0" python3 tools/banned_token_check.py
 
+# ---- 10. every path the records cite ----------------------------------------
+# Added 2026-10-30. Layers 1-9 judge the prose. None of them can see that a record
+# points at a file which is no longer there — and on 2026-10-30, 522 citations
+# across 33 record files were checked for the first time: 117 had moved, 20 were
+# archived, 8 belonged to other repositories on the account, 7 named unwritten
+# chapters, and ONE was genuinely gone (`foundation/PREWRITE_ch04_draft_block.md`,
+# recorded in tools/citation_sources.json under known_loss).
+#
+# A moved or archived citation is not a defect — it is a record pointing at a file
+# that relocated, and the tool prints where it went. Only an UNLISTED missing file
+# fails, so this layer catches new rot without staying red over findings already
+# written down.
+layer "10 record_links.py"    "0"   python3 tools/record_links.py
+
 echo "----------------------------------------------------------------------"
 if [ "$FAIL" -eq 0 ]; then
   printf '  ALL GREEN — %s layers held, 0 failed\n' "$PASS"
   echo "----------------------------------------------------------------------"
-  python3 tools/status_gen.py "9 layers ALL GREEN ($(date +%F))" 2>/dev/null | sed 's/^/  STATUS: /'
+  python3 tools/status_gen.py "10 layers ALL GREEN ($(date +%F))" 2>/dev/null | sed 's/^/  STATUS: /'
   exit 0
 fi
 printf '  %s held | %s FAILED:%s\n' "$PASS" "$FAIL" "$FAILED"

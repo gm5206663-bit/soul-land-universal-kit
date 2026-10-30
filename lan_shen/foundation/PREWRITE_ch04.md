@@ -2,8 +2,25 @@
 
 Written before drafting, per the seven-item contract + **CLAUSE 5 GATE** (naturalness
 amendment, 2026-10-10). Canon = **006 only** (receipt re-read 2026-10-10 before design;
-the 006 draft sequence staged in `foundation/PREWRITE_ch04_draft_block.md` — 1,894w,
-authored 2026-09-23 — is the raw body to re-voice and reassemble). Canon 006 ends on the
+the 006 draft sequence — 1,894w, authored 2026-09-23 — was the raw body to re-voice and
+reassemble).
+
+> ⚠ **2026-10-30 — the draft block this board names is GONE, and it was never in this
+> repository.** The line above used to read *"staged in `foundation/PREWRITE_ch04_draft_block.md`"*.
+> That file is absent from the working tree, absent from all 335 commits, and absent from the
+> 478-file one-home archive (whose `lan_shen_v1_epoch` holds 18 files and no draft block). It
+> most likely lived in the standalone `lan_shen` repository, deleted in the 2026-10-12
+> consolidation.
+>
+> **What this does not affect:** the shipped chapter. Chapter 4 was re-voiced from canon 006
+> directly and passed verify, style, canon_copy and banned-token. **What it does affect:** this
+> board's evidence trail — nobody can now check that a 1,894-word draft existed, or compare the
+> published chapter against the body it was rebuilt from.
+>
+> **The decision is the author's:** restore it through GitHub's deleted-repository window (which
+> closes around 2027-01-10) or amend this board to say the draft did not survive. Recorded in
+> `tools/citation_sources.json` under `known_loss`, where the audit keeps it visible rather than
+> failing forever on a finding already written down. Canon 006 ends on the
 first meditation; 007 (school door banter + office outcome chatter, future chapter) begins
 the next morning. Size band: 3,800–5,000 style words, plain register. Target ~4,300w —
 canon ~2,700 / OC ~1,400 day-parallel + ~200 close. Dialogue: canon 006 is conversation-

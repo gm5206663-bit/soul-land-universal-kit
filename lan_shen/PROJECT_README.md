@@ -161,7 +161,15 @@ sh checks/run_all.sh --quick  # skip the two selftests
 7  selftest.py          20 checks — proves every gate can fail
 8  kit selftest.py      inherited-gate regression against the vendored kit
 9  banned_token_check.py  regression tokens — values known-dead (added 2026-09-20)
+10 record_links.py        every path the 33 record files cite (added 2026-10-30)
 ```
+
+Layer 10 checks a class no prose gate can see: **a record pointing at a file that is no longer
+there.** On its first run it resolved 522 citations — 379 fine, 117 moved (it prints where),
+20 archived, 8 belonging to other repositories on the account, 7 naming unwritten chapters, and
+**one genuinely gone** (`foundation/PREWRITE_ch04_draft_block.md`). Only an *unlisted* missing file
+fails; a known loss is written down once in `tools/citation_sources.json` and printed rather than
+re-failing forever.
 
 Layer 2 returns **2**, not 0, and that is correct: `style_gate.py` is three-state
 (0 pass / 1 fail / 2 pass-with-advisory) and chapter three runs above the house word band by

@@ -326,3 +326,104 @@ says. The documentation's recovery command is correct; the checkout was not.
 `record_links.py` therefore never reports MISSING when history is unavailable — it reports
 **UNVERIFIABLE** and says why. A resolver that reads *"no history"* as *"no file"* would have marked
 478 recoverable files as lost, which is precisely the failure this pass was auditing for.
+
+---
+
+# Addendum 3 — the deadline was wrong, and the tool is what proved it
+
+**Correction to Addendum 2.** It reported **11 missing citations** and called them time-sensitive:
+
+> *"They exist nowhere in this repository's history… GitHub restores deleted repos for 90 days,
+> which closes around 2027-01-10. The only time-sensitive finding in this report."*
+
+**That was wrong.** The number is **one**, and there is no deadline attached to the other ten.
+I found this by making the tool look properly instead of by re-reading the report.
+
+## What the eleven actually were
+
+Every one was resolved individually against the live account on 2026-10-30:
+
+| citation | where it really is | verdict |
+|---|---|---|
+| `state/canon.json` | `the-universal-storyline-creation` — **4,312 B** | alive, another repo |
+| `state/laws.json` | same — **10,030 B** | alive, another repo |
+| `state/projects_registry.json` | same — **24,534 B** | alive, another repo |
+| `extract_state.py` | same, in `tools/` | alive, another repo |
+| `scripts/drift.py`, `storyos-site/scripts/drift.py` | `storyos-site` — **13,650 B** | alive, another repo |
+| `TRANSFER_BOOTSTRAP.txt` | the deleted standalone repo | **history**, not a dependency |
+| `mailmap.txt` | same | **history** |
+| `fix/RUN_ME.md` | same | **history** |
+| `foundation/PREWRITE_ch04_draft_block.md` | **nowhere** | **genuinely gone** |
+
+The eight "alive" ones are the Control Centre's and StoryOS's own files, cited from `CANON_NOTES`
+and `SERIAL_LOG` with phrases like *"per the Control Centre `state/canon.json` ring_ages table"* and
+*"it is their instrument, in their [repository]"*. **The citation was telling me where they lived.**
+I was reading a cross-repo pointer as a missing local file.
+
+The three "history" ones appear only inside `SERIAL_LOG`'s own table of *what the old standalone
+repository gave* — and the laws they carried (TWO-COPIES, the en-dash range regex, the H1-numeral
+rule, *"a number written to satisfy a check is worse than a warning left honest"*) are already
+resident in this project's own files. Nothing is owed.
+
+## The one that is truly gone
+
+**`foundation/PREWRITE_ch04_draft_block.md`** — the 1,894-word canon-006 staging draft of
+2026-09-23, named by `PREWRITE_ch04.md` as *"the raw body to re-voice and reassemble."*
+
+It is absent from the working tree, from all **335** commits, and from the 478-file one-home
+archive (whose `lan_shen_v1_epoch` holds 18 files and no draft block). It has never existed in this
+repository.
+
+- **Impact on the prose: none.** Chapter 4 was re-voiced from canon 006 directly and passed verify,
+  style, canon_copy and banned-token.
+- **Impact on the evidence trail: real.** Nobody can now check the board's claim that a 1,894-word
+  draft existed, or compare the published chapter against the body it was rebuilt from.
+
+It is recorded under `known_loss` in `tools/citation_sources.json` with the full evidence, and
+`PREWRITE_ch04.md` carries a dated banner. **The author decides:** restore it (the deleted-repository
+window still exists) or amend the board to say the draft did not survive.
+
+## What changed in the tooling
+
+`tools/record_links.py` gained three verdicts and one policy:
+
+| verdict | meaning |
+|---|---|
+| `EXTERNAL` | lives in a named sibling repo — read from `tools/citation_sources.json`, every entry with its own evidence |
+| `HISTORICAL` | a record of something deliberately gone; not a dependency |
+| `KNOWN-LOSS` | cited, genuinely gone, already written down with the decision it needs |
+
+**Policy:** a known loss is **printed, not failed**. The account's own sweep header states the
+reason — *"a weekly red badge over known findings is a badge people learn to ignore."* A gate that
+stays red forever over a finding already on paper trains people to skip the gate. New breakage still
+fails, because an unlisted missing file has no entry in the registry.
+
+## The gate is now layer 10
+
+`checks/run_all.sh` runs it with the rest of the suite:
+
+```
+  PASS  1 verify.py                RESULT: PASS
+  PASS  2 style_gate.py            RESULT: PASS (warnings)
+  PASS  3 canon_copy_check.py      RESULT: PASS — no verbatim canon copying detected.
+  PASS  4 marker-leak grep         no codex markers in any chapter
+  PASS  5 privacy grep             no personal email / token / sandbox id
+  PASS  6 build hygiene            no __pycache__ / .pyc / .bak / .DS_Store
+  PASS  7 selftest.py              RESULT: PASS — every injected defect was caught and named.
+  PASS  8 kit selftest.py
+  PASS  9 banned_token_check.py    RESULT: PASS (all findings were exempt receipts)
+  PASS  10 record_links.py         RESULT: PASS
+  ALL GREEN — 10 layers held, 0 failed
+```
+
+522 citations: **379 ok · 117 moved · 20 archived · 8 external · 8 historical · 7 planned ·
+1 known loss · 0 missing.**
+
+## Second correction, same cause
+
+Addendum 1 mis-read a codex line; Addendum 2 mis-read a citation. Both times the error was the same
+shape: **treating a number as a conclusion.** 66-to-8 measured a spelling, not a population. Eleven
+missing paths measured a search, not a loss — eight of them were never supposed to be here.
+
+The tool now encodes the difference. That is the only durable fix: not being more careful next time,
+but making the careful distinction something the machine refuses to skip.
