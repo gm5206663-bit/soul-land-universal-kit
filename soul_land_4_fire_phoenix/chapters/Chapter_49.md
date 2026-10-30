@@ -1,5 +1,8 @@
 # Chapter 49 — No Pattern Underfoot
 
+## Canon Reference: Chapters171-173 compressed; rewards, Platform explanation, Qian processing, Liu fusion/Rank29.
+> Span taken from `canon_coverage/CANON_COVERAGE_INDEX.md` — the receipt, not a memory. Canon is ore, not transcript; this chapter is ours.
+
 The pink doorway did not lead to a room.
 
 It led to a place made of light and uncertainty.

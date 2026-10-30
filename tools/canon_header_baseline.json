@@ -1,0 +1,109 @@
+{
+ "note": "Chapters that predate the canon-header rule (frozen 2026-10-30). This list may only shrink: fill the line, then drop the entry.",
+ "backlog": {
+  "Soul_Land_2_Project": [
+   "Soul_Land_2_Project/chapters/chapter_08a.md"
+  ],
+  "lan_shen": [
+   "lan_shen/chapters/Chapter_01_What_the_Master_Said.md",
+   "lan_shen/chapters/Chapter_02_The_Fifteen.md",
+   "lan_shen/chapters/Chapter_03_The_Find.md",
+   "lan_shen/chapters/Chapter_04_Bringing_Her_Home.md",
+   "lan_shen/chapters/Chapter_05_Stay_Here.md",
+   "lan_shen/chapters/Chapter_06_Gifted.md",
+   "lan_shen/chapters/Chapter_07_Fed.md",
+   "lan_shen/chapters/Chapter_08_Clean_Hands.md"
+  ],
+  "qian_xunji": [
+   "qian_xunji/chapters/Chapter_01_The_Night_After.md",
+   "qian_xunji/chapters/Chapter_02_The_Codex.md",
+   "qian_xunji/chapters/Chapter_03_The_First_Cut.md",
+   "qian_xunji/chapters/Chapter_04_The_Second_Core.md",
+   "qian_xunji/chapters/Chapter_05_The_Two_Waters.md",
+   "qian_xunji/chapters/Chapter_06_The_Colour_of_Gold.md",
+   "qian_xunji/chapters/Chapter_07_The_Cold_Broke.md",
+   "qian_xunji/chapters/Chapter_08_What_the_Sea_Sold_Cheap.md",
+   "qian_xunji/chapters/Chapter_09_The_Cold_North_Sea.md"
+  ],
+  "soul_land_1_fire_dragon_lizard": [
+   "soul_land_1_fire_dragon_lizard/chapters/Chapter_04.md",
+   "soul_land_1_fire_dragon_lizard/chapters/Chapter_05.md"
+  ],
+  "soul_land_2_the_grey_wolf": [
+   "soul_land_2_the_grey_wolf/chapters/Chapter_01_The_Grey_Wolf.md",
+   "soul_land_2_the_grey_wolf/chapters/Chapter_02_The_Quiet_Climb.md",
+   "soul_land_2_the_grey_wolf/chapters/Chapter_03_The_Wall.md",
+   "soul_land_2_the_grey_wolf/chapters/Chapter_04_The_Patient_Kind.md",
+   "soul_land_2_the_grey_wolf/chapters/Chapter_05_The_Road_Begins.md",
+   "soul_land_2_the_grey_wolf/chapters/Chapter_06_The_Hem_Road.md",
+   "soul_land_2_the_grey_wolf/chapters/Chapter_07_The_Third_Village.md",
+   "soul_land_2_the_grey_wolf/chapters/Chapter_08_Road_To_Shrek.md",
+   "soul_land_2_the_grey_wolf/chapters/Chapter_09_Shrek_City.md",
+   "soul_land_2_the_grey_wolf/chapters/Chapter_10_The_Combat_Exam.md"
+  ],
+  "soul_land_3_new": [
+   "soul_land_3_new/chapters/Chapter_01_The_Choosing.md"
+  ],
+  "soul_land_4_fire_phoenix": [
+   "soul_land_4_fire_phoenix/chapters/Chapter_01.md",
+   "soul_land_4_fire_phoenix/chapters/Chapter_02.md",
+   "soul_land_4_fire_phoenix/chapters/Chapter_03.md",
+   "soul_land_4_fire_phoenix/chapters/Chapter_32.md",
+   "soul_land_4_fire_phoenix/chapters/Chapter_33.md",
+   "soul_land_4_fire_phoenix/chapters/Chapter_34.md",
+   "soul_land_4_fire_phoenix/chapters/Chapter_35.md",
+   "soul_land_4_fire_phoenix/chapters/Chapter_43.md",
+   "soul_land_4_fire_phoenix/chapters/Chapter_44.md",
+   "soul_land_4_fire_phoenix/chapters/Chapter_45.md",
+   "soul_land_4_fire_phoenix/chapters/Chapter_46.md",
+   "soul_land_4_fire_phoenix/chapters/Chapter_52.md"
+  ],
+  "soul_land_devouring_dragon": [
+   "soul_land_devouring_dragon/chapters/Chapter_01_The_First_Hunger.md",
+   "soul_land_devouring_dragon/chapters/Chapter_02_The_Law_of_the_Snow.md",
+   "soul_land_devouring_dragon/chapters/Chapter_03_The_Ring_of_Light.md",
+   "soul_land_devouring_dragon/chapters/Chapter_04_The_Weight_of_Blood.md",
+   "soul_land_devouring_dragon/chapters/Chapter_05_The_Hunger_That_Has_No_Meal.md",
+   "soul_land_devouring_dragon/chapters/Chapter_06_Greater_Than_the_Wall.md",
+   "soul_land_devouring_dragon/chapters/Chapter_07_The_Sense_of_Years.md",
+   "soul_land_devouring_dragon/chapters/Chapter_08_The_Deep_Country.md",
+   "soul_land_devouring_dragon/chapters/Chapter_09_The_Keeping_Earned.md",
+   "soul_land_devouring_dragon/chapters/Chapter_10_The_Cold_Country.md",
+   "soul_land_devouring_dragon/chapters/Chapter_11_The_War_of_the_Lists.md",
+   "soul_land_devouring_dragon/chapters/Chapter_12_The_Bull_at_the_Water.md",
+   "soul_land_devouring_dragon/chapters/Chapter_13_The_Keepers_Line.md",
+   "soul_land_devouring_dragon/chapters/Chapter_14_The_Wrong_Face.md",
+   "soul_land_devouring_dragon/chapters/Chapter_15_The_Hounds_Third_Time.md",
+   "soul_land_devouring_dragon/chapters/Chapter_16_The_One_Print.md",
+   "soul_land_devouring_dragon/chapters/Chapter_17_The_Long_Wet.md",
+   "soul_land_devouring_dragon/chapters/Chapter_18_The_Dry_Country.md",
+   "soul_land_devouring_dragon/chapters/Chapter_19_The_North_Road.md",
+   "soul_land_devouring_dragon/chapters/Chapter_20_The_Road_Itself.md",
+   "soul_land_devouring_dragon/chapters/Chapter_21_The_Watch_and_the_Pass.md",
+   "soul_land_devouring_dragon/chapters/Chapter_22_The_Deep_Forest_Proper.md",
+   "soul_land_devouring_dragon/chapters/Chapter_23_The_Parting.md",
+   "soul_land_devouring_dragon/chapters/Chapter_24_The_Stone_Country.md"
+  ],
+  "soul_land_holy_spirit": [
+   "soul_land_holy_spirit/chapters/Chapter_01_The_Walk_In.md",
+   "soul_land_holy_spirit/chapters/Chapter_02_The_Answer.md",
+   "soul_land_holy_spirit/chapters/Chapter_03_The_Right_Way.md",
+   "soul_land_holy_spirit/chapters/Chapter_04_The_Use.md"
+  ],
+  "soul_land_new": [
+   "soul_land_new/chapters/Chapter_01.md",
+   "soul_land_new/chapters/Chapter_01_The_Grass_That_Stayed.md",
+   "soul_land_new/chapters/Chapter_02_What_the_Village_Could_Pay.md",
+   "soul_land_new/chapters/Chapter_03_The_Hands_That_Learned.md",
+   "soul_land_new/chapters/Chapter_04_The_Road_Came_Home.md",
+   "soul_land_new/chapters/Chapter_05_The_Door_in_the_Wall.md",
+   "soul_land_new/chapters/Chapter_06_The_Doors_Hinges.md"
+  ],
+  "soul_land_system_cheat": [
+   "soul_land_system_cheat/chapters/Chapter_01_The_Awakening_Day.md",
+   "soul_land_system_cheat/chapters/Chapter_02_The_Gate_at_Yunxi.md",
+   "soul_land_system_cheat/chapters/Chapter_03_The_White_Ring.md",
+   "soul_land_system_cheat/chapters/Chapter_04_The_Still_Well.md"
+  ]
+ }
+}

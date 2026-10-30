@@ -1,5 +1,8 @@
 # Chapter 42: The Pool That Lied
 
+## Canon Reference: Canon coverage used: Chapter159 `Second phase of qualifiers` and Chapter160 `Opportunity!`.
+> Promoted from this chapter's own record block, line 720 — the span is the author's sentence, not a summary. Canon is ore, not transcript; this chapter is ours.
+
 Lan Xuanyu waited for the left foot to rise.
 
 Under the Ground Fire Scarlet Dragon, waiting had its own weight. The beast's belly radiated heat above them. Each breath tasted of scorched stone. Each step shook dust into his hair and made Qian Lei's fingers tighten around his sleeve. Liu Feng held the White Dragon Spear so still that the spear looked more patient than any living person had a right to be.

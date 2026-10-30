@@ -1,5 +1,8 @@
 # Chapter 29: The Defeat He Chose
 
+## Canon Reference: SL4 Chapter 121 only, ending with Dorm333 conceding the fifth match to Liang Zheng's team and teachers sighing in relief. SL4 Chapter 122 `Try Putting
+> Promoted from this chapter's own record block, line 698 — the span is the author's sentence, not a summary. Canon is ore, not transcript; this chapter is ours.
+
 The pause was a gift.
 
 Lan Xuanyu did not trust gifts in an examination.

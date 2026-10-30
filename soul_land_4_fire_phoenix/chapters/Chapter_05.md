@@ -1,5 +1,8 @@
 # Chapter 5: The Weight Between Them
 
+## Canon Reference: SL4 Chapters 18-24 in compressed natural form: joint physical run, Ye Lingtong's first clash and injury, half-year school routine, final exam rematch
+> Promoted from this chapter's own record block, line 794 — the span is the author's sentence, not a summary. Canon is ore, not transcript; this chapter is ours.
+
 The underground field pretended to be an open sky.
 
 Yan Shuo did not trust it.

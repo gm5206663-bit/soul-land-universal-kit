@@ -100,6 +100,11 @@ if [ "$QUICK" -eq 0 ]; then
   layer "6 account control centre" "0" python3 SOUL_LAND_UNIVERSAL_KIT/tools/account.py report \
         --root . --out-prefix "${TMPDIR:-/tmp}/kit-account-report"
   layer "7 register drift"         "0" python3 tools/register_drift.py
+
+  # 8. the canon line. The author's rule: every chapter says at its head which canon chapter
+  # or episode it is built on. Read-only, and pinned to a backlog that may only shrink, so a
+  # new chapter cannot slip in without one and 82 legacy chapters do not turn the battery red.
+  layer "8 canon headers"          "0" python3 tools/canon_header.py --check
 fi
 
 echo "----------------------------------------------------------------------"

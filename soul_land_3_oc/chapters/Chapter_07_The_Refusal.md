@@ -1,5 +1,8 @@
 # Chapter 7: The Refusal
 
+## Canon Reference: SL3 ch20–ch22 (the fusion · the gold that no one sees · rank 11 · Mang Tian's four rings · the grass that …
+> Span taken from `canon_coverage/INDEX.md` — the receipt, not a memory. Canon is ore, not transcript; this chapter is ours.
+
 ## One
 
 The Su house woke before the sun did.

@@ -1,5 +1,8 @@
 # Chapter 12: The Forest That Answered
 
+## Canon Reference: SL4 Chapters 64-70 in compressed natural form: Nana's Heaven Dou teaching/Dong Qianqiu encounter, Tang Le's Heaven Luo concert arrival setup, simulati
+> Promoted from this chapter's own record block, line 904 — the span is the author's sentence, not a summary. Canon is ore, not transcript; this chapter is ours.
+
 On Heaven Dou Planet, Nana stood before a class of children who did not know what she was.
 
 That made teaching easier.

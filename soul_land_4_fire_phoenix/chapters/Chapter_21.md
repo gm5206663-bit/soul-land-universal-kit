@@ -1,5 +1,8 @@
 # Chapter 21 - The Meaning of a Plus Sign
 
+## Canon Reference: SL4 Chapters 101-102 as the main spine, with SL4 Chapter 103 used as the Maze boundary/hook.
+> Promoted from this chapter's own record block, line 992 — the span is the author's sentence, not a summary. Canon is ore, not transcript; this chapter is ours.
+
 The metal walls moved like they had all the time in the world.
 
 Lan Xuanyu planted his feet, spread his arms, and pressed both palms against the cold surface. The apparatus hummed. The teacher's warning still rang in his ears: no Soul Power, no strengthening through soul skills, only the strength of the body itself.

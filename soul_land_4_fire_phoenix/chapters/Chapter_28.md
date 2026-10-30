@@ -1,5 +1,8 @@
 # Chapter 28: The Match They Were Allowed to See
 
+## Canon Reference: SL4 Chapter 119 fully and SL4 Chapter 120 through the teachers pausing the test and showing the fourth-match video to untested teams. SL4 Chapter 121
+> Promoted from this chapter's own record block, line 774 — the span is the author's sentence, not a summary. Canon is ore, not transcript; this chapter is ours.
+
 The jade bird looked too small to make the arena afraid.
 
 That was the first lie.

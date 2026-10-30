@@ -1,5 +1,8 @@
 # Chapter 2: The House and the Road
 
+## Canon Reference: SL3 ch3–ch4 (the hundred-thousand answers · the class decision · first day · the nine ranks named)
+> Span taken from `canon_coverage/INDEX.md` — the receipt, not a memory. Canon is ore, not transcript; this chapter is ours.
+
 Tang Wulin walked out of the academy gates with two things: rank 3, and a blade of grass.
 
 The two facts would not sit next to each other in his head.

@@ -1,5 +1,8 @@
 # Chapter 24: Twenty Minutes
 
+## Canon Reference: SL4 Chapters 109-110 as the main spine, with early Chapter 111 used only as a boundary/hook through Lan Xuanyu's first space-warship simulation afterm
+> Promoted from this chapter's own record block, line 664 — the span is the author's sentence, not a summary. Canon is ore, not transcript; this chapter is ours.
+
 Lan Xuanyu stayed.
 
 The rest of the class did not leave all at once. Children rarely obeyed silence cleanly after a result like that. They moved in clusters, looking back over their shoulders, whispering even after Ji Hongbin's warning had cut the loudest questions out of the air.

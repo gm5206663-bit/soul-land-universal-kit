@@ -1,5 +1,8 @@
 # Chapter 11: The Tenth Name
 
+## Canon Reference: remaining SL4 Chapters 56-63 plus simulation-pod setup from Chapter 65 in compressed natural form: Nana's Federation/Heaven Dou investigation pressure
+> Promoted from this chapter's own record block, line 948 — the span is the author's sentence, not a summary. Canon is ore, not transcript; this chapter is ours.
+
 Nana opened the door before the bell finished ringing.
 
 Eight people stood outside the Lan apartment.

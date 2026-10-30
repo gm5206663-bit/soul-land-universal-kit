@@ -1,5 +1,8 @@
 # Chapter 9: Three Months of Quiet Fire
 
+## Canon Reference: SL4 Chapters 46-48 in compressed natural form: Ye Lingtong reporting humiliation to Ye Feng, Ye Feng suspecting Lan Xuanyu's abnormality, Valiant Drag
+> Promoted from this chapter's own record block, line 810 — the span is the author's sentence, not a summary. Canon is ore, not transcript; this chapter is ours.
+
 Ye Lingtong hated crying more than she hated losing.
 
 Crying made the inside of her nose hurt. It made words break apart before they reached the person who needed to hear them properly. It made adults use soft voices, and soft voices were sometimes worse than scolding because they made the tears think they had permission to continue.

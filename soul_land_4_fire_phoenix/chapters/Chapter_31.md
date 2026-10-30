@@ -1,5 +1,8 @@
 # Chapter 31: The Match the Board Owed
 
+## Canon Reference: NovelFull Chapter123 confirms Dorm333 beats Lu Qianxun's team through Lan's self-fusion-like colorful technique, teachers analyze it as likely Self Ma
+> Promoted from this chapter's own record block, line 857 — the span is the author's sentence, not a summary. Canon is ore, not transcript; this chapter is ours.
+
 The academy learned something uncomfortable before the children did.
 
 A result could be true and still be incomplete.

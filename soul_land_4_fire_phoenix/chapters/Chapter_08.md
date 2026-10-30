@@ -1,5 +1,8 @@
 # Chapter 8: The Bell After the Sky
 
+## Canon Reference: SL4 Chapters 41-45 in compressed natural form: Lan-family post-crisis secrecy, Nana sorting Lan Xuanyu's meridians, dark blue ring transforming into H
+> Promoted from this chapter's own record block, line 926 — the span is the author's sentence, not a summary. Canon is ore, not transcript; this chapter is ours.
+
 Lan Xiao learned that some silences were heavier than alarms.
 
 The three-day crisis had passed. Lan Xuanyu was breathing steadily in his room. The gold and silver lines were gone from his face. Nana had explained what she understood, and what she did not understand remained large enough to fill the spaces between every adult word.

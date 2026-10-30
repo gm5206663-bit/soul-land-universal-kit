@@ -1,5 +1,8 @@
 # Chapter 30: The Color Pressure Found
 
+## Canon Reference: Chapter 122 fully; Chapter 123 through Dorm333's fifth victory over Lu Qianxun's team, teacher analysis of possible Self Martial Soul Fusion technique
+> Promoted from this chapter's own record block, line 1228 — the span is the author's sentence, not a summary. Canon is ore, not transcript; this chapter is ours.
+
 Yin Tianfan did not look satisfied when children made the correct choice.
 
 He looked interested.

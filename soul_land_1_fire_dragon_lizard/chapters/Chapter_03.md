@@ -1,5 +1,8 @@
 # Chapter 3: Three Months
 
+## Canon Reference: ch2–3 span (three months, Jack
+> Span taken from `canon_coverage/CANON_COVERAGE_INDEX.md` — the receipt, not a memory. Canon is ore, not transcript; this chapter is ours.
+
 The news took four days to walk the whole village, which in Holy Spirit
 Village counted as a sprint.
 

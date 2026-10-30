@@ -1,5 +1,8 @@
 # Chapter 18: The Bright Edge
 
+## Canon Reference: SL4 Chapter 94 and SL4 Chapter 95 in compressed natural form, with SL4 Chapter 96 used only as the Teacher Ji/Ji Hongbin classroom hook.
+> Promoted from this chapter's own record block, line 860 — the span is the author's sentence, not a summary. Canon is ore, not transcript; this chapter is ours.
+
 Lan Xuanyu wanted Nana to step through the gate.
 
 The wish rose so fast that it almost had no shape. It was not a plan. It was not a calculation. It was only a child's heart recognizing a voice it had missed and reaching for it before fear, distance, or reason could catch up.

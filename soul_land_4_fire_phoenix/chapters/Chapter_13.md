@@ -1,5 +1,8 @@
 # Chapter 13: The Seat That Waited
 
+## Canon Reference: SL4 Chapters 71-81 in compressed natural form, with Chapter 82 used only as forward setup. Covered Lan Xuanyu's coma vision/instability, Tang Le sensi
+> Promoted from this chapter's own record block, line 768 — the span is the author's sentence, not a summary. Canon is ore, not transcript; this chapter is ours.
+
 The first lesson Yan Shuo learned from the Elite Junior Class was that an empty seat could be heavier than a thousand-year beast.
 
 The class did not wait to begin.

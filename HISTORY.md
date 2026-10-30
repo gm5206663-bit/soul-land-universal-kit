@@ -15,6 +15,40 @@
 
 ---
 
+## ADDITION — 2026-10-30 (even later) · the canon line at the head of every chapter
+
+The author: *"add my method of following canon and writing what chapter or episode in that chapter at
+start."* It was already the practice — 147 chapters carried a canon line — but it had never been
+written down as a rule and never been checked. Now it is both.
+
+- **`docs/CANON_METHOD.md`** — the method. The law (*canon is ore, not transcript*), the three header
+  shapes already in use (`## Canon Reference:` · `## Canon:` · `**[canon: S1 slot 1 — … (N° 101)]**`
+  for animated sources), the author's own seven steps quoted from `soul_land_3_oc/canon_coverage/INDEX.md`,
+  the standing fidelity notes, what does not count, and the current backlog.
+- **`tools/canon_header.py`** — the gate, wired in as **layer 8** of `tools/run_all.sh`. Read-only;
+  pinned to a backlog that may only shrink, so a new chapter cannot be written without a canon line and
+  82 legacy chapters do not turn the battery red.
+- **Coverage: 202 of 284 chapter files (71%).** 14 backfilled from coverage indexes, 37 promoted from
+  spans the chapters already carried 900 lines down, and **none guessed** — where a serial's records do
+  not say which chapter carries which span, the chapter stays in the backlog, listed in
+  `reports/CANON-HEADERS-TODO.md`.
+
+**Four false gaps, caught before they did damage.** `adaptive_prodigy` was first reported as having 4
+silent chapters. It does not: the house writes `canon 247` with no `ch`, and hard-wraps headers across
+several `##` lines. Both shapes are fixtures now. A false gap invites someone to "fix" a chapter that
+was already right — the same failure as a false pass, pointing the other way. Separately, an early
+extractor read *"Target canon span for Chapter 8: SL4 Chapters 41-45"* and returned **8** — the fic's
+own number, as its canon span. Ten Fire Phoenix chapters would have been labelled with themselves. That
+is why every number written is quoted from a receipt, and the receipt is named in the header.
+
+**The register caught this edit.** 51 new header blocks moved the corpus count from 1,211,566 to
+1,212,919 words, so `tools/register_drift.py` — installed the same day — went red until `REGISTER.md`
+was rebuilt. Note the count always included canon headers: the 147 that already existed were counted
+too. The measurement rule was not changed for cosmetic reasons; it was told the truth.
+
+---
+---
+
 ## ADDITION — 2026-10-30 (later the same day) · the corpus layer
 
 The conformance pass above ended with an honest limit: the battery covered **five of the fourteen**

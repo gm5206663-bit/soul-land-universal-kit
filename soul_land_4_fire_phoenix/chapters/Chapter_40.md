@@ -1,5 +1,8 @@
 # Chapter 40: The Scan Before the Roar
 
+## Canon Reference: Canon coverage used: Chapter150 `Preliminary test`, Chapter151 `Chen Yilei's curiosity`, Chapter152 `Encouragement before the qualifier`, and Chapter1
+> Promoted from this chapter's own record block, line 833 — the span is the author's sentence, not a summary. Canon is ore, not transcript; this chapter is ours.
+
 Lan Xuanyu discovered that eight hours of sleep could become a trap.
 
 When he had collapsed onto his bed the night before, he had thought eight hours sounded like mercy. Teacher Ji had said the number with a solemnity that made it seem generous. Master Yin had not appeared to steal any of those hours back for warship-control correction. Liu Feng had even kicked Qian Lei once under the table when Qian Lei tried to ask whether Lan wanted to review formation plans before sleeping.

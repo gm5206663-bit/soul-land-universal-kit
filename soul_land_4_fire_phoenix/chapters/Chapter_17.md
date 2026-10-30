@@ -1,5 +1,8 @@
 # Chapter 17: The Question at the Table
 
+## Canon Reference: SL4 Chapters 92-93 in compressed natural form, with SL4 Chapter 94 used only as the forward testing hook. Covered Nana's suspicion that the silver-gra
+> Promoted from this chapter's own record block, line 828 — the span is the author's sentence, not a summary. Canon is ore, not transcript; this chapter is ours.
+
 Lan Xuanyu had always been quiet when he decided something.
 
 That was what made it troublesome.

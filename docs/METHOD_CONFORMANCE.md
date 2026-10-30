@@ -306,3 +306,30 @@ It does not gate prose. The 70 sentences over 60 words in that account register,
 `dialogue-exempt` book, are author-facing measurements, not tool verdicts. §4 is the one place where
 a corpus measurement becomes a blocking finding, and it blocks because a written lock is being
 contradicted — not because a number looks high.
+
+---
+
+## 9. The canon line — the author's own rule, made checkable
+
+Added 2026-10-30, on the author's instruction: *"add my method of following canon and writing what
+chapter or episode in that chapter at start."*
+
+That rule was already the account's practice — 147 chapters had a canon line before this pass — but it
+had never been written down as a rule and never been checked. It is now both:
+[`docs/CANON_METHOD.md`](CANON_METHOD.md) is the method, `tools/canon_header.py` is the gate, and
+`sh tools/run_all.sh` runs it as **layer 8**.
+
+**Coverage: 202 of 284 chapter files (71%) name their canon source; 82 pinned in a backlog that may
+only shrink.** Fourteen were backfilled from coverage indexes, thirty-seven promoted from the spans the
+chapters already carried further down, and **none were guessed** — where a serial's records do not say
+which chapter carries which span, the chapter stays in the backlog. Detail in `CANON_METHOD.md` §7.
+
+Two things this pass is worth remembering for:
+
+- **A false gap is not a neutral error.** Four chapters of `adaptive_prodigy` were first reported as
+  silent. They were not: the house writes `canon 247` without the `ch`, and hard-wraps headers across
+  several `##` lines. Both shapes are now fixtures. Had this shipped, someone would have "fixed" four
+  correct chapters.
+- **The register caught the edit.** Adding 51 headers changed the corpus word count, so
+  `tools/register_drift.py` — layer 7, added the same day — went red until `REGISTER.md` was rebuilt.
+  That is same-turn state (R4) doing its job on its author, one layer after being installed.

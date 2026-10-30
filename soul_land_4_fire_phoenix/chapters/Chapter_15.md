@@ -1,5 +1,8 @@
 # Chapter 15: The First Coin
 
+## Canon Reference: SL4 Chapters 87-88 in compressed natural form, with Chapter 89 held as the next forward hook. Covered Soul World realism rules, minimum pain sensitivi
+> Promoted from this chapter's own record block, line 732 — the span is the author's sentence, not a summary. Canon is ore, not transcript; this chapter is ours.
+
 The first thing Yan Shuo smelled was dust.
 
 Not hospital antiseptic. Not cafeteria soup. Not the clean metal of Heaven Luo Academy's training field.

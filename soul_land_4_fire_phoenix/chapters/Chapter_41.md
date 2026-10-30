@@ -1,5 +1,8 @@
 # Chapter 41: No Loopholes in the Sky
 
+## Canon Reference: Canon coverage used: Chapter154 `Start of the qualifiers`, Chapter155 `Ground Fire Scarlet Dragon`, Chapter156 `Immensely pressurizing qualifier`, Cha
+> Promoted from this chapter's own record block, line 903 — the span is the author's sentence, not a summary. Canon is ore, not transcript; this chapter is ours.
+
 The claws came before the bodies.
 
 Lan Xuanyu heard them through the stone at his back: hundreds, then thousands, thin hard impacts striking the valley floor in a rhythm too chaotic to be rain and too numerous to be one beast. Dust trembled loose from the boulder beside him. Heat crawled under the rock as if the valley itself had decided to wake.

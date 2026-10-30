@@ -1,5 +1,8 @@
 # Chapter 23: Ten Seconds
 
+## Canon Reference: SL4 Chapters 106-108 as main spine, with early Chapter 109 used only as the boundary/hook up to Ji Hongbin asking Lan Xuanyu to stay after the actual
+> Promoted from this chapter's own record block, line 802 — the span is the author's sentence, not a summary. Canon is ore, not transcript; this chapter is ours.
+
 The Gate answered.
 
 It simply did not answer with a soul beast.

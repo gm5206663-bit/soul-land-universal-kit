@@ -1,5 +1,8 @@
 # Chapter 47 — Five Hundred and Five
 
+## Canon Reference: Chapter168 consumed; Lan wakes/SP505; six-team support; private teacher report.
+> Span taken from `canon_coverage/CANON_COVERAGE_INDEX.md` — the receipt, not a memory. Canon is ore, not transcript; this chapter is ours.
+
 Mu Zhongtian wanted answers.
 
 He had first place on the ranking screen, a number that made no normal sense, and two conscious members of Dorm333 standing in front of him pretending that silence was a form of student virtue.

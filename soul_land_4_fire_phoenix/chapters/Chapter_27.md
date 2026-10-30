@@ -1,5 +1,8 @@
 # Chapter 27: The Door That Chose Twice
 
+## Canon Reference: SL4 Chapter 117 fully and SL4 Chapter 118 through the Emerald Demon Bird reveal. SL4 Chapter 119 `Terrifying Emerald Demon Bird` is only the next-titl
+> Promoted from this chapter's own record block, line 636 — the span is the author's sentence, not a summary. Canon is ore, not transcript; this chapter is ours.
+
 The sound beyond the Gate of Summoning became a weight.
 
 It was not loud at first.

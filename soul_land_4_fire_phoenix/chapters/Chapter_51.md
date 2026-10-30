@@ -1,5 +1,8 @@
 # Chapter 51 — The Cost of Quiet
 
+## Canon Reference: Chapter176 consumed
+> Span taken from `canon_coverage/CANON_COVERAGE_INDEX.md` — the receipt, not a memory. Canon is ore, not transcript; this chapter is ours.
+
 Qian Lei's eyes lit as if Lan Xuanyu had handed him a treasure map.
 
 "That's right," he said. "That actually makes sense. I feel it too. When my Spiritual Power improves, summoning becomes easier. Even without your help, my summons are stronger than before now. It should be the overall increase in my cultivation."

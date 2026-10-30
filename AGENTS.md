@@ -21,6 +21,13 @@ Three rules from the guide, quoted, because they govern every change here:
    independent proof. A repository that cannot prove its own files are the files it checked cannot
    prove anything downstream.
 
+**The canon rule, in one line.** Every chapter opens with `## Canon Reference:` naming the canon
+chapter or episode it is built on and the receipt that says so — then the prose. Canon is ore, not
+transcript; the OC runs parallel and never takes a canon scene. The method, the three accepted header
+shapes (novel · short · **episode**, for animated sources), the seven steps and the current backlog are
+in [`docs/CANON_METHOD.md`](docs/CANON_METHOD.md). The gate is `tools/canon_header.py`, and it is
+pinned: a new chapter cannot be written without a canon line.
+
 The one command that runs all of it: **`sh tools/run_all.sh`** — exits 0 when everything holds.
 What it covers, and which repositories on this account still fail which rule, is measured and
 kept in [`docs/METHOD_CONFORMANCE.md`](docs/METHOD_CONFORMANCE.md).

@@ -1,5 +1,8 @@
 # Chapter 10: The Building That Held Its Breath
 
+## Canon Reference: SL4 Chapters 49-55 plus early Chapter 56 aftermath in compressed natural form: Horizon Building / World of Trampolines outing, Lan Xuanyu's unusually
+> Promoted from this chapter's own record block, line 930 — the span is the author's sentence, not a summary. Canon is ore, not transcript; this chapter is ours.
+
 Horizon Building did not look like danger from the outside.
 
 It looked like a promise made out of glass.
