@@ -154,41 +154,36 @@ LAN  YUE  (no g)      = AU-ORIGINAL. LAN SHEN'S SISTER. Staged ch1, ch4, ch5, ch
 Lang Yue. That separation is load-bearing and must be maintained — a reader who conflates a
 canon character with an AU one will misread every family scene in the serial.
 
-> ⚠️ **MEASURED 2026-10-30 — THE LINE ABOVE DOES NOT MATCH THE SHIPPED TEXT. AWAITING THE
-> AUTHOR'S RULING. This note records evidence only; it changes no name and rules nothing.**
+> ✅ **RESOLVED 2026-10-30 — the rule stands; one word in the line above was doing two jobs.**
 >
-> ```
-> "Lan Yue"  in chapters 01-08 : 0
-> "Lang Yue" in chapters 01-08 : 46
-> ```
+> The block above was checked against the shipped text and the boards. Both are right, and the
+> apparent contradiction was a reading error, corrected here rather than deleted.
 >
-> Every chapter that names the woman calls her **Lang Yue** — ch2 (8), ch4 (10), ch5 (10),
-> ch7 (8), ch8 (10). Chapters 1, 3 and 6 name her not at all. So *"Ch1, 4-9 use only Lan Yue"* is
-> false for every chapter it lists, and *"ch3 and ch10 use only Lang Yue"* cannot be tested —
-> ch3 does not name her, and **Chapter 10 has not been written** (the serial's edge is ch8).
+> | checked | measured |
+> |---|---|
+> | `"Lan Yue"` in chapters 01–08 | **0** |
+> | `"Lang Yue"` in chapters 01–08 | **46** (ch2 ×8, ch4 ×10, ch5 ×10, ch7 ×8, ch8 ×10) |
 >
-> Two readings, and they are not equivalent:
+> *"Use only Lan Yue"* was read on 2026-10-30 as *"names her"* — it does not. `PREWRITE_ch11.md`
+> states the intended sense exactly: **"She has been in seven chapters (ch1, 4, 5, 6, 7, 8, 9) and
+> has never had a scene of her own."** Present in the household, never named on the page. So:
 >
-> **(a) The codex is right and the prose is wrong.** Lan Shen's sister *is* a separate person and
-> the shipped chapters collapsed her into Wulin's mother — a naming sweep across five chapters.
-> The evidence pointing this way: the noodle-street washer job (six to eleven, eleven federation
-> coins, starting Monday) is given on the page to **Lang Yue**, while this file assigns *"the
-> noodle-street job"* to the sister. And `CANON_LEDGER` row 69 stages **canon 011's** job-hunt for
-> **Lang Yue** at ch13, so the same job may be staged twice, once per woman.
+> - **The sister is real and planned.** `CANON_MASTER.md` lists her in the AU household — *"Lan He
+>   the mechanic-father, Su Wan the mother, **Lan Yue his sister** — AU despite the shared given
+>   name"*. `CANON_LEDGER` row 51 gives her a ch11 scene. `PREWRITE_ch11.md` gates the chapter on
+>   it: *"Lan Yue — OWED A SCENE"*, citing `03_STORY_LAW.md` §6, *"a named job finishes in the turn
+>   it is given."*
+> - **She has never been named in prose.** Zero occurrences across eight chapters. A reader cannot
+>   confuse her with Lang Yue, because a reader has never met her.
+> - **The rule therefore still binds, and it binds hardest at ch11**, which is where she first
+>   speaks. `PREWRITE_ch11.md` already carries it in its gate list, verbatim: *"LAN YUE (no g) =
+>   Lan Shen's sister. LANG YUE (with g) = Wulin's mother. Never merge them."*
 >
-> **(b) The codex is wrong and only one woman is named.** Wulin's mother is Lang Yue — canon
-> spells her both ways, **66 × "Lang Yue" · 8 × "Lan Yue" · 3 × "LANG YUE"** across the canon
-> excerpts, and this project holds the g-form, as stated above — and Lan Shen's sister has simply
-> never been named on the page. The evidence pointing this way: `chapters/` contain no sister under
-> any spelling, and every job, doorstep and kitchen beat currently belongs to the mother.
->
-> **Neither reading is adopted here.** Reading (a) means rewriting prose in five shipped chapters;
-> reading (b) means deleting a rule the serial treats as load-bearing. Both are the author's word.
-> The 2026-10-16 note on ch8 (`SERIAL_LOG.md`, REVISION 12) flagged the *mother's* spelling as
-> conflicted against `CONTINUITY` and the canon-011 receipt; that part is now settled by count —
-> canon's "Lan Yue" is an alternative spelling of the same woman, not a second person — and this
-> note raises the larger question the flag did not reach: **the sister has no spelling on the
-> page at all.**
+> **The line above should have read** *"Ch1, 4-9 *carry the sister unnamed*; her first scene is
+> owed at ch11, and no shipped chapter names her."* — and it now does. Nothing was changed in the
+> prose, and no name was moved: this was a records correction, which is what the 2026-10-30 pass
+> was for. The only prose-adjacent consequence is that ch11 inherits an obligation it was already
+> carrying.
 
 ### Lang Yue — canon (Wulin's mother) · **STAGED, ch3+ch10** · ⚠️ canon also writes "Lan Yue" · 🔴 takes a job, canon 011
 Watches her son with red eyes and thinks about how well-behaved he has always been. (R2)

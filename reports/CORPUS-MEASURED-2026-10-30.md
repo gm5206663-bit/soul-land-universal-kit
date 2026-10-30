@@ -227,3 +227,102 @@ carries none. Still the author's call, still `QE_ENFORCE = "warn"`.
 **A count can be right and the conclusion still wrong.** 66-to-8 was a true measurement of the wrong
 question: *how does canon spell one woman's name* is not *how many women are named*. The codex was
 the only file that could tell the difference, and it was one line I had not read yet.
+
+---
+
+# Addendum 2 — going deeper: the sister, the citation audit, and one claim I retracted
+
+## 1 · The two-character question is closed — and I owe a retraction
+
+Addendum 1 reported, with a table, that `codex/CHARACTERS.md`'s rule *"Ch1, 4-9 use only Lan Yue"*
+is **"false for every chapter it lists"** because the shipped chapters measure `"Lan Yue"` **0** and
+`"Lang Yue"` **46**.
+
+**That was an over-read, and it is retracted.** `"Use"` never meant `"name"`. The prewrite board
+states the intended sense exactly:
+
+> `PREWRITE_ch11.md` — *"She has been in seven chapters (ch1, 4, 5, 6, 7, 8, 9) and has never had a
+> scene of her own."*
+
+The sister is **present in the household and unnamed on the page**. Zero occurrences is not
+evidence against her existence — it is the condition the board describes. And her first scene is
+owed at **ch11**, which is unwritten, so the plan is intact and nothing is late.
+
+The rule stands, unchanged, and it binds hardest exactly where she first speaks.
+`PREWRITE_ch11.md` already carries it in its own gate list, verbatim. **No prose was touched.**
+
+The codex now says what it meant, with the measurement beside it. REVISION 15 records both the
+finding and the retraction **in the same place**, because an over-read published as a defect makes
+the records less trustworthy than the error it was chasing.
+
+## 2 · Two record defects the deeper pass did find
+
+**`CONTINUITY.md` named the wrong woman.** Its firewall note read *"Lan Yue washes dishes on the
+noodle street (ch5, ch8), eleven copper a day"* — but the washer job is **Lang Yue's**, given on
+the page in ch8 and canon 011's own beat (*"Next week I'll go into town and find work… I've found
+one"*). The note credited it to the sister. Corrected in place, with a dated banner rather than a
+silent edit.
+
+**`CANON_LEDGER` row 69 calls canon 011 "held exactly" at ch13 — but ch8 already spent it.**
+Lang Yue finds the job on the page: eleven federation coins, six to eleven, starting Monday. The
+dye house at ch13 is therefore either a **second** job (a butterfly — canon's search resolves in a
+day, the serial keeps her hunting) or the same beat staged twice. Flagged **SPENT EARLY**, left for
+the board. It is the defect class this ledger already names for *"Lin Lin"* in row 74.
+
+## 3 · The citation audit — 522 paths, five verdicts
+
+No gate had ever checked whether the files the records cite still exist. `lan_shen/tools/record_links.py`
+now does, across all 33 record files:
+
+| verdict | count | meaning |
+|---|---:|---|
+| **OK** | 371 | resolves where cited |
+| **MOVED** | 117 | exists elsewhere in the kit — prints the real path |
+| **ARCHIVED** | 23 | in the one-home archive in history — recoverable by `git show` |
+| **PLANNED** | 7 | names a chapter not yet written — a plan, not a citation |
+| **EXTERNAL** | 2 | `storyos-site/scripts/drift.py` — a real file, in another repository |
+| **DELETED** | 1 | was here, removed, recoverable from history |
+| **MISSING** | **11** | *nowhere* |
+
+Every class is a pass except MISSING, and the tool's selftest proves all six can be told apart:
+a moved file, a planned chapter, an archived one, a deleted one, a missing one, and — the case that
+matters most — **no history at all**.
+
+### The 11 missing, and their deadline
+
+`state/canon.json` · `state/laws.json` · `state/projects_registry.json` · `TRANSFER_BOOTSTRAP.txt` ·
+`extract_state.py` · `mailmap.txt` · `fix/RUN_ME.md` · `foundation/PREWRITE_ch04_draft_block.md` ·
+`scripts/drift.py`.
+
+These are cited by `SERIAL_LOG` and `CANON_NOTES` and exist **nowhere in this repository's history**
+— they belonged to the standalone `lan_shen` repository, which was deleted in the 2026-10-12
+consolidation. GitHub's restore window for a deleted repository is **90 days**, which closes
+**around 2027-01-10**. After that they are gone, and the citations point at nothing permanently.
+
+**This is the only time-sensitive finding in the report.** If those state files matter, they should
+be pulled back through GitHub's restore before that date. If they don't, the records should say so.
+
+## 4 · The trap that nearly produced a false alarm
+
+Mid-investigation I concluded that **`_archive/v1_epoch_ch01-15/` — where V2_EPOCH.md says V1's
+15 chapters and 72,577 words were "archived, not deleted" — had never existed**, and that
+`_archive/2026-10-12_one-home/` (478 files) was equally absent. Both lookups failed. Both
+conclusions were wrong, and the cause was one word: **shallow**.
+
+This workspace clones `--depth 1`. On a shallow checkout `git log` reports **1 commit** and
+`9379d40` is simply an unknown object, so **every recovery instruction in this repository reads as
+false**. `git fetch --unshallow` took the history to **333 commits**, and then:
+
+```
+$ git ls-tree -r --name-only 9379d40^ -- _archive/2026-10-12_one-home/ | wc -l
+478
+$ ... | grep v1_epoch
+_archive/2026-10-12_one-home/lan_shen_v1_epoch/v1_epoch_ch01-15/Chapter_05_The_Better_Version.md
+```
+
+**Nothing is lost.** V1's chapters are there, under a path one level deeper than `V2_EPOCH.md`
+says. The documentation's recovery command is correct; the checkout was not.
+
+`record_links.py` therefore never reports MISSING when history is unavailable — it reports
+**UNVERIFIABLE** and says why. A resolver that reads *"no history"* as *"no file"* would have marked
+478 recoverable files as lost, which is precisely the failure this pass was auditing for.

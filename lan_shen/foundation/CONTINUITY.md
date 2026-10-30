@@ -380,7 +380,13 @@ except four.** Two were serious enough to have shipped:
   passage about minutes, the bare number silently converted the motif and destroyed it.
 - 🔴 **A KNOWLEDGE-FIREWALL BREACH.** Lin Ximeng's italic section had him recalling *"the week
   his sister started work at the harbour."* He has no route to that fact — and the fact was
-  wrong anyway: Lan Yue washes dishes on the noodle street (ch5, ch8), eleven copper a day.
+  wrong anyway: **Lang Yue** washes dishes on the noodle street (ch8), eleven federation coins a
+  day. ⚠ **Name corrected 2026-10-30:** this note said *"Lan Yue"*, which is the **sister** and a
+  different person — `codex/CHARACTERS.md` holds the two-character rule. The washer job is canon
+  011's, given on the page to Tang Wulin's mother, and `CANON_NOTES` reproduces canon 011's own
+  sentence (*"Next week I'll go into town and find work… I've found one"*) under the heading *LAN
+  YUE GETS A JOB*, where "Lan Yue" is canon's alternative spelling of that same woman. The sister
+  has never been named in prose at all.
   Replaced with what a man in a doorway can actually see: *"the week the boy had a cold."*
 
 🔴 **Lesson banked: an Other-POV section is a firewall audit, not a stylistic choice.** Every
