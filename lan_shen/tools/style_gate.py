@@ -151,7 +151,7 @@ def gate(path):
     n_words = len(words)
 
     # 1. dialogue dial ─────────────────────────────────────────────────────────
-    dlgs = re.findall(r'"([^"\n]+)"', prose)
+    dlgs = re.findall(r'"([^"]+)"', prose, flags=re.S)
     n_dlg = len(dlgs)
     dlg_words = sum(len(d.split()) for d in dlgs)
     pct = 100.0 * dlg_words / n_words if n_words else 0.0
@@ -271,7 +271,7 @@ def gate(path):
             fails.append(f"banned abstract-cliff register: {t!r}")
 
     # 5b. the zero ?/! law, measured on narration only ─────────────────────────
-    narr = re.sub(r'"[^"\n]*"', "", prose)
+    narr = re.sub(r'"[^"]*"', "", prose, flags=re.S)
     q_n, bang_n = narr.count("?"), narr.count("!")
     if q_n or bang_n:
         msg = (f"?/! IN NARRATION: {q_n} '?' and {bang_n} '!' outside quotation marks "
